@@ -29,7 +29,7 @@ LOG_DIR = Path(__file__).parent.parent.parent / "logs"
 LOG_FILE = LOG_DIR / "protect_files.log"
 
 # Protected file
-PROTECTED_FILE = "urdutranslations.csv"
+# PROTECTED_FILE = "urdutranslations.csv"
 
 # Protected directory (relative to project root)
 PROTECTED_DIR = "AlBayan/AlBayan/Data"
@@ -109,7 +109,7 @@ def matches_protected_dir(arg: str) -> tuple[bool, str]:
     # Check for parent directory deletions that would include protected dir
     protected_parts = PROTECTED_DIR.split("/")
     for i in range(len(protected_parts)):
-        parent = "/".join(protected_parts[:i+1])
+        parent = "/".join(protected_parts[: i + 1])
         if arg_normalized == parent or arg_normalized == f"./{parent}":
             return True, parent
 
@@ -186,7 +186,7 @@ def is_dangerous_git_checkout(args: list) -> tuple[bool, str]:
     if has_double_dash:
         # Everything after -- is a file path
         dash_idx = args.index("--")
-        files = args[dash_idx + 1:]
+        files = args[dash_idx + 1 :]
         for f in files:
             if matches_protected_file(f):
                 return True, PROTECTED_FILE
@@ -260,11 +260,11 @@ def is_dangerous_python_script(args: list) -> tuple[bool, str]:
 
         # Check for references to protected directory (various forms)
         protected_patterns = [
-            PROTECTED_DIR,                           # AlBayan/AlBayan/Data
-            PROTECTED_DIR.replace("/", "\\"),        # Windows paths
-            f"/{PROTECTED_DIR}/",                    # Absolute path fragment
-            "/AlBayan/Data/",                      # Partial path
-            "AlBayan/Data/",                       # Relative
+            PROTECTED_DIR,  # AlBayan/AlBayan/Data
+            PROTECTED_DIR.replace("/", "\\"),  # Windows paths
+            f"/{PROTECTED_DIR}/",  # Absolute path fragment
+            "/AlBayan/Data/",  # Partial path
+            "AlBayan/Data/",  # Relative
         ]
 
         for pattern in protected_patterns:
@@ -344,7 +344,7 @@ def analyze_command(command: str) -> tuple[bool, str]:
     # Try to parse the command
     try:
         # Handle shell operators by looking at each part
-        parts = re.split(r'[;&|]', command)
+        parts = re.split(r"[;&|]", command)
 
         for part in parts:
             part = part.strip()

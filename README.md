@@ -1,12 +1,12 @@
-# Thaqalyn Data Generation
+# AlBayan Data Generation
 
-Scripts to generate the complete offline dataset for the Thaqalyn iOS app.
+Scripts to generate the complete offline dataset for the AlBayan iOS app.
 
 ## Overview
 
 This generates:
 - Complete Quran data (6,236 verses across 114 surahs)
-- 4-layer AI-generated Shia tafsir using DeepSeek
+- 3-layer AI-generated Sunni tafsir using DeepSeek
 - JSON files ready for iOS app integration
 
 ## Setup
@@ -47,12 +47,11 @@ Choose:
 
 ## Tafsir Layers
 
-Each verse gets 4 layers of commentary:
+Each verse gets 3 layers of commentary:
 
 1. **Foundation (🏛️)** - Simple explanations, historical context
-2. **Classical Shia (📚)** - Tabatabai, Tabrisi perspectives  
+2. **Classical Sunni (📚)** - Tabari, Ibn Kathir perspectives
 3. **Contemporary (🌍)** - Modern scholars, scientific insights
-4. **Ahlul Bayt (⭐)** - Hadith, theological concepts, spiritual guidance
 
 ## Cost & Time
 

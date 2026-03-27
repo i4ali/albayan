@@ -20,7 +20,7 @@ struct TafsirSourcesView: View {
                 ScrollView {
                     VStack(alignment: .leading, spacing: 24) {
                         // Introduction
-                        Text("The commentary in this app draws from classical and contemporary Shia scholarship. Below are the primary sources referenced for each layer.")
+                        Text("The commentary in this app draws from classical and contemporary Sunni scholarship. Below are the primary sources referenced for each layer.")
                             .font(.system(size: 15, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                             .padding(.horizontal, 20)
@@ -33,19 +33,21 @@ struct TafsirSourcesView: View {
                             iconColor: .blue,
                             sources: [
                                 SourceItem(title: "General Islamic Scholarship", subtitle: "Historical context and foundational understanding"),
-                                SourceItem(title: "Classical Tafsir Methodology", subtitle: "Traditional exegetical approaches")
+                                SourceItem(title: "Classical Tafsir Methodology", subtitle: "Traditional exegetical approaches"),
+                                SourceItem(title: "Tafsir al-Jalalayn", subtitle: "Al-Mahalli and al-Suyuti")
                             ]
                         )
 
-                        // Layer 2 - Classical Shia
+                        // Layer 2 - Classical Sunni
                         SourceSection(
                             icon: "books.vertical.fill",
-                            title: "Classical Shia",
+                            title: "Classical Sunni",
                             iconColor: .purple,
                             sources: [
-                                SourceItem(title: "Tafsir al-Mizan", subtitle: "Allama Muhammad Husayn Tabatabai"),
-                                SourceItem(title: "Majma' al-Bayan", subtitle: "Sheikh Abu Ali al-Fadl al-Tabrisi"),
-                                SourceItem(title: "Sharh al-Lum'a", subtitle: "Classical jurisprudential commentary")
+                                SourceItem(title: "Jami al-Bayan", subtitle: "Imam al-Tabari"),
+                                SourceItem(title: "Tafsir al-Quran al-Azim", subtitle: "Ibn Kathir"),
+                                SourceItem(title: "Al-Jami li-Ahkam al-Quran", subtitle: "Imam al-Qurtubi"),
+                                SourceItem(title: "Mafatih al-Ghayb", subtitle: "Fakhr al-Din al-Razi")
                             ]
                         )
 
@@ -55,34 +57,10 @@ struct TafsirSourcesView: View {
                             title: "Contemporary",
                             iconColor: .green,
                             sources: [
-                                SourceItem(title: "Ayatollah Naser Makarem Shirazi", subtitle: "Contemporary Shia scholar"),
-                                SourceItem(title: "Sheikh Mansour Leghaei", subtitle: "Islamic educator and author"),
-                                SourceItem(title: "Dr. Reza Shah-Kazemi", subtitle: "Islamic philosopher and author")
-                            ]
-                        )
-
-                        // Layer 4 - Ahlul Bayt
-                        SourceSection(
-                            icon: "star.fill",
-                            title: "Ahlul Bayt",
-                            iconColor: .yellow,
-                            sources: [
-                                SourceItem(title: "Al-Kafi", subtitle: "Sheikh al-Kulayni"),
-                                SourceItem(title: "Bihar al-Anwar", subtitle: "Allama Muhammad Baqir al-Majlisi"),
-                                SourceItem(title: "Tafsir al-Qummi", subtitle: "Ali ibn Ibrahim al-Qummi"),
-                                SourceItem(title: "Tafsir al-Ayyashi", subtitle: "Muhammad ibn Mas'ud al-Ayyashi"),
-                                SourceItem(title: "Al-Sahifa al-Sajjadiyya", subtitle: "Imam Ali Zayn al-Abidin")
-                            ]
-                        )
-
-                        // Layer 5 - Comparative
-                        SourceSection(
-                            icon: "scale.3d",
-                            title: "Comparative",
-                            iconColor: .orange,
-                            sources: [
-                                SourceItem(title: "Classical Sunni Tafsir Traditions", subtitle: "For comparative scholarly analysis"),
-                                SourceItem(title: "Shia-Sunni Scholarly Dialogue", subtitle: "Balanced academic perspectives")
+                                SourceItem(title: "Fi Zilal al-Quran", subtitle: "Sayyid Qutb"),
+                                SourceItem(title: "Al-Tafsir al-Munir", subtitle: "Wahbah al-Zuhayli"),
+                                SourceItem(title: "Ibn Uthaymeen", subtitle: "Contemporary Sunni scholar"),
+                                SourceItem(title: "Muhammad al-Sha'rawi", subtitle: "Contemporary Sunni scholar")
                             ]
                         )
                     }

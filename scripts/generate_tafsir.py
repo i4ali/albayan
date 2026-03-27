@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Generate comprehensive Shia tafsir for all Quran verses using DeepSeek
-Creates 4 layers of commentary for each verse
+Generate comprehensive Sunni tafsir for all Quran verses using DeepSeek
+Creates 3 layers of commentary for each verse
 """
 
 import json
@@ -47,162 +47,8 @@ class TafsirGenerator:
             return False
     
     def get_layer_prompts(self) -> Dict[int, str]:
-        """Define the 5 specialized prompt templates for each tafsir layer"""
-        return {
-            1: """You are a Shia Islamic scholar providing foundational commentary on Quranic verses.
-
-VERSE CONTEXT:
-Surah: {surah_name} (Surah {surah_number})
-Verse: {ayah_number}
-Arabic: {arabic_text}
-Translation: {translation}
-
-TASK: 
-IMPORTANT: First, perform a web search to gather authentic foundational Shia tafsir, historical context, and explanations of key terms for this verse. 
-
-Based on your search, provide foundational commentary that explains this verse in clear, accessible language for all Muslims. Focus on basic understanding, historical background, key Arabic terms, and practical modern applications.
-
-Write a flowing commentary of 150-250 words that covers:
-- Clear explanation of the verse's meaning
-- Historical context or circumstances of revelation
-- Important Arabic words and their significance  
-- How this verse applies to contemporary Muslim life
-
-FORMATTING REQUIREMENTS:
-- Write in flowing paragraphs, not sections
-- Use clean, natural prose
-- No bullet points, numbers, or markdown formatting
-- Include Arabic terms naturally within sentences
-- Use simple English spellings for all Arabic names and terms (Ali not ʿAlī, Tabatabai not Ṭabāṭabāʾī, Bismillah not Bismillāh)
-- Make it accessible and practical
-
-COMMENTARY:""",
-
-            2: """You are a classical Shia Islamic scholar drawing from traditional sources like Al-Mizan and Majma al-Bayan.
-
-VERSE CONTEXT:
-Surah: {surah_name} (Surah {surah_number})
-Verse: {ayah_number}
-Arabic: {arabic_text}
-Translation: {translation}
-
-TASK: 
-IMPORTANT: First, perform a web search to retrieve commentary on this verse from classical Shia sources like Tabatabai's Al-Mizan, Tabrisi's Majma al-Bayan, and other traditional tafsirs.
-
-Based on your search, provide classical Shia scholarly interpretation. Focus on theological depth and established scholarly consensus.
-
-Write a scholarly commentary of 150-250 words that includes:
-- Classical Shia interpretations and scholarly insights
-- References to established commentators when relevant
-- Theological concepts unique to Shia understanding
-- Connection to broader Islamic jurisprudence and doctrine
-
-FORMATTING REQUIREMENTS:
-- Write in scholarly prose appropriate for serious students
-- Reference classical sources naturally within text
-- No bullet points, numbers, or markdown formatting
-- Use simple English spellings for all Arabic names and terms (Tabatabai not Ṭabāṭabāʾī, Tabrisi not Ṭabrisī, Jafar not Jaʿfar)
-- Maintain academic tone while being readable
-
-COMMENTARY:""",
-
-            3: """You are a contemporary Shia Islamic scholar engaging with modern insights and current scholarship.
-
-VERSE CONTEXT:
-Surah: {surah_name} (Surah {surah_number})
-Verse: {ayah_number}
-Arabic: {arabic_text}
-Translation: {translation}
-
-TASK: 
-IMPORTANT: First, perform a web search for contemporary Shia scholarly interpretations of this verse, including relevant scientific, social, or philosophical discussions from modern sources.
-
-Based on your search, provide contemporary interpretation that bridges classical wisdom with modern understanding. Draw from current Shia scholars, scientific insights where relevant, and address contemporary social issues and challenges.
-
-Write a modern commentary of 150-250 words that explores:
-- How contemporary scholars interpret this verse
-- Scientific, social, or philosophical insights that illuminate the text
-- Relevance to current global issues and challenges
-- Interfaith and multicultural perspectives where appropriate
-
-FORMATTING REQUIREMENTS:
-- Write in contemporary, engaging prose
-- Include modern scholarly references naturally
-- Address current issues and applications
-- Use simple English spellings for all Arabic names and terms (Bismillah not Bismillāh, Rahman not Raḥmān)
-- No bullet points, numbers, or markdown formatting
-
-COMMENTARY:""",
-
-            4: """You are a specialist in the teachings of the Ahlul Bayt (عليهم السلام) - the 14 Infallibles.
-
-VERSE CONTEXT:
-Surah: {surah_name} (Surah {surah_number})
-Verse: {ayah_number}
-Arabic: {arabic_text}
-Translation: {translation}
-
-TASK: 
-IMPORTANT: First, perform a web search to find hadith from the Ahlul Bayt (peace be upon them) and related Shia commentary that explains this verse's deeper, spiritual meaning.
-
-Based on your search, provide commentary focused specifically on the wisdom and teachings of the Ahlul Bayt. Include relevant hadith, spiritual insights, and unique Shia theological concepts like Wilayah and Imamah when applicable.
-
-Write a spiritually-focused commentary of 150-250 words that emphasizes:
-- Specific teachings from the Prophet, Imams, or Lady Fatima (peace be upon them)
-- Relevant hadith that illuminate this verse's deeper meaning
-- Unique Shia spiritual and theological concepts
-- Practical guidance for spiritual development and religious practice
-
-FORMATTING REQUIREMENTS:
-- Write with reverence and spiritual depth
-- Include hadith and quotes naturally within text
-- Focus on practical spiritual guidance
-- Use simple English spellings for all Arabic names and terms (Ali not ʿAlī, Fatimah not Fāṭimah, Muhammad not Muḥammad)
-- No bullet points, numbers, or markdown formatting
-
-COMMENTARY:""",
-
-            5: """You are a comparative Islamic scholar specializing in Shia and Sunni tafsir traditions.
-
-VERSE CONTEXT:
-Surah: {surah_name} (Surah {surah_number})
-Verse: {ayah_number}
-Arabic: {arabic_text}
-Translation: {translation}
-
-TASK: 
-IMPORTANT: First, perform a web search to gather commentary on this verse from both highly regarded Shia and Sunni scholarly sources.
-
-Based on your search, provide a respectful comparative analysis that highlights both convergences and divergences between Shia and Sunni interpretations. Focus on scholarly discourse while avoiding sectarian controversy.
-
-SHIA SOURCES TO REFERENCE:
-- Tabatabai's Al-Mizan fi Tafsir al-Quran
-- Tabrisi's Majma al-Bayan fi Tafsir al-Quran  
-- Qummi's Tafsir al-Qummi
-- Tusi's At-Tibyan fi Tafsir al-Quran
-
-SUNNI SOURCES TO REFERENCE:
-- Tabari's Jami al-Bayan an Ta'wil Ay al-Quran
-- Ibn Kathir's Tafsir al-Quran al-Azim
-- Qurtubi's Al-Jami li-Ahkam al-Quran
-- Razi's Mafatih al-Ghayb
-
-Write a balanced scholarly commentary of 150-250 words that covers:
-- Areas of scholarly consensus between traditions
-- Key interpretive differences and their theological foundations
-- How different understandings affect religious practice or belief
-- Historical context for why divergent interpretations emerged
-
-FORMATTING REQUIREMENTS:
-- Maintain respectful, academic tone throughout
-- Present both perspectives fairly and objectively
-- Reference sources naturally within text
-- Use simple English spellings for all Arabic names and terms
-- No bullet points, numbers, or markdown formatting
-- Focus on scholarly discourse, not sectarian debate
-
-COMMENTARY:"""
-        }
+        """Define the 3 specialized prompt templates for each Sunni tafsir layer"""
+        return self.get_layer_prompts_sunni()
 
     def get_layer_prompts_sunni(self) -> Dict[int, str]:
         """Define the 4 specialized prompt templates for each Sunni tafsir layer"""
@@ -351,7 +197,7 @@ COMMENTARY:"""
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
-                    {"role": "system", "content": "You are an expert Shia Islamic scholar with deep knowledge of Quranic commentary, classical tafsir, and the teachings of the Ahlul Bayt."},
+                    {"role": "system", "content": "You are an expert Sunni Islamic scholar with deep knowledge of Quranic commentary, classical tafsir, and the Prophetic traditions."},
                     {"role": "user", "content": prompt}
                 ],
                 max_tokens=1500,
@@ -367,7 +213,7 @@ COMMENTARY:"""
             self.generated_count += 1
             
             # Progress indicator
-            progress = (self.generated_count / (self.total_verses * 5)) * 100
+            progress = (self.generated_count / (self.total_verses * 3)) * 100
             print(f"Generated {surah_num}:{ayah_num} Layer {layer} ({progress:.1f}% complete)")
             
             return commentary
@@ -418,18 +264,18 @@ COMMENTARY:"""
         return cleaned_text.strip()
     
     def generate_surah_tafsir(self, surah_num: int) -> Dict[str, Dict[str, str]]:
-        """Generate all 4 layers of tafsir for a complete surah"""
+        """Generate all 3 layers of tafsir for a complete surah"""
         print(f"\nGenerating tafsir for Surah {surah_num}...")
-        
+
         surah_tafsir = {}
         surah_verses = self.quran_data["verses"][str(surah_num)]
-        
+
         for ayah_num_str in surah_verses.keys():
             ayah_num = int(ayah_num_str)
             surah_tafsir[ayah_num_str] = {}
-            
-            # Generate all 5 layers for this verse
-            for layer in range(1, 6):
+
+            # Generate all 3 layers for this verse
+            for layer in range(1, 4):
                 commentary = self.generate_layer_commentary(surah_num, ayah_num, layer)
                 if commentary:
                     surah_tafsir[ayah_num_str][f"layer{layer}"] = commentary
@@ -495,7 +341,7 @@ COMMENTARY:"""
         print(f"Ready for iOS app integration!")
 
 def main():
-    print("=== Thaqalyn Tafsir Generator ===\n")
+    print("=== AlBayan Tafsir Generator ===\n")
     
     # Load environment variables
     from dotenv import load_dotenv

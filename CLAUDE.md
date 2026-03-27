@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-AlBayan is a Shia Islamic Quranic commentary iOS app with an offline-first architecture.
+AlBayan is a Sunni Islamic Quranic commentary iOS app with an offline-first architecture.
 
 ## Architecture
 
@@ -13,11 +13,10 @@ AlBayan is a Shia Islamic Quranic commentary iOS app with an offline-first archi
 Al-Quran Cloud API → Python Scripts → JSON Files → iOS App Bundle → SwiftUI Views
 ```
 
-### Four-Layer Tafsir System
+### Three-Layer Tafsir System
 1. **Foundation Layer** - Simple explanations, historical context, asbab al-nuzul (🏛️)
 2. **Classical Sunni Layer** - Tabari, Ibn Kathir perspectives (📚)
 3. **Contemporary Layer** - Modern Sunni scholars, scientific insights (🌍)
-4. **Comparative Layer** - Balanced analysis across four madhabs (⚖️)
 
 ### Key Data Structures
 ```swift
@@ -86,7 +85,7 @@ AlBayan/
 │   ├── Onboarding/                # Onboarding flow (11 screens)
 │   │   └── OnboardingFlowView.swift
 │   ├── SurahDetailView.swift      # Verse detail with audio controls
-│   ├── FullScreenCommentaryView.swift  # 5-layer tafsir display
+│   ├── FullScreenCommentaryView.swift  # 3-layer tafsir display
 │   ├── BookmarksView.swift        # Bookmark management
 │   ├── SettingsView.swift         # Centralized app settings
 │   ├── QuizView.swift             # Interactive quizzes
