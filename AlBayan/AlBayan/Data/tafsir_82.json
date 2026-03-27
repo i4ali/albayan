@@ -1,0 +1,1101 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:1:cosmic-collapse",
+          "title": "Cosmic Collapse",
+          "icon": "sparkles",
+          "colorHex": "#E57373",
+          "coreInsight": "The splitting of the heavens marks the dramatic end of the cosmic order as we know it. This vivid imagery signals the transition from this temporal world to the eternal realm of accountability.",
+          "whyItMatters": "Understanding that the universe itself is temporary helps us prioritize eternal values over worldly attachments and live with awareness of ultimate accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلسَّمَآءُ ٱنفَطَرَتْ",
+          "title_urdu": "کائناتی انہدام",
+          "coreInsight_urdu": "آسمانوں کا پھٹنا اس کائناتی نظام کے ڈرامائی اختتام کی نشاندہی کرتا ہے۔ یہ واضح منظر اس عارضی دنیا سے جوابدہی کے ابدی دائرے میں منتقلی کا اشارہ ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ کائنات خود عارضی ہے، ہمیں دنیاوی تعلقات پر ابدی اقدار کو ترجیح دینے میں مدد کرتا ہے۔",
+          "title_ar": "الانهيار الكوني",
+          "coreInsight_ar": "انشقاق السماء يشير إلى النهاية الدرامية للنظام الكوني كما نعرفه. هذه الصورة الحية تشير إلى الانتقال من هذا العالم الزمني إلى عالم المساءلة الأبدي.",
+          "whyItMatters_ar": "فهم أن الكون نفسه مؤقت يساعدنا على إعطاء الأولوية للقيم الأبدية على التعلقات الدنيوية."
+        },
+        {
+          "id": "82:1:divine-decree",
+          "title": "Divine Command",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The passive verb form indicates that this cosmic event occurs by divine decree, not natural evolution. Allah's command will instantly transform reality.",
+          "whyItMatters": "Recognizing Allah's absolute power over creation reminds us that He can change our circumstances instantly, encouraging both hope in difficulty and humility in ease.",
+          "position": "topRight",
+          "arabicHighlight": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+          "title_urdu": "حکم الٰہی",
+          "coreInsight_urdu": "یہ کائناتی واقعہ الہی حکم سے واقع ہوتا ہے۔ اللہ کا حکم فوری طور پر حقیقت کو تبدیل کر دے گا۔",
+          "whyItMatters_urdu": "اللہ کی مخلوق پر مطلق قدرت کو تسلیم کرنا مشکل میں امید اور آسانی میں عاجزی کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "الأمر الإلهي",
+          "coreInsight_ar": "الصيغة المبنية للمجهول تشير إلى أن هذا الحدث الكوني يحدث بأمر إلهي. أمر الله سيحول الواقع فورًا.",
+          "whyItMatters_ar": "إدراك قدرة الله المطلقة يذكرنا بأنه يمكنه تغيير ظروفنا فورًا."
+        },
+        {
+          "id": "82:1:temporal-marker",
+          "title": "The Moment Arrives",
+          "icon": "clock.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The conditional word 'إِذَا' (when) emphasizes the certainty of this event - not 'if' but 'when'. The Day of Judgment is an inevitable reality.",
+          "whyItMatters": "Living with certainty about the afterlife transforms our daily choices, motivating us to align our actions with eternal consequences.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِذَا",
+          "title_urdu": "لمحہ آ پہنچا",
+          "coreInsight_urdu": "شرطیہ لفظ 'إِذَا' اس واقعے کی یقینیت پر زور دیتا ہے۔ روز جزا ایک ناگزیر حقیقت ہے۔",
+          "whyItMatters_urdu": "آخرت کے بارے میں یقین کے ساتھ زندگی گزارنا ہمارے روزانہ کے انتخاب کو تبدیل کر دیتا ہے۔",
+          "title_ar": "اللحظة تصل",
+          "coreInsight_ar": "الكلمة الشرطية 'إِذَا' تؤكد على يقين هذا الحدث. يوم القيامة واقع حتمي.",
+          "whyItMatters_ar": "العيش بيقين الآخرة يحول خياراتنا اليومية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree on the basic meaning of this verse describing the splitting of the sky on the Day of Judgment. Classical Sunni scholars like Ibn Kathir and Tabari describe this as the heavens being torn apart by Allah's command, while Shia scholars like Tabatabai and Tabrisi emphasize the transition from the material to spiritual realm. The difference in emphasis is subtle: Sunni tafsir often focuses on the fear-inducing nature of these events to motivate repentance, while Shia commentary additionally stresses the theological implications for divine justice and the vindication of the oppressed. Both traditions cite similar Quranic verses that describe cosmic upheaval, such as Surah Al-Takwir and Al-Zilzal. Scholarly consensus exists that these events are real, not metaphorical, though their exact nature transcends human comprehension. Where traditions converge is in the practical message: believers must prepare for accountability through faith and good works, knowing that the current order is temporary and divine judgment is certain.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین قیامت کے دن آسمان کے پھٹنے کے بنیادی معنی پر متفق ہیں۔ ابن کثیر اور طبری جیسے کلاسیکی سنی علماء اسے اللہ کے حکم سے آسمانوں کے پھٹنے کے طور پر بیان کرتے ہیں، جبکہ طباطبائی اور طبرسی جیسے شیعہ علماء مادی سے روحانی عالم کی طرف منتقلی پر زور دیتے ہیں۔ تاکید میں فرق باریک ہے: سنی تفسیر اکثر توبہ کی ترغیب کے لیے ان واقعات کے خوف انگیز پہلو پر توجہ دیتی ہے، جبکہ شیعہ تفسیر اضافی طور پر الٰہی انصاف اور مظلوموں کی بریت کے الٰہیاتی مضمرات پر بھی زور دیتی ہے۔ دونوں روایات سورۃ التکویر اور الزلزال جیسی ملتی جلتی قرآنی آیات کا حوالہ دیتی ہیں۔ علمی اتفاق رائے موجود ہے کہ یہ واقعات حقیقی ہیں، استعاراتی نہیں، اگرچہ ان کی صحیح نوعیت انسانی فہم سے ماورا ہے۔ جہاں دونوں روایات ملتی ہیں وہ عملی پیغام ہے: مومنوں کو ایمان اور نیک عمل کے ذریعے احتساب کے لیے تیار رہنا چاہیے، یہ جانتے ہوئے کہ موجودہ نظام عارضی ہے اور الٰہی فیصلہ یقینی ہے۔",
+    "layer4_ar": "يتفق المفسِّرون الشيعة والسنة على المعنى الجوهري لهذه الآية التي تصف انشقاق السماء يوم القيامة. ويصف العلماء الكلاسيكيون السنة كابن كثير والطبري السماوات وهي تتمزق بأمر الله، في حين يُركِّز العلماء الشيعة كالطباطبائي والطبرسي على الانتقال من العالم المادي إلى العالم الروحاني. والفارق في التركيز دقيق لطيف: إذ كثيراً ما يُسلِّط التفسير السني الضوء على الطابع المُفزِع لهذه الأحداث حثاً على التوبة، بينما يُبرز التفسير الشيعي إضافةً إلى ذلك دلالاتها العقدية في تحقيق العدل الإلهي وانتصاف المظلومين. ويستشهد كلا التراثين بآيات قرآنية مماثلة في وصف الاضطرابات الكونية كسورة التكوير والزلزلة. والإجماع العلمي قائم على أن هذه الأحداث واقعة حقيقية لا مجاز، وإن كان كنهها الدقيق يتجاوز الإدراك البشري. وفيما يتلاقى التراثان كلاهما في الرسالة العملية: على المؤمنين أن يستعدوا للحساب بالإيمان والعمل الصالح، علماً بأن النظام القائم زائل والحكم الإلهي قادم لا محالة."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:2:celestial-disorder",
+          "title": "Stellar Collapse",
+          "icon": "star.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The scattering of stars, which have guided travelers for millennia, symbolizes the complete breakdown of all familiar cosmic landmarks.",
+          "whyItMatters": "All worldly sources of guidance are temporary - only divine guidance through revelation and the Ahl al-Bayt remains constant across both worlds.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+          "title_urdu": "ستاروں کا انتشار",
+          "coreInsight_urdu": "ستاروں کا بکھرنا تمام مانوس کائناتی نشانات کے مکمل ٹوٹنے کی علامت ہے۔",
+          "whyItMatters_urdu": "رہنمائی کے تمام دنیاوی ذرائع عارضی ہیں - صرف وحی اور اہل بیت کے ذریعے الہی رہنمائی مستقل ہے۔",
+          "title_ar": "انهيار النجوم",
+          "coreInsight_ar": "انتشار النجوم ترمز إلى الانهيار الكامل لجميع المعالم الكونية المألوفة.",
+          "whyItMatters_ar": "جميع مصادر الهداية الدنيوية مؤقتة - فقط الهداية الإلهية تبقى ثابتة."
+        },
+        {
+          "id": "82:2:parallel-signs",
+          "title": "Parallel Events",
+          "icon": "arrow.forward",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The conjunction 'وَ' links this sign with the previous one, showing that multiple cosmic catastrophes occur simultaneously at the end times.",
+          "whyItMatters": "The coordinated collapse emphasizes the totality of transformation - nothing from the old order will remain in the new reality.",
+          "position": "topRight",
+          "arabicHighlight": "وَإِذَا ٱلْكَوَاكِبُ",
+          "title_urdu": "متوازی واقعات",
+          "coreInsight_urdu": "حرف عطف 'وَ' ظاہر کرتا ہے کہ متعدد کائناتی تباہیاں بیک وقت واقع ہوتی ہیں۔",
+          "whyItMatters_urdu": "مربوط انہدام تبدیلی کی مکملیت پر زور دیتا ہے۔",
+          "title_ar": "الأحداث المتوازية",
+          "coreInsight_ar": "حرف العطف 'وَ' يُظهر أن كوارث كونية متعددة تحدث في وقت واحد.",
+          "whyItMatters_ar": "الانهيار المنسق يؤكد على شمولية التحول."
+        },
+        {
+          "id": "82:2:light-extinguished",
+          "title": "Darkness Falls",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Stars represent sources of light in darkness. Their scattering suggests that all sources of worldly illumination will cease, leaving only divine light.",
+          "whyItMatters": "We should rely on Allah's guidance as our primary light source now, rather than waiting until all other lights have been extinguished.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱنتَثَرَتْ",
+          "title_urdu": "روشنی کا خاتمہ",
+          "coreInsight_urdu": "ستاروں کا بکھرنا تجویز کرتا ہے کہ دنیاوی روشنی کے تمام ذرائع ختم ہو جائیں گے۔",
+          "whyItMatters_urdu": "ہمیں اب اللہ کی رہنمائی پر انحصار کرنا چاہیے۔",
+          "title_ar": "الظلام يسقط",
+          "coreInsight_ar": "انتشار النجوم يشير إلى أن جميع مصادر الإنارة الدنيوية ستتوقف.",
+          "whyItMatters_ar": "يجب أن نعتمد على هداية الله الآن."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators share fundamental agreement on the literal falling and scattering of stars as a sign of the Day of Judgment. Sunni scholars like Qurtubi and Ibn Kathir describe this as stars losing their light and falling from their positions, while Shia scholars emphasize the complete breakdown of cosmic order as part of the transition to the spiritual realm. Both traditions cite Prophetic hadith describing the signs of the Hour, though the chains of narration differ. Fakhr al-Din al-Razi in his Sunni tafsir discusses whether this refers to literal stars or meteors, ultimately affirming the former, which aligns with the Shia scholarly consensus. The practical implication in both traditions is identical: believers should not place ultimate trust in the stability of creation but rather in the Creator. Where subtle differences appear is in devotional emphasis, with Shia tradition stressing the role of the Ahlul Bayt as guides through these tumultuous events, while Sunni tradition emphasizes individual faith and deeds as preparation for the Last Day.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین قیامت کی نشانی کے طور پر ستاروں کے لفظی گرنے اور بکھرنے پر بنیادی طور پر متفق ہیں۔ قرطبی اور ابن کثیر جیسے سنی علماء اسے ستاروں کے اپنی روشنی کھونے اور اپنی جگہ سے گرنے کے طور پر بیان کرتے ہیں، جبکہ شیعہ علماء روحانی عالم کی طرف منتقلی کے حصے کے طور پر کائناتی نظام کے مکمل انہدام پر زور دیتے ہیں۔ دونوں روایات قیامت کی نشانیاں بیان کرنے والی نبوی احادیث کا حوالہ دیتی ہیں اگرچہ سند کے سلسلے الگ ہیں۔ فخر الدین رازی اپنی سنی تفسیر میں بحث کرتے ہیں کہ آیا یہ اصل ستاروں کی بات ہے یا شہاب ثاقب کی، اور بالآخر پہلے مطلب کی تائید کرتے ہیں جو شیعہ علمی اتفاق رائے سے ہم آہنگ ہے۔ دونوں روایات میں عملی مفہوم ایک جیسا ہے: مومنوں کو تخلیق کے استحکام پر حتمی بھروسہ نہیں کرنا چاہیے بلکہ خالق پر کرنا چاہیے۔ باریک اختلاف عقیدتی تاکید میں ہے، شیعہ روایت میں ان ہولناک واقعات میں اہل بیت علیہم السلام کے بطور راہنما کردار پر زیادہ زور دیا جاتا ہے، جبکہ سنی روایت انفرادی ایمان اور اعمال کو قیامت کی تیاری کے طور پر زیادہ اہمیت دیتی ہے۔",
+    "layer4_ar": "يتقاسم المفسِّرون السنة والشيعة الفهم الجوهري نفسه لتساقط النجوم وتناثرها علامةً من علامات يوم القيامة. ويصف علماء السنة كالقرطبي وابن كثير النجوم وهي تفقد نورها وتسقط من مواضعها، بينما يُركِّز علماء الشيعة على الانهيار الكامل للنظام الكوني في إطار التحوُّل إلى العالم الروحاني. ويستشهد كلا التراثين بأحاديث نبوية تصف علامات الساعة، وإن اختلفت أسانيد الروايات. وفخر الدين الرازي في تفسيره السني يُناقش ما إذا كانت الإشارة إلى النجوم الحقيقية أم الشهب، ليُرجِّح في النهاية الأولى، وهو ما يتوافق مع الإجماع العلمي الشيعي. والتداعي العملي في كلا التراثين متطابق: على المؤمنين ألا يُعلِّقوا توكُّلهم الكامل على استقرار الخليقة بل على الخالق. والفارق الدقيق أن التراث الشيعي يُشدِّد على دور أهل البيت عليهم السلام بوصفهم أدلاء في هذه الأحداث المضطربة، بينما يُؤكِّد التراث السني على الإيمان الفردي والأعمال الصالحة بوصفها العدَّة ليوم المعاد."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:3:ocean-eruption",
+          "title": "Ocean Upheaval",
+          "icon": "wave.3.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verb 'فُجِّرَتْ' means violently burst forth. The seas, which cover 70% of Earth, will erupt in unprecedented cataclysm.",
+          "whyItMatters": "Even the vast oceans that seem permanent are subject to Allah's command, teaching us that no worldly power is truly secure.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْبِحَارُ فُجِّرَتْ",
+          "title_urdu": "سمندروں کا ابال",
+          "coreInsight_urdu": "فعل 'فُجِّرَتْ' کا مطلب ہے پرتشدد طور پر پھٹنا۔ سمندر بے مثال تباہی میں پھٹ جائیں گے۔",
+          "whyItMatters_urdu": "وسیع سمندر بھی اللہ کے حکم کے تابع ہیں۔",
+          "title_ar": "اضطراب المحيطات",
+          "coreInsight_ar": "الفعل 'فُجِّرَتْ' يعني انفجرت بعنف. البحار ستنفجر في كارثة غير مسبوقة.",
+          "whyItMatters_ar": "المحيطات الشاسعة خاضعة لأمر الله."
+        },
+        {
+          "id": "82:3:earth-water-air",
+          "title": "Three Realms",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The sequence covers sky, stars in space, and now oceans on Earth - representing the complete transformation of all three cosmic domains.",
+          "whyItMatters": "Every realm of existence will be transformed, showing that nothing in creation is independent of Allah's will and power.",
+          "position": "topRight",
+          "arabicHighlight": "وَإِذَا ٱلْبِحَارُ",
+          "title_urdu": "تین دائرے",
+          "coreInsight_urdu": "ترتیب تینوں کائناتی دائروں کی مکمل تبدیلی کی نمائندگی کرتی ہے۔",
+          "whyItMatters_urdu": "وجود کے ہر دائرے کو تبدیل کیا جائے گا۔",
+          "title_ar": "ثلاثة عوالم",
+          "coreInsight_ar": "التسلسل يمثل التحول الكامل لجميع المجالات الكونية الثلاثة.",
+          "whyItMatters_ar": "كل مجال من مجالات الوجود سيتحول."
+        },
+        {
+          "id": "82:3:barrier-removed",
+          "title": "Boundaries Dissolved",
+          "icon": "shield.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Oceans serve as barriers between lands. Their eruption symbolizes the removal of all boundaries in the new cosmic reality.",
+          "whyItMatters": "This foreshadows the Day when all human-made divisions dissolve and only one criterion remains - righteousness before Allah.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فُجِّرَتْ",
+          "title_urdu": "حدود ختم",
+          "coreInsight_urdu": "سمندروں کا ابال نئی کائناتی حقیقت میں تمام حدود کو ہٹانے کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ اس دن کی پیش گوئی کرتا ہے جب تمام تقسیمیں ختم ہو جائیں گی۔",
+          "title_ar": "الحدود منحلة",
+          "coreInsight_ar": "انفجار المحيطات يرمز إلى إزالة جميع الحدود في الواقع الكوني الجديد.",
+          "whyItMatters_ar": "هذا ينذر باليوم الذي تذوب فيه جميع الانقسامات."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetical traditions interpret this verse as describing the literal eruption or bursting forth of seas on the Day of Judgment. Sunni commentator Ibn Kathir explains this as seas overflowing their boundaries and mixing together, while Al-Qurtubi discusses various interpretations including the seas being set on fire, citing other Quranic verses. Shia scholars like Tabatabai similarly describe the removal of divine barriers between waters as part of the cosmic dissolution. Both traditions agree this is a real physical event, not merely symbolic. The scholarly consensus across both schools is that these signs demonstrate Allah's absolute power over nature and serve as warnings to prepare for the Hereafter. Minor differences exist in the hadith cited to elaborate on these events, with each tradition drawing from their respective authentic narration chains. However, the core message remains consistent: the Day of Judgment will involve the complete transformation of the natural world, and believers should live in preparation for that inevitable reality through faith, prayer, and righteous conduct.",
+    "layer4_urdu": "شیعہ اور سنی دونوں تفسیری روایات اس آیت کی تشریح قیامت کے دن سمندروں کے لفظی طور پر ابلنے یا پھوٹ پڑنے کے طور پر کرتی ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ سمندر اپنی حدیں پار کر کے آپس میں مل جائیں گے، جبکہ قرطبی مختلف تشریحات پر بحث کرتے ہیں جن میں دیگر قرآنی آیات کا حوالہ دیتے ہوئے سمندروں میں آگ لگنے کا ذکر بھی شامل ہے۔ طباطبائی جیسے شیعہ علماء بھی اسی طرح کائناتی تحلیل کے حصے کے طور پر پانیوں کے درمیان الٰہی رکاوٹوں کے ہٹنے کو بیان کرتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ ایک حقیقی طبیعی واقعہ ہے نہ کہ محض علامتی۔ دونوں مکاتبِ فکر میں علمی اتفاق رائے یہ ہے کہ یہ نشانیاں قدرت پر اللہ کی مطلق قدرت کو ظاہر کرتی ہیں اور آخرت کی تیاری کے لیے خبردار کرتی ہیں۔ مختلف نشانیوں کی حدیثی تشریحوں میں معمولی اختلافات ہیں جن میں ہر روایت اپنی معتبر سند کے ذریعے اضافی تفصیلات فراہم کرتی ہے۔ لیکن بنیادی پیغام مشترک ہے: قیامت کے دن قدرتی دنیا کی مکمل تبدیلی ہوگی، اور مومنوں کو ایمان، نماز اور نیک عمل کے ذریعے اس ناگزیر حقیقت کی تیاری کرنی چاہیے۔",
+    "layer4_ar": "يُفسِّر كلا التراثين الشيعي والسني هذه الآية بوصفها وصفاً حرفياً لتفجُّر البحار وانبثاق مياهها يوم القيامة. ويُفسِّر المفسِّر السني ابن كثير ذلك بطغيان البحار على حدودها واختلاط مياهها، في حين يُناقش القرطبي تفسيرات عدة بينها إشعال البحار ناراً مستشهداً بآيات قرآنية أخرى. ويصف علماء الشيعة كالطباطبائي رفع الحواجز الإلهية بين المياه بوصفه جزءاً من الانحلال الكوني. ويتفق التراثان على أن هذا حدث مادي حقيقي لا رمز مجازي. والإجماع العلمي عبر كلا المذهبين أن هذه العلامات تُثبت سلطان الله المطلق على الطبيعة وتُنذر بالاستعداد للآخرة. وثمة فوارق طفيفة في الأحاديث المستشهد بها لتفصيل هذه الأحداث، إذ يستند كل تراث إلى أسانيده الصحيحة المعتمدة. غير أن الرسالة الجوهرية واحدة: يوم القيامة سيشهد تحوُّلاً شاملاً للكون المادي، وعلى المؤمنين أن يعيشوا مُستعدِّين لتلك الحقيقة الحتمية بالإيمان والصلاة والعمل الصالح."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:4:resurrection",
+          "title": "Graves Overturned",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verb 'بُعْثِرَتْ' means violently overturned. The dead will emerge from their graves for resurrection and judgment.",
+          "whyItMatters": "This verse connects cosmic transformation to personal resurrection - the Day affects both the universe and every individual soul.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْقُبُورُ بُعْثِرَتْ",
+          "title_urdu": "قبروں کا الٹنا",
+          "coreInsight_urdu": "فعل 'بُعْثِرَتْ' کا مطلب ہے پرتشدد طور پر الٹنا۔ مردے قیامت کے لیے نکلیں گے۔",
+          "whyItMatters_urdu": "یہ آیت کائناتی تبدیلی کو ذاتی قیامت سے جوڑتی ہے۔",
+          "title_ar": "القبور مقلوبة",
+          "coreInsight_ar": "الفعل 'بُعْثِرَتْ' يعني قُلبت بعنف. سيخرج الموتى للبعث والحساب.",
+          "whyItMatters_ar": "تربط هذه الآية التحول الكوني بالبعث الشخصي."
+        },
+        {
+          "id": "82:4:final-awakening",
+          "title": "Universal Awakening",
+          "icon": "person.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "All humans throughout history - from Adam to the last person - will rise simultaneously. No one escapes this moment of reckoning.",
+          "whyItMatters": "Everyone will be resurrected, inspiring accountability in our actions and equality in our treatment of others.",
+          "position": "topRight",
+          "arabicHighlight": "وَإِذَا ٱلْقُبُورُ",
+          "title_urdu": "آفاقی بیداری",
+          "coreInsight_urdu": "تاریخ بھر کے تمام انسان بیک وقت اٹھیں گے۔ کوئی بھی نہیں بچ سکتا۔",
+          "whyItMatters_urdu": "ہر کوئی دوبارہ زندہ کیا جائے گا، جوابدہی کو متاثر کرتا ہے۔",
+          "title_ar": "الصحوة الشاملة",
+          "coreInsight_ar": "جميع البشر عبر التاريخ سيقومون في وقت واحد. لا أحد يهرب.",
+          "whyItMatters_ar": "الجميع سيُبعثون، مما يلهم المساءلة."
+        },
+        {
+          "id": "82:4:earth-to-judgment",
+          "title": "From Earth to Eternity",
+          "icon": "arrow.forward.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "After depicting cosmic changes, the surah now focuses on human resurrection - connecting universal transformation to individual accountability.",
+          "whyItMatters": "Cosmic events directly lead to our personal judgment, making eschatology personally relevant.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بُعْثِرَتْ",
+          "title_urdu": "زمین سے ابدیت تک",
+          "coreInsight_urdu": "سورت اب انسانی قیامت پر توجہ مرکوز کرتی ہے۔",
+          "whyItMatters_urdu": "کائناتی واقعات ہمارے ذاتی فیصلے کی طرف لے جاتے ہیں۔",
+          "title_ar": "من الأرض إلى الأبدية",
+          "coreInsight_ar": "تركز السورة الآن على بعث الإنسان.",
+          "whyItMatters_ar": "الأحداث الكونية تؤدي إلى حكمنا الشخصي."
+        }
+      ]
+    },
+    "layer4": "Resurrection of the dead is a fundamental belief shared absolutely by both Shia and Sunni Islam. Both traditions affirm bodily resurrection based on numerous Quranic verses and Prophetic traditions. Sunni scholars like Ibn Kathir emphasize that Allah will resurrect people in the same bodies they had in worldly life, made whole and perfect. Shia scholars like Tabatabai similarly affirm physical resurrection while also emphasizing the spiritual transformations that accompany it. Both traditions cite the same Quranic arguments: that the One who created humans initially can certainly recreate them, and that divine justice requires resurrection for ultimate accountability. Minor differences exist in descriptions of the intermediate state in the grave, with Shia tradition providing detailed narrations from the Imams about Barzakh, the barrier realm between death and resurrection. However, on the core doctrine of bodily resurrection on the Day of Judgment, there is complete consensus between the two major Islamic schools of thought. Both emphasize that belief in resurrection should fundamentally influence how Muslims live their lives in this world.",
+    "layer4_urdu": "جسمانی بعث ایک ایسا بنیادی عقیدہ ہے جس پر شیعہ اور سنی دونوں بالکل متفق ہیں۔ دونوں روایات متعدد قرآنی آیات اور نبوی احادیث کی بنیاد پر جسمانی بعث کی تائید کرتی ہیں۔ ابن کثیر جیسے سنی علماء اس بات پر زور دیتے ہیں کہ اللہ لوگوں کو انہی اجسام میں دوبارہ زندہ کرے گا جو دنیاوی زندگی میں تھے، مکمل اور صحیح صورت میں۔ طباطبائی جیسے شیعہ علماء اسی طرح جسمانی بعث کی تائید کرتے ہیں اور ساتھ ہی اس کے ساتھ ہونے والی روحانی تبدیلیوں پر بھی زور دیتے ہیں۔ دونوں روایات ایک ہی قرآنی دلائل پیش کرتی ہیں: جس نے ابتداء میں انسانوں کو پیدا کیا وہ یقیناً انہیں دوبارہ بنا سکتا ہے، اور الٰہی انصاف کے لیے حتمی احتساب ہیتو بعث ضروری ہے۔ معمولی اختلافات قبر میں درمیانی حالت کی تشریح میں ہیں، شیعہ روایت آئمہ علیہم السلام کی تفصیلی روایات سے برزخ کے بارے میں زیادہ تفصیل فراہم کرتی ہے۔ تاہم قیامت کے دن جسمانی بعث کے بنیادی عقیدے پر دو بڑے اسلامی مکاتبِ فکر میں مکمل اتفاق ہے اور دونوں یہ تاکید کرتے ہیں کہ بعث پر ایمان بنیادی طور پر اس طریقے کو متاثر کرنا چاہیے جس سے مسلمان دنیا میں زندگی گزارتے ہیں۔",
+    "layer4_ar": "البعث من الأموات عقيدة يشترك فيها الشيعة والسنة اشتراكاً مطلقاً، كلا التراثين يُثبتانه استناداً إلى آيات قرآنية عديدة وأحاديث نبوية متواترة. ويُشدِّد علماء السنة كابن كثير على أن الله سيُعيد الناس في أجسادهم ذاتها التي عاشوا بها في الدنيا كاملةً سليمة. ويُثبت علماء الشيعة كالطباطبائي البعث الجسدي بالقدر نفسه، مع إبراز التحوُّلات الروحية المصاحبة له. ويحتجُّ كلا التراثين بالحجج القرآنية ذاتها: إن الذي خلق الإنسان ابتداءً قادر على إعادة خلقه، والعدل الإلهي يستلزم البعث لتحقيق المساءلة الكاملة. وثمة فوارق طفيفة في وصف حالة البرزخ بين الموت والبعث، إذ يُقدِّم التراث الشيعي روايات مفصَّلة من الأئمة عليهم السلام عن عالم البرزخ الحاجز بين الموت والقيامة. غير أن على صعيد عقيدة البعث الجسدي الأساسية يوم القيامة ثمة إجماع تام بين المذهبين الإسلاميين الكبيرين. ويُؤكِّد كلاهما أن الإيمان بالبعث ينبغي أن يُوجِّه المسلم في حياته الدنيا توجيهاً جذرياً."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:5:complete-knowledge",
+          "title": "Total Clarity",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Every soul will have complete knowledge of all its deeds - what it sent forward and what it delayed or neglected.",
+          "whyItMatters": "This perfect clarity eliminates all excuses. We should strive for honest self-awareness now, before that Day.",
+          "position": "topLeft",
+          "arabicHighlight": "عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+          "title_urdu": "مکمل وضاحت",
+          "coreInsight_urdu": "ہر روح کو اپنے تمام اعمال کا مکمل علم ہوگا۔",
+          "whyItMatters_urdu": "یہ کامل وضاحت تمام عذروں کو ختم کر دیتی ہے۔",
+          "title_ar": "الوضوح التام",
+          "coreInsight_ar": "ستحصل كل نفس على معرفة كاملة بجميع أعمالها.",
+          "whyItMatters_ar": "هذا الوضوح الكامل يلغي جميع الأعذار."
+        },
+        {
+          "id": "82:5:deeds-recorded",
+          "title": "Actions Preserved",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Both our actions and our inactions are recorded and will be presented to us.",
+          "whyItMatters": "We'll be accountable not just for wrongs committed, but also for good deeds we could have done but delayed. Time is a trust.",
+          "position": "topRight",
+          "arabicHighlight": "نَفْسٌۭ مَّا قَدَّمَتْ",
+          "title_urdu": "اعمال محفوظ",
+          "coreInsight_urdu": "ہمارے اعمال اور بے عملی دونوں ریکارڈ ہیں۔",
+          "whyItMatters_urdu": "ہم نیک اعمال کے لیے بھی جوابدہ ہوں گے۔ وقت ایک امانت ہے۔",
+          "title_ar": "الأعمال محفوظة",
+          "coreInsight_ar": "أفعالنا وتقاعسنا مسجلة.",
+          "whyItMatters_ar": "سنُحاسب على الأعمال الصالحة التي أخرناها. الوقت أمانة."
+        },
+        {
+          "id": "82:5:no-hiding",
+          "title": "Nothing Hidden",
+          "icon": "lock.open.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verb 'عَلِمَتْ' is definitive. There's no uncertainty, no forgotten deeds - every detail will be crystal clear.",
+          "whyItMatters": "Living with awareness that nothing can be hidden from Allah should purify our intentions and private actions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَلِمَتْ نَفْسٌۭ",
+          "title_urdu": "کچھ چھپا نہیں",
+          "coreInsight_urdu": "فعل 'عَلِمَتْ' حتمی ہے۔ کوئی بھولے ہوئے اعمال نہیں۔",
+          "whyItMatters_urdu": "کچھ بھی اللہ سے چھپایا نہیں جا سکتا۔",
+          "title_ar": "لا شيء مخفي",
+          "coreInsight_ar": "الفعل 'عَلِمَتْ' قاطع. لا أعمال منسية.",
+          "whyItMatters_ar": "لا يمكن إخفاء شيء عن الله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly agree on the meaning and implications of this verse. Sunni commentators like Ibn Kathir explain that what is sent forward includes all good and evil deeds, while what is left behind includes the consequences of those deeds and the example set for others. Shia scholars provide similar interpretations while emphasizing additional dimensions from the teachings of the Imams. Both traditions cite Prophetic hadith about three things that follow a person to the grave: family, wealth, and deeds, with only deeds remaining with the person after burial. This verse is understood across both schools as emphasizing comprehensive accountability and the importance of preparing for the Hereafter through righteous action. Sunni scholarship particularly emphasizes the hadith about deeds that continue after death: ongoing charity, beneficial knowledge, and righteous offspring who pray for their parents. Shia tradition adds particular emphasis on Wilayah and love for the Ahlul Bayt as essential components of what is sent forward. Despite minor differences in emphasis, both traditions converge on the core message: live consciously with awareness that every action has eternal consequences.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت کے معنی اور مضمرات پر مضبوطی سے متفق ہیں۔ ابن کثیر جیسے سنی مفسرین وضاحت کرتے ہیں کہ جو آگے بھیجا گیا اس میں تمام اچھے اور برے اعمال شامل ہیں، جبکہ جو پیچھے رہ گیا اس میں ان اعمال کے نتائج اور دوسروں کے لیے قائم کردہ مثال شامل ہے۔ شیعہ علماء اسی طرح کی تشریح فراہم کرتے ہیں اور آئمہ علیہم السلام کی تعلیمات سے اضافی جہتوں پر بھی زور دیتے ہیں۔ دونوں روایات ایک جیسی نبوی احادیث پیش کرتی ہیں کہ تین چیزیں انسان کو قبر تک پیروی کرتی ہیں: خاندان، دولت اور اعمال، اور صرف اعمال دفن کے بعد بھی رہتے ہیں۔ دونوں مکاتبِ فکر میں یہ آیت جامع احتساب اور نیک عمل کے ذریعے آخرت کی تیاری کی اہمیت پر زور دینے کے طور پر سمجھی جاتی ہے۔ سنی علمیت خاص طور پر ان اعمال کی حدیث پر زور دیتی ہے جو موت کے بعد بھی جاری رہتے ہیں: جاری خیرات، نفع مند علم، اور نیک اولاد جو اپنے والدین کے لیے دعا کرے۔ شیعہ روایت ولایت اور اہل بیت علیہم السلام سے محبت کو جو آگے بھیجا جاتا ہے کے ضروری اجزاء کے طور پر خاص طور پر اجاگر کرتی ہے۔ معمولی اختلافات کے باوجود دونوں روایات بنیادی پیغام پر متفق ہیں: ہر عمل کے ابدی نتائج کی آگاہی کے ساتھ شعوری طور پر زندگی گزارو۔",
+    "layer4_ar": "يتوافق التراثان الشيعي والسني توافقاً كبيراً على معنى هذه الآية ودلالاتها. ويُبيِّن المفسِّرون السنة كابن كثير أن \"ما قدَّمت\" يشمل جميع الأعمال الحسنة والسيئة، وأن \"ما أخَّرت\" يشمل تبعات تلك الأعمال والمثال الذي ضربه الإنسان لغيره. ويُقدِّم علماء الشيعة تفسيرات مماثلة مع إبراز أبعاد إضافية مستمَدَّة من تعاليم الأئمة عليهم السلام. ويستشهد كلا التراثين بحديث نبوي شريف مفاده أن ثلاثة أشياء تُشيِّع الإنسان إلى قبره: أهله وماله وعمله، ولا يبقى معه منها بعد الدفن إلا العمل. وتُفهَم هذه الآية في كلا المذهبين تأكيداً للمساءلة الشاملة وأهمية التهيُّؤ للآخرة بالعمل الصالح. ويُركِّز الفقه السني بخاصة على حديث الأعمال التي لا تنقطع بعد الوفاة: الصدقة الجارية والعلم النافع والولد الصالح الداعي لأبويه. ويُضيف التراث الشيعي تركيزاً خاصاً على الولاية ومحبة أهل البيت عليهم السلام بوصفهما من أهم ما يُقدِّمه الإنسان أمامه. وبرغم الفوارق الطفيفة في التركيز، يلتقي التراثان على الرسالة الجوهرية: عِش واعياً مُدركاً أن لكل عمل عواقب أبدية."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:6:divine-question",
+          "title": "The Challenge",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah directly addresses humanity with a penetrating question: what has deceived you about your Generous Lord?",
+          "whyItMatters": "This rhetorical question forces self-reflection about what prevents us from recognizing Allah's generosity and living accordingly.",
+          "position": "topLeft",
+          "arabicHighlight": "مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+          "title_urdu": "چیلنج",
+          "coreInsight_urdu": "اللہ براہ راست انسانیت سے ایک گہرا سوال پوچھتا ہے: کس چیز نے تمہیں فراخ دل رب کے بارے میں دھوکہ دیا؟",
+          "whyItMatters_urdu": "یہ سوال اس بارے میں خود عکاسی پر مجبور کرتا ہے کہ کیا ہمیں اللہ کی فیاضی کو پہچاننے سے روکتا ہے۔",
+          "title_ar": "التحدي",
+          "coreInsight_ar": "يخاطب الله البشرية مباشرة بسؤال عميق: ما الذي خدعك عن ربك الكريم؟",
+          "whyItMatters_ar": "هذا السؤال البلاغي يجبر على التأمل الذاتي حول ما يمنعنا من التعرف على كرم الله."
+        },
+        {
+          "id": "82:6:al-kareem",
+          "title": "The Generous One",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah describes Himself as 'ٱلْكَرِيمِ' (The Most Generous), emphasizing His infinite generosity despite human ingratitude.",
+          "whyItMatters": "Recognizing Allah's generosity should inspire gratitude and worship, not complacency and heedlessness.",
+          "position": "topRight",
+          "arabicHighlight": "بِرَبِّكَ ٱلْكَرِيمِ",
+          "title_urdu": "فیاض",
+          "coreInsight_urdu": "اللہ اپنے آپ کو 'ٱلْكَرِيمِ' کے طور پر بیان کرتا ہے، انسانی ناشکری کے باوجود اپنی لامحدود فیاضی پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی فیاضی کو پہچاننا شکر اور عبادت کو متاثر کرنا چاہیے۔",
+          "title_ar": "الكريم",
+          "coreInsight_ar": "يصف الله نفسه بـ 'ٱلْكَرِيمِ'، مؤكدًا على كرمه اللامحدود رغم جحود الإنسان.",
+          "whyItMatters_ar": "التعرف على كرم الله يجب أن يلهم الامتنان والعبادة."
+        },
+        {
+          "id": "82:6:human-address",
+          "title": "Personal Call",
+          "icon": "person.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The address 'يَٰٓأَيُّهَا ٱلْإِنسَٰنُ' (O mankind) makes this universal - every human is being questioned about their relationship with Allah.",
+          "whyItMatters": "This isn't abstract theology but a personal question demanding an honest answer from each of us.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ",
+          "title_urdu": "ذاتی پکار",
+          "coreInsight_urdu": "خطاب 'يَٰٓأَيُّهَا ٱلْإِنسَٰنُ' اسے آفاقی بناتا ہے - ہر انسان سے اللہ کے ساتھ تعلق کے بارے میں پوچھا جا رہا ہے۔",
+          "whyItMatters_urdu": "یہ تجریدی الٰہیات نہیں بلکہ ایک ذاتی سوال ہے جو ہر ایک سے ایماندار جواب کا مطالبہ کرتا ہے۔",
+          "title_ar": "النداء الشخصي",
+          "coreInsight_ar": "الخطاب 'يَٰٓأَيُّهَا ٱلْإِنسَٰنُ' يجعل هذا عالميًا - كل إنسان يُسأل عن علاقته مع الله.",
+          "whyItMatters_ar": "هذا ليس لاهوتًا مجردًا بل سؤال شخصي يتطلب إجابة صادقة من كل واحد منا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse rebukes human ingratitude and heedlessness toward Allah's boundless generosity. Sunni commentators like Al-Razi emphasize that Allah's attribute of generosity is evident in creating humans with dignity, providing sustenance without being asked, and offering opportunities for repentance. Shia scholars add particular emphasis on Allah's generosity in sending prophets and Imams as guides to humanity. Ibn Kathir explains that the deception comes from multiple sources including Satan, worldly desires, and false hopes, which aligns with the interpretation of Tabatabai. Both traditions cite hadith about Allah's generosity exceeding human comprehension, with His mercy encompassing all things. The consensus is that proper recognition of Allah as al-Karim should result in worship, gratitude, and righteous living. A subtle difference is that Shia tradition particularly emphasizes the generosity of Allah in providing infallible guides through the line of the Prophet's family, seeing this as among the greatest divine favors. However, the core message is identical across both schools: humanity's ingratitude and heedlessness despite constant divine generosity is illogical and reprehensible, and recognition of Allah's kindness should transform how we live.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت اللہ کی بے حد سخاوت کے مقابلے میں انسانی ناشکری اور غفلت کو ملامت کرتی ہے۔ رازی جیسے سنی مفسرین اس بات پر زور دیتے ہیں کہ اللہ کا الکریم ہونا انسانوں کو عزت کے ساتھ تخلیق کرنے، بغیر مانگے روزی دینے اور توبہ کے مواقع فراہم کرنے میں ظاہر ہے۔ شیعہ علماء اضافی طور پر انبیاء اور آئمہ علیہم السلام کو انسانیت کے لیے راہنما کے طور پر بھیجنے میں اللہ کی سخاوت پر زور دیتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ دھوکہ شیطان، دنیاوی خواہشات اور جھوٹی امیدوں سمیت کئی ذرائع سے آتا ہے، جو طباطبائی کی تشریح سے ہم آہنگ ہے۔ دونوں روایات اللہ کی ناقابلِ فہم سخاوت کی احادیث پیش کرتی ہیں اور اس بات پر اتفاق ہے کہ اللہ کو الکریم پہچاننے کا نتیجہ عبادت، شکرگزاری اور نیک زندگی ہونا چاہیے۔ ایک باریک اختلاف یہ ہے کہ شیعہ روایت خاص طور پر اللہ کی خاندانِ نبوی کے ذریعے معصوم راہنما فراہم کرنے کی سخاوت پر زور دیتی ہے جسے الٰہی بہترین احسانات میں سے ایک سمجھتی ہے۔ تاہم بنیادی پیغام دونوں مکاتب میں یکساں ہے: تمام تر الٰہی سخاوت کے باوجود انسانی ناشکری اور غفلت ناقابلِ قبول ہے۔",
+    "layer4_ar": "يتفق المفسِّرون الشيعة والسنة على أن هذه الآية تُعاتب الإنسانَ على جحوده وغفلته أمام كرم الله الذي لا حدود له. ويُبيِّن العلماء السنة كالفخر الرازي أن كرم الله جليٌّ في خلق الإنسان مُكرَّماً وإسباغ الرزق عليه دون أن يسأل وفتح باب التوبة أمامه في كل حين. ويُضيف علماء الشيعة تركيزاً على كرم الله المتجلِّي في إرسال الأنبياء والأئمة أدلاءَ مُنيرين للإنسانية. ويوضح ابن كثير أن الغرور يأتي من مصادر متعددة أبرزها الشيطان والهوى والأماني الكاذبة، وهو ما يتطابق مع تفسير الطباطبائي. ويستشهد كلا التراثين بأحاديث عن كرم الله الذي يتجاوز حدود الإدراك البشري وعن رحمته التي وسعت كل شيء. والإجماع قائم على أن الاعتراف الحقيقي بالله بوصفه الكريم يُفضي إلى العبادة والشكر والحياة الصالحة. والفارق الدقيق أن التراث الشيعي يُشدِّد بصفة خاصة على أن من أعظم مظاهر كرم الله إمداد البشرية بالأدلاء المعصومين من آل النبي صلى الله عليه وآله وسلم، وأن ذلك من أجلِّ النعم وأعظمها. غير أن الرسالة الجوهرية واحدة في كلا التراثين: غفلة الإنسان وجحوده في مواجهة الكرم الإلهي المتواصل أمر لا يُقبَل منطقياً ولا يُبرَّر شرعاً."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:7:creation-process",
+          "title": "Divine Artistry",
+          "icon": "paintbrush.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Three verbs describe human creation: created (خَلَقَكَ), proportioned (سَوَّىٰكَ), and balanced (عَدَلَكَ) - showing meticulous divine design.",
+          "whyItMatters": "Understanding the care Allah took in creating us should inspire gratitude and purposeful living aligned with our divine design.",
+          "position": "topLeft",
+          "arabicHighlight": "خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+          "title_urdu": "الہی فن",
+          "coreInsight_urdu": "تین افعال انسانی تخلیق کو بیان کرتے ہیں: پیدا کیا، متناسب بنایا، اور متوازن کیا۔",
+          "whyItMatters_urdu": "ہماری تخلیق میں اللہ کی احتیاط کو سمجھنا شکر اور مقصدی زندگی کو متاثر کرنا چاہیے۔",
+          "title_ar": "الفن الإلهي",
+          "coreInsight_ar": "ثلاثة أفعال تصف خلق الإنسان: خلق، سوّى، وعدّل.",
+          "whyItMatters_ar": "فهم العناية التي أخذها الله في خلقنا يجب أن يلهم الامتنان."
+        },
+        {
+          "id": "82:7:perfect-design",
+          "title": "Balanced Form",
+          "icon": "scale.3d",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'عَدَلَكَ' means balanced you in perfect proportion - every organ, system, and faculty in harmony.",
+          "whyItMatters": "Our bodies are testimonies to Allah's wisdom. Misusing or neglecting them is ingratitude to our Designer.",
+          "position": "topRight",
+          "arabicHighlight": "فَعَدَلَكَ",
+          "title_urdu": "متوازن شکل",
+          "coreInsight_urdu": "لفظ 'عَدَلَكَ' کا مطلب ہے تمہیں کامل تناسب میں متوازن کیا۔",
+          "whyItMatters_urdu": "ہمارے جسم اللہ کی حکمت کی گواہی ہیں۔ انہیں غلط استعمال کرنا ناشکری ہے۔",
+          "title_ar": "الشكل المتوازن",
+          "coreInsight_ar": "كلمة 'عَدَلَكَ' تعني وازنك في تناسب مثالي.",
+          "whyItMatters_ar": "أجسادنا شهادات على حكمة الله. إساءة استخدامها جحود."
+        },
+        {
+          "id": "82:7:stages-of-creation",
+          "title": "Progressive Formation",
+          "icon": "arrow.forward",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The sequence of verbs with 'فَ' (then) shows stages: first created, then proportioned, then balanced - a deliberate process.",
+          "whyItMatters": "Allah's creation is purposeful, not random. Our existence has meaning embedded in our very design.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ",
+          "title_urdu": "بتدریج تشکیل",
+          "coreInsight_urdu": "افعال کی ترتیب مراحل کو ظاہر کرتی ہے: پہلے پیدا کیا، پھر متناسب بنایا۔",
+          "whyItMatters_urdu": "اللہ کی تخلیق مقصدی ہے۔ ہمارے وجود کا معنی ہماری ساخت میں موجود ہے۔",
+          "title_ar": "التكوين التدريجي",
+          "coreInsight_ar": "تسلسل الأفعال يُظهر مراحل: خُلق أولاً، ثم سُوّي.",
+          "whyItMatters_ar": "خلق الله هادف. وجودنا له معنى مضمّن في تصميمنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree that this verse highlights Allah's creative power and generosity as evidence for His right to be worshiped. Sunni scholars like Ibn Kathir explain that Allah created humans in the best form, with upright posture, noble appearance, and rational faculties that distinguish them from other creatures. Shia scholars like Tabatabai similarly emphasize the perfection of human creation as a sign of divine wisdom. Both traditions cite the Quranic verse 'We created man in the best of forms' as complementing this verse. Classical Sunni and Shia scholars agree that the progression from creation to proportioning to balancing describes the comprehensive nature of Allah's creative act, leaving nothing to chance or imperfection. The consensus is that recognizing how perfectly we were created should lead to worship of the Creator and gratitude for His blessings. Minor differences exist in philosophical discussions about the nature of the soul and its relationship to the body, with some Shia scholars influenced by Islamic philosophy providing more detailed analysis. However, the practical and spiritual message is identical: Allah's creative generosity demands our grateful submission and righteous living.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ یہ آیت اللہ کی تعبد کے حق کے ثبوت کے طور پر اس کی تخلیقی قدرت اور سخاوت کو نمایاں کرتی ہے۔ ابن کثیر جیسے سنی علماء وضاحت کرتے ہیں کہ اللہ نے انسانوں کو بہترین صورت میں پیدا کیا، سیدھی قامت، شاندار ظاہر اور باعقل صلاحیتوں کے ساتھ جو انہیں دیگر مخلوقات سے ممتاز کرتی ہیں۔ طباطبائی جیسے شیعہ علماء اسی طرح الٰہی حکمت کی علامت کے طور پر انسانی تخلیق کی کمال پر زور دیتے ہیں۔ دونوں روایات قرآنی آیت 'ہم نے انسان کو بہترین صورت میں بنایا' کو اس آیت کی تکمیل کے طور پر پیش کرتی ہیں۔ کلاسیکی سنی اور شیعہ علماء اس بات پر متفق ہیں کہ تخلیق سے تناسب تک اور پھر توازن تک کا سلسلہ اللہ کے تخلیقی فعل کی جامع نوعیت کو بیان کرتا ہے۔ اتفاق رائے یہ ہے کہ ہمیں کتنی کمال کے ساتھ تخلیق کیا گیا اس کا ادراک خالق کی عبادت اور اس کی نعمتوں پر شکرگزاری کی طرف لے جانا چاہیے۔ روح اور جسم کے تعلق کی نوعیت کے فلسفیانہ مباحث میں معمولی اختلافات ہیں، لیکن عملی اور روحانی پیغام یکساں ہے: اللہ کی تخلیقی سخاوت ہماری شکرگزارانہ اطاعت اور نیک زندگی کا تقاضا کرتی ہے۔",
+    "layer4_ar": "يتفق المفسِّرون الشيعة والسنة على أن هذه الآية تُبرز القدرة الإلهية الخالقة وكرم الله دليلاً على استحقاقه للعبادة. ويُبيِّن علماء السنة كابن كثير أن الله خلق الإنسان في أحسن صورة، بقامة منتصبة وهيئة كريمة وملكات عقلية تُميِّزه عن سائر المخلوقات. ويُعطي علماء الشيعة كالطباطبائي تفسيرات مماثلة مع تركيزٍ على كمال الخلق الإنساني دليلاً على الحكمة الإلهية. ويستشهد كلا التراثين بالآية الكريمة: \"لقد خلقنا الإنسان في أحسن تقويم\" باعتبارها آية مكمِّلة لمعنى هذه الآية. ويتفق العلماء الكلاسيكيون من التراثين على أن التدرُّج من الخلق إلى التسوية إلى التعديل يصف الطبيعة الشاملة للفعل الإلهي الخالق الذي لا يُهمل شيئاً ولا يُغفل جانباً. والإجماع واضح: ينبغي أن يُفضي الإدراكُ الحق لكمال خلقنا إلى عبادة الخالق والشكر على نعمه. وتوجد فوارق دقيقة في المسائل الفلسفية المتعلقة بطبيعة النفس وعلاقتها بالجسد، إذ يُقدِّم بعض علماء الشيعة المتأثرين بالفلسفة الإسلامية تحليلات أعمق في هذا الشأن. غير أن الرسالة الروحية والعملية واحدة: أبدع الله في خلقك فاشكره بالتسليم والطاعة والحياة الصالحة."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:8:divine-will",
+          "title": "Any Form He Willed",
+          "icon": "paintpalette.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah assembled you in whatever form He willed - emphasizing His absolute creative freedom and wisdom in designing each person uniquely.",
+          "whyItMatters": "Our physical characteristics are part of Allah's divine plan for us. Accepting ourselves as Allah created us brings peace.",
+          "position": "topLeft",
+          "arabicHighlight": "فِىٓ أَىِّ صُورَةٍۢ مَّا شَآءَ رَكَّبَكَ",
+          "title_urdu": "جو شکل چاہی",
+          "coreInsight_urdu": "اللہ نے آپ کو جس شکل میں چاہا جمع کیا - ہر شخص کو منفرد طور پر ڈیزائن کرنے میں اس کی مطلق تخلیقی آزادی پر زور۔",
+          "whyItMatters_urdu": "ہماری جسمانی خصوصیات اللہ کے منصوبے کا حصہ ہیں۔ اپنے آپ کو قبول کرنا سکون لاتا ہے۔",
+          "title_ar": "أي صورة شاء",
+          "coreInsight_ar": "ركّبك الله في أي صورة شاء - مؤكدًا على حريته الإبداعية المطلقة في تصميم كل شخص بشكل فريد.",
+          "whyItMatters_ar": "خصائصنا الجسدية جزء من خطة الله. قبول أنفسنا كما خلقنا الله يجلب السلام."
+        },
+        {
+          "id": "82:8:unique-assembly",
+          "title": "Unique Combination",
+          "icon": "person.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'رَكَّبَكَ' means assembled/combined you - each person is a unique combination of features, abilities, and characteristics.",
+          "whyItMatters": "Your unique combination is not accidental but intentional, designed for your specific purpose in Allah's plan.",
+          "position": "topRight",
+          "arabicHighlight": "شَآءَ",
+          "title_urdu": "منفرد مجموعہ",
+          "coreInsight_urdu": "لفظ 'رَكَّبَكَ' کا مطلب ہے آپ کو جمع کیا - ہر شخص خصوصیات کا ایک منفرد مجموعہ ہے۔",
+          "whyItMatters_urdu": "آپ کا منفرد مجموعہ حادثاتی نہیں بلکہ جان بوجھ کر ہے، اللہ کے منصوبے میں آپ کے مخصوص مقصد کے لیے۔",
+          "title_ar": "المزيج الفريد",
+          "coreInsight_ar": "كلمة 'رَكَّبَكَ' تعني جمّعك - كل شخص مزيج فريد من الميزات.",
+          "whyItMatters_ar": "مزيجك الفريد ليس عرضيًا بل مقصود، مصمم لغرضك المحدد في خطة الله."
+        },
+        {
+          "id": "82:8:divine-choice",
+          "title": "His Choice",
+          "icon": "hand.point.up.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'مَّا شَآءَ' (whatever He willed) emphasizes that your form reflects Allah's choice and wisdom, not random chance.",
+          "whyItMatters": "This truth combats both vanity about our gifts and despair about our limitations - both are from Allah's wise choice.",
+          "position": "bottomLeft",
+          "arabicHighlight": "صُورَةٍۢ مَّا",
+          "title_urdu": "اس کا انتخاب",
+          "coreInsight_urdu": "جملہ 'مَّا شَآءَ' اس بات پر زور دیتا ہے کہ آپ کی شکل اللہ کے انتخاب کی عکاسی کرتی ہے۔",
+          "whyItMatters_urdu": "یہ سچائی ہمارے تحائف کے بارے میں غرور اور ہماری حدود کے بارے میں مایوسی دونوں سے لڑتی ہے۔",
+          "title_ar": "اختياره",
+          "coreInsight_ar": "العبارة 'مَّا شَآءَ' تؤكد أن شكلك يعكس اختيار الله وحكمته.",
+          "whyItMatters_ar": "هذه الحقيقة تحارب الغرور بمواهبنا واليأس من قيودنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse affirms Allah's absolute creative will in determining each person's particular form. Sunni commentators like Al-Qurtubi explain that Allah assembles humans in various forms including differences in appearance, abilities, and characteristics, all according to divine wisdom. Shia scholars provide similar interpretations while emphasizing that divine wisdom in creating diversity tests whether humans will judge by appearance or piety. Both traditions cite the Prophetic hadith: 'Allah does not look at your forms or your wealth, but He looks at your hearts and your deeds.' This aligns perfectly with the message of this verse. Classical scholars from both schools discuss whether the verse refers to the variety of forms among humans or to the different stages of individual development, generally concluding it includes both meanings. The consensus is clear: all human forms are divinely willed, diversity serves divine purposes, and spiritual worth is independent of physical appearance. Both traditions strongly oppose discrimination based on race, ethnicity, or physical characteristics, seeing all humans as equally created by Allah. The practical guidance is identical: develop inner qualities and judge others by character and faith, not external appearance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت ہر انسان کی مخصوص صورت کا تعین کرنے میں اللہ کے مطلق تخلیقی ارادے کی تائید کرتی ہے۔ قرطبی جیسے سنی مفسرین وضاحت کرتے ہیں کہ اللہ انسانوں کو ظاہری شکل، صلاحیتوں اور خصوصیات سمیت مختلف صورتوں میں جمع کرتا ہے، سب اپنی الٰہی حکمت کے مطابق۔ شیعہ علماء اسی طرح کی تشریح فراہم کرتے ہیں اور ساتھ ہی اس بات پر زور دیتے ہیں کہ تنوع کی تخلیق میں الٰہی حکمت انسانوں کو آزماتی ہے کہ آیا وہ ظاہری شکل یا تقویٰ سے فیصلہ کریں گے۔ دونوں روایات نبوی حدیث پیش کرتی ہیں: 'اللہ تمہاری صورتوں یا دولت کو نہیں دیکھتا بلکہ تمہارے دلوں اور اعمال کو دیکھتا ہے۔' یہ اس آیت کے پیغام سے بالکل ہم آہنگ ہے۔ دونوں مکاتبِ فکر کے کلاسیکی علماء اس بات پر بحث کرتے ہیں کہ آیا آیت انسانوں میں صورتوں کی تنوع کی بات کرتی ہے یا انفرادی ترقی کے مختلف مراحل کی، اور عام طور پر یہ نتیجہ نکالتے ہیں کہ دونوں معنی شامل ہیں۔ اتفاق رائے واضح ہے: تمام انسانی صورتیں الٰہی ارادے سے ہیں، تنوع الٰہی مقاصد کی خدمت کرتا ہے، اور روحانی قدر و قیمت ظاہری شکل سے آزاد ہے۔",
+    "layer4_ar": "يتفق المفسِّرون الشيعة والسنة على أن هذه الآية تُؤكِّد الإرادة الإلهية المطلقة في تحديد الهيئة الخاصة لكل إنسان. ويُفسِّر علماء السنة كالقرطبي أن الله يُركِّب الإنسان في صور متنوعة تشمل الاختلافات في المظهر والقدرات والخصائص، كل ذلك وفق الحكمة الإلهية. ويُقدِّم علماء الشيعة تفسيرات مماثلة مع تركيز على أن التنوع في الخلق اختبار: هل سيُقيِّم البشر بالمظهر أم بالتقوى؟ ويستشهد كلا التراثين بالحديث النبوي الشريف: \"إن الله لا ينظر إلى صوركم وأموالكم ولكن ينظر إلى قلوبكم وأعمالكم.\" وهذا الحديث يتوافق توافقاً تاماً مع رسالة هذه الآية. ويُناقش العلماء الكلاسيكيون من التراثين ما إذا كانت الآية تُشير إلى تنوع الهيئات بين البشر أو إلى مراحل تطوُّر الفرد الواحد، ليخلصوا في الغالب إلى أنها تشمل المعنيين معاً. والإجماع واضح: جميع الهيئات الإنسانية مُرادة من الله وتخدم أغراضاً إلهية، والقيمة الروحية مستقلة عن المظهر الجسدي. ويُعارض كلا التراثين معارضةً شديدة التمييزَ القائم على العرق أو الإثنية أو الصفات الجسدية، إذ كلُّ البشر سواء في أنهم مخلوقو الله. والهدى العملي متطابق: طوِّر سجاياك الداخلية وقيِّم الآخرين بأخلاقهم وإيمانهم لا بمظهرهم الخارجي."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:9:strong-rejection",
+          "title": "Divine Rebuke",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'كَلَّا' (No! Never!) is a strong rejection of human denial and heedlessness about the Day of Recompense.",
+          "whyItMatters": "Allah's emphatic rejection shows that denying accountability is not a minor error but a fundamental departure from truth.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+          "title_urdu": "الہی سرزنش",
+          "coreInsight_urdu": "'كَلَّا' روز جزا کے بارے میں انسانی انکار کی مضبوط تردید ہے۔",
+          "whyItMatters_urdu": "اللہ کی زوردار تردید ظاہر کرتی ہے کہ جوابدہی کا انکار ایک بنیادی انحراف ہے۔",
+          "title_ar": "التوبيخ الإلهي",
+          "coreInsight_ar": "'كَلَّا' رفض قوي لإنكار الإنسان ليوم الحساب.",
+          "whyItMatters_ar": "رفض الله القاطع يُظهر أن إنكار المساءلة انحراف جوهري عن الحق."
+        },
+        {
+          "id": "82:9:denial-of-recompense",
+          "title": "Rejecting Judgment",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'ٱلدِّينِ' means the Day of Judgment and recompense. Denying it undermines all moral accountability.",
+          "whyItMatters": "Belief in divine judgment is foundational to ethical living. Without it, there's no ultimate justice or meaning.",
+          "position": "topRight",
+          "arabicHighlight": "تُكَذِّبُونَ بِٱلدِّينِ",
+          "title_urdu": "فیصلے کا انکار",
+          "coreInsight_urdu": "لفظ 'ٱلدِّينِ' کا مطلب روز جزا ہے۔ اس کا انکار تمام اخلاقی جوابدہی کو کمزور کرتا ہے۔",
+          "whyItMatters_urdu": "الہی فیصلے پر یقین اخلاقی زندگی کی بنیاد ہے۔ اس کے بغیر حتمی انصاف نہیں۔",
+          "title_ar": "رفض الحكم",
+          "coreInsight_ar": "كلمة 'ٱلدِّينِ' تعني يوم الحساب. إنكاره يقوّض كل مساءلة أخلاقية.",
+          "whyItMatters_ar": "الإيمان بالحكم الإلهي أساسي للعيش الأخلاقي."
+        },
+        {
+          "id": "82:9:truth-reversal",
+          "title": "Backwards Thinking",
+          "icon": "arrow.uturn.backward",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The contrast word 'بَلْ' (rather/instead) shows humans reject accountability despite clear evidence of Allah's generosity and creative power.",
+          "whyItMatters": "We must examine what makes us deny or ignore truths that are uncomfortable but necessary for our salvation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بَلْ",
+          "title_urdu": "الٹی سوچ",
+          "coreInsight_urdu": "لفظ 'بَلْ' ظاہر کرتا ہے کہ انسان واضح ثبوت کے باوجود جوابدہی کو مسترد کرتے ہیں۔",
+          "whyItMatters_urdu": "ہمیں جانچنا چاہیے کہ کیا ہمیں تکلیف دہ لیکن ضروری سچائیوں کو نظر انداز کرنے پر مجبور کرتا ہے۔",
+          "title_ar": "التفكير المعكوس",
+          "coreInsight_ar": "كلمة 'بَلْ' تُظهر أن البشر يرفضون المساءلة رغم الأدلة الواضحة.",
+          "whyItMatters_ar": "يجب أن نفحص ما يجعلنا ننكر الحقائق الضرورية لخلاصنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions completely agree that denial of the Day of Judgment is a fundamental error that leads to moral corruption and disbelief. Sunni commentators like Ibn Kathir explain that the Meccan disbelievers denied the resurrection and accountability, which justified their immoral behavior and rejection of the Prophet's message. Shia scholars similarly identify denial of the Hereafter as the root cause of transgression and ingratitude. Both traditions emphasize that belief in the Day of Judgment is among the six pillars of faith in Islam. Classical scholars from both schools cite the same Quranic evidence that the Hereafter is certain and that denial of it contradicts both revelation and reason. The consensus is that this verse rebukes humanity for denying what is obvious: that the generous Creator who fashioned us with such care will hold us accountable for how we used His gifts. Both traditions teach that contemplation of death and the Hereafter is an essential spiritual practice. The practical message is identical across both schools: genuine belief in the Day of Recompense should manifest in righteous living, and the denial of it, whether explicit or practical through heedlessness, is spiritually fatal.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر مکمل طور پر متفق ہیں کہ روزِ قیامت کا انکار ایک بنیادی غلطی ہے جو اخلاقی خرابی اور کفر کی طرف لے جاتی ہے۔ ابن کثیر جیسے سنی مفسرین وضاحت کرتے ہیں کہ مکہ کے مشرکین قیامت اور احتساب کا انکار کرتے تھے جس سے ان کے غیر اخلاقی رویے اور نبی صلی اللہ علیہ وآلہ وسلم کے پیغام کو رد کرنے کا جواز ملتا تھا۔ شیعہ علماء اسی طرح آخرت کا انکار کو تمام سرکشی اور ناشکری کی بنیادی وجہ قرار دیتے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ روزِ قیامت پر ایمان اسلام میں ایمان کے چھ ارکان میں سے ایک ہے۔ دونوں مکاتبِ فکر کے کلاسیکی علماء ایک ہی قرآنی دلائل پیش کرتے ہیں کہ آخرت یقینی ہے اور اس کا انکار وحی اور عقل دونوں کے خلاف ہے۔ اتفاق رائے یہ ہے کہ یہ آیت انسانیت کو اس پر ملامت کرتی ہے جو ظاہر ہے: کریم خالق جس نے ہمیں اس عنایت سے بنایا ہمارا محاسبہ ضرور کرے گا۔ دونوں روایتیں یہ سکھاتی ہیں کہ موت اور آخرت کا ذکر ایک ضروری روحانی مشق ہے اور روزِ جزا کا انکار، خواہ صریح ہو یا غفلت کی صورت میں عملی، روحانی طور پر ہلاکت خیز ہے۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً تاماً على أن التكذيب بيوم الحساب خطأ جوهري يُفضي إلى الفساد الأخلاقي والكفر. ويُبيِّن العلماء السنة كابن كثير أن المشركين في مكة جحدوا البعث والمساءلة مما أجَّج رفضهم للرسالة النبوية وأباح لهم انحلالهم الأخلاقي. ويُشخِّص علماء الشيعة بالمثل التكذيبَ بالآخرة باعتباره جذراً للتعدي والجحود. ويُؤكِّد كلا التراثين أن الإيمان بيوم الحساب ركن من أركان الإيمان الستة. ويستشهد العلماء الكلاسيكيون من التراثين بالأدلة القرآنية ذاتها المُثبِتة أن الآخرة حق يقيني وأن جحودها يتعارض مع الوحي والعقل معاً. والإجماع قائم على أن هذه الآية تُعاتب البشرية على جحود ما هو جليٌّ: فالرب الكريم الذي صنع الإنسان بهذا الإتقان سيُحاسبه على كيفية استخدام عطاياه. والتعليم العملي متطابق في التراثين: ينبغي أن يتجلَّى الإيمان الحق بيوم الجزاء في الحياة الصالحة، وأن التكذيب به سواء صراحةً أو عملياً بالغفلة مهلكة روحية لا نجاة منها."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:10:angelic-guardians",
+          "title": "Constant Watchers",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Angels are appointed over you as keepers and observers. Your life is continuously monitored by divine witnesses.",
+          "whyItMatters": "Knowing we're never alone should inspire mindfulness in all our actions, whether public or private.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِنَّ عَلَيْكُمْ لَحَٰفِظِينَ",
+          "title_urdu": "مسلسل نگران",
+          "coreInsight_urdu": "فرشتے آپ پر محافظوں کے طور پر مقرر ہیں۔ آپ کی زندگی الہی گواہوں کے ذریعے مسلسل نگرانی میں ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ ہم کبھی تنہا نہیں ہیں، تمام اعمال میں ذہن سازی کو متاثر کرنا چاہیے۔",
+          "title_ar": "المراقبون الدائمون",
+          "coreInsight_ar": "الملائكة مُعيّنة عليك كحفظة ومراقبين. حياتك مُراقبة باستمرار من شهود إلهيين.",
+          "whyItMatters_ar": "معرفة أننا لسنا وحدنا أبدًا يجب أن يلهم اليقظة في جميع أفعالنا."
+        },
+        {
+          "id": "82:10:divine-care",
+          "title": "Protected Journey",
+          "icon": "shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'حَٰفِظِينَ' (guardians) suggests both protection and record-keeping - angels guard and document our lives.",
+          "whyItMatters": "This dual role shows Allah's mercy - He protects us while holding us accountable, giving chances to repent before judgment.",
+          "position": "topRight",
+          "arabicHighlight": "لَحَٰفِظِينَ",
+          "title_urdu": "محفوظ سفر",
+          "coreInsight_urdu": "لفظ 'حَٰفِظِينَ' تحفظ اور ریکارڈ رکھنے دونوں کی تجویز کرتا ہے۔",
+          "whyItMatters_urdu": "یہ دوہرا کردار اللہ کی رحمت کو ظاہر کرتا ہے - وہ ہماری حفاظت کرتا ہے اور جوابدہ بھی رکھتا ہے۔",
+          "title_ar": "الرحلة المحمية",
+          "coreInsight_ar": "كلمة 'حَٰفِظِينَ' تقترح الحماية وحفظ السجلات.",
+          "whyItMatters_ar": "هذا الدور المزدوج يُظهر رحمة الله - يحمينا بينما يحاسبنا."
+        },
+        {
+          "id": "82:10:emphasis-particle",
+          "title": "Absolute Certainty",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The emphasis particles 'وَإِنَّ' and 'لَ' stress the absolute certainty of angelic observation - this is not metaphorical but real.",
+          "whyItMatters": "The Quran's linguistic emphasis demands we take this reality seriously in our daily consciousness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِنَّ عَلَيْكُمْ",
+          "title_urdu": "مطلق یقین",
+          "coreInsight_urdu": "تاکیدی الفاظ فرشتوں کے مشاہدے کی مطلق یقینیت پر زور دیتے ہیں۔",
+          "whyItMatters_urdu": "قرآن کا لسانی زور مطالبہ کرتا ہے کہ ہم اس حقیقت کو سنجیدگی سے لیں۔",
+          "title_ar": "اليقين المطلق",
+          "coreInsight_ar": "أدوات التوكيد تؤكد اليقين المطلق للمراقبة الملائكية.",
+          "whyItMatters_ar": "التأكيد اللغوي للقرآن يتطلب منا أخذ هذا الواقع بجدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions fully agree on the existence and role of the recording angels. Sunni commentators like Ibn Kathir describe the Kiraman Katibin as noble angels assigned to each person to record their deeds for the Day of Judgment. Shia scholars provide similar descriptions while adding details from narrations of the Imams. Both traditions cite the same Quranic verses describing these angels and their function. Classical scholars from both schools discuss the mechanics of how angels record deeds, with general consensus that they record actions, words, and intentions comprehensively. Sunni hadith and Shia narrations both describe the angels being positioned on the shoulders, with the right-side angel recording good deeds and the left-side recording bad deeds. Both traditions teach that these angels are witnesses who will testify on the Day of Judgment. The consensus on the practical implication is identical: awareness of the recording angels should inspire righteous behavior and deter from sin. Both schools emphasize that developing consciousness of these angels is an important spiritual practice. The minor differences are in specific details from different hadith collections, but the core doctrine and its ethical implications are completely shared between Shia and Sunni Islam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات ریکارڈ کرنے والے فرشتوں کے وجود اور کردار پر مکمل طور پر متفق ہیں۔ ابن کثیر جیسے سنی مفسرین کراماً کاتبین کو ہر انسان کو اعمال ریکارڈ کرنے پر مامور معزز فرشتوں کے طور پر بیان کرتے ہیں۔ شیعہ علماء اسی طرح کی تشریح فراہم کرتے ہیں اور آئمہ علیہم السلام کی روایات سے فرشتوں کی ہمدردی اور صبر کی تفصیلات شامل کرتے ہیں۔ دونوں روایات ان فرشتوں اور ان کے کام کو بیان کرنے والی ایک جیسی قرآنی آیات کا حوالہ دیتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء اس بات پر بحث کرتے ہیں کہ فرشتے اعمال کیسے ریکارڈ کرتے ہیں اور عام طور پر اس بات پر متفق ہیں کہ وہ اعمال، اقوال اور نیتوں کو جامع طریقے سے ریکارڈ کرتے ہیں۔ دونوں سنی حدیث اور شیعہ روایات فرشتوں کو کندھوں پر متعین بیان کرتی ہیں اور گناہوں کے توبہ تک اندراج کو مؤخر کرنے کی تفصیل بیان کرتی ہیں۔ عملی تعلیم دونوں روایات میں یکساں ہے: ان فرشتوں کی موجودگی کے احساس کے ساتھ زندگی گزاریں، اخلاقی معیارات کو برقرار رکھیں، اور یقین رکھیں کہ نیک اعمال خواہ کوئی انسان گواہ ہو یا نہ ہو محفوظ ریکارڈ کیے جا رہے ہیں۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً كاملاً على وجود الملائكة الحفظة ودورهم المحوري. ويصف علماء السنة كابن كثير الكرام الكاتبين بأنهم ملائكة كرام مُوكَّلون بكل إنسان لتسجيل أعماله ليوم الحساب. ويُقدِّم علماء الشيعة أوصافاً مماثلة مع إضافة تفاصيل واردة في روايات الأئمة عليهم السلام. ويستشهد كلا التراثين بالآيات القرآنية ذاتها المُثبِتة لوجود هؤلاء الملائكة ووظيفتهم. ويتناول العلماء الكلاسيكيون من التراثين آلية تسجيل الأعمال مع إجماع عام على أن الملائكة تُسجِّل الأقوال والأفعال والنوايا بشكل شامل. وتصف كل من الأحاديث السنية والروايات الشيعية الملائكةَ متموضعةً على الكتفين، ملك اليمين للحسنات وملك الشمال للسيئات. ويتفق كلا التراثين على أن هؤلاء الملائكة شهودٌ سيُدلون بشهادتهم يوم القيامة. والتعليم العملي متطابق في التراثين: لتكن المراقبة الملائكية دافعاً نحو السلوك القويم ورادعاً عن المعصية، وثقةً بأن الأعمال الحسنة مُحفوظة مهما غابت عن أعين البشر. والعقيدة الجوهرية بشأن الملائكة الحفظة ودعمهم للمساءلة الأبدية مشتركة بالكامل بين الإسلامين الشيعي والسني."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:11:noble-scribes",
+          "title": "Honorable Recorders",
+          "icon": "pencil.and.list.clipboard",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The angels are described as 'كِرَامًۭا' (noble/honorable) and 'كَٰتِبِينَ' (recording scribes) - maintaining perfect records with dignity.",
+          "whyItMatters": "Even in recording our sins, angels maintain nobility. This should inspire us to maintain our own dignity by avoiding shameful deeds.",
+          "position": "topLeft",
+          "arabicHighlight": "كِرَامًۭا كَٰتِبِينَ",
+          "title_urdu": "باعزت لکھنے والے",
+          "coreInsight_urdu": "فرشتوں کو 'كِرَامًۭا' (شریف) اور 'كَٰتِبِينَ' (ریکارڈنگ کاتب) کے طور پر بیان کیا گیا ہے۔",
+          "whyItMatters_urdu": "ہمارے گناہوں کو ریکارڈ کرتے ہوئے بھی فرشتے شرافت برقرار رکھتے ہیں۔ یہ ہمیں شرمناک اعمال سے بچ کر اپنی عزت برقرار رکھنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الكتبة الكرام",
+          "coreInsight_ar": "الملائكة موصوفة بـ 'كِرَامًۭا' (نبلاء) و'كَٰتِبِينَ' (كتبة مسجلين).",
+          "whyItMatters_ar": "حتى في تسجيل ذنوبنا، تحافظ الملائكة على النبل. يجب أن يلهمنا هذا للحفاظ على كرامتنا."
+        },
+        {
+          "id": "82:11:perfect-record",
+          "title": "Flawless Documentation",
+          "icon": "doc.text.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Angels as scribes ensure perfect accuracy in recording - no deed is forgotten, exaggerated, or diminished.",
+          "whyItMatters": "The perfect record means absolute justice on Judgment Day - we'll be judged on exactly what we did, nothing more or less.",
+          "position": "topRight",
+          "arabicHighlight": "كَٰتِبِينَ",
+          "title_urdu": "بے عیب دستاویزات",
+          "coreInsight_urdu": "کاتب کے طور پر فرشتے ریکارڈنگ میں کامل درستگی کو یقینی بناتے ہیں۔",
+          "whyItMatters_urdu": "کامل ریکارڈ کا مطلب ہے روز قیامت مطلق انصاف - ہمارا فیصلہ بالکل اسی پر ہوگا جو ہم نے کیا۔",
+          "title_ar": "التوثيق الخالي من العيوب",
+          "coreInsight_ar": "الملائكة ككتبة تضمن دقة مثالية في التسجيل.",
+          "whyItMatters_ar": "السجل المثالي يعني عدالة مطلقة يوم القيامة."
+        },
+        {
+          "id": "82:11:two-attributes",
+          "title": "Noble in Action",
+          "icon": "star.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The combination of nobility (كِرَامًۭا) and function (كَٰتِبِينَ) shows that these angels perform their duty with excellence and honor.",
+          "whyItMatters": "We should emulate angelic character - performing our duties with both competence and nobility of character.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كِرَامًۭا",
+          "title_urdu": "عمل میں شرافت",
+          "coreInsight_urdu": "شرافت اور کام کا امتزاج ظاہر کرتا ہے کہ یہ فرشتے اپنے فرض کو عمدگی سے انجام دیتے ہیں۔",
+          "whyItMatters_urdu": "ہمیں فرشتوں کی خصوصیات کی تقلید کرنی چاہیے - اپنے فرائض کو قابلیت اور شرافت دونوں کے ساتھ انجام دینا۔",
+          "title_ar": "النبل في العمل",
+          "coreInsight_ar": "الجمع بين النبل والوظيفة يُظهر أن هؤلاء الملائكة يؤدون واجبهم بتميز.",
+          "whyItMatters_ar": "يجب أن نحاكي صفات الملائكة - أداء واجباتنا بكفاءة ونبل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions describe the recording angels using the same Quranic terms: noble scribes. Sunni commentators like Al-Razi emphasize that their nobility guarantees the accuracy and trustworthiness of the records they keep, which will be presented on the Day of Judgment. Shia scholars provide similar interpretations while adding details from the narrations of the Imams about the angels' compassion and patience. Both traditions agree that these angels are among the honored angels in Allah's service, not lowly servants but elevated beings assigned an important task. Classical scholars from both schools discuss why Allah uses angels to record deeds when He Himself knows everything, generally concluding that it demonstrates divine wisdom in establishing clear evidence for the Day of Judgment and teaching humans about accountability. Both Sunni hadith and Shia narrations describe the angels pausing before recording sins to allow for repentance, demonstrating divine mercy. The practical teaching is identical across both traditions: awareness of noble angels recording our deeds should inspire us to maintain high moral standards and should give us hope that our good deeds are carefully preserved. The core message about the nobility and reliability of the recording angels is fully shared between both major Islamic schools.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات ریکارڈنگ فرشتوں کو ایک جیسی قرآنی اصطلاح میں بیان کرتی ہیں: معزز کاتب۔ رازی جیسے سنی مفسرین اس بات پر زور دیتے ہیں کہ ان کا اعزاز ان کے رکھے گئے ریکارڈ کی قابلِ اعتمادیت کی ضمانت دیتا ہے جو قیامت کے دن پیش کیا جائے گا۔ شیعہ علماء اسی طرح کی تشریح فراہم کرتے ہیں اور آئمہ علیہم السلام کی روایات سے فرشتوں کی ہمدردی اور صبر کی تفصیلات شامل کرتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ فرشتے اللہ کی خدمت میں معزز فرشتوں میں سے ہیں، کوئی ادنیٰ خادم نہیں بلکہ بلند مقام وجودات جو ایک اہم ذمہ داری ادا کر رہے ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء اس بات پر بحث کرتے ہیں کہ اللہ فرشتوں کو اعمال ریکارڈ کرنے کے لیے کیوں استعمال کرتا ہے جبکہ وہ خود سب کچھ جانتا ہے اور عام طور پر یہ نتیجہ نکالتے ہیں کہ یہ قیامت کے دن واضح ثبوت قائم کرنے میں الٰہی حکمت کو ظاہر کرتا ہے۔ عملی تعلیم دونوں روایات میں ایک ہی ہے: معزز فرشتوں کے اعمال ریکارڈ کرنے کی آگاہی سے بلند اخلاقی معیارات کو برقرار رکھنے اور اچھے اعمال کو محفوظ رکھنے پر یقین کرنے کی ترغیب ملنی چاہیے۔",
+    "layer4_ar": "يتشارك التراثان الشيعي والسني في وصف الملائكة الحفظة بالأوصاف القرآنية ذاتها: كرام كاتبون. ويُشدِّد علماء السنة كالرازي على أن نبلهم يكفل دقة السجلات التي يحفظونها وأمانتها، وهي السجلات التي ستُعرض يوم الحساب. ويُقدِّم علماء الشيعة تفسيرات مماثلة مع إضافة تفاصيل من روايات الأئمة عليهم السلام حول رحمة الملائكة وحلمهم. ويتفق كلا التراثين على أن هؤلاء الملائكة من الكرام في خدمة الله، لا كائنات دنيئة بل رفيعة المقام مُكلَّفة بمهمة بالغة الأهمية. ويناقش العلماء الكلاسيكيون من التراثين السبب في تكليف الملائكة بتسجيل الأعمال مع أن الله يعلم كل شيء، فيُرجِّح أكثرهم أن ذلك يُثبت الحكمة الإلهية في إقامة الحجة القاطعة ليوم الحساب. وتصف كل من الأحاديث السنية والروايات الشيعية الملائكةَ في تأجيلهم تسجيل الذنوب انتظاراً للتوبة، مما يُجسِّد الرحمة الإلهية العاملة. والتعليم العملي متطابق في التراثين: ليكن إدراك الملائكة الكرام التي تُسجِّل أعمالنا دافعاً إلى الالتزام بأعلى المعايير الأخلاقية، ومصدر اطمئنان بأن أعمالنا الحسنة محفوظة لن تضيع. والعقيدة الجوهرية بشأن نبل الملائكة الحفظة وأمانتها مشتركة كاملاً بين المذهبين الكبيرين."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:12:complete-knowledge",
+          "title": "Total Awareness",
+          "icon": "eye.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The angels know everything you do - every action, word, and intention is within their complete awareness.",
+          "whyItMatters": "This comprehensive knowledge should transform how we behave when alone, knowing that privacy from humans doesn't mean privacy from divine witnesses.",
+          "position": "topLeft",
+          "arabicHighlight": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+          "title_urdu": "مکمل آگاہی",
+          "coreInsight_urdu": "فرشتے سب کچھ جانتے ہیں جو آپ کرتے ہیں - ہر عمل، لفظ، اور نیت ان کی مکمل آگاہی میں ہے۔",
+          "whyItMatters_urdu": "یہ جامع علم ہمارے اکیلے میں طرز عمل کو تبدیل کرنا چاہیے۔",
+          "title_ar": "الوعي التام",
+          "coreInsight_ar": "الملائكة تعلم كل ما تفعل - كل فعل، كلمة، ونية ضمن وعيهم الكامل.",
+          "whyItMatters_ar": "هذه المعرفة الشاملة يجب أن تحول سلوكنا عندما نكون وحدنا."
+        },
+        {
+          "id": "82:12:present-tense",
+          "title": "Ongoing Observation",
+          "icon": "record.circle",
+          "colorHex": "#E57373",
+          "coreInsight": "The present tense 'يَعْلَمُونَ' (they know) and 'تَفْعَلُونَ' (you do) emphasizes continuous, real-time awareness - not just past recording.",
+          "whyItMatters": "Angels aren't just historians of our actions but live witnesses to our current choices, making every moment significant.",
+          "position": "topRight",
+          "arabicHighlight": "يَعْلَمُونَ",
+          "title_urdu": "جاری مشاہدہ",
+          "coreInsight_urdu": "حال کا زمانہ مسلسل، حقیقی وقت کی آگاہی پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "فرشتے ہمارے اعمال کے محض مورخ نہیں بلکہ ہمارے موجودہ انتخاب کے زندہ گواہ ہیں۔",
+          "title_ar": "المراقبة المستمرة",
+          "coreInsight_ar": "الزمن الحاضر يؤكد الوعي المستمر في الوقت الفعلي.",
+          "whyItMatters_ar": "الملائكة ليست مؤرخين لأفعالنا بل شهود أحياء لاختياراتنا الحالية."
+        },
+        {
+          "id": "82:12:comprehensive-scope",
+          "title": "Everything Included",
+          "icon": "circle.grid.3x3.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'مَا' (whatever/all that) makes it comprehensive - major and minor deeds, obvious and hidden, all are known.",
+          "whyItMatters": "No deed is too small to matter or too hidden to be recorded. This encourages excellence in all things.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا تَفْعَلُونَ",
+          "title_urdu": "سب کچھ شامل",
+          "coreInsight_urdu": "لفظ 'مَا' اسے جامع بناتا ہے - بڑے اور چھوٹے اعمال، واضح اور پوشیدہ، سب معلوم ہیں۔",
+          "whyItMatters_urdu": "کوئی عمل اتنا چھوٹا نہیں کہ اہم نہ ہو۔ یہ تمام چیزوں میں عمدگی کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "كل شيء مشمول",
+          "coreInsight_ar": "كلمة 'مَا' تجعلها شاملة - الأعمال الكبيرة والصغيرة، الواضحة والمخفية، كلها معلومة.",
+          "whyItMatters_ar": "لا عمل صغير جدًا ليهم. هذا يشجع التميز في كل شيء."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions completely agree that the recording angels have comprehensive knowledge of human deeds. Sunni commentators like Ibn Kathir explain that the angels know everything we do, whether actions, words, or intentions, and nothing can be hidden from them. Shia scholars provide identical interpretations, emphasizing that this comprehensive knowledge ensures perfect accountability on the Day of Judgment. Both traditions cite the same Quranic verses establishing that divine knowledge encompasses all things and is implemented through the angels for the purpose of judgment. Classical scholars from both schools discuss the relationship between divine knowledge and angelic knowledge, generally agreeing that the angels know what they are commanded to know for their specific tasks. Both Sunni hadith and Shia narrations describe the comprehensive recording of deeds, including the detail that good intentions are recorded even if not acted upon, while bad intentions are only recorded if acted upon, demonstrating divine mercy within the system of accountability. The practical teaching is identical across both traditions: live with awareness that everything is known and recorded, maintain consistency in moral standards, and trust that sincere good deeds will be recognized even if no human witnesses them. The core doctrine of comprehensive angelic knowledge supporting ultimate accountability is fully shared between Shia and Sunni Islam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر مکمل طور پر متفق ہیں کہ ریکارڈنگ فرشتوں کو انسانی اعمال کا جامع علم ہے۔ ابن کثیر جیسے سنی مفسرین وضاحت کرتے ہیں کہ فرشتے جو کچھ ہم کرتے ہیں جانتے ہیں خواہ اعمال ہوں، اقوال ہوں یا نیات، اور کوئی بھی چیز ان سے پوشیدہ نہیں رہ سکتی۔ شیعہ علماء ایک جیسی تشریح فراہم کرتے ہیں اور اس بات پر زور دیتے ہیں کہ یہ جامع علم قیامت کے دن کامل احتساب کو یقینی بناتا ہے۔ دونوں روایات ایک ہی قرآنی آیات پیش کرتی ہیں جو یہ ثابت کرتی ہیں کہ الٰہی علم ہر چیز کو شامل کرتا ہے اور ان فرشتوں کے ذریعے نافذ ہوتا ہے۔ دونوں سنی حدیث اور شیعہ روایات ریکارڈنگ کی جامع نوعیت کو بیان کرتی ہیں اور یہ تفصیل شامل کرتی ہیں کہ نیک نیتیں عمل نہ کرنے پر بھی ریکارڈ ہوتی ہیں جبکہ بری نیتیں صرف عمل کرنے پر ریکارڈ ہوتی ہیں جو الٰہی رحمت کو ظاہر کرتا ہے۔ دونوں روایات میں عملی تعلیم ایک جیسی ہے: اس آگاہی کے ساتھ زندگی گزارو کہ سب کچھ جانا اور ریکارڈ کیا جاتا ہے، اخلاقی معیارات میں ہم آہنگی رکھو، اور یقین رکھو کہ خلوص کے ساتھ کیے گئے نیک اعمال پہچانے جائیں گے خواہ کوئی انسانی گواہ موجود نہ ہو۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً كاملاً على أن الملائكة الحفظة تُحيط علماً تاماً بأعمال البشر. ويُوضِّح علماء السنة كابن كثير أن الملائكة تعلم كل ما نفعله من أفعال وأقوال ونوايا ولا يخفى عليها شيء. ويُقدِّم علماء الشيعة تفسيرات مطابقة مع التشديد على أن هذا العلم الشامل يكفل كمال المساءلة يوم الحساب. ويستشهد كلا التراثين بالآيات القرآنية ذاتها المُثبِتة أن علم الله يُحيط بكل شيء وأنه مُنفَّذ عبر الملائكة لغرض الحساب. ويتناول العلماء الكلاسيكيون من التراثين العلاقة بين علم الله وعلم الملائكة، فيُرجِّح أكثرهم أن الملائكة تعلم ما كُلِّفت بعلمه لأغراض مهامها المحدَّدة. وتصف كل من الأحاديث السنية والروايات الشيعية الشمولية الكاملة لتسجيل الأعمال، بما فيها تفصيل أن النية الحسنة تُسجَّل وإن لم يتبعها عمل، بينما النية السيئة لا تُسجَّل إلا إذا تحوَّلت إلى فعل، مما يُجلِّي الرحمة الإلهية في صميم منظومة المساءلة. والتعليم العملي متطابق في التراثين: عِش مُدركاً أن كل شيء معلوم ومُسجَّل، وحافظ على اتساق المعايير الأخلاقية، وثق أن أعمالك الحسنة الصادقة محفوظة مشهودة ولو لم يرها بشر. والعقيدة الجوهرية بشأن شمولية علم الملائكة الداعم للمساءلة الأبدية مشتركة كاملاً بين الإسلامين الشيعي والسني."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:13:righteous-reward",
+          "title": "Eternal Bliss",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The righteous (ٱلْأَبْرَارَ) will be in pleasure (نَعِيمٍ) - a state of complete satisfaction and joy in Paradise.",
+          "whyItMatters": "The reward for righteousness is not temporary happiness but eternal bliss, making any worldly sacrifice worthwhile.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍۢ",
+          "title_urdu": "ابدی خوشی",
+          "coreInsight_urdu": "نیک لوگ خوشی کی حالت میں ہوں گے - جنت میں مکمل اطمینان اور مسرت۔",
+          "whyItMatters_urdu": "نیکی کا انعام عارضی خوشی نہیں بلکہ ابدی مسرت ہے، جو کسی بھی دنیاوی قربانی کو قابل قدر بناتی ہے۔",
+          "title_ar": "النعيم الأبدي",
+          "coreInsight_ar": "الأبرار في نعيم - حالة من الرضا والفرح الكاملين في الجنة.",
+          "whyItMatters_ar": "مكافأة البر ليست سعادة مؤقتة بل نعيمًا أبديًا."
+        },
+        {
+          "id": "82:13:abrar-defined",
+          "title": "The Righteous Ones",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'ٱلْأَبْرَارَ' (the righteous) are those who fulfill their duties to Allah and His creation with excellence and consistency.",
+          "whyItMatters": "Righteousness isn't perfection but persistent effort to do good and fulfill obligations despite human weakness.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْأَبْرَارَ",
+          "title_urdu": "نیک لوگ",
+          "coreInsight_urdu": "'ٱلْأَبْرَارَ' وہ لوگ ہیں جو اللہ اور اس کی مخلوق کے ساتھ اپنے فرائض کو عمدگی سے پورا کرتے ہیں۔",
+          "whyItMatters_urdu": "نیکی کمال نہیں بلکہ انسانی کمزوری کے باوجود نیکی کرنے کی مسلسل کوشش ہے۔",
+          "title_ar": "الصالحون",
+          "coreInsight_ar": "'ٱلْأَبْرَارَ' هم الذين يؤدون واجباتهم لله وخلقه بتميز.",
+          "whyItMatters_ar": "البر ليس الكمال بل الجهد المستمر لفعل الخير."
+        },
+        {
+          "id": "82:13:emphasis-particle",
+          "title": "Absolute Certainty",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The emphasis with 'إِنَّ' and 'لَ' stresses the absolute certainty of this promise - the righteous will definitely be in bliss.",
+          "whyItMatters": "Allah's emphatic promise should give us confidence and motivation to pursue righteousness despite difficulties.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّ ٱلْأَبْرَارَ لَفِى",
+          "title_urdu": "مطلق یقین",
+          "coreInsight_urdu": "تاکید سے نیک لوگوں کی خوشی کی مطلق یقینیت پر زور دیا گیا ہے۔",
+          "whyItMatters_urdu": "اللہ کا زوردار وعدہ ہمیں مشکلات کے باوجود نیکی کی پیروی کرنے کا اعتماد دینا چاہیے۔",
+          "title_ar": "اليقين المطلق",
+          "coreInsight_ar": "التأكيد يؤكد اليقين المطلق لهذا الوعد.",
+          "whyItMatters_ar": "وعد الله المؤكد يجب أن يمنحنا الثقة لمتابعة البر."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions completely agree that the righteous will be rewarded with Paradise and eternal pleasure. Sunni commentators like Ibn Kathir describe the 'abrar,' the righteous, as those who are sincere in faith and excel in good deeds, and explain that the pleasure they will experience includes all types of blessings. Shia scholars provide similar descriptions while emphasizing that righteousness includes love for the Ahlul Bayt as part of complete faith. Both traditions cite Quranic verses and Prophetic traditions describing the pleasures of Paradise in vivid detail. Classical scholars from both schools agree that the righteous are those who combine faith with good works, avoiding major sins and repenting from minor ones. Both Sunni hadith and Shia narrations describe the levels of Paradise and how one's degree of righteousness determines their rank and the magnitude of pleasure they experience. The practical teaching is identical: strive for righteousness through faith, worship, good character, and service to others, knowing that eternal pleasure awaits. The promise is certain and should motivate believers to persevere in goodness despite worldly hardships. The core doctrine of ultimate reward for the righteous is fully shared and equally emphasized in both Shia and Sunni Islam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر مکمل طور پر متفق ہیں کہ نیکوکاروں کو جنت اور ابدی خوشی سے نوازا جائے گا۔ ابن کثیر جیسے سنی مفسرین 'ابرار' کو ان لوگوں کے طور پر بیان کرتے ہیں جو ایمان میں مخلص اور نیک اعمال میں ممتاز ہیں اور وضاحت کرتے ہیں کہ انہیں ہر قسم کی نعمتوں کا تجربہ ہوگا۔ شیعہ علماء اسی طرح کی تشریح فراہم کرتے ہیں اور اس بات پر زور دیتے ہیں کہ نیکی میں کامل ایمان کے حصے کے طور پر اہل بیت علیہم السلام سے محبت شامل ہے۔ دونوں روایات جنت کی خوشیوں کو واضح طور پر بیان کرنے والی قرآنی آیات اور نبوی احادیث کا حوالہ دیتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء اس بات پر متفق ہیں کہ نیکی ایمان اور اعمال کو جمع کرتی ہے اور بغیر توبہ کے بڑے گناہوں سے بچنا ضروری ہے۔ دونوں سنی حدیث اور شیعہ روایات جنت کے درجات کو بیان کرتی ہیں اور یہ کہ نیکی کا درجہ تجربے کی خوشی کی مقدار کو کیسے متعین کرتا ہے۔ عملی تعلیم دونوں روایات میں یکساں ہے: ایمان، عبادت، اچھا اخلاق اور دوسروں کی خدمت کے ذریعے نیکی کی کوشش کریں یہ جانتے ہوئے کہ ابدی خوشی آپ کا انتظار کر رہی ہے۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً كاملاً على أن الأبرار سيُجازَون بالجنة ونعيمها الأبدي. ويصف علماء السنة كابن كثير الأبرار بأنهم المخلصون في الإيمان المتفوِّقون في العمل الصالح، ويُبيِّنون أن النعيم الذي سيتمتَّعون به يشمل ضروب البركات والعطاء جميعاً. ويُقدِّم علماء الشيعة تفسيرات مماثلة مع التشديد على أن البرَّ يضمُّ محبَّة أهل البيت عليهم السلام بوصفها جزءاً لا يتجزَّأ من الإيمان الكامل. ويستشهد كلا التراثين بالآيات القرآنية والأحاديث النبوية التي تصف نعيم الجنة بصور حية مؤثِّرة. ويتفق العلماء الكلاسيكيون من التراثين على أن الأبرار هم الجامعون بين الإيمان والعمل الصالح المُتحاشون للكبائر التائبون من الصغائر. وتصف كل من الأحاديث السنية والروايات الشيعية درجات الجنة وكيف يُحدِّد مستوى برِّ العبد رتبته وعظم نعيمه. والتعليم العملي متطابق: اسعَ إلى البرِّ بالإيمان والعبادة وحسن الخُلُق والخدمة لله والخلق، مُستيقناً أن النعيم الأبدي ينتظرك. والوعد يقين ينبغي أن يبعثك على الثبات في الخير رغم مشقَّات الدنيا. والعقيدة الجوهرية بشأن الجزاء الأبدي للأبرار مشتركة كاملاً ومُؤكَّدة بنفس القوة في الإسلامين الشيعي والسني."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:14:wicked-punishment",
+          "title": "Eternal Fire",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The wicked (ٱلْفُجَّارَ) will be in Hellfire (جَحِيمٍ) - a stark contrast to the righteous in bliss.",
+          "whyItMatters": "The reality of Hell is not meant to terrorize but to motivate us to choose righteousness and avoid wickedness.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍۢ",
+          "title_urdu": "ابدی آگ",
+          "coreInsight_urdu": "بدکار لوگ جہنم میں ہوں گے - نیک لوگوں کی خوشی سے بالکل مختلف۔",
+          "whyItMatters_urdu": "جہنم کی حقیقت دہشت زدہ کرنے کے لیے نہیں بلکہ ہمیں نیکی کا انتخاب کرنے کی ترغیب دینے کے لیے ہے۔",
+          "title_ar": "النار الأبدية",
+          "coreInsight_ar": "الفجار في الجحيم - تناقض صارخ مع الأبرار في النعيم.",
+          "whyItMatters_ar": "واقع الجحيم ليس لإرهابنا بل لتحفيزنا على اختيار البر."
+        },
+        {
+          "id": "82:14:fujjar-defined",
+          "title": "The Wicked",
+          "icon": "xmark.seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'ٱلْفُجَّارَ' refers to those who break their covenants with Allah, indulge in sins openly, and reject accountability.",
+          "whyItMatters": "Wickedness is characterized by persistent rebellion and rejection of guidance, not by human weakness or occasional errors.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْفُجَّارَ",
+          "title_urdu": "بدکار",
+          "coreInsight_urdu": "'ٱلْفُجَّارَ' ان لوگوں کی طرف اشارہ کرتا ہے جو اللہ کے ساتھ اپنے عہد کو توڑتے ہیں اور کھلے عام گناہوں میں مبتلا ہوتے ہیں۔",
+          "whyItMatters_urdu": "برائی مسلسل بغاوت اور رہنمائی کے انکار سے متصف ہے، انسانی کمزوری سے نہیں۔",
+          "title_ar": "الفجار",
+          "coreInsight_ar": "'ٱلْفُجَّارَ' يشير إلى الذين ينقضون عهودهم مع الله ويرتكبون الذنوب علنًا.",
+          "whyItMatters_ar": "الفجور يتميز بالتمرد المستمر ورفض الهداية."
+        },
+        {
+          "id": "82:14:parallel-structure",
+          "title": "Perfect Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The parallel structure 'ٱلْأَبْرَارَ لَفِى نَعِيمٍ' and 'ٱلْفُجَّارَ لَفِى جَحِيمٍ' emphasizes divine justice - each group gets exactly what they earned.",
+          "whyItMatters": "Perfect justice means our eternal destiny is not arbitrary but directly tied to our choices and actions in this life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِنَّ ٱلْفُجَّارَ لَفِى",
+          "title_urdu": "کامل انصاف",
+          "coreInsight_urdu": "متوازی ساخت الہی انصاف پر زور دیتی ہے - ہر گروہ کو بالکل وہی ملتا ہے جو اس نے کمایا۔",
+          "whyItMatters_urdu": "کامل انصاف کا مطلب ہے ہماری ابدی تقدیر من مانی نہیں بلکہ ہمارے انتخاب سے جڑی ہوئی ہے۔",
+          "title_ar": "العدالة المثالية",
+          "coreInsight_ar": "الهيكل المتوازي يؤكد العدالة الإلهية - كل مجموعة تحصل على ما كسبته بالضبط.",
+          "whyItMatters_ar": "العدالة المثالية تعني أن مصيرنا الأبدي مرتبط باختياراتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions completely agree that the wicked will face punishment in Hell. Sunni commentators like Ibn Kathir describe the fujjar as persistent sinners and disbelievers who rejected faith and engaged in corruption, explaining that they will face the torment of jahim, the blazing fire. Shia scholars provide similar interpretations while noting that among the worst of the wicked are those who oppressed the Prophet's family and their followers. Both traditions cite extensive Quranic verses and hadith describing the punishments of Hell and the characteristics of those who will enter it. Classical scholars from both schools agree that wickedness involves both disbelief and persistent major sins, and that sincere repentance can save even the worst sinner if they turn back before death. Both Sunni and Shia scholars discuss the various levels and names of Hell, with jahim being one of the terms emphasizing intense heat and burning. The practical teaching is identical across both traditions: fear this outcome enough to avoid wickedness, take sin seriously, repent sincerely, and strive for righteousness. Both schools emphasize that divine justice requires punishment for the wicked just as it requires reward for the righteous. The core doctrine of Hell as the ultimate consequence of persistent wickedness is fully shared between Shia and Sunni Islam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر مکمل طور پر متفق ہیں کہ بدکاروں کو دوزخ میں سزا ملے گی۔ ابن کثیر جیسے سنی مفسرین فجار کو مستقل گناہگاروں اور کافروں کے طور پر بیان کرتے ہیں جنہوں نے ایمان کو رد کیا اور بگاڑ میں مشغول رہے اور وضاحت کرتے ہیں کہ وہ جحیم کی تکلیف کا سامنا کریں گے۔ شیعہ علماء ایک جیسی تشریح فراہم کرتے ہیں اور ساتھ نوٹ کرتے ہیں کہ سب سے بدتر بدکاروں میں وہ شامل ہیں جنہوں نے نبی صلی اللہ علیہ وآلہ وسلم کے خاندان اور ان کے پیروکاروں پر ظلم کیا۔ دونوں روایات جامع قرآنی آیات اور احادیث پیش کرتی ہیں جو دوزخ کی سزاؤں اور اس میں داخل ہونے والوں کی خصوصیات کو بیان کرتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء اس بات پر متفق ہیں کہ بدکاری میں کفر اور توبہ کے بغیر مستقل بڑے گناہ شامل ہیں اور سچی توبہ سب سے بڑے گناہگار کو بھی بچا سکتی ہے اگر موت سے پہلے کی جائے۔ عملی تعلیم دونوں روایات میں ایک جیسی ہے: اس انجام کا ڈر ایسا ہو کہ بدکاری سے بچیں، گناہ کو سنجیدگی سے لیں، سچی توبہ کریں اور نیکی میں جدوجہد کریں۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً كاملاً على أن الفجَّار سيُعذَّبون في النار. ويصف علماء السنة كابن كثير الفجَّارَ بأنهم المصرُّون على الذنب والجاحدون للحق الغارقون في الفساد، ويُبيِّنون أنهم سيلاقون عذاب الجحيم وعقوبته. ويُقدِّم علماء الشيعة تفسيرات مماثلة مع الإشارة إلى أن من أشدِّ الفجَّار ذنباً من ظلموا آل النبي صلى الله عليه وآله وسلم وأتباعهم. ويستشهد كلا التراثين بآيات قرآنية وأحاديث مستفيضة تصف عقوبات جهنَّم وصفات من سيدخلها. ويتفق العلماء الكلاسيكيون من التراثين على أن الفجور يشمل الكفر والإصرار على الكبائر، وأن التوبة الصادقة تُنجِّي حتى أشدَّ العصاة إن تاب قبل الموت. ويتناول علماء السنة والشيعة الدرجات المختلفة في جهنَّم وأسماءها المتعددة ومنها الجحيم الدالَّة على الاشتعال الشديد. والتعليم العملي متطابق في التراثين: خَفِ هذا المآل خشيةً تكفُّك عن الفجور وتحمِلك على التوبة وتدفعك إلى الصلاح. ويُؤكِّد المذهبان أن العدل الإلهي يستلزم عقاب الفجَّار كما يستلزم ثواب الأبرار. وهذه العقيدة الجوهرية بشأن جهنَّم جزاءً للفجور مشتركة كاملاً بين الإسلامين الشيعي والسني."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:15:enter-to-burn",
+          "title": "Active Punishment",
+          "icon": "flame.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verb 'يَصْلَوْنَهَا' means they will enter to burn in it - not passive observation but active experience of punishment.",
+          "whyItMatters": "Hell is not merely a place but an active state of suffering that the wicked will fully experience.",
+          "position": "topLeft",
+          "arabicHighlight": "يَصْلَوْنَهَا",
+          "title_urdu": "فعال سزا",
+          "coreInsight_urdu": "فعل 'يَصْلَوْنَهَا' کا مطلب ہے وہ اس میں جلنے کے لیے داخل ہوں گے - غیر فعال مشاہدہ نہیں بلکہ سزا کا فعال تجربہ۔",
+          "whyItMatters_urdu": "جہنم محض ایک جگہ نہیں بلکہ تکلیف کی ایک فعال حالت ہے۔",
+          "title_ar": "العقاب النشط",
+          "coreInsight_ar": "الفعل 'يَصْلَوْنَهَا' يعني سيدخلون ليحترقوا فيها - ليس ملاحظة سلبية بل تجربة نشطة للعقاب.",
+          "whyItMatters_ar": "الجحيم ليس مجرد مكان بل حالة نشطة من المعاناة."
+        },
+        {
+          "id": "82:15:day-of-recompense",
+          "title": "Judgment Day Arrival",
+          "icon": "calendar.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'يَوْمَ ٱلدِّينِ' (Day of Recompense) is when accounts are settled and justice is perfectly executed.",
+          "whyItMatters": "This Day gives meaning to our earthly struggles - temporary injustices will be rectified, and all wrongs will be addressed.",
+          "position": "topRight",
+          "arabicHighlight": "يَوْمَ ٱلدِّينِ",
+          "title_urdu": "روز جزا کی آمد",
+          "coreInsight_urdu": "'يَوْمَ ٱلدِّينِ' وہ دن ہے جب حساب کا تصفیہ ہوتا ہے اور انصاف کامل طور پر نافذ ہوتا ہے۔",
+          "whyItMatters_urdu": "یہ دن ہماری زمینی جدوجہد کو معنی دیتا ہے - عارضی ناانصافیوں کو درست کیا جائے گا۔",
+          "title_ar": "وصول يوم الحساب",
+          "coreInsight_ar": "'يَوْمَ ٱلدِّينِ' هو اليوم الذي تُسوّى فيه الحسابات وتُنفذ العدالة بشكل مثالي.",
+          "whyItMatters_ar": "هذا اليوم يعطي معنى لكفاحنا الأرضي - الظلم المؤقت سيُصحح."
+        },
+        {
+          "id": "82:15:immediate-entry",
+          "title": "No Delay",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The structure suggests immediate entry into punishment on the Day of Judgment - no waiting period or delay.",
+          "whyItMatters": "The swiftness of divine justice should motivate us to seek forgiveness now, while we still have time.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَصْلَوْنَهَا يَوْمَ",
+          "title_urdu": "کوئی تاخیر نہیں",
+          "coreInsight_urdu": "ساخت روز قیامت میں سزا میں فوری داخلے کی تجویز کرتی ہے۔",
+          "whyItMatters_urdu": "الہی انصاف کی تیزی ہمیں اب معافی مانگنے کی ترغیب دینی چاہیے، جب کہ ہمارے پاس وقت ہے۔",
+          "title_ar": "لا تأخير",
+          "coreInsight_ar": "الهيكل يقترح دخولًا فوريًا للعقاب يوم القيامة.",
+          "whyItMatters_ar": "سرعة العدالة الإلهية يجب أن تحفزنا على طلب المغفرة الآن."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions completely agree that the wicked will enter Hell on the Day of Judgment. Sunni commentators like Ibn Kathir and Al-Qurtubi explain that 'yaslawnaha' means they will enter Hell to experience its burning, and that this will occur on the Day of Recompense when all are judged according to their deeds. Shia scholars provide identical interpretations while emphasizing from the narrations of the Imams the comprehensive nature of the torment and the certainty of divine justice. Both traditions cite the same Quranic verses establishing the Day of Judgment as the time of ultimate accountability and recompense. Classical scholars from both schools discuss the wisdom in delaying punishment to the Hereafter, generally agreeing that it gives people opportunity to repent and ensures that justice is served even when worldly systems fail. Both Sunni hadith and Shia narrations describe the Day of Judgment in vivid detail, including the entry of the wicked into Hell. The practical teaching is identical across both traditions: live with awareness of the Day of Recompense, avoid wickedness, seek repentance for sins, and prepare for that inevitable Day through faith and righteous deeds. Both schools emphasize that divine justice is certain: the righteous will be rewarded and the wicked will be punished on the Day of Recompense. This core doctrine is fully shared between Shia and Sunni Islam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر مکمل طور پر متفق ہیں کہ بدکار قیامت کے دن دوزخ میں داخل ہوں گے۔ ابن کثیر اور قرطبی جیسے سنی مفسرین وضاحت کرتے ہیں کہ 'یصلونہا' کا مطلب ہے وہ دوزخ میں داخل ہوکر اس کی تپش کا تجربہ کریں گے اور یہ روزِ جزا پر ہوگا جب سب اپنے اعمال کے مطابق فیصلہ پائیں۔ شیعہ علماء ایک جیسی تشریح فراہم کرتے ہیں اور آئمہ علیہم السلام کی روایات سے عذاب کی جامع نوعیت اور الٰہی انصاف کی یقینیت کی تفصیلات شامل کرتے ہیں۔ دونوں روایات ایک جیسی قرآنی آیات پیش کرتی ہیں جو قیامت کو حتمی جوابدہی کا وقت ثابت کرتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء آخرت کے بجائے دنیا میں سزا مؤخر کرنے کی حکمت پر بحث کرتے ہیں اور عام طور پر متفق ہیں کہ یہ توبہ کا موقع دیتا ہے۔ عملی تعلیم دونوں روایات میں یکساں ہے: روزِ جزا کی آگاہی کے ساتھ زندگی گزارو، بدکاری سے باز رہو، گناہوں کی توبہ کرو اور اس ناگزیر دن کے لیے ایمان اور نیک اعمال کے ذریعے تیاری کرو۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتفاقاً كاملاً على أن الفجَّار سيدخلون النار يوم الحساب. ويُبيِّن علماء السنة كابن كثير والقرطبي أن \"يصلونها\" يعني أنهم سيدخلون جهنَّم فيصطلون بعذابها، وأن ذلك سيكون يوم الدين حين يُحاسَب الجميع وفق أعمالهم. ويُقدِّم علماء الشيعة تفسيرات مطابقة مع التشديد من خلال روايات الأئمة على شمولية العذاب ويقين العدل الإلهي. ويستشهد كلا التراثين بالآيات القرآنية ذاتها المُقرِّرة ليوم الحساب بوصفه وقت المساءلة والجزاء الأبدي. ويناقش العلماء الكلاسيكيون من التراثين الحكمة في تأجيل العقاب إلى الآخرة، فيُجمعون على أنه يمنح الناس فرصة التوبة ويضمن إقامة العدل حين تُخفق المنظومات البشرية. وتصف كل من الأحاديث السنية والروايات الشيعية يوم القيامة تفصيلياً شاملاً دخول الفجَّار جهنَّم. والتعليم العملي متطابق في التراثين: عِش على وعي بيوم الدين وتحاشَ الفجور واطلب التوبة من الذنوب وتهيَّأ لذلك اليوم الحتمي بالإيمان والعمل الصالح. ويُؤكِّد المذهبان أن العدل الإلهي يقين: سيُثاب الأبرار وسيُعاقَب الفجَّار يوم الدين. وهذه العقيدة الجوهرية مشتركة كاملاً ومُتَّفق عليها بين الإسلامين الشيعي والسني."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:16:permanent-state",
+          "title": "No Escape",
+          "icon": "lock.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "They will never be absent from it - emphasizing the permanent, eternal nature of Hell for the wicked.",
+          "whyItMatters": "The eternity of punishment underscores the seriousness of our choices and the importance of seeking Allah's mercy before death.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+          "title_urdu": "کوئی فرار نہیں",
+          "coreInsight_urdu": "وہ کبھی اس سے غائب نہیں ہوں گے - جہنم کی مستقل، ابدی نوعیت پر زور۔",
+          "whyItMatters_urdu": "سزا کی ابدیت ہمارے انتخاب کی سنجیدگی اور موت سے پہلے اللہ کی رحمت تلاش کرنے کی اہمیت کو اجاگر کرتی ہے۔",
+          "title_ar": "لا هروب",
+          "coreInsight_ar": "لن يغيبوا عنها أبدًا - يؤكد على الطبيعة الدائمة الأبدية للجحيم.",
+          "whyItMatters_ar": "أبدية العقاب تؤكد خطورة اختياراتنا وأهمية طلب رحمة الله قبل الموت."
+        },
+        {
+          "id": "82:16:double-negative",
+          "title": "Absolute Emphasis",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The double negative 'مَا... بِغَآئِبِينَ' (not... absent) provides strong emphasis - there's absolutely no possibility of absence.",
+          "whyItMatters": "Allah's linguistic emphasis demands we take the reality of eternal consequences seriously in our decision-making.",
+          "position": "topRight",
+          "arabicHighlight": "هُمْ عَنْهَا بِغَآئِبِينَ",
+          "title_urdu": "مطلق تاکید",
+          "coreInsight_urdu": "دوہری نفی مضبوط تاکید فراہم کرتی ہے - غیر حاضری کا بالکل کوئی امکان نہیں۔",
+          "whyItMatters_urdu": "اللہ کی لسانی تاکید مطالبہ کرتی ہے کہ ہم ابدی نتائج کی حقیقت کو سنجیدگی سے لیں۔",
+          "title_ar": "التأكيد المطلق",
+          "coreInsight_ar": "النفي المزدوج 'مَا... بِغَآئِبِينَ' يوفر تأكيدًا قويًا - لا إمكانية للغياب على الإطلاق.",
+          "whyItMatters_ar": "التأكيد اللغوي لله يتطلب منا أخذ واقع العواقب الأبدية بجدية."
+        },
+        {
+          "id": "82:16:continuous-presence",
+          "title": "Eternal Presence",
+          "icon": "infinity",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Unlike worldly prisons with potential release, Hellfire has no parole, no escape, no diminishment - continuous presence forever.",
+          "whyItMatters": "Understanding that there's no 'second chance' after death should motivate us to use this life - our only opportunity - wisely.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِغَآئِبِينَ",
+          "title_urdu": "ابدی موجودگی",
+          "coreInsight_urdu": "دنیاوی جیلوں کے برعکس، جہنم میں کوئی رہائی نہیں - ہمیشہ کے لیے مسلسل موجودگی۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ موت کے بعد کوئی 'دوسرا موقع' نہیں ہے، ہمیں اس زندگی کو دانشمندی سے استعمال کرنے کی ترغیب دینی چاہیے۔",
+          "title_ar": "الوجود الأبدي",
+          "coreInsight_ar": "على عكس السجون الدنيوية، لا إفراج من الجحيم - وجود مستمر إلى الأبد.",
+          "whyItMatters_ar": "فهم أنه لا توجد 'فرصة ثانية' بعد الموت يجب أن يحفزنا على استخدام هذه الحياة بحكمة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental meaning of this verse regarding the eternal punishment of disbelievers in Hell. Classical Sunni exegetes like Ibn Kathir and Tabari emphasize the permanence of Hell for disbelievers, with no possibility of escape or relief. Fakhr al-Din al-Razi in his Mafatih al-Ghayb discusses the grammatical emphasis of the verse, noting that the Arabic construction leaves no room for doubt about the eternal nature of this punishment. A significant area of agreement is that this verse applies primarily to those who die in a state of disbelief (kufr). Where traditions diverge is in the application to sinful Muslims. Some Sunni schools, particularly Ash'ari theology, hold that all Muslims eventually exit Hell regardless of sins, while Mu'tazili thought (closer to some Shia positions) emphasizes that grave sinners who die unrepentant may face extended or eternal punishment unless saved by divine mercy or intercession. Shia theology, following the teachings of the Imams, holds that intercession will benefit believers but emphasizes the critical importance of dying with faith and connection to Wilayah. Both traditions agree that this verse serves as a warning against complacency and a call to righteous living, though they differ on the precise boundaries of who might eventually receive mercy.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء کافروں کے جہنم میں ابدی عذاب کے بنیادی معنی پر متفق ہیں۔ ابن کثیر اور طبری جیسے کلاسیکی سنی مفسرین کافروں کے لیے جہنم کی ابدیت پر زور دیتے ہیں اور فرار یا راحت کا کوئی امکان نہیں بتاتے۔ فخر الدین رازی نے اپنی مفاتيح الغيب میں آیت کی گرامری کے زور پر بحث کی ہے اور نوٹ کیا ہے کہ عربی ڈھانچہ اس سزا کی ابدی نوعیت کے بارے میں کسی شک کی گنجائش نہیں چھوڑتا۔ اتفاق رائے کا ایک اہم شعبہ یہ ہے کہ یہ آیت بنیادی طور پر ان لوگوں پر لاگو ہوتی ہے جو کفر (ناایمانی) کی حالت میں مرتے ہیں۔ جہاں روایات میں اختلاف ہے وہ گناہگار مسلمانوں کے معاملے میں ہے۔ بعض سنی مکاتبِ فکر، خاص طور پر اشعری الٰہیات، یہ موقف رکھتی ہے کہ تمام مسلمان بالآخر جہنم سے نکلتے ہیں قطع نظر گناہوں کے، جبکہ معتزلی فکر (بعض شیعہ مواقف کے قریب) یہ زور دیتی ہے کہ جو سنگین گناہگار بغیر توبہ کے مرتے ہیں انہیں طویل یا ابدی سزا بھگتنی پڑ سکتی ہے جب تک الٰہی رحمت یا شفاعت نہ ہو۔ شیعہ الٰہیات آئمہ علیہم السلام کی تعلیمات کی روشنی میں یہ موقف رکھتی ہے کہ شفاعت ایمان اور ولایت کی وابستگی کے ساتھ مرنے والے مومنوں کو فائدہ پہنچائے گی۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت سستی کے خلاف تنبیہ اور راستگی کی ترغیب کا کام کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الجوهري لهذه الآية في شأن خلود الكافرين في جهنَّم. ويُؤكِّد المفسِّرون السنة الكلاسيكيون كابن كثير والطبري أبدية جهنَّم للكافرين دون أمل في فرار أو نجاة. ويُناقش فخر الدين الرازي في مفاتيح الغيب الدلالة النحوية للآية، مُلاحِظاً أن التركيب العربي لا يدع مجالاً للتشكيك في طابع العقاب الأبدي. وثمة اتفاق واسع بين المذهبين على أن هذه الآية تنطبق أساساً على من يلقون ربَّهم حاملين وصمة الكفر. وموضع الاختلاف الدقيق هو تطبيقها على المسلمين المرتكبين للكبائر؛ فبعض المذاهب السنية ولا سيما الأشعرية ترى أن جميع المسلمين سيخرجون من النار في نهاية المطاف بصرف النظر عن ذنوبهم، بينما يُقرِّب الاعتزال موقفه إلى بعض ما ذهب إليه الشيعة من احتمال استمرار عذاب أصحاب الكبائر الميتين بلا توبة ما لم تُدركهم رحمة الله أو شفاعة أهل الشفاعة. ويُقرِّر اللاهوت الشيعي وفق تعاليم الأئمة عليهم السلام أن الشفاعة ستُجدي المؤمنين المتمسِّكين بالولاية، مع التشديد على أهمية الموت على الإيمان. ويتطابق كلا التراثين في الدرس العملي: هذه الآية نفير من الغفلة ودعوة إلى الحياة الصالحة، وإن تباينا في تحديد من قد تبلغه الرحمة الإلهية في نهاية المطاف."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:17:rhetorical-question",
+          "title": "Beyond Comprehension",
+          "icon": "questionmark.diamond.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'وَمَآ أَدْرَىٰكَ' (And what can make you know) is a rhetorical question emphasizing that the Day of Recompense is beyond human comprehension.",
+          "whyItMatters": "Our limited minds cannot fully grasp the magnitude of Judgment Day, which should inspire both awe and preparation.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+          "title_urdu": "فہم سے ماوراء",
+          "coreInsight_urdu": "'وَمَآ أَدْرَىٰكَ' ایک بلاغی سوال ہے جو اس بات پر زور دیتا ہے کہ روز جزا انسانی فہم سے ماوراء ہے۔",
+          "whyItMatters_urdu": "ہمارے محدود ذہن روز قیامت کی وسعت کو مکمل طور پر نہیں سمجھ سکتے، جو خوف اور تیاری دونوں کو متاثر کرنا چاہیے۔",
+          "title_ar": "ما وراء الفهم",
+          "coreInsight_ar": "'وَمَآ أَدْرَىٰكَ' سؤال بلاغي يؤكد أن يوم الحساب يتجاوز الفهم البشري.",
+          "whyItMatters_ar": "عقولنا المحدودة لا تستطيع استيعاب عظمة يوم القيامة بالكامل."
+        },
+        {
+          "id": "82:17:day-magnified",
+          "title": "Incomparable Day",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "By questioning our ability to comprehend it, Allah magnifies the Day of Recompense as something extraordinary and unprecedented.",
+          "whyItMatters": "This magnification should prevent us from becoming complacent or treating Judgment Day as an ordinary concept.",
+          "position": "topRight",
+          "arabicHighlight": "مَا يَوْمُ ٱلدِّينِ",
+          "title_urdu": "بے مثال دن",
+          "coreInsight_urdu": "ہماری فہم کی صلاحیت پر سوال کر کے، اللہ روز جزا کو غیر معمولی کے طور پر بڑا کرتا ہے۔",
+          "whyItMatters_urdu": "یہ بڑا کرنا ہمیں مطمئن ہونے یا روز قیامت کو عام تصور کے طور پر لینے سے روکنا چاہیے۔",
+          "title_ar": "يوم لا مثيل له",
+          "coreInsight_ar": "باستجواب قدرتنا على استيعابه، يعظّم الله يوم الحساب كشيء استثنائي.",
+          "whyItMatters_ar": "هذا التعظيم يجب أن يمنعنا من الرضا عن النفس."
+        },
+        {
+          "id": "82:17:wake-up-call",
+          "title": "Alert Consciousness",
+          "icon": "bell.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This rhetorical question serves as a wake-up call, shaking us from heedlessness about the reality and gravity of the final Day.",
+          "whyItMatters": "We need regular reminders about the Day of Judgment to maintain consciousness and avoid spiritual complacency.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ",
+          "title_urdu": "بیداری کی پکار",
+          "coreInsight_urdu": "یہ بلاغی سوال ایک جگانے والی پکار کے طور پر کام کرتا ہے، ہمیں آخری دن کی حقیقت کی بے حسی سے ہلاتا ہے۔",
+          "whyItMatters_urdu": "ہمیں شعور برقرار رکھنے کے لیے روز قیامت کی باقاعدہ یاد دہانیوں کی ضرورت ہے۔",
+          "title_ar": "إيقاظ الوعي",
+          "coreInsight_ar": "هذا السؤال البلاغي بمثابة نداء إيقاظ، يهزنا من الغفلة عن واقع اليوم الأخير.",
+          "whyItMatters_ar": "نحتاج إلى تذكيرات منتظمة بيوم القيامة للحفاظ على الوعي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions unanimously affirm the reality and significance of Yawm al-Din as a fundamental article of faith. Classical Sunni exegetes like Tabari and Ibn Kathir interpret this rhetorical question similarly to Shia scholars, emphasizing the incomprehensible magnitude of the Day of Judgment. Al-Qurtubi in his tafsir notes that this question format appears throughout the Quran to emphasize matters of grave importance that transcend human understanding. Both traditions agree that belief in the Day of Judgment is one of the six pillars of faith (iman) and serves as the foundation for moral accountability. The theological consensus across Islamic schools is that this day will involve resurrection of bodies, gathering of all souls, presentation of deeds, divine judgment, and distribution to Paradise or Hell. Differences emerge in some details: for instance, some Sunni traditions emphasize that only Prophet Muhammad will intercede, while Shia theology holds that the Ahlul Bayt also have intercession by Allah's permission. Both traditions use this verse to encourage righteous living and spiritual preparation. Scholars across both schools agree that the rhetorical question serves a pedagogical purpose, making the concept of divine judgment more vivid and impactful than simple declarative statements, thus motivating believers to live according to divine guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات یومُ الدِّین کی حقیقت اور اہمیت کی متفقہ طور پر تائید کرتی ہیں جو ایمان کا ایک بنیادی رکن ہے۔ طبری اور ابن کثیر جیسے کلاسیکی سنی مفسرین اس استفہامی سوال کی تشریح شیعہ علماء کی طرح کرتے ہیں اور روزِ قیامت کی ناقابلِ ادراک عظمت پر زور دیتے ہیں۔ قرطبی نے اپنی تفسیر میں نوٹ کیا ہے کہ یہ سوال کی شکل پورے قرآن میں انتہائی اہم معاملات کی تاکید کے لیے ظاہر ہوتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ روزِ قیامت پر ایمان ایمان کے چھ ارکان میں سے ایک ہے اور نیک زندگی اور روحانی تیاری کی بنیاد کے طور پر کام کرتا ہے۔ مختلف اسلامی مکاتبِ فکر میں الٰہیاتی اتفاق رائے یہ ہے کہ اس دن میں جسموں کا بعث، تمام روحوں کا اجتماع، اعمال کی پیشی، الٰہی فیصلہ اور جنت یا دوزخ میں تقسیم شامل ہوگی۔ کچھ اختلافات سامنے آتے ہیں جیسے کچھ سنی روایات صرف نبی محمد صلی اللہ علیہ وسلم کی شفاعت پر زور دیتی ہیں جبکہ شیعہ الٰہیات یہ موقف رکھتی ہے کہ اہل بیت علیہم السلام بھی اللہ کی اجازت سے شفاعت کریں گے۔ دونوں روایات اس آیت کو مومنوں کو راستگی پر مستقل نیک اعمال اور اخلاقی چوکسی پر ابھارنے اور الٰہی رہنمائی کے مطابق زندگی بسر کرنے کی ترغیب دینے کے لیے استعمال کرتی ہیں۔",
+    "layer4_ar": "يُجمع كلا التراثين الشيعي والسني على حقيقة يوم الدين ومكانته بوصفه ركناً ركيناً من أركان الإيمان. ويُفسِّر المفسِّرون السنة الكلاسيكيون كالطبري وابن كثير هذا السؤال البلاغي بصورة لا تختلف جوهرياً عن تفسير علماء الشيعة، مع التأكيد على عجز الإنسان عن الإحاطة بحقيقة يوم الدين. ويُلاحظ القرطبي في تفسيره أن هذا الأسلوب الاستفهامي يظهر في القرآن الكريم حين يُعالَج أمر بالغ الأهمية يتخطَّى الفهم البشري. ويتفق التراثان على أن الإيمان بيوم الدين ركن من أركان الإيمان الستة وأساس المساءلة الأخلاقية. والتوافق العقدي بين المذاهب الإسلامية راسخ في أن ذلك اليوم يشمل بعث الأجساد وحشر جميع النفوس وعرض الأعمال والحكم الإلهي ثم التوزيع إلى الجنة أو النار. وتبرز تباينات في بعض التفاصيل؛ إذ تُشدِّد بعض الروايات السنية على انحصار الشفاعة في النبي صلى الله عليه وآله وسلم، بينما يؤمن اللاهوت الشيعي بأن لأهل البيت عليهم السلام شفاعةً بإذن الله. غير أن كلا التراثين يُوظِّفان هذه الآية لتحثيث المؤمنين على الصلاح والاستعداد الروحي. ويتفق العلماء في المذهبين على أن الصيغة البلاغية الاستفهامية تُؤدِّي غرضاً تعليمياً يجعل الحكم الإلهي أشدَّ حضوراً وتأثيراً في الوجدان من التقرير الجامد، فيُحفِّز المؤمنين على سلوك نهج الهدى."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:18:repeated-emphasis",
+          "title": "Double Question",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E57373",
+          "coreInsight": "The question is repeated with 'ثُمَّ' (then) - emphasizing twice that we cannot fully comprehend the Day of Recompense.",
+          "whyItMatters": "The repetition shows Allah's insistence that we truly grasp our inability to grasp it - humbling our intellectual pride.",
+          "position": "topLeft",
+          "arabicHighlight": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+          "title_urdu": "دوہرا سوال",
+          "coreInsight_urdu": "سوال 'ثُمَّ' کے ساتھ دہرایا گیا ہے - دو بار زور دیتا ہے کہ ہم روز جزا کو مکمل طور پر نہیں سمجھ سکتے۔",
+          "whyItMatters_urdu": "تکرار اللہ کا اصرار ظاہر کرتی ہے کہ ہم واقعی اپنی نااہلی کو سمجھیں - ہمارے فکری غرور کو عاجز کرتے ہوئے۔",
+          "title_ar": "السؤال المزدوج",
+          "coreInsight_ar": "السؤال مكرر مع 'ثُمَّ' - يؤكد مرتين أننا لا نستطيع استيعاب يوم الحساب بالكامل.",
+          "whyItMatters_ar": "التكرار يُظهر إصرار الله على أن ندرك حقًا عجزنا عن فهمه."
+        },
+        {
+          "id": "82:18:sequential-emphasis",
+          "title": "Layered Warning",
+          "icon": "layers.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'ثُمَّ' (then) creates a pause, making us reflect on the first question before hitting us with it again - layered emphasis.",
+          "whyItMatters": "This rhetorical technique forces deeper contemplation rather than casual acknowledgment of the Day's importance.",
+          "position": "topRight",
+          "arabicHighlight": "ثُمَّ",
+          "title_urdu": "پرت دار تنبیہ",
+          "coreInsight_urdu": "'ثُمَّ' ایک وقفہ پیدا کرتا ہے، ہمیں پہلے سوال پر غور کرنے کا موقع دیتا ہے - پرت دار تاکید۔",
+          "whyItMatters_urdu": "یہ بلاغی تکنیک دن کی اہمیت کے عام اعتراف کے بجائے گہرے غور و فکر پر مجبور کرتی ہے۔",
+          "title_ar": "التحذير الطبقي",
+          "coreInsight_ar": "'ثُمَّ' تخلق وقفة، تجعلنا نتأمل في السؤال الأول - تأكيد طبقي.",
+          "whyItMatters_ar": "هذه التقنية البلاغية تجبر على تأمل أعمق."
+        },
+        {
+          "id": "82:18:intensification",
+          "title": "Escalating Magnitude",
+          "icon": "arrow.up.right.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Each repetition intensifies the magnitude - if you didn't grasp how incomprehensible it is the first time, consider it again more deeply.",
+          "whyItMatters": "We should never become familiar or casual with the concept of Judgment Day - it deserves ongoing awe and serious reflection.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَآ أَدْرَىٰكَ",
+          "title_urdu": "بڑھتی ہوئی وسعت",
+          "coreInsight_urdu": "ہر تکرار وسعت کو بڑھاتی ہے - اگر آپ پہلی بار نہیں سمجھے کہ یہ کتنا ناقابل فہم ہے، تو دوبارہ گہرائی سے غور کریں۔",
+          "whyItMatters_urdu": "ہمیں روز قیامت کے تصور سے کبھی مانوس یا آرام دہ نہیں ہونا چاہیے۔",
+          "title_ar": "تصاعد الحجم",
+          "coreInsight_ar": "كل تكرار يكثف الحجم - إذا لم تدرك مدى عدم قابليته للفهم في المرة الأولى، تأمل فيه مرة أخرى بعمق أكبر.",
+          "whyItMatters_ar": "يجب ألا نصبح مألوفين أو غير مبالين بمفهوم يوم القيامة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetical traditions recognize the rhetorical power of this repetition and its purpose in emphasizing the magnitude of the Day of Judgment. Classical Sunni commentators like Ibn Kathir explain that the repetition with 'thumma' intensifies the warning and increases the awe surrounding Yawm al-Din. Al-Razi in Mafatih al-Ghayb discusses various scholarly opinions about why the question is repeated, with most agreeing that it serves to magnify the importance and incomprehensibility of that day. Both traditions use this verse to encourage regular remembrance of death and the afterlife as a means of spiritual purification. Scholars across Islamic schools agree that the repetition is not redundant but serves a clear rhetorical and theological purpose. Where traditions converge is in the practical application: using this verse to motivate consistent good deeds, regular repentance, and spiritual vigilance. Some differences exist in the forms of preparation emphasized, with Shia tradition particularly stressing the importance of attachment to the Wilayah of the Ahlul Bayt as preparation for that day, while Sunni tradition emphasizes following the Sunnah of the Prophet. Despite these differences, there is universal agreement that this emphatic repetition serves as divine mercy, giving humanity multiple opportunities to wake up from heedlessness and prepare for the inevitable day of reckoning.",
+    "layer4_urdu": "شیعہ اور سنی دونوں تفسیری روایات اس اعادے کی بلاغی طاقت کو پہچانتی ہیں اور روزِ قیامت کی اہمیت پر اس کے زور کو سمجھتی ہیں۔ ابن کثیر جیسے کلاسیکی سنی مفسرین وضاحت کرتے ہیں کہ 'ثم' کے ساتھ اعادہ تنبیہ کو تیز کرتا اور یومِ دین کے گرد عظمت کے احساس کو بڑھاتا ہے۔ رازی نے مفاتيح الغيب میں مختلف علمی رائیوں پر بحث کی ہے کہ سوال کیوں دہرایا گیا اور زیادہ تر اس بات پر متفق ہیں کہ یہ ایک واضح بلاغی اور الٰہیاتی مقصد کی خدمت کرتا ہے۔ دونوں روایات اس آیت کو آخرت کی باقاعدہ یاددہانی کو روحانی پاکیزگی کے ذریعے کے طور پر فروغ دینے کے لیے استعمال کرتی ہیں۔ دونوں مکاتبِ فکر کے علماء اس بات پر متفق ہیں کہ اعادہ فالتو نہیں بلکہ ایک واضح بلاغی اور الٰہیاتی مقصد کی خدمت کرتا ہے۔ جہاں روایات مل جاتی ہیں وہاں عملی اطلاق ہے: اس آیت کا استعمال کرکے نیک اعمال، باقاعدہ توبہ اور روحانی چوکسی کی ترغیب دینا۔ بعض اختلافات تیاری کی تاکید کردہ اشکال میں ہیں، شیعہ روایت میں خاص طور پر اہل بیت علیہم السلام کی ولایت سے وابستگی کو اس دن کی تیاری کے طور پر اجاگر کیا جاتا ہے جبکہ سنی روایت نبی صلی اللہ علیہ وسلم کی سنت کی پیروی پر زور دیتی ہے۔ ان اختلافات کے باوجود اس قوی اعادے پر سب کا اتفاق ہے کہ یہ الٰہی رحمت کے طور پر کام کرتا ہے جو انسانیت کو غفلت سے بیدار کرنے اور آنے والے ناگزیر دن حساب کے لیے تیار کرنے کے متعدد مواقع فراہم کرتا ہے۔",
+    "layer4_ar": "يُدرك كلا التراثين الشيعي والسني القوة البلاغية لهذا التكرار ودوره في إبراز عظمة يوم الدين وجلالته. ويُوضِّح المفسِّرون السنة الكلاسيكيون كابن كثير أن التكرار مع \"ثمَّ\" يُكثِّف الإنذار ويُضاعف الهيبة المحيطة بيوم الدين. ويتناول الرازي في مفاتيح الغيب آراء العلماء المتعدِّدة في سبب التكرار، ومعظمهم يتَّفق على أنه يُعظِّم أهمية ذلك اليوم وينبِّه على أنه يتجاوز الفهم البشري. ويستعمل كلا التراثين هذه الآية لتشجيع الذكر المتكرِّر للموت والآخرة وسيلةً للتزكية الروحية. ويتفق علماء مختلف المذاهب على أن التكرار ليس ترفاً أسلوبياً بل يُؤدِّي غرضاً بلاغياً وعقدياً واضحاً. وأوجه التقاء التراثين في التطبيق العملي متعدِّدة: توظيف هذه الآية لتحفيز العمل الصالح المستمر والتوبة الدائمة واليقظة الروحية. والاختلاف الدقيق في طبيعة التهيُّؤ المُستحسَن، إذ يُشدِّد التراث الشيعي على أهمية التمسُّك بولاية أهل البيت عليهم السلام عدَّةً ليوم الدين، بينما يُؤكِّد التراث السني اتِّباع سنَّة النبي صلى الله عليه وآله وسلم. وبالرغم من هذا التباين، يُجمع الفريقان على أن هذا التكرار المُلِحَّ تعبير عن رحمة الله الواسعة، يمنح البشرية فرصاً متجدِّدة للصحوة من الغفلة والاستعداد لذلك اليوم الحتمي الموعود."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "82:19:complete-helplessness",
+          "title": "Total Helplessness",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "No soul will possess power to help another soul - complete individual accountability with no intercession except by Allah's permission.",
+          "whyItMatters": "All worldly connections and influences become powerless on that Day. Only our relationship with Allah and our deeds matter.",
+          "position": "topLeft",
+          "arabicHighlight": "يَوْمَ لَا تَمْلِكُ نَفْسٌۭ لِّنَفْسٍۢ",
+          "title_urdu": "مکمل بے بسی",
+          "coreInsight_urdu": "کوئی روح دوسری روح کی مدد کرنے کی طاقت نہیں رکھے گی - اللہ کی اجازت کے بغیر کوئی شفاعت نہیں۔",
+          "whyItMatters_urdu": "تمام دنیاوی تعلقات اور اثرات اس دن بے طاقت ہو جاتے ہیں۔ صرف اللہ کے ساتھ ہمارا تعلق اہم ہے۔",
+          "title_ar": "العجز التام",
+          "coreInsight_ar": "لن تملك نفس قوة لمساعدة نفس أخرى - مساءلة فردية كاملة بدون شفاعة إلا بإذن الله.",
+          "whyItMatters_ar": "جميع الروابط الدنيوية تصبح عاجزة في ذلك اليوم. فقط علاقتنا مع الله وأعمالنا تهم."
+        },
+        {
+          "id": "82:19:divine-sovereignty",
+          "title": "Allah's Complete Authority",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The command that Day is entirely with Allah - absolute divine sovereignty with no shared authority or competing powers.",
+          "whyItMatters": "Understanding Allah's complete control on Judgment Day should inspire us to submit to His authority now, while we still have choice.",
+          "position": "topRight",
+          "arabicHighlight": "ۖ وَٱلْأَمْرُ يَوْمَئِذٍۢ لِّلَّهِ",
+          "title_urdu": "اللہ کا مکمل اختیار",
+          "coreInsight_urdu": "اس دن کا حکم مکمل طور پر اللہ کے ساتھ ہے - مطلق الہی حاکمیت، کوئی مشترکہ اختیار نہیں۔",
+          "whyItMatters_urdu": "روز قیامت میں اللہ کے مکمل کنٹرول کو سمجھنا ہمیں اب اس کے اختیار کے سامنے جھکنے کی ترغیب دینی چاہیے۔",
+          "title_ar": "سلطة الله الكاملة",
+          "coreInsight_ar": "الأمر في ذلك اليوم لله بالكامل - سيادة إلهية مطلقة بدون سلطة مشتركة.",
+          "whyItMatters_ar": "فهم سيطرة الله الكاملة يوم القيامة يجب أن يلهمنا للخضوع لسلطته الآن."
+        },
+        {
+          "id": "82:19:individual-responsibility",
+          "title": "Stand Alone",
+          "icon": "person.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Each soul stands alone - parents can't help children, spouses can't help each other, wealth and status provide no advantage.",
+          "whyItMatters": "This reality should drive us to personal spiritual development rather than relying on others' piety or worldly advantages.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَا تَمْلِكُ نَفْسٌۭ",
+          "title_urdu": "تنہا کھڑے ہوں",
+          "coreInsight_urdu": "ہر روح اکیلی کھڑی ہے - والدین بچوں کی مدد نہیں کر سکتے، دولت اور حیثیت کوئی فائدہ نہیں دیتی۔",
+          "whyItMatters_urdu": "یہ حقیقت ہمیں دوسروں کی پرہیزگاری پر انحصار کے بجائے ذاتی روحانی ترقی کی طرف لے جانی چاہیے۔",
+          "title_ar": "الوقوف منفردًا",
+          "coreInsight_ar": "كل نفس تقف وحدها - الآباء لا يستطيعون مساعدة الأبناء، الثروة والمكانة لا توفر ميزة.",
+          "whyItMatters_ar": "هذا الواقع يجب أن يدفعنا للتطور الروحي الشخصي."
+        },
+        {
+          "id": "82:19:final-definition",
+          "title": "Day Defined",
+          "icon": "doc.text.magnifyingglass",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After asking twice what the Day is, Allah finally defines it - the Day when all human power disappears and only divine authority remains.",
+          "whyItMatters": "This definition answers the rhetorical questions: the Day of Recompense is when all earthly hierarchies dissolve into pure divine justice.",
+          "position": "bottomRight",
+          "arabicHighlight": "يَوْمَ",
+          "title_urdu": "دن کی تعریف",
+          "coreInsight_urdu": "دو بار پوچھنے کے بعد کہ یہ دن کیا ہے، اللہ آخر کار اس کی تعریف کرتا ہے - وہ دن جب تمام انسانی طاقت غائب ہو جاتی ہے۔",
+          "whyItMatters_urdu": "یہ تعریف بلاغی سوالوں کا جواب دیتی ہے: روز جزا وہ دن ہے جب تمام زمینی درجہ بندیاں خالص الہی انصاف میں حل ہو جاتی ہیں۔",
+          "title_ar": "تعريف اليوم",
+          "coreInsight_ar": "بعد السؤال مرتين عن ماهية اليوم، يعرّفه الله أخيرًا - اليوم الذي تختفي فيه كل قوة بشرية.",
+          "whyItMatters_ar": "هذا التعريف يجيب على الأسئلة البلاغية: يوم الحساب هو عندما تذوب كل التسلسلات الهرمية الأرضية في عدالة إلهية نقية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions unanimously agree on the fundamental meaning of this verse: the Day of Judgment is characterized by complete human helplessness and total divine sovereignty. Classical Sunni exegetes like Ibn Kathir and Tabari emphasize that no intercession or assistance occurs except by Allah's permission, which aligns with the Shia interpretation. Al-Qurtubi discusses how this verse negates all forms of polytheism and establishes pure monotheism (tawhid). Both traditions use this verse to teach that while worldly relationships are important, ultimate reliance must be on Allah alone. A significant area of agreement is that this verse does not negate intercession but rather places it within the framework of divine sovereignty. Where some nuanced differences exist is in the specific understanding of intercession. Shia theology emphasizes the intercession of the Prophet and Ahlul Bayt for believers who maintained Wilayah, while mainstream Sunni theology emphasizes the Prophet's intercession. However, both traditions agree that any intercession occurs solely by Allah's permission and is an expression of His mercy, not an independent power. Scholars across both schools use this verse to encourage believers to focus on earning Allah's pleasure through faith and righteous deeds, as this is the only reliable preparation for the Day of Judgment. The verse serves as a universal reminder that transcends sectarian differences, calling all Muslims to sincere faith and accountability before the One True God.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت کے بنیادی معنی پر متفق ہیں: روزِ قیامت مکمل انسانی بے بسی اور الٰہی حاکمیت کی مکمل سربلندی سے عبارت ہے۔ ابن کثیر اور طبری جیسے کلاسیکی سنی مفسرین اس بات پر زور دیتے ہیں کہ کوئی شفاعت یا مدد صرف اللہ کی اجازت کے سوا نہیں ہوتی جو شیعہ تشریح سے ہم آہنگ ہے۔ قرطبی نے بحث کی ہے کہ یہ آیت شرک کی تمام اشکال کو کیسے نفی کرتی اور توحید کو کیسے قائم کرتی ہے۔ دونوں روایات اس آیت کو یہ سکھانے کے لیے استعمال کرتی ہیں کہ جبکہ دنیاوی تعلقات اہم ہیں حتمی بھروسہ صرف اللہ پر ہونا چاہیے۔ اتفاق رائے کا ایک اہم شعبہ یہ ہے کہ یہ آیت شفاعت کو نفی نہیں کرتی بلکہ اسے الٰہی حاکمیت کے ڈھانچے میں رکھتی ہے۔ جہاں کچھ باریک اختلافات ہیں وہ شفاعت کی مخصوص سمجھ میں ہیں۔ شیعہ الٰہیات ولایت کو برقرار رکھنے والے مومنوں کے لیے نبی صلی اللہ علیہ وآلہ وسلم اور اہل بیت علیہم السلام کی شفاعت پر زور دیتی ہے جبکہ مرکزی دھارے کی سنی الٰہیات نبی صلی اللہ علیہ وسلم کی شفاعت پر زیادہ زور دیتی ہے۔ تاہم دونوں روایات اس بات پر متفق ہیں کہ کوئی بھی شفاعت صرف اللہ کی اجازت سے ہوتی ہے اور اس کی رحمت کا اظہار ہے۔ دونوں مکاتبِ فکر کے علماء اس آیت کو مومنوں کو ایمان اور نیک اعمال کے ذریعے اللہ کی رضا کمانے پر مرکوز ہونے کی ترغیب دینے کے لیے استعمال کرتے ہیں کیونکہ یہی روزِ قیامت کے لیے واحد قابلِ اعتماد تیاری ہے۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني اتِّفاقاً تاماً على المعنى الجوهري لهذه الآية في أن يوم الدين يتَّسم بعجز الإنسان المطلق وسيادة الله الكاملة. ويُؤكِّد المفسِّرون السنة الكلاسيكيون كابن كثير والطبري أن لا شفاعة ولا نصرة إلا بإذن الله، وهو ما يتقاطع مع التفسير الشيعي. ويتناول القرطبي في تفسيره كيف تنفي هذه الآية جميع صور الشرك وتُقرِّر التوحيد الخالص. ويستخدم كلا التراثين هذه الآية لتعليم أن العلاقات الدنيوية مهمَّة غير أن التوكُّل الحقيقي لا يكون إلا على الله. وثمة توافق واسع بين التراثين على أن الآية لا تنفي الشفاعة بل تضعها في إطار سيادة الله. والاختلاف الدقيق يظهر في تحديد المفهوم بدقَّة: إذ يُشدِّد اللاهوت الشيعي مستنداً إلى تعاليم الأئمة عليهم السلام على شفاعة النبي وأهل بيته للمؤمنين المتمسِّكين بالولاية، بينما يُركِّز الإجماع السني على شفاعة النبي صلى الله عليه وآله وسلم. ومع ذلك يُجمع التراثان على أن أي شفاعة تجري بإذن الله وحده وهي تعبير عن رحمته لا سلطة مستقلَّة. ويوظِّف العلماء في المذهبين هذه الآية لحثِّ المؤمنين على كسب رضا الله بالإيمان والعمل الصالح باعتبار ذلك الاستعداد الأمثل ليوم الدين. والآية تُمثِّل تذكيراً عالمياً يتجاوز الخلافات المذهبية إذ تدعو جميع المسلمين إلى الإيمان الصادق والمساءلة أمام الله الواحد القهَّار."
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:1:expansion-of-chest",
+          "title": "Chest Expansion",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah expanded (nashrah) the Prophet's chest (sadr), symbolizing spiritual clarity, emotional strength, and the capacity to receive divine revelation and bear the weight of prophethood.",
+          "whyItMatters": "This divine gift reminds us that Allah prepares hearts for their missions. When facing overwhelming responsibilities, we too can seek spiritual expansion through sincere connection with Him.",
+          "position": "topLeft",
+          "arabicHighlight": "نَشْرَحْ لَكَ صَدْرَكَ",
+          "title_urdu": "سینے کی وسعت",
+          "coreInsight_urdu": "اللہ نے نبی کے سینے (صدر) کو کھول دیا (نشرح)، جو روحانی وضاحت، جذباتی طاقت، اور وحی الہی حاصل کرنے اور نبوت کا بوجھ اٹھانے کی صلاحیت کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ الہی تحفہ ہمیں یاد دلاتا ہے کہ اللہ دلوں کو ان کے مشن کے لیے تیار کرتا ہے۔ جب زبردست ذمہ داریوں کا سامنا ہو، ہم بھی اس کے ساتھ مخلصانہ تعلق کے ذریعے روحانی وسعت تلاش کر سکتے ہیں۔",
+          "title_ar": "شرح الصدر",
+          "coreInsight_ar": "شرح الله صدر النبي، رمزًا للوضوح الروحي والقوة العاطفية والقدرة على تلقي الوحي الإلهي وتحمل ثقل النبوة.",
+          "whyItMatters_ar": "هذه الهدية الإلهية تذكرنا أن الله يعد القلوب لرسالاتها. عند مواجهة مسؤوليات ساحقة، يمكننا أيضًا طلب التوسع الروحي من خلال اتصال صادق معه."
+        },
+        {
+          "id": "94:1:divine-preparation",
+          "title": "Divine Preparation",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The rhetorical question 'Did We not' (alam) affirms Allah's completed action - He already expanded the Prophet's chest, demonstrating that divine preparation precedes human struggles.",
+          "whyItMatters": "Allah equips us before testing us. Recognizing His preparation in our lives builds confidence that we already possess what we need to fulfill our purpose.",
+          "position": "topRight",
+          "arabicHighlight": "أَلَمْ نَشْرَحْ",
+          "title_urdu": "الہی تیاری",
+          "coreInsight_urdu": "بیانیہ سوال 'کیا ہم نے نہیں' (الم) اللہ کے مکمل عمل کی تصدیق کرتا ہے - اس نے پہلے ہی نبی کے سینے کو کھول دیا، یہ ظاہر کرتے ہوئے کہ الہی تیاری انسانی جدوجہد سے پہلے آتی ہے۔",
+          "whyItMatters_urdu": "اللہ ہمیں آزمانے سے پہلے لیس کرتا ہے۔ ہماری زندگیوں میں اس کی تیاری کو پہچاننا اعتماد پیدا کرتا ہے کہ ہمارے پاس پہلے سے ہی وہ ہے جو ہمارے مقصد کو پورا کرنے کے لیے ضروری ہے۔",
+          "title_ar": "التحضير الإلهي",
+          "coreInsight_ar": "السؤال البلاغي 'ألم' يؤكد عمل الله المكتمل - لقد شرح بالفعل صدر النبي، مما يدل على أن التحضير الإلهي يسبق النضالات البشرية.",
+          "whyItMatters_ar": "يجهزنا الله قبل اختبارنا. إدراك تحضيره في حياتنا يبني الثقة بأننا نمتلك بالفعل ما نحتاجه لتحقيق هدفنا."
+        },
+        {
+          "id": "94:1:personal-address",
+          "title": "Personal Address",
+          "icon": "person.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah addresses the Prophet intimately with 'laka' (for you), emphasizing the personal nature of divine support. This expansion was specifically crafted for Muhammad's unique mission.",
+          "whyItMatters": "Allah's care is individual and tailored. Each of us receives personalized divine support suited to our specific challenges and purpose in life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَكَ",
+          "title_urdu": "ذاتی خطاب",
+          "coreInsight_urdu": "اللہ نبی کو 'لک' (تمہارے لیے) کے ساتھ قریب سے مخاطب کرتا ہے، الہی حمایت کی ذاتی نوعیت پر زور دیتے ہوئے۔ یہ وسعت خاص طور پر محمد کے منفرد مشن کے لیے تیار کی گئی تھی۔",
+          "whyItMatters_urdu": "اللہ کی دیکھ بھال انفرادی اور موزوں ہے۔ ہم میں سے ہر ایک کو ہماری مخصوص چیلنجز اور زندگی میں مقصد کے مطابق ذاتی الہی حمایت ملتی ہے۔",
+          "title_ar": "الخطاب الشخصي",
+          "coreInsight_ar": "يخاطب الله النبي بحميمية بـ'لك'، مؤكدًا الطبيعة الشخصية للدعم الإلهي. هذا الشرح صُنع خصيصًا لرسالة محمد الفريدة.",
+          "whyItMatters_ar": "عناية الله فردية ومخصصة. كل منا يتلقى دعمًا إلهيًا شخصيًا يناسب تحدياتنا وهدفنا المحدد في الحياة."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars unanimously agree that Surah Ash-Sharh was revealed to console and encourage Prophet Muhammad during a difficult period of his mission in Makkah. Ibn Kathir in his tafsir explains that the expansion of the chest refers to Allah filling the Prophet's heart with wisdom, knowledge, and guidance, removing ignorance and misguidance. Al-Tabari notes that this expansion made the Prophet receptive to revelation and capable of bearing the burden of prophethood. Sunni scholars generally emphasize the psychological and spiritual comfort this verse provided to the Prophet. Shia scholars, while agreeing with these interpretations, additionally emphasize the unique spiritual station of the Prophet and connect this expansion to his role as the perfect recipient of divine knowledge, which would later be transmitted to the Imams of his household. Both traditions reference the hadith of the physical opening of the chest by angels as a sign of divine preparation. A key area of consensus is that this verse demonstrates Allah's direct care for His messenger and serves as a model for believers facing difficulties. The minor differences lie in emphasis: Sunni exegesis focuses more on the consolation aspect, while Shia exegesis connects it more explicitly to the Prophet's infallibility and his unique spiritual status as the channel through which divine guidance flows to humanity.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء متفقہ طور پر اس بات پر متفق ہیں کہ سورۃ الشرح مکہ میں نبی کریم صلی اللہ علیہ وآلہ وسلم کے مشن کے ایک مشکل دور میں تسلی اور حوصلہ افزائی کے لیے نازل ہوئی۔ ابن کثیر نے اپنی تفسیر میں وضاحت کی ہے کہ سینے کی کشادگی سے مراد اللہ کا نبی کریم کے دل کو حکمت، علم اور رہنمائی سے بھرنا ہے، جہالت اور گمراہی کو دور کرنا ہے۔ طبری نوٹ کرتے ہیں کہ اس کشادگی نے نبی کریم کو وحی کے لیے قابل قبول اور نبوت کا بوجھ اٹھانے کے قابل بنایا۔ سنی علماء عام طور پر اس نفسیاتی اور روحانی تسلی پر زور دیتے ہیں جو یہ آیت نبی کریم کو فراہم کرتی تھی۔ شیعہ علماء، ان تفاسیر سے اتفاق کرتے ہوئے، اضافی طور پر نبی کریم کے منفرد روحانی مقام پر زور دیتے ہیں اور اس کشادگی کو الہٰی علم کے کامل وصول کنندہ کے طور پر ان کے کردار سے جوڑتے ہیں، جو بعد میں ان کے گھر کے ائمہ کو منتقل ہوا۔ دونوں روایات فرشتوں کی جانب سے سینے کے جسمانی طور پر کھولے جانے کی حدیث کا حوالہ دیتی ہیں جو الہٰی تیاری کی علامت ہے۔ اتفاق رائے کا کلیدی پہلو یہ ہے کہ یہ آیت اپنے رسول کے لیے اللہ کی براہ راست دیکھ بھال کو ظاہر کرتی ہے اور مشکلات کا سامنا کرنے والے مومنوں کے لیے نمونہ ہے۔ معمولی فرق زور میں ہیں: سنی تفسیر تسلی کے پہلو پر زیادہ توجہ دیتی ہے، جبکہ شیعہ تفسیر اسے نبی کریم کی معصومیت اور ان کی منفرد روحانی حیثیت سے زیادہ واضح طور پر جوڑتی ہے جو انسانیت تک الہٰی رہنمائی کے بہاؤ کا ذریعہ ہیں۔",
+    "layer4_ar": "يتفق علماء السنة والشيعة بالإجماع على أن سورة الشرح نزلت تعزيةً للنبي محمد صلى الله عليه وآله وسلم وتشجيعاً له في حقبة عسيرة من مهمته في مكة المكرمة. ويُوضِّح ابن كثير في تفسيره أن انشراح الصدر يعني امتلاء قلب النبي بالحكمة والعلم والهدى، وزوال الجهل والضلال عنه. ويُشير الطبري إلى أن هذا الانشراح جعل النبي مُهيَّأً لاستقبال الوحي وقادراً على تحمُّل أعباء النبوة. ويركز علماء السنة عموماً على العزاء النفسي والروحي الذي أسدته هذه الآية للنبي. أما علماء الشيعة فبينما يتفقون مع هذه التفسيرات، يُضيفون التشديد على المقام الروحي الفريد للنبي ويربطون هذا الانشراح بدوره بوصفه المتلقي الكامل للعلم الإلهي الذي انتقل من بعده إلى أئمة آل بيته. ويستشهد كلا التقليدين بحديث شق الصدر حرفياً على يد الملائكة دليلاً على الإعداد الإلهي. ومن أبرز مواطن الإجماع أن هذه الآية تُظهر عناية الله المباشرة برسوله وتُرسي نموذجاً للمؤمنين في مواجهة الشدائد. وتبقى الفوارق في دائرة التشديد لا الجوهر؛ إذ يُركز التفسير السني أكثر على جانب التعزية، بينما يربطه التفسير الشيعي بعصمة النبي ومكانته الروحية الفريدة بوصفه القناة التي تتدفق منها الهداية الإلهية إلى البشرية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:2:burden-removed",
+          "title": "Burden Removed",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah removed (wada'na) the Prophet's wizr (burden) - referring to pre-prophetic spiritual weight, the anxiety of guiding humanity, or the sins that weighed on his conscience before divine assurance.",
+          "whyItMatters": "Allah lightens burdens we cannot carry alone. When overwhelmed by guilt, responsibility, or spiritual weight, turning to Him provides genuine relief and liberation.",
+          "position": "topLeft",
+          "arabicHighlight": "وَضَعْنَا عَنكَ وِزْرَكَ",
+          "title_urdu": "بوجھ اتارا",
+          "coreInsight_urdu": "اللہ نے نبی کا وزر (بوجھ) اتار دیا (وضعنا) - نبوت سے پہلے کے روحانی بوجھ، انسانیت کی رہنمائی کی پریشانی، یا ان گناہوں کی طرف اشارہ کرتے ہوئے جو الہی یقین دہانی سے پہلے ان کے ضمیر پر بوجھ تھے۔",
+          "whyItMatters_urdu": "اللہ ایسے بوجھ ہلکے کرتا ہے جو ہم اکیلے نہیں اٹھا سکتے۔ جب جرم، ذمہ داری، یا روحانی بوجھ سے مغلوب ہوں، اس کی طرف رجوع کرنا حقیقی راحت اور آزادی فراہم کرتا ہے۔",
+          "title_ar": "رفع العبء",
+          "coreInsight_ar": "رفع الله وزر النبي - في إشارة إلى الثقل الروحي قبل النبوة، أو قلق هداية البشرية، أو الذنوب التي أثقلت ضميره قبل التأكيد الإلهي.",
+          "whyItMatters_ar": "يخفف الله الأعباء التي لا نستطيع حملها بمفردنا. عند الشعور بالذنب أو المسؤولية أو الثقل الروحي، التوجه إليه يوفر راحة وتحررًا حقيقيين."
+        },
+        {
+          "id": "94:2:divine-action",
+          "title": "Divine Action",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verb 'wada'na' (We removed) is in the past tense with royal 'We', emphasizing that burden removal is Allah's accomplished work, not dependent on human effort alone.",
+          "whyItMatters": "Some burdens only Allah can lift. While we must strive, ultimate relief comes through divine intervention and grace, not just our own willpower.",
+          "position": "topRight",
+          "arabicHighlight": "وَضَعْنَا",
+          "title_urdu": "الہی عمل",
+          "coreInsight_urdu": "فعل 'وضعنا' (ہم نے اتارا) ماضی کے زمانے میں شاہانہ 'ہم' کے ساتھ ہے، اس بات پر زور دیتے ہوئے کہ بوجھ کو ہٹانا اللہ کا مکمل کام ہے، صرف انسانی کوشش پر منحصر نہیں۔",
+          "whyItMatters_urdu": "کچھ بوجھ صرف اللہ ہی اٹھا سکتا ہے۔ جب کہ ہمیں کوشش کرنی چاہیے، حتمی راحت الہی مداخلت اور فضل سے آتی ہے، نہ کہ صرف ہماری اپنی قوت ارادی سے۔",
+          "title_ar": "العمل الإلهي",
+          "coreInsight_ar": "الفعل 'وضعنا' في الماضي مع 'نحن' الملكية، مؤكدًا أن رفع العبء هو عمل الله المنجز، وليس معتمدًا على الجهد البشري وحده.",
+          "whyItMatters_ar": "بعض الأعباء لا يمكن إلا لله رفعها. بينما يجب أن نسعى، الراحة النهائية تأتي من خلال التدخل والنعمة الإلهية، وليس فقط قوة إرادتنا."
+        },
+        {
+          "id": "94:2:from-you",
+          "title": "From You",
+          "icon": "arrow.up.forward",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Anka' (from you) shows Allah actively took the burden away from the Prophet, not just helped him manage it - complete removal, not mere coping.",
+          "whyItMatters": "Allah doesn't just help us cope with burdens; He can completely remove them. True healing means liberation, not learning to live with pain.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَنكَ",
+          "title_urdu": "تم سے",
+          "coreInsight_urdu": "'عنک' (تم سے) ظاہر کرتا ہے کہ اللہ نے فعال طور پر نبی سے بوجھ لے لیا، نہ کہ صرف اسے منظم کرنے میں مدد کی - مکمل ہٹانا، نہ کہ محض سنبھالنا۔",
+          "whyItMatters_urdu": "اللہ صرف ہمیں بوجھ سنبھالنے میں مدد نہیں کرتا؛ وہ انہیں مکمل طور پر ہٹا سکتا ہے۔ حقیقی شفا کا مطلب آزادی ہے، نہ کہ درد کے ساتھ رہنا سیکھنا۔",
+          "title_ar": "منك",
+          "coreInsight_ar": "'عنك' يظهر أن الله أخذ العبء بعيدًا عن النبي بنشاط، وليس فقط ساعده على إدارته - إزالة كاملة، وليس مجرد تعامل.",
+          "whyItMatters_ar": "لا يساعدنا الله فقط على التعامل مع الأعباء؛ يمكنه إزالتها تمامًا. الشفاء الحقيقي يعني التحرر، وليس تعلم العيش مع الألم."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators agree that this verse refers to Allah's removal of the Prophet's burden, though they offer slightly different emphases in interpretation. Ibn Kathir explains that the burden refers either to his sins before prophethood, which Allah forgave, or to the weight of responsibility and concern he felt for his people. Al-Qurtubi in his tafsir suggests that the burden represents any difficulty or anxiety the Prophet experienced in calling people to Islam. Sunni scholars generally interpret this as a reference to divine forgiveness and reassurance. Shia scholars, while not disagreeing with these interpretations, emphasize that the Prophet's infallibility means the 'burden' cannot refer to actual sins but rather to the weight of prophetic responsibility or to minor human concerns before revelation that Allah removed. Both traditions agree this verse demonstrates divine mercy and preparation. Fakhr al-Din al-Razi notes that the structure of the verse, coming immediately after the expansion of the chest, shows a progression: first spiritual preparation, then removal of obstacles. This sequential understanding is shared across both Sunni and Shia exegesis. The key consensus is that Allah specially prepared the Prophet for his mission by eliminating anything that might hinder his perfect fulfillment of prophethood, demonstrating divine care for the messenger and, by extension, for the message itself.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس بات پر متفق ہیں کہ یہ آیت اللہ کی جانب سے نبی کریم کے بوجھ کو ہٹانے کا حوالہ دیتی ہے، حالانکہ وہ تفسیر میں قدرے مختلف زور دیتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ بوجھ سے مراد یا تو نبوت سے پہلے ان کے گناہ ہیں، جنہیں اللہ نے معاف کیا، یا ذمہ داری کا وزن اور اپنی قوم کے لیے پریشانی ہے۔ قرطبی نے اپنی تفسیر میں تجویز کیا ہے کہ بوجھ سے مراد وہ مشکل یا بے چینی ہے جو نبی کریم نے لوگوں کو اسلام کی طرف بلانے میں محسوس کی۔ سنی علماء عام طور پر اسے الہٰی معافی اور تسلی کے حوالے کے طور پر تعبیر کرتے ہیں۔ شیعہ علماء، ان تفاسیر سے اختلاف نہ کرتے ہوئے، اس بات پر زور دیتے ہیں کہ نبی کریم کی معصومیت کا مطلب ہے کہ 'بوجھ' حقیقی گناہوں کا حوالہ نہیں ہو سکتا بلکہ نبوی ذمہ داری کے وزن یا وحی سے پہلے کی معمولی انسانی پریشانیوں کا حوالہ ہو سکتا ہے جسے اللہ نے ہٹا دیا۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت الہٰی رحمت اور تیاری کو ظاہر کرتی ہے۔ فخر الدین رازی نوٹ کرتے ہیں کہ آیت کی ساخت، سینے کی کشادگی کے فوراً بعد آنے سے، ایک ترقی ظاہر کرتی ہے: پہلے روحانی تیاری، پھر رکاوٹوں کو ہٹانا۔ یہ ترتیب وار تفہیم سنی اور شیعہ دونوں تفاسیر میں مشترک ہے۔ کلیدی اتفاق رائے یہ ہے کہ اللہ نے خاص طور پر نبی کریم کو ان کے مشن کے لیے تیار کیا، ہر وہ چیز ختم کر کے جو نبوت کی کامل تکمیل میں رکاوٹ بن سکتی تھی، رسول کے لیے الہٰی دیکھ بھال اور، توسیع سے، خود پیغام کے لیے۔",
+    "layer4_ar": "يتفق المفسِّرون السنة والشيعة على أن هذه الآية تُشير إلى رفع الله عبءَ النبي، وإن كانوا يتفاوتون قليلاً في التشديد. فيُوضِّح ابن كثير أن الوزر يُشير إما إلى ذنوبه قبل النبوة التي غفرها الله، أو إلى ثقل المسؤولية والهمّ الذي كان يُكِنُّه لقومه. ويقترح القرطبي في تفسيره أن الوزر يُمثِّل أي صعوبة أو اضطراب عاناه النبي في دعوته إلى الإسلام. ويُفسِّر علماء السنة ذلك عموماً على أنه مغفرة إلهية وطمأنينة. في حين يُشدِّد علماء الشيعة - مع عدم الخلاف في هذه التفسيرات - على أن عصمة النبي تعني أن \"الوزر\" لا يمكن أن يُشير إلى ذنوب حقيقية، بل إلى ثقل المسؤولية النبوية أو اهتمامات إنسانية بسيطة قبل الوحي أزالها الله. ويتفق التقليدان على أن الآية تُجسِّد الرحمة الإلهية والإعداد. ويُلاحظ فخر الدين الرازي أن تتابع الآيات - الانشراح أولاً ثم رفع الوزر - يُظهر تدرُّجاً: الإعداد الروحي أولاً ثم إزالة العوائق. وهذا التفسير التسلسلي يتقاطع فيه التفسير السني والشيعي. والإجماع أن الله أعدَّ نبيَّه لمهمته بإزالة كل ما قد يُعيق أداءه الكامل، مما يُعبِّر عن عنايته بالرسول وبالرسالة ذاتها."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:3:back-breaking-weight",
+          "title": "Crushing Weight",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The burden 'anqada dhahrak' (broke your back) describes extreme spiritual or emotional weight - so heavy it felt physically crushing, nearly breaking the Prophet.",
+          "whyItMatters": "This verse validates severe emotional struggles. When burdens feel physically crushing, it's not weakness - even the Prophet experienced this intensity before divine relief.",
+          "position": "topLeft",
+          "arabicHighlight": "أَنقَضَ ظَهْرَكَ",
+          "title_urdu": "کمر توڑ بوجھ",
+          "coreInsight_urdu": "بوجھ 'انقض ظہرک' (تمہاری کمر توڑ دیا) انتہائی روحانی یا جذباتی بوجھ کی وضاحت کرتا ہے - اتنا بھاری کہ جسمانی طور پر کچلنے کا احساس ہوا، تقریباً نبی کو توڑ دیا۔",
+          "whyItMatters_urdu": "یہ آیت شدید جذباتی جدوجہد کی توثیق کرتی ہے۔ جب بوجھ جسمانی طور پر کچلنے کا احساس دیں، یہ کمزوری نہیں ہے - نبی نے بھی الہی راحت سے پہلے اس شدت کا تجربہ کیا۔",
+          "title_ar": "الثقل الساحق",
+          "coreInsight_ar": "العبء 'أنقض ظهرك' (كسر ظهرك) يصف ثقلًا روحيًا أو عاطفيًا شديدًا - ثقيلًا جدًا حتى شعر بسحق جسدي، كاد يكسر النبي.",
+          "whyItMatters_ar": "تصادق هذه الآية على الصراعات العاطفية الشديدة. عندما تشعر الأعباء بسحق جسدي، ليس ضعفًا - حتى النبي عانى من هذه الشدة قبل الراحة الإلهية."
+        },
+        {
+          "id": "94:3:past-burden",
+          "title": "Past Burden",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Alladhi' (which) refers back to verse 2's burden, emphasizing it's now in the past - what once nearly broke him has been removed by Allah's mercy.",
+          "whyItMatters": "What crushed us yesterday doesn't define today. Allah's intervention transforms our narrative from 'this is breaking me' to 'this once burdened me, but Allah freed me.'",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِىٓ",
+          "title_urdu": "ماضی کا بوجھ",
+          "coreInsight_urdu": "'الذی' (جو) آیت 2 کے بوجھ کی طرف واپس اشارہ کرتا ہے، اس بات پر زور دیتے ہوئے کہ یہ اب ماضی میں ہے - جو ایک بار انہیں تقریباً توڑ دیا تھا اللہ کی رحمت سے ہٹا دیا گیا ہے۔",
+          "whyItMatters_urdu": "جو کل ہمیں کچلا وہ آج کی تعریف نہیں کرتا۔ اللہ کی مداخلت ہماری داستان کو 'یہ مجھے توڑ رہا ہے' سے 'یہ ایک بار مجھ پر بوجھ تھا، لیکن اللہ نے مجھے آزاد کیا' میں بدل دیتی ہے۔",
+          "title_ar": "العبء الماضي",
+          "coreInsight_ar": "'الذي' يشير إلى عبء الآية 2، مؤكدًا أنه الآن في الماضي - ما كاد يكسره قد أزيل برحمة الله.",
+          "whyItMatters_ar": "ما سحقنا بالأمس لا يحدد اليوم. تدخل الله يحول روايتنا من 'هذا يكسرني' إلى 'هذا أثقلني ذات مرة، لكن الله حررني.'"
+        },
+        {
+          "id": "94:3:your-back",
+          "title": "Your Back",
+          "icon": "figure.stand",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The back (dhahr) symbolizes strength and the ability to stand upright. A broken back means inability to function - the burden paralyzed the Prophet's capacity before Allah restored it.",
+          "whyItMatters": "Some struggles don't just hurt; they paralyze our ability to function. Recognizing this helps us seek divine help rather than blame ourselves for 'not being strong enough.'",
+          "position": "bottomLeft",
+          "arabicHighlight": "ظَهْرَكَ",
+          "title_urdu": "تمہاری کمر",
+          "coreInsight_urdu": "کمر (ظہر) طاقت اور سیدھے کھڑے ہونے کی صلاحیت کی علامت ہے۔ ٹوٹی ہوئی کمر کا مطلب کام کرنے میں ناکامی ہے - بوجھ نے اللہ کی بحالی سے پہلے نبی کی صلاحیت کو مفلوج کر دیا تھا۔",
+          "whyItMatters_urdu": "کچھ جدوجہد صرف تکلیف نہیں دیتیں؛ وہ ہماری کام کرنے کی صلاحیت کو مفلوج کر دیتی ہیں۔ اس کو پہچاننا ہمیں خود کو 'کافی مضبوط نہ ہونے' کے لیے الزام دینے کے بجائے الہی مدد تلاش کرنے میں مدد کرتا ہے۔",
+          "title_ar": "ظهرك",
+          "coreInsight_ar": "الظهر يرمز للقوة والقدرة على الوقوف منتصبًا. الظهر المكسور يعني عدم القدرة على العمل - العبء شل قدرة النبي قبل أن يستعيدها الله.",
+          "whyItMatters_ar": "بعض الصراعات لا تؤلم فقط؛ تشل قدرتنا على العمل. إدراك هذا يساعدنا على طلب المساعدة الإلهية بدلاً من لوم أنفسنا على 'عدم كوننا أقوياء بما فيه الكفاية.'"
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia exegetes agree that this verse intensifies the description of the burden mentioned in the previous verse, emphasizing Allah's mercy in removing it. Ibn Kathir explains that the phrase 'which broke your back' is a metaphorical expression indicating the severity of the weight, whether it refers to sins, responsibilities, or concerns. Al-Tabari mentions that some early scholars interpreted this as referring to the weight of prophethood itself, while others saw it as the burden of calling people to Islam against fierce opposition. Sunni commentators generally emphasize the consolation this verse provided to the Prophet during difficult times in Makkah. Shia scholars agree with these interpretations but add emphasis on the Prophet's compassionate concern for the guidance of humanity as the primary burden. Both traditions recognize the literary progression: chest expansion, burden removal, and description of the burden's severity, creating a powerful rhetorical effect. Fakhr al-Din al-Razi notes that describing the burden as back-breaking after stating it was removed serves to magnify the divine favor. The consensus across both schools is that this verse demonstrates Allah's intimate knowledge of the Prophet's struggles and His complete power to relieve them, offering hope to all believers facing overwhelming difficulties. Minor differences lie in emphasis rather than fundamental interpretation, with both traditions seeing this as an expression of divine mercy and support.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین اس بات پر متفق ہیں کہ یہ آیت پچھلی آیت میں مذکور بوجھ کی تفصیل کو تیز کرتی ہے، اللہ کی رحمت پر زور دیتے ہوئے کہ اسے ہٹایا گیا۔ ابن کثیر وضاحت کرتے ہیں کہ جملہ 'جس نے آپ کی کمر توڑ دی' ایک استعاراتی تاثر ہے جو وزن کی شدت کو ظاہر کرتا ہے، چاہے یہ گناہوں، ذمہ داریوں، یا پریشانیوں سے مراد ہو۔ طبری ذکر کرتے ہیں کہ کچھ ابتدائی علماء نے اسے خود نبوت کے وزن سے تعبیر کیا، جبکہ دوسروں نے اسے سخت مخالفت کے خلاف لوگوں کو اسلام کی طرف بلانے کے بوجھ کے طور پر دیکھا۔ سنی مفسرین عام طور پر اس تسلی پر زور دیتے ہیں جو یہ آیت مکہ میں مشکل اوقات میں نبی کریم کو فراہم کرتی تھی۔ شیعہ علماء ان تفاسیر سے اتفاق کرتے ہیں لیکن انسانیت کی رہنمائی کے لیے نبی کریم کی شفیق فکر کو بنیادی بوجھ کے طور پر اضافی زور دیتے ہیں۔ دونوں روایات ادبی ترقی کو تسلیم کرتی ہیں: سینے کی کشادگی، بوجھ کو ہٹانا، اور بوجھ کی شدت کا بیان، ایک طاقتور بلاغتی اثر پیدا کرتا ہے۔ فخر الدین رازی نوٹ کرتے ہیں کہ بوجھ کو ہٹایا گیا بیان کرنے کے بعد اسے کمر توڑنے کے طور پر بیان کرنا الہٰی احسان کو بڑھاتا ہے۔ دونوں مکاتب فکر میں اتفاق رائے یہ ہے کہ یہ آیت نبی کریم کی مشکلات کے بارے میں اللہ کے گہرے علم اور انہیں راحت دینے کی مکمل طاقت کو ظاہر کرتی ہے، بہت زیادہ مشکلات کا سامنا کرنے والے تمام مومنوں کو امید فراہم کرتی ہے۔ معمولی فرق بنیادی تشریح کے بجائے زور میں ہیں، دونوں روایات اسے الہٰی رحمت اور حمایت کے اظہار کے طور پر دیکھتی ہیں۔",
+    "layer4_ar": "يتفق المفسِّرون السنة والشيعة على أن هذه الآية تُكثِّف وصف الوزر المذكور في سابقتها لإبراز عظمة الرحمة الإلهية في رفعه. ويُوضِّح ابن كثير أن عبارة \"أَنقَضَ ظَهْرَكَ\" تعبير استعاري يدل على شدة الثقل سواء أكان ذنوباً أم مسؤوليات أم همومًا. ويذكر الطبري أن علماء الصدر الأول فسَّروا هذا أحياناً على أنه يُشير إلى ثقل النبوة ذاتها، وأحياناً إلى أعباء الدعوة في مواجهة معارضة شرسة. ويُشدِّد المفسِّرون السنيون عموماً على العزاء الذي أسدته هذه الآية للنبي في أوقات المحنة المكية. ويتفق علماء الشيعة مع هذه التفسيرات لكنهم يُضيفون التشديد على رحمة النبي بهداية البشرية بوصفها الوزر الأساسي. ويُقرُّ التقليدان بالتصاعد الأدبي: انشراح الصدر، رفع الوزر، وصف شدة الوزر، مما يخلق أثراً بلاغياً قوياً. ويُلاحظ فخر الدين الرازي أن وصف الوزر بنقض الظهر بعد الإعلان عن رفعه يُعظِّم الفضل الإلهي. والإجماع في كلا المذهبين هو أن هذه الآية تُجلِّي المعرفة الإلهية الدقيقة بمعاناة النبي وقدرته الكاملة على تخفيفها، موفِّرةً أملاً لكل مؤمن يواجه أثقالاً مُضنية. وتبقى الفوارق في دائرة التشديد لا الجوهر، ويرى التقليدان في الآية تعبيراً عن الرحمة الإلهية والسند الرباني."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:4:elevated-remembrance",
+          "title": "Elevated Name",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah raised (rafa'na) the Prophet's dhikr (remembrance/mention) - making his name honored globally, linked with Allah's name in the shahada and adhan, ensuring eternal reverence.",
+          "whyItMatters": "True honor comes from Allah alone. Chasing worldly fame leads to anxiety, but when Allah elevates someone's status, it's permanent and meaningful across all generations.",
+          "position": "topLeft",
+          "arabicHighlight": "رَفَعْنَا لَكَ ذِكْرَكَ",
+          "title_urdu": "بلند یاد",
+          "coreInsight_urdu": "اللہ نے نبی کا ذکر (یاد/ذکر) بلند کیا (رفعنا) - ان کا نام عالمی سطح پر عزت دار بنایا، شہادت اور اذان میں اللہ کے نام کے ساتھ جوڑا، ابدی احترام کو یقینی بناتے ہوئے۔",
+          "whyItMatters_urdu": "حقیقی عزت صرف اللہ سے آتی ہے۔ دنیاوی شہرت کا پیچھا کرنا پریشانی کا باعث بنتا ہے، لیکن جب اللہ کسی کا مقام بلند کرتا ہے، تو یہ تمام نسلوں میں مستقل اور بامعنی ہوتا ہے۔",
+          "title_ar": "رفع الذكر",
+          "coreInsight_ar": "رفع الله ذكر النبي - جعل اسمه محترمًا عالميًا، مرتبطًا باسم الله في الشهادة والأذان، مما يضمن التقديس الأبدي.",
+          "whyItMatters_ar": "الشرف الحقيقي يأتي من الله وحده. مطاردة الشهرة الدنيوية تؤدي إلى القلق، لكن عندما يرفع الله مكانة شخص ما، فهي دائمة وذات مغزى عبر جميع الأجيال."
+        },
+        {
+          "id": "94:4:divine-elevation",
+          "title": "Divine Elevation",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Rafa'na' (We raised) in past tense shows Allah's accomplished action - the elevation happened by divine decree, not through the Prophet's self-promotion or human effort.",
+          "whyItMatters": "Authentic greatness is bestowed, not seized. Instead of obsessing over reputation management, focus on pleasing Allah - He controls how others perceive and remember us.",
+          "position": "topRight",
+          "arabicHighlight": "وَرَفَعْنَا",
+          "title_urdu": "الہی بلندی",
+          "coreInsight_urdu": "'رفعنا' (ہم نے اٹھایا) ماضی کے زمانے میں اللہ کے مکمل عمل کو ظاہر کرتا ہے - بلندی الہی حکم سے ہوئی، نبی کی خود تشہیر یا انسانی کوشش سے نہیں۔",
+          "whyItMatters_urdu": "مستند عظمت عطا کی جاتی ہے، چھینی نہیں جاتی۔ ساکھ کے انتظام پر جنون کے بجائے، اللہ کو خوش کرنے پر توجہ دیں - وہ کنٹرول کرتا ہے کہ دوسرے ہمیں کیسے سمجھتے اور یاد کرتے ہیں۔",
+          "title_ar": "الرفع الإلهي",
+          "coreInsight_ar": "'رفعنا' في الماضي يظهر عمل الله المنجز - الرفع حدث بمرسوم إلهي، وليس من خلال الترويج الذاتي للنبي أو الجهد البشري.",
+          "whyItMatters_ar": "العظمة الحقيقية تُمنح، لا تُغتصب. بدلاً من الهوس بإدارة السمعة، ركز على إرضاء الله - هو يتحكم في كيفية إدراك الآخرين وتذكرهم لنا."
+        },
+        {
+          "id": "94:4:your-remembrance",
+          "title": "Your Remembrance",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Dhikr means both 'remembrance' and 'mention' - Allah ensured the Prophet is remembered with love and mentioned with respect, his name never forgotten across time.",
+          "whyItMatters": "The best legacy is being remembered with genuine love and respect. This comes from serving truth with integrity, not manipulating public image or seeking viral fame.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذِكْرَكَ",
+          "title_urdu": "تمہارا ذکر",
+          "coreInsight_urdu": "ذکر کا مطلب 'یاد' اور 'ذکر' دونوں ہے - اللہ نے یقینی بنایا کہ نبی کو محبت سے یاد کیا جائے اور احترام سے ذکر کیا جائے، ان کا نام وقت کے ساتھ کبھی نہ بھولا جائے۔",
+          "whyItMatters_urdu": "بہترین میراث حقیقی محبت اور احترام کے ساتھ یاد کیا جانا ہے۔ یہ سالمیت کے ساتھ سچ کی خدمت سے آتا ہے، نہ کہ عوامی تصویر میں ہیرا پھیری یا وائرل شہرت تلاش کرنے سے۔",
+          "title_ar": "ذكرك",
+          "coreInsight_ar": "الذكر يعني 'التذكر' و'الذكر' - ضمن الله أن يُذكر النبي بمحبة ويُذكر باحترام، اسمه لم يُنسى عبر الزمن.",
+          "whyItMatters_ar": "أفضل إرث هو أن تُذكر بحب واحترام حقيقيين. يأتي هذا من خدمة الحق بنزاهة، وليس من التلاعب بالصورة العامة أو السعي للشهرة الفيروسية."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars agree that this verse refers to Allah's elevation of the Prophet's name and reputation throughout the world. Ibn Kathir explains that this elevation includes making the Prophet's name coupled with Allah's name in the testimony of faith, in the call to prayer, in sermons, and in the tashahhud of prayers. Al-Qurtubi notes that this represents a unique honor not given to any previous prophet. Sunni scholars emphasize that this elevation obligates believers to send blessings upon the Prophet, which itself is an act of worship that raises his remembrance. Shia scholars agree with all these interpretations and add specific emphasis on including the Prophet's family in this elevation, based on hadiths that the proper form of salawat includes both the Prophet and his purified household. Both traditions reference the hadith where the Prophet explained that Allah sends ten blessings upon whoever sends one blessing upon him, demonstrating the spiritual benefit of elevating his remembrance. Fakhr al-Din al-Razi in his tafsir emphasizes the miraculous nature of this prophecy: at the time of revelation, the Prophet had few followers, yet the verse confidently predicted his worldwide prominence, which was fulfilled beyond measure. The consensus across both schools is that this verse demonstrates Allah's special favor to the Prophet and obligates believers to honor and elevate his memory through their words, actions, and devotion. Differences are minimal, mainly concerning the inclusion of the Prophet's family in the salawat formula.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء اس بات پر متفق ہیں کہ یہ آیت پوری دنیا میں نبی کریم کے نام اور شہرت کو اللہ کی طرف سے بلند کرنے کا حوالہ دیتی ہے۔ ابن کثیر وضاحت کرتے ہیں کہ اس بلندی میں کلمہ شہادت میں، اذان میں، خطبوں میں، اور نمازوں کے تشہد میں نبی کریم کے نام کو اللہ کے نام کے ساتھ جوڑنا شامل ہے۔ قرطبی نوٹ کرتے ہیں کہ یہ ایک منفرد عزت کی نمائندگی کرتا ہے جو کسی پچھلے نبی کو نہیں دی گئی۔ سنی علماء اس بات پر زور دیتے ہیں کہ یہ بلندی مومنوں کو نبی کریم پر درود بھیجنے کی پابندی کرتی ہے، جو خود ایک عبادت ہے جو ان کے ذکر کو بلند کرتی ہے۔ شیعہ علماء ان تمام تفاسیر سے اتفاق کرتے ہیں اور خاص طور پر اس بلندی میں نبی کریم کے خاندان کو شامل کرنے پر زور دیتے ہیں، احادیث کی بنیاد پر کہ صلوٰۃ کی صحیح شکل نبی کریم اور ان کے پاکیزہ گھرانے دونوں کو شامل کرتی ہے۔ دونوں روایات اس حدیث کا حوالہ دیتی ہیں جہاں نبی کریم نے وضاحت کی کہ اللہ اس پر دس رحمتیں بھیجتا ہے جو ان پر ایک رحمت بھیجتا ہے، ان کے ذکر کو بلند کرنے کے روحانی فائدے کو ظاہر کرتا ہے۔ فخر الدین رازی نے اپنی تفسیر میں اس پیش گوئی کی معجزاتی نوعیت پر زور دیا: وحی کے وقت، نبی کریم کے پاس تھوڑے سے پیروکار تھے، پھر بھی آیت نے اعتماد سے ان کی عالمی شہرت کی پیش گوئی کی، جو بے حد طریقے سے پوری ہوئی۔ دونوں مکاتب فکر میں اتفاق رائے یہ ہے کہ یہ آیت نبی کریم کے لیے اللہ کے خاص احسان کو ظاہر کرتی ہے اور مومنوں کو اپنے الفاظ، اعمال اور عبادت کے ذریعے ان کی یاد کو عزت دینے اور بلند کرنے کی پابندی کرتی ہے۔ فرق معمولی ہیں، بنیادی طور پر صلوٰۃ کے فارمولے میں نبی کریم کے خاندان کو شامل کرنے سے متعلق۔",
+    "layer4_ar": "يتفق علماء السنة والشيعة على أن هذه الآية تُشير إلى رفع الله اسم النبي وسمعته في أرجاء العالم. ويُوضِّح ابن كثير أن هذا الرفع يشمل جعل اسم النبي مقروناً باسم الله في شهادة التوحيد وفي الأذان والخطب وفي التشهد في الصلاة. ويُلاحظ القرطبي أن هذا شرفٌ فريد لم يُحظَ به نبيٌّ سابق. ويُشدِّد علماء السنة على أن هذا الرفع يُلزم المؤمنين بالصلاة على النبي وهي في ذاتها عبادة تُعلي ذكره. ويتفق علماء الشيعة مع هذه التفسيرات كلها ويُضيفون تشديداً خاصاً على ضم آل النبي إلى هذا الرفع، استناداً إلى أحاديث تُبيِّن أن صيغة الصلاة الصحيحة تشمل النبي وآله الطاهرين. ويستشهد التقليدان بالحديث الذي أوضح فيه النبي أن من صلى عليه مرةً صلى الله عليه عشراً، مما يُجلِّي الثمرة الروحية لرفع ذكره. ويُشدِّد فخر الدين الرازي في تفسيره على الطابع المعجزي لهذه النبوءة: في زمن نزول الوحي كان للنبي أتباعٌ قليلون، ومع ذلك تنبَّأت الآية بثقة بمكانته العالمية التي تحقَّقت بما يتجاوز كل حدٍّ وغاية. والإجماع في كلا المذهبين أن هذه الآية تُجلِّي الفضل الخاص الذي أسبغه الله على نبيِّه، وتُلزم المؤمنين بتكريم ذكره ورفعه بأقوالهم وأعمالهم وإخلاصهم. والفوارق طفيفة، لا تتعدى مسألة ضم آل النبي إلى صيغة الصلاة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:5:with-hardship-ease",
+          "title": "Hardship & Ease",
+          "icon": "sun.max.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ma'a' (with) - not 'after' - means ease accompanies hardship simultaneously. Even in difficulty, elements of ease exist if we have eyes to see them.",
+          "whyItMatters": "This transforms our perspective during trials. Instead of waiting for hardship to end before finding relief, we can discover pockets of ease within the difficulty itself.",
+          "position": "topLeft",
+          "arabicHighlight": "مَعَ ٱلْعُسْرِ يُسْرًا",
+          "title_urdu": "سختی کے ساتھ آسانی",
+          "coreInsight_urdu": "'معَ' (کے ساتھ) - 'بعد' نہیں - کا مطلب ہے آسانی سختی کے ساتھ بیک وقت ہے۔ مشکل میں بھی، آسانی کے عناصر موجود ہیں اگر ہماری نظر ہو۔",
+          "whyItMatters_urdu": "یہ آزمائشوں کے دوران ہمارے نقطہ نظر کو تبدیل کرتا ہے۔ راحت ملنے سے پہلے سختی کے ختم ہونے کا انتظار کرنے کے بجائے، ہم خود مشکل کے اندر آسانی کے حصے دریافت کر سکتے ہیں۔",
+          "title_ar": "مع العسر يسرا",
+          "coreInsight_ar": "'مع' (مع) - وليس 'بعد' - يعني اليسر يرافق العسر في وقت واحد. حتى في الصعوبة، توجد عناصر من اليسر إذا كانت لدينا عيون لرؤيتها.",
+          "whyItMatters_ar": "يحول هذا منظورنا أثناء المحن. بدلاً من انتظار انتهاء المشقة قبل إيجاد الراحة، يمكننا اكتشاف جيوب من اليسر داخل الصعوبة نفسها."
+        },
+        {
+          "id": "94:5:definite-hardship",
+          "title": "Definite Hardship",
+          "icon": "exclamationmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Al-'usr' (THE hardship) with definite article refers to a specific, known difficulty - acknowledging real struggles rather than dismissing pain with toxic positivity.",
+          "whyItMatters": "Allah validates our specific hardships before promising ease. True faith doesn't minimize suffering but acknowledges it while maintaining hope in Allah's relief.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْعُسْرِ",
+          "title_urdu": "معین سختی",
+          "coreInsight_urdu": "'العسر' (یہ سختی) معین آرٹیکل کے ساتھ ایک مخصوص، معلوم مشکل کی طرف اشارہ کرتا ہے - زہریلی مثبتیت کے ساتھ درد کو مسترد کرنے کے بجائے حقیقی جدوجہد کو تسلیم کرتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ آسانی کا وعدہ کرنے سے پہلے ہماری مخصوص سختیوں کی توثیق کرتا ہے۔ حقیقی ایمان تکلیف کو کم نہیں کرتا بلکہ اسے تسلیم کرتا ہے جب کہ اللہ کی راحت میں امید برقرار رکھتا ہے۔",
+          "title_ar": "العسر المحدد",
+          "coreInsight_ar": "'العسر' (الصعوبة) مع أل التعريف يشير إلى صعوبة محددة ومعروفة - الاعتراف بالنضالات الحقيقية بدلاً من رفض الألم بإيجابية سامة.",
+          "whyItMatters_ar": "يصادق الله على مصاعبنا المحددة قبل وعد اليسر. الإيمان الحقيقي لا يقلل من المعاناة بل يعترف بها مع الحفاظ على الأمل في راحة الله."
+        },
+        {
+          "id": "94:5:indefinite-ease",
+          "title": "Indefinite Ease",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Yusran' (ease) without definite article suggests unexpected, varied forms of relief - Allah's ease can come from countless directions we haven't imagined.",
+          "whyItMatters": "Don't limit how Allah can help you. Relief may come through unexpected people, opportunities, or inner strength - stay open to His infinite creativity in providing ease.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يُسْرًا",
+          "title_urdu": "غیر معین آسانی",
+          "coreInsight_urdu": "'یسرا' (آسانی) معین آرٹیکل کے بغیر غیر متوقع، مختلف قسم کی راحت کی تجویز کرتا ہے - اللہ کی آسانی ان گنت سمتوں سے آ سکتی ہے جن کا ہم نے تصور نہیں کیا۔",
+          "whyItMatters_urdu": "اللہ آپ کی مدد کیسے کر سکتا ہے اس کو محدود نہ کریں۔ راحت غیر متوقع لوگوں، مواقع، یا اندرونی طاقت کے ذریعے آ سکتی ہے - آسانی فراہم کرنے میں اس کی لامحدود تخلیقی صلاحیت کے لیے کھلے رہیں۔",
+          "title_ar": "اليسر غير المحدد",
+          "coreInsight_ar": "'يسرا' (يسر) بدون أل التعريف يشير إلى أشكال غير متوقعة ومتنوعة من الراحة - يسر الله يمكن أن يأتي من اتجاهات لا حصر لها لم نتخيلها.",
+          "whyItMatters_ar": "لا تحد كيف يمكن لله أن يساعدك. قد تأتي الراحة من خلال أشخاص أو فرص أو قوة داخلية غير متوقعة - ابق منفتحًا على إبداعه اللامحدود في توفير اليسر."
+        },
+        {
+          "id": "94:5:certainty-promised",
+          "title": "Divine Promise",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Inna' (indeed/verily) emphasizes absolute certainty - this isn't hopeful speculation but Allah's guaranteed promise that ease will accompany hardship.",
+          "whyItMatters": "When struggling, this verse offers concrete hope rooted in divine certainty, not wishful thinking. Allah's promises are unbreakable commitments we can anchor our faith upon.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَإِنَّ",
+          "title_urdu": "الہی وعدہ",
+          "coreInsight_urdu": "'انّ' (یقیناً/بے شک) مطلق یقین پر زور دیتا ہے - یہ امید مندانہ قیاس نہیں بلکہ اللہ کا ضمانت شدہ وعدہ ہے کہ آسانی سختی کے ساتھ ہوگی۔",
+          "whyItMatters_urdu": "جدوجہد کرتے وقت، یہ آیت الہی یقین میں جڑی ٹھوس امید پیش کرتی ہے، نہ کہ خواہش مندانہ سوچ۔ اللہ کے وعدے ناقابل شکست عہد ہیں جن پر ہم اپنا ایمان مضبوط کر سکتے ہیں۔",
+          "title_ar": "الوعد الإلهي",
+          "coreInsight_ar": "'إن' (بالتأكيد/حقًا) يؤكد اليقين المطلق - هذا ليس تكهنًا مفعمًا بالأمل بل وعد الله المضمون أن اليسر سيرافق العسر.",
+          "whyItMatters_ar": "عند النضال، تقدم هذه الآية أملًا ملموسًا متجذرًا في اليقين الإلهي، وليس التفكير بالتمني. وعود الله هي التزامات لا تنكسر يمكننا أن نثبت إيماننا عليها."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys unanimous agreement among Sunni and Shia scholars as one of the most comforting promises in the Quran. Ibn Kathir explains that the use of 'ma'a' (with) rather than 'ba'da' (after) indicates that ease comes together with hardship, not merely following it. Al-Tabari mentions various interpretations of what specific ease and hardship are referenced, with some scholars seeing it as general and others as specific to the Prophet's situation. Al-Qurtubi emphasizes the linguistic point that the definite 'the hardship' and the indefinite 'an ease' suggest that ease is more expansive, and he cites the famous principle that 'one hardship will not overcome two eases,' referring to the repetition in the next verse. Shia scholars agree with all these linguistic and theological points, with additional emphasis on the verse as a divine law applicable to all believers throughout history. Both traditions emphasize the importance of maintaining hope and positive expectations of Allah during trials. Fakhr al-Din al-Razi notes that this verse provides both information and consolation: it informs us of a divine pattern while comforting us during our struggles. The consensus across both schools is that this verse is a fundamental promise of divine mercy, teaching that Allah never creates hardship without creating pathways to ease, and that ultimate relief is guaranteed for those who remain patient and faithful. There are no significant differences in interpretation between the traditions on this verse.",
+    "layer4_urdu": "یہ آیت سنی اور شیعہ علماء کے درمیان قرآن کے سب سے زیادہ تسلی دینے والے وعدوں میں سے ایک کے طور پر متفقہ طور پر متفق ہے۔ ابن کثیر وضاحت کرتے ہیں کہ 'مع' (ساتھ) کے بجائے 'بعد' (بعد) کا استعمال اس بات کی نشاندہی کرتا ہے کہ آسانی مشکل کے ساتھ آتی ہے، نہ کہ محض اس کی پیروی کرتی ہے۔ طبری اس بات کا ذکر کرتے ہیں کہ کون سی مخصوص آسانی اور مشکل کا حوالہ دیا گیا ہے، کچھ علماء اسے عام دیکھتے ہیں اور دوسرے اسے نبی کریم کی صورتحال کے لیے مخصوص سمجھتے ہیں۔ قرطبی لسانی نکتے پر زور دیتے ہیں کہ معرفہ 'المشکل' اور نکرہ 'ایک آسانی' یہ تجویز کرتا ہے کہ آسانی زیادہ وسیع ہے، اور وہ مشہور اصول کا حوالہ دیتے ہیں کہ 'ایک مشکل دو آسانیوں پر غالب نہیں آئے گی،' اگلی آیت میں تکرار کا حوالہ دیتے ہوئے۔ شیعہ علماء ان تمام لسانی اور نظریاتی نکات سے متفق ہیں، اضافی زور کے ساتھ کہ آیت تمام مومنوں پر تاریخ بھر لاگو ہونے والے الہٰی قانون کے طور پر ہے۔ دونوں روایات آزمائشوں کے دوران امید اور اللہ پر مثبت توقعات برقرار رکھنے کی اہمیت پر زور دیتی ہیں۔ فخر الدین رازی نوٹ کرتے ہیں کہ یہ آیت معلومات اور تسلی دونوں فراہم کرتی ہے: یہ ہمیں الہٰی نمونے کے بارے میں مطلع کرتی ہے جبکہ ہماری جدوجہد کے دوران ہمیں تسلی دیتی ہے۔ دونوں مکاتب فکر میں اتفاق رائے یہ ہے کہ یہ آیت الہٰی رحمت کا بنیادی وعدہ ہے، سکھاتی ہے کہ اللہ کبھی بھی بغیر آسانی کے راستوں کے مشکل پیدا نہیں کرتا، اور یہ کہ ان لوگوں کے لیے حتمی راحت کی ضمانت ہے جو صابر اور وفادار رہتے ہیں۔ اس آیت پر دونوں روایات کے درمیان کوئی خاص اختلاف نہیں ہے۔",
+    "layer4_ar": "تحظى هذه الآية بإجماع علماء السنة والشيعة على أنها من أعظم الوعود الإلهية عزاءً في القرآن الكريم. ويُوضِّح ابن كثير أن توظيف \"مع\" - المصاحبة - بدلاً من \"بعد\" يدل على أن اليسر يأتي رفيقاً للعسر لا عقبه. ويذكر الطبري تفسيرات متعددة لما يُشير إليه اليسر والعسر المقصودان، بعضهم رأى أنهما عامَّان وآخرون رأوا أنهما خاصَّان بحال النبي. ويُشدِّد القرطبي على الملاحظة اللغوية بأن تعريف \"العسر\" وتنكير \"يسرًا\" يُشيران إلى أن اليسر أوسع، ويستشهد بالقاعدة المشهورة إن \"عسراً واحداً لن يغلب يسرين\" إشارةً إلى التكرار في الآية التالية. ويتفق علماء الشيعة مع جميع هذه النقاط اللغوية والعقدية، ويُضيفون التشديد على الآية بوصفها سنةً إلهية سارية على جميع المؤمنين عبر التاريخ. ويُشدِّد التقليدان على أهمية الإبقاء على الأمل وحسن الظن بالله في أوقات الابتلاء. ويُلاحظ فخر الدين الرازي أن هذه الآية تُقدِّم معلومةً وعزاءً معاً: تُخبرنا بسنة إلهية وتُسلينا في نفس الوقت. والإجماع في كلا المذهبين أن هذه الآية وعدٌ إلهي جوهري يُعلِّم أن الله لا يخلق عسراً إلا أوجد مسالك اليسر معه، وأن الفرج مكفولٌ في نهاية المطاف لمن ثبتوا واستمسكوا بالإيمان. ولا توجد فوارق تُذكر في التفسير بين التقليدين في شأن هذه الآية، إذ يرى كلاهما فيها تعبيراً جوهرياً عن الرحمة الإلهية ومنبعاً للسكينة والعزاء في قلوب جميع المؤمنين."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:6:emphatic-repetition",
+          "title": "Divine Emphasis",
+          "icon": "repeat",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Verse 6 repeats verse 5 almost identically - this emphatic repetition stresses the absolute certainty and importance of this divine principle: ease with hardship.",
+          "whyItMatters": "When Allah repeats something in the Quran, it demands our attention. This truth is so vital for our spiritual survival that He stated it twice in succession.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+          "title_urdu": "الہی تاکید",
+          "coreInsight_urdu": "آیت 6 آیت 5 کو تقریباً ایک جیسا دہراتی ہے - یہ زوردار تکرار اس الہی اصول کی مطلق یقین اور اہمیت پر زور دیتی ہے: سختی کے ساتھ آسانی۔",
+          "whyItMatters_urdu": "جب اللہ قرآن میں کچھ دہراتا ہے، تو یہ ہماری توجہ کا مطالبہ کرتا ہے۔ یہ سچائی ہماری روحانی بقا کے لیے اتنی اہم ہے کہ اس نے اسے یکے بعد دیگرے دو بار بیان کیا۔",
+          "title_ar": "التأكيد الإلهي",
+          "coreInsight_ar": "تكرر الآية 6 الآية 5 بشكل شبه متطابق - هذا التكرار المؤكد يشدد على اليقين المطلق وأهمية هذا المبدأ الإلهي: اليسر مع العسر.",
+          "whyItMatters_ar": "عندما يكرر الله شيئًا في القرآن، فإنه يتطلب انتباهنا. هذه الحقيقة حيوية جدًا لبقائنا الروحي لدرجة أنه ذكرها مرتين متتاليتين."
+        },
+        {
+          "id": "94:6:double-assurance",
+          "title": "Double Assurance",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The repetition provides psychological reinforcement - when anxiety whispers 'this hardship won't end,' we have not one but two divine assurances to combat despair.",
+          "whyItMatters": "In deep trials, we need repeated reminders of truth. Allah knew our tendency to forget promises under pressure, so He gave us this truth twice for unshakeable hope.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّ",
+          "title_urdu": "دوہرا یقین",
+          "coreInsight_urdu": "تکرار نفسیاتی تقویت فراہم کرتی ہے - جب بے چینی سرگوشی کرتی ہے 'یہ سختی ختم نہیں ہوگی'، ہمارے پاس مایوسی سے لڑنے کے لیے ایک نہیں بلکہ دو الہی یقین دہانیاں ہیں۔",
+          "whyItMatters_urdu": "گہری آزمائشوں میں، ہمیں سچ کی بار بار یاد دہانی کی ضرورت ہے۔ اللہ دباؤ میں وعدوں کو بھولنے کی ہماری رجحان کو جانتا تھا، اس لیے اس نے ہمیں ناقابل تزلزل امید کے لیے یہ سچ دو بار دیا۔",
+          "title_ar": "الضمان المزدوج",
+          "coreInsight_ar": "التكرار يوفر تعزيزًا نفسيًا - عندما يهمس القلق 'هذه المشقة لن تنتهي'، لدينا ليس واحدة بل ضمانتان إلهيتان لمكافحة اليأس.",
+          "whyItMatters_ar": "في المحن العميقة، نحتاج إلى تذكيرات متكررة بالحقيقة. عرف الله ميلنا إلى نسيان الوعود تحت الضغط، لذلك أعطانا هذه الحقيقة مرتين للأمل الثابت."
+        },
+        {
+          "id": "94:6:scholars-interpretation",
+          "title": "Mathematical Hope",
+          "icon": "number.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Scholars note: 'the hardship' (definite, same one) appears twice, but 'ease' (indefinite, potentially different) appears twice - suggesting one hardship brings multiple forms of ease.",
+          "whyItMatters": "The mathematics of mercy: one specific difficulty can unlock multiple blessings. This reframes trials as investments that yield compound returns of divine ease.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْعُسْرِ",
+          "title_urdu": "ریاضیاتی امید",
+          "coreInsight_urdu": "علماء نوٹ کرتے ہیں: 'سختی' (معین، ایک ہی) دو بار آتی ہے، لیکن 'آسانی' (غیر معین، ممکنہ طور پر مختلف) دو بار آتی ہے - تجویز کرتے ہوئے کہ ایک سختی آسانی کی متعدد شکلیں لاتی ہے۔",
+          "whyItMatters_urdu": "رحمت کی ریاضی: ایک مخصوص مشکل متعدد نعمتوں کو کھول سکتی ہے۔ یہ آزمائشوں کو ایسی سرمایہ کاری کے طور پر دوبارہ تشکیل دیتا ہے جو الہی آسانی کے مرکب منافع پیدا کرتی ہے۔",
+          "title_ar": "الأمل الرياضي",
+          "coreInsight_ar": "يلاحظ العلماء: 'العسر' (المحدد، نفسه) يظهر مرتين، لكن 'يسر' (غير محدد، ربما مختلف) يظهر مرتين - مما يشير إلى أن مشقة واحدة تجلب أشكالًا متعددة من اليسر.",
+          "whyItMatters_ar": "رياضيات الرحمة: صعوبة محددة واحدة يمكن أن تفتح بركات متعددة. يعيد هذا تأطير المحن كاستثمارات تحقق عوائد مركبة من اليسر الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars recognize the significance of this verse's repetition, though they offer complementary emphases in interpretation. Ibn Kathir explains that the repetition emphasizes the certainty of the promise and assures believers that relief will definitely come. He notes the grammatical observation that 'hardship' is definite while 'ease' is indefinite in both verses, suggesting multiple eases for one hardship. Al-Tabari cites similar linguistic analysis, confirming that scholars across the early Islamic period recognized this pattern. Al-Qurtubi emphasizes that the repetition serves to comfort the Prophet specifically and all believers generally, establishing this as a divine law. Shia scholars add emphasis on the spiritual power of the repetition itself, viewing it not merely as rhetorical emphasis but as a multiplied blessing. Both traditions cite the principle that 'one hardship will not overcome two eases,' showing scholarly consensus on this interpretation. Fakhr al-Din al-Razi notes that some scholars interpreted the two eases as representing relief in this world and the next, while others saw them as different types of worldly relief. The consensus across both Sunni and Shia exegesis is that this repetition provides emphatic divine assurance, demonstrates that Allah's mercy surpasses His trials, and obligates believers to maintain hope and positive expectations during difficulties. There are no significant disagreements between the traditions on this verse, with both recognizing it as a fundamental expression of divine mercy and a source of comfort for all believers.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء اس آیت کی تکرار کی اہمیت کو تسلیم کرتے ہیں، اگرچہ وہ تفسیر میں تکمیلی زور پیش کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ تکرار وعدے کی یقین پر زور دیتی ہے اور مومنوں کو یقین دلاتی ہے کہ راحت یقینی طور پر آئے گی۔ وہ اس گرامر کے مشاہدے کو نوٹ کرتے ہیں کہ 'مشکل' معرفہ ہے جبکہ 'آسانی' دونوں آیات میں نکرہ ہے، ایک مشکل کے لیے کئی آسانیاں تجویز کرتی ہیں۔ طبری اسی طرح کے لسانی تجزیے کا حوالہ دیتے ہیں، اس بات کی تصدیق کرتے ہوئے کہ ابتدائی اسلامی دور کے علماء نے اس نمونے کو پہچانا۔ قرطبی اس بات پر زور دیتے ہیں کہ تکرار نبی کریم کو خاص طور پر اور تمام مومنوں کو عام طور پر تسلی دینے کے لیے کام کرتی ہے، اسے الہٰی قانون کے طور پر قائم کرتی ہے۔ شیعہ علماء خود تکرار کی روحانی طاقت پر اضافی زور دیتے ہیں، اسے محض بلاغتی زور کے طور پر نہیں بلکہ ضرب شدہ برکت کے طور پر دیکھتے ہیں۔ دونوں روایات اس اصول کا حوالہ دیتی ہیں کہ 'ایک مشکل دو آسانیوں پر غالب نہیں آئے گی،' اس تشریح پر علمی اتفاق رائے ظاہر کرتی ہیں۔ فخر الدین رازی نوٹ کرتے ہیں کہ کچھ علماء نے دو آسانیوں کو اس دنیا اور اگلی میں راحت کی نمائندگی کرنے کی تشریح کی، جبکہ دوسروں نے انہیں مختلف قسم کی دنیاوی راحت کے طور پر دیکھا۔ سنی اور شیعہ دونوں تفاسیر میں اتفاق رائے یہ ہے کہ یہ تکرار زور دار الہٰی یقین دہانی فراہم کرتی ہے، ظاہر کرتی ہے کہ اللہ کی رحمت اس کی آزمائشوں سے بڑھ جاتی ہے، اور مومنوں کو مشکلات کے دوران امید اور مثبت توقعات برقرار رکھنے کی پابندی کرتی ہے۔ اس آیت پر روایات کے درمیان کوئی خاص اختلافات نہیں ہیں، دونوں اسے تمام مومنوں کے لیے الہٰی رحمت کے بنیادی اظہار اور تسلی کے ذریعہ کے طور پر تسلیم کرتی ہیں۔",
+    "layer4_ar": "يُقرُّ علماء السنة والشيعة بدلالة تكرار هذه الآية، وإن قدَّموا تشديدات متكاملة في التفسير. ويُوضِّح ابن كثير أن التكرار يُؤكِّد يقين الوعد ويُطمئن المؤمنين أن الفرج آتٍ لا محالة، مُثبِّتاً الملاحظة النحوية بأن \"العسر\" معرَّف و\"يسر\" نكرة في الآيتين مما يُشير إلى يُسرَين لعسرٍ واحد. ويُورد الطبري تحليلاً لغوياً مماثلاً، مُؤكِّداً أن علماء الإسلام الأوائل اتفقوا على هذا النمط. ويُشدِّد القرطبي على أن التكرار يُسلِّي النبيَّ خصوصاً والمؤمنين عموماً، راسياً هذا الوعد سنةً إلهية. ويُضيف علماء الشيعة التشديد على القوة الروحية للتكرار ذاته، ناظرين إليه لا مجرد تأكيد بلاغي بل بركة مُضاعفة. ويستشهد التقليدان بمبدأ \"لن يغلب عسرٌ يسرين\" كاشفاً عن إجماع علمي على هذا التفسير. ويُلاحظ فخر الدين الرازي أن بعض العلماء فسَّر اليُسرين على أنهما يُمثِّلان الفرج في الدنيا والآخرة، بينما رأى آخرون أنهما نوعان من الفرج الدنيوي. والإجماع في كلا التقليدين أن هذا التكرار يُسدي طمأنينة إلهية مؤكِّدة، ويُثبت أن رحمة الله تتجاوز محنه، ويُوجب على المؤمنين الإبقاء على الأمل وحسن الظن بالله في الشدائد. ولا توجد فوارق جوهرية بين التقليدين في هذه الآية، إذ يرى كلاهما فيها تعبيراً أصيلاً عن الرحمة الإلهية ومنبعاً لعزاء جميع المؤمنين."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:7:when-finished",
+          "title": "After Completion",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Fa-idha faraghta' (when you have finished) refers to completing one duty before moving to the next - finish your worldly obligations, then turn fully to worship without distraction.",
+          "whyItMatters": "Quality worship requires presence, not multitasking. Complete your responsibilities properly so you can stand before Allah with an undivided heart and focused mind.",
+          "position": "topLeft",
+          "arabicHighlight": "فَإِذَا فَرَغْتَ",
+          "title_urdu": "فارغ ہونے کے بعد",
+          "coreInsight_urdu": "'فاذا فرغت' (جب تم فارغ ہو جاؤ) ایک فرض کو مکمل کرنے کی طرف اشارہ کرتا ہے اگلے کی طرف جانے سے پہلے - اپنی دنیاوی ذمہ داریاں مکمل کرو، پھر خلفشار کے بغیر مکمل طور پر عبادت کی طرف مڑو۔",
+          "whyItMatters_urdu": "معیاری عبادت موجودگی کی ضرورت ہے، ملٹی ٹاسکنگ کی نہیں۔ اپنی ذمہ داریاں صحیح طریقے سے مکمل کرو تاکہ تم غیر منقسم دل اور مرکوز ذہن کے ساتھ اللہ کے سامنے کھڑے ہو سکو۔",
+          "title_ar": "بعد الانتهاء",
+          "coreInsight_ar": "'فإذا فرغت' (عندما تنتهي) يشير إلى إكمال واجب واحد قبل الانتقال إلى التالي - أكمل التزاماتك الدنيوية، ثم توجه بالكامل إلى العبادة دون تشتيت.",
+          "whyItMatters_ar": "العبادة الجيدة تتطلب الحضور، وليس تعدد المهام. أكمل مسؤولياتك بشكل صحيح حتى تتمكن من الوقوف أمام الله بقلب غير منقسم وعقل مركز."
+        },
+        {
+          "id": "94:7:stand-up-labor",
+          "title": "Stand in Worship",
+          "icon": "figure.walk",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Fansab' (stand up/exert effort) implies active, effortful worship - not passive leisure but intentional spiritual labor even when worldly work is done.",
+          "whyItMatters": "Rest from worldly work doesn't mean spiritual laziness. Free time is opportunity for deeper worship - use relief from obligations to invest in voluntary devotion.",
+          "position": "topRight",
+          "arabicHighlight": "فَٱنصَبْ",
+          "title_urdu": "عبادت میں کھڑے ہو",
+          "coreInsight_urdu": "'فانصب' (کھڑے ہو/محنت کرو) فعال، کوششی عبادت کی طرف اشارہ کرتا ہے - غیر فعال تفریح نہیں بلکہ جان بوجھ کر روحانی محنت یہاں تک کہ جب دنیاوی کام ختم ہو جائے۔",
+          "whyItMatters_urdu": "دنیاوی کام سے آرام کا مطلب روحانی سستی نہیں ہے۔ فارغ وقت گہری عبادت کا موقع ہے - ذمہ داریوں سے راحت کو رضاکارانہ عبادت میں سرمایہ کاری کے لیے استعمال کرو۔",
+          "title_ar": "قف للعبادة",
+          "coreInsight_ar": "'فانصب' (قف/ابذل جهدًا) يشير إلى عبادة نشطة ومجهدة - وليس ترفيهًا سلبيًا بل عمل روحي متعمد حتى عندما ينتهي العمل الدنيوي.",
+          "whyItMatters_ar": "الراحة من العمل الدنيوي لا تعني الكسل الروحي. الوقت الحر فرصة لعبادة أعمق - استخدم الراحة من الالتزامات للاستثمار في العبادة الطوعية."
+        },
+        {
+          "id": "94:7:continuous-devotion",
+          "title": "Continuous Service",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse establishes rhythm: worldly duty → spiritual devotion → worldly duty → spiritual devotion. Life is continuous service to Allah in alternating forms.",
+          "whyItMatters": "There's no 'off-duty' time from Allah. When not working for worldly needs, transition immediately to worship - this prevents spiritual stagnation and maintains connection.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+          "title_urdu": "مسلسل خدمت",
+          "coreInsight_urdu": "آیت تال قائم کرتی ہے: دنیاوی فرض → روحانی عبادت → دنیاوی فرض → روحانی عبادت۔ زندگی بدلتی ہوئی شکلوں میں اللہ کی مسلسل خدمت ہے۔",
+          "whyItMatters_urdu": "اللہ سے 'آف ڈیوٹی' وقت نہیں ہے۔ جب دنیاوی ضروریات کے لیے کام نہ کر رہے ہوں، فوری طور پر عبادت کی طرف منتقل ہو جاؤ - یہ روحانی جمود کو روکتا ہے اور تعلق برقرار رکھتا ہے۔",
+          "title_ar": "الخدمة المستمرة",
+          "coreInsight_ar": "تؤسس الآية إيقاعًا: واجب دنيوي → عبادة روحية → واجب دنيوي → عبادة روحية. الحياة خدمة مستمرة لله في أشكال متناوبة.",
+          "whyItMatters_ar": "لا يوجد وقت 'خارج الخدمة' من الله. عندما لا تعمل للاحتياجات الدنيوية، انتقل فورًا إلى العبادة - هذا يمنع الركود الروحي ويحافظ على الاتصال."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars offer similar interpretations of this verse with complementary emphases. Ibn Kathir explains that when the Prophet finished his prayers, he should engage in additional voluntary prayers and dhikr, citing hadiths that the Prophet would pray at night until his feet swelled. Al-Tabari mentions multiple interpretations: finishing daily activities to turn to worship, finishing obligatory prayers to begin voluntary ones, or completing preaching duties to engage in private devotion. Al-Qurtubi emphasizes that this verse establishes the Prophet's example of continuous devotion and worship. Sunni scholars generally focus on the verse as encouraging supererogatory worship after completing obligatory duties. Shia scholars agree with these interpretations and additionally emphasize the verse as teaching a comprehensive lifestyle of continuous purposeful activity oriented toward Allah. Both traditions reference hadiths describing the Prophet's intensive worship practices as exemplifying this verse. Fakhr al-Din al-Razi notes that the verse implies a transition from public duties to private devotion, teaching the importance of solitary communion with Allah in addition to communal worship. The consensus across both schools is that this verse commands believers to use their free time for worship rather than idleness, to maintain continuous engagement in purposeful activities, and to respond to divine blessings with increased devotion. Differences are minimal, relating more to emphasis than substance, with both traditions seeing this verse as establishing a model of balanced, devoted life.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء اس آیت کی مماثل تشریحات پیش کرتے ہیں جو تکمیلی زور کے ساتھ ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ جب نبی کریم اپنی نمازیں ختم کرتے تو انہیں اضافی رضاکارانہ نمازوں اور ذکر میں مشغول ہونا چاہیے، احادیث کا حوالہ دیتے ہوئے کہ نبی کریم رات میں نماز پڑھتے یہاں تک کہ ان کے پاؤں سوج جاتے۔ طبری متعدد تشریحات کا ذکر کرتے ہیں: روزمرہ سرگرمیاں ختم کرنا عبادت کی طرف متوجہ ہونے کے لیے، فرض نمازیں ختم کرنا رضاکارانہ نمازوں کی شروعات کے لیے، یا تبلیغی فرائض مکمل کرنا نجی عبادت میں مشغول ہونے کے لیے۔ قرطبی اس بات پر زور دیتے ہیں کہ یہ آیت نبی کریم کی مسلسل عبادت اور عبادت کی مثال قائم کرتی ہے۔ سنی علماء عام طور پر فرض فرائض کے بعد اضافی عبادت کی حوصلہ افزائی کرنے پر توجہ مرکوز کرتے ہیں۔ شیعہ علماء ان تشریحات سے متفق ہیں اور اضافی طور پر اس آیت کو اللہ کی طرف مرکوز مسلسل مقصد مند سرگرمی کی جامع طرز زندگی کی تعلیم دینے کے طور پر زور دیتے ہیں۔ دونوں روایات نبی کریم کی شدید عبادت کے طریقوں کو بیان کرنے والی احادیث کا حوالہ دیتی ہیں جو اس آیت کی مثال ہیں۔ فخر الدین رازی نوٹ کرتے ہیں کہ آیت عوامی فرائض سے نجی عبادت کی طرف منتقلی کا مفہوم رکھتی ہے، اجتماعی عبادت کے علاوہ اللہ کے ساتھ تنہائی میں قربت کی اہمیت کی تعلیم دیتی ہے۔ دونوں مکاتب فکر میں اتفاق رائے یہ ہے کہ یہ آیت مومنوں کو حکم دیتی ہے کہ وہ اپنے فارغ وقت کو بیکاری کے بجائے عبادت کے لیے استعمال کریں، مسلسل مقصد مند سرگرمیوں میں مشغولیت برقرار رکھیں، اور الہٰی برکات کا جواب بڑھی ہوئی عبادت سے دیں۔ فرق مادے کے بجائے زور سے متعلق ہیں، دونوں روایات اس آیت کو متوازن، وقف زندگی کا نمونہ قائم کرنے کے طور پر دیکھتی ہیں۔",
+    "layer4_ar": "يُقدِّم علماء السنة والشيعة تفسيرات متقاربة لهذه الآية مع تشديدات متكاملة. ويُوضِّح ابن كثير أنه حين ينتهي النبي من صلاته يُقبل على صلوات تطوعية وأذكار، مستشهداً بأحاديث أن النبي كان يصلي من الليل حتى تتورم قدماه. ويذكر الطبري وجوهاً تفسيرية متعددة: الانتهاء من الأنشطة اليومية للتوجه إلى العبادة، والانتهاء من الفرائض للشروع في التطوع، أو الفراغ من مهام الدعوة للانصراف إلى الخلوة العبادية. ويُشدِّد القرطبي على أن الآية ترسي مثال النبي في الاجتهاد المتواصل في العبادة. ويركز علماء السنة عموماً على الآية بوصفها حثاً على العبادة التطوعية في أعقاب إتمام الفرائض. ويتفق علماء الشيعة مع هذه التفسيرات ويُضيفون التشديد على الآية بوصفها منهجاً لحياة شاملة من النشاط الهادف المتواصل منصبِّ نحو الله. ويستشهد التقليدان بالأحاديث الواصفة لممارسات النبي العبادية المكثَّفة. ويُلاحظ فخر الدين الرازي أن الآية تُلمِّح إلى الانتقال من الواجبات العامة إلى التفرُّد الخاص بالله، مُعلِّمةً أهمية الخلوة مع الله إضافةً إلى العبادة الجماعية. والإجماع في كلا التقليدين أن هذه الآية تأمر المؤمنين بتوظيف أوقات فراغهم في العبادة لا الخمول، وبالإدامة على الانخراط في الأعمال الهادفة، والاستجابة للنعم الإلهية بمزيد من التفاني. والفوارق طفيفة تتعلق بالتشديد لا بالجوهر، ويرى التقليدان في الآية نموذجاً لحياة متوازنة مُكرَّسة."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "94:8:to-your-lord",
+          "title": "To Your Lord",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Ila rabbika' (to your Lord) - direct all longing exclusively toward Allah, not toward creation. He is your Rabb (Lord, Sustainer, Nurturer) who deserves complete devotion.",
+          "whyItMatters": "Misdirected longing causes suffering. When we chase creation instead of the Creator, we remain perpetually unsatisfied. True fulfillment requires orienting all desires toward Allah.",
+          "position": "topLeft",
+          "arabicHighlight": "رَبِّكَ",
+          "title_urdu": "اپنے رب کی طرف",
+          "coreInsight_urdu": "'الی ربک' (اپنے رب کی طرف) - تمام خواہش کو خصوصی طور پر اللہ کی طرف لے جاؤ، مخلوق کی طرف نہیں۔ وہ تمہارا رب (پروردگار، کفیل، پرورش کرنے والا) ہے جو مکمل عبادت کا مستحق ہے۔",
+          "whyItMatters_urdu": "غلط سمت میں خواہش تکلیف کا باعث بنتی ہے۔ جب ہم خالق کے بجائے مخلوق کا پیچھا کرتے ہیں، ہم مستقل طور پر غیر مطمئن رہتے ہیں۔ حقیقی تکمیل تمام خواہشات کو اللہ کی طرف لے جانے کی ضرورت ہے۔",
+          "title_ar": "إلى ربك",
+          "coreInsight_ar": "'إلى ربك' - وجه كل شوق حصريًا نحو الله، وليس نحو الخلق. هو ربك (الرب، المعيل، المربي) الذي يستحق التفاني الكامل.",
+          "whyItMatters_ar": "الشوق الموجه بشكل خاطئ يسبب المعاناة. عندما نطارد الخلق بدلاً من الخالق، نبقى غير راضين إلى الأبد. الإشباع الحقيقي يتطلب توجيه جميع الرغبات نحو الله."
+        },
+        {
+          "id": "94:8:direct-longing",
+          "title": "Intense Longing",
+          "icon": "heart.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Farghab' (direct longing/desire intensely) - not passive awareness but active, passionate yearning. Cultivate burning desire for Allah's pleasure and proximity.",
+          "whyItMatters": "Lukewarm faith produces lukewarm results. Allah calls us to passionate devotion - to desire Him with the intensity others reserve for worldly loves.",
+          "position": "topRight",
+          "arabicHighlight": "فَٱرْغَب",
+          "title_urdu": "شدید خواہش",
+          "coreInsight_urdu": "'فارغب' (شدت سے خواہش/آرزو کرو) - غیر فعال آگاہی نہیں بلکہ فعال، پرجوش آرزو۔ اللہ کی خوشنودی اور قربت کے لیے شدید خواہش پیدا کرو۔",
+          "whyItMatters_urdu": "ہلکا ایمان ہلکے نتائج پیدا کرتا ہے۔ اللہ ہمیں پرجوش عبادت کی طرف بلاتا ہے - اسے اس شدت کے ساتھ چاہو جو دوسرے دنیاوی محبتوں کے لیے محفوظ رکھتے ہیں۔",
+          "title_ar": "الشوق الشديد",
+          "coreInsight_ar": "'فارغب' (وجه الشوق/الرغبة بشدة) - ليس وعيًا سلبيًا بل شوقًا نشطًا وعاطفيًا. زرع رغبة ملتهبة لرضا الله وقربه.",
+          "whyItMatters_ar": "الإيمان الفاتر ينتج نتائج فاترة. يدعونا الله إلى التفاني العاطفي - أن نرغب فيه بالشدة التي يحفظها الآخرون للمحبة الدنيوية."
+        },
+        {
+          "id": "94:8:exclusive-focus",
+          "title": "Exclusive Focus",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The command 'fa' (so/then) connects verse 7 and 8: when freed from duties, don't scatter attention among distractions - focus longing entirely on Allah alone.",
+          "whyItMatters": "Spiritual progress requires undivided attention. In a world of infinite distractions, consciously redirecting our deepest desires toward Allah becomes revolutionary worship.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِلَىٰ رَبِّكَ",
+          "title_urdu": "خصوصی توجہ",
+          "coreInsight_urdu": "حکم 'فَ' (تو/پھر) آیت 7 اور 8 کو جوڑتا ہے: جب فرائض سے آزاد ہو، توجہ کو خلفشار میں منتشر نہ کرو - خواہش کو مکمل طور پر صرف اللہ پر مرکوز کرو۔",
+          "whyItMatters_urdu": "روحانی ترقی غیر منقسم توجہ کی ضرورت ہے۔ لامتناہی خلفشار کی دنیا میں، شعوری طور پر اپنی گہری خواہشات کو اللہ کی طرف لے جانا انقلابی عبادت بن جاتا ہے۔",
+          "title_ar": "التركيز الحصري",
+          "coreInsight_ar": "الأمر 'ف' (إذن/ثم) يربط الآية 7 و 8: عندما تتحرر من الواجبات، لا تبعثر الانتباه بين الملهيات - ركز الشوق تمامًا على الله وحده.",
+          "whyItMatters_ar": "التقدم الروحي يتطلب انتباهًا غير منقسم. في عالم من الملهيات اللانهائية، يصبح إعادة توجيه رغباتنا الأعمق نحو الله عبادة ثورية."
+        },
+        {
+          "id": "94:8:surah-conclusion",
+          "title": "Perfect Closure",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah's arc: Allah expanded your chest → removed your burden → raised your mention → ease with hardship → therefore worship Him with longing. Divine gifts demand grateful devotion.",
+          "whyItMatters": "Recognizing Allah's past favors fuels present devotion. When we truly grasp what He's done for us, passionate worship becomes the natural, joyful response.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَبِّكَ",
+          "title_urdu": "کامل اختتام",
+          "coreInsight_urdu": "سورت کا قوس: اللہ نے تمہارے سینے کو کھولا → تمہارا بوجھ ہٹایا → تمہارا ذکر بلند کیا → سختی کے ساتھ آسانی → لہذا خواہش کے ساتھ اس کی عبادت کرو۔ الہی تحائف شکر گزار عبادت کا مطالبہ کرتے ہیں۔",
+          "whyItMatters_urdu": "اللہ کے ماضی کے احسانات کو پہچاننا موجودہ عبادت کو ہوا دیتا ہے۔ جب ہم واقعی سمجھتے ہیں کہ اس نے ہمارے لیے کیا کیا ہے، پرجوش عبادت قدرتی، خوش کن جواب بن جاتی ہے۔",
+          "title_ar": "الإغلاق الكامل",
+          "coreInsight_ar": "قوس السورة: شرح الله صدرك → رفع عبئك → رفع ذكرك → اليسر مع العسر → لذلك اعبده بشوق. الهدايا الإلهية تتطلب تفانيًا ممتنًا.",
+          "whyItMatters_ar": "إدراك نعم الله السابقة يغذي التفاني الحالي. عندما ندرك حقًا ما فعله من أجلنا، تصبح العبادة العاطفية الاستجابة الطبيعية والمبهجة."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars interpret this verse as commanding exclusive reliance on and longing for Allah. Ibn Kathir explains that this verse means to direct all hopes, desires, and supplications to Allah alone, not to any created being. He emphasizes that this verse establishes tawhid in the realm of hope and aspiration, complementing tawhid in worship. Al-Tabari mentions that this verse commands the Prophet to seek Allah's pleasure and reward through his worship, not worldly benefits or human approval. Al-Qurtubi notes that the verse comes after the command to worship, indicating that worship must be accompanied by proper intention and desire for Allah alone. Sunni scholars generally emphasize this verse as teaching sincerity in worship and exclusive reliance on Allah for all needs. Shia scholars agree with all these interpretations and additionally emphasize the verse as teaching the concept of ikhlas (sincerity) and spiritual detachment from worldly attachments while longing for divine proximity. Both traditions cite hadiths emphasizing that Allah does not accept worship performed for any purpose other than seeking His pleasure. Fakhr al-Din al-Razi explains that directing longing to Allah means recognizing that He alone is the source of all good, the fulfiller of all needs, and the ultimate object worthy of desire. The consensus across both schools is that this verse establishes exclusive spiritual orientation toward Allah, commands sincerity in worship, and teaches that all hopes and desires should ultimately be directed toward the Creator rather than creation. There are no significant differences between Sunni and Shia interpretation of this verse, with both traditions seeing it as a fundamental statement of tawhid and a completion of the surah's message of trust in and devotion to Allah.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء اس آیت کو اللہ پر خصوصی انحصار اور اس کے لیے آرزو کے حکم کے طور پر تعبیر کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ اس آیت کا مطلب ہے تمام امیدیں، خواہشات، اور مناجاتیں صرف اللہ کی طرف ہدایت کرنا، کسی مخلوق کی طرف نہیں۔ وہ اس بات پر زور دیتے ہیں کہ یہ آیت امید اور خواہش کے دائرے میں توحید قائم کرتی ہے، عبادت میں توحید کی تکمیل کرتی ہے۔ طبری ذکر کرتے ہیں کہ یہ آیت نبی کریم کو حکم دیتی ہے کہ وہ اپنی عبادت کے ذریعے اللہ کی رضا اور اجر حاصل کریں، دنیاوی فوائد یا انسانی منظوری نہیں۔ قرطبی نوٹ کرتے ہیں کہ یہ آیت عبادت کے حکم کے بعد آتی ہے، یہ بتاتی ہے کہ عبادت صحیح نیت اور صرف اللہ کے لیے خواہش کے ساتھ ہونی چاہیے۔ سنی علماء عام طور پر اس آیت پر زور دیتے ہیں کہ یہ عبادت میں اخلاص اور تمام ضروریات کے لیے اللہ پر خصوصی انحصار کی تعلیم دیتی ہے۔ شیعہ علماء ان تمام تشریحات سے متفق ہیں اور اضافی طور پر اس آیت پر زور دیتے ہیں کہ یہ اخلاص کے تصور اور الہٰی قربت کے لیے آرزو کرتے ہوئے دنیاوی لگاؤ سے روحانی علیحدگی کی تعلیم دیتی ہے۔ دونوں روایات احادیث کا حوالہ دیتی ہیں جو اس بات پر زور دیتی ہیں کہ اللہ اس کی رضا کے علاوہ کسی مقصد کے لیے کی گئی عبادت قبول نہیں کرتا۔ فخر الدین رازی وضاحت کرتے ہیں کہ اللہ کی طرف آرزو کو ہدایت کرنے کا مطلب ہے یہ تسلیم کرنا کہ وہ تنہا تمام خیر کا منبع ہے، تمام ضروریات کو پورا کرنے والا، اور خواہش کے لائق حتمی مقصد۔ دونوں مکاتب فکر میں اتفاق رائے یہ ہے کہ یہ آیت اللہ کی طرف خصوصی روحانی سمت قائم کرتی ہے، عبادت میں اخلاص کا حکم دیتی ہے، اور سکھاتی ہے کہ تمام امیدیں اور خواہشات بالآخر مخلوق کے بجائے خالق کی طرف ہدایت ہونی چاہئیں۔ اس آیت پر سنی اور شیعہ تشریح کے درمیان کوئی خاص اختلاف نہیں ہیں، دونوں روایات اسے توحید کے بنیادی بیان اور اللہ کی طرف اور اس میں عبادت کے سورت کے پیغام کی تکمیل کے طور پر دیکھتی ہیں۔",
+    "layer4_ar": "يُفسِّر علماء السنة والشيعة هذه الآية باعتبارها أمراً بالتعلق الحصري بالله والاشتياق إليه وحده. ويُوضِّح ابن كثير أن الآية تعني توجيه كل الآمال والرغبات والتضرعات إلى الله وحده دون أي مخلوق، مُشدِّداً على أنها ترسي التوحيد في دائرة الأمل والطموح تتمةً للتوحيد في العبادة. ويذكر الطبري أن الآية تأمر النبي بطلب رضا الله وجزائه من وراء عبادته لا مكاسب دنيوية أو إعجاب البشر. ويُلاحظ القرطبي أن الآية تأتي عقب الأمر بالعبادة، مُشيراً إلى أن العبادة ينبغي أن يصحبها الإخلاص في النية والرغبة في الله وحده. ويُشدِّد علماء السنة عموماً على الآية بوصفها تعليماً للإخلاص في العبادة والتوكل الكامل على الله في كل الحاجات. ويتفق علماء الشيعة مع جميع هذه التفسيرات ويُضيفون التشديد على الإخلاص والانفصال الروحي من التعلقات الدنيوية مع الاشتياق إلى القرب الإلهي. ويستشهد التقليدان بأحاديث تُشدِّد على أن الله لا يقبل عبادةً أُدِّيت لغير رضاه. ويُوضِّح فخر الدين الرازي أن توجيه الرغبة إلى الله يعني الإقرار بأنه وحده مصدر كل خير وقاضي كل حاجة والغاية الجديرة وحدها بالاشتياق. والإجماع في كلا التقليدين أن هذه الآية ترسي التوجه الروحي الحصري نحو الله، وتأمر بالإخلاص في العبادة، وتُعلِّم أن جميع الآمال والرغبات ينبغي أن تتوجه في نهاية المطاف إلى الخالق لا إلى المخلوق. ولا فوارق جوهرية بين التفسير السني والشيعي في هذه الآية، ويرى كلاهما فيها إعلاناً أصيلاً للتوحيد وخاتمةً جامعة لرسالة السورة في التوكل على الله والتفاني له."
+  }
+}

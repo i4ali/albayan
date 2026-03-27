@@ -1,0 +1,417 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:1:divine-mercy",
+          "title": "Divine Mercy",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse opens with two names of Allah rooted in 'rahma' (mercy) - Rahman encompasses all creation, while Rahim is Allah's special mercy for believers.",
+          "whyItMatters": "Understanding Allah's mercy transforms fear into hope, encouraging us to approach Him with confidence rather than despair.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "title_urdu": "رحمت الٰہی",
+          "coreInsight_urdu": "یہ آیت اللہ کے دو ناموں سے شروع ہوتی ہے جو 'رحمہ' سے ماخوذ ہیں - رحمان تمام مخلوق کو شامل ہے، جبکہ رحیم مومنین کے لیے اللہ کی خاص رحمت ہے۔",
+          "whyItMatters_urdu": "اللہ کی رحمت کو سمجھنا خوف کو امید میں بدل دیتا ہے۔",
+          "title_ar": "الرحمة الإلهية",
+          "coreInsight_ar": "تفتتح الآية باسمين من أسماء الله مشتقين من 'الرحمة' - الرحمن يشمل جميع المخلوقات، بينما الرحيم رحمة الله الخاصة بالمؤمنين.",
+          "whyItMatters_ar": "فهم رحمة الله يحول الخوف إلى أمل."
+        },
+        {
+          "id": "1:1:sacred-beginning",
+          "title": "Sacred Beginning",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Beginning in Allah's name transforms ordinary actions into worship, sanctifying every deed from eating to major life decisions.",
+          "whyItMatters": "This simple practice makes spirituality practical - every moment becomes an opportunity for divine connection.",
+          "position": "topRight",
+          "arabicHighlight": "بِسْمِ ٱللَّهِ",
+          "title_urdu": "مقدس آغاز",
+          "coreInsight_urdu": "اللہ کے نام سے شروع کرنا عام کاموں کو عبادت میں بدل دیتا ہے۔",
+          "whyItMatters_urdu": "یہ آسان عمل روحانیت کو عملی بناتا ہے۔",
+          "title_ar": "البداية المقدسة",
+          "coreInsight_ar": "البدء باسم الله يحول الأعمال العادية إلى عبادة.",
+          "whyItMatters_ar": "هذه الممارسة البسيطة تجعل الروحانية عملية."
+        },
+        {
+          "id": "1:1:divine-name",
+          "title": "Allah's Name",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is the comprehensive name encompassing all divine attributes - the name that includes His majesty, beauty, and perfection.",
+          "whyItMatters": "By invoking Allah's name, we acknowledge that all power, success, and blessing comes from Him alone.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱللَّهِ",
+          "title_urdu": "اللہ کا نام",
+          "coreInsight_urdu": "اللہ وہ جامع نام ہے جو تمام الٰہی صفات کو شامل ہے - جلال، جمال اور کمال۔",
+          "whyItMatters_urdu": "اللہ کا نام لے کر ہم تسلیم کرتے ہیں کہ تمام طاقت اور برکت صرف اس کی طرف سے ہے۔",
+          "title_ar": "اسم الله",
+          "coreInsight_ar": "الله هو الاسم الجامع لجميع الصفات الإلهية - الجلال والجمال والكمال.",
+          "whyItMatters_ar": "بذكر اسم الله، نعترف بأن كل القوة والنجاح منه وحده."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia traditions recognize the Basmala as a foundational element of Quranic recitation and Islamic practice, though subtle differences exist in interpretation and ritual application. Ibn Kathir in his tafsir explains that the Basmala serves to remind Muslims that every action should be dedicated to Allah, aligning closely with the Shia understanding presented by Tabatabai. Al-Tabari notes that early Muslim scholars debated whether the Basmala is part of each surah or merely a separator between chapters. The majority Sunni view, following the Maliki school, considers it a transitional phrase rather than a formal verse of Al-Fatiha, whereas the Shia position, supported by Hanafi scholars among Sunnis, affirms its status as the first verse. This difference impacts ritual prayer: Shia Muslims recite the Basmala aloud in prayers, while many Sunni schools recite it silently. Despite this variance, the theological meaning remains consistent across traditions. Both emphasize that Rahman denotes universal mercy and Rahim denotes specific mercy for believers, drawing on linguistic analysis and prophetic traditions. Fakhr al-Din al-Razi in his extensive tafsir explores the philosophical implications of divine mercy, noting parallels with Shia metaphysical discussions. Comparative study reveals that the Basmala serves as a unifying element in Islamic worship, transcending sectarian boundaries and reinforcing the shared belief in God's compassion as the foundation of creation and guidance.",
+    "layer4_urdu": "سنی اور شیعہ دونوں روایات بسم اللہ کو قرآنی تلاوت اور اسلامی عمل کے بنیادی عنصر کے طور پر تسلیم کرتی ہیں، اگرچہ تشریح اور رسمی اطلاق میں لطیف فرق موجود ہیں۔ ابن کثیر اپنی تفسیر میں وضاحت کرتے ہیں کہ بسم اللہ مسلمانوں کو یاد دلانے کے لیے ہے کہ ہر عمل اللہ کے لیے وقف ہونا چاہیے، جو طباطبائی کی شیعہ تفہیم سے بالکل ہم آہنگ ہے۔ طبری نے نوٹ کیا کہ ابتدائی مسلمان علماء نے بحث کی کہ آیا بسم اللہ ہر سورت کا حصہ ہے یا محض سورتوں کے درمیان فاصلہ کار۔ اکثر سنی نظریہ، مالکی مکتب فکر کی پیروی کرتے ہوئے، اسے سورۃ الفاتحہ کی رسمی آیت کی بجائے ایک عبوری جملہ سمجھتا ہے، جبکہ شیعہ موقف، جسے سنیوں میں حنفی علماء کی تائید حاصل ہے، اس کی حیثیت کو پہلی آیت کے طور پر تصدیق کرتا ہے۔ یہ فرق نماز کے رسم پر اثر ڈالتا ہے: شیعہ مسلمان نماز میں بسم اللہ بلند آواز سے پڑھتے ہیں، جبکہ بہت سے سنی مکاتب فکر اسے خاموشی سے پڑھتے ہیں۔ اس تفاوت کے باوجود، کلامی معنی روایات میں مستقل رہتے ہیں۔ دونوں اس بات پر زور دیتے ہیں کہ رحمٰن عالمگیر رحمت کو ظاہر کرتا ہے اور رحیم مومنوں کے لیے مخصوص رحمت کو، لسانی تجزیے اور نبوی روایات سے استدلال کرتے ہوئے۔ فخر الدین رازی اپنی وسیع تفسیر میں الٰہی رحمت کے فلسفیانہ مضمرات کی کھوج کرتے ہیں، شیعہ مابعد الطبیعاتی مباحث کے ساتھ مماثلتیں نوٹ کرتے ہوئے۔",
+    "layer4_ar": "تُقرُّ كلٌّ من السنة الشيعية والسنية بأن البسملة ركن راسخ من أركان التلاوة القرآنية والممارسة الإسلامية، وإن وُجدت فروق دقيقة في التفسير والتطبيق الشعائري. ويُبيِّن ابن كثير في تفسيره أن البسملة تُذكِّر المسلمين بوجوب تخصيص كل عمل لله، في تناغم وثيق مع المفهوم الشيعي الذي يعرضه الطباطبائي. ويُشير الطبري إلى أن علماء المسلمين الأوائل اختلفوا في كون البسملة جزءاً من كل سورة أم مجرد فاصل بين السور. والموقف الجمهوري في المذهب المالكي يعدّها عبارة انتقالية لا آيةً رسمية من الفاتحة، في حين يُثبت الموقف الشيعي المدعوم بآراء الحنفية من أهل السنة أنها الآية الأولى. ويترتب على هذا الاختلاف أثر في صلاة الجماعة؛ إذ يجهر المسلمون الشيعة بالبسملة في الصلوات، بينما يُسِرُّ بها كثير من المذاهب السنية. غير أن المعنى العقدي يظل ثابتاً عبر التراثين؛ فكلاهما يُؤكِّد أن الرحمن يدل على رحمة عامة والرحيم يدل على رحمة خاصة بالمؤمنين، استناداً إلى التحليل اللغوي والأحاديث النبوية. ويستكشف فخر الدين الرازي في تفسيره الواسع الأبعاد الفلسفية للرحمة الإلهية، مُلاحِظاً تقاطعات مع المناقشات الميتافيزيقية الشيعية. ويكشف الدرس المقارن أن البسملة تمثل عنصراً موحِّداً في العبادة الإسلامية يتجاوز الحدود المذهبية ويُعزِّز الإيمان المشترك بأن رحمة الله هي أساس الخلق والهداية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:2:universal-praise",
+          "title": "Universal Praise",
+          "icon": "hands.clap.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "All praise belongs exclusively to Allah - not just from humans, but from every atom of creation. This is the fundamental reality of existence.",
+          "whyItMatters": "Recognizing that praise is due to Allah alone liberates us from seeking validation from people and redirects our gratitude upward.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْحَمْدُ لِلَّهِ",
+          "title_urdu": "حمد عالمگیر",
+          "coreInsight_urdu": "تمام حمد صرف اللہ کے لیے ہے - نہ صرف انسانوں سے، بلکہ تمام مخلوقات سے۔",
+          "whyItMatters_urdu": "یہ پہچاننا کہ حمد صرف اللہ کا حق ہے ہمیں لوگوں سے توثیق طلب کرنے سے آزاد کرتا ہے۔",
+          "title_ar": "الحمد الشامل",
+          "coreInsight_ar": "الحمد كله لله وحده - ليس من البشر فحسب، بل من كل ذرة في الكون.",
+          "whyItMatters_ar": "إدراك أن الحمد لله وحده يحررنا من طلب التقدير من الناس."
+        },
+        {
+          "id": "1:2:lord-of-worlds",
+          "title": "Lord of Worlds",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Rabb al-Alamin' means Allah is the Sustainer, Nurturer, and Master of all realms - physical, spiritual, seen and unseen.",
+          "whyItMatters": "Allah's lordship means He actively cares for creation every moment. Nothing escapes His nurturing attention.",
+          "position": "topRight",
+          "arabicHighlight": "رَبِّ ٱلْعَٰلَمِينَ",
+          "title_urdu": "رب العالمین",
+          "coreInsight_urdu": "'رب العالمین' کا مطلب ہے اللہ تمام جہانوں کا پالنے والا اور مالک ہے۔",
+          "whyItMatters_urdu": "اللہ کی ربوبیت کا مطلب ہے وہ ہر لمحہ مخلوقات کی پرورش کرتا ہے۔",
+          "title_ar": "رب العالمين",
+          "coreInsight_ar": "'رب العالمين' يعني أن الله هو المربي والمدبر لجميع العوالم.",
+          "whyItMatters_ar": "ربوبية الله تعني أنه يعتني بالخلق في كل لحظة."
+        },
+        {
+          "id": "1:2:grateful-heart",
+          "title": "Grateful Heart",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "True 'hamd' (praise) combines verbal acknowledgment with heartfelt gratitude and action - a complete response to Allah's blessings.",
+          "whyItMatters": "Gratitude is transformative - studies show grateful people are happier, healthier, and more resilient. Islam made this central.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْحَمْدُ",
+          "title_urdu": "شکر گزار دل",
+          "coreInsight_urdu": "حقیقی 'حمد' میں زبانی اعتراف، دل کی شکرگزاری اور عمل شامل ہے۔",
+          "whyItMatters_urdu": "شکرگزاری تبدیل کرنے والی ہے - شکر کرنے والے لوگ زیادہ خوش رہتے ہیں۔",
+          "title_ar": "قلب شاكر",
+          "coreInsight_ar": "الحمد الحقيقي يجمع بين الاعتراف اللفظي والامتنان القلبي والعمل.",
+          "whyItMatters_ar": "الشكر محول - الأشخاص الشاكرون أكثر سعادة وصحة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia scholars converge in their interpretation of this verse as the foundation of monotheistic belief and the principle of gratitude. Ibn Kathir in his tafsir explains that 'alhamdulillah' establishes that all forms of praise, whether expressed or unexpressed, ultimately belong to Allah, echoing Tabatabai's emphasis on divine transcendence and exclusivity. Al-Tabari notes that the phrase 'Rabb al-alamin' affirms God's active role in sustaining creation, a view shared across Islamic traditions and central to both Sunni and Shia theology. Qurtubi in his legal-oriented commentary discusses the implications of this verse for Islamic jurisprudence, noting that recognizing God as the ultimate authority necessitates submission to His commands and prohibitions. Fakhr al-Din al-Razi provides extensive philosophical analysis of the term 'alamin,' exploring the Quranic use of the plural to denote the multiplicity of created realms, a discussion mirrored in Shia metaphysical thought. One area of subtle difference lies in emphasis: Shia exegesis often highlights the concept of divine lordship in relation to the Imams as spiritual guides who reflect and communicate divine guidance to humanity, while Sunni tafsirs focus more exclusively on individual relationship with God. However, both traditions agree that this verse calls believers to a life of gratitude, worship, and recognition of God's sovereignty over all existence, making it a point of theological unity and shared spiritual practice.",
+    "layer4_urdu": "سنی اور شیعہ علماء اس آیت کی تشریح میں متفق ہیں کہ یہ توحیدی عقیدے اور شکر گزاری کے اصول کی بنیاد ہے۔ ابن کثیر اپنی تفسیر میں وضاحت کرتے ہیں کہ الحمد للہ اس بات کو قائم کرتا ہے کہ تعریف کی تمام شکلیں، چاہے اظہار کی جائیں یا نہ کی جائیں، بالآخر اللہ سے تعلق رکھتی ہیں، جو طباطبائی کے الٰہی تفوق اور خصوصیت پر زور سے ہم آہنگ ہے۔ طبری نوٹ کرتے ہیں کہ جملہ رب العالمین مخلوقات کو برقرار رکھنے میں اللہ کے فعال کردار کی تصدیق کرتا ہے، ایک نظریہ جو اسلامی روایات میں مشترک ہے اور سنی و شیعہ دونوں کلام کا مرکز ہے۔ قرطبی اپنی قانونی تفسیر میں اس آیت کے اسلامی فقہ کے لیے مضمرات پر بحث کرتے ہیں، یہ نوٹ کرتے ہوئے کہ اللہ کو حتمی اختیار کے طور پر تسلیم کرنا اس کے احکام اور ممانعتوں کی تابعداری کو لازمی بناتا ہے۔ فخر الدین رازی اصطلاح عالمین کا وسیع فلسفیانہ تجزیہ فراہم کرتے ہیں، قرآن کے جمع کے استعمال کی تلاش کرتے ہوئے جو مخلوق دائروں کی کثرت کو ظاہر کرتا ہے، ایک بحث جو شیعہ مابعد الطبیعاتی فکر میں جھلکتی ہے۔",
+    "layer4_ar": "تتلاقى التيارات الشيعية والسنية في تفسير هذه الآية باعتبارها أساس الإيمان التوحيدي ومبدأ الشكر. فابن كثير في تفسيره يُبيِّن أن \"الحمد لله\" يُقرِّر أن جميع صور الثناء المُعبَّر عنها أو الكامنة في النفس تنتهي في المحصلة إلى الله، في صدى واضح لتأكيد الطباطبائي على التعالي الإلهي والأحادية. ويُلاحِظ الطبري أن عبارة \"رب العالمين\" تُثبت دور الله الفاعل في صون الخلق، وهو رأي مشترك بين التراثين الإسلاميين ومحوري في كليهما. ويستكشف القرطبي في تفسيره الفقهي الآثار المترتبة على هذه الآية، مُنبِّهاً إلى أن الاعتراف بالله السلطة القصوى يستلزم الخضوع لأوامره ونواهيه. ويتوسع فخر الدين الرازي في التحليل الفلسفي لكلمة \"العالمين\"، متأملاً الاستخدام القرآني للجمع للدلالة على تعدد العوالم المخلوقة، في نقاش له نظير في الفكر الميتافيزيقي الشيعي. ومن أوجه الاختلاف الدقيقة في التركيز أن التفسير الشيعي كثيراً ما يُبرز مفهوم الربوبية الإلهية في صلتها بالأئمة بوصفهم مرشدين روحيين يعكسون الهداية الإلهية ويُبلِّغونها للناس، في حين تُركِّز التفاسير السنية بصورة أكثر على العلاقة الفردية المباشرة مع الله. غير أن التراثين يتفقان على أن هذه الآية تدعو المؤمنين إلى حياة من الشكر والعبادة والاعتراف بسيادة الله على جميع الوجود."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:3:encompassing-mercy",
+          "title": "Rahman's Embrace",
+          "icon": "cloud.sun.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Ar-Rahman's mercy is like sunshine - it falls on everyone regardless of their faith, actions, or status. It sustains all life unconditionally.",
+          "whyItMatters": "This teaches us to extend basic kindness to all people, not just those who share our beliefs or who 'deserve' it.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلرَّحْمَٰنِ",
+          "title_urdu": "رحمان کی آغوش",
+          "coreInsight_urdu": "رحمان کی رحمت سورج کی روشنی کی طرح ہے - یہ ایمان، عمل یا حیثیت سے قطع نظر ہر ایک پر پڑتی ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ تمام لوگوں کے ساتھ بنیادی مہربانی کریں۔",
+          "title_ar": "احتضان الرحمن",
+          "coreInsight_ar": "رحمة الرحمن كأشعة الشمس - تنزل على الجميع بصرف النظر عن إيمانهم أو أعمالهم.",
+          "whyItMatters_ar": "هذا يعلمنا أن نمد اللطف الأساسي لجميع الناس."
+        },
+        {
+          "id": "1:3:special-mercy",
+          "title": "Rahim's Care",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Ar-Rahim's mercy is selective and sustained - a special nurturing care for those who turn to Allah in faith and sincerity.",
+          "whyItMatters": "This encourages active seeking - Allah's special mercy flows toward those who make effort to connect with Him.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلرَّحِيمِ",
+          "title_urdu": "رحیم کی توجہ",
+          "coreInsight_urdu": "رحیم کی رحمت خاص اور مستقل ہے - ان کے لیے جو ایمان اور اخلاص سے اللہ کی طرف رجوع کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ فعال تلاش کی حوصلہ افزائی کرتا ہے - اللہ کی خاص رحمت ان کی طرف بہتی ہے جو کوشش کرتے ہیں۔",
+          "title_ar": "عناية الرحيم",
+          "coreInsight_ar": "رحمة الرحيم انتقائية ومستمرة - رعاية خاصة لمن يتوجهون إلى الله بإيمان وإخلاص.",
+          "whyItMatters_ar": "هذا يشجع على السعي النشط - رحمة الله الخاصة تتدفق نحو من يسعون للتواصل معه."
+        },
+        {
+          "id": "1:3:mercy-emphasis",
+          "title": "Double Emphasis",
+          "icon": "arrow.2.squarepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah repeats His mercy attributes from verse 1, emphasizing that mercy - not wrath - is His defining characteristic.",
+          "whyItMatters": "This repetition reshapes our theology - we should approach Allah expecting mercy, not fearing punishment first.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "title_urdu": "دوہرا زور",
+          "coreInsight_urdu": "اللہ آیت 1 سے اپنی رحمت کی صفات دہراتا ہے، اس بات پر زور دیتا ہے کہ رحمت - نہ کہ غضب - اس کی بنیادی خصوصیت ہے۔",
+          "whyItMatters_urdu": "یہ تکرار ہماری الہیات کو نئی شکل دیتی ہے۔",
+          "title_ar": "التأكيد المضاعف",
+          "coreInsight_ar": "يكرر الله صفات رحمته من الآية الأولى، مؤكداً أن الرحمة - وليس الغضب - هي صفته المميزة.",
+          "whyItMatters_ar": "هذا التكرار يعيد تشكيل لاهوتنا."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia exegetical traditions show remarkable consistency in interpreting this verse, though they approach it from slightly different theological frameworks. Ibn Kathir explains that the repetition of these divine attributes serves to emphasize their central importance, a view shared by Tabatabai and other Shia scholars. Al-Tabari discusses the grammatical structure and notes that Rahman and Rahim, though similar in root, convey distinct shades of meaning that together encompass the full spectrum of divine compassion. Qurtubi explores legal implications, noting that divine mercy provides the foundation for Islamic law, which aims to protect human welfare and dignity rather than impose arbitrary restrictions. Fakhr al-Din al-Razi delves into philosophical questions about the relationship between divine attributes and essence, engaging with discussions parallel to those in Shia kalam or theological discourse. One area where traditions differ slightly is in mystical interpretation: Shia sources, particularly those influenced by the teachings of the Ahlul Bayt, often emphasize the transformative power of meditating on divine mercy as a means of spiritual purification and enlightenment, while Sunni mystical traditions such as Sufism develop similar themes through different chains of spiritual authority. Despite these nuances, both traditions agree that Rahman and Rahim represent core divine attributes that should inspire believers to trust in God's benevolence, seek His forgiveness, and emulate His mercy in their treatment of all creation.",
+    "layer4_urdu": "سنی اور شیعہ تفسیری روایات اس آیت کی تشریح میں قابل ذکر مستقل مزاجی دکھاتی ہیں، اگرچہ وہ قدرے مختلف کلامی فریم ورک سے اس کے قریب آتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ ان الٰہی صفات کی تکرار ان کی مرکزی اہمیت پر زور دینے کے لیے ہے، یہ نظریہ طباطبائی اور دیگر شیعہ علماء کے ساتھ مشترک ہے۔ طبری گرامری ساخت پر بحث کرتے ہیں اور نوٹ کرتے ہیں کہ رحمٰن اور رحیم، اگرچہ جڑ میں ملتے جلتے ہیں، معنی کی الگ رنگت کو بیان کرتے ہیں جو مل کر الٰہی شفقت کے پورے سپیکٹرم کو گھیرے ہوئے ہیں۔ قرطبی قانونی مضمرات کی کھوج کرتے ہیں، یہ نوٹ کرتے ہوئے کہ الٰہی رحمت اسلامی قانون کی بنیاد فراہم کرتی ہے، جس کا مقصد انسانی فلاح اور وقار کی حفاظت کرنا ہے نہ کہ من مانی پابندیاں عائد کرنا۔ فخر الدین رازی الٰہی صفات اور ذات کے درمیان تعلق کے بارے میں فلسفیانہ سوالات میں غور کرتے ہیں، شیعہ کلام یا کلامی گفتگو میں موازی بحثوں کے ساتھ مشغول ہوتے ہوئے۔",
+    "layer4_ar": "تُظهر التيارات التفسيرية الشيعية والسنية تناغماً لافتاً في تأويل هذه الآية، وإن انطلق كل منهما من إطار عقدي مغاير. فابن كثير يُبيِّن أن تكرار هذين الوصفين يُشدِّد على أهميتهما القصوى، وهو رأي يتقاطع مع رأي الطباطبائي وسائر العلماء الشيعة. ويناقش الطبري البنية النحوية ويُلاحِظ أن الرحمن والرحيم رغم اشتراكهما في الجذر يُعبِّران عن فروق دلالية دقيقة تستوعب معاً الطيف الكامل للحنان الإلهي. ويستعرض القرطبي التضمينات الفقهية، مُشيراً إلى أن الرحمة الإلهية تُؤسِّس الشريعة الإسلامية التي تستهدف صون مصلحة الإنسان وكرامته لا فرض قيود اعتباطية. ويغوص فخر الدين الرازي في تساؤلات فلسفية حول العلاقة بين الصفات الإلهية والذات، في حوار يتوازى مع ما في علم الكلام الشيعي. ومن أوجه التباين الطفيف في التفسير الصوفي أن المصادر الشيعية المتأثرة بتعاليم أهل البيت كثيراً ما تُشدِّد على القوة التحويلية لاستحضار الرحمة الإلهية وسيلةً للتطهير الروحي والتنوير، في حين تطرح التيارات الصوفية السنية موضوعات مشابهة عبر سلاسل إسنادية روحية مختلفة. وعلى الرغم من هذه الفروق الدقيقة، يتفق التراثان على أن الرحمن والرحيم يمثلان صفتين إلهيتين جوهريتين ينبغي أن تُلهما المؤمنين الثقة برحمة الله وطلب مغفرته وتمثُّل رحمته في معاملة جميع الخليقة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:4:divine-sovereignty",
+          "title": "Absolute Sovereignty",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "On that Day, all worldly power structures dissolve. No king, president, or wealthy person has any authority - only Allah rules.",
+          "whyItMatters": "This levels all hierarchies and reminds the powerful that their authority is temporary and borrowed.",
+          "position": "topLeft",
+          "arabicHighlight": "مَٰلِكِ",
+          "title_urdu": "مطلق حاکمیت",
+          "coreInsight_urdu": "اس دن، تمام دنیوی طاقت کے ڈھانچے ختم ہو جائیں گے۔ صرف اللہ کی حکومت ہوگی۔",
+          "whyItMatters_urdu": "یہ تمام درجہ بندی کو برابر کرتا ہے۔",
+          "title_ar": "السيادة المطلقة",
+          "coreInsight_ar": "في ذلك اليوم، تنحل جميع هياكل السلطة الدنيوية. الله وحده يحكم.",
+          "whyItMatters_ar": "هذا يسوي جميع التسلسلات الهرمية."
+        },
+        {
+          "id": "1:4:day-of-judgment",
+          "title": "Day of Judgment",
+          "icon": "scale.3d",
+          "colorHex": "#E57373",
+          "coreInsight": "Yawm al-Din is when every soul will face perfect divine justice - all debts settled, all wrongs addressed, all good rewarded.",
+          "whyItMatters": "Belief in accountability creates ethical living. Knowing nothing is hidden encourages integrity even when no one is watching.",
+          "position": "topRight",
+          "arabicHighlight": "يَوْمِ ٱلدِّينِ",
+          "title_urdu": "یوم الدین",
+          "coreInsight_urdu": "یوم الدین وہ دن ہے جب ہر روح کامل الٰہی انصاف کا سامنا کرے گی۔",
+          "whyItMatters_urdu": "احتساب پر یقین اخلاقی زندگی پیدا کرتا ہے۔",
+          "title_ar": "يوم الدين",
+          "coreInsight_ar": "يوم الدين هو عندما تواجه كل نفس العدالة الإلهية الكاملة.",
+          "whyItMatters_ar": "الإيمان بالمحاسبة يخلق حياة أخلاقية."
+        },
+        {
+          "id": "1:4:ultimate-hope",
+          "title": "Ultimate Hope",
+          "icon": "sun.horizon.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "For the oppressed and wronged, this verse is a promise - injustices not resolved in this life will be perfectly addressed.",
+          "whyItMatters": "This prevents despair for victims of injustice and warns oppressors that accountability is certain.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلدِّينِ",
+          "title_urdu": "حتمی امید",
+          "coreInsight_urdu": "مظلوموں کے لیے یہ آیت ایک وعدہ ہے - اس زندگی میں حل نہ ہونے والی ناانصافیوں کا پورا حساب ہوگا۔",
+          "whyItMatters_urdu": "یہ مظلوموں کی مایوسی روکتا ہے۔",
+          "title_ar": "الأمل الأقصى",
+          "coreInsight_ar": "للمظلومين، هذه الآية وعد - المظالم التي لم تُحل في هذه الحياة ستُعالج بشكل كامل.",
+          "whyItMatters_ar": "هذا يمنع اليأس لضحايا الظلم."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia traditions share fundamental agreement on the reality and significance of the Day of Judgment, though they differ on certain details regarding intercession and the status of the Prophetic family. Ibn Kathir in his tafsir emphasizes that this verse establishes God's exclusive sovereignty on the Day of Recompense, when all worldly claims to power will be exposed as illusory and only divine authority will remain. Al-Tabari discusses the linguistic choice between Malik and Maalik, noting both are valid recitations that complement each other in meaning, a point also made in Shia sources. Qurtubi explores the legal and ethical implications, arguing that belief in accountability is essential for maintaining social order and personal righteousness. Fakhr al-Din al-Razi provides philosophical analysis of resurrection, engaging with rational arguments for bodily return to life, paralleling discussions in Shia theological works. A key difference appears in discussions of intercession: Shia tradition, based on narrations from the Ahlul Bayt, gives significant emphasis to the Prophet's and Imams' role in interceding for believers, while Sunni tradition also affirms prophetic intercession but through different chains of authority and with varying details. Both traditions agree, however, that intercession does not override divine justice but operates within its framework, benefiting those who had faith and sincere intention despite their sins. The verse serves as common ground emphasizing the ultimate reality that all will face divine judgment based on their beliefs and deeds.",
+    "layer4_urdu": "سنی اور شیعہ روایات قیامت کی حقیقت اور اہمیت پر بنیادی اتفاق رکھتی ہیں، اگرچہ وہ شفاعت اور نبوی خاندان کی حیثیت کے بارے میں بعض تفصیلات میں مختلف ہیں۔ ابن کثیر اپنی تفسیر میں زور دیتے ہیں کہ یہ آیت قیامت کے دن اللہ کی خصوصی حاکمیت قائم کرتی ہے، جب تمام دنیوی دعوے طاقت کے لیے فریب کے طور پر بے نقاب ہوں گے اور صرف الٰہی اختیار باقی رہے گا۔ طبری مالک اور مٰلک کے درمیان لسانی انتخاب پر بحث کرتے ہیں، یہ نوٹ کرتے ہوئے کہ دونوں درست قراءتیں ہیں جو معنی میں ایک دوسرے کی تکمیل کرتی ہیں، یہ نقطہ شیعہ ذرائع میں بھی بیان کیا گیا ہے۔ قرطبی قانونی اور اخلاقی مضمرات کی کھوج کرتے ہیں، یہ دلیل دیتے ہوئے کہ جواب دہی پر ایمان سماجی نظم اور ذاتی نیکی کو برقرار رکھنے کے لیے ضروری ہے۔ فخر الدین رازی قیامت کا فلسفیانہ تجزیہ فراہم کرتے ہیں، جسمانی واپسی زندگی کے لیے عقلی دلائل کے ساتھ مشغول ہوتے ہوئے، شیعہ کلامی کاموں میں مباحث کے متوازی۔",
+    "layer4_ar": "يتفق التراثان السني والشيعي اتفاقاً جوهرياً على حقيقة يوم القيامة وأهميته، وإن اختلفا في بعض التفاصيل المتعلقة بالشفاعة ومكانة آل البيت النبوي. فابن كثير في تفسيره يُشدِّد على أن هذه الآية تُقرِّر ملك الله المطلق يوم الجزاء حين تنكشف أوهام القوة الدنيوية وينفرد السلطان الإلهي. ويناقش الطبري الاختيار اللغوي بين مالك وملك، مُبيِّناً أن كلتا القراءتين صحيحتان ومتكاملتان في المعنى، وهو ما تُقرِّره المصادر الشيعية أيضاً. ويستكشف القرطبي التضمينات الأخلاقية والقانونية، مُقرِّراً أن الإيمان بالمساءلة ضروري لإقامة النظام الاجتماعي والصواب الشخصي. ويُقدِّم فخر الدين الرازي تحليلاً فلسفياً للبعث، مُقاربةً حججه العقلية لإثبات إحياء الأجساد في موازاة ما في المؤلفات العقدية الشيعية. ومن الفوارق البارزة ما يتعلق بالشفاعة؛ إذ يُولي التراث الشيعي أهمية كبيرة لدور النبي والأئمة في الشفاعة للمؤمنين استناداً إلى روايات أهل البيت، بينما يُثبت التراث السني الشفاعة النبوية عبر سلاسل إسناد مختلفة وبتفاصيل متباينة. غير أن التراثين يتفقان على أن الشفاعة لا تُلغي العدل الإلهي بل تعمل في إطاره، نافعةً من كانت لهم نية صادقة وإيمان راسخ رغم زلاتهم. وتمثل هذه الآية أرضية مشتركة تُؤكِّد أن الجميع سيواجهون الحكم الإلهي وفق معتقداتهم وأعمالهم."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:5:exclusive-worship",
+          "title": "Exclusive Worship",
+          "icon": "person.fill.viewfinder",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'You alone we worship' - the emphatic structure in Arabic places Allah first, making worship exclusively His right.",
+          "whyItMatters": "This frees us from all forms of worship to created things - money, fame, people, ideology. True freedom is servitude to Allah alone.",
+          "position": "topLeft",
+          "arabicHighlight": "إِيَّاكَ نَعْبُدُ",
+          "title_urdu": "خالص عبادت",
+          "coreInsight_urdu": "'صرف تیری ہی عبادت کرتے ہیں' - عربی میں زور کا انداز اللہ کو پہلے رکھتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں مخلوقات کی ہر قسم کی عبادت سے آزاد کرتا ہے۔",
+          "title_ar": "العبادة الخالصة",
+          "coreInsight_ar": "'إياك نعبد' - التركيب التأكيدي في العربية يضع الله أولاً، مما يجعل العبادة حقه وحده.",
+          "whyItMatters_ar": "هذا يحررنا من جميع أشكال عبادة المخلوقات."
+        },
+        {
+          "id": "1:5:seeking-help",
+          "title": "Seeking Help",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'You alone we ask for help' acknowledges our complete dependence on Allah for everything - guidance, strength, provision.",
+          "whyItMatters": "This creates healthy humility while building confidence - we're weak alone but powerful when connected to the Almighty.",
+          "position": "topRight",
+          "arabicHighlight": "وَإِيَّاكَ نَسْتَعِينُ",
+          "title_urdu": "مدد طلب کرنا",
+          "coreInsight_urdu": "'صرف تجھ سے مدد مانگتے ہیں' ہر چیز کے لیے اللہ پر ہماری مکمل انحصار کا اعتراف ہے۔",
+          "whyItMatters_urdu": "یہ صحت مند عاجزی پیدا کرتا ہے جبکہ اعتماد بناتا ہے۔",
+          "title_ar": "طلب المعونة",
+          "coreInsight_ar": "'إياك نستعين' يعترف باعتمادنا الكامل على الله في كل شيء.",
+          "whyItMatters_ar": "هذا يخلق تواضعاً صحياً بينما يبني الثقة."
+        },
+        {
+          "id": "1:5:divine-dialogue",
+          "title": "Divine Dialogue",
+          "icon": "bubble.left.and.bubble.right.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Here the surah shifts from third person (He) to second person (You) - moving from describing Allah to directly addressing Him in intimate conversation.",
+          "whyItMatters": "Prayer is not a monologue to an absent God but a real conversation with One who listens and responds.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِيَّاكَ",
+          "title_urdu": "الٰہی مکالمہ",
+          "coreInsight_urdu": "یہاں سورہ غائب سے حاضر کی طرف منتقل ہوتی ہے - اللہ کی وصف سے براہ راست مخاطب کرنے تک۔",
+          "whyItMatters_urdu": "دعا غیر حاضر خدا کا یک طرفہ کلام نہیں بلکہ حقیقی گفتگو ہے۔",
+          "title_ar": "الحوار الإلهي",
+          "coreInsight_ar": "هنا تنتقل السورة من الغائب (هو) إلى الحاضر (أنت) - من وصف الله إلى مخاطبته مباشرة.",
+          "whyItMatters_ar": "الدعاء ليس حديثاً من طرف واحد بل محادثة حقيقية مع من يسمع ويستجيب."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia traditions converge strongly in interpreting this verse as the essence of monotheistic worship and reliance on God. Ibn Kathir explains that placing 'You alone' before 'we worship' grammatically emphasizes exclusivity, negating all forms of polytheism and ensuring that devotion is directed solely to the Creator. This interpretation aligns precisely with Tabatabai's analysis in Shia exegesis. Al-Tabari notes that the shift to direct address reflects the intimacy and immediacy of the relationship between worshipper and God, a theme echoed in both traditions' mystical literature. Qurtubi discusses the legal implications, explaining that this verse establishes the foundation for Islamic law as a system of worship encompassing ritual, ethics, and social relations. Fakhr al-Din al-Razi explores philosophical dimensions, analyzing the relationship between divine sovereignty and human free will, engaging with questions also addressed extensively in Shia theology. One subtle difference appears in emphasis: Shia sources, influenced by the teachings of the Ahlul Bayt, often stress the purification of intention and the spiritual transformation that authentic worship produces, while some Sunni discussions focus more on outward compliance with religious law. However, both traditions agree that genuine Islam requires integration of inner devotion and outer practice. The verse serves as common ground, calling all Muslims to exclusive worship of God and humble reliance on divine guidance and assistance, transcending sectarian differences in the shared pursuit of spiritual authenticity and divine pleasure.",
+    "layer4_urdu": "سنی اور شیعہ روایات اس آیت کی تشریح میں مضبوطی سے ملتی ہیں کہ یہ توحیدی عبادت اور اللہ پر بھروسے کا جوہر ہے۔ ابن کثیر وضاحت کرتے ہیں کہ صرف تو کو ہم عبادت کرتے ہیں سے پہلے رکھنا گرامری طور پر خصوصیت پر زور دیتا ہے، شرک کی تمام اشکال کو مسترد کرتے ہوئے اور اس بات کو یقینی بناتے ہوئے کہ عقیدت صرف خالق کی طرف متوجہ ہو۔ یہ تشریح طباطبائی کے شیعہ تفسیر میں تجزیے کے ساتھ بالکل ہم آہنگ ہے۔ طبری نوٹ کرتے ہیں کہ براہ راست خطاب کی طرف تبدیلی عبادت گزار اور اللہ کے درمیان تعلق کی قربت اور فوری پن کی عکاسی کرتی ہے، یہ موضوع دونوں روایات کے صوفیانہ ادب میں گونجتا ہے۔ قرطبی قانونی مضمرات پر بحث کرتے ہیں، یہ وضاحت کرتے ہوئے کہ یہ آیت اسلامی قانون کی بنیاد قائم کرتی ہے جو عبادت کے نظام کے طور پر رسوم، اخلاقیات اور سماجی تعلقات کو شامل کرتا ہے۔ فخر الدین رازی فلسفیانہ جہتوں کی کھوج کرتے ہیں، الٰہی حاکمیت اور انسانی آزاد مرضی کے درمیان تعلق کا تجزیہ کرتے ہوئے، سوالات کے ساتھ مشغول ہوتے ہوئے جو شیعہ کلام میں بھی وسیع طور پر حل کیے گئے ہیں۔",
+    "layer4_ar": "يتقارب التراثان السني والشيعي تقارباً وثيقاً في تفسير هذه الآية باعتبارها جوهر العبادة التوحيدية والتوكل على الله. فابن كثير يُبيِّن أن تقديم \"إياك\" على الفعل نحوياً يُفيد الحصر نافياً جميع صور الشرك وضامناً توجيه التفاني إلى الخالق وحده، في توافق تام مع تحليل الطباطبائي في التفسير الشيعي. ويُلاحِظ الطبري أن الانتقال إلى صيغة المخاطب يعكس الحميمية والمباشرة في العلاقة بين العابد والله، وهو موضوع يُصدى له في الأدب الروحاني لكلا التراثين. ويستكشف القرطبي التضمينات الفقهية، مُبيِّناً أن هذه الآية تُرسي أساس الشريعة الإسلامية بوصفها منظومة عبادة تشمل الطقوس والأخلاق والعلاقات الاجتماعية. ويتأمل فخر الدين الرازي في الأبعاد الفلسفية لعلاقة السيادة الإلهية بالإرادة الإنسانية الحرة، في تناول للأسئلة المُعالَجة بسعة في اللاهوت الشيعي. ومن الفوارق الدقيقة أن المصادر الشيعية المتأثرة بتعاليم أهل البيت كثيراً ما تُشدِّد على تطهير النية والتحول الروحي الذي تُنتجه العبادة الأصيلة، في حين تُركِّز بعض المناقشات السنية على الامتثال الظاهري للشريعة. غير أن التراثين يتفقان على أن الإسلام الحقيقي يستلزم تكامل التفاني الداخلي والممارسة الخارجية. وتمثل هذه الآية أرضية مشتركة تدعو جميع المسلمين إلى عبادة الله وحده والتوكل المتواضع على هدايته وإعانته، متجاوزةً الفوارق المذهبية في السعي المشترك نحو الأصالة الروحية والرضا الإلهي."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:6:guidance-plea",
+          "title": "Need for Guidance",
+          "icon": "arrow.triangle.turn.up.right.diamond.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Even the Prophet (PBUH) was commanded to recite this plea. If he needed to ask for guidance, how much more do we?",
+          "whyItMatters": "This humbles scholars and laypeople alike - no one has 'arrived.' We all need constant divine guidance.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱهْدِنَا",
+          "title_urdu": "ہدایت کی ضرورت",
+          "coreInsight_urdu": "نبی ﷺ کو بھی یہ دعا پڑھنے کا حکم تھا۔ اگر انہیں ہدایت مانگنی تھی، تو ہمیں کتنی زیادہ ضرورت ہے؟",
+          "whyItMatters_urdu": "یہ عالموں اور عوام کو یکساں عاجز کرتا ہے۔",
+          "title_ar": "الحاجة للهداية",
+          "coreInsight_ar": "حتى النبي ﷺ أُمر بتلاوة هذا الدعاء. إذا كان بحاجة لطلب الهداية، فكم نحتاج نحن؟",
+          "whyItMatters_ar": "هذا يتواضع العلماء والعوام على حد سواء."
+        },
+        {
+          "id": "1:6:straight-path",
+          "title": "The Straight Path",
+          "icon": "road.lanes",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Sirat al-Mustaqim is the direct route to Allah - not crooked, not winding, not extreme in either direction. Balanced, clear, and efficient.",
+          "whyItMatters": "Islam is the middle path - avoiding the extremes of rigid legalism and loose permissiveness that have plagued other traditions.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+          "title_urdu": "صراط مستقیم",
+          "coreInsight_urdu": "صراط مستقیم اللہ تک براہ راست راستہ ہے - نہ ٹیڑھا، نہ گھماؤ والا، نہ کسی سمت انتہائی۔",
+          "whyItMatters_urdu": "اسلام درمیانی راستہ ہے - انتہاؤں سے گریز۔",
+          "title_ar": "الصراط المستقيم",
+          "coreInsight_ar": "الصراط المستقيم هو الطريق المباشر إلى الله - ليس معوجاً ولا متطرفاً في أي اتجاه.",
+          "whyItMatters_ar": "الإسلام هو الوسطية - تجنب التطرف."
+        },
+        {
+          "id": "1:6:continuous-journey",
+          "title": "Continuous Journey",
+          "icon": "arrow.forward",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verb 'ihdina' (guide us) implies continuous guidance - not a one-time event but an ongoing journey requiring constant divine help.",
+          "whyItMatters": "Spiritual growth never stops. We recite this 17+ times daily because we need fresh guidance every moment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱهْدِنَا ٱلصِّرَٰطَ",
+          "title_urdu": "مسلسل سفر",
+          "coreInsight_urdu": "فعل 'اہدنا' (ہمیں ہدایت دے) مسلسل ہدایت کا مطلب ہے - ایک بار کا واقعہ نہیں بلکہ جاری سفر۔",
+          "whyItMatters_urdu": "روحانی ترقی کبھی نہیں رکتی۔ ہم یہ روزانہ 17 بار پڑھتے ہیں۔",
+          "title_ar": "رحلة مستمرة",
+          "coreInsight_ar": "الفعل 'اهدنا' يعني هداية مستمرة - ليس حدثاً لمرة واحدة بل رحلة جارية.",
+          "whyItMatters_ar": "النمو الروحي لا يتوقف أبداً. نتلو هذا أكثر من 17 مرة يومياً."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia traditions share the understanding that the straight path refers to Islam as revealed through the Quran and prophetic teachings, though they differ on the role of specific authorities in defining that path. Ibn Kathir explains that the straight path is Islam itself, the way of the prophets and righteous people throughout history, a definition affirmed in Shia sources as well. Al-Tabari discusses various opinions among early Muslims about the specific referent of the straight path, including the Quran, Islam, the Prophet, and righteous companions, noting that these are complementary rather than contradictory understandings. Qurtubi emphasizes that the path includes both belief and practice, inner conviction and outer obedience, aligning with the comprehensive Shia understanding. Fakhr al-Din al-Razi explores philosophical questions about guidance and free will, engaging with issues also addressed in Shia kalam. The primary difference appears in authority: Shia tradition, based on explicit statements from the Prophet and Imams, emphasizes that the Ahlul Bayt are authoritative interpreters and exemplars of the straight path, with the Imams serving as divinely appointed guides for their generations. Sunni tradition places authority in scholarly consensus and the practices of the righteous predecessors, with varying schools and interpretations. Despite this difference, both traditions agree on the verse's essential meaning: that Muslims must continuously seek divine guidance to remain on the path of truth and righteousness, acknowledging human need for help beyond individual reasoning and effort.",
+    "layer4_urdu": "سنی اور شیعہ روایات اس تفہیم کو بانٹتی ہیں کہ صراط مستقیم سے مراد اسلام ہے جیسا کہ قرآن اور نبوی تعلیمات کے ذریعے مکشوف ہوا، اگرچہ وہ اس راستے کی تعریف میں مخصوص حکام کے کردار پر مختلف ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ صراط مستقیم خود اسلام ہے، تاریخ میں نبیوں اور نیکوکار لوگوں کا راستہ، ایک تعریف جو شیعہ ذرائع میں بھی تصدیق کی جاتی ہے۔ طبری ابتدائی مسلمانوں کے درمیان صراط مستقیم کے مخصوص مصداق کے بارے میں مختلف آراء پر بحث کرتے ہیں، بشمول قرآن، اسلام، نبی، اور نیکوکار صحابہ، یہ نوٹ کرتے ہوئے کہ یہ ایک دوسرے کی تکمیل کرنے والے ہیں نہ کہ متضاد سمجھنے۔ قرطبی زور دیتے ہیں کہ راستے میں عقیدہ اور عمل دونوں شامل ہیں، اندرونی یقین اور بیرونی فرمانبرداری، جامع شیعہ تفہیم کے ساتھ ہم آہنگ۔ فخر الدین رازی ہدایت اور آزاد مرضی کے بارے میں فلسفیانہ سوالات کی کھوج کرتے ہیں، ان مسائل کے ساتھ مشغول ہوتے ہوئے جو شیعہ کلام میں بھی حل کیے گئے ہیں۔",
+    "layer4_ar": "تتقاطع روايتا السنة والشيعة في فهم الصراط المستقيم على أنه الإسلام المُوحى به في القرآن والسنة النبوية، وإن اختلفتا في تحديد المرجعية التي تُعرّف هذا الطريق وتُفسّره. ويُبيّن ابن كثير أن الصراط المستقيم هو الإسلام ذاته، طريق الأنبياء والصالحين عبر التاريخ، وهو تعريف تُقرّه المصادر الشيعية أيضًا. ويستعرض الطبري آراء أوائل المسلمين في المقصود بالصراط المستقيم، ومنها: القرآن، والإسلام، والنبي صلى الله عليه وآله وسلم، والصحابة الكرام، مؤكدًا أن هذه الآراء متكاملة لا متعارضة. ويُشدد القرطبي على أن الطريق يجمع الاعتقاد والعمل، والإيمان الداخلي والطاعة الظاهرة، وهو ما ينسجم مع الفهم الشيعي الشامل. أما فخر الدين الرازي فيُعالج قضايا فلسفية حول الهداية والإرادة الحرة، وهي مسائل تناولها علم الكلام الشيعي أيضًا بالتفصيل. ويتجلى الفارق الرئيسي في مسألة المرجعية: فالتراث الشيعي، استنادًا إلى نصوص صريحة من النبي صلى الله عليه وآله وسلم والأئمة عليهم السلام، يُؤكد أن أهل البيت هم المفسرون المعتمدون والنماذج الحية للصراط المستقيم، وأن الأئمة يضطلعون بمهمة الهداية الإلهية في عصورهم. في حين يُرسي التراث السني المرجعية في إجماع العلماء وسنة السلف الصالح مع تنوع المذاهب والتفسيرات. وبرغم هذا الاختلاف يتفق الفريقان على جوهر الآية: ضرورة أن يتضرع المسلمون إلى الله دومًا طلبًا للهداية للبقاء على طريق الحق، مُقرّين بافتقار الإنسان إلى عون يفوق العقل الفردي والاجتهاد الذاتي."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "1:7:blessed-community",
+          "title": "Blessed Community",
+          "icon": "person.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Those blessed by Allah include prophets, truthful ones, martyrs, and righteous people - a community across time that we ask to join.",
+          "whyItMatters": "We're not alone on this journey. We walk in the footsteps of millions of righteous predecessors.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+          "title_urdu": "نعمت یافتہ جماعت",
+          "coreInsight_urdu": "جن پر اللہ نے انعام کیا ان میں انبیاء، صدیقین، شہداء اور صالحین شامل ہیں۔",
+          "whyItMatters_urdu": "ہم اس سفر میں اکیلے نہیں ہیں۔",
+          "title_ar": "الجماعة المنعم عليها",
+          "coreInsight_ar": "الذين أنعم الله عليهم يشملون الأنبياء والصديقين والشهداء والصالحين.",
+          "whyItMatters_ar": "لسنا وحدنا في هذه الرحلة."
+        },
+        {
+          "id": "1:7:avoiding-wrath",
+          "title": "Avoiding Wrath",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who earned Allah's anger knew the truth but rejected it out of arrogance - knowledge without action.",
+          "whyItMatters": "Information without implementation is dangerous. Learning must lead to transformation.",
+          "position": "topRight",
+          "arabicHighlight": "غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ",
+          "title_urdu": "غضب سے بچنا",
+          "coreInsight_urdu": "جن پر اللہ کا غضب ہوا وہ سچائی جانتے تھے لیکن تکبر سے اسے رد کر دیا - علم بغیر عمل۔",
+          "whyItMatters_urdu": "عمل کے بغیر علم خطرناک ہے۔",
+          "title_ar": "تجنب الغضب",
+          "coreInsight_ar": "الذين غضب الله عليهم عرفوا الحق لكنهم رفضوه كبراً - علم بلا عمل.",
+          "whyItMatters_ar": "المعلومات بدون تطبيق خطيرة."
+        },
+        {
+          "id": "1:7:avoiding-misguidance",
+          "title": "Avoiding Misguidance",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Those who went astray acted on incomplete knowledge or followed desires over divine guidance - sincerity without correctness.",
+          "whyItMatters": "Good intentions alone aren't enough. We need both sincere hearts AND correct knowledge.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَا ٱلضَّآلِّينَ",
+          "title_urdu": "گمراہی سے بچنا",
+          "coreInsight_urdu": "جو گمراہ ہوئے وہ نامکمل علم پر عمل کرتے تھے یا خواہشات کی پیروی کرتے تھے - اخلاص بغیر درستگی۔",
+          "whyItMatters_urdu": "صرف نیک نیتی کافی نہیں۔ ہمیں مخلص دل اور صحیح علم دونوں چاہیے۔",
+          "title_ar": "تجنب الضلال",
+          "coreInsight_ar": "الذين ضلوا عملوا بعلم ناقص أو اتبعوا الأهواء - إخلاص بلا صحة.",
+          "whyItMatters_ar": "النوايا الحسنة وحدها لا تكفي. نحتاج قلوباً مخلصة ومعرفة صحيحة."
+        },
+        {
+          "id": "1:7:complete-path",
+          "title": "Complete Path",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The straight path combines knowledge AND action, avoiding both arrogant rejection and ignorant deviation.",
+          "whyItMatters": "Success requires both learning and living the truth - neither alone is sufficient for salvation.",
+          "position": "bottomRight",
+          "arabicHighlight": "صِرَٰطَ",
+          "title_urdu": "مکمل راستہ",
+          "coreInsight_urdu": "صراط مستقیم علم اور عمل دونوں کو ملاتا ہے، متکبرانہ رد اور جاہلانہ انحراف دونوں سے بچتے ہوئے۔",
+          "whyItMatters_urdu": "کامیابی کے لیے سچائی کو سیکھنا اور جینا دونوں ضروری ہیں۔",
+          "title_ar": "المسار الكامل",
+          "coreInsight_ar": "الصراط المستقيم يجمع بين العلم والعمل، متجنباً الرفض المتكبر والانحراف الجاهل.",
+          "whyItMatters_ar": "النجاح يتطلب تعلم الحق وعيشه - لا يكفي أحدهما وحده للنجاة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia interpretations of this verse overlap significantly in general principles while differing in some specific applications. Ibn Kathir identifies those who earned anger as Jews who altered scriptures and killed prophets, and those who went astray as Christians who deviated into false doctrines, an interpretation also found in Shia tafsir based on prophetic hadiths. Al-Tabari presents various opinions from early Muslim authorities, including the view that both categories can apply to any who deviate from truth through stubbornness or negligence. Qurtubi emphasizes the ethical and practical lessons, warning Muslims against displaying the characteristics that led previous communities astray. Fakhr al-Din al-Razi provides philosophical analysis of the relationship between knowledge, will, and divine favor, engaging with themes also addressed in Shia theology. A distinctive element in Shia interpretation is the emphasis on the Ahlul Bayt as exemplars of those who received divine favor and as authoritative guides to remaining on the straight path. Sunni tradition identifies the companions of the Prophet and the righteous predecessors more broadly as the favored exemplars. Despite this difference in emphasis, both traditions agree on the verse's essential warning against arrogant rejection of truth and heedless deviation from it, and both call for emulation of righteous models in belief and practice. The verse serves as a powerful conclusion to Al-Fatiha, reminding all Muslims that divine guidance requires not only knowledge but sincere commitment, humility, and constant vigilance against spiritual corruption.",
+    "layer4_urdu": "سنی اور شیعہ تشریحات اس آیت کی عمومی اصولوں میں نمایاں طور پر اوورلیپ کرتی ہیں جبکہ کچھ مخصوص اطلاقات میں مختلف ہیں۔ ابن کثیر ان لوگوں کی شناخت کرتے ہیں جنہوں نے غضب کمایا یہودیوں کے طور پر جنہوں نے صحیفوں میں تبدیلی کی اور نبیوں کو قتل کیا، اور گمراہوں کو عیسائیوں کے طور پر جو جھوٹے عقائد میں منحرف ہو گئے، ایک تشریح جو نبوی احادیث کی بنیاد پر شیعہ تفسیر میں بھی پائی جاتی ہے۔ طبری ابتدائی مسلم حکام سے مختلف آراء پیش کرتے ہیں، بشمول یہ نظریہ کہ دونوں زمرے کسی بھی شخص پر لاگو ہو سکتے ہیں جو ضد یا غفلت کے ذریعے سچ سے منحرف ہوتا ہے۔ قرطبی اخلاقی اور عملی سبق پر زور دیتے ہیں، مسلمانوں کو ان خصوصیات کا مظاہرہ کرنے کے خلاف خبردار کرتے ہیں جنہوں نے پچھلی برادریوں کو گمراہ کیا۔ فخر الدین رازی علم، ارادے اور الٰہی فضل کے درمیان تعلق کا فلسفیانہ تجزیہ فراہم کرتے ہیں، ان موضوعات کے ساتھ مشغول ہوتے ہوئے جو شیعہ کلام میں بھی حل کیے گئے ہیں۔ شیعہ تشریح میں ایک مخصوص عنصر اہل بیت پر زور ہے جو ان لوگوں کی مثالوں کے طور پر ہیں جنہوں نے الٰہی فضل حاصل کیا اور صراط مستقیم پر برقرار رہنے کے لیے مستند رہنماؤں کے طور پر۔",
+    "layer4_ar": "تتقاطع تفسيرات أهل السنة والشيعة لهذه الآية تقاطعًا واسعًا في المبادئ العامة مع اختلاف في بعض التطبيقات الخاصة. ويُعرّف ابن كثير المغضوب عليهم باليهود الذين حرّفوا الكتب وقتلوا الأنبياء، والضالين بالمسيحيين الذين انزلقوا نحو عقائد باطلة، وهو تفسير تُسانده أيضًا الروايات النبوية في التراث الشيعي. ويستعرض الطبري آراء متعددة لعلماء المسلمين الأوائل، من بينها أن كلتا الفئتين قد تنطبق على من ينحرفون عن الحق عنادًا أو غفلةً في أي عصر كان. ويُركز القرطبي على الدروس الأخلاقية والعملية، مُحذّرًا المسلمين من إظهار السمات التي أوردت الأمم السابقة مواردها. أما فخر الدين الرازي فيُقدم تحليلًا فلسفيًا لصلة العلم بالإرادة والفضل الإلهي، يتصل بمسائل تناولها اللاهوت الشيعي أيضًا. والعنصر المميز في التفسير الشيعي هو التأكيد على أهل البيت عليهم السلام بوصفهم نماذج بارزة من أنعم الله عليهم وبوصفهم هداةً موثوقين للبقاء على الصراط المستقيم. في حين يُرسي التراث السني اقتداءه بصحابة النبي صلى الله عليه وآله وسلم والسلف الصالح على نطاق أوسع. وبرغم هذا التفاوت في التأكيد يتفق الفريقان على جوهر الآية: التحذير من الرفض المتعجرف للحق والانحراف الغافل عنه، والمطالبة بالاقتداء بنماذج الصلاح في العقيدة والعمل. وتُشكّل الآية خاتمةً بليغة لسورة الفاتحة، تُذكّر جميع المسلمين بأن الهداية الإلهية تستلزم لا مجرد المعرفة، بل إخلاصًا راسخًا وتواضعًا حقيقيًا وصحوة دائمة في مواجهة الفساد الروحي."
+  }
+}

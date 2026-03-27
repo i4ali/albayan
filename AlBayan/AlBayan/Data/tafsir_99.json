@@ -1,0 +1,506 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:1:final-earthquake",
+          "title": "Final Earthquake",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The earth's 'zilzal' (violent shaking) marks the end of worldly existence, when the very ground that once seemed stable becomes the witness to Allah's power and the Day of Judgment's arrival.",
+          "whyItMatters": "This cosmic upheaval reminds us that nothing in creation is permanent except Allah. Our attachment to worldly stability should be balanced with preparation for the eternal reality.",
+          "position": "topLeft",
+          "arabicHighlight": "زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+          "title_urdu": "آخری زلزلہ",
+          "coreInsight_urdu": "زمین کا 'زلزال' (شدید لرزش) دنیاوی وجود کے خاتمے کی نشاندہی کرتا ہے، جب وہی زمین جو کبھی مستحکم لگتی تھی اللہ کی طاقت اور قیامت کے دن کی آمد کی گواہ بن جاتی ہے۔",
+          "whyItMatters_urdu": "یہ کائناتی ہنگامہ ہمیں یاد دلاتا ہے کہ تخلیق میں کوئی چیز مستقل نہیں سوائے اللہ کے۔ دنیاوی استحکام سے ہماری وابستگی کو ابدی حقیقت کی تیاری کے ساتھ متوازن ہونا چاہیے۔",
+          "title_ar": "الزلزلة الأخيرة",
+          "coreInsight_ar": "زلزلة الأرض تشير إلى نهاية الوجود الدنيوي، عندما تصبح الأرض التي كانت تبدو مستقرة شاهدة على قدرة الله ووصول يوم القيامة.",
+          "whyItMatters_ar": "يذكرنا هذا الاضطراب الكوني بأن لا شيء في الخلق دائم إلا الله. يجب أن يتوازن تعلقنا بالاستقرار الدنيوي مع الاستعداد للواقع الأبدي."
+        },
+        {
+          "id": "99:1:when-it-comes",
+          "title": "When It Comes",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Idha' (when) expresses certainty of a future event, not doubt. The Hour will come with absolute certainty, making preparation a matter of wisdom, not paranoia.",
+          "whyItMatters": "Understanding the certainty of the Last Day transforms our daily choices. Every action gains eternal significance when we know with certainty that we'll witness its consequences.",
+          "position": "topRight",
+          "arabicHighlight": "إِذَا",
+          "title_urdu": "جب آئے",
+          "coreInsight_urdu": "'اذا' (جب) مستقبل کے واقعے کے یقین کا اظہار کرتا ہے، شک نہیں۔ قیامت یقینی طور پر آئے گی، تیاری کو عقلمندی کا معاملہ بناتی ہے، پاگل پن نہیں۔",
+          "whyItMatters_urdu": "آخرت کے دن کے یقین کو سمجھنا ہمارے روزمرہ انتخاب کو تبدیل کر دیتا ہے۔ ہر عمل ابدی اہمیت حاصل کرتا ہے جب ہم یقین سے جانتے ہیں کہ ہم اس کے نتائج دیکھیں گے۔",
+          "title_ar": "عندما يأتي",
+          "coreInsight_ar": "تعبر 'إذا' (عندما) عن يقين حدث مستقبلي، وليس الشك. ستأتي الساعة بيقين مطلق، مما يجعل الاستعداد مسألة حكمة، لا جنون.",
+          "whyItMatters_ar": "فهم يقين اليوم الآخر يحول اختياراتنا اليومية. كل فعل يكتسب أهمية أبدية عندما نعلم بيقين أننا سنشهد عواقبه."
+        },
+        {
+          "id": "99:1:earth-as-witness",
+          "title": "Earth as Witness",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The earth that bore our footsteps, absorbed our actions, and sustained our lives will testify about everything that occurred upon it - a silent observer becoming the most truthful witness.",
+          "whyItMatters": "Knowing the earth records our deeds should make us conscious of our actions even in private. Our environment itself will speak on the Day of Judgment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْأَرْضُ",
+          "title_urdu": "زمین بطور گواہ",
+          "coreInsight_urdu": "وہ زمین جس نے ہمارے قدموں کو سہارا دیا، ہماری کارروائیوں کو جذب کیا، اور ہماری زندگیوں کو برقرار رکھا، اس پر ہونے والی ہر چیز کے بارے میں گواہی دے گی - ایک خاموش مبصر سب سے سچا گواہ بن جائے گا۔",
+          "whyItMatters_urdu": "زمین ہمارے اعمال کو ریکارڈ کرتی ہے یہ جاننا ہمیں نجی طور پر بھی اپنے اعمال کا شعور دینا چاہیے۔ ہمارا ماحول خود قیامت کے دن بولے گا۔",
+          "title_ar": "الأرض كشاهد",
+          "coreInsight_ar": "الأرض التي حملت خطواتنا وامتصت أفعالنا وحافظت على حياتنا ستشهد على كل ما حدث عليها - مراقب صامت يصبح أصدق شاهد.",
+          "whyItMatters_ar": "معرفة أن الأرض تسجل أفعالنا يجب أن تجعلنا واعين بأفعالنا حتى في الخصوصية. بيئتنا نفسها ستتكلم يوم القيامة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously affirm the literal reality of the earthquake described in this verse, rejecting purely metaphorical interpretations. However, there are subtle differences in emphasis. Classical Sunni exegetes like Ibn Kathir and Tabari focus primarily on the terrifying nature of the event as a warning to disbelievers, while Shia commentators like Tabatabai emphasize its role in manifesting divine justice and the precise recompense of deeds. Fakhr al-Din al-Razi in his Mafatih al-Ghayb explores the philosophical implications of the earth's transformation, discussing whether the resurrection occurs on this same earth transformed or on a completely new creation, a question also debated by Shia scholars. Sunni tradition generally interprets this as the beginning of a series of apocalyptic events, while Shia tafsir often connects it more explicitly to the return of Imam Mahdi and the establishment of justice before the final resurrection. Both traditions agree on the fundamental message: this verse calls humanity to accountability and righteous action, transcending sectarian boundaries in its universal moral imperative.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء متفقہ طور پر اس آیت میں بیان کردہ زلزلے کی لفظی حقیقت کی تصدیق کرتے ہیں، خالصتاً استعاراتی تشریحات کو مسترد کرتے ہوئے۔ تاہم زور میں لطیف فرق موجود ہیں۔ کلاسیکی سنی مفسرین جیسے ابن کثیر اور طبری بنیادی طور پر اس واقعے کی خوفناک نوعیت پر منکرین کے لیے تنبیہ کے طور پر توجہ مرکوز کرتے ہیں، جبکہ شیعہ مفسرین جیسے طباطبائی اس کے الٰہی انصاف کو ظاہر کرنے اور اعمال کی عین جزا میں کردار پر زور دیتے ہیں۔ فخر الدین رازی اپنی مفاتیح الغیب میں زمین کی تبدیلی کے فلسفیانہ مضمرات کو تلاش کرتے ہیں، یہ بحث کرتے ہوئے کہ آیا قیامت اسی زمین پر تبدیل شدہ شکل میں ہوتی ہے یا بالکل نئی تخلیق پر، ایک سوال جس پر شیعہ علماء نے بھی بحث کی ہے۔ سنی روایت عام طور پر اسے اخروی واقعات کی سلسلہ کی شروعات کے طور پر تشریح کرتی ہے، جبکہ شیعہ تفسیر اکثر اسے امام مہدی کی واپسی اور حتمی قیامت سے پہلے انصاف کی تاسیس سے زیادہ واضح طور پر جوڑتی ہے۔ دونوں روایات بنیادی پیغام پر متفق ہیں: یہ آیت انسانیت کو جوابدہی اور نیک اعمال کی طرف بلاتی ہے، اپنی آفاقی اخلاقی ضرورت میں فرقہ وارانہ حدود سے بالاتر ہے۔",
+    "layer4_ar": "يُجمع علماء الشيعة والسنة على الإقرار بالحقيقة الحرفية للزلزال الموصوف في هذه الآية، رافضين التأويلات المجازية المحضة. غير أن ثمة فروقاً في التركيز؛ إذ يُركِّز مفسرون سنة كلاسيكيون كابن كثير والطبري على الطابع المُرعب لهذا الحدث بوصفه تحذيراً للكافرين، في حين يُبرز مفسرون شيعة كالطباطبائي دوره في إظهار العدل الإلهي والجزاء الدقيق على الأعمال. ويستكشف فخر الدين الرازي في مفاتيح الغيب المضامين الفلسفية لتحول الأرض، متناولاً التساؤل عما إذا كان البعث يقع على هذه الأرض ذاتها متحولةً أم على خليقة جديدة بالكلية، وهو تساؤل يُثيره علماء الشيعة أيضاً بآراء متنوعة. وتُفسِّر السنة السنية عموماً هذا الحدث باعتباره أول حلقة في سلسلة أحداث مروِّعة للآخرة، بينما يربطه التفسير الشيعي في الغالب بصورة أكثر صراحة بظهور الإمام المهدي عجل الله تعالى فرجه وإرساء العدل قبل البعث الأخير. ويتفق كلا التراثين على الرسالة الأساسية: هذه الآية تدعو البشرية إلى المساءلة والعمل الصالح، متجاوزةً الحدود المذهبية بواجبها الأخلاقي الكوني الشامل."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:2:discharges-burdens",
+          "title": "Discharges Burdens",
+          "icon": "archivebox.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The earth 'expelling its athqal (burdens)' refers to casting out the dead buried within it, releasing all the treasures hidden in its depths, and revealing everything it has concealed.",
+          "whyItMatters": "Nothing remains hidden forever. What we bury - our secrets, our wealth, our deceased - will all be brought forth on the Day of Resurrection for divine judgment.",
+          "position": "topLeft",
+          "arabicHighlight": "أَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+          "title_urdu": "بوجھ نکالنا",
+          "coreInsight_urdu": "زمین کا 'اپنے اثقال (بوجھ) نکالنا' اپنے اندر دفن مردوں کو باہر پھینکنے، اپنی گہرائیوں میں چھپے تمام خزانوں کو جاری کرنے، اور جو کچھ چھپایا ہے اسے ظاہر کرنے کی طرف اشارہ ہے۔",
+          "whyItMatters_urdu": "کوئی چیز ہمیشہ کے لیے چھپی نہیں رہتی۔ جو ہم دفن کرتے ہیں - ہمارے راز، ہماری دولت، ہمارے مردے - سب قیامت کے دن الہی فیصلے کے لیے سامنے لائے جائیں گے۔",
+          "title_ar": "إخراج الأحمال",
+          "coreInsight_ar": "إخراج الأرض لأثقالها يشير إلى طرح الموتى المدفونين فيها، وإطلاق كل الكنوز المخفية في أعماقها، والكشف عن كل ما أخفته.",
+          "whyItMatters_ar": "لا شيء يبقى مخفيًا إلى الأبد. ما ندفنه - أسرارنا، ثرواتنا، موتانا - سيُبرز كله يوم القيامة للحكم الإلهي."
+        },
+        {
+          "id": "99:2:resurrection-reality",
+          "title": "Resurrection Reality",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The earth surrendering the dead proves resurrection is not metaphorical but literal - bodies will emerge, souls will reunite with them, and all will stand for accountability.",
+          "whyItMatters": "Belief in bodily resurrection shapes our ethics. We're not just accountable in spirit but in our physical actions, making our treatment of our bodies and others critically important.",
+          "position": "topRight",
+          "arabicHighlight": "أَخْرَجَتِ",
+          "title_urdu": "قیامت کی حقیقت",
+          "coreInsight_urdu": "زمین کا مردوں کو سونپنا ثابت کرتا ہے کہ قیامت استعاراتی نہیں بلکہ لفظی ہے - جسم ابھریں گے، روحیں ان کے ساتھ دوبارہ ملیں گی، اور سب جوابدہی کے لیے کھڑے ہوں گے۔",
+          "whyItMatters_urdu": "جسمانی قیامت پر یقین ہماری اخلاقیات کو تشکیل دیتا ہے۔ ہم صرف روح میں جوابدہ نہیں ہیں بلکہ اپنی جسمانی کارروائیوں میں، ہمارے جسموں اور دوسروں کے ساتھ ہمارے سلوک کو انتہائی اہم بناتے ہیں۔",
+          "title_ar": "واقع البعث",
+          "coreInsight_ar": "استسلام الأرض للموتى يثبت أن البعث ليس مجازيًا بل حرفيًا - ستخرج الأجساد، وستتحد الأرواح معها، وسيقف الجميع للمحاسبة.",
+          "whyItMatters_ar": "الإيمان بالبعث الجسدي يشكل أخلاقنا. نحن مسؤولون ليس فقط روحيًا بل في أفعالنا الجسدية، مما يجعل معاملتنا لأجسادنا والآخرين بالغة الأهمية."
+        },
+        {
+          "id": "99:2:treasures-revealed",
+          "title": "Treasures Revealed",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The earth casting out its treasures means worldly wealth hoarded and hidden loses all value - what you accumulated matters less than how you earned and spent it.",
+          "whyItMatters": "This verse challenges materialism. On the Day when the earth reveals its riches, only our good deeds will have value, not the gold we buried or the wealth we hoarded.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَثْقَالَهَا",
+          "title_urdu": "خزانے ظاہر",
+          "coreInsight_urdu": "زمین کا اپنے خزانے باہر پھینکنا کا مطلب ہے کہ دنیاوی دولت جمع شدہ اور چھپی ہوئی تمام قدر کھو دیتی ہے - آپ نے جو جمع کیا وہ اس سے کم اہمیت رکھتا ہے کہ آپ نے کیسے کمایا اور خرچ کیا۔",
+          "whyItMatters_urdu": "یہ آیت مادیت پسندی کو چیلنج کرتی ہے۔ اس دن جب زمین اپنی دولت کو ظاہر کرے گی، صرف ہمارے اچھے اعمال کی قیمت ہوگی، نہ کہ سونے کی جو ہم نے دفن کیا یا دولت جو ہم نے جمع کی۔",
+          "title_ar": "الكنوز المكشوفة",
+          "coreInsight_ar": "إخراج الأرض لكنوزها يعني أن الثروة الدنيوية المكدسة والمخفية تفقد كل قيمتها - ما جمعته أقل أهمية من كيف كسبته وأنفقته.",
+          "whyItMatters_ar": "تتحدى هذه الآية المادية. في اليوم الذي تكشف فيه الأرض ثرواتها، فقط أعمالنا الصالحة ستكون لها قيمة، وليس الذهب الذي دفناه أو الثروة التي كدسناها."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni exegetes largely agree on the basic meaning of this verse, though with some differences in detail. Ibn Kathir and other Sunni scholars emphasize that the earth will cast out the dead from graves as the primary meaning of 'burdens,' citing hadith from the Prophet about bodies being resurrected. Shia scholars like Tabatabai include this but expand the meaning to encompass all concealed things, including minerals, treasures, and the records of deeds. Qurtubi in his tafsir discusses whether the earth will literally speak and testify, which becomes explicit in verse four, and concludes it will through divine enablement, a position shared by Shia scholarship. Razi explores the philosophical question of how decayed bodies are reconstituted, a topic also addressed in Shia kalam (theology) with sophisticated discussions of matter and form. Both traditions cite the hadith that nothing remains hidden from Allah's knowledge, and this verse manifests that knowledge publicly. A minor difference exists in emphasis: Sunni tafsir often stresses the terror of this moment for wrongdoers, while Shia commentary highlights the justice and precision of divine recompense. Despite these nuances, both traditions unite in affirming the verse's message of comprehensive resurrection and accountability.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین بڑی حد تک اس آیت کے بنیادی معنی پر متفق ہیں، اگرچہ تفصیلات میں کچھ اختلافات کے ساتھ۔ ابن کثیر اور دیگر سنی علماء زور دیتے ہیں کہ زمین قبروں سے مردوں کو باہر پھینک دے گی جو \"بوجھ\" کے بنیادی معنی ہیں، نبی کریم سے احادیث کا حوالہ دیتے ہوئے جسموں کے قیامت کے بارے میں۔ شیعہ علماء جیسے طباطبائی اسے شامل کرتے ہیں لیکن معنی کو تمام چھپی ہوئی چیزوں تک پھیلاتے ہیں، بشمول معدنیات، خزانے، اور اعمال کے ریکارڈ۔ قرطبی اپنی تفسیر میں بحث کرتے ہیں کہ آیا زمین لفظی طور پر بولے گی اور گواہی دے گی، جو چوتھی آیت میں واضح ہوتا ہے، اور نتیجہ نکالتے ہیں کہ وہ الٰہی توانائی کے ذریعے ایسا کرے گی، ایک موقف جو شیعہ علمیت سے مشترک ہے۔ رازی فلسفیانہ سوال پر تلاش کرتے ہیں کہ زوال پذیر جسم کیسے دوبارہ تشکیل دیے جاتے ہیں، ایک موضوع جو شیعہ کلام میں بھی مادہ اور شکل کی نفیس بحثوں کے ساتھ다루ا جاتا ہے۔ دونوں روایات اس حدیث کا حوالہ دیتی ہیں کہ اللہ کے علم سے کچھ بھی چھپا نہیں رہتا، اور یہ آیت اس علم کو عوامی طور پر ظاہر کرتی ہے۔ زور میں معمولی فرق موجود ہے: سنی تفسیر اکثر غلط کاروں کے لیے اس لمحے کی دہشت پر زور دیتی ہے، جبکہ شیعہ تفسیر الٰہی جزا کے انصاف اور درستگی کو نمایاں کرتی ہے۔ ان باریکیوں کے باوجود، دونوں روایات آیت کے جامع قیامت اور جوابدہی کے پیغام کی تصدیق میں متحد ہیں۔",
+    "layer4_ar": "يتفق المفسرون الشيعة والسنة في جوهرهم على معنى هذه الآية، وإن تباينوا في بعض التفاصيل. فابن كثير وسواه من علماء السنة يُشددون على أن الأرض ستُخرج الموتى من قبورهم باعتباره المعنى الأساسي لـ\"الأثقال\"، مستشهدين بالأحاديث النبوية عن بعث الأجساد. بينما يُضيف علماء الشيعة كالطباطبائي إلى ذلك توسيع الدلالة لتشمل كل المخفيات من المعادن والكنوز وسجلات الأعمال. ويتناول القرطبي في تفسيره إشكالية ما إذا كانت الأرض ستتكلم وتشهد فعلاً وهو ما يتضح في الآية الرابعة، مُستنتِجاً أن ذلك يتحقق بتمكين إلهي، وهو موقف يتقاطع مع المنهج الشيعي. ويستكشف الرازي التساؤل الفلسفي عن كيفية إعادة تشكيل الأجساد المتحللة، وهو موضوع تُعالجه الكلام الشيعي أيضاً بمستويات رفيعة من النقاش حول المادة والصورة. وثمة فارق في التأكيد: التفسير السني كثيراً ما يُبرز رهبة هذا المشهد وهول المجرمين، بينما يُسلِّط التفسير الشيعي الضوء على دقة الجزاء الإلهي وعدالته الشاملة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:3:human-bewilderment",
+          "title": "Human Bewilderment",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Man's question 'Ma laha?' (What is wrong with it?) reveals humanity's shock when the familiar earth transforms. Those who ignored warnings are caught completely unprepared.",
+          "whyItMatters": "This bewilderment is the consequence of heedlessness. The Quran repeatedly warns us, but many live as if the Day of Judgment will never come, leading to this moment of shocked realization.",
+          "position": "topLeft",
+          "arabicHighlight": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+          "title_urdu": "انسانی حیرت",
+          "coreInsight_urdu": "انسان کا سوال 'ما لہا؟' (اسے کیا ہوا؟) انسانیت کی حیرت کو ظاہر کرتا ہے جب مانوس زمین تبدیل ہو جاتی ہے۔ جن لوگوں نے انتباہات کو نظرانداز کیا وہ مکمل طور پر غیر تیار پکڑے جاتے ہیں۔",
+          "whyItMatters_urdu": "یہ حیرت غفلت کا نتیجہ ہے۔ قرآن بار بار ہمیں متنبہ کرتا ہے، لیکن بہت سے لوگ اس طرح جیتے ہیں جیسے قیامت کا دن کبھی نہیں آئے گا، جو اس حیرت کے لمحے کی طرف لے جاتا ہے۔",
+          "title_ar": "حيرة الإنسان",
+          "coreInsight_ar": "سؤال الإنسان 'ما لها؟' (ماذا بها؟) يكشف صدمة البشرية عندما تتحول الأرض المألوفة. أولئك الذين تجاهلوا التحذيرات يُمسكون غير مستعدين تمامًا.",
+          "whyItMatters_ar": "هذه الحيرة هي نتيجة الغفلة. يحذرنا القرآن مرارًا، لكن الكثيرين يعيشون كما لو أن يوم القيامة لن يأتي أبدًا، مما يؤدي إلى هذه اللحظة من الإدراك الصادم."
+        },
+        {
+          "id": "99:3:too-late-awareness",
+          "title": "Too Late Awareness",
+          "icon": "clock.badge.exclamationmark.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The shocked question comes when it's too late to prepare. This is the moment when deniers realize the truth, but their realization brings no benefit - only regret.",
+          "whyItMatters": "We must wake up to reality now, while there's time to act. Delaying spiritual awareness until signs become undeniable leaves no opportunity for course correction.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْإِنسَٰنُ",
+          "title_urdu": "بہت دیر سے آگاہی",
+          "coreInsight_urdu": "حیران کن سوال اس وقت آتا ہے جب تیاری کے لیے بہت دیر ہو چکی ہوتی ہے۔ یہ وہ لمحہ ہے جب انکار کرنے والے سچائی کا احساس کرتے ہیں، لیکن ان کا احساس کوئی فائدہ نہیں لاتا - صرف افسوس۔",
+          "whyItMatters_urdu": "ہمیں ابھی حقیقت سے بیدار ہونا چاہیے، جب عمل کرنے کا وقت ہے۔ روحانی آگاہی میں تاخیر کرنا جب تک کہ نشانیاں ناقابل تردید نہ ہو جائیں، راستے کی تصحیح کا کوئی موقع نہیں چھوڑتی۔",
+          "title_ar": "الوعي المتأخر",
+          "coreInsight_ar": "يأتي السؤال الصادم عندما يكون قد فات الأوان للاستعداد. هذه اللحظة التي يدرك فيها المنكرون الحقيقة، لكن إدراكهم لا يجلب فائدة - فقط الندم.",
+          "whyItMatters_ar": "يجب أن نستيقظ للواقع الآن، بينما هناك وقت للعمل. تأجيل الوعي الروحي حتى تصبح العلامات لا يمكن إنكارها لا يترك فرصة لتصحيح المسار."
+        },
+        {
+          "id": "99:3:rhetorical-question",
+          "title": "Rhetorical Question",
+          "icon": "bubble.left.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This question isn't seeking information but expressing shock and disbelief. It captures the moment when human arrogance confronts divine power and realizes its own insignificance.",
+          "whyItMatters": "Our relationship with creation should be one of humble stewardship, not arrogant ownership. This verse warns against taking the earth's stability for granted.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا لَهَا",
+          "title_urdu": "بلاغی سوال",
+          "coreInsight_urdu": "یہ سوال معلومات کی تلاش نہیں بلکہ حیرت اور بے یقینی کا اظہار ہے۔ یہ اس لمحے کو پکڑتا ہے جب انسانی تکبر الہی طاقت کا سامنا کرتا ہے اور اپنی بے حقیقتی کا احساس کرتا ہے۔",
+          "whyItMatters_urdu": "تخلیق کے ساتھ ہمارا تعلق عاجزانہ نگرانی کا ہونا چاہیے، نہ کہ مغرور ملکیت کا۔ یہ آیت زمین کے استحکام کو معمولی سمجھنے کے خلاف خبردار کرتی ہے۔",
+          "title_ar": "سؤال بلاغي",
+          "coreInsight_ar": "هذا السؤال لا يسعى للمعلومات بل يعبر عن الصدمة وعدم التصديق. يلتقط اللحظة التي يواجه فيها الغرور البشري القوة الإلهية ويدرك تفاهته.",
+          "whyItMatters_ar": "يجب أن تكون علاقتنا بالخلق علاقة إشراف متواضعة، وليست ملكية متكبرة. تحذر هذه الآية من اعتبار استقرار الأرض أمرًا مسلمًا به."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators interpret this verse as depicting human astonishment at the earth's unprecedented behavior on the Day of Resurrection. Ibn Kathir explains that people will question what has happened to the earth because they have never witnessed such total upheaval. Tabari notes that this question comes from those who denied resurrection, now confronted with its reality. Shia exegetes like Tabatabai similarly emphasize the element of unpreparedness, particularly among those who ignored prophetic warnings. A subtle difference appears in spiritual emphasis: Sunni tafsir often focuses on the terror and regret of disbelievers, while Shia commentary extends the lesson to believers, warning against complacency and emphasizing the need for active preparation through righteous deeds and spiritual development. Qurtubi discusses whether this questioning occurs before or after people are resurrected from graves, a chronological detail also explored in Shia sources with various opinions. Razi examines the psychological state of questioners, a topic that resonates with Shia philosophical tradition's interest in the states of the soul during resurrection. Both traditions agree on the core message: this verse serves as a warning to take resurrection seriously and prepare accordingly, a universal principle transcending sectarian divisions. The bewilderment depicted should motivate present action rather than future regret.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کو قیامت کے دن زمین کے بے مثال رویے پر انسانی حیرت کی تصویر کشی کے طور پر تشریح کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ لوگ پوچھیں گے کہ زمین کو کیا ہوا ہے کیونکہ انہوں نے کبھی ایسی مکمل ہلچل نہیں دیکھی۔ طبری نوٹ کرتے ہیں کہ یہ سوال ان لوگوں سے آتا ہے جنہوں نے قیامت کا انکار کیا، اب اس کی حقیقت کا سامنا کرتے ہوئے۔ شیعہ مفسرین جیسے طباطبائی اسی طرح غیر تیاری کے عنصر پر زور دیتے ہیں، خاص طور پر ان لوگوں میں جنہوں نے نبوی تنبیہات کو نظر انداز کیا۔ روحانی زور میں لطیف فرق ظاہر ہوتا ہے: سنی تفسیر اکثر کافروں کی دہشت اور افسوس پر توجہ مرکوز کرتی ہے، جبکہ شیعہ تفسیر سبق کو مومنین تک پھیلاتی ہے، اطمینان کے خلاف تنبیہ کرتے ہوئے اور نیک اعمال اور روحانی ترقی کے ذریعے فعال تیاری کی ضرورت پر زور دیتے ہوئے۔ قرطبی بحث کرتے ہیں کہ آیا یہ سوال قبروں سے لوگوں کے اٹھنے سے پہلے یا بعد میں ہوتا ہے، ایک تاریخی تفصیل جس پر شیعہ ذرائع میں بھی مختلف آراء کے ساتھ تلاش کی گئی ہے۔ رازی سوال کرنے والوں کی نفسیاتی حالت کا جائزہ لیتے ہیں، ایک موضوع جو شیعہ فلسفیانہ روایت کی روح کی حالتوں میں دلچسپی کے ساتھ گونجتا ہے قیامت کے دوران۔ دونوں روایات بنیادی پیغام پر متفق ہیں: یہ آیت قیامت کو سنجیدگی سے لینے اور اس کے مطابق تیاری کرنے کی تنبیہ کے طور پر کام کرتی ہے، ایک آفاقی اصول جو فرقہ وارانہ تقسیموں سے بالاتر ہے۔ بیان کردہ حیرت کو موجودہ عمل کی ترغیب دینی چاہیے نہ کہ مستقبل کے افسوس کی۔",
+    "layer4_ar": "يتفق المفسرون الشيعة والسنة على أن هذه الآية تُصوِّر الدهشة الإنسانية من السلوك غير المسبوق للأرض يوم البعث. فابن كثير يُفيد بأن الناس سيتساءلون عما حدث للأرض لأنهم لم يشهدوا قط مثل هذا الانقلاب الشامل. ويُلاحظ الطبري أن هذا التساؤل يصدر ممن أنكروا البعث وها هم يواجهون حقيقته. ويُشدِّد مفسرون شيعة كالطباطبائي كذلك على عنصر عدم الاستعداد، ولا سيما عند من تجاهلوا التحذيرات النبوية. وثمة فارق طفيف في التأكيد الروحي: التفسير السني كثيراً ما يُركِّز على هلع الكافرين وندمهم، في حين يمتد الدرس في التفسير الشيعي ليشمل المؤمنين أيضاً، محذراً من الغرور ومُلحاً على ضرورة الاستعداد الفاعل بالعمل الصالح والتنمية الروحية. ويتناول القرطبي مسألة ما إذا كان هذا التساؤل يسبق البعث من القبور أم يليه، وهي مسألة توقيتية تُعالجها المصادر الشيعية أيضاً بآراء شتى. ويدرس الرازي الحال النفسية للمتسائلين، وهو موضوع يتقاطع مع اهتمام الفلسفة الشيعية بأحوال النفس أثناء البعث. ويتفق التراثان على الرسالة الجوهرية: هذه الآية تُشكِّل تحذيراً للأخذ بالبعث مأخذ الجد والاستعداد له، وهو مبدأ كوني يتجاوز الحدود المذهبية."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:4:earth-testifies",
+          "title": "Earth Testifies",
+          "icon": "text.bubble.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The earth 'narrating its news' (tuhaddithu akhbaraha) means it will speak as a witness, testifying about every action performed on its surface - making the earth itself a book of records.",
+          "whyItMatters": "We often think our private actions are hidden, but the very ground beneath our feet records everything. This should inspire mindfulness in all our conduct, public and private.",
+          "position": "topLeft",
+          "arabicHighlight": "تُحَدِّثُ أَخْبَارَهَا",
+          "title_urdu": "زمین کی گواہی",
+          "coreInsight_urdu": "زمین کا 'اپنی خبریں بیان کرنا' (تحدث اخبارہا) کا مطلب ہے کہ یہ بطور گواہ بولے گی، اس کی سطح پر کیے گئے ہر عمل کے بارے میں گواہی دے گی - زمین کو خود ایک ریکارڈ کی کتاب بنا دے گی۔",
+          "whyItMatters_urdu": "ہم اکثر سوچتے ہیں کہ ہماری نجی کارروائیاں چھپی ہوئی ہیں، لیکن ہمارے پیروں کے نیچے کی زمین سب کچھ ریکارڈ کرتی ہے۔ اس سے ہماری تمام عمومی اور نجی کارروائیوں میں ہوشیاری کی ترغیب ملنی چاہیے۔",
+          "title_ar": "شهادة الأرض",
+          "coreInsight_ar": "رواية الأرض لأخبارها تعني أنها ستتحدث كشاهد، تشهد على كل عمل نُفذ على سطحها - مما يجعل الأرض نفسها كتاب سجلات.",
+          "whyItMatters_ar": "غالبًا ما نعتقد أن أفعالنا الخاصة مخفية، لكن الأرض تحت أقدامنا تسجل كل شيء. يجب أن يلهمنا هذا باليقظة في كل سلوكنا، العام والخاص."
+        },
+        {
+          "id": "99:4:that-day",
+          "title": "That Day",
+          "icon": "calendar.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Yawma'idhin' (that Day) refers to the unique Day of Judgment when normal laws of nature are suspended and divine justice manifests completely - a day unlike any other in human experience.",
+          "whyItMatters": "Understanding the uniqueness of that Day helps us contextualize our current struggles. Today's injustices are temporary; that Day brings perfect accountability and justice.",
+          "position": "topRight",
+          "arabicHighlight": "يَوْمَئِذٍۢ",
+          "title_urdu": "وہ دن",
+          "coreInsight_urdu": "'یومئذ' (اس دن) منفرد قیامت کے دن کی طرف اشارہ ہے جب فطرت کے عام قوانین معطل ہو جاتے ہیں اور الہی انصاف مکمل طور پر ظاہر ہوتا ہے - ایک دن جو انسانی تجربے میں کسی دوسرے سے مختلف ہے۔",
+          "whyItMatters_urdu": "اس دن کی انفرادیت کو سمجھنا ہماری موجودہ جدوجہد کو سیاق و سباق میں رکھنے میں مدد کرتا ہے۔ آج کی ناانصافیاں عارضی ہیں؛ وہ دن کامل جوابدہی اور انصاف لاتا ہے۔",
+          "title_ar": "ذلك اليوم",
+          "coreInsight_ar": "يشير 'يومئذ' (ذلك اليوم) إلى يوم القيامة الفريد عندما تُعلق القوانين الطبيعية العادية وتتجلى العدالة الإلهية تمامًا - يوم لا مثيل له في التجربة البشرية.",
+          "whyItMatters_ar": "فهم تفرد ذلك اليوم يساعدنا على وضع صراعاتنا الحالية في سياقها. ظلم اليوم مؤقت؛ ذلك اليوم يجلب المساءلة والعدالة المثالية."
+        },
+        {
+          "id": "99:4:divine-command",
+          "title": "Divine Command",
+          "icon": "command",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The earth speaks 'because your Lord has commanded it' - even inanimate creation obeys Allah perfectly. Its testimony isn't voluntary but a response to divine will.",
+          "whyItMatters": "If lifeless earth submits completely to Allah's command, how much more should we, who have been granted consciousness and free will, willingly submit to Him?",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+          "title_urdu": "الہی حکم",
+          "coreInsight_urdu": "زمین بولتی ہے 'کیونکہ تمہارے رب نے اسے حکم دیا ہے' - یہاں تک کہ بے جان مخلوق بھی اللہ کی کامل طور پر اطاعت کرتی ہے۔ اس کی گواہی رضاکارانہ نہیں بلکہ الہی مرضی کا جواب ہے۔",
+          "whyItMatters_urdu": "اگر بے جان زمین اللہ کے حکم کے سامنے مکمل طور پر سرنگوں ہوتی ہے، تو ہمیں کتنا زیادہ، جنہیں شعور اور آزاد مرضی عطا کی گئی ہے، رضاکارانہ طور پر اس کے سامنے سرنگوں ہونا چاہیے؟",
+          "title_ar": "الأمر الإلهي",
+          "coreInsight_ar": "تتحدث الأرض 'لأن ربك أوحى لها' - حتى الخلق الجامد يطيع الله تمامًا. شهادتها ليست طوعية بل استجابة للإرادة الإلهية.",
+          "whyItMatters_ar": "إذا كانت الأرض الجامدة تخضع تمامًا لأمر الله، فكم بالأحرى يجب علينا نحن الذين منحنا الوعي والإرادة الحرة أن نخضع له طوعًا؟"
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes affirm that the earth will literally speak and testify on the Day of Judgment. Ibn Kathir cites hadith from the Prophet Muhammad confirming this, as does Tabari, who explains that Allah will enable the earth to speak just as He enables all things. Qurtubi discusses the mechanism of this speech, noting that it is miraculous rather than natural, a position shared by Shia scholars. However, there are differences in emphasis. Sunni commentators generally present this as one of many extraordinary events of resurrection, while Shia scholars often connect it more explicitly to the broader theme of universal testimony, including the testimony of the Imams who will bear witness regarding their communities. Razi explores philosophical questions about the earth's consciousness and capacity for perception, topics also addressed in Shia kalam with discussions of whether inanimate objects possess rudimentary awareness. Both traditions cite Quran 41:21 where human limbs speak, establishing precedent for creation testifying. A shared emphasis across both schools is the practical implication: believers should live righteously knowing that comprehensive witnesses observe all actions. Minor differences in hadith sources aside, the message transcends sectarian boundaries: the earth's testimony serves divine justice and demands human accountability.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین تصدیق کرتے ہیں کہ زمین قیامت کے دن لفظی طور پر بولے گی اور گواہی دے گی۔ ابن کثیر رسول اللہ سے اس کی تصدیق کرنے والی احادیث کا حوالہ دیتے ہیں، جیسا کہ طبری کرتے ہیں، جو وضاحت کرتے ہیں کہ اللہ زمین کو بولنے کے قابل بنائے گا جیسے وہ تمام چیزوں کو قابل بناتا ہے۔ قرطبی اس تقریر کے طریقہ کار پر بحث کرتے ہیں، یہ نوٹ کرتے ہوئے کہ یہ معجزانہ ہے قدرتی نہیں، ایک موقف جو شیعہ علماء کے ساتھ مشترک ہے۔ تاہم زور میں فرق موجود ہیں۔ سنی مفسرین عام طور پر اسے قیامت کے بہت سے غیر معمولی واقعات میں سے ایک کے طور پر پیش کرتے ہیں، جبکہ شیعہ علماء اکثر اسے آفاقی گواہی کے وسیع تر موضوع سے زیادہ واضح طور پر جوڑتے ہیں، بشمول اماموں کی گواہی جو اپنی امتوں کے بارے میں گواہی دیں گے۔ رازی زمین کے شعور اور ادراک کی صلاحیت کے بارے میں فلسفیانہ سوالات پر تحقیق کرتے ہیں، موضوعات جن پر شیعہ کلام میں بھی بحث کی گئی ہے کہ آیا بے جان اشیاء ابتدائی آگاہی رکھتی ہیں۔ دونوں روایات قرآن 41:21 کا حوالہ دیتی ہیں جہاں انسانی اعضاء بولتے ہیں، تخلیق کی گواہی کے لیے نظیر قائم کرتے ہوئے۔ دونوں مکاتب میں مشترک زور عملی مضمرات پر ہے: مومنین کو نیک زندگی گزارنی چاہیے یہ جانتے ہوئے کہ جامع گواہ تمام اعمال کا مشاہدہ کرتے ہیں۔ حدیث کے ذرائع میں معمولی اختلافات کے علاوہ، پیغام فرقہ وارانہ حدود سے بالاتر ہے: زمین کی گواہی الٰہی انصاف کی خدمت کرتی ہے اور انسانی جوابدہی کا تقاضا کرتی ہے۔",
+    "layer4_ar": "يُقرُّ مفسرو الشيعة والسنة معاً بأن الأرض ستتكلم وتشهد حقيقةً يوم القيامة. فابن كثير يستشهد بأحاديث نبوية تُثبِّت ذلك، وكذلك الطبري الذي يُوضِّح أن الله سيُنطق الأرض كما يُنطق سائر الأشياء. ويتناول القرطبي آلية هذا الكلام مُستنتِجاً أنه معجز لا طبيعي، وهو موقف يتقاطع مع الموقف الشيعي. غير أن ثمة فروقاً في التأكيد؛ إذ يُقدِّمه المفسرون السنة عموماً بوصفه واحداً من أحداث البعث الاستثنائية، بينما يربطه علماء الشيعة أكثر صراحةً بموضوع الشهادة الكونية الشاملة، بما فيها شهادة الأئمة عليهم السلام على أممهم. ويستكشف الرازي التساؤلات الفلسفية حول وعي الأرض وقدرتها على الإدراك، وهي مواضيع تُعالجها الكلام الشيعي أيضاً بنقاشات حول مراتب الإدراك والوعي في المخلوقات. ويستشهد كلا التراثين بقوله تعالى في سورة فصلت عن نطق الجوارح، مما يُؤسِّس سابقة لشهادة الخليقة. والتأكيد المشترك بين المدرستين هو الدلالة العملية: على المؤمنين أن يستقيموا عارفين أن شهوداً شاملة ترصد جميع أعمالهم. والاختلافات في مصادر الأحاديث والتفصيلات العقدية لا تحجب الرسالة الجامعة: شهادة الأرض تخدم العدل الإلهي وتستدعي المساءلة الإنسانية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:5:your-lord",
+          "title": "Your Lord",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Rabbika' (your Lord) emphasizes the personal relationship - the One who created, sustains, and will resurrect you is the same Lord who commands the earth to testify. Everything is under His control.",
+          "whyItMatters": "Recognizing Allah as 'your Lord' transforms our understanding of accountability. We're not answering to an abstract force but to the Lord who has nurtured us throughout our existence.",
+          "position": "topLeft",
+          "arabicHighlight": "رَبَّكَ",
+          "title_urdu": "تمہارا رب",
+          "coreInsight_urdu": "'ربک' (تمہارا رب) ذاتی تعلق پر زور دیتا ہے - جس نے تمہیں پیدا کیا، برقرار رکھا، اور دوبارہ زندہ کرے گا وہی رب ہے جو زمین کو گواہی دینے کا حکم دیتا ہے۔ سب کچھ اس کے کنٹرول میں ہے۔",
+          "whyItMatters_urdu": "اللہ کو 'تمہارے رب' کے طور پر پہچاننا جوابدہی کی ہماری سمجھ کو تبدیل کر دیتا ہے۔ ہم کسی خلاصہ قوت کو جواب نہیں دے رہے بلکہ اس رب کو جس نے ہمارے پورے وجود میں ہماری پرورش کی ہے۔",
+          "title_ar": "ربك",
+          "coreInsight_ar": "يؤكد 'ربك' على العلاقة الشخصية - الذي خلقك وحافظ عليك وسيبعثك هو نفس الرب الذي يأمر الأرض بالشهادة. كل شيء تحت سيطرته.",
+          "whyItMatters_ar": "إدراك الله كـ'ربك' يحول فهمنا للمساءلة. لسنا نجيب على قوة مجردة بل على الرب الذي رعانا طوال وجودنا."
+        },
+        {
+          "id": "99:5:divine-revelation",
+          "title": "Divine Revelation",
+          "icon": "bolt.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Awha' (revealed/inspired) indicates Allah's communication extends beyond humans to all creation. The earth receives divine inspiration to fulfill its role as witness on Judgment Day.",
+          "whyItMatters": "All of creation is connected to Allah's will in ways we don't fully comprehend. This should humble us and make us recognize that we're part of a cosmic order entirely under divine command.",
+          "position": "topRight",
+          "arabicHighlight": "أَوْحَىٰ لَهَا",
+          "title_urdu": "الہی وحی",
+          "coreInsight_urdu": "'اوحی' (وحی/الہام) اشارہ کرتا ہے کہ اللہ کی رابطہ کاری انسانوں سے آگے تمام تخلیق تک پھیلی ہوئی ہے۔ زمین قیامت کے دن بطور گواہ اپنا کردار ادا کرنے کے لیے الہی الہام وصول کرتی ہے۔",
+          "whyItMatters_urdu": "تمام تخلیق اللہ کی مرضی سے اس طرح منسلک ہے جسے ہم مکمل طور پر نہیں سمجھتے۔ اس سے ہمیں عاجز ہونا چاہیے اور یہ پہچاننا چاہیے کہ ہم ایک کائناتی نظام کا حصہ ہیں جو مکمل طور پر الہی حکم کے تحت ہے۔",
+          "title_ar": "الوحي الإلهي",
+          "coreInsight_ar": "يشير 'أوحى' (أوحى/ألهم) إلى أن تواصل الله يمتد إلى ما وراء البشر إلى كل الخلق. تتلقى الأرض الإلهام الإلهي لأداء دورها كشاهد يوم القيامة.",
+          "whyItMatters_ar": "كل الخلق متصل بإرادة الله بطرق لا نفهمها تمامًا. يجب أن يتواضعنا هذا ويجعلنا ندرك أننا جزء من نظام كوني تحت الأمر الإلهي بالكامل."
+        },
+        {
+          "id": "99:5:cause-and-effect",
+          "title": "Cause and Effect",
+          "icon": "link.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Bi'anna' (because) establishes causation - the earth testifies specifically because Allah commanded it. This shows divine orchestration of every element of the Day of Judgment.",
+          "whyItMatters": "Nothing on the Last Day happens randomly or chaotically. Every testimony, every revelation, every judgment follows divine decree with perfect precision and purpose.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِأَنَّ",
+          "title_urdu": "سبب اور نتیجہ",
+          "coreInsight_urdu": "'بِأَنَّ' (کیونکہ) وجہ قائم کرتا ہے - زمین خاص طور پر گواہی دیتی ہے کیونکہ اللہ نے اسے حکم دیا۔ یہ قیامت کے دن کے ہر عنصر کی الہی ترتیب کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "آخری دن کوئی چیز بے ترتیبی یا افراتفری سے نہیں ہوتی۔ ہر گواہی، ہر انکشاف، ہر فیصلہ الہی فرمان کی پیروی کرتا ہے کامل درستگی اور مقصد کے ساتھ۔",
+          "title_ar": "السبب والنتيجة",
+          "coreInsight_ar": "يثبت 'بأن' (لأن) السببية - تشهد الأرض تحديدًا لأن الله أمرها. يظهر هذا التنسيق الإلهي لكل عنصر من عناصر يوم القيامة.",
+          "whyItMatters_ar": "لا شيء في اليوم الآخر يحدث عشوائيًا أو فوضويًا. كل شهادة، كل كشف، كل حكم يتبع المرسوم الإلهي بدقة وهدف مثاليين."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously agree that this verse explains the earth's testimony as occurring through direct divine command. Ibn Kathir cites this verse as proof that all creation obeys Allah and will fulfill whatever role He assigns, including testifying on Judgment Day. Tabari emphasizes that 'awha' indicates certain and perfect communication that cannot be misunderstood or disobeyed by its recipient. Qurtubi discusses how this divine command to the earth parallels commands to angels and other creation, establishing that Allah's will governs all existence. Shia exegetes like Tabatabai similarly emphasize the certainty and perfection of the earth's obedience, connecting it to broader theological principles about creation's necessary submission to the Creator. Razi explores the philosophical dimensions of how non-rational beings receive and execute divine commands, a topic also addressed in Shia philosophy with discussions of different levels of consciousness and obedience in creation. Both traditions draw practical lessons: if the earth perfectly obeys Allah, how much more should humans, who possess reason and revelation, obey His commands? Minor differences exist in hadith citations and theological elaborations, but the core message unites Shia and Sunni understanding: this verse affirms divine sovereignty, the reliability of resurrection testimony, and the call for human beings to join creation in willing obedience to their Lord.",
+    "layer4_urdu": "شیعہ اور سنی علماء متفقہ طور پر اتفاق کرتے ہیں کہ یہ آیت زمین کی گواہی کو براہ راست الٰہی حکم کے ذریعے رونما ہونے کی وضاحت کرتی ہے۔ ابن کثیر اس آیت کو بطور ثبوت پیش کرتے ہیں کہ تمام تخلیق اللہ کی فرمانبرداری کرتی ہے اور وہ جو بھی کردار تفویض کرتا ہے انجام دیتی ہے، بشمول قیامت کے دن گواہی دینا۔ طبری زور دیتے ہیں کہ \"اوحیٰ\" یقینی اور کامل مواصلت کو ظاہر کرتا ہے جسے اس کے وصول کنندہ سے غلط فہمی یا نافرمانی نہیں ہو سکتی۔ قرطبی بحث کرتے ہیں کہ کیسے زمین کو یہ الٰہی حکم فرشتوں اور دیگر تخلیق کے احکام کے متوازی ہے، یہ قائم کرتے ہوئے کہ اللہ کی مشیت تمام وجود کو کنٹرول کرتی ہے۔ شیعہ مفسرین جیسے طباطبائی اسی طرح زمین کی فرمانبرداری کی یقین اور کاملیت پر زور دیتے ہیں، اسے وسیع تر کلامی اصولوں سے جوڑتے ہوئے کہ تخلیق خالق کے سامنے ضروری تابعداری رکھتی ہے۔ رازی فلسفیانہ پہلوؤں پر تحقیق کرتے ہیں کہ کیسے غیر عقلی مخلوقات الٰہی احکام وصول اور عمل میں لاتی ہیں، ایک موضوع جو شیعہ فلسفے میں بھی تخلیق میں شعور اور فرمانبرداری کی مختلف سطحوں کی بحثوں کے ساتھ다루ا جاتا ہے۔ دونوں روایات عملی سبق نکالتی ہیں: اگر زمین اللہ کی مکمل فرمانبرداری کرتی ہے تو انسانوں کو، جو عقل اور وحی رکھتے ہیں، کتنا زیادہ اس کے احکام کی فرمانبرداری کرنی چاہیے؟ احادیث کے حوالوں اور کلامی تفصیلات میں معمولی اختلافات موجود ہیں، لیکن بنیادی پیغام شیعہ اور سنی تفہیم کو متحد کرتا ہے: یہ آیت الٰہی حاکمیت، قیامت کی گواہی کی وشوسنییता، اور انسانوں کے لیے اپنے رب کی رضاکارانہ فرمانبرداری میں تخلیق میں شامل ہونے کی دعوت کی تصدیق کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة بإجماع على أن هذه الآية تُفسِّر شهادة الأرض باعتبارها صادرة عن أمر إلهي مباشر. فابن كثير يستشهد بهذه الآية دليلاً على أن الخليقة كلها تُطيع الله وستؤدي أي دور يُسنده إليها بما في ذلك الشهادة يوم القيامة. ويُؤكِّد الطبري أن \"أوحى\" تدل على تواصل يقيني وكامل لا يحتمل سوء الفهم ولا يرد عليه العصيان. ويُناقش القرطبي كيف أن هذا الأمر الإلهي للأرض يُوازي الأوامر الموجهة للملائكة وسائر الخليقة، مما يُرسِّخ أن مشيئة الله تحكم جميع الكائنات. ومفسرو الشيعة كالطباطبائي يُشددون كذلك على يقين طاعة الأرض وكمالها، ربطاً بالمبادئ العقدية الشاملة حول الطاعة الضرورية للخليقة لخالقها. ويستكشف الرازي الأبعاد الفلسفية لكيفية تلقي غير العقلاء للأوامر الإلهية وتنفيذها، وهو موضوع تتناوله الفلسفة الشيعية أيضاً بنقاشات حول مراتب الوعي والطاعة في الخليقة. ويستخلص كلا التراثين دروساً عملية: إذا كانت الأرض تُطيع الله طاعة تامة، فما بال الإنسان الذي حُبي بالعقل والوحي؟ أليس أَولى وأجدر أن يُطيع أوامره؟ وثمة اختلافات ثانوية في الاستشهادات والتوسعات العقدية، لكن الرسالة الأساسية تجمع الفهمين الشيعي والسني: تُثبِّت الآية السيادة الإلهية، وتُوثِّق موثوقية الشهادة يوم القيامة، وتدعو البشر إلى الانضمام للخليقة في الطاعة الطوعية الواعية لربهم."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:6:people-emerge",
+          "title": "People Emerge",
+          "icon": "person.3.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Yasduru' (emerge/depart) describes humanity coming forth from their graves, dispersing from one gathering point to witness the results of their earthly lives displayed before them.",
+          "whyItMatters": "This emergence marks the transition from death to accountability. The direction of our eternal life is determined by the deeds we're about to witness - making our choices today critically important.",
+          "position": "topLeft",
+          "arabicHighlight": "يَصْدُرُ ٱلنَّاسُ",
+          "title_urdu": "لوگوں کا نکلنا",
+          "coreInsight_urdu": "'یصدر' (نکلنا/روانہ ہونا) انسانیت کے اپنی قبروں سے نکلنے کی وضاحت کرتا ہے، ایک اجتماعی مقام سے منتشر ہو کر اپنی دنیاوی زندگیوں کے نتائج کو اپنے سامنے ظاہر دیکھنے کے لیے۔",
+          "whyItMatters_urdu": "یہ نکلنا موت سے جوابدہی کی طرف منتقلی کی نشاندہی کرتا ہے۔ ہماری ابدی زندگی کی سمت ان اعمال سے طے ہوتی ہے جن کو ہم دیکھنے والے ہیں - آج ہمارے انتخاب کو انتہائی اہم بناتے ہیں۔",
+          "title_ar": "خروج الناس",
+          "coreInsight_ar": "يصف 'يصدر' (يخرج/يغادر) خروج البشرية من قبورهم، متفرقين من نقطة تجمع واحدة لمشاهدة نتائج حياتهم الدنيوية معروضة أمامهم.",
+          "whyItMatters_ar": "يمثل هذا الخروج الانتقال من الموت إلى المساءلة. يتحدد اتجاه حياتنا الأبدية بالأعمال التي نحن على وشك رؤيتها - مما يجعل اختياراتنا اليوم بالغة الأهمية."
+        },
+        {
+          "id": "99:6:separated-groups",
+          "title": "Separated Groups",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E57373",
+          "coreInsight": "'Ashtatan' (in scattered groups/categories) means people are divided based on their deeds - believers separate from disbelievers, righteous from wicked, each group heading toward their appropriate destination.",
+          "whyItMatters": "The companionship we keep in this life matters eternally. Choose your company wisely, as the groups formed on Judgment Day reflect the spiritual alignment we make today.",
+          "position": "topRight",
+          "arabicHighlight": "أَشْتَاتًۭا",
+          "title_urdu": "الگ گروہ",
+          "coreInsight_urdu": "'اشتاتا' (منتشر گروہوں/زمروں میں) کا مطلب ہے لوگ اپنے اعمال کی بنیاد پر تقسیم ہوتے ہیں - مومن کافروں سے الگ، نیک بدکاروں سے، ہر گروہ اپنی مناسب منزل کی طرف بڑھتا ہے۔",
+          "whyItMatters_urdu": "اس زندگی میں ہم جو صحبت رکھتے ہیں وہ ابدی طور پر اہمیت رکھتی ہے۔ اپنی صحبت کو عقلمندی سے منتخب کریں، کیونکہ قیامت کے دن بننے والے گروہ اس روحانی سیدھ کی عکاسی کرتے ہیں جو ہم آج کرتے ہیں۔",
+          "title_ar": "مجموعات منفصلة",
+          "coreInsight_ar": "يعني 'أشتاتًا' (في مجموعات/فئات متفرقة) انقسام الناس بناءً على أعمالهم - ينفصل المؤمنون عن الكفار، والصالحون عن الأشرار، كل مجموعة تتجه نحو وجهتها المناسبة.",
+          "whyItMatters_ar": "الرفقة التي نحافظ عليها في هذه الحياة مهمة أبديًا. اختر رفقتك بحكمة، حيث تعكس المجموعات المشكلة يوم القيامة التوافق الروحي الذي نحققه اليوم."
+        },
+        {
+          "id": "99:6:shown-their-deeds",
+          "title": "Shown Their Deeds",
+          "icon": "eye.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Li-yuraw a'malahum' (to be shown their deeds) means every action will be displayed with perfect clarity - no denial, no excuses, just the undeniable truth of what we did.",
+          "whyItMatters": "Living with awareness that we'll witness our own deeds should make us conscious of every choice. We're not just accountable to others but to ourselves, facing the record of our own actions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+          "title_urdu": "اعمال دکھائے جانا",
+          "coreInsight_urdu": "'لیروا اعمالہم' (اپنے اعمال دکھائے جانا) کا مطلب ہے ہر عمل کامل وضاحت کے ساتھ ظاہر کیا جائے گا - کوئی انکار نہیں، کوئی بہانے نہیں، صرف ہم نے جو کیا اس کی ناقابل تردید سچائی۔",
+          "whyItMatters_urdu": "اس شعور کے ساتھ زندگی گزارنا کہ ہم اپنے اعمال دیکھیں گے ہمیں ہر انتخاب کا شعور دینا چاہیے۔ ہم صرف دوسروں کے سامنے جوابدہ نہیں بلکہ اپنے آپ کے سامنے، اپنے اعمال کے ریکارڈ کا سامنا کرتے ہوئے۔",
+          "title_ar": "عرض الأعمال",
+          "coreInsight_ar": "يعني 'ليروا أعمالهم' (ليُظهر لهم أعمالهم) عرض كل عمل بوضوح تام - لا إنكار، لا أعذار، فقط الحقيقة التي لا يمكن إنكارها لما فعلناه.",
+          "whyItMatters_ar": "العيش مع الوعي بأننا سنشهد أعمالنا يجب أن يجعلنا واعين بكل اختيار. لسنا مسؤولين أمام الآخرين فقط بل أمام أنفسنا، نواجه سجل أعمالنا."
+        },
+        {
+          "id": "99:6:divine-purpose",
+          "title": "Divine Purpose",
+          "icon": "target",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The purpose ('li' - so that/in order to) of resurrection is witnessing our deeds - not arbitrary punishment but justice based on informed accountability where we see exactly what earned our fate.",
+          "whyItMatters": "Allah's judgment is perfectly just because it's based on evidence we ourselves witness. No one can claim ignorance or unfairness when confronted with their own recorded actions.",
+          "position": "bottomRight",
+          "arabicHighlight": "يَوْمَئِذٍۢ",
+          "title_urdu": "الہی مقصد",
+          "coreInsight_urdu": "قیامت کا مقصد ('لِ' - تاکہ/کے لیے) ہمارے اعمال دیکھنا ہے - بے بنیاد سزا نہیں بلکہ باخبر جوابدہی پر مبنی انصاف جہاں ہم بالکل دیکھتے ہیں کہ ہمارے انجام نے کیا کمایا۔",
+          "whyItMatters_urdu": "اللہ کا فیصلہ بالکل منصفانہ ہے کیونکہ یہ ثبوت پر مبنی ہے جو ہم خود دیکھتے ہیں۔ کوئی بھی لاعلمی یا ناانصافی کا دعویٰ نہیں کر سکتا جب اپنے ریکارڈ شدہ اعمال کا سامنا ہو۔",
+          "title_ar": "الغرض الإلهي",
+          "coreInsight_ar": "الغرض ('لِ' - حتى/من أجل) من البعث هو مشاهدة أعمالنا - ليس عقابًا تعسفيًا بل عدالة مبنية على مساءلة مستنيرة حيث نرى بالضبط ما كسب مصيرنا.",
+          "whyItMatters_ar": "حكم الله عادل تمامًا لأنه يعتمد على أدلة نشهدها بأنفسنا. لا يمكن لأحد أن يدعي الجهل أو الظلم عند مواجهة أعماله المسجلة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes interpret this verse as describing the resurrection and gathering of humanity to witness the consequences of their earthly lives. Ibn Kathir explains that people will emerge from graves in various groups according to their deeds and will see those deeds manifested. Tabari discusses the meaning of 'ashtatan' and concludes it means scattered groups or categories, a view shared by Shia scholars. Qurtubi emphasizes that this display serves divine justice, ensuring that reward and punishment are based on clear evidence that everyone can witness. Shia commentators like Tabatabai similarly stress the transparency and fairness of this process. A difference in emphasis appears regarding what distinguishes the groups: Sunni tafsir generally focuses on belief versus disbelief and righteous versus sinful actions, while Shia exegesis adds the dimension of loyalty to or rejection of divinely appointed leadership. Razi explores whether people see only their own deeds or also witness others' deeds as evidence and warning, a question also addressed in Shia sources with various scholarly opinions. Despite these nuances, both traditions agree on the fundamental message: this verse describes the just and transparent process by which each person will confront the truth of their life choices and receive appropriate recompense, a universal principle of divine justice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کو قیامت اور انسانیت کے اجتماع کی تفصیل کے طور پر تشریح کرتے ہیں تاکہ وہ اپنی دنیاوی زندگیوں کے نتائج دیکھیں۔ ابن کثیر وضاحت کرتے ہیں کہ لوگ اپنے اعمال کے مطابق مختلف گروہوں میں قبروں سے نکلیں گے اور وہ اعمال ظاہر شدہ دیکھیں گے۔ طبری \"اشتاتاً\" کے معنی پر بحث کرتے ہیں اور نتیجہ نکالتے ہیں کہ اس کا مطلب ہے بکھرے ہوئے گروہ یا زمرے، ایک نظریہ جو شیعہ علماء کے ساتھ مشترک ہے۔ قرطبی زور دیتے ہیں کہ یہ نمائش الٰہی انصاف کی خدمت کرتی ہے، اس بات کو یقینی بناتے ہوئے کہ انعام اور سزا واضح شواہد کی بنیاد پر ہو جنہیں ہر کوئی دیکھ سکے۔ شیعہ مفسرین جیسے طباطبائی اسی طرح اس عمل کی شفافیت اور انصاف پر زور دیتے ہیں۔ زور میں فرق ظاہر ہوتا ہے کہ کیا چیز گروہوں کو ممتاز کرتی ہے: سنی تفسیر عام طور پر ایمان بمقابلہ کفر اور نیک بمقابلہ گناہ کے اعمال پر توجہ مرکوز کرتی ہے، جبکہ شیعہ تفسیر الٰہی طور پر مقرر کردہ قیادت کے ساتھ وفاداری یا انکار کا پہلو شامل کرتی ہے۔ رازی تلاش کرتے ہیں کہ آیا لوگ صرف اپنے اعمال دیکھتے ہیں یا دوسروں کے اعمال بھی شواہد اور تنبیہ کے طور پر، ایک سوال جو شیعہ ذرائع میں بھی مختلف علمی آراء کے ساتھ다루ا جاتا ہے۔ ان باریکیوں کے باوجود، دونوں روایات بنیادی پیغام پر متفق ہیں: یہ آیت انصاف پسند اور شفاف عمل کی تفصیل دیتی ہے جس کے ذریعے ہر شخص اپنی زندگی کے انتخابات کی سچائی کا سامنا کرے گا اور مناسب جزا وصول کرے گا، الٰہی انصاف کا ایک آفاقی اصول۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية باعتبارها وصفاً للحشر وتجمع البشرية لترى عواقب حياتها الدنيوية. ويوضح ابن كثير أن الناس سيخرجون من قبورهم في فئات متعددة وفق أعمالهم وسترى تلك الأعمال مُجسَّدة. ويتناول الطبري معنى \"أشتاتاً\" ويخلص إلى أنها تعني الجماعات المتفرقة أو الفئات المتمايزة، وهو رأي يتوافق مع موقف العلماء الشيعة. ويُؤكِّد القرطبي أن هذا العرض يخدم العدل الإلهي إذ يضمن أن الثواب والعقاب يستندان إلى أدلة واضحة يشهدها الجميع. ومفسرو الشيعة كالطباطبائي يُشددون بالقدر ذاته على شفافية هذه العملية ونزاهتها. ويتجلى فارق في التأكيد فيما يخص ما يُميِّز الفئات عن بعضها: إذ يُركِّز التفسير السني عموماً على الإيمان والكفر والطاعة والعصيان، بينما يُضيف التفسير الشيعي بُعد الولاء لأهل البيت أو الرفض لهم. ويستكشف الرازي مسألة هل يرى الإنسان أعماله وحدها أم يشهد أعمال الآخرين أيضاً شاهداً ومعتبراً، وهو سؤال تتناوله المصادر الشيعية أيضاً بآراء علمية متعددة. وعلى الرغم من هذه الفروق، يتفق كلا التراثين على الرسالة الجوهرية: تصف الآية العملية العادلة الشفافة التي يواجه فيها كل امرئ حقيقة خياراته في الحياة ويتلقى جزاءه اللائق، وهذا مبدأ كوني للعدل الإلهي يتجاوز الحدود المذهبية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:7:atoms-weight",
+          "title": "Atom's Weight",
+          "icon": "circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Mithqala dharratin' (an atom's weight) represents the smallest conceivable amount - teaching that no good deed is too small to matter, and Allah's accounting is infinitely precise.",
+          "whyItMatters": "This should inspire us to never dismiss small acts of kindness. Smiling at someone, removing a harmful object from the path, a kind word - all these 'tiny' deeds accumulate with eternal significance.",
+          "position": "topLeft",
+          "arabicHighlight": "مِثْقَالَ ذَرَّةٍ",
+          "title_urdu": "ذرے کا وزن",
+          "coreInsight_urdu": "'مثقال ذرۃ' (ذرے کا وزن) سب سے چھوٹی قابل تصور مقدار کی نمائندگی کرتا ہے - سکھاتا ہے کہ کوئی اچھا عمل اتنا چھوٹا نہیں جو اہمیت نہ رکھتا ہو، اور اللہ کا حساب لامحدود طور پر درست ہے۔",
+          "whyItMatters_urdu": "اس سے ہمیں چھوٹے نیک اعمال کو کبھی نظرانداز نہ کرنے کی ترغیب ملنی چاہیے۔ کسی پر مسکرانا، راستے سے نقصان دہ چیز ہٹانا، ایک مہربان لفظ - یہ سب 'چھوٹے' اعمال ابدی اہمیت کے ساتھ جمع ہوتے ہیں۔",
+          "title_ar": "وزن الذرة",
+          "coreInsight_ar": "يمثل 'مثقال ذرة' أصغر كمية يمكن تصورها - يعلم أنه لا يوجد عمل صالح صغير جدًا ليهم، ومحاسبة الله دقيقة بلا حدود.",
+          "whyItMatters_ar": "يجب أن يلهمنا هذا ألا نتجاهل أبدًا أعمال اللطف الصغيرة. الابتسامة لشخص ما، إزالة شيء ضار من الطريق، كلمة طيبة - كل هذه الأعمال 'الصغيرة' تتراكم بأهمية أبدية."
+        },
+        {
+          "id": "99:7:will-see-it",
+          "title": "Will See It",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Yarahu' (will see it) emphasizes personal witnessing - you won't just be told about your good deeds, you'll see them manifested, perhaps as beautiful forms or as sources of light and comfort.",
+          "whyItMatters": "The visualization of our deeds makes accountability tangible. Good actions aren't abstract points but real entities we'll encounter, making the consequences of our choices undeniably clear.",
+          "position": "topRight",
+          "arabicHighlight": "يَرَهُۥ",
+          "title_urdu": "دیکھے گا",
+          "coreInsight_urdu": "'یرہ' (دیکھے گا) ذاتی مشاہدے پر زور دیتا ہے - آپ کو صرف اپنے اچھے اعمال کے بارے میں نہیں بتایا جائے گا، آپ انہیں ظاہر شدہ دیکھیں گے، شاید خوبصورت شکلوں کے طور پر یا روشنی اور آرام کے ذرائع کے طور پر۔",
+          "whyItMatters_urdu": "ہمارے اعمال کی تصویر کشی جوابدہی کو ٹھوس بناتی ہے۔ اچھے اعمال خلاصہ نکات نہیں ہیں بلکہ حقیقی وجود ہیں جن کا ہم سامنا کریں گے، ہمارے انتخاب کے نتائج کو ناقابل تردید طور پر واضح بناتے ہوئے۔",
+          "title_ar": "سيراه",
+          "coreInsight_ar": "يؤكد 'يراه' (سيراه) على الشهادة الشخصية - لن يُخبرك فقط عن أعمالك الصالحة، بل ستراها متجسدة، ربما كأشكال جميلة أو كمصادر للنور والراحة.",
+          "whyItMatters_ar": "تصور أعمالنا يجعل المساءلة ملموسة. الأعمال الصالحة ليست نقاطًا مجردة بل كيانات حقيقية سنواجهها، مما يجعل عواقب اختياراتنا واضحة بشكل لا يمكن إنكاره."
+        },
+        {
+          "id": "99:7:good-deeds",
+          "title": "Good Deeds",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Khayran' (good) encompasses all righteous actions - worship, charity, justice, kindness, patience - any action aligned with divine will and beneficial to creation.",
+          "whyItMatters": "Goodness has infinite expressions. We shouldn't limit righteousness to ritual worship alone but recognize that every ethical action, every moment of compassion, every fair dealing counts.",
+          "position": "bottomLeft",
+          "arabicHighlight": "خَيْرًۭا",
+          "title_urdu": "نیک اعمال",
+          "coreInsight_urdu": "'خیرا' (اچھا) تمام نیک اعمال کو شامل کرتا ہے - عبادت، خیرات، انصاف، مہربانی، صبر - کوئی بھی عمل جو الہی مرضی سے ہم آہنگ اور تخلیق کے لیے فائدہ مند ہو۔",
+          "whyItMatters_urdu": "نیکی کے لامحدود اظہار ہیں۔ ہمیں صرف رسمی عبادت تک نیکی کو محدود نہیں کرنا چاہیے بلکہ یہ تسلیم کرنا چاہیے کہ ہر اخلاقی عمل، ہر رحمدلی کا لمحہ، ہر منصفانہ معاملہ شمار ہوتا ہے۔",
+          "title_ar": "الأعمال الصالحة",
+          "coreInsight_ar": "يشمل 'خيرًا' (خير) جميع الأعمال الصالحة - العبادة، الصدقة، العدالة، اللطف، الصبر - أي عمل متوافق مع الإرادة الإلهية ومفيد للخلق.",
+          "whyItMatters_ar": "للخير تعبيرات لا حصر لها. لا يجب أن نحصر الصلاح في العبادة الطقسية وحدها بل ندرك أن كل عمل أخلاقي، كل لحظة رحمة، كل معاملة عادلة تحتسب."
+        },
+        {
+          "id": "99:7:whoever",
+          "title": "Whoever",
+          "icon": "person.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Man' (whoever) makes this promise universal - regardless of race, status, gender, or background, every person who does good will see its reward. Divine justice knows no favoritism.",
+          "whyItMatters": "This universality should inspire hope. You don't need special status or connections to earn Allah's reward - only sincere good deeds done with pure intention.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَمَن يَعْمَلْ",
+          "title_urdu": "جو کوئی",
+          "coreInsight_urdu": "'من' (جو کوئی) اس وعدے کو عالمگیر بناتا ہے - نسل، حیثیت، جنس، یا پس منظر سے قطع نظر، ہر وہ شخص جو نیکی کرتا ہے اس کا اجر دیکھے گا۔ الہی انصاف کسی کو ترجیح نہیں دیتا۔",
+          "whyItMatters_urdu": "یہ عالمگیریت امید کی ترغیب دینی چاہیے۔ آپ کو اللہ کا اجر حاصل کرنے کے لیے خاص حیثیت یا رابطوں کی ضرورت نہیں - صرف خلوص نیت سے کیے گئے مخلصانہ نیک اعمال۔",
+          "title_ar": "من",
+          "coreInsight_ar": "يجعل 'من' (من) هذا الوعد عالميًا - بغض النظر عن العرق أو المكانة أو الجنس أو الخلفية، كل شخص يفعل الخير سيرى مكافأته. العدالة الإلهية لا تعرف المحاباة.",
+          "whyItMatters_ar": "يجب أن تلهمنا هذه العالمية الأمل. لا تحتاج إلى مكانة خاصة أو اتصالات لكسب مكافأة الله - فقط الأعمال الصالحة الصادقة المعمولة بنية خالصة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars celebrate this verse as one of the most hope-inspiring in the Quran. Ibn Kathir cites hadith where the Prophet called this verse comprehensive (jami'ah) because it encompasses all deeds. Tabari narrates that early Muslims were profoundly moved by this verse, becoming more careful about small good deeds and small sins. Qurtubi emphasizes that this verse demonstrates Allah's perfect justice and generosity, ensuring no good is wasted. Shia exegetes like Tabatabai similarly stress the comprehensiveness and precision of divine accounting, connecting it to the broader Quranic theme that Allah wrongs no one even by the weight of an atom. Both traditions cite supporting verses and hadith about Allah multiplying rewards for good deeds, showing that the atom's weight mentioned here represents the minimum, not the limit of divine generosity. A shared emphasis across both schools is the practical implication: believers should cultivate consistency in small righteous actions rather than depending solely on major acts. Minor differences exist in specific hadith citations and examples of small deeds with great reward, but the fundamental message unites Shia and Sunni understanding. This verse transcends sectarian boundaries in offering hope to all who strive for good, assuring them that their efforts, however modest, are seen, valued, and will be justly rewarded by the All-Seeing, All-Just Lord.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کو قرآن میں سب سے زیادہ امید افزا آیات میں سے ایک کے طور پر مناتے ہیں۔ ابن کثیر حدیث نقل کرتے ہیں جہاں نبی نے اس آیت کو جامع کہا کیونکہ یہ تمام اعمال کو شامل کرتی ہے۔ طبری روایت کرتے ہیں کہ ابتدائی مسلمان اس آیت سے گہرائی سے متاثر ہوئے، چھوٹے نیک اعمال اور چھوٹے گناہوں کے بارے میں زیادہ محتاط ہو گئے۔ قرطبی زور دیتے ہیں کہ یہ آیت اللہ کے کامل انصاف اور سخاوت کا مظاہرہ کرتی ہے، اس بات کو یقینی بناتے ہوئے کہ کوئی نیکی ضائع نہیں ہوتی۔ شیعہ مفسرین جیسے طباطبائی اسی طرح الٰہی حساب کی جامعیت اور درستگی پر زور دیتے ہیں، اسے وسیع تر قرآنی موضوع سے جوڑتے ہوئے کہ اللہ کسی پر ذرہ برابر بھی ظلم نہیں کرتا۔ دونوں روایات نیک اعمال کے لیے اللہ کے انعام کو بڑھانے کے بارے میں معاون آیات اور احادیث نقل کرتی ہیں، یہ ظاہر کرتے ہوئے کہ یہاں ذکر شدہ ذرے کا وزن کم از کم کی نمائندگی کرتا ہے، الٰہی سخاوت کی حد نہیں۔ دونوں مکاتب میں مشترکہ زور عملی مفہوم ہے: مومنین کو چھوٹے نیک اعمال میں مستقل مزاجی پیدا کرنی چاہیے نہ کہ صرف بڑے اعمال پر انحصار کرنا چاہیے۔ نیک اعمال کے بڑے ثواب کی مخصوص احادیث اور مثالوں میں معمولی اختلافات موجود ہیں، لیکن بنیادی پیغام شیعہ اور سنی تفہیم کو متحد کرتا ہے۔ یہ آیت فرقہ وارانہ حدود سے بالاتر ہو کر ان تمام لوگوں کو امید پیش کرتی ہے جو نیکی کے لیے کوشش کرتے ہیں، انہیں یقین دلاتے ہوئے کہ ان کی کوششیں، چاہے کتنی ہی معمولی ہوں، دیکھی، قدر کی اور دیکھنے والے، انصاف کرنے والے رب کے ذریعے منصفانہ طور پر انعام یافتہ ہوں گی۔",
+    "layer4_ar": "يحتفي علماء الشيعة والسنة بهذه الآية باعتبارها من أكثر آيات القرآن إشعاعاً للأمل. فابن كثير يستشهد بحديث النبي صلى الله عليه وسلم الذي وصف هذه الآية بأنها جامعة لأنها تستوعب جميع الأعمال. ويروي الطبري أن المسلمين الأوائل تأثروا تأثراً بالغاً بهذه الآية فأصبحوا أشد اكتراثاً بصغار الحسنات وصغار السيئات على حدٍّ سواء. ويُؤكِّد القرطبي أن الآية تُجلِّي عدل الله الكامل وجوده الواسع إذ لا يضيع خير مهما ضؤل. ومفسرو الشيعة كالطباطبائي يُشددون بالقدر ذاته على شمولية الحساب الإلهي ودقته البالغة، ربطاً بالموضوع القرآني الأشمل القائل إن الله لا يظلم مثقال ذرة. ويستشهد كلا التراثين بآيات داعمة وأحاديث في شأن مضاعفة الله الثواب على الحسنات، مُبيِّنين أن وزن الذرة المذكور هو الحد الأدنى لا قمة الكرم الإلهي. وتبرز في كلا المدرستين خلاصة عملية مشتركة: ينبغي للمؤمنين أن يُنمُّوا المداومة على صغار الأعمال الصالحة بدلاً من الاتكاء فحسب على أعمال كبرى. وثمة فروق طفيفة في استشهادات الأحاديث ونماذج صغار الأعمال ذات الثواب العظيم، لكن الرسالة الجوهرية تجمع الفهمين الشيعي والسني. وتتجاوز هذه الآية الحدود المذهبية في بثِّ الأمل في قلب كل من يسعى إلى الخير، مُطمئِنةً إياه بأن جهوده مهما تواضعت مرئية ومُقدَّرة وستُجزى جزاءً عادلاً من الرب الذي لا تخفى عليه خافية ولا يعزب عن علمه شيء."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "99:8:evil-deeds",
+          "title": "Evil Deeds",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Sharran' (evil) includes all harmful actions - oppression, lying, backbiting, theft, arrogance - anything that violates divine law or harms creation, no matter how small it seems.",
+          "whyItMatters": "We can't excuse 'minor' sins as insignificant. Just as small good deeds accumulate, so do small evils. The atom's weight principle applies equally to sins, making vigilance essential.",
+          "position": "topLeft",
+          "arabicHighlight": "شَرًّۭا",
+          "title_urdu": "برے اعمال",
+          "coreInsight_urdu": "'شرا' (برائی) تمام نقصان دہ اعمال کو شامل کرتا ہے - ظلم، جھوٹ، غیبت، چوری، تکبر - کوئی بھی چیز جو الہی قانون کی خلاف ورزی کرتی ہے یا تخلیق کو نقصان پہنچاتی ہے، چاہے وہ کتنا ہی چھوٹا لگے۔",
+          "whyItMatters_urdu": "ہم 'معمولی' گناہوں کو غیر اہم نہیں کہہ سکتے۔ جس طرح چھوٹے نیک اعمال جمع ہوتے ہیں، اسی طرح چھوٹی برائیاں بھی۔ ذرے کے وزن کا اصول گناہوں پر یکساں طور پر لاگو ہوتا ہے، چوکسی کو ضروری بناتا ہے۔",
+          "title_ar": "الأعمال السيئة",
+          "coreInsight_ar": "يشمل 'شرًا' (شر) جميع الأعمال الضارة - الظلم، الكذب، الغيبة، السرقة، الكبر - أي شيء يخالف القانون الإلهي أو يضر الخلق، مهما بدا صغيرًا.",
+          "whyItMatters_ar": "لا يمكننا تبرير الذنوب 'الصغيرة' على أنها غير مهمة. تمامًا كما تتراكم الأعمال الصالحة الصغيرة، كذلك تتراكم الشرور الصغيرة. ينطبق مبدأ وزن الذرة بالتساوي على الذنوب، مما يجعل اليقظة ضرورية."
+        },
+        {
+          "id": "99:8:perfect-symmetry",
+          "title": "Perfect Symmetry",
+          "icon": "equal.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Verse 7 and 8 are perfectly parallel - the same structure for good and evil shows divine justice weighs both with identical precision, neither inflating punishment nor diminishing reward.",
+          "whyItMatters": "This symmetry assures us of Allah's perfect fairness. He doesn't overlook our good while magnifying our bad, nor ignore our sins while counting our virtues. The scale is perfectly balanced.",
+          "position": "topRight",
+          "arabicHighlight": "مِثْقَالَ ذَرَّةٍۢ",
+          "title_urdu": "کامل توازن",
+          "coreInsight_urdu": "آیت 7 اور 8 بالکل متوازی ہیں - نیکی اور برائی کے لیے ایک ہی ڈھانچہ الہی انصاف کو دکھاتا ہے جو دونوں کو ایک جیسی درستگی سے تولتا ہے، نہ سزا کو بڑھاتا ہے نہ انعام کو کم کرتا ہے۔",
+          "whyItMatters_urdu": "یہ توازن ہمیں اللہ کی کامل انصاف پسندی کا یقین دلاتا ہے۔ وہ ہماری نیکیوں کو نظرانداز نہیں کرتا جبکہ ہماری برائیوں کو بڑھاتا ہے، نہ ہمارے گناہوں کو نظرانداز کرتا ہے جبکہ ہماری نیکیوں کو شمار کرتا ہے۔ ترازو بالکل متوازن ہے۔",
+          "title_ar": "التماثل المثالي",
+          "coreInsight_ar": "الآيتان 7 و8 متوازيتان تمامًا - نفس البنية للخير والشر تظهر العدالة الإلهية توزن كليهما بنفس الدقة، لا تضخم العقاب ولا تقلل المكافأة.",
+          "whyItMatters_ar": "يؤكد لنا هذا التماثل عدالة الله المثالية. لا يتجاهل خيرنا بينما يكبر شرنا، ولا يتجاهل ذنوبنا بينما يحصي فضائلنا. الميزان متوازن تمامًا."
+        },
+        {
+          "id": "99:8:immediate-consequences",
+          "title": "Immediate Consequences",
+          "icon": "bolt.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse doesn't say 'will be punished for it' but 'will see it' - even for evil, the emphasis is on witnessing, understanding, and acknowledging what we did before facing consequences.",
+          "whyItMatters": "Allah's justice includes making us fully aware of our wrongs before judgment. This isn't arbitrary punishment but informed accountability where we cannot claim ignorance of our sins.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَرَهُۥ",
+          "title_urdu": "فوری نتائج",
+          "coreInsight_urdu": "آیت نہیں کہتی 'اس کی سزا دی جائے گی' بلکہ 'دیکھے گا' - برائی کے لیے بھی، زور مشاہدے، سمجھنے، اور تسلیم کرنے پر ہے کہ ہم نے نتائج کا سامنا کرنے سے پہلے کیا کیا۔",
+          "whyItMatters_urdu": "اللہ کا انصاف ہمیں فیصلے سے پہلے اپنی غلطیوں سے مکمل طور پر آگاہ کرنا شامل ہے۔ یہ بے بنیاد سزا نہیں بلکہ باخبر جوابدہی ہے جہاں ہم اپنے گناہوں سے لاعلمی کا دعویٰ نہیں کر سکتے۔",
+          "title_ar": "العواقب الفورية",
+          "coreInsight_ar": "لا تقول الآية 'سيُعاقب عليه' بل 'سيراه' - حتى للشر، التركيز على الشهادة والفهم والإقرار بما فعلناه قبل مواجهة العواقب.",
+          "whyItMatters_ar": "تشمل عدالة الله جعلنا ندرك تمامًا أخطاءنا قبل الحكم. هذه ليست عقوبة تعسفية بل مساءلة مستنيرة حيث لا يمكننا الادعاء بجهل ذنوبنا."
+        },
+        {
+          "id": "99:8:closing-warning",
+          "title": "Closing Warning",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Ending the surah with evil's consequences serves as a powerful warning - the last word reminds us that negligence has eternal implications, making us mindful as we close the Quran.",
+          "whyItMatters": "This ending prevents complacency. We can't hear about the earthquake, resurrection, and judgment, then return to heedlessness. The final image keeps us accountable and conscious.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَمَن يَعْمَلْ",
+          "title_urdu": "آخری انتباہ",
+          "coreInsight_urdu": "سورت کو برائی کے نتائج کے ساتھ ختم کرنا ایک طاقتور انتباہ کے طور پر کام کرتا ہے - آخری لفظ ہمیں یاد دلاتا ہے کہ غفلت کے ابدی مضمرات ہیں، ہمیں ہوشیار رکھتا ہے جیسے ہم قرآن بند کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ اختتام اطمینان کو روکتا ہے۔ ہم زلزلے، قیامت، اور فیصلے کے بارے میں سن کر پھر غفلت کی طرف واپس نہیں جا سکتے۔ حتمی تصویر ہمیں جوابدہ اور ہوش میں رکھتی ہے۔",
+          "title_ar": "التحذير الختامي",
+          "coreInsight_ar": "ينتهي السورة بعواقب الشر كتحذير قوي - الكلمة الأخيرة تذكرنا أن الإهمال له آثار أبدية، مما يجعلنا يقظين عند إغلاق القرآن.",
+          "whyItMatters_ar": "تمنع هذه النهاية الرضا عن النفس. لا يمكننا سماع عن الزلزال والبعث والحكم، ثم العودة إلى الغفلة. الصورة النهائية تبقينا مسؤولين وواعين."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously affirm that this verse, paired with verse seven, establishes the comprehensive and precise nature of divine justice. Ibn Kathir explains that these two verses together encompass all human deeds, leaving nothing unaccounted for, and serve as ultimate motivation for righteousness and deterrent against evil. Tabari narrates that the Prophet Muhammad called these verses among the most weighty in the Quran despite their brevity. Qurtubi emphasizes that they demolish any notion of sins being too small to matter or good deeds being too insignificant to count. Shia exegetes like Tabatabai similarly stress the perfection of divine accounting that encompasses everything from the smallest to the greatest deed. Both traditions cite supporting verses about Allah's knowledge encompassing all things and His justice wronging no one. Razi explores philosophical questions about how abstract deeds take perceivable form to be 'seen' on Judgment Day, a topic also addressed in Shia kalam with various scholarly theories. A shared emphasis across both schools is the practical implication: believers should practice constant vigilance over their actions and regular repentance for wrongs, while maintaining hope in divine mercy for those who sincerely seek forgiveness. The complementary nature of these verses, balancing hope and fear, represents a universal Quranic methodology transcending sectarian boundaries and speaking to the fundamental human need for both motivation toward good and deterrence from evil.",
+    "layer4_urdu": "شیعہ اور سنی علماء متفقہ طور پر تصدیق کرتے ہیں کہ یہ آیت، ساتویں آیت کے ساتھ جوڑا بنا کر، الٰہی انصاف کی جامع اور درست نوعیت کو قائم کرتی ہے۔ ابن کثیر وضاحت کرتے ہیں کہ یہ دو آیتیں اکٹھی تمام انسانی اعمال کو شامل کرتی ہیں، کچھ بھی بغیر حساب نہیں چھوڑتیں، اور نیکی کے لیے حتمی ترغیب اور برائی سے روکنے والی قوت کے طور پر کام کرتی ہیں۔ طبری روایت کرتے ہیں کہ نبی محمد نے ان آیات کو ان کی مختصریت کے باوجود قرآن میں سب سے زیادہ وزنی میں سے کہا۔ قرطبی زور دیتے ہیں کہ یہ گناہوں کے بہت چھوٹے ہونے یا نیک اعمال کے بہت غیر اہم ہونے کے کسی بھی تصور کو ختم کرتی ہیں۔ شیعہ مفسرین جیسے طباطبائی اسی طرح الٰہی حساب کی کاملیت پر زور دیتے ہیں جو سب سے چھوٹے سے لے کر سب سے بڑے عمل تک ہر چیز کو شامل کرتی ہے۔ دونوں روایات اللہ کے علم کی ہر چیز کو شامل کرنے اور اس کے انصاف کے کسی پر ظلم نہ کرنے کے بارے میں معاون آیات نقل کرتی ہیں۔ رازی فلسفیانہ سوالات تلاش کرتے ہیں کہ کیسے تجریدی اعمال قیامت کے دن \"دیکھے\" جانے کے لیے قابل مشاہدہ شکل اختیار کرتے ہیں، ایک موضوع جو شیعہ کلام میں بھی مختلف علمی نظریات کے ساتھ다루ا جاتا ہے۔ دونوں مکاتب میں مشترکہ زور عملی مفہوم ہے: مومنین کو اپنے اعمال پر مستقل چوکسی اور غلطیوں کے لیے باقاعدہ توبہ کرنی چاہیے، جبکہ ان لوگوں کے لیے الٰہی رحمت میں امید برقرار رکھنی چاہیے جو مخلصانہ طور پر معافی مانگتے ہیں۔ ان آیات کی تکمیلی نوعیت، امید اور خوف کو متوازن کرتے ہوئے، ایک آفاقی قرآنی طریقہ کار کی نمائندگی کرتی ہے جو فرقہ وارانہ حدود سے بالاتر ہے اور بنیادی انسانی ضرورت سے بات کرتی ہے کہ نیکی کی طرف ترغیب اور برائی سے روکنے کے لیے۔",
+    "layer4_ar": "يُجمع علماء الشيعة والسنة على القول بأن هذه الآية مقرونةً بالآية السابقة تُرسي الطابع الشامل الدقيق للعدل الإلهي. فابن كثير يُوضِّح أن هاتين الآيتين معاً تستوعبان جميع الأعمال البشرية دون استثناء وتُمثِّلان الحافز الأعظم على الصلاح والزاجر الأقوى عن الفساد. ويروي الطبري أن النبي صلى الله عليه وسلم وصف هاتين الآيتين بأنهما من أثقل آيات القرآن وزناً رغم إيجازهما. ويُؤكِّد القرطبي أنهما تُسقطان كل زعم بأن ذنباً صغير لا يؤبه له أو أن حسنة صغيرة لا يُحتفى بها. ومفسرو الشيعة كالطباطبائي يُشددون بالقدر ذاته على كمال الحساب الإلهي المستوعب لكل شيء من أصغر الأعمال إلى أجلِّها. ويستشهد كلا التراثين بآيات داعمة في شأن إحاطة علم الله بكل شيء وعدم ظلمه لأحد. ويستكشف الرازي أسئلة فلسفية حول كيفية تجلي الأعمال المجردة بصورة قابلة للرؤية يوم القيامة، وهو موضوع يتناوله الكلام الشيعي أيضاً بنظريات علمية متعددة. وتبرز في كلا المدرستين خلاصة عملية مشتركة: ينبغي للمؤمنين ممارسة اليقظة المستمرة على أعمالهم والتوبة المنتظمة من الذنوب مع الحفاظ على الأمل بالرحمة الإلهية لمن يستغفر مخلصاً. وطبيعة هاتين الآيتين المتكاملتين التي توازن بين الأمل والخوف تُمثِّل منهجاً قرآنياً كونياً يتجاوز الحدود المذهبية ويُجيب عن الحاجة الإنسانية المشتركة إلى الدافع نحو الخير والزاجر عن الشر."
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:1:universal-tasbih",
+          "title": "Universal Glorification",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "All creation in the heavens and earth glorifies Allah - this is not limited to conscious worship but includes the inherent submission of every atom and star to Divine order.",
+          "whyItMatters": "Recognizing that all of nature worships Allah inspires humility and ethical stewardship of the earth, reminding us that we are participants in creation's grand symphony of praise.",
+          "position": "topLeft",
+          "arabicHighlight": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "کائنات کی تسبیح",
+          "coreInsight_urdu": "آسمانوں اور زمین میں موجود ہر چیز اللہ کی تسبیح کرتی ہے - یہ صرف شعوری عبادت تک محدود نہیں بلکہ ہر ذرے اور ستارے کی الٰہی نظام کے سامنے فطری تسلیم شامل ہے۔",
+          "whyItMatters_urdu": "یہ تسلیم کرنا کہ تمام فطرت اللہ کی عبادت کرتی ہے، عاجزی اور زمین کی اخلاقی دیکھ بھال کی ترغیب دیتا ہے۔",
+          "title_ar": "التسبيح الكوني",
+          "coreInsight_ar": "كل ما في السماوات والأرض يسبح الله - وهذا لا يقتصر على العبادة الواعية بل يشمل الخضوع الفطري لكل ذرة ونجم للنظام الإلهي.",
+          "whyItMatters_ar": "إدراك أن كل الطبيعة تعبد الله يلهم التواضع والرعاية الأخلاقية للأرض."
+        },
+        {
+          "id": "62:1:divine-sovereignty",
+          "title": "Divine Sovereignty",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is described as Al-Malik (The Sovereign), Al-Quddus (The Pure), Al-Aziz (The Almighty), and Al-Hakeem (The Wise) - affirming His transcendence beyond all human limitations.",
+          "whyItMatters": "Understanding these divine attributes helps us trust Allah's wisdom during hardship and take responsibility during prosperity, seeing ourselves not as controllers but as humble servants.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+          "title_urdu": "الٰہی بادشاہت",
+          "coreInsight_urdu": "اللہ کو الملک (بادشاہ)، القدوس (پاک)، العزیز (غالب) اور الحکیم (حکمت والا) کہا گیا ہے - جو انسانی حدود سے بالاتر اس کی تصدیق کرتا ہے۔",
+          "whyItMatters_urdu": "ان الٰہی صفات کو سمجھنا مشکلات میں اللہ کی حکمت پر بھروسہ کرنے اور خوشحالی میں ذمہ داری لینے میں مدد کرتا ہے۔",
+          "title_ar": "السيادة الإلهية",
+          "coreInsight_ar": "وصف الله بأنه الملك والقدوس والعزيز والحكيم - مما يؤكد تعاليه عن كل القيود البشرية.",
+          "whyItMatters_ar": "فهم هذه الصفات الإلهية يساعدنا على الثقة بحكمة الله في الشدائد وتحمل المسؤولية في الرخاء."
+        },
+        {
+          "id": "62:1:cosmic-purpose",
+          "title": "Cosmic Purpose",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Creation's glorification of Allah reveals that every element of existence has an interconnected purpose - serving as mirrors reflecting Divine majesty.",
+          "whyItMatters": "This cosmic perspective transforms how we view our role in the world, inspiring us to see our lives as part of a grand divine design rather than isolated individual pursuits.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "کائناتی مقصد",
+          "coreInsight_urdu": "اللہ کی تسبیح میں کائنات کا ہر عنصر باہم مربوط مقصد رکھتا ہے - الٰہی عظمت کی عکاسی کرنے والے آئینے کے طور پر خدمت کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ کائناتی نقطہ نظر ہمارے دنیا میں کردار کو تبدیل کرتا ہے، ہماری زندگیوں کو الٰہی منصوبے کا حصہ دیکھنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الهدف الكوني",
+          "coreInsight_ar": "يكشف تسبيح الخلق لله أن لكل عنصر من عناصر الوجود غرضاً مترابطاً - كمرايا تعكس الجلال الإلهي.",
+          "whyItMatters_ar": "هذا المنظور الكوني يحول نظرتنا لدورنا في العالم، ملهماً إيانا لرؤية حياتنا كجزء من تصميم إلهي عظيم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes divine transcendence and universal worship as foundational truths. Tafsir al-Jalalayn and Tafsir Ibn Kathir, from the Sunni tradition, similarly explain that all creation glorifies Allah either through its state of existence or through conscious worship. The four divine attributes mentioned are universally acknowledged across Islamic schools. However, interpretive differences emerge in application: Sunni scholars often emphasize these attributes in the context of accepting divine decree passively, while Shia scholars like Tabatabai connect them to active engagement with divine guidance through the Imams. Fakhr al-Din al-Razi's Mafatih al-Ghayb provides extensive philosophical analysis of each attribute, paralleling the approach in Al-Mizan. Both traditions agree that 'yusabbihu' indicates continuous present action, refuting the claim that creation once glorified but no longer does. A significant convergence exists on the metaphysical reality of non-human glorification - it is real, not merely figurative. The scholarly consensus across both schools is that this verse teaches humility before divine majesty and the integration of worship into cosmic harmony, though Shia thought particularly emphasizes this through the lens of Wilayah and the Imamate's role in guiding humanity to proper glorification.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء متفق ہیں کہ یہ آیت الہٰی تعالی اور عام عبادت کو بنیادی حقائق کے طور پر قائم کرتی ہے۔ تفسیر جلالین اور تفسیر ابن کثیر، سنی روایت سے، یکساں طریقے سے بیان کرتے ہیں کہ تمام مخلوقات اپنی موجودگی کی حالت یا شعور سے اللہ کی تسبیح کرتی ہیں۔ یہاں مذکور چار الہٰی صفات تمام اسلامی مکاتب فکر میں معترف ہیں۔ تاہم، تطبیق میں تشریحی فرق ابھرتے ہیں: سنی علماء اکثر ان صفات کو الہٰی مشیت کو غیر فعال طریقے سے قبول کرنے کے تناظر میں دیکھتے ہیں، جبکہ طباطبائی جیسے شیعہ علماء انہیں امام کے ذریعے الہٰی ہدایت کے ساتھ فعال رشتے سے جوڑتے ہیں۔ فخر الدین رازی کی مفاتیح الغیب ہر صفت کا بیسی فلسفیانہ تجزیہ فراہم کرتی ہے، ال‌میزان کے طریقہ کار سے موازی۔ دونوں روایتیں متفق ہیں کہ 'یسبح' مسلسل حاضر کی حرکت کو ظاہر کرتا ہے، اس دعویٰ کو مسترد کرتے ہوئے کہ مخلوقات پہلے تسبیح کرتی تھی لیکن اب نہیں۔ غیر انسانی تسبیح کی میٹافیزیکی حقیقت پر دونوں میں مکمل اتفاق ہے - یہ حقیقی ہے، محض تشبیہ نہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُرسي التنزيه الإلهي والعبادة الكونية الشاملة بوصفهما حقيقتين راسختين. وتفسير الجلالين وتفسير ابن كثير يُفسِّران تسبيح المخلوقات تفسيراً مماثلاً، سواء بلسان الوجود أو بلسان العبادة الواعية. والأسماء الأربعة المذكورة محلُّ إجماع عقدي بين المذاهب. غير أن الفوارق التفسيرية تبرز في التطبيق: إذ يُركِّز علماء السنة كثيراً على هذه الصفات في سياق الرضا بالقدر والتسليم به، في حين يربطها علماء الشيعة كالطباطبائي بالانخراط الإيجابي مع الهداية الإلهية عبر الأئمة. ويقدِّم فخر الدين الرازي في مفاتيح الغيب تحليلاً فلسفياً مُستفيضاً لكل صفة، يتوازى في منهجه مع نظير له في الميزان. ويتفق الفريقان على أن صيغة المضارع \"يُسبِّح\" تُشير إلى فعل مستمر في الحاضر، فلا يصحُّ القول إن التسبيح كان ثم انقطع. وثمة توافق جوهري بين المدرستين على أن تسبيح غير البشر حقيقي لا مجازي. والإجماع العلمي عبر المذاهب يُقرِّر أن الآية تدعو إلى التواضع أمام الجلال الإلهي والاندماج في الانسجام الكوني، وإن كان الفكر الشيعي يُبرز هذا البُعد بوجه خاص من خلال منظور الولاية ودور الإمامة في توجيه الإنسان نحو التسبيح الحق."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:2:prophetic-mission",
+          "title": "Prophetic Mission",
+          "icon": "book.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah sent a messenger from among the unlettered Arabs - someone from their own community who could relate to their struggles and speak their language.",
+          "whyItMatters": "The Prophet Muhammad's humble origins prove that divine guidance is not exclusive to elites - it comes through relatable human vessels who understand their people's reality.",
+          "position": "topLeft",
+          "arabicHighlight": "بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًۭا مِّنْهُمْ",
+          "title_urdu": "نبوی مشن",
+          "coreInsight_urdu": "اللہ نے ان پڑھ عربوں میں سے ایک رسول بھیجا - ان کی اپنی برادری سے جو ان کی جدوجہد سے واقف تھا اور ان کی زبان بولتا تھا۔",
+          "whyItMatters_urdu": "نبی محمد کی عاجزانہ ابتدا ثابت کرتی ہے کہ الٰہی رہنمائی اشرافیہ تک محدود نہیں - یہ قابل فہم انسانی ذرائع سے آتی ہے۔",
+          "title_ar": "الرسالة النبوية",
+          "coreInsight_ar": "أرسل الله رسولاً من بين الأميين العرب - شخص من مجتمعهم يمكنه التعاطف مع صراعاتهم ويتحدث لغتهم.",
+          "whyItMatters_ar": "أصول النبي محمد المتواضعة تثبت أن الهداية الإلهية ليست حكراً على النخبة - بل تأتي عبر وسائل بشرية قابلة للفهم."
+        },
+        {
+          "id": "62:2:threefold-purpose",
+          "title": "Threefold Purpose",
+          "icon": "star.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Prophet's mission has three dimensions: reciting divine verses (teaching), purifying souls (spiritual refinement), and imparting wisdom (practical guidance).",
+          "whyItMatters": "True transformation requires all three elements - knowledge without purification breeds arrogance, while spirituality without wisdom becomes impractical mysticism.",
+          "position": "topRight",
+          "arabicHighlight": "يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ",
+          "title_urdu": "تین گونہ مقصد",
+          "coreInsight_urdu": "نبی کے مشن کی تین جہتیں ہیں: الٰہی آیات کی تلاوت (تعلیم)، نفسوں کی تزکیہ (روحانی تطہیر)، اور حکمت کی تعلیم (عملی رہنمائی)۔",
+          "whyItMatters_urdu": "حقیقی تبدیلی تینوں عناصر کی ضرورت ہوتی ہے - تزکیہ کے بغیر علم تکبر پیدا کرتا ہے، جبکہ حکمت کے بغیر روحانیت غیر عملی تصوف بن جاتی ہے۔",
+          "title_ar": "الهدف الثلاثي",
+          "coreInsight_ar": "رسالة النبي لها ثلاثة أبعاد: تلاوة الآيات الإلهية (التعليم)، وتزكية النفوس (التطهير الروحي)، ونقل الحكمة (التوجيه العملي).",
+          "whyItMatters_ar": "التحول الحقيقي يتطلب العناصر الثلاثة - المعرفة دون تزكية تولد الغطرسة، بينما الروحانية دون حكمة تصبح تصوفاً غير عملي."
+        },
+        {
+          "id": "62:2:transformation",
+          "title": "Clear Misguidance",
+          "icon": "arrow.forward",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Before the Prophet's arrival, the Arabs were in 'clear misguidance' - emphasizing the transformative power of divine guidance to rescue people from spiritual darkness.",
+          "whyItMatters": "This reminds us that no matter how lost we feel, Allah's guidance can illuminate our path and transform our lives from confusion to clarity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍۢ",
+          "title_urdu": "واضح گمراہی",
+          "coreInsight_urdu": "نبی کی آمد سے پہلے عرب 'واضح گمراہی' میں تھے - جو الٰہی رہنمائی کی تبدیلی کی طاقت پر زور دیتا ہے جو لوگوں کو روحانی تاریکی سے بچاتی ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ چاہے ہم کتنے ہی گمراہ محسوس کریں، اللہ کی رہنمائی ہمارے راستے کو روشن کر سکتی ہے۔",
+          "title_ar": "الضلال المبين",
+          "coreInsight_ar": "قبل مجيء النبي، كان العرب في 'ضلال مبين' - مما يؤكد القوة التحويلية للهداية الإلهية لإنقاذ الناس من الظلام الروحي.",
+          "whyItMatters_ar": "هذا يذكرنا بأنه مهما شعرنا بالضياع، فإن هداية الله يمكن أن تنير طريقنا وتحول حياتنا من الحيرة إلى الوضوح."
+        },
+        {
+          "id": "62:2:relatable-guidance",
+          "title": "Relatable Guidance",
+          "icon": "person.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "By sending a messenger 'from themselves,' Allah established that divine guidance must be accessible and relatable to its recipients.",
+          "whyItMatters": "Religious teachers and leaders today should follow this model - connecting with people's lived experiences rather than creating artificial distance through elitism.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَسُولًۭا مِّنْهُمْ",
+          "title_urdu": "قابل فہم رہنمائی",
+          "coreInsight_urdu": "'ان میں سے' رسول بھیج کر، اللہ نے قائم کیا کہ الٰہی رہنمائی اس کے وصول کنندگان کے لیے قابل رسائی اور قابل فہم ہونی چاہیے۔",
+          "whyItMatters_urdu": "آج کے مذہبی اساتذہ اور رہنماؤں کو اس نمونے کی پیروی کرنی چاہیے - اشرافیت کے ذریعے مصنوعی فاصلہ بنانے کے بجائے لوگوں کے تجربات سے جڑنا۔",
+          "title_ar": "الإرشاد القابل للفهم",
+          "coreInsight_ar": "بإرسال رسول 'منهم'، أسس الله أن الهداية الإلهية يجب أن تكون متاحة وقابلة للفهم لمتلقيها.",
+          "whyItMatters_ar": "يجب على المعلمين والقادة الدينيين اليوم اتباع هذا النموذج - الاتصال بتجارب الناس المعاشة بدلاً من خلق مسافة اصطناعية عبر النخبوية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree on this verse's description of the Prophet's mission and the Arabs' pre-Islamic state. Tafsir al-Tabari and Ibn Kathir confirm that 'ummiyeen' refers to Arabs who had no previous scripture, and that the Prophet's threefold mission of recitation, purification, and teaching is foundational. Qurtubi's tafsir similarly emphasizes the educational revolution the Prophet brought. The main interpretive difference concerns 'wisdom' - Sunni scholars generally interpret it as Sunnah and prophetic hadith, while Shia scholars emphasize the Ahlul Bayt's teachings as the living embodiment and authentic interpretation of this wisdom. Fakhr al-Razi discusses the sequence of recitation-purification-teaching extensively, reaching similar conclusions as Tabatabai about the pedagogical wisdom. Both traditions acknowledge that 'from themselves' emphasizes the Prophet's relatability and the Arabic language's role in Islamic civilization. Sunni scholarship tends to focus on the Prophet's individual achievement, while Shia thought emphasizes the continuation of this mission through his designated successors. There is complete consensus that the transformation from pre-Islamic ignorance to Islamic enlightenment represents one of history's greatest societal changes, achieved through divine guidance and the Prophet's character. Both traditions use this verse to emphasize comprehensive Islamic education that unites knowledge with spirituality, refuting purely intellectual or purely mystical approaches to faith. The verse serves across all schools as proof of the Prophet's unmatched status and the Quran's transformative power.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتیں اس آیت میں نبی کے مشن اور اعرابوں کی جاہلیت کی حالت پر متفق ہیں۔ تفسیر طبری اور ابن کثیر تصدیق کرتے ہیں کہ 'امیین' ان اعرابوں کو ظاہر کرتا ہے جن کے پاس اسلام سے پہلے کوئی کتاب نہیں تھی، اور نبی کے تین گنا مشن بنیادی ہے۔ قرطبی کی تفسیر یکساں طریقے سے تعلیمی انقلاب پر زور دیتی ہے۔ اہم فرق 'حکمت' میں ہے - سنی علماء عام طور پر اسے سنت اور نبوی حدیث کے طور پر سمجھتے ہیں، جبکہ شیعہ علماء اہل بیت کی تعلیمات کو اس حکمت کے زندہ جسم اور اصل تشریح کے طور پر دیکھتے ہیں۔ فخر الدین رازی تلاوت، تطہیر، اور تعلیم کی ترتیب پر تفصیل سے بحث کرتے ہیں، طباطبائی سے ملتے جلتے نتائج تک پہنچتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة بلا خلاف على وصف الآية لرسالة النبي وحال العرب قبل الإسلام. فتفسير الطبري وابن كثير يُؤكِّدان أن \"الأميين\" هم العرب الذين لم يكن عندهم كتاب منزَّل، وأن الرسالة الثلاثية من التلاوة والتزكية والتعليم ركن أساسي في التراث التفسيري الإسلامي. وتفسير القرطبي يُبرز الثورة التعليمية التي أحدثها النبي بالقدر ذاته. أما الفارق التفسيري الجوهري فيكمن في \"الحكمة\"؛ إذ يُفسِّرها علماء السنة عموماً بالسنة النبوية والحديث الشريف، في حين يُؤكِّد علماء الشيعة أن تعاليم أهل البيت هي التجسيد الحي والتأويل الأصيل لهذه الحكمة. وتفسير فخر الرازي يُفصِّل الحديث عن تسلسل التلاوة والتزكية والتعليم ويصل إلى نتائج مقاربة لما ذهب إليه الطباطبائي في الميزان. ويتفق الفريقان على أن \"مِنهم\" دليل على انتماء النبي لقومه وأهمية اللغة العربية في الحضارة الإسلامية. ويُميل علماء السنة إلى الإبراز الفردي لإنجاز النبي، بينما يُشدِّد الفكر الشيعي على استمرار هذه الرسالة في خلفائه المنتخبين. وثمة إجماع تام على أن التحول من جاهلية الجزيرة إلى حضارة الإسلام يُعدُّ من أعظم التحولات الإنسانية في التاريخ، حقَّقه التوجيه الإلهي وشخصية النبي العظيم."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:3:universal-message",
+          "title": "Universal Message",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The Prophet's message extends to 'others who have not yet joined them' - indicating Islam's universal scope beyond the initial Arabian recipients.",
+          "whyItMatters": "This verse establishes Islam as a timeless, borderless faith meant for all humanity across cultures and generations, not limited to seventh-century Arabia.",
+          "position": "topLeft",
+          "arabicHighlight": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ",
+          "title_urdu": "عالمگیر پیغام",
+          "coreInsight_urdu": "نبی کا پیغام 'دوسروں تک جو ابھی ان سے نہیں ملے' پھیلتا ہے - جو ابتدائی عربی وصول کنندگان سے آگے اسلام کی عالمگیر وسعت کی نشاندہی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت اسلام کو ایک لازمانی، بلا سرحد عقیدہ کے طور پر قائم کرتی ہے جو تمام انسانیت کے لیے ہے، ساتویں صدی کے عرب تک محدود نہیں۔",
+          "title_ar": "الرسالة العالمية",
+          "coreInsight_ar": "رسالة النبي تمتد إلى 'آخرين لم يلحقوا بهم' - مما يشير إلى النطاق العالمي للإسلام خارج المتلقين العرب الأوائل.",
+          "whyItMatters_ar": "هذه الآية تؤسس الإسلام كعقيدة خالدة وعابرة للحدود موجهة لكل البشرية عبر الثقافات والأجيال، وليس محدودة بالعرب في القرن السابع."
+        },
+        {
+          "id": "62:3:divine-wisdom",
+          "title": "Divine Wisdom",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is Al-Aziz (The Almighty) and Al-Hakeem (The Wise) - combining power with wisdom in spreading His message across time and space.",
+          "whyItMatters": "Allah's method of gradual revelation shows that wisdom often requires patience and strategic timing, not just raw power to force immediate change.",
+          "position": "topRight",
+          "arabicHighlight": "وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          "title_urdu": "الٰہی حکمت",
+          "coreInsight_urdu": "اللہ العزیز (غالب) اور الحکیم (حکمت والا) ہے - اپنے پیغام کو وقت اور مقام میں پھیلانے میں طاقت اور حکمت کو ملاتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ کے بتدریج وحی کا طریقہ دکھاتا ہے کہ حکمت اکثر صبر اور اسٹریٹجک وقت کی ضرورت ہوتی ہے، نہ کہ فوری تبدیلی پر مجبور کرنے کی خام طاقت۔",
+          "title_ar": "الحكمة الإلهية",
+          "coreInsight_ar": "الله هو العزيز والحكيم - يجمع بين القوة والحكمة في نشر رسالته عبر الزمان والمكان.",
+          "whyItMatters_ar": "طريقة الله في الوحي التدريجي تظهر أن الحكمة غالباً تتطلب الصبر والتوقيت الاستراتيجي، وليس فقط القوة الخام لفرض التغيير الفوري."
+        },
+        {
+          "id": "62:3:future-generations",
+          "title": "Future Generations",
+          "icon": "arrow.forward",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'who have not yet joined them' refers to future Muslims - including converts, later generations, and those in distant lands.",
+          "whyItMatters": "Every Muslim today is among those 'others' mentioned in this verse, creating a direct spiritual connection to the Prophet's original mission.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَمَّا يَلْحَقُوا۟ بِهِمْ",
+          "title_urdu": "آنے والی نسلیں",
+          "coreInsight_urdu": "'جو ابھی ان سے نہیں ملے' کا جملہ مستقبل کے مسلمانوں سے مراد ہے - بشمول تبدیل مذہب کرنے والے، بعد کی نسلیں، اور دور دراز علاقوں میں رہنے والے۔",
+          "whyItMatters_urdu": "آج کا ہر مسلمان ان 'دوسروں' میں سے ہے جن کا اس آیت میں ذکر ہے، جو نبی کے اصل مشن سے براہ راست روحانی تعلق پیدا کرتا ہے۔",
+          "title_ar": "الأجيال القادمة",
+          "coreInsight_ar": "عبارة 'لما يلحقوا بهم' تشير إلى المسلمين المستقبليين - بما في ذلك المتحولين والأجيال اللاحقة وأولئك في الأراضي البعيدة.",
+          "whyItMatters_ar": "كل مسلم اليوم هو من بين 'الآخرين' المذكورين في هذه الآية، مما يخلق اتصالاً روحياً مباشراً برسالة النبي الأصلية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions record the hadith about Salman al-Farsi, with slight variations in wording but identical meaning. Tafsir al-Tabari, Ibn Kathir, and Bukhari's Sahih all include this narration, confirming that the verse refers to non-Arabs, particularly Persians, who would embrace Islam. There is universal scholarly agreement that the verse establishes Islam's universal mission beyond Arab tribes. However, emphases differ: Sunni tafsirs often focus on the geographical spread of Islam through conquests, while Shia tafsirs emphasize the spiritual universality and the guidance of Ahlul Bayt available to all generations. Qurtubi and Razi both discuss future generations being included, agreeing with Tabatabai's interpretation. The scholarly consensus across schools is that 'not yet joined' includes both the Prophet's contemporaries who had not yet converted and all future Muslims until the Day of Judgment. Both traditions use this verse to combat racism and ethnocentrism in Muslim communities. A minor difference is that Shia scholars particularly emphasize Salman's status as exemplar of non-Arab excellence and his close relationship with Ahlul Bayt, while Sunni sources focus more on his companionship with the Prophet. Nevertheless, both schools celebrate Salman as proof of Islam's meritocratic spirituality. This verse serves as common ground for promoting Islamic unity across ethnic and national divisions, reminding all Muslims that we are united in receiving the same message from the same Prophet through the same divine wisdom and might.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتیں سلمان الفارسی کے متعلق حدیث کو لفظوں میں معمولی اختلاف کے ساتھ ریکارڈ کرتی ہیں لیکن ایک جیسے معنی میں۔ تفسیر طبری، ابن کثیر، اور بخاری کی صحیح سب یہ روایت شامل کرتے ہیں، تصدیق کرتے ہوئے کہ آیت غیر اعرابوں، خاص طور پر فارسیوں سے متعلق ہے جو اسلام لائے۔ تمام علمی روایتیں متفق ہیں کہ آیت عرب قبائل سے ماورا اسلام کے عالمی مشن کو قائم کرتی ہے۔ البتہ تاکید مختلف ہے: سنی تفسیریں اکثر جغرافیائی طور پر فتوحات کے ذریعے اسلام کی پھیلاؤ پر توجہ کرتی ہیں، جبکہ شیعہ تفسیریں روحانی عالمگیری اور تمام نسلوں کے لیے اہل بیت کی ہدایت پر زور دیتی ہیں۔ قرطبی اور رازی دونوں مستقبل کی نسلوں کو شامل کرنے پر بحث کرتے ہیں۔",
+    "layer4_ar": "تُورد كلٌّ من التفاسير الشيعية والسنية حديث سلمان الفارسي بألفاظ متقاربة ومعنى واحد. وتفسير الطبري وابن كثير وصحيح البخاري يتضمن هذه الرواية، مُؤكِّدةً أن الآية تشير إلى غير العرب ولا سيما الفرس. وثمة إجماع علمي تام على أن الآية تُقرِّر الكونية الإسلامية التي تتجاوز القبائل العربية. غير أن التركيزات تتباين: إذ تُعنى تفاسير السنة كثيراً بانتشار الإسلام الجغرافي عبر الفتوح، في حين تُركِّز تفاسير الشيعة على الكونية الروحية وهداية أهل البيت المتاحة لكل الأجيال. والقرطبي والرازي كلاهما يتناولان شمول الآية للأجيال القادمة، وهو ما يتوافق مع تفسير الطباطبائي. والإجماع العلمي في كلا المدرستين أن \"لمَّا يلحقوا بهم\" يشمل معاصري النبي الذين لم يسلموا بعد وجميع المسلمين حتى يوم القيامة. وكلا التراثين يستشهد بهذه الآية في مواجهة العنصرية وضيق الأفق القومي في المجتمعات الإسلامية. والفارق الدقيق أن الشيعة يُبرزون مكانة سلمان رمزاً للتفوق في غير العرب وصلته بأهل البيت، بينما تُركِّز المصادر السنية على صحبته للنبي. وكلا الفريقين يحتفي بسلمان دليلاً على الجدارة الروحية في الإسلام. وتُشكِّل الآية أرضية مشتركة للتعبير عن الوحدة الإسلامية فوق الحواجز العرقية والوطنية."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:4:divine-bounty",
+          "title": "Divine Bounty",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Receiving divine guidance is described as 'fadl Allah' (Allah's bounty) - a gift freely given, not something earned through merit alone.",
+          "whyItMatters": "Understanding faith as divine grace rather than personal achievement fosters humility and gratitude, preventing spiritual arrogance.",
+          "position": "topLeft",
+          "arabicHighlight": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ",
+          "title_urdu": "الٰہی فضل",
+          "coreInsight_urdu": "الٰہی رہنمائی حاصل کرنا 'فضل اللہ' کے طور پر بیان کیا گیا ہے - ایک تحفہ جو آزادانہ طور پر دیا جاتا ہے، نہ کہ صرف قابلیت سے حاصل کیا جاتا ہے۔",
+          "whyItMatters_urdu": "ایمان کو الٰہی فضل کے طور پر سمجھنا ذاتی کامیابی کے بجائے عاجزی اور شکرگزاری کو فروغ دیتا ہے، روحانی تکبر کو روکتے ہوئے۔",
+          "title_ar": "الفضل الإلهي",
+          "coreInsight_ar": "يوصف تلقي الهداية الإلهية بـ 'فضل الله' - هدية تُعطى بحرية، وليست شيئاً يُكتسب بالجدارة وحدها.",
+          "whyItMatters_ar": "فهم الإيمان كنعمة إلهية بدلاً من الإنجاز الشخصي يعزز التواضع والامتنان، ويمنع الغطرسة الروحية."
+        },
+        {
+          "id": "62:4:divine-will",
+          "title": "Divine Will",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah gives His bounty 'to whom He wills' - affirming divine sovereignty in distributing guidance, while humans must actively seek and accept it.",
+          "whyItMatters": "This balance between divine will and human responsibility teaches us to strive earnestly for guidance while recognizing ultimate success comes from Allah.",
+          "position": "topRight",
+          "arabicHighlight": "يُؤْتِيهِ مَن يَشَآءُ",
+          "title_urdu": "الٰہی مشیت",
+          "coreInsight_urdu": "اللہ اپنا فضل 'جسے چاہتا ہے' دیتا ہے - رہنمائی کی تقسیم میں الٰہی بالادستی کی تصدیق کرتے ہوئے، جبکہ انسانوں کو فعال طور پر اسے تلاش اور قبول کرنا چاہیے۔",
+          "whyItMatters_urdu": "الٰہی مشیت اور انسانی ذمہ داری کے درمیان یہ توازن ہمیں سکھاتا ہے کہ رہنمائی کے لیے پوری کوشش کریں جبکہ حتمی کامیابی اللہ سے آتی ہے۔",
+          "title_ar": "الإرادة الإلهية",
+          "coreInsight_ar": "يعطي الله فضله 'لمن يشاء' - مما يؤكد السيادة الإلهية في توزيع الهداية، بينما يجب على البشر السعي وقبولها بنشاط.",
+          "whyItMatters_ar": "هذا التوازن بين الإرادة الإلهية والمسؤولية البشرية يعلمنا أن نسعى بجد للهداية مع الاعتراف بأن النجاح النهائي يأتي من الله."
+        },
+        {
+          "id": "62:4:great-bounty",
+          "title": "Great Bounty",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah is described as 'dhul-fadl al-azeem' (possessor of great bounty) - emphasizing His unlimited generosity and endless capacity to give.",
+          "whyItMatters": "Knowing Allah's bounty is limitless removes anxiety about scarcity and inspires confidence that there is enough divine blessing for everyone who seeks it.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+          "title_urdu": "عظیم فضل",
+          "coreInsight_urdu": "اللہ کو 'ذو الفضل العظیم' (عظیم فضل والا) کہا گیا ہے - جو ان کی لامحدود سخاوت اور دینے کی لامتناہی صلاحیت پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ اللہ کا فضل لامحدود ہے کمی کے بارے میں پریشانی کو دور کرتا ہے اور اعتماد دیتا ہے کہ ہر طالب کے لیے کافی الٰہی برکت ہے۔",
+          "title_ar": "الفضل العظيم",
+          "coreInsight_ar": "يوصف الله بأنه 'ذو الفضل العظيم' - مما يؤكد كرمه اللامحدود وقدرته اللانهائية على العطاء.",
+          "whyItMatters_ar": "معرفة أن فضل الله لا حدود له يزيل القلق بشأن الندرة ويلهم الثقة بأن هناك ما يكفي من البركة الإلهية لكل من يسعى إليها."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars universally agree that this verse establishes faith as divine bounty and grace, not purely human achievement. Tafsir al-Tabari and Ibn Kathir both explain that Allah's granting guidance to 'whom He wills' is based on His infinite knowledge and wisdom, not arbitrary selection. Fakhr al-Din al-Razi provides extensive theological discussion of divine will and human free will, reaching conclusions similar to Tabatabai - both operate harmoniously without contradiction. Qurtubi emphasizes gratitude as the proper response to this bounty, identical to the Shia scholarly position. The main theological difference is in emphasis: Sunni traditionalists sometimes stress predestination more strongly, while Shia scholars emphasize the harmony between divine will and human choice to avoid fatalism. However, mainstream scholarship in both traditions rejects pure predestination and pure free will, acknowledging a middle position. Al-Ghazali's discussions of divine grace parallel those in Al-Mizan regarding the primacy of Allah's bounty in guidance. Both schools use this verse to combat spiritual arrogance and promote gratitude. A minor difference is that Shia scholars particularly connect this bounty to recognition of Ahlul Bayt as part of complete guidance, while Sunni scholars focus on accepting the Quran and Sunnah. Nevertheless, the core message is shared: faith is Allah's gift, requiring gratitude and humility. This verse serves as common ground for both traditions to emphasize mercy, hope, and the accessibility of divine guidance to all sincere seekers, while maintaining that ultimate success comes through Allah's grace, not human effort alone.",
+    "layer4_urdu": "شیعہ اور سنی علماء یکساں طریقے سے اس بات پر متفق ہیں کہ یہ آیت ایمان کو الہٰی نعمت اور احسان کے طور پر قائم کرتی ہے، خالصتاً انسانی حصول نہیں۔ تفسیر طبری اور ابن کثیر دونوں بیان کرتے ہیں کہ اللہ جسے ہدایت چاہے اپنی لامحدود معرفت اور حکمت سے، نہ کہ من مانی انتخاب سے۔ فخر الدین رازی الہٰی مشیت اور انسانی آزاد رضاکاری پر وسیع الہی بحث فراہم کرتے ہیں، طباطبائی جیسے نتائج تک پہنچتے ہوئے۔ دونوں روایتیں شکر گزاری کو اس نعمت کے لیے صحیح جواب کے طور پر زور دیتی ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على أن هذه الآية تُقرِّر الإيمان فضلاً إلهياً لا مجرد حصيلة جهد إنساني. وتفسير الطبري وابن كثير يُبيِّنان أن إيتاء الله الهداية لمن يشاء مبنيٌّ على علمه اللامحدود وحكمته، لا على التحكم المجرد. وفخر الدين الرازي يُفرد تحليلاً عقدياً مستفيضاً للمشيئة الإلهية والاختيار الإنساني يصل إلى نتائج مقاربة لما يطرحه الطباطبائي، من أنهما يعملان بانسجام لا تعارض. والقرطبي يُؤكِّد الشكر استجابةً للفضل الإلهي وهو الموقف الشيعي ذاته. والفارق اللاهوتي الجوهري أن المتقدمين من الأشاعرة السنة يُثقِّلون الكفة أحياناً في ناحية الجبر، في حين يُعنى علماء الشيعة بإبراز توافق المشيئة الإلهية مع الاختيار البشري درءاً للجبرية. لكن السواد الأعظم من العلماء في كلا التقليدين يرفض الجبر المحض والاختيار المحض ويقف موقفاً وسطاً. ومناقشات الغزالي في الفضل الإلهي تتوازى مع ما في الميزان حول أسبقية فضل الله في الهداية. وكلا المدرستين يستشهد بهذه الآية لاستئصال الغرور الديني وترسيخ الشكر. والفارق الدقيق أن الشيعة يربطون الفضل بمعرفة أهل البيت كركن في الهداية الكاملة، في حين يُركِّز علماء السنة على قبول القرآن والسنة. بيد أن الجوهر مشترك: الإيمان فضل من الله يستدعي الشكر والتواضع، ويُبقي أبواب الرجاء مفتوحة لكل طالب مُخلص."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:5:wasted-knowledge",
+          "title": "Wasted Knowledge",
+          "icon": "book.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Those entrusted with Torah but who didn't act upon it are compared to a donkey carrying books - possessing scripture without understanding or implementing it.",
+          "whyItMatters": "This stark warning applies to all who study sacred texts without transforming their lives, reminding us that knowledge without action is spiritually worthless.",
+          "position": "topLeft",
+          "arabicHighlight": "حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا",
+          "title_urdu": "ضائع شدہ علم",
+          "coreInsight_urdu": "جن پر تورات کی ذمہ داری ڈالی گئی لیکن اس پر عمل نہیں کیا انہیں کتابیں اٹھانے والے گدھے سے تشبیہ دی گئی ہے - صحیفے کا مالک ہونا لیکن اسے سمجھنا یا عمل نہیں کرنا۔",
+          "whyItMatters_urdu": "یہ سخت انتباہ ان سب پر لاگو ہوتا ہے جو مقدس نصوص کا مطالعہ کرتے ہیں لیکن اپنی زندگیوں کو تبدیل نہیں کرتے، یاد دلاتے ہوئے کہ عمل کے بغیر علم روحانی طور پر بیکار ہے۔",
+          "title_ar": "المعرفة الضائعة",
+          "coreInsight_ar": "الذين حملوا التوراة لكنهم لم يعملوا بها يُشبهون بالحمار الذي يحمل الكتب - يمتلك الكتاب المقدس دون فهمه أو تطبيقه.",
+          "whyItMatters_ar": "هذا التحذير الصارم يطبق على كل من يدرس النصوص المقدسة دون تحويل حياتهم، مذكراً أن المعرفة بدون عمل لا قيمة روحية لها."
+        },
+        {
+          "id": "62:5:denying-signs",
+          "title": "Denying Signs",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who deny Allah's signs after receiving them face a 'wretched example' - showing that rejecting truth after knowing it is worse than ignorance.",
+          "whyItMatters": "This teaches accountability increases with knowledge - those who know better bear greater responsibility for their choices and face severer consequences for rejection.",
+          "position": "topRight",
+          "arabicHighlight": "بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ",
+          "title_urdu": "نشانیوں کا انکار",
+          "coreInsight_urdu": "جو اللہ کی نشانیاں حاصل کرنے کے بعد انکار کرتے ہیں وہ 'بری مثال' کا سامنا کرتے ہیں - ظاہر کرتے ہوئے کہ جاننے کے بعد حق کو رد کرنا جہالت سے بدتر ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ علم کے ساتھ جوابدہی بڑھتی ہے - جو بہتر جانتے ہیں وہ اپنے انتخاب کے لیے زیادہ ذمہ داری اٹھاتے ہیں اور انکار کے لیے سخت نتائج کا سامنا کرتے ہیں۔",
+          "title_ar": "إنكار الآيات",
+          "coreInsight_ar": "الذين ينكرون آيات الله بعد تلقيها يواجهون 'مثلاً بئيساً' - مما يظهر أن رفض الحق بعد معرفته أسوأ من الجهل.",
+          "whyItMatters_ar": "هذا يعلم أن المساءلة تزداد مع المعرفة - أولئك الذين يعرفون أفضل يتحملون مسؤولية أكبر عن خياراتهم ويواجهون عواقب أشد للرفض."
+        },
+        {
+          "id": "62:5:no-guidance",
+          "title": "No Guidance for Wrongdoers",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah does not guide those who wrong themselves by rejecting His signs - showing that persistent injustice creates spiritual blindness.",
+          "whyItMatters": "Continuous wrongdoing hardens the heart and blocks divine guidance, making repentance and course correction essential before reaching the point of no return.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+          "title_urdu": "ظالموں کے لیے ہدایت نہیں",
+          "coreInsight_urdu": "اللہ ان لوگوں کی رہنمائی نہیں کرتا جو اس کی نشانیوں کو رد کر کے اپنے اوپر ظلم کرتے ہیں - ظاہر کرتے ہوئے کہ مسلسل ظلم روحانی اندھا پن پیدا کرتا ہے۔",
+          "whyItMatters_urdu": "مسلسل برائی دل کو سخت کر دیتی ہے اور الٰہی رہنمائی کو روکتی ہے، لا واپسی کے نقطے تک پہنچنے سے پہلے توبہ اور اصلاح کو ضروری بناتے ہوئے۔",
+          "title_ar": "لا هداية للظالمين",
+          "coreInsight_ar": "لا يهدي الله الذين يظلمون أنفسهم برفض آياته - مما يظهر أن الظلم المستمر يخلق العمى الروحي.",
+          "whyItMatters_ar": "الإساءة المستمرة تقسي القلب وتحجب الهداية الإلهية، مما يجعل التوبة والتصحيح ضروريين قبل الوصول إلى نقطة اللاعودة."
+        },
+        {
+          "id": "62:5:burden-vs-practice",
+          "title": "Burden vs Practice",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verse distinguishes between being 'loaded with' (hummilu) scripture versus truly 'carrying' (yahmiluha) its teachings - mere possession versus internalization.",
+          "whyItMatters": "Religious knowledge must transform from external burden to internal conviction, moving from rote memorization to lived wisdom that shapes daily choices.",
+          "position": "bottomRight",
+          "arabicHighlight": "حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا",
+          "title_urdu": "بوجھ بمقابلہ عمل",
+          "coreInsight_urdu": "آیت 'لادا جانا' (حملوا) اور حقیقی طور پر اس کی تعلیمات کو 'اٹھانے' (یحملوہا) کے درمیان فرق کرتی ہے - محض ملکیت بمقابلہ اندرونی بنانا۔",
+          "whyItMatters_urdu": "مذہبی علم کو بیرونی بوجھ سے اندرونی یقین میں تبدیل ہونا چاہیے، رٹنے سے زندہ حکمت کی طرف منتقل ہوتے ہوئے جو روزمرہ انتخاب کو شکل دیتی ہے۔",
+          "title_ar": "العبء مقابل الممارسة",
+          "coreInsight_ar": "تميز الآية بين 'التحميل' (حملوا) للكتاب المقدس و 'الحمل' الحقيقي (يحملوها) لتعاليمه - الامتلاك المجرد مقابل التجسيد.",
+          "whyItMatters_ar": "يجب أن تتحول المعرفة الدينية من عبء خارجي إلى قناعة داخلية، من الحفظ الآلي إلى الحكمة المعاشة التي تشكل الخيارات اليومية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as a severe warning against having scripture without implementing it. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all explain it as criticism of Jewish scholars who knew the truth but rejected the Prophet Muhammad out of prejudice. The donkey metaphor appears in Sunni tafsirs with the same meaning as in Shia sources - knowledge without understanding or practice is worthless. Fakhr al-Din al-Razi discusses the verse's rhetorical brilliance and its warning to Muslims not to fall into similar error. Both traditions use this verse to emphasize that religious knowledge must lead to ethical transformation and practical obedience. The main difference is in application: Shia scholars particularly emphasize following Ahlul Bayt's interpretation as essential to truly 'carrying' the Quran properly, while Sunni scholars emphasize following the collective understanding of early generations and scholars. However, both agree on the core principle that superficial relationship with scripture is condemned. Al-Ghazali's writings on the dangers of knowledge without spiritual transformation parallel the concerns raised in Al-Mizan. Both traditions cite this verse to combat formalism in religion - the tendency to focus on rituals and appearances while neglecting the spirit and ethics. There is universal agreement that this verse serves as powerful self-examination for Muslims: are we truly understanding and living the Quran, or merely carrying it like the donkey carries books? This shared concern makes the verse common ground for promoting serious, transformative engagement with the Quran across all Islamic schools.",
+    "layer4_urdu": "شیعہ اور سنی علماء یکساں طریقے سے اس آیت کو علم بغیر عملی ہونے کے خلاف شدید انتباہ کے طور پر سمجھتے ہیں۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام اس کی تشریح کرتے ہیں کہ یہ یہودی علماء کو غیر منطقی بناتی ہے جو سچائی جانتے تھے لیکن نبی محمد کو غلط رائے سے مسترد کیا۔ گدھا تشبیہ سنی تفسیریں میں بھی ایک جیسے معنی کے ساتھ ظاہر ہوتی ہے۔ دونوں روایتیں اس آیت کو مسلمانوں کو اس طرح کی غلطی میں نہ پڑنے کی متنبہ کے طور پر استعمال کرتی ہیں۔ الغزالی کے علم کے خطرات پر لکھاؤں روحانی تبدیلی کے بغیر ال‌میزان میں اٹھائے گئے خدشات سے ملتے ہیں۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية بالاتفاق التام بوصفها إنذاراً شديداً لمن يمتلك الكتاب دون تطبيقه. وتفسير الطبري وابن كثير والقرطبي يُبيِّن أن الآية نقد موجَّه لعلماء اليهود الذين عرفوا الحق وأنكروا النبي محمداً تعصباً. ومثل الحمار الحامل للأسفار يرد في تفاسير السنة بالمعنى ذاته الموجود في المصادر الشيعية: العلم الذي لا يتحوَّل إلى فهم وعمل لا قيمة له. ويتناول فخر الدين الرازي الإعجاز البياني في الآية وتحذيرها للمسلمين من الوقوع في الخطأ ذاته. وكلا التراثين يستشهد بالآية على وجوب أن يُفضي العلم الديني إلى تحول أخلاقي وطاعة فعلية. والفارق في التطبيق هو المحور: إذ يُشدِّد علماء الشيعة على أن اتباع تفسيرات أهل البيت ضرورة لحمل القرآن حقاً، في حين يُركِّز علماء السنة على اتباع الفهم الجماعي للسلف الصالح والعلماء. لكن كلا الطرفين يتفقان على أن العلاقة السطحية بالكتاب مدانة. ومؤلفات الغزالي في مخاطر العلم من غير التحول الروحي تتوازى مع المخاوف المطروحة في الميزان. وكلا التراثين يستشهد بهذه الآية لمكافحة الشكلانية الدينية، تلك النزعة إلى التركيز على الشعائر والمظاهر مع إهمال الروح والأخلاق. وثمة إجماع تام على أن الآية دعوة للمحاسبة الذاتية الصارمة: هل نحن نفهم القرآن حقاً ونعيشه، أم نحمله كما يحمل الحمار الأسفار؟ وهذا القلق المشترك يجعل الآية أرضية خصبة لترسيخ الانخراط الجدي والتحويلي مع القرآن الكريم عبر جميع مدارس الفكر الإسلامي."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:6:exclusive-claims",
+          "title": "Exclusive Claims",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse challenges those who claim to be Allah's exclusive allies 'excluding other people' - exposing spiritual elitism and ethnic supremacy.",
+          "whyItMatters": "Religious exclusivity based on ethnicity or heritage contradicts Allah's universal mercy, reminding us that piety and righteous action, not lineage, determine spiritual rank.",
+          "position": "topLeft",
+          "arabicHighlight": "إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ",
+          "title_urdu": "خصوصی دعوے",
+          "coreInsight_urdu": "آیت ان لوگوں کو چیلنج کرتی ہے جو دعویٰ کرتے ہیں کہ وہ اللہ کے خاص دوست ہیں 'دوسرے لوگوں کو چھوڑ کر' - روحانی اشرافیت اور نسلی برتری کو بے نقاب کرتے ہوئے۔",
+          "whyItMatters_urdu": "نسل یا ورثے کی بنیاد پر مذہبی خصوصیت اللہ کی عالمگیر رحمت سے متصادم ہے، یاد دلاتے ہوئے کہ تقویٰ اور نیک عمل نسب نہیں، روحانی درجہ طے کرتے ہیں۔",
+          "title_ar": "الادعاءات الحصرية",
+          "coreInsight_ar": "تتحدى الآية أولئك الذين يدعون أنهم حلفاء الله الحصريون 'باستثناء الناس الآخرين' - كاشفة عن النخبوية الروحية والتفوق العرقي.",
+          "whyItMatters_ar": "الحصرية الدينية القائمة على العرق أو التراث تتناقض مع رحمة الله العالمية، مذكرة أن التقوى والعمل الصالح، وليس النسب، يحددان المرتبة الروحية."
+        },
+        {
+          "id": "62:6:death-challenge",
+          "title": "Death Challenge",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah challenges them to 'wish for death' if they truly believe they are His chosen ones - knowing their deeds would make them fear accountability.",
+          "whyItMatters": "Those truly confident in their righteousness would welcome meeting Allah, while those making empty claims secretly fear judgment, exposing their hypocrisy.",
+          "position": "topRight",
+          "arabicHighlight": "فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ",
+          "title_urdu": "موت کا چیلنج",
+          "coreInsight_urdu": "اللہ انہیں چیلنج کرتا ہے کہ اگر وہ واقعی یقین رکھتے ہیں کہ وہ اس کے چنے ہوئے ہیں تو 'موت کی خواہش کریں' - جانتے ہوئے کہ ان کے اعمال انہیں جوابدہی سے ڈرائیں گے۔",
+          "whyItMatters_urdu": "جو واقعی اپنی نیکی میں پراعتماد ہیں وہ اللہ سے ملاقات کا خیرمقدم کریں گے، جبکہ خالی دعوے کرنے والے خفیہ طور پر فیصلے سے ڈرتے ہیں، ان کی منافقت کو بے نقاب کرتے ہوئے۔",
+          "title_ar": "تحدي الموت",
+          "coreInsight_ar": "يتحدى الله أولئك 'أن يتمنوا الموت' إن كانوا يعتقدون حقاً أنهم مختاروه - عالماً أن أعمالهم ستجعلهم يخافون المساءلة.",
+          "whyItMatters_ar": "أولئك الواثقون حقاً من صلاحهم سيرحبون بلقاء الله، بينما أصحاب الادعاءات الفارغة يخافون الحكم سراً، كاشفين عن نفاقهم."
+        },
+        {
+          "id": "62:6:truthfulness-test",
+          "title": "Truthfulness Test",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'if you are truthful' (in kuntum sadiqeen) establishes that genuine faith must align with actions and readiness to face consequences.",
+          "whyItMatters": "Allah's test exposes the gap between what people claim and what they truly believe, teaching us that authentic faith requires courage to stand behind our convictions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِن كُنتُمْ صَٰدِقِينَ",
+          "title_urdu": "سچائی کا امتحان",
+          "coreInsight_urdu": "'اگر تم سچے ہو' کا جملہ قائم کرتا ہے کہ حقیقی ایمان کو اعمال اور نتائج کا سامنا کرنے کی تیاری کے ساتھ ہم آہنگ ہونا چاہیے۔",
+          "whyItMatters_urdu": "اللہ کا امتحان لوگوں کے دعووں اور حقیقی یقین کے درمیان فرق کو بے نقاب کرتا ہے، سکھاتے ہوئے کہ حقیقی ایمان اپنے عقائد کے پیچھے کھڑے ہونے کی ہمت کی ضرورت ہوتی ہے۔",
+          "title_ar": "اختبار الصدق",
+          "coreInsight_ar": "عبارة 'إن كنتم صادقين' يؤسس أن الإيمان الحقيقي يجب أن يتماشى مع الأفعال والاستعداد لمواجهة العواقب.",
+          "whyItMatters_ar": "اختبار الله يكشف الفجوة بين ما يدعيه الناس وما يؤمنون به حقاً، معلماً أن الإيمان الأصيل يتطلب الشجاعة للوقوف وراء قناعاتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as a challenge exposing Jewish hypocrisy and false claims of exclusive divine favor. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all explain that the Jews claimed to be Allah's beloved children and guaranteed paradise, but their fear of death revealed the falsity of their claim. The logical structure of the challenge is universally acknowledged: genuine righteousness and divine favor should make one unafraid of death, seeing it as meeting the Beloved. Both traditions use this verse to refute the concept of salvation through ethnic or religious identity alone, emphasizing that deeds and sincerity determine one's standing with Allah. Fakhr al-Din al-Razi's analysis of the verse's argumentative brilliance parallels that in Al-Mizan - both recognize it as a powerful rhetorical challenge that cannot be answered by those making false claims. Minor differences exist in application: Shia scholars particularly emphasize the Ahlul Bayt's exemplary attitude toward death as models for believers, while Sunni scholars cite the Prophet's companions' readiness for martyrdom. However, both traditions agree on the core message: religious claims must be backed by righteous living and sincere faith. Al-Ghazali's writings on death and preparation for the afterlife resonate with Shia teachings from the Imams - both emphasize balanced remembrance of death that motivates good deeds without causing depression or escapism. This verse serves as common ground for all Muslims to examine sincerity, avoid false claims of superiority, and prepare for death through righteous living and genuine devotion to Allah.",
+    "layer4_urdu": "شیعہ اور سنی علماء یکساً اس آیت کو یہودیوں کے دعویوں کو ظاہر کرتے ہوئے اور نقاب کشائی کرتے ہوئے سمجھتے ہیں۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام وضاحت کرتے ہیں کہ یہودیوں نے اللہ کی پیاری اولاد ہونے اور جنت کی ضمانت کا دعویٰ کیا، لیکن ان کا موت سے ڈرنا ان دعویوں کی جھوٹ کو ظاہر کرتا ہے۔ آیت کی منطقی ڈھانچہ دونوں میں یکساں ہے - سچی صلاح اور الہٰی محبت موت کو ملاقات کے طور پر دیکھنی چاہیے۔ فخر الدین رازی آیت کی بیانیہ برتری پر بحث کرتے ہیں۔ دونوں روایتیں اس بات پر متفق ہیں کہ یہ آیت شناخت کی بنیاد پر برتری کے دعویوں کو مسترد کرتی ہے۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية اتفاقاً على أنها تحدٍّ يفضح النفاق ويُسقط ادِّعاء اليهود بامتيازهم الإلهي الحصري. وتفسير الطبري وابن كثير والقرطبي كلها تُبيِّن أن اليهود ادَّعوا أنهم أبناء الله وأحبَّاؤه المضمون لهم الجنة، غير أن خشيتهم من الموت كشفت كذب هذه الدعوى. والبناء المنطقي للتحدي موضع إجماع: التقوى الحقيقية والحُظوة الإلهية الصادقة ينبغي أن تجعل صاحبها غير خائف من الموت، إذ يراه لقاءً بمن يحبه. وكلا التراثين يستشهد بهذه الآية في رفض مفهوم النجاة بالانتماء العرقي أو الديني المجرد مؤكِّداً أن الأعمال والإخلاص هما الميزان الحقيقي عند الله. وتحليل فخر الدين الرازي للبُعد الحِجاجي في الآية يتوازى مع ما في الميزان: كلاهما يرى في الآية تحدياً بلاغياً محكماً لا يجد المدَّعون الكاذبون جواباً عنه. وثمة فارق في التطبيق: إذ يُركِّز علماء الشيعة بصفة خاصة على نموذج أهل البيت في مواجهة الموت بثبات واطمئنان، في حين يستشهد علماء السنة بشجاعة الصحابة واستعدادهم للشهادة. لكن كلا الفريقين يتفقان على الجوهر: الدعاوى الدينية لا بد أن يُسندها صلاح عملي وإيمان صادق. ومؤلفات الغزالي في الاستعداد للموت تتصل اتصالاً وثيقاً بتعاليم الأئمة، كلاهما يُؤكِّد تذكُّر الموت المُوازن الذي يُحرِّك العمل دون إفضاء إلى يأس. وتُشكِّل هذه الآية أرضية مشتركة لجميع المسلمين لمراجعة إخلاصهم ونبذ دعاوى الأفضلية والاستعداد للموت بالتقوى والعبادة الصادقة."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:7:fear-of-death",
+          "title": "Fear of Death",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "They will never wish for death because of their evil deeds - their fear reveals guilty conscience and awareness of their hypocrisy.",
+          "whyItMatters": "Fear of death often indicates unresolved spiritual debt, while believers who live righteously can approach death with peace and readiness.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ",
+          "title_urdu": "موت کا خوف",
+          "coreInsight_urdu": "وہ کبھی موت کی خواہش نہیں کریں گے کیونکہ ان کے برے اعمال ہیں - ان کا خوف مجرمانہ ضمیر اور اپنی منافقت کی آگاہی کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "موت کا خوف اکثر حل نہ شدہ روحانی قرض کی نشاندہی کرتا ہے، جبکہ نیک زندگی گزارنے والے مومن موت کے قریب امن اور تیاری کے ساتھ آ سکتے ہیں۔",
+          "title_ar": "الخوف من الموت",
+          "coreInsight_ar": "لن يتمنوا الموت أبداً بسبب أعمالهم السيئة - خوفهم يكشف عن الضمير المذنب والوعي بنفاقهم.",
+          "whyItMatters_ar": "الخوف من الموت غالباً يشير إلى دين روحي غير محلول، بينما المؤمنون الذين يعيشون بصلاح يمكنهم مقاربة الموت بسلام واستعداد."
+        },
+        {
+          "id": "62:7:deeds-consequences",
+          "title": "Deeds' Consequences",
+          "icon": "scale.3d",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'what their hands have put forth' emphasizes that humans author their own spiritual consequences through their choices and actions.",
+          "whyItMatters": "We cannot escape accountability for our deeds - they precede us to the afterlife and determine our fate, making righteous living essential.",
+          "position": "topRight",
+          "arabicHighlight": "بِمَا قَدَّمَتْ أَيْدِيهِمْ",
+          "title_urdu": "اعمال کے نتائج",
+          "coreInsight_urdu": "'جو ان کے ہاتھوں نے آگے بھیجا' کا جملہ زور دیتا ہے کہ انسان اپنے انتخاب اور اعمال کے ذریعے اپنے روحانی نتائج خود لکھتے ہیں۔",
+          "whyItMatters_urdu": "ہم اپنے اعمال کی جوابدہی سے نہیں بچ سکتے - وہ ہم سے پہلے آخرت میں جاتے ہیں اور ہماری قسمت کا تعین کرتے ہیں، نیک زندگی کو ضروری بناتے ہوئے۔",
+          "title_ar": "عواقب الأعمال",
+          "coreInsight_ar": "عبارة 'ما قدمت أيديهم' يؤكد أن البشر يؤلفون عواقبهم الروحية من خلال خياراتهم وأفعالهم.",
+          "whyItMatters_ar": "لا يمكننا الهروب من المساءلة عن أعمالنا - فهي تسبقنا إلى الآخرة وتحدد مصيرنا، مما يجعل الحياة الصالحة أساسية."
+        },
+        {
+          "id": "62:7:divine-knowledge",
+          "title": "Divine Knowledge",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is 'Aleem bil-dhalimeen' (Knowing of the wrongdoers) - nothing escapes His awareness, especially injustice and oppression.",
+          "whyItMatters": "No wrong goes unnoticed by Allah, providing comfort to the oppressed and warning to oppressors that accountability is inevitable.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ",
+          "title_urdu": "الٰہی علم",
+          "coreInsight_urdu": "اللہ 'علیم بالظالمین' (ظالموں کو جاننے والا) ہے - کچھ بھی اس کی آگاہی سے نہیں بچتا، خاص طور پر ظلم اور جبر۔",
+          "whyItMatters_urdu": "کوئی ظلم اللہ سے چھپا نہیں رہتا، مظلومین کو تسلی دیتے ہوئے اور ظالموں کو خبردار کرتے ہوئے کہ جوابدہی ناگزیر ہے۔",
+          "title_ar": "العلم الإلهي",
+          "coreInsight_ar": "الله 'عليم بالظالمين' - لا شيء يفلت من وعيه، خاصة الظلم والقهر.",
+          "whyItMatters_ar": "لا ظلم يمر دون أن يلاحظه الله، مما يوفر الراحة للمظلومين وتحذيراً للظالمين بأن المساءلة حتمية."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously agree that this verse explains why the Jews will not accept the challenge of wishing for death - their conscience knows their claims are false and their deeds are corrupt. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all interpret 'what their hands have put forth' as their evil deeds, particularly rejecting prophets and distorting scriptures. The psychological insight that guilt affects one's attitude toward death is acknowledged across Islamic schools. Fakhr al-Din al-Razi discusses the verse as proof of Quranic prophecy - it correctly predicted Jewish behavior, demonstrating divine authorship. Both traditions emphasize the verse as warning to Muslims: we can fall into the same trap if we claim faith while living in contradiction to it. Al-Ghazali's extensive writings on death, the grave, and the afterlife echo the Shia teaching that our deeds precede us and shape our post-death experience - what our hands put forth determines our eternal state. Minor differences exist in emphasis: Shia scholars particularly stress the role of continuous repentance and the Ahlul Bayt's intercession for believers, while Sunni scholars emphasize reliance on Allah's mercy and the Prophet's intercession. However, both traditions agree that intercession does not negate accountability - our deeds matter, and we should prepare for death through righteous living. The scholarly consensus is that this verse serves as motivation for self-examination and reform: we should assess what our hands are putting forth and make necessary changes before death comes. Both schools use this verse to teach that true faith is proven not by claims but by deeds and by one's spiritual readiness to meet Allah.",
+    "layer4_urdu": "شیعہ اور سنی علماء یکساء اس بات پر متفق ہیں کہ یہ آیت واضح کرتی ہے کہ یہودیوں کو کیوں موت کی خواہش قبول نہیں ہے - ان کا ضمیر ان کے دعویوں کے جھوٹ کو جانتا ہے۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام 'ان کے ہاتھوں نے جو آگے بھیجا ہے' کو ان کی برے اعمال کے طور پر سمجھتے ہیں۔ ایک جیسی نفسیاتی بصیرت کہ ذنب موت سے رویہ کو متاثر کرتا ہے تمام علمی نزدیک میں معترف ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على أن هذه الآية تُفسِّر سبب عدم قبول اليهود للتحدي الوارد في الآية السابقة: ضمائرهم تعلم أن دعاواهم مزيَّفة وأعمالهم فاسدة. وتفاسير الطبري وابن كثير والقرطبي كلها تُفسِّر \"ما قدَّمت أيديهم\" بالأعمال السيئة، لا سيما تكذيب الأنبياء وتحريف الكتب. والبُعد النفسي المتمثِّل في أثر الذنب على موقف الإنسان من الموت معترَف به في الفكر الإسلامي كله. ويُناقش فخر الدين الرازي الآية بوصفها دليلاً على النبوة القرآنية: فالتنبؤ الصحيح بسلوك اليهود يُثبت المصدر الإلهي. وكلا التراثين يتخذ من الآية تحذيراً للمسلمين: يمكن أن نقع في الفخ ذاته إذا ادَّعينا الإيمان بينما حياتنا تكذِّبه. ومؤلفات الغزالي الموسَّعة في الموت والقبر والآخرة تتصدى للمفهوم ذاته الذي يطرحه تعليم الشيعة: أعمالنا تسبقنا وتُشكِّل تجربتنا بعد الموت، فما قدَّمته أيدينا يُحدِّد مصيرنا الأبدي. وثمة فوارق في التفاصيل: علماء الشيعة يُؤكِّدون بوجه خاص شفاعة أهل البيت للمؤمنين وضرورة التوبة المتواصلة، في حين يُركِّز علماء السنة على رحمة الله الواسعة وشفاعة النبي. لكن كلا الفريقين يتفقان على أن الشفاعة لا تعني إلغاء المحاسبة، فأعمالنا تهم وعلينا الاستعداد للموت بالتقوى والإخلاص. والإجماع العلمي هو أن الآية دافع للمحاسبة الذاتية والإصلاح: لنُقيِّم ما تُقدِّمه أيدينا ونُغيِّر ما يلزم قبل فوات الأوان."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:8:inevitable-death",
+          "title": "Inevitable Death",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Death from which you flee will inevitably meet you - no amount of denial, distraction, or wealth can prevent this universal appointment.",
+          "whyItMatters": "Accepting death's inevitability transforms how we live, shifting focus from accumulating temporary pleasures to preparing for eternal accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ",
+          "title_urdu": "ناگزیر موت",
+          "coreInsight_urdu": "موت جس سے تم بھاگتے ہو ناگزیر طور پر تم سے ملے گی - کوئی انکار، توجہ ہٹانا، یا دولت اس عالمگیر ملاقات کو نہیں روک سکتی۔",
+          "whyItMatters_urdu": "موت کی ناگزیریت کو قبول کرنا ہماری زندگی کو تبدیل کرتا ہے، عارضی لذتوں کو جمع کرنے سے ابدی جوابدہی کی تیاری کی طرف توجہ منتقل کرتے ہوئے۔",
+          "title_ar": "الموت الحتمي",
+          "coreInsight_ar": "الموت الذي تفرون منه سيلاقيكم حتماً - لا يمكن لأي إنكار أو تشتيت أو ثروة منع هذا الموعد العالمي.",
+          "whyItMatters_ar": "قبول حتمية الموت يحول كيفية عيشنا، منقلاً التركيز من تجميع الملذات المؤقتة إلى الاستعداد للمساءلة الأبدية."
+        },
+        {
+          "id": "62:8:return-to-allah",
+          "title": "Return to Allah",
+          "icon": "arrow.forward",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "After death, you will be returned to the 'Knower of the unseen and witnessed' - facing Allah who knows both our public actions and hidden intentions.",
+          "whyItMatters": "Since Allah knows everything visible and invisible, true success requires aligning our inner thoughts with outer actions in sincere devotion.",
+          "position": "topRight",
+          "arabicHighlight": "ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ",
+          "title_urdu": "اللہ کی طرف واپسی",
+          "coreInsight_urdu": "موت کے بعد، تم 'غیب اور شہادت کے جاننے والے' کی طرف لوٹائے جاؤ گے - اللہ کا سامنا کرتے ہوئے جو ہمارے عوامی اعمال اور پوشیدہ نیتوں کو جانتا ہے۔",
+          "whyItMatters_urdu": "چونکہ اللہ ہر نظر آنے والی اور پوشیدہ چیز کو جانتا ہے، حقیقی کامیابی ہمارے اندرونی خیالات کو مخلص عبادت میں بیرونی اعمال کے ساتھ ہم آہنگ کرنے کی ضرورت ہوتی ہے۔",
+          "title_ar": "العودة إلى الله",
+          "coreInsight_ar": "بعد الموت، ستعادون إلى 'عالم الغيب والشهادة' - مواجهة الله الذي يعلم كلاً من أفعالنا العلنية ونوايانا الخفية.",
+          "whyItMatters_ar": "بما أن الله يعلم كل شيء مرئي وغير مرئي، فإن النجاح الحقيقي يتطلب مواءمة أفكارنا الداخلية مع أفعالنا الخارجية في إخلاص حقيقي."
+        },
+        {
+          "id": "62:8:full-accountability",
+          "title": "Full Accountability",
+          "icon": "scale.3d",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah will inform you about everything you used to do - complete transparency where no secret deed or intention remains hidden.",
+          "whyItMatters": "Knowing that every action will be revealed motivates ethical living even in private, transforming conscience from social fear to divine consciousness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+          "title_urdu": "مکمل جوابدہی",
+          "coreInsight_urdu": "اللہ تمہیں ہر اس چیز کے بارے میں بتائے گا جو تم کرتے تھے - مکمل شفافیت جہاں کوئی خفیہ عمل یا نیت چھپی نہیں رہتی۔",
+          "whyItMatters_urdu": "یہ جاننا کہ ہر عمل ظاہر ہو گا نجی طور پر بھی اخلاقی زندگی کی ترغیب دیتا ہے، ضمیر کو سماجی خوف سے الٰہی شعور میں تبدیل کرتے ہوئے۔",
+          "title_ar": "المساءلة الكاملة",
+          "coreInsight_ar": "سينبئكم الله بكل ما كنتم تعملون - شفافية كاملة حيث لا يبقى أي عمل سري أو نية مخفية.",
+          "whyItMatters_ar": "معرفة أن كل عمل سيُكشف يحفز العيش الأخلاقي حتى في الخاص، محولاً الضمير من الخوف الاجتماعي إلى الوعي الإلهي."
+        },
+        {
+          "id": "62:8:futility-of-escape",
+          "title": "Futility of Escape",
+          "icon": "road.lanes",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The imagery of fleeing from death emphasizes human tendency to avoid facing mortality through distraction and denial.",
+          "whyItMatters": "Rather than running from death's reality, we should embrace it as motivation to live purposefully and prepare spiritually for the inevitable meeting with Allah.",
+          "position": "bottomRight",
+          "arabicHighlight": "تَفِرُّونَ مِنْهُ",
+          "title_urdu": "فرار کی بیکاری",
+          "coreInsight_urdu": "موت سے بھاگنے کی تصویر توجہ ہٹانے اور انکار کے ذریعے موت کا سامنا کرنے سے بچنے کے انسانی رجحان پر زور دیتی ہے۔",
+          "whyItMatters_urdu": "موت کی حقیقت سے بھاگنے کے بجائے، ہمیں اسے مقصدیت کے ساتھ زندگی گزارنے اور اللہ کے ساتھ ناگزیر ملاقات کے لیے روحانی طور پر تیار ہونے کی ترغیب کے طور پر قبول کرنا چاہیے۔",
+          "title_ar": "عبثية الهروب",
+          "coreInsight_ar": "صورة الفرار من الموت تؤكد الميل البشري لتجنب مواجهة الموت من خلال التشتيت والإنكار.",
+          "whyItMatters_ar": "بدلاً من الهروب من واقع الموت، يجب أن نتقبله كدافع للعيش بهدف والاستعداد روحياً للقاء الحتمي مع الله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree completely on this verse's message: death is inevitable, return to Allah is certain, and accountability for all deeds is unavoidable. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all explain the verse identically to Shia sources - death cannot be escaped, and we will stand before the One who knows everything. Fakhr al-Din al-Razi discusses the philosophical implications of Allah being 'Knower of the unseen and witnessed,' concluding that this ensures perfect justice since nothing escapes divine knowledge. Both traditions use this verse to encourage preparation for death through righteous living, repentance, and spiritual development. Al-Ghazali's famous work 'Remembrance of Death and the Afterlife' extensively develops themes from this verse, paralleling Shia teachings about mindfulness of death. Minor differences exist in details of the afterlife - Shia theology emphasizes the questioning in the grave (Barzakh) and the Ahlul Bayt's intercession, while Sunni theology emphasizes the Prophet's intercession and some scholars have different views on Barzakh details. However, the fundamental message is universal: death is certain, return to Allah is certain, accountability is certain. Both schools encourage regular remembrance of death as spiritual practice, visiting graves to remember mortality, and living each day with awareness that it might be our last. This verse serves as common ground for all Muslims to prioritize the eternal over the temporary, live with integrity knowing Allah sees all, and prepare for the inevitable meeting with our Creator through sincere faith and righteous action.",
+    "layer4_urdu": "شیعہ اور سنی علماء مکمل طور پر اس آیت کے پیغام پر متفق ہیں: موت لازمی ہے، اللہ کو واپسی یقینی ہے، اور تمام کردار کے لیے جواب دہی لازمی ہے۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام یکساں طریقے سے آیت کی تشریح کرتے ہیں۔ فخر الدین رازی اللہ کو 'پوشیدہ اور واضح کا داتا' ہونے کے فلسفیانہ اثرات پر بحث کرتے ہیں، یہ نتیجہ تک پہنچتے ہوئے کہ یہ کامل انصاف کو یقینی بناتا ہے۔ دونوں روایتیں موت کی یادگاری کو روحانی عملی حکمت کے طور پر دیکھتی ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على رسالة هذه الآية: الموت حتمي والرجوع إلى الله حتمي والمحاسبة عن كل الأعمال حتمية. وتفاسير الطبري وابن كثير والقرطبي كلها تشرح الآية بالمعنى ذاته الموجود في المصادر الشيعية: الموت لا مهرب منه وسنقف بين يدي من يعلم كل شيء. ويتناول فخر الدين الرازي المضامين الفلسفية لوصف الله بعلم الغيب والشهادة مستنتجاً أن هذا يكفل العدل الكامل إذ لا شيء يخفى عن العلم الإلهي. وكلا التراثين يستشهد بالآية في الحثِّ على الاستعداد للموت بالإصلاح والتوبة والنمو الروحي. ومؤلف الغزالي المشهور \"الذكر والاعتبار بالموت والآخرة\" يُطوِّر مضامين هذه الآية تطويراً مُستفيضاً يوازي تعاليم الشيعة حول الاستحضار الروحي للموت. وثمة فوارق في تفاصيل الآخرة: فالعقيدة الشيعية تُشدِّد على سؤال القبر في عالم البرزخ وشفاعة أهل البيت، في حين تُؤكِّد العقيدة السنية شفاعة النبي وللعلماء آراء متباينة حول تفاصيل البرزخ. لكن الرسالة الجوهرية واحدة: الموت حق والرجوع حق والمحاسبة حق. وكلا المدرستين تُوصي بذكر الموت عبادةً روحية منتظمة وبزيارة القبور تذكيراً بالفناء والعيش كل يوم باستيقاظ من قد يكون آخر الأيام. وتُشكِّل هذه الآية أرضية مشتركة لجميع المسلمين لتغليب الأبدي على الزائل والعيش بنزاهة أمام العليم بكل شيء والاستعداد للقاء الخالق بالإيمان الصادق والعمل الصالح."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:9:friday-prayer",
+          "title": "Friday Prayer",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "When the call to Jumu'ah prayer is announced, believers must hasten to the remembrance of Allah - establishing Friday as the weekly spiritual summit.",
+          "whyItMatters": "Jumu'ah is not just a ritual but a communal gathering that strengthens Muslim unity, renews faith, and prioritizes spiritual consciousness over worldly pursuits.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ",
+          "title_urdu": "جمعہ کی نماز",
+          "coreInsight_urdu": "جب جمعہ کی نماز کی اذان دی جائے تو مومنین کو اللہ کی یاد کی طرف جلدی کرنی چاہیے - جمعہ کو ہفتہ وار روحانی عروج کے طور پر قائم کرتے ہوئے۔",
+          "whyItMatters_urdu": "جمعہ صرف ایک رسم نہیں بلکہ ایک اجتماعی جمع ہے جو مسلم اتحاد کو مضبوط کرتی ہے، ایمان کو تازہ کرتی ہے، اور دنیاوی مقاصد پر روحانی شعور کو ترجیح دیتی ہے۔",
+          "title_ar": "صلاة الجمعة",
+          "coreInsight_ar": "عندما يُنادى لصلاة الجمعة، يجب على المؤمنين الإسراع إلى ذكر الله - مؤسسين يوم الجمعة كقمة روحية أسبوعية.",
+          "whyItMatters_ar": "الجمعة ليست مجرد طقس بل تجمع جماعي يعزز وحدة المسلمين، ويجدد الإيمان، ويعطي الأولوية للوعي الروحي على المساعي الدنيوية."
+        },
+        {
+          "id": "62:9:leave-trade",
+          "title": "Leave Trade",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Believers are commanded to leave trade and business when called to prayer - demonstrating that spiritual obligations take precedence over economic activity.",
+          "whyItMatters": "This teaches proper prioritization: while earning livelihood is important, it must never supersede worship and connection with Allah.",
+          "position": "topRight",
+          "arabicHighlight": "وَذَرُوا۟ ٱلْبَيْعَ",
+          "title_urdu": "تجارت چھوڑ دو",
+          "coreInsight_urdu": "مومنین کو حکم دیا گیا ہے کہ نماز کی پکار پر تجارت اور کاروبار چھوڑ دیں - ظاہر کرتے ہوئے کہ روحانی فرائض معاشی سرگرمی پر فوقیت رکھتے ہیں۔",
+          "whyItMatters_urdu": "یہ مناسب ترجیحات سکھاتا ہے: جبکہ روزی کمانا اہم ہے، یہ کبھی بھی عبادت اور اللہ کے ساتھ تعلق کو پیچھے نہیں کرنا چاہیے۔",
+          "title_ar": "اترك التجارة",
+          "coreInsight_ar": "أُمر المؤمنون بترك التجارة والأعمال عند النداء للصلاة - مما يدل على أن الالتزامات الروحية لها الأسبقية على النشاط الاقتصادي.",
+          "whyItMatters_ar": "هذا يعلم الأولويات الصحيحة: بينما كسب الرزق مهم، يجب ألا يتجاوز أبداً العبادة والارتباط بالله."
+        },
+        {
+          "id": "62:9:better-for-you",
+          "title": "Better for You",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Attending Jumu'ah is described as 'better for you if you only knew' - highlighting that spiritual investment yields greater returns than material pursuits.",
+          "whyItMatters": "Short-term sacrifice of business for prayer brings long-term spiritual, psychological, and even worldly blessings that far exceed temporary profits.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+          "title_urdu": "تمہارے لیے بہتر",
+          "coreInsight_urdu": "جمعہ میں شرکت کو 'تمہارے لیے بہتر اگر تم جانتے ہو' کہا گیا ہے - اس بات کو نمایاں کرتے ہوئے کہ روحانی سرمایہ کاری مادی مقاصد سے زیادہ منافع دیتی ہے۔",
+          "whyItMatters_urdu": "نماز کے لیے کاروبار کی قلیل مدتی قربانی طویل مدتی روحانی، نفسیاتی، اور حتی کہ دنیاوی برکتیں لاتی ہے جو عارضی منافع سے کہیں زیادہ ہیں۔",
+          "title_ar": "خير لكم",
+          "coreInsight_ar": "يوصف حضور صلاة الجمعة بأنه 'خير لكم إن كنتم تعلمون' - مبرزاً أن الاستثمار الروحي يحقق عوائد أكبر من المساعي المادية.",
+          "whyItMatters_ar": "التضحية قصيرة المدى بالأعمال من أجل الصلاة تجلب بركات روحية ونفسية وحتى دنيوية طويلة المدى تفوق بكثير الأرباح المؤقتة."
+        },
+        {
+          "id": "62:9:dhikr-allah",
+          "title": "Remembrance of Allah",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Jumu'ah prayer is called 'dhikr Allah' (remembrance of Allah) - emphasizing that the purpose is not just ritual but conscious connection with the Divine.",
+          "whyItMatters": "Prayer should transform us through genuine remembrance and presence with Allah, not become an automated routine devoid of spiritual awareness.",
+          "position": "bottomRight",
+          "arabicHighlight": "ذِكْرِ ٱللَّهِ",
+          "title_urdu": "اللہ کی یاد",
+          "coreInsight_urdu": "جمعہ کی نماز کو 'ذکر اللہ' کہا گیا ہے - اس بات پر زور دیتے ہوئے کہ مقصد صرف رسم نہیں بلکہ الٰہی کے ساتھ شعوری تعلق ہے۔",
+          "whyItMatters_urdu": "نماز ہمیں حقیقی یاد اور اللہ کی موجودگی کے ذریعے تبدیل کرنی چاہیے، روحانی آگاہی سے خالی خودکار معمول نہیں بننی چاہیے۔",
+          "title_ar": "ذكر الله",
+          "coreInsight_ar": "تُسمى صلاة الجمعة 'ذكر الله' - مؤكدة أن الهدف ليس مجرد الطقوس بل الاتصال الواعي بالإلهي.",
+          "whyItMatters_ar": "يجب أن تحولنا الصلاة من خلال الذكر الحقيقي والحضور مع الله، وليس أن تصبح روتيناً آلياً خالياً من الوعي الروحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes Friday prayer's importance and obligation. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all explain that the verse commands attending Friday prayer and leaving worldly pursuits when the call is made. The command to 'hasten' is interpreted similarly across schools - proceed promptly and prioritize it. Both traditions agree that the verse specifically mentions trade to indicate all worldly activities, not just business. The main scholarly difference concerns the nature of the obligation during different circumstances. Sunni schools unanimously consider Friday prayer obligatory (wajib ayni) for all eligible men, while Shia scholars have discussed its status during the Imam's occultation - some consider it obligatory, others recommended, and many consider it an optional obligation (choosing between Friday and noon prayer). However, all agree on its great merit and importance. Fakhr al-Din al-Razi's discussion of the verse's benefits parallels Tabatabai's - both emphasize spiritual, social, and educational dimensions. Both traditions cite authentic hadiths about Friday's excellence and the Prophet's emphasis on this prayer. Sunni fiqh has detailed requirements for valid Friday prayer (minimum attendance, khutbah content, etc.), and Shia fiqh similarly has conditions. Despite jurisprudential differences in details, the core message is universal: Friday prayer is a crucial Islamic institution for worship, education, and community cohesion. Both schools use this verse to encourage attendance and prioritization of worship over worldly pursuits, promoting spiritual values over materialistic ones.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء جمعہ کی نماز کی اہمیت اور اہلیت پر متفق ہیں۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام بیان کرتے ہیں کہ آیت جمعہ میں شرکت کا حکم دیتی ہے اور جب اذان ہو دنیاوی کاموں کو چھوڑنا۔ 'جلدی آنا' یکساں طریقے سے تمام مکاتب میں سمجھا جاتا ہے۔ دونوں روایتیں متفق ہیں کہ خصوصی طور پر تجارت کا ذکر تمام دنیاوی سرگرمیوں کی نمائندگی کرتا ہے۔ سنی مکاتب سب اہل پوری مردوں کے لیے جمعہ فرض (وجوب عینی) سمجھتے ہیں۔ شیعہ علماء نے غیبت کے دوران اس کی حالت پر بحث کی - کچھ فرض سمجھتے ہیں، کچھ مستحب، بہتر معاصر تفہیم یہ ہے کہ یہ اختیاری ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُؤكِّد أهمية صلاة الجمعة ووجوبها. وتفاسير الطبري وابن كثير والقرطبي كلها تُفسِّر الآية بأنها أمر بالتوجُّه إلى الجمعة وترك الأنشطة الدنيوية عند سماع النداء. والأمر بالسعي مُفسَّر عند الجميع بالتوجُّه الفوري مع إعطاء الأولوية. والاتفاق قائم على أن ذكر البيع تحديداً كنيةٌ عن جميع الانشغالات الدنيوية لا أنه مقصود وحده. والفارق الفقهي الرئيس يتعلق بطبيعة الوجوب: مذاهب السنة الأربعة تُوجب الجمعة وجوباً عينياً على كل رجل مستطيع، في حين تناقش الفقه الشيعي في حكمها زمن غيبة الإمام؛ فمنهم من يُوجبها ومنهم من يُندِّبها ومنهم من يجعلها واجباً تخييرياً. لكن الإجماع قائم على عظيم فضلها وأهميتها البالغة. ومناقشة فخر الرازي لفوائد الآية تتوازى مع ما في الميزان: كلاهما يُؤكِّد الأبعاد الروحية والاجتماعية والتعليمية لهذه الشعيرة. وكلا التراثين يستشهد بأحاديث صحيحة في فضل الجمعة وتأكيد النبي عليها. وللسنة والشيعة شروط فقهية تفصيلية لصحة الجمعة وإن تباينت في التفاصيل. وعلى الرغم من الاختلافات الفقهية تبقى الرسالة الجوهرية واحدة: صلاة الجمعة ركيزة إسلامية أساسية للعبادة والتثقيف وتماسك الأمة. وكلا المدرستين يستشهد بالآية في الحثِّ على الحضور وتقديم العبادة على الأنشطة الدنيوية، ترسيخاً للقيم الروحية في مواجهة الاستغراق المادي."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:10:balanced-life",
+          "title": "Balanced Life",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "After prayer concludes, believers are told to disperse and seek Allah's bounty - Islam encourages both worship and worldly engagement in harmony.",
+          "whyItMatters": "True Islamic spirituality is not monasticism but balance: dedicating focused time to worship, then actively pursuing livelihood with ethical consciousness.",
+          "position": "topLeft",
+          "arabicHighlight": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ",
+          "title_urdu": "متوازن زندگی",
+          "coreInsight_urdu": "نماز ختم ہونے کے بعد، مومنین کو منتشر ہونے اور اللہ کا فضل تلاش کرنے کو کہا گیا ہے - اسلام عبادت اور دنیاوی مصروفیت دونوں کی ہم آہنگی کی حوصلہ افزائی کرتا ہے۔",
+          "whyItMatters_urdu": "حقیقی اسلامی روحانیت راہبانیت نہیں بلکہ توازن ہے: عبادت کے لیے مرکوز وقت دینا، پھر اخلاقی شعور کے ساتھ فعال طور پر روزی تلاش کرنا۔",
+          "title_ar": "الحياة المتوازنة",
+          "coreInsight_ar": "بعد انتهاء الصلاة، يُطلب من المؤمنين الانتشار وطلب فضل الله - الإسلام يشجع على العبادة والانخراط الدنيوي في انسجام.",
+          "whyItMatters_ar": "الروحانية الإسلامية الحقيقية ليست الرهبنة بل التوازن: تكريس وقت مركز للعبادة، ثم السعي النشط للرزق مع الوعي الأخلاقي."
+        },
+        {
+          "id": "62:10:seeking-bounty",
+          "title": "Seeking Bounty",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Working and seeking provisions is framed as seeking 'fadl Allah' (Allah's bounty) - transforming mundane work into spiritual pursuit.",
+          "whyItMatters": "When we view our jobs and businesses as seeking Allah's bounty rather than mere survival, work becomes worship and every transaction a divine encounter.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ",
+          "title_urdu": "فضل کی تلاش",
+          "coreInsight_urdu": "کام کرنا اور رزق تلاش کرنا 'فضل اللہ' تلاش کرنے کے طور پر بیان کیا گیا ہے - معمولی کام کو روحانی جستجو میں تبدیل کرتے ہوئے۔",
+          "whyItMatters_urdu": "جب ہم اپنی نوکریوں اور کاروبار کو محض بقا کے بجائے اللہ کا فضل تلاش کرنے کے طور پر دیکھتے ہیں، کام عبادت بن جاتا ہے اور ہر لین دین الٰہی ملاقات۔",
+          "title_ar": "طلب الفضل",
+          "coreInsight_ar": "العمل وطلب الأرزاق يُؤطر كطلب 'فضل الله' - محولاً العمل الدنيوي إلى سعي روحي.",
+          "whyItMatters_ar": "عندما ننظر إلى وظائفنا وأعمالنا كطلب لفضل الله بدلاً من مجرد البقاء، يصبح العمل عبادة وكل معاملة لقاء إلهي."
+        },
+        {
+          "id": "62:10:constant-remembrance",
+          "title": "Constant Remembrance",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "While working and spreading on earth, believers should 'remember Allah much' - maintaining spiritual consciousness even during worldly activities.",
+          "whyItMatters": "Success comes from keeping Allah in mind throughout daily life, not just during prayer times - integrating faith into every moment and decision.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا",
+          "title_urdu": "مسلسل یاد",
+          "coreInsight_urdu": "کام کرتے اور زمین پر پھیلتے ہوئے، مومنین کو 'اللہ کو کثرت سے یاد کرنا' چاہیے - دنیاوی سرگرمیوں کے دوران بھی روحانی شعور برقرار رکھتے ہوئے۔",
+          "whyItMatters_urdu": "کامیابی روزمرہ زندگی میں اللہ کو ذہن میں رکھنے سے آتی ہے، نہ کہ صرف نماز کے اوقات میں - ہر لمحے اور فیصلے میں ایمان کو ضم کرتے ہوئے۔",
+          "title_ar": "الذكر المستمر",
+          "coreInsight_ar": "أثناء العمل والانتشار في الأرض، يجب على المؤمنين 'ذكر الله كثيراً' - الحفاظ على الوعي الروحي حتى أثناء الأنشطة الدنيوية.",
+          "whyItMatters_ar": "النجاح يأتي من إبقاء الله في الذهن طوال الحياة اليومية، وليس فقط خلال أوقات الصلاة - دمج الإيمان في كل لحظة وقرار."
+        },
+        {
+          "id": "62:10:true-success",
+          "title": "True Success",
+          "icon": "star.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse ends with 'that you may succeed' (la'allakum tuflihoon) - defining success as combining worship, work, and constant remembrance.",
+          "whyItMatters": "Real success (falah) is not measured by wealth alone but by maintaining connection with Allah while fulfilling worldly responsibilities.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَّعَلَّكُمْ تُفْلِحُونَ",
+          "title_urdu": "حقیقی کامیابی",
+          "coreInsight_urdu": "آیت 'تاکہ تم کامیاب ہو سکو' پر ختم ہوتی ہے - کامیابی کو عبادت، کام، اور مسلسل یاد کو ملانے کے طور پر بیان کرتے ہوئے۔",
+          "whyItMatters_urdu": "حقیقی کامیابی (فلاح) صرف دولت سے نہیں ناپی جاتی بلکہ دنیاوی ذمہ داریاں پوری کرتے ہوئے اللہ کے ساتھ تعلق برقرار رکھنے سے۔",
+          "title_ar": "النجاح الحقيقي",
+          "coreInsight_ar": "تنتهي الآية بـ 'لعلكم تفلحون' - معرفة النجاح بالجمع بين العبادة والعمل والذكر المستمر.",
+          "whyItMatters_ar": "النجاح الحقيقي (الفلاح) لا يُقاس بالثروة وحدها بل بالحفاظ على الاتصال بالله أثناء الوفاء بالمسؤوليات الدنيوية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree completely on this verse's message: after Friday prayer, Muslims are permitted and encouraged to return to work and worldly activities, but they should maintain frequent remembrance of Allah throughout. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all interpret the verse identically - dispersing for provision is permitted and encouraged, and constant dhikr should accompany all activities. The verse establishes Islam's balanced approach, rejecting both excessive worldliness and monastic isolation. Fakhr al-Din al-Razi discusses the integration of work and worship extensively, reaching conclusions parallel to Al-Mizan. Both traditions cite hadiths encouraging lawful earning and frequent remembrance. Al-Ghazali's writings on remembrance of Allah emphasize constant awareness in all activities, mirroring Shia teachings from the Imams. Minor differences exist in specific dhikr formulas recommended - different schools have various litanies and practices - but the principle of constant remembrance is universal. Both traditions teach that work becomes worship through intention and ethical conduct. The scholarly consensus across all schools is that this verse provides the Islamic life model: fulfill worship obligations, then engage productively with the world while maintaining God-consciousness through frequent remembrance. Both Shia and Sunni scholars use this verse to refute extremes of materialism and monasticism. Success (falah) is defined across all Islamic schools as comprehensive well-being in this life and the next, achieved through integrating worship, work, and remembrance. This verse serves as common ground for all Muslims to develop balanced, productive, spiritually conscious lives.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس آیت کے پیغام پر مکمل طور پر متفق ہیں: جمعہ کے بعد، مسلمان دنیاوی سرگرمیوں میں واپسی کی اجازت ہے اور حوصلہ افزائی کی جاتی ہے، لیکن انہیں اللہ کی مسلسل یادگاری برقرار رکھنی چاہیے۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام یکساً آیت کی تشریح کرتے ہیں۔ فخر الدین رازی عمل اور عبادت کی تکامل پر تفصیل سے بحث کرتے ہیں، ال‌میزان کے طریقوں سے ملتے جلتے نتائج تک پہنچتے ہیں۔ دونوں روایتیں حلال کمائی کی حوصلہ افزائی کرتی ہیں اور بار بار یادگاری۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على رسالة هذه الآية: بعد صلاة الجمعة يُؤذَن للمسلم بل يُحثُّ على العودة إلى العمل والأنشطة الدنيوية مع استدامة ذكر الله في كل أحواله. وتفاسير الطبري وابن كثير والقرطبي تُفسِّر الآية بالمعنى ذاته: الانتشار في طلب الرزق مأذون فيه ومحبوب، وذكر الله الدائم ينبغي أن يُرافق الأنشطة كلها. والآية تُؤسِّس المنهج الإسلامي المتوازن الرافض للانغماس المادي كما يرفض الانعزال الديراني. ويُناقش فخر الرازي تكامل العمل والعبادة مناقشةً مستفيضة يصل فيها إلى نتائج موازية لما في الميزان. وكلا التراثين يستشهد بأحاديث في فضل الكسب الحلال وكثرة الذكر. ومؤلفات الغزالي في ذكر الله تُؤكِّد استحضار الوعي في كل الأنشطة، وهو ما يعكس تعاليم الأئمة. وثمة فوارق دقيقة في أوراد الذكر الموصى بها، فلكل مدرسة أذكارها وأحزابها، لكن مبدأ الذكر الدائم موضع إجماع. وكلا التراثين يُعلِّمان أن العمل يغدو عبادةً بالنية الصالحة والسلوك الأخلاقي القويم. والإجماع العلمي عبر المذاهب أن الآية تُقدِّم نموذج الحياة الإسلامية: الوفاء بالعبادة ثم الانخراط المنتج في الدنيا في ظل الذكر الدائم. وكلا الفريقين يستشهد بالآية في دحض مادية الغلوِّ والترهُّب المنعزل. والفلاح معرَّف في المدارس الإسلامية كافة بالرقي الشامل في الدنيا والآخرة يتحقق بالجمع بين العبادة والعمل والذكر. وتُشكِّل الآية أرضية مشتركة لجميع المسلمين لبناء حياة مُنتجة روحياً ووظيفياً في ظل وعي دائم بالله."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "62:11:historical-context",
+          "title": "Historical Context",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "When a trade caravan or entertainment arrived, some companions left the Prophet's Friday sermon - revealing human weakness for worldly distractions even in sacred moments.",
+          "whyItMatters": "This incident preserved in the Quran shows Allah's honesty about early Muslims' struggles, teaching that spiritual growth requires overcoming constant pull toward material temptations.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا",
+          "title_urdu": "تاریخی سیاق",
+          "coreInsight_urdu": "جب تجارتی قافلہ یا تفریح آئی تو کچھ صحابہ نبی کے جمعہ کے خطبے کو چھوڑ گئے - مقدس لمحات میں بھی دنیاوی توجہ ہٹانے کے لیے انسانی کمزوری کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "قرآن میں محفوظ یہ واقعہ ابتدائی مسلمانوں کی جدوجہد کے بارے میں اللہ کی ایمانداری دکھاتا ہے، سکھاتے ہوئے کہ روحانی ترقی مادی آزمائشوں کی طرف مسلسل کھینچ پر قابو پانے کی ضرورت ہوتی ہے۔",
+          "title_ar": "السياق التاريخي",
+          "coreInsight_ar": "عندما وصلت قافلة تجارية أو ترفيه، ترك بعض الصحابة خطبة النبي يوم الجمعة - كاشفة عن ضعف الإنسان للتشتتات الدنيوية حتى في اللحظات المقدسة.",
+          "whyItMatters_ar": "هذه الحادثة المحفوظة في القرآن تظهر صدق الله حول صراعات المسلمين الأوائل، معلمة أن النمو الروحي يتطلب التغلب على الجذب المستمر نحو الإغراءات المادية."
+        },
+        {
+          "id": "62:11:divine-provision",
+          "title": "Divine Provision",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah declares 'What is with Allah is better than entertainment and trade' - establishing that divine blessings surpass any worldly gain or pleasure.",
+          "whyItMatters": "Prioritizing spiritual connection over material opportunities brings greater long-term fulfillment, as Allah's provision encompasses both worldly sustenance and eternal reward.",
+          "position": "topRight",
+          "arabicHighlight": "قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ",
+          "title_urdu": "الٰہی رزق",
+          "coreInsight_urdu": "اللہ اعلان کرتا ہے 'جو اللہ کے پاس ہے وہ تفریح اور تجارت سے بہتر ہے' - قائم کرتے ہوئے کہ الٰہی برکتیں کسی بھی دنیاوی فائدے یا خوشی سے بڑھ کر ہیں۔",
+          "whyItMatters_urdu": "مادی مواقع پر روحانی تعلق کو ترجیح دینا زیادہ طویل مدتی تکمیل لاتا ہے، کیونکہ اللہ کا رزق دنیاوی رزق اور ابدی انعام دونوں پر محیط ہے۔",
+          "title_ar": "الرزق الإلهي",
+          "coreInsight_ar": "يعلن الله 'ما عند الله خير من اللهو ومن التجارة' - مؤسساً أن البركات الإلهية تتجاوز أي مكسب أو متعة دنيوية.",
+          "whyItMatters_ar": "إعطاء الأولوية للاتصال الروحي على الفرص المادية يجلب تحقيقاً أكبر على المدى الطويل، لأن رزق الله يشمل كلاً من القوت الدنيوي والثواب الأبدي."
+        },
+        {
+          "id": "62:11:best-provider",
+          "title": "Best Provider",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah is 'khayr ar-raziqeen' (the best of providers) - emphasizing that He alone guarantees sustenance, making anxious pursuit of wealth unnecessary.",
+          "whyItMatters": "Trusting Allah as the ultimate provider frees us from desperate materialism, allowing spiritual priorities without fear of poverty or scarcity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
+          "title_urdu": "بہترین رزق دینے والا",
+          "coreInsight_urdu": "اللہ 'خیر الرازقین' (بہترین رزق دینے والا) ہے - اس بات پر زور دیتے ہوئے کہ وہ اکیلا رزق کی ضمانت دیتا ہے، دولت کی بے چین جستجو کو غیر ضروری بناتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ پر حتمی رزق دینے والے کے طور پر بھروسہ کرنا ہمیں شدید مادیت پسندی سے آزاد کرتا ہے، غربت یا کمی کے خوف کے بغیر روحانی ترجیحات کی اجازت دیتے ہوئے۔",
+          "title_ar": "خير الرازقين",
+          "coreInsight_ar": "الله هو 'خير الرازقين' - مؤكداً أنه وحده يضمن الرزق، مما يجعل السعي القلق للثروة غير ضروري.",
+          "whyItMatters_ar": "الثقة بالله كالرزاق النهائي تحررنا من المادية اليائسة، مما يسمح بالأولويات الروحية دون خوف من الفقر أو الندرة."
+        },
+        {
+          "id": "62:11:standing-prophet",
+          "title": "Standing Prophet",
+          "icon": "person.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'they left you standing' emphasizes the disrespect shown when prioritizing commerce over the Prophet's teaching.",
+          "whyItMatters": "This serves as a permanent reminder that honoring sacred moments and spiritual teachers requires full presence and attention, not divided loyalty.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَتَرَكُوكَ قَآئِمًۭا",
+          "title_urdu": "کھڑے نبی",
+          "coreInsight_urdu": "'انہوں نے تمہیں کھڑا چھوڑ دیا' کا جملہ اس بے ادبی پر زور دیتا ہے جو نبی کی تعلیم پر تجارت کو ترجیح دیتے وقت دکھائی گئی۔",
+          "whyItMatters_urdu": "یہ مستقل یاد دہانی کے طور پر کام کرتا ہے کہ مقدس لمحات اور روحانی اساتذہ کی عزت مکمل موجودگی اور توجہ کی ضرورت ہوتی ہے، تقسیم شدہ وفاداری نہیں۔",
+          "title_ar": "النبي الواقف",
+          "coreInsight_ar": "عبارة 'وتركوك قائماً' يؤكد على عدم الاحترام المعروض عند إعطاء الأولوية للتجارة على تعليم النبي.",
+          "whyItMatters_ar": "هذا بمثابة تذكير دائم بأن تكريم اللحظات المقدسة والمعلمين الروحيين يتطلب الحضور والاهتمام الكامل، وليس الولاء المنقسم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the historical incident behind this verse and its message about priorities. Tafsir al-Tabari, Ibn Kathir, and Qurtubi all narrate that a trade caravan arrived during Friday khutbah, people rushed out leaving the Prophet standing, and this verse was revealed in response. Bukhari's Sahih records this incident with slight variations in details. Both traditions use this verse to establish rules about Friday prayer adab - one should not leave during the khutbah except for valid excuse, and worldly matters should not interrupt worship. Fakhr al-Din al-Razi discusses the verse's educational approach - gentle criticism rather than harsh punishment, teaching rather than condemning. Both schools emphasize the verse's timeless message: believers constantly face choices between worldly attractions and religious obligations, and wisdom demands prioritizing the eternal over the temporary. Al-Ghazali's writings on tawakkul and detachment from dunya resonate with Shia teachings from the Imams - both emphasize that true provision comes from Allah, and prioritizing worship does not decrease worldly success but often increases it through divine blessings. Minor differences exist in jurisprudential details - some Sunni schools allow more flexibility in leaving Friday prayer under certain conditions, while Shia fiqh is generally stricter - but the core principle is universal. The scholarly consensus across all schools is that this verse teaches proper priorities: what Allah offers through worship, guidance, and divine pleasure is better than any worldly gain. Both traditions use this verse to combat materialism and encourage trust in divine provision, making it common ground for all Muslims to examine priorities and align choices with Islamic values.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے تراریخی واقعے اور اس کے پیغام پر متفق ہیں ترجیحات کے بارے میں۔ تفسیر طبری، ابن کثیر، اور قرطبی تمام نقل کرتے ہیں کہ ایک تجارتی کاروان خطبے کے دوران پہنچی، لوگ نکل گئے، اور یہ آیت اس کے جواب میں نازل ہوئی۔ بخاری کی صحیح اس واقعہ کو معمولی الفاظ کی تبدیلی کے ساتھ ریکارڈ کرتا ہے۔ دونوں روایتیں اس آیت کو جمعہ کی نماز ادب قائم کرنے کے لیے استعمال کرتی ہیں۔ فخر الدین رازی آیت کے تعلیمی طریقہ پر بحث کرتے ہیں - ملائم ناقدی بجائے سخت سزا۔ دونوں مکاتب اس آیت کو مادہ پرستی سے جدوجہد کرتے ہوئے استعمال کرتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على الحادثة التاريخية وراء هذه الآية وعلى رسالتها في ترتيب الأولويات. وتفاسير الطبري وابن كثير والقرطبي كلها تروي أن قافلة تجارية وصلت أثناء خطبة الجمعة فانصرف الناس إليها تاركين النبي، فنزلت هذه الآية. وصحيح البخاري يُورد الحادثة مع تفاوت بسيط في التفاصيل. وكلا التراثين يستنبط من الآية آداب الجمعة: لا ينبغي مغادرة المسجد أثناء الخطبة إلا لعذر مُبيح، والشواغل الدنيوية لا تُقاطع العبادة. ويتناول فخر الرازي الأسلوب التربوي للآية: نقد لطيف لا عقوبة قاسية، تعليم لا إدانة. وكلا المدرستين يُبرز الرسالة الخالدة للآية: المؤمن يواجه دائماً التعارض بين جاذبيات الدنيا والتزامات الدين، والحكمة في تغليب الأبدي على الزائل. ومؤلفات الغزالي في التوكل والزهد في الدنيا تتصدى للمفهوم ذاته الذي تُعالجه تعاليم الأئمة: الرزق الحقيقي من الله، وتقديم العبادة لا ينقص الرزق بل يزيده بركةً بتوفيق الله. وثمة فوارق فقهية دقيقة: بعض مذاهب السنة تُتيح مرونة أكبر في مغادرة الجمعة في ظروف معينة بينما يميل الفقه الشيعي إلى الاشتراط الأشد. غير أن المبدأ الجوهري واحد. والإجماع العلمي عبر المذاهب أن الآية تُعلِّم الأولويات الصحيحة: ما عند الله من ثواب وهداية ورضوان خير من أي مكسب دنيوي. وكلا التراثين يستشهد بالآية في مقاومة المادية والحثِّ على الثقة بالرزق الإلهي، مما يجعلها أرضية مشتركة لتحريض المسلمين على مراجعة أولوياتهم ومواءمة اختياراتهم مع القيم الإسلامية."
+  }
+}

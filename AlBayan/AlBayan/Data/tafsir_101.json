@@ -1,0 +1,645 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:1:al-qariah",
+          "title": "The Striking Hour",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Al-Qari'ah (القارعة) comes from the root qara'a, meaning 'to strike' or 'to knock violently.' This name for the Day of Judgment emphasizes its sudden, overwhelming impact that will shake all creation.",
+          "whyItMatters": "This vivid name reminds us that the Day of Judgment will arrive with undeniable force, leaving no soul untouched. It calls us to prepare now while we have time.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْقَارِعَةُ",
+          "title_urdu": "قیامت کی دستک",
+          "coreInsight_urdu": "القارعة 'قرع' سے نکلا ہے جس کا مطلب ہے 'زور سے ٹکرانا' یا 'دستک دینا'۔ قیامت کا یہ نام اس کے اچانک، زبردست اثر پر زور دیتا ہے جو تمام مخلوق کو ہلا دے گا۔",
+          "whyItMatters_urdu": "یہ واضح نام ہمیں یاد دلاتا ہے کہ قیامت ناقابل تردید قوت کے ساتھ آئے گی، کوئی روح اس سے محفوظ نہیں۔ یہ ہمیں ابھی تیاری کی دعوت دیتا ہے جب ہمارے پاس وقت ہے۔",
+          "title_ar": "الساعة القارعة",
+          "coreInsight_ar": "القارعة من الجذر 'قرع' بمعنى الطرق أو الضرب بشدة. هذا الاسم ليوم القيامة يؤكد تأثيره المفاجئ الساحق الذي سيهز كل الخلق.",
+          "whyItMatters_ar": "هذا الاسم الحي يذكرنا أن يوم القيامة سيأتي بقوة لا يمكن إنكارها، لن يُترك روح بلا لمس. إنه يدعونا للاستعداد الآن بينما لدينا الوقت."
+        },
+        {
+          "id": "101:1:day-of-resurrection",
+          "title": "Inevitable Reality",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "By opening with this powerful name, the surah establishes the certainty of the resurrection. The definite article 'Al' emphasizes that this is THE striking event, not merely one among many.",
+          "whyItMatters": "The definiteness of this term challenges denial and complacency. It affirms that accountability is not a possibility but an approaching reality that demands our immediate attention.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْقَارِعَةُ",
+          "title_urdu": "ناگزیر حقیقت",
+          "coreInsight_urdu": "اس طاقتور نام سے شروع کرتے ہوئے، سورہ قیامت کی یقینی حقیقت قائم کرتی ہے۔ معرفہ 'ال' اس بات پر زور دیتا ہے کہ یہ 'وہ' زبردست واقعہ ہے، بہت سوں میں سے صرف ایک نہیں۔",
+          "whyItMatters_urdu": "اس اصطلاح کی قطعیت انکار اور لاپرواہی کو چیلنج کرتی ہے۔ یہ تصدیق کرتی ہے کہ جوابدہی ایک امکان نہیں بلکہ ایک قریب آتی ہوئی حقیقت ہے جو ہماری فوری توجہ کا مطالبہ کرتی ہے۔",
+          "title_ar": "الحقيقة الحتمية",
+          "coreInsight_ar": "بالافتتاح بهذا الاسم القوي، تؤكد السورة يقين البعث. أداة التعريف 'ال' تؤكد أن هذا هو الحدث الضارب، وليس مجرد واحد من كثيرين.",
+          "whyItMatters_ar": "إن قطعية هذا المصطلح تتحدى الإنكار والتراخي. إنها تؤكد أن المساءلة ليست احتمالاً بل واقع قادم يتطلب اهتمامنا الفوري."
+        },
+        {
+          "id": "101:1:divine-warning",
+          "title": "Divine Alert",
+          "icon": "bell.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The abrupt, single-word opening creates a sense of urgency and alarm. This stylistic choice mirrors the sudden nature of the event itself, jolting the listener to attention.",
+          "whyItMatters": "The Quran's rhetorical power awakens spiritual awareness. This dramatic opening serves as a wake-up call, pulling us from the distractions of worldly life to contemplate our ultimate fate.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْقَارِعَةُ",
+          "title_urdu": "الہی انتباہ",
+          "coreInsight_urdu": "اچانک، ایک لفظ کا آغاز فوریت اور خطرے کا احساس پیدا کرتا ہے۔ یہ اسلوبیاتی انتخاب خود واقعے کی اچانک نوعیت کی عکاسی کرتا ہے، سامع کو توجہ دلاتا ہے۔",
+          "whyItMatters_urdu": "قرآن کی بلاغت روحانی بیداری کو جگاتی ہے۔ یہ ڈرامائی آغاز ایک بیدار کال کے طور پر کام کرتا ہے، ہمیں دنیوی زندگی کی توجہ ہٹانے والی چیزوں سے ہماری حتمی تقدیر پر غور کرنے کی طرف کھینچتا ہے۔",
+          "title_ar": "التنبيه الإلهي",
+          "coreInsight_ar": "الافتتاح المفاجئ بكلمة واحدة يخلق إحساساً بالإلحاح والإنذار. هذا الاختيار الأسلوبي يعكس الطبيعة المفاجئة للحدث نفسه، مما يوقظ المستمع للانتباه.",
+          "whyItMatters_ar": "قوة القرآن البلاغية توقظ الوعي الروحي. هذا الافتتاح الدرامي يعمل كنداء إيقاظ، يسحبنا من مشتتات الحياة الدنيوية للتأمل في مصيرنا النهائي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that Al-Qariah refers to the Day of Resurrection and emphasize its terrifying, world-shattering nature. Classical commentators from both traditions, including Fakhr al-Din al-Razi and Ibn Kathir from the Sunni perspective and Tabatabai and Tabrisi from the Shia tradition, concur that the rhetorical structure amplifies the gravity of this event. The main difference emerges in broader eschatological frameworks: Sunni scholars generally focus on individual accountability and the Prophet's intercession for his entire community, while Shia scholars emphasize the specific intercession of the Ahlul Bayt and their role as the criterion (mizan) by which deeds are measured. However, both traditions agree on the fundamental doctrine of bodily resurrection, divine justice, and the reality of reward and punishment. The linguistic analysis of 'qariah' as a striking, percussive force is consistent across both scholarly traditions, demonstrating the Quran's universal message transcending sectarian boundaries.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ القارعہ قیامت کے دن کی طرف اشارہ کرتا ہے اور اس کی خوفناک، دنیا کو ہلا دینے والی نوعیت پر زور دیتے ہیں۔ دونوں روایات کے کلاسیکی مفسرین، بشمول فخر الدین رازی اور ابن کثیر سنی نقطہ نظر سے اور طباطبائی اور طبرسی شیعہ روایت سے، اس بات پر متفق ہیں کہ بلاغتی ڈھانچہ اس واقعے کی اہمیت کو بڑھاتا ہے۔ بنیادی فرق وسیع تر علم آخرت کے فریم ورک میں ابھرتا ہے: سنی علماء عام طور پر انفرادی جوابدہی اور پوری امت کے لیے نبی کی شفاعت پر توجہ مرکوز کرتے ہیں، جبکہ شیعہ علماء اہل بیت کی مخصوص شفاعت اور اعمال کی پیمائش کے معیار کے طور پر ان کے کردار پر زور دیتے ہیں۔ تاہم، دونوں روایات جسمانی قیامت، الٰہی انصاف، اور انعام و سزا کی حقیقت کے بنیادی عقیدے پر متفق ہیں۔ 'قارعہ' کا لسانی تجزیہ بطور ضرب لگانے والی، گونجنے والی قوت دونوں علمی روایات میں مستقل ہے، جو فرقہ وارانہ حدود سے ماوراء قرآن کے آفاقی پیغام کو ظاہر کرتا ہے۔",
+    "layer4_ar": "يتفق المفسرون الشيعة والسنة على أن «القارعة» اسم ليوم القيامة وعلى تصوير طابعه المرعب الذي يزلزل العالم من أساسه. ويتوافق المعلِّقون الكلاسيكيون من كلا التراثين، فخر الدين الرازي وابن كثير من المنظور السني، والطباطبائي والطبرسي من التراث الشيعي، في أن البنية البلاغية للسورة تُضاعف من هيبة هذا الحدث وجسامته. ويبرز الاختلاف الرئيسي في الأطر العقدية الأشمل حول الآخرة؛ إذ يُركِّز العلماء السنة عموماً على المساءلة الفردية وشفاعة النبي صلى الله عليه وآله لأمته كلها، في حين يُشدِّد العلماء الشيعة على الشفاعة الخاصة لأهل البيت عليهم السلام ودورهم بوصفهم الميزان الذي تُوزن به الأعمال. بيد أن التراثين يتفقان على العقيدة الجوهرية المتعلقة بالبعث الجسدي والعدل الإلهي وحقيقة الثواب والعقاب. أما التحليل اللغوي للقارعة بوصفها قوة ضاربة طارقة فيسير في ذات الاتجاه عبر التراثين العلميين، مما يُجلِّي الطابع الإنساني الجامع لرسالة القرآن المتجاوزة للحدود المذهبية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:2:rhetorical-question",
+          "title": "Intensifying Question",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The question 'Ma al-Qari'ah?' (What is the Striking Calamity?) doesn't seek information but amplifies the gravity of what was just mentioned. It's a rhetorical device to heighten awareness and anticipation.",
+          "whyItMatters": "This questioning technique draws us deeper into contemplation. Instead of simply stating facts, the Quran engages our intellect, making us active participants in understanding the magnitude of the Day.",
+          "position": "topLeft",
+          "arabicHighlight": "مَا ٱلْقَارِعَةُ",
+          "title_urdu": "شدت کا سوال",
+          "coreInsight_urdu": "'ما القارعة؟' (القارعة کیا ہے؟) یہ سوال معلومات نہیں مانگتا بلکہ جو ابھی ذکر کیا گیا اس کی شدت کو بڑھاتا ہے۔ یہ ایک بلاغتی آلہ ہے آگاہی اور توقع کو بڑھانے کے لیے۔",
+          "whyItMatters_urdu": "یہ سوالیہ تکنیک ہمیں غور و فکر میں گہرائی میں لے جاتی ہے۔ صرف حقائق بیان کرنے کی بجائے، قرآن ہماری عقل کو مشغول کرتا ہے، ہمیں قیامت کی عظمت کو سمجھنے میں فعال شریک بناتا ہے۔",
+          "title_ar": "السؤال المكثف",
+          "coreInsight_ar": "السؤال 'ما القارعة؟' لا يسعى للمعلومات بل يضخم جسامة ما ذُكر للتو. إنها أداة بلاغية لتعزيز الوعي والترقب.",
+          "whyItMatters_ar": "هذه التقنية الاستفهامية تجذبنا أعمق في التأمل. بدلاً من مجرد ذكر الحقائق، يشرك القرآن عقلنا، جاعلاً إيانا مشاركين نشطين في فهم عظمة اليوم."
+        },
+        {
+          "id": "101:2:beyond-comprehension",
+          "title": "Beyond Understanding",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The question implies that Al-Qari'ah is beyond ordinary human comprehension. Its magnitude, horror, and reality surpass what our limited minds can fully grasp in this worldly life.",
+          "whyItMatters": "Acknowledging the limits of our understanding cultivates humility and reverence. We must prepare for something greater than we can imagine, relying on divine guidance rather than our own limited perceptions.",
+          "position": "topRight",
+          "arabicHighlight": "مَا ٱلْقَارِعَةُ",
+          "title_urdu": "فہم سے ماورا",
+          "coreInsight_urdu": "سوال اشارہ کرتا ہے کہ القارعة عام انسانی فہم سے باہر ہے۔ اس کی وسعت، ہولناکی، اور حقیقت اس سے زیادہ ہے جو ہمارے محدود دماغ اس دنیوی زندگی میں مکمل طور پر سمجھ سکتے ہیں۔",
+          "whyItMatters_urdu": "ہماری سمجھ کی حدود کو تسلیم کرنا عاجزی اور احترام پیدا کرتا ہے۔ ہمیں کچھ ایسی چیز کے لیے تیاری کرنی چاہیے جو ہم تصور سے بڑھ کر ہو، اپنے محدود تصورات کی بجائے الہی رہنمائی پر انحصار کرتے ہوئے۔",
+          "title_ar": "فوق الفهم",
+          "coreInsight_ar": "السؤال يشير إلى أن القارعة تتجاوز الفهم البشري العادي. عظمتها وهولها وواقعيتها تتجاوز ما يمكن لعقولنا المحدودة أن تستوعبه بالكامل في هذه الحياة الدنيا.",
+          "whyItMatters_ar": "إن الاعتراف بحدود فهمنا يزرع التواضع والتقوى. يجب أن نستعد لشيء أعظم مما يمكن أن نتخيله، معتمدين على الإرشاد الإلهي بدلاً من تصوراتنا المحدودة."
+        },
+        {
+          "id": "101:2:escalating-emphasis",
+          "title": "Mounting Tension",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The repetition of 'Al-Qari'ah' in the question builds dramatic tension. Each mention increases the weight and urgency of the message, preparing the listener for the vivid descriptions that follow.",
+          "whyItMatters": "This escalation mirrors how the reality will unfold—gradually building until it becomes overwhelming. The Quran's structure itself teaches us about the progressive nature of divine judgment.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْقَارِعَةُ",
+          "title_urdu": "بڑھتا ہوا زور",
+          "coreInsight_urdu": "سوال میں 'القارعة' کی تکرار ڈرامائی کشیدگی پیدا کرتی ہے۔ ہر ذکر پیغام کے وزن اور فوریت کو بڑھاتا ہے، سامع کو آنے والی واضح تفصیلات کے لیے تیار کرتا ہے۔",
+          "whyItMatters_urdu": "یہ اضافہ عکاسی کرتا ہے کہ حقیقت کیسے سامنے آئے گی—آہستہ آہستہ بڑھتے ہوئے جب تک کہ یہ زبردست نہ ہو جائے۔ قرآن کی ساخت خود ہمیں الہی فیصلے کی ترقی پسند نوعیت کے بارے میں سکھاتی ہے۔",
+          "title_ar": "التوتر المتصاعد",
+          "coreInsight_ar": "تكرار 'القارعة' في السؤال يبني التوتر الدرامي. كل ذكر يزيد من وزن وإلحاح الرسالة، مما يعد المستمع للأوصاف الحية التي تتبع.",
+          "whyItMatters_ar": "هذا التصعيد يعكس كيف ستتكشف الواقعية—تتراكم تدريجياً حتى تصبح ساحقة. بنية القرآن نفسها تعلمنا عن الطبيعة التدريجية للحكم الإلهي."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions recognize this verse as a rhetorical question of magnification. Al-Qurtubi and Ibn Kathir from the Sunni tradition, like their Shia counterparts, explain that the question emphasizes the enormity of the event rather than seeking an answer. Both traditions cite similar linguistic principles from Arabic rhetoric to explain this device. However, interpretive differences emerge in understanding the comprehensive knowledge of such matters. Shia scholars emphasize that the Imams, as divinely guided inheritors of prophetic knowledge, possess understanding of these realities granted to them by Allah, while Sunni scholars generally limit such knowledge to the Prophet alone among post-prophetic humanity. Nonetheless, both traditions agree that this questioning style is meant to inspire awe, fear, and preparation for the Hereafter. Both also concur that the repetition serves a mnemonic and psychological function, ensuring that the message of resurrection remains vivid in believers' hearts and minds throughout their lives.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء اس آیت کو بڑا کرنے والے بلاغتی سوال کے طور پر تسلیم کرتے ہیں۔ القرطبی اور ابن کثیر سنی روایت سے، اپنے شیعہ ہم منصبوں کی طرح، وضاحت کرتے ہیں کہ سوال جواب طلب کرنے کی بجائے واقعے کی عظمت پر زور دیتا ہے۔ دونوں روایات عربی بلاغت سے اسی طرح کے لسانی اصولوں کا حوالہ دیتی ہیں اس ترکیب کی وضاحت کے لیے۔ تاہم، تشریحی فرق ایسے معاملات کے جامع علم کی تفہیم میں ابھرتا ہے۔ شیعہ علماء اس بات پر زور دیتے ہیں کہ ائمہ، بطور الٰہی طور پر رہنمائی یافتہ نبوی علم کے وارث، ان حقائق کی سمجھ رکھتے ہیں جو انہیں اللہ نے عطا کی ہے، جبکہ سنی علماء عام طور پر ایسے علم کو صرف نبی تک محدود کرتے ہیں۔ اس کے باوجود، دونوں روایات اس بات پر متفق ہیں کہ یہ سوالیہ انداز خوف، تعظیم، اور آخرت کی تیاری کو متاثر کرنے کے لیے ہے۔ دونوں یہ بھی مانتے ہیں کہ تکرار یادداشت اور نفسیاتی کام کرتی ہے، اس بات کو یقینی بناتے ہوئے کہ قیامت کا پیغام مومنین کے دلوں اور ذہنوں میں پوری زندگی واضح رہے۔",
+    "layer4_ar": "يُقرُّ علماء التراثين الشيعي والسني بأن هذه الآية سؤال بلاغي للتهويل والتعظيم. فالقرطبي وابن كثير من التراث السني كنظرائهم من التراث الشيعي يُوضِّحون أن السؤال يُبرز فداحة الحدث لا أنه يطلب جواباً. ويستند الفريقان إلى مبادئ لغوية متشابهة من البلاغة العربية في تأويل هذا الأسلوب. غير أن الاختلاف يبرز حين يتعلق الأمر بالعلم الشامل بهذه الحقائق؛ إذ يُؤكِّد العلماء الشيعة أن الأئمة بوصفهم ورثة النبوة المُلهَمين يمتلكون من العلم بهذه الحقائق ما وهبه الله إياهم، في حين يحصر العلماء السنة عموماً هذا العلم الخاص بالنبي وحده من بين البشر في مرحلة ما بعد النبوة. ومع ذلك يتفق الفريقان على أن هذا الأسلوب الاستفهامي يستهدف بثَّ الرهبة والخشية والدافعية نحو الاستعداد للآخرة، وأن التكرار يؤدي وظيفة تقنية تربوية تحرص على إبقاء حقيقة البعث حية في وجدان المؤمنين طوال حياتهم."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:3:emphatic-repetition",
+          "title": "Triple Emphasis",
+          "icon": "3.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah mentions Al-Qari'ah three times in the first three verses—statement, question, then emphatic question. This triple repetition is a powerful Arabic rhetorical device (tikrar) that permanently imprints the concept in the listener's mind.",
+          "whyItMatters": "The Quran uses linguistic artistry to ensure we never forget the Day of Judgment. These repeated reminders shake us from spiritual heedlessness and keep ultimate accountability at the forefront of our consciousness.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+          "title_urdu": "تین گنا زور",
+          "coreInsight_urdu": "سورہ پہلی تین آیات میں القارعة کا تین بار ذکر کرتی ہے—بیان، سوال، پھر زوردار سوال۔ یہ تین گنا تکرار ایک طاقتور عربی بلاغتی آلہ (تکرار) ہے جو سامع کے ذہن میں تصور کو مستقل طور پر نقش کر دیتا ہے۔",
+          "whyItMatters_urdu": "قرآن لسانی فن کا استعمال کرتا ہے تاکہ ہم قیامت کو کبھی نہ بھولیں۔ یہ بار بار یاد دہانیاں ہمیں روحانی غفلت سے جھٹکا دیتی ہیں اور حتمی جوابدہی کو ہمارے شعور کے سامنے رکھتی ہیں۔",
+          "title_ar": "التأكيد الثلاثي",
+          "coreInsight_ar": "تذكر السورة القارعة ثلاث مرات في الآيات الثلاث الأولى—بيان، سؤال، ثم سؤال مؤكد. هذا التكرار الثلاثي أداة بلاغية عربية قوية (التكرار) تطبع المفهوم بشكل دائم في ذهن المستمع.",
+          "whyItMatters_ar": "يستخدم القرآن البراعة اللغوية لضمان عدم نسيان يوم القيامة أبداً. هذه التذكيرات المتكررة تهزنا من الغفلة الروحية وتبقي المساءلة النهائية في مقدمة وعينا."
+        },
+        {
+          "id": "101:3:adraaka-formula",
+          "title": "Divine Unveiling",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Wa ma adraka' (And what can make you know?) is a Quranic formula that introduces matters of immense significance. It signals that what follows requires divine revelation to understand—human reason alone is insufficient.",
+          "whyItMatters": "This phrase reminds us of our dependence on revelation for ultimate truths. The Day of Judgment, resurrection, and afterlife realities are not subjects for speculation but divinely revealed certainties.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَآ أَدْرَ",
+          "title_urdu": "الہی انکشاف",
+          "coreInsight_urdu": "'وما أدراک' (اور تمہیں کیا معلوم؟) ایک قرآنی فارمولا ہے جو بہت زیادہ اہمیت کے معاملات متعارف کراتا ہے۔ یہ اشارہ کرتا ہے کہ جو آگے آتا ہے اسے سمجھنے کے لیے الہی وحی کی ضرورت ہے—صرف انسانی عقل ناکافی ہے۔",
+          "whyItMatters_urdu": "یہ جملہ ہمیں حتمی سچائیوں کے لیے وحی پر اپنی انحصار کی یاد دلاتا ہے۔ قیامت، قیامت، اور آخرت کی حقیقتیں قیاس آرائی کے موضوعات نہیں بلکہ الہی طور پر مکشوف یقینیات ہیں۔",
+          "title_ar": "الكشف الإلهي",
+          "coreInsight_ar": "'وما أدراك' (وما الذي يجعلك تعلم؟) صيغة قرآنية تقدم مسائل ذات أهمية هائلة. إنها تشير إلى أن ما يتبع يتطلب الوحي الإلهي للفهم—العقل البشري وحده غير كافٍ.",
+          "whyItMatters_ar": "هذه العبارة تذكرنا باعتمادنا على الوحي للحقائق النهائية. يوم القيامة والبعث وحقائق الآخرة ليست موضوعات للتكهن بل يقينيات مكشوفة إلهياً."
+        },
+        {
+          "id": "101:3:magnitude-unknown",
+          "title": "Incomprehensible Scale",
+          "icon": "infinity",
+          "colorHex": "#E57373",
+          "coreInsight": "This verse emphasizes that the magnitude of Al-Qari'ah is beyond human calculation or imagination. No worldly experience, no matter how catastrophic, can prepare us for the reality of the Day of Resurrection.",
+          "whyItMatters": "Understanding that the Day is beyond our comprehension should inspire both fear and preparation. We must take it seriously now, since experiencing it directly will be too late for repentance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْقَارِعَةُ",
+          "title_urdu": "ناقابل فہم پیمانہ",
+          "coreInsight_urdu": "یہ آیت زور دیتی ہے کہ القارعة کی وسعت انسانی حساب یا تصور سے باہر ہے۔ کوئی دنیوی تجربہ، چاہے کتنا ہی تباہ کن ہو، ہمیں قیامت کی حقیقت کے لیے تیار نہیں کر سکتا۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ قیامت ہماری سمجھ سے باہر ہے، خوف اور تیاری دونوں کو متاثر کرنا چاہیے۔ ہمیں اسے اب سنجیدگی سے لینا چاہیے، کیونکہ اسے براہ راست تجربہ کرنا توبہ کے لیے بہت دیر ہو جائے گی۔",
+          "title_ar": "الحجم غير المفهوم",
+          "coreInsight_ar": "تؤكد هذه الآية أن عظمة القارعة تتجاوز الحساب أو التخيل البشري. لا يمكن لأي تجربة دنيوية، مهما كانت كارثية، أن تعدنا لواقع يوم البعث.",
+          "whyItMatters_ar": "إن فهم أن اليوم يتجاوز فهمنا يجب أن يلهم كلاً من الخوف والاستعداد. يجب أن نأخذه على محمل الجد الآن، لأن تجربته مباشرة ستكون متأخرة جداً للتوبة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the rhetorical function of this verse as an emphatic statement of the incomprehensible magnitude of the Day of Judgment. Scholars from both traditions, including Al-Zamakhshari, Al-Razi, Tabatabai, and Tabrisi, recognize this as a statement of negation meaning that full comprehension is impossible for unaided human intellect. Both traditions emphasize that subsequent verses will provide some description, but this description is accommodated to human understanding and does not capture the full reality. The traditions agree that this verse instills both fear and motivation: fear of the tremendous reckoning, and motivation to prepare through faith and good works. A subtle difference exists in that Shia exegesis more explicitly connects such knowledge to the Ahlul Bayt as inheritors and explainers of prophetic knowledge, while Sunni exegesis typically limits special understanding to the Prophet's companions and early generations. However, both agree that the verse's primary purpose is to humble human pride and direct all people toward divine guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کے بلاغتی کام پر متفق ہیں جو قیامت کے دن کی ناقابل فہم عظمت کا زوردار بیان ہے۔ دونوں روایات کے علماء، بشمول الزمخشری، الرازی، طباطبائی، اور طبرسی، اسے نفی کے بیان کے طور پر تسلیم کرتے ہیں جس کا مطلب ہے کہ غیرمدد یافتہ انسانی عقل کے لیے مکمل فہم ناممکن ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ بعد کی آیات کچھ تفصیل فراہم کریں گی، لیکن یہ تفصیل انسانی فہم کے مطابق ہے اور مکمل حقیقت کو نہیں پکڑتی۔ روایات اس بات پر متفق ہیں کہ یہ آیت خوف اور حوصلہ دونوں پیدا کرتی ہے: زبردست حساب کتاب کا خوف، اور ایمان اور نیک کاموں کے ذریعے تیاری کا حوصلہ۔ ایک لطیف فرق یہ موجود ہے کہ شیعہ تفسیر زیادہ واضح طور پر ایسے علم کو اہل بیت سے جوڑتی ہے بطور نبوی علم کے وارثوں اور شارحین کے، جبکہ سنی تفسیر عام طور پر خاص فہم کو نبی کے صحابہ اور ابتدائی نسلوں تک محدود کرتی ہے۔ تاہم، دونوں اس بات پر متفق ہیں کہ آیت کا بنیادی مقصد انسانی غرور کو عاجز کرنا اور تمام لوگوں کو الٰہی رہنمائی کی طرف رجوع کرانا ہے۔",
+    "layer4_ar": "يتفق مفسرو التراثين الشيعي والسني على الوظيفة البلاغية لهذه الآية بوصفها إثباتاً مُشدَّداً لضخامة يوم القيامة التي تتجاوز حدود الفهم البشري. ويُقرُّ علماء الفريقين، الزمخشري والرازي والطباطبائي والطبرسي، بأن الآية تُقرِّر استحالة الإدراك الكامل على العقل البشري المجرد. ويتفقان كذلك على أن ما يلي من وصف مُقنَّن وفق مستوى الفهم الإنساني ولا يستوعب الحقيقة في كمالها. ويتفق التراثان على أن الآية تبثُّ في آنٍ واحد الخشية من الحساب العسير والتحفيز على الاستعداد بالإيمان والعمل. وثمة فارق دقيق يتجلى في أن التفسير الشيعي يربط صراحةً بين هذا العلم وأهل البيت بوصفهم ورثة النبوة والشارحين لمعانيها، في حين يحصر التفسير السني الفهم المتميز عموماً بصحابة النبي وأجيال السلف الأوائل. غير أن الهدف الأساسي للآية يبقى واحداً في كلا التراثين: تكسير الغرور الإنساني وتوجيه جميع الناس نحو الهدى الإلهي."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:4:scattered-moths",
+          "title": "Scattered Moths",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The simile of people being like 'farash al-mabthuth' (scattered moths) captures the chaos, confusion, and helplessness of humanity on the Day of Resurrection. Moths scatter erratically when disturbed, with no direction or purpose.",
+          "whyItMatters": "This vivid imagery strips away our illusions of control and self-sufficiency. On that Day, all human power, status, and organization will dissolve into panicked helplessness before divine judgment.",
+          "position": "topLeft",
+          "arabicHighlight": "كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+          "title_urdu": "بکھرے ہوئے پروانے",
+          "coreInsight_urdu": "لوگوں کی 'فراش المبثوث' (بکھرے ہوئے پروانوں) جیسے ہونے کی تشبیہ قیامت کے دن انسانیت کی افراتفری، الجھن، اور بے بسی کو پکڑتی ہے۔ پروانے جب پریشان ہوں تو بے ترتیب طور پر بکھر جاتے ہیں، بغیر کسی سمت یا مقصد کے۔",
+          "whyItMatters_urdu": "یہ واضح تصویر کشی ہمارے کنٹرول اور خود کفالت کے وہم کو ختم کر دیتی ہے۔ اس دن، تمام انسانی طاقت، حیثیت، اور تنظیم الہی فیصلے کے سامنے گھبراہٹ بھری بے بسی میں تحلیل ہو جائے گی۔",
+          "title_ar": "الفراش المبعثر",
+          "coreInsight_ar": "تشبيه الناس بـ'الفراش المبثوث' (الفراش المبعثر) يلتقط الفوضى والارتباك والعجز للبشرية في يوم القيامة. ينتشر الفراش بشكل غير منتظم عند الإزعاج، بلا اتجاه أو هدف.",
+          "whyItMatters_ar": "هذه الصورة الحية تزيل أوهامنا عن السيطرة والاكتفاء الذاتي. في ذلك اليوم، ستذوب كل القوة البشرية والمكانة والتنظيم في عجز مذعور أمام الحكم الإلهي."
+        },
+        {
+          "id": "101:4:day-of-chaos",
+          "title": "Cosmic Upheaval",
+          "icon": "tornado",
+          "colorHex": "#E57373",
+          "coreInsight": "'Yawm' (Day) refers to the Day of Resurrection when the entire cosmic order will be overturned. The chaos affects not just individuals but all of humanity collectively, showing the universal scope of this event.",
+          "whyItMatters": "No one will escape this Day—not the powerful, the wealthy, or the proud. Understanding its universality prevents false security and reminds us that only righteous deeds will matter when all worldly distinctions collapse.",
+          "position": "topRight",
+          "arabicHighlight": "يَوْمَ",
+          "title_urdu": "کائناتی الٹ پلٹ",
+          "coreInsight_urdu": "'یوم' (دن) قیامت کے دن کا حوالہ ہے جب پوری کائناتی ترتیب الٹ دی جائے گی۔ افراتفری نہ صرف افراد کو متاثر کرتی ہے بلکہ تمام انسانیت کو اجتماعی طور پر، اس واقعے کی عالمی وسعت کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "کوئی بھی اس دن سے نہیں بچے گا—نہ طاقتور، نہ امیر، نہ مغرور۔ اس کی عالمگیریت کو سمجھنا جھوٹی حفاظت کو روکتا ہے اور ہمیں یاد دلاتا ہے کہ جب تمام دنیوی امتیازات ختم ہو جائیں گے تو صرف نیک اعمال اہمیت رکھیں گے۔",
+          "title_ar": "الانقلاب الكوني",
+          "coreInsight_ar": "'يوم' (اليوم) يشير إلى يوم القيامة عندما سينقلب النظام الكوني بأكمله. الفوضى لا تؤثر على الأفراد فقط بل على البشرية جمعاء، مما يظهر النطاق العالمي لهذا الحدث.",
+          "whyItMatters_ar": "لن يفلت أحد من هذا اليوم—لا الأقوياء ولا الأغنياء ولا المتكبرون. إن فهم عالميته يمنع الأمن الزائف ويذكرنا بأن الأعمال الصالحة فقط ستهم عندما تنهار جميع الفوارق الدنيوية."
+        },
+        {
+          "id": "101:4:loss-of-agency",
+          "title": "Lost Direction",
+          "icon": "arrow.triangle.swap",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Moths are attracted to light but scatter chaotically when their source of light disappears or overwhelms them. Similarly, humans will lose all sense of direction when the familiar worldly order collapses.",
+          "whyItMatters": "This metaphor warns against placing our trust in temporary worldly structures. Only those grounded in divine guidance will maintain spiritual orientation when everything else falls apart.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+          "title_urdu": "گمشدہ سمت",
+          "coreInsight_urdu": "پروانے روشنی کی طرف متوجہ ہوتے ہیں لیکن جب ان کی روشنی کا ذریعہ غائب ہو جائے یا انہیں مغلوب کر دے تو افراتفری سے بکھر جاتے ہیں۔ اسی طرح، انسان تمام سمت کا احساس کھو دیں گے جب مانوس دنیوی نظام ٹوٹ جائے۔",
+          "whyItMatters_urdu": "یہ استعارہ عارضی دنیوی ڈھانچے پر اعتماد کرنے کے خلاف متنبہ کرتا ہے۔ صرف وہ لوگ جو الہی رہنمائی میں مضبوط ہیں روحانی رخ برقرار رکھیں گے جب باقی سب کچھ بکھر جائے گا۔",
+          "title_ar": "الاتجاه المفقود",
+          "coreInsight_ar": "ينجذب الفراش إلى الضوء لكنه يتشتت بشكل فوضوي عندما يختفي مصدر ضوئهم أو يغمرهم. وبالمثل، سيفقد البشر كل إحساس بالاتجاه عندما ينهار النظام الدنيوي المألوف.",
+          "whyItMatters_ar": "هذه الاستعارة تحذر من وضع ثقتنا في الهياكل الدنيوية المؤقتة. فقط أولئك المتجذرون في الإرشاد الإلهي سيحافظون على التوجه الروحي عندما ينهار كل شيء آخر."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes employ the moth metaphor to describe the chaos and confusion of humanity on Judgment Day. Ibn Kathir, Al-Qurtubi, Tabatabai, and Tabrisi all explain that the comparison emphasizes human powerlessness and disorientation. Both traditions cite supporting Quranic verses like 'The Day when a man will flee from his brother, and his mother and his father, and his wife and his children' (80:34-36). The imagery serves the same didactic purpose across traditions: to inspire fear and preparation. A difference exists in understanding who will be protected from this terrifying scattering. Shia tradition emphasizes that followers of the Ahlul Bayt will be gathered in groups under their Imams' banners, while Sunni tradition generally emphasizes gathering under the Prophet's banner with his Companions. However, both agree that genuine faith and righteous action, not mere verbal profession, determine one's state on that day. The universal message transcends sectarian boundaries: prepare for a day when all worldly supports will fail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین قیامت کے دن انسانیت کی افراتفری اور پریشانی کو بیان کرنے کے لیے پتنگے کی تشبیہ استعمال کرتے ہیں۔ ابن کثیر، القرطبی، طباطبائی، اور طبرسی سب وضاحت کرتے ہیں کہ یہ تشبیہ انسانی بے بسی اور سمت کی کمی پر زور دیتی ہے۔ دونوں روایات معاون قرآنی آیات کا حوالہ دیتی ہیں جیسے 'وہ دن جب آدمی اپنے بھائی سے، اور اپنی ماں اور باپ سے، اور اپنی بیوی اور بچوں سے بھاگے گا' (80:34-36)۔ تصویر دونوں روایات میں وہی تعلیمی مقصد پورا کرتی ہے: خوف اور تیاری کو متاثر کرنا۔ ایک فرق یہ سمجھنے میں موجود ہے کہ اس خوفناک بکھرنے سے کون محفوظ رہے گا۔ شیعہ روایت اس بات پر زور دیتی ہے کہ اہل بیت کے پیروکار ان کے جھنڈوں تلے گروہوں میں جمع کیے جائیں گے، جبکہ سنی روایت عام طور پر نبی کے جھنڈے تلے ان کے صحابہ کے ساتھ جمع ہونے پر زور دیتی ہے۔ تاہم، دونوں اس بات پر متفق ہیں کہ حقیقی ایمان اور نیک عمل، نہ کہ محض زبانی اعلان، اس دن کی کسی کی حالت کا تعین کرتے ہیں۔ آفاقی پیغام فرقہ وارانہ حدود سے ماوراء ہے: ایسے دن کی تیاری کریں جب تمام دنیوی مددیں ناکام ہو جائیں گی۔",
+    "layer4_ar": "يستخدم المفسرون من الفريقين الشيعي والسني صورة الفراش لوصف الفوضى والارتباك اللذين يعتريان الإنسانية يوم الحساب. ويتفق ابن كثير والقرطبي والطباطبائي والطبرسي على أن هذا التشبيه يُبرز عجز الإنسان وتشوُّشه التام. ويستشهد الفريقان بآيات قرآنية داعمة كقوله تعالى «يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ وَأُمِّهِ وَأَبِيهِ وَصَاحِبَتِهِ وَبَنِيهِ» (عبس: 34-36). وتُؤدِّي هذه الصورة الغرض التعليمي ذاته عبر التراثين: بثُّ الخوف والتحفيز على الاستعداد. ويبرز اختلاف في تحديد من سيُوقى هذا التبعثر؛ فالتراث الشيعي يُؤكِّد أن أتباع أهل البيت سيُحشرون في مجموعات تحت رايات أئمتهم، في حين يُشدِّد التراث السني عموماً على الحشر تحت لواء النبي مع صحابته. بيد أن الفريقين يتفقان على أن الإيمان الحقيقي والعمل الصالح لا مجرد الشهادة اللفظية هما ما يُحدِّد حال الإنسان يومئذٍ. والرسالة الكونية تعلو فوق الحدود المذهبية: استعدَّ ليوم تنهار فيه جميع ركائز الدنيا."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:5:mountains-like-wool",
+          "title": "Dissolving Mountains",
+          "icon": "mountain.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Mountains, symbols of permanence and strength, will become like 'al-'ihn al-manfush' (fluffed wool)—soft, light, and scattered. What appears most solid and eternal in this world will be rendered powerless and insignificant.",
+          "whyItMatters": "If even mountains lose their solidity, what hope do our worldly achievements and possessions have? This verse shatters materialistic confidence and redirects us toward preparing spiritual substance that endures.",
+          "position": "topLeft",
+          "arabicHighlight": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+          "title_urdu": "پگھلتے پہاڑ",
+          "coreInsight_urdu": "پہاڑ، مستقل مزاجی اور طاقت کی علامات، 'العهن المنفوش' (پھولی ہوئی اون) جیسے ہو جائیں گے—نرم، ہلکے، اور بکھرے ہوئے۔ جو اس دنیا میں سب سے زیادہ ٹھوس اور ابدی نظر آتا ہے وہ بے طاقت اور غیر اہم ہو جائے گا۔",
+          "whyItMatters_urdu": "اگر پہاڑ بھی اپنی مضبوطی کھو دیتے ہیں، تو ہماری دنیوی کامیابیوں اور ممتلکات کی کیا امید ہے؟ یہ آیت مادیت پسند اعتماد کو توڑتی ہے اور ہمیں روحانی مادے کی تیاری کی طرف موڑتی ہے جو برقرار رہتا ہے۔",
+          "title_ar": "الجبال المتحللة",
+          "coreInsight_ar": "الجبال، رموز الديمومة والقوة، ستصبح مثل 'العهن المنفوش' (الصوف المنفوش)—ناعمة وخفيفة ومتناثرة. ما يبدو أكثر صلابة وأبدية في هذا العالم سيصبح عاجزاً وتافهاً.",
+          "whyItMatters_ar": "إذا فقدت الجبال صلابتها، فما الأمل في إنجازاتنا الدنيوية وممتلكاتنا؟ تحطم هذه الآية الثقة المادية وتعيد توجيهنا نحو إعداد الجوهر الروحي الذي يدوم."
+        },
+        {
+          "id": "101:5:cosmic-transformation",
+          "title": "Physical Reality Undone",
+          "icon": "waveform.path.ecg",
+          "colorHex": "#E57373",
+          "coreInsight": "The transformation from solid rock to fluffy wool represents a complete reversal of physical laws. The Day of Resurrection operates under different physics—divine power overrides all natural constants we depend on.",
+          "whyItMatters": "This reminds us that natural laws are not autonomous but sustained by Allah's will. When He wills, all familiar patterns will dissolve, revealing that reality itself is contingent on divine permission.",
+          "position": "topRight",
+          "arabicHighlight": "كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+          "title_urdu": "طبیعی حقیقت کا خاتمہ",
+          "coreInsight_urdu": "ٹھوس چٹان سے پھولی ہوئی اون میں تبدیلی طبیعی قوانین کی مکمل تبدیلی کی نمائندگی کرتی ہے۔ قیامت مختلف طبیعیات کے تحت کام کرتی ہے—الہی طاقت تمام قدرتی مستقل کو زیر کر دیتی ہے جن پر ہم انحصار کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ قدرتی قوانین خود مختار نہیں ہیں بلکہ اللہ کی مرضی سے برقرار ہیں۔ جب وہ چاہتا ہے، تمام مانوس نمونے تحلیل ہو جاتے ہیں، یہ ظاہر کرتے ہوئے کہ حقیقت خود الہی اجازت پر منحصر ہے۔",
+          "title_ar": "إلغاء الواقع المادي",
+          "coreInsight_ar": "التحول من الصخر الصلب إلى الصوف الناعم يمثل انعكاساً كاملاً للقوانين الفيزيائية. يعمل يوم القيامة تحت فيزياء مختلفة—القدرة الإلهية تتجاوز كل الثوابت الطبيعية التي نعتمد عليها.",
+          "whyItMatters_ar": "هذا يذكرنا أن القوانين الطبيعية ليست مستقلة بل مدعومة بإرادة الله. عندما يشاء، ستذوب جميع الأنماط المألوفة، كاشفة أن الواقع نفسه متوقف على الإذن الإلهي."
+        },
+        {
+          "id": "101:5:dual-imagery",
+          "title": "Paired Destruction",
+          "icon": "person.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The pairing of human scattering (verse 4) with mountain dissolution (verse 5) shows that both animate and inanimate creation will be overwhelmed. Nothing escapes the comprehensive nature of the Day's transformation.",
+          "whyItMatters": "These paired images eliminate all escape routes from accountability. Whether we seek refuge in our own agency or in the stability of the material world, both will fail when divine judgment arrives.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَتَكُونُ ٱلْجِبَالُ",
+          "title_urdu": "جوڑی دار تباہی",
+          "coreInsight_urdu": "انسانی بکھرنے (آیت 4) کو پہاڑوں کے پگھلنے (آیت 5) کے ساتھ جوڑنا ظاہر کرتا ہے کہ جاندار اور بے جان دونوں مخلوق مغلوب ہو جائیں گے۔ قیامت کی تبدیلی کی جامع نوعیت سے کچھ بھی نہیں بچتا۔",
+          "whyItMatters_urdu": "یہ جوڑی دار تصاویر جوابدہی سے تمام فرار کے راستے ختم کر دیتی ہیں۔ چاہے ہم اپنی ایجنسی میں پناہ تلاش کریں یا مادی دنیا کی استحکام میں، جب الہی فیصلہ آئے گا دونوں ناکام ہو جائیں گے۔",
+          "title_ar": "الدمار المزدوج",
+          "coreInsight_ar": "إقران تشتت البشر (الآية 4) مع ذوبان الجبال (الآية 5) يظهر أن كلاً من الخلق الحي والجماد سيغمر. لا شيء يهرب من الطبيعة الشاملة لتحول اليوم.",
+          "whyItMatters_ar": "هذه الصور المزدوجة تلغي جميع طرق الهروب من المساءلة. سواء سعينا للجوء في فاعليتنا أو في استقرار العالم المادي، فسيفشل كلاهما عند وصول الحكم الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the literal interpretation of this verse as describing the physical transformation of mountains on the Day of Judgment. Classical exegetes from both traditions, including Al-Tabari, Ibn Kathir, Al-Razi, Tabatabai, and Tabrisi, explain the imagery consistently. Both cite supporting Quranic verses that describe mountains being destroyed, moved, or pulverized. The theological purpose is identical across traditions: to demonstrate Allah's absolute power and the temporality of all creation except Allah Himself. Both traditions emphasize that this verse should inspire fear and preparation. Minor differences exist in the broader eschatological framework: Sunni exegesis often focuses on these events as signs of Allah's power in isolation, while Shia exegesis more frequently connects them to themes of divine justice, the role of the Ahlul Bayt as witnesses, and the spiritual lessons believers should draw. However, the core message remains universal: all worldly strength and permanence is illusory, and only faith in Allah and preparation for the Hereafter provide true security.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین قیامت کے دن پہاڑوں کی جسمانی تبدیلی کو بیان کرنے والی اس آیت کی لفظی تشریح پر متفق ہیں۔ دونوں روایات کے کلاسیکی مفسرین، بشمول الطبری، ابن کثیر، الرازی، طباطبائی، اور طبرسی، تصویر کی یکساں وضاحت کرتے ہیں۔ دونوں معاون قرآنی آیات کا حوالہ دیتے ہیں جو پہاڑوں کی تباہی، منتقلی، یا پیسے جانے کو بیان کرتی ہیں۔ الہیاتی مقصد دونوں روایات میں ایک جیسا ہے: اللہ کی مطلق طاقت اور اللہ کے علاوہ تمام مخلوقات کی عارضیت کو ظاہر کرنا۔ دونوں روایات اس بات پر زور دیتی ہیں کہ یہ آیت خوف اور تیاری کو متاثر کرنی چاہیے۔ وسیع تر علم آخرت کے فریم ورک میں معمولی فرق موجود ہیں: سنی تفسیر اکثر ان واقعات کو تنہائی میں اللہ کی طاقت کی علامتوں کے طور پر بیان کرتی ہے، جبکہ شیعہ تفسیر زیادہ کثرت سے انہیں الٰہی انصاف، گواہوں کے طور پر اہل بیت کے کردار، اور روحانی اسباق سے جوڑتی ہے جو مومنین کو نکالنے چاہیئں۔ تاہم، بنیادی پیغام آفاقی رہتا ہے: تمام دنیوی طاقت اور مستقل مزاجی فریب ہے، اور صرف اللہ پر ایمان اور آخرت کی تیاری حقیقی تحفظ فراہم کرتی ہے۔",
+    "layer4_ar": "يتفق المفسرون من الفريقين الشيعي والسني على التفسير الحرفي لهذه الآية بوصفها وصفاً للتحوُّل الفيزيائي للجبال يوم القيامة. ويُقدِّم المفسرون الكلاسيكيون من كلا التراثين، الطبري وابن كثير والرازي والطباطبائي والطبرسي، الصورة بتفسير منسجم. ويستشهد الفريقان بآيات قرآنية داعمة تصف دكَّ الجبال وتسييرها وهدِّها. والهدف اللاهوتي واحد عبر التراثين: إبراز القدرة المطلقة لله وزوال كل مخلوق ما عداه. ويتفق الفريقان كذلك على أن الآية ينبغي أن تُولِّد الخشية والحثَّ على الاستعداد. وتبرز فروق طفيفة في الإطار الأشمل: إذ يُركِّز التفسير السني على هذه الأحداث بوصفها أدلة منفردة على قدرة الله، في حين يربطها التفسير الشيعي في الغالب بمحاور العدل الإلهي وشهادة أهل البيت والدروس الروحية المستخلصة. بيد أن الجوهر يبقى كونياً يتجاوز الحدود المذهبية: كل قوة دنيوية وهم زائل، والأمان الحقيقي لا يُوجد إلا في الإيمان بالله والاستعداد للقائه."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:6:heavy-scales",
+          "title": "Weighty Deeds",
+          "icon": "scale.3d",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Thaqulat mawazinuhu' (whose scales are heavy) refers to the divine weighing of deeds. The 'weight' represents the spiritual quality and sincerity of actions, not their quantity or outward appearance.",
+          "whyItMatters": "This verse shifts our focus from performing many deeds to ensuring our actions have genuine spiritual substance. A few sincere acts done with pure intention outweigh countless hollow performances.",
+          "position": "topLeft",
+          "arabicHighlight": "ثَقُلَتْ مَوَٰزِينُهُۥ",
+          "title_urdu": "وزنی اعمال",
+          "coreInsight_urdu": "'ثقلت موازینہ' (جس کا میزان بھاری ہے) اعمال کے الہی تولنے کا حوالہ ہے۔ 'وزن' اعمال کی روحانی کیفیت اور خلوص کی نمائندگی کرتا ہے، نہ کہ ان کی مقدار یا ظاہری شکل۔",
+          "whyItMatters_urdu": "یہ آیت ہماری توجہ کو بہت سے اعمال انجام دینے سے یہ یقینی بنانے کی طرف منتقل کرتی ہے کہ ہمارے اعمال میں حقیقی روحانی مادہ ہے۔ خالص نیت کے ساتھ انجام دیے گئے چند مخلص اعمال بے شمار کھوکھلی کارکردگیوں سے زیادہ وزن رکھتے ہیں۔",
+          "title_ar": "الأعمال الثقيلة",
+          "coreInsight_ar": "'ثقلت موازينه' (من ثقلت موازينه) يشير إلى الوزن الإلهي للأعمال. 'الوزن' يمثل الجودة الروحية والإخلاص في الأفعال، وليس كميتها أو مظهرها الخارجي.",
+          "whyItMatters_ar": "تنقل هذه الآية تركيزنا من أداء أعمال كثيرة إلى ضمان أن أفعالنا لها جوهر روحي حقيقي. بضعة أعمال صادقة تُنجز بنية نقية تفوق عروضاً مجوفة لا تحصى."
+        },
+        {
+          "id": "101:6:turning-point",
+          "title": "Decisive Moment",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The particle 'fa-amma' (then as for) marks a crucial turning point in the surah. After describing the Day's chaos, the Quran now reveals its purpose: separating people based on the weight of their deeds.",
+          "whyItMatters": "The chaos isn't random destruction—it's the necessary upheaval before divine justice. Understanding this purpose transforms our fear into motivation to ensure our scales are heavy before that Day arrives.",
+          "position": "topRight",
+          "arabicHighlight": "فَأَمَّا مَ",
+          "title_urdu": "فیصلہ کن لمحہ",
+          "coreInsight_urdu": "ذرہ 'فأما' (تو جہاں تک) سورہ میں ایک اہم موڑ کی نشاندہی کرتا ہے۔ قیامت کی افراتفری بیان کرنے کے بعد، قرآن اب اس کا مقصد ظاہر کرتا ہے: لوگوں کو ان کے اعمال کے وزن کی بنیاد پر الگ کرنا۔",
+          "whyItMatters_urdu": "افراتفری بے ترتیب تباہی نہیں ہے—یہ الہی انصاف سے پہلے ضروری الٹ پلٹ ہے۔ اس مقصد کو سمجھنا ہمارے خوف کو حوصلے میں بدل دیتا ہے تاکہ اس دن آنے سے پہلے ہمارے میزان بھاری ہوں۔",
+          "title_ar": "اللحظة الحاسمة",
+          "coreInsight_ar": "الحرف 'فأما' (فأما من) يمثل نقطة تحول حاسمة في السورة. بعد وصف فوضى اليوم، يكشف القرآن الآن غرضه: فصل الناس بناءً على وزن أعمالهم.",
+          "whyItMatters_ar": "الفوضى ليست دماراً عشوائياً—إنها الاضطراب الضروري قبل العدالة الإلهية. إن فهم هذا الغرض يحول خوفنا إلى دافع لضمان أن موازيننا ثقيلة قبل وصول ذلك اليوم."
+        },
+        {
+          "id": "101:6:divine-justice",
+          "title": "Perfect Measurement",
+          "icon": "ruler.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The scales (mawazin) represent Allah's perfect, impartial judgment. Unlike worldly courts where wealth or status can influence outcomes, divine justice measures only the truth and sincerity of our deeds.",
+          "whyItMatters": "No one can deceive or bribe these scales. This certainty of justice should comfort the oppressed and warn the oppressors—every deed, hidden or public, will receive its precise, fair weight.",
+          "position": "bottomRight",
+          "arabicHighlight": "مَوَٰزِينُهُۥ",
+          "title_urdu": "کامل پیمائش",
+          "coreInsight_urdu": "میزان (موازین) اللہ کے کامل، غیر جانبدارانہ فیصلے کی نمائندگی کرتا ہے۔ دنیوی عدالتوں کے برعکس جہاں دولت یا حیثیت نتائج پر اثر انداز ہو سکتے ہیں، الہی انصاف صرف ہمارے اعمال کی سچائی اور خلوص کو ماپتا ہے۔",
+          "whyItMatters_urdu": "کوئی بھی ان ترازوؤں کو دھوکا یا رشوت نہیں دے سکتا۔ انصاف کا یہ یقین مظلوموں کو تسلی دینا چاہیے اور ظالموں کو متنبہ کرنا چاہیے—ہر عمل، چھپا ہوا یا عوامی، اپنا درست، منصفانہ وزن حاصل کرے گا۔",
+          "title_ar": "القياس الكامل",
+          "coreInsight_ar": "الموازين تمثل حكم الله الكامل غير المتحيز. على عكس المحاكم الدنيوية حيث يمكن للثروة أو المكانة التأثير على النتائج، تقيس العدالة الإلهية فقط الحقيقة والإخلاص في أفعالنا.",
+          "whyItMatters_ar": "لا أحد يمكنه خداع أو رشوة هذه الموازين. يجب أن تريح هذه اليقين من العدالة المظلومين وتحذر الظالمين—كل عمل، مخفي أو علني، سيحصل على وزنه الدقيق العادل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions affirm the reality of the mizan (scales) on the Day of Judgment, citing this verse and supporting hadith. Classical Sunni scholars like Al-Ghazali, Ibn Kathir, and Al-Qurtubi, along with Shia scholars like Tabatabai and Tabrisi, agree that deeds will be weighed with perfect justice. Both traditions emphasize that faith and righteous action combine to create heavy scales. The concept appears in authentic hadith collections from both traditions. Differences exist in understanding what exactly is weighed: some scholars say the deeds themselves, others say the books recording deeds, others say the person who did the deeds. Both traditions agree these are complementary interpretations rather than contradictions. A key difference emerges regarding intercession: Shia theology emphasizes that while deeds are weighed, the intercession of the Prophet and Imams can benefit believers whose scales might otherwise be insufficient, while Sunni theology emphasizes the Prophet's intercession for his entire community. However, both traditions agree that intercession does not negate accountability and that each person must have basic faith and effort toward righteousness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات قیامت کے دن میزان (ترازو) کی حقیقت کی تصدیق کرتی ہیں، اس آیت اور معاون احادیث کا حوالہ دیتے ہوئے۔ کلاسیکی سنی علماء جیسے الغزالی، ابن کثیر، اور القرطبی، شیعہ علماء جیسے طباطبائی اور طبرسی کے ساتھ، اس بات پر متفق ہیں کہ اعمال کامل انصاف کے ساتھ تولے جائیں گے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ ایمان اور نیک عمل مل کر بھاری ترازو بناتے ہیں۔ یہ تصور دونوں روایات کی مستند احادیث مجموعوں میں ظاہر ہوتا ہے۔ اس بات کی سمجھ میں فرق موجود ہے کہ بالکل کیا تولا جاتا ہے: کچھ علماء کہتے ہیں خود اعمال، دوسرے کہتے ہیں اعمال کو ریکارڈ کرنے والی کتابیں، دوسرے کہتے ہیں وہ شخص جس نے اعمال کیے۔ دونوں روایات اتفاق کرتی ہیں کہ یہ تکمیلی تشریحات ہیں نہ کہ تضادات۔ ایک کلیدی فرق شفاعت کی سمجھ میں ابھرتا ہے: شیعہ الہیات اس بات پر زور دیتی ہے کہ اگرچہ اعمال تولے جاتے ہیں، نبی اور ائمہ کی شفاعت ان مومنین کو فائدہ پہنچا سکتی ہے جن کے ترازو ورنہ ناکافی ہو سکتے ہیں، جبکہ سنی الہیات نبی کی پوری امت کے لیے شفاعت پر زور دیتی ہے۔ تاہم، دونوں روایات اس بات پر متفق ہیں کہ شفاعت جوابدہی کو منسوخ نہیں کرتی اور ہر شخص کے پاس بنیادی ایمان اور نیکی کی طرف کوشش ہونی چاہیے۔",
+    "layer4_ar": "يُقرُّ الفريقان الشيعي والسني بحقيقة الميزان يوم القيامة، مستندين إلى هذه الآية والأحاديث الداعمة لها. ويتفق علماء السنة الكلاسيكيون كالغزالي وابن كثير والقرطبي مع علماء الشيعة كالطباطبائي والطبرسي على أن الأعمال ستُوزن بعدل مطلق. ويُؤكِّد الفريقان أن الجمع بين الإيمان والعمل الصالح هو ما يُثقِّل الكفة. ويرد هذا المبدأ في المجاميع الحديثية المعتمدة عند كلا التراثين. وتبرز خلافات في تفاصيل ما يُوزن: هل هي الأعمال ذاتها أم الصحائف المدوِّنة لها أم أصحابها؟ ويتفق الفريقان على أن هذه تفسيرات متكاملة لا متناقضة. وثمة فارق جوهري يتعلق بالشفاعة؛ إذ يُؤكِّد اللاهوت الشيعي أن شفاعة النبي والأئمة يمكن أن تنفع مؤمنين قد لا تكفي موازينهم وحدها، في حين تُؤكِّد اللاهوت السني شفاعة النبي لأمته جمعاء. غير أن الفريقين يتفقان على أن الشفاعة لا تلغي المسؤولية وأن على كل مرء إيمان حقيقي وسعي نحو البر. والرسالة الكونية تعلو فوق الحدود المذهبية: للخيارات الإنسانية عواقب حقيقية، ولا بد من الأخذ بزمام الحياة الروحية بجدية تامة."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:7:pleasant-life",
+          "title": "Blissful Existence",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Isha radiyah' (pleasant/satisfying life) describes not just physical comfort but complete spiritual contentment. The root 'r-d-y' implies mutual satisfaction—the believer is pleased with Allah, and Allah is pleased with the believer.",
+          "whyItMatters": "True happiness isn't about external circumstances but internal spiritual state. Those whose deeds were heavy will experience deep, lasting satisfaction that worldly pleasures can never provide.",
+          "position": "topLeft",
+          "arabicHighlight": "يشَةٍۢ رَّاضِيَةٍۢ",
+          "title_urdu": "خوشگوار زندگی",
+          "coreInsight_urdu": "'عیشۃ راضیہ' (خوشگوار/تسکین بخش زندگی) صرف جسمانی آرام نہیں بلکہ مکمل روحانی اطمینان بیان کرتا ہے۔ جڑ 'ر-د-ی' باہمی اطمینان کا مطلب رکھتی ہے—مومن اللہ سے خوش ہے، اور اللہ مومن سے خوش ہے۔",
+          "whyItMatters_urdu": "حقیقی خوشی بیرونی حالات کے بارے میں نہیں بلکہ اندرونی روحانی حالت کے بارے میں ہے۔ جن کے اعمال بھاری تھے وہ گہری، دیرپا اطمینان کا تجربہ کریں گے جو دنیوی لذتیں کبھی فراہم نہیں کر سکتیں۔",
+          "title_ar": "الحياة السعيدة",
+          "coreInsight_ar": "'عيشة راضية' (حياة ممتعة/مرضية) تصف ليس فقط الراحة الجسدية بل القناعة الروحية الكاملة. الجذر 'ر-د-ي' يشير إلى الرضا المتبادل—المؤمن راضٍ عن الله، والله راضٍ عن المؤمن.",
+          "whyItMatters_ar": "السعادة الحقيقية ليست عن الظروف الخارجية بل عن الحالة الروحية الداخلية. أولئك الذين كانت أعمالهم ثقيلة سيختبرون رضا عميقاً ودائماً لا يمكن للملذات الدنيوية أن توفره أبداً."
+        },
+        {
+          "id": "101:7:divine-reward",
+          "title": "Eternal Paradise",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'fa-huwa fi' (then he will be in) indicates permanent dwelling, not temporary visit. This pleasant life is the eternal reward of Paradise, where every desire is fulfilled beyond imagination.",
+          "whyItMatters": "Understanding Paradise as our permanent destination transforms how we view earthly struggles. Temporary hardships for the sake of Allah become investments in an eternity of perfect joy.",
+          "position": "topRight",
+          "arabicHighlight": "فَهُوَ فِى عِيشَةٍۢ",
+          "title_urdu": "ابدی جنت",
+          "coreInsight_urdu": "جملہ 'فہو فی' (تو وہ میں ہوگا) مستقل رہائش کی نشاندہی کرتا ہے، نہ کہ عارضی دورے کی۔ یہ خوشگوار زندگی جنت کا ابدی انعام ہے، جہاں ہر خواہش تصور سے بالاتر پوری ہوتی ہے۔",
+          "whyItMatters_urdu": "جنت کو اپنی مستقل منزل کے طور پر سمجھنا اس بات کو تبدیل کر دیتا ہے کہ ہم زمینی جدوجہد کو کیسے دیکھتے ہیں۔ اللہ کی خاطر عارضی مشکلات ایک ابدیت کی کامل خوشی میں سرمایہ کاری بن جاتی ہیں۔",
+          "title_ar": "الجنة الأبدية",
+          "coreInsight_ar": "العبارة 'فهو في' (فهو سيكون في) تشير إلى الإقامة الدائمة، وليس الزيارة المؤقتة. هذه الحياة الممتعة هي المكافأة الأبدية للجنة، حيث يتحقق كل رغبة بما يفوق الخيال.",
+          "whyItMatters_ar": "إن فهم الجنة كوجهتنا الدائمة يحول كيف ننظر إلى المعاناة الأرضية. المصاعب المؤقتة من أجل الله تصبح استثمارات في أبدية من الفرح الكامل."
+        },
+        {
+          "id": "101:7:cause-and-effect",
+          "title": "Earned Joy",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The connection between heavy scales (verse 6) and pleasant life (verse 7) establishes clear cause and effect. Paradise is not arbitrary favor but the just consequence of sincere devotion and righteous action.",
+          "whyItMatters": "This principle of divine justice means our fate is in our own hands. We are not helpless victims of arbitrary destiny—our choices and deeds directly shape our eternal outcome.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَهُوَ",
+          "title_urdu": "کمائی ہوئی خوشی",
+          "coreInsight_urdu": "بھاری میزان (آیت 6) اور خوشگوار زندگی (آیت 7) کے درمیان تعلق واضح سبب اور اثر قائم کرتا ہے۔ جنت من مانی احسان نہیں بلکہ مخلص عقیدت اور نیک عمل کا منصفانہ نتیجہ ہے۔",
+          "whyItMatters_urdu": "الہی انصاف کا یہ اصول کا مطلب ہے کہ ہماری تقدیر ہمارے اپنے ہاتھوں میں ہے۔ ہم من مانی تقدیر کے بے بس شکار نہیں ہیں—ہمارے انتخاب اور اعمال براہ راست ہمارے ابدی نتیجے کی تشکیل کرتے ہیں۔",
+          "title_ar": "الفرح المكتسب",
+          "coreInsight_ar": "الصلة بين الموازين الثقيلة (الآية 6) والحياة الممتعة (الآية 7) تؤسس سبباً ونتيجة واضحين. الجنة ليست فضلاً تعسفياً بل النتيجة العادلة للإخلاص والعمل الصالح.",
+          "whyItMatters_ar": "يعني هذا المبدأ من العدالة الإلهية أن مصيرنا في أيدينا. لسنا ضحايا عاجزين لمصير تعسفي—اختياراتنا وأفعالنا تشكل مباشرة نتيجتنا الأبدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as describing Paradise and its blessings. Classical commentators from both traditions emphasize that this pleasant life is the reward for faith and righteous action, combining Allah's mercy with human effort. Both cite supporting Quranic descriptions of Paradise and authentic hadith describing its blessings. The traditions agree that Paradise contains both physical and spiritual pleasures, both sensory delights and higher spiritual joys. Minor differences exist in details: Shia scholars generally emphasize the spiritual and visionary aspects more, while some classical Sunni scholars emphasized physical descriptions more literally. However, both traditions acknowledge multiple levels of interpretation. Both agree that the inhabitants of Paradise experience no boredom, fear, or sadness, and that blessings continuously increase rather than becoming stale. Both traditions also emphasize that the greatest blessing is divine pleasure and proximity, though they may describe this differently. The universal message remains consistent: righteous believers will experience eternal joy and satisfaction beyond human imagination.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تشریح جنت اور اس کی نعمتوں کی تفصیل کے طور پر کرتے ہیں۔ دونوں روایات کے کلاسیکی مفسرین اس بات پر زور دیتے ہیں کہ یہ خوشگوار زندگی ایمان اور نیک عمل کا انعام ہے، اللہ کی رحمت کو انسانی کوشش کے ساتھ ملاتے ہوئے۔ دونوں جنت کی معاون قرآنی تفصیلات اور اس کی نعمتوں کو بیان کرنے والی مستند احادیث کا حوالہ دیتے ہیں۔ روایات اس بات پر متفق ہیں کہ جنت میں جسمانی اور روحانی دونوں لذتیں ہیں، حسی لذتیں اور اعلیٰ روحانی خوشیاں۔ تفصیلات میں معمولی فرق موجود ہیں: شیعہ علماء عام طور پر روحانی اور رویائی پہلوؤں پر زیادہ زور دیتے ہیں، جبکہ کچھ کلاسیکی سنی علماء نے جسمانی تفصیلات کو زیادہ لفظی طور پر زور دیا۔ تاہم، دونوں روایات تشریح کی متعدد سطحوں کو تسلیم کرتی ہیں۔ دونوں اس بات پر متفق ہیں کہ جنت کے باشندے کوئی بوریت، خوف، یا اداسی کا تجربہ نہیں کرتے، اور نعمتیں باسی ہونے کی بجائے مسلسل بڑھتی رہتی ہیں۔ دونوں روایات یہ بھی زور دیتی ہیں کہ سب سے بڑی نعمت الٰہی خوشنودی اور قربت ہے، اگرچہ وہ اسے مختلف طریقوں سے بیان کر سکتے ہیں۔ آفاقی پیغام مستقل رہتا ہے: نیک مومنین ابدی خوشی اور اطمینان کا تجربہ کریں گے جو انسانی تخیل سے ماوراء ہے۔",
+    "layer4_ar": "يُفسِّر علماء الفريقين الشيعي والسني هذه الآية بوصفها وصفاً للجنة ونعيمها. ويُؤكِّد المفسرون الكلاسيكيون من كلا التراثين أن هذه العيشة الراضية هي جزاء الإيمان والعمل الصالح الجامع لرحمة الله والسعي الإنساني معاً. ويستشهد الفريقان بالأوصاف القرآنية الداعمة للجنة والأحاديث النبوية الصحيحة التي تُجلِّي نعيمها. ويتفق التراثان على أن الجنة تجمع بين المتع الحسية والبهجة الروحية المعنوية. وتبرز خلافات طفيفة في التفاصيل: يُولي علماء الشيعة عموماً الجوانب الروحية والرؤياوية أهمية أكبر، بينما أولى بعض علماء السنة الكلاسيكيين الأوصاف الحسية عنايةً خاصة. غير أن الفريقين يُقرَّان بتعدد مستويات التفسير. كلاهما يتفق على أن ساكني الجنة لا يعتريهم ملل ولا خوف ولا حزن وأن النعيم يزداد لا يخبو. ويتفق الفريقان كذلك على أن أعظم النعيم هو الرضا الإلهي والقرب من الله وإن اختلفا في وصف ذلك. والرسالة الكونية تبقى ثابتة: المؤمنون الصالحون سيتمتعون بسعادة أبدية تتجاوز كل تصوُّر إنساني."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:8:light-scales",
+          "title": "Deficient Deeds",
+          "icon": "scale.3d",
+          "colorHex": "#E57373",
+          "coreInsight": "'Khaffat mawazinuhu' (whose scales are light) describes those whose deeds lacked spiritual weight. Their actions may have appeared numerous or impressive externally, but were hollow—done for show, without sincerity, or mixed with sin.",
+          "whyItMatters": "This verse warns against spiritual bankruptcy despite worldly activity. We must constantly examine our intentions and ensure our deeds carry the weight of genuine faith and pure motivation.",
+          "position": "topLeft",
+          "arabicHighlight": "ْ خَفَّتْ مَوَٰزِينُهُۥ",
+          "title_urdu": "ناکافی اعمال",
+          "coreInsight_urdu": "'خفت موازینہ' (جس کا میزان ہلکا ہے) ان لوگوں کو بیان کرتا ہے جن کے اعمال میں روحانی وزن کی کمی تھی۔ ان کے اعمال ظاہری طور پر بہت سے یا متاثر کن نظر آ سکتے ہیں، لیکن کھوکھلے تھے—دکھاوے کے لیے، بغیر خلوص کے، یا گناہ کے ساتھ ملے ہوئے۔",
+          "whyItMatters_urdu": "یہ آیت دنیوی سرگرمی کے باوجود روحانی دیوالیہ پن کے خلاف متنبہ کرتی ہے۔ ہمیں مسلسل اپنے ارادوں کا جائزہ لینا چاہیے اور یقینی بنانا چاہیے کہ ہمارے اعمال حقیقی ایمان اور خالص حوصلے کا وزن رکھتے ہیں۔",
+          "title_ar": "الأعمال الناقصة",
+          "coreInsight_ar": "'خفت موازينه' (من خفت موازينه) يصف أولئك الذين افتقرت أعمالهم إلى الوزن الروحي. قد تبدو أفعالهم عديدة أو مثيرة للإعجاب خارجياً، لكنها كانت مجوفة—أُنجزت للعرض، بدون إخلاص، أو مخلوطة بالإثم.",
+          "whyItMatters_ar": "تحذر هذه الآية من الإفلاس الروحي رغم النشاط الدنيوي. يجب أن نفحص باستمرار نوايانا ونتأكد من أن أعمالنا تحمل وزن الإيمان الحقيقي والدافع النقي."
+        },
+        {
+          "id": "101:8:parallel-structure",
+          "title": "Mirror Contrast",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Verse 8 mirrors verse 6's structure exactly, creating a stark contrast between two destinies. The parallel grammar ('fa-amma man...') emphasizes that every person falls into one of these two categories—no middle ground exists.",
+          "whyItMatters": "This binary division challenges our desire for spiritual complacency. There is no 'mediocre Paradise' for half-hearted efforts—our scales will either be heavy enough or dangerously light.",
+          "position": "topRight",
+          "arabicHighlight": "وَأَمَّا مَن",
+          "title_urdu": "آئینہ کا تضاد",
+          "coreInsight_urdu": "آیت 8 آیت 6 کی ساخت کی بالکل عکاسی کرتی ہے، دو تقدیروں کے درمیان ایک واضح تضاد پیدا کرتے ہوئے۔ متوازی گرامر ('فأما من...') زور دیتا ہے کہ ہر شخص ان دو زمروں میں سے ایک میں آتا ہے—کوئی درمیانی راستہ موجود نہیں۔",
+          "whyItMatters_urdu": "یہ دوئی تقسیم ہماری روحانی لاپرواہی کی خواہش کو چیلنج کرتی ہے۔ نیم دل کوششوں کے لیے کوئی 'معمولی جنت' نہیں ہے—ہمارے میزان یا تو کافی بھاری ہوں گے یا خطرناک طور پر ہلکے۔",
+          "title_ar": "التباين المرآوي",
+          "coreInsight_ar": "تعكس الآية 8 بنية الآية 6 تماماً، مما يخلق تبايناً صارخاً بين مصيرين. النحو المتوازي ('فأما من...') يؤكد أن كل شخص يقع في إحدى هاتين الفئتين—لا توجد أرضية وسطى.",
+          "whyItMatters_ar": "يتحدى هذا التقسيم الثنائي رغبتنا في الرضا الروحي. لا توجد 'جنة متواضعة' للجهود نصف القلبية—ستكون موازيننا إما ثقيلة بما فيه الكفاية أو خفيفة بشكل خطير."
+        },
+        {
+          "id": "101:8:divine-warning",
+          "title": "Solemn Alert",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The 'wa' (but/and) introducing this verse signals a transition from good news to warning. The Quran balances hope with fear, ensuring believers neither despair of Allah's mercy nor become complacent about judgment.",
+          "whyItMatters": "Spiritual health requires both hope and fear in balanced measure. The Quran's structure teaches us to remember Paradise while remaining vigilant about the consequences of spiritual negligence.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَأَمَّ",
+          "title_urdu": "سنجیدہ انتباہ",
+          "coreInsight_urdu": "اس آیت کو متعارف کرانے والا 'و' (لیکن/اور) خوشخبری سے وارننگ کی طرف منتقلی کا اشارہ دیتا ہے۔ قرآن امید اور خوف کو متوازن کرتا ہے، یقینی بناتے ہوئے کہ مومن نہ تو اللہ کی رحمت سے مایوس ہوں اور نہ ہی فیصلے کے بارے میں لاپرواہ ہوں۔",
+          "whyItMatters_urdu": "روحانی صحت کے لیے متوازن پیمانے میں امید اور خوف دونوں کی ضرورت ہوتی ہے۔ قرآن کی ساخت ہمیں جنت کو یاد رکھنے کے ساتھ ساتھ روحانی غفلت کے نتائج کے بارے میں چوکنا رہنا سکھاتی ہے۔",
+          "title_ar": "التنبيه الرسمي",
+          "coreInsight_ar": "الواو (لكن/و) التي تقدم هذه الآية تشير إلى انتقال من الأخبار الجيدة إلى التحذير. يوازن القرآن بين الأمل والخوف، مما يضمن أن المؤمنين لا ييأسون من رحمة الله ولا يصبحون راضين عن الحكم.",
+          "whyItMatters_ar": "تتطلب الصحة الروحية كلاً من الأمل والخوف بمقياس متوازن. تعلمنا بنية القرآن أن نتذكر الجنة بينما نبقى يقظين حول عواقب الإهمال الروحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes interpret light scales as indicating insufficient good deeds to outweigh sins and secure Paradise. Classical scholars from both traditions, including Al-Qurtubi, Ibn Kathir, Tabatabai, and Tabrisi, agree that this represents divine justice measuring each person's life with perfect accuracy. Both traditions emphasize that no one is wronged; light scales accurately reflect the reality of how one lived. Both cite supporting verses about the precision of divine accounting: 'So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it' (99:7-8). Differences emerge regarding who might have light scales: some Sunni theologians emphasized that all Muslims will eventually enter Paradise even if punished first, while classical Shia theology emphasized that nominal Islam without genuine faith and action provides no guarantee. However, both traditions agree that sincere believers who strive for righteousness should hope for mercy while maintaining healthy fear. The universal message transcends sectarian differences: human choices have real consequences, and we must take spiritual life seriously.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین ہلکے ترازو کو جنت حاصل کرنے کے لیے ناکافی نیک اعمال کی نشاندہی کے طور پر تشریح کرتے ہیں۔ دونوں روایات کے کلاسیکی علماء، بشمول القرطبی، ابن کثیر، طباطبائی، اور طبرسی، اس بات پر متفق ہیں کہ یہ الٰہی انصاف کی نمائندگی کرتا ہے جو کامل درستگی کے ساتھ ہر شخص کی زندگی کی پیمائش کرتا ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ کسی پر ظلم نہیں؛ ہلکے ترازو درستگی سے اس حقیقت کی عکاسی کرتے ہیں کہ کوئی کیسے زندگی گزارتا تھا۔ دونوں معاون آیات کا حوالہ دیتے ہیں الٰہی حساب کتاب کی درستگی کے بارے میں: 'تو جو کوئی ایک ذرہ کے وزن کے برابر نیکی کرے گا وہ اسے دیکھے گا، اور جو کوئی ایک ذرہ کے وزن کے برابر برائی کرے گا وہ اسے دیکھے گا' (99:7-8)۔ فرق اس بات میں ابھرتا ہے کہ کس کے ترازو ہلکے ہو سکتے ہیں: کچھ سنی الہیات دانوں نے زور دیا کہ تمام مسلمان بالآخر جنت میں داخل ہوں گے یہاں تک کہ اگر پہلے سزا دی گئی، جبکہ کلاسیکی شیعہ الہیات نے زور دیا کہ حقیقی ایمان اور عمل کے بغیر نام نہاد اسلام کوئی ضمانت نہیں دیتا۔ تاہم، دونوں روایات اس بات پر متفق ہیں کہ مخلص مومنین جو نیکی کی کوشش کرتے ہیں انہیں رحمت کی امید رکھنی چاہیے جبکہ صحت مند خوف برقرار رکھیں۔ آفاقی پیغام فرقہ وارانہ فرق سے ماوراء ہے: انسانی انتخاب کے حقیقی نتائج ہیں، اور ہمیں روحانی زندگی کو سنجیدگی سے لینا چاہیے۔",
+    "layer4_ar": "يُفسِّر المفسرون من الفريقين الشيعي والسني الموازين الخفيفة بوصفها دليلاً على قصور الحسنات عن موازنة الذنوب وتأمين الجنة. ويتفق العلماء الكلاسيكيون من التراثين، القرطبي وابن كثير والطباطبائي والطبرسي، على أن هذا يُعبِّر عن عدل إلهي يزن حياة كل إنسان بدقة مثالية. ويُؤكِّد الفريقان أنه لا يُظلَم أحد وأن الموازين الخفيفة تعكس بصدق حقيقة طريقة العيش. ويستشهد كلاهما بآيات قرآنية داعمة تُؤكِّد دقة الحساب الإلهي: «فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ» (الزلزلة: 7-8). وتبرز خلافات في تحديد أصحاب الموازين الخفيفة؛ إذ أكَّد بعض علماء الكلام السني أن جميع المسلمين سيدخلون الجنة في نهاية المطاف وإن نالهم عقاب أولاً، بينما يُؤكِّد اللاهوت الشيعي الكلاسيكي أن الإسلام الاسمي دون إيمان حقيقي وعمل لا يُعطي ضماناً قاطعاً. غير أن الفريقين يتفقان على أن المؤمن الصادق الساعي نحو البر ينبغي أن يجمع بين الرجاء والخوف. والرسالة الكونية تعلو فوق الحدود المذهبية: للخيارات الإنسانية عواقب حقيقية، ولا بد من الأخذ بزمام الحياة الروحية بجدية تامة."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:9:mother-abyss",
+          "title": "Mother Abyss",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Ummuhu hawiyah' (his mother is an abyss) uses the metaphor of 'mother' to indicate refuge or dwelling place. Just as a child returns to its mother for comfort, the one with light scales will 'return' to Hawiyah—the bottomless pit of Hell.",
+          "whyItMatters": "This metaphor emphasizes complete loss. Instead of finding comfort and refuge, the person will descend into endless torment. What should be a place of safety becomes a source of eternal anguish.",
+          "position": "topLeft",
+          "arabicHighlight": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+          "title_urdu": "ماں کی کھائی",
+          "coreInsight_urdu": "'أمہ ہاویۃ' (اس کی ماں ایک کھائی ہے) 'ماں' کا استعارہ استعمال کرتا ہے پناہ گاہ یا رہائش گاہ کی نشاندہی کے لیے۔ جیسے ایک بچہ تسلی کے لیے اپنی ماں کے پاس لوٹتا ہے، ہلکے میزان والا ہاویہ کی طرف 'لوٹے گا'—جہنم کا بے تہ گڑھا۔",
+          "whyItMatters_urdu": "یہ استعارہ مکمل نقصان پر زور دیتا ہے۔ تسلی اور پناہ تلاش کرنے کی بجائے، شخص لامتناہی عذاب میں اترے گا۔ جو چیز حفاظت کی جگہ ہونی چاہیے وہ ابدی اذیت کا ذریعہ بن جاتی ہے۔",
+          "title_ar": "أم الهاوية",
+          "coreInsight_ar": "'أمه هاوية' (أمه هاوية) تستخدم استعارة 'الأم' للدلالة على الملجأ أو مكان الإقامة. كما يعود الطفل إلى أمه للراحة، سيعود ذو الموازين الخفيفة إلى الهاوية—حفرة الجحيم بلا قاع.",
+          "whyItMatters_ar": "تؤكد هذه الاستعارة الخسارة الكاملة. بدلاً من العثور على الراحة والملجأ، سينزل الشخص في عذاب لا نهاية له. ما يجب أن يكون مكان أمان يصبح مصدراً للكرب الأبدي."
+        },
+        {
+          "id": "101:9:hawiyah-meaning",
+          "title": "The Bottomless Pit",
+          "icon": "arrow.down.to.line",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Hawiyah derives from 'hawa' (to fall or descend). It describes a place of endless falling—no bottom, no rest, no escape. This is one of the specific names of Hell mentioned in the Quran, emphasizing its depth and horror.",
+          "whyItMatters": "The image of endless falling captures the perpetual nature of punishment for those who reject faith. There's no reprieve, no landing, no moment of stability—only continuous descent into greater suffering.",
+          "position": "topRight",
+          "arabicHighlight": "هَاوِيَةٌۭ",
+          "title_urdu": "بے تہ گڑھا",
+          "coreInsight_urdu": "ہاویہ 'ہوی' (گرنا یا اترنا) سے نکلا ہے۔ یہ لامتناہی گرنے کی جگہ بیان کرتا ہے—کوئی نیچے نہیں، کوئی آرام نہیں، کوئی فرار نہیں۔ یہ قرآن میں مذکور جہنم کے مخصوص ناموں میں سے ایک ہے، اس کی گہرائی اور ہولناکی پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "لامتناہی گرنے کی تصویر ان لوگوں کے لیے سزا کی مستقل نوعیت کو پکڑتی ہے جو ایمان کو مسترد کرتے ہیں۔ کوئی رخصت نہیں، کوئی لینڈنگ نہیں، استحکام کا کوئی لمحہ نہیں—صرف زیادہ تکلیف میں مسلسل نزول۔",
+          "title_ar": "الحفرة بلا قاع",
+          "coreInsight_ar": "تُشتق الهاوية من 'هوى' (السقوط أو الانحدار). إنها تصف مكاناً للسقوط اللانهائي—لا قاع، لا راحة، لا هروب. هذا أحد الأسماء المحددة للنار المذكورة في القرآن، مؤكدة على عمقها وهولها.",
+          "whyItMatters_ar": "تلتقط صورة السقوط اللانهائي الطبيعة الدائمة للعقاب لأولئك الذين يرفضون الإيمان. لا توجد مهلة، لا هبوط، لا لحظة استقرار—فقط هبوط مستمر في معاناة أكبر."
+        },
+        {
+          "id": "101:9:ironic-reversal",
+          "title": "Tragic Irony",
+          "icon": "arrow.uturn.down.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The irony is profound: those who sought comfort in worldly attachments will find their 'refuge' is actually a place of torment. What they embraced as their source of security becomes the instrument of their destruction.",
+          "whyItMatters": "This teaches us to examine what we cling to as our 'mother'—our ultimate source of comfort and identity. If it's wealth, status, or ego rather than Allah, we're embracing our own Hawiyah.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَأُمُّ",
+          "title_urdu": "المناک ستم ظریفی",
+          "coreInsight_urdu": "ستم ظریفی گہری ہے: جو لوگ دنیوی وابستگیوں میں تسلی تلاش کرتے تھے وہ پائیں گے کہ ان کی 'پناہ گاہ' دراصل عذاب کی جگہ ہے۔ جسے انہوں نے اپنی حفاظت کے ذریعے کے طور پر اپنایا وہ ان کی تباہی کا آلہ بن جاتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ ہم جائزہ لیں کہ ہم کس چیز کو اپنی 'ماں' کے طور پر پکڑے ہوئے ہیں—ہمارے تسلی اور شناخت کا حتمی ذریعہ۔ اگر یہ اللہ کی بجائے دولت، حیثیت، یا انا ہے، تو ہم اپنی ہاویہ کو گلے لگا رہے ہیں۔",
+          "title_ar": "المفارقة المأساوية",
+          "coreInsight_ar": "المفارقة عميقة: أولئك الذين سعوا للراحة في المرفقات الدنيوية سيجدون 'ملجأهم' في الواقع مكان عذاب. ما احتضنوه كمصدر أمانهم يصبح أداة دمارهم.",
+          "whyItMatters_ar": "يعلمنا هذا أن نفحص ما نتشبث به كـ'أمنا'—مصدرنا النهائي للراحة والهوية. إذا كانت الثروة أو المكانة أو الأنا بدلاً من الله، فنحن نحتضن هاويتنا الخاصة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators recognize the unusual metaphorical language of this verse. Classical exegetes from both traditions, including Al-Tabari, Ibn Kathir, Al-Razi, Tabatabai, and Tabrisi, explain that calling Hell one's 'mother' emphasizes the intimate, inescapable relationship between the wicked and their punishment. Both traditions cite linguistic analysis showing that Arabs used 'mother' metaphorically for origins and refuges. Both agree that Hawiya is a name for Hell or a specific part or level of Hell. The traditions concur that the verse emphasizes the totality of the sinner's immersion in punishment, with no escape or relief. Differences exist in understanding the permanence of Hell: traditional Sunni theology generally maintains that monotheists will eventually leave Hell while polytheists remain eternally, while classical Shia theology emphasizes that those who die in genuine faith will not enter Hell at all, though hypocrites and apostates may face eternal punishment. However, both traditions agree on the verse's essential message: rejection of divine guidance leads to devastating consequences that should be avoided through sincere faith and righteous living.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کی غیرمعمولی استعاراتی زبان کو تسلیم کرتے ہیں۔ دونوں روایات کے کلاسیکی مفسرین بشمول الطبری، ابن کثیر، الرازی، طباطبائی اور طبرسی وضاحت کرتے ہیں کہ جہنم کو \"ماں\" کہنا بدکاروں اور ان کی سزا کے درمیان گہرے، ناقابلِ فرار تعلق پر زور دیتا ہے۔ دونوں روایات لسانی تجزیہ پیش کرتی ہیں کہ عرب \"ماں\" کو استعاراتی طور پر اصل اور پناہ گاہوں کے لیے استعمال کرتے تھے۔ دونوں اس بات پر متفق ہیں کہ ہاویہ جہنم کا نام ہے یا جہنم کا ایک خاص حصہ یا درجہ ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت گنہگار کی سزا میں مکمل ڈوبنے پر زور دیتی ہے، بغیر کسی فرار یا راحت کے۔ جہنم کی مستقل نوعیت کو سمجھنے میں اختلاف موجود ہے: روایتی سنی الٰہیات عام طور پر یہ برقرار رکھتی ہے کہ موحدین بالآخر جہنم سے نکل جائیں گے جبکہ مشرکین ہمیشہ کے لیے رہیں گے، جبکہ کلاسیکی شیعہ الٰہیات اس بات پر زور دیتی ہے کہ جو لوگ حقیقی ایمان میں مرتے ہیں وہ جہنم میں داخل ہی نہیں ہوں گے، اگرچہ منافقین اور مرتدین ابدی سزا کا سامنا کر سکتے ہیں۔ تاہم، دونوں روایات آیت کے بنیادی پیغام پر متفق ہیں: الٰہی رہنمائی کو رد کرنا تباہ کن نتائج کی طرف لے جاتا ہے جن سے مخلص ایمان اور نیک زندگی کے ذریعے بچنا چاہیے۔",
+    "layer4_ar": "يُقرُّ المفسرون من الفريقين الشيعي والسني بالأسلوب المجازي الفريد في هذه الآية. ويُبيِّن المفسرون الكلاسيكيون من كلا التراثين، الطبري وابن كثير والرازي والطباطبائي والطبرسي، أن تسمية جهنم «أماً» تُبرز العلاقة الوثيقة التي لا مفرَّ منها بين الطالحين وعذابهم. ويستند الفريقان إلى التحليل اللغوي الذي يُثبت أن العرب استخدموا لفظ «أم» مجازاً عن الأصول والمآلات. ويتفقان على أن هاوية اسم من أسماء جهنم أو منطقة أو مستوى من مستوياتها. ويتفق التراثان على أن الآية تُؤكِّد غمر الإنسان الطالح في العذاب غمراً تاماً لا مخرج منه ولا راحة فيه. وتبرز خلافات في فهم ديمومة جهنم؛ إذ يرى اللاهوت السني التقليدي عموماً أن الموحِّدين سيغادرون جهنم في نهاية المطاف بينما يخلد فيها المشركون، في حين يُؤكِّد اللاهوت الشيعي الكلاسيكي أن من مات على الإيمان الحقيقي لن يدخل جهنم أصلاً وإن كان المنافق والمرتد قد يواجه العذاب الخالد. غير أن الفريقين يتفقان على الجوهر: رفض الهدى الإلهي يُفضي إلى عواقب مدمِّرة ينبغي تفاديها بالإيمان الصادق والاستقامة في العمل."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:10:emphatic-question",
+          "title": "Intensifying Horror",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Just as verse 3 used 'wa ma adraka' to emphasize Al-Qari'ah's magnitude, verse 10 repeats this formula to stress Hawiyah's horror. The repetition serves to magnify our understanding of Hell's terrible reality.",
+          "whyItMatters": "The Quran doesn't let us gloss over Hell's reality. By repeatedly asking 'what will make you know?', it forces us to confront the gravity of rejecting faith and living heedlessly.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+          "title_urdu": "شدت کی ہولناکی",
+          "coreInsight_urdu": "جیسے آیت 3 نے القارعہ کی عظمت پر زور دینے کے لیے 'وما أدراک' استعمال کیا، آیت 10 ہاویہ کی ہولناکی پر زور دینے کے لیے اس فارمولے کو دہراتی ہے۔ تکرار جہنم کی خوفناک حقیقت کی ہماری سمجھ کو بڑھانے کا کام کرتی ہے۔",
+          "whyItMatters_urdu": "قرآن ہمیں جہنم کی حقیقت پر نظر ڈالنے نہیں دیتا۔ بار بار پوچھ کر 'تمہیں کیا معلوم؟'، یہ ہمیں ایمان کو مسترد کرنے اور غافل زندگی گزارنے کی شدت سے سامنا کرنے پر مجبور کرتا ہے۔",
+          "title_ar": "تكثيف الرعب",
+          "coreInsight_ar": "كما استخدمت الآية 3 'وما أدراك' للتأكيد على عظمة القارعة، تكرر الآية 10 هذه الصيغة للتأكيد على رعب الهاوية. يعمل التكرار على تضخيم فهمنا لواقع النار الرهيب.",
+          "whyItMatters_ar": "لا يسمح القرآن لنا بتجاهل واقع النار. بسؤال متكرر 'وما يدريك؟'، يجبرنا على مواجهة خطورة رفض الإيمان والعيش بغفلة."
+        },
+        {
+          "id": "101:10:pronoun-hiya",
+          "title": "Mysterious Reference",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Ma hiyah' (what is it?) uses the feminine pronoun referring back to Hawiyah. This grammatical choice personalizes Hell, making it not just a place but an active, living reality that awaits those who fail the test.",
+          "whyItMatters": "Hell is not an abstract concept but a concrete destination. The pronoun usage makes it immediate and personal—this is something specific that concerns each individual directly.",
+          "position": "topRight",
+          "arabicHighlight": "مَا هِيَهْ",
+          "title_urdu": "پراسرار حوالہ",
+          "coreInsight_urdu": "'ما هیه' (یہ کیا ہے؟) ہاویہ کی طرف واپس اشارہ کرتے ہوئے مؤنث ضمیر استعمال کرتا ہے۔ یہ گرامر کا انتخاب جہنم کو ذاتی بناتا ہے، اسے صرف ایک جگہ نہیں بلکہ ایک فعال، زندہ حقیقت بناتا ہے جو ان لوگوں کا انتظار کرتی ہے جو امتحان میں ناکام ہوتے ہیں۔",
+          "whyItMatters_urdu": "جہنم ایک تجریدی تصور نہیں بلکہ ایک ٹھوس منزل ہے۔ ضمیر کا استعمال اسے فوری اور ذاتی بناتا ہے—یہ کچھ مخصوص ہے جو ہر فرد سے براہ راست تعلق رکھتا ہے۔",
+          "title_ar": "الإشارة الغامضة",
+          "coreInsight_ar": "'ما هيه' (ما هي؟) يستخدم الضمير المؤنث في الإشارة إلى الهاوية. يجعل هذا الاختيار النحوي النار شخصية، ليس مجرد مكان بل واقع حي نشط ينتظر أولئك الذين يفشلون في الاختبار.",
+          "whyItMatters_ar": "النار ليست مفهوماً مجرداً بل وجهة ملموسة. يجعل استخدام الضمير الأمر فورياً وشخصياً—هذا شيء محدد يخص كل فرد مباشرة."
+        },
+        {
+          "id": "101:10:building-suspense",
+          "title": "Dramatic Build-up",
+          "icon": "waveform",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The question creates suspense before the final, stark answer. This rhetorical technique mirrors how divine revelation gradually unveils truths, building understanding layer by layer rather than overwhelming us all at once.",
+          "whyItMatters": "The Quran's pedagogical method respects human psychology. By building suspense, it ensures the final revelation (verse 11) will have maximum impact, searing its message into our consciousness.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَمَآ أَدْرَ",
+          "title_urdu": "ڈرامائی تعمیر",
+          "coreInsight_urdu": "سوال آخری، واضح جواب سے پہلے معلق کرتا ہے۔ یہ بلاغتی تکنیک عکاسی کرتی ہے کہ الہی وحی کیسے آہستہ آہستہ سچائیوں کو ظاہر کرتی ہے، تہہ در تہہ سمجھ بناتے ہوئے بجائے اس کے کہ ہمیں ایک ساتھ مغلوب کر دیا جائے۔",
+          "whyItMatters_urdu": "قرآن کا تعلیمی طریقہ انسانی نفسیات کا احترام کرتا ہے۔ معلق کرتے ہوئے، یہ یقینی بناتا ہے کہ آخری انکشاف (آیت 11) زیادہ سے زیادہ اثر ڈالے گا، اپنا پیغام ہمارے شعور میں جلائے گا۔",
+          "title_ar": "البناء الدرامي",
+          "coreInsight_ar": "يخلق السؤال التشويق قبل الإجابة النهائية الصارخة. تعكس هذه التقنية البلاغية كيف يكشف الوحي الإلهي الحقائق تدريجياً، بناء الفهم طبقة تلو الأخرى بدلاً من إغراقنا دفعة واحدة.",
+          "whyItMatters_ar": "تحترم الطريقة التربوية للقرآن علم النفس البشري. من خلال بناء التشويق، تضمن أن يكون للكشف النهائي (الآية 11) أقصى تأثير، محفوراً رسالته في وعينا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize the reality of Hell and the importance of this rhetorical question in underscoring its severity. Classical commentators from both traditions agree that human understanding of Hell's torment is limited, and that the Quranic descriptions, while using familiar imagery, point to realities beyond our experience. Both cite supporting verses and authentic hadith describing Hell's various aspects. The traditions agree that belief in Hell is essential to Islamic faith and that its purpose is divine justice, ensuring that evil does not go unpunished and that moral choices have real consequences. Differences exist in understanding who enters Hell and for how long: Sunni theology generally holds that sincere monotheists will eventually leave Hell even if punished temporarily, while Shia theology emphasizes that genuine believers with true faith will not enter Hell at all, though hypocrites may face eternal punishment. However, both traditions agree that the verse's purpose is to inspire fear of Hell and motivation to avoid it through faith, repentance, and righteous living. The universal message transcends sectarian boundaries.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات جہنم کی حقیقت اور اس کی شدت کو واضح کرنے میں اس بیانیہ سوال کی اہمیت پر زور دیتی ہیں۔ دونوں روایات کے کلاسیکی مفسرین اس بات پر متفق ہیں کہ جہنم کے عذاب کی انسانی سمجھ محدود ہے، اور یہ کہ قرآنی تفصیلات، اگرچہ واقف تصاویر استعمال کرتی ہیں، لیکن ہمارے تجربے سے ماورا حقیقتوں کی طرف اشارہ کرتی ہیں۔ دونوں جہنم کے مختلف پہلوؤں کی تفصیل دینے والی معاون آیات اور مستند احادیث کا حوالہ دیتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ جہنم پر ایمان اسلامی عقیدے کے لیے لازمی ہے اور اس کا مقصد الٰہی عدل ہے، یہ یقینی بناتے ہوئے کہ برائی بلا سزا نہیں رہتی اور اخلاقی انتخاب کے حقیقی نتائج ہیں۔ اس بات کو سمجھنے میں اختلاف موجود ہے کہ جہنم میں کون داخل ہوتا ہے اور کتنی دیر کے لیے: سنی الٰہیات عام طور پر یہ رکھتی ہے کہ مخلص موحدین بالآخر جہنم سے نکل جائیں گے یہاں تک کہ اگر عارضی طور پر سزا دی گئی، جبکہ شیعہ الٰہیات اس بات پر زور دیتی ہے کہ حقیقی ایمان والے حقیقی مومنین جہنم میں بالکل داخل نہیں ہوں گے، اگرچہ منافقین ابدی سزا کا سامنا کر سکتے ہیں۔ تاہم، دونوں روایات اس بات پر متفق ہیں کہ آیت کا مقصد جہنم کا خوف پیدا کرنا اور ایمان، توبہ اور نیک زندگی کے ذریعے اس سے بچنے کی ترغیب دینا ہے۔ عالمگیر پیغام فرقہ وارانہ حدود سے ماورا ہے۔",
+    "layer4_ar": "يُؤكِّد الفريقان الشيعي والسني حقيقة جهنم وأهمية هذا التساؤل البلاغي في تسليط الضوء على عمق العذاب. ويتفق المفسرون الكلاسيكيون من كلا التراثين على أن الإدراك البشري لعذاب جهنم محدود، وأن الأوصاف القرآنية رغم توظيفها للصور المألوفة تُشير إلى حقائق تتجاوز تجربتنا الدنيوية. ويستشهد الفريقان بآيات داعمة وأحاديث نبوية صحيحة تُجلِّي أبعاد جهنم المختلفة. ويتفق التراثان على أن الإيمان بجهنم فريضة إسلامية راسخة وأن غرضها العدل الإلهي الذي يكفل ألا يفلت الشر من الحساب وأن للخيارات الأخلاقية عواقب حقيقية. وتبرز خلافات في فهم من يسكن جهنم وإلى متى؛ فاللاهوت السني يرى عموماً أن الموحِّدين الصادقين يغادرونها ولو بعد عقوبة وقتية، في حين يُؤكِّد اللاهوت الشيعي أن المؤمنين الحقيقيين لن يدخلوها أصلاً وإن كان المنافق قد يواجه العذاب الخالد. غير أن الفريقين يتفقان على أن الغرض من الآية إلهاب الخشية من جهنم والتحفيز على تفاديها بالإيمان والتوبة والسلوك الصالح. والرسالة الكونية تتجاوز الحدود المذهبية."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "101:11:intensely-hot-fire",
+          "title": "Blazing Fire",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Narun hamiyah' (intensely hot fire) describes Hell with two powerful attributes. 'Nar' is fire in its most destructive form, and 'hamiyah' (from h-m-y) means blazing, raging, intensely heated—fire at its maximum fury.",
+          "whyItMatters": "This final image leaves no room for minimizing Hell's reality. It's not symbolic or metaphorical suffering—it's literal, physical torment of unbearable intensity that human language can barely capture.",
+          "position": "topLeft",
+          "arabicHighlight": "نَارٌ حَامِيَةٌۢ",
+          "title_urdu": "دہکتی آگ",
+          "coreInsight_urdu": "'نار حامیہ' (شدید گرم آگ) جہنم کو دو طاقتور صفات کے ساتھ بیان کرتا ہے۔ 'نار' اپنی انتہائی تباہ کن شکل میں آگ ہے، اور 'حامیہ' (ح-م-ی سے) کا مطلب بھڑکتا ہوا، غصے والا، شدید گرم ہے—اپنی زیادہ سے زیادہ غصے میں آگ۔",
+          "whyItMatters_urdu": "یہ آخری تصویر جہنم کی حقیقت کو کم کرنے کے لیے کوئی جگہ نہیں چھوڑتی۔ یہ علامتی یا استعاراتی تکلیف نہیں ہے—یہ لفظی، جسمانی عذاب ہے ناقابل برداشت شدت کا جسے انسانی زبان مشکل سے پکڑ سکتی ہے۔",
+          "title_ar": "النار المتأججة",
+          "coreInsight_ar": "'نار حامية' (نار شديدة الحرارة) تصف النار بصفتين قويتين. 'نار' هي النار في أكثر أشكالها تدميراً، و'حامية' (من ح-م-ي) تعني متأججة، هائجة، ساخنة بشدة—نار في ذروة غضبها.",
+          "whyItMatters_ar": "هذه الصورة النهائية لا تترك مجالاً للتقليل من واقع النار. إنها ليست معاناة رمزية أو مجازية—إنها عذاب حرفي جسدي بشدة لا تطاق يكاد اللغة البشرية أن تلتقطه."
+        },
+        {
+          "id": "101:11:stark-conclusion",
+          "title": "Unambiguous Warning",
+          "icon": "exclamationmark.octagon.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The surah ends abruptly with this stark declaration—no elaboration, no softening, no escape clauses. The brevity and directness maximize the impact, leaving listeners with an indelible impression of Hell's reality.",
+          "whyItMatters": "This concluding style reflects divine clarity about ultimate consequences. Allah doesn't mince words about punishment because false comfort would be cruel—true mercy requires warning us plainly.",
+          "position": "topRight",
+          "arabicHighlight": "نَارٌ حَامِيَةٌۢ",
+          "title_urdu": "واضح انتباہ",
+          "coreInsight_urdu": "سورہ اس واضح اعلان کے ساتھ اچانک ختم ہوتی ہے—کوئی تفصیل نہیں، کوئی نرمی نہیں، کوئی فرار کی شق نہیں۔ اختصار اور سیدھا پن اثر کو زیادہ سے زیادہ کرتا ہے، سامعین کو جہنم کی حقیقت کا ایک ناقابل فراموش تاثر دیتا ہے۔",
+          "whyItMatters_urdu": "یہ اختتامی انداز حتمی نتائج کے بارے میں الہی وضاحت کی عکاسی کرتا ہے۔ اللہ سزا کے بارے میں الفاظ نہیں چباتا کیونکہ جھوٹی تسلی ظالمانہ ہوگی—حقیقی رحم ہمیں صاف صاف متنبہ کرنے کا تقاضا کرتی ہے۔",
+          "title_ar": "التحذير الواضح",
+          "coreInsight_ar": "تنتهي السورة فجأة بهذا الإعلان الصارخ—لا تفصيل، لا تخفيف، لا بنود هروب. الإيجاز والمباشرة يزيدان من التأثير، تاركين للمستمعين انطباعاً لا يمحى عن واقع النار.",
+          "whyItMatters_ar": "يعكس هذا الأسلوب الختامي الوضوح الإلهي حول العواقب النهائية. لا يلطف الله الكلمات عن العقاب لأن الراحة الزائفة ستكون قاسية—الرحمة الحقيقية تتطلب تحذيرنا بوضوح."
+        },
+        {
+          "id": "101:11:balanced-message",
+          "title": "Hope and Fear",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah balances Paradise (verse 7's pleasant life) with Hell (this verse's blazing fire). This dual message is quintessential Quranic pedagogy—motivating through both hope for reward and fear of punishment.",
+          "whyItMatters": "Spiritual maturity requires holding both realities in mind simultaneously. We work towards Paradise while fleeing from Hell, letting hope energize us and fear keep us vigilant against complacency.",
+          "position": "bottomLeft",
+          "arabicHighlight": "نَارٌ",
+          "title_urdu": "امید اور خوف",
+          "coreInsight_urdu": "سورہ جنت (آیت 7 کی خوشگوار زندگی) کو جہنم (اس آیت کی دہکتی آگ) کے ساتھ متوازن کرتی ہے۔ یہ دوہرا پیغام لازمی قرآنی تعلیم ہے—انعام کی امید اور سزا کے خوف دونوں کے ذریعے حوصلہ افزائی کرنا۔",
+          "whyItMatters_urdu": "روحانی پختگی کے لیے دونوں حقیقتوں کو بیک وقت ذہن میں رکھنا ضروری ہے۔ ہم جنت کی طرف کام کرتے ہیں جبکہ جہنم سے بھاگتے ہیں، امید کو ہمیں توانائی دیتے ہوئے اور خوف ہمیں لاپرواہی کے خلاف چوکنا رکھتے ہوئے۔",
+          "title_ar": "الأمل والخوف",
+          "coreInsight_ar": "توازن السورة بين الجنة (الحياة الممتعة في الآية 7) والنار (النار المتأججة في هذه الآية). هذه الرسالة المزدوجة هي التربية القرآنية الجوهرية—التحفيز من خلال الأمل في المكافأة والخوف من العقاب.",
+          "whyItMatters_ar": "يتطلب النضج الروحي الاحتفاظ بكلا الواقعين في الذهن في وقت واحد. نعمل نحو الجنة بينما نهرب من النار، ندع الأمل يمدنا بالطاقة والخوف يبقينا يقظين ضد الرضا."
+        },
+        {
+          "id": "101:11:call-to-action",
+          "title": "Urgent Motivation",
+          "icon": "bolt.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah's structure—from catastrophic Day to dual outcomes to final stark warning—creates an implicit call to action. It demands we examine our deeds now, before the scales are weighed and our fate is sealed.",
+          "whyItMatters": "This isn't theoretical theology but practical guidance. The surah pushes us to immediate self-assessment and reform, using the reality of judgment to inspire righteous action today.",
+          "position": "bottomRight",
+          "arabicHighlight": "حَامِيَةٌۢ",
+          "title_urdu": "فوری حوصلہ افزائی",
+          "coreInsight_urdu": "سورہ کی ساخت—تباہ کن دن سے دوہرے نتائج تک آخری واضح انتباہ تک—ایک مضمر کال ٹو ایکشن پیدا کرتی ہے۔ یہ مطالبہ کرتی ہے کہ ہم ابھی اپنے اعمال کا جائزہ لیں، اس سے پہلے کہ میزان تولا جائے اور ہماری تقدیر مہر بند ہو جائے۔",
+          "whyItMatters_urdu": "یہ نظریاتی الہیات نہیں بلکہ عملی رہنمائی ہے۔ سورہ ہمیں فوری خود تشخیص اور اصلاح کی طرف دھکیلتی ہے، فیصلے کی حقیقت استعمال کرتے ہوئے آج نیک عمل کو متاثر کرنے کے لیے۔",
+          "title_ar": "الدافع العاجل",
+          "coreInsight_ar": "بنية السورة—من اليوم الكارثي إلى النتائج المزدوجة إلى التحذير النهائي الصارخ—تخلق دعوة ضمنية للعمل. إنها تطالبنا بفحص أعمالنا الآن، قبل أن توزن الموازين ويُختم مصيرنا.",
+          "whyItMatters_ar": "هذا ليس لاهوتاً نظرياً بل إرشاداً عملياً. تدفعنا السورة إلى التقييم الذاتي والإصلاح الفوري، مستخدمة واقع الحكم لإلهام العمل الصالح اليوم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions affirm the reality of Hell as a place of fire and intense torment. Classical exegetes from both traditions, including Al-Qurtubi, Ibn Kathir, Al-Razi, Tabatabai, and Tabrisi, interpret this verse literally as describing actual fire, though they acknowledge that afterlife fire may have properties different from worldly fire. Both traditions cite supporting verses throughout the Quran describing Hell's fire and authentic hadith from the Prophet describing its intensity. Both emphasize that this description should inspire fear and motivate righteous behavior. The traditions agree that Hell's fire is far more intense than any worldly fire, and that its torment includes both physical and spiritual dimensions. Differences exist in understanding duration and inhabitants: classical Sunni theology generally holds that sincere monotheists will eventually leave Hell, while Shia theology emphasizes that genuine believers will not enter Hell at all. However, both agree that Hell is real, that its fire is intensely hot, and that sincere faith, repentance, and righteous living provide protection. The universal message transcends sectarian differences and calls all people to conscious, accountable living in preparation for eternal realities.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات جہنم کی حقیقت کو آگ اور شدید عذاب کی جگہ کے طور پر تصدیق کرتی ہیں۔ دونوں روایات کے کلاسیکی مفسرین، بشمول القرطبی، ابن کثیر، الرازی، طباطبائی اور طبرسی، اس آیت کی لفظی طور پر اصل آگ کی تفصیل کے طور پر تشریح کرتے ہیں، اگرچہ وہ تسلیم کرتے ہیں کہ آخرت کی آگ میں دنیاوی آگ سے مختلف خصوصیات ہو سکتی ہیں۔ دونوں روایات پورے قرآن میں جہنم کی آگ کی تفصیل دینے والی معاون آیات اور نبی اکرم صلی اللہ علیہ وآلہ سے اس کی شدت کی تفصیل دینے والی مستند احادیث کا حوالہ دیتے ہیں۔ دونوں زور دیتے ہیں کہ یہ تفصیل خوف پیدا کرنی اور نیک رویے کو متحرک کرنی چاہیے۔ دونوں روایات اس بات پر متفق ہیں کہ جہنم کی آگ کسی بھی دنیاوی آگ سے کہیں زیادہ شدید ہے، اور یہ کہ اس کا عذاب جسمانی اور روحانی دونوں جہات پر مشتمل ہے۔ مدت اور باشندوں کو سمجھنے میں اختلاف موجود ہے: کلاسیکی سنی الٰہیات عام طور پر یہ رکھتی ہے کہ مخلص موحدین بالآخر جہنم سے نکل جائیں گے، جبکہ شیعہ الٰہیات زور دیتی ہے کہ حقیقی مومنین جہنم میں بالکل داخل نہیں ہوں گے۔ تاہم، دونوں اس بات پر متفق ہیں کہ جہنم حقیقی ہے، اس کی آگ انتہائی گرم ہے، اور مخلص ایمان، توبہ اور نیک زندگی تحفظ فراہم کرتے ہیں۔ عالمگیر پیغام فرقہ وارانہ اختلافات سے ماورا ہے اور تمام لوگوں کو ابدی حقیقتوں کی تیاری میں باشعور، ذمہ دار زندگی کی طرف بلاتا ہے۔",
+    "layer4_ar": "يُقرُّ الفريقان الشيعي والسني بحقيقة جهنم بوصفها مكان نار وعذاب شديد. ويُفسِّر المفسرون الكلاسيكيون من كلا التراثين، القرطبي وابن كثير والرازي والطباطبائي والطبرسي، هذه الآية على حقيقتها بوصفها وصفاً لنار حقيقية، وإن أقرُّوا بأن النار الأخروية قد تختلف في خصائصها عن النار الدنيوية. ويستشهد الفريقان بآيات قرآنية داعمة على امتداد المصحف تصف نار جهنم وبأحاديث نبوية صحيحة تُجلِّي شدتها. ويتفق الفريقان على أن هذا الوصف ينبغي أن يستثير الخشية والدافعية للسلوك الصالح. ويتفقان كذلك على أن نار جهنم أشد بكثير من أي نار دنيوية وأن عذابها يجمع بين الألم الجسدي والروحي معاً. وتبرز خلافات في تحديد ساكني جهنم ومدة بقائهم؛ فاللاهوت السني الكلاسيكي يرى عموماً أن الموحِّدين الصادقين سيغادرون جهنم في نهاية المطاف، في حين يُؤكِّد اللاهوت الشيعي أن المؤمنين الحقيقيين لن يدخلوها أصلاً. غير أن الفريقين يتفقان على أن جهنم حقيقة، وأن نارها حامية، وأن الإيمان الصادق والتوبة والعمل الصالح هي الحماية منها. والرسالة الكونية تتجاوز الخلافات المذهبية وتُنادي جميع الناس إلى حياة واعية مسؤولة استعداداً للحقائق الأبدية."
+  }
+}

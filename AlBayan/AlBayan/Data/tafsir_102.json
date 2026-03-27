@@ -1,0 +1,490 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:1:takathur-competition",
+          "title": "Worldly Competition",
+          "icon": "arrow.up.forward.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "At-Takathur refers to the obsessive competition to accumulate more - wealth, status, children, power - creating a cycle of endless comparison and pursuit that distracts from spiritual purpose.",
+          "whyItMatters": "This warning reveals how the desire to outdo others in material accumulation becomes a prison that consumes our time, energy, and ultimately our afterlife.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلتَّكَاثُرُ",
+          "title_urdu": "دنیاوی مقابلہ",
+          "coreInsight_urdu": "التکاثر سے مراد زیادہ جمع کرنے کا جنونی مقابلہ ہے - دولت، حیثیت، اولاد، طاقت - جو لامتناہی موازنہ اور تعاقب کا چکر بناتا ہے جو روحانی مقصد سے دھیان ہٹاتا ہے۔",
+          "whyItMatters_urdu": "یہ انتباہ ظاہر کرتا ہے کہ کس طرح مادی جمع میں دوسروں سے آگے نکلنے کی خواہش ایک قید بن جاتی ہے جو ہمارے وقت، توانائی، اور بالآخر ہماری آخرت کو کھا جاتی ہے۔",
+          "title_ar": "المنافسة الدنيوية",
+          "coreInsight_ar": "التكاثر يشير إلى المنافسة الهوسية لتجميع المزيد - الثروة، المكانة، الأطفال، القوة - مما يخلق دورة من المقارنة والسعي اللامتناهي الذي يصرف عن الهدف الروحي.",
+          "whyItMatters_ar": "هذا التحذير يكشف كيف أن الرغبة في التفوق على الآخرين في التراكم المادي تصبح سجنًا يستهلك وقتنا وطاقتنا وفي النهاية آخرتنا."
+        },
+        {
+          "id": "102:1:distraction-warning",
+          "title": "Diverted Hearts",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verb 'alhakum' (diverts/distracts you) indicates that competition makes you neglectful and heedless, pulling your attention away from what truly matters - preparing for eternity.",
+          "whyItMatters": "Understanding that worldly pursuits actively distract us helps us recognize when we're being pulled away from remembrance of Allah and preparation for death.",
+          "position": "topRight",
+          "arabicHighlight": "أَلْهَىٰكُمُ",
+          "title_urdu": "بھٹکے دل",
+          "coreInsight_urdu": "فعل 'الہاکم' (تمہیں بھٹکاتا/توجہ ہٹاتا ہے) اشارہ کرتا ہے کہ مقابلہ تمہیں غافل اور لاپرواہ بناتا ہے، تمہاری توجہ کو اس چیز سے ہٹاتا ہے جو واقعی اہم ہے - ابدیت کی تیاری۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ دنیاوی تعاقب فعال طور پر ہماری توجہ ہٹاتا ہے ہمیں پہچاننے میں مدد کرتا ہے کہ کب ہمیں اللہ کی یاد اور موت کی تیاری سے دور کھینچا جا رہا ہے۔",
+          "title_ar": "القلوب المشتتة",
+          "coreInsight_ar": "الفعل 'ألهاكم' (يلهيكم/يصرفكم) يشير إلى أن المنافسة تجعلكم غافلين ولاهين، مما يسحب انتباهكم بعيدًا عما يهم حقًا - الاستعداد للأبدية.",
+          "whyItMatters_ar": "فهم أن المساعي الدنيوية تصرفنا بنشاط يساعدنا على إدراك متى يتم سحبنا بعيدًا عن ذكر الله والاستعداد للموت."
+        },
+        {
+          "id": "102:1:present-tense-warning",
+          "title": "Ongoing Danger",
+          "icon": "clock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The present tense verb shows this isn't a historical issue but a continuous reality affecting every generation, including ours with social media, wealth comparison, and status seeking.",
+          "whyItMatters": "This timeless warning applies directly to modern life where comparison culture and material competition have reached unprecedented levels through technology.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+          "title_urdu": "جاری خطرہ",
+          "coreInsight_urdu": "حال کا صیغہ ظاہر کرتا ہے کہ یہ تاریخی مسئلہ نہیں بلکہ ایک مسلسل حقیقت ہے جو ہر نسل کو متاثر کرتی ہے، بشمول ہماری سوشل میڈیا، دولت کے موازنے، اور حیثیت کی تلاش کے ساتھ۔",
+          "whyItMatters_urdu": "یہ لازوال انتباہ براہ راست جدید زندگی پر لاگو ہوتا ہے جہاں موازنہ کی ثقافت اور مادی مقابلہ ٹیکنالوجی کے ذریعے بے مثال سطح تک پہنچ گیا ہے۔",
+          "title_ar": "الخطر المستمر",
+          "coreInsight_ar": "صيغة المضارع تُظهر أن هذه ليست قضية تاريخية بل حقيقة مستمرة تؤثر على كل جيل، بما في ذلك جيلنا مع وسائل التواصل الاجتماعي ومقارنة الثروة والسعي للمكانة.",
+          "whyItMatters_ar": "هذا التحذير الخالد ينطبق مباشرة على الحياة العصرية حيث وصلت ثقافة المقارنة والمنافسة المادية إلى مستويات غير مسبوقة من خلال التكنولوجيا."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars agree on the fundamental meaning of this verse as a warning against materialistic distraction, though they differ in some details of historical context and application. Ibn Kathir and other Sunni scholars emphasize that the verse condemns pride in large numbers of followers, wealth, and descendants, using various hadiths about Quraysh tribes competing in these matters. Shia scholars like Tabatabai and Tabrisi include these interpretations but add deeper layers about spiritual attachment versus mere possession. Qurtubi and other Sunni jurists focus on the legal implications, discussing whether certain forms of wealth accumulation are permitted when not accompanied by pride and distraction. Both traditions cite similar narrations about tribes visiting graveyards to count their dead as proof of superiority, though the chains of transmission differ. The consensus across both schools is that the verse criticizes not wealth itself but the spiritual disease of competitive accumulation that diverts hearts from Allah. A unique Shia emphasis, found in Tabrisi, is the connection to wilayah, where takathur can manifest as seeking religious positions for status rather than service. The practical application unites both traditions in calling believers to examine their intentions in all pursuits, ensuring worldly engagement serves rather than distracts from divine purpose.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء اس آیت کے بنیادی معنی پر متفق ہیں کہ یہ مادی پرست بھٹکاؤ کے خلاف ایک انتباہ ہے، اگرچہ وہ تاریخی سیاق و سباق اور اطلاق کی کچھ تفصیلات میں مختلف ہیں۔ ابن کثیر اور دیگر سنی علماء زور دیتے ہیں کہ آیت پیروکاروں، دولت اور اولاد کی بڑی تعداد میں فخر کی مذمت کرتی ہے، قریش قبائل کے ان معاملات میں مقابلہ کے بارے میں مختلف احادیث کا استعمال کرتے ہوئے۔ شیعہ علماء جیسے طباطبائی اور طبرسی ان تشریحات کو شامل کرتے ہیں لیکن صرف ملکیت کے مقابلے میں روحانی لگاؤ کے بارے میں گہرے پرتیں شامل کرتے ہیں۔ قرطبی اور دیگر سنی فقہاء قانونی مضمرات پر توجہ مرکوز کرتے ہیں، بحث کرتے ہوئے کہ آیا دولت جمع کرنے کی کچھ شکلیں جائز ہیں جب فخر اور بھٹکاؤ کے ساتھ نہیں ہوں۔ دونوں روایات قبائل کے قبرستانوں میں جانے اور اپنے مردوں کو برتری کے ثبوت کے طور پر گنتے ہوئے اسی طرح کی روایات کا حوالہ دیتی ہیں، اگرچہ سند کی زنجیریں مختلف ہیں۔ دونوں مکاتب میں اتفاق رائے یہ ہے کہ آیت دولت کی تنقید نہیں کرتی بلکہ مقابلاتی جمع کی روحانی بیماری کی جو دلوں کو اللہ سے بھٹکا دیتی ہے۔ شیعہ زور جو طبرسی میں پایا جاتا ہے، ولایت سے تعلق ہے، جہاں تکاثر خدمت کے بجائے مقام کے لیے مذہبی عہدوں کی تلاش میں ظاہر ہو سکتی ہے۔ عملی اطلاق دونوں روایات کو متحد کرتا ہے کہ مومنین اپنے تمام تعاقبات میں اپنی نیتوں کا جائزہ لیں، اس بات کو یقینی بناتے ہوئے کہ دنیوی مصروفیت الہی مقصد سے بھٹکاؤ کے بجائے خدمت کرتی ہے۔",
+    "layer4_ar": "يتفق العلماء في التراثين الشيعي والسني على الدلالة الجوهرية لهذه الآية بوصفها تحذيراً صريحاً من الانشغال بالدنيا، وإن تفاوتوا في بعض تفاصيل السياق التاريخي وأوجه التطبيق. فابن كثير وسائر علماء أهل السنة يُركِّزون على ذم الافتخار بكثرة الأتباع والأموال والذرية، مستشهدين بروايات تتحدث عن تنافس قريش في هذه الأمور. أما الطباطبائي والطبرسي وغيرهما من علماء الشيعة، فيضيفون طبقات أعمق تُفرِّق بين التعلق الروحي بالأشياء والمجرد امتلاكها. ويتناول القرطبي والفقهاء السنيون الأبعاد التشريعية بالبحث فيما يُباح من أوجه تنمية الثروة متى خلت من الكبر والغفلة. وتتقاطع الروايتان في الإشارة إلى القبائل التي كانت تزور المقابر تعداداً للجثامين افتخاراً بكثرة رجالها، وإن تفاوتت أسانيد هذه الأخبار. ويتفق إجماع المذهبين على أن الآية لا تذمُّ الثروة بذاتها، وإنما تذمُّ الداء الروحي المتمثل في التنافس التراكمي الذي يصرف القلوب عن الله. أما التميُّز الشيعي الذي نبَّه إليه الطبرسي، فهو الربط بين التكاثر وطلب المناصب الدينية للتفاخر لا للخدمة. وتتوحَّد الرسالة العملية في كلا التراثين في دعوة المؤمن إلى مساءلة نيته في كل مسعى، ليظل انخراطه في الدنيا خادماً لغاية الآخرة لا صارفاً عنها."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:2:visiting-graves",
+          "title": "The Final Visit",
+          "icon": "figure.walk",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'zurtumu al-maqabir' (you visit the graveyards) uses 'visit' as a euphemism for death, indicating that worldly competition continues until death itself interrupts it.",
+          "whyItMatters": "This reveals the tragedy of wasted lives - people compete right up until their graves, never awakening to what truly matters until it's too late.",
+          "position": "topLeft",
+          "arabicHighlight": "زُرْتُمُ ٱلْمَقَابِرَ",
+          "title_urdu": "آخری ملاقات",
+          "coreInsight_urdu": "جملہ 'زرتم المقابر' (تم قبرستانوں کی زیارت کرتے ہو) موت کے لیے 'زیارت' کو استعارہ کے طور پر استعمال کرتا ہے، اشارہ کرتے ہوئے کہ دنیاوی مقابلہ موت کے آنے تک جاری رہتا ہے۔",
+          "whyItMatters_urdu": "یہ ضائع شدہ زندگیوں کی المیہ کو ظاہر کرتا ہے - لوگ اپنی قبروں تک مقابلہ کرتے رہتے ہیں، کبھی بیدار نہیں ہوتے کہ واقعی کیا اہم ہے جب تک کہ بہت دیر نہ ہو جائے۔",
+          "title_ar": "الزيارة الأخيرة",
+          "coreInsight_ar": "عبارة 'زرتم المقابر' يستخدم 'الزيارة' كناية عن الموت، مشيرًا إلى أن المنافسة الدنيوية تستمر حتى يقطعها الموت نفسه.",
+          "whyItMatters_ar": "هذا يكشف مأساة الحياة الضائعة - الناس يتنافسون حتى قبورهم، ولا يستيقظون لما يهم حقًا حتى فوات الأوان."
+        },
+        {
+          "id": "102:2:hatta-limit",
+          "title": "Until Death",
+          "icon": "hourglass.bottomhalf.filled",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'hatta' (until) shows a temporal endpoint - the distraction continues unceasingly until the moment of death when all worldly pursuits become meaningless.",
+          "whyItMatters": "This urgency calls us to break the cycle now, before death forces the awakening when no change is possible anymore.",
+          "position": "topRight",
+          "arabicHighlight": "حَتَّىٰ",
+          "title_urdu": "موت تک",
+          "coreInsight_urdu": "لفظ 'حتی' (تک) ایک عارضی انجام دکھاتا ہے - بھٹکاو بلا تعطل جاری رہتا ہے موت کے لمحے تک جب تمام دنیاوی تعاقب بے معنی ہو جاتے ہیں۔",
+          "whyItMatters_urdu": "یہ فوری ضرورت ہمیں اب چکر توڑنے کی دعوت دیتی ہے، اس سے پہلے کہ موت بیداری پر مجبور کرے جب کوئی تبدیلی ممکن نہیں رہتی۔",
+          "title_ar": "حتى الموت",
+          "coreInsight_ar": "كلمة 'حتى' تُظهر نقطة نهاية زمنية - يستمر التشتيت بلا انقطاع حتى لحظة الموت عندما تصبح جميع المساعي الدنيوية بلا معنى.",
+          "whyItMatters_ar": "هذه الإلحاحية تدعونا لكسر الدورة الآن، قبل أن يفرض الموت الصحوة عندما لا يكون التغيير ممكنًا بعد الآن."
+        },
+        {
+          "id": "102:2:grave-reminder",
+          "title": "Death Consciousness",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Mentioning graves directly confronts us with mortality, serving as a wake-up call to remember death (dhikr al-mawt) and reassess our priorities before it's too late.",
+          "whyItMatters": "Regular remembrance of death is prescribed as the cure for worldly attachment, helping us focus on what will benefit us in the grave and beyond.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْمَقَابِرَ",
+          "title_urdu": "موت کا شعور",
+          "coreInsight_urdu": "قبروں کا براہ راست ذکر ہمیں فنا سے روبرو کرتا ہے، موت کی یاد (ذکر الموت) کے لیے بیداری کی آواز کے طور پر کام کرتا ہے اور بہت دیر ہونے سے پہلے ہماری ترجیحات کا از سر نو جائزہ لینا۔",
+          "whyItMatters_urdu": "موت کی باقاعدہ یاد دنیاوی لگاؤ کا علاج کے طور پر تجویز کی گئی ہے، ہمیں اس پر توجہ مرکوز کرنے میں مدد کرتی ہے جو قبر میں اور اس سے آگے ہمیں فائدہ دے گا۔",
+          "title_ar": "وعي الموت",
+          "coreInsight_ar": "ذكر القبور مباشرة يواجهنا بالفناء، ليكون بمثابة دعوة للاستيقاظ لتذكر الموت (ذكر الموت) وإعادة تقييم أولوياتنا قبل فوات الأوان.",
+          "whyItMatters_ar": "التذكير المنتظم بالموت موصوف كعلاج للتعلق بالدنيا، مما يساعدنا على التركيز على ما سينفعنا في القبر وما بعده."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia traditions agree on the core interpretation of this verse as referring to death and the futility of worldly competition in its face. Ibn Kathir records narrations similar to those in Shia sources about tribes visiting graveyards to count their dead, showing common historical understanding. However, there are nuanced differences in emphasis and application. Sunni scholars like Qurtubi focus more on the literal practice of grave visitation and its legal rulings, discussing when visiting graves is recommended versus prohibited. Shia scholarship, represented by Tabatabai and Tabrisi, incorporates both literal and metaphorical meanings more extensively, emphasizing the philosophical implications about death as transition rather than end. Both traditions use this verse to encourage death remembrance, though Shia scholars more explicitly connect it to preparing for Barzakh, the intermediary realm between death and resurrection. Razi in his Sunni commentary discusses the theological implications of describing death as a 'visit,' which both schools interpret as evidence that the grave is temporary before resurrection and judgment. The scholarly consensus across traditions is that this verse commands serious reflection on mortality to break the spell of materialistic distraction, though they differ on specific practices and metaphysical details about the intermediate state.",
+    "layer4_urdu": "سنی اور شیعہ دونوں روایات اس آیت کی بنیادی تشریح پر متفق ہیں کہ یہ موت اور اس کے سامنے دنیوی مقابلہ کی بیکار سے متعلق ہے۔ ابن کثیر نے شیعہ ذرائع میں موجود اسی طرح کی روایات کو ریکارڈ کیا ہے قبائل کے قبرستانوں میں جانے اور اپنے مردوں کو گننے کے بارے میں، مشترکہ تاریخی فہم کو ظاہر کرتے ہوئے۔ تاہم، زور اور اطلاق میں نفیس فرق ہیں۔ سنی علماء جیسے قرطبی قبر کی زیارت کے لفظی مشق پر زیادہ توجہ مرکوز کرتے ہیں اور اس کے قانونی احکام، بحث کرتے ہوئے کہ قبروں کی زیارت کب مستحب ہے بمقابلہ ممنوع۔ شیعہ علم، جو طباطبائی اور طبرسی کی نمائندگی کرتا ہے، لفظی اور استعاراتی دونوں معانی کو زیادہ وسیع طور پر شامل کرتا ہے، موت کے بارے میں فلسفیانہ مضمرات پر زور دیتے ہوئے بطور منتقلی نہ کہ اختتام۔ دونوں روایات اس آیت کا استعمال موت کی یاد کی حوصلہ افزائی کے لیے کرتی ہیں، اگرچہ شیعہ علماء زیادہ واضح طور پر اسے برزخ کی تیاری سے جوڑتے ہیں، موت اور قیامت کے درمیان وسط دائرہ۔ رازی نے اپنی سنی تفسیر میں موت کو 'دورہ' کہنے کے الہیاتی مضمرات پر بحث کی، جس کی دونوں مکاتب تشریح کرتے ہیں کہ قبر قیامت اور فیصلے سے پہلے عارضی ہے کے ثبوت کے طور پر۔ روایات میں علمی اتفاق رائے یہ ہے کہ یہ آیت مادی پرست بھٹکاؤ کے جادو کو توڑنے کے لیے موت پر سنجیدہ غور کا حکم دیتی ہے، اگرچہ وہ مخصوص طریقوں اور وسط حالت کے بارے میں مابعدالطبیعاتی تفصیلات میں مختلف ہیں۔",
+    "layer4_ar": "يتوافق التراثان السني والشيعي على التفسير الجوهري للآية المتعلق بالموت وعبثية التنافس الدنيوي في وجهه. ويُورد ابن كثير روايات تتقاطع مع ما في المصادر الشيعية عن القبائل التي زارت المقابر تعداداً لأمواتها، مما يدل على مشتركات في الفهم التاريخي. بيد أن ثمة فروقاً دقيقة في التركيز والتطبيق؛ فالقرطبي وعلماء السنة يتوقفون أكثر عند الممارسة الحرفية لزيارة القبور وأحكامها الفقهية من إباحة وكراهة. أما الطباطبائي والطبرسي، فيُوسِّعان نطاق المعنى ليشمل أبعاداً حرفية ومجازية أعمق، مع التأكيد على المضامين الفلسفية للموت بوصفه انتقالاً لا فناء. ويستدل الطرفان بهذه الآية على استحباب ذكر الموت، وإن كان علماء الشيعة يربطونها صراحةً بالاستعداد لعالم البرزخ، أي البرزخ بين الموت والبعث. ويناقش الرازي في تفسيره السني المضامين العقدية لوصف الموت بالزيارة، وهو ما يفسِّره الطرفان على حد سواء باعتباره دليلاً على أن القبر مؤقت قبل البعث والحساب. وتتفق المذاهب على أن هذه الآية تُلزم بالتأمل الجاد في الفناء لكسر وهم الانبهار بالدنيا، وإن تفاوتوا في الممارسات المستحبة والتفاصيل الميتافيزيقية المتعلقة بحال البرزخ."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:3:kalla-warning",
+          "title": "Divine Negation",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Kalla (No!) is a strong negation and warning, Allah's firm rejection of the heedless lifestyle described, signaling that this path leads to severe consequences.",
+          "whyItMatters": "This emphatic warning from Allah Himself should jolt us into immediate self-examination of how we spend our lives and what we prioritize.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "الہی انکار",
+          "coreInsight_urdu": "کلا (نہیں!) ایک مضبوط انکار اور انتباہ ہے، بیان کی گئی غافل طرز زندگی کی اللہ کی پختہ مسترد، اشارہ کرتے ہوئے کہ یہ راستہ سنگین نتائج کی طرف لے جاتا ہے۔",
+          "whyItMatters_urdu": "خود اللہ کی طرف سے یہ زور دار انتباہ ہمیں فوری طور پر خود احتسابی میں جھٹکا دینا چاہیے کہ ہم اپنی زندگیاں کیسے گزارتے ہیں اور کیا ترجیح دیتے ہیں۔",
+          "title_ar": "النفي الإلهي",
+          "coreInsight_ar": "كلا (لا!) هو نفي قوي وتحذير، رفض الله الحازم لنمط الحياة الغافل الموصوف، مشيرًا إلى أن هذا الطريق يؤدي إلى عواقب وخيمة.",
+          "whyItMatters_ar": "هذا التحذير المؤكد من الله نفسه يجب أن يهزنا إلى الفحص الذاتي الفوري لكيفية قضاء حياتنا وما نعطيه الأولوية."
+        },
+        {
+          "id": "102:3:future-knowledge",
+          "title": "Coming Certainty",
+          "icon": "eye.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Sawfa ta'lamun (you are going to know) promises inevitable future knowledge - the truth that's obscured now by worldly distraction will become crystal clear, but too late to act.",
+          "whyItMatters": "This warns that ignorance is temporary; we will certainly know the consequences of our choices, making it wise to seek knowledge now while we can still change.",
+          "position": "topRight",
+          "arabicHighlight": "سَوْفَ تَعْلَمُونَ",
+          "title_urdu": "آنے والا یقین",
+          "coreInsight_urdu": "سوف تعلمون (تم جان لو گے) ناگزیر مستقبل کے علم کا وعدہ کرتا ہے - وہ سچائی جو ابھی دنیاوی بھٹکاو سے مبہم ہے بالکل واضح ہو جائے گی، لیکن عمل کرنے میں بہت دیر ہو جائے گی۔",
+          "whyItMatters_urdu": "یہ خبردار کرتا ہے کہ لاعلمی عارضی ہے؛ ہم یقیناً اپنے انتخاب کے نتائج جان لیں گے، اسے دانشمندی بناتے ہوئے کہ اب علم حاصل کریں جب ہم ابھی بدل سکتے ہیں۔",
+          "title_ar": "اليقين القادم",
+          "coreInsight_ar": "سوف تعلمون (ستعلمون) يَعِد بمعرفة مستقبلية حتمية - الحقيقة التي يحجبها التشتيت الدنيوي الآن ستصبح واضحة تمامًا، لكن بعد فوات الأوان للعمل.",
+          "whyItMatters_ar": "هذا يحذر من أن الجهل مؤقت؛ سنعرف بالتأكيد عواقب اختياراتنا، مما يجعل من الحكمة طلب المعرفة الآن بينما لا نزال قادرين على التغيير."
+        },
+        {
+          "id": "102:3:implied-threat",
+          "title": "Unspecified Terror",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse doesn't specify what we'll know, creating ominous suspense - the knowledge could be of punishment, regret, or the full reality of wasted opportunities.",
+          "whyItMatters": "This ambiguity intensifies the warning, as our imagination of the terrible knowledge we'll gain should motivate us more than a specific threat.",
+          "position": "bottomLeft",
+          "arabicHighlight": "تَعْلَمُونَ",
+          "title_urdu": "غیر متعین دہشت",
+          "coreInsight_urdu": "آیت یہ بیان نہیں کرتی کہ ہم کیا جانیں گے، بدشگون تعطل پیدا کرتے ہوئے - علم سزا، پچھتاوے، یا ضائع شدہ مواقع کی مکمل حقیقت کا ہو سکتا ہے۔",
+          "whyItMatters_urdu": "یہ ابہام انتباہ کو شدت دیتا ہے، کیونکہ خوفناک علم کی ہماری تصور جو ہم حاصل کریں گے ہمیں ایک مخصوص خطرے سے زیادہ محرک بنانا چاہیے۔",
+          "title_ar": "الرعب غير المحدد",
+          "coreInsight_ar": "الآية لا تحدد ما سنعرفه، مما يخلق تشويقًا مشؤومًا - المعرفة قد تكون بالعقاب أو الندم أو الواقع الكامل للفرص الضائعة.",
+          "whyItMatters_ar": "هذا الغموض يكثف التحذير، حيث أن تخيلنا للمعرفة الرهيبة التي سنكتسبها يجب أن يحفزنا أكثر من تهديد محدد."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars interpret 'kalla' as a strong particle of negation and warning, and agree that 'you will know' promises inevitable realization of consequences. Ibn Kathir explains that this is a threat to those who are deceived by worldly life, that they will come to know the reality when it is too late to benefit from that knowledge. This interpretation aligns closely with Shia scholars like Tabatabai. Qurtubi discusses whether the knowledge comes at death, in the grave, or on Judgment Day, a question also explored in Shia sources with similar range of opinions. Razi in his Sunni tafsir emphasizes that the repetition of this warning in verse four indicates escalating severity, a point also made by Tabrisi. Both traditions use this verse to encourage death remembrance and serious reflection on life's purpose before forced realization arrives. A subtle difference is that Shia scholars more explicitly connect this knowledge to esoteric versus exoteric understanding, discussing how the Imams' teachings provide access to realities others only learn after death. Sunni scholars focus more on the knowledge gained in the grave during questioning by angels. However, the practical application converges in both traditions on urgent need for spiritual awakening before death forces the lesson upon us. The scholarly consensus is that this verse contains both warning and mercy, threatening consequences while implicitly offering time to change course.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء 'کلا' کی انکار اور انتباہ کے ایک مضبوط ذرہ کے طور پر تشریح کرتے ہیں، اور متفق ہیں کہ 'تم جان لوگے' نتائج کے ناگزیر احساس کا وعدہ کرتا ہے۔ ابن کثیر وضاحت کرتے ہیں کہ یہ دنیوی زندگی سے دھوکہ کھانے والوں کے لیے ایک دھمکی ہے، کہ وہ حقیقت کو اس وقت جان لیں گے جب اس علم سے فائدہ اٹھانے کے لیے بہت دیر ہو چکی ہوگی۔ یہ تشریح طباطبائی جیسے شیعہ علماء کے ساتھ قریب سے ہم آہنگ ہے۔ قرطبی بحث کرتے ہیں کہ آیا علم موت پر، قبر میں یا قیامت کے دن آتا ہے، ایک سوال جو شیعہ ذرائع میں بھی تلاش کیا گیا ہے اسی طرح کی آراء کی رینج کے ساتھ۔ رازی نے اپنی سنی تفسیر میں زور دیا کہ آیت چار میں اس انتباہ کی تکرار بڑھتی ہوئی شدت کی نشاندہی کرتی ہے، ایک نقطہ جو طبرسی نے بھی بنایا۔ دونوں روایات اس آیت کا استعمال موت کی یاد اور زندگی کے مقصد پر سنجیدہ غور کی حوصلہ افزائی کے لیے کرتی ہیں اس سے پہلے کہ مجبور احساس آئے۔ ایک نازک فرق یہ ہے کہ شیعہ علماء زیادہ واضح طور پر اس علم کو باطنی بمقابلہ ظاہری فہم سے جوڑتے ہیں، بحث کرتے ہوئے کہ ائمہ علیہم السلام کی تعلیمات ان حقیقتوں تک رسائی فراہم کرتی ہیں جو دوسرے موت کے بعد سیکھتے ہیں۔ سنی علماء زیادہ قبر میں فرشتوں کی پوچھ گچھ کے دوران حاصل کردہ علم پر توجہ مرکوز کرتے ہیں۔ تاہم، عملی اطلاق دونوں روایات میں موت ہم پر سبق مجبور کرنے سے پہلے روحانی بیداری کی فوری ضرورت پر متفق ہوتا ہے۔ علمی اتفاق رائے یہ ہے کہ یہ آیت انتباہ اور رحمت دونوں رکھتی ہے، نتائج سے دھمکی دیتے ہوئے جبکہ واضح طور پر راستہ بدلنے کا وقت فراہم کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن \"كلا\" حرف ردع وزجر قوي، وعلى أن \"سوف تعلمون\" وعيدٌ حتمي بوقوع الإدراك لا محالة. ويُبيِّن ابن كثير أن هذا تهديدٌ للمغترِّين بالحياة الدنيا بأنهم سيعلمون الحقيقة حين يفوتهم الانتفاع بهذا العلم، وهو تفسير ينسجم انسجاماً وثيقاً مع ما ذهب إليه الطباطبائي. ويناقش القرطبي مسألة متى يقع هذا العلم: أعند الموت أم في القبر أم يوم القيامة؟ وهو نقاش تتناوله المصادر الشيعية بنطاق من الآراء مشابه. ويُشدِّد الرازي في تفسيره على أن تكرار هذا التحذير في الآية الرابعة يُفيد تصاعداً في الشدة، وهو ما نبَّه إليه الطبرسي أيضاً. ويستدل الطرفان بهذه الآية على الحثِّ على ذكر الموت والتأمل الجاد في هدف الحياة قبل أن يتحوَّل التحذير إلى عاقبة مُعاشة. وتتميَّز العناية الشيعية بأن الطباطبائي يُلمح إلى العلم الباطني في مقابل العلم الظاهري، مُفسِّراً العلم الأول بـ\"علم اليقين\" والثاني بـ\"عين اليقين\"، وهو تمييز تُغفله المصادر السنية عادةً دون أن تنفيه. ويميل علماء السنة كابن كثير إلى تفسير كلا التحذيرين بأنهما ينصرفان إلى العذاب في الآخرة، بينما يُناقش علماء الشيعة مراحل العلم التي تبدأ عند الموت. والإجماع العلمي في كلا التراثين أن هذه الآية تُوظَّف للإيقاظ من الغفلة وبعث الإلحاح في الاستعداد الروحي قبل أن تُحتِّم الحقيقةُ نفسها تعليمَها في ظروف لا تُتاح معها التوبة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:4:double-emphasis",
+          "title": "Repeated Warning",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E57373",
+          "coreInsight": "The repetition of 'thumma kalla sawfa ta'lamun' (Then no! You are going to know) doubles the emphasis, showing the severity and inevitability of the coming knowledge.",
+          "whyItMatters": "Divine repetition in the Quran signals critical importance - this doubled warning demands we pay serious attention to how we're living our lives.",
+          "position": "topLeft",
+          "arabicHighlight": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+          "title_urdu": "دہرایا گیا انتباہ",
+          "coreInsight_urdu": "ثم کلا سوف تعلمون (پھر نہیں! تم جان لو گے) کی تکرار زور کو دوگنا کرتی ہے، آنے والے علم کی شدت اور ناگزیریت کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "قرآن میں الہی تکرار اہم اہمیت کی علامت ہے - یہ دوگنا انتباہ مطالبہ کرتا ہے کہ ہم سنجیدگی سے توجہ دیں کہ ہم اپنی زندگیاں کیسے گزار رہے ہیں۔",
+          "title_ar": "التحذير المكرر",
+          "coreInsight_ar": "تكرار 'ثم كلا سوف تعلمون' (ثم لا! ستعلمون) يضاعف التأكيد، مظهرًا شدة وحتمية المعرفة القادمة.",
+          "whyItMatters_ar": "التكرار الإلهي في القرآن يشير إلى أهمية حاسمة - هذا التحذير المضاعف يتطلب منا إيلاء اهتمام جاد لكيفية عيش حياتنا."
+        },
+        {
+          "id": "102:4:thumma-progression",
+          "title": "Sequential Revelation",
+          "icon": "arrow.right.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Thumma (then) suggests a progression or escalation - the knowledge comes in stages, perhaps first at death, then in the grave, then at resurrection, each more intense.",
+          "whyItMatters": "Understanding that realization comes in waves helps us grasp that regret will compound at each stage, making immediate repentance essential.",
+          "position": "topRight",
+          "arabicHighlight": "ثُمَّ",
+          "title_urdu": "ترتیب وار انکشاف",
+          "coreInsight_urdu": "ثم (پھر) ایک ترقی یا شدت کا مشورہ دیتا ہے - علم مراحل میں آتا ہے، شاید پہلے موت پر، پھر قبر میں، پھر قیامت پر، ہر ایک زیادہ شدید۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ احساس لہروں میں آتا ہے ہمیں سمجھنے میں مدد کرتا ہے کہ پچھتاوا ہر مرحلے پر بڑھے گا، فوری توبہ کو ضروری بناتے ہوئے۔",
+          "title_ar": "الكشف المتسلسل",
+          "coreInsight_ar": "ثم (ثم) تقترح تقدمًا أو تصعيدًا - المعرفة تأتي على مراحل، ربما أولاً عند الموت، ثم في القبر، ثم في البعث، كل منها أكثر كثافة.",
+          "whyItMatters_ar": "فهم أن الإدراك يأتي على موجات يساعدنا على إدراك أن الندم سيتراكم في كل مرحلة، مما يجعل التوبة الفورية ضرورية."
+        },
+        {
+          "id": "102:4:amplified-urgency",
+          "title": "Intensified Call",
+          "icon": "speaker.wave.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The second warning amplifies urgency - if the first didn't move you, this repetition serves as a final wake-up call before describing the consequences explicitly.",
+          "whyItMatters": "This shows Allah's mercy in giving multiple warnings before punishment, demonstrating that ignoring these calls leads to self-chosen consequences.",
+          "position": "bottomRight",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "شدید آواز",
+          "coreInsight_urdu": "دوسرا انتباہ فوریت کو بڑھاتا ہے - اگر پہلا آپ کو متاثر نہیں کرتا، تو یہ تکرار نتائج کو صراحتاً بیان کرنے سے پہلے آخری بیداری کی کال کے طور پر کام کرتی ہے۔",
+          "whyItMatters_urdu": "یہ سزا سے پہلے متعدد انتباہات دینے میں اللہ کی رحمت کو ظاہر کرتا ہے، ظاہر کرتے ہوئے کہ ان کالوں کو نظر انداز کرنا خود منتخب نتائج کی طرف لے جاتا ہے۔",
+          "title_ar": "النداء المكثف",
+          "coreInsight_ar": "التحذير الثاني يضخم الإلحاحية - إذا لم يحركك الأول، فإن هذا التكرار يعمل كنداء إيقاظ نهائي قبل وصف العواقب صراحة.",
+          "whyItMatters_ar": "هذا يُظهر رحمة الله في إعطاء تحذيرات متعددة قبل العقاب، مما يدل على أن تجاهل هذه النداءات يؤدي إلى عواقب مختارة ذاتيًا."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia commentators recognize the rhetorical significance of this repetition and explore similar interpretations for its purpose. Ibn Kathir cites various opinions from classical scholars about whether the two warnings refer to different times, different groups, or simply emphatic repetition, mirroring the range of opinions in Shia sources. Qurtubi discusses the grammatical function of 'thumma' and whether it indicates temporal sequence or intensification, a question also explored by Tabatabai. Razi in his Sunni commentary emphasizes that the repetition shows the coming knowledge is certain, unavoidable, and serious, requiring immediate attention, an interpretation shared across traditions. Both schools use this verse to encourage urgency in spiritual reform before the warnings become realized consequences. A distinctive Shia emphasis found in Tabatabai is the connection to epistemological levels, where the first knowing is knowledge of certainty while the second is eye of certainty, a distinction less emphasized in Sunni sources though not contradicted by them. Sunni scholars like Ibn Kathir tend to interpret both warnings as referring to punishment in the Hereafter, while Shia scholars more frequently discuss stages of knowing beginning at death. The scholarly consensus across both traditions is that this repetition serves to wake people from heedlessness and motivate serious spiritual preparation before reality forces itself upon them in ways that no longer allow for repentance and change.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین اس تکرار کی بلاغتی اہمیت کو تسلیم کرتے ہیں اور اس کے مقصد کے لیے اسی طرح کی تشریحات تلاش کرتے ہیں۔ ابن کثیر نے کلاسیکی علماء سے مختلف آراء کا حوالہ دیا کہ آیا دو انتباہات مختلف اوقات، مختلف گروہوں، یا صرف زوردار تکرار سے مراد ہیں، شیعہ ذرائع میں آراء کی رینج کی عکاسی کرتے ہوئے۔ قرطبی نے 'ثم' کی گرامر کی تقریب پر بحث کی اور آیا یہ وقتی ترتیب یا شدت کی نشاندہی کرتا ہے، ایک سوال جو طباطبائی نے بھی تلاش کیا۔ رازی نے اپنی سنی تفسیر میں زور دیا کہ تکرار ظاہر کرتی ہے کہ آنے والا علم یقینی، ناگزیر اور سنجیدہ ہے، فوری توجہ کی ضرورت ہے، ایک تشریح جو روایات میں مشترک ہے۔ دونوں مکاتب اس آیت کا استعمال انتباہات کے احساس شدہ نتائج بننے سے پہلے روحانی اصلاح میں فوریت کی حوصلہ افزائی کے لیے کرتے ہیں۔ طباطبائی میں پائی جانے والی ایک نمایاں شیعہ زور علمیاتی سطحوں سے تعلق ہے، جہاں پہلا جاننا یقین کا علم ہے جبکہ دوسرا یقین کی آنکھ ہے، ایک امتیاز جو سنی ذرائع میں کم زور دیا جاتا ہے اگرچہ ان سے متضاد نہیں۔ سنی علماء جیسے ابن کثیر دونوں انتباہات کی تشریح آخرت میں سزا سے مراد کے طور پر کرتے ہیں، جبکہ شیعہ علماء زیادہ کثرت سے موت سے شروع ہونے والے جاننے کے مراحل پر بحث کرتے ہیں۔ دونوں روایات میں علمی اتفاق رائے یہ ہے کہ یہ تکرار لوگوں کو غفلت سے جگانے اور حقیقت خود کو ان طریقوں میں مجبور کرنے سے پہلے سنجیدہ روحانی تیاری کی تحریک دینے کے لیے کام کرتی ہے جو اب توبہ اور تبدیلی کی اجازت نہیں دیتے۔",
+    "layer4_ar": "يُدرك علماء الشيعة والسنة كليهم أهمية التكرار البلاغي في هذه الآية، ويستعرضون تفسيرات متشابهة لسببه. ويستشهد ابن كثير بآراء متنوعة من علماء السلف حول ما إذا كان التحذيران يتعلقان بزمنين أو فئتين مختلفتين أو مجرد تأكيد متراكب، وهي طيف من الآراء يوازي ما يُعرضه في المصادر الشيعية. ويُناقش القرطبي الوظيفة النحوية لـ\"ثم\" وما إذا كانت تُفيد الترتيب الزمني أم التصعيد في الدرجة، وهو تساؤل يستكشفه الطباطبائي أيضاً. ويُشدِّد الرازي في تفسيره على أن التكرار يُثبت يقينية العلم القادم وحتميته وخطورته مما يستدعي الإقبال عليه فوراً، وهو تفسير تشترك فيه المذاهب. ويستدل الطرفان بهذه الآية على ضرورة الإلحاح في الإصلاح الروحي قبل أن تتجسَّد التحذيرات في عواقب واقعة. وتتميَّز العناية الشيعية عند الطباطبائي بالربط بالأبعاد المعرفية، حيث يربط العلم الأول بـ\"علم اليقين\" والثاني بـ\"عين اليقين\"، وهو تمييز لا تُبرزه المصادر السنية كثيراً وإن لم تنفِه. ويميل علماء السنة كابن كثير إلى تفسير كلا التحذيرين بأنهما يتعلقان بالعذاب في الآخرة، بينما يُناقش علماء الشيعة مراحل العلم التي تبدأ بالموت. والإجماع العلمي في كلا التراثين أن هذا التكرار يُوظَّف لإيقاظ الناس من الغفلة ودفعهم إلى الاستعداد الروحي الجاد قبل أن تفرض الحقيقة نفسها عليهم في أوضاع لا تُتيح التوبة والتغيير."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:5:third-kalla",
+          "title": "Triple Negation",
+          "icon": "3.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The third 'kalla' intensifies the rejection of heedlessness, creating a pattern of escalating warnings that mirror the stages of realization we'll experience.",
+          "whyItMatters": "Three divine negations emphasize that there's absolutely no excuse for this behavior - the warning is complete, clear, and undeniable.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "تین گنا انکار",
+          "coreInsight_urdu": "تیسرا 'کلا' غفلت کی مسترد کو شدت دیتا ہے، بڑھتے انتباہات کا ایک نمونہ بناتے ہوئے جو احساس کے مراحل کی عکاسی کرتا ہے جو ہم تجربہ کریں گے۔",
+          "whyItMatters_urdu": "تین الہی انکار زور دیتے ہیں کہ اس رویے کا بالکل کوئی عذر نہیں - انتباہ مکمل، واضح، اور ناقابل تردید ہے۔",
+          "title_ar": "النفي الثلاثي",
+          "coreInsight_ar": "كلا الثالثة تكثف رفض الغفلة، مما يخلق نمطًا من التحذيرات المتصاعدة التي تعكس مراحل الإدراك التي سنختبرها.",
+          "whyItMatters_ar": "ثلاثة نفيات إلهية تؤكد أنه لا يوجد عذر على الإطلاق لهذا السلوك - التحذير كامل وواضح ولا يمكن إنكاره."
+        },
+        {
+          "id": "102:5:ilm-al-yaqin",
+          "title": "Certain Knowledge",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ilm al-yaqin (knowledge of certainty) is the highest form of intellectual conviction - knowing something with absolute certainty based on unshakeable evidence and reason.",
+          "whyItMatters": "This verse implies that if we truly knew with certainty what awaits us, we would completely change our behavior - our problem is lack of certain knowledge about the reality.",
+          "position": "topRight",
+          "arabicHighlight": "عِلْمَ ٱلْيَقِينِ",
+          "title_urdu": "یقینی علم",
+          "coreInsight_urdu": "علم الیقین (یقین کا علم) دانشورانہ یقین کی اعلیٰ ترین شکل ہے - ناقابل تزلزل ثبوت اور استدلال کی بنیاد پر مطلق یقین کے ساتھ کسی چیز کو جاننا۔",
+          "whyItMatters_urdu": "یہ آیت اشارہ کرتی ہے کہ اگر ہم واقعی یقین کے ساتھ جانتے کہ ہمارا کیا انتظار ہے، تو ہم اپنے رویے کو مکمل طور پر بدل دیں گے - ہمارا مسئلہ حقیقت کے بارے میں یقینی علم کی کمی ہے۔",
+          "title_ar": "المعرفة اليقينية",
+          "coreInsight_ar": "علم اليقين هو أعلى شكل من أشكال الاقتناع الفكري - معرفة شيء بيقين مطلق بناءً على أدلة ومنطق لا يمكن زعزعتهما.",
+          "whyItMatters_ar": "هذه الآية تشير إلى أننا لو كنا نعرف حقًا بيقين ما ينتظرنا، لغيرنا سلوكنا تمامًا - مشكلتنا هي نقص المعرفة اليقينية عن الواقع."
+        },
+        {
+          "id": "102:5:conditional-regret",
+          "title": "Missed Opportunity",
+          "icon": "clock.badge.exclamationmark.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The conditional 'law' (if only) expresses deep regret - if only you had possessed this certain knowledge in life, you would have acted completely differently.",
+          "whyItMatters": "This is a preview of the regret we'll feel when full realization comes - the bitter recognition that we had the chance to know but chose distraction instead.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَوْ تَعْلَمُونَ",
+          "title_urdu": "ضائع موقع",
+          "coreInsight_urdu": "شرطیہ 'لو' (اگر صرف) گہرے پچھتاوے کا اظہار کرتا ہے - اگر صرف آپ زندگی میں یہ یقینی علم رکھتے، تو آپ بالکل مختلف طریقے سے عمل کرتے۔",
+          "whyItMatters_urdu": "یہ اس پچھتاوے کا پیش نظارہ ہے جو ہم محسوس کریں گے جب مکمل احساس آئے گا - تلخ تسلیم کہ ہمارے پاس جاننے کا موقع تھا لیکن بجائے اس کے بھٹکاو کا انتخاب کیا۔",
+          "title_ar": "الفرصة الضائعة",
+          "coreInsight_ar": "الشرطي 'لو' (لو فقط) يعبر عن ندم عميق - لو فقط امتلكتم هذه المعرفة اليقينية في الحياة، لتصرفتم بشكل مختلف تمامًا.",
+          "whyItMatters_ar": "هذه معاينة للندم الذي سنشعر به عندما يأتي الإدراك الكامل - الاعتراف المرير بأننا كان لدينا فرصة المعرفة لكننا اخترنا التشتيت بدلاً من ذلك."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars emphasize that this verse distinguishes between superficial knowledge and certain conviction that transforms behavior. Ibn Kathir explains that 'ilm al-yaqin' is knowledge so certain it is as if you witnessed it directly, using the example that you know you will die with the same certainty as if you were witnessing your own death. This aligns closely with Tabatabai's explanation. Qurtubi discusses the three levels of certainty, showing that this concept is not unique to Shia scholarship but shared across Islamic tradition. However, Shia scholars like Tabatabai develop this epistemological framework more extensively, connecting it to the Imams as sources of certain knowledge. Razi in his Sunni commentary emphasizes the conditional nature of the verse, arguing that people clearly lack this certainty despite claiming belief in the Hereafter, as evidenced by their behavior. Both traditions agree that genuine knowledge of certainty would make people abandon distraction and competition for serious spiritual preparation. A distinctive Shia emphasis is the role of Ahlul Bayt in transmitting not just information but certain knowledge through their teachings and example. Sunni scholars emphasize acquiring certainty through following the Prophet's Sunnah and reflecting on Quranic evidence. The scholarly consensus is that this verse reveals the core problem: humans possess information about death and judgment but lack the certain conviction that would transform their priorities and behaviors accordingly.",
+    "layer4_urdu": "سنی اور شیعہ دونوں روایات متفق ہیں کہ یہ آیت وعدہ کرتی ہے کہ انسانیت جہنم کا مشاہدہ کرے گی، اگرچہ وہ کب اور کیسے کی تفصیلات میں مختلف ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ قیامت کے دن جہنم کے مشاہدہ سے مراد ہے، حدیث کا حوالہ دیتے ہوئے کہ تمام لوگ صراط کے پل پر جہنم کے قریب سے گزریں گے، ایک تشریح جو بہت سے شیعہ علماء نے مشترک کی ہے۔ قرطبی بحث کرتے ہیں کہ آیا ہر کوئی جہنم دیکھتا ہے یا صرف کافر، مختلف آراء ریکارڈ کرتے ہوئے جو شیعہ ذرائع جیسے طبرسی میں موجود لوگوں کے متوازی ہیں۔ رازی زوردار مستقبل کے زمانے سے اظہار کردہ یقین پر زور دیتے ہیں، یہ دلیل دیتے ہوئے کہ یہ جہنم کی حقیقت کے بارے میں تمام شک کو ختم کرتا ہے۔ دونوں روایات اس آیت کا استعمال نیک اعمال اور توبہ کی حوصلہ افزائی کے لیے کرتی ہیں۔ شیعہ علم میں ایک نمایاں خصوصیت برزخ کی زیادہ تفصیلی بحث ہے اور آیا یہ دیکھنا وہاں شروع ہو سکتا ہے نہ کہ حتمی قیامت کا انتظار کرنے کے۔ سنی علماء عام طور پر قیامت کے دن ہی دیکھنے پر زور دیتے ہیں۔ دونوں مکاتب شفاعت کے تصور پر بحث کرتے ہیں، شیعہ روایت خاص طور پر گناہ کرنے والے مومنین کے لیے رسول اور اہل بیت علیہم السلام کی شفاعت پر زور دیتی ہے۔ روایات میں علمی اتفاق رائے یہ ہے کہ یہ آیت سنجیدہ انتباہ کے طور پر کام کرتی ہے کہ جہنم حقیقی ہے اور مشاہدہ کیا جائے گا، جبکہ موقع باقی ہے ایمان، نیک اعمال اور توبہ کے ذریعے فوری روحانی تیاری کی تحریک دیتے ہوئے۔",
+    "layer4_ar": "يُشدِّد علماء الشيعة والسنة كليهم على أن هذه الآية تُميِّز بين العلم السطحي واليقين الراسخ الذي يُحوِّل الحياة من جذورها. ويُبيِّن ابن كثير أن \"علم اليقين\" هو علم بلغت به درجة الإيمان به مبلغ المشاهدة، مستخدماً مثال اليقين بالموت الذي يُساوي في درجته مشاهدةَ الإنسان موتَه بأم عينيه، وهو تفسير ينسجم انسجاماً وثيقاً مع ما ذهب إليه الطباطبائي. ويناقش القرطبي المستويات الثلاثة لليقين: علم اليقين وعين اليقين وحق اليقين، مما يُثبت أن هذا المفهوم لا يقتصر على الدرس الشيعي بل يُشترك فيه عبر التراث الإسلامي. غير أن الطباطبائي وأمثاله من علماء الشيعة يُعمِّقون هذا الإطار المعرفي توسيعاً وتنظيماً أكثر، ويربطونه بالأئمة باعتبارهم ينابيع العلم اليقيني لا مجرد ناقلي المعلومة. ويُبرز الرازي في تفسيره السني الطابع الشرطي للآية، مُستدلاً بأن سلوك الناس يُثبت افتقارهم إلى هذا اليقين رغم إقرارهم اللفظي بالإيمان بالآخرة. ويتفق الطرفان على أن علم اليقين الحقيقي لو توافر للناس لتركوا الغفلة والتنافس وانصرفوا إلى الاستعداد الجاد للآخرة. وتتميَّز العناية الشيعية الخاصة بالتأكيد على دور أهل البيت في نقل العلم اليقيني لا نقل المعلومة فحسب عبر تعاليمهم ونموذجهم الحي، بينما يُركِّز علماء السنة على اكتساب اليقين باتباع سنة النبي والتأمل في شواهد القرآن. والإجماع العلمي في كلا التراثين هو أن هذه الآية تكشف المشكل الجذري: الناس يملكون معلومات عن الموت والحساب لكنهم يفتقرون إلى الإيمان اليقيني الذي يُعيد ترتيب أولوياتهم وسلوكياتهم وفق الحقيقة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:6:seeing-hell",
+          "title": "Visual Certainty",
+          "icon": "eye.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "La-tarawunna (you will surely see) promises inevitable visual witnessing of Hellfire - not just knowing about it intellectually, but seeing it directly with your own eyes.",
+          "whyItMatters": "This shifts from abstract warning to concrete reality - every human will witness Hellfire, making it a certainty we must prepare for, whether as observers or inhabitants.",
+          "position": "topLeft",
+          "arabicHighlight": "لَتَرَوُنَّ",
+          "title_urdu": "بصری یقین",
+          "coreInsight_urdu": "لتروُنّ (تم یقیناً دیکھو گے) جہنم کے بصری گواہی کا ناگزیر وعدہ کرتا ہے - نہ صرف اس کے بارے میں دانشورانہ طور پر جاننا، بلکہ اپنی آنکھوں سے براہ راست دیکھنا۔",
+          "whyItMatters_urdu": "یہ خلاصہ انتباہ سے ٹھوس حقیقت میں منتقل ہوتا ہے - ہر انسان جہنم کا گواہ ہوگا، اسے ایک یقین بناتے ہوئے جس کے لیے ہمیں تیاری کرنی چاہیے، چاہے مشاہدہ کرنے والے کے طور پر ہوں یا رہائشیوں کے طور پر۔",
+          "title_ar": "اليقين البصري",
+          "coreInsight_ar": "لترون (لتروُنّ) يَعِد برؤية حتمية للجحيم - ليس فقط معرفة عنه فكريًا، بل رؤيته مباشرة بأعينكم.",
+          "whyItMatters_ar": "هذا ينتقل من تحذير مجرد إلى واقع ملموس - كل إنسان سيشهد جهنم، مما يجعله يقينًا يجب علينا الاستعداد له، سواء كمراقبين أو سكان."
+        },
+        {
+          "id": "102:6:al-jahim",
+          "title": "The Blazing Fire",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Al-Jahim (the Hellfire) specifically refers to intensely blazing fire, emphasizing the torment's severity - this isn't metaphorical but literal, burning punishment.",
+          "whyItMatters": "Understanding the reality of Hellfire should create healthy fear (khawf) that motivates us to avoid sins and pursue righteousness with urgency.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْجَحِيمَ",
+          "title_urdu": "بھڑکتی آگ",
+          "coreInsight_urdu": "الجحیم (دوزخ) خاص طور پر شدید بھڑکتی آگ کا حوالہ دیتا ہے، عذاب کی شدت پر زور دیتے ہوئے - یہ استعاراتی نہیں بلکہ لفظی، جلتی سزا ہے۔",
+          "whyItMatters_urdu": "جہنم کی حقیقت کو سمجھنا صحت مند خوف (خوف) پیدا کرنا چاہیے جو ہمیں گناہوں سے بچنے اور فوری طور پر نیکی کی تعاقب کرنے کی ترغیب دے۔",
+          "title_ar": "النار الملتهبة",
+          "coreInsight_ar": "الجحيم يشير تحديدًا إلى نار متأججة بشدة، مما يؤكد على شدة العذاب - هذا ليس مجازيًا بل حرفيًا، عقاب محرق.",
+          "whyItMatters_ar": "فهم واقع جهنم يجب أن يخلق خوفًا صحيًا (خوف) يحفزنا على تجنب الذنوب ومتابعة الصلاح بإلحاحية."
+        },
+        {
+          "id": "102:6:emphatic-lam",
+          "title": "Absolute Guarantee",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The emphatic lam with nun of emphasis (la-tarawunna) creates an ironclad guarantee - there's absolutely no escape from witnessing this reality.",
+          "whyItMatters": "This grammatical emphasis removes any wiggle room for denial or doubt - seeing Hellfire is as certain as death itself for every human being.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+          "title_urdu": "مطلق ضمانت",
+          "coreInsight_urdu": "تاکیدی لام نون تاکید کے ساتھ (لتروُنّ) ایک لوہے کی ضمانت بناتا ہے - اس حقیقت کو دیکھنے سے بالکل کوئی فرار نہیں۔",
+          "whyItMatters_urdu": "یہ گرائمر کی تاکید انکار یا شک کے لیے کوئی گنجائش نہیں چھوڑتی - جہنم کو دیکھنا ہر انسان کے لیے موت کی طرح یقینی ہے۔",
+          "title_ar": "الضمان المطلق",
+          "coreInsight_ar": "اللام المؤكدة مع نون التوكيد (لتروُنّ) تخلق ضمانًا محكمًا - لا مفر من مشاهدة هذا الواقع.",
+          "whyItMatters_ar": "هذا التأكيد النحوي يزيل أي مجال للإنكار أو الشك - رؤية جهنم مؤكدة مثل الموت نفسه لكل إنسان."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia traditions agree that this verse promises humanity will witness Hell, though they differ on details of when and how. Ibn Kathir explains that this refers to witnessing Hell on Judgment Day, citing hadith that all people will pass near Hell on the bridge of Sirat, an interpretation shared by many Shia scholars. Qurtubi discusses whether everyone sees Hell or only disbelievers, recording various opinions that parallel those found in Shia sources like Tabrisi. Razi emphasizes the certainty expressed by the emphatic future tense, arguing that this removes all doubt about Hell's reality. Both traditions use this verse to encourage righteous deeds and repentance. A distinctive feature in Shia scholarship is more detailed discussion of Barzakh and whether this seeing might begin there rather than waiting for final resurrection. Sunni scholars generally emphasize the seeing occurring on Judgment Day itself. Both schools discuss the concept of intercession, with Shia tradition particularly emphasizing the Prophet and Ahlul Bayt's intercession for believers who committed sins. The scholarly consensus across traditions is that this verse serves as serious warning that Hell is real and will be witnessed, motivating urgent spiritual preparation through faith, righteous deeds, and repentance while opportunity remains.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء 'عین الیقین' کو عقلی علم سے بالاتر یقین کی سطح کے طور پر تسلیم کرتے ہیں، اگرچہ وہ اس علمیاتی فریم ورک کو کس حد تک ترقی دیتے ہیں میں مختلف ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ جہنم کے مشاہدہ کی مطلق یقین پر زور دیتا ہے، اپنی آنکھوں سے دیکھنے کی اسی استعارہ کا استعمال کرتے ہوئے جو شیعہ ذرائع میں ظاہر ہوتا ہے۔ قرطبی یقین کی تین سطحوں، علم، آنکھ اور حقیقت پر بحث کرتے ہیں، یہ ظاہر کرتے ہوئے کہ یہ تصور اسلامی روایت میں مشترک ہے۔ تاہم، شیعہ علماء جیسے طباطبائی اس فریم ورک کو زیادہ وسیع اور منظم طریقے سے ترقی دیتے ہیں۔ رازی نے اپنی سنی تفسیر میں پچھلی آیت سے اس آیت کی طرف بلاغتی ترقی پر زور دیا، تکرار کے ذریعے اضافی زور کے ساتھ انتباہ کو شدت بخشتے ہوئے۔ دونوں روایات متفق ہیں کہ یہ آیت آنے والے احساس کی مطلق یقین پر زور دیتی ہے، خواہ لوگ فی الحال اسے مانیں یا نہیں۔ ائمہ علیہم السلام سے روایات میں پائی جانے والی ایک نمایاں شیعہ زور یہ ہے کہ روحانی تزکیہ اور الہی علم کے ذریعے اس دنیا میں بھی یقین کی آنکھ تک رسائی کا امکان ہے، جبکہ سنی علماء عام طور پر یقین کی اس سطح کو آخرت تک محدود کرتے ہیں۔ دونوں مکاتب اس آیت کا استعمال فوری روحانی تیاری کی تحریک کے لیے کرتے ہیں، زور دیتے ہوئے کہ یہاں وعدہ کیا گیا یقین آئے گا خواہ لوگ چاہیں یا نہیں، ایمان اور غور و فکر کے ذریعے رضاکارانہ طور پر یقین پیدا کرنا دانشمندانہ انتخاب بناتے ہوئے۔",
+    "layer4_ar": "يتفق أهل العلم في التراثين الشيعي والسني على أن هذه الآية وعدٌ قاطع بأن البشرية ستُشاهد جهنم، وإن اختلفوا في تفاصيل التوقيت والكيفية. فابن كثير يُفسِّر الآية بأن المشاهدة تقع يوم القيامة مستشهداً بالحديث الذي يُثبت أن جميع الناس سيمرون على الصراط المنصوب فوق جهنم، وهو تفسير تُوافقه كثير من روايات المصدر الشيعي. ويناقش القرطبي إشكالية هل ترى جهنم عامة الخلق أم الكافرون وحدهم، فيُسجِّل تعدُّد الآراء الموازي لما يُسجِّله الطبرسي في مصادره. ويُبرز الرازي ما في صيغة المضارع المؤكد من قطعية لا تقبل الجدل، مُقرِّراً أن ذلك يُزيل كل شك في حقيقة جهنم. ويُجمع التراثان على توظيف هذه الآية للترغيب في الاستقامة والتوبة. وما يتميَّز به العلم الشيعي هو الاهتمام الأعمق بمسألة البرزخ والتساؤل عما إذا كانت هذه المشاهدة قد تبدأ فيه قبل البعث الأكبر. ويُقيِّد علماء السنة هذه المشاهدة في الغالب بيوم القيامة ذاته. ويتناول الفريقان مفهوم الشفاعة، مع تأكيد خاص في التراث الشيعي على شفاعة النبي صلى الله عليه وآله وسلم وأهل بيته الكرام للمؤمنين المُذنبين. والقاسم المشترك بين التراثين هو أن الآية تُمثِّل تحذيراً بالغ الخطورة من أن جهنم حقيقة ستُشاهَد لا محالة، مما يجعل الاستعداد الروحي أوجب الواجبات وأعجلها قبل أن ينقطع وقت التغيير."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:7:repeated-seeing",
+          "title": "Second Witnessing",
+          "icon": "arrow.clockwise.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Thumma la-tarawunnaha (then you will surely see it) repeats the promise of seeing Hellfire, possibly indicating different stages or intensities of witnessing.",
+          "whyItMatters": "The repetition suggests that the encounter with Hellfire's reality comes in multiple phases, each more intense and undeniable than the last.",
+          "position": "topLeft",
+          "arabicHighlight": "ثُمَّ لَتَرَوُنَّهَا",
+          "title_urdu": "دوسری گواہی",
+          "coreInsight_urdu": "ثم لتروُنّها (پھر تم یقیناً اسے دیکھو گے) جہنم کو دیکھنے کے وعدے کو دہراتا ہے، ممکنہ طور پر گواہی کے مختلف مراحل یا شدتوں کی نشاندہی کرتے ہوئے۔",
+          "whyItMatters_urdu": "تکرار تجویز کرتی ہے کہ جہنم کی حقیقت سے مواجہہ متعدد مراحل میں آتا ہے، ہر ایک پچھلے سے زیادہ شدید اور ناقابل تردید۔",
+          "title_ar": "الشهادة الثانية",
+          "coreInsight_ar": "ثم لتروُنّها (ثم لتروُنّها) يكرر وعد رؤية جهنم، ربما يشير إلى مراحل أو كثافات مختلفة من الشهادة.",
+          "whyItMatters_ar": "التكرار يشير إلى أن اللقاء مع واقع جهنم يأتي في مراحل متعددة، كل منها أكثر كثافة ولا يمكن إنكاره من السابق."
+        },
+        {
+          "id": "102:7:ayn-al-yaqin",
+          "title": "Eye of Certainty",
+          "icon": "eye.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ayn al-yaqin (eye of certainty) is the second level of certainty - seeing with your own eyes, experiencing direct visual confirmation beyond intellectual knowledge.",
+          "whyItMatters": "This moves from ilm al-yaqin (knowing) to ayn al-yaqin (seeing), showing the progression from intellectual conviction to direct experiential reality.",
+          "position": "topRight",
+          "arabicHighlight": "عَيْنَ ٱلْيَقِينِ",
+          "title_urdu": "یقین کی آنکھ",
+          "coreInsight_urdu": "عین الیقین (یقین کی آنکھ) یقین کی دوسری سطح ہے - اپنی آنکھوں سے دیکھنا، دانشورانہ علم سے ہٹ کر براہ راست بصری تصدیق کا تجربہ کرنا۔",
+          "whyItMatters_urdu": "یہ علم الیقین (جاننا) سے عین الیقین (دیکھنا) تک منتقل ہوتا ہے، دانشورانہ یقین سے براہ راست تجرباتی حقیقت تک کی ترقی کو ظاہر کرتے ہوئے۔",
+          "title_ar": "عين اليقين",
+          "coreInsight_ar": "عين اليقين هو المستوى الثاني من اليقين - رؤية بأعينكم، تجربة تأكيد بصري مباشر يتجاوز المعرفة الفكرية.",
+          "whyItMatters_ar": "هذا ينتقل من علم اليقين (المعرفة) إلى عين اليقين (الرؤية)، مظهرًا التقدم من الاقتناع الفكري إلى الواقع التجريبي المباشر."
+        },
+        {
+          "id": "102:7:progression-certainty",
+          "title": "Levels of Knowing",
+          "icon": "chart.line.uptrend.xyaxis.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah progresses through certainty levels: first knowledge (ilm), then seeing (ayn), and implicitly the final level - haqq al-yaqin (truth of certainty through experience).",
+          "whyItMatters": "Understanding these levels teaches us that full realization comes gradually - we must seek knowledge now before harsh experience forces realization too late.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَيْنَ",
+          "title_urdu": "جاننے کی سطحیں",
+          "coreInsight_urdu": "سورہ یقین کی سطحوں سے گزرتی ہے: پہلے علم (علم)، پھر دیکھنا (عین)، اور اشارتاً آخری سطح - حق الیقین (تجربے کے ذریعے یقین کی سچائی)۔",
+          "whyItMatters_urdu": "ان سطحوں کو سمجھنا ہمیں سکھاتا ہے کہ مکمل احساس آہستہ آہستہ آتا ہے - ہمیں اب علم حاصل کرنا چاہیے اس سے پہلے کہ سخت تجربہ بہت دیر میں احساس پر مجبور کرے۔",
+          "title_ar": "مستويات المعرفة",
+          "coreInsight_ar": "تتقدم السورة من خلال مستويات اليقين: أولاً المعرفة (علم)، ثم الرؤية (عين)، وضمنًا المستوى النهائي - حق اليقين (حقيقة اليقين من خلال التجربة).",
+          "whyItMatters_ar": "فهم هذه المستويات يعلمنا أن الإدراك الكامل يأتي تدريجيًا - يجب علينا طلب المعرفة الآن قبل أن تفرض التجربة القاسية الإدراك بعد فوات الأوان."
+        },
+        {
+          "id": "102:7:no-escape",
+          "title": "Unavoidable Reality",
+          "icon": "stop.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The emphatic double guarantee of seeing (la-tarawunna twice) removes all possibility of avoiding this encounter - whether believer or disbeliever, all will witness Hellfire.",
+          "whyItMatters": "This universal witnessing means we must all prepare for this moment - the only question is whether we'll see it as observers who are saved or as those who enter it.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+          "title_urdu": "ناگزیر حقیقت",
+          "coreInsight_urdu": "دیکھنے کی تاکیدی دوگنی ضمانت (دو بار لتروُنّ) اس مواجہے سے بچنے کی تمام امکان کو ہٹاتی ہے - چاہے مومن ہو یا کافر، سب جہنم کے گواہ ہوں گے۔",
+          "whyItMatters_urdu": "یہ عالمگیر گواہی کا مطلب ہے کہ ہم سب کو اس لمحے کے لیے تیاری کرنی چاہیے - صرف سوال یہ ہے کہ کیا ہم اسے مشاہدہ کرنے والوں کے طور پر دیکھیں گے جو بچائے گئے ہیں یا ان لوگوں کے طور پر جو اس میں داخل ہوں گے۔",
+          "title_ar": "الواقع الذي لا مفر منه",
+          "coreInsight_ar": "الضمان المؤكد المزدوج للرؤية (لتروُنّ مرتين) يزيل كل إمكانية لتجنب هذا اللقاء - سواء مؤمن أو كافر، الجميع سيشهد جهنم.",
+          "whyItMatters_ar": "هذه الشهادة العالمية تعني أنه يجب علينا جميعًا الاستعداد لهذه اللحظة - السؤال الوحيد هو هل سنراه كمراقبين محفوظين أو كأولئك الذين يدخلونه."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia scholars recognize 'ayn al-yaqin' as a level of certainty beyond intellectual knowledge, though they differ in how extensively they develop this epistemological framework. Ibn Kathir explains that this emphasizes the absolute certainty of witnessing Hell, using the same metaphor of seeing with one's own eyes that appears in Shia sources. Qurtubi discusses the three levels of certainty, knowledge, eye, and truth, showing this concept is shared across Islamic tradition. However, Shia scholars like Tabatabai develop this framework more extensively and systematically. Razi in his Sunni commentary emphasizes the rhetorical progression from the previous verse to this one, intensifying the warning through repetition with added emphasis. Both traditions agree that this verse stresses the absolute certainty of the coming realization, whether people currently believe it or not. A distinctive Shia emphasis found in narrations from the Imams is the possibility of accessing eye of certainty even in this world through spiritual purification and divine knowledge, while Sunni scholars generally restrict this level of certainty to the Hereafter. Both schools use this verse to motivate urgent spiritual preparation, emphasizing that the certainty promised here will come whether people want it or not, making voluntary development of certainty through faith and reflection the wise choice.",
+    "layer4_urdu": "سنی اور شیعہ دونوں علماء عین الیقین کو عقلی علم سے بالاتر یقین کی سطح کے طور پر تسلیم کرتے ہیں، اگرچہ وہ اس علمی ڈھانچے کو کتنی وسیع طور پر ترقی دیتے ہیں اس میں مختلف ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ جہنم کو دیکھنے کے مطلق یقین پر زور دیتا ہے، اپنی آنکھوں سے دیکھنے کی وہی تمثیل استعمال کرتے ہوئے جو شیعہ ذرائع میں ظاہر ہوتی ہے۔ قرطبی یقین کی تین سطحوں، علم، عین، اور حق پر بحث کرتے ہیں، یہ ظاہر کرتے ہوئے کہ یہ تصور اسلامی روایت میں مشترک ہے۔ تاہم، شیعہ علماء جیسے طباطبائی اس ڈھانچے کو زیادہ وسیع اور منظم طریقے سے ترقی دیتے ہیں۔ رازی نے اپنی سنی تفسیر میں پچھلی آیت سے اس آیت تک بیانیہ ترقی پر زور دیا، اضافی زور کے ساتھ تکرار کے ذریعے انتباہ کو شدت بخشتے ہوئے۔ دونوں روایات اتفاق کرتی ہیں کہ یہ آیت آنے والے احساس کے مطلق یقین پر زور دیتی ہے، چاہے لوگ فی الحال اس پر یقین رکھیں یا نہیں۔ شیعہ زور جو ائمہ علیہم السلام سے روایات میں پایا جاتا ہے، روحانی تطہیر اور الہی علم کے ذریعے اس دنیا میں بھی عین الیقین تک رسائی کا امکان ہے، جبکہ سنی علماء عام طور پر یقین کی اس سطح کو آخرت تک محدود رکھتے ہیں۔ دونوں مکاتب اس آیت کا استعمال فوری روحانی تیاری کی تحریک کے لیے کرتے ہیں، زور دیتے ہوئے کہ یہاں وعدہ کیا گیا یقین آئے گا چاہے لوگ اسے چاہیں یا نہیں، ایمان اور غور و فکر کے ذریعے یقین کی رضاکارانہ ترقی کو دانشمندانہ انتخاب بناتے ہوئے۔",
+    "layer4_ar": "يُقرُّ علماء الشيعة والسنة على حدٍّ سواء بأن \"عين اليقين\" يُمثِّل مرتبةً من اليقين أسمى من مجرد العلم الذهني، وإن تفاوتوا في مدى توسيعهم لهذا الإطار المعرفي وتعمُّقه. فابن كثير يُبيِّن أن المقصود التأكيد على يقين المشاهدة لجهنم توظيفاً لنفس صورة رؤية العين التي تُستخدم في المصادر الشيعية. ويناقش القرطبي المستويات الثلاثة لليقين: علم اليقين وعين اليقين وحق اليقين، دالاً على أن هذا المفهوم مشترك في التراث الإسلامي لا حكر له على مدرسة بعينها. غير أن الطباطبائي وأمثاله من علماء الشيعة يُرسون هذا الإطار توسيعاً وتنظيماً أكثر، ويربطونه بالأئمة الكرام بوصفهم ينابيع العلم اليقيني. ويُلفت الرازي في تفسيره السني الانتباه إلى التدرُّج الخطابي البياني من الآية السابقة إلى هذه الآية، إذ يُعمِّق التحذير بتكراره مع مزيد تأكيد. ويتفق التراثان على أن هذه الآية تُلحُّ على يقينية الإدراك القادم سواء آمن به الناس أم جحدوه. وما يُميِّز التركيز الشيعي المستند إلى روايات الأئمة هو إمكانية التطلُّع إلى عين اليقين حتى في هذه الحياة عبر التطهير الروحي والعلم الموهوب من الله، في حين يُقيِّد علماء السنة في الغالب هذه المرتبة بالحياة الآخرة. ويتلاقى الفريقان في توظيف هذه الآية حثاً على الاستعداد الروحي العاجل، مُؤكِّدَين أن هذا اليقين آتٍ لا ريب فيه شاء الناس أم أبوا، فالاختيار الحكيم هو اكتسابه طوعاً بالإيمان والتأمل لا انتظار فرضه قسراً."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "102:8:divine-questioning",
+          "title": "Accountability Day",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "La-tus'alunna (you will surely be asked) promises a divine interrogation on the Day of Judgment about every blessing and pleasure enjoyed in worldly life.",
+          "whyItMatters": "This questioning transforms blessings from casual enjoyments into responsibilities - we'll be accountable for how we used every gift Allah granted us.",
+          "position": "topLeft",
+          "arabicHighlight": "لَتُسْـَٔلُنَّ",
+          "title_urdu": "جوابدہی کا دن",
+          "coreInsight_urdu": "لتسألنّ (تم سے یقیناً پوچھا جائے گا) قیامت کے دن دنیاوی زندگی میں لطف اندوز ہر نعمت اور خوشی کے بارے میں الہی تفتیش کا وعدہ کرتا ہے۔",
+          "whyItMatters_urdu": "یہ پوچھ گچھ نعمتوں کو آرام دہ لطف سے ذمہ داریوں میں تبدیل کرتی ہے - ہم جوابدہ ہوں گے کہ ہم نے ہر تحفے کو کیسے استعمال کیا جو اللہ نے ہمیں عطا کیا۔",
+          "title_ar": "يوم المساءلة",
+          "coreInsight_ar": "لتسألنّ (لتُسألُنّ) يَعِد باستجواب إلهي في يوم القيامة عن كل نعمة ومتعة تمتعنا بها في الحياة الدنيوية.",
+          "whyItMatters_ar": "هذا الاستجواب يحول النعم من متع عرضية إلى مسؤوليات - سنكون مسؤولين عن كيفية استخدام كل هدية منحنا الله إياها."
+        },
+        {
+          "id": "102:8:an-naim",
+          "title": "Worldly Pleasures",
+          "icon": "gift.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "An-na'im (the pleasure/blessing) encompasses all forms of comfort, wealth, health, family, food - every good thing that made life pleasant becomes a subject of inquiry.",
+          "whyItMatters": "This teaches that blessings aren't just gifts to enjoy but tests to pass - did we use them in gratitude and obedience, or in heedlessness and sin?",
+          "position": "topRight",
+          "arabicHighlight": "ٱلنَّعِيمِ",
+          "title_urdu": "دنیاوی لذتیں",
+          "coreInsight_urdu": "النعیم (لذت/نعمت) آرام، دولت، صحت، خاندان، کھانے کی تمام اقسام کو شامل کرتی ہے - ہر اچھی چیز جس نے زندگی کو خوشگوار بنایا تفتیش کا موضوع بن جاتی ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ نعمتیں صرف لطف اندوز ہونے کے لیے تحائف نہیں بلکہ گزرنے کے لیے آزمائشیں ہیں - کیا ہم نے انہیں شکر گزاری اور اطاعت میں استعمال کیا، یا غفلت اور گناہ میں؟",
+          "title_ar": "الملذات الدنيوية",
+          "coreInsight_ar": "النعيم يشمل جميع أشكال الراحة والثروة والصحة والعائلة والطعام - كل شيء جيد جعل الحياة ممتعة يصبح موضوع استفسار.",
+          "whyItMatters_ar": "هذا يعلم أن النعم ليست مجرد هدايا للاستمتاع بها بل اختبارات لاجتيازها - هل استخدمناها في الشكر والطاعة، أم في الغفلة والخطيئة؟"
+        },
+        {
+          "id": "102:8:yawmaidhin-that-day",
+          "title": "The Specified Day",
+          "icon": "calendar.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Yawma'idhin (that Day) refers to the Day of Judgment with specificity and emphasis - not some vague future but the definite day when all accounts will be settled.",
+          "whyItMatters": "The definiteness of this day should create urgency in preparing our answers now - every blessing we enjoy today will be a question we must answer tomorrow.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَوْمَئِذٍ",
+          "title_urdu": "مقررہ دن",
+          "coreInsight_urdu": "یومئذ (اس دن) خصوصیت اور تاکید کے ساتھ قیامت کے دن کا حوالہ دیتا ہے - کوئی مبہم مستقبل نہیں بلکہ وہ یقینی دن جب تمام حساب کتاب ہو جائیں گے۔",
+          "whyItMatters_urdu": "اس دن کی یقینی ہماری تیاری میں فوریت پیدا کرنی چاہیے اپنے جوابات اب - ہر نعمت جس کا ہم آج لطف اندوز ہوتے ہیں کل ایک سوال ہوگا جس کا ہمیں جواب دینا ہوگا۔",
+          "title_ar": "اليوم المحدد",
+          "coreInsight_ar": "يومئذ (ذلك اليوم) يشير إلى يوم القيامة بخصوصية وتأكيد - ليس مستقبلًا غامضًا بل اليوم المحدد عندما تُسوى جميع الحسابات.",
+          "whyItMatters_ar": "تحديد هذا اليوم يجب أن يخلق إلحاحية في إعداد إجاباتنا الآن - كل نعمة نتمتع بها اليوم ستكون سؤالًا يجب علينا الإجابة عنه غدًا."
+        },
+        {
+          "id": "102:8:surah-conclusion",
+          "title": "Complete Warning",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah concludes by connecting worldly distraction (verse 1) to its consequence (questioning about pleasures) - what we chase today determines our interrogation tomorrow.",
+          "whyItMatters": "This perfect closure shows the full cycle: competition for pleasures → death → seeing reality → accountability for those very pleasures we competed for.",
+          "position": "bottomRight",
+          "arabicHighlight": "عَنِ ٱلنَّعِيمِ",
+          "title_urdu": "مکمل انتباہ",
+          "coreInsight_urdu": "سورہ دنیاوی بھٹکاو (آیت 1) کو اس کے نتیجے (لذتوں کے بارے میں پوچھ گچھ) سے جوڑ کر ختم ہوتی ہے - جو ہم آج پیچھا کرتے ہیں وہ کل ہماری تفتیش کا تعین کرتا ہے۔",
+          "whyItMatters_urdu": "یہ کامل اختتام مکمل چکر دکھاتا ہے: لذتوں کے لیے مقابلہ → موت → حقیقت دیکھنا → ان لذتوں کے لیے جوابدہی جن کے لیے ہم نے مقابلہ کیا۔",
+          "title_ar": "التحذير الكامل",
+          "coreInsight_ar": "تختتم السورة بربط التشتيت الدنيوي (الآية 1) بعواقبه (الاستفسار عن الملذات) - ما نطارده اليوم يحدد استجوابنا غدًا.",
+          "whyItMatters_ar": "هذا الختام الكامل يُظهر الدورة الكاملة: المنافسة على الملذات → الموت → رؤية الواقع → المساءلة عن تلك الملذات ذاتها التي تنافسنا عليها."
+        }
+      ]
+    },
+    "layer4": "This verse presents one of the most significant interpretive differences between Sunni and Shia traditions. Sunni scholars like Ibn Kathir, Qurtubi, and Tabari interpret na'im as referring to worldly blessings and comforts, with some hadith specifying that people will be questioned even about simple pleasures like dates and cold water. These interpretations emphasize accountability for how people used the health, wealth, time, and resources Allah provided. Shia scholarship includes these interpretations but adds a distinctive layer found in narrations from Imam al-Sadiq, that na'im refers specifically to the Ahlul Bayt as the supreme blessing Allah gave humanity. Tabrisi records this interpretation alongside others, showing that Shia exegesis includes both esoteric and exoteric meanings. The Shia interpretation emphasizes that the greatest blessing people will be questioned about is whether they followed the guidance of the Prophet's family or rejected it, connecting to the doctrine of wilayah and Imamah. Both traditions agree on the fundamental principle that blessings carry accountability and will be questioned about on Judgment Day. The difference lies in Shia scholarship's emphasis on spiritual blessings, particularly guidance through Ahlul Bayt, as primary, while Sunni scholarship focuses more extensively on accountability for material and physical blessings. The practical application converges in both traditions on the need for gratitude, proper use of blessings according to divine guidance, and generosity toward others.",
+    "layer4_urdu": "یہ آیت سنی اور شیعہ روایات کے درمیان سب سے اہم تشریحی اختلافات میں سے ایک پیش کرتی ہے۔ سنی علماء جیسے ابن کثیر، قرطبی، اور طبری نعیم کی تشریح دنیوی نعمتوں اور آرام کے طور پر کرتے ہیں، کچھ احادیث کے ساتھ جو وضاحت کرتی ہیں کہ لوگوں سے سادہ لذتوں جیسے کھجور اور ٹھنڈے پانی کے بارے میں بھی سوال کیا جائے گا۔ یہ تشریحات اس بات پر زور دیتی ہیں کہ لوگوں نے صحت، دولت، وقت، اور وسائل جو اللہ نے فراہم کیے انہیں کیسے استعمال کیا اس کے لیے جوابدہی۔ شیعہ علم ان تشریحات کو شامل کرتا ہے لیکن امام الصادق علیہ السلام سے روایات میں پائی جانے والی ایک نمایاں پرت شامل کرتا ہے، کہ نعیم خاص طور پر اہل بیت علیہم السلام سے مراد ہے جو سب سے عظیم نعمت کے طور پر اللہ نے انسانیت کو دی۔ طبرسی نے اس تشریح کو دوسروں کے ساتھ ریکارڈ کیا، یہ ظاہر کرتے ہوئے کہ شیعہ تفسیر باطنی اور ظاہری دونوں معانی شامل کرتی ہے۔ شیعہ تشریح زور دیتی ہے کہ سب سے بڑی نعمت جس کے بارے میں لوگوں سے سوال کیا جائے گا وہ ہے کہ آیا انہوں نے نبی کی آل کی رہنمائی کی پیروی کی یا اسے مسترد کیا، ولایت اور امامت کے عقیدے سے جڑتے ہوئے۔ دونوں روایات اس بنیادی اصول پر متفق ہیں کہ نعمتیں جوابدہی رکھتی ہیں اور قیامت کے دن ان کے بارے میں سوال کیا جائے گا۔ فرق شیعہ علم کے روحانی نعمتوں، خاص طور پر اہل بیت علیہم السلام کے ذریعے رہنمائی، پر بنیادی طور پر زور میں ہے، جبکہ سنی علم مادی اور جسمانی نعمتوں کے لیے جوابدہی پر زیادہ وسیع طور پر توجہ مرکوز کرتا ہے۔ عملی اطلاق دونوں روایات میں شکرگزاری، الہی رہنمائی کے مطابق نعمتوں کے مناسب استعمال، اور دوسروں کی طرف فیاضی کی ضرورت میں ملتا ہے۔",
+    "layer4_ar": "تُقدِّم هذه الآية واحدة من أبرز نقاط التمايز التفسيري بين التراثين الشيعي والسني. فابن كثير والقرطبي والطبري وسائر علماء أهل السنة يُفسِّرون \"النعيم\" بالخيرات الدنيوية والملذات المباحة، مستشهدين بأحاديث تُفيد بأن الإنسان سيُسأل حتى عن ثمرة التمر وشربة الماء البارد، وهذه التفسيرات تُركِّز على المحاسبة عن كيفية استخدام الصحة والمال والوقت والموارد التي وهبها الله. أما الدراسة الشيعية فلا تُهمل هذه الوجوه، لكنها تُضيف طبقة تفسيرية مميَّزة مصدرها روايات الإمام الصادق عليه السلام التي تُعرِّف \"النعيم\" بأنه أهل البيت عليهم السلام بوصفهم النعمة الإلهية الكبرى التي وهبها الله للإنسانية. ويُسجِّل الطبرسي هذا التفسير إلى جانب التفسيرات الأخرى، مُثبِتاً أن الإجازة الشيعية في التفسير تتَّسع للمعنيين الظاهر والباطن معاً. ويُلفت التفسير الشيعي الانتباه إلى أن أهم ما سيُسأل عنه الناس هو موقفهم من هداية آل النبي: قبلوها أم ردُّوها؟ آمنوا بها أم أنكروها؟ مما يُوصِّله مباشرةً بعقيدة الإمامة والولاية. ويتفق الفريقان على المبدأ الجوهري القائل بأن النعم أمانات ومسؤوليات ستكون موضع السؤال يوم القيامة. والفارق أن التفسير الشيعي يُقدِّم النعم الروحية ولا سيما الهداية عبر الأئمة باعتبارها المقدَّم والأساس، في حين يُركِّز التفسير السني أكثر على المحاسبة عن النعم المادية والجسدية. وتلتقي الروايتان عملياً في الدعوة إلى الشكر والاستخدام الصائب للنعمة وفق الهداية الإلهية والإنفاق على المحتاجين، مُقرَّيتن بأن المحاسبة قادمة ولا مفرَّ منها."
+  }
+}

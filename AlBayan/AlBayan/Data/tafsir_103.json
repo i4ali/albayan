@@ -1,0 +1,205 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "103:1:the-oath-of-time",
+          "title": "The Oath of Time",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah swears by 'Al-Asr' (time/the era), elevating time to sacred status. This oath emphasizes that time is humanity's most precious, non-renewable resource and a witness to human choices.",
+          "whyItMatters": "Understanding time as sacred transforms how we spend each moment. This verse challenges us to see every hour as a divine trust that will testify for or against us on Judgment Day.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلْعَصْرِ",
+          "title_urdu": "وقت کی قسم",
+          "coreInsight_urdu": "اللہ 'العصر' (وقت/دور) کی قسم کھاتے ہیں، وقت کو مقدس حیثیت تک بلند کرتے ہوئے۔ یہ قسم اس بات پر زور دیتی ہے کہ وقت انسانیت کا سب سے قیمتی، غیر تجدید پذیر وسیلہ ہے اور انسانی انتخاب کا گواہ ہے۔",
+          "whyItMatters_urdu": "وقت کو مقدس سمجھنا ہر لمحے کو خرچ کرنے کے طریقے کو تبدیل کر دیتا ہے۔ یہ آیت ہمیں ہر گھنٹے کو ایک الہی امانت کے طور پر دیکھنے کا چیلنج کرتی ہے جو قیامت کے دن ہمارے حق میں یا خلاف گواہی دے گی۔",
+          "title_ar": "قسم بالزمن",
+          "coreInsight_ar": "يقسم الله بـ'العصر' (الوقت/العصر)، مما يرفع الزمن إلى مكانة مقدسة. يؤكد هذا القسم أن الوقت هو أثمن مورد غير متجدد للإنسانية وشاهد على الخيارات البشرية.",
+          "whyItMatters_ar": "فهم الوقت كمقدس يحول كيفية قضاء كل لحظة. تتحدانا هذه الآية أن نرى كل ساعة كأمانة إلهية ستشهد لنا أو علينا يوم القيامة."
+        },
+        {
+          "id": "103:1:era-of-guidance",
+          "title": "Era of Guidance",
+          "icon": "star.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "In Shia interpretation, 'Al-Asr' also refers to the era of the Prophet and Ahlul Bayt (as), representing divine guidance throughout time. Each age has its guide appointed by Allah.",
+          "whyItMatters": "This reading connects individual time management to following divinely appointed leadership. Living meaningfully requires aligning with the guidance available in our era.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْعَصْرِ",
+          "title_urdu": "رہنمائی کا دور",
+          "coreInsight_urdu": "شیعہ تفسیر میں، 'العصر' نبی اور اہل بیت (ع) کے دور کی طرف بھی اشارہ کرتا ہے، جو وقت کے ساتھ الہی رہنمائی کی نمائندگی کرتا ہے۔ ہر دور میں اللہ کی طرف سے مقرر کردہ رہنما ہے۔",
+          "whyItMatters_urdu": "یہ قرات انفرادی وقت کے انتظام کو الہی طور پر مقرر کردہ قیادت کی پیروی سے جوڑتی ہے۔ بامعنی زندگی گزارنے کے لیے ہمارے دور میں دستیاب رہنمائی کے ساتھ ہم آہنگی کی ضرورت ہے۔",
+          "title_ar": "عصر الهداية",
+          "coreInsight_ar": "في التفسير الشيعي، يشير 'العصر' أيضًا إلى عصر النبي وأهل البيت (ع)، ممثلاً الهداية الإلهية عبر الزمن. لكل عصر هاديه المعين من الله.",
+          "whyItMatters_ar": "تربط هذه القراءة إدارة الوقت الفردي باتباع القيادة المعينة إلهيًا. العيش بشكل هادف يتطلب التوافق مع الهداية المتاحة في عصرنا."
+        },
+        {
+          "id": "103:1:sacred-oath",
+          "title": "Sacred Oath",
+          "icon": "sparkles",
+          "colorHex": "#64B5F6",
+          "coreInsight": "When Allah swears by something, it signals immense importance. The oath structure 'Wal-' emphasizes the gravity of what follows - a universal truth about human existence.",
+          "whyItMatters": "Divine oaths aren't casual; they command attention. This linguistic device alerts us that the message to follow is critical for our salvation and requires immediate reflection.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْعَصْرِ",
+          "title_urdu": "مقدس قسم",
+          "coreInsight_urdu": "جب اللہ کسی چیز کی قسم کھاتے ہیں، تو یہ بے حد اہمیت کا اشارہ ہے۔ قسم کی ساخت 'و' اس بات کی شدت پر زور دیتی ہے جو آگے آتا ہے - انسانی وجود کے بارے میں ایک عالمگیر سچائی۔",
+          "whyItMatters_urdu": "الہی قسمیں معمولی نہیں ہیں؛ وہ توجہ کا مطالبہ کرتی ہیں۔ یہ لسانی آلہ ہمیں خبردار کرتا ہے کہ آگے آنے والا پیغام ہماری نجات کے لیے اہم ہے اور فوری غور و فکر کی ضرورت ہے۔",
+          "title_ar": "القسم المقدس",
+          "coreInsight_ar": "عندما يقسم الله بشيء، فإنه يشير إلى أهمية هائلة. يؤكد هيكل القسم 'و' على خطورة ما يلي - حقيقة عالمية عن الوجود البشري.",
+          "whyItMatters_ar": "الأقسام الإلهية ليست عرضية؛ إنها تتطلب الانتباه. تنبهنا هذه الأداة اللغوية أن الرسالة التالية حاسمة لخلاصنا وتتطلب تأملًا فوريًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that the oath by time in this verse emphasizes the urgency of human action within limited temporal existence. Al-Tabari in his comprehensive tafsir notes that time is sworn by because it witnesses all human deeds and will testify on the Day of Judgment. Ibn Kathir explains that the oath by Asr refers to the late afternoon time, which was considered blessed by the Prophet. Al-Qurtubi emphasizes that this oath serves to alert humans to the preciousness of time and the need for constant vigilance. Where Shia and Sunni interpretations converge is in understanding that Allah's oath by time underscores human accountability and the fleeting nature of worldly life. However, Shia scholars like Tabatabai additionally emphasize the theological dimension of time as it relates to the era of the Imams and divine guidance, viewing the oath as referring not just to chronological time but to the age of wilayah. Sunni scholars tend to focus more on the moral imperative of the oath without the specific connection to Imamate. Both traditions cite narrations that the Companions would recite this surah when parting from each other, as reported by At-Tabarani, showing the practical impact this verse had on early Muslim community life and their consciousness of time's value.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس بات پر متفق ہیں کہ اس آیت میں وقت کی قسم محدود وقتی وجود میں انسانی عمل کی فوری ضرورت پر زور دیتی ہے۔ طبری نے اپنی جامع تفسیر میں نوٹ کیا ہے کہ وقت کی قسم کھائی جاتی ہے کیونکہ یہ تمام انسانی اعمال کا گواہ ہے اور قیامت کے دن گواہی دے گا۔ ابن کثیر وضاحت کرتے ہیں کہ عصر کی قسم دوپہر کے وقت کی طرف اشارہ کرتی ہے، جسے نبی کریم صلی اللہ علیہ وآلہ وسلم مبارک سمجھتے تھے۔ قرطبی اس بات پر زور دیتے ہیں کہ یہ قسم انسانوں کو وقت کی قیمت اور مسلسل چوکسی کی ضرورت کی طرف متوجہ کرنے کا کام کرتی ہے۔ جہاں شیعہ اور سنی تشریحات ملتی ہیں وہ یہ سمجھنا ہے کہ اللہ کی وقت کی قسم انسانی احتساب اور دنیوی زندگی کی عارضی نوعیت کو واضح کرتی ہے۔ تاہم، شیعہ علماء جیسے طباطبائی اضافی طور پر وقت کے الہٰیاتی پہلو پر زور دیتے ہیں کیونکہ یہ ائمہ کے دور اور الہٰی رہنمائی سے متعلق ہے، اس قسم کو نہ صرف تاریخی وقت بلکہ ولایت کے دور کے طور پر دیکھتے ہوئے۔ سنی علماء امامت سے مخصوص تعلق کے بغیر قسم کے اخلاقی تقاضے پر زیادہ توجہ مرکوز کرتے ہیں۔ دونوں روایات ان روایات کا حوالہ دیتی ہیں کہ صحابہ کرام ایک دوسرے سے رخصت ہوتے وقت اس سورہ کی تلاوت کرتے تھے، جیسا کہ طبرانی نے روایت کیا ہے، جو اس آیت کا ابتدائی مسلم کمیونٹی کی زندگی اور وقت کی قدر کے بارے میں ان کے شعور پر عملی اثر ظاہر کرتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن القَسَم بالزمن في هذه الآية يُعلِّي من شأن الفعل الإنساني ضمن وجود زمني محدود. ويُبيِّن الطبري في تفسيره الجامع أن الزمن أُقسم به لأنه يشهد على جميع أفعال البشر وسيُدلي بشهادته يوم الحساب. ويُوضِّح ابن كثير أن القسم بالعصر يعني وقت العصر الذي اعتبره النبي مباركاً. ويُشدِّد القرطبي على أن هذا القسم يُنبِّه البشر إلى ثمن الوقت والحاجة الدائمة إلى اليقظة والانتباه. وتلتقي المدرستان الشيعية والسنية في فهم قَسَم الله بالزمن باعتباره تأكيداً لمسؤولية الإنسان وتذكيراً بزوال الحياة الدنيا. بيد أن علماء الشيعة كالطباطبائي يُضيفون بُعداً عقدياً يربط الزمن بعصر الأئمة والهداية الإلهية، فينظرون إلى القسم على أنه يعني ليس الزمن الكرونولوجي وحسب بل عهد الولاية. أما علماء السنة فيركِّزون أكثر على الواجب الأخلاقي المستفاد من القسم دون ربطه بمسألة الإمامة. وتتواتر الروايات في كلا التراثين بأن الصحابة كانوا يتلون هذه السورة عند توديع بعضهم بعضاً، كما يرويه الطبراني، مما يكشف عن الأثر العملي البالغ الذي أحدثه هذا القسم في حياة المسلمين الأوائل وإحساسهم بقيمة الوقت."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "103:2:humanity-in-loss",
+          "title": "Humanity in Loss",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Al-insan' (humanity/mankind) is in 'khusr' (loss/decline) - a universal verdict affecting all people. This isn't physical loss but spiritual bankruptcy, wasting time without purpose or divine connection.",
+          "whyItMatters": "This verse establishes the default human condition: we're losing by default unless we actively pursue the exceptions outlined in verse 3. Recognizing this urgency is the first step to salvation.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+          "title_urdu": "انسان خسارے میں",
+          "coreInsight_urdu": "'الانسان' (انسانیت/بنی نوع انسان) 'خسر' (نقصان/زوال) میں ہے - تمام لوگوں کو متاثر کرنے والا ایک عالمگیر فیصلہ۔ یہ جسمانی نقصان نہیں ہے بلکہ روحانی دیوالیہ پن ہے، مقصد یا الہی تعلق کے بغیر وقت ضائع کرنا۔",
+          "whyItMatters_urdu": "یہ آیت بنیادی انسانی حالت قائم کرتی ہے: ہم بطور ڈیفالٹ ہار رہے ہیں جب تک کہ ہم فعال طور پر آیت 3 میں بیان کردہ استثناءات کی پیروی نہ کریں۔ اس عجلت کو پہچاننا نجات کی پہلی سیڑھی ہے۔",
+          "title_ar": "الإنسان في خسر",
+          "coreInsight_ar": "'الإنسان' (البشرية/الجنس البشري) في 'خسر' (خسارة/انحدار) - حكم عالمي يؤثر على جميع الناس. هذه ليست خسارة مادية بل إفلاس روحي، إضاعة الوقت دون هدف أو ارتباط إلهي.",
+          "whyItMatters_ar": "تؤسس هذه الآية الحالة البشرية الافتراضية: نحن نخسر افتراضيًا ما لم نسعى بنشاط للاستثناءات الموضحة في الآية 3. إدراك هذا الإلحاح هو الخطوة الأولى للخلاص."
+        },
+        {
+          "id": "103:2:emphasis-inna",
+          "title": "Emphatic Warning",
+          "icon": "exclamationmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Inna' (indeed/verily) is an emphatic particle in Arabic, stressing the certainty and gravity of this statement. The 'la' before 'fi khusr' adds additional emphasis - humanity is truly, deeply in loss.",
+          "whyItMatters": "This isn't a maybe or suggestion - it's a definitive reality check. The double emphasis demands we take this warning seriously and examine whether we're among the exceptions.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّ",
+          "title_urdu": "تاکیدی انتباہ",
+          "coreInsight_urdu": "'ان' (یقیناً/بے شک) عربی میں ایک تاکیدی ذرہ ہے، اس بیان کی یقینیت اور شدت پر زور دیتا ہے۔ 'فی خسر' سے پہلے 'ل' اضافی تاکید کرتا ہے - انسانیت واقعی، گہرائی سے نقصان میں ہے۔",
+          "whyItMatters_urdu": "یہ شاید یا تجویز نہیں ہے - یہ ایک حتمی حقیقت کی جانچ ہے۔ دوہری تاکید مطالبہ کرتی ہے کہ ہم اس انتباہ کو سنجیدگی سے لیں اور جانچیں کہ آیا ہم استثناءات میں سے ہیں۔",
+          "title_ar": "تحذير مؤكد",
+          "coreInsight_ar": "'إن' (حقًا/بالفعل) هي أداة توكيد في العربية، تؤكد على يقين وخطورة هذا البيان. 'ل' قبل 'في خسر' تضيف توكيدًا إضافيًا - البشرية حقًا، بعمق في خسارة.",
+          "whyItMatters_ar": "هذا ليس ربما أو اقتراح - إنه فحص واقعي حاسم. التوكيد المزدوج يطالبنا بأخذ هذا التحذير على محمل الجد وفحص ما إذا كنا من الاستثناءات."
+        },
+        {
+          "id": "103:2:universal-verdict",
+          "title": "Universal Verdict",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The use of 'al-insan' (the human) with the definite article refers to all of humanity collectively, not specific individuals. This is Allah's assessment of the human condition across time and place.",
+          "whyItMatters": "No one is exempt by default - not by wealth, status, or birth. This levels all humanity before one criterion: are we fulfilling the four exceptions mentioned in verse 3?",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْإِنسَٰنَ",
+          "title_urdu": "عالمگیر فیصلہ",
+          "coreInsight_urdu": "تعریفی آرٹیکل کے ساتھ 'الانسان' (انسان) کا استعمال انفرادی افراد نہیں بلکہ تمام انسانیت کو مجموعی طور پر مراد لیتا ہے۔ یہ وقت اور جگہ میں انسانی حالت کا اللہ کا جائزہ ہے۔",
+          "whyItMatters_urdu": "کوئی بھی بطور ڈیفالٹ مستثنیٰ نہیں ہے - نہ دولت، حیثیت، یا پیدائش سے۔ یہ تمام انسانیت کو ایک معیار کے سامنے برابر کرتا ہے: کیا ہم آیت 3 میں بیان کردہ چار استثناءات کو پورا کر رہے ہیں؟",
+          "title_ar": "حكم عالمي",
+          "coreInsight_ar": "استخدام 'الإنسان' (الإنسان) مع أداة التعريف يشير إلى البشرية جمعاء، وليس أفرادًا محددين. هذا تقييم الله للحالة البشرية عبر الزمان والمكان.",
+          "whyItMatters_ar": "لا أحد معفى افتراضيًا - لا بالثروة أو المكانة أو الميلاد. يسوي هذا كل البشرية أمام معيار واحد: هل نحقق الاستثناءات الأربعة المذكورة في الآية 3؟"
+        },
+        {
+          "id": "103:2:khusr-meaning",
+          "title": "Spiritual Bankruptcy",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Khusr' comes from a root meaning loss in trade, implying humanity is making a bad bargain - trading eternal life for temporary pleasures, investing time in vanities instead of lasting good.",
+          "whyItMatters": "Life is a transaction where we exchange our limited time for outcomes. Most people make losing investments. This verse challenges us to audit where we're spending our life's currency.",
+          "position": "bottomRight",
+          "arabicHighlight": "خُسْرٍ",
+          "title_urdu": "روحانی دیوالیہ پن",
+          "coreInsight_urdu": "'خسر' ایک جڑ سے آتا ہے جس کا مطلب تجارت میں نقصان ہے، اس بات کی نشاندہی کرتا ہے کہ انسانیت ایک برا سودا کر رہی ہے - ابدی زندگی کو عارضی لذتوں کے لیے تبدیل کرنا، پائیدار بھلائی کی بجائے بیکار چیزوں میں وقت کی سرمایہ کاری کرنا۔",
+          "whyItMatters_urdu": "زندگی ایک لین دین ہے جہاں ہم اپنا محدود وقت نتائج کے لیے تبدیل کرتے ہیں۔ زیادہ تر لوگ نقصان دہ سرمایہ کاری کرتے ہیں۔ یہ آیت ہمیں جانچنے کا چیلنج کرتی ہے کہ ہم اپنی زندگی کی کرنسی کہاں خرچ کر رہے ہیں۔",
+          "title_ar": "الإفلاس الروحي",
+          "coreInsight_ar": "'خسر' يأتي من جذر يعني الخسارة في التجارة، مما يدل على أن البشرية تقوم بصفقة سيئة - مبادلة الحياة الأبدية بملذات مؤقتة، استثمار الوقت في التفاهات بدلاً من الخير الدائم.",
+          "whyItMatters_ar": "الحياة معاملة نتبادل فيها وقتنا المحدود للنتائج. معظم الناس يقومون باستثمارات خاسرة. تتحدانا هذه الآية لمراجعة أين ننفق عملة حياتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that this verse presents a universal indictment of humanity's spiritual state without divine guidance. Ibn Kathir explains that humans are in loss because they are journeying toward death yet most are unprepared for what follows. Al-Tabari presents various interpretations from the early generations, with some saying the loss refers to disbelievers specifically while others saying it applies to all except those described in the next verse. Al-Qurtubi emphasizes the comprehensive nature of the loss, noting that even righteous people face losses in this world as tests. Where scholarly traditions differ is in the specifics of who escapes this loss. Shia scholars like Tabatabai emphasize that true salvation from loss requires not just faith and good works but also recognition of the divinely appointed leadership of the Imams, particularly Ali ibn Abi Talib. Sunni scholars focus on faith and righteous deeds without the additional requirement of belief in Imamate. Both traditions cite narrations showing that early Muslims took this verse very seriously, with Imam Shafi'i reportedly saying that if people pondered this surah alone, it would suffice for their guidance. The practical agreement across both traditions is that worldly pursuits without spiritual grounding lead to ultimate loss regardless of material success.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین دونوں اس بات پر متفق ہیں کہ یہ آیت الہٰی رہنمائی کے بغیر انسانیت کی روحانی حالت کی عالمگیر مذمت پیش کرتی ہے۔ ابن کثیر وضاحت کرتے ہیں کہ انسان خسارے میں ہیں کیونکہ وہ موت کی طرف سفر کر رہے ہیں پھر بھی زیادہ تر اس کے بعد کے لیے تیار نہیں ہیں۔ طبری ابتدائی نسلوں سے مختلف تشریحات پیش کرتے ہیں، کچھ کہتے ہیں کہ خسارہ خاص طور پر کافروں کی طرف اشارہ کرتا ہے جبکہ دوسرے کہتے ہیں کہ یہ اگلی آیت میں بیان کردہ لوگوں کے علاوہ سب پر لاگو ہوتا ہے۔ قرطبی خسارے کی جامع نوعیت پر زور دیتے ہیں، نوٹ کرتے ہوئے کہ یہاں تک کہ نیک لوگ بھی اس دنیا میں آزمائشوں کے طور پر نقصانات کا سامنا کرتے ہیں۔ جہاں علمی روایات میں اختلاف ہے وہ اس بات کی تفصیلات میں ہے کہ اس خسارے سے کون بچتا ہے۔ شیعہ علماء جیسے طباطبائی اس بات پر زور دیتے ہیں کہ خسارے سے حقیقی نجات کے لیے صرف ایمان اور نیک اعمال ہی نہیں بلکہ ائمہ، خاص طور پر حضرت امام علی علیہ السلام کی الہٰی طور پر مقرر کردہ قیادت کی پہچان بھی ضروری ہے۔ سنی علماء امامت پر ایمان کی اضافی ضرورت کے بغیر ایمان اور نیک اعمال پر توجہ مرکوز کرتے ہیں۔ دونوں روایات ایسی روایات کا حوالہ دیتی ہیں جو ظاہر کرتی ہیں کہ ابتدائی مسلمانوں نے اس آیت کو بہت سنجیدگی سے لیا، امام شافعی نے مبینہ طور پر کہا کہ اگر لوگ صرف اس سورہ پر غور کرتے تو یہ ان کی رہنمائی کے لیے کافی ہوتا۔ دونوں روایات میں عملی اتفاق یہ ہے کہ روحانی بنیاد کے بغیر دنیوی سرگرمیاں مادی کامیابی سے قطع نظر حتمی نقصان کا باعث بنتی ہیں۔",
+    "layer4_ar": "يتفق مفسِّرو الشيعة والسنة على أن هذه الآية تُقرِّر حكماً كونياً شاملاً على الحال الروحية للإنسانية في غياب الهداية الإلهية. ويُفسِّر ابن كثير أن الإنسان في خسران لأنه في مسيرته نحو الموت غير مستعدٍّ لما يعقبه. ويستعرض الطبري في تفسيره الجامع تفسيرات العلماء الأوائل المتعددة؛ فمنهم من حصر الخسران في الكافرين خاصةً، ومنهم من وسَّعه ليشمل الجميع ما عدا المستثنين في الآية التالية. ويُؤكِّد القرطبي شمولية الخسران، مُنبِّهاً إلى أن حتى الصالحين يواجهون خسائر في الدنيا ابتلاءً وامتحاناً. وتتفاوت المدرستان في تحديد من ينجو من هذا الخسران؛ إذ يُشدِّد علماء الشيعة كالطباطبائي على أن النجاة الحقيقية تستلزم إلى جانب الإيمان والعمل الصالح الاعترافَ بالإمامة المُقرَّرة إلهياً لأهل البيت، وفي مقدمتهم علي بن أبي طالب. أما علماء السنة فيُركِّزون على الإيمان والعمل الصالح دون اشتراط الإيمان بالإمامة. وتتفق كلتا المدرستين على المآل العملي: الانهماك في الدنيا بلا رصيد روحي يُفضي إلى الخسران المطلق مهما بلغ النجاح المادي. ويحكى أن الإمام الشافعي قال إن في هذه السورة وحدها كفايةً لهداية البشر، وهو قول يتردد صداه في الفكر الشيعي والسني على حدٍّ سواء."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "103:3:faith-foundation",
+          "title": "Faith Foundation",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Amanu' (those who believed) is the first exception to human loss. Iman (faith) isn't passive acceptance but active belief in Allah, His messengers, and divine guidance - the foundation for all righteous action.",
+          "whyItMatters": "Without genuine faith, the other three criteria become hollow rituals. True iman transforms our intentions, making every action worship and aligning our will with Allah's.",
+          "position": "topLeft",
+          "arabicHighlight": "ءَامَنُوا۟",
+          "title_urdu": "ایمان کی بنیاد",
+          "coreInsight_urdu": "'آمنوا' (جو ایمان لائے) انسانی نقصان کا پہلا استثناء ہے۔ ایمان غیر فعال قبولیت نہیں ہے بلکہ اللہ، اس کے رسولوں، اور الہی رہنمائی پر فعال یقین ہے - تمام نیک اعمال کی بنیاد۔",
+          "whyItMatters_urdu": "حقیقی ایمان کے بغیر، باقی تین معیار کھوکھلی رسومات بن جاتے ہیں۔ حقیقی ایمان ہماری نیتوں کو تبدیل کرتا ہے، ہر عمل کو عبادت بناتا ہے اور ہماری مرضی کو اللہ کی مرضی سے ہم آہنگ کرتا ہے۔",
+          "title_ar": "أساس الإيمان",
+          "coreInsight_ar": "'آمنوا' (الذين آمنوا) هو الاستثناء الأول للخسارة البشرية. الإيمان ليس قبولًا سلبيًا بل إيمان نشط بالله ورسله والهداية الإلهية - أساس كل عمل صالح.",
+          "whyItMatters_ar": "بدون إيمان حقيقي، تصبح المعايير الثلاثة الأخرى طقوسًا جوفاء. الإيمان الحقيقي يحول نوايانا، مما يجعل كل عمل عبادة ويوائم إرادتنا مع إرادة الله."
+        },
+        {
+          "id": "103:3:righteous-deeds",
+          "title": "Righteous Deeds",
+          "icon": "hands.clap.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Amilu al-salihat' (performed righteous deeds) is the second pillar. Faith must manifest through action - prayer, charity, justice, service to others. Belief without behavior is incomplete.",
+          "whyItMatters": "Islam rejects the faith-versus-works dichotomy. True believers prove their faith through consistent good deeds, transforming belief from abstract concept to lived reality.",
+          "position": "topRight",
+          "arabicHighlight": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "نیک اعمال",
+          "coreInsight_urdu": "'عملوا الصالحات' (نیک اعمال کیے) دوسرا ستون ہے۔ ایمان کو عمل کے ذریعے ظاہر ہونا چاہیے - نماز، خیرات، انصاف، دوسروں کی خدمت۔ رویے کے بغیر یقین نامکمل ہے۔",
+          "whyItMatters_urdu": "اسلام ایمان بمقابلہ اعمال کی تضاد کو مسترد کرتا ہے۔ حقیقی مومن مسلسل نیک اعمال کے ذریعے اپنے ایمان کو ثابت کرتے ہیں، یقین کو تجریدی تصور سے عملی حقیقت میں تبدیل کرتے ہیں۔",
+          "title_ar": "الأعمال الصالحة",
+          "coreInsight_ar": "'عملوا الصالحات' (عملوا الأعمال الصالحة) هو الركن الثاني. يجب أن يتجلى الإيمان من خلال العمل - الصلاة والصدقة والعدالة وخدمة الآخرين. الإيمان بدون سلوك غير مكتمل.",
+          "whyItMatters_ar": "يرفض الإسلام ثنائية الإيمان مقابل الأعمال. يثبت المؤمنون الحقيقيون إيمانهم من خلال الأعمال الصالحة المستمرة، مما يحول الإيمان من مفهوم مجرد إلى واقع معاش."
+        },
+        {
+          "id": "103:3:enjoin-truth",
+          "title": "Enjoin Truth",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Tawasaw bil-haqq' (advised/enjoined each other to truth) is the third pillar - actively promoting truth, correcting falsehood, and holding each other accountable in the community of believers.",
+          "whyItMatters": "Faith isn't individual; it's communal. We're responsible for helping others stay on the path, speaking truth even when difficult, and creating a culture of accountability and honesty.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَتَوَاصَوْا۟ بِٱلْحَقِّ",
+          "title_urdu": "حق کی تلقین",
+          "coreInsight_urdu": "'تواصوا بالحق' (ایک دوسرے کو حق کی نصیحت کی) تیسرا ستون ہے - فعال طور پر سچائی کو فروغ دینا، باطل کو درست کرنا، اور مومنین کی جماعت میں ایک دوسرے کو جوابدہ رکھنا۔",
+          "whyItMatters_urdu": "ایمان انفرادی نہیں ہے؛ یہ اجتماعی ہے۔ ہم دوسروں کو راستے پر رکھنے میں مدد کرنے، مشکل ہونے پر بھی سچ بولنے، اور جوابدہی اور ایمانداری کی ثقافت بنانے کے ذمہ دار ہیں۔",
+          "title_ar": "التواصي بالحق",
+          "coreInsight_ar": "'تواصوا بالحق' (أوصوا بعضهم بعضًا بالحق) هو الركن الثالث - الترويج الفعال للحق، وتصحيح الباطل، ومحاسبة بعضنا البعض في مجتمع المؤمنين.",
+          "whyItMatters_ar": "الإيمان ليس فرديًا؛ إنه جماعي. نحن مسؤولون عن مساعدة الآخرين على البقاء على الطريق، وقول الحق حتى عندما يكون صعبًا، وخلق ثقافة المساءلة والصدق."
+        },
+        {
+          "id": "103:3:enjoin-patience",
+          "title": "Enjoin Patience",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Tawasaw bil-sabr' (advised each other to patience) is the fourth pillar. Sabr isn't passive waiting but active perseverance through trials, steadfastness in worship, and resilience against oppression.",
+          "whyItMatters": "The path of truth brings challenges. Supporting each other through difficulties, reminding one another to stay patient, and collectively enduring hardships strengthens the entire community's faith.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "title_urdu": "صبر کی تلقین",
+          "coreInsight_urdu": "'تواصوا بالصبر' (ایک دوسرے کو صبر کی نصیحت کی) چوتھا ستون ہے۔ صبر غیر فعال انتظار نہیں ہے بلکہ آزمائشوں کے ذریعے فعال استقامت، عبادت میں ثابت قدمی، اور ظلم کے خلاف لچک ہے۔",
+          "whyItMatters_urdu": "حق کا راستہ چیلنجز لاتا ہے۔ مشکلات میں ایک دوسرے کی حمایت کرنا، ایک دوسرے کو صبر کرنے کی یاد دہانی کرانا، اور اجتماعی طور پر مشکلات کو برداشت کرنا پوری جماعت کے ایمان کو مضبوط کرتا ہے۔",
+          "title_ar": "التواصي بالصبر",
+          "coreInsight_ar": "'تواصوا بالصبر' (أوصوا بعضهم بعضًا بالصبر) هو الركن الرابع. الصبر ليس انتظارًا سلبيًا بل مثابرة نشطة خلال المحن، وثبات في العبادة، ومرونة ضد القهر.",
+          "whyItMatters_ar": "طريق الحق يجلب التحديات. دعم بعضنا البعض خلال الصعوبات، وتذكير بعضنا البعض بالصبر، وتحمل المصاعب جماعيًا يقوي إيمان المجتمع بأكمله."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars show remarkable agreement on the interpretation of this verse's four essential qualities. Ibn Kathir explains that these characteristics represent the salvation from loss mentioned in the previous verse: faith establishes the foundation, righteous deeds manifest that faith, mutual counsel toward truth ensures the community remains rightly guided, and mutual counsel toward patience helps believers persevere through trials. Al-Tabari presents narrations showing the early Muslim community's practice of reciting this surah when parting, reminding each other of these obligations. Al-Qurtubi emphasizes that the verse makes salvation conditional not just on personal righteousness but on social responsibility, each Muslim must care about the faith and practice of others. Where Shia and Sunni interpretations diverge is primarily in the definition of complete faith. Shia scholars like Tabatabai argue that true faith necessarily includes recognition of the divinely appointed Imams, particularly Ali ibn Abi Talib, as this is the 'truth' toward which believers must encourage each other. Sunni scholars understand the 'truth' as the Quran and Sunnah without the additional emphasis on Imamate. However, both traditions agree on the practical implications: believers must form mutually supportive communities characterized by faith, action, accountability, and perseverance. Imam Shafi'i famously said if Allah had revealed only this surah, it would have been sufficient for guiding humanity, a sentiment echoed across both Shia and Sunni scholarship.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس آیت کی چار ضروری خوبیوں کی تشریح پر نمایاں اتفاق ظاہر کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ خصوصیات پچھلی آیت میں مذکور خسارے سے نجات کی نمائندگی کرتی ہیں: ایمان بنیاد قائم کرتا ہے، نیک اعمال اس ایمان کو ظاہر کرتے ہیں، حق کی طرف باہمی مشورہ اس بات کو یقینی بناتا ہے کہ برادری صحیح رہنمائی پر قائم رہے، اور صبر کی طرف باہمی مشورہ مومنین کو آزمائشوں میں ثابت قدم رہنے میں مدد کرتا ہے۔ طبری ایسی روایات پیش کرتے ہیں جو ابتدائی مسلم برادری کے اس سورہ کی تلاوت کا رواج ظاہر کرتی ہیں جب وہ ایک دوسرے سے رخصت ہوتے، ایک دوسرے کو ان فرائض کی یاد دلاتے ہوئے۔ قرطبی اس بات پر زور دیتے ہیں کہ آیت نجات کو صرف ذاتی نیکی پر نہیں بلکہ سماجی ذمہ داری پر مشروط بناتی ہے، ہر مسلمان کو دوسروں کے ایمان اور عمل کی پرواہ کرنی چاہیے۔ جہاں شیعہ اور سنی تشریحات میں اختلاف ہے وہ بنیادی طور پر مکمل ایمان کی تعریف میں ہے۔ شیعہ علماء جیسے طباطبائی دلیل دیتے ہیں کہ حقیقی ایمان میں لازمی طور پر الہٰی طور پر مقرر کردہ ائمہ، خاص طور پر حضرت امام علی علیہ السلام کی پہچان شامل ہے، کیونکہ یہ وہ 'حق' ہے جس کی طرف مومنین کو ایک دوسرے کی حوصلہ افزائی کرنی چاہیے۔ سنی علماء امامت پر اضافی زور کے بغیر 'حق' کو قرآن اور سنت کے طور پر سمجھتے ہیں۔ تاہم، دونوں روایات عملی مضمرات پر متفق ہیں: مومنین کو باہمی معاونت کی برادریاں بنانی چاہیے جن کی خصوصیت ایمان، عمل، احتساب اور استقامت ہو۔ امام شافعی نے مشہور طور پر کہا کہ اگر اللہ نے صرف یہ سورہ نازل کیا ہوتا تو یہ انسانیت کی رہنمائی کے لیے کافی ہوتا، ایک جذبہ جو شیعہ اور سنی دونوں علمی روایات میں گونجتا ہے۔",
+    "layer4_ar": "يُظهر علماء الشيعة والسنة اتفاقاً لافتاً في تفسير الصفات الأربع الجوهرية التي تضمنتها هذه الآية. فيُوضِّح ابن كثير أن هذه الصفات هي طريق الخلاص من الخسران المُقرَّر في الآية السابقة: الإيمان يُرسي الأساس، والأعمال الصالحة تُجسِّده، والتواصي بالحق يضمن ثبات المجتمع على الهدى، والتواصي بالصبر يُعين المؤمنين على المضيِّ في طريقهم. ويستعرض الطبري روايات تُظهر أن المسلمين الأوائل كانوا يتلون هذه السورة عند التوديع، مُذكِّرين بعضهم بهذه الواجبات. ويُؤكِّد القرطبي أن الآية تجعل النجاة مشروطةً ليس فقط بالتقوى الشخصية بل بالمسؤولية الاجتماعية؛ إذ ينبغي لكل مسلم أن يهتم بإيمان سواه وعمله. وتتمايز المدرستان أساساً في تعريف الإيمان الكامل؛ فيرى علماء الشيعة كالطباطبائي أن الإيمان الحقيقي يستلزم الإقرار بإمامة الأئمة المُعيَّنين إلهياً، وفي مقدمتهم علي بن أبي طالب، بوصف ذلك هو \"الحق\" الذي يتواصى المؤمنون بالسير عليه. في حين يفهم علماء السنة \"الحق\" على أنه القرآن والسنة دون التشديد على الإمامة بهذا المعنى. غير أن كلا التراثين يتفقان على المآل العملي: ينبغي للمؤمنين أن يُشكِّلوا مجتمعات متكافلة يسودها الإيمان والعمل والتحاسب والثبات. وقد قال الإمام الشافعي رحمه الله مقولته الشهيرة: لو لم يُنزِّل الله في كتابه حجةً على خلقه إلا هذه السورة لكفتهم، وهو كلام يرتدُّ صداه في الفكر الشيعي والسني معاً على حدٍّ سواء."
+  }
+}

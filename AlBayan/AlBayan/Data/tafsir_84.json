@@ -1,0 +1,1523 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:1:cosmic-upheaval",
+          "title": "Cosmic Upheaval",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The splitting of the sky signals the complete transformation of the cosmic order. This dramatic imagery marks the beginning of the Day of Judgment when all creation will witness Allah's absolute power.",
+          "whyItMatters": "Recognizing that even the vast heavens are subject to Allah's command puts our worldly concerns into perspective and reminds us of the temporary nature of all existence.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلسَّمَآءُ ٱنشَقَّتْ",
+          "title_urdu": "کائناتی انقلاب",
+          "coreInsight_urdu": "آسمان کا پھٹنا کائناتی نظام کی مکمل تبدیلی کا اشارہ ہے۔ یہ ڈرامائی منظر قیامت کے دن کا آغاز ہے جب تمام مخلوق اللہ کی مطلق قدرت کا مشاہدہ کرے گی۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ وسیع آسمان بھی اللہ کے حکم کے تابع ہے، ہماری دنیاوی پریشانیوں کو صحیح تناظر میں رکھتا ہے۔",
+          "title_ar": "الانقلاب الكوني",
+          "coreInsight_ar": "انشقاق السماء يشير إلى التحول الكامل للنظام الكوني. هذه الصورة الدرامية تمثل بداية يوم القيامة حين تشهد جميع المخلوقات قدرة الله المطلقة.",
+          "whyItMatters_ar": "إدراك أن السماوات الواسعة خاضعة لأمر الله يضع همومنا الدنيوية في منظورها الصحيح."
+        },
+        {
+          "id": "84:1:divine-beginning",
+          "title": "Divine Beginning",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Even this powerful surah about Judgment Day begins with Bismillah, emphasizing that Allah's mercy encompasses even the most awesome events. The Rahman and Rahim aspects frame the Day of Reckoning.",
+          "whyItMatters": "Starting with Allah's names of mercy reminds believers that divine justice is intertwined with divine compassion, giving hope even when contemplating accountability.",
+          "position": "topRight",
+          "arabicHighlight": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "title_urdu": "الٰہی آغاز",
+          "coreInsight_urdu": "قیامت کے بارے میں یہ طاقتور سورت بھی بسم اللہ سے شروع ہوتی ہے، جو اس بات پر زور دیتی ہے کہ اللہ کی رحمت سب سے عظیم واقعات کو بھی گھیرے ہوئے ہے۔",
+          "whyItMatters_urdu": "اللہ کے رحمت کے ناموں سے شروع کرنا مومنین کو یاد دلاتا ہے کہ الٰہی انصاف الٰہی رحمت سے جڑا ہے۔",
+          "title_ar": "البداية الإلهية",
+          "coreInsight_ar": "حتى هذه السورة القوية عن يوم القيامة تبدأ بالبسملة، مؤكدة أن رحمة الله تشمل حتى أعظم الأحداث.",
+          "whyItMatters_ar": "البدء بأسماء الله الرحمة يذكر المؤمنين أن العدل الإلهي مرتبط بالرحمة الإلهية."
+        },
+        {
+          "id": "84:1:moment-of-truth",
+          "title": "Moment of Truth",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'idha' (when) indicates certainty, not possibility. The splitting of the sky is not a question of 'if' but 'when,' establishing the absolute inevitability of the Day of Judgment.",
+          "whyItMatters": "Understanding the certainty of this event transforms how we prioritize our daily choices and encourages us to prepare spiritually for what is guaranteed to come.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِذَا",
+          "title_urdu": "سچائی کا لمحہ",
+          "coreInsight_urdu": "لفظ 'اذا' یقین کی نشاندہی کرتا ہے، امکان کی نہیں۔ آسمان کا پھٹنا 'اگر' کا سوال نہیں بلکہ 'کب' کا ہے، جو قیامت کی مطلق یقینیت کو ثابت کرتا ہے۔",
+          "whyItMatters_urdu": "اس واقعہ کی یقینیت کو سمجھنا ہماری روزمرہ ترجیحات کو بدل دیتا ہے۔",
+          "title_ar": "لحظة الحقيقة",
+          "coreInsight_ar": "كلمة 'إذا' تدل على اليقين لا الاحتمال. انشقاق السماء ليس سؤال 'إن' بل 'متى'، مما يثبت حتمية يوم القيامة المطلقة.",
+          "whyItMatters_ar": "فهم يقينية هذا الحدث يغير كيفية ترتيب أولوياتنا اليومية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the literal interpretation of cosmic transformation on the Day of Judgment. Ibn Kathir and Al-Qurtubi, prominent Sunni commentators, describe the heavens splitting and melting like molten metal or tanned hide. Tabatabai and Tabrisi similarly emphasize the physical reality of these events, rejecting purely metaphorical readings. Where traditions differ slightly is in emphasis: Shia tafsir often connects these cosmic signs to the manifestation of the Imam Mahdi's justice and the ultimate vindication of the Prophet's family, while Sunni commentaries focus more broadly on divine justice. Both traditions cite numerous hadiths about the Day of Judgment's terrors. Al-Ghazali and other Sunni scholars devoted extensive writings to resurrection, as did Shia scholars like Allamah Majlisi. The consensus across Islamic scholarship is that these verses describe real cosmic events, not mere allegory, emphasizing accountability in both traditions.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء قیامت کے دن کائناتی تبدیلی کے لفظی معنی پر متفق ہیں۔ ابن کثیر اور قرطبی جیسے معروف سنی مفسرین آسمان کے پھٹنے اور پگھلے ہوئے دھات یا چمڑے کی طرح ہو جانے کا بیان کرتے ہیں۔ طباطبائی اور طبرسی بھی ان واقعات کی حقیقی نوعیت پر زور دیتے ہیں اور خالصتاً مجازی تفسیر کو رد کرتے ہیں۔ مکاتبِ فکر میں جہاں معمولی فرق ہے وہ تاکید میں ہے: شیعہ تفسیر ان کائناتی نشانات کو اکثر امام مہدی علیہ السلام کے عدل کے ظہور اور خاندانِ نبوی کے حتمی انصاف سے جوڑتی ہے، جبکہ سنی تفاسیر زیادہ وسیع پیمانے پر الٰہی عدل پر توجہ مرکوز کرتی ہیں۔ دونوں روایات قیامت کی ہولناکیوں کے بارے میں متعدد احادیث نقل کرتی ہیں۔ امام غزالی اور دیگر سنی علماء نے بعث و نشور پر تفصیلی تحریریں چھوڑی ہیں، جیسا کہ علامہ مجلسی جیسے شیعہ علماء نے بھی کیا ہے۔ اسلامی علمی روایت میں اتفاق یہ ہے کہ یہ آیات حقیقی کائناتی واقعات کو بیان کرتی ہیں نہ محض تمثیل کو، اور دونوں روایات میں احتساب کو مرکزی اہمیت حاصل ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على التفسير الحرفي للتحول الكوني يوم القيامة. ويصف ابن كثير والقرطبي من كبار المفسرين السنة انشقاق السماء وذوبانها كالمهل أو الأديم المدبوغ. ويُؤكِّد الطباطبائي والطبرسي كذلك واقعية هذه الأحداث رافضَين القراءات المجازية الخالصة. ويتجلى الفارق الطفيف بين المدرستين في جهة التركيز؛ فالتفسير الشيعي كثيراً ما يربط هذه الآيات الكونية بظهور عدل الإمام المهدي عليه السلام والانتصار الأخير لآل النبي، في حين ينصبُّ التفسير السني انصبابًا أوسع على العدل الإلهي العام. وتزخر تراث كلا المذهبين بأحاديث عديدة حول أهوال يوم القيامة. وقد أفرد الغزالي ومن سلك مسلكه من العلماء السنة تآليف موسعة في البعث والنشور، كما فعل علماء الشيعة كالعلامة المجلسي. والإجماع المنعقد في الدراسات الإسلامية هو أن هذه الآيات تصف أحداثاً كونية حقيقية لا مجرد مجاز، مع التأكيد على مبدأ المساءلة في الحالين."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:2:cosmic-obedience",
+          "title": "Cosmic Obedience",
+          "icon": "hand.raised.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The sky 'listens' and responds to its Lord, demonstrating perfect submission. Even inanimate creation obeys Allah's command without hesitation, showing that obedience to the Creator is woven into existence itself.",
+          "whyItMatters": "If the vast heavens submit willingly to Allah, how much more should human beings—endowed with intellect and free will—strive to align themselves with divine guidance?",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَذِنَتْ لِرَبِّهَا",
+          "title_urdu": "کائناتی اطاعت",
+          "coreInsight_urdu": "آسمان اپنے رب کی 'سنتا' اور جواب دیتا ہے، کامل فرمانبرداری کا مظاہرہ کرتے ہوئے۔ بے جان مخلوق بھی بغیر ہچکچاہٹ اللہ کے حکم کی اطاعت کرتی ہے۔",
+          "whyItMatters_urdu": "اگر وسیع آسمان اللہ کے سامنے جھکتے ہیں، تو عقل اور ارادے سے نوازے گئے انسانوں کو کتنا زیادہ الٰہی رہنمائی کی پیروی کرنی چاہیے؟",
+          "title_ar": "الطاعة الكونية",
+          "coreInsight_ar": "السماء 'تأذن' وتستجيب لربها، مظهرة الخضوع التام. حتى الخلق الجامد يطيع أمر الله دون تردد.",
+          "whyItMatters_ar": "إذا خضعت السماوات الواسعة لله طوعاً، فكم ينبغي للإنسان المزود بالعقل أن يسعى للتوافق مع الهداية الإلهية؟"
+        },
+        {
+          "id": "84:2:divine-right",
+          "title": "Divine Right",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'huqqat' indicates that the sky's obedience was obligatory and rightful. Allah's command over creation is not arbitrary but based on His absolute right as Creator and Sustainer.",
+          "whyItMatters": "Recognizing Allah's rightful authority helps us understand that divine commands are not restrictions but the natural order—following them brings harmony with the universe itself.",
+          "position": "topRight",
+          "arabicHighlight": "وَحُقَّتْ",
+          "title_urdu": "الٰہی حق",
+          "coreInsight_urdu": "لفظ 'حقت' اشارہ کرتا ہے کہ آسمان کی اطاعت واجب اور حق تھی۔ مخلوق پر اللہ کا حکم من مانی نہیں بلکہ خالق اور پالنہار کی حیثیت سے اس کے مطلق حق پر مبنی ہے۔",
+          "whyItMatters_urdu": "اللہ کے حقیقی اختیار کو پہچاننا ہمیں سمجھاتا ہے کہ الٰہی احکام پابندیاں نہیں بلکہ فطری نظام ہیں۔",
+          "title_ar": "الحق الإلهي",
+          "coreInsight_ar": "كلمة 'حُقّت' تشير إلى أن طاعة السماء كانت واجبة ومستحقة. أمر الله على الخلق ليس تعسفياً بل مبني على حقه المطلق كخالق ومدبر.",
+          "whyItMatters_ar": "إدراك سلطة الله الحقيقية يساعدنا على فهم أن الأوامر الإلهية ليست قيوداً بل النظام الطبيعي."
+        },
+        {
+          "id": "84:2:lord-relationship",
+          "title": "Lord & Creation",
+          "icon": "person.and.arrow.left.and.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The use of 'Rabbiha' (its Lord) establishes the intimate relationship between Creator and creation. Every element of existence has this connection to Allah as its Sustainer and Master.",
+          "whyItMatters": "This relationship reminds us that we are not alone or abandoned—our Lord knows us intimately and has a purposeful plan for each of us.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لِرَبِّهَا",
+          "title_urdu": "رب اور مخلوق",
+          "coreInsight_urdu": "'ربها' کا استعمال خالق اور مخلوق کے درمیان گہرے تعلق کو ثابت کرتا ہے۔ وجود کا ہر عنصر اپنے پالنہار اور مالک کے طور پر اللہ سے یہ تعلق رکھتا ہے۔",
+          "whyItMatters_urdu": "یہ رشتہ ہمیں یاد دلاتا ہے کہ ہم اکیلے یا بے یارومددگار نہیں ہیں—ہمارا رب ہمیں گہرائی سے جانتا ہے۔",
+          "title_ar": "الرب والخلق",
+          "coreInsight_ar": "استخدام 'ربها' يثبت العلاقة الحميمة بين الخالق والمخلوق. كل عنصر في الوجود له هذه الصلة بالله كمدبره ومالكه.",
+          "whyItMatters_ar": "هذه العلاقة تذكرنا بأننا لسنا وحيدين أو متروكين—ربنا يعرفنا معرفة وثيقة."
+        }
+      ]
+    },
+    "layer4": "The concept of cosmic obedience to divine command is universally accepted across Islamic schools of thought. Both Shia and Sunni exegetes cite verses indicating that all creation glorifies Allah and submits to His will. Fakhr al-Din al-Razi, a prominent Sunni scholar, extensively discussed creation's awareness and submission in his tafsir. Tabatabai similarly explores this theme in Al-Mizan, emphasizing that the universe is not mechanistic but participates actively in divine purpose. A minor difference in emphasis appears in discussions of free will versus determinism. Some Sunni schools lean toward greater divine determinism in all matters, while Shia theology, following the principle of al-amr bayna al-amrayn (the matter between two matters), maintains that while creation is bound to obey, humans possess genuine free will within divine sovereignty. Both traditions agree, however, that the Day of Judgment will see all creation, including rebellious humans, forcibly submitting to divine justice.",
+    "layer4_urdu": "الٰہی حکم کی کائناتی اطاعت کا موضوع اسلامی تفسیری روایات میں یکساں طور پر موجود ہے۔ سنی مفسرین جیسے طبری اور قرطبی اور شیعہ علماء جیسے طبرسی اور طباطبائی سبھی خالق کے سامنے مخلوق کی مطلق اطاعت پر زور دیتے ہیں۔ فخر الدین رازی نے اپنی تفسیر میں مخلوق کی آگاہی اور اطاعت کو تفصیل سے زیرِ بحث لایا۔ طباطبائی نے بھی المیزان میں اسی موضوع کو وسعت سے بیان کیا ہے اور اس بات پر زور دیا کہ کائنات مکینیکی نہیں بلکہ الٰہی مقصد میں فعال طور پر شریک ہے۔ انسانی ارادۂ حر اور جبریت پر بحث میں کچھ معمولی فرق نظر آتا ہے۔ بعض سنی مکاتب تمام امور میں الٰہی جبر کی طرف زیادہ میلان رکھتے ہیں، جبکہ شیعہ الٰہیات، خصوصاً جیسا کہ امام صادق علیہ السلام کے فرمان 'الامر بین الامرین' میں ہے، اس بات کی پیچیدہ بحث کرتا ہے کہ الٰہی حاکمیت اور انسانی آزادی کس طرح بیک وقت قائم رہتے ہیں۔ تاہم دونوں روایات متفق ہیں کہ مخلوق کی اطاعت کامل اور فوری ہے اور یہ مومنین کے لیے نمونہ ہے۔ یہ آیت یکساں طور پر کائناتی بغاوت یا ثنویت کے کسی تصور کو رد کرتی ہے۔",
+    "layer4_ar": "يُجمع علماء المدرستين الشيعية والسنية على مفهوم الانقياد الكوني للأمر الإلهي. وقد أطال فخر الدين الرازي من كبار المفسرين السنة البحث في وعي الخلق وانقياده. ويتناول الطباطبائي الموضوع نفسه في الميزان، مُؤكِّداً أن الكون ليس آلياً بل يُشارك في الغاية الإلهية مشاركةً فعلية. وثمة فارق بسيط في مسألة الجبر والاختيار؛ إذ تميل بعض المدارس السنية إلى التأكيد على الجبر الإلهي أكثر، بينما تتبنى اللاهوت الشيعي مبدأ \"الأمر بين الأمرين\" محافظةً على حقيقة إرادة الإنسان الحرة في ظل السيادة الإلهية، وهو ما طوَّر صاحبه ملا صدرا الشيرازي في فلسفة دقيقة. غير أن كلا التراثين يتفقان على أن طاعة الخلق كاملة وفورية وقدوة للمؤمنين. والآية مرفوضٌ بها كل تصور للتمرد الكوني أو الثنائية، مُثبتةً التوحيد المطلق والسيادة الإلهية، وذلك إجماع تلتقي عنده جميع المدارس الإسلامية."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:3:earth-transformation",
+          "title": "Earth Transformed",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The earth being 'extended' or flattened signifies a complete reshaping of the physical world. Mountains will be leveled and the earth spread out for the gathering of all humanity for judgment.",
+          "whyItMatters": "This transformation reminds us that the earth we walk on is temporary—our attachment to worldly possessions and places should not overshadow our spiritual preparation.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْأَرْضُ مُدَّتْ",
+          "title_urdu": "زمین کی تبدیلی",
+          "coreInsight_urdu": "زمین کا 'پھیلایا' جانا مادی دنیا کی مکمل تشکیل نو کی نشاندہی کرتا ہے۔ پہاڑ ہموار ہو جائیں گے اور زمین تمام انسانیت کے اکٹھا ہونے کے لیے پھیلا دی جائے گی۔",
+          "whyItMatters_urdu": "یہ تبدیلی یاد دلاتی ہے کہ جس زمین پر ہم چلتے ہیں وہ عارضی ہے—دنیاوی چیزوں سے لگاؤ روحانی تیاری پر غالب نہیں آنا چاہیے۔",
+          "title_ar": "تحول الأرض",
+          "coreInsight_ar": "مد الأرض يشير إلى إعادة تشكيل كاملة للعالم المادي. ستُسوى الجبال وتُبسط الأرض لحشر البشرية جمعاء للحساب.",
+          "whyItMatters_ar": "هذا التحول يذكرنا بأن الأرض التي نمشي عليها مؤقتة—تعلقنا بالممتلكات لا ينبغي أن يطغى على استعدادنا الروحي."
+        },
+        {
+          "id": "84:3:universal-gathering",
+          "title": "Universal Gathering",
+          "icon": "person.3.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The flattening of the earth creates a vast plain where all of humanity—from the first to the last—will be gathered. No one will be hidden or lost in the crowd before Allah.",
+          "whyItMatters": "Knowing that every person who ever lived will stand together emphasizes the universal nature of accountability and the importance of our individual choices.",
+          "position": "topRight",
+          "arabicHighlight": "وَإِذَا ٱلْأَرْضُ",
+          "title_urdu": "عالمگیر اجتماع",
+          "coreInsight_urdu": "زمین کا ہموار ہونا ایک وسیع میدان بناتا ہے جہاں تمام انسانیت—پہلے سے آخر تک—جمع ہوگی۔ کوئی بھی اللہ کے سامنے چھپا یا گم نہیں ہوگا۔",
+          "whyItMatters_urdu": "یہ جاننا کہ ہر انسان جو کبھی زندہ رہا ایک ساتھ کھڑا ہوگا، جوابدہی کی عالمگیر نوعیت پر زور دیتا ہے۔",
+          "title_ar": "الحشر الشامل",
+          "coreInsight_ar": "تسوية الأرض تخلق سهلاً واسعاً حيث ستُحشر البشرية كلها—من الأول إلى الآخر. لن يختفي أحد أمام الله.",
+          "whyItMatters_ar": "معرفة أن كل إنسان عاش سيقف معاً تؤكد الطبيعة الشاملة للمساءلة وأهمية خياراتنا الفردية."
+        },
+        {
+          "id": "84:3:conditional-certainty",
+          "title": "Certain Future",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Again, 'idha' (when) is used, reinforcing that this is not speculation but divine certainty. The transformation of earth is as guaranteed as the splitting of the sky.",
+          "whyItMatters": "This grammatical choice by Allah emphasizes that preparation for this day should be our priority, not an afterthought.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِذَا",
+          "title_urdu": "یقینی مستقبل",
+          "coreInsight_urdu": "پھر 'اذا' کا استعمال ہوا، جو اس بات کو تقویت دیتا ہے کہ یہ قیاس نہیں بلکہ الٰہی یقین ہے۔ زمین کی تبدیلی اتنی ہی یقینی ہے جتنا آسمان کا پھٹنا۔",
+          "whyItMatters_urdu": "اللہ کا یہ لفظی انتخاب اس بات پر زور دیتا ہے کہ اس دن کی تیاری ہماری ترجیح ہونی چاہیے۔",
+          "title_ar": "المستقبل المحتوم",
+          "coreInsight_ar": "مرة أخرى تُستخدم 'إذا'، مما يعزز أن هذا ليس تكهناً بل يقين إلهي. تحول الأرض مضمون كانشقاق السماء.",
+          "whyItMatters_ar": "هذا الاختيار اللغوي من الله يؤكد أن الاستعداد لهذا اليوم يجب أن يكون أولويتنا."
+        }
+      ]
+    },
+    "layer4": "The transformation of the earth into a flat plain is consistently described across Shia and Sunni tafsir literature. Ibn Kathir cites numerous hadiths about the earth becoming like white bread or pure silver on the Day of Judgment, descriptions also found in Shia hadith collections. Both Tabari and Tabatabai emphasize the literal nature of this transformation while acknowledging that human language struggles to fully capture these realities. Some Sunni scholars focus more on the physical aspects of the earth's change, while Shia commentators often draw additional connections to themes of justice and the revelation of hidden truths. Al-Qurtubi discusses at length how the leveled earth serves divine justice, a theme central to Shia theology given its emphasis on the eventual triumph of justice through the Mahdi. Both traditions agree that this transformation is not metaphorical but describes actual cosmic restructuring. The consensus reflects shared Islamic conviction that the Day of Judgment involves total transformation of physical and spiritual reality.",
+    "layer4_urdu": "زمین کا ہموار میدان میں تبدیل ہونا شیعہ اور سنی دونوں کی تفسیری روایات میں یکساں طور پر بیان کیا گیا ہے۔ ابن کثیر نے قیامت کے دن زمین کے سفید روٹی یا خالص چاندی کی طرح ہونے کے بارے میں متعدد احادیث نقل کی ہیں، اور ایسی ہی روایات شیعہ حدیثی مجموعوں میں بھی ملتی ہیں۔ طبری اور طباطبائی دونوں نے اس تبدیلی کی حقیقی نوعیت پر زور دیا ہے، اس بات کو تسلیم کرتے ہوئے کہ انسانی زبان ان حقائق کو مکمل طور پر بیان نہیں کر سکتی۔ بعض سنی علماء زمین کی تبدیلی کے جسمانی پہلوؤں پر زیادہ توجہ دیتے ہیں، جبکہ شیعہ مفسرین اکثر عدل اور پوشیدہ سچائیوں کے انکشاف کے موضوعات سے اضافی تعلق قائم کرتے ہیں۔ قرطبی نے تفصیل سے بحث کی ہے کہ ہموار زمین الٰہی عدل کی خدمت کیسے کرتی ہے، جو شیعہ الٰہیات میں امام مہدی علیہ السلام کے ذریعے عدل کی بالآخر فتح پر زور دینے کا مرکزی موضوع ہے۔ دونوں روایات متفق ہیں کہ یہ تبدیلی مجازی نہیں بلکہ اصل کائناتی تشکیلِ نو کو بیان کرتی ہے۔ یہ اتفاقِ رائے قیامت کے دن مادی اور روحانی حقیقت کی مکمل تبدیلی میں مشترکہ اسلامی یقین کی عکاسی کرتا ہے۔",
+    "layer4_ar": "يتفق تراث التفسير الشيعي والسني في وصف تحول الأرض إلى سهل مستوٍ. ويستشهد ابن كثير بأحاديث عديدة تصف الأرض يوم القيامة كالخبزة البيضاء أو الفضة الخالصة، وهي أوصاف تجد نظيرها في مجاميع الحديث الشيعية. ويُؤكِّد كلٌّ من الطبري والطباطبائي حرفية هذا التحول مع إقرارهما بأن اللغة البشرية تعجز عن استيعاب هذه الحقائق استيعاباً تاماً. وينصبُّ تركيز بعض العلماء السنة على الجوانب المادية لتغير الأرض، بينما يستحضر المفسرون الشيعة روابط إضافية بأحاديث العدل وكشف الحقائق المخفية. ويُفيض القرطبي في شرح كيف تُوظِّف التسوية العدل الإلهي، وهو موضوع محوري في اللاهوت الشيعي بتأكيده على انتصار العدل عبر المهدي. ويتفق التراثان على أن هذا التحول ليس مجازاً بل إعادة هيكلة كونية فعلية، وهو إجماع يعكس اليقين الإسلامي المشترك بأن يوم القيامة يشمل تحول الواقع المادي والروحي تحولاً كاملاً."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:4:earth-reveals",
+          "title": "Earth Reveals All",
+          "icon": "eye.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The earth will cast out everything within it—the buried dead, hidden treasures, and all secrets. Nothing will remain concealed as the earth testifies to what occurred upon it.",
+          "whyItMatters": "This serves as a powerful reminder that our deeds, even those done in secret, will be brought to light. Living with integrity now prevents shame on that Day.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَلْقَتْ مَا فِيهَا",
+          "title_urdu": "زمین کا انکشاف",
+          "coreInsight_urdu": "زمین اپنے اندر کی ہر چیز باہر پھینک دے گی—دفن شدہ مردے، چھپے خزانے، اور تمام راز۔ کچھ بھی چھپا نہیں رہے گا جب زمین گواہی دے گی۔",
+          "whyItMatters_urdu": "یہ ایک طاقتور یاد دہانی ہے کہ ہمارے اعمال، چھپے ہوئے بھی، سامنے آئیں گے۔ اب دیانتداری سے رہنا اس دن شرمندگی سے بچاتا ہے۔",
+          "title_ar": "الأرض تكشف كل شيء",
+          "coreInsight_ar": "ستُلقي الأرض كل ما فيها—الموتى المدفونين والكنوز المخفية وجميع الأسرار. لن يبقى شيء مستتراً حين تشهد الأرض.",
+          "whyItMatters_ar": "هذا تذكير قوي بأن أعمالنا، حتى السرية منها، ستُكشف. العيش بنزاهة الآن يمنع الخزي في ذلك اليوم."
+        },
+        {
+          "id": "84:4:complete-emptying",
+          "title": "Complete Emptying",
+          "icon": "tray.and.arrow.up.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'takhallat' means the earth will completely empty itself and become void. This total release signifies that the earth's role as a repository ends, and all must face their reckoning.",
+          "whyItMatters": "Understanding that earthly burial is temporary encourages us to focus on the eternal destination of our souls rather than elaborate worldly memorials.",
+          "position": "topRight",
+          "arabicHighlight": "وَتَخَلَّتْ",
+          "title_urdu": "مکمل خالی ہونا",
+          "coreInsight_urdu": "لفظ 'تخلت' کا مطلب ہے کہ زمین مکمل طور پر خالی ہو جائے گی۔ یہ مکمل اخراج اشارہ کرتا ہے کہ زمین کا ذخیرہ گاہ کا کردار ختم ہو جائے گا۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ دنیاوی تدفین عارضی ہے، ہمیں اپنی روحوں کی ابدی منزل پر توجہ دینے کی ترغیب دیتا ہے۔",
+          "title_ar": "الإفراغ الكامل",
+          "coreInsight_ar": "كلمة 'تخلّت' تعني أن الأرض ستُفرغ نفسها تماماً وتصبح خاوية. هذا الإخراج الكامل يشير إلى انتهاء دور الأرض كمستودع.",
+          "whyItMatters_ar": "فهم أن الدفن الأرضي مؤقت يشجعنا على التركيز على المصير الأبدي لأرواحنا."
+        },
+        {
+          "id": "84:4:resurrection",
+          "title": "Resurrection Reality",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse affirms the physical resurrection of all bodies. The earth releasing its contents confirms that the dead will rise bodily, not merely spiritually, to face judgment.",
+          "whyItMatters": "The physical nature of resurrection emphasizes that both our bodies and souls matter to Allah—how we treat our bodies and what we do with them has eternal significance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا فِيهَا",
+          "title_urdu": "قیامت کی حقیقت",
+          "coreInsight_urdu": "یہ آیت تمام اجسام کی جسمانی قیامت کی تصدیق کرتی ہے۔ زمین کا اپنا مال باہر نکالنا اس بات کی تصدیق کرتا ہے کہ مردے جسمانی طور پر اٹھیں گے۔",
+          "whyItMatters_urdu": "قیامت کی جسمانی نوعیت اس بات پر زور دیتی ہے کہ ہمارے جسم اور روح دونوں اللہ کے لیے اہم ہیں۔",
+          "title_ar": "حقيقة البعث",
+          "coreInsight_ar": "هذه الآية تؤكد البعث الجسدي لجميع الأجساد. إخراج الأرض لما فيها يؤكد أن الموتى سيُبعثون جسدياً، لا روحياً فقط.",
+          "whyItMatters_ar": "الطبيعة الجسدية للبعث تؤكد أن أجسادنا وأرواحنا مهمة لله—كيف نعامل أجسادنا له أهمية أبدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions contain extensive hadith literature about the earth testifying on the Day of Judgment. Sahih Bukhari and Sahih Muslim include narrations about the earth speaking about deeds performed upon it, similar to reports in Al-Kafi and other Shia hadith collections. Ibn Kathir and Tabatabai both emphasize that the earth will cast out the dead for resurrection, a fundamental belief across all Islamic schools. Some theological discussion exists about the mechanism of bodily resurrection, with various classical scholars offering different explanations, but all agree on the basic principle. Sunni exegetes like Al-Razi discuss the earth's testimony philosophically, while Shia scholars often connect it more explicitly to themes of justice and the vindication of the oppressed. Both traditions cite the verse 'That Day, it will report its news' as evidence that the earth possesses awareness and will speak. The consensus reflects deep Islamic conviction that creation participates actively in divine judgment, not as passive backdrop but as witness and testifier.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات میں قیامت کے دن زمین کی گواہی کے بارے میں وسیع حدیثی ادب موجود ہے۔ صحیح بخاری اور صحیح مسلم میں ایسی روایات ہیں جن میں زمین کا اپنے اوپر کیے گئے اعمال کے بارے میں بولنا بیان ہے، جو الکافی اور دیگر شیعہ حدیثی مجموعوں کی روایات کے مشابہ ہیں۔ ابن کثیر اور طباطبائی دونوں نے اس بات پر زور دیا ہے کہ زمین بعث کے لیے مردوں کو باہر نکالے گی، جو تمام اسلامی مکاتب کا بنیادی عقیدہ ہے۔ جسمانی بعث کے طریقہ کار کے بارے میں کچھ مذہبی بحث موجود ہے جہاں مختلف کلاسیکی علماء نے مختلف توضیحات پیش کی ہیں، لیکن سبھی بنیادی اصول پر متفق ہیں۔ سنی مفسرین جیسے رازی نے زمین کی گواہی کا فلسفیانہ جائزہ لیا ہے، جبکہ شیعہ علماء اسے اکثر صریح طور پر عدل کے موضوعات اور مظلوموں کے انصاف سے جوڑتے ہیں۔ دونوں روایات اس آیت 'يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا' کو اس بات کی دلیل کے طور پر پیش کرتی ہیں کہ زمین میں شعور ہے اور وہ بولے گی۔ یہ اتفاقِ رائے اس گہرے اسلامی یقین کی عکاسی کرتا ہے کہ مخلوق الٰہی احکام میں فعال طور پر شریک ہے۔",
+    "layer4_ar": "يزخر تراث الحديث الشيعي والسني معاً بروايات وافرة حول شهادة الأرض يوم القيامة. ويتضمن صحيح البخاري ومسلم أحاديث عن نطق الأرض بالأعمال التي جرت عليها، وهو ما يُشبه الروايات الواردة في الكافي وغيره من مجاميع الحديث الشيعية. ويُؤكِّد كلٌّ من ابن كثير والطباطبائي أن الأرض ستُلقي الموتى للبعث وهو أصل من أصول العقيدة الإسلامية عبر جميع المذاهب. وتدور مناقشات عقدية حول آلية بعث الأجساد قدَّم فيها علماء مختلفون تفسيرات متباينة، غير أنهم يتفقون جميعاً على المبدأ الأصيل. ويُعالج مفسرون سنة كالرازي شهادة الأرض معالجة فلسفية، بينما يربطها العلماء الشيعة بصورة أصرح بموضوعي العدل وإنصاف المظلوم. ويستشهد كلا التراثين بالآية الكريمة \"يومئذٍ تُحدِّث أخبارها\" دليلاً على وعي الأرض ونطقها. والإجماع يعكس إيماناً إسلامياً راسخاً بأن الخلق يُشارك في القضاء الإلهي لا بوصفه ستاراً خلفياً صامتاً بل بوصفه شاهداً ناطقاً."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:5:earth-obedience",
+          "title": "Earth's Submission",
+          "icon": "hand.raised.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Just as the sky submitted in verse 2, the earth also responds obediently to its Lord. This parallel structure emphasizes that all of creation—above and below—recognizes Allah's absolute authority.",
+          "whyItMatters": "The harmony of creation in obeying Allah challenges us to examine whether our own submission matches that of the inanimate world around us.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَذِنَتْ لِرَبِّهَا",
+          "title_urdu": "زمین کی فرمانبرداری",
+          "coreInsight_urdu": "جیسے آسمان نے آیت 2 میں فرمانبرداری کی، زمین بھی اپنے رب کی اطاعت کرتی ہے۔ یہ متوازی ساخت اس بات پر زور دیتی ہے کہ تمام مخلوق اللہ کے مطلق اختیار کو تسلیم کرتی ہے۔",
+          "whyItMatters_urdu": "اللہ کی اطاعت میں مخلوق کی ہم آہنگی ہمیں چیلنج کرتی ہے کہ کیا ہماری فرمانبرداری اس بے جان دنیا سے میل کھاتی ہے۔",
+          "title_ar": "خضوع الأرض",
+          "coreInsight_ar": "كما خضعت السماء في الآية 2، تستجيب الأرض أيضاً طائعة لربها. هذا التوازي يؤكد أن كل المخلوقات تعترف بسلطة الله المطلقة.",
+          "whyItMatters_ar": "انسجام الخلق في طاعة الله يتحدانا لنفحص هل خضوعنا يماثل خضوع العالم الجامد حولنا."
+        },
+        {
+          "id": "84:5:unified-creation",
+          "title": "Unified Creation",
+          "icon": "link.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The repetition of this phrase for both sky and earth shows the unity of creation under Allah's command. Heaven and earth work in concert, not in opposition, fulfilling their divine purpose.",
+          "whyItMatters": "This unity teaches us that true success comes from harmonizing with Allah's will, not struggling against the natural order He has established.",
+          "position": "topRight",
+          "arabicHighlight": "وَحُقَّتْ",
+          "title_urdu": "متحد مخلوق",
+          "coreInsight_urdu": "آسمان اور زمین دونوں کے لیے اس جملے کی تکرار اللہ کے حکم کے تحت مخلوق کی وحدت دکھاتی ہے۔ آسمان اور زمین اپنے الٰہی مقصد کو پورا کرتے ہوئے ایک ساتھ کام کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ وحدت سکھاتی ہے کہ حقیقی کامیابی اللہ کی مرضی سے ہم آہنگ ہونے میں ہے، نہ کہ اس کے قائم کردہ فطری نظام کے خلاف جدوجہد میں۔",
+          "title_ar": "وحدة الخلق",
+          "coreInsight_ar": "تكرار هذه العبارة للسماء والأرض يُظهر وحدة الخلق تحت أمر الله. السماء والأرض تعملان معاً، لا ضد بعضهما.",
+          "whyItMatters_ar": "هذه الوحدة تعلمنا أن النجاح الحقيقي يأتي من الانسجام مع إرادة الله، لا مقاومة النظام الطبيعي."
+        },
+        {
+          "id": "84:5:rightful-duty",
+          "title": "Rightful Duty",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The earth fulfills what is rightfully expected of it. This cosmic obedience is not burdensome but natural—the earth was created to serve this purpose and does so perfectly.",
+          "whyItMatters": "We too were created for a purpose. Finding and fulfilling our rightful duty to Allah brings peace and meaning, just as the earth finds completion in serving its Creator.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لِرَبِّهَا وَحُقَّتْ",
+          "title_urdu": "حقیقی فرض",
+          "coreInsight_urdu": "زمین وہ پورا کرتی ہے جو اس سے حق طور پر متوقع ہے۔ یہ کائناتی اطاعت بوجھل نہیں بلکہ فطری ہے—زمین اسی مقصد کے لیے بنائی گئی۔",
+          "whyItMatters_urdu": "ہم بھی ایک مقصد کے لیے بنائے گئے۔ اللہ کے سامنے اپنا حقیقی فرض پہچاننا اور پورا کرنا سکون اور معنی لاتا ہے۔",
+          "title_ar": "الواجب المستحق",
+          "coreInsight_ar": "الأرض تؤدي ما هو متوقع منها بحق. هذه الطاعة الكونية ليست عبئاً بل طبيعية—خُلقت الأرض لهذا الغرض.",
+          "whyItMatters_ar": "نحن أيضاً خُلقنا لغرض. إيجاد واجبنا الحقيقي تجاه الله وأداؤه يجلب السلام والمعنى."
+        }
+      ]
+    },
+    "layer4": "The theme of cosmic obedience appears consistently across Islamic exegetical traditions. Both Sunni commentators like Tabari and Qurtubi and Shia scholars like Tabrisi and Tabatabai emphasize the absolute submission of creation to divine will. The repetition of this phrase for both heaven and earth is noted by scholars across traditions as a rhetorical device emphasizing completeness and certainty. Some minor differences appear in how different schools connect this cosmic obedience to human free will. Sunni scholarship sometimes emphasizes divine determinism more strongly, while Shia theology, particularly as articulated by scholars like Mulla Sadra, develops sophisticated discussions of how divine sovereignty and human freedom coexist. Both traditions, however, agree that creation's obedience is perfect and immediate, serving as a model for believers. The verse is universally understood to refute any notion of cosmic rebellion or dualism, affirming absolute monotheism and divine sovereignty. This consensus reflects the central Islamic conviction that all existence flows from and returns to the One God.",
+    "layer4_urdu": "الٰہی حکم کی کائناتی اطاعت کا موضوع اسلامی تفسیری روایات میں یکساں طور پر موجود ہے۔ سنی مفسرین جیسے طبری اور قرطبی اور شیعہ علماء جیسے طبرسی اور طباطبائی سبھی خالق کے سامنے مخلوق کی مطلق اطاعت پر زور دیتے ہیں۔ علماء کے دونوں طبقوں کی جانب سے آسمان اور زمین دونوں کے لیے اس فقرے کی تکرار کو مکملیت اور یقینیت پر زور دینے والی بلاغی صنعت کے طور پر نوٹ کیا گیا ہے۔ انسانی ارادۂ حر اور جبریت کے ربط کے حوالے سے کچھ معمولی اختلافات نظر آتے ہیں۔ سنی علم الکلام بعض اوقات تمام امور میں الٰہی جبر پر زیادہ زور دیتا ہے، جبکہ شیعہ الٰہیات، خصوصاً جیسا کہ ملا صدرا نے بیان کیا ہے، اس بات کے پیچیدہ جائزے پیش کرتا ہے کہ الٰہی حاکمیت اور انسانی آزادی کس طرح بیک وقت قائم رہتے ہیں۔ تاہم دونوں روایات متفق ہیں کہ مخلوق کی اطاعت کامل اور فوری ہے اور یہ مومنین کے لیے نمونہ ہے۔ یہ آیت یکساں طور پر کائناتی بغاوت یا ثنویت کے کسی تصور کو رد کرتی ہے اور مطلق توحید اور الٰہی حاکمیت کا اثبات کرتی ہے۔ یہ اتفاقِ رائے اسلام کے اس مرکزی عقیدے کی عکاسی کرتا ہے کہ تمام وجود ایک خدا سے نکلتا ہے اور اسی کی طرف لوٹتا ہے۔",
+    "layer4_ar": "يتكرر موضوع الطاعة الكونية للأمر الإلهي في تراث التفسير الإسلامي على اتساعه. فمفسرون سنة كالطبري والقرطبي وعلماء شيعة كالطبرسي والطباطبائي يُؤكِّدون جميعاً الانقياد المطلق للخلق للإرادة الإلهية. ويُلاحظ علماء المدرستين تكرار هذه العبارة في السماء والأرض باعتباره أسلوباً بلاغياً يُؤكِّد الشمول والحتمية. وتظهر فوارق بسيطة في ربط هذه الطاعة الكونية بإرادة الإنسان الحرة؛ إذ يُبالغ التفسير السني أحياناً في التأكيد على الجبر الإلهي، بينما يُطوِّر اللاهوت الشيعي ولا سيما في فلسفة ملا صدرا مناقشات دقيقة حول التعايش بين السيادة الإلهية والحرية البشرية. غير أن كلا التراثين يتفقان على أن طاعة الخلق كاملة وفورية وقدوة للمؤمنين. والآية تُرفض بها كل فكرة عن تمرد كوني أو ثنائية، مُثبِّتةً التوحيد المطلق والسيادة الإلهية، وذلك إجماع يعكس اليقين الإسلامي المحوري بأن جميع الوجود يفيض من الإله الواحد وإليه يعود."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:6:human-toil",
+          "title": "Life's Toil",
+          "icon": "figure.walk",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'kadih' describes intense labor and struggle. Human life is characterized by constant effort—whether in pursuit of good or ill—and this toil inevitably leads us toward meeting our Lord.",
+          "whyItMatters": "Since struggle is unavoidable, wisdom lies in directing our efforts toward what has eternal value rather than exhausting ourselves for temporary gains.",
+          "position": "topLeft",
+          "arabicHighlight": "كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا",
+          "title_urdu": "زندگی کی محنت",
+          "coreInsight_urdu": "لفظ 'کادح' شدید محنت اور جدوجہد کو بیان کرتا ہے۔ انسانی زندگی مسلسل کوشش سے عبارت ہے اور یہ محنت لازمی طور پر ہمیں اپنے رب سے ملاقات کی طرف لے جاتی ہے۔",
+          "whyItMatters_urdu": "چونکہ جدوجہد ناگزیر ہے، عقلمندی یہ ہے کہ اپنی کوششیں ابدی قدر والی چیزوں کی طرف موڑیں۔",
+          "title_ar": "كدح الحياة",
+          "coreInsight_ar": "كلمة 'كادح' تصف الجهد الشديد والكفاح. تتميز الحياة البشرية بالسعي المستمر، وهذا الكدح يقودنا حتماً نحو لقاء ربنا.",
+          "whyItMatters_ar": "بما أن الكفاح لا مفر منه، تكمن الحكمة في توجيه جهودنا نحو ما له قيمة أبدية."
+        },
+        {
+          "id": "84:6:direct-address",
+          "title": "Personal Call",
+          "icon": "person.wave.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah directly addresses humanity with 'Ya ayyuha al-insan' (O mankind). This personal address cuts through our distractions, demanding that each person recognize their individual journey toward the divine encounter.",
+          "whyItMatters": "This direct call from Allah to each of us personally demands a response. We cannot hide in the crowd—Allah speaks to me, to you, individually.",
+          "position": "topRight",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ",
+          "title_urdu": "ذاتی پکار",
+          "coreInsight_urdu": "اللہ براہ راست انسانیت کو 'یا ایہا الانسان' سے مخاطب کرتا ہے۔ یہ ذاتی خطاب ہماری توجہ ہٹانے والی چیزوں کو چیر کر ہر شخص سے مطالبہ کرتا ہے کہ وہ الٰہی ملاقات کی طرف اپنے انفرادی سفر کو پہچانے۔",
+          "whyItMatters_urdu": "ہم میں سے ہر ایک کو اللہ کی یہ براہ راست پکار جواب کا تقاضا کرتی ہے۔ ہم بھیڑ میں چھپ نہیں سکتے۔",
+          "title_ar": "النداء الشخصي",
+          "coreInsight_ar": "يخاطب الله البشرية مباشرة بـ'يا أيها الإنسان'. هذا الخطاب الشخصي يخترق انشغالاتنا، مطالباً كل شخص بإدراك رحلته الفردية نحو اللقاء الإلهي.",
+          "whyItMatters_ar": "هذا النداء المباشر من الله لكل منا شخصياً يتطلب استجابة. لا يمكننا الاختباء في الحشد."
+        },
+        {
+          "id": "84:6:inevitable-meeting",
+          "title": "Inevitable Meeting",
+          "icon": "person.crop.circle.badge.checkmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'fa-mulaqihi' (then you will meet it/Him) declares the certainty of encountering the results of our efforts. Every path we take in life leads ultimately to standing before Allah.",
+          "whyItMatters": "This inevitable meeting should shape all our decisions. Every choice either prepares us for a joyful reunion or a regretful confrontation with our record.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَمُلَٰقِيهِ",
+          "title_urdu": "ناگزیر ملاقات",
+          "coreInsight_urdu": "'فملاقیہ' ہماری کوششوں کے نتائج سے ملاقات کی یقینیت کا اعلان کرتا ہے۔ زندگی میں ہر راستہ جو ہم اختیار کرتے ہیں بالآخر اللہ کے سامنے کھڑے ہونے کی طرف لے جاتا ہے۔",
+          "whyItMatters_urdu": "یہ ناگزیر ملاقات ہمارے تمام فیصلوں کو تشکیل دینی چاہیے۔ ہر انتخاب یا خوشگوار ملاقات کی تیاری ہے یا پچھتاوے بھری گواہی۔",
+          "title_ar": "اللقاء الحتمي",
+          "coreInsight_ar": "عبارة 'فملاقيه' تعلن يقينية مواجهة نتائج جهودنا. كل طريق نسلكه في الحياة يقود في النهاية إلى الوقوف أمام الله.",
+          "whyItMatters_ar": "هذا اللقاء الحتمي يجب أن يشكل جميع قراراتنا. كل خيار إما يُعدنا للقاء سعيد أو مواجهة نادمة."
+        },
+        {
+          "id": "84:6:toward-lord",
+          "title": "Toward Your Lord",
+          "icon": "arrow.up.forward.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The direction of all human striving is 'ila Rabbika' (toward your Lord). Whether we realize it or not, consciously or unconsciously, our life journey moves toward the One who created us.",
+          "whyItMatters": "Recognizing that we are already moving toward Allah, whether we acknowledge it or not, motivates conscious effort to ensure we arrive prepared and welcomed.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِلَىٰ رَبِّكَ",
+          "title_urdu": "اپنے رب کی طرف",
+          "coreInsight_urdu": "تمام انسانی جدوجہد کی سمت 'الی ربک' (اپنے رب کی طرف) ہے۔ چاہے ہم سمجھیں یا نہ، ہمارا سفر اس ذات کی طرف بڑھ رہا ہے جس نے ہمیں بنایا۔",
+          "whyItMatters_urdu": "یہ پہچاننا کہ ہم پہلے سے اللہ کی طرف بڑھ رہے ہیں، شعوری کوشش کی ترغیب دیتا ہے کہ ہم تیار اور خوش آمدید ہو کر پہنچیں۔",
+          "title_ar": "نحو ربك",
+          "coreInsight_ar": "اتجاه كل سعي بشري هو 'إلى ربك'. سواء أدركنا أم لا، بوعي أو بدونه، رحلة حياتنا تتجه نحو خالقنا.",
+          "whyItMatters_ar": "إدراك أننا نتحرك بالفعل نحو الله يحفز الجهد الواعي لضمان وصولنا مستعدين ومرحباً بنا."
+        }
+      ]
+    },
+    "layer4": "The certainty of meeting Allah is a foundational belief across all Islamic schools of thought. Sunni and Shia scholars alike cite numerous hadiths emphasizing preparation for this meeting. Ibn Kathir quotes the Prophet saying 'Whoever loves to meet Allah, Allah loves to meet him,' a narration also found in Shia sources. Both Tabatabai and Al-Razi discuss the philosophical implications of life as journey toward the Creator. Some difference in emphasis appears regarding what determines success in that meeting. Sunni theology often emphasizes faith and deeds, while Shia theology adds the importance of wilayah, love and allegiance to the Ahlul Bayt. However, both traditions agree on the fundamental principle that life is preparation for divine encounter. Sufi traditions in both Sunni and Shia contexts develop extensive practices centered on remembering and preparing for meeting Allah. Classical scholars across traditions wrote extensively about death preparation and the states of the grave. The verse's universal address to humanity reflects Islamic conviction that divine accountability transcends sectarian divisions and encompasses all people.",
+    "layer4_urdu": "اللہ سے ملاقات کی یقینیت تمام مکاتبِ اسلامی میں ایک بنیادی عقیدہ ہے۔ سنی اور شیعہ دونوں علماء اس ملاقات کی تیاری پر زور دینے والی متعدد احادیث بیان کرتے ہیں۔ ابنِ کثیر نے نبی کریم صلی اللہ علیہ وآلہ وسلم کی یہ حدیث نقل کی ہے: 'جو اللہ سے ملاقات کو پسند کرتا ہے، اللہ بھی اس سے ملاقات کو پسند کرتا ہے'، یہی روایت شیعہ مآخذ میں بھی موجود ہے۔ طباطبائی اور فخرالدین رازی دونوں نے زندگی کو خالق کی طرف سفر کے فلسفیانہ مضمرات پر بحث کی ہے۔ اس ملاقات میں کامیابی کا تعین کس چیز سے ہوگا، اس حوالے سے کچھ فرق ہے: سنی الٰہیات اکثر ایمان اور اعمال پر زور دیتی ہے، جبکہ شیعہ الٰہیات اہلِ بیت علیہم السلام سے ولایت کی اہمیت کو بھی شامل کرتی ہے۔ تاہم دونوں اس بنیادی اصول پر متفق ہیں کہ زندگی الٰہی ملاقات کی تیاری ہے۔ تصوف کی روایات، سنی اور شیعہ دونوں سیاق میں، اللہ سے ملاقات کی یاد اور تیاری پر مرکوز وسیع اعمال پر مشتمل ہیں۔ تمام کلاسیکی علماء نے موت کی تیاری اور قبر کے احوال کے بارے میں تفصیلی تعلیمات دی ہیں۔ آیت کا انسانیت کو عام خطاب اس اسلامی یقین کی عکاسی کرتا ہے کہ الٰہی احتساب فرقہ وارانہ تقسیم سے بالاتر ہے اور تمام لوگوں کو محیط ہے۔",
+    "layer4_ar": "يُعدُّ اليقين بلقاء الله من ثوابت العقيدة الإسلامية المشتركة بين المدارس كافة. ويستشهد علماء الشيعة والسنة على حدٍّ سواء بأحاديث وافرة تُحثُّ على الاستعداد لهذا اللقاء. وينقل ابن كثير حديث النبي صلى الله عليه وآله وسلم \"من أحبَّ لقاء الله أحبَّ الله لقاءه\"، وهو حديث يرد كذلك في المصادر الشيعية. ويتناول كلٌّ من الطباطبائي وفخر الدين الرازي التبعات الفلسفية لكون الحياة رحلة نحو الخالق. ويظهر فارق في جهة التركيز حين يتعلق الأمر بمعيار النجاح في ذلك اللقاء؛ فاللاهوت السني يُؤكِّد على الإيمان والعمل الصالح، واللاهوت الشيعي يُضيف إليهما الولاية وحبَّ أهل البيت والتمسك بهم. غير أن الأصل الجامع متفق عليه: الحياة استعداد للقاء إلهي. وفي تراث التصوف السني والشيعي ممارسات متعددة تتمحور حول ذكر لقاء الله والتهيؤ له. والعلماء الكلاسيكيون في مختلف المدارس ألَّفوا مطوَّلاً في أهبة الموت وأحوال القبر. والخطاب الكوني للآية يعكس اليقين الإسلامي بأن المساءلة الإلهية تتجاوز حدود الفرق وتعمُّ الناس أجمعين."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:7:right-hand-record",
+          "title": "Right Hand Record",
+          "icon": "hand.raised.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Receiving one's book of deeds in the right hand is a symbol of success and honor. This physical gesture indicates divine approval and the predominance of good deeds in one's record.",
+          "whyItMatters": "Working to be among those who receive their record with honor motivates righteous action and gives concrete imagery to inspire daily ethical choices.",
+          "position": "topLeft",
+          "arabicHighlight": "كِتَٰبَهُۥ بِيَمِينِهِۦ",
+          "title_urdu": "دائیں ہاتھ کا نامہ اعمال",
+          "coreInsight_urdu": "اپنے اعمال کی کتاب دائیں ہاتھ میں پانا کامیابی اور عزت کی علامت ہے۔ یہ جسمانی اشارہ الٰہی منظوری اور کسی کے نامہ اعمال میں نیکیوں کی برتری کی نشاندہی کرتا ہے۔",
+          "whyItMatters_urdu": "ان میں سے ہونے کی کوشش کرنا جو اپنا نامہ عزت سے وصول کریں، نیک عمل کی ترغیب دیتا ہے۔",
+          "title_ar": "صحيفة اليمين",
+          "coreInsight_ar": "استلام كتاب الأعمال باليمين رمز للنجاح والشرف. هذه الإشارة الجسدية تدل على الرضا الإلهي وغلبة الحسنات في السجل.",
+          "whyItMatters_ar": "السعي لنكون ممن يستلمون صحائفهم بشرف يحفز العمل الصالح."
+        },
+        {
+          "id": "84:7:conditional-outcome",
+          "title": "Two Paths",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'fa-amma' (as for) introduces a conditional structure showing that judgment results depend entirely on our choices. The outcome is not predetermined—it follows from our actions.",
+          "whyItMatters": "This conditional language empowers us with agency. Our eternal fate is not arbitrary but directly connected to how we live, giving purpose and weight to our daily decisions.",
+          "position": "topRight",
+          "arabicHighlight": "فَأَمَّا مَنْ",
+          "title_urdu": "دو راستے",
+          "coreInsight_urdu": "لفظ 'فاما' ایک شرطی ساخت متعارف کراتا ہے جو دکھاتی ہے کہ فیصلے کے نتائج مکمل طور پر ہمارے انتخاب پر منحصر ہیں۔ نتیجہ پہلے سے طے نہیں—یہ ہمارے اعمال کی پیروی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ شرطی زبان ہمیں اختیار دیتی ہے۔ ہماری ابدی قسمت من مانی نہیں بلکہ براہ راست ہماری زندگی سے جڑی ہے۔",
+          "title_ar": "طريقان",
+          "coreInsight_ar": "كلمة 'فأما' تقدم بنية شرطية توضح أن نتائج الحساب تعتمد كلياً على خياراتنا. النتيجة ليست محتومة—بل تتبع أعمالنا.",
+          "whyItMatters_ar": "هذه اللغة الشرطية تمنحنا القدرة على التصرف. مصيرنا الأبدي ليس عشوائياً بل مرتبط مباشرة بكيفية حياتنا."
+        },
+        {
+          "id": "84:7:divine-gift",
+          "title": "Given, Not Earned",
+          "icon": "gift.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The passive voice 'utiya' (is given) indicates that receiving the record is ultimately from Allah. Even our good deeds are only possible through His enabling grace (tawfiq).",
+          "whyItMatters": "This grammatical nuance encourages humility—success on Judgment Day is a gift facilitated by Allah, not merely our own achievement to boast about.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أُوتِىَ",
+          "title_urdu": "عطا کردہ، کمایا نہیں",
+          "coreInsight_urdu": "مجہول صیغہ 'اوتی' اشارہ کرتا ہے کہ نامہ وصول کرنا بالآخر اللہ کی طرف سے ہے۔ ہمارے نیک اعمال بھی صرف اس کی توفیق سے ممکن ہیں۔",
+          "whyItMatters_urdu": "یہ لسانی باریکی عاجزی کی ترغیب دیتی ہے—قیامت کی کامیابی اللہ کی عطا ہے، صرف ہماری اپنی کامیابی نہیں۔",
+          "title_ar": "هبة لا مكتسب",
+          "coreInsight_ar": "صيغة المبني للمجهول 'أُوتي' تشير إلى أن استلام الصحيفة من الله في النهاية. حتى أعمالنا الصالحة ممكنة فقط بتوفيقه.",
+          "whyItMatters_ar": "هذه الدقة اللغوية تشجع التواضع—النجاح يوم القيامة هبة من الله، لا مجرد إنجازنا للتفاخر."
+        }
+      ]
+    },
+    "layer4": "The imagery of receiving the book of deeds in the right or left hand appears consistently across Shia and Sunni hadith literature. Both Ibn Kathir and Tabatabai cite numerous narrations describing this scene on Judgment Day. Sunni sources emphasize that the right-hand reception is for believers whose faith and good deeds were sincere, while Shia sources add emphasis on wilayah as a component of that sincere belief. The theological principle that good deeds outweighing bad leads to Paradise is shared across traditions, though details about intercession differ. Sunni theology generally limits intercession to increasing rank or reducing punishment, while Shia theology allows for broader intercession by the Prophet and Ahlul Bayt, potentially converting punishment to forgiveness for sincere followers. Both traditions agree that receiving the book in the right hand is a moment of immense relief and joy, marking divine acceptance. Classical scholars across traditions describe this as the beginning of the blessed person's eternal happiness, contrasting with the despair of those receiving books in their left hands.",
+    "layer4_urdu": "قیامت کے دن دائیں یا بائیں ہاتھ میں اعمال نامہ ملنے کی تصویر شیعہ اور سنی دونوں حدیثی ادب میں موجود ہے۔ ابنِ کثیر اور طباطبائی دونوں نے اس منظر کو بیان کرنے والی متعدد روایات نقل کی ہیں۔ سنی مآخذ اس بات پر زور دیتے ہیں کہ دائیں ہاتھ میں اعمال نامہ ان مومنین کے لیے ہے جن کا ایمان اور اعمال مخلصانہ تھے، جبکہ شیعہ مآخذ اس میں ولایت کو بھی اس اخلاص کے جزو کے طور پر شامل کرتے ہیں۔ نیکیوں کا برائیوں پر غالب آنے سے جنت ملنے کا الٰہیاتی اصول مشترک ہے، اگرچہ شفاعت کی تفاصیل میں فرق ہے۔ سنی الٰہیات عموماً شفاعت کو مرتبہ بڑھانے یا عذاب کم کرنے تک محدود رکھتی ہے، جبکہ شیعہ الٰہیات نبی کریم صلی اللہ علیہ وآلہ وسلم اور اہلِ بیت علیہم السلام کی وسیع تر شفاعت کی اجازت دیتی ہے جو مخلص پیروکاروں کے لیے عذاب کو معافی میں بدل سکتی ہے۔ دونوں روایات متفق ہیں کہ دائیں ہاتھ میں اعمال نامہ ملنا بے حد سکون اور خوشی کا لمحہ ہے جو الٰہی قبولیت کی علامت ہے۔ تمام روایات کے کلاسیکی علماء اسے خوش بخت شخص کی ابدی سعادت کا آغاز قرار دیتے ہیں جو بائیں ہاتھ میں اعمال نامہ ملنے والوں کی مایوسی کے برعکس ہے۔",
+    "layer4_ar": "تتضافر الروايات الشيعية والسنية في وصف مشهد تلقِّي كتاب الأعمال باليمين أو اليسار. ويستشهد ابن كثير والطباطبائي بأحاديث موفورة تصف هذا المشهد يوم القيامة. وتُؤكِّد المصادر السنية أن تلقِّي اليمين يكون لمن صدق إيمانهم وأعمالهم، وتُضيف المصادر الشيعية الولاية مكوِّناً أصيلاً من مكونات ذلك الإيمان الصادق. والأصل العقدي المشترك القائل بأن رجحان الحسنات يُفضي إلى الجنة متفق عليه بين المدارس، وإن تفاوتت تفاصيل الشفاعة. وعلم الشفاعة في الفقه السني يجيزها في رفع الدرجات وتخفيف العذاب، بينما يتسع نطاقها في الفقه الشيعي لتشمل شفاعة النبي والأئمة التي قد تحول العقوبة مغفرةً للمتمسكين بالولاية. ويتفق كلا التراثين على أن تلقِّي الكتاب باليمين لحظة ارتياح وابتهاج بالغين، إيذاناً بالقبول الإلهي. ويصف العلماء الكلاسيكيون في مختلف المدارس هذه اللحظة مطلعاً على سعادة أبدية تتناقض مع يأس من يتلقى كتابه بالشمال."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:8:easy-accounting",
+          "title": "Easy Accounting",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The 'hisab yasir' (easy accounting) means a gentle review without harsh interrogation. The believers' sins covered by repentance and good deeds will not be exposed or harshly scrutinized.",
+          "whyItMatters": "Knowing that Allah can grant an easy accounting motivates sincere repentance now. Seeking forgiveness in this life prepares us for mercy on that Day.",
+          "position": "topLeft",
+          "arabicHighlight": "حِسَابًۭا يَسِيرًۭا",
+          "title_urdu": "آسان حساب",
+          "coreInsight_urdu": "'حساب یسیرا' کا مطلب سخت پوچھ گچھ کے بغیر نرم جائزہ ہے۔ توبہ اور نیک اعمال سے ڈھکے گناہ بے نقاب یا سختی سے جانچے نہیں جائیں گے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ اللہ آسان حساب دے سکتا ہے، ابھی مخلصانہ توبہ کی ترغیب دیتا ہے۔",
+          "title_ar": "الحساب اليسير",
+          "coreInsight_ar": "'الحساب اليسير' يعني مراجعة لطيفة دون استجواب قاسٍ. ذنوب المؤمنين المغطاة بالتوبة والحسنات لن تُكشف أو تُفحص بقسوة.",
+          "whyItMatters_ar": "معرفة أن الله يمكن أن يمنح حساباً يسيراً تحفز التوبة الصادقة الآن."
+        },
+        {
+          "id": "84:8:future-promise",
+          "title": "Future Promise",
+          "icon": "clock.badge.checkmark.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'sawfa' (will/shall) indicates certainty about the future. This promise from Allah is guaranteed—those who qualify will definitely receive this easy accounting.",
+          "whyItMatters": "Divine promises are unbreakable. Having certainty about this reward provides motivation and hope during life's trials and temptations.",
+          "position": "topRight",
+          "arabicHighlight": "فَسَوْفَ يُحَاسَبُ",
+          "title_urdu": "مستقبل کا وعدہ",
+          "coreInsight_urdu": "لفظ 'سوف' مستقبل کے بارے میں یقین کی نشاندہی کرتا ہے۔ اللہ کا یہ وعدہ یقینی ہے—جو اہل ہوں گے وہ ضرور یہ آسان حساب پائیں گے۔",
+          "whyItMatters_urdu": "الٰہی وعدے ناقابل شکست ہیں۔ اس انعام کے بارے میں یقین زندگی کی آزمائشوں میں حوصلہ اور امید دیتا ہے۔",
+          "title_ar": "وعد المستقبل",
+          "coreInsight_ar": "كلمة 'سوف' تدل على اليقين بالمستقبل. هذا الوعد من الله مضمون—من يستحق سينال هذا الحساب اليسير بالتأكيد.",
+          "whyItMatters_ar": "الوعود الإلهية لا تُنقض. اليقين بهذا الجزاء يوفر الدافع والأمل خلال تجارب الحياة."
+        },
+        {
+          "id": "84:8:merciful-judgment",
+          "title": "Merciful Judgment",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The concept of easy accounting reflects Allah's mercy even in judgment. He does not seek to humiliate His servants but to honor those who sincerely tried to follow His guidance.",
+          "whyItMatters": "Understanding that Allah's judgment includes mercy encourages us to approach Him with hope rather than despair, fostering a loving rather than fearful relationship.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَسِيرًۭا",
+          "title_urdu": "رحم والا فیصلہ",
+          "coreInsight_urdu": "آسان حساب کا تصور فیصلے میں بھی اللہ کی رحمت کی عکاسی کرتا ہے۔ وہ اپنے بندوں کو رسوا نہیں کرنا چاہتا بلکہ ان کی عزت کرنا چاہتا ہے جنہوں نے مخلصانہ کوشش کی۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ اللہ کے فیصلے میں رحمت شامل ہے، ہمیں مایوسی کی بجائے امید سے اس کی طرف رجوع کرنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الحكم الرحيم",
+          "coreInsight_ar": "مفهوم الحساب اليسير يعكس رحمة الله حتى في الحساب. لا يسعى لإذلال عباده بل لتكريم من حاولوا بإخلاص اتباع هدايته.",
+          "whyItMatters_ar": "فهم أن حكم الله يتضمن الرحمة يشجعنا على التقرب إليه بالأمل لا اليأس."
+        }
+      ]
+    },
+    "layer4": "The promise of easy accounting for the righteous is found in both Shia and Sunni hadith literature. Sahih Bukhari contains a narration stating 'Whoever is called to account strictly will be punished,' and the Prophet clarified that the easy accounting mentioned in the Quran means being shown one's deeds and forgiven. This narration also appears in Shia collections. Both Ibn Kathir and Tabatabai cite this and similar hadiths, showing scholarly consensus on the interpretation. Some discussion exists about who exactly receives this easy accounting. Most scholars agree it is for sincere believers whose good deeds outweigh their bad, though Shia theology adds emphasis on maintaining wilayah as part of that sincerity. Both traditions teach that this verse should inspire hope without causing negligence, balancing fear of divine justice with trust in divine mercy. The concept of Allah covering sins without exposing them publicly is found across Islamic traditions, reflecting the shared understanding that divine mercy seeks to honor rather than shame those who served Him. This consensus demonstrates Islam's fundamentally hopeful message for sincere believers.",
+    "layer4_urdu": "نیکوکاروں کے لیے آسان محاسبے کا وعدہ شیعہ اور سنی دونوں حدیثی ادب میں موجود ہے۔ صحیح بخاری میں روایت ہے: 'جس کا سخت محاسبہ ہوگا وہ عذاب پائے گا' اور نبی کریم صلی اللہ علیہ وآلہ وسلم نے واضح کیا کہ قرآن میں مذکور آسان محاسبے کا مطلب اعمال دکھانا اور معاف کرنا ہے۔ یہ روایت شیعہ مجموعوں میں بھی موجود ہے۔ ابنِ کثیر اور طباطبائی دونوں نے اس اور ملتی جلتی احادیث کا حوالہ دیا ہے جو تفسیری اتفاقِ رائے کو ظاہر کرتا ہے۔ اس بارے میں کچھ بحث ہے کہ یہ آسان محاسبہ آخر کن لوگوں کو ملتا ہے۔ اکثر علماء اتفاق کرتے ہیں کہ یہ ان مخلص مومنین کے لیے ہے جن کی نیکیاں برائیوں پر غالب ہوں، تاہم شیعہ الٰہیات اس اخلاص کے جزو کے طور پر ولایت کو بھی شامل کرتی ہے۔ دونوں روایات سکھاتی ہیں کہ یہ آیت غفلت کے بغیر امید کو جگانی چاہیے، الٰہی عدل کے خوف اور الٰہی رحمت پر اعتماد کے درمیان توازن قائم رکھنی چاہیے۔ اللہ کے گناہوں کو عوامی طور پر ظاہر کیے بغیر ڈھانپنے کا تصور تمام اسلامی روایات میں ملتا ہے جو اس مشترک سمجھ کی عکاسی کرتا ہے کہ الٰہی رحمت ان لوگوں کو عزت دینا چاہتی ہے جنہوں نے اس کی خدمت کی۔",
+    "layer4_ar": "وعد الحساب اليسير للأبرار ورد في الحديث الشيعي والسني على حدٍّ سواء. وفي صحيح البخاري رواية تُفيد بأن \"من نوقش الحساب عُذِّب\"، وأوضح النبي صلى الله عليه وآله وسلم أن الحساب اليسير المذكور في القرآن يعني عرض الأعمال والمغفرة، وهذه الرواية موجودة كذلك في المجاميع الشيعية. ويستشهد ابن كثير والطباطبائي بهذه الأحاديث وما في معناها، كاشفَين عن إجماع علمي في التفسير. وثمة تباين في تحديد من بالضبط ينال هذا الحساب اليسير؛ غير أن جمهور العلماء يتفق على أنه للمؤمنين المخلصين الراجحة حسناتهم، مع تأكيد الفقه الشيعي على الولاية شرطاً في صدق ذلك الإخلاص. ويُعلِّم كلا التراثين أن هذه الآية تبعث الرجاء دون أن تُورث الغرور، جامعةً بين الخشية من عدل الله والثقة برحمته. وفكرة تستر الله على الذنوب دون الفضح أمام الملأ واردة في مختلف التراثات الإسلامية، عاكسةً الفهم المشترك لرحمة الله الساعية إلى تكريم عباده لا إهانتهم. وهذا الإجماع يُبرز الرسالة التفاؤلية الجوهرية للإسلام التي يُبشَّر بها كل مؤمن صادق."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:9:return-happiness",
+          "title": "Joyful Return",
+          "icon": "face.smiling.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The successful believer returns to their family 'masrura' (in happiness/joy). This reunion with loved ones in Paradise, combined with the relief of passing judgment, creates complete bliss.",
+          "whyItMatters": "This promise of reuniting joyfully with family motivates maintaining righteous family bonds now and encouraging loved ones toward faith and good deeds.",
+          "position": "topLeft",
+          "arabicHighlight": "مَسْرُورًۭا",
+          "title_urdu": "خوشگوار واپسی",
+          "coreInsight_urdu": "کامیاب مومن اپنے اہل خانہ کی طرف 'مسرورا' (خوشی میں) لوٹتا ہے۔ جنت میں پیاروں سے یہ ملاپ، حساب سے گزرنے کی راحت کے ساتھ، مکمل سعادت پیدا کرتا ہے۔",
+          "whyItMatters_urdu": "خاندان سے خوشی سے ملنے کا یہ وعدہ ابھی نیک خاندانی رشتے برقرار رکھنے اور پیاروں کو ایمان کی ترغیب دینے کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "العودة السعيدة",
+          "coreInsight_ar": "المؤمن الناجح يعود إلى أهله 'مسروراً'. هذا اللقاء مع الأحبة في الجنة، مع راحة اجتياز الحساب، يخلق سعادة كاملة.",
+          "whyItMatters_ar": "هذا الوعد بلم الشمل بفرح مع العائلة يحفز الحفاظ على روابط عائلية صالحة الآن."
+        },
+        {
+          "id": "84:9:family-reunion",
+          "title": "Family Reunion",
+          "icon": "person.3.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Returning 'ila ahlihi' (to his family/people) suggests that relationships matter in the afterlife. Believers will be reunited with their righteous family members and community in Paradise.",
+          "whyItMatters": "The continuation of family bonds in Paradise encourages us to nurture spiritual growth within our families, as these relationships extend beyond death.",
+          "position": "topRight",
+          "arabicHighlight": "إِلَىٰٓ أَهْلِهِۦ",
+          "title_urdu": "خاندانی ملاپ",
+          "coreInsight_urdu": "'الی اہلہ' (اپنے اہل خانہ کی طرف) لوٹنا بتاتا ہے کہ آخرت میں رشتے اہم ہیں۔ مومنین جنت میں اپنے نیک خاندان کے افراد سے دوبارہ ملیں گے۔",
+          "whyItMatters_urdu": "جنت میں خاندانی رشتوں کا تسلسل ہمیں اپنے خاندانوں میں روحانی ترقی کو پروان چڑھانے کی ترغیب دیتا ہے۔",
+          "title_ar": "لم شمل العائلة",
+          "coreInsight_ar": "العودة 'إلى أهله' تشير إلى أهمية العلاقات في الآخرة. سيجتمع المؤمنون مع أفراد عائلاتهم الصالحين في الجنة.",
+          "whyItMatters_ar": "استمرار روابط العائلة في الجنة يشجعنا على رعاية النمو الروحي داخل عائلاتنا."
+        },
+        {
+          "id": "84:9:turning-point",
+          "title": "Turning Point",
+          "icon": "arrow.uturn.forward.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'yanqalibu' (turn/return) indicates a transformation. After the accounting, the believer's state completely changes—from the anxiety of judgment to the joy of acceptance.",
+          "whyItMatters": "This turning point reminds us that current hardships, including the fear of accountability, will transform into joy for those who persevere in faith.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَيَنقَلِبُ",
+          "title_urdu": "اہم موڑ",
+          "coreInsight_urdu": "لفظ 'ینقلب' (پلٹنا/لوٹنا) تبدیلی کی نشاندہی کرتا ہے۔ حساب کے بعد، مومن کی حالت مکمل طور پر بدل جاتی ہے—فیصلے کی پریشانی سے قبولیت کی خوشی تک۔",
+          "whyItMatters_urdu": "یہ اہم موڑ یاد دلاتا ہے کہ موجودہ مشکلات، بشمول جوابدہی کا خوف، ایمان پر ثابت قدم رہنے والوں کے لیے خوشی میں بدل جائیں گی۔",
+          "title_ar": "نقطة التحول",
+          "coreInsight_ar": "كلمة 'ينقلب' تشير إلى تحول. بعد الحساب، تتغير حالة المؤمن تماماً—من قلق الحساب إلى فرح القبول.",
+          "whyItMatters_ar": "نقطة التحول هذه تذكرنا بأن الصعوبات الحالية ستتحول إلى فرح لمن يثبتون على الإيمان."
+        }
+      ]
+    },
+    "layer4": "The promise of reunion with righteous family in Paradise appears across Islamic traditions. Sunni and Shia hadith collections contain numerous narrations about families being reunited in Paradise if they were righteous. Ibn Kathir cites reports that children who die young will be in Paradise and reunited with believing parents. Tabatabai discusses similar narrations from Shia sources. Both traditions teach that family bonds purified of worldly flaws continue in Paradise, offering one of the major attractions of the eternal realm. Some discussion exists about whether all family members reach the same level or are visited across different levels. Most scholars agree that Allah facilitates family connection in Paradise regardless of exact ranks. The emphasis on family reflects Islamic civilization's family-centered nature, in contrast to modern Western individualism. Both Shia and Sunni scholars use this verse to encourage building righteous families, calling children and spouses to faith, maintaining family ties, and viewing family as a spiritual team working toward collective salvation. This shared emphasis demonstrates Islam's fundamentally communal vision of both worldly life and eternal destiny.",
+    "layer4_urdu": "جنت میں نیکوکار خاندان سے ملاقات کا وعدہ اسلامی روایات میں موجود ہے۔ سنی اور شیعہ احادیث میں خاندانوں کے جنت میں ملنے کی متعدد روایات ہیں اگر وہ نیکوکار تھے۔ ابنِ کثیر نے ایسی روایات نقل کی ہیں کہ کم عمری میں فوت ہونے والے بچے جنت میں ہوں گے اور ایمان دار والدین سے ملیں گے۔ طباطبائی نے شیعہ مآخذ سے ملتی جلتی روایات بیان کی ہیں۔ دونوں روایات سکھاتی ہیں کہ دنیاوی خامیوں سے پاک خاندانی رشتے جنت میں جاری رہتے ہیں جو ابدی دنیا کی بڑی کشش میں سے ایک ہے۔ اس بارے میں کچھ بحث ہے کہ آیا تمام خاندان کے افراد ایک ہی درجے پر پہنچتے ہیں یا مختلف درجات میں ملتے ہیں۔ اکثر علماء اس بات پر متفق ہیں کہ اللہ جنت میں خاندانی تعلق کو ممکن بناتا ہے قطعِ نظر درجات کے۔ خاندان پر یہ زور اسلامی تہذیب کی خاندان مرکز فطرت کی عکاسی کرتا ہے جدید مغربی انفرادیت کے برعکس۔ شیعہ اور سنی دونوں علماء اس آیت کو نیکوکار خاندان بنانے، بچوں اور ازواج کو ایمان کی طرف بلانے، خاندانی رشتوں کو برقرار رکھنے اور خاندان کو مشترکہ نجات کی طرف کام کرنے والی روحانی ٹیم سمجھنے کی ترغیب دینے کے لیے استعمال کرتے ہیں۔ یہ مشترک زور اسلام کے دنیاوی اور ابدی زندگی دونوں میں بنیادی طور پر اجتماعی نقطہ نظر کی نشاندہی کرتا ہے۔",
+    "layer4_ar": "وعد لقاء الأسرة الصالحة في الجنة وارد في كلا التراثين الشيعي والسني. وفي مجاميع الحديث السنية والشيعية روايات وافرة تصف تجمُّع الأسر في الجنة متى كانوا صالحين. ويستشهد ابن كثير بروايات تُفيد بأن الأطفال المتوفين يكونون في الجنة وينتظرون لقاء والديهم المؤمنين. ويتناول الطباطبائي روايات مماثلة من المصادر الشيعية. ويُعلِّم كلا التراثين أن روابط الأسرة المُصفَّاة من الأكدار الدنيوية تتواصل في الجنة، وهي إحدى الجاذبيات الكبرى في الدار الأبدية. وثمة نقاش حول ما إذا كان جميع أفراد الأسرة يبلغون المنزلة ذاتها أم يتزاورون عبر مختلف المنازل. ويتفق أكثر العلماء على أن الله يُيسِّر الصلة الأسرية في الجنة بصرف النظر عن الدرجات. والتأكيد على الأسرة يعكس مركزيتها في الحضارة الإسلامية في مقابل الفردانية الغربية الحديثة. ويستشهد علماء الشيعة والسنة بهذه الآية للحثِّ على بناء الأسرة الصالحة ودعوة الأبناء والأزواج للإيمان وصيانة صلات الرحم ورؤية الأسرة فريقاً روحياً يعمل معاً للنجاة الجماعية."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:10:behind-back",
+          "title": "Hidden Record",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Receiving one's record 'wara'a zahrihi' (behind the back) symbolizes shame and disgrace. This unusual manner of receiving indicates that the person tried to hide from their deeds but cannot escape them.",
+          "whyItMatters": "The imagery warns against living a double life—presenting one face publicly while hiding sinful behavior. All will be exposed regardless of our attempts to conceal.",
+          "position": "topLeft",
+          "arabicHighlight": "وَرَآءَ ظَهْرِهِۦ",
+          "title_urdu": "چھپا ہوا نامہ",
+          "coreInsight_urdu": "اپنا نامہ 'وراء ظہرہ' (پیٹھ کے پیچھے) وصول کرنا شرم اور رسوائی کی علامت ہے۔ وصول کرنے کا یہ غیر معمولی طریقہ بتاتا ہے کہ شخص نے اپنے اعمال سے چھپنے کی کوشش کی۔",
+          "whyItMatters_urdu": "یہ منظر دوہری زندگی گزارنے کے خلاف خبردار کرتا ہے—ایک چہرہ عوام میں دکھانا جبکہ گناہ چھپانا۔",
+          "title_ar": "الصحيفة المخفية",
+          "coreInsight_ar": "استلام الصحيفة 'وراء ظهره' يرمز للخزي والعار. هذه الطريقة غير المعتادة تدل على أن الشخص حاول الاختباء من أعماله لكنه لا يستطيع الهروب منها.",
+          "whyItMatters_ar": "هذه الصورة تحذر من عيش حياة مزدوجة—إظهار وجه علناً مع إخفاء السلوك الآثم."
+        },
+        {
+          "id": "84:10:contrasting-fate",
+          "title": "Contrasting Fate",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The parallel structure 'wa-amma' (but as for) directly contrasts with the previous group. The same judgment, the same record-giving—yet completely different outcomes based on how life was lived.",
+          "whyItMatters": "This stark contrast motivates self-reflection: which group will I belong to? The answer depends on choices we make today, not circumstances beyond our control.",
+          "position": "topRight",
+          "arabicHighlight": "وَأَمَّا مَنْ",
+          "title_urdu": "متضاد قسمت",
+          "coreInsight_urdu": "متوازی ساخت 'واما' براہ راست پچھلے گروہ سے تضاد پیش کرتی ہے۔ ایک ہی فیصلہ، ایک ہی نامہ دینا—پھر بھی زندگی کیسے گزاری اس کی بنیاد پر بالکل مختلف نتائج۔",
+          "whyItMatters_urdu": "یہ واضح تضاد خود احتسابی کی ترغیب دیتا ہے: میں کس گروہ میں ہوں گا؟ جواب آج کے انتخاب پر منحصر ہے۔",
+          "title_ar": "المصير المتناقض",
+          "coreInsight_ar": "البنية المتوازية 'وأما' تتناقض مباشرة مع المجموعة السابقة. نفس الحساب، نفس إعطاء الصحيفة—لكن نتائج مختلفة تماماً بناءً على كيفية الحياة.",
+          "whyItMatters_ar": "هذا التناقض الصارخ يحفز التأمل الذاتي: أي مجموعة سأنتمي إليها؟"
+        },
+        {
+          "id": "84:10:same-book",
+          "title": "Same Book",
+          "icon": "book.closed.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Both groups receive 'kitabahu' (his book)—the same comprehensive record of deeds. The difference is not in what is recorded but in what was done. Everyone's deeds are documented with equal precision.",
+          "whyItMatters": "Knowing that our record is being written with perfect accuracy should inspire mindfulness about every action, word, and even intention.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كِتَٰبَهُۥ",
+          "title_urdu": "ایک ہی کتاب",
+          "coreInsight_urdu": "دونوں گروہ 'کتابہ' (اس کی کتاب) وصول کرتے ہیں—اعمال کا ایک ہی جامع نامہ۔ فرق اس میں نہیں جو درج ہے بلکہ اس میں ہے جو کیا گیا۔",
+          "whyItMatters_urdu": "یہ جاننا کہ ہمارا نامہ مکمل درستگی سے لکھا جا رہا ہے، ہر عمل، لفظ، اور نیت کے بارے میں ہوشیاری کی ترغیب دیتا ہے۔",
+          "title_ar": "نفس الكتاب",
+          "coreInsight_ar": "كلا المجموعتين تستلمان 'كتابه'—نفس السجل الشامل للأعمال. الفرق ليس فيما سُجل بل فيما فُعل.",
+          "whyItMatters_ar": "معرفة أن سجلنا يُكتب بدقة تامة يجب أن تلهم اليقظة حول كل فعل وكلمة ونية."
+        }
+      ]
+    },
+    "layer4": "The imagery of receiving the book behind the back appears in both Shia and Sunni exegetical literature, though with some variation in details. Ibn Kathir describes this as the fate of disbelievers and hypocrites whose deeds were evil. Tabatabai similarly identifies this group as those who rejected faith and died unrepentant. Both traditions cite hadiths describing the humiliation of this moment. Some difference appears in identifying specific individuals: Shia sources sometimes reference historical figures who opposed the Ahlul Bayt, while Sunni sources focus more generally on disbelievers and sinners. The theological principle is shared: the manner of receiving the book reflects one's earthly spiritual state. Both traditions emphasize the justice of this outcome, as these individuals chose rebellion despite clear guidance. Classical scholars across traditions used this verse to warn against complacency and to call people to repentance while opportunity remains. The consensus is that this represents the beginning of eternal punishment for those who died rejecting faith and persisting in evil, a fate both traditions seek to help people avoid through warning and calling to truth.",
+    "layer4_urdu": "پیٹھ کے پیچھے سے اعمال نامہ ملنے کی تصویر شیعہ اور سنی دونوں تفسیری ادب میں موجود ہے اگرچہ تفاصیل میں کچھ فرق ہے۔ ابنِ کثیر اسے کافروں اور منافقوں کا انجام بتاتے ہیں جن کے اعمال بُرے تھے۔ طباطبائی بھی اسی طرح اس گروہ کو ان لوگوں کے طور پر شناخت کرتے ہیں جنہوں نے ایمان کو رد کیا اور بغیر توبہ کے مر گئے۔ دونوں روایات اس لمحے کی ذلت کو بیان کرنے والی احادیث نقل کرتی ہیں۔ مخصوص افراد کی شناخت میں کچھ فرق ہے: شیعہ مآخذ کبھی کبھی ان تاریخی شخصیات کا حوالہ دیتے ہیں جنہوں نے اہلِ بیت علیہم السلام کی مخالفت کی، جبکہ سنی مآخذ زیادہ عمومی طور پر کافروں اور گناہگاروں پر توجہ دیتے ہیں۔ الٰہیاتی اصول مشترک ہے کہ اعمال نامہ ملنے کا انداز دنیاوی روحانی حالت کی عکاسی کرتا ہے۔ دونوں روایات اس نتیجے کے عدل پر زور دیتی ہیں کیونکہ ان لوگوں نے واضح رہنمائی کے باوجود سرکشی کا انتخاب کیا۔ تمام روایات کے کلاسیکی علماء نے اس آیت کو غفلت سے خبردار کرنے اور توبہ کی دعوت دینے کے لیے استعمال کیا جبکہ موقع ابھی ہے۔ اتفاقِ رائے یہ ہے کہ یہ ان لوگوں کے ابدی عذاب کا آغاز ہے جو ایمان کو رد کر کے برائی پر قائم رہتے ہوئے مر گئے، ایسا انجام جس سے بچانے کے لیے دونوں روایات خبردار کرتی اور حق کی طرف بلاتی ہیں۔",
+    "layer4_ar": "صورة تلقِّي الكتاب من وراء الظهر واردة في أدبيات التفسير الشيعي والسني وإن تفاوتت بعض التفاصيل. ويصف ابن كثير هذا المصير بأنه نصيب الكافرين والمنافقين الذين كانت أعمالهم طالحة. ويُحدِّد الطباطبائي هذه الفئة تحديداً مماثلاً بوصفهم من رفضوا الإيمان ولقوا الله غير تائبين. ويستشهد كلا التراثين بأحاديث تصف هوان تلك اللحظة. وثمة اختلاف في تعيين أفراد بعينهم؛ إذ تذكر المصادر الشيعية أحياناً شخصيات تاريخية ناصبت أهل البيت العداء، بينما تنصبُّ المصادر السنية انصباباً أعم على الكافرين والعصاة. والأصل العقدي مشترك: طريقة تلقِّي الكتاب تعكس الحال الروحية الدنيوية للإنسان. ويُؤكِّد كلا التراثين عدالة هذا المآل، إذ اختار هؤلاء التمرد رغم وضوح الهداية. واستخدم العلماء الكلاسيكيون في مختلف المدارس هذه الآية للتحذير من الاغترار ودعوة الناس إلى التوبة ما زال الأوان باب. والإجماع المنعقد هو أن هذا بداية عذاب أبدي لمن لقوا الله رافضين الإيمان مُقيمين على الشر، وكلا التراثين يسعيان لإنقاذ الناس من هذا المصير بالإنذار والدعوة إلى الحق."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:11:cry-destruction",
+          "title": "Cry of Despair",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The person will cry out for 'thubura' (destruction/ruin). This is a desperate wish for annihilation rather than facing the consequences—preferring non-existence to accountability.",
+          "whyItMatters": "This desperate cry reveals the ultimate regret of wasted opportunity. It motivates us to use our time wisely now rather than face such devastating remorse.",
+          "position": "topLeft",
+          "arabicHighlight": "يَدْعُوا۟ ثُبُورًۭا",
+          "title_urdu": "مایوسی کی پکار",
+          "coreInsight_urdu": "شخص 'ثبورا' (تباہی/بربادی) کی پکار کرے گا۔ یہ نتائج کا سامنا کرنے کی بجائے فنا کی مایوس خواہش ہے—جوابدہی سے عدم وجود کو ترجیح دینا۔",
+          "whyItMatters_urdu": "یہ مایوس پکار ضائع موقع کا انتہائی پچھتاوا ظاہر کرتی ہے۔ یہ ہمیں ابھی اپنا وقت عقلمندی سے استعمال کرنے کی ترغیب دیتی ہے۔",
+          "title_ar": "صرخة اليأس",
+          "coreInsight_ar": "سيدعو الشخص بـ'الثبور' (الهلاك/الدمار). هذه أمنية يائسة بالفناء بدلاً من مواجهة العواقب—تفضيل العدم على المساءلة.",
+          "whyItMatters_ar": "هذه الصرخة اليائسة تكشف الندم النهائي على الفرصة الضائعة. تحفزنا على استخدام وقتنا بحكمة الآن."
+        },
+        {
+          "id": "84:11:future-certainty",
+          "title": "Certain Outcome",
+          "icon": "hourglass.bottomhalf.filled",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Again 'sawfa' (will/shall) emphasizes certainty. This crying out for destruction is not a possibility but a definite future for those who receive their record behind their back.",
+          "whyItMatters": "The certainty of this outcome should shake complacency. This is not a vague threat but a guaranteed reality that can still be avoided through repentance.",
+          "position": "topRight",
+          "arabicHighlight": "فَسَوْفَ",
+          "title_urdu": "یقینی نتیجہ",
+          "coreInsight_urdu": "پھر 'سوف' یقین پر زور دیتا ہے۔ تباہی کی یہ پکار امکان نہیں بلکہ ان کا یقینی مستقبل ہے جو پیٹھ کے پیچھے نامہ وصول کریں گے۔",
+          "whyItMatters_urdu": "اس نتیجے کی یقینیت لاپرواہی کو ہلا دینی چاہیے۔ یہ مبہم دھمکی نہیں بلکہ یقینی حقیقت ہے جس سے ابھی بھی توبہ سے بچا جا سکتا ہے۔",
+          "title_ar": "النتيجة المحتومة",
+          "coreInsight_ar": "مرة أخرى 'سوف' تؤكد اليقين. هذا الدعاء بالثبور ليس احتمالاً بل مستقبل محتوم لمن يستلمون صحائفهم من وراء ظهورهم.",
+          "whyItMatters_ar": "يقينية هذه النتيجة يجب أن تهز الرضا بالنفس. هذه حقيقة مضمونة لا يزال يمكن تجنبها بالتوبة."
+        },
+        {
+          "id": "84:11:vocal-regret",
+          "title": "Vocal Regret",
+          "icon": "speaker.wave.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The use of 'yad'u' (calling out/crying) indicates this regret will be vocalized and public. Unlike hidden sins in the world, this anguish will be openly expressed and witnessed.",
+          "whyItMatters": "The public nature of this regret contrasts with the private sins committed in life. It reminds us that accountability will be comprehensive and exposed.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَدْعُوا۟",
+          "title_urdu": "زبانی پچھتاوا",
+          "coreInsight_urdu": "'یدعو' (پکارنا) کا استعمال بتاتا ہے کہ یہ پچھتاوا زبانی اور عوامی ہوگا۔ دنیا کے چھپے گناہوں کے برعکس، یہ تکلیف کھلے عام ظاہر اور مشاہدہ کی جائے گی۔",
+          "whyItMatters_urdu": "اس پچھتاوے کی عوامی نوعیت زندگی میں نجی گناہوں سے متضاد ہے۔ یہ یاد دلاتی ہے کہ جوابدہی جامع اور بے نقاب ہوگی۔",
+          "title_ar": "الندم المعلن",
+          "coreInsight_ar": "استخدام 'يدعو' يشير إلى أن هذا الندم سيكون صوتياً وعلنياً. على عكس الذنوب المخفية في الدنيا، هذه الكرب ستُعبَّر عنها علناً.",
+          "whyItMatters_ar": "الطبيعة العلنية لهذا الندم تتناقض مع الذنوب الخاصة في الحياة. تذكرنا بأن المساءلة ستكون شاملة ومكشوفة."
+        }
+      ]
+    },
+    "layer4": "The image of the damned calling for destruction appears in multiple Quranic passages and is discussed extensively in both Shia and Sunni tafsir. Ibn Kathir cites numerous hadiths about the regret and desperation of disbelievers on Judgment Day. Tabatabai similarly discusses how this cry represents the ultimate despair when all hope is lost. Both traditions emphasize that this fate awaits those who rejected faith and died unrepentant. Some theological discussion exists about whether any punishment is truly eternal or if mercy eventually encompasses all, but the orthodox position in both Sunni and Shia Islam is that the punishment of those who died in disbelief is eternal. The cry for destruction being denied forever is part of that eternal consequence. Both traditions use this verse to emphasize the importance of repentance in this life, when change is still possible. The consensus across Islamic scholarship is that this verse should inspire fear of divine justice alongside love of divine mercy, creating the balanced emotional state that motivates righteousness while preventing either complacency or despair.",
+    "layer4_urdu": "ہلاکت کی پکار کا یہ نقشہ قرآن کریم کی کئی آیات میں آیا ہے اور شیعہ و سنی دونوں تفسیری ادب میں اس پر مفصل بحث ملتی ہے۔ ابنِ کثیر نے قیامت کے دن کافروں کی ندامت اور مایوسی سے متعلق متعدد احادیث نقل کی ہیں۔ علامہ طباطبائی بھی اس کی وضاحت کرتے ہیں کہ یہ پکار اس انتہائی مایوسی کی نمائندگی کرتی ہے جب ہر امید ختم ہو جائے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ انجام ان لوگوں کا ہے جنہوں نے ایمان کو ٹھکرایا اور بغیر توبہ کے دنیا سے رخصت ہوئے۔ سزا کے ابدی یا عارضی ہونے پر کچھ کلامی بحث ضرور ہے، لیکن سنی اور شیعہ دونوں اسلامی اصولوں میں یہ موقف قائم ہے کہ کفر پر مرنے والوں کی سزا دائمی ہے۔ ہلاکت کی آرزو کا ہمیشہ رد ہونا اسی ابدی عذاب کا حصہ ہے۔ دونوں روایات اس آیت کو اس بات کی دلیل بناتی ہیں کہ حیاتِ دنیا میں توبہ کریں جب کہ ابھی ممکن ہے۔ اسلامی علوم میں اس پر اجماع ہے کہ یہ آیت الٰہی انصاف کا خوف اور الٰہی رحمت کی محبت ایک ساتھ پیدا کرنی چاہیے، تاکہ نہ لاپروائی ہو اور نہ مایوسی، بلکہ ایک متوازن کیفیت برقرار رہے جو نیکی کی تحریک دیتی رہے۔",
+    "layer4_ar": "صورة المحكوم عليهم وهم ينادون بالثبور واردة في مواضع متعددة من القرآن الكريم، وقد تناولها بالتناول المستفيض علماء التفسير الشيعي والسني على حدٍّ سواء. ويستشهد ابن كثير بأحاديث موفورة تصف حال يأس الكافرين وحسرتهم يوم القيامة. ويتناول الطباطبائي كذلك كيف يُجسِّد هذا النداء منتهى القنوط حين يُحسم الأمل كلياً. ويُؤكِّد كلا التراثين أن هذا المصير ينتظر من رفضوا الإيمان وماتوا دون توبة. وثمة نقاش علمي حول أبدية العذاب من عدمها، إلا أن الرأي الراسخ في الإسلام السني والشيعي على حدٍّ سواء هو خلود عذاب من ماتوا على الكفر. وكون النداء بالثبور مرفوضاً إلى الأبد يدخل ضمن هذا العذاب الخالد. ويستخدم كلا التراثين هذه الآية للتأكيد على ضرورة التوبة في الدنيا حين يكون التغيير ممكناً. والإجماع المنعقد في الدراسات الإسلامية هو أن هذه الآية تدعو إلى الخشية من عدل الله جنباً إلى جنب مع محبة رحمته، مُوجِدةً الحالة الوجدانية المتوازنة التي تُعين على الاستقامة وتصون من الاسترخاء والغرور."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:12:burning-blaze",
+          "title": "Burning Blaze",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The person will 'yasla sa'iran' (burn in a blazing fire). The word 'sa'ir' denotes an intensely burning fire, representing the severity of punishment for those who rejected guidance.",
+          "whyItMatters": "This vivid description of consequence is meant not to terrify but to motivate change now, while there is still opportunity to repent and reform.",
+          "position": "topLeft",
+          "arabicHighlight": "سَعِيرًا",
+          "title_urdu": "بھڑکتی آگ",
+          "coreInsight_urdu": "شخص 'یصلی سعیرا' (بھڑکتی آگ میں جلے گا)۔ لفظ 'سعیر' شدید جلتی آگ کی نشاندہی کرتا ہے، جو رہنمائی کو رد کرنے والوں کی سزا کی شدت کی نمائندگی کرتی ہے۔",
+          "whyItMatters_urdu": "نتائج کی یہ واضح تصویر خوفزدہ کرنے کے لیے نہیں بلکہ ابھی تبدیلی کی ترغیب کے لیے ہے، جب تک توبہ کا موقع ہے۔",
+          "title_ar": "اللهب المستعر",
+          "coreInsight_ar": "سيصلى الشخص 'سعيراً'. كلمة 'سعير' تدل على نار شديدة الاشتعال، تمثل شدة العقاب لمن رفضوا الهداية.",
+          "whyItMatters_ar": "هذا الوصف الحي للعاقبة ليس للترهيب بل لتحفيز التغيير الآن، بينما لا تزال هناك فرصة للتوبة."
+        },
+        {
+          "id": "84:12:entering-fire",
+          "title": "Entering Fire",
+          "icon": "door.right.hand.open",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verb 'yasla' means to enter into and be exposed to fire. This indicates an encompassing punishment where there is no escape or relief from the heat.",
+          "whyItMatters": "The totality of this punishment emphasizes that half-measures in faith are insufficient. Complete commitment to guidance is necessary to avoid complete exposure to consequence.",
+          "position": "topRight",
+          "arabicHighlight": "وَيَصْلَىٰ",
+          "title_urdu": "آگ میں داخلہ",
+          "coreInsight_urdu": "فعل 'یصلی' کا مطلب ہے آگ میں داخل ہونا اور اس سے دوچار ہونا۔ یہ ایک ایسی سزا کی نشاندہی کرتا ہے جہاں گرمی سے کوئی فرار یا راحت نہیں۔",
+          "whyItMatters_urdu": "اس سزا کی مکملیت اس بات پر زور دیتی ہے کہ ایمان میں ادھوری کوششیں کافی نہیں۔ نتائج سے بچنے کے لیے رہنمائی کے ساتھ مکمل وابستگی ضروری ہے۔",
+          "title_ar": "دخول النار",
+          "coreInsight_ar": "الفعل 'يصلى' يعني الدخول والتعرض للنار. هذا يشير إلى عقاب شامل لا مفر منه ولا راحة من حره.",
+          "whyItMatters_ar": "شمولية هذا العقاب تؤكد أن نصف الالتزام بالإيمان غير كافٍ. الالتزام الكامل بالهداية ضروري."
+        },
+        {
+          "id": "84:12:sequence",
+          "title": "Inevitable Sequence",
+          "icon": "arrow.forward.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The sequence—receiving record behind back, crying for destruction, then burning—shows a progression of consequence. Each stage leads inevitably to the next.",
+          "whyItMatters": "Understanding this sequence helps us see that our choices today set in motion chains of consequence. Breaking the chain requires action now, not later.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَيَصْلَىٰ سَعِيرًا",
+          "title_urdu": "ناگزیر سلسلہ",
+          "coreInsight_urdu": "سلسلہ—پیٹھ کے پیچھے نامہ وصول کرنا، تباہی کی پکار، پھر جلنا—نتائج کی ترقی دکھاتا ہے۔ ہر مرحلہ لازمی طور پر اگلے کی طرف لے جاتا ہے۔",
+          "whyItMatters_urdu": "اس سلسلے کو سمجھنا ہمیں دکھاتا ہے کہ آج کے انتخاب نتائج کی زنجیریں شروع کرتے ہیں۔ زنجیر توڑنے کے لیے ابھی عمل چاہیے، بعد میں نہیں۔",
+          "title_ar": "التسلسل الحتمي",
+          "coreInsight_ar": "التسلسل—استلام الصحيفة من وراء الظهر، الدعاء بالثبور، ثم الاحتراق—يُظهر تدرج العواقب. كل مرحلة تقود حتماً إلى التالية.",
+          "whyItMatters_ar": "فهم هذا التسلسل يساعدنا على رؤية أن خياراتنا اليوم تطلق سلاسل من العواقب. كسر السلسلة يتطلب العمل الآن."
+        }
+      ]
+    },
+    "layer4": "The reality of hellfire and eternal punishment for disbelievers is a shared belief across Sunni and Shia Islam, supported by numerous Quranic verses and hadiths in both traditions. Ibn Kathir extensively discusses the nature of hellfire, as does Tabatabai, with both emphasizing its reality and severity. Some philosophical debate exists about whether punishment is truly eternal or eventually ends, with minority opinions in both traditions suggesting ultimate universal salvation, but the orthodox position in both Sunni and Shia theology is that punishment for those who die in disbelief is eternal. Both traditions emphasize divine justice: no one enters Hell except through their own choices and rejection of guidance. The severity of punishment reflects the gravity of rejecting the infinite Good. Both traditions also emphasize divine mercy: sincere repentance is always accepted during earthly life, and even sinful believers may eventually be forgiven. The verse represents the shared Islamic conviction that moral choices have eternal consequences and that divine justice is both real and perfect, rewarding good and punishing evil in accordance with infinite wisdom.",
+    "layer4_urdu": "دوزخ کی آگ کی حقیقت اور کافروں کے لیے ابدی عذاب شیعہ و سنی دونوں اسلامی روایات کا مشترک عقیدہ ہے جو دونوں کے قرآنی تفسیروں اور احادیث میں موجود ہے۔ ابنِ کثیر نے جہنم کی نوعیت پر سیر حاصل بحث کی ہے اور علامہ طباطبائی نے بھی، دونوں نے اس کی حقیقت اور شدت پر زور دیا ہے۔ عذاب کے واقعی ابدی ہونے یا نہ ہونے پر کچھ فلسفیانہ بحث موجود ہے اور دونوں روایات میں اقلیتی آراء بھی ملتی ہیں جو آخرکار عمومی نجات کی طرف جھکاؤ رکھتی ہیں، لیکن سنی اور شیعہ کلام کا متفقہ موقف یہ ہے کہ کفر پر مرنے والوں کا عذاب دائمی ہے۔ دونوں روایات الٰہی انصاف پر زور دیتی ہیں: کوئی بھی جہنم میں نہیں جائے گا سوائے اپنے انتخاب اور ہدایت کو ٹھکرانے کی وجہ سے۔ عذاب کی شدت لامحدود خیر کو رد کرنے کی سنگینی کو ظاہر کرتی ہے۔ دونوں روایات الٰہی رحمت پر بھی زور دیتی ہیں: دنیاوی زندگی میں مخلصانہ توبہ ہمیشہ قبول ہوتی ہے۔ یہ آیت اسلامی اس مشترک یقین کی نمائندگی کرتی ہے کہ اخلاقی انتخابوں کے ابدی نتائج ہیں اور الٰہی انصاف حقیقی اور کامل ہے۔",
+    "layer4_ar": "الإيمان بحقيقة النار والعذاب الخالد للكافرين عقيدة جامعة يُقرُّ بها الإسلام السني والشيعي على حدٍّ سواء، تستند إلى عشرات الآيات القرآنية والأحاديث الواردة في كلا التراثين. ويتناول ابن كثير طبيعة نار جهنم بإسهاب كما يتناولها الطباطبائي، مؤكدَين كلاهما حقيقتها وشدتها. وثمة جدل فلسفي حول أبدية العذاب من عدمها، إذ ذهب أقلية في كلا التراثين إلى النجاة الشاملة في نهاية المطاف، لكن الرأي الراسخ في الكلام السني والشيعي معاً هو خلود عذاب من ماتوا على الكفر. ويتفق كلا التراثين على عدل الله: لا يدخل النار أحد إلا بسبب اختياراته ورفضه للهداية، وشدة العقوبة تعكس جسامة رفض الخير المطلق. ويُؤكِّد كلا التراثين كذلك سعة رحمة الله؛ فالتوبة الصادقة مقبولة في الدنيا دائماً، وحتى المؤمنون المذنبون قد يُغفَر لهم في نهاية المطاف. وتُجسِّد الآية القناعة الإسلامية المشتركة بأن الخيارات الأخلاقية ذات تبعات أبدية وأن عدل الله حق كامل يُثيب المحسن ويُعاقب المسيء وفق علمه المحيط وحكمته البالغة."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:13:worldly-happiness",
+          "title": "Worldly Happiness",
+          "icon": "party.popper.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This person 'was among his people in happiness'—enjoying worldly pleasures and social standing. The same word 'masrur' (happy) used for the believer in verse 9 is used here, but in a different context.",
+          "whyItMatters": "Worldly happiness without spiritual foundation is temporary and potentially dangerous. True happiness must be built on a relationship with Allah, not merely social success.",
+          "position": "topLeft",
+          "arabicHighlight": "فِىٓ أَهْلِهِۦ مَسْرُورًا",
+          "title_urdu": "دنیاوی خوشی",
+          "coreInsight_urdu": "یہ شخص 'اپنے لوگوں میں خوشی میں تھا'—دنیاوی لذتوں اور سماجی حیثیت سے لطف اندوز۔ وہی لفظ 'مسرور' جو آیت 9 میں مومن کے لیے استعمال ہوا، یہاں مختلف سیاق میں ہے۔",
+          "whyItMatters_urdu": "روحانی بنیاد کے بغیر دنیاوی خوشی عارضی اور ممکنہ طور پر خطرناک ہے۔ حقیقی خوشی اللہ سے تعلق پر مبنی ہونی چاہیے۔",
+          "title_ar": "السعادة الدنيوية",
+          "coreInsight_ar": "هذا الشخص 'كان في أهله مسروراً'—يتمتع بالملذات الدنيوية والمكانة الاجتماعية. نفس كلمة 'مسرور' المستخدمة للمؤمن في الآية 9 تُستخدم هنا لكن في سياق مختلف.",
+          "whyItMatters_ar": "السعادة الدنيوية بدون أساس روحي مؤقتة وربما خطيرة. السعادة الحقيقية يجب أن تُبنى على علاقة مع الله."
+        },
+        {
+          "id": "84:13:social-circle",
+          "title": "Social Circle",
+          "icon": "person.3.sequence.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Being happy 'among his people' suggests that social validation and belonging were priorities. This person valued the approval of their community more than the approval of Allah.",
+          "whyItMatters": "The company we keep shapes our values. If our social circle pulls us away from divine guidance, we must have the courage to prioritize our eternal wellbeing.",
+          "position": "topRight",
+          "arabicHighlight": "فِىٓ أَهْلِهِۦ",
+          "title_urdu": "سماجی حلقہ",
+          "coreInsight_urdu": "'اپنے لوگوں میں' خوش ہونا بتاتا ہے کہ سماجی تصدیق اور تعلق ترجیح تھے۔ اس شخص نے اپنی برادری کی منظوری کو اللہ کی منظوری سے زیادہ اہمیت دی۔",
+          "whyItMatters_urdu": "جن لوگوں میں ہم رہتے ہیں وہ ہماری اقدار کو تشکیل دیتے ہیں۔ اگر ہمارا سماجی حلقہ ہمیں الٰہی رہنمائی سے دور لے جائے تو ہمیں ابدی بھلائی کو ترجیح دینے کی ہمت رکھنی چاہیے۔",
+          "title_ar": "الدائرة الاجتماعية",
+          "coreInsight_ar": "السعادة 'في أهله' تشير إلى أن القبول الاجتماعي والانتماء كانا أولوية. هذا الشخص قدّر موافقة مجتمعه أكثر من موافقة الله.",
+          "whyItMatters_ar": "الصحبة التي نختارها تشكل قيمنا. إذا كانت دائرتنا الاجتماعية تبعدنا عن الهداية، يجب أن نتحلى بالشجاعة لتقديم سلامتنا الأبدية."
+        },
+        {
+          "id": "84:13:past-tense",
+          "title": "Fleeting Past",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The past tense 'kana' (was) emphasizes that this worldly happiness is now over. What seemed permanent and fulfilling has passed, leaving only consequences to face.",
+          "whyItMatters": "Every worldly pleasure will eventually become a 'was.' Building our identity on temporary pleasures guarantees eventual loss and regret.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّهُۥ كَانَ",
+          "title_urdu": "گزرتا ماضی",
+          "coreInsight_urdu": "ماضی کا صیغہ 'کان' (تھا) اس بات پر زور دیتا ہے کہ یہ دنیاوی خوشی اب ختم ہو گئی۔ جو مستقل اور تسلی بخش لگتا تھا وہ گزر گیا، صرف نتائج سامنا کرنے کو رہ گئے۔",
+          "whyItMatters_urdu": "ہر دنیاوی لذت آخرکار 'تھی' بن جائے گی۔ عارضی لذتوں پر اپنی شناخت بنانا نقصان اور پچھتاوے کی ضمانت ہے۔",
+          "title_ar": "الماضي العابر",
+          "coreInsight_ar": "صيغة الماضي 'كان' تؤكد أن هذه السعادة الدنيوية انتهت الآن. ما بدا دائماً ومُرضياً قد مضى، تاركاً فقط العواقب للمواجهة.",
+          "whyItMatters_ar": "كل متعة دنيوية ستصبح في النهاية 'كانت'. بناء هويتنا على متع مؤقتة يضمن الخسارة والندم."
+        }
+      ]
+    },
+    "layer4": "The warning against finding complete satisfaction in worldly life appears across Islamic scholarly traditions. Sunni scholars like Al-Ghazali wrote extensively about the danger of dunya, worldly attachment, and how it distracts from spiritual purpose. Tabatabai similarly emphasizes that worldly life should be a means to eternal success, not an end in itself. Both traditions cite numerous hadiths warning against love of this world and its pleasures. Ibn Kathir and other Sunni commentators identify this verse as describing those who were completely absorbed in worldly pleasures without concern for the Hereafter. Shia scholars sometimes add specific historical references to those who opposed the Ahlul Bayt while enjoying worldly power, but the general principle is shared. Both traditions teach that worldly blessings can be either tests or rewards depending on how they are used. The consensus is that happiness among one's people is fine if it does not distract from remembrance of Allah and preparation for the Hereafter. Both traditions emphasize balance: engaging with worldly life while maintaining spiritual awareness and purpose.",
+    "layer4_urdu": "دنیاوی زندگی میں مکمل اطمینان کے خلاف خبردار کرنا سنی اور شیعہ دونوں اسلامی روایات کا مشترک موضوع ہے۔ سنی علماء جیسے امام غزالی نے دنیا کی محبت کے خطرے اور اس کے روحانی مقصد کو کیسے نگل لینے پر تفصیل سے لکھا ہے۔ علامہ طباطبائی بھی اسی طرح اس بات پر زور دیتے ہیں کہ دنیاوی زندگی ابدی کامیابی کا ذریعہ ہونی چاہیے، نہ کہ منتہائے مقصود۔ دونوں روایات میں دنیا کی محبت اور اس کی لذتوں کے خلاف بے شمار احادیث موجود ہیں۔ ابنِ کثیر اور دیگر سنی مفسرین اس آیت کو ان لوگوں کا حال بتاتے ہیں جو آخرت کی فکر کیے بغیر دنیاوی لذتوں میں ڈوبے رہے۔ شیعہ علماء بعض اوقات مخصوص تاریخی حوالے بھی شامل کرتے ہیں جن میں اہلِ بیت کی مخالفت کرنے والے دنیاوی اقتدار سے لطف اندوز ہوتے دکھائے گئے ہیں، لیکن بنیادی اصول مشترک ہے۔ دونوں روایات سکھاتی ہیں کہ دنیاوی نعمتیں اللہ کے ذکر اور آخرت کی تیاری کو نظر انداز نہ کرنے دیں تو ٹھیک ہیں۔ دونوں ہی توازن پر زور دیتی ہیں: دنیوی زندگی گزاریں لیکن روحانی شعور اور مقصد کو برقرار رکھتے ہوئے۔",
+    "layer4_ar": "التحذير من إيجاد الرضا الكامل في الحياة الدنيا وارد في مختلف التيارات الإسلامية. وقد أطال الإمام الغزالي وغيره من علماء السنة الكتابة عن خطر الدنيا والانشغال بها عن الغاية الروحية. ويُؤكِّد الطباطبائي بالمثل أن الحياة الدنيا ينبغي أن تكون وسيلةً إلى النجاح الأبدي لا غايةً في ذاتها. ويستشهد كلا التراثين بأحاديث موفورة تُحذِّر من حب الدنيا والتعلق بملذاتها. ويُحدِّد ابن كثير وغيره من المفسرين السنة هذه الآية بوصفها وصفاً لمن اندمجوا كلياً في ملذات الدنيا دون اهتمام بالآخرة. وقد يُضيف العلماء الشيعة أحياناً إحالات تاريخية بعينها إلى من ناصبوا أهل البيت وهم يتقلبون في نعيم السلطة، لكن المبدأ العام مشترك بين المدرستين. ويُعلِّم كلا التراثين أن النعم الدنيوية قد تكون ابتلاءً أو جزاءً بحسب طريقة التعامل معها. والإجماع المنعقد هو أن الفرح بين الأهل مباح ومشروع ما لم يُلهِ عن ذكر الله والاستعداد للآخرة. ويُؤكِّد كلا التراثين ضرورة التوازن: الانخراط في الحياة الدنيا مع الحفاظ على اليقظة الروحية والهدف الأسمى."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:14:false-assumption",
+          "title": "False Assumption",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "This person 'thought he would never return' to Allah for accountability. This assumption—that death ends everything or that there would be no reckoning—led to a life without moral boundaries.",
+          "whyItMatters": "Our beliefs about the afterlife directly shape our behavior. Denying accountability removes the foundation for ethical restraint and responsibility.",
+          "position": "topLeft",
+          "arabicHighlight": "ظَنَّ أَن لَّن يَحُورَ",
+          "title_urdu": "غلط قیاس",
+          "coreInsight_urdu": "اس شخص نے 'سوچا کہ وہ کبھی نہیں لوٹے گا' جوابدہی کے لیے اللہ کی طرف۔ یہ قیاس—کہ موت سب کچھ ختم کر دیتی ہے یا کوئی حساب نہیں ہوگا—اخلاقی حدود کے بغیر زندگی کا باعث بنا۔",
+          "whyItMatters_urdu": "آخرت کے بارے میں ہمارے عقائد براہ راست ہمارے رویے کو تشکیل دیتے ہیں۔ جوابدہی سے انکار اخلاقی پابندی کی بنیاد ختم کر دیتا ہے۔",
+          "title_ar": "الظن الباطل",
+          "coreInsight_ar": "هذا الشخص 'ظن أن لن يحور' إلى الله للحساب. هذا الظن—أن الموت ينهي كل شيء أو لن يكون حساب—أدى إلى حياة بلا قيود أخلاقية.",
+          "whyItMatters_ar": "معتقداتنا عن الآخرة تشكل سلوكنا مباشرة. إنكار المساءلة يزيل أساس الضبط الأخلاقي."
+        },
+        {
+          "id": "84:14:no-return",
+          "title": "Denial of Return",
+          "icon": "arrow.uturn.backward.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'yahura' (return) refers to returning to Allah for judgment. Denying this return is the root error that leads to all other spiritual failures.",
+          "whyItMatters": "Belief in the return to Allah is foundational to Islamic ethics. Without it, there is no ultimate accountability, and life becomes meaningless beyond temporary pleasure.",
+          "position": "topRight",
+          "arabicHighlight": "يَحُورَ",
+          "title_urdu": "واپسی کا انکار",
+          "coreInsight_urdu": "لفظ 'یحور' (لوٹنا) فیصلے کے لیے اللہ کی طرف لوٹنے کو کہتا ہے۔ اس واپسی کا انکار وہ بنیادی غلطی ہے جو تمام دیگر روحانی ناکامیوں کا باعث بنتی ہے۔",
+          "whyItMatters_urdu": "اللہ کی طرف واپسی کا عقیدہ اسلامی اخلاقیات کی بنیاد ہے۔ اس کے بغیر کوئی حتمی جوابدہی نہیں اور زندگی عارضی لذت سے آگے بے معنی ہو جاتی ہے۔",
+          "title_ar": "إنكار العودة",
+          "coreInsight_ar": "كلمة 'يحور' (يعود) تشير إلى العودة إلى الله للحساب. إنكار هذه العودة هو الخطأ الجذري الذي يؤدي إلى جميع الإخفاقات الروحية الأخرى.",
+          "whyItMatters_ar": "الإيمان بالعودة إلى الله أساسي للأخلاق الإسلامية. بدونه لا توجد مساءلة نهائية وتصبح الحياة بلا معنى."
+        },
+        {
+          "id": "84:14:inner-thought",
+          "title": "Inner Thought",
+          "icon": "brain.head.profile",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The use of 'zanna' (thought/assumed) shows this was an internal belief, perhaps never articulated. Even unexpressed doubts about the afterlife shape behavior and lead to spiritual consequences.",
+          "whyItMatters": "Our private thoughts and assumptions matter. Cultivating correct beliefs internally is essential because our inner convictions ultimately manifest in our actions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّهُۥ ظَنَّ",
+          "title_urdu": "باطنی خیال",
+          "coreInsight_urdu": "'ظن' (سوچا/قیاس کیا) کا استعمال دکھاتا ہے کہ یہ اندرونی عقیدہ تھا، شاید کبھی ظاہر نہیں کیا گیا۔ آخرت کے بارے میں غیر اظہار شدہ شکوک بھی رویے کو تشکیل دیتے ہیں۔",
+          "whyItMatters_urdu": "ہمارے نجی خیالات اور قیاسات اہمیت رکھتے ہیں۔ باطن میں صحیح عقائد پروان چڑھانا ضروری ہے کیونکہ ہمارے اندرونی یقین بالآخر ہمارے اعمال میں ظاہر ہوتے ہیں۔",
+          "title_ar": "الفكر الداخلي",
+          "coreInsight_ar": "استخدام 'ظن' يُظهر أن هذا كان اعتقاداً داخلياً، ربما لم يُعبَّر عنه أبداً. حتى الشكوك غير المعلنة عن الآخرة تشكل السلوك.",
+          "whyItMatters_ar": "أفكارنا وافتراضاتنا الخاصة مهمة. تنمية المعتقدات الصحيحة داخلياً ضروري لأن قناعاتنا الداخلية تتجلى في أفعالنا."
+        },
+        {
+          "id": "84:14:never-emphasis",
+          "title": "Emphatic Never",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The double negative 'an lan' (that never) shows this person was emphatic in their denial. They were not just uncertain—they were convinced there would be no return to face Allah.",
+          "whyItMatters": "Strong conviction in false beliefs is particularly dangerous. The more certain we are in error, the harder it is to accept truth. Intellectual humility is essential.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَن لَّن",
+          "title_urdu": "زور دار انکار",
+          "coreInsight_urdu": "دوہرا نفی 'ان لن' (کہ کبھی نہیں) دکھاتا ہے کہ یہ شخص اپنے انکار میں پرزور تھا۔ وہ صرف غیر یقینی نہیں تھے—وہ قائل تھے کہ کوئی واپسی نہیں ہوگی۔",
+          "whyItMatters_urdu": "غلط عقائد میں مضبوط یقین خاص طور پر خطرناک ہے۔ جتنا ہم غلطی میں یقین رکھتے ہیں، سچائی قبول کرنا اتنا مشکل ہو جاتا ہے۔",
+          "title_ar": "النفي المؤكد",
+          "coreInsight_ar": "النفي المضاعف 'أن لن' يُظهر أن هذا الشخص كان مؤكداً في إنكاره. لم يكن مجرد غير متأكد—بل كان مقتنعاً بعدم وجود عودة.",
+          "whyItMatters_ar": "اليقين القوي في المعتقدات الباطلة خطير بشكل خاص. كلما كنا أكثر يقيناً في الخطأ، صعب علينا قبول الحقيقة."
+        }
+      ]
+    },
+    "layer4": "The connection between denial of resurrection and immoral behavior is emphasized across Islamic traditions. Sunni scholars like Ibn Taymiyyah and Al-Ghazali extensively discussed how belief in the Hereafter is essential for moral behavior. Tabatabai and other Shia scholars similarly emphasize this connection. Both traditions cite Quranic verses and hadiths establishing that denial of resurrection leads to transgression and oppression. Ibn Kathir identifies those who think they will never return to Allah as the disbelievers of Makkah and similar groups throughout history. Tabatabai's interpretation is essentially the same, though he also applies it to hypocrites and nominal Muslims who do not truly believe. Both traditions emphasize that this verse explains the psychological and spiritual root of evil: assuming no accountability. The shared principle is that belief in divine judgment is not merely a theological position but a practical safeguard against moral corruption. Both Sunni and Shia scholars use this verse to emphasize the importance of teaching and strengthening belief in the Hereafter as essential for both individual righteousness and social justice.",
+    "layer4_urdu": "قیامت کے انکار اور غیر اخلاقی رویے کے درمیان تعلق پوری اسلامی روایات میں واضح کیا گیا ہے۔ ابنِ تیمیہ اور امام غزالی جیسے سنی علماء نے آخرت پر یقین کی اخلاقی رویے کے لیے ضرورت پر سیر حاصل بحث کی ہے۔ علامہ طباطبائی اور دیگر شیعہ علماء بھی اس تعلق پر یکساں زور دیتے ہیں۔ دونوں روایات ایسی قرآنی آیات اور احادیث سے استدلال کرتی ہیں جو یہ ثابت کرتی ہیں کہ آخرت کا انکار ظلم و تعدی کا راستہ کھولتا ہے۔ ابنِ کثیر ان لوگوں کو جو یہ سمجھتے ہیں کہ اللہ کے پاس واپس نہیں جانا، مکہ کے کافروں اور تاریخ کے اسی طرح کے گروہوں کے طور پر شناخت کرتے ہیں۔ علامہ طباطبائی کی تفسیر بنیادی طور پر ایک ہی ہے، گرچہ وہ اسے منافقین اور نام نہاد مسلمانوں پر بھی لاگو کرتے ہیں جو واقعتاً ایمان نہیں رکھتے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ آخرت پر ایمان محض ایک کلامی موقف نہیں بلکہ اخلاقی فساد کے خلاف ایک عملی دفاع ہے۔ یہ مشترک اصول ہے کہ الٰہی حساب پر یقین کو پڑھانا اور مضبوط کرنا انفرادی نیکی اور سماجی انصاف دونوں کے لیے ضروری ہے۔",
+    "layer4_ar": "الصلة الوثيقة بين إنكار البعث والانحلال الأخلاقي مؤكَّدة عبر التراثين الإسلاميين. وقد أطال ابن تيمية والغزالي من علماء السنة الكتابة في كون الإيمان بالآخرة أساساً لا غنى عنه للأخلاق. ويُؤكِّد الطباطبائي وغيره من علماء الشيعة هذه الصلة بالمثل. ويستشهد كلا التراثين بآيات قرآنية وأحاديث تُثبت أن إنكار البعث يُفضي إلى الطغيان والظلم. ويُحدِّد ابن كثير من يظنون أنهم لن يرجعوا إلى الله بوصفهم كافري مكة وأمثالهم من الجاحدين في كل عصر. وتفسير الطباطبائي في جوهره مطابق لذلك، وإن امتد تطبيقه ليشمل المنافقين والمسلمين اسماً الذين لا يُوقنون بالآخرة يقيناً حقيقياً. ويُؤكِّد كلا التراثين أن الآية تُفسِّر الجذر النفسي والروحي للشر: افتراض انعدام المساءلة. والمبدأ المشترك هو أن الإيمان بالحكم الإلهي ليس موقفاً عقدياً مجرداً بل ضابط عملي يصون من الانحلال الأخلاقي. ويستخدم علماء السنة والشيعة هذه الآية للتأكيد على أهمية تعليم الإيمان بالآخرة وتعزيزه باعتباره شرطاً جوهرياً للاستقامة الفردية والعدل الاجتماعي."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:15:divine-affirmation",
+          "title": "Divine Affirmation",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah responds with 'Bala!' (But yes!/Indeed!) emphatically refuting the disbeliever's assumption. Despite what anyone thinks, the return to Allah is absolutely certain.",
+          "whyItMatters": "This divine affirmation provides certainty in an age of doubt. No matter how prevalent denial of the afterlife becomes, Allah's word confirms its reality.",
+          "position": "topLeft",
+          "arabicHighlight": "بَلَىٰٓ",
+          "title_urdu": "الٰہی تصدیق",
+          "coreInsight_urdu": "اللہ 'بلی!' (ہاں!/بیشک!) سے جواب دیتا ہے منکر کے قیاس کی زوردار تردید کرتے ہوئے۔ کوئی بھی کچھ بھی سوچے، اللہ کی طرف واپسی بالکل یقینی ہے۔",
+          "whyItMatters_urdu": "یہ الٰہی تصدیق شکوک کے دور میں یقین فراہم کرتی ہے۔ آخرت کا انکار کتنا بھی عام ہو جائے، اللہ کا کلام اس کی حقیقت کی تصدیق کرتا ہے۔",
+          "title_ar": "التأكيد الإلهي",
+          "coreInsight_ar": "يرد الله بـ'بلى!' مفنداً بقوة ظن الكافر. مهما ظن أحد، العودة إلى الله مؤكدة تماماً.",
+          "whyItMatters_ar": "هذا التأكيد الإلهي يوفر اليقين في عصر الشك. مهما انتشر إنكار الآخرة، كلمة الله تؤكد حقيقتها."
+        },
+        {
+          "id": "84:15:all-seeing",
+          "title": "All-Seeing Lord",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is described as 'Basir' (Seeing) regarding this person. Nothing escapes divine knowledge—every action, intention, and thought is witnessed and recorded.",
+          "whyItMatters": "Living with awareness that Allah sees everything cultivates God-consciousness (taqwa). This awareness should be comforting for the righteous and sobering for those inclined to sin.",
+          "position": "topRight",
+          "arabicHighlight": "بَصِيرًۭا",
+          "title_urdu": "دیکھنے والا رب",
+          "coreInsight_urdu": "اللہ کو اس شخص کے بارے میں 'بصیر' (دیکھنے والا) بیان کیا گیا ہے۔ کچھ بھی الٰہی علم سے نہیں بچتا—ہر عمل، نیت اور خیال دیکھا اور درج کیا جاتا ہے۔",
+          "whyItMatters_urdu": "اس آگاہی کے ساتھ رہنا کہ اللہ سب کچھ دیکھتا ہے، خدا ترسی (تقویٰ) پیدا کرتا ہے۔ یہ آگاہی نیکوں کے لیے تسلی بخش اور گناہ کی طرف مائل لوگوں کے لیے سنجیدگی کا باعث ہونی چاہیے۔",
+          "title_ar": "الرب البصير",
+          "coreInsight_ar": "يُوصف الله بأنه 'بصير' بهذا الشخص. لا شيء يفلت من العلم الإلهي—كل فعل ونية وفكر مشهود ومسجل.",
+          "whyItMatters_ar": "العيش بوعي أن الله يرى كل شيء يُنمي التقوى. هذا الوعي يجب أن يكون مريحاً للصالحين ومُجدداً لمن يميلون للذنب."
+        },
+        {
+          "id": "84:15:personal-knowledge",
+          "title": "Personal Knowledge",
+          "icon": "person.badge.shield.checkmark.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'bihi' (of him) emphasizes that Allah's knowledge is personal and specific. It is not general surveillance but intimate awareness of each individual's reality.",
+          "whyItMatters": "Allah knows us better than we know ourselves. This personal divine attention means no one is forgotten or overlooked—both in accountability and in mercy.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَانَ بِهِۦ",
+          "title_urdu": "ذاتی علم",
+          "coreInsight_urdu": "'بہ' (اس کا) کا جملہ زور دیتا ہے کہ اللہ کا علم ذاتی اور مخصوص ہے۔ یہ عمومی نگرانی نہیں بلکہ ہر فرد کی حقیقت کی گہری آگاہی ہے۔",
+          "whyItMatters_urdu": "اللہ ہمیں ہم سے بہتر جانتا ہے۔ یہ ذاتی الٰہی توجہ کا مطلب ہے کہ کوئی بھولا یا نظرانداز نہیں—جوابدہی اور رحمت دونوں میں۔",
+          "title_ar": "المعرفة الشخصية",
+          "coreInsight_ar": "عبارة 'به' تؤكد أن علم الله شخصي ومحدد. ليست مراقبة عامة بل وعي حميم بحقيقة كل فرد.",
+          "whyItMatters_ar": "الله يعرفنا أفضل مما نعرف أنفسنا. هذا الاهتمام الإلهي الشخصي يعني أن لا أحد مَنسي—في المساءلة والرحمة."
+        },
+        {
+          "id": "84:15:eternal-lord",
+          "title": "Eternal Lord",
+          "icon": "infinity.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The construction 'Rabbahu kana' (his Lord was ever) emphasizes Allah's eternal and continuous knowledge. Allah was always watching, from before birth through death and beyond.",
+          "whyItMatters": "There was never a moment when Allah was not aware. This eternal vigilance means our entire life story is known, and we can never hide from the One who made us.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ رَبَّهُۥ كَانَ",
+          "title_urdu": "ابدی رب",
+          "coreInsight_urdu": "'ربہ کان' (اس کا رب ہمیشہ سے) کی ساخت اللہ کے ابدی اور مسلسل علم پر زور دیتی ہے۔ اللہ ہمیشہ دیکھ رہا تھا، پیدائش سے پہلے سے موت اور اس کے بعد تک۔",
+          "whyItMatters_urdu": "کوئی لمحہ ایسا نہیں تھا جب اللہ آگاہ نہیں تھا۔ یہ ابدی چوکسی کا مطلب ہے کہ ہماری پوری زندگی کی کہانی معلوم ہے۔",
+          "title_ar": "الرب الأزلي",
+          "coreInsight_ar": "تركيب 'ربه كان' تؤكد علم الله الأزلي والمستمر. كان الله يراقب دائماً، من قبل الولادة خلال الموت وما بعده.",
+          "whyItMatters_ar": "لم تكن هناك لحظة لم يكن الله فيها واعياً. هذه اليقظة الأبدية تعني أن قصة حياتنا كلها معروفة."
+        }
+      ]
+    },
+    "layer4": "The divine attribute of being All-Seeing and the certainty of return to Allah are emphasized across Islamic traditions. Sunni hadith collections and Shia sources alike contain extensive narrations about Allah's knowledge and observation of all things. Ibn Kathir discusses this verse as affirming resurrection and divine omniscience, refuting the denial of disbelievers. Tabatabai's interpretation is essentially the same. Both traditions emphasize that 'Basir' is not merely passive observation but knowledge that forms the basis for judgment and accountability. Sufi traditions in both Sunni and Shia contexts developed the concept of muraqaba, self-observation based on awareness that Allah is always watching. Both traditions cite this verse and similar ones to encourage consciousness of divine presence in all situations. The theological principle is shared: divine knowledge is perfect and comprehensive, seeing not only actions but intentions, judging with absolute justice. Both traditions emphasize that this verse should inspire both hope and fear: hope that good deeds are seen and will be rewarded, fear that sins are witnessed and will be judged. This balanced response reflects the shared Islamic emphasis on maintaining both love and awe toward Allah.",
+    "layer4_urdu": "اللہ کا ہر چیز دیکھنے والا ہونا اور اس کے پاس واپسی کی یقینیت پوری اسلامی روایات میں مضبوطی سے بیان کی گئی ہے۔ سنی حدیث مجامع اور شیعہ روایات دونوں میں اللہ کے علم اور ہر چیز پر اس کی نگاہ سے متعلق وافر روایات موجود ہیں۔ ابنِ کثیر اس آیت کو قیامت اور الٰہی علمِ محیط کی تصدیق کے طور پر بیان کرتے ہیں اور کافروں کے انکار کو رد کرتے ہیں۔ علامہ طباطبائی کی تفسیر اساسی طور پر یکساں ہے۔ دونوں روایات یہ واضح کرتی ہیں کہ «بَصِیر» محض ایک غیر فعال مشاہدہ نہیں بلکہ وہ علم ہے جو حکم اور جواب دہی کی بنیاد بنتا ہے۔ سنی اور شیعہ دونوں سلسلوں میں صوفی روایات نے مراقبہ کا تصور پیدا کیا، یعنی اس شعور کی بنیاد پر خود نگرانی کہ اللہ ہمیشہ دیکھ رہا ہے۔ دونوں روایات اس آیت اور اس جیسی دیگر آیات کو ہر حال میں الٰہی حضور کے شعور کی ترغیب کے لیے استعمال کرتی ہیں۔ کلامی اصول مشترک ہے: الٰہی علم کامل اور ہمہ گیر ہے، نہ صرف اعمال کو دیکھتا بلکہ نیتوں کو بھی، مطلق انصاف سے فیصلہ کرتا ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ اس آیت سے امید اور خشیت دونوں جنم لینی چاہییں: امید کہ نیک اعمال دیکھے گئے اور اجر ملے گا، خشیت کہ گناہ گواہ ہیں اور ان کا حساب ہوگا۔ یہ متوازن کیفیت اللہ کی طرف محبت اور ہیبت دونوں رکھنے کے اسلامی اصول کی عکاسی ہے۔",
+    "layer4_ar": "صفة الله البصير المطلق وحتمية الرجوع إليه مؤكَّدتان في التراثين الإسلاميين على حدٍّ سواء، تستندان إلى روايات شيعية وسنية موفورة تُفيض في وصف علم الله وإحاطته بكل الأشياء المشهودة والخفية. ويتناول ابن كثير هذه الآية باعتبارها إثباتاً للبعث والعلم الإلهي الشامل ورداً قاطعاً على إنكار الكافرين. وتفسير الطباطبائي في جوهره مطابق لذلك. ويُؤكِّد كلا التراثين أن \"بصيراً\" ليست مجرد رقابة سلبية بل علم يُشكِّل أساس الحكم والمساءلة. وقد طوَّرت التيارات الصوفية في السياقين السني والشيعي مفهوم المراقبة، وهو اليقظة الروحية الناجمة عن إدراك أن الله رقيب على الدوام. ويستشهد كلا التراثين بهذه الآية وأمثالها لتشجيع الوعي الدائم بالحضور الإلهي في جميع الأحوال. والمبدأ العقدي المشترك هو أن علم الله كامل شامل يرى الأفعال والنيات معاً ويقضي بعدل مطلق. ويُؤكِّد كلا التراثين أن الآية ينبغي أن تُولِّد الخوف والرجاء معاً: خوفاً من المساءلة على المعاصي والخفايا، ورجاءً في أن الأعمال الصالحة المخفية مرئية لله وسيُجازى عليها. وهذه الاستجابة المتوازنة تعكس التأكيد الإسلامي المشترك على ضرورة الجمع بين محبة الله وهيبته، فلا يطغى أحدهما على الآخر."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:16:divine-oath",
+          "title": "Divine Oath",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by the twilight glow, elevating this natural phenomenon to sacred status. The oath form 'la uqsimu' (I do swear) emphasizes the gravity of what follows.",
+          "whyItMatters": "When Allah swears by His creation, it invites us to contemplate its deeper significance and prepares us for an important truth.",
+          "position": "topLeft",
+          "arabicHighlight": "فَلَآ أُقْسِمُ",
+          "title_urdu": "الہی قسم",
+          "coreInsight_urdu": "اللہ شفق کی سرخی کی قسم کھاتا ہے، اس قدرتی منظر کو مقدس درجہ دیتا ہے۔ 'لا اقسم' کی صورت اس بات کی سنگینی پر زور دیتی ہے جو آگے آنے والی ہے۔",
+          "whyItMatters_urdu": "جب اللہ اپنی مخلوق کی قسم کھاتا ہے تو یہ ہمیں اس کی گہری اہمیت پر غور کرنے کی دعوت دیتا ہے۔",
+          "title_ar": "القسم الإلهي",
+          "coreInsight_ar": "يقسم الله بالشفق، رافعاً هذه الظاهرة الطبيعية إلى مرتبة القداسة. صيغة 'فلا أقسم' تؤكد خطورة ما يلي.",
+          "whyItMatters_ar": "عندما يقسم الله بخلقه، فإنه يدعونا للتأمل في أهميته العميقة."
+        },
+        {
+          "id": "84:16:twilight-glow",
+          "title": "Twilight Glow",
+          "icon": "sun.horizon.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Shafaq refers to the reddish afterglow that lingers after sunset, a transitional moment between day and night symbolizing change and transformation.",
+          "whyItMatters": "The twilight represents life's transitions and reminds us that endings lead to new beginnings, just as death leads to resurrection.",
+          "position": "topRight",
+          "arabicHighlight": "بِٱلشَّفَقِ",
+          "title_urdu": "شفق کی سرخی",
+          "coreInsight_urdu": "الشفق سے مراد غروب آفتاب کے بعد کی سرخی ہے، دن اور رات کے درمیان ایک منتقلی کا لمحہ جو تبدیلی اور تحول کی علامت ہے۔",
+          "whyItMatters_urdu": "شفق زندگی کی تبدیلیوں کی نمائندگی کرتی ہے اور یاد دلاتی ہے کہ اختتام نئی شروعات کی طرف لے جاتا ہے۔",
+          "title_ar": "الشفق",
+          "coreInsight_ar": "الشفق هو الحمرة التي تبقى بعد غروب الشمس، لحظة انتقالية بين النهار والليل ترمز للتغيير والتحول.",
+          "whyItMatters_ar": "يمثل الشفق تحولات الحياة ويذكرنا أن النهايات تؤدي إلى بدايات جديدة."
+        },
+        {
+          "id": "84:16:cosmic-signs",
+          "title": "Cosmic Signs",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The Quran frequently draws attention to celestial phenomena as signs of divine power and wisdom, inviting reflection on the Creator behind creation.",
+          "whyItMatters": "Observing nature with awareness transforms ordinary moments into spiritual contemplation and strengthens faith.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِٱلشَّفَقِ",
+          "title_urdu": "کائناتی نشانیاں",
+          "coreInsight_urdu": "قرآن اکثر آسمانی مظاہر کی طرف توجہ دلاتا ہے بطور الہی قدرت اور حکمت کی نشانیاں۔",
+          "whyItMatters_urdu": "آگاہی کے ساتھ فطرت کا مشاہدہ عام لمحات کو روحانی تفکر میں بدل دیتا ہے۔",
+          "title_ar": "الآيات الكونية",
+          "coreInsight_ar": "يلفت القرآن الانتباه كثيراً إلى الظواهر السماوية كعلامات على القدرة والحكمة الإلهية.",
+          "whyItMatters_ar": "مراقبة الطبيعة بوعي تحول اللحظات العادية إلى تأمل روحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that the oath by twilight serves to emphasize the seriousness of the message that follows regarding resurrection and accountability. Tabatabai's Al-Mizan and Fakhr al-Din al-Razi's Mafatih al-Ghayb both explain that Allah swears by His creation to draw attention to divine signs. While there is consensus on the basic meaning of shafaq as the reddish glow after sunset, some differences exist in jurisprudential applications. In prayer timings, Sunni schools generally consider maghrib time to end when the red twilight disappears, while Shia jurisprudence distinguishes between the red twilight and the white twilight that follows. Ibn Kathir and Qurtubi, like their Shia counterparts, emphasize that these oaths authenticate divine revelation and demonstrate Allah's power through natural phenomena. Both traditions encourage believers to reflect on creation as evidence of the Creator. The scholarly consensus across schools is that these verses serve a pedagogical purpose, using familiar natural phenomena to direct human consciousness toward metaphysical realities. The universal recognition of twilight's beauty across cultures makes it an effective vehicle for divine communication to all humanity.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ شفق کی قسم اس کے بعد بیان کی جانے والی قیامت اور حساب و کتاب کی سچائی کو مضبوط کرنے کے لیے ہے۔ طباطبائی کی المیزان اور فخر الدین رازی کی مفاتیح الغیب دونوں میں یہ واضح کیا گیا ہے کہ اللہ اپنی مخلوق کی قسم کھا کر الٰہی نشانیوں کی طرف توجہ دلاتا ہے۔ شفق کے بنیادی معنی یعنی غروبِ آفتاب کے بعد کی سرخی پر علما کا اتفاق ہے۔ البتہ فقہی اطلاقات میں کچھ اختلاف موجود ہے، جیسے نماز کے اوقات کے تعین میں سنی مکاتب عام طور پر نمازِ مغرب کا وقت سرخ شفق کے ختم ہونے پر تمام سمجھتے ہیں، جبکہ شیعہ فقہ سرخ اور سفید شفق میں فرق کرتی ہے۔ ابنِ کثیر اور قرطبی بھی اپنے شیعہ ہم منصبوں کی طرح اس بات پر زور دیتے ہیں کہ یہ قسمیں الٰہی وحی کی تصدیق کرتی ہیں اور اللہ کی قدرت کو قدرتی مظاہر کے ذریعے نمایاں کرتی ہیں۔ تمام علما اس بات پر متفق ہیں کہ ان آیات کا ایک تعلیمی مقصد ہے: مانوس قدرتی مظاہر کو بروئے کار لاتے ہوئے انسانی شعور کو مابعدالطبیعی حقائق کی طرف رہنمائی کرنا۔ شفق کی خوبصورتی کا تمام ثقافتوں میں مشترک ادراک اسے تمام انسانیت کے لیے الٰہی پیغام کا ایک موثر وسیلہ بناتا ہے۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على أن القَسَم بالشفق يأتي للتأكيد على جلالة الرسالة التي تعقبه في شأن البعث والمساءلة. فكل من الميزان للطباطبائي ومفاتيح الغيب لفخر الدين الرازي يُفسِّران الآية بأن الله يُقسم بمخلوقاته ليُنبِّه الناس على الآيات المحيطة بهم. وثمة اتفاق على المعنى الأصلي للشفق بوصفه الحُمرة التي تبقى بعد غروب الشمس، غير أن ثمة فروقاً فقهية تطبيقية بين المذاهب. ففي مسألة أوقات الصلاة يرى السنة عموماً أن وقت المغرب ينتهي بذهاب الشفق الأحمر، في حين يُفرِّق الفقه الشيعي بين الشفق الأحمر والشفق الأبيض الذي يتلوه. وكل من ابن كثير والقرطبي من علماء السنة، شأنهم شأن نظرائهم الشيعة، يُؤكِّدون أن هذه الأقسام تُوثِّق الوحي الإلهي وتُبرهن على قدرة الله من خلال الآيات الكونية. وكلا التراثين يُشجِّع المؤمنين على التأمل في الخليقة بوصفها دليلاً على الخالق. والإجماع العلمي عبر المذاهب هو أن هذه الآيات تؤدي غرضاً تعليمياً بالغ الأهمية، توظَّف فيه الظواهر الطبيعية المألوفة لتوجيه الوعي البشري نحو الحقائق ما وراء المادة."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:17:night-oath",
+          "title": "Night's Embrace",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by the night and all it gathers or envelops. The night collects within its darkness all creatures seeking rest, creating a universal cycle of repose.",
+          "whyItMatters": "The night's gathering symbolizes how Allah's mercy encompasses all creation, providing rest and renewal for every living thing.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلَّيْلِ",
+          "title_urdu": "رات کی آغوش",
+          "coreInsight_urdu": "اللہ رات اور جو کچھ وہ سمیٹتی ہے اس کی قسم کھاتا ہے۔ رات اپنی تاریکی میں تمام مخلوقات کو آرام کے لیے جمع کرتی ہے۔",
+          "whyItMatters_urdu": "رات کا جمع کرنا اس بات کی علامت ہے کہ اللہ کی رحمت تمام مخلوقات کو گھیرے ہوئے ہے۔",
+          "title_ar": "احتضان الليل",
+          "coreInsight_ar": "يقسم الله بالليل وما يجمع في ظلامه. الليل يجمع جميع المخلوقات الباحثة عن الراحة.",
+          "whyItMatters_ar": "جمع الليل يرمز إلى كيف تشمل رحمة الله جميع المخلوقات."
+        },
+        {
+          "id": "84:17:what-it-envelops",
+          "title": "Divine Gathering",
+          "icon": "rectangle.compress.vertical",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'wasaq' means to gather, collect, or drive together. Night gathers scattered creatures into rest, just as the Day of Judgment will gather all souls.",
+          "whyItMatters": "This gathering foreshadows the ultimate assembly when all beings will be brought before Allah for accounting.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَا وَسَقَ",
+          "title_urdu": "الہی جمع",
+          "coreInsight_urdu": "'وسق' کا مطلب جمع کرنا ہے۔ رات بکھری مخلوقات کو آرام میں جمع کرتی ہے، جیسے قیامت تمام روحوں کو جمع کرے گی۔",
+          "whyItMatters_urdu": "یہ جمع اس حتمی اجتماع کی پیش بینی ہے جب تمام مخلوقات اللہ کے سامنے لائی جائیں گی۔",
+          "title_ar": "الجمع الإلهي",
+          "coreInsight_ar": "كلمة 'وسق' تعني الجمع والضم. الليل يجمع المخلوقات المتفرقة للراحة، كما سيجمع يوم القيامة كل الأرواح.",
+          "whyItMatters_ar": "هذا الجمع ينبئ بالحشر الأعظم حين تُجمع كل الكائنات أمام الله."
+        },
+        {
+          "id": "84:17:cycle-of-rest",
+          "title": "Cycle of Rest",
+          "icon": "bed.double.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The night serves as a garment of rest, a mercy from Allah allowing creation to recover and regenerate for the challenges of a new day.",
+          "whyItMatters": "Recognizing night as a divine blessing encourages gratitude and proper use of this time for worship and reflection.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلَّيْلِ وَمَا وَسَقَ",
+          "title_urdu": "آرام کا چکر",
+          "coreInsight_urdu": "رات آرام کا لباس ہے، اللہ کی رحمت جو مخلوق کو نئے دن کے چیلنجوں کے لیے بحال ہونے دیتی ہے۔",
+          "whyItMatters_urdu": "رات کو الہی نعمت کے طور پر پہچاننا شکرگزاری اور عبادت کی ترغیب دیتا ہے۔",
+          "title_ar": "دورة الراحة",
+          "coreInsight_ar": "الليل يعمل كلباس للراحة، رحمة من الله تسمح للخلق بالتعافي والتجدد.",
+          "whyItMatters_ar": "الاعتراف بالليل كنعمة إلهية يشجع على الشكر واستغلال هذا الوقت للعبادة."
+        }
+      ]
+    },
+    "layer4": "Scholars across Islamic traditions agree on the significance of night in both the natural and spiritual realms. Both Shia and Sunni commentators, including Tabatabai, Ibn Kathir, and Qurtubi, explain that the oath by night emphasizes Allah's power in creating the day-night cycle essential for life. While interpretations of 'ma wasaqa' vary slightly, with some emphasizing the gathering of creatures and others the enveloping darkness itself, the core meaning remains consistent across schools. Both traditions strongly encourage night worship, particularly the tahajjud prayer, as a means of spiritual elevation. Sunni hadith collections and Shia narrations alike praise those who rise for prayer while others sleep. Legal rulings about night-time prayers, night travel, and other nocturnal activities show minor differences between schools but share common principles. Fakhr al-Din al-Razi and Allamah Tabatabai both emphasize that natural phenomena like night serve as evidence for resurrection, as the daily cycle of sleep and waking mirrors death and resurrection. All major tafsir works recognize that these oaths build toward the verse about experiencing 'state after state,' using familiar natural cycles to explain metaphysical transitions. The universal human experience of night makes it an effective sign for all peoples and times.",
+    "layer4_urdu": "اسلامی روایات میں قدرتی اور روحانی دونوں دائروں میں رات کی اہمیت پر اتفاقِ رائے ہے۔ طباطبائی، ابنِ کثیر، اور قرطبی سمیت شیعہ اور سنی دونوں مفسرین بیان کرتے ہیں کہ رات کی قسم اس الٰہی قدرت کو اجاگر کرتی ہے جس نے زندگی کے لیے ضروری رات اور دن کے سلسلے کو قائم کیا ہے۔ اگرچہ 'ما وسق' کی تفسیر میں معمولی فرق ہے، کچھ مفسرین مخلوق کے جمع ہونے اور کچھ گھیرنے والی تاریکی کو نمایاں کرتے ہیں، مگر مرکزی مفہوم تمام مکاتب میں یکساں ہے۔ دونوں روایات رات کی عبادت، بالخصوص تہجد، کو روحانی ترقی کا ذریعہ قرار دے کر اس کی مضبوطی سے حوصلہ افزائی کرتی ہیں۔ سنی اور شیعہ حدیث مجموعوں میں یکساں طور پر ان لوگوں کی تعریف ملتی ہے جو سونے کی بجائے رات کو نماز میں گزارتے ہیں۔ رات کے سفر، رات کی نمازوں اور دیگر رات کے امور کے بارے میں فقہی احکام میں مکاتب کے درمیان معمولی فرق ہے لیکن مشترک اصول موجود ہیں۔ فخر الدین رازی اور علامہ طباطبائی دونوں اس بات پر زور دیتے ہیں کہ رات اور دن جیسے قدرتی مظاہر قیامت کے ثبوت کے طور پر کام کرتے ہیں، کیونکہ نیند اور بیداری کا روزانہ سلسلہ موت اور قیامت کا عکس ہے۔",
+    "layer4_ar": "يتفق علماء الإسلام في مختلف مذاهبه على أهمية الليل في العالمين الطبيعي والروحي. فكل من الطباطبائي وابن كثير والقرطبي يُفسِّرون القَسَم بالليل باعتباره تأكيداً على قدرة الله في خلق دورة الليل والنهار الضرورية للحياة. وبينما تتباين التفسيرات قليلاً في تحديد المقصود بـ\"ما وَسَق\" بين الجمع الفعلي للكائنات والإحاطة الظلامية، يبقى الجوهر متسقاً عبر المذاهب. وكلا التراثين يُشجِّع بقوة على صلاة التهجد بوصفها طريق الارتقاء الروحي. والأحاديث السنية والروايات الشيعية على حدٍّ سواء تُثني على من يُحيون الليل بالعبادة. وتوجد فروق في الأحكام الفقهية المتعلقة بالصلاة الليلية والسفر ليلاً وغيرها من أحوال الليل بين المذاهب، لكنها تشترك في المبادئ الأصيلة. وكل من فخر الدين الرازي والعلامة الطباطبائي يُؤكِّدان أن الظواهر الطبيعية كالليل تُقدِّم دليلاً على البعث، إذ الدورة اليومية من نوم ويقظة تُصوِّر الموت والقيامة. وجميع التفاسير الكبرى تُقرُّ بأن هذه الأقسام تُمهِّد لمحور الآية المتعلق بتقلُّب الإنسان في أحوال متعاقبة، مستعينةً بالدورات الطبيعية المألوفة على تفسير التحولات الغيبية."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:18:full-moon",
+          "title": "Full Moon",
+          "icon": "moon.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah swears by the moon when it reaches its full state (ittasaq), a moment of complete illumination and perfect beauty in the night sky.",
+          "whyItMatters": "The full moon represents completion and perfection, reminding us that everything reaches its appointed state by Allah's decree.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلْقَمَرِ",
+          "title_urdu": "پورا چاند",
+          "coreInsight_urdu": "اللہ چاند کی قسم کھاتا ہے جب وہ اپنی مکمل حالت تک پہنچتا ہے، رات کے آسمان میں مکمل روشنی اور کامل خوبصورتی کا لمحہ۔",
+          "whyItMatters_urdu": "پورا چاند تکمیل اور کمال کی نمائندگی کرتا ہے، یاد دلاتا ہے کہ ہر چیز اللہ کے حکم سے اپنی مقررہ حالت تک پہنچتی ہے۔",
+          "title_ar": "القمر المكتمل",
+          "coreInsight_ar": "يقسم الله بالقمر حين يكتمل بدراً، لحظة إضاءة تامة وجمال كامل في سماء الليل.",
+          "whyItMatters_ar": "البدر يمثل الاكتمال والكمال، يذكرنا أن كل شيء يصل إلى حالته المقدرة بأمر الله."
+        },
+        {
+          "id": "84:18:perfect-alignment",
+          "title": "Perfect Alignment",
+          "icon": "circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'ittasaq' implies coming together in perfect order and harmony. The moon's phases demonstrate Allah's precise control over celestial movements.",
+          "whyItMatters": "This perfect cosmic order reflects Allah's meticulous planning in all affairs, including human destiny and resurrection.",
+          "position": "topRight",
+          "arabicHighlight": "إِذَا ٱتَّسَقَ",
+          "title_urdu": "کامل ہم آہنگی",
+          "coreInsight_urdu": "'اتسق' کا مطلب کامل ترتیب اور ہم آہنگی میں آنا ہے۔ چاند کے مراحل آسمانی حرکات پر اللہ کے درست کنٹرول کا مظاہرہ کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ کامل کائناتی نظام تمام معاملات میں اللہ کی باریک منصوبہ بندی کی عکاسی کرتا ہے۔",
+          "title_ar": "الانتظام التام",
+          "coreInsight_ar": "كلمة 'اتسق' تعني الاجتماع في نظام وانسجام تام. أطوار القمر تُظهر تحكم الله الدقيق في الحركات السماوية.",
+          "whyItMatters_ar": "هذا النظام الكوني المحكم يعكس تخطيط الله الدقيق في كل الأمور."
+        },
+        {
+          "id": "84:18:stages-of-growth",
+          "title": "Stages of Growth",
+          "icon": "chart.line.uptrend.xyaxis",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The moon progresses through stages from new moon to full, illustrating how creation develops gradually toward completion under divine guidance.",
+          "whyItMatters": "Our spiritual journey also has stages; patience and perseverance lead to eventual fullness and enlightenment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+          "title_urdu": "نشوونما کے مراحل",
+          "coreInsight_urdu": "چاند نئے چاند سے پورے چاند تک مراحل سے گزرتا ہے، یہ ظاہر کرتا ہے کہ مخلوق الہی رہنمائی میں آہستہ آہستہ تکمیل کی طرف بڑھتی ہے۔",
+          "whyItMatters_urdu": "ہمارے روحانی سفر کے بھی مراحل ہیں؛ صبر اور استقامت آخرکار کمال اور روشنی کی طرف لے جاتے ہیں۔",
+          "title_ar": "مراحل النمو",
+          "coreInsight_ar": "يتدرج القمر من الهلال إلى البدر، موضحاً كيف يتطور الخلق تدريجياً نحو الاكتمال تحت التوجيه الإلهي.",
+          "whyItMatters_ar": "رحلتنا الروحية أيضاً لها مراحل؛ الصبر والمثابرة يؤديان إلى الاكتمال والتنوير."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars share common understanding of the moon oath while emphasizing different aspects. Tabatabai, Ibn Kathir, and Qurtubi all explain that the full moon represents the perfection of the lunar cycle and serves as a sign of divine power. Both traditions use the lunar calendar for religious purposes, though with some differences in month determination methods. Shia scholarship particularly emphasizes the symbolic representation of the Prophet and Imams as the full moon of guidance, while Sunni tafsir focuses more on the natural phenomenon itself. All major commentators agree that the progression through lunar phases parallels human life stages and the journey toward resurrection. Legal differences exist regarding moon sighting for beginning and ending Ramadan, with Shia jurisprudence generally allowing astronomical calculation while most Sunni schools require physical sighting. Both traditions recognize the moon's importance in Islamic timekeeping and its role in determining prayer times, particularly for tahajjud before dawn. Fakhr al-Din al-Razi and Allamah Tabatabai both emphasize that celestial regularity demonstrates divine design and serves as evidence against those who deny resurrection. The universal visibility of the moon across the world makes it an effective sign for all humanity, transcending cultural and geographic boundaries.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین دونوں اس بات پر متفق ہیں کہ پورے چاند کی قسم اللہ کی ان قدرتی نشانیوں کو نمایاں کرتی ہے جو اس کی وحدانیت اور قدرت کو ثابت کرتی ہیں۔ طباطبائی، طبرسی، ابنِ کثیر اور قرطبی سبھی بیان کرتے ہیں کہ یہ قسمیں مل کر قیامت کی حقیقت کو ثابت کرنے کی مضبوط بنیاد فراہم کرتی ہیں۔ سنی مکاتبِ فقہ اور شیعہ فقہ دونوں میں نئے چاند کے دیکھنے کو شرعی اہمیت حاصل ہے، اور اگرچہ رویتِ ہلال کے احکام میں معمولی اختلافات ہیں مگر قمری تقویم کی اہمیت پر اتفاق ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں بیان کرتے ہیں کہ چاند کا باقاعدہ سلسلہ الٰہی انتظام کی دلیل ہے جو کبھی نہیں بدلتا۔ دونوں روایات اس بات پر متفق ہیں کہ چاند کے مراحل انسانی زندگی کے مراحل اور آخرکار قیامت کی طرف سفر کی عکاسی کرتے ہیں۔ کلاسیکی علما کا اتفاق ہے کہ یہ قسمیں انسان کو اس سوال پر غور کرنے کی دعوت دیتی ہیں کہ اگر چاند اپنے مقرر مراحل سے ٹلتا نہیں تو موت کے بعد قیامت کیوں نہ یقینی ہو؟",
+    "layer4_ar": "يتشارك علماء الشيعة والسنة في الفهم الجوهري للقَسَم بالقمر مع اختلاف في التركيز. فكل من الطباطبائي وابن كثير والقرطبي يُفسِّرون القمر المكتمل بأنه تجلٍّ لاكتمال الدورة القمرية وآية من آيات قدرة الله. وكلا التراثين يعتمدان التقويم القمري في الفرائض الدينية، وإن افترقا في مناهج تحديد الأهلة. ويُولي التراث الشيعي عناية خاصة لرمزية تمثيل النبي والأئمة في صورة بدر الهداية، في حين يُركِّز التفسير السني على الظاهرة الطبيعية في ذاتها. وكل كبار المفسرين يتفقون على أن تدرُّج مراحل القمر يُوازي مراحل حياة الإنسان ومسيرته نحو البعث. وتوجد فروق فقهية في رؤية الهلال لإثبات دخول رمضان وانتهائه، إذ يُجيز الفقه الشيعي الحساب الفلكي عادةً بينما تشترط أغلب المذاهب السنية الرؤية البصرية. وكلا التراثين يُدركان أهمية القمر في حساب أوقات الصلاة ولا سيما التهجد قبيل الفجر. وكل من فخر الدين الرازي والعلامة الطباطبائي يُؤكِّدان أن انتظام الأجرام السماوية يُثبت التصميم الإلهي ويُقدِّم دليلاً على البعث في مواجهة المنكرين."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:19:state-after-state",
+          "title": "State After State",
+          "icon": "arrow.up.arrow.down",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Humanity will pass through successive stages (tabaq): from life to death, from grave to resurrection, and from gathering to judgment. Each state is inevitable.",
+          "whyItMatters": "Understanding life as a series of transitions prepares us to face each stage with faith and readiness.",
+          "position": "topLeft",
+          "arabicHighlight": "طَبَقًا عَن طَبَقٍۢ",
+          "title_urdu": "حالت در حالت",
+          "coreInsight_urdu": "انسانیت متعدد مراحل سے گزرے گی: زندگی سے موت، قبر سے قیامت، اور جمع سے فیصلے تک۔ ہر حالت ناگزیر ہے۔",
+          "whyItMatters_urdu": "زندگی کو تبدیلیوں کے سلسلے کے طور پر سمجھنا ہمیں ہر مرحلے کا ایمان اور تیاری کے ساتھ سامنا کرنے کے لیے تیار کرتا ہے۔",
+          "title_ar": "طبقاً عن طبق",
+          "coreInsight_ar": "ستمر البشرية بمراحل متتالية: من الحياة إلى الموت، ومن القبر إلى البعث، ومن الحشر إلى الحساب. كل حالة حتمية.",
+          "whyItMatters_ar": "فهم الحياة كسلسلة من التحولات يُعدنا لمواجهة كل مرحلة بإيمان واستعداد."
+        },
+        {
+          "id": "84:19:certainty-of-journey",
+          "title": "Certain Journey",
+          "icon": "road.lanes",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The emphatic 'la-tarkabunna' (you will surely mount/experience) leaves no doubt - these transitions are guaranteed for every soul without exception.",
+          "whyItMatters": "Certainty about the afterlife journey should motivate us to prepare now rather than live in heedlessness.",
+          "position": "topRight",
+          "arabicHighlight": "لَتَرْكَبُنَّ",
+          "title_urdu": "یقینی سفر",
+          "coreInsight_urdu": "'لترکبن' کی تاکید کوئی شک نہیں چھوڑتی - یہ تبدیلیاں ہر روح کے لیے بلا استثناء یقینی ہیں۔",
+          "whyItMatters_urdu": "آخرت کے سفر کے بارے میں یقین ہمیں غفلت میں رہنے کی بجائے ابھی تیاری کرنے کی ترغیب دینا چاہیے۔",
+          "title_ar": "الرحلة المؤكدة",
+          "coreInsight_ar": "التأكيد في 'لتركبنّ' لا يدع مجالاً للشك - هذه التحولات مضمونة لكل نفس بلا استثناء.",
+          "whyItMatters_ar": "اليقين برحلة الآخرة يجب أن يحفزنا على الاستعداد الآن بدلاً من العيش في غفلة."
+        },
+        {
+          "id": "84:19:life-transitions",
+          "title": "Life Transitions",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Some scholars interpret this as the various conditions humans face in this life - ease and hardship, health and illness, youth and old age - all by divine decree.",
+          "whyItMatters": "Accepting life's changing conditions as tests helps maintain equanimity and reliance on Allah through all circumstances.",
+          "position": "bottomLeft",
+          "arabicHighlight": "طَبَقًا عَن طَبَقٍۢ",
+          "title_urdu": "زندگی کی تبدیلیاں",
+          "coreInsight_urdu": "بعض علماء اس کی تفسیر اس زندگی میں انسانوں کو درپیش مختلف حالات سے کرتے ہیں - آسانی اور مشکل، صحت اور بیماری، جوانی اور بڑھاپا۔",
+          "whyItMatters_urdu": "زندگی کی بدلتی حالتوں کو آزمائش کے طور پر قبول کرنا ہر حال میں اطمینان اور اللہ پر توکل برقرار رکھنے میں مدد کرتا ہے۔",
+          "title_ar": "تحولات الحياة",
+          "coreInsight_ar": "يفسر بعض العلماء هذا بالأحوال المختلفة التي يواجهها الإنسان في الدنيا - اليسر والعسر، الصحة والمرض، الشباب والشيخوخة.",
+          "whyItMatters_ar": "قبول تقلبات الحياة كاختبارات يساعد على الحفاظ على الطمأنينة والتوكل على الله في كل الظروف."
+        },
+        {
+          "id": "84:19:heavenly-ascent",
+          "title": "Heavenly Ascent",
+          "icon": "arrow.up.to.line",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Another interpretation refers to the soul's ascent through the heavens after death, passing through stages until reaching its final abode.",
+          "whyItMatters": "The concept of ascending stages reminds us that our ultimate destination is with Allah, and this life is preparation for that meeting.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍۢ",
+          "title_urdu": "آسمانی عروج",
+          "coreInsight_urdu": "ایک اور تفسیر موت کے بعد روح کے آسمانوں میں عروج کا حوالہ دیتی ہے، اپنی آخری منزل تک پہنچنے تک مراحل سے گزرتے ہوئے۔",
+          "whyItMatters_urdu": "عروج کے مراحل کا تصور یاد دلاتا ہے کہ ہماری آخری منزل اللہ کے پاس ہے، اور یہ زندگی اس ملاقات کی تیاری ہے۔",
+          "title_ar": "العروج السماوي",
+          "coreInsight_ar": "تفسير آخر يشير إلى صعود الروح عبر السماوات بعد الموت، مروراً بمراحل حتى الوصول إلى المقر النهائي.",
+          "whyItMatters_ar": "مفهوم المراحل الصاعدة يذكرنا أن وجهتنا النهائية مع الله، وهذه الحياة استعداد لذلك اللقاء."
+        }
+      ]
+    },
+    "layer4": "Scholars across Islamic traditions interpret 'tabaqan an tabaq' with broad agreement on core meaning while emphasizing different aspects. Both Shia and Sunni exegetes, including Tabatabai, Ibn Kathir, and Qurtubi, identify the stages as including life, death, resurrection, and eternal afterlife. Some Sunni commentators interpret the verse as specifically addressing the progression through levels of paradise for believers or levels of hell for disbelievers. Shia scholarship particularly emphasizes the state of barzakh, providing detailed narrations from the Imams about this intermediate stage, while Sunni tradition also recognizes barzakh but with less elaborate description. Both traditions agree that the verse serves as a wake-up call to those heedless of the Hereafter, using observable natural cycles to prove the reality of spiritual transitions. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that the certainty of these stages equals the certainty of day following night. Minor differences exist in identifying specific sub-stages, but the essential message that human existence involves inevitable transformation toward ultimate accountability remains consistent. All major scholars encourage using awareness of life's transitory nature to prioritize preparation for eternal life over temporary worldly pursuits. The verse's universal address to humanity transcends sectarian boundaries in its fundamental warning and promise.",
+    "layer4_urdu": "'طبقاً عن طبق' کی تفسیر مختلف اسلامی روایات میں بنیادی معنی پر اتفاق کے ساتھ مختلف پہلوؤں کے لیے اہتمام ملتا ہے۔ شیعہ اور سنی دونوں مفسرین بشمول طباطبائی، ابنِ کثیر اور قرطبی ان مراحل میں زندگی، موت، قیامت اور ابدی آخرت کو شامل کرتے ہیں۔ بعض سنی مفسرین اس آیت کو خاص طور پر جنت کی منازل یا جہنم کے درجات کے لیے مخصوص کرتے ہیں۔ شیعہ علم میں عالمِ برزخ پر خاص توجہ دی جاتی ہے اور آئمہ علیہم السلام سے اس درمیانی منزل کے بارے میں تفصیلی روایات موجود ہیں، جبکہ سنی روایت بھی برزخ کو مانتی ہے مگر کم تفصیل کے ساتھ۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت ان لوگوں کے لیے ایک جھنجھوڑنے والی آواز ہے جو آخرت سے غافل ہیں، اور قابلِ مشاہدہ قدرتی سلسلوں کو روحانی منتقلیوں کی حقیقت ثابت کرنے کے لیے استعمال کرتی ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں وضاحت کرتے ہیں کہ ان مراحل کی یقینیت رات کے بعد دن کی یقینیت کے برابر ہے۔ معمولی اختلافات کے باوجود تمام بڑے علما یہ ترغیب دیتے ہیں کہ زندگی کی عارضی نوعیت کا شعور انسان کو دنیاوی مصروفیات پر ابدی زندگی کی تیاری کو ترجیح دینے پر آمادہ کرے۔",
+    "layer4_ar": "يتشارك علماء الإسلام في مختلف مذاهبه على الفهم الجوهري لـ\"طَبَقاً عَن طَبَق\" مع اختلافات في التركيز والتفصيل. فكل من الطباطبائي وابن كثير والقرطبي يُحدِّدون هذه الأطوار بما يشمل الحياة والموت والبعث والآخرة الخالدة. وبعض المفسرين السنة يُفسِّرون الآية على وجه خاص بأنها تُشير إلى التدرج عبر مستويات الجنة للمؤمنين أو درجات النار للكافرين. ويُولي التراث الشيعي عناية خاصة للبرزخ مُقدِّماً روايات مُفصَّلة عن الأئمة في شأن هذا الطور الوسيط، في حين يُقرُّ التراث السني بالبرزخ دون التوسع في تفصيله. وكلا التراثين يتفقان على أن الآية توجيه صاحٍ لمن غفلوا عن الآخرة، تستعين بالدورات الطبيعية المشهودة على إثبات واقعية الانتقالات الروحية. وكل من فخر الدين الرازي والعلامة الطباطبائي يُؤكِّدان أن يقين هذه الأطوار يُوازي يقين تعاقب الليل والنهار. وتوجد فروق طفيفة في تحديد الأطوار الفرعية، لكن الرسالة الجوهرية تبقى ثابتة متسقة: وجود الإنسان ينطوي على تحولات حتمية تصبُّ في غاية المساءلة الكبرى. وجميع العلماء الكبار يحثون على استثمار إدراك الطابع العابر للحياة في تقديم الاستعداد للحياة الأبدية على الملهيات الدنيوية الزائلة."
+  },
+  "20": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:20:rhetorical-question",
+          "title": "Divine Question",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah asks rhetorically why people refuse to believe despite the overwhelming signs. This question expresses divine amazement at human stubbornness.",
+          "whyItMatters": "Such questions in the Quran prompt self-reflection - are we among those who ignore clear signs?",
+          "position": "topLeft",
+          "arabicHighlight": "فَمَا لَهُمْ",
+          "title_urdu": "الہی سوال",
+          "coreInsight_urdu": "اللہ بلاغتی طور پر پوچھتا ہے کہ واضح نشانیوں کے باوجود لوگ ایمان لانے سے کیوں انکار کرتے ہیں۔ یہ سوال انسانی ہٹ دھرمی پر الہی حیرت کا اظہار کرتا ہے۔",
+          "whyItMatters_urdu": "قرآن میں ایسے سوالات خود احتسابی کی دعوت دیتے ہیں - کیا ہم ان میں سے ہیں جو واضح نشانیوں کو نظرانداز کرتے ہیں؟",
+          "title_ar": "السؤال الإلهي",
+          "coreInsight_ar": "يسأل الله استنكارياً لماذا يرفض الناس الإيمان رغم الآيات الواضحة. هذا السؤال يعبر عن العجب الإلهي من عناد البشر.",
+          "whyItMatters_ar": "مثل هذه الأسئلة في القرآن تحث على التأمل الذاتي - هل نحن ممن يتجاهلون الآيات الواضحة؟"
+        },
+        {
+          "id": "84:20:stubborn-disbelief",
+          "title": "Stubborn Disbelief",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'la yu'minun' (they do not believe) indicates a persistent, willful rejection rather than mere ignorance or lack of exposure to truth.",
+          "whyItMatters": "Faith is a choice; those who reject it despite clear evidence bear responsibility for their decision.",
+          "position": "topRight",
+          "arabicHighlight": "لَا يُؤْمِنُونَ",
+          "title_urdu": "ضدی کفر",
+          "coreInsight_urdu": "'لا یؤمنون' کا فقرہ محض جہالت کی بجائے مسلسل، جان بوجھ کر انکار کی نشاندہی کرتا ہے۔",
+          "whyItMatters_urdu": "ایمان ایک انتخاب ہے؛ جو واضح ثبوت کے باوجود اسے رد کرتے ہیں وہ اپنے فیصلے کی ذمہ داری اٹھاتے ہیں۔",
+          "title_ar": "الكفر العنيد",
+          "coreInsight_ar": "عبارة 'لا يؤمنون' تشير إلى رفض متعمد ومستمر وليس مجرد جهل أو عدم التعرض للحق.",
+          "whyItMatters_ar": "الإيمان اختيار؛ من يرفضه رغم الأدلة الواضحة يتحمل مسؤولية قراره."
+        },
+        {
+          "id": "84:20:clear-evidence",
+          "title": "Clear Evidence",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "After the cosmic oaths highlighting twilight, night, and moon - all pointing to resurrection - the disbelievers' refusal becomes even more inexplicable.",
+          "whyItMatters": "The signs of Allah are everywhere for those willing to see; closing one's heart to them is a conscious choice with consequences.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+          "title_urdu": "واضح ثبوت",
+          "coreInsight_urdu": "شفق، رات اور چاند کی کائناتی قسموں کے بعد - جو سب قیامت کی طرف اشارہ کرتے ہیں - کافروں کا انکار اور بھی ناقابل فہم ہو جاتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی نشانیاں ہر جگہ ہیں ان کے لیے جو دیکھنا چاہیں؛ دل بند کرنا نتائج کے ساتھ ایک شعوری انتخاب ہے۔",
+          "title_ar": "الدليل الواضح",
+          "coreInsight_ar": "بعد القسم بالشفق والليل والقمر - كلها تشير إلى البعث - يصبح رفض الكافرين أكثر غرابة.",
+          "whyItMatters_ar": "آيات الله في كل مكان لمن يريد أن يرى؛ إغلاق القلب عنها اختيار واعٍ له عواقب."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars share common interpretation of this verse as expressing Divine wonder at irrational disbelief. Tabatabai, Ibn Kathir, and Qurtubi all explain that the question highlights the inexplicable nature of rejecting clear evidence. Both traditions emphasize that disbelief often stems from arrogance, worldly attachments, or unwillingness to submit to divine authority rather than intellectual confusion. Sunni and Shia hadith collections both contain numerous narrations about the psychological and spiritual factors underlying disbelief. While specific narrations differ, the core understanding remains consistent. Both traditions teach that Allah has provided sufficient evidence for faith through creation, revelation, and prophets, making disbelief a choice rather than an inevitable result of insufficient evidence. Theological discussions in both schools address the relationship between divine guidance and human free will, with variations in emphasis but agreement that humans bear responsibility for their choices. Fakhr al-Din al-Razi and Allamah Tabatabai both emphasize that this verse serves a rhetorical purpose, challenging disbelievers while strengthening believers' confidence in their faith. The question applies universally across time and place, addressing ancient polytheists, modern atheists, and anyone who denies resurrection despite the evidence surrounding them. Both traditions use this verse to encourage believers to examine their own faith and remove barriers preventing complete submission to truth.",
+    "layer4_urdu": "شیعہ اور سنی علما اس آیت کی تفسیر میں مشترک ہیں کہ یہ غیر عقلانی انکار پر الٰہی تعجب کا اظہار ہے۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی بیان کرتے ہیں کہ سوال واضح دلیل کو رد کرنے کی ناقابلِ فہم نوعیت کو اجاگر کرتا ہے۔ دونوں روایات میں یہ تعلیم ملتی ہے کہ انکار اکثر تکبر، دنیاوی وابستگیوں یا الٰہی اتھارٹی کے سامنے جھکنے کی ناپسندیدگی سے جنم لیتا ہے نہ کہ فکری ابہام سے۔ سنی اور شیعہ دونوں حدیث مجموعوں میں انکار کی نفسیاتی اور روحانی وجوہات کے بارے میں کثیر روایات موجود ہیں۔ اگرچہ مخصوص روایات مختلف ہیں، یہ بنیادی فہم یکساں ہے کہ اللہ نے تخلیق، وحی اور انبیاء کے ذریعے ایمان کے لیے کافی دلیل فراہم کر دی ہے جس سے انکار ایک انتخاب بن جاتا ہے نہ کہ ناکافی ثبوت کا نتیجہ۔ فخر الدین رازی اور علامہ طباطبائی دونوں بیان کرتے ہیں کہ یہ آیت بلاغی مقصد کی حامل ہے: منکرین کو چیلنج کرتی ہے جبکہ مومنوں کے اعتماد کو مضبوط کرتی ہے۔ سوال عہدِ قدیم کے مشرکین، جدید دہریوں اور ہر اس شخص پر ابدی طور پر لاگو ہوتا ہے جو قیامت کا انکار کرتا ہے باوجود اس کے کہ اس کے اردگرد دلائل موجود ہیں۔ دونوں روایات مومنوں کو ترغیب دیتی ہیں کہ وہ اپنے ایمان کا جائزہ لیں اور ان رکاوٹوں کو دور کریں جو سچ کے سامنے مکمل تسلیم ہونے سے روکتی ہیں۔",
+    "layer4_ar": "يتشارك علماء الشيعة والسنة في تفسير الآية بوصفها تعبيراً عن الاستغراب الإلهي من رفض الحق رغم وضوحه الجليِّ. فالطباطبائي وابن كثير والقرطبي جميعاً يُفسِّرون التساؤل بأنه تسليط ضوء على الطابع غير المعقول لرفض الأدلة الدامغة. ويُؤكِّد كلا التراثين أن الإنكار كثيراً ما ينبع من الكبرياء والتعلق بالدنيا وإباء الخضوع للسلطان الإلهي لا من الحيرة الفكرية الصادقة. وكلا التراثين يحتضنان في مجموعاتهما الحديثية روايات موفورة تتناول العوامل النفسية والروحية المولِّدة للجحود. وبينما تتباين الروايات بالتحديد، يبقى الفهم الجوهري متسقاً. ويُعلِّم كلا التراثين أن الله أقام الحجة الكاملة على خلقه بالخلق والوحي والأنبياء، فصار الجحود اختياراً إرادياً لا نتيجة حتمية لقصور الأدلة. وتتناول النقاشات الكلامية في المذاهب كليها العلاقة بين الهداية الإلهية والإرادة الإنسانية الحرة، مع تباين في التركيز واتفاق على أن الإنسان مسؤول عن خياراته. وكل من فخر الدين الرازي والعلامة الطباطبائي يُؤكِّدان أن الآية تؤدي وظيفة بلاغية وتحدِّيَّة: تحدٍّ للجاحدين، وتعزيز لثقة المؤمنين بإيمانهم. والتساؤل ينسحب على كل زمان ومكان، يُخاطب مشركي الجاهلية والملحدين المعاصرين وكل من يُنكر البعث رغم الآيات المحيطة به من كل حدب وصوب."
+  },
+  "21": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:21:quran-recitation",
+          "title": "Quran Recitation",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "When the Quran is recited to them, they hear the miraculous words of Allah directly, yet they refuse to humble themselves in prostration.",
+          "whyItMatters": "The Quran's recitation is a profound moment deserving reverence; our response to it reveals our spiritual state.",
+          "position": "topLeft",
+          "arabicHighlight": "قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ",
+          "title_urdu": "قرآن کی تلاوت",
+          "coreInsight_urdu": "جب ان پر قرآن پڑھا جاتا ہے، وہ براہ راست اللہ کے معجزاتی کلام کو سنتے ہیں، پھر بھی سجدے میں عاجزی سے انکار کرتے ہیں۔",
+          "whyItMatters_urdu": "قرآن کی تلاوت تعظیم کا مستحق گہرا لمحہ ہے؛ اس پر ہمارا ردعمل ہماری روحانی حالت کو ظاہر کرتا ہے۔",
+          "title_ar": "تلاوة القرآن",
+          "coreInsight_ar": "حين يُتلى عليهم القرآن يسمعون كلام الله المعجز مباشرة، ومع ذلك يرفضون التواضع بالسجود.",
+          "whyItMatters_ar": "تلاوة القرآن لحظة عميقة تستحق التوقير؛ ردنا عليها يكشف حالتنا الروحية."
+        },
+        {
+          "id": "84:21:refusal-to-prostrate",
+          "title": "Refusal to Prostrate",
+          "icon": "figure.stand",
+          "colorHex": "#E57373",
+          "coreInsight": "Prostration represents the ultimate act of submission. Refusing to prostrate before Allah's words shows arrogance and rejection of divine authority.",
+          "whyItMatters": "This verse is a sajdah verse - believers prostrate upon hearing it, distinguishing themselves from those who refuse.",
+          "position": "topRight",
+          "arabicHighlight": "لَا يَسْجُدُونَ",
+          "title_urdu": "سجدے سے انکار",
+          "coreInsight_urdu": "سجدہ سپردگی کا اعلیٰ ترین عمل ہے۔ اللہ کے کلام کے سامنے سجدہ کرنے سے انکار تکبر اور الہی اختیار کی مخالفت ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت سجدہ کی آیت ہے - مومنین اسے سن کر سجدہ کرتے ہیں، خود کو انکار کرنے والوں سے ممتاز کرتے ہیں۔",
+          "title_ar": "رفض السجود",
+          "coreInsight_ar": "السجود يمثل أسمى فعل للخضوع. رفض السجود لكلام الله يُظهر الكبر ورفض السلطة الإلهية.",
+          "whyItMatters_ar": "هذه آية سجدة - المؤمنون يسجدون عند سماعها، متميزين عمن يرفضون."
+        },
+        {
+          "id": "84:21:sajdah-verse",
+          "title": "Verse of Prostration",
+          "icon": "person.fill.turn.down",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This is one of the fourteen sajdah verses in the Quran where prostration is obligatory (wajib) or highly recommended upon recitation.",
+          "whyItMatters": "Performing sajdah at these verses is an act of obedience that connects us to the Quran physically and spiritually.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَا يَسْجُدُونَ ۩",
+          "title_urdu": "آیت سجدہ",
+          "coreInsight_urdu": "یہ قرآن میں چودہ سجدہ آیات میں سے ایک ہے جہاں تلاوت پر سجدہ واجب یا انتہائی مستحب ہے۔",
+          "whyItMatters_urdu": "ان آیات پر سجدہ کرنا اطاعت کا عمل ہے جو ہمیں قرآن سے جسمانی اور روحانی طور پر جوڑتا ہے۔",
+          "title_ar": "آية السجدة",
+          "coreInsight_ar": "هذه إحدى آيات السجدة الأربع عشرة في القرآن حيث السجود واجب أو مستحب عند التلاوة.",
+          "whyItMatters_ar": "أداء السجدة عند هذه الآيات عمل طاعة يربطنا بالقرآن جسدياً وروحياً."
+        },
+        {
+          "id": "84:21:ultimate-submission",
+          "title": "Ultimate Submission",
+          "icon": "hands.clap.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The contrast is stark: Allah's magnificent words deserve the response of lowering one's face to the ground in awe and submission.",
+          "whyItMatters": "Our physical prostration reflects inner surrender; both are essential components of true faith and worship.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ",
+          "title_urdu": "اعلیٰ ترین سپردگی",
+          "coreInsight_urdu": "تضاد واضح ہے: اللہ کے شاندار کلام کو خوف اور سپردگی میں اپنا چہرہ زمین پر رکھنے کے ردعمل کا مستحق ہے۔",
+          "whyItMatters_urdu": "ہمارا جسمانی سجدہ باطنی سپردگی کی عکاسی کرتا ہے؛ دونوں سچے ایمان اور عبادت کے ضروری اجزاء ہیں۔",
+          "title_ar": "الخضوع الأسمى",
+          "coreInsight_ar": "التباين واضح: كلام الله العظيم يستحق الاستجابة بوضع الوجه على الأرض في خشوع وخضوع.",
+          "whyItMatters_ar": "سجودنا الجسدي يعكس الاستسلام الداخلي؛ كلاهما عنصران أساسيان في الإيمان الحق والعبادة."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni traditions share the practice of prostrating during specific Quran verses while differing on which verses require prostration and whether it is obligatory or recommended. Shia jurisprudence identifies four obligatory prostration verses (in Surahs 32, 41, 53, and 96) and eleven recommended ones, including this verse from Surah 84. Sunni schools have varying positions, with some counting fourteen or fifteen prostration verses, and differences regarding their obligatory status. Both traditions agree on the spiritual principle that hearing divine revelation should inspire humble submission. Tabatabai, Ibn Kathir, and Qurtubi all emphasize that the verse criticizes those who resist the Quran's call to worship and obedience. While specific legal rulings about prostration procedures differ slightly between schools, the core understanding that prostration symbolizes complete submission remains universal. Both traditions teach etiquette for Quran recitation including purification, reverence, and proper posture. Sunni and Shia scholars alike criticize superficial religiosity that performs rituals without heart transformation. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that this verse challenges anyone who hears truth but refuses to submit, whether through outright disbelief or through Islamic practice lacking sincere devotion. The universal message transcends sectarian differences, calling all humanity to genuine submission when confronted with divine guidance.",
+    "layer4_urdu": "شیعہ اور سنی روایات دونوں میں قرآن کی مخصوص آیات پر سجدہ کرنے کا عمل پایا جاتا ہے، البتہ یہ روایات اس بارے میں مختلف ہیں کہ کون سی آیات میں سجدہ ضروری ہے اور کون سی میں مستحب۔ شیعہ فقہ کے مطابق چار آیات میں سجدہ واجب ہے (سورتوں 32، 41، 53 اور 96 میں) اور گیارہ میں مستحب، جن میں سورۃ 84 کی یہ آیت بھی شامل ہے۔ سنی مذاہب میں مختلف آراء ہیں جن میں بعض چودہ یا پندرہ سجدے کی آیات شمار کرتے ہیں اور ان کے واجب یا مستحب ہونے میں بھی اختلاف ہے۔ تاہم دونوں روایات اس روحانی اصول پر متفق ہیں کہ الٰہی وحی کو سن کر عاجزانہ تسلیم کا جذبہ پیدا ہونا چاہیے۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی نے واضح کیا کہ یہ آیت ان لوگوں کو مذمت کرتی ہے جو قرآن کی عبادت اور اطاعت کی پکار کے مقابلے میں ڈٹے رہتے ہیں۔ سجدے کی مخصوص قانونی تفصیلات میں مذاہب کے درمیان معمولی فرق کے باوجود یہ بنیادی سمجھ سب میں مشترک ہے کہ سجدہ مکمل تسلیم کی علامت ہے۔ دونوں روایات تلاوتِ قرآن کے آداب سکھاتی ہیں جن میں طہارت، خشوع اور درست طریقہ شامل ہیں۔ سنی اور شیعہ علماء دونوں نے سطحی دینداری پر تنقید کی ہے جو باطنی تبدیلی کے بغیر رسومات ادا کرتی ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں نے وضاحت کی ہے کہ یہ آیت ہر اس شخص کو للکارتی ہے جو حق سنے لیکن تسلیم نہ کرے، چاہے وہ صریح انکار کی وجہ سے ہو یا اخلاص سے خالی مذہبی عمل کی وجہ سے۔",
+    "layer4_ar": "يتشارك تراثا الشيعة والسنة ممارسة السجود عند بعض آيات القرآن الكريم، مع اختلاف في تحديد الآيات الموجِبة للسجود وفي حكمه أواجب هو أم مستحب. فالفقه الشيعي يُحصي أربع آيات توجب السجود، في سور السجدة وفصلت والنجم والعلق، وإحدى عشرة آية يُستحب فيها السجود من بينها هذه الآية من سورة الانشقاق. أما المذاهب السنية فتتباين مواقفها، إذ تعد بعضها أربعة عشر أو خمسة عشر موضع سجود مع خلاف في حكم الوجوب. وكلا التراثين متفقان على المبدأ الروحي بأن سماع الوحي الإلهي ينبغي أن يُلهم الخضوع المتواضع. والطباطبائي وابن كثير والقرطبي جميعاً يُؤكِّدون أن الآية تنتقد الرافضين لنداء القرآن إلى العبادة والطاعة. وإذا كانت أحكام السجود الفقهية التفصيلية تتباين نسبياً بين المذاهب، فإن الفهم الجوهري بأن السجود يُجسِّد الاستسلام التام يبقى حقيقة جامعة. وكلا التراثين يُؤصِّل آداب التلاوة القرآنية شاملةً الطهارة والإجلال والتأدب. ويُنتقد العلماء في كلا التقليدين الشكل الديني السطحي الذي يؤدي الشعائر دون تحوُّل قلبي. ويُبيِّن فخر الدين الرازي والعلامة الطباطبائي معاً أن الآية تتحدى كل من يسمع الحق فيأبى الاستسلام، سواء أكان مشركاً جاحداً أم مسلماً ممارِساً تظل عبادته مجردة من صدق الإخلاص. والرسالة الكونية تتجاوز الفوارق المذهبية داعيةً الإنسانية جمعاء إلى الاستسلام الصادق حين تواجه الهدى الإلهي."
+  },
+  "22": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:22:active-denial",
+          "title": "Active Denial",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The disbelievers do not merely fail to believe - they actively deny and reject (yukadhdhibun) the truth, treating it as falsehood.",
+          "whyItMatters": "There is a difference between doubt and denial; active rejection closes the door to guidance and increases accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "يُكَذِّبُونَ",
+          "title_urdu": "فعال انکار",
+          "coreInsight_urdu": "کافر محض ایمان لانے میں ناکام نہیں ہوتے - وہ فعال طور پر سچائی کو جھٹلاتے اور رد کرتے ہیں، اسے جھوٹ سمجھتے ہیں۔",
+          "whyItMatters_urdu": "شک اور انکار میں فرق ہے؛ فعال انکار ہدایت کا دروازہ بند کر دیتا ہے اور جوابدہی بڑھاتا ہے۔",
+          "title_ar": "التكذيب الفعّال",
+          "coreInsight_ar": "الكافرون لا يفشلون في الإيمان فحسب - بل يُكذّبون الحق بنشاط ويرفضونه، معاملين إياه كذباً.",
+          "whyItMatters_ar": "هناك فرق بين الشك والتكذيب؛ الرفض الفعّال يغلق باب الهداية ويزيد المسؤولية."
+        },
+        {
+          "id": "84:22:disbelief-defined",
+          "title": "Disbelief Defined",
+          "icon": "person.crop.circle.badge.xmark",
+          "colorHex": "#E57373",
+          "coreInsight": "The term 'alladhina kafaru' (those who disbelieve) identifies a specific group - those who have covered and concealed the truth they know in their hearts.",
+          "whyItMatters": "Kufr literally means covering; disbelievers cover the truth, while believers uncover and embrace it.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِينَ كَفَرُوا۟",
+          "title_urdu": "کفر کی تعریف",
+          "coreInsight_urdu": "'الذین کفروا' کی اصطلاح ایک مخصوص گروہ کی شناخت کرتی ہے - جنہوں نے اپنے دلوں میں جانتے ہوئے سچائی کو چھپایا اور ڈھانپا۔",
+          "whyItMatters_urdu": "کفر کا لفظی مطلب ڈھانپنا ہے؛ کافر سچائی کو ڈھانپتے ہیں، جبکہ مومنین اسے کھولتے اور قبول کرتے ہیں۔",
+          "title_ar": "تعريف الكفر",
+          "coreInsight_ar": "مصطلح 'الذين كفروا' تحدد فئة معينة - من غطوا وأخفوا الحق الذي يعرفونه في قلوبهم.",
+          "whyItMatters_ar": "الكفر لغوياً يعني التغطية؛ الكافرون يغطون الحق، بينما المؤمنون يكشفونه ويتقبلونه."
+        },
+        {
+          "id": "84:22:beyond-doubt",
+          "title": "Beyond Doubt",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'bal' (but rather) indicates a stronger assertion - they do not just passively disbelieve, but rather they actively oppose and deny.",
+          "whyItMatters": "This escalation from passive to active rejection warns us against letting doubt harden into denial.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بَلِ",
+          "title_urdu": "شک سے آگے",
+          "coreInsight_urdu": "'بل' کا لفظ ایک مضبوط دعویٰ کی نشاندہی کرتا ہے - وہ محض غیر فعال طور پر کفر نہیں کرتے، بلکہ فعال طور پر مخالفت اور انکار کرتے ہیں۔",
+          "whyItMatters_urdu": "غیر فعال سے فعال انکار کی طرف یہ اضافہ ہمیں خبردار کرتا ہے کہ شک کو انکار میں سخت نہ ہونے دیں۔",
+          "title_ar": "ما وراء الشك",
+          "coreInsight_ar": "كلمة 'بل' تشير إلى تأكيد أقوى - هم لا يكفرون بشكل سلبي فحسب، بل يعارضون ويُكذّبون بفعالية.",
+          "whyItMatters_ar": "هذا التصعيد من الرفض السلبي إلى الفعّال يحذرنا من ترك الشك يتحول إلى تكذيب."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars agree that this verse condemns active, willful denial of truth as distinguished from honest doubt or sincere questioning. Tabatabai, Ibn Kathir, and Qurtubi all explain that 'yukadhibun' indicates conscious rejection rather than confusion. Both traditions recognize that the Quraysh leaders who opposed the Prophet knew his truthfulness but denied his message to protect their social position and economic interests. Historical sources from both Sunni and Shia traditions report instances of Meccan leaders privately acknowledging the Quran's miraculous nature while publicly rejecting it. Both schools of thought emphasize that intellectual arguments against religion often mask deeper moral and spiritual resistance to accountability and submission. While specific historical examples differ, particularly regarding events after the Prophet's death, the core understanding that active denial represents moral failure rather than intellectual limitation remains consistent. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that this verse applies universally to any who reject known truth for worldly gain or personal desires. Both traditions warn believers against allowing social pressure, material interests, or personal preferences to cause denial of any aspect of divine truth. The verse serves as a mirror for self-examination, challenging believers to ensure their faith encompasses complete submission rather than selective acceptance of convenient teachings while denying those that demand sacrifice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت حق کے فعال ارادی انکار کی مذمت کرتی ہے اور اسے صادقانہ شک یا خلوصِ نیت سے کیے گئے سوال سے ممتاز کرتی ہے۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی نے وضاحت کی ہے کہ 'یُکَذِّبُوْن' شعوری رد کی طرف اشارہ کرتا ہے نہ کہ اشتباہ کی طرف۔ دونوں روایات تسلیم کرتی ہیں کہ قریشی قیادت جو پیغمبرؐ کی مخالفت کرتی تھی، ان کی سچائی کو پہچانتی تھی مگر اپنی سماجی حیثیت اور معاشی مفادات کے تحفظ کے لیے علناً اس کا انکار کرتی تھی۔ سنی اور شیعہ دونوں ذرائع کے تاریخی ریکارڈ میں مکی قائدین کی ایسی مثالیں موجود ہیں جنہوں نے قرآن کی معجزانہ نوعیت کو نجی طور پر مانا مگر علناً اس کا انکار کیا۔ دونوں مذاہب کے علماء نے زور دیا کہ دین کے خلاف عقلی دلائل اکثر احتساب اور تسلیم کی اخلاقی و روحانی مزاحمت کو چھپاتے ہیں۔ جبکہ مخصوص تاریخی مثالیں مختلف ہیں، بالخصوص پیغمبرؐ کی وفات کے بعد کے واقعات کے بارے میں، یہ بنیادی سمجھ کہ فعال انکار ذہنی محدودیت کے بجائے اخلاقی ناکامی کی نمائندگی کرتا ہے، دونوں میں مشترک ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں نے وضاحت کی ہے کہ یہ آیت عالمگیر طور پر ہر اس شخص پر لاگو ہوتی ہے جو دنیاوی فائدے یا ذاتی ترجیحات کی خاطر جانی پہچانی حقیقت کو رد کرتا ہے۔ دونوں روایات مومنوں کو خبردار کرتی ہیں کہ سماجی دباؤ، مادی مفادات یا ذاتی پسند کو ان پر الٰہی حق کے کسی بھی پہلو سے انکار کا سبب نہ بننے دیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تُدين الإنكار الإرادي الفاعل للحق، تمييزاً له عن الشك الصادق أو التساؤل المخلص. فالطباطبائي وابن كثير والقرطبي جميعاً يُفسِّرون \"يُكذِّبون\" بأنه رفض واعٍ لا حيرة أو التباس. وكلا التراثين يُقرَّان بأن قادة قريش الذين عارضوا النبي كانوا يعلمون صدقه ولكنهم أنكروا رسالته حفاظاً على مكانتهم الاجتماعية ومصالحهم الاقتصادية. وتوجد في مصادر التراثين السني والشيعي على حدٍّ سواء شواهد تاريخية على أن بعض زعماء مكة كانوا يُقرُّون خلوةً بالطابع الإعجازي للقرآن بينما يرفضونه علناً. ويُؤكِّد كلا التراثين أن الحجج الفكرية ضد الدين كثيراً ما تُخفي مقاومةً أخلاقية وروحية أعمق للمساءلة والانقياد. وبينما تتباين الأمثلة التاريخية المذكورة، ولا سيما ما يتعلق بالأحداث التالية لوفاة النبي، يبقى الجوهر متسقاً بأن الإنكار الفاعل يُمثِّل إخفاقاً أخلاقياً لا قصوراً فكرياً. ويُبيِّن فخر الدين الرازي والعلامة الطباطبائي معاً أن هذه الآية تنطبق على كل من يرفض الحق المعلوم طلباً لمكسب دنيوي أو إرضاءً لهوى شخصي. ويُحذِّر كلا التراثين المؤمنين من السماح للضغوط الاجتماعية والمصالح المادية والتفضيلات الشخصية أن تُفضي إلى إنكار أي جانب من جوانب الحق الإلهي. والآية مرآة للمحاسبة الذاتية تتحدى المؤمنين بأن يتثبتوا من شمول إيمانهم واستسلامهم الكامل، لا القبول الانتقائي لما يُريح ورفض ما يستوجب التضحية."
+  },
+  "23": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:23:divine-knowledge",
+          "title": "Divine Knowledge",
+          "icon": "eye.trianglebadge.exclamationmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is most knowing (a'lam) of what they conceal within themselves - their secret intentions, hidden beliefs, and inner corruption.",
+          "whyItMatters": "Nothing is hidden from Allah; this awareness should inspire sincerity in our thoughts as well as our actions.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱللَّهُ أَعْلَمُ",
+          "title_urdu": "الہی علم",
+          "coreInsight_urdu": "اللہ سب سے زیادہ جاننے والا ہے جو وہ اپنے اندر چھپاتے ہیں - ان کے خفیہ ارادے، پوشیدہ عقائد اور باطنی خرابی۔",
+          "whyItMatters_urdu": "اللہ سے کچھ نہیں چھپا؛ یہ آگاہی ہمارے خیالات اور اعمال دونوں میں اخلاص کی ترغیب دینی چاہیے۔",
+          "title_ar": "العلم الإلهي",
+          "coreInsight_ar": "الله أعلم بما يُخفون في أنفسهم - نواياهم السرية، ومعتقداتهم الخفية، وفسادهم الباطني.",
+          "whyItMatters_ar": "لا شيء مخفي عن الله؛ هذا الوعي يجب أن يُلهم الإخلاص في أفكارنا وأعمالنا."
+        },
+        {
+          "id": "84:23:hidden-intentions",
+          "title": "Hidden Intentions",
+          "icon": "heart.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The word 'yu'un' refers to what they store and preserve within - their harbored resentments, concealed plots, and secret rejection of truth.",
+          "whyItMatters": "We may hide our true intentions from others, but Allah sees what is in our hearts and will judge accordingly.",
+          "position": "topRight",
+          "arabicHighlight": "بِمَا يُوعُونَ",
+          "title_urdu": "پوشیدہ ارادے",
+          "coreInsight_urdu": "'یوعون' کا لفظ اس کا حوالہ دیتا ہے جو وہ اندر محفوظ رکھتے ہیں - ان کی دبی ہوئی عداوتیں، چھپی ہوئی سازشیں، اور سچائی کا خفیہ انکار۔",
+          "whyItMatters_urdu": "ہم اپنے حقیقی ارادے دوسروں سے چھپا سکتے ہیں، لیکن اللہ دیکھتا ہے جو ہمارے دلوں میں ہے۔",
+          "title_ar": "النوايا الخفية",
+          "coreInsight_ar": "كلمة 'يوعون' تشير إلى ما يخزنونه ويحفظونه في داخلهم - أحقادهم المكنونة، ومؤامراتهم الخفية، ورفضهم السري للحق.",
+          "whyItMatters_ar": "قد نخفي نوايانا الحقيقية عن الآخرين، لكن الله يرى ما في قلوبنا وسيحاسب عليه."
+        },
+        {
+          "id": "84:23:complete-record",
+          "title": "Complete Record",
+          "icon": "doc.text.magnifyingglass",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah's knowledge is comprehensive and detailed - He knows not just their actions but their deepest secrets, motivations, and the state of their souls.",
+          "whyItMatters": "This complete divine awareness ensures perfect justice - no injustice will occur on the Day of Judgment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+          "title_urdu": "مکمل ریکارڈ",
+          "coreInsight_urdu": "اللہ کا علم جامع اور تفصیلی ہے - وہ نہ صرف ان کے اعمال بلکہ ان کے گہرے راز، محرکات اور روحوں کی حالت جانتا ہے۔",
+          "whyItMatters_urdu": "یہ مکمل الہی آگاہی کامل انصاف کو یقینی بناتی ہے - قیامت کے دن کوئی ظلم نہیں ہوگا۔",
+          "title_ar": "السجل الكامل",
+          "coreInsight_ar": "علم الله شامل ومفصل - يعلم ليس فقط أعمالهم بل أعمق أسرارهم ودوافعهم وحالة نفوسهم.",
+          "whyItMatters_ar": "هذا الإدراك الإلهي الكامل يضمن العدل التام - لن يحدث ظلم يوم القيامة."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously affirm Allah's complete knowledge of all hidden and manifest things, including the contents of hearts. Tabatabai, Ibn Kathir, and Qurtubi all emphasize that divine omniscience makes hypocrisy and deception futile. Both traditions teach that accountability on Judgment Day will account for intentions as well as actions, with numerous hadiths in Sunni and Shia collections emphasizing the importance of niyyah, intention. Theological discussions about divine attributes across schools unanimously include complete knowledge among Allah's essential attributes. Both traditions warn against hypocrisy, where outward practice contradicts inner reality. Sunni hadith collections and Shia narrations alike contain warnings about munafiqun, hypocrites, who claim faith outwardly while concealing disbelief or opposing the community inwardly. While specific historical examples of hypocrisy differ between traditions, particularly regarding early Islamic history, the core teaching that Allah knows all hidden matters remains consistent. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that this verse should inspire believers to purify their intentions and align their inner reality with outer practice. Both traditions emphasize that cultivation of sincerity is essential for accepted worship, as Allah judges hearts before deeds. The verse serves as universal reminder that perfect justice will prevail because the Judge has perfect knowledge.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں متفق طور پر اللہ کے تمام پوشیدہ اور ظاہر چیزوں کے کامل علم کی تصدیق کرتے ہیں بشمول دلوں کے مندرجات کے۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی نے زور دیا کہ الٰہی قدرتِ علمی نفاق اور دھوکے کو بیکار بنا دیتی ہے۔ دونوں روایات تعلیم دیتی ہیں کہ قیامت کے دن احتساب میں نیات کے ساتھ ساتھ اعمال کا بھی حساب ہوگا، اور سنی اور شیعہ دونوں مجموعات میں نیت کی اہمیت پر متعدد احادیث موجود ہیں۔ تمام مذاہب کے الٰہیاتی مباحث میں کامل علم کو اللہ کی ذاتی صفات میں شامل کیا جاتا ہے۔ دونوں روایات نفاق کے خلاف خبردار کرتی ہیں جس میں ظاہری عمل باطنی حقیقت سے متصادم ہو۔ سنی احادیث اور شیعہ روایات دونوں میں منافقین کے بارے میں تنبیہات موجود ہیں جو ظاہراً ایمان کا دعویٰ کرتے ہیں مگر باطناً کفر چھپاتے یا اجتماعیت کے خلاف سرگرم رہتے ہیں۔ نفاق کی تاریخی مثالوں میں دونوں روایات کے درمیان فرق ہے، خاص طور پر ابتدائی اسلامی تاریخ کے واقعات کے بارے میں، مگر یہ بنیادی تعلیم کہ اللہ تمام پوشیدہ امور کو جانتا ہے دونوں میں مشترک ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں نے وضاحت کی ہے کہ یہ آیت مومنوں کو اپنی نیات کو پاک کرنے اور باطنی حقیقت کو ظاہری عمل سے ہم آہنگ کرنے کی تحریک دینی چاہیے۔ دونوں روایات نے اس بات پر زور دیا کہ مقبول عبادت کے لیے اخلاص ضروری ہے کیونکہ اللہ اعمال سے پہلے دلوں کو پرکھتا ہے۔ یہ آیت تمام کے لیے ایک آفاقی یاددہانی ہے کہ کامل انصاف غالب آئے گا کیونکہ منصف کا علم کامل ہے۔",
+    "layer4_ar": "يُجمع علماء الشيعة والسنة على الإيمان بعلم الله الشامل لكل الأمور المخفية والظاهرة بما فيها محتويات القلوب. فالطباطبائي وابن كثير والقرطبي جميعاً يُؤكِّدون أن العلم الإلهي الشامل يجعل النفاق والخداع ضرباً من العبث. وكلا التراثين يُعلِّمان أن المساءلة يوم الحشر ستُحاسب على النوايا كما على الأعمال، ولا حصر للأحاديث في التراثين السني والشيعي التي تُؤكِّد أهمية النية. والمناقشات الكلامية في جميع المذاهب تُدرج العلم الكامل ضمن الصفات الجوهرية الإلهية بلا خلاف. ويحذِّر كلا التراثين من النفاق الذي يتناقض فيه الظاهر مع الباطن. وتحتضن مجموعات الأحاديث السنية والروايات الشيعية على حدٍّ سواء تحذيراتٍ صريحةً من المنافقين الذين يُعلنون الإيمان بينما يُضمرون الكفر أو يُعادون الأمة في السرِّ. وبينما تتباين الأمثلة التاريخية المحددة للنفاق، ولا سيما ما يتصل بالتاريخ الإسلامي المبكر، يبقى التعليم الجوهري بأن الله يعلم كل الخفايا ثابتاً متسقاً. ويُبيِّن فخر الدين الرازي والعلامة الطباطبائي أن الآية ينبغي أن تحثَّ المؤمنين على تزكية نواياهم ومواءمة باطنهم مع ظاهرهم. ويُؤكِّد كلا التراثين أن الإخلاص في النية شرط في قبول العبادة، إذ يقضي الله في القلوب قبل الأعمال. وتبقى الآية تذكيراً كونياً بأن العدل الكامل آتٍ لأن الديَّان عليم بكل شيء."
+  },
+  "24": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:24:bitter-tidings",
+          "title": "Bitter Tidings",
+          "icon": "bell.badge.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The command 'fa-bashshirhum' (so give them tidings) uses the word for good news ironically - the only 'news' for the deniers is painful punishment.",
+          "whyItMatters": "This ironic usage emphasizes the tragedy of their situation - they traded potential good news for certain bad news through their choices.",
+          "position": "topLeft",
+          "arabicHighlight": "فَبَشِّرْهُم",
+          "title_urdu": "تلخ خبر",
+          "coreInsight_urdu": "'فبشرھم' کا حکم خوشخبری کا لفظ طنزیہ طور پر استعمال کرتا ہے - انکار کرنے والوں کے لیے واحد 'خبر' دردناک عذاب ہے۔",
+          "whyItMatters_urdu": "یہ طنزیہ استعمال ان کی صورتحال کے المیے پر زور دیتا ہے - انہوں نے اپنے انتخاب سے ممکنہ خوشخبری کو یقینی بری خبر سے بدل لیا۔",
+          "title_ar": "البشارة المُرّة",
+          "coreInsight_ar": "الأمر 'فبشرهم' يستخدم كلمة البشارة بشكل ساخر - الخبر الوحيد للمكذبين هو العذاب الأليم.",
+          "whyItMatters_ar": "هذا الاستخدام الساخر يؤكد مأساة وضعهم - استبدلوا البشرى المحتملة بخبر سيء مؤكد بخياراتهم."
+        },
+        {
+          "id": "84:24:painful-punishment",
+          "title": "Painful Punishment",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The punishment is described as 'alim' (painful) - not merely punitive but intensely painful, matching the intensity of their denial and arrogance.",
+          "whyItMatters": "Understanding the severity of consequences should motivate sincere repentance while the opportunity remains.",
+          "position": "topRight",
+          "arabicHighlight": "بِعَذَابٍ أَلِيمٍ",
+          "title_urdu": "دردناک عذاب",
+          "coreInsight_urdu": "عذاب کو 'الیم' بیان کیا گیا - محض سزا نہیں بلکہ شدید تکلیف دہ، ان کے انکار اور تکبر کی شدت سے مطابقت رکھتا ہے۔",
+          "whyItMatters_urdu": "نتائج کی سنگینی کو سمجھنا جب تک موقع ہے مخلص توبہ کی ترغیب دینا چاہیے۔",
+          "title_ar": "العذاب الأليم",
+          "coreInsight_ar": "العذاب وُصف بـ'أليم' - ليس مجرد عقوبة بل شديد الألم، مطابقاً لشدة تكذيبهم وكبرهم.",
+          "whyItMatters_ar": "فهم شدة العواقب يجب أن يحفز على التوبة الصادقة ما دامت الفرصة قائمة."
+        },
+        {
+          "id": "84:24:prophetic-warning",
+          "title": "Prophetic Warning",
+          "icon": "megaphone.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The Prophet (peace be upon him) is commanded to deliver this warning - his role includes being a warner (nadhir) who clearly informs people of consequences.",
+          "whyItMatters": "Prophets and their message fulfill Allah's justice - no one can claim ignorance after receiving clear warning.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+          "title_urdu": "نبوی تنبیہ",
+          "coreInsight_urdu": "نبی کریم صلی اللہ علیہ وسلم کو یہ تنبیہ پہنچانے کا حکم دیا گیا - آپ کا کردار نذیر ہونا شامل ہے جو واضح طور پر نتائج سے آگاہ کریں۔",
+          "whyItMatters_urdu": "انبیاء اور ان کا پیغام اللہ کے انصاف کو پورا کرتے ہیں - واضح تنبیہ کے بعد کوئی جہالت کا دعویٰ نہیں کر سکتا۔",
+          "title_ar": "الإنذار النبوي",
+          "coreInsight_ar": "أُمر النبي (صلى الله عليه وسلم) بإيصال هذا الإنذار - دوره يشمل كونه نذيراً يُعلم الناس بالعواقب بوضوح.",
+          "whyItMatters_ar": "الأنبياء ورسالتهم يحققون عدل الله - لا أحد يستطيع ادعاء الجهل بعد تلقي الإنذار الواضح."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars agree that this verse announces certain punishment for those who persist in disbelief until death. Tabatabai, Ibn Kathir, and Qurtubi all emphasize that the ironic use of 'good news' language highlights the severity of their situation. Both traditions teach that divine punishment is just, proportionate, and certain for those who knowingly reject truth. Theological discussions across schools address the wisdom and justice of eternal punishment for temporal sins, with various explanations offered but consensus that Quranic descriptions of punishment should be taken seriously. Both traditions emphasize that punishment serves justice and reflects divine wisdom rather than arbitrary cruelty. Sunni and Shia hadith collections both contain detailed descriptions of hellfire's torments, serving as warnings to motivate righteousness. While specific individuals identified as facing punishment differ between traditions, particularly regarding early Islamic history, the principle that disbelievers and oppressors will face accountability remains universal. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that warning about punishment reflects mercy, as it provides opportunity to avoid the consequence through repentance and faith. Both traditions teach that Allah does not hasten punishment but provides ample time for reconsideration, making persistence in denial until death without excuse. The verse serves as powerful reminder across sectarian boundaries that choices have eternal consequences and divine justice will ultimately prevail.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس بات پر متفق ہیں کہ یہ آیت ان لوگوں کے لیے یقینی عذاب کا اعلان کرتی ہے جو موت تک کفر پر قائم رہے۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی نے زور دیا کہ 'بَشِّرْ' کا ستم ظریفانہ استعمال ان کی صورت حال کی سنگینی کو اجاگر کرتا ہے۔ دونوں روایات یہ تعلیم دیتی ہیں کہ الٰہی عذاب عادلانہ، متناسب اور یقینی ہے ان لوگوں کے لیے جو جان بوجھ کر حق کو رد کریں۔ تمام مذاہب کے الٰہیاتی مباحث میں عارضی گناہوں پر ابدی عذاب کی حکمت اور انصاف کا جائزہ لیا گیا ہے اور مختلف وضاحتیں پیش کی گئی ہیں مگر اس بات پر اتفاق ہے کہ قرآنی تصویرات کو سنجیدگی سے لینا چاہیے۔ دونوں روایات نے زور دیا کہ اللہ عذاب میں جلدی نہیں کرتا بلکہ نظرثانی کے لیے کافی وقت فراہم کرتا ہے جو انکار کو جاری رکھنے کو موت تک بے عذر بنا دیتا ہے۔ سنی اور شیعہ دونوں حدیثی مجموعات میں جہنم کی اذیتوں کی تفصیلی تصویریں موجود ہیں جو نیکی کی ترغیب کے لیے انتباہ کے طور پر پیش کی گئی ہیں۔ جبکہ عذاب کا سامنا کرنے والے مخصوص افراد دونوں روایات میں مختلف ہیں، خاص طور پر ابتدائی اسلامی تاریخ کے بارے میں، یہ اصول کہ کافر اور ظالم جوابدہی کا سامنا کریں گے عالمگیر ہے۔ فخر الدین رازی اور علامہ طباطبائی دونوں نے وضاحت کی ہے کہ عذاب کے بارے میں انتباہ رحمت کی عکاسی کرتی ہے کیونکہ اس سے نتیجے سے توبہ اور ایمان کے ذریعے بچنے کا موقع ملتا ہے۔ یہ آیت فرقہ وارانہ حدود سے ماورا ایک طاقتور یاددہانی ہے کہ انتخاب کے ابدی نتائج ہوتے ہیں اور الٰہی انصاف بالآخر غالب آئے گا۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تُعلن عقوبةً مؤكدة لمن يُصرُّ على الكفر حتى يلقى ربه. فالطباطبائي وابن كثير والقرطبي جميعاً يُؤكِّدون أن الاستخدام المعكوس لصيغة البشارة يُعظِّم حجم الكارثة التي تنتظرهم. ويُعلِّم كلا التراثين أن العذاب الإلهي عادل ومتناسب ومحتوم لمن يرفضون الحق عن علم إلى أن يموتوا مُصرِّين على ذلك. وتتناول المناقشات الكلامية في المذاهب كليها حكمة العذاب الأبدي على ذنوب زمنية محدودة مع تنوع في التفسيرات، غير أنها تجمع على وجوب الأخذ بالأوصاف القرآنية للعذاب أخذاً جاداً. ويُؤكِّد كلا التراثين أن العذاب يخدم العدل ويعكس الحكمة الإلهية لا القسوة التعسفية. وتحتضن مجموعات الأحاديث السنية والروايات الشيعية تفصيلاً وافراً لعذاب جهنم بوصفها تحذيراً يُحرِّك على البر. وبينما يتباين تحديد من يستحق العذاب في التراثين، ولا سيما ما يتعلق بشخصيات التاريخ الإسلامي المبكر، يبقى المبدأ بأن الكافرين والظالمين سيُحاسَبون حقيقةً راسخة. ويُبيِّن فخر الدين الرازي والعلامة الطباطبائي أن التحذير من العذاب يعكس الرحمة لأنه يُتيح تجنُّب العاقبة بالتوبة والإيمان. ويُعلِّم كلا التراثين أن الله لا يعجِّل بالعقوبة بل يمنح فسحةً من الوقت للمراجعة والتحوُّل، مما يجعل الإصرار على الإنكار حتى الممات عديم العذر. والآية تذكير بالغ القوة عبر الحدود المذهبية بأن للخيارات عواقب أبدية وأن العدل الإلهي سيسود في نهاية المطاف."
+  },
+  "25": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "84:25:exception-of-mercy",
+          "title": "Exception of Mercy",
+          "icon": "hand.raised.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After the stark warning, Allah makes an exception with 'illa' (except) - those who believe and do good deeds are excluded from punishment.",
+          "whyItMatters": "This exception is a door of hope; no matter how severe the warning, the path to salvation remains open for those who choose it.",
+          "position": "topLeft",
+          "arabicHighlight": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "رحمت کا استثنیٰ",
+          "coreInsight_urdu": "سخت تنبیہ کے بعد، اللہ 'الا' سے استثنیٰ کرتا ہے - جو ایمان لائے اور نیک عمل کیے وہ عذاب سے مستثنیٰ ہیں۔",
+          "whyItMatters_urdu": "یہ استثنیٰ امید کا دروازہ ہے؛ تنبیہ چاہے کتنی ہی سخت ہو، نجات کا راستہ انتخاب کرنے والوں کے لیے کھلا ہے۔",
+          "title_ar": "استثناء الرحمة",
+          "coreInsight_ar": "بعد الإنذار الشديد، يستثني الله بـ'إلا' - المؤمنون الذين عملوا الصالحات مستثنون من العذاب.",
+          "whyItMatters_ar": "هذا الاستثناء باب أمل؛ مهما كان الإنذار شديداً، يبقى طريق النجاة مفتوحاً لمن يختاره."
+        },
+        {
+          "id": "84:25:faith-and-deeds",
+          "title": "Faith and Deeds",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Belief (amanu) and righteous deeds (as-salihat) are mentioned together - true faith must be accompanied by action, and good deeds must be rooted in faith.",
+          "whyItMatters": "This pairing teaches that Islam is not just belief in the heart but a complete way of life expressed through both conviction and conduct.",
+          "position": "topRight",
+          "arabicHighlight": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "ایمان اور اعمال",
+          "coreInsight_urdu": "ایمان اور نیک اعمال ایک ساتھ ذکر ہوئے - سچا ایمان عمل کے ساتھ ہونا چاہیے، اور نیک اعمال ایمان پر مبنی ہونے چاہیے۔",
+          "whyItMatters_urdu": "یہ جوڑی سکھاتی ہے کہ اسلام صرف دل میں یقین نہیں بلکہ عقیدے اور عمل دونوں سے ظاہر ہونے والا مکمل طرز زندگی ہے۔",
+          "title_ar": "الإيمان والعمل",
+          "coreInsight_ar": "الإيمان والعمل الصالح مذكوران معاً - الإيمان الحق يجب أن يقترن بالعمل، والأعمال الصالحة يجب أن تُبنى على الإيمان.",
+          "whyItMatters_ar": "هذا الاقتران يُعلّم أن الإسلام ليس مجرد إيمان في القلب بل منهج حياة متكامل يُعبّر عنه بالعقيدة والسلوك."
+        },
+        {
+          "id": "84:25:uninterrupted-reward",
+          "title": "Uninterrupted Reward",
+          "icon": "infinity",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Their reward is described as 'ghayr mamnun' - uninterrupted, undiminished, without reproach, and never cut off. It is eternal and complete.",
+          "whyItMatters": "Unlike worldly rewards that end or come with strings attached, Allah's reward for the faithful is perfect and everlasting.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+          "title_urdu": "نہ ختم ہونے والا اجر",
+          "coreInsight_urdu": "ان کے اجر کو 'غیر ممنون' بیان کیا گیا - بلا تعطل، بلا کمی، بلا منت، اور کبھی نہ ختم ہونے والا۔ یہ ابدی اور مکمل ہے۔",
+          "whyItMatters_urdu": "دنیاوی انعامات کے برعکس جو ختم ہو جاتے ہیں یا شرائط کے ساتھ آتے ہیں، مومنین کے لیے اللہ کا اجر کامل اور ہمیشگی ہے۔",
+          "title_ar": "الأجر غير المنقطع",
+          "coreInsight_ar": "أجرهم وُصف بـ'غير ممنون' - لا ينقطع، لا ينقص، بلا منّة، ولا ينتهي أبداً. إنه أبدي وكامل.",
+          "whyItMatters_ar": "بخلاف المكافآت الدنيوية التي تنتهي أو تأتي بشروط، أجر الله للمؤمنين كامل وأبدي."
+        },
+        {
+          "id": "84:25:eternal-paradise",
+          "title": "Eternal Paradise",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This unending reward refers to Paradise - a home of eternal bliss where believers will dwell forever in Allah's pleasure and mercy.",
+          "whyItMatters": "The surah ends on hope - despite warnings of punishment, the final word is about mercy and reward for those who believe and act righteously.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+          "title_urdu": "ابدی جنت",
+          "coreInsight_urdu": "یہ نہ ختم ہونے والا اجر جنت کی طرف اشارہ کرتا ہے - ابدی نعمت کا گھر جہاں مومنین ہمیشہ اللہ کی رضا اور رحمت میں رہیں گے۔",
+          "whyItMatters_urdu": "سورۃ امید پر ختم ہوتی ہے - عذاب کی تنبیہات کے باوجود، آخری بات ایمان اور نیک عمل کرنے والوں کے لیے رحمت اور اجر کے بارے میں ہے۔",
+          "title_ar": "الجنة الأبدية",
+          "coreInsight_ar": "هذا الأجر الذي لا ينتهي يشير إلى الجنة - دار النعيم الأبدي حيث يقيم المؤمنون خالدين في رضا الله ورحمته.",
+          "whyItMatters_ar": "تختتم السورة بالأمل - رغم الإنذارات بالعذاب، الكلمة الأخيرة عن الرحمة والأجر لمن آمن وعمل صالحاً."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously agree that salvation requires both faith and righteous deeds, though theological nuances differ regarding their precise relationship. Tabatabai, Ibn Kathir, and Qurtubi all emphasize that this verse pairs belief with action as joint requirements for eternal reward. Sunni theology, particularly Ash'ari school, emphasizes divine grace in salvation, while Mu'tazilite and Shia theology emphasize justice, but both recognize that paradise is ultimately Allah's gift despite being connected to human deeds. Both traditions teach that the unlimited reward reflects divine generosity and mercy. Descriptions of paradise's blessings in Sunni hadith and Shia narrations share common elements: eternal life, perfect bliss, continuous increase in joy, and absolute security from loss or diminishment. Theological discussions about whether faith alone suffices for salvation or whether deeds are essential show variation within each tradition, but mainstream Sunni and Shia theology both affirm the necessity of righteous action accompanying belief. Fakhr al-Din al-Razi and Allamah Tabatabai both explain that 'ghayr mamnun' indicates the reward's eternal, unlimited nature. Both traditions emphasize that paradise's blessings increase rather than diminish, with believers ascending through stations of increasing proximity to Allah. The verse provides universal hope across sectarian boundaries that sincere faith expressed through righteous living leads to eternal felicity, motivating believers of all backgrounds to persevere in their spiritual journey.",
+    "layer4_urdu": "شیعہ اور سنی علماء متفقہ طور پر اس بات پر زور دیتے ہیں کہ نجات کے لیے ایمان اور نیک اعمال دونوں ضروری ہیں اگرچہ ان کے باہمی تعلق میں الٰہیاتی فرق موجود ہیں۔ طباطبائی، ابنِ کثیر اور قرطبی سبھی نے واضح کیا کہ یہ آیت ابدی اجر کی مشترکہ ضروریات کے طور پر عقیدے کے ساتھ عمل کو جوڑتی ہے۔ سنی الٰہیات، خاص طور پر اشعری مکتب، نجات میں الٰہی فضل پر زور دیتا ہے جبکہ معتزلی اور شیعہ الٰہیات انصاف پر زور دیتا ہے، مگر دونوں مانتے ہیں کہ جنت بالآخر انسانی اعمال سے جڑی ہونے کے باوجود اللہ کا عطیہ ہے۔ دونوں روایات تعلیم دیتی ہیں کہ لامحدود اجر الٰہی سخاوت اور رحمت کی عکاسی کرتا ہے۔ سنی احادیث اور شیعہ روایات میں جنت کی نعمتوں کی تصویریں مشترک عناصر رکھتی ہیں: ابدی زندگی، کامل مسرت، خوشی میں مسلسل اضافہ اور ضیاع یا کمی سے مکمل محفوظیت۔ محض ایمان نجات کے لیے کافی ہے یا نیک اعمال ضروری ہیں اس بارے میں الٰہیاتی بحثیں ہر روایت کے اندر فرق دکھاتی ہیں مگر مرکزی دھارے کی سنی اور شیعہ الٰہیات دونوں ایمان کے ساتھ نیک عمل کی ضرورت کو تسلیم کرتے ہیں۔ فخر الدین رازی اور علامہ طباطبائی دونوں نے وضاحت کی ہے کہ 'غَیْرُ مَمْنُوْن' اجر کی ابدی، لامحدود نوعیت کو ظاہر کرتا ہے۔ دونوں روایات نے زور دیا کہ جنت کی نعمتیں کم ہونے کی بجائے بڑھتی ہیں اور مومنین اللہ کی قربت کے بڑھتے ہوئے مقامات سے گزرتے ہیں۔ یہ آیت فرقہ وارانہ حدود سے ماورا آفاقی امید فراہم کرتی ہے کہ نیک زندگی کے ذریعے اظہار کردہ خلوصِ نیت پر مبنی ایمان ابدی سعادت تک پہنچاتا ہے اور تمام پس منظر کے مومنوں کو اپنے روحانی سفر میں استقامت کی ترغیب دیتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على أن النجاة تستلزم الإيمان والعمل الصالح معاً، وإن تفاوتت الدقائق الكلامية في تحديد طبيعة علاقتهما. فالطباطبائي وابن كثير والقرطبي جميعاً يُؤكِّدون أن الآية تقرن الإيمان بالعمل الصالح شرطين مزدوجين للأجر الأبدي. وعلم الكلام السني، ولا سيما الأشعري، يُؤكِّد الفضل الإلهي في الخلاص، فيما يُؤكِّد الكلام المعتزلي والشيعي العدل، غير أن كليهما يُقرُّ بأن الجنة هبة الله في نهاية المطاف على الرغم من ارتباطها بالأعمال الإنسانية. ويُعلِّم كلا التراثين أن الأجر غير المحدود يعكس الكرم الإلهي والرحمة الربانية. وأوصاف نعيم الجنة في الأحاديث السنية والروايات الشيعية تشترك في عناصر جوهرية واحدة: الحياة الأبدية والنعيم الكامل والازدياد المستمر في الفرح والأمن المطلق من الضياع أو التناقص. والنقاشات اللاهوتية حول كفاية الإيمان وحده للنجاة أم ضرورة العمل تُظهر تنوعاً داخل كل تراث، غير أن الكلام السني والشيعي الرئيسي يُؤكِّد كليهما ضرورة العمل الصالح مصاحباً للإيمان. ويُفسِّر فخر الدين الرازي والعلامة الطباطبائي معاً أن \"غير ممنون\" يُشير إلى الطابع الأبدي اللامحدود للأجر. ويُؤكِّد كلا التراثين أن نعيم الجنة يتنامى لا يتراجع، إذ يرتقي أهلها في مراتب من القرب الإلهي المتصاعد. والآية تُقدِّم الأمل الكوني عبر الحدود المذهبية بأن الإيمان الصادق المعبَّر عنه بالعمل الصالح يُفضي إلى السعادة الأبدية، محفِّزةً المؤمنين على اختلاف انتماءاتهم على المثابرة في رحلتهم الروحية."
+  }
+}

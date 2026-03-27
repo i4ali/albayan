@@ -1,0 +1,294 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "112:1:divine-oneness",
+          "title": "Divine Oneness",
+          "icon": "1.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is described as 'Ahad' (One), emphasizing His absolute, indivisible unity - He is One in His essence, attributes, and actions, with no partners, equals, or divisions.",
+          "whyItMatters": "Understanding Tawhid (Allah's oneness) is the foundation of faith. This concept transforms how we view existence, directing all worship, hope, and trust exclusively to the One who has no equal.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱللَّهُ أَحَدٌ",
+          "title_urdu": "الہی وحدانیت",
+          "coreInsight_urdu": "اللہ کو 'احد' (ایک) کے طور پر بیان کیا گیا ہے، اس کی مطلق، ناقابل تقسیم وحدت پر زور دیتے ہوئے - وہ اپنی ذات، صفات اور اعمال میں ایک ہے، کوئی شریک، برابر یا تقسیم کے بغیر۔",
+          "whyItMatters_urdu": "توحید (اللہ کی وحدانیت) کو سمجھنا ایمان کی بنیاد ہے۔ یہ تصور وجود کو دیکھنے کے ہمارے طریقے کو بدل دیتا ہے، تمام عبادت، امید اور اعتماد کو خصوصی طور پر اس ایک کی طرف لے جاتا ہے جس کا کوئی برابر نہیں۔",
+          "title_ar": "الوحدانية الإلهية",
+          "coreInsight_ar": "يُوصف الله بأنه 'أحد'، مؤكدًا وحدته المطلقة غير القابلة للتجزئة - هو واحد في ذاته وصفاته وأفعاله، بلا شريك أو مثيل أو انقسام.",
+          "whyItMatters_ar": "فهم التوحيد (وحدانية الله) هو أساس الإيمان. يحول هذا المفهوم رؤيتنا للوجود، موجهًا كل عبادة ورجاء وثقة حصريًا إلى الواحد الذي لا مثيل له."
+        },
+        {
+          "id": "112:1:command-to-proclaim",
+          "title": "Prophetic Command",
+          "icon": "quote.bubble.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The imperative 'Qul' (Say) shows this is revealed knowledge taught by Allah to His Prophet, making this declaration of monotheism a divinely ordained statement.",
+          "whyItMatters": "When we recite this surah, we echo the Prophet's divinely inspired testimony, connecting our declaration of faith to the authentic source of revelation.",
+          "position": "topRight",
+          "arabicHighlight": "قُلْ",
+          "title_urdu": "نبوی حکم",
+          "coreInsight_urdu": "امر 'قل' (کہو) ظاہر کرتا ہے کہ یہ اللہ کی طرف سے اس کے نبی کو سکھایا گیا علم ہے، اس توحید کے اعلان کو الہی طور پر مقرر کردہ بیان بناتا ہے۔",
+          "whyItMatters_urdu": "جب ہم اس سورہ کی تلاوت کرتے ہیں، تو ہم نبی کی الہی طور پر متاثر شہادت کی بازگشت کرتے ہیں، ایمان کے اپنے اعلان کو وحی کے مستند ذریعہ سے جوڑتے ہیں۔",
+          "title_ar": "الأمر النبوي",
+          "coreInsight_ar": "الأمر 'قل' يُظهر أن هذه معرفة منزلة علّمها الله لنبيه، مما يجعل هذا الإعلان عن التوحيد بيانًا مأمورًا به إلهيًا.",
+          "whyItMatters_ar": "عندما نتلو هذه السورة، نردد شهادة النبي الموحاة إلهيًا، رابطين إعلان إيماننا بالمصدر الأصيل للوحي."
+        },
+        {
+          "id": "112:1:personal-pronoun",
+          "title": "Divine Identity",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The pronoun 'Huwa' (He) emphasizes Allah's distinct, personal identity, affirming His real existence as the unique Divine Being, not an abstract concept or force.",
+          "whyItMatters": "This teaches us that Allah is not an impersonal energy but the Living God with whom we can have a real relationship through worship and supplication.",
+          "position": "bottomLeft",
+          "arabicHighlight": "هُوَ ٱللَّهُ",
+          "title_urdu": "الہی شناخت",
+          "coreInsight_urdu": "ضمیر 'ھو' (وہ) اللہ کی الگ، ذاتی شناخت پر زور دیتی ہے، اس کے حقیقی وجود کی تصدیق کرتے ہوئے منفرد الہی ہستی کے طور پر، نہ کہ ایک تجریدی تصور یا قوت۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ اللہ کوئی غیر شخصی توانائی نہیں بلکہ زندہ خدا ہے جس کے ساتھ ہم عبادت اور دعا کے ذریعے حقیقی تعلق رکھ سکتے ہیں۔",
+          "title_ar": "الهوية الإلهية",
+          "coreInsight_ar": "الضمير 'هو' يؤكد هوية الله الشخصية المميزة، مؤكدًا وجوده الحقيقي ككائن إلهي فريد، وليس مفهومًا مجردًا أو قوة.",
+          "whyItMatters_ar": "يعلمنا هذا أن الله ليس طاقة غير شخصية بل الإله الحي الذي يمكننا أن نكون معه في علاقة حقيقية من خلال العبادة والدعاء."
+        },
+        {
+          "id": "112:1:ahad-vs-wahid",
+          "title": "Absolute Unity",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'Ahad' goes beyond 'Wahid' (one) to emphasize Allah's uniqueness - He is not just numerically one, but absolutely unique, with no comparison or similarity to anything.",
+          "whyItMatters": "This profound distinction protects us from making any comparisons between Allah and creation, keeping our concept of God pure and transcendent.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَحَدٌ",
+          "title_urdu": "مطلق وحدت",
+          "coreInsight_urdu": "لفظ 'احد' 'واحد' (ایک) سے آگے جاتا ہے اللہ کی منفردیت پر زور دینے کے لیے - وہ صرف عددی طور پر ایک نہیں، بلکہ بالکل منفرد ہے، کسی چیز سے کوئی موازنہ یا مماثلت کے بغیر۔",
+          "whyItMatters_urdu": "یہ گہرا فرق ہمیں اللہ اور مخلوق کے درمیان کوئی موازنہ کرنے سے بچاتا ہے، خدا کے ہمارے تصور کو پاک اور ماورائے طبیعت رکھتا ہے۔",
+          "title_ar": "الوحدة المطلقة",
+          "coreInsight_ar": "كلمة 'أحد' تتجاوز 'واحد' للتأكيد على تفرد الله - فهو ليس واحدًا عدديًا فقط، بل فريد مطلقًا، بلا مقارنة أو تشابه مع أي شيء.",
+          "whyItMatters_ar": "هذا التمييز العميق يحمينا من إجراء أي مقارنات بين الله والخلق، مما يحافظ على مفهومنا عن الله نقيًا ومتعاليًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree that Surah al-Ikhlas represents the purest articulation of Islamic monotheism. Ibn Kathir, a prominent Sunni exegete, interprets 'Ahad' as meaning Allah is the One who has no peer, no assistant, no rival, no equal, and none comparable to Him - a definition that aligns closely with Shia interpretations from Tabatabai and Tabrisi. Al-Tabari and al-Qurtubi, major Sunni commentators, similarly emphasize that this verse was revealed to refute false conceptions about Allah's nature, particularly Christian notions of divine sonship and trinity. While Sunni scholars like Ibn Abbas focused on the linguistic meanings of 'Ahad' as absolute singularity, Shia scholars like Tabatabai expanded this to include philosophical implications about Allah's simplicity and the impossibility of composition in His essence. Both traditions transmit numerous hadiths about this surah equaling one-third of the Quran, though Shia sources specifically trace this back to the Ahlul Bayt. A key area of consensus is that this verse establishes Allah's transcendence above all creation, refuting anthropomorphism. Minor differences emerge in interpretive methodology: Sunni tafsir tends toward linguistic and historical analysis, while Shia tafsir often incorporates philosophical theology and connects the verse to broader themes of Wilayah and divine guidance through the Imams.",
+    "layer4_urdu": "شیعہ اور سنی علما متفقہ طور پر اتفاق کرتے ہیں کہ سورہ اخلاص اسلامی توحید کا خالص ترین اظہار ہے۔ ابن کثیر، ایک ممتاز سنی مفسر، 'احد' کی تشریح کرتے ہیں کہ اللہ وہ ایک ہے جس کا کوئی ہمسر نہیں، کوئی مددگار نہیں، کوئی حریف نہیں، کوئی برابر نہیں، اور کوئی اس سے موازنہ کرنے والا نہیں - ایک تعریف جو طباطبائی اور طبرسی کی شیعہ تشریحات سے قریب سے میل کھاتی ہے۔ طبری اور قرطبی، بڑے سنی مفسرین، اسی طرح زور دیتے ہیں کہ یہ آیت اللہ کی فطرت کے بارے میں غلط تصورات کو رد کرنے کے لیے نازل ہوئی، خاص طور پر الہٰی فرزندیت اور تثلیث کے عیسائی تصورات۔ جہاں سنی علما جیسے ابن عباس نے 'احد' کے لسانی معانی پر توجہ دی بطور مطلق یکتائی، شیعہ علما جیسے طباطبائی نے اسے اللہ کی سادگی اور اس کی ذات میں ترکیب کی ناممکنیت کے بارے میں فلسفیانہ مضمرات تک بڑھایا۔ دونوں روایات اس سورہ کے قرآن کے ایک تہائی کے برابر ہونے کے بارے میں متعدد احادیث بیان کرتی ہیں، اگرچہ شیعہ مصادر خاص طور پر اسے اہلِ بیت سے منسوب کرتے ہیں۔ اجماع کا ایک اہم مقام یہ ہے کہ یہ آیت تمام مخلوق سے اللہ کی ماورائیت قائم کرتی ہے، تشبیہ کو رد کرتی ہے۔ تشریحی طریقہ کار میں معمولی فرق نمودار ہوتے ہیں: سنی تفسیر لسانی اور تاریخی تجزیے کی طرف مائل ہوتی ہے، جبکہ شیعہ تفسیر اکثر فلسفیانہ الہٰیات شامل کرتی ہے اور آیت کو ولایت اور ائمہ کے ذریعے الہٰی رہنمائی کے وسیع تر موضوعات سے جوڑتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على أن سورة الإخلاص تُمثِّل أنقى تعبير عن التوحيد الإسلامي. ويُفسِّر ابن كثير المفسر السني البارز كلمةَ \"أحد\" بمعنى الواحد الذي لا شريك له ولا معين ولا منافس ولا ند ولا شبيه؛ وهو تعريف يتوافق توافقاً وثيقاً مع التفسيرات الشيعية لدى الطباطبائي والطبرسي. ويُؤكِّد الطبري والقرطبي من كبار المفسرين السنة أن هذه الآية نزلت لدفع المفاهيم الباطلة عن طبيعة الله، ولا سيما الأفكار المسيحية عن بنوة الله والتثليث. وبينما ركَّز علماء أهل السنة كابن عباس على المعاني اللغوية لـ\"أحد\" بوصفها انفراداً مطلقاً، وسَّع علماء الشيعة كالطباطبائي ذلك ليشمل الانعكاسات الفلسفية لبساطة الذات الإلهية واستحالة التركيب فيها. وتنقل كلتا الروايتين أحاديث كثيرة عن تعادل هذه السورة لثلث القرآن، وإن خصَّص المصدر الشيعي ذلك بروايات أهل البيت. ومما يُجمع عليه الطرفان أن هذه الآية تُثبت تنزُّه الله عن المخلوقات وتُفنِّد التجسيم. وتظهر فوارق دقيقة في المنهج؛ إذ يميل التفسير السني نحو التحليل اللغوي والسياق التاريخي، بينما يُدمج التفسير الشيعي كثيراً الكلامَ الفلسفي ويربط الآية بموضوعات الولاية والهداية الإلهية عبر الأئمة."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "112:2:self-sufficient",
+          "title": "The Self-Sufficient",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is 'As-Samad' - the Eternal, Absolute, Self-Sufficient One who needs nothing from creation, while all creation depends absolutely on Him for existence and sustenance.",
+          "whyItMatters": "Understanding Allah's self-sufficiency frees us from thinking He needs our worship, while simultaneously showing that we are completely dependent on Him for everything.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱللَّهُ ٱلصَّمَدُ",
+          "title_urdu": "خود کفیل",
+          "coreInsight_urdu": "اللہ 'الصمد' ہے - ابدی، مطلق، خود کفیل جسے مخلوق سے کچھ نہیں چاہیے، جبکہ تمام مخلوق وجود اور رزق کے لیے مکمل طور پر اس پر منحصر ہے۔",
+          "whyItMatters_urdu": "اللہ کی خود کفالت کو سمجھنا ہمیں یہ سوچنے سے آزاد کرتا ہے کہ اسے ہماری عبادت کی ضرورت ہے، جبکہ بیک وقت یہ ظاہر کرتا ہے کہ ہم ہر چیز کے لیے مکمل طور پر اس پر منحصر ہیں۔",
+          "title_ar": "المكتفي بذاته",
+          "coreInsight_ar": "الله هو 'الصمد' - الأبدي المطلق المكتفي بذاته الذي لا يحتاج شيئًا من الخلق، بينما يعتمد كل الخلق عليه اعتمادًا مطلقًا في الوجود والرزق.",
+          "whyItMatters_ar": "فهم اكتفاء الله الذاتي يحررنا من التفكير في أنه يحتاج عبادتنا، بينما يُظهر في نفس الوقت أننا نعتمد عليه تمامًا في كل شيء."
+        },
+        {
+          "id": "112:2:eternal-refuge",
+          "title": "Ultimate Refuge",
+          "icon": "shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "As-Samad means the One to whom all turn in times of need - He is the solid, impenetrable refuge that never fails, the ultimate destination for all seeking help.",
+          "whyItMatters": "This teaches us that in every difficulty, Allah is the dependable refuge who can fulfill all needs, making reliance on Him the wisest choice in any situation.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلصَّمَدُ",
+          "title_urdu": "حتمی پناہ گاہ",
+          "coreInsight_urdu": "الصمد کا مطلب ہے وہ جس کی طرف سب ضرورت کے وقت رجوع کرتے ہیں - وہ مضبوط، ناقابل تسخیر پناہ گاہ ہے جو کبھی ناکام نہیں ہوتی، مدد چاہنے والوں کے لیے حتمی منزل۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ ہر مشکل میں، اللہ قابل اعتماد پناہ گاہ ہے جو تمام ضروریات کو پورا کر سکتا ہے، کسی بھی صورتحال میں اس پر انحصار کو سب سے دانشمندانہ انتخاب بناتا ہے۔",
+          "title_ar": "الملجأ النهائي",
+          "coreInsight_ar": "الصمد يعني الذي يلجأ إليه الجميع في أوقات الحاجة - هو الملجأ الصلب الذي لا يُخترق ولا يفشل أبدًا، الوجهة النهائية لكل من يطلب المساعدة.",
+          "whyItMatters_ar": "يعلمنا هذا أنه في كل صعوبة، الله هو الملجأ الموثوق الذي يمكنه تلبية جميع الاحتياجات، مما يجعل الاعتماد عليه الخيار الأحكم في أي موقف."
+        },
+        {
+          "id": "112:2:solid-foundation",
+          "title": "Solid Foundation",
+          "icon": "square.stack.3d.up.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Linguistically, 'Samad' conveys solidity and impenetrability - Allah is the firm foundation upon which all existence rests, unchanging and unaffected by anything.",
+          "whyItMatters": "In a world of constant change and uncertainty, knowing Allah is the unchanging, solid foundation gives us stability and peace in the midst of life's turbulence.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلصَّمَدُ",
+          "title_urdu": "مضبوط بنیاد",
+          "coreInsight_urdu": "لسانی طور پر، 'صمد' مضبوطی اور ناقابل تسخیری کا مفہوم دیتا ہے - اللہ مضبوط بنیاد ہے جس پر تمام وجود قائم ہے، غیر متبدل اور کسی چیز سے غیر متاثر۔",
+          "whyItMatters_urdu": "مسلسل تبدیلی اور غیر یقینی صورتحال کی دنیا میں، یہ جاننا کہ اللہ غیر متبدل، مضبوط بنیاد ہے زندگی کی ہلچل کے بیچ میں ہمیں استحکام اور سکون دیتا ہے۔",
+          "title_ar": "الأساس الصلب",
+          "coreInsight_ar": "لغويًا، 'الصمد' تنقل الصلابة وعدم الاختراق - الله هو الأساس الثابت الذي يستند عليه كل الوجود، غير متغير وغير متأثر بأي شيء.",
+          "whyItMatters_ar": "في عالم من التغيير المستمر وعدم اليقين، معرفة أن الله هو الأساس الثابت غير المتغير يمنحنا الاستقرار والسلام في خضم اضطراب الحياة."
+        },
+        {
+          "id": "112:2:master-sought",
+          "title": "Master Sought",
+          "icon": "arrow.up.right.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "As-Samad is the Master to whom all turn, the Chief sought by all in need - angels, humans, and all creation direct their needs to Him alone.",
+          "whyItMatters": "This universal turning toward Allah shows that seeking help from anyone besides Him is ultimately seeking a subordinate when the Master is available and willing.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱللَّهُ ٱلصَّمَدُ",
+          "title_urdu": "طلب کیا جانے والا آقا",
+          "coreInsight_urdu": "الصمد وہ آقا ہے جس کی طرف سب رجوع کرتے ہیں، وہ سردار جسے ضرورت مندوں نے تلاش کیا - فرشتے، انسان، اور تمام مخلوق اپنی ضروریات صرف اسی کی طرف بھیجتے ہیں۔",
+          "whyItMatters_urdu": "اللہ کی طرف یہ عالمگیر رجوع ظاہر کرتا ہے کہ اس کے علاوہ کسی سے مدد مانگنا بالآخر ایک ماتحت سے مانگنا ہے جب آقا دستیاب اور راضی ہو۔",
+          "title_ar": "السيد المطلوب",
+          "coreInsight_ar": "الصمد هو السيد الذي يلجأ إليه الجميع، الرئيس الذي يُطلب من جميع المحتاجين - الملائكة والبشر وكل الخلق يوجهون احتياجاتهم إليه وحده.",
+          "whyItMatters_ar": "هذا التوجه العالمي نحو الله يُظهر أن طلب المساعدة من غيره هو في النهاية طلب من تابع عندما يكون السيد متاحًا ومستعدًا."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars share substantial agreement on the meaning of Al-Samad, though with some nuanced differences in emphasis. Ibn Kathir, drawing from Ibn Abbas and other Companions, defined Samad as the Master who is perfect in sovereignty, nobility, knowledge, wisdom, and all attributes of majesty. Al-Qurtubi emphasized that Samad means the One to whom creation turns in all needs, while He needs nothing from creation. These definitions closely parallel Shia interpretations from Tabatabai and the narrations from the Imams. Both traditions transmit that Samad implies Allah's freedom from having consumed food or having been born, directly connecting to the subsequent verses. Where approaches differ slightly is in methodology: Sunni exegesis often compiles various linguistic meanings from the Companions and early Arabs, while Shia exegesis integrates these with philosophical theology about divine attributes and narrations from the Imams. Al-Tabari collected numerous interpretations of Samad from early authorities, showing the term's richness, while Shia scholars like Tabatabai synthesized these meanings into a cohesive theological framework. Both traditions use this verse to refute Christian theology, particularly the idea of divine incarnation or God requiring sustenance. An important consensus exists that Samad establishes Allah's complete transcendence and self-sufficiency, forming a cornerstone of Islamic creed that unites scholarly perspectives across schools of thought.",
+    "layer4_urdu": "شیعہ اور سنی علما الصمد کے معنی پر کافی اتفاق رکھتے ہیں، اگرچہ زور میں کچھ لطیف فرق کے ساتھ۔ ابن کثیر، ابن عباس اور دوسرے صحابہ سے نقل کرتے ہوئے، صمد کی تعریف کرتے ہیں بطور آقا جو حاکمیت، شرافت، علم، حکمت اور عظمت کی تمام صفات میں کامل ہے۔ قرطبی اس بات پر زور دیتے ہیں کہ صمد کا مطلب وہ ایک ہے جس کی طرف مخلوق تمام ضروریات میں رجوع کرتی ہے، جبکہ اسے مخلوق سے کچھ بھی درکار نہیں۔ یہ تعریفات طباطبائی اور ائمہ سے روایات میں شیعہ تشریحات سے قریب سے میل کھاتی ہیں۔ دونوں روایات بیان کرتی ہیں کہ صمد اللہ کی کھانا پینے سے آزادی یا پیدا ہونے سے آزادی کو ظاہر کرتا ہے، جو براہِ راست آنے والی آیات سے منسلک ہے۔ جہاں طریقہ کار میں تھوڑا فرق ظاہر ہوتا ہے: سنی تفسیر اکثر صحابہ اور ابتدائی عربوں سے مختلف لسانی معانی کو جمع کرتی ہے، جبکہ شیعہ تفسیر ان کو الہٰی صفات اور جوہر کے بارے میں فلسفیانہ الہٰیات اور ائمہ سے روایات کے ساتھ ضم کرتی ہے۔ طبری نے ابتدائی حکام سے صمد کی متعدد تشریحات جمع کیں، اصطلاح کی بھرپوری کو ظاہر کرتے ہوئے، جبکہ شیعہ علما جیسے طباطبائی نے ان معانی کو ایک مربوط الہٰیاتی فریم ورک میں ترکیب کیا۔ دونوں روایات اس آیت کو عیسائی الہٰیات کو رد کرنے کے لیے استعمال کرتی ہیں، خاص طور پر الہٰی تجسیم یا خدا کو رزق کی ضرورت کا تصور۔ ایک اہم اجماع موجود ہے کہ صمد اللہ کی مکمل ماورائیت اور خود کفالت کو قائم کرتا ہے، اسلامی عقیدے کی بنیاد بناتا ہے جو فکر کے تمام مکاتب میں علما کے نقطہ نظر کو متحد کرتا ہے۔",
+    "layer4_ar": "يتقاسم علماء الشيعة والسنة قدراً كبيراً من الاتفاق حول معنى الصمد، وإن كانت ثمة فوارق دقيقة في التركيز. فقد عرَّف ابن كثير مستنداً إلى ابن عباس وغيره الصمدَ بأنه السيد الذي بلغ الكمال في سيادته ونبله وعلمه وحكمته وسائر صفات الجلال. وأكَّد القرطبي أن الصمد هو من يلجأ إليه الخلق في كل الحاجات وهو في غنى تام عن الجميع. وهذه التعريفات تتوازى توازياً وثيقاً مع التفسيرات الشيعية لدى الطباطبائي والروايات عن الأئمة. وتنقل كلتا الروايتين ما مؤداه أن الصمد يُشير إلى نزاهة الله عن تناول الطعام وعن الولادة، وهو ما يتصل مباشرةً بالآيات التالية. وحيث يختلف المنهجان بعض الشيء فذلك في الأسلوب؛ إذ كثيراً ما يجمع التفسير السني معاني لغوية متنوعة من الصحابة وعرب الجاهلية، بينما يُصنِّف التفسير الشيعي كالميزان هذه المعاني في إطار كلامي متماسك ويدعمها بروايات الأئمة. وقد جمع الطبري تفسيرات عديدة لـ\"الصمد\" من السلف الصالح مما يكشف ثراء الكلمة، بينما قام علماء الشيعة كالطباطبائي بتوليف هذه المعاني في منظومة عقدية متكاملة. وتتوحد الروايتان في استخدام هذه الآية لدفع اللاهوت المسيحي ولا سيما فكرة الحلول الإلهي أو احتياج الله إلى غذاء. والإجماع القائم على أن الصمد يُثبت استغناء الله المطلق وتعاليه عن الخلق يُمثِّل ركناً راسخاً في العقيدة الإسلامية يجمع وجهات النظر عبر المذاهب."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "112:3:no-offspring",
+          "title": "No Begetting",
+          "icon": "multiply.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah 'lam yalid' (did not beget) - He has no children or offspring, directly refuting Christian Trinity doctrine and any belief in divine progeny or incarnation.",
+          "whyItMatters": "This preserves the absolute transcendence of Allah, preventing the humanization of the Divine and maintaining clear boundaries between Creator and creation.",
+          "position": "topLeft",
+          "arabicHighlight": "لَمْ يَلِدْ",
+          "title_urdu": "کوئی اولاد نہیں",
+          "coreInsight_urdu": "اللہ 'لم یلد' (نہیں جنا) - اس کی کوئی اولاد یا نسل نہیں ہے، براہ راست عیسائی تثلیث کے عقیدے اور الہی اولاد یا تجسم میں کسی عقیدے کی تردید کرتا ہے۔",
+          "whyItMatters_urdu": "یہ اللہ کی مطلق ماورائیت کو محفوظ رکھتا ہے، الہی کی انسانیت کو روکتا ہے اور خالق اور مخلوق کے درمیان واضح حدود برقرار رکھتا ہے۔",
+          "title_ar": "لا يولد",
+          "coreInsight_ar": "الله 'لم يلد' - ليس له أطفال أو نسل، مما يدحض مباشرة عقيدة الثالوث المسيحية وأي اعتقاد في النسل الإلهي أو التجسد.",
+          "whyItMatters_ar": "يحافظ هذا على تعالي الله المطلق، مانعًا أنسنة الإلهي ومحافظًا على الحدود الواضحة بين الخالق والمخلوق."
+        },
+        {
+          "id": "112:3:not-begotten",
+          "title": "Not Born",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah 'wa lam yulad' (was not born) - He has no origin, no parent, no beginning, existing eternally without being brought into existence by anything.",
+          "whyItMatters": "This negates all polytheistic genealogies of gods and affirms Allah's eternal, uncreated nature, making Him fundamentally different from all created beings.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَمْ يُولَدْ",
+          "title_urdu": "پیدا نہیں ہوا",
+          "coreInsight_urdu": "اللہ 'و لم یولد' (پیدا نہیں ہوا) - اس کی کوئی ابتداء نہیں، کوئی والدین نہیں، کوئی شروعات نہیں، کسی چیز کے ذریعے وجود میں لائے بغیر ابدی طور پر موجود ہے۔",
+          "whyItMatters_urdu": "یہ دیوتاؤں کی تمام شرک پسندانہ نسب کی نفی کرتا ہے اور اللہ کی ابدی، غیر مخلوق نوعیت کی تصدیق کرتا ہے، اسے تمام مخلوق سے بنیادی طور پر مختلف بناتا ہے۔",
+          "title_ar": "لم يولد",
+          "coreInsight_ar": "الله 'ولم يولد' - ليس له أصل أو والد أو بداية، موجود أبديًا دون أن يُؤتى به إلى الوجود بواسطة أي شيء.",
+          "whyItMatters_ar": "ينفي هذا جميع أنساب الآلهة الشركية ويؤكد الطبيعة الأبدية غير المخلوقة لله، مما يجعله مختلفًا جوهريًا عن جميع الكائنات المخلوقة."
+        },
+        {
+          "id": "112:3:negation-emphasis",
+          "title": "Double Negation",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The emphatic negation 'lam' used twice emphasizes the absolute impossibility of Allah having relationships of origin or procreation, completely excluding any familial attributes.",
+          "whyItMatters": "This strong emphasis protects Islamic monotheism from any contamination by biological or familial concepts that would humanize or limit the Divine.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "title_urdu": "دوہری نفی",
+          "coreInsight_urdu": "زوردار نفی 'لم' دو بار استعمال کیا گیا ہے اللہ کے پیدائش یا اولاد کے تعلقات رکھنے کی مطلق ناممکنیت پر زور دیتا ہے، کسی بھی خاندانی صفات کو مکمل طور پر خارج کرتا ہے۔",
+          "whyItMatters_urdu": "یہ مضبوط زور اسلامی توحید کو کسی بھی حیاتیاتی یا خاندانی تصورات سے آلودگی سے بچاتا ہے جو الہی کو انسانی بنا دے یا محدود کر دے۔",
+          "title_ar": "النفي المزدوج",
+          "coreInsight_ar": "النفي المؤكد 'لم' المستخدم مرتين يؤكد على الاستحالة المطلقة لوجود علاقات أصل أو إنجاب لله، مستبعدًا تمامًا أي صفات عائلية.",
+          "whyItMatters_ar": "يحمي هذا التأكيد القوي التوحيد الإسلامي من أي تلوث بمفاهيم بيولوجية أو عائلية من شأنها أن تُأنسن الإلهي أو تحده."
+        },
+        {
+          "id": "112:3:timeless-existence",
+          "title": "Eternal Existence",
+          "icon": "infinity",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "By negating both being born and giving birth, the verse establishes Allah's existence outside of time - He is eternal in the past (no beginning) and eternal in the future (no succession).",
+          "whyItMatters": "Understanding Allah's timelessness helps us grasp His sovereignty over time itself, making Him the eternal reference point beyond all temporal limitations.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "title_urdu": "لازوال وجود",
+          "coreInsight_urdu": "پیدا ہونے اور جنم دینے دونوں کی نفی کرکے، آیت وقت سے باہر اللہ کے وجود کو قائم کرتی ہے - وہ ماضی میں ابدی ہے (کوئی شروعات نہیں) اور مستقبل میں ابدی ہے (کوئی جانشینی نہیں)۔",
+          "whyItMatters_urdu": "اللہ کی لازوالیت کو سمجھنا ہمیں خود وقت پر اس کی حاکمیت کو سمجھنے میں مدد کرتا ہے، اسے تمام وقتی حدود سے باہر ابدی حوالہ نقطہ بناتا ہے۔",
+          "title_ar": "الوجود الأبدي",
+          "coreInsight_ar": "بنفي الولادة والإنجاب معًا، تؤسس الآية وجود الله خارج الزمن - هو أبدي في الماضي (لا بداية) وأبدي في المستقبل (لا خلافة).",
+          "whyItMatters_ar": "فهم أبدية الله يساعدنا على إدراك سيادته على الزمن نفسه، مما يجعله نقطة الإسناد الأبدية خارج كل القيود الزمنية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes uniformly agree that this verse categorically refutes Christian doctrine about Jesus being the begotten son of God and rejects any form of divine reproduction. Ibn Kathir states that this verse demolishes the Christian belief in divine sonship and the pagan Arab belief that angels are Allah's daughters, interpretations that fully align with Shia scholarship. Al-Qurtubi emphasizes that begetting implies likeness and sharing of nature, which would contradict Allah's absolute uniqueness - a point strongly echoed in Tabatabai's Al-Mizan. Al-Tabari transmitted numerous narrations showing this verse was revealed specifically to answer those who inquired about Allah's genealogy, matching the Shia tradition from Imam al-Sadiq. Where the traditions converge most strongly is in using this verse for interfaith dialogue and theological clarification. Both Shia and Sunni scholars have historically employed this verse when engaging with Christians, Jews, and others about Islamic theology. A subtle difference appears in application: Sunni exegesis tends to focus on historical polemics against Christianity, while Shia exegesis additionally addresses philosophical emanationism and pantheistic tendencies. Both traditions teach that this verse establishes Allah's transcendence and eternality, though Shia theology tends to connect it more explicitly to divine simplicity and the impossibility of composition in Allah's essence. The consensus is powerful: Allah is utterly unlike creation, eternal, uncaused, and without offspring or origin.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین یکساں طور پر متفق ہیں کہ یہ آیت قطعی طور پر عیسائی عقیدے کو رد کرتی ہے کہ عیسیٰ خدا کا جنم دیا گیا بیٹا ہے اور کسی بھی قسم کی الہٰی دوبارہ پیدائش کو مسترد کرتی ہے۔ ابن کثیر بیان کرتے ہیں کہ یہ آیت عیسائی عقیدے کو الہٰی فرزندیت میں اور کافر عربوں کے عقیدے کو کہ فرشتے اللہ کی بیٹیاں ہیں منہدم کرتی ہے، تشریحات جو مکمل طور پر شیعہ علم سے میل کھاتی ہیں۔ قرطبی اس بات پر زور دیتے ہیں کہ جنم دینا مشابہت اور فطرت کی شراکت کو ظاہر کرتا ہے، جو اللہ کی مطلق منفردیت سے متضاد ہوگا - ایک نقطہ جو طباطبائی کی المیزان میں مضبوطی سے گونجتا ہے۔ طبری نے متعدد روایات منتقل کیں جو ظاہر کرتی ہیں کہ یہ آیت خاص طور پر ان کے جواب میں نازل ہوئی جنہوں نے اللہ کی نسب کے بارے میں دریافت کیا، امام صادق کی شیعہ روایت سے میل کھاتی ہے۔ جہاں روایات سب سے مضبوطی سے ملتی ہیں وہ یہ ہے کہ اس آیت کو عیسائیوں، یہودیوں، اور دوسروں کے ساتھ اسلامی الہٰیات کے بارے میں بات چیت کرتے وقت استعمال کرنا۔ سنی تفسیر عیسائیت کے خلاف تاریخی مباحثوں پر توجہ مرکوز کرتی ہے، جبکہ شیعہ تفسیر اضافی طور پر فلسفیانہ اخراجیت اور وحدانی رجحانات کو خطاب کرتی ہے۔ دونوں روایات سکھاتی ہیں کہ یہ آیت اللہ کی ماورائیت اور ابدیت قائم کرتی ہے، اگرچہ شیعہ الہٰیات اسے الہٰی سادگی اور اللہ کی ذات میں ترکیب کی ناممکنیت سے زیادہ واضح طور پر جوڑتی ہے۔ اجماع طاقتور ہے: اللہ مخلوق سے بالکل مختلف، ابدی، غیر سببی، اور بغیر اولاد یا اصل کے۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة اتفاقاً موحَّداً على أن هذه الآية تُفنِّد قطعياً العقيدة المسيحية القائلة بأن عيسى ابن الله المولود، وترفض أي شكل من أشكال التناسل الإلهي. ويُقرِّر ابن كثير أن هذه الآية تهدم إيمان المسيحيين بالبنوة الإلهية وإيمان المشركين العرب بأن الملائكة بنات الله، وهو تفسير يتوافق تماماً مع الدراسات الشيعية. ويُؤكِّد القرطبي أن التوليد يستلزم التشابه وتقاسم الطبيعة وهو ما يتعارض مع تفرد الله المطلق، وهو رأي يتردد صداه بقوة في الميزان للطباطبائي. ونقل الطبري روايات عديدة تُبيِّن أن هذه الآية نزلت تحديداً للرد على من سأل عن نسب الله، وهو ما يُطابق الموروث الشيعي عن الإمام الصادق عليه السلام. وأشد ما تتلاقى فيه الروايتان هو استخدام هذه الآية في الحوار بين الأديان والتوضيح العقدي، إذ وظَّفها علماء الشيعة والسنة على حد سواء تاريخياً في التعامل مع المسيحيين واليهود وغيرهم. وتظهر فوارق دقيقة في التطبيق؛ إذ يميل التفسير السني إلى التركيز على الجدل التاريخي مع المسيحية، بينما يُعالج التفسير الشيعي إضافةً إلى ذلك نزعات الانبثاث الفلسفي والميول الحلولية. وتُعلِّم كلتا الروايتين أن هذه الآية تُثبت تنزُّه الله وأزليته، وإن كان اللاهوت الشيعي يربطها بشكل أصرح بالبساطة الإلهية واستحالة التركيب في ذات الله. والإجماع جلي: الله يختلف اختلافاً جذرياً عن الخلق، أبدي لم يُخلَق، لا ذرية له ولا أصل."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "112:4:no-equal",
+          "title": "Incomparable One",
+          "icon": "chart.bar.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'lam yakun lahu kufuwan ahad' (there is none comparable to Him) declares that nothing in existence can be compared to Allah in essence, attributes, or actions.",
+          "whyItMatters": "This final negation completes the surah's protection of Tawhid, ensuring we never liken Allah to anything created, maintaining His absolute transcendence and uniqueness.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "title_urdu": "بے مثال",
+          "coreInsight_urdu": "جملہ 'و لم یکن لہ کفوا احد' (اس کے برابر کوئی نہیں) اعلان کرتا ہے کہ وجود میں کچھ بھی ذات، صفات، یا اعمال میں اللہ سے موازنہ نہیں کیا جا سکتا۔",
+          "whyItMatters_urdu": "یہ آخری نفی سورہ کی توحید کی حفاظت کو مکمل کرتی ہے، یہ یقینی بناتے ہوئے کہ ہم اللہ کو کبھی بھی کسی مخلوق سے نہیں ملاتے، اس کی مطلق ماورائیت اور منفردیت کو برقرار رکھتے ہوئے۔",
+          "title_ar": "الواحد الذي لا مثيل له",
+          "coreInsight_ar": "عبارة 'ولم يكن له كفوًا أحد' تعلن أنه لا شيء في الوجود يمكن مقارنته بالله في الجوهر أو الصفات أو الأفعال.",
+          "whyItMatters_ar": "هذا النفي الأخير يكمل حماية السورة للتوحيد، مضمونًا أننا لن نشبه الله بأي شيء مخلوق، محافظين على تعاليه المطلق وتفرده."
+        },
+        {
+          "id": "112:4:kufuw-meaning",
+          "title": "No Match",
+          "icon": "xmark.seal.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Kufuw' means equal, match, or counterpart - this negates any possibility of Allah having a peer, rival, spouse, partner, or anyone who could share His attributes.",
+          "whyItMatters": "This protects us from all forms of shirk (polytheism), whether obvious like idol worship or subtle like trusting in creation as we should trust in Allah alone.",
+          "position": "topRight",
+          "arabicHighlight": "كُفُوًا",
+          "title_urdu": "کوئی جوڑا نہیں",
+          "coreInsight_urdu": "'کفو' کا مطلب برابر، جوڑا، یا ہم پلہ ہے - یہ اللہ کے کسی ہم عمر، حریف، شریک حیات، شریک، یا کسی ایسے شخص کے ہونے کے امکان کو نفی کرتا ہے جو اس کی صفات کا اشتراک کر سکے۔",
+          "whyItMatters_urdu": "یہ ہمیں شرک (کثرت پرستی) کی تمام اقسام سے بچاتا ہے، چاہے واضح ہو جیسے بت پرستی یا باریک ہو جیسے مخلوق پر اعتماد کرنا جیسا کہ ہمیں صرف اللہ پر اعتماد کرنا چاہیے۔",
+          "title_ar": "لا نظير",
+          "coreInsight_ar": "'كفو' يعني مساوٍ أو مطابق أو نظير - ينفي هذا أي إمكانية لوجود قرين أو منافس أو زوج أو شريك لله، أو أي شخص يمكن أن يشارك صفاته.",
+          "whyItMatters_ar": "يحمينا هذا من جميع أشكال الشرك، سواء كانت واضحة مثل عبادة الأصنام أو خفية مثل الثقة في الخلق كما يجب أن نثق في الله وحده."
+        },
+        {
+          "id": "112:4:comprehensive-negation",
+          "title": "Total Exclusion",
+          "icon": "circle.slash.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'ahad' (anyone/anything) at the end creates absolute, comprehensive negation - not a single thing in all existence resembles or equals Allah in any way.",
+          "whyItMatters": "This sweeping statement closes every door to comparing creation with the Creator, protecting our minds from limiting Allah through analogies or similitudes.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَحَدٌۢ",
+          "title_urdu": "مکمل اخراج",
+          "coreInsight_urdu": "آخر میں لفظ 'احد' (کوئی/کچھ) مطلق، جامع نفی پیدا کرتا ہے - تمام وجود میں ایک بھی چیز کسی بھی طرح سے اللہ سے مشابہت یا برابری نہیں رکھتی۔",
+          "whyItMatters_urdu": "یہ وسیع بیان مخلوق کو خالق سے موازنہ کرنے کے ہر دروازے کو بند کر دیتا ہے، ہمارے ذہنوں کو تشبیہات یا مثالوں کے ذریعے اللہ کو محدود کرنے سے بچاتا ہے۔",
+          "title_ar": "الاستبعاد الكلي",
+          "coreInsight_ar": "كلمة 'أحد' في النهاية تخلق نفيًا مطلقًا شاملاً - لا شيء واحد في كل الوجود يشبه أو يساوي الله بأي شكل من الأشكال.",
+          "whyItMatters_ar": "يغلق هذا البيان الشامل كل باب لمقارنة الخلق بالخالق، محميًا عقولنا من تحديد الله من خلال التشبيهات أو الأمثال."
+        },
+        {
+          "id": "112:4:surah-seal",
+          "title": "Perfect Conclusion",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse completes the surah's perfect structure: verse 1 affirms Allah's oneness, verse 2 His self-sufficiency, verse 3 negates origin/progeny, and verse 4 seals it by negating all comparison.",
+          "whyItMatters": "The surah's complete architecture provides a comprehensive shield of Tawhid, addressing Allah's essence, independence, eternal nature, and absolute uniqueness in four powerful verses.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+          "title_urdu": "کامل اختتام",
+          "coreInsight_urdu": "یہ آیت سورہ کی کامل ساخت کو مکمل کرتی ہے: آیت 1 اللہ کی وحدانیت کی تصدیق کرتی ہے، آیت 2 اس کی خود کفالت، آیت 3 ابتداء/نسل کی نفی کرتی ہے، اور آیت 4 تمام موازنہ کی نفی کرکے اسے مہر لگاتی ہے۔",
+          "whyItMatters_urdu": "سورہ کی مکمل تعمیر توحید کی جامع ڈھال فراہم کرتی ہے، اللہ کی ذات، آزادی، ابدی نوعیت، اور مطلق منفردیت کو چار طاقتور آیات میں حل کرتی ہے۔",
+          "title_ar": "الخاتمة الكاملة",
+          "coreInsight_ar": "تكمل هذه الآية البنية الكاملة للسورة: الآية 1 تؤكد وحدانية الله، الآية 2 اكتفاءه الذاتي، الآية 3 تنفي الأصل/النسل، والآية 4 تختمها بنفي كل مقارنة.",
+          "whyItMatters_ar": "توفر العمارة الكاملة للسورة درعًا شاملاً للتوحيد، معالجة جوهر الله واستقلاله وطبيعته الأبدية وتفرده المطلق في أربع آيات قوية."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars demonstrate remarkable consensus on this verse's meaning and implications. Ibn Kathir explains that this verse negates any similitude to Allah in His essence, attributes, or actions, a definition that perfectly aligns with Shia interpretations from Tabatabai and Tabrisi. Al-Qurtubi emphasizes that 'Kufw' means equal or equivalent, and the verse's absolute negation means nothing in creation or imagination can serve as comparison to Allah - a principle equally emphasized in Shia theology. Al-Tabari notes that this verse completes the surah's comprehensive articulation of pure monotheism by removing any possibility of likening Allah to creation. Both traditions use this verse as the foundation for divine transcendence and the basis for criticizing anthropomorphism. Where methodological differences appear is subtle: Sunni exegesis tends to focus on literal interpretation and historical context, while Shia exegesis often incorporates philosophical theology about divine attributes and essence. Both traditions teach that this verse is essential for interfaith dialogue, as it distinguishes Islamic monotheism from traditions that compare God to human forms or natural phenomena. Sunni scholars like Ibn Taymiyyah and Shia scholars like Allamah Hilli both used this verse to argue against excessive anthropomorphism while maintaining that Allah's attributes are real, not merely metaphorical. The consensus is clear: Allah is absolutely unique, incomparable, and beyond all similitude, forming the bedrock of Islamic theology across all schools of thought.",
+    "layer4_urdu": "شیعہ اور سنی علما اس آیت کے معنی اور مضمرات پر شاندار اجماع ظاہر کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ آیت اللہ کی ذات، صفات یا اعمال میں کسی مشابہت کی نفی کرتی ہے، ایک تعریف جو طباطبائی اور طبرسی کی شیعہ تشریحات سے بالکل میل کھاتی ہے۔ قرطبی اس بات پر زور دیتے ہیں کہ 'کفو' کا مطلب برابر یا ہم پلہ ہے، اور آیت کی مطلق نفی کا مطلب ہے کہ مخلوق یا تخیل میں کوئی چیز اللہ سے موازنہ کے طور پر کام نہیں کر سکتی - ایک اصول جو شیعہ الہٰیات میں یکساں زور دیا گیا ہے۔ طبری بتاتے ہیں کہ یہ آیت سورہ کی جامع خالص توحید کی وضاحت کو مکمل کرتی ہے اللہ کو مخلوق سے تشبیہ دینے کے کسی امکان کو ہٹاتے ہوئے۔ دونوں روایات اس آیت کو الہٰی ماورائیت کی بنیاد اور تشبیہ کی تنقید کی بنیاد کے طور پر استعمال کرتی ہیں۔ جہاں طریقہ کاری میں فرق ظاہر ہوتے ہیں وہ لطیف ہیں: سنی تفسیر لفظی تشریح اور تاریخی سیاق و سباق پر توجہ مرکوز کرتی ہے، جبکہ شیعہ تفسیر اکثر الہٰی صفات اور جوہر کے بارے میں فلسفیانہ الہٰیات شامل کرتی ہے۔ دونوں روایات سکھاتی ہیں کہ یہ آیت بین المذاہب بات چیت کے لیے ضروری ہے، کیونکہ یہ اسلامی توحید کو ان روایات سے ممتاز کرتی ہے جو خدا کا انسانی شکلوں یا قدرتی مظاہر سے موازنہ کرتی ہیں۔ سنی علما جیسے ابن تیمیہ اور شیعہ علما جیسے علامہ حلی دونوں نے اس آیت کو ضرورت سے زیادہ تشبیہ کے خلاف دلیل کے لیے استعمال کیا جبکہ برقرار رکھا کہ اللہ کی صفات حقیقی ہیں، محض استعاراتی نہیں۔ اجماع واضح ہے: اللہ مکمل طور پر منفرد، بے مثال، اور تمام مشابہت سے ماورا ہے، فکر کے تمام مکاتب میں اسلامی الہٰیات کی بنیاد بناتا ہے۔",
+    "layer4_ar": "يُبدي علماء الشيعة والسنة توافقاً لافتاً حول معنى هذه الآية ودلالاتها. فيُبيِّن ابن كثير أن هذه الآية تنفي كل تشبيه لله في ذاته أو صفاته أو أفعاله، وهو تعريف يتوافق توافقاً تاماً مع تفسيرات الشيعة لدى الطباطبائي والطبرسي. ويُؤكِّد القرطبي أن \"كفواً\" معناه المثيل أو المعادل، والنفي المطلق في الآية يعني أنه لا شيء في الخلق أو الخيال يصلح مقارنةً لله؛ وهو مبدأ يُثبت عليه اللاهوت الشيعي كذلك. ويُلاحظ الطبري أن هذه الآية تُكمِّل صياغة السورة الشاملة للتوحيد الخالص بإزالة كل إمكانية لتشبيه الله بالخلق. وتستند كلتا الروايتين إلى هذه الآية أساساً للتنزُّه الإلهي ومنطلقاً لنقد التجسيم. وحيث تبدو فوارق منهجية فهي دقيقة؛ إذ يميل التفسير السني إلى التفسير الحرفي والسياق التاريخي، بينما يُدمج التفسير الشيعي كثيراً الكلامَ الفلسفي في الصفات الإلهية والذات. وتُعلِّم كلتا الروايتين أن هذه الآية أساس في الحوار بين الأديان، إذ تُميِّز التوحيد الإسلامي عن الأديان التي تُشبِّه الله بصور بشرية أو مظاهر طبيعية. واستخدم ابن تيمية من علماء السنة والعلامة الحلي من علماء الشيعة كليهما هذه الآية حجةً على نقد التجسيم المفرط مع الإثبات بأن صفات الله حقيقية لا مجازية فحسب. والإجماع قاطع: الله فريد مطلق لا مثيل له ولا شبيه، وهو ركن اللاهوت الإسلامي الثابت عبر جميع المذاهب."
+  }
+}

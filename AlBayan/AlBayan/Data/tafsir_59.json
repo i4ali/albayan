@@ -1,0 +1,1530 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:1:universal-glorification",
+          "title": "Universal Glorification",
+          "icon": "globe.americas.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "All creation in the heavens and earth glorifies Allah, demonstrating that praise of the Creator is the natural state of existence.",
+          "whyItMatters": "When you glorify Allah, you join the cosmic symphony of worship - aligning yourself with the fundamental purpose of all creation.",
+          "position": "topLeft",
+          "arabicHighlight": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "عالمگیر تسبیح",
+          "coreInsight_urdu": "آسمانوں اور زمین میں ہر چیز اللہ کی تسبیح کرتی ہے، یہ ثابت کرتے ہوئے کہ خالق کی حمد وجود کی فطری حالت ہے۔",
+          "whyItMatters_urdu": "جب آپ اللہ کی تسبیح کرتے ہیں، تو آپ عبادت کی کائناتی ہم آہنگی میں شامل ہوتے ہیں۔",
+          "title_ar": "التسبيح الكوني",
+          "coreInsight_ar": "كل ما في السماوات والأرض يسبح الله، مما يدل على أن الحمد للخالق هو الحالة الطبيعية للوجود.",
+          "whyItMatters_ar": "عندما تسبح الله، تنضم إلى سيمفونية العبادة الكونية."
+        },
+        {
+          "id": "59:1:divine-might",
+          "title": "Divine Might",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is Al-Aziz (The Mighty) and Al-Hakim (The Wise) - His power is absolute and His wisdom perfect in all decisions.",
+          "whyItMatters": "In times of oppression or difficulty, remember that true power belongs to Allah alone, and His wisdom guides all events to their proper end.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          "title_urdu": "الٰہی قوت",
+          "coreInsight_urdu": "اللہ العزیز (زبردست) اور الحکیم (حکمت والا) ہے - اس کی طاقت مطلق ہے اور اس کی حکمت تمام فیصلوں میں کامل ہے۔",
+          "whyItMatters_urdu": "ظلم یا مشکلات کے وقت یاد رکھیں کہ حقیقی طاقت صرف اللہ کی ہے۔",
+          "title_ar": "القوة الإلهية",
+          "coreInsight_ar": "الله العزيز والحكيم - قوته المطلقة وحكمته الكاملة في جميع القرارات.",
+          "whyItMatters_ar": "في أوقات الظلم أو الصعوبة، تذكر أن القوة الحقيقية لله وحده."
+        },
+        {
+          "id": "59:1:creation-worship",
+          "title": "Creation's Purpose",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The opening verse establishes that all existence has one unified purpose: glorification of Allah, whether through conscious choice or inherent nature.",
+          "whyItMatters": "Understanding this gives your life profound meaning - you are part of a universal purpose, not wandering aimlessly.",
+          "position": "bottomLeft",
+          "arabicHighlight": "سَبَّحَ لِلَّهِ",
+          "title_urdu": "تخلیق کا مقصد",
+          "coreInsight_urdu": "افتتاحی آیت یہ قائم کرتی ہے کہ تمام وجود کا ایک متحد مقصد ہے: اللہ کی تسبیح۔",
+          "whyItMatters_urdu": "اسے سمجھنا آپ کی زندگی کو گہرا معنی دیتا ہے۔",
+          "title_ar": "غرض الخلق",
+          "coreInsight_ar": "تثبت الآية الافتتاحية أن كل الوجود له غرض واحد: تسبيح الله.",
+          "whyItMatters_ar": "فهم هذا يعطي حياتك معنى عميقاً."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree on the fundamental meaning of this verse, recognizing it as an assertion of universal divine glorification and a preface to the surah's main narrative. However, there are nuanced differences in interpretation. Sunni scholars like Fakhr al-Din al-Razi in Mafatih al-Ghayb emphasize the grammatical precision of the past tense verb, interpreting it as indicating the certainty and completeness of creation's glorification. Ibn Kathir focuses on this verse as proof that all creation worships Allah, whether consciously or through its ordered existence. Shia scholars, while accepting these interpretations, place additional emphasis on the connection between divine attributes and the historical events about to be narrated. Tabatabai notes that the specific pairing of might and wisdom at the beginning of this surah signals that the victory over Banu Nadir was not merely political but a manifestation of divine attributes in human affairs. Both traditions recognize the verse's function as a theological foundation, but Shia tafsir particularly emphasizes how it sets the framework for understanding the spiritual dimensions of historical events. Scholars from both schools agree that this opening invites believers to adopt a God-conscious perspective when examining worldly affairs.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کے بنیادی معنی پر متفق ہیں، یعنی یہ کہ یہ آیت عالمگیر الہٰی تسبیح کا اعلان ہے اور سورت کے مرکزی بیانیے کا دیباچہ ہے۔ تاہم تفسیر میں کچھ باریک اختلافات موجود ہیں۔ سنی علماء جیسے فخر الدین رازی نے مفاتیح الغیب میں ماضی کے فعل کی نحوی دقت پر زور دیا ہے، اس کی تفسیر یہ کرتے ہوئے کہ یہ تخلیق کی تسبیح کے یقین اور کمال کو ظاہر کرتا ہے۔ ابن کثیر نے اس آیت کو اس بات کی دلیل کے طور پر پیش کیا کہ تمام مخلوقات اللہ کی عبادت کرتی ہیں، چاہے شعوری طور پر ہو یا اپنے منظم وجود کے ذریعے۔ شیعہ علماء ان تفاسیر کو قبول کرتے ہوئے الہٰی صفات اور بیان ہونے والے تاریخی واقعات کے درمیان تعلق پر مزید زور دیتے ہیں۔ طباطبائی نے نوٹ کیا کہ اس سورت کے آغاز میں قدرت اور حکمت کا خاص جوڑ یہ اشارہ دیتا ہے کہ بنو نضیر پر فتح محض سیاسی نہیں بلکہ انسانی معاملات میں الہٰی صفات کا اظہار تھی۔ دونوں روایات آیت کے علمِ الہٰی بنیاد کے فریضے کو تسلیم کرتی ہیں، لیکن شیعہ تفسیر خاص طور پر اس بات پر زور دیتی ہے کہ یہ آیت تاریخی واقعات کی روحانی جہتوں کو سمجھنے کا فریم ورک کس طرح فراہم کرتی ہے۔ دونوں مکاتب کے علماء اس بات پر متفق ہیں کہ یہ ابتدائیہ مومنوں کو دنیاوی معاملات کا جائزہ لیتے وقت خدا کے شعور پر مبنی نقطہ نظر اپنانے کی دعوت دیتا ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة في الفهم الجوهري لهذه الآية، معتبِرين إياها إعلاناً عن التسبيح الكوني الشامل وتمهيداً للسرد الرئيسي في السورة. ويُبيِّن الفخر الرازي في مفاتيح الغيب الدقة النحوية لاستخدام الفعل الماضي، مفسِّراً إياه بأنه يُفيد اليقين والثبوت في تسبيح المخلوقات لله. ويُركِّز ابن كثير على هذه الآية باعتبارها دليلاً على عبادة الكون كله لله، سواء بالإدراك الواعي أم بالوجود المنقاد. ويقبل علماء الشيعة هذه التفسيرات، غير أنهم يُولون عنايةً أكبر للصلة بين الصفات الإلهية والأحداث التاريخية المرويَّة في السورة. وعند الطباطبائي أن المقارنة بين العزَّة والحكمة في مفتتح السورة تُشير إلى أن النصر على بني النضير لم يكن شأناً سياسياً خالصاً بل كان تجلِّياً للصفات الإلهية في شؤون البشر. ويتَّفق التقليدان على أن الآية الافتتاحية تدعو المؤمن إلى تبنِّي المنظور الإيماني في قراءة الأحداث الدنيوية، وإن كانت التفاصيل التفسيرية في الربط بين الصفات الإلهية والتاريخ أكثر حضوراً في الكتابة الشيعية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:2:divine-decree",
+          "title": "Divine Decree",
+          "icon": "hand.raised.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah expelled the Banu Nadir from Medina without battle - His decree came from where they least expected, bypassing their fortresses entirely.",
+          "whyItMatters": "No worldly power or fortress can protect against Allah's will. True security comes from faith, not material defenses.",
+          "position": "topLeft",
+          "arabicHighlight": "فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟",
+          "title_urdu": "الٰہی فیصلہ",
+          "coreInsight_urdu": "اللہ نے بنو نضیر کو بغیر جنگ کے مدینہ سے نکال دیا - اس کا فیصلہ وہاں سے آیا جہاں انہوں نے توقع نہیں کی تھی۔",
+          "whyItMatters_urdu": "کوئی دنیاوی طاقت یا قلعہ اللہ کی مرضی کے خلاف حفاظت نہیں کر سکتا۔",
+          "title_ar": "القضاء الإلهي",
+          "coreInsight_ar": "أخرج الله بني النضير من المدينة بدون معركة - جاء قضاؤه من حيث لم يحتسبوا.",
+          "whyItMatters_ar": "لا يمكن لأي قوة دنيوية أو حصن أن يحمي ضد إرادة الله."
+        },
+        {
+          "id": "59:2:terror-in-hearts",
+          "title": "Terror in Hearts",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah cast terror into the hearts of the Banu Nadir, causing them to destroy their own homes - an internal defeat before any external battle.",
+          "whyItMatters": "True defeat begins in the heart. When you oppose Allah, inner peace is replaced by fear and self-destruction.",
+          "position": "topRight",
+          "arabicHighlight": "وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ",
+          "title_urdu": "دلوں میں خوف",
+          "coreInsight_urdu": "اللہ نے بنو نضیر کے دلوں میں خوف ڈال دیا، جس سے انہوں نے اپنے گھروں کو خود تباہ کر دیا۔",
+          "whyItMatters_urdu": "حقیقی شکست دل سے شروع ہوتی ہے۔",
+          "title_ar": "الرعب في القلوب",
+          "coreInsight_ar": "ألقى الله الرعب في قلوب بني النضير، مما جعلهم يدمرون بيوتهم بأنفسهم.",
+          "whyItMatters_ar": "الهزيمة الحقيقية تبدأ في القلب."
+        },
+        {
+          "id": "59:2:people-of-vision",
+          "title": "Lesson for Insight",
+          "icon": "eye.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse ends with a call to 'people of vision' to take warning - true sight means learning from the fall of those who opposed Allah.",
+          "whyItMatters": "History provides lessons. Those with spiritual insight recognize patterns of divine justice and avoid repeating others' mistakes.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ",
+          "title_urdu": "بصیرت کا سبق",
+          "coreInsight_urdu": "آیت 'اہل بصیرت' کو تنبیہ لینے کی دعوت کے ساتھ ختم ہوتی ہے۔",
+          "whyItMatters_urdu": "تاریخ سبق فراہم کرتی ہے۔ روحانی بصیرت رکھنے والے الٰہی انصاف کے نمونے پہچانتے ہیں۔",
+          "title_ar": "درس للبصيرة",
+          "coreInsight_ar": "تختتم الآية بدعوة 'أولي الأبصار' لأخذ العبرة.",
+          "whyItMatters_ar": "التاريخ يقدم دروساً. أصحاب البصيرة الروحية يتعرفون على أنماط العدالة الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni sources agree on the basic historical facts of Banu Nadir's expulsion, including their treaty violation and assassination plot against the Prophet. Sunni scholars like Ibn Kathir and al-Qurtubi provide similar historical accounts, emphasizing the miraculous nature of the victory and how Allah cast terror into the hearts of Banu Nadir despite their fortifications. However, there are some differences in emphasis. Sunni tafsir tends to focus more on the military and strategic aspects of the siege, while Shia tafsir, particularly in Al-Mizan, emphasizes the theological and eschatological dimensions, especially the significance of 'awwal al-hashr' as pointing to future gatherings. Both traditions agree that this event demonstrated Allah's protection of His Prophet and the Muslim community. Regarding the distribution of the spoils from Banu Nadir, there is general agreement that they were considered fay' (property acquired without battle) rather than ghanimah (war booty), though Shia sources particularly emphasize verse 7's distribution formula that includes 'those of kinship' (dhil qurba), understood in Shia tradition as referring specifically to the Prophet's family, the Ahlul Bayt. This interpretive difference regarding fay' distribution reflects broader theological distinctions about the status of the Prophet's household.",
+    "layer4_urdu": "شیعہ اور سنی دونوں ذرائع بنو نضیر کی جلاوطنی کے بنیادی تاریخی حقائق پر متفق ہیں، جن میں ان کی معاہدے کی خلاف ورزی اور نبی کے خلاف قتل کی سازش شامل ہے۔ ابن کثیر اور قرطبی جیسے سنی علماء نے اسی طرح کے تاریخی بیانات دیے ہیں جن میں فتح کی معجزانہ نوعیت اور اس بات پر زور ہے کہ اللہ نے کس طرح ان کے قلعوں کے باوجود بنو نضیر کے دلوں میں دہشت ڈالی۔ تاہم زور دینے میں کچھ فرق ہیں۔ سنی تفسیر محاصرے کے عسکری اور حکمت عملی کے پہلوؤں پر زیادہ توجہ دیتی ہے، جبکہ شیعہ تفسیر خاص طور پر المیزان میں علمِ الہٰی اور آخرت کی جہتوں پر زور دیتی ہے، خاص طور پر 'اوّل الحشر' کی اہمیت پر جو مستقبل کے اجتماعات کی طرف اشارہ کرتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ اس واقعے نے نبی اکرم صلی اللہ علیہ وآلہ وسلم اور مسلم برادری کی حفاظت میں اللہ کی مدد کو ظاہر کیا۔ بنو نضیر کے مالِ غنیمت کی تقسیم کے بارے میں عام اتفاق ہے کہ یہ غنیمت کی بجائے فیء یعنی بغیر جنگ کے حاصل ہونے والی جائیداد تسلیم کیے گئے، تاہم شیعہ ذرائع خاص طور پر آیت ۷ کے تقسیم کے فارمولے پر زور دیتے ہیں جس میں 'ذوی القربیٰ' شامل ہیں، جنہیں شیعہ روایت میں نبی کے خاندان اہلِ بیت سے تعبیر کیا جاتا ہے۔ فیء کی تقسیم سے متعلق یہ تفسیری فرق نبی کے خاندان کی حیثیت کے بارے میں وسیع تر علمِ الہٰی امتیازات کی عکاسی کرتا ہے۔",
+    "layer4_ar": "يتَّفق مصدر الشيعة والسنة على الحقائق التاريخية الأساسية لإجلاء بني النضير، شاملةً نقض عهدهم ومؤامرتهم على اغتيال النبي صلى الله عليه وآله وسلم. ويُقدِّم ابن كثير والقرطبي روايات تاريخية متشابهة، مُبرِّزَين الطابع المعجز للنصر وكيف ألقى الله الرعب في قلوب بني النضير رغم حصونهم. غير أن ثمة فوارق في التركيز: فالتفسير السني يُولي اهتماماً أكبر للجوانب العسكرية والاستراتيجية للحصار، في حين يُعنى التفسير الشيعي، ولا سيما في الميزان، بالأبعاد العقدية والأُخروية، خاصةً في دلالة «أول الحشر» على مراحل التجمُّع المستقبلية. ويتَّفق الفريقان على أن الحادثة دليلٌ على حماية الله لنبيِّه وللمجتمع المسلم. أما غنيمة بني النضير فمصنَّفةٌ بوجهٍ عام فيئاً لا غنيمةً في كلا التراثين، إلا أن المصادر الشيعية تُولي دلالة الآية السابعة في توزيع الفيء أهميةً بالغة، لا سيما في «ذي القربى» المفسَّرة عندها بالأسرة النبوية الكريمة، وهو اختلاف تفسيري يعكس الفوارق العقدية الأعمق في مكانة أهل البيت عليهم السلام."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:3:worldly-punishment",
+          "title": "Dual Punishment",
+          "icon": "scale.3d",
+          "colorHex": "#E57373",
+          "coreInsight": "The Banu Nadir faced exile in this world as a mercy - the alternative was immediate worldly punishment, with Hellfire still awaiting them.",
+          "whyItMatters": "Allah's worldly punishments are often mercies, giving people time to repent. The real danger is the eternal punishment of the Hereafter.",
+          "position": "topLeft",
+          "arabicHighlight": "لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابُ ٱلنَّارِ",
+          "title_urdu": "دوہرا عذاب",
+          "coreInsight_urdu": "بنو نضیر کو دنیا میں جلاوطنی کا سامنا رحمت کے طور پر ہوا - متبادل فوری دنیاوی سزا تھی۔",
+          "whyItMatters_urdu": "اللہ کی دنیاوی سزائیں اکثر رحمتیں ہیں۔",
+          "title_ar": "العذاب المزدوج",
+          "coreInsight_ar": "واجه بنو النضير النفي في الدنيا كرحمة - البديل كان العذاب الدنيوي الفوري.",
+          "whyItMatters_ar": "عقوبات الله الدنيوية غالباً ما تكون رحمة."
+        },
+        {
+          "id": "59:3:divine-decree-evacuation",
+          "title": "Decreed Exile",
+          "icon": "arrow.forward",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah had already decreed their evacuation (jalaa') - the first exile from Medina was written in divine knowledge before it occurred.",
+          "whyItMatters": "Major historical events unfold according to Allah's plan. Understanding divine decree gives perspective on world events.",
+          "position": "topRight",
+          "arabicHighlight": "كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ",
+          "title_urdu": "مقدر جلاوطنی",
+          "coreInsight_urdu": "اللہ نے پہلے ہی ان کی جلاوطنی کا فیصلہ کر دیا تھا۔",
+          "whyItMatters_urdu": "اہم تاریخی واقعات اللہ کے منصوبے کے مطابق رونما ہوتے ہیں۔",
+          "title_ar": "النفي المقدر",
+          "coreInsight_ar": "قد قضى الله بنفيهم من قبل.",
+          "whyItMatters_ar": "تتكشف الأحداث التاريخية الكبرى وفقاً لخطة الله."
+        },
+        {
+          "id": "59:3:hellfire-warning",
+          "title": "Eternal Consequence",
+          "icon": "flame.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The mention of Hellfire emphasizes that worldly consequences are temporary - eternal punishment awaits those who persist in disbelief.",
+          "whyItMatters": "Don't be deceived by worldly comfort. What matters is where you stand with Allah in the eternal realm.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَذَابُ ٱلنَّارِ",
+          "title_urdu": "ابدی نتیجہ",
+          "coreInsight_urdu": "جہنم کا ذکر اس بات پر زور دیتا ہے کہ دنیاوی نتائج عارضی ہیں۔",
+          "whyItMatters_urdu": "دنیاوی آرام سے دھوکہ نہ کھائیں۔",
+          "title_ar": "العاقبة الأبدية",
+          "coreInsight_ar": "ذكر النار يؤكد أن العواقب الدنيوية مؤقتة.",
+          "whyItMatters_ar": "لا تنخدع بالراحة الدنيوية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that this verse explains why Banu Nadir were exiled rather than executed despite their grave crime of attempting to assassinate the Prophet. Sunni scholars like al-Tabari and Ibn Kathir emphasize that the exile was itself a form of divine punishment and a warning to others who might consider treaty violation. Both traditions agree on the two-fold punishment structure: worldly exile and eternal Fire for those who died as disbelievers. However, there are subtle differences in emphasis. Sunni tafsir tends to focus more on the legal permissibility of either option (exile or execution) and the Prophet's choice to show mercy. Shia tafsir, particularly in Al-Mizan, places greater emphasis on the theological dimensions of divine decree and wisdom, analyzing why Allah specifically chose this particular outcome. Tabatabai's analysis explores the purposes served by exile rather than execution, including its function as a test for both Banu Nadir and the Muslim community, and its demonstration of Islamic principles of proportionality and mercy even toward enemies. Both traditions use this verse to teach about divine justice spanning two realms, though Shia scholars particularly emphasize the eschatological dimension and the principle that ultimate justice is realized in the Hereafter, which resonates with broader Shia theological emphasis on the Day of Judgment.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ یہ آیت بیان کرتی ہے کہ نبی کے خلاف قتل کی کوشش جیسے سنگین جرم کے باوجود بنو نضیر کو قتل کی بجائے جلاوطنی کیوں دی گئی۔ طبری اور ابن کثیر جیسے سنی علماء نے اس بات پر زور دیا کہ جلاوطنی خود بھی ایک الہٰی سزا کی شکل تھی اور معاہدے کی خلاف ورزی کی سوچ رکھنے والوں کے لیے عبرت تھی۔ دونوں روایات دوگانہ سزا کے ڈھانچے پر متفق ہیں: دنیاوی جلاوطنی اور ان لوگوں کے لیے ابدی آگ جو بحالتِ کفر مریں۔ تاہم زور دینے میں کچھ باریک فرق ہیں۔ سنی تفسیر دونوں اختیارات یعنی جلاوطنی یا پھانسی کے قانونی جواز اور نبی کے رحمت دکھانے کے انتخاب پر زیادہ توجہ دیتی ہے۔ شیعہ تفسیر خاص طور پر المیزان میں الہٰی فرمان اور حکمت کی علمِ الہٰی جہتوں پر زیادہ زور دیتی ہے اور اس بات کا تجزیہ کرتی ہے کہ اللہ نے کیوں خاص طور پر یہی نتیجہ منتخب کیا۔ طباطبائی کا تجزیہ جلاوطنی بمقابلہ پھانسی کے مقاصد کو تلاش کرتا ہے، بشمول اس کا کردار بنو نضیر اور مسلم برادری دونوں کے لیے آزمائش، اور اسلامی تناسب اور رحمت کے اصولوں کا مظاہرہ۔ دونوں روایات اس آیت کو الہٰی انصاف کے بارے میں تعلیم دینے کے لیے استعمال کرتی ہیں جو دو عالموں پر محیط ہے، تاہم شیعہ علماء خاص طور پر آخرتی پہلو پر زور دیتے ہیں جو قیامت کے دن پر وسیع تر شیعہ علمِ الہٰی زور کے ساتھ ہم آہنگ ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُفسِّر لماذا آثر الله الإجلاء على الإعدام رغم جسامة جريمة بني النضير في محاولة اغتيال النبي. ويُؤكِّد الطبري وابن كثير أن الإجلاء كان عقوبةً إلهية بذاته وتحذيراً لسائر القبائل. ويتَّفق التقليدان على ازدواج العقوبة: إجلاءٌ دنيوي وعذابٌ أُخروي لمن ماتوا على الكفر. غير أن ثمة فوارق في التركيز: فالتفسير السني يهتمُّ أكثر بالجواز القانوني لكلٍّ من الخيارين وباختيار النبي الرحمة. أما التفسير الشيعي، ولا سيما في الميزان، فيُعمِّق في الأبعاد العقدية للقضاء الإلهي وحكمته، محلِّلاً لماذا اختار الله هذه النتيجة بالذات. ويستكشف الطباطبائي المقاصد المتحقِّقة بالإجلاء دون الإعدام، من بينها أنه كان اختباراً لبني النضير والمجتمع المسلم معاً، وتجسيداً لمبادئ التناسب والرحمة حتى مع الأعداء. ويستخدم الفريقان هذه الآية للتعليم بأن العدل الإلهي يمتدُّ على مساحة عالمين، مع ميل أوسع في الكتابة الشيعية إلى إبراز البُعد الأُخروي والتأكيد على المساءلة الكاملة يوم القيامة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:4:opposing-allah",
+          "title": "Opposing Allah",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The root cause of their punishment was opposing Allah and His Messenger - active resistance to divine guidance brings severe consequences.",
+          "whyItMatters": "Check your heart: are you resisting any divine command? Even subtle opposition to Allah's will leads to loss.",
+          "position": "topLeft",
+          "arabicHighlight": "شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ",
+          "title_urdu": "اللہ کی مخالفت",
+          "coreInsight_urdu": "ان کی سزا کی بنیادی وجہ اللہ اور اس کے رسول کی مخالفت تھی۔",
+          "whyItMatters_urdu": "اپنے دل کو جانچیں: کیا آپ کسی الٰہی حکم کا مقابلہ کر رہے ہیں؟",
+          "title_ar": "معاداة الله",
+          "coreInsight_ar": "كان السبب الجذري لعقابهم هو معاداة الله ورسوله.",
+          "whyItMatters_ar": "افحص قلبك: هل تقاوم أي أمر إلهي؟"
+        },
+        {
+          "id": "59:4:severe-penalty",
+          "title": "Severe Penalty",
+          "icon": "bolt.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is 'shadid al-iqab' (severe in penalty) - His justice is swift and certain for those who knowingly oppose Him.",
+          "whyItMatters": "Divine mercy is vast, but divine justice is real. Fear of Allah should motivate us to align with His will.",
+          "position": "topRight",
+          "arabicHighlight": "ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+          "title_urdu": "سخت سزا",
+          "coreInsight_urdu": "اللہ 'شدید العقاب' (سزا میں سخت) ہے۔",
+          "whyItMatters_urdu": "الٰہی رحمت وسیع ہے، لیکن الٰہی انصاف حقیقی ہے۔",
+          "title_ar": "العقاب الشديد",
+          "coreInsight_ar": "الله شديد العقاب - عدالته سريع ومؤكد.",
+          "whyItMatters_ar": "رحمة الله واسعة، لكن عدالة الله حقيقية."
+        },
+        {
+          "id": "59:4:cause-and-effect",
+          "title": "Divine Justice",
+          "icon": "link",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verse establishes clear cause and effect - their punishment (verse 2-3) resulted from their opposition (verse 4).",
+          "whyItMatters": "Understanding divine justice helps you see that consequences aren't random but tied to choices. Your actions have meaning.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَٰلِكَ بِأَنَّهُمْ",
+          "title_urdu": "الٰہی انصاف",
+          "coreInsight_urdu": "آیت واضح وجہ اور اثر قائم کرتی ہے۔",
+          "whyItMatters_urdu": "الٰہی انصاف کو سمجھنا آپ کو دیکھنے میں مدد کرتا ہے کہ نتائج بے ترتیب نہیں ہیں۔",
+          "title_ar": "العدالة الإلهية",
+          "coreInsight_ar": "تثبت الآية السبب والنتيجة الواضحة.",
+          "whyItMatters_ar": "فهم العدالة الإلهية يساعدك على رؤية أن العواقب ليست عشوائية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse explains the core reason for Banu Nadir's expulsion: their active opposition to Allah and His Messenger through treaty violation and assassination attempts. Sunni exegetes like Fakhr al-Din al-Razi emphasize that the verse establishes the Prophet's special status, such that opposing him is tantamount to opposing Allah. Ibn Kathir notes that this principle serves as a warning to all who might consider harming or opposing the Prophet or working against Islamic teachings. Both traditions agree that 'severe in punishment' refers to Allah's justice being executed with power and precision against those who deliberately oppose divine guidance. However, there are differences in how this principle is extended. Shia scholars, following the teachings of the Ahlul Bayt, emphasize that opposition to Allah and His Messenger includes opposition to those whom the Prophet designated as his successors and the continuing guides of the Ummah. This is supported by narrations where the Prophet said that opposing the Ahlul Bayt is opposing him, and opposing him is opposing Allah. Sunni scholars generally focus more on the historical context of opposing the Prophet during his lifetime. Both traditions use this verse to establish the serious consequences of opposing divine guidance, though Shia tradition extends this principle more explicitly to the institution of Imamah.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت بنو نضیر کی جلاوطنی کی بنیادی وجہ بیان کرتی ہے: معاہدے کی خلاف ورزی اور قتل کی کوشش کے ذریعے اللہ اور اس کے رسول کے ساتھ فعال مخالفت۔ فخر الدین رازی جیسے سنی مفسرین نے اس بات پر زور دیا کہ یہ آیت نبی کی خاص حیثیت قائم کرتی ہے یہاں تک کہ ان کی مخالفت اللہ کی مخالفت کے مترادف ہے۔ ابن کثیر نے نوٹ کیا کہ یہ اصول ان سب کے لیے تنبیہ کا کام کرتا ہے جو نبی کو نقصان پہنچانے یا اسلامی تعلیمات کے خلاف کام کرنے کا سوچیں۔ دونوں روایات اس بات پر متفق ہیں کہ 'سخت عذاب' کا مطلب ہے کہ اللہ کا انصاف طاقت اور درستگی سے ان لوگوں کے خلاف نافذ ہوتا ہے جو جان بوجھ کر الہٰی رہنمائی کی مخالفت کرتے ہیں۔ تاہم اس اصول کو کس طرح آگے بڑھایا جائے اس میں فرق ہے۔ شیعہ علماء اہلِ بیت کی تعلیمات کی پیروی کرتے ہوئے اس بات پر زور دیتے ہیں کہ اللہ اور اس کے رسول کی مخالفت میں ان لوگوں کی مخالفت بھی شامل ہے جنہیں نبی نے اپنے جانشین اور امت کے رہنما کے طور پر مقرر فرمایا۔ سنی علماء عام طور پر اپنی حیاتِ مبارکہ میں نبی کی مخالفت کے تاریخی سیاق پر زیادہ توجہ دیتے ہیں۔ دونوں روایات الہٰی رہنمائی کی مخالفت کے سنگین نتائج کی تعلیم دینے کے لیے اس آیت کا استعمال کرتی ہیں، تاہم شیعہ روایت اس اصول کو نبی کے بعد کی اسلامی تاریخ اور امامت کے ادارے پر زیادہ صراحت کے ساتھ لاگو کرتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُبيِّن السبب الجوهري لإجلاء بني النضير: عداؤهم النشط لله ورسوله الذي تجلَّى بنقض العهود ومحاولة الاغتيال. ويُقرُّ الفخر الرازي بأن الآية تُثبت للنبي مكانةً استثنائية بحيث تعادل معارضته معارضةَ الله. ويُشير ابن كثير إلى أن هذا المبدأ تحذيرٌ لكل من قد يُفكِّر في الإضرار بالنبي أو بالإسلام. ويتَّفق الفريقان على أن «شديد العقاب» يُشير إلى تنفيذ عدل الله بقوة ودقة في مواجهة من يعارضون الهداية الإلهية عمداً. غير أن ثمة خلافاً في تمديد هذا المبدأ: فعلماء الشيعة بتعاليم أهل البيت يُمدِّون معارضة الله ورسوله لتشمل معارضة خلفاء النبي الشرعيين وأئمة الهداية المعيَّنين، مستندين إلى حديث النبي الذي قال فيه إن معارضة أهل بيته معارضةٌ له ومعارضته معارضةٌ لله. أما السنة فيُركِّزون في الغالب على السياق التاريخي المتعلِّق بمعارضة النبي في حياته. ويستخدم التقليدان هذه الآية دليلاً على عواقب معارضة الهداية الإلهية، مع امتداد أوسع لهذا المبدأ في التراث الشيعي ليشمل مؤسسة الإمامة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:5:divine-permission",
+          "title": "Divine Permission",
+          "icon": "checkmark.shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The Muslims' cutting of palm trees during the siege was by Allah's permission - even military tactics succeed only through divine approval.",
+          "whyItMatters": "Seek Allah's guidance in all decisions, even tactical ones. Success comes from divine permission, not just human strategy.",
+          "position": "topLeft",
+          "arabicHighlight": "فَبِإِذْنِ ٱللَّهِ",
+          "title_urdu": "الٰہی اجازت",
+          "coreInsight_urdu": "محاصرے کے دوران مسلمانوں کا کھجور کے درخت کاٹنا اللہ کی اجازت سے تھا۔",
+          "whyItMatters_urdu": "تمام فیصلوں میں اللہ کی رہنمائی حاصل کریں۔",
+          "title_ar": "الإذن الإلهي",
+          "coreInsight_ar": "كان قطع المسلمين لأشجار النخيل بإذن الله.",
+          "whyItMatters_ar": "اطلب هداية الله في جميع القرارات."
+        },
+        {
+          "id": "59:5:disgrace-transgressors",
+          "title": "Disgrace of Sinners",
+          "icon": "hand.thumbsdown.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The action was meant to disgrace the fasiqin (defiantly disobedient) - Allah humbles those who persist in rebellion.",
+          "whyItMatters": "Persistent defiance of Allah leads to humiliation. True honor comes from submission to the Divine will.",
+          "position": "topRight",
+          "arabicHighlight": "وَلِيُخْزِىَ ٱلْفَٰسِقِينَ",
+          "title_urdu": "گناہگاروں کی رسوائی",
+          "coreInsight_urdu": "یہ عمل فاسقوں (سرکش نافرمانوں) کو رسوا کرنے کے لیے تھا۔",
+          "whyItMatters_urdu": "اللہ کی مسلسل نافرمانی رسوائی کی طرف لے جاتی ہے۔",
+          "title_ar": "إذلال الفاسقين",
+          "coreInsight_ar": "كان الهدف هو إخزاء الفاسقين.",
+          "whyItMatters_ar": "التحدي المستمر لله يؤدي إلى الإذلال."
+        },
+        {
+          "id": "59:5:war-ethics",
+          "title": "War Ethics",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse addresses doubts about military tactics - sometimes seemingly destructive acts are justified when done by divine permission for righteous ends.",
+          "whyItMatters": "Islamic ethics aren't rigid legalism but principled flexibility under divine guidance. Context and intention matter.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا",
+          "title_urdu": "جنگ کی اخلاقیات",
+          "coreInsight_urdu": "یہ آیت جنگی حکمت عملی کے بارے میں شکوک کو حل کرتی ہے۔",
+          "whyItMatters_urdu": "اسلامی اخلاقیات سخت قانون پرستی نہیں بلکہ الٰہی رہنمائی کے تحت اصولی لچک ہے۔",
+          "title_ar": "أخلاقيات الحرب",
+          "coreInsight_ar": "تتناول الآية الشكوك حول التكتيكات العسكرية.",
+          "whyItMatters_ar": "الأخلاق الإسلامية ليست قانونية جامدة بل مرونة مبدئية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic context and meaning of this verse: it was revealed to address concerns about cutting date palms during the siege of Banu Nadir and to clarify that this action was divinely permitted. Sunni exegetes like Ibn Kathir narrate that the companions themselves differed on this action, with some proceeding and others hesitating, until the verse resolved the matter. Al-Qurtubi emphasizes that the verse establishes a principle of military necessity allowing exceptions to general environmental protections. Both traditions use this verse to discuss the ethics of warfare and the balance between moral principles and strategic requirements. However, there are some differences in emphasis. Shia scholars, particularly in Al-Mizan, place greater emphasis on the psychological and spiritual dimensions of the action: it was meant to break the opponents' will and demonstrate divine support for the Prophet, not merely to cause economic damage. Shia tafsir also tends to emphasize the phrase 'by permission of Allah' as indicating the Prophet's special spiritual station and his actions being divinely guided. Both traditions agree that the verse refuted Banu Nadir's propaganda criticisms and reassured the Muslim community. Scholars from both schools use this verse when discussing Islamic warfare ethics, environmental principles in Islam, and the methodology of balancing general rules with contextual necessities under proper religious authority.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی سیاق و سباق اور معنی پر متفق ہیں: یہ بنو نضیر کے محاصرے کے دوران کھجور کے درختوں کو کاٹنے کے بارے میں خدشات کو دور کرنے کے لیے نازل ہوئی اور واضح کیا کہ یہ عمل الہٰی طور پر جائز تھا۔ ابن کثیر جیسے سنی مفسرین نے بیانات کیا کہ خود صحابہ اس عمل پر تقسیم تھے، بعض آگے بڑھے اور بعض ہچکچاتے رہے، یہاں تک کہ اس آیت نے معاملہ حل کیا۔ قرطبی نے اس بات پر زور دیا کہ آیت عام ماحولیاتی تحفظات کو فوجی ضرورت کی اجازت دینے کا اصول قائم کرتی ہے۔ دونوں روایات اس آیت کو جنگی اخلاقیات اور اخلاقی اصولوں اور حکمت عملی کے تقاضوں کے درمیان توازن پر بحث کرنے کے لیے استعمال کرتی ہیں۔ تاہم زور دینے میں کچھ فرق ہے۔ شیعہ علماء خاص طور پر المیزان میں عمل کی نفسیاتی اور روحانی جہتوں پر زیادہ زور دیتے ہیں: یہ مخالفوں کی قوتِ ارادی کو توڑنے اور نبی کی الہٰی حمایت کا مظاہرہ کرنے کے لیے تھا، نہ محض اقتصادی نقصان پہنچانے کے لیے۔ شیعہ تفسیر 'اللہ کی اجازت سے' کی عبارت کو نبی کی خاص روحانی مقام کی نشاندہی کے طور پر بھی زور دیتی ہے اور اس بات کی کہ ان کے اعمال الہٰی طور پر رہنمائی یافتہ تھے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت نے بنو نضیر کے پروپیگنڈے کو رد کیا اور مسلم برادری کو اطمینان دلایا۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة في الفهم الأساسي لهذه الآية: نزلت لمعالجة الجدل حول قطع النخل أثناء حصار بني النضير وتُوضِّح أن هذا الفعل كان مأذوناً به. ويُورد ابن كثير روايات تُثبت أن الصحابة اختلفوا في ذلك بين مُضيٍّ ومُتحرِّجٍ حتى فصلت الآية في المسألة. ويُبرز القرطبي أن الآية تُقرِّر مبدأ الضرورة العسكرية الذي يُجيز الاستثناءات من قاعدة الحماية البيئية العامة. ويستشهد الفريقان بهذه الآية عند مناقشة أخلاقيات الحرب والمبادئ البيئية في الإسلام وأسلوب توازن الأصول مع مقتضيات السياق تحت مرجعية دينية رسمية. غير أن ثمة فوارق في التركيز: فعلماء الشيعة ولا سيما في الميزان يُعطون ثقلاً أكبر للأبعاد النفسية والروحية للفعل، مُؤكِّدين أنه كان يرمي إلى كسر مقاومة الخصم وإظهار التأييد الإلهي للنبي، لا إلى الإضرار الاقتصادي وحده. كما يُولي التفسير الشيعي أهميةً خاصة لعبارة «بإذن الله» دليلاً على المنزلة الروحية الاستثنائية للنبي وكون أفعاله مُوجَّهةً وحياً. ويتَّفق الفريقان على أن الآية دحضت دعاية بني النضير وطمأنت المجتمع المسلم، وكلاهما يستخدمها في البحث الفقهي المتعلِّق بأخلاقيات الحرب وتقييد الموارد الطبيعية والمنهجية الجمعية بين الأصل والاستثناء تحت السلطة الشرعية."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:6:fay-concept",
+          "title": "Fay' Property",
+          "icon": "house.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Fay' refers to property gained without battle - Allah grants victory to His messengers over whom He wills, without military effort.",
+          "whyItMatters": "Not all victories require struggle. Sometimes Allah grants success effortlessly to demonstrate His absolute power.",
+          "position": "topLeft",
+          "arabicHighlight": "مَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ",
+          "title_urdu": "فے کی ملکیت",
+          "coreInsight_urdu": "فے سے مراد بغیر جنگ کے حاصل شدہ املاک ہیں۔",
+          "whyItMatters_urdu": "تمام فتوحات کے لیے جدوجہد کی ضرورت نہیں۔",
+          "title_ar": "مفهوم الفيء",
+          "coreInsight_ar": "الفيء يشير إلى الممتلكات المكتسبة بدون قتال.",
+          "whyItMatters_ar": "ليست كل الانتصارات تتطلب نضالاً."
+        },
+        {
+          "id": "59:6:no-cavalry",
+          "title": "Effortless Victory",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The Muslims gained this wealth without deploying horses or camels - highlighting that Allah's decree supersedes military might.",
+          "whyItMatters": "Trust in Allah's power more than your own resources. He can grant success through means beyond your effort.",
+          "position": "topRight",
+          "arabicHighlight": "فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَلَا رِكَابٍۢ",
+          "title_urdu": "بے محنت فتح",
+          "coreInsight_urdu": "مسلمانوں نے یہ دولت گھوڑوں یا اونٹوں کی تعیناتی کے بغیر حاصل کی۔",
+          "whyItMatters_urdu": "اپنے وسائل سے زیادہ اللہ کی طاقت پر بھروسہ کریں۔",
+          "title_ar": "النصر بلا جهد",
+          "coreInsight_ar": "حصل المسلمون على هذه الثروة بدون نشر الخيل أو الإبل.",
+          "whyItMatters_ar": "ثق بقوة الله أكثر من مواردك الخاصة."
+        },
+        {
+          "id": "59:6:allah-power",
+          "title": "Complete Power",
+          "icon": "bolt.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah has power over all things - no situation is beyond His control, no enemy too powerful for Him to subdue.",
+          "whyItMatters": "When facing impossible odds, remember Allah's complete power. What seems impossible to you is effortless for Him.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+          "title_urdu": "مکمل طاقت",
+          "coreInsight_urdu": "اللہ ہر چیز پر قادر ہے۔",
+          "whyItMatters_urdu": "ناممکن مشکلات کا سامنا کرتے وقت اللہ کی مکمل طاقت یاد رکھیں۔",
+          "title_ar": "القوة الكاملة",
+          "coreInsight_ar": "الله على كل شيء قدير.",
+          "whyItMatters_ar": "عند مواجهة احتمالات مستحيلة، تذكر قوة الله الكاملة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes the category of fay' as distinct from ghanimah and explains that the wealth from Banu Nadir fell into this category because it was obtained without conventional battle. Sunni exegetes like al-Tabari and Ibn Kathir explain the distinction between fay' and ghanimah similarly, noting that fay' comes through surrender, treaty, or jizya without military engagement. Both traditions agree that the verse emphasizes divine agency in this victory. However, there are significant differences regarding the implications for authority and distribution. Sunni scholars generally interpret this verse as establishing the Prophet's discretion in distributing fay' according to the public interest, with the next verse providing guidelines but leaving considerable flexibility to leadership. Shia scholars, particularly following Tabatabai's analysis in Al-Mizan, emphasize that this verse establishes divinely ordained categories and distribution rules that continue to apply after the Prophet's time, with implications for how the Imams as his rightful successors should handle such wealth. The phrase 'Allah gives His Messenger authority over whom He wills' is understood in Shia tradition as indicating divine appointment of authority, supporting the concept of Imamah. Both traditions use this verse in jurisprudential discussions about wealth distribution and authority, though with different conclusions regarding the extent of divinely specified rules versus human discretion.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت فیء کے زمرے کو غنیمت سے الگ اور بیان کرتی ہے اور وضاحت کرتی ہے کہ بنو نضیر کی دولت اس زمرے میں آتی ہے کیونکہ یہ روایتی جنگ کے بغیر حاصل ہوئی۔ طبری اور ابن کثیر جیسے سنی مفسرین نے فیء اور غنیمت کے درمیان اسی طرح کا فرق بیان کیا ہے اور نوٹ کیا ہے کہ فیء ہتھیار ڈالنے، معاہدے یا جزیہ کے ذریعے مسلح مقابلے کے بغیر آتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت اس فتح میں الہٰی ایجنسی پر زور دیتی ہے۔ تاہم اختیار اور تقسیم کے مضمرات کے بارے میں اہم اختلافات ہیں۔ سنی علماء عام طور پر اس آیت کی تفسیر اس طرح کرتے ہیں کہ عوامی مفاد کے مطابق فیء تقسیم کرنے میں نبی کو صوابدید حاصل ہے، اگلی آیت رہنمائی کے اصول فراہم کرتی ہے لیکن قیادت کو کافی لچک دیتی ہے۔ شیعہ علماء خاص طور پر المیزان میں طباطبائی کے تجزیے کی پیروی کرتے ہوئے، اس بات پر زور دیتے ہیں کہ یہ آیت الہٰی طور پر مقرر کردہ زمرے اور تقسیم کے قوانین قائم کرتی ہے جو نبی کے وقت کے بعد بھی لاگو رہتے ہیں اور ان کے جانشینوں کے بارے میں مضمرات رکھتے ہیں۔ 'اللہ اپنے رسول کو تسلط دیتا ہے' کی عبارت کو شیعہ روایت میں الہٰی تقرری کے اختیار کی نشاندہی کے طور پر سمجھا جاتا ہے جو امامت کے تصور کی حمایت کرتا ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُقرِّر حكم الفيء باعتباره مغايراً للغنيمة، وتُعلِّل بأن ثروة بني النضير دخلت في هذا الصنف لخلوِّها من القتال الفعلي. ويُفسِّر المفسِّرون السنة كالطبري وابن كثير الفرق بين الفيء والغنيمة تفسيراً متقارباً، ملاحظين أن الفيء يأتي بالاستسلام أو المعاهدة أو الجزية دون مواجهة عسكرية. ويتَّفق التقليدان على أن الآية تُبرز الفاعلية الإلهية في هذا النصر. غير أن ثمة خلافاً جوهرياً في الاستنتاجات المتعلقة بالسلطة والتوزيع: يرى علماء السنة عموماً أن الآية تُثبت تقدير النبي صلى الله عليه وآله وسلم في توزيع الفيء وفق المصلحة العامة مع مرونة واسعة للقيادة. في المقابل، يُؤكِّد علماء الشيعة استناداً إلى تحليل الطباطبائي في الميزان أن هذه الآية تُرسِّخ فئات ذات طابع إلهي وأحكام توزيع تظل سارية بعد النبي، وتنتقل إلى الأئمة بوصفهم خلفاءه الشرعيين. وعبارة «الله يُسلِّط رسوله على من يشاء» يُفهم منها في التقليد الشيعي الدلالة على التعيين الإلهي للسلطة، مما يُعزِّز مفهوم الإمامة. ويستدلُّ كلا التقليدين بهذه الآية في النقاشات الفقهية حول توزيع الثروة وطبيعة الولاية، وإن تباينت الاستنتاجات في مدى تحديد الشريعة لأحكامها أو تركها للاجتهاد البشري."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:7:wealth-distribution",
+          "title": "Just Distribution",
+          "icon": "scale.3d",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Fay' wealth goes to Allah, the Messenger, relatives, orphans, the poor, and travelers - ensuring equitable distribution beyond the wealthy elite.",
+          "whyItMatters": "Islam's economic system prevents wealth concentration. Resources should circulate to serve society's vulnerable members.",
+          "position": "topLeft",
+          "arabicHighlight": "فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ",
+          "title_urdu": "منصفانہ تقسیم",
+          "coreInsight_urdu": "فے کی دولت اللہ، رسول، رشتہ داروں، یتیموں، غریبوں اور مسافروں کے لیے ہے۔",
+          "whyItMatters_urdu": "اسلام کا معاشی نظام دولت کی تکثیر کو روکتا ہے۔",
+          "title_ar": "التوزيع العادل",
+          "coreInsight_ar": "يذهب مال الفيء لله والرسول والأقارب واليتامى والمساكين وابن السبيل.",
+          "whyItMatters_ar": "يمنع النظام الاقتصادي الإسلامي تركيز الثروة."
+        },
+        {
+          "id": "59:7:obey-messenger",
+          "title": "Prophet's Authority",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Whatever the Messenger gives you, take it; whatever he forbids, refrain - establishing the Prophet's legislative and executive authority.",
+          "whyItMatters": "For Shia Muslims, this extends to the Ahlul Bayt. Following divinely appointed guides is mandatory, not optional.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟",
+          "title_urdu": "نبی کی اتھارٹی",
+          "coreInsight_urdu": "جو کچھ رسول آپ کو دیں، لے لیں؛ جس سے منع کریں، باز رہیں۔",
+          "whyItMatters_urdu": "شیعہ مسلمانوں کے لیے، یہ اہل بیت تک پھیلا ہوا ہے۔",
+          "title_ar": "سلطة النبي",
+          "coreInsight_ar": "ما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا.",
+          "whyItMatters_ar": "للمسلمين الشيعة، يمتد هذا إلى أهل البيت."
+        },
+        {
+          "id": "59:7:prevent-concentration",
+          "title": "No Elite Monopoly",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse explicitly states wealth should not circulate only among the rich - a divine prohibition against oligarchy and wealth hoarding.",
+          "whyItMatters": "Check your relationship with wealth: Are you hoarding or circulating? Islamic economics demands active redistribution.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ",
+          "title_urdu": "اشرافیہ کی اجارہ داری نہیں",
+          "coreInsight_urdu": "آیت واضح طور پر کہتی ہے کہ دولت صرف امیروں کے درمیان گردش نہیں کرنی چاہیے۔",
+          "whyItMatters_urdu": "دولت کے ساتھ اپنے تعلق کو جانچیں۔",
+          "title_ar": "لا احتكار النخبة",
+          "coreInsight_ar": "تنص الآية صراحةً على أن الثروة لا ينبغي أن تتداول بين الأغنياء فقط.",
+          "whyItMatters_ar": "افحص علاقتك بالثروة."
+        },
+        {
+          "id": "59:7:taqwa-command",
+          "title": "Fear Allah",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse ends with commanding taqwa (God-consciousness) and warning of severe punishment - linking economic justice to spiritual accountability.",
+          "whyItMatters": "Your financial dealings are worship. How you earn, spend, and distribute wealth reflects your relationship with Allah.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+          "title_urdu": "اللہ سے ڈرو",
+          "coreInsight_urdu": "آیت تقویٰ کا حکم دے کر اور سخت سزا کی تنبیہ کے ساتھ ختم ہوتی ہے۔",
+          "whyItMatters_urdu": "آپ کے مالی معاملات عبادت ہیں۔",
+          "title_ar": "اتقوا الله",
+          "coreInsight_ar": "تختتم الآية بالأمر بالتقوى والتحذير من العذاب الشديد.",
+          "whyItMatters_ar": "معاملاتك المالية هي عبادة."
+        }
+      ]
+    },
+    "layer4": "This verse is one of the most significant points of divergence between Shia and Sunni interpretation with profound historical and theological implications. Both traditions agree on the basic categories mentioned in the verse and the principle of preventing wealth concentration among the elite. However, there are crucial differences regarding 'dhil qurba.' Sunni exegetes generally interpret this phrase more broadly as the poor among the Prophet's relatives or as the Prophet's clan (Banu Hashim) in general, without emphasizing specific individuals or ongoing institutional rights. In contrast, Shia scholars, based on narrations from the Ahlul Bayt, interpret dhil qurba as referring specifically to the Prophet's immediate family, particularly Fatimah, Ali, Hasan, and Husayn, and by extension to the continuing line of Imams. This difference has enormous historical consequences regarding the Fadak dispute. Shia sources maintain that the Prophet granted Fadak to Fatimah during his lifetime based on this verse, while Sunni sources generally deny this occurred or interpret it differently. The Fadak dispute after the Prophet's death became symbolic of larger issues regarding the Ahlul Bayt's rights and status in the Muslim community. Both traditions agree that the verse's final command about obeying the Messenger is crucial, though they differ on what that obedience entails regarding the Prophet's family. These interpretive differences reflect fundamental theological distinctions between the two traditions regarding the status and rights of the Ahlul Bayt.",
+    "layer4_urdu": "یہ آیت شیعہ اور سنی تفسیر کے مابین گہرے تاریخی اور علمِ الہٰی مضمرات کے ساتھ اہم ترین نکاتِ اختلاف میں سے ایک ہے۔ دونوں روایات آیت میں مذکور بنیادی زمروں اور امیروں میں دولت مرتکز ہونے سے روکنے کے اصول پر متفق ہیں۔ تاہم 'ذوی القربیٰ' کے بارے میں اہم اختلافات ہیں۔ سنی مفسرین عام طور پر اس اصطلاح کی تفسیر نبی کے رشتہ داروں میں غریبوں کے طور پر یا بنو ہاشم کے طور پر کرتے ہیں، بغیر مخصوص افراد یا جاری ادارہ جاتی حقوق پر زور دیے۔ اس کے برعکس شیعہ علماء اہلِ بیت کی روایات کی بنیاد پر ذوی القربیٰ کی تفسیر خاص طور پر نبی کے فوری خاندان کے طور پر کرتے ہیں، اور اماموں کی جاری نسل پر بھی۔ اس فرق کے فدک تنازعے کے حوالے سے گہرے تاریخی نتائج ہیں۔ شیعہ ذرائع کا کہنا ہے کہ نبی نے اپنی حیاتِ مبارکہ میں اس آیت کی بنیاد پر فدک حضرت فاطمہ کو دے دیا تھا، جبکہ سنی ذرائع عام طور پر اس کا انکار کرتے ہیں یا اس کی مختلف تفسیر کرتے ہیں۔ نبی کی وفات کے بعد فدک کا تنازع مسلم برادری میں اہلِ بیت کے حقوق اور حیثیت سے متعلق بڑے مسائل کی علامت بن گیا۔ دونوں روایات اس بات پر متفق ہیں کہ رسول کی اطاعت کا آیت کا حتمی حکم اہم ہے، تاہم ان میں اختلاف ہے کہ اس اطاعت میں نبی کے خاندان کے حوالے سے کیا شامل ہے۔ یہ تفسیری اختلافات اہلِ بیت کی حیثیت اور حقوق کے بارے میں دونوں روایات کے درمیان بنیادی علمِ الہٰی امتیازات کی عکاسی کرتے ہیں۔",
+    "layer4_ar": "تُعدُّ هذه الآية من أبرز مواضع الخلاف بين التفسير الشيعي والسني، ولها تداعيات تاريخية ولاهوتية عميقة. يتَّفق التقليدان على الأصناف الأساسية المذكورة في الآية وعلى مبدأ منع تمركز الثروة. لكن ثمة خلافاً جوهرياً حول «ذوي القربى»: يُفسِّرها علماء السنة عموماً تفسيراً أوسع يشمل فقراء أقارب النبي أو بني هاشم عامةً دون التركيز على أفراد بعينهم أو حقوق مؤسسية مستمرة. في المقابل، يُفسِّرها علماء الشيعة استناداً إلى روايات أهل البيت بأنها تعني آل بيت النبي الخاص، لا سيما فاطمة وعلي والحسن والحسين عليهم السلام، وبالتبعية خط الأئمة المتواصل. ولهذا الخلاف تبعاتٌ تاريخية هائلة تتعلق بقضية فدك: يُثبت المصدر الشيعي أن النبي صلى الله عليه وآله وسلم أعطى فاطمة فدك خلال حياته تطبيقاً لهذه الآية، فيما تنفي المصادر السنية ذلك عموماً أو تُفسِّره تفسيراً مغايراً. وقد غدت قضية فدك رمزاً لمسائل أعمق تتعلق بحقوق أهل البيت ومكانتهم في المجتمع الإسلامي. يتَّفق التقليدان على أن الأمر الختامي بطاعة الرسول أمرٌ محوري، وإن اختلفا فيما تعنيه هذه الطاعة بشأن أسرة النبي. وتعكس هذه الاختلافات التفسيرية فوارق لاهوتية جذرية بين التقليدين حول مكانة أهل البيت وحقوقهم."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:8:true-migrants",
+          "title": "Faithful Emigrants",
+          "icon": "figure.walk",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Muhajirun left their homes and wealth seeking Allah's bounty and pleasure - material sacrifice for spiritual gain.",
+          "whyItMatters": "True faith sometimes requires leaving comfort behind. Are you willing to sacrifice worldly security for Allah's sake?",
+          "position": "topLeft",
+          "arabicHighlight": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ",
+          "title_urdu": "وفادار مہاجرین",
+          "coreInsight_urdu": "مہاجرین نے اللہ کے فضل اور رضا کی تلاش میں اپنے گھر اور دولت چھوڑ دی۔",
+          "whyItMatters_urdu": "حقیقی ایمان بعض اوقات آرام چھوڑنے کا تقاضا کرتا ہے۔",
+          "title_ar": "المهاجرون المخلصون",
+          "coreInsight_ar": "ترك المهاجرون بيوتهم وأموالهم ابتغاء فضل الله ورضوانه.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب أحياناً ترك الراحة."
+        },
+        {
+          "id": "59:8:seeking-pleasure",
+          "title": "Divine Pleasure",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The Muhajirun sought Allah's bounty (fadl) and pleasure (ridwan) - the dual goals of material provision and spiritual acceptance.",
+          "whyItMatters": "Don't separate worldly needs from spiritual aspirations. Seek both Allah's provision and His pleasure in every endeavor.",
+          "position": "topRight",
+          "arabicHighlight": "يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا",
+          "title_urdu": "الٰہی رضا",
+          "coreInsight_urdu": "مہاجرین نے اللہ کا فضل اور رضا طلب کی۔",
+          "whyItMatters_urdu": "دنیاوی ضروریات کو روحانی خواہشات سے الگ نہ کریں۔",
+          "title_ar": "الرضوان الإلهي",
+          "coreInsight_ar": "ابتغى المهاجرون فضل الله ورضوانه.",
+          "whyItMatters_ar": "لا تفصل الحاجات الدنيوية عن التطلعات الروحية."
+        },
+        {
+          "id": "59:8:supporting-allah",
+          "title": "Supporting Allah",
+          "icon": "hands.clap.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "They supported Allah and His Messenger - not that Allah needs support, but they championed His cause and mission.",
+          "whyItMatters": "Are you actively supporting Islam's message, or passively observing? Faith requires active championship of truth.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ",
+          "title_urdu": "اللہ کی حمایت",
+          "coreInsight_urdu": "انہوں نے اللہ اور اس کے رسول کی حمایت کی۔",
+          "whyItMatters_urdu": "کیا آپ فعال طور پر اسلام کے پیغام کی حمایت کر رہے ہیں؟",
+          "title_ar": "نصرة الله",
+          "coreInsight_ar": "نصروا الله ورسوله.",
+          "whyItMatters_ar": "هل تدعم بنشاط رسالة الإسلام؟"
+        },
+        {
+          "id": "59:8:the-truthful",
+          "title": "True Sincerity",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "They are 'the truthful' (as-sadiqun) - their actions proved the sincerity of their faith claims.",
+          "whyItMatters": "True believers prove faith through sacrifice, not just words. Your actions testify to your sincerity or hypocrisy.",
+          "position": "bottomRight",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+          "title_urdu": "سچا اخلاص",
+          "coreInsight_urdu": "وہ 'صادقون' (سچے) ہیں۔",
+          "whyItMatters_urdu": "حقیقی مومن قربانی سے ایمان ثابت کرتے ہیں۔",
+          "title_ar": "الصدق الحقيقي",
+          "coreInsight_ar": "أولئك هم الصادقون.",
+          "whyItMatters_ar": "المؤمنون الحقيقيون يثبتون الإيمان بالتضحية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse praises the Muhajirun and establishes their entitlement to support from fay' wealth due to their sacrifices for Islam. Sunni exegetes like Ibn Kathir emphasize this verse as praise for the companions who migrated from Makkah, often citing it as evidence of their collective virtue and reliability. The phrase 'those are the truthful ones' is used in Sunni tradition to affirm the righteousness of the Muhajirun as a group. Shia scholars agree that the verse praises those Muhajirun who maintained their truthfulness and support for the Prophet throughout their lives, but emphasize that the verse describes their state at migration and does not guarantee that all individuals maintained this level of faith permanently. Tabatabai in Al-Mizan notes that the verse praises qualities and actions, and that continued praise depends on continued demonstration of these qualities. This reflects a broader Shia principle that companionship with the Prophet, while honorable, does not automatically grant permanent righteousness if later actions contradict earlier faith. Both traditions use this verse when discussing the virtue of sacrifice for faith, though Sunni tradition tends to extend this praise more broadly and permanently to the Muhajirun as a group, while Shia tradition emphasizes individual accountability and the possibility of later deviation from early righteousness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت مہاجرین کی تعریف کرتی ہے اور اسلام کے لیے ان کی قربانیوں کی وجہ سے فیء دولت سے ان کی حمایت کے استحقاق کو قائم کرتی ہے۔ ابن کثیر جیسے سنی مفسرین نے اس آیت کو مکہ سے ہجرت کرنے والے صحابہ کی تعریف کے طور پر پیش کیا ہے اور اکثر اسے ان کی اجتماعی فضیلت اور اعتماد کی دلیل کے طور پر نقل کرتے ہیں۔ 'یہی وہ لوگ ہیں جو سچے ہیں' کی عبارت کو سنی روایت میں مہاجرین کی بحیثیتِ گروہ نیکی اور اعتمادیت کی تصدیق کے طور پر استعمال کیا جاتا ہے۔ شیعہ علماء اس بات پر متفق ہیں کہ آیت ان مہاجرین کی تعریف کرتی ہے جنہوں نے اپنی زندگیوں میں اپنی سچائی اور نبی کی حمایت کو قائم رکھا، لیکن اس بات پر زور دیتے ہیں کہ آیت ان کی اس مخصوص وقت کی حالت اور قربانی کی تعریف کرتی ہے، اور مستمر تعریف مستمر سچائی کے مظاہرے پر منحصر ہے۔ طباطبائی نے المیزان میں نوٹ کیا کہ آیت خصوصیات اور اعمال کی تعریف کرتی ہے، اور مستمر تعریف ان خصوصیات کے مستمر مظاہرے پر منحصر ہے۔ یہ ایک وسیع تر شیعہ اصول کی عکاسی کرتا ہے کہ نبی کی صحبت، اگرچہ باعزت ہے، ذاتی احتساب کو خودبخود ختم نہیں کرتی اور بعد کے اعمال سے ابتدائی ایمان میں انحراف ممکن ہے۔ دونوں روایات ایمان کے لیے قربانی کے بارے میں آیت کی روحانی تعلیم کو عالمگیر طور پر قابلِ اطلاق سمجھتی ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُثني على المهاجرين وتُثبت أحقِّيتهم بالدعم من الفيء جزاءً لتضحياتهم في سبيل الإسلام. ويُبرز علماء السنة كابن كثير هذه الآية بوصفها ثناءً على الصحابة الذين هاجروا من مكة، مستشهِّدين بها دليلاً على فضلهم وعدالتهم الجماعية. وعبارة «أُولئك هم الصادقون» وُظِّفت في التقليد السني تأكيداً لصلاح المهاجرين كجماعة. ويتَّفق العلماء الشيعة على أن الآية تُثني على المهاجرين الذين أبقوا إيمانهم وصدق نصرتهم طوال حياتهم، لكنهم يُؤكِّدون أن الآية تصف حالهم عند الهجرة ولا تضمن لكل فرد بقاء هذا المستوى من الإيمان إلى الأبد. ولاحظ الطباطبائي في الميزان أن الآية تُثني على صفات وأفعال، وأن استمرار الثناء مشروطٌ باستمرار إظهار تلك الصفات. وهذا يعكس مبدأً شيعياً راسخاً: أن الصحبة النبوية شرف عظيم لكنها لا تمنح صلاحاً أبدياً مضموناً إذا تناقضت الأفعال اللاحقة مع الإيمان الأول. ويُوظِّف التقليدان الآية في الحديث عن فضيلة التضحية في سبيل الإيمان، وإن ميل التقليد السني إلى تعميم هذا الثناء وتثبيته على المهاجرين جماعةً أوسع وأرسخ، في حين يُشدِّد التقليد الشيعي على المحاسبة الفردية وإمكانية الانحراف عن الصلاح الأول."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:9:ansar-love",
+          "title": "Selfless Love",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The Ansar loved those who emigrated to them, showing no jealousy for what the Muhajirun received - pure brotherhood beyond self-interest.",
+          "whyItMatters": "True Islamic brotherhood means rejoicing in others' blessings. Jealousy destroys community; genuine love builds it.",
+          "position": "topLeft",
+          "arabicHighlight": "يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ",
+          "title_urdu": "بے لوث محبت",
+          "coreInsight_urdu": "انصار نے ان سے محبت کی جو ان کی طرف ہجرت کر کے آئے۔",
+          "whyItMatters_urdu": "حقیقی اسلامی بھائی چارہ دوسروں کی برکتوں میں خوشی کا مطلب ہے۔",
+          "title_ar": "المحبة النكرانية",
+          "coreInsight_ar": "أحب الأنصار من هاجر إليهم دون غيرة.",
+          "whyItMatters_ar": "الأخوة الإسلامية الحقيقية تعني الفرح ببركات الآخرين."
+        },
+        {
+          "id": "59:9:ithar-preference",
+          "title": "Ultimate Sacrifice",
+          "icon": "gift.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Ansar practiced 'ithar' - giving preference to others over themselves even in their own need (khasasah/privation).",
+          "whyItMatters": "The highest level of generosity is giving when you yourself are in need. This is the Prophetic standard of selflessness.",
+          "position": "topRight",
+          "arabicHighlight": "وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ",
+          "title_urdu": "حتمی قربانی",
+          "coreInsight_urdu": "انصار نے 'ایثار' کا مظاہرہ کیا۔",
+          "whyItMatters_urdu": "فیاضی کی بلند ترین سطح ضرورت میں دینا ہے۔",
+          "title_ar": "الإيثار الأعلى",
+          "coreInsight_ar": "مارس الأنصار 'الإيثار' - التفضيل على أنفسهم.",
+          "whyItMatters_ar": "أعلى مستوى من الكرم هو العطاء عندما تكون في حاجة."
+        },
+        {
+          "id": "59:9:protected-from-greed",
+          "title": "Freedom from Greed",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Protection from 'shuhh' (stinginess/greed) of the soul is the key to success (falah) - generosity flows from purified hearts.",
+          "whyItMatters": "Your greatest enemy isn't external but internal: the greed of your own soul. Purify your heart to achieve true success.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+          "title_urdu": "لالچ سے آزادی",
+          "coreInsight_urdu": "نفس کے 'شح' (بخل/لالچ) سے تحفظ کامیابی کی کلید ہے۔",
+          "whyItMatters_urdu": "آپ کا سب سے بڑا دشمن بیرونی نہیں بلکہ اندرونی ہے۔",
+          "title_ar": "التحرر من الجشع",
+          "coreInsight_ar": "الحماية من 'شح' النفس هو مفتاح الفلاح.",
+          "whyItMatters_ar": "عدوك الأكبر ليس خارجياً بل داخلياً: جشع نفسك."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse praises the Ansar for their exemplary hospitality and generosity toward the Muhajirun. Sunni exegetes like al-Tabari and Ibn Kathir provide numerous narrations about the Ansar's selfless acts, using this verse as evidence of their collective virtue and reliability, similar to how they treat the verse about the Muhajirun. Both traditions emphasize the concept of ithar (altruistic preference) as a high moral station that the Ansar exemplified. There is general agreement on the historical examples of the Ansar sharing their wealth and homes with the Muhajirun. However, as with the previous verse, there are differences in how this praise is understood to extend. Sunni tradition tends to interpret these verses as confirming the permanent righteousness and reliability of the Ansar as a group, using them as foundational evidence for the principle that all the companions are trustworthy transmitters and models. Shia tradition, while honoring the Ansar's sacrifices and many individuals among them who remained loyal to the Ahlul Bayt, emphasizes that the verse praises their actions and state at that particular time, and that individual accountability continues. Both traditions agree that the verse's spiritual teaching about overcoming stinginess is universally applicable. Scholars from both schools use this verse extensively when teaching about generosity, community solidarity, and the ethics of welcoming those in need.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت مہاجرین کے ساتھ انصار کی مثالی مہمان نوازی اور سخاوت کی تعریف کرتی ہے۔ طبری اور ابن کثیر جیسے سنی مفسرین نے انصار کی بے نفس عطاء کی متعدد روایات نقل کی ہیں اور اس آیت کو ان کی اجتماعی فضیلت اور اعتمادیت کی دلیل کے طور پر استعمال کیا ہے، اسی طرح جیسے وہ مہاجرین کے بارے میں آیت کے ساتھ کرتے ہیں۔ دونوں روایات 'ایثار' کے تصور یعنی ایثارانہ ترجیح کو اعلیٰ اخلاقی مرتبے کے طور پر تسلیم کرتی ہیں۔ انصار کے مہاجرین کے ساتھ اپنی دولت اور گھر بانٹنے کی تاریخی مثالوں پر عام اتفاق ہے۔ تاہم جیسا کہ پچھلی آیت کے ساتھ تھا، اس تعریف کو کس طرح آگے بڑھایا جائے اس میں فرق ہے۔ سنی روایت اس بیانیے کو صحابہ کی مجموعی تعریف کے اثبات کے طور پر تعبیر کرتی ہے اور انصار کو بطورِ گروہ قابلِ اعتماد راویوں اور نمونوں کے طور پر استعمال کرتی ہے۔ شیعہ روایت، انصار کی متعدد افراد کی جانب سے قربانیوں اور اہلِ بیت کے ساتھ وفاداری کا احترام کرتے ہوئے، اس بات پر زور دیتی ہے کہ آیت اس مخصوص وقت کی ان کی اعمال اور حالت کی تعریف کرتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ بخیلی پر قابو پانے کے بارے میں آیت کی روحانی تعلیم عالمگیر طور پر قابلِ اطلاق ہے۔ دونوں مکاتب کے علماء اس آیت کو سخاوت، برادری یکجہتی، اور ضرورت مندوں کا خیر مقدم کرنے کی اخلاقیات کی تعلیم دینے کے لیے بڑے پیمانے پر استعمال کرتے ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُثني على الأنصار لضيافتهم الاستثنائية وكرمهم نحو المهاجرين. ويُقدِّم علماء السنة كالطبري وابن كثير روايات تاريخية عديدة عن أفعال الأنصار التفانية، مُوظِّفين هذه الآية دليلاً على فضلهم الجماعي وثقتهم، تماماً كما يفعلون مع آية المهاجرين. ويتَّفق التقليدان على مفهوم الإيثار بوصفه مقاماً أخلاقياً رفيعاً مثَّله الأنصار. كما أن الأمثلة التاريخية على سخاء الأنصار في تقاسم مالهم وبيوتهم مع المهاجرين موضعُ اتِّفاق. غير أن ثمة خلافاً في كيفية تمديد هذا الثناء. يميل التقليد السني إلى تفسير هذه الآيات باعتبارها تُثبِّت صلاح الأنصار الدائم وموثوقيتهم بوصفهم رواةً وقدوةً جماعية. أما التقليد الشيعي فيُكرِّم تضحيات الأنصار ويُثمِّن الكثيرين منهم الذين أبقوا وفاءهم لأهل البيت، مع التشديد على أن الآية تُثني على حالهم في تلك اللحظة التاريخية ولا تمنح صلاحاً مطلقاً لكل فرد في كل ما لحق. ويتَّفق الجانبان على أن التعليم الروحي في الآية بشأن قهر الشحِّ ذو تطبيق عالمي. ويُوظِّف علماء كلا المدرستين هذه الآية في الحديث عن الكرم والتضامن المجتمعي وأخلاقيات استقبال المحتاجين."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:10:unity-across-time",
+          "title": "Generational Unity",
+          "icon": "person.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Later believers pray for forgiveness for themselves AND those who preceded them in faith - establishing bonds across time.",
+          "whyItMatters": "You're part of an eternal community. Honor and pray for those who came before - they paved the path you walk.",
+          "position": "topLeft",
+          "arabicHighlight": "رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ",
+          "title_urdu": "نسلی اتحاد",
+          "coreInsight_urdu": "بعد میں آنے والے مومن اپنے اور ایمان میں پہلے آنے والوں کے لیے بخشش کی دعا کرتے ہیں۔",
+          "whyItMatters_urdu": "آپ ایک ابدی برادری کا حصہ ہیں۔",
+          "title_ar": "الوحدة عبر الأجيال",
+          "coreInsight_ar": "يدعو المؤمنون اللاحقون للمغفرة لأنفسهم وللذين سبقوهم.",
+          "whyItMatters_ar": "أنت جزء من مجتمع أبدي."
+        },
+        {
+          "id": "59:10:no-resentment",
+          "title": "Pure Hearts",
+          "icon": "heart.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The prayer asks Allah to remove 'ghill' (resentment/rancor) from hearts toward believers - seeking spiritual purification.",
+          "whyItMatters": "Harboring resentment against fellow believers corrupts your faith. Actively pray for a heart free from grudges.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "پاک دل",
+          "coreInsight_urdu": "دعا اللہ سے کہتی ہے کہ مومنوں کے لیے دلوں سے 'غل' (کینہ) نکال دے۔",
+          "whyItMatters_urdu": "ساتھی مومنوں کے خلاف کینہ رکھنا آپ کے ایمان کو خراب کرتا ہے۔",
+          "title_ar": "القلوب النقية",
+          "coreInsight_ar": "يطلب الدعاء من الله إزالة 'الغل' من القلوب.",
+          "whyItMatters_ar": "حمل الحقد على المؤمنين يفسد إيمانك."
+        },
+        {
+          "id": "59:10:rauf-rahim",
+          "title": "Divine Kindness",
+          "icon": "hand.heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse ends praising Allah as Ra'uf (Kind) and Rahim (Merciful) - emphasizing His gentleness alongside His mercy.",
+          "whyItMatters": "When seeking purification from resentment, appeal to Allah's gentleness. He responds to hearts seeking healing with kindness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ",
+          "title_urdu": "الٰہی شفقت",
+          "coreInsight_urdu": "آیت اللہ کو رؤوف (مہربان) اور رحیم کی تعریف کے ساتھ ختم ہوتی ہے۔",
+          "whyItMatters_urdu": "کینہ سے پاکیزگی تلاش کرتے وقت، اللہ کی شفقت کی اپیل کریں۔",
+          "title_ar": "اللطف الإلهي",
+          "coreInsight_ar": "تختتم الآية بمدح الله الرؤوف الرحيم.",
+          "whyItMatters_ar": "عند طلب التطهير من الحقد، اطلب لطف الله."
+        }
+      ]
+    },
+    "layer4": "This verse is interpreted somewhat differently in Shia and Sunni traditions, particularly regarding what it implies about attitudes toward early Islamic history. Sunni scholars generally interpret this verse as requiring uncritical praise and respect for all companions, arguing that asking for forgiveness for them implies assuming their general righteousness and avoiding any criticism of their actions. This verse is often cited in Sunni tradition as prohibiting any negative criticism of companions. Shia scholars, while agreeing that the verse teaches respect and supplication for earlier believers, emphasize that praying for forgiveness implies acknowledging that people make mistakes and need forgiveness. Tabatabai notes that the verse characterizes ideal later believers by their attitude of supplication and freedom from resentment, but this does not require historical revisionism or ignoring well-documented injustices such as the violation of Fatimah's rights or the later conflicts during the early Caliphate. Shia tradition maintains that one can pray for forgiveness for earlier Muslims while also acknowledging their errors and learning from their mistakes. Both traditions agree that the verse prohibits harboring resentment and ill-will toward believers, though they differ on whether this extends to those companions who opposed the Ahlul Bayt after the Prophet's death. The verse establishes an important principle of maintaining spiritual connection across generations while allowing for different interpretations of how that principle applies to specific historical figures and events.",
+    "layer4_urdu": "یہ آیت شیعہ اور سنی روایات میں کچھ مختلف طریقے سے تفسیر کی جاتی ہے، خاص طور پر ابتدائی اسلامی تاریخ کے بارے میں رویوں کے مضمرات کے حوالے سے۔ سنی علماء عام طور پر اس آیت کی تفسیر اس طرح کرتے ہیں کہ یہ تمام صحابہ کی تعریف اور احترام کا تقاضا کرتی ہے، یہ استدلال کرتے ہوئے کہ ان کے لیے مغفرت مانگنا ان کی عمومی نیکی کو تسلیم کرنے اور ان کے اعمال کی کوئی تنقید سے پرہیز کرنے کو مضمر کرتا ہے۔ یہ آیت سنی روایت میں اکثر صحابہ کی کسی بھی منفی تنقید کو ممنوع قرار دینے کی دلیل کے طور پر نقل کی جاتی ہے۔ شیعہ علماء، اس بات پر متفق ہوتے ہوئے کہ آیت احترام اور مغفرت کی دعا سکھاتی ہے، اس بات پر زور دیتے ہیں کہ ان کے لیے مغفرت مانگنے کا مطلب یہ ہے کہ لوگ غلطیاں کرتے ہیں اور انہیں مغفرت کی ضرورت ہے۔ طباطبائی نے نوٹ کیا کہ آیت مثالی بعد کے مومنوں کو ان کے دعا کے موقف اور کینے سے آزادی کی خصوصیت دیتی ہے، لیکن یہ تاریخی نظرثانی یا اچھی طرح سے دستاویز کردہ ناانصافیوں کو نظرانداز کرنے کا تقاضا نہیں کرتی۔ شیعہ روایت برقرار رکھتی ہے کہ پہلے مسلمانوں کے لیے دعا کرتے ہوئے ان کی غلطیوں کو بھی تسلیم کرنا اور ان سے سبق لینا ممکن ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت مومنوں کے خلاف کینے اور بد دلی کو ممنوع قرار دیتی ہے، تاہم ان میں اختلاف ہے کہ یہ نبی کی وفات کے بعد اہلِ بیت کی مخالفت کرنے والے صحابہ تک کس طرح پھیلتی ہے۔",
+    "layer4_ar": "يتفاوت تفسير هذه الآية بين التقليدين الشيعي والسني، لا سيما فيما يتعلق بما تستلزمه من مواقف حيال التاريخ الإسلامي المبكر. يرى علماء السنة عموماً أن الآية تستوجب توقيراً وثناءً غير مشروطَين على سائر الصحابة، ويحتجُّون بطلب المغفرة لهم بأنه يفترض صلاحهم العام ويمنع أي نقد لأفعالهم. وكثيراً ما يُستشهَد بهذه الآية في التقليد السني لاستبعاد أي انتقاد للصحابة. ويتَّفق علماء الشيعة على أن الآية تعلِّم الاحترام والدعاء للمسلمين السابقين، لكنهم يُؤكِّدون أن طلب المغفرة يفترض الإقرار بأن البشر يقعون في الخطأ ويحتاجون للمغفرة. ولاحظ الطباطبائي أن الآية تُعرِّف المؤمنين اللاحقين المثاليين بموقفهم الداعي وبسلامة قلوبهم من الغلِّ، غير أن ذلك لا يستلزم تزوير التاريخ أو إغفال المظالم الثابتة توثيقاً كقضية حقوق فاطمة عليها السلام أو ما جرى من أحداث في الخلافة الأولى. ويرى التقليد الشيعي أنه يمكن الجمع بين الدعاء للمسلمين الأوائل والإقرار بأخطائهم والتعلُّم منها. يتَّفق التقليدان على أن الآية تنهى عن اضطرام الحقد والغلِّ تجاه المؤمنين، وإن اختلفا في ما إذا كان هذا يمتد ليشمل الصحابة الذين عارضوا أهل البيت بعد وفاة النبي. وتُرسِّخ الآية مبدأً جوهرياً في صون الصلة الروحية بين الأجيال مع اتساع المجال لتفسيرات متباينة في تطبيقه على شخصيات وأحداث تاريخية بعينها."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:11:hypocrisy-exposed",
+          "title": "Hollow Promises",
+          "icon": "bubble.left.and.exclamationmark.bubble.right.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Hypocrites promised the Banu Nadir support in exile and battle - but Allah exposes them as liars before the promises could be tested.",
+          "whyItMatters": "Beware empty promises from those without true faith. Hypocrites' words are abundant, but their actions absent.",
+          "position": "topLeft",
+          "arabicHighlight": "يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ",
+          "title_urdu": "کھوکھلے وعدے",
+          "coreInsight_urdu": "منافقوں نے بنو نضیر سے جلاوطنی اور جنگ میں مدد کا وعدہ کیا۔",
+          "whyItMatters_urdu": "حقیقی ایمان کے بغیر لوگوں کے خالی وعدوں سے ہوشیار رہیں۔",
+          "title_ar": "الوعود الزائفة",
+          "coreInsight_ar": "وعد المنافقون بني النضير بالدعم.",
+          "whyItMatters_ar": "احذر الوعود الفارغة من أولئك الذين بلا إيمان حقيقي."
+        },
+        {
+          "id": "59:11:allah-testifies",
+          "title": "Divine Testimony",
+          "icon": "doc.text.magnifyingglass",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah Himself testifies to their lying - ultimate truth comes from divine revelation, not human claims.",
+          "whyItMatters": "Don't be deceived by confident assertions. Allah's testimony in the Quran reveals what hearts truly contain.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ",
+          "title_urdu": "الٰہی گواہی",
+          "coreInsight_urdu": "اللہ خود ان کے جھوٹ کی گواہی دیتا ہے۔",
+          "whyItMatters_urdu": "پراعتماد دعووں سے دھوکہ نہ کھائیں۔",
+          "title_ar": "الشهادة الإلهية",
+          "coreInsight_ar": "يشهد الله نفسه على كذبهم.",
+          "whyItMatters_ar": "لا تنخدع بالتأكيدات الواثقة."
+        },
+        {
+          "id": "59:11:hypocrisy-pattern",
+          "title": "Hypocrites' Alliance",
+          "icon": "person.2.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Hypocrites ally with disbelievers against Muslims - showing that absence of faith leads to alignment with enemies of Islam.",
+          "whyItMatters": "True allegiance reveals true faith. Watch whose side people take when conflict arises - actions unmask hearts.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِينَ نَافَقُوا۟",
+          "title_urdu": "منافقوں کا اتحاد",
+          "coreInsight_urdu": "منافق مسلمانوں کے خلاف کافروں سے اتحاد کرتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی وفاداری حقیقی ایمان کو ظاہر کرتی ہے۔",
+          "title_ar": "تحالف المنافقين",
+          "coreInsight_ar": "يتحالف المنافقون مع الكافرين ضد المسلمين.",
+          "whyItMatters_ar": "الولاء الحقيقي يكشف الإيمان الحقيقي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse exposes the hypocrisy of Abdullah ibn Ubayy and his followers who secretly communicated with Banu Nadir, encouraging them to resist while not intending to actually support them. The historical facts of this betrayal are well-documented in both traditions. Sunni exegetes like al-Tabari and Ibn Kathir provide detailed accounts of the hypocrites' messages to Banu Nadir and their empty promises of support. Both traditions agree that this verse teaches believers to be aware of hypocrisy within the community and to recognize that not all who claim Islam are sincere. However, there are differences in how this lesson is extended. Sunni scholarship tends to focus on the specific historical context of the hypocrites in Medina during the Prophet's lifetime, treating hypocrisy primarily as a phenomenon of that era that was eventually resolved. Shia scholarship, following the teachings of the Ahlul Bayt, emphasizes that hypocrisy persisted after the Prophet's death and took new forms, including opposition to the Prophet's designated successors and the rights of the Ahlul Bayt. Tabatabai and other Shia scholars see in this verse a pattern that continued in various forms throughout Islamic history. Both traditions use the verse to teach about the dangers of insincere community members, though they differ on how directly to apply these lessons to post-Prophetic Islamic history and leadership.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت عبداللہ بن ابی اور اس کے پیروکاروں کی منافقت کو بے نقاب کرتی ہے جنہوں نے خفیہ طور پر بنو نضیر سے رابطہ کیا اور مدد کا وعدہ کرتے ہوئے انہیں مزاحمت پر ابھارا لیکن اسے پورا کرنے کا ارادہ نہیں رکھتے تھے۔ اس غداری کے تاریخی حقائق دونوں روایات میں بخوبی دستاویزی ہیں۔ طبری اور ابن کثیر جیسے سنی مفسرین نے منافقین کے بنو نضیر کو پیغامات اور ان کی حمایت کے خالی وعدوں کی تفصیلی روایات نقل کی ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت مومنوں کو برادری کے اندر منافقت کے بارے میں آگاہ ہونے کی تعلیم دیتی ہے اور یہ کہ ہر وہ شخص جو اسلام کا دعویٰ کرے وہ مخلص نہیں ہوتا۔ تاہم ان سبق کو کس طرح آگے بڑھایا جائے اس میں فرق ہے۔ سنی علمیت مدینہ کے مخصوص تاریخی منافقین پر زیادہ توجہ دیتی ہے، جو نبی کی حیاتِ مبارکہ میں ہوئے اور بالآخر حل ہوگئے، اسے بنیادی طور پر ایک بند تاریخی واقعہ سمجھتے ہوئے۔ شیعہ علمیت، اہلِ بیت کی تعلیمات کی پیروی کرتے ہوئے، نبی کی رحلت کے بعد بھی اسلامی تاریخ میں مختلف شکلوں میں ان اصولوں کے وسیع تر اطلاق کو دیکھتی ہے۔ دونوں روایات ناقابلِ اعتماد حامیوں کو پہچاننے اور خالی وعدوں سے بچنے کے بارے میں تعلیم دینے کے لیے اس آیت کا استعمال کرتی ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تفضح نفاق عبد الله بن أُبيّ وأتباعه الذين تواصلوا سراً مع بني النضير يُشجِّعونهم على المقاومة دون أن يعتزموا نصرتهم فعلاً. وقد وثَّق المحدِّثون والمؤرِّخون في كلا التقليدين هذه الخيانة توثيقاً وافياً. ويستعرض الطبري وابن كثير تفاصيل رسائل المنافقين إلى بني النضير ووعودهم الفارغة. ويتَّفق الفريقان على أن الآية تدعو المؤمنين إلى الوعي بالنفاق داخل المجتمع وإدراك أن ليس كل من يدَّعي الإسلام مخلصاً في دعواه. غير أن ثمة فوارق في مدى تمديد هذا الدرس وتطبيقه: فعلماء السنة يميلون إلى التركيز على السياق التاريخي المحدَّد لمنافقي المدينة في عهد النبي، معالِجين النفاق باعتباره ظاهرةً لتلك الحقبة قد طُويت. في حين يُؤكِّد علماء الشيعة، وفق تعاليم أهل البيت، أن النفاق استمرَّ بعد رحيل النبي واتَّخذ أشكالاً جديدة، وأن الآية تُرسم معياراً للكشف عن هذا النمط في كل عصر ومصر."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:12:abandoned-allies",
+          "title": "Betrayal Foretold",
+          "icon": "figure.walk.departure",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites won't leave with the expelled or help if fought - and even if they help, they'll flee. Total abandonment is predicted.",
+          "whyItMatters": "Don't rely on hypocrites in times of trial. Fair-weather friends disappear when you need them most.",
+          "position": "topLeft",
+          "arabicHighlight": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ",
+          "title_urdu": "پیشگوئی شدہ دھوکہ",
+          "coreInsight_urdu": "منافق نکالے گئے لوگوں کے ساتھ نہیں جائیں گے۔",
+          "whyItMatters_urdu": "آزمائش کے وقت منافقوں پر بھروسہ نہ کریں۔",
+          "title_ar": "الخيانة المتنبأ بها",
+          "coreInsight_ar": "لن يخرج المنافقون مع المطرودين.",
+          "whyItMatters_ar": "لا تعتمد على المنافقين في أوقات المحنة."
+        },
+        {
+          "id": "59:12:turn-backs",
+          "title": "Fleeing Cowards",
+          "icon": "arrow.turn.up.left",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Even if they initially help, they will turn their backs and flee - cowardice is the hallmark of hypocrisy.",
+          "whyItMatters": "True courage comes from true faith. Those without firm belief crumble under pressure.",
+          "position": "topRight",
+          "arabicHighlight": "لَيُوَلُّنَّ ٱلْأَدْبَٰرَ",
+          "title_urdu": "بھاگنے والے بزدل",
+          "coreInsight_urdu": "اگر ابتدائی طور پر مدد بھی کریں، تو پیٹھ موڑ کر بھاگ جائیں گے۔",
+          "whyItMatters_urdu": "حقیقی ہمت حقیقی ایمان سے آتی ہے۔",
+          "title_ar": "الجبناء الهاربون",
+          "coreInsight_ar": "حتى لو ساعدوا في البداية، سيولون الأدبار.",
+          "whyItMatters_ar": "الشجاعة الحقيقية تأتي من الإيمان الحقيقي."
+        },
+        {
+          "id": "59:12:no-help",
+          "title": "No Victory",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "After fleeing, they will not be helped - those who abandon Allah's cause forfeit divine support.",
+          "whyItMatters": "Victory belongs to the steadfast, not the fickle. Abandoning the righteous path means abandoning success.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ثُمَّ لَا يُنصَرُونَ",
+          "title_urdu": "کوئی فتح نہیں",
+          "coreInsight_urdu": "بھاگنے کے بعد، انہیں مدد نہیں ملے گی۔",
+          "whyItMatters_urdu": "فتح ثابت قدموں کی ہے، نہ کہ متزلزل لوگوں کی۔",
+          "title_ar": "لا نصر",
+          "coreInsight_ar": "بعد الفرار، لن ينصروا.",
+          "whyItMatters_ar": "النصر للثابتين، وليس للمتقلبين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse: it predicted and confirmed that the hypocrites would not fulfill their promises to Banu Nadir, exposing their deception and cowardice. Sunni exegetes like Ibn Kathir emphasize this as a Quranic miracle, predicting future events that unfolded exactly as stated. Both traditions agree that this verse teaches about the unreliability of hypocrites and the certainty of divine knowledge. There is general consensus on the historical facts: the hypocrites encouraged Banu Nadir to resist but provided no actual support, exactly as the verse predicted. However, there are differences in how the lessons are extended. Sunni scholarship tends to focus on the specific historical hypocrites in Medina, particularly Abdullah ibn Ubayy and his group, treating this primarily as a closed historical episode. Shia scholarship, following Ahlul Bayt teachings, sees broader applications of these principles to understanding hypocrisy and false alliances throughout Islamic history, including after the Prophet's death. Tabatabai and other Shia scholars emphasize that the pattern of making impressive promises while lacking genuine commitment appeared in various forms in early Islamic conflicts and leadership disputes. Both traditions use this verse to teach about recognizing and avoiding unreliable allies, though Shia sources more explicitly apply these principles to understanding post-Prophetic Islamic history and the opposition faced by the Ahlul Bayt from those who claimed Islamic authority while violating its principles.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں: اس نے پیش گوئی اور تصدیق دونوں کی کہ منافقین بنو نضیر سے اپنے وعدے پورے نہیں کریں گے، ان کی دھوکہ دہی اور بزدلی کو بے نقاب کرتے ہوئے۔ ابن کثیر جیسے سنی مفسرین نے اسے ایک قرآنی معجزہ قرار دیا جو مستقبل کے واقعات کی پیش گوئی کرتا ہے جو بالکل اسی طرح رونما ہوئے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت منافقین کی بے اعتماری اور الہٰی علم کی یقینیت کے بارے میں مومنوں کو تعلیم دیتی ہے۔ بنو نضیر کو مدد نہ پہنچانے کے تاریخی حقائق پر عام اتفاق ہے، بالکل جیسا آیت نے پیش گوئی کی تھی۔ تاہم سبق کو کس طرح آگے بڑھایا جائے اس میں کچھ فرق ہے۔ سنی علمیت مدینہ کے مخصوص تاریخی منافقین پر زیادہ توجہ دیتی ہے اور اسے بنیادی طور پر ایک بند تاریخی واقعہ سمجھتی ہے۔ شیعہ علمیت، اہلِ بیت کی تعلیمات کی پیروی کرتے ہوئے، نبی کی رحلت کے بعد اسلامی تاریخ میں منافقت کی جاری شکلوں پر وسیع تر اطلاق دیکھتی ہے۔ طباطبائی اور دوسرے شیعہ علماء ان اصولوں کو اسلامی قیادت کے تنازعات کو سمجھنے اور اہلِ بیت کو درپیش مخالفت میں اہم سمجھتے ہیں۔ دونوں روایات ناقابلِ اعتماد حامیوں کو پہچاننے اور جھوٹے اتحادوں سے بچنے کے بارے میں تعلیم دینے کے لیے اس آیت کا استعمال کرتی ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية: إنها تنبَّأت بما ثبت فعلاً، من أن المنافقين لم يفوا بعهودهم لبني النضير، كاشفةً كذبهم وجُبنهم. ويُؤكِّد ابن كثير والقرطبي أن هذا التنبُّؤ الذي تحقَّق بحذافيره دليلٌ على إعجاز القرآن، إذ أخبر عن المستقبل بيقين مطلق. ويتَّفق الفريقان على الوقائع التاريخية: حجم المنافقين عن نصرة بني النضير رغم وعودهم، تماماً كما أخبرت الآية. بيد أن ثمة اختلافاً في مدى تعميم الدروس المستفادة: فعلماء السنة يميلون إلى التركيز على المنافقين التاريخيين في المدينة، معالِجين هذا بوصفه حلقةً تاريخية منتهية. في حين يرى علماء الشيعة، وفق تعاليم أهل البيت، أن هذه المبادئ المتعلِّقة بالتعرُّف على التحالفات الكاذبة والوعود الفارغة تمتدُّ لتشمل سائر مراحل التاريخ الإسلامي، وأن نمط الوعود الفخمة المجوَّفة عند الغيبة ظهر في صور متعددة في الصراعات الإسلامية المبكرة ونزاعات القيادة."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:13:fear-believers",
+          "title": "Misplaced Fear",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites fear believers more than Allah - revealing their spiritual blindness and inverted priorities.",
+          "whyItMatters": "Who you fear reveals what you believe. True believers fear Allah alone, not human judgment or power.",
+          "position": "topLeft",
+          "arabicHighlight": "لَأَنتُمْ أَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ ٱللَّهِ",
+          "title_urdu": "غلط خوف",
+          "coreInsight_urdu": "منافق مومنوں سے اللہ سے زیادہ ڈرتے ہیں۔",
+          "whyItMatters_urdu": "آپ کس سے ڈرتے ہیں یہ ظاہر کرتا ہے کہ آپ کیا یقین رکھتے ہیں۔",
+          "title_ar": "الخوف في غير محله",
+          "coreInsight_ar": "يخاف المنافقون المؤمنين أكثر من الله.",
+          "whyItMatters_ar": "من تخاف يكشف ما تؤمن به."
+        },
+        {
+          "id": "59:13:no-understanding",
+          "title": "Spiritual Ignorance",
+          "icon": "brain.head.profile",
+          "colorHex": "#64B5F6",
+          "coreInsight": "They are people who don't understand (la yafqahun) - lacking deep comprehension of divine reality and consequences.",
+          "whyItMatters": "Intellectual knowledge without spiritual understanding is useless. Seek fiqh (deep understanding) of Allah's reality.",
+          "position": "topRight",
+          "arabicHighlight": "قَوْمٌۭ لَّا يَفْقَهُونَ",
+          "title_urdu": "روحانی جہالت",
+          "coreInsight_urdu": "وہ ایسے لوگ ہیں جو نہیں سمجھتے۔",
+          "whyItMatters_urdu": "روحانی سمجھ کے بغیر علمی معلومات بیکار ہیں۔",
+          "title_ar": "الجهل الروحي",
+          "coreInsight_ar": "قوم لا يفقهون.",
+          "whyItMatters_ar": "المعرفة الفكرية بدون فهم روحي لا قيمة لها."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic meaning of this verse: the enemies mentioned (hypocrites and Banu Nadir in context) feared the believers more than they feared Allah due to their spiritual blindness and lack of true understanding. Sunni exegetes like al-Razi explain that this inverted priority demonstrates the spiritual corruption of the hypocrites and disbelievers, who were more concerned with worldly consequences than divine judgment. Ibn Kathir notes that this greater fear of believers indicates that the enemies recognized the Muslims' strength and resolve despite the Muslims' smaller numbers and fewer resources. Both traditions agree that the verse criticizes this disordered priority and attributes it to lack of understanding. The interpretations are largely aligned on this verse, with both emphasizing the psychological insight it provides about opponents of Islam and the encouragement it offers to believers. Shia scholars, particularly following Imam Ali's teachings, place somewhat greater emphasis on the principle of proper fear: that God-consciousness should so dominate a believer's motivations that human opposition becomes insignificant. Both traditions use this verse to teach about courage rooted in faith, the inner weakness of those who oppose truth despite external power, and the importance of maintaining proper priorities where fear of and accountability to Allah far exceeds concern for any human force.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی معنی پر متفق ہیں: مذکور دشمنوں یعنی سیاق میں منافقین اور بنو نضیر نے اللہ سے زیادہ مومنوں سے ڈرا جس کی وجہ روحانی اندھا پن اور حقیقی سمجھ کی کمی ہے۔ فخر الدین رازی نے بیان کیا کہ ترجیحات کا یہ الٹا پن منافقین اور کافروں کی روحانی تباہی کو ظاہر کرتا ہے جو دنیاوی نتائج کے بارے میں زیادہ فکرمند تھے بجائے الہٰی فیصلے کے۔ ابن کثیر نے نوٹ کیا کہ مومنوں کا یہ زیادہ خوف ظاہر کرتا ہے کہ دشمنوں نے مسلمانوں کی طاقت اور عزم کو ان کی کم تعداد اور وسائل کے باوجود تسلیم کیا۔ دونوں روایات مومنوں کو یہ حوصلہ دینے میں ہم آہنگ ہیں کہ حق اور الہٰی حمایت کے ساتھ کھڑے ہوں اور بیان کرتی ہیں کہ روحانی اور اخلاقی طاقت بالآخر مادی طاقت پر غالب آتی ہے۔ تفاسیر کی تشریحات اس آیت پر بڑے پیمانے پر ہم آہنگ ہیں، دونوں نے خوف کی نفسیاتی بصیرت اور الہٰی رہنمائی کی حقیقی سمجھ کے بغیر ترجیحات کے الٹ جانے کو اجاگر کیا۔ شیعہ علماء خاص طور پر امام علی کی تعلیمات کی پیروی کرتے ہوئے خوف کے صحیح موقف کے اصول پر زیادہ زور دیتے ہیں: اللہ کا خوف اس قدر حاوی ہونا چاہیے کہ یہ مومن کو کسی بھی مخلوق کی مخالفت کا سامنا کرنے میں بے خوف بنا دے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على المعنى الجوهري لهذه الآية: الأعداء المذكورون في السياق يخشون المؤمنين أكثر مما يخشون الله بسبب عماهم الروحي وغياب الفقه الحقيقي عنهم. ويُوضِّح الفخر الرازي أن هذا الانقلاب في الأولويات يُجسِّد الانحطاط الروحي للمنافقين والكفار الذين كانوا أكثر انشغالاً بالعواقب الدنيوية من مساءلة الله في الآخرة. ويُلاحظ ابن كثير أن هذا الخوف الزائد من المؤمنين يدلُّ على أن الأعداء كانوا يُدركون قوَّة المسلمين وعزيمتهم رغم قلَّة عددهم وشُحِّ مواردهم. ويتَّفق الفريقان على أن الآية تنقد هذا الخلل في الأولويات وتعزوه إلى غياب الفهم الروحي. وعلماء الشيعة، وفق تعاليم الإمام علي، يُعطون أهميةً أبرز لمبدأ الخوف الصحيح: أن تقوى الله ينبغي أن تهيمن على دوافع المؤمن هيمنةً تجعل معارضة البشر أمراً هيِّناً في نفسه. ويتَّفق الفريقان على أن الآية تُعلِّم الشجاعة المنبثقة من الإيمان، والضعف الداخلي الكامن وراء قوَّة المعارضين الظاهرة، وضرورة صون الأولويات بحيث يتقدَّم الخوف من الله على كل خوف من مخلوق."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:14:fortified-hiding",
+          "title": "Defensive Posture",
+          "icon": "building.2.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "They only fight from fortified cities or behind walls - showing their fear, weakness, and lack of conviction.",
+          "whyItMatters": "True strength comes from faith, not fortifications. Those hiding behind walls lack the courage of their convictions.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ",
+          "title_urdu": "دفاعی پوزیشن",
+          "coreInsight_urdu": "وہ صرف مضبوط شہروں یا دیواروں کے پیچھے سے لڑتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی طاقت ایمان سے آتی ہے، قلعوں سے نہیں۔",
+          "title_ar": "الموقف الدفاعي",
+          "coreInsight_ar": "لا يقاتلونكم إلا في قرى محصنة أو من وراء جدر.",
+          "whyItMatters_ar": "القوة الحقيقية تأتي من الإيمان وليس من التحصينات."
+        },
+        {
+          "id": "59:14:internal-conflict",
+          "title": "Divided Hearts",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E57373",
+          "coreInsight": "Their violence among themselves is severe - united in appearance but divided in reality, with hearts in conflict.",
+          "whyItMatters": "Internal division weakens any group. Unity of hearts, not just external alliance, creates real strength.",
+          "position": "topRight",
+          "arabicHighlight": "بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ",
+          "title_urdu": "تقسیم شدہ دل",
+          "coreInsight_urdu": "ان کے درمیان تشدد شدید ہے۔",
+          "whyItMatters_urdu": "اندرونی تقسیم کسی بھی گروہ کو کمزور کرتی ہے۔",
+          "title_ar": "القلوب المنقسمة",
+          "coreInsight_ar": "بأسهم بينهم شديد.",
+          "whyItMatters_ar": "الانقسام الداخلي يضعف أي مجموعة."
+        },
+        {
+          "id": "59:14:hearts-diverse",
+          "title": "Illusion of Unity",
+          "icon": "person.3.sequence.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "You think they're united, but their hearts are diverse (shatta) - external appearance masks internal fragmentation.",
+          "whyItMatters": "Don't be intimidated by apparent unity of your enemies. Hearts without true purpose are inherently fractured.",
+          "position": "bottomLeft",
+          "arabicHighlight": "تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ",
+          "title_urdu": "اتحاد کا فریب",
+          "coreInsight_urdu": "آپ سمجھتے ہیں کہ وہ متحد ہیں، لیکن ان کے دل مختلف ہیں۔",
+          "whyItMatters_urdu": "اپنے دشمنوں کے ظاہری اتحاد سے خوفزدہ نہ ہوں۔",
+          "title_ar": "وهم الوحدة",
+          "coreInsight_ar": "تحسبهم جميعاً وقلوبهم شتى.",
+          "whyItMatters_ar": "لا تخف من الوحدة الظاهرة لأعدائك."
+        },
+        {
+          "id": "59:14:no-reason",
+          "title": "Lack of Intellect",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "They are people who don't reason (la ya'qilun) - unable to think rationally about consequences or truth.",
+          "whyItMatters": "Use your intellect to align with truth. Those who abandon reason for prejudice or pride inevitably fail.",
+          "position": "bottomRight",
+          "arabicHighlight": "قَوْمٌۭ لَّا يَعْقِلُونَ",
+          "title_urdu": "عقل کی کمی",
+          "coreInsight_urdu": "وہ ایسے لوگ ہیں جو سوچتے نہیں۔",
+          "whyItMatters_urdu": "سچائی کے ساتھ ہم آہنگ ہونے کے لیے اپنی عقل استعمال کریں۔",
+          "title_ar": "نقص العقل",
+          "coreInsight_ar": "قوم لا يعقلون.",
+          "whyItMatters_ar": "استخدم عقلك للتوافق مع الحق."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse: it describes the military timidity and internal divisions of the enemies (hypocrites and Jewish tribes in the immediate context, but with broader application). Sunni exegetes like al-Tabari note that the Jewish tribes around Medina fought only from their fortresses and were divided despite their common opposition to Islam. Both traditions agree that the verse reveals a contrast between the enemies' apparent unity and their actual internal divisions. However, there are some differences in extension and application. Sunni scholarship tends to focus more on the specific historical context of the Jewish tribes and hypocrites during the Prophet's time. Shia scholarship, following Ahlul Bayt teachings, applies these principles more extensively to understanding patterns of opposition throughout Islamic history, including opposition to Imam Ali and the Ahlul Bayt after the Prophet's death. Tabatabai and other Shia scholars note that groups who opposed rightful Islamic leadership, despite appearing united, were undermined by internal conflicts driven by personal ambitions and worldly interests. Both traditions use this verse to teach about the weakness concealed behind opponents' apparent strength and the importance of maintaining Islamic unity, though Shia sources particularly emphasize that unity depends on adherence to divinely appointed leadership.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں: یہ دشمنوں یعنی سیاق میں یہودی قبائل اور منافقین کی عسکری ہچکچاہٹ اور اندرونی تقسیم کو بیان کرتی ہے۔ طبری نے نوٹ کیا کہ مدینہ کے یہودی قبائل الگ الگ قلعوں سے لڑتے اور باہمی مشترکہ مخالفت کے باوجود حقیقی اتحاد کی کمی رکھتے تھے۔ دونوں روایات متفق ہیں کہ آیت مخالفین کی ظاہری طاقت کے پیچھے چھپی کمزوری اور اندرونی تقسیم کے بارے میں ایک تضاد ظاہر کرتی ہے اور اسلامی اتحاد کو برقرار رکھنے کی اہمیت پر زور دیتی ہے۔ تاہم کچھ فرق استعمال اور اطلاق میں ہے۔ سنی علمیت نبی کے دور میں یہودی قبائل کے مخصوص تاریخی سیاق پر زیادہ توجہ دیتی ہے۔ شیعہ علمیت، اہلِ بیت کی تعلیمات کی پیروی کرتے ہوئے، ان اصولوں کے وسیع تر اطلاق کو دیکھتی ہے یعنی اسلامی تاریخ میں نبی کی رحلت کے بعد امام علی اور اہلِ بیت کے مخالفین پر بھی۔ طباطبائی اور دوسرے شیعہ علماء نوٹ کرتے ہیں کہ جنہوں نے صحیح اسلامی قیادت کی مخالفت کی وہ ذاتی عزائم اور دنیاوی مفادات کی وجہ سے اندرونی تنازعات سے دوچار رہے۔ دونوں روایات اس آیت کو ظاہری طاقتور مخالفت کے پیچھے اندرونی کمزوری کے بارے میں اور مسلم اتحاد کو ایمان اور مشترکہ مثبت اصولوں کے ذریعے برقرار رکھنے کی اہمیت کے بارے میں تعلیم دینے کے لیے استعمال کرتی ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية: إنها تصف الجُبن العسكري والانقسامات الداخلية عند الأعداء، في السياق المباشر القبائل اليهودية والمنافقون، وفي الإطار الأشمل كل من يعارض الحق الإلهي. ويُلاحظ الطبري أن القبائل اليهودية المحيطة بالمدينة كانت تقاتل من وراء حصونها ولم تكن تجمعها وحدة حقيقية رغم معارضتها المشتركة للإسلام. ويتَّفق الفريقان على أن الآية تُجلِّي تناقضاً بين الوحدة الظاهرة للأعداء والانقسامات الفعلية في الباطن. غير أن ثمة تبايناً في التطبيق والتوسُّع: فعلماء السنة يميلون إلى التركيز على السياق التاريخي للقبائل اليهودية والمنافقين في عهد النبي، في حين يُطبِّق علماء الشيعة، وفق تعاليم أهل البيت، هذه المبادئ توسُّعاً أشمل لفهم أنماط المعارضة في التاريخ الإسلامي، بما في ذلك معارضة الإمام علي وأهل البيت بعد وفاة النبي. ويستشهد الطباطبائي وعلماء الشيعة بأن الجماعات التي عارضت القيادة الإسلامية الشرعية، رغم تماسكها الظاهري، كانت تنخرها صراعات داخلية مدفوعة بطموحات شخصية ومصالح دنيوية. ويستخدم الفريقان هذه الآية لتعليم الضعف الكامن وراء قوَّة الأعداء الظاهرة وأهمية صون وحدة المسلمين."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:15:recent-example",
+          "title": "Recent Warning",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Like those shortly before them - referencing Quraysh at Badr who tasted consequences of their choices.",
+          "whyItMatters": "History repeats for those who don't learn. Recent examples should be the easiest lessons to absorb.",
+          "position": "topLeft",
+          "arabicHighlight": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا",
+          "title_urdu": "حالیہ تنبیہ",
+          "coreInsight_urdu": "ان سے تھوڑا پہلے والوں کی طرح۔",
+          "whyItMatters_urdu": "تاریخ ان لوگوں کے لیے دہرائی جاتی ہے جو سیکھتے نہیں۔",
+          "title_ar": "التحذير الأخير",
+          "coreInsight_ar": "كمثل الذين من قبلهم قريباً.",
+          "whyItMatters_ar": "التاريخ يتكرر لمن لا يتعلمون."
+        },
+        {
+          "id": "59:15:tasted-consequence",
+          "title": "Evil Consequences",
+          "icon": "mouth.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "They tasted the evil consequence (wabal) of their affair - experiencing directly the bitter results of opposing Allah.",
+          "whyItMatters": "Sins have natural consequences that you will taste. The question is whether you learn before or after experiencing them.",
+          "position": "topRight",
+          "arabicHighlight": "ذَاقُوا۟ وَبَالَ أَمْرِهِمْ",
+          "title_urdu": "برے نتائج",
+          "coreInsight_urdu": "انہوں نے اپنے معاملے کا برا نتیجہ چکھا۔",
+          "whyItMatters_urdu": "گناہوں کے فطری نتائج ہوتے ہیں جو آپ چکھیں گے۔",
+          "title_ar": "العواقب الوخيمة",
+          "coreInsight_ar": "ذاقوا وبال أمرهم.",
+          "whyItMatters_ar": "الخطايا لها عواقب طبيعية ستذوقها."
+        },
+        {
+          "id": "59:15:painful-punishment",
+          "title": "Eternal Pain",
+          "icon": "flame.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "They will have painful punishment (adhab alim) - worldly consequences are followed by eternal ones.",
+          "whyItMatters": "Temporary pain in this world should wake you up to avoid eternal pain in the next. Don't ignore the warnings.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+          "title_urdu": "ابدی درد",
+          "coreInsight_urdu": "ان کے لیے دردناک عذاب ہے۔",
+          "whyItMatters_urdu": "اس دنیا میں عارضی درد آپ کو اگلی دنیا میں ابدی درد سے بچانے کے لیے بیدار کرنا چاہیے۔",
+          "title_ar": "الألم الأبدي",
+          "coreInsight_ar": "ولهم عذاب أليم.",
+          "whyItMatters_ar": "الألم المؤقت في هذا العالم يجب أن ينبهك لتجنب الألم الأبدي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars generally agree on the interpretation of this verse: it compares the hypocrites and Banu Nadir to those who shortly before opposed the Prophet and suffered consequences, most likely the Quraysh at Badr. Both traditions emphasize that the verse teaches about accountability on two levels: worldly and eternal. Sunni exegetes like Ibn Kathir provide similar identifications of the historical reference and emphasize the warning function of the verse. Both traditions agree that the verse establishes a pattern: those who oppose prophets and divine guidance face both immediate consequences in this life and ultimate consequences in the Hereafter. There are no major interpretive differences on this particular verse. Both Shia and Sunni scholars use it to teach about learning from history, recognizing patterns of divine response to human choices, and understanding that justice operates across both this world and the next. The verse is relatively straightforward in its message, and both traditions apply its principles similarly: emphasizing the importance of heeding historical warnings, recognizing that opposition to divine truth leads to failure regardless of apparent strength, and understanding that worldly consequences are warnings pointing toward ultimate accountability in the Hereafter. Scholars from both schools use this verse when discussing divine justice in history and the importance of learning from the examples of previous peoples.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء عام طور پر اس آیت کی تفسیر پر متفق ہیں: یہ منافقین اور بنو نضیر کا ان سے پہلے نبی کی مخالفت کرنے والوں سے موازنہ کرتی ہے جو نتائج بھگت چکے ہیں، سب سے زیادہ ممکنہ طور پر بدر میں قریش۔ دونوں روایات اس بات پر زور دیتی ہیں کہ آیت دو سطحوں یعنی دنیاوی اور ابدی پر احتساب کے بارے میں سکھاتی ہے۔ ابن کثیر جیسے سنی مفسرین نے تاریخی حوالے کی اسی طرح کی شناخت اور تنبیہ کے کردار پر زور دیا ہے۔ دونوں روایات اس آیت کو تاریخ سے سیکھنے، الہٰی ردعمل کے نمونوں کو پہچاننے اور یہ سمجھنے کے بارے میں تعلیم دینے کے لیے استعمال کرتی ہیں کہ انصاف اس دنیا اور آخرت دونوں میں کام کرتا ہے۔ اس مخصوص آیت پر کوئی بڑا تفسیری اختلاف نہیں ہے۔ دونوں شیعہ اور سنی علماء اسے الہٰی انصاف کے تاریخی کردار اور عبرت لینے کی اہمیت کے بارے میں تعلیم دینے کے لیے استعمال کرتے ہیں، اور اس اصول پر زور دیتے ہیں کہ الہٰی سچائی کی مخالفت ظاہری طاقت سے قطع نظر ناکامی کا باعث بنتی ہے۔ آیت نسبتاً واضح اپنے پیغام میں ہے اور دونوں روایات اس کے اصولوں کو یکساں طور پر لاگو کرتی ہیں: تاریخی تنبیہوں سے سیکھنے کی اہمیت، یہ پہچاننا کہ الہٰی سچائی کی مخالفت دنیاوی اور ابدی نتائج کی طرف لے جاتی ہے، اور حتمی احتساب آخرت میں ہونے سے پہلے دنیاوی علامتوں اور تنبیہوں کو سمجھنا۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة عموماً على تفسير هذه الآية: إنها تُقارن المنافقين وبني النضير بمن عارضوا النبي قريباً وذاقوا العواقب، وأكثر المفسِّرين على أن المقصود قريش في بدر. ويُؤكِّد الفريقان أن الآية تُعلِّم مبدأ المساءلة على صعيدين: دنيوي وأخروي. ويستعرض ابن كثير في تفسيره السني تحديداً مماثلاً للمرجع التاريخي ويُؤكِّد وظيفة الآية التحذيرية. ويتَّفق الفريقان على أن الآية تُرسِّخ نمطاً: معارضة الأنبياء والهداية الإلهية تستتبع عواقب فورية في الدنيا وعواقب نهائية في الآخرة. ولا تُوجَد اختلافات تفسيرية جوهرية في هذه الآية بالذات، ويُوظِّفها علماء الفريقين توظيفاً متشابهاً: التأكيد على أهمية الاتِّعاظ بالتحذيرات التاريخية، وإدراك أن معارضة الحق تُفضي إلى الفشل مهما بدا الظاهر باهراً، وفهم أن العواقب الدنيوية محطَّات تحذيرية تُشير إلى الحساب الأخروي النهائي. وعلماء الفريقين يستشهدون بهذه الآية في سياق الحديث عن العدل الإلهي في التاريخ وأهمية الاستفادة من تجارب الأمم السابقة."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:16:satans-betrayal",
+          "title": "Satan's Betrayal",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Satan's deception follows a pattern - he encourages disbelief, then abandons his followers claiming fear of Allah, leaving them to face consequences alone.",
+          "whyItMatters": "This reveals the ultimate emptiness of following desires over divine guidance - those who mislead us will never share our burden on the Day of Judgment.",
+          "position": "topLeft",
+          "arabicHighlight": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ",
+          "title_urdu": "شیطان کی بے وفائی",
+          "coreInsight_urdu": "شیطان کی دھوکہ دہی ایک نمونے کی پیروی کرتی ہے - وہ کفر کی ترغیب دیتا ہے، پھر اللہ سے ڈر کا دعویٰ کرتے ہوئے اپنے پیروکاروں کو تنہا چھوڑ دیتا ہے۔",
+          "whyItMatters_urdu": "یہ خواہشات کی پیروی کرنے کی حتمی خالی پن کو ظاہر کرتا ہے - جو ہمیں گمراہ کرتے ہیں وہ قیامت کے دن ہمارا بوجھ کبھی نہیں بانٹیں گے۔",
+          "title_ar": "خيانة الشيطان",
+          "coreInsight_ar": "خداع الشيطان يتبع نمطاً - يشجع على الكفر، ثم يتخلى عن أتباعه مدعياً الخوف من الله، تاركاً إياهم لمواجهة العواقب وحدهم.",
+          "whyItMatters_ar": "هذا يكشف الفراغ النهائي لاتباع الرغبات على الهداية الإلهية - أولئك الذين يضللوننا لن يشاركونا عبئنا يوم القيامة."
+        },
+        {
+          "id": "59:16:hypocrites-example",
+          "title": "Hypocrites' Likeness",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The hypocrites who abandoned the Jews are compared to Satan - both promise support, then claim innocence when consequences arrive.",
+          "whyItMatters": "This teaches us to recognize false alliances and understand that those who encourage transgression will be the first to disown us when accountability comes.",
+          "position": "topRight",
+          "arabicHighlight": "فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ",
+          "title_urdu": "منافقوں کی مثال",
+          "coreInsight_urdu": "منافقین جنہوں نے یہودیوں کو چھوڑ دیا ان کا موازنہ شیطان سے کیا گیا ہے - دونوں حمایت کا وعدہ کرتے ہیں، پھر نتائج آنے پر بے گناہی کا دعویٰ کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ ہمیں جھوٹے اتحاد کو پہچاننا سکھاتا ہے اور سمجھنا کہ جو لوگ گناہ کی ترغیب دیتے ہیں وہ جوابدہی آنے پر سب سے پہلے ہمیں نکار دیں گے۔",
+          "title_ar": "مثل المنافقين",
+          "coreInsight_ar": "يقارن المنافقون الذين تخلوا عن اليهود بالشيطان - كلاهما يعد بالدعم، ثم يدعي البراءة عندما تأتي العواقب.",
+          "whyItMatters_ar": "هذا يعلمنا التعرف على التحالفات الزائفة وفهم أن أولئك الذين يشجعون على التعدي سيكونون أول من ينكرنا عندما تأتي المساءلة."
+        },
+        {
+          "id": "59:16:false-piety",
+          "title": "False Piety",
+          "icon": "theatermasks.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Satan claims 'I fear Allah, Lord of the worlds' after leading humanity astray - exposing how claims of piety can mask destructive intentions.",
+          "whyItMatters": "We must judge by actions, not eloquent religious claims, as true God-consciousness prevents us from harming others, not justifies it afterward.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+          "title_urdu": "جھوٹی پرہیزگاری",
+          "coreInsight_urdu": "شیطان انسانیت کو گمراہ کرنے کے بعد 'میں اللہ رب العالمین سے ڈرتا ہوں' کا دعویٰ کرتا ہے - ظاہر کرتا ہے کہ کیسے پرہیزگاری کے دعوے تباہ کن ارادوں کو چھپا سکتے ہیں۔",
+          "whyItMatters_urdu": "ہمیں اعمال سے فیصلہ کرنا چاہیے، نہ کہ فصیح مذہبی دعووں سے، کیونکہ حقیقی خدا کا شعور ہمیں دوسروں کو نقصان پہنچانے سے روکتا ہے، بعد میں اس کا جواز نہیں دیتا۔",
+          "title_ar": "التقوى الزائفة",
+          "coreInsight_ar": "يدعي الشيطان 'إني أخاف الله رب العالمين' بعد إضلال البشرية - كاشفاً كيف يمكن لادعاءات التقوى أن تخفي نوايا مدمرة.",
+          "whyItMatters_ar": "يجب أن نحكم بالأفعال، وليس بالادعاءات الدينية الفصيحة، لأن التقوى الحقيقية تمنعنا من إيذاء الآخرين، لا تبررها لاحقاً."
+        },
+        {
+          "id": "59:16:accountability",
+          "title": "Personal Accountability",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Each soul bears its own burden - the one who misled and the one who followed both face individual judgment, with no one to intercede.",
+          "whyItMatters": "This emphasizes personal responsibility in faith - we cannot blame others for our choices, making it crucial to verify guidance independently.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنِّى بَرِىٓءٌۭ مِّنكَ",
+          "title_urdu": "ذاتی جوابدہی",
+          "coreInsight_urdu": "ہر روح اپنا بوجھ خود اٹھاتی ہے - گمراہ کرنے والا اور پیروی کرنے والا دونوں انفرادی فیصلے کا سامنا کرتے ہیں، کوئی شفاعت کرنے والا نہیں۔",
+          "whyItMatters_urdu": "یہ ایمان میں ذاتی ذمہ داری پر زور دیتا ہے - ہم اپنے انتخاب کے لیے دوسروں کو الزام نہیں دے سکتے، اس لیے ہدایت کی آزادانہ تصدیق بہت ضروری ہے۔",
+          "title_ar": "المساءلة الشخصية",
+          "coreInsight_ar": "كل نفس تتحمل عبئها الخاص - المضلل والتابع كلاهما يواجهان حكماً فردياً، دون أحد للشفاعة.",
+          "whyItMatters_ar": "هذا يؤكد المسؤولية الشخصية في الإيمان - لا يمكننا إلقاء اللوم على الآخرين لخياراتنا، مما يجعل التحقق من الهداية بشكل مستقل أمراً بالغ الأهمية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree on the basic interpretation of this verse as a parable warning against hypocrisy and false alliances. Ibn Kathir, representing classical Sunni tafsir, emphasizes the same historical context regarding Banu Nadir and the Medinan hypocrites. Al-Qurtubi in his Jami li-Ahkam al-Quran similarly stresses the theme of betrayal and abandonment. The primary difference in approach lies in application and emphasis. Shia scholarship, drawing from Ahlul Bayt narrations, tends to emphasize the political dimensions of religious hypocrisy and the importance of genuine wilayah (guardianship and support) within the community structure. Sunni commentators like Al-Tabari focus more broadly on individual moral responsibility and the dangers of following charismatic but insincere leaders. Both traditions agree that Satan's claim to fear Allah while actively leading others astray represents the height of hypocrisy. Fakhr al-Din al-Razi in Mafatih al-Ghayb provides extensive philosophical analysis of how rational beings can be deceived, complementing Tabatabai's epistemological approach in Al-Mizan. The verse serves as common ground for both traditions to warn believers against political and religious manipulation, though Shia exegesis particularly connects it to the concept of following authentic religious authority through the Imams rather than self-appointed or politically motivated leaders.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں کہ یہ منافقت اور جھوٹے اتحاد کے خلاف ایک تمثیل ہے جو خبردار کرتی ہے۔ ابن کثیر جو کلاسیکی سنی تفسیر کی نمائندگی کرتے ہیں، ایک ہی تاریخی سیاق پر زور دیتے ہیں یعنی بنو نضیر اور مدینہ کے منافقین سے متعلق۔ قرطبی نے اپنی الجامع لاحکام القرآن میں خیانت اور ترک کے موضوع پر اسی طرح زور دیا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ اللہ سے ڈرنے کا شیطان کا اعلان کرتے ہوئے دوسروں کو گمراہ کرنا منافقت کی معراج ہے۔ اختلافات طریقہ تطبیق اور زور میں آتے ہیں۔ شیعہ علمیت اہلِ بیت کی روایات سے ڈرائنگ کرتے ہوئے، مذہبی منافقت کے سیاسی پہلوؤں اور برادری کی ساخت کے اندر حقیقی ولایت یعنی سرپرستی اور حمایت کی اہمیت پر زور دیتی ہے۔ سنی مفسرین جیسے طبری اور رازی انفرادی اخلاقی ذمہ داری اور غیر مخلص رہنماؤں کی پیروی کے خطرات پر زیادہ توجہ دیتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت اندھی تقلید کرنے والوں کو خبردار کرتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة اتفاقاً تاماً على التفسير الجوهري لهذه الآية بوصفها مَثَلاً يُحذِّر من النفاق والتحالفات الكاذبة. ويُبرز ابن كثير ممثِّلاً للتفسير السني الكلاسيكي السياقَ التاريخي ذاته المتعلِّق ببني النضير ومنافقي المدينة. ويُؤكِّد القرطبي في الجامع لأحكام القرآن موضوع الخيانة والتخلِّي في أصعب الأوقات. والفارق الرئيسي في المنهج يكمن في التطبيق والتوسُّع: فعلماء الشيعة استناداً إلى روايات أهل البيت عليهم السلام يُبرزون الأبعاد السياسية للنفاق الديني وأهمية الولاية الحقيقية داخل البنية الجماعية للأمة. في حين يُركِّز المفسِّرون السنة كالطبري على المسؤولية الأخلاقية الفردية ومخاطر الانقياد لأصحاب الكاريزما الفاقدين للإخلاص. ويتَّفق الفريقان على أن إبليس حين يزعم الخشية من الله بعد ما فعل إنما يُجسِّد ذروة النفاق. ويُقدِّم الفخر الرازي في مفاتيح الغيب تحليلاً فلسفياً معمَّقاً حول آليات انخداع العقل البشري، يُكمِّل المقاربة المعرفية التي يتبنَّاها الطباطبائي في الميزان. وتُمثِّل الآية أرضيةً مشتركة يُحذِّر منها الفريقان كلاهما من التلاعب الديني والسياسي، وإن كانت مصادر الشيعة تُوظِّفها بصفة خاصة في سياق الدعوة إلى اتِّباع السلطة الدينية الأصيلة متمثِّلةً في الأئمة من أهل البيت عليهم السلام."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:17:shared-punishment",
+          "title": "Shared Punishment",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Both the deceiver and the deceived share the same fate in the Fire, eternally - showing that following misguidance carries the same consequence as leading it.",
+          "whyItMatters": "This destroys the excuse of 'I was just following' - active participation in wrongdoing makes us equally accountable, regardless of who initiated it.",
+          "position": "topLeft",
+          "arabicHighlight": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا",
+          "title_urdu": "مشترکہ سزا",
+          "coreInsight_urdu": "دھوکہ دینے والا اور دھوکہ کھانے والا دونوں آگ میں ایک ہی انجام کا اشتراک کرتے ہیں، ہمیشہ کے لیے - ظاہر کرتا ہے کہ گمراہی کی پیروی اس کی قیادت کرنے کے برابر نتیجہ رکھتی ہے۔",
+          "whyItMatters_urdu": "یہ 'میں صرف پیروی کر رہا تھا' کے عذر کو تباہ کرتا ہے - غلط کام میں فعال شرکت ہمیں یکساں طور پر جوابدہ بناتی ہے، قطع نظر اس کے کہ اسے کس نے شروع کیا۔",
+          "title_ar": "العقاب المشترك",
+          "coreInsight_ar": "يشترك كل من الخادع والمخدوع في نفس المصير في النار، إلى الأبد - مما يظهر أن اتباع الضلال يحمل نفس عواقب قيادته.",
+          "whyItMatters_ar": "هذا يدمر عذر 'كنت أتبع فقط' - المشاركة الفعالة في الخطأ تجعلنا مسؤولين بالتساوي، بغض النظر عن من بدأها."
+        },
+        {
+          "id": "59:17:eternal-consequence",
+          "title": "Eternal Consequence",
+          "icon": "infinity",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'khalidayn' (eternally abiding) emphasizes permanence - temporary sins lead to permanent consequences without sincere repentance.",
+          "whyItMatters": "Understanding eternity should transform our daily choices, making us weigh momentary pleasures against endless implications.",
+          "position": "topRight",
+          "arabicHighlight": "خَٰلِدَيْنِ فِيهَا",
+          "title_urdu": "ابدی نتیجہ",
+          "coreInsight_urdu": "لفظ 'خالدین' (ہمیشہ رہنے والے) مستقل مزاجی پر زور دیتا ہے - عارضی گناہ سچی توبہ کے بغیر مستقل نتائج کا باعث بنتے ہیں۔",
+          "whyItMatters_urdu": "ابدیت کو سمجھنا ہمارے روزمرہ انتخاب کو تبدیل کر دینا چاہیے، ہمیں لمحاتی لذتوں کو لامتناہی مضمرات کے مقابلے میں تولنے پر مجبور کرنا چاہیے۔",
+          "title_ar": "العاقبة الأبدية",
+          "coreInsight_ar": "تؤكد كلمة 'خالدين' (خالدين إلى الأبد) على الدوام - الذنوب المؤقتة تؤدي إلى عواقب دائمة بدون توبة صادقة.",
+          "whyItMatters_ar": "فهم الأبدية يجب أن يحول خياراتنا اليومية، مما يجعلنا نوازن بين الملذات اللحظية والتداعيات اللانهائية."
+        },
+        {
+          "id": "59:17:wrongdoers-recompense",
+          "title": "Wrongdoers' Recompense",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse defines 'zalimeen' (wrongdoers) as those who transgress boundaries - including those who betray allies, spread hypocrisy, or follow corrupt leadership.",
+          "whyItMatters": "This expands our understanding of wrongdoing beyond obvious sins to include moral failures like betrayal, cowardice in supporting truth, and complicity in injustice.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+          "title_urdu": "ظالموں کا بدلہ",
+          "coreInsight_urdu": "آیت 'ظالمین' (ظالموں) کی تعریف ان لوگوں کے طور پر کرتی ہے جو حدود سے تجاوز کرتے ہیں - بشمول وہ جو اتحادیوں کو دھوکہ دیتے ہیں، نفاق پھیلاتے ہیں، یا بدعنوان قیادت کی پیروی کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ واضح گناہوں سے آگے بڑھ کر اخلاقی ناکامیوں جیسے خیانت، سچائی کی حمایت میں بزدلی، اور ظلم میں ملوث ہونے تک غلطی کی ہماری سمجھ کو وسیع کرتا ہے۔",
+          "title_ar": "جزاء الظالمين",
+          "coreInsight_ar": "تعرّف الآية 'الظالمين' بأنهم أولئك الذين يتجاوزون الحدود - بما في ذلك أولئك الذين يخونون الحلفاء، وينشرون النفاق، أو يتبعون قيادة فاسدة.",
+          "whyItMatters_ar": "هذا يوسع فهمنا للظلم إلى ما هو أبعد من الذنوب الواضحة ليشمل الإخفاقات الأخلاقية مثل الخيانة، والجبن في دعم الحق، والتواطؤ في الظلم."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni exegesis converge strongly on this verse's message of shared accountability and eternal consequence for wrongdoing. Ibn Kathir emphasizes that both the caller to evil and the one who responds bear punishment, citing similar Quranic passages. Al-Qurtubi discusses the legal and theological implications of shared responsibility in sin. Al-Tabari provides extensive hadith regarding the mutual recriminations between leaders and followers in the Hereafter. The traditions agree that human free will and responsibility remain intact even when influenced by others. Where the traditions differ somewhat is in emphasis: Sunni commentators often focus on individual moral agency and the importance of following scholarly consensus (ijma), while Shia scholars emphasize the necessity of following divinely appointed guidance through the Prophet and his Ahlul Bayt to avoid the fate of those who follow unauthorized religious authorities. Fakhr al-Din al-Razi's philosophical analysis in Mafatih al-Ghayb regarding human volition and divine justice complements Tabatabai's theological exposition. Both traditions use this verse to warn against blind following (taqlid of the unqualified in Shia terminology, or following innovation in Sunni terms) and emphasize that sincere seeking of truth, genuine repentance, and following authentic guidance are the means to avoid this shared fate of wrongdoers.",
+    "layer4_urdu": "شیعہ اور سنی تفاسیر اس آیت کے پیغام پر مضبوطی سے متحد ہیں کہ دھوکہ دہی اور ابدی انجام پر مشترکہ احتساب ہے۔ ابن کثیر اس بات پر زور دیتا ہے کہ برائی کی طرف بلانے والے اور جواب دینے والے دونوں سزا بھگتتے ہیں اور اسی طرح کی قرآنی عبارات نقل کرتا ہے۔ قرطبی الجامع لاحکام القرآن میں مشترکہ ذمہ داری میں گناہ کے قانونی اور عقیدی مضمرات پر بحث کرتا ہے۔ طبری قیامت کے دن قائدین اور پیروکاروں کے درمیان باہمی لعنت و ملامت کے بارے میں ابتدائی اسلامی حدیث کی بڑی مقدار پیش کرتا ہے۔ تمام روایات اس بات پر متفق ہیں کہ انسانی آزاد مرضی اور ذمہ داری دوسروں کے اثر کے باوجود برقرار رہتی ہے۔ جہاں روایات میں کچھ فرق ہے وہ زور کا فرق ہے: سنی مفسرین اکثر انفرادی اخلاقی حمیت اور اہل علماء کی اتفاقی رائے کی پیروی کی اہمیت پر توجہ دیتے ہیں جبکہ شیعہ علماء نبی اور اہلِ بیت کے ذریعے الہٰی طور پر مقرر رہنمائی کی پیروی کی ضرورت پر زور دیتے ہیں تاکہ نامعتبر مذہبی اتھارٹیز کی پیروی سے بچا جا سکے۔ رازی نے مافاتیح الغیب میں انسانی ارادے اور الہٰی انصاف کے بارے میں فلسفیانہ تجزیہ پیش کیا ہے جو المیزان میں طباطبائی کی علمِ الہٰی گفتگو کو مکمل کرتا ہے۔",
+    "layer4_ar": "يتلاقى تفسير الشيعة والسنة تلاقياً وثيقاً على رسالة هذه الآية المتعلِّقة بالمحاسبة المشتركة والعاقبة الأبدية للظالمين. ويُؤكِّد ابن كثير أن المُحرِّض على الشر والمُستجيب له يحملان الوزر معاً، مستشهداً بآيات قرآنية مشابهة. ويناقش القرطبي التبعات الشرعية والعقدية للمسؤولية المشتركة في الإثم. ويُورد الطبري روايات مستفيضة حول التلاوم المتبادل بين القادة والأتباع في الدار الآخرة. والتقليدان متَّفقان على أن الإرادة الإنسانية الحرة والمسؤولية الفردية تبقيان قائمتين حتى في ظل تأثير الغير. وما يتمايز فيه التقليدان أحياناً هو نقطة التأكيد: فعلماء السنة يُبرزون الفاعلية الأخلاقية الفردية وأهمية اتِّباع الإجماع العلمي، في حين يُؤكِّد علماء الشيعة ضرورة الاقتداء بالهداية الإلهية المنصوص عليها المتمثِّلة في النبي وأهل بيته عليهم السلام توقِّياً من مصير أولئك الذين يتَّبعون من لا سلطان له من الله. ويُقدِّم الفخر الرازي في مفاتيح الغيب تحليلاً فلسفياً معمَّقاً في مسألة الإرادة الإنسانية والعدل الإلهي يُكمِّل العرض اللاهوتي للطباطبائي. ويتَّفق الفريقان على أن الآية تُحذِّر من التقليد الأعمى وتُؤكِّد أن الإخلاص في طلب الحق والتوبة الصادقة واتِّباع الهداية الأصيلة هي السبيل الوحيد للنجاة من هذا المصير المشترك."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:18:divine-call",
+          "title": "O Believers",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The shift from warning hypocrites to addressing 'O you who believe' shows Allah's mercy - calling believers back to consciousness after exposing the fate of the misguided.",
+          "whyItMatters": "This divine address is both an honor and a responsibility - we're given guidance not available to those who rejected faith, making our accountability greater.",
+          "position": "topLeft",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "اے مومنو",
+          "coreInsight_urdu": "منافقوں کو خبردار کرنے سے 'اے ایمان والو' کو مخاطب کرنے کی تبدیلی اللہ کی رحمت کو ظاہر کرتی ہے - گمراہوں کے انجام کو بے نقاب کرنے کے بعد مومنوں کو شعور کی طرف واپس بلانا۔",
+          "whyItMatters_urdu": "یہ الہی خطاب ایک اعزاز اور ذمہ داری دونوں ہے - ہمیں ایسی ہدایت دی گئی ہے جو ایمان کو رد کرنے والوں کو دستیاب نہیں، ہماری جوابدہی زیادہ ہے۔",
+          "title_ar": "يا أيها المؤمنون",
+          "coreInsight_ar": "يظهر التحول من تحذير المنافقين إلى مخاطبة 'يا أيها الذين آمنوا' رحمة الله - استدعاء المؤمنين إلى الوعي بعد كشف مصير الضالين.",
+          "whyItMatters_ar": "هذا الخطاب الإلهي شرف ومسؤولية - نحن نُعطى هداية غير متاحة لأولئك الذين رفضوا الإيمان، مما يجعل مساءلتنا أكبر."
+        },
+        {
+          "id": "59:18:taqwa-consciousness",
+          "title": "Fear Allah",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Taqwa (consciousness of Allah) is mentioned twice in one verse - at the beginning and end - bracketing the command to prepare for tomorrow, showing it's both motivation and outcome of good deeds.",
+          "whyItMatters": "True God-consciousness isn't passive fear but active awareness that drives preparation for the Hereafter while protecting us from heedlessness in daily life.",
+          "position": "topRight",
+          "arabicHighlight": "ٱتَّقُوا۟ ٱللَّهَ",
+          "title_urdu": "اللہ سے ڈرو",
+          "coreInsight_urdu": "تقویٰ (اللہ کا شعور) ایک آیت میں دو بار ذکر کیا گیا ہے - شروع اور آخر میں - کل کے لیے تیاری کے حکم کو گھیرے ہوئے، ظاہر کرتا ہے کہ یہ نیک اعمال کا محرک اور نتیجہ دونوں ہے۔",
+          "whyItMatters_urdu": "حقیقی خدا شعوری غیر فعال خوف نہیں بلکہ فعال آگاہی ہے جو آخرت کی تیاری کی رفتار بڑھاتی ہے جبکہ ہماری روزمرہ زندگی میں غفلت سے ہماری حفاظت کرتی ہے۔",
+          "title_ar": "اتقوا الله",
+          "coreInsight_ar": "ذُكرت التقوى (الوعي بالله) مرتين في آية واحدة - في البداية والنهاية - تحيط بالأمر بالاستعداد للغد، مما يظهر أنها الدافع والنتيجة للأعمال الصالحة.",
+          "whyItMatters_ar": "التقوى الحقيقية ليست خوفاً سلبياً بل وعياً نشطاً يدفع الاستعداد للآخرة بينما يحمينا من الغفلة في الحياة اليومية."
+        },
+        {
+          "id": "59:18:prepare-tomorrow",
+          "title": "Prepare for Tomorrow",
+          "icon": "calendar",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Tomorrow' (ghad) refers to the Day of Judgment - each soul must examine what it has sent forward in deeds, intentions, and spiritual investments.",
+          "whyItMatters": "This transforms how we view time - every day is preparation for eternity, making our daily choices deposits in an account we'll access in the Hereafter.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلْتَنظُرْ نَفْسٌۭ مَّا قَدَّمَتْ لِغَدٍۢ",
+          "title_urdu": "کل کے لیے تیاری",
+          "coreInsight_urdu": "'کل' (غد) قیامت کے دن کی طرف اشارہ کرتا ہے - ہر روح کو جانچنا چاہیے کہ اس نے اعمال، نیتوں، اور روحانی سرمایہ کاری میں کیا آگے بھیجا ہے۔",
+          "whyItMatters_urdu": "یہ وقت کے بارے میں ہمارے نظریے کو بدل دیتا ہے - ہر دن ابدیت کی تیاری ہے، ہمارے روزمرہ انتخاب ایک ایسے کھاتے میں جمع ہیں جو ہم آخرت میں استعمال کریں گے۔",
+          "title_ar": "الاستعداد للغد",
+          "coreInsight_ar": "'الغد' يشير إلى يوم القيامة - يجب على كل نفس أن تفحص ما قدمته من أعمال ونوايا واستثمارات روحية.",
+          "whyItMatters_ar": "هذا يحول كيف ننظر إلى الوقت - كل يوم إعداد للأبدية، مما يجعل خياراتنا اليومية ودائع في حساب سنصل إليه في الآخرة."
+        },
+        {
+          "id": "59:18:allah-knows",
+          "title": "Allah is Acquainted",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse ends with 'Allah is Acquainted (khabeer) with what you do' - His knowledge encompasses not just actions but their context, intentions, and hidden motivations.",
+          "whyItMatters": "This brings comfort and warning - comfort that Allah sees our sincere struggles, warning that nothing escapes His awareness, making self-deception futile.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+          "title_urdu": "اللہ جانتا ہے",
+          "coreInsight_urdu": "آیت 'اللہ جانتا ہے (خبیر) جو تم کرتے ہو' کے ساتھ ختم ہوتی ہے - اس کا علم نہ صرف اعمال بلکہ ان کے سیاق و سباق، نیتوں اور پوشیدہ محرکات کو شامل ہے۔",
+          "whyItMatters_urdu": "یہ سکون اور انتباہ دونوں لاتا ہے - سکون کہ اللہ ہماری مخلصانہ جدوجہد دیکھتا ہے، انتباہ کہ کچھ بھی اس کی آگاہی سے نہیں بچتا، خود فریبی کو بیکار بناتا ہے۔",
+          "title_ar": "الله خبير",
+          "coreInsight_ar": "تنتهي الآية بـ 'إن الله خبير بما تعملون' - علمه تشمل ليس فقط الأعمال بل سياقها ونواياها ودوافعها الخفية.",
+          "whyItMatters_ar": "هذا يجلب الراحة والتحذير - راحة أن الله يرى كفاحنا الصادق، تحذير أن لا شيء يفلت من وعيه، مما يجعل خداع الذات عبثاً."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly emphasize self-accountability (muhasabah) based on this verse. Ibn Kathir cites similar hadith about examining oneself before being examined by Allah. Al-Qurtubi extensively discusses the legal and spiritual implications of preparing for the Hereafter through righteous deeds. Umar ibn al-Khattab, the second caliph, is famously reported in Sunni sources to have said, 'Call yourselves to account before you are called to account,' echoing Imam Ali's statement in Shia sources. The spiritual practice of muhasabah is detailed in works by both traditions, including al-Ghazali's Ihya Ulum al-Din (Sunni) and the writings of Shia scholars on ethical self-development. Where traditions differ is sometimes in emphasis: Shia spirituality particularly stresses the role of the Imams as models and guides in self-development, while Sunni approaches often emphasize following the Prophet's example through scholarly consensus. Al-Tabari's tafsir provides numerous traditions about the Companions practicing self-accountability, while Tabatabai in Al-Mizan connects this verse to the broader Quranic theme of human responsibility and the Day of Reckoning. Both traditions agree that genuine faith produces self-examination and continuous effort toward improvement, not complacency or presumption of salvation. The verse serves as common ground for spiritual traditions across Islam emphasizing mindfulness, intentionality, and preparation for eternal life through conscious daily practice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات نے اس آیت پر مبنی خود احتساب یعنی محاسبہ پر بہت زور دیا ہے۔ ابن کثیر نے اللہ کے ہاتھوں حساب سے پہلے خود کا حساب کرنے کے بارے میں اسی طرح کی احادیث نقل کی ہیں۔ قرطبی نے آخرت کے لیے نیک اعمال کی تیاری کے قانونی اور روحانی مضمرات پر گفتگو کی ہے۔ سنی ذرائع میں دوسرے خلیفہ عمر بن خطاب کا مشہور قول ہے: 'اپنا حساب خود کرو اس سے پہلے کہ تم سے حساب لیا جائے' جو شیعہ ذرائع میں امام علی کے اسی قول کا عکس ہے۔ محاسبہ کی روحانی مشق اسلامی اخلاقی ادب میں دونوں روایات میں تفصیل سے بیان ہوئی ہے۔ جہاں روایات کبھی کبھی مختلف ہوتی ہیں وہ زور کی بجائے طریقہ ہے: شیعہ روحانیت خاص طور پر ائمہ کے کردار کو زندہ یاددہانی اور رہنما کے طور پر اجاگر کرتی ہے جو مومنوں کو اللہ سے اور مستند ذات سے منسلک رکھتے ہیں جبکہ سنی روایت صالح اسلافی برادری کے اندر سنت نبوی کی پیروی اور علمائی مشاورت پر زور دیتی ہے۔ طبری کی تفسیر خود احتساب کی مشق کرنے والے صحابہ کی روایات پیش کرتی ہے جبکہ طباطبائی المیزان میں اس آیت کو قرآنی موضوع انسانی ذمہ داری اور قیامت کے دن کے ساتھ جوڑتے ہیں۔",
+    "layer4_ar": "يُجمِع تراث الشيعة والسنة على أهمية المحاسبة استناداً إلى هذه الآية الكريمة. ويُورد ابن كثير أحاديث مماثلة تدعو إلى محاسبة النفس قبل محاسبة الله. ويناقش القرطبي التبعات الشرعية والروحية للتهيُّؤ للآخرة بالأعمال الصالحة. وقد نُسب إلى عمر بن الخطاب في المصادر السنية قوله المشهور: «حاسبوا أنفسكم قبل أن تُحاسَبوا»، وهو يتوافق مع ما أثر عن الإمام علي عليه السلام في المصادر الشيعية. وممارسة المحاسبة موثَّقة تفصيلاً في كلا التراثين؛ فثمة أدبياتٌ وافرة في المصدرين تتناولها، كإحياء علوم الدين للغزالي من الجانب السني وكتب الأخلاق عند علماء الشيعة. وما يتمايز فيه التقليدان أحياناً هو نقطة الارتكاز: فالروحانية الشيعية تُبرز بصفة خاصة دور الأئمة بوصفهم نماذج وأدلَّاء في مسيرة التزكية والتطوُّر الذاتي، بينما يُركِّز المنهج السني على الاقتداء بهَدي النبي صلى الله عليه وسلم من خلال الإجماع العلمي وسنَّة السلف. ويتَّفق الفريقان على أن الإيمان الصادق يُنتِج المراجعة الذاتية والسعي الدؤوب نحو التحسُّن لا الاتِّكاء وادِّعاء النجاة. وتُعدُّ الآية أرضاً مشتركةً للتقاليد الروحية عبر عالم الإسلام في الدعوة إلى اليقظة والتعمُّد والتهيُّؤ للحياة الخالدة بإعمار الحياة الدنيا بالوعي الروحي والعمل الصالح."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:19:forgetting-allah",
+          "title": "Forgetting Allah",
+          "icon": "brain.head.profile",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who forget Allah are made to forget themselves - showing that self-knowledge and purpose are impossible without divine consciousness.",
+          "whyItMatters": "This explains modern existential crisis - when society forgets God, people lose understanding of their own nature, purpose, and moral compass.",
+          "position": "topLeft",
+          "arabicHighlight": "نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ",
+          "title_urdu": "اللہ کو بھولنا",
+          "coreInsight_urdu": "جو لوگ اللہ کو بھول جاتے ہیں انہیں خود کو بھلا دیا جاتا ہے - ظاہر کرتا ہے کہ خود شناسی اور مقصد الہی شعور کے بغیر ناممکن ہے۔",
+          "whyItMatters_urdu": "یہ جدید وجودی بحران کی وضاحت کرتا ہے - جب معاشرہ خدا کو بھول جاتا ہے، لوگ اپنی فطرت، مقصد، اور اخلاقی قطب نما کی سمجھ کھو دیتے ہیں۔",
+          "title_ar": "نسيان الله",
+          "coreInsight_ar": "أولئك الذين ينسون الله يُنسون أنفسهم - مما يظهر أن معرفة الذات والهدف مستحيلة بدون الوعي الإلهي.",
+          "whyItMatters_ar": "هذا يفسر الأزمة الوجودية الحديثة - عندما ينسى المجتمع الله، يفقد الناس فهم طبيعتهم وهدفهم وبوصلتهم الأخلاقية."
+        },
+        {
+          "id": "59:19:self-loss",
+          "title": "Losing Oneself",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Forgetting oneself means losing awareness of spiritual accountability, true purpose, and the Hereafter - becoming enslaved to temporary desires.",
+          "whyItMatters": "This verse warns that spiritual amnesia leads to practical self-destruction - chasing pleasures without understanding their eternal cost.",
+          "position": "topRight",
+          "arabicHighlight": "فَأَنسَىٰهُمْ أَنفُسَهُمْ",
+          "title_urdu": "خود کو کھونا",
+          "coreInsight_urdu": "خود کو بھولنے کا مطلب روحانی جوابدہی، حقیقی مقصد، اور آخرت کی آگاہی کھونا ہے - عارضی خواہشات کے غلام بن جانا۔",
+          "whyItMatters_urdu": "یہ آیت خبردار کرتی ہے کہ روحانی یاداشت کی کمی عملی خود تباہی کی طرف لے جاتی ہے - لذتوں کا پیچھا کرنا بغیر ان کی ابدی قیمت کو سمجھے۔",
+          "title_ar": "فقدان الذات",
+          "coreInsight_ar": "نسيان النفس يعني فقدان الوعي بالمساءلة الروحية والهدف الحقيقي والآخرة - الاستعباد للرغبات المؤقتة.",
+          "whyItMatters_ar": "هذه الآية تحذر من أن النسيان الروحي يؤدي إلى التدمير الذاتي العملي - مطاردة الملذات دون فهم تكلفتها الأبدية."
+        },
+        {
+          "id": "59:19:divine-causation",
+          "title": "Divine Consequence",
+          "icon": "arrow.right.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse uses 'fa' (then/so) - Allah actively causes forgetfulness of self as a natural consequence of forgetting Him, not arbitrary punishment.",
+          "whyItMatters": "This reveals divine justice - consequences flow naturally from our choices, as disconnecting from our Creator inevitably disconnects us from our created purpose.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَأَنسَىٰهُمْ",
+          "title_urdu": "الہی نتیجہ",
+          "coreInsight_urdu": "آیت 'فَ' (پھر/تو) استعمال کرتی ہے - اللہ فعال طور پر خود کو بھولنے کا باعث بنتا ہے اسے بھولنے کے قدرتی نتیجے کے طور پر، نہ کہ من مانی سزا۔",
+          "whyItMatters_urdu": "یہ الہی انصاف کو ظاہر کرتا ہے - نتائج فطری طور پر ہمارے انتخاب سے بہتے ہیں، کیونکہ اپنے خالق سے منقطع ہونا لازمی طور پر ہمیں اپنے تخلیق شدہ مقصد سے منقطع کرتا ہے۔",
+          "title_ar": "العاقبة الإلهية",
+          "coreInsight_ar": "تستخدم الآية 'ف' (ثم/لذا) - الله يسبب فعلياً نسيان الذات كعاقبة طبيعية لنسيانه، وليس عقوبة تعسفية.",
+          "whyItMatters_ar": "هذا يكشف العدالة الإلهية - تتدفق العواقب بشكل طبيعي من خياراتنا، لأن الانفصال عن خالقنا ينفصل حتماً عن هدفنا المخلوق."
+        },
+        {
+          "id": "59:19:the-disobedient",
+          "title": "The Disobedient",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Fasiqoon' (defiantly disobedient) describes those who break out of divine boundaries - the verse connects forgetting Allah with active rebellion, not passive neglect.",
+          "whyItMatters": "Heedlessness of Allah isn't neutral - it's categorized as active defiance, showing that ignoring God is itself a rebellious stance with serious consequences.",
+          "position": "bottomRight",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+          "title_urdu": "نافرمان",
+          "coreInsight_urdu": "'فاسقون' (سرکش نافرمان) ان لوگوں کی وضاحت کرتا ہے جو الہی حدود سے باہر نکلتے ہیں - آیت اللہ کو بھولنے کو فعال بغاوت سے جوڑتی ہے، غیر فعال غفلت سے نہیں۔",
+          "whyItMatters_urdu": "اللہ کی غفلت غیر جانبدار نہیں ہے - اسے فعال مزاحمت کے طور پر درجہ بندی کیا گیا ہے، ظاہر کرتا ہے کہ خدا کو نظر انداز کرنا خود ایک بغاوت آمیز موقف ہے جس کے سنگین نتائج ہیں۔",
+          "title_ar": "الفاسقون",
+          "coreInsight_ar": "'الفاسقون' (العصاة المتمردون) تصف أولئك الذين يخرجون عن الحدود الإلهية - تربط الآية نسيان الله بالتمرد النشط، وليس الإهمال السلبي.",
+          "whyItMatters_ar": "الغفلة عن الله ليست محايدة - بل تصنف كتحدٍ نشط، مما يظهر أن تجاهل الله هو موقف متمرد بحد ذاته مع عواقب وخيمة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize the spiritual and psychological dimensions of this verse. Ibn Kathir explains that those who forget Allah in this life will find themselves forgotten by divine mercy in the Hereafter, interpreting the self-forgetfulness as a consequence of divine abandonment due to human negligence. Al-Qurtubi discusses the relationship between dhikr (remembrance) and spiritual health extensively. Al-Ghazali in Ihya Ulum al-Din (a Sunni classical text) dedicates significant discussion to the psychology of forgetfulness and remembrance, analyzing how neglecting Allah leads to spiritual diseases and self-alienation. Al-Tabari provides various interpretations from early scholars about what it means to forget oneself: forgetting one's accountability, forgetting one's purpose, or forgetting to prepare for the Hereafter. Where Shia and Sunni approaches sometimes differ is in their understanding of how remembrance is maintained: Shia theology emphasizes the role of the Imams as living reminders and guides who keep believers connected to Allah and authentic selfhood, while Sunni tradition emphasizes following the Prophet's example through scholarly interpretation and community practice. Tabatabai in Al-Mizan provides epistemological analysis of how knowledge of Allah and self-knowledge are interconnected, complementing Fakhr al-Din al-Razi's philosophical exploration in Mafatih al-Ghayb. Both traditions agree that consistent dhikr, prayer, Quranic engagement, and righteous action are essential to maintaining consciousness of Allah and thereby maintaining healthy self-awareness and purposeful living.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء نے اس آیت کے روحانی اور نفسیاتی پہلوؤں پر زور دیا ہے۔ ابن کثیر نے بیان کیا کہ جو لوگ اس دنیا میں اللہ کو بھلاتے ہیں وہ آخرت میں الہٰی رحمت کو بھلا پائیں گے، یعنی نسیان دنیاوی غفلت کی بدولت کے نتیجے کے طور پر۔ قرطبی نے ذکر یعنی یاد اور روحانی صحت کے درمیان رشتے پر گہری گفتگو کی ہے۔ غزالی نے احیاء علوم الدین میں جو سنی کلاسیکی کتاب ہے بھلانے اور یاد کرنے کی نفسیات کا تجزیہ کیا ہے اور بیان کیا ہے کہ اللہ کو نظرانداز کرنا کس طرح روحانی بیماریوں اور خود اجنبیت کا باعث بنتا ہے۔ طبری نے ابتدائی علماء کی مختلف آراء نقل کی ہیں کہ خود کو بھلانے کا مطلب کیا ہے: احتساب کو بھلانا، مقصد کو بھلانا، یا آخرت کے لیے تیاری کو بھلانا۔ جہاں شیعہ اور سنی طریقوں میں کبھی کبھی فرق ہوتا ہے وہ ذکر کو کس طرح برقرار رکھا جائے اس میں ہے: شیعہ الہیات نے ائمہ کے کردار کو زندہ یاددہانی اور رہنما کے طور پر اجاگر کیا ہے جو مومنوں کو اللہ اور اصیل ذات سے منسلک رکھتے ہیں جبکہ سنی روایت صالح اسلاف کی پیروی کرتے ہوئے سنت نبوی کی پیروی اور برادری مشق پر زور دیتی ہے۔ طباطبائی المیزان میں اس آیت کے معرفتِ الہٰی اور خود آگاہی کے باہمی انحصار کا معرفتی تجزیہ پیش کرتے ہیں اور رازی کی فلسفیانہ گفتگو مافاتیح الغیب میں اس کا تکمیل کرتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على الأبعاد الروحية والنفسية لهذه الآية. ويُفسِّر ابن كثير نسيان الله في الدنيا بأنه يُفضي إلى أن ينسى العبد الرحمةَ الإلهية في الآخرة، مُفسِّراً نسيان الذات على أنه نتيجة لتخلِّي الله عن توفيق الغافل جزاءً لإهماله. ويتناول القرطبي العلاقة بين الذكر والصحة الروحية بإسهاب. وقد خصَّص الغزالي في إحياء علوم الدين من المصادر السنية مباحث مستفيضة لعلم النفس في نسيان الله وذكره، محلِّلاً كيف يُفضي إهمال الله إلى الأمراض الروحية والاغتراب عن الذات. ويُورد الطبري تفسيرات متعدِّدة من العلماء الأوائل لمعنى نسيان النفس: نسيان المحاسبة، أو نسيان الغاية، أو نسيان التهيُّؤ للآخرة. وما يختلف فيه التقليدان أحياناً هو طريقة صون الذكر وديمومته: فاللاهوت الشيعي يُبرز دور الأئمة كمُذكِّرين أحياء وأدلَّاء يصلون المؤمن بالله وبحقيقة ذاته، في حين يُؤكِّد التقليد السني الاقتداء بالنبي صلى الله عليه وسلم من خلال التفسير العلمي والممارسة الجماعية. ويُقدِّم الطباطبائي في الميزان تحليلاً معرفياً لترابط معرفة الله ومعرفة النفس يُكمِّل التأمُّل الفلسفي الذي يُقدِّمه الفخر الرازي في مفاتيح الغيب. ويتَّفق الفريقان على أن الذكر الدائم والصلاة وتلاوة القرآن والعمل الصالح المستمر ضروريات لصون حضور الله في الوعي، وبذلك يصون الإنسان وعيه السليم بذاته ويحيا حياةً هادفة."
+  },
+  "20": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:20:two-groups",
+          "title": "Ultimate Division",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "All humanity divides into two camps - companions of the Fire and companions of Paradise - showing that neutrality is impossible in the eternal realm.",
+          "whyItMatters": "This verse destroys the illusion of a 'middle ground' - our choices in this life are actively positioning us toward one of two eternal destinations.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ",
+          "title_urdu": "حتمی تقسیم",
+          "coreInsight_urdu": "تمام انسانیت دو کیمپوں میں تقسیم ہو جاتی ہے - آگ کے ساتھی اور جنت کے ساتھی - ظاہر کرتا ہے کہ ابدی دائرے میں غیر جانبداری ناممکن ہے۔",
+          "whyItMatters_urdu": "یہ آیت 'درمیانی راستے' کے وہم کو تباہ کرتی ہے - اس زندگی میں ہمارے انتخاب فعال طور پر ہمیں دو ابدی منزلوں میں سے ایک کی طرف پوزیشن دے رہے ہیں۔",
+          "title_ar": "الانقسام النهائي",
+          "coreInsight_ar": "تنقسم البشرية جمعاء إلى معسكرين - أصحاب النار وأصحاب الجنة - مما يظهر أن الحياد مستحيل في المجال الأبدي.",
+          "whyItMatters_ar": "هذه الآية تدمر وهم 'الأرضية الوسطى' - خياراتنا في هذه الحياة تضعنا بنشاط نحو إحدى وجهتين أبديتين."
+        },
+        {
+          "id": "59:20:not-equal",
+          "title": "Not Equal",
+          "icon": "equal.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'La yastawee' (not equal) emphasizes absolute distinction - no similarity in status, comfort, or outcome between the two groups exists.",
+          "whyItMatters": "This refutes relativism - Paradise and Hellfire aren't just different experiences but fundamentally opposite realities with no common ground.",
+          "position": "topRight",
+          "arabicHighlight": "لَا يَسْتَوِىٓ",
+          "title_urdu": "برابر نہیں",
+          "coreInsight_urdu": "'لا یستوی' (برابر نہیں) مطلق امتیاز پر زور دیتا ہے - دونوں گروہوں کے درمیان حیثیت، آرام، یا نتیجے میں کوئی مماثلت موجود نہیں۔",
+          "whyItMatters_urdu": "یہ رشتہ داری کو رد کرتا ہے - جنت اور جہنم صرف مختلف تجربات نہیں بلکہ بنیادی طور پر مخالف حقیقتیں ہیں جن میں کوئی مشترک بنیاد نہیں۔",
+          "title_ar": "لا يستوون",
+          "coreInsight_ar": "'لا يستوي' (لا يتساوون) يؤكد التمييز المطلق - لا يوجد تشابه في المكانة أو الراحة أو النتيجة بين المجموعتين.",
+          "whyItMatters_ar": "هذا يدحض النسبية - الجنة والنار ليست مجرد تجارب مختلفة بل واقعان متعارضان أساساً بدون أرضية مشتركة."
+        },
+        {
+          "id": "59:20:companions",
+          "title": "Companions",
+          "icon": "person.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ashab' (companions) implies permanent association - we become inseparable from our destination, united with similar souls in eternity.",
+          "whyItMatters": "Our eternal companions are being chosen now through our values and actions - we'll spend forever with those who share our spiritual choices.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَصْحَٰبُ",
+          "title_urdu": "ساتھی",
+          "coreInsight_urdu": "'اصحاب' (ساتھی) مستقل وابستگی کی نشاندہی کرتا ہے - ہم اپنی منزل سے جدا نہیں ہو سکتے، ابدیت میں ملتے جلتے روحوں کے ساتھ متحد۔",
+          "whyItMatters_urdu": "ہمارے ابدی ساتھیوں کا انتخاب اب ہماری اقدار اور اعمال کے ذریعے کیا جا رہا ہے - ہم ہمیشہ کے لیے ان لوگوں کے ساتھ گزاریں گے جو ہماری روحانی پسند کا اشتراک کرتے ہیں۔",
+          "title_ar": "الأصحاب",
+          "coreInsight_ar": "'أصحاب' (رفقاء) تعني الارتباط الدائم - نصبح لا ينفصلون عن وجهتنا، متحدين مع أرواح مماثلة في الأبدية.",
+          "whyItMatters_ar": "رفقاؤنا الأبديون يتم اختيارهم الآن من خلال قيمنا وأفعالنا - سنقضي الأبد مع أولئك الذين يشاركوننا خياراتنا الروحية."
+        },
+        {
+          "id": "59:20:true-success",
+          "title": "True Success",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-fa'izoon' (the successful/winners) defines ultimate success not as worldly achievement but Paradise - redefining our metrics of victory.",
+          "whyItMatters": "This verse recalibrates our definition of success - career, wealth, fame mean nothing if they don't lead to Paradise, while humble piety is supreme victory.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+          "title_urdu": "حقیقی کامیابی",
+          "coreInsight_urdu": "'الفائزون' (کامیاب/فاتح) حتمی کامیابی کی تعریف دنیاوی کامیابی کے طور پر نہیں بلکہ جنت کے طور پر کرتا ہے - ہماری فتح کی پیمائش کو دوبارہ بیان کرتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت کامیابی کی ہماری تعریف کو دوبارہ ترتیب دیتی ہے - کیریئر، دولت، شہرت کچھ معنی نہیں رکھتی اگر وہ جنت کی طرف نہ لے جائیں، جبکہ عاجزانہ پرہیزگاری اعلیٰ فتح ہے۔",
+          "title_ar": "النجاح الحقيقي",
+          "coreInsight_ar": "'الفائزون' (الناجحون/الفائزون) يعرّف النجاح النهائي ليس كإنجاز دنيوي بل الجنة - إعادة تعريف مقاييس نصرنا.",
+          "whyItMatters_ar": "هذه الآية تعيد معايرة تعريفنا للنجاح - المهنة والثروة والشهرة لا تعني شيئاً إذا لم تؤد إلى الجنة، بينما التقوى المتواضعة هي النصر الأسمى."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously affirm this verse's central message: eternal destinations are not equal, and only Paradise represents ultimate success. Ibn Kathir emphasizes that the vast difference between the two groups should motivate believers toward righteousness and away from sin. Al-Qurtubi discusses the incomparability of eternal pleasure versus eternal punishment. Al-Tabari provides extensive traditions about the descriptions of Paradise and Hell, emphasizing their radical difference. The concept of falah (success) in Islamic theology is universally understood across traditions as achieving Paradise through faith and righteous deeds. Where traditions may differ is in specific theological details about salvation: questions about intercession, the status of sinful believers, and the role of faith versus works in achieving success. Shia theology particularly emphasizes the necessity of wilayah (allegiance to the Ahlul Bayt) as part of complete faith leading to success, while Sunni theology emphasizes following the Prophet's Sunnah through the understanding of the righteous predecessors. However, both traditions agree on the fundamental principle this verse establishes: moral and spiritual choices have eternal consequences, Paradise and Hell represent incomparable destinies, and true success is measured by eternal outcome rather than worldly circumstances. Fakhr al-Din al-Razi and Tabatabai both provide extensive theological analysis of divine justice in distributing rewards and punishments, affirming that Allah's judgment is perfectly just and that the differences between the two groups reflect their own choices and actions.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء نے اس آیت کے مرکزی پیغام کو یکسو طریقے سے تصدیق کیا ہے: ابدی منزلیں برابر نہیں اور صرف جنت حقیقی کامیابی ہے۔ ابن کثیر نے اس بات پر زور دیا کہ دو گروہوں کے درمیان زبردست فرق مومنوں کو نیکی کی طرف اور گناہ سے دور رکھنا چاہیے۔ قرطبی نے ابدی لذت بمقابلہ ابدی عذاب کی عدم موازنہ پذیری پر بحث کی ہے۔ طبری نے جنت اور جہنم کی تفصیلات کے بارے میں وافر روایات پیش کی ہیں اور ان کے بنیادی فرق پر زور دیا ہے۔ 'فلاح' یعنی کامیابی کا تصور اسلامی الہیات میں تمام روایات میں ایمان اور نیک اعمال کے ذریعے جنت کو حاصل کرنے کے طور پر عالمگیر طور پر سمجھا جاتا ہے۔ جہاں روایات میں کچھ علمِ الہٰی تفصیلات میں فرق ہو سکتا ہے وہاں شفاعت کے سوالات، گناہگار مومنوں کی حیثیت اور نجات میں ایمان بمقابلہ اعمال کے کردار میں ہے۔ شیعہ الہیات خاص طور پر اہلِ بیت سے الفت یعنی ولایت کو مکمل ایمان کے ضروری جزء کے طور پر اور جنت کی طرف لے جانے والی کامیابی کو اجاگر کرتا ہے جبکہ سنی الہیات صالح اسلافی سمجھ کے مطابق سنت نبوی کی پیروی پر زور دیتی ہے۔ تاہم دونوں روایات اس بنیادی اصول پر متفق ہیں جو یہ آیت قائم کرتی ہے۔",
+    "layer4_ar": "يُجمع علماء الشيعة والسنة إجماعاً لا خلاف فيه على رسالة هذه الآية المركزية: المصيران الأبديان غير متساويين، وجنة الخلد وحدها هي النجاح المطلق. ويُؤكِّد ابن كثير أن التفاوت الشاسع بين الفريقين ينبغي أن يكون حافزاً للمؤمنين نحو الصلاح وصارفاً لهم عن الإثم. ويناقش القرطبي التناقض الكامل بين العذاب الأبدي والنعيم الأبدي. ويُورد الطبري روايات مستفيضة عن أوصاف الجنة والنار مُبرزاً التفاوت الجذري بين المنزلتين. ومفهوم الفلاح في اللاهوت الإسلامي مُتَّفقٌ عليه عبر التقليدين بوصفه تحقيق الجنة بالإيمان والعمل الصالح. وما قد يتباين فيه التقليدان هو التفاصيل العقدية المتعلِّقة بالنجاة: مسائل الشفاعة، ومكانة المؤمنين المذنبين، ودور الإيمان قياساً بالأعمال في بلوغ الفوز. فاللاهوت الشيعي يُؤكِّد بصفة خاصة ضرورة الولاية لأهل البيت عليهم السلام بوصفها جزءاً من الإيمان الكامل المُفضي إلى الفوز، في حين يُؤكِّد اللاهوت السني الاتِّباع لسنَّة النبي من خلال فهم السلف الصالح. غير أن الفريقين يتَّفقان على المبدأ الجوهري الذي تُقرِّره الآية: الاختيارات والمواقف الأخلاقية والروحية لها تبعات أبدية، والجنة والنار يُمثِّلان مصيرين لا يُقاسان ببعضهما، والنجاح الحقيقي يُقاس بالمآل الأخروي لا بالمؤشِّرات الدنيوية. ويُقدِّم الفخر الرازي والطباطبائي كلاهما تحليلاً لاهوتياً معمَّقاً للعدل الإلهي في توزيع الجزاء والعقاب، مُؤكِّدَين أن حكم الله مبنيٌّ على الكمال العدلي وأن الفوارق بين الفريقين انعكاسٌ حقيقي لاختياراتهم وأعمالهم."
+  },
+  "21": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:21:quran-on-mountain",
+          "title": "Quran's Power",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "If the Quran were sent upon a mountain, the mountain would humble itself and split apart from fear of Allah - yet human hearts remain harder than stone.",
+          "whyItMatters": "This stark comparison rebukes hard-heartedness - if creation's most solid element would shatter before divine speech, how can humans remain unmoved?",
+          "position": "topLeft",
+          "arabicHighlight": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَٰشِعًۭا مُّتَصَدِّعًۭا",
+          "title_urdu": "قرآن کی طاقت",
+          "coreInsight_urdu": "اگر قرآن پہاڑ پر نازل کیا جاتا، تو پہاڑ اپنے آپ کو عاجز کر لیتا اور اللہ کے خوف سے پھٹ جاتا - پھر بھی انسانی دل پتھر سے زیادہ سخت رہتے ہیں۔",
+          "whyItMatters_urdu": "یہ واضح موازنہ سخت دلی کو ملامت کرتا ہے - اگر تخلیق کا سب سے مضبوط عنصر الہی کلام کے سامنے بکھر جائے گا، تو انسان کیسے غیر متاثر رہ سکتے ہیں؟",
+          "title_ar": "قوة القرآن",
+          "coreInsight_ar": "لو أُنزل القرآن على جبل، لتواضع الجبل وتصدع من خشية الله - ومع ذلك تظل قلوب البشر أقسى من الحجر.",
+          "whyItMatters_ar": "هذه المقارنة الصارخة توبخ قسوة القلب - إذا كان أصلب عنصر في الخلق سيتحطم أمام الكلام الإلهي، فكيف يمكن للبشر البقاء غير متأثرين؟"
+        },
+        {
+          "id": "59:21:khushu-humility",
+          "title": "Khushu - Humility",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Khashi'an' (humbled) describes the mountain's posture - true humility before Allah's word involves total submission, not just external rituals.",
+          "whyItMatters": "This teaches what proper response to Quran looks like - not intellectual appreciation but transformative awe that reshapes our entire being.",
+          "position": "topRight",
+          "arabicHighlight": "خَٰشِعًۭا",
+          "title_urdu": "خشوع - عاجزی",
+          "coreInsight_urdu": "'خاشع' (عاجز) پہاڑ کی کرنسی کی وضاحت کرتا ہے - اللہ کے کلام کے سامنے حقیقی عاجزی میں مکمل تسلیم شامل ہے، نہ کہ صرف ظاہری رسومات۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ قرآن کا مناسب جواب کیسا ہونا چاہیے - فکری تعریف نہیں بلکہ تبدیلی آمیز خوف جو ہماری پوری ہستی کو نئی شکل دیتا ه۔",
+          "title_ar": "الخشوع - التواضع",
+          "coreInsight_ar": "'خاشعاً' (متواضعاً) يصف موقف الجبل - التواضع الحقيقي أمام كلمة الله ينطوي على خضوع تام، وليس مجرد طقوس خارجية.",
+          "whyItMatters_ar": "هذا يعلم كيف تبدو الاستجابة الصحيحة للقرآن - ليس تقديراً فكرياً بل رهبة تحويلية تعيد تشكيل كياننا بأكمله."
+        },
+        {
+          "id": "59:21:splitting-apart",
+          "title": "Splitting Apart",
+          "icon": "bolt.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Mutasaddi'an' (splitting apart) shows the Quran's power to shatter even the hardest creation - it should break our egos, assumptions, and spiritual complacency.",
+          "whyItMatters": "True engagement with Quran is transformative and sometimes painful - it cracks open our false securities and demands fundamental change.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ",
+          "title_urdu": "پھٹنا",
+          "coreInsight_urdu": "'متصدع' (پھٹنا) قرآن کی طاقت کو ظاہر کرتا ہے کہ وہ سب سے سخت تخلیق کو بھی توڑ دے - یہ ہماری انا، مفروضات، اور روحانی مطمئنیت کو توڑنا چاہیے۔",
+          "whyItMatters_urdu": "قرآن کے ساتھ حقیقی مشغولیت تبدیلی آمیز اور کبھی کبھی تکلیف دہ ہے - یہ ہماری جھوٹی حفاظتوں کو کھولتا ہے اور بنیادی تبدیلی کا مطالبہ کرتا ہے۔",
+          "title_ar": "التصدع",
+          "coreInsight_ar": "'متصدعاً' (متشققاً) يظهر قوة القرآن على تحطيم أصلب الخلق - يجب أن يحطم أناناوافتراضاتنا ورضانا الروحي.",
+          "whyItMatters_ar": "الانخراط الحقيقي مع القرآن تحويلي وأحياناً مؤلم - يفتح أماننا الزائف ويطالب بتغيير أساسي."
+        },
+        {
+          "id": "59:21:parables",
+          "title": "Divine Parables",
+          "icon": "lightbulb.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah presents parables 'so they might reflect' - these examples aren't just illustrations but catalysts for deep contemplation about our spiritual state.",
+          "whyItMatters": "The Quran demands active reflection, not passive reading - each parable is an invitation to examine our hearts against divine standards.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+          "title_urdu": "الہی تمثیلیں",
+          "coreInsight_urdu": "اللہ تمثیلیں پیش کرتا ہے 'تاکہ وہ سوچیں' - یہ مثالیں صرف وضاحت نہیں بلکہ ہماری روحانی حالت کے بارے میں گہری غور و فکر کے محرک ہیں۔",
+          "whyItMatters_urdu": "قرآن فعال غور و فکر کا مطالبہ کرتا ہے، غیر فعال پڑھنے کا نہیں - ہر تمثیل الہی معیارات کے مقابلے میں اپنے دلوں کا جائزہ لینے کی دعوت ہے۔",
+          "title_ar": "الأمثال الإلهية",
+          "coreInsight_ar": "يقدم الله الأمثال 'لعلهم يتفكرون' - هذه الأمثلة ليست مجرد توضيحات بل محفزات للتأمل العميق في حالتنا الروحية.",
+          "whyItMatters_ar": "يطالب القرآن بالتأمل النشط، وليس القراءة السلبية - كل مثل دعوة لفحص قلوبنا مقابل المعايير الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize the Quran's majesty and the need for hearts to be receptive and humble before it. Ibn Kathir explains that Allah emphasizes the Quran's greatness and humanity's responsibility to receive it properly. Al-Qurtubi discusses the parables in the Quran and their pedagogical purpose in making abstract realities comprehensible. Al-Tabari provides various scholarly opinions on the meaning of the mountain splitting from fear of Allah. Classical scholars across both traditions emphasize that this verse rebukes hard-heartedness and calls for spiritual sensitivity. The practice of reciting Quran with reflection (tadabbur) is emphasized in both traditions, with extensive literature on proper Quranic engagement and etiquette. Where traditions may differ is in interpretive authority: Shia theology emphasizes the necessity of referring to the Ahlul Bayt for authentic understanding of the Quran's depths, while Sunni approaches rely on scholarly consensus and the understanding of the righteous predecessors. Both traditions agree that the Quran's impact should be transformative, not merely informational. Al-Ghazali's writings on the etiquette of Quran recitation in the Sunni tradition parallel Shia scholarly works on approaching the Quran with spiritual preparation and purity. Tabatabai in Al-Mizan and Fakhr al-Din al-Razi in Mafatih al-Ghayb both provide extensive analysis of Quranic parables and their role in conveying divine wisdom. Both traditions use this verse to call believers to deepen their engagement with the Quran, approaching it with awe, humility, and the expectation of transformation rather than treating it as merely a cultural artifact or source of blessing through recitation alone.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات قرآن کی عظمت اور دلوں کی خشوع اور عاجزی کی ضرورت پر زور دیتی ہیں۔ ابن کثیر نے وضاحت کی ہے کہ اللہ قرآن کی عظمت اور اسے صحیح طریقے سے قبول کرنے کی انسانی ذمہ داری پر زور دیتا ہے۔ قرطبی نے قرآنی امثال اور انسانی فہم کے لیے ان کے تعلیمی مقصد پر بحث کی ہے۔ طبری نے پہاڑ کے اللہ کے خوف سے پھٹنے کے مفہوم پر مختلف علمی آراء فراہم کی ہیں۔ دونوں روایات کے کلاسیکی علماء اس بات پر متفق ہیں کہ یہ آیت قساوتِ قلبی کی مذمت کرتی ہے اور روحانی حساسیت کا مطالبہ کرتی ہے۔ تدبر کے ساتھ قرآن کی تلاوت کا طریقہ دونوں روایات میں قابل تعریف ہے اور قرآنی ادب پر وسیع ادبیات موجود ہے۔ جہاں روایات میں فرق ہو سکتا ہے وہ تفسیری اختیار کا مسئلہ ہے: شیعہ علم الکلام قرآن کی گہرائیوں کی مستند سمجھ کے لیے اہل بیت علیہم السلام کی طرف رجوع کرنے کی ضرورت پر زور دیتا ہے، جبکہ سنی نقطہ نظر علمی اتفاق رائے اور نیک اسلاف کی سمجھ پر انحصار کرتا ہے۔ دونوں روایات متفق ہیں کہ قرآن کا اثر محض معلوماتی نہیں بلکہ تحول آور ہونا چاہیے۔ سنی روایت میں غزالی کی قرآن تلاوت کے آداب پر تحریریں شیعہ علمی کاموں کے متوازی ہیں جو روحانی تیاری اور طہارت کے ساتھ قرآن کے پاس آنے پر زور دیتی ہیں۔ طباطبائی اور فخرالدین رازی دونوں نے قرآنی امثال اور الٰہی حکمت کی ترسیل میں ان کے کردار کا تفصیلی تجزیہ کیا ہے۔ دونوں روایات اس آیت کو مومنین کو قرآن سے اپنے تعلق کو گہرا کرنے کی دعوت دینے کے لیے استعمال کرتی ہیں — اسے ہیبت، عاجزی اور تحول کی توقع کے ساتھ اپنانے کی اور اسے محض ثقافتی ورثہ یا تلاوت سے برکت حاصل کرنے کا ذریعہ نہ سمجھنے کی۔",
+    "layer4_ar": "يتَّفق تقليدا الشيعة والسنة على تعظيم القرآن والدعوة إلى استقباله باستجابة وجدانية وروحية عميقة. ويُبيِّن ابن كثير أن الله يُبرز في هذه الآية عظمة القرآن ومسؤولية الإنسان في تلقِّيه على الوجه الأكمل. ويناقش القرطبي أمثال القرآن وغرضها التعليمي في تجسيد الحقائق الروحية وتقريبها. ويُورد الطبري آراء علماء متعدِّدين في معنى تصدُّع الجبل خشيةً من الله. ويُركِّز علماء التقليدين على أن تأثير القرآن ينبغي أن يكون تحويلياً شاملاً، لا مجرَّد إضافة معلوماتية. وممارسة التلاوة بالتدبُّر راسخةٌ في التقليدين معاً، مع تراثٍ أدبي واسع في آداب تلاوة القرآن والتعامل معه. وما قد يختلف فيه التقليدان هو مرجعية التفسير: فالمذهب الشيعي يُؤكِّد ضرورة الرجوع إلى أهل البيت عليهم السلام للوصول إلى الفهم الأصيل لأعماق القرآن، في حين يعتمد المذهب السني على الإجماع العلمي وفهم السلف الصالح. ويتَّفق الفريقان على أن القرآن ينبغي أن يكون مُحوِّلاً لا مجرَّد أرثٍ ثقافي أو مصدر بركة بالتلاوة وحدها. وأعمال الغزالي في تراث السنة توازي مؤلَّفات علماء الشيعة في مسألة آداب الإقبال على القرآن بالاستعداد الروحي والطهارة. ويُقدِّم الطباطبائي في الميزان والفخر الرازي في مفاتيح الغيب كلاهما تحليلاً وافراً لأمثال القرآن وأدوارها في إيصال الحكمة الإلهية."
+  },
+  "22": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:22:tawhid-declaration",
+          "title": "Pure Monotheism",
+          "icon": "circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse begins with the definitive statement of tawhid - 'He is Allah, other than whom there is no deity' - establishing absolute divine unity.",
+          "whyItMatters": "This forms the foundation of all Islamic belief - recognizing Allah's exclusive right to worship transforms every aspect of life and consciousness.",
+          "position": "topLeft",
+          "arabicHighlight": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ",
+          "title_urdu": "خالص توحید",
+          "coreInsight_urdu": "آیت توحید کے حتمی بیان سے شروع ہوتی ہے - 'وہ اللہ ہے جس کے سوا کوئی معبود نہیں' - مطلق الہی وحدانیت قائم کرتا ہے۔",
+          "whyItMatters_urdu": "یہ تمام اسلامی عقیدے کی بنیاد بناتا ہے - اللہ کے خصوصی حق عبادت کو پہچاننا زندگی اور شعور کے ہر پہلو کو بدل دیتا ہے۔",
+          "title_ar": "التوحيد الخالص",
+          "coreInsight_ar": "تبدأ الآية بالإعلان القاطع للتوحيد - 'هو الله الذي لا إله إلا هو' - تأسيس الوحدانية الإلهية المطلقة.",
+          "whyItMatters_ar": "هذا يشكل أساس كل الإيمان الإسلامي - الاعتراف بحق الله الحصري في العبادة يحول كل جانب من جوانب الحياة والوعي."
+        },
+        {
+          "id": "59:22:unseen-witnessed",
+          "title": "Knower of All",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Alim al-ghayb wa ash-shahada' (Knower of the unseen and witnessed) encompasses all knowledge - past, present, future, hidden, manifest.",
+          "whyItMatters": "This comprehensive knowledge means nothing escapes Allah's awareness - bringing both comfort in knowing He sees our struggles and accountability knowing He witnesses our secrets.",
+          "position": "topRight",
+          "arabicHighlight": "عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ",
+          "title_urdu": "سب کا جاننے والا",
+          "coreInsight_urdu": "'عالم الغیب و الشہادۃ' (غیب اور ظاہر کا جاننے والا) تمام علم کو شامل کرتا ہے - ماضی، حال، مستقبل، پوشیدہ، ظاہر۔",
+          "whyItMatters_urdu": "یہ جامع علم کا مطلب ہے کہ کچھ بھی اللہ کی آگاہی سے نہیں بچتا - یہ جان کر سکون لاتا ہے کہ وہ ہماری جدوجہد دیکھتا ہے اور جوابدہی جانتے ہوئے کہ وہ ہمارے رازوں کا گواہ ہے۔",
+          "title_ar": "عالم الغيب والشهادة",
+          "coreInsight_ar": "'عالم الغيب والشهادة' (عالم الغيب والمشهود) يشمل كل المعرفة - الماضي والحاضر والمستقبل والخفي والظاهر.",
+          "whyItMatters_ar": "هذه المعرفة الشاملة تعني أن لا شيء يفلت من وعي الله - تجلب الراحة في معرفة أنه يرى كفاحنا والمساءلة في معرفة أنه يشهد أسرارنا."
+        },
+        {
+          "id": "59:22:ar-rahman",
+          "title": "Ar-Rahman",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Ar-Rahman (The Entirely Merciful) refers to Allah's universal mercy that encompasses all creation, believer and disbeliever alike in this world.",
+          "whyItMatters": "This name reminds us that every blessing we enjoy - breath, health, provision - comes from Allah's all-encompassing mercy, calling us to gratitude.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلرَّحْمَٰنُ",
+          "title_urdu": "الرحمن",
+          "coreInsight_urdu": "الرحمن (بے حد مہربان) اللہ کی عالمگیر رحمت کی طرف اشارہ کرتا ہے جو تمام مخلوق کو شامل کرتی ہے، اس دنیا میں مومن اور کافر یکساں۔",
+          "whyItMatters_urdu": "یہ نام ہمیں یاد دلاتا ہے کہ ہر نعمت جس سے ہم لطف اندوز ہوتے ہیں - سانس، صحت، رزق - اللہ کی ہمہ گیر رحمت سے آتی ہے، ہمیں شکر گزاری کی طرف بلاتا ہے۔",
+          "title_ar": "الرحمن",
+          "coreInsight_ar": "الرحمن (الرحيم التام) يشير إلى رحمة الله الشاملة التي تشمل جميع الخلق، المؤمن والكافر على حد سواء في هذا العالم.",
+          "whyItMatters_ar": "هذا الاسم يذكرنا أن كل نعمة نتمتع بها - النفس والصحة والرزق - تأتي من رحمة الله الشاملة، تدعونا إلى الامتنان."
+        },
+        {
+          "id": "59:22:ar-raheem",
+          "title": "Ar-Raheem",
+          "icon": "hands.and.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Ar-Raheem (The Especially Merciful) refers to Allah's specific mercy reserved for believers in the Hereafter - a deeper, eternal compassion.",
+          "whyItMatters": "While Rahman's mercy is universal now, Raheem's special mercy awaits those who believed - incentivizing faith while we have the opportunity.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلرَّحِيمُ",
+          "title_urdu": "الرحیم",
+          "coreInsight_urdu": "الرحیم (خاص طور پر مہربان) اللہ کی خاص رحمت کی طرف اشارہ کرتا ہے جو آخرت میں مومنوں کے لیے مخصوص ہے - ایک گہری، ابدی شفقت۔",
+          "whyItMatters_urdu": "جبکہ الرحمن کی رحمت اب عالمگیر ہے، الرحیم کی خاص رحمت ان لوگوں کا انتظار کر رہی ہے جو ایمان لائے - ایمان کی ترغیب دیتی ہے جب ہمارے پاس موقع ہے۔",
+          "title_ar": "الرحيم",
+          "coreInsight_ar": "الرحيم (الرحيم بشكل خاص) يشير إلى رحمة الله الخاصة المحفوظة للمؤمنين في الآخرة - رحمة أعمق وأبدية.",
+          "whyItMatters_ar": "بينما رحمة الرحمن عالمية الآن، تنتظر رحمة الرحيم الخاصة أولئك الذين آمنوا - تحفيز الإيمان بينما لدينا الفرصة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize the beautiful names of Allah and their importance in Islamic theology and spirituality. Ibn Kathir explains that these verses enumerate divine attributes to increase knowledge of Allah and encourage proper worship. Al-Qurtubi provides extensive discussion of the meaning and implications of each divine name. The 99 names tradition exists in both schools, though with some variation in specific names and their enumeration. Both traditions agree that Ar-Rahman and Ar-Rahim are among the most important divine names, with Ar-Rahman being used exclusively for Allah while Ar-Rahim can be applied in a limited sense to creation. Al-Tabari discusses various scholarly interpretations of the difference between these two mercy-related names, similar to Tabatabai's analysis. Both traditions emphasize that knowing Allah through His names is essential to proper worship and relationship with the Divine. Al-Ghazali's work on the beautiful names in the Sunni tradition parallels Shia scholarly works on understanding and invoking divine names. Where there may be differences is in some theological nuances about divine attributes: whether they are identical to the divine essence or distinct from it, questions extensively debated in Islamic theology. However, both traditions agree on the practical implications: these names should be known, contemplated, invoked in supplication, and should inspire appropriate awe, love, hope, and fear. Fakhr al-Din al-Razi provides philosophical analysis of divine knowledge in Mafatih al-Ghayb that complements Tabatabai's epistemological discussions in Al-Mizan, both affirming Allah's absolute and comprehensive knowledge.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اسمائے حسنیٰ اور اسلامی الٰہیات میں ان کی اہمیت پر زور دیتی ہیں۔ ابن کثیر نے وضاحت کی ہے کہ یہ آیات اللہ کے علم میں اضافے اور مناسب عبادت کی ترغیب کے لیے الٰہی اوصاف کا ذکر کرتی ہیں۔ قرطبی نے ہر الٰہی نام کے معنی اور مضمرات پر تفصیلی بحث کی ہے۔ 99 ناموں کی روایت دونوں مکاتب میں موجود ہے اگرچہ بعض ناموں اور ان کی ترتیب میں کچھ فرق ہے۔ دونوں روایات متفق ہیں کہ الرحمٰن اور الرحیم الٰہی ناموں میں سب سے اہم ہیں اور الرحمٰن صرف اللہ کے لیے مخصوص ہے جبکہ الرحیم محدود معنوں میں مخلوق پر بھی بولا جا سکتا ہے۔ طبری نے ان دو رحمت سے متعلق ناموں کے فرق پر مختلف علمی تفسیریں پیش کی ہیں جو طباطبائی کے تجزیے سے ملتی جلتی ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ اسمائے الٰہی کو جاننا مناسب عبادت اور رب کے ساتھ تعلق کے لیے ضروری ہے۔ سنی روایت میں غزالی کا اسمائے حسنیٰ پر کام شیعہ علمی کاموں کے متوازی ہے۔ جہاں کچھ الٰہیاتی باریکیوں میں فرق ہو سکتا ہے وہ الٰہی اوصاف کے ذاتِ الٰہی سے تعلق کا مسئلہ ہے، جو اسلامی علم الکلام میں وسیع پیمانے پر زیرِ بحث ہے۔ تاہم دونوں روایات عملی مضمرات پر متفق ہیں: یہ نام جانے، سوچے، دعاؤں میں پکارے جانے چاہییں اور مناسب ہیبت، محبت، امید اور خوف کو ابھارنا چاہیے۔ فخرالدین رازی نے مفاتیح الغیب میں الٰہی علم کا جو فلسفیانہ تجزیہ پیش کیا ہے وہ طباطبائی کے المیزان کے معرفتی مباحث کا تکمیلی ہے۔",
+    "layer4_ar": "يُعظِّم تقليدا الشيعة والسنة أسماء الله الحسنى ويُرسيان أهمِّيتها في اللاهوت الإسلامي والحياة الروحية. ويُبيِّن ابن كثير أن هذه الآيات تعدِّد الصفات الإلهية لتعميق معرفة الله وترسيخ العبادة الصحيحة. ويُقدِّم القرطبي شرحاً مستوفىً لمعاني كل اسم وتداعياته. ويتَّفق التقليدان على أن الرحمن والرحيم من أعظم الأسماء الإلهية، وأن الرحمن حكرٌ على الله وحده بينما يجوز إطلاق الرحيم على المخلوقين بصورة مقيَّدة. ويُقدِّم الطبري آراء علماء متعدِّدين في الفرق بين الاسمين مما يتوافق مع تحليل الطباطبائي في هذا الشأن. ويتَّفق التقليدان على أن معرفة الله بأسمائه ضرورةٌ للعبادة الحقِّة والعلاقة السليمة بالله. وأعمال الغزالي في أسماء الله في التراث السني توازي مؤلَّفات علماء الشيعة في استيعاب الأسماء الإلهية والتوسُّل بها. وقد يكون ثمة فوارق دقيقة في بعض المسائل الكلامية حول الصفات الإلهية: كمسألة ما إذا كانت الصفات عين الذات أم زائدة عليها، وهي مسائل نقاشٍ واسع في علم الكلام. غير أن هذه الدقائق الفلسفية لا تُغيِّر التوافق العملي: هذه الأسماء ينبغي معرفتها والتأمُّل فيها وتوظيفها في الدعاء، وينبغي أن تُشكِّل تصوُّرنا لعلاقتنا بالله وأن تُلهم التوبة والرجاء والثقة الراسخة في كرم الله ورحمته الواسعة."
+  },
+  "23": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:23:al-malik",
+          "title": "The Sovereign",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Al-Malik (The Sovereign) establishes Allah's absolute kingship - all authority, power, and dominion belong exclusively to Him.",
+          "whyItMatters": "Recognizing Allah's sovereignty means no earthly king, president, or power has ultimate authority - liberating us from fear of creation.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْمَلِكُ",
+          "title_urdu": "بادشاہ",
+          "coreInsight_urdu": "الملک (بادشاہ) اللہ کی مطلق بادشاہی قائم کرتا ہے - تمام اختیار، طاقت، اور حکمرانی خصوصی طور پر اسی کی ہے۔",
+          "whyItMatters_urdu": "اللہ کی حاکمیت کو تسلیم کرنے کا مطلب ہے کہ کوئی بھی زمینی بادشاہ، صدر، یا طاقت حتمی اختیار نہیں رکھتی - ہمیں مخلوق کے خوف سے آزاد کرتا ہے۔",
+          "title_ar": "الملك",
+          "coreInsight_ar": "الملك يؤسس ملكية الله المطلقة - كل السلطة والقوة والسيادة تخص حصرياً له.",
+          "whyItMatters_ar": "الاعتراف بسيادة الله يعني أن لا ملك أرضي أو رئيس أو قوة لديها سلطة نهائية - يحررنا من الخوف من الخلق."
+        },
+        {
+          "id": "59:23:divine-names-seven",
+          "title": "Seven Sacred Names",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse contains seven divine names - Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-Aziz, Al-Jabbar, Al-Mutakabbir - each revealing divine attributes.",
+          "whyItMatters": "Learning these names transforms our relationship with Allah from abstract to intimate - each name addresses specific human needs and fears.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ",
+          "title_urdu": "سات مقدس نام",
+          "coreInsight_urdu": "اس آیت میں سات الہی نام ہیں - الملک، القدوس، السلام، المؤمن، المہیمن، العزیز، الجبار، المتکبر - ہر ایک الہی صفات کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "ان ناموں کو سیکھنا اللہ کے ساتھ ہمارے تعلق کو تجریدی سے مانوس میں بدل دیتا ہے - ہر نام انسانی ضروریات اور خوف کو پورا کرتا ہے۔",
+          "title_ar": "سبعة أسماء مقدسة",
+          "coreInsight_ar": "تحتوي هذه الآية على سبعة أسماء إلهية - الملك، القدوس، السلام، المؤمن، المهيمن، العزيز، الجبار، المتكبر - كل منها يكشف الصفات الإلهية.",
+          "whyItMatters_ar": "تعلم هذه الأسماء يحول علاقتنا مع الله من مجردة إلى حميمة - كل اسم يعالج احتياجات ومخاوف إنسانية محددة."
+        },
+        {
+          "id": "59:23:al-quddus-as-salam",
+          "title": "Pure & Perfect",
+          "icon": "seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Al-Quddus (The Pure) and As-Salam (The Perfection) describe Allah's absolute freedom from any defect, need, or imperfection.",
+          "whyItMatters": "These names assure us that Allah's guidance comes from perfect wisdom, not human-like flaws or selfish motives - making His commands trustworthy.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْقُدُّوسُ ٱلسَّلَٰمُ",
+          "title_urdu": "پاک اور کامل",
+          "coreInsight_urdu": "القدوس (پاک) اور السلام (کامل) اللہ کی کسی بھی نقص، ضرورت، یا نامکملیت سے مطلق آزادی کو بیان کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ نام ہمیں یقین دلاتے ہیں کہ اللہ کی ہدایت کامل حکمت سے آتی ہے، نہ کہ انسانی نقائص یا خود غرض محرکات سے - اس کے احکام کو قابل اعتماد بناتا ہے۔",
+          "title_ar": "الطاهر والكامل",
+          "coreInsight_ar": "القدوس (الطاهر) والسلام (الكمال) يصفان حرية الله المطلقة من أي عيب أو حاجة أو نقص.",
+          "whyItMatters_ar": "هذه الأسماء تؤكد لنا أن هداية الله تأتي من حكمة كاملة، وليس من عيوب بشرية أو دوافع أنانية - مما يجعل أوامره جديرة بالثقة."
+        },
+        {
+          "id": "59:23:exalted-above-shirk",
+          "title": "Exalted Above Shirk",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse ends with 'Exalted is Allah above whatever they associate with Him' - directly rejecting all forms of polytheism and partnership with Allah.",
+          "whyItMatters": "This emphatic declaration warns against subtle shirk - making anyone or anything equal to Allah in obedience, love, fear, or reliance.",
+          "position": "bottomRight",
+          "arabicHighlight": "سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+          "title_urdu": "شرک سے بالا",
+          "coreInsight_urdu": "آیت 'اللہ اس سے پاک ہے جو وہ شریک کرتے ہیں' کے ساتھ ختم ہوتی ہے - تمام قسم کے شرک اور اللہ کے ساتھ شراکت کو براہ راست رد کرتا ہے۔",
+          "whyItMatters_urdu": "یہ زور دار اعلان لطیف شرک کے خلاف خبردار کرتا ہے - کسی بھی شخص یا چیز کو فرمانبرداری، محبت، خوف، یا اعتماد میں اللہ کے برابر کرنا۔",
+          "title_ar": "منزه عن الشرك",
+          "coreInsight_ar": "تنتهي الآية بـ 'سبحان الله عما يشركون' - رفض مباشر لجميع أشكال الشرك والشراكة مع الله.",
+          "whyItMatters_ar": "هذا الإعلان المؤكد يحذر من الشرك الخفي - جعل أي شخص أو شيء مساوياً لله في الطاعة أو المحبة أو الخوف أو الاعتماد."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions venerate and study the beautiful names of Allah, considering them central to Islamic theology and spirituality. Ibn Kathir provides similar explanations of these names, emphasizing their meanings and implications. Al-Qurtubi discusses the theological significance of each name and their practical applications in worship. The tradition of 99 names exists in both schools, with extensive scholarly literature on their meanings, invocation, and spiritual benefits. Both traditions agree that Al-Mutakabbir (Supreme) is praiseworthy for Allah while kibar (arrogance) is condemned for humans, as creatures have no basis for pride while Allah's majesty is absolute and deserved. Where there are some theological differences is in questions about the relationship between divine names and divine essence: Shia theology, particularly in the school of Tabatabai, tends toward viewing the names as identical with the essence manifested through different aspects, while some Sunni theological schools debate whether the attributes are identical or additional to the essence. However, these technical philosophical discussions do not affect the practical agreement: these names should be known, contemplated, invoked in supplication, and should shape our understanding of and relationship with Allah. Al-Ghazali's exposition of divine names in Sunni tradition parallels Shia scholarly works on the subject. Both traditions use the final phrase about shirk to emphasize that proper understanding of these names leads necessarily to tawhid (monotheism) and rejection of all forms of polytheism, whether obvious idol worship or subtle forms like elevating human authority to divine status or attributing divine qualities to created beings.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اسمائے الٰہی کی تعظیم اور مطالعہ کرتی ہیں اور انھیں اسلامی الٰہیات اور روحانیت کا مرکز سمجھتی ہیں۔ ابن کثیر نے ان ناموں کی اسی طرح وضاحت کی ہے جیسے ان کے معانی اور اطلاقات کے بارے میں۔ قرطبی نے ہر نام کی الٰہیاتی اہمیت اور عبادت میں ان کے عملی اطلاقات پر بحث کی ہے۔ 99 ناموں کی روایت دونوں مکاتب میں موجود ہے اور ان کے معانی، پکارنے اور روحانی فوائد پر وسیع علمی ادبیات ہے۔ دونوں روایات متفق ہیں کہ المتکبر (بزرگ) اللہ کے لیے قابلِ تعریف ہے جبکہ تکبر مخلوق کے لیے مذموم ہے کیونکہ مخلوق کے پاس فخر کی کوئی بنیاد نہیں جبکہ اللہ کی شان مطلق اور حقیقی ہے۔ کچھ الٰہیاتی اختلافات الٰہی ناموں اور الٰہی ذات کے تعلق کے بارے میں ہیں: طباطبائی کے مکتب میں شیعہ علم الکلام کا رجحان ناموں کو ذات کے ساتھ یکساں مانتے ہوئے مختلف پہلوؤں کے طور پر دیکھنے کا ہے، جبکہ بعض سنی مکاتب اس بارے میں بحث کرتے ہیں کہ آیا اوصاف ذات کے ساتھ یکساں ہیں یا اضافی۔ تاہم یہ تکنیکی فلسفیانہ مباحث عملی اتفاق پر اثر نہیں ڈالتے: یہ نام جانے، سوچے، دعاؤں میں پکارے جائیں اور اللہ کے بارے میں ہماری سمجھ اور اس سے تعلق کو تشکیل دیں۔ سنی روایت میں غزالی کا اسمائے الٰہی کا تفصیلی بیان شیعہ علمی کاموں کے متوازی ہے۔ دونوں روایات شرک کے بارے میں آخری جملے کو اس بات پر زور دینے کے لیے استعمال کرتی ہیں کہ ان ناموں کا صحیح ادراک لازمی طور پر توحید اور ہر شکل کے شرک کی مخالفت پر منتج ہوتا ہے چاہے وہ واضح بت پرستی ہو یا انسانی اختیار کو الٰہی حیثیت دینے یا مخلوق میں الٰہی اوصاف دیکھنے کی باریک شکلیں۔",
+    "layer4_ar": "يُجلُّ تقليدا الشيعة والسنة أسماء الله الحسنى ويدرسانها جميعاً باعتبارها محور اللاهوت الإسلامي وعماد الحياة الروحية. ويُقدِّم ابن كثير تفسيراً مشابهاً لهذه الأسماء ومعانيها ودلالاتها. ويُناقش القرطبي أهمِّيتها اللاهوتية بأسلوب يتوافق مع تحليل الطباطبائي. والموقف المشترك أن المتكبِّر صفةٌ ممدوحةٌ في الله ومذمومةٌ في المخلوق لأنه لا أساس لكبرياء المخلوق بينما كبرياء الله حقٌّ راسخ. وقد يوجد خلاف في مسائل كلامية تقنية حول العلاقة بين الأسماء والذات، إذ تميل المدرسة الشيعية كما عند الطباطبائي إلى تحليل الأسماء بوصفها ذاتاً واحدةً تتجلَّى بتجلِّيات مختلفة، بينما تتباين المدارس الكلامية السنية في مسألة ما إذا كانت الصفات عين الذات أو زائدةً عليها. غير أن هذه التدقيقات الفلسفية لا تُغيِّر التوافق العملي: ينبغي معرفة هذه الأسماء والتأمُّل فيها والتوسُّل بها في الدعاء، وينبغي أن تُشكِّل فهمنا لعلاقتنا بالله. وأعمال الغزالي في التراث السني توازي المؤلَّفات الشيعية في هذا الشأن. ويتَّفق الفريقان على أن الختم بالتنزيه عن الشرك يُثبت أن الفهم الصحيح لهذه الأسماء يقود حتماً إلى التوحيد ونبذ كل ضروب الشرك الظاهرة والخفية."
+  },
+  "24": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "59:24:creator-names",
+          "title": "Three Creative Names",
+          "icon": "wand.and.stars",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Al-Khaliq (The Creator), Al-Bari (The Inventor), Al-Musawwir (The Fashioner) - three names describing Allah's creative process from concept to detailed form.",
+          "whyItMatters": "These names show creation isn't random but purposeful - Allah conceptualizes, brings into existence, then shapes with precision, showing intentional design in everything.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ",
+          "title_urdu": "تین تخلیقی نام",
+          "coreInsight_urdu": "الخالق (خالق)، الباری (موجد)، المصور (شکل دینے والا) - تین نام اللہ کے تخلیقی عمل کو تصور سے تفصیلی شکل تک بیان کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ نام ظاہر کرتے ہیں کہ تخلیق بے ترتیب نہیں بلکہ مقصدی ہے - اللہ تصور کرتا ہے، وجود میں لاتا ہے، پھر درستگی کے ساتھ شکل دیتا ہے، ہر چیز میں جان بوجھ کر ڈیزائن دکھاتا ہے۔",
+          "title_ar": "ثلاثة أسماء إبداعية",
+          "coreInsight_ar": "الخالق، الباري، المصور - ثلاثة أسماء تصف عملية الخلق الإلهية من المفهوم إلى الشكل التفصيلي.",
+          "whyItMatters_ar": "هذه الأسماء تظهر أن الخلق ليس عشوائياً بل هادفاً - الله يتصور، ويوجد، ثم يشكل بدقة، مما يظهر تصميماً مقصوداً في كل شيء."
+        },
+        {
+          "id": "59:24:beautiful-names",
+          "title": "Beautiful Names",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-Asma' al-Husna' (the most beautiful names) - all 99 names of Allah represent His perfect attributes, each one containing infinite beauty and meaning.",
+          "whyItMatters": "Learning and calling upon Allah's names deepens our connection with Him - each name opens a door to understanding His nature and relating to Him appropriately.",
+          "position": "topRight",
+          "arabicHighlight": "لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ",
+          "title_urdu": "خوبصورت نام",
+          "coreInsight_urdu": "'الاسماء الحسنیٰ' (سب سے خوبصورت نام) - اللہ کے تمام 99 نام اس کی کامل صفات کی نمائندگی کرتے ہیں، ہر ایک لامحدود خوبصورتی اور معنی پر مشتمل ہے۔",
+          "whyItMatters_urdu": "اللہ کے ناموں کو سیکھنا اور پکارنا اس کے ساتھ ہمارا تعلق گہرا کرتا ہے - ہر نام اس کی فطرت کو سمجھنے اور اس سے مناسب طریقے سے تعلق رکھنے کا دروازہ کھولتا ہے۔",
+          "title_ar": "الأسماء الحسنى",
+          "coreInsight_ar": "'الأسماء الحسنى' - جميع أسماء الله الـ99 تمثل صفاته الكاملة، كل واحد منها يحتوي على جمال ومعنى لا نهائي.",
+          "whyItMatters_ar": "تعلم والدعاء بأسماء الله يعمق ارتباطنا به - كل اسم يفتح باباً لفهم طبيعته والتواصل معه بشكل مناسب."
+        },
+        {
+          "id": "59:24:universal-glorification",
+          "title": "All Creation Glorifies",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Whatever is in the heavens and earth is exalting Him' - all creation, animate and inanimate, glorifies Allah in ways we understand and ways beyond our perception.",
+          "whyItMatters": "This means we're surrounded by universal worship - mountains, stars, atoms all testify to Allah's greatness, inviting us to join the cosmic praise.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "کائنات کی تسبیح",
+          "coreInsight_urdu": "'جو کچھ آسمانوں اور زمین میں ہے اسی کی تسبیح کرتا ہے' - تمام مخلوق، جاندار اور بے جان، اللہ کی تسبیح کرتی ہے ایسے طریقوں سے جو ہم سمجھتے ہیں اور جو ہمارے ادراک سے باہر ہیں۔",
+          "whyItMatters_urdu": "اس کا مطلب ہے کہ ہم عالمگیر عبادت سے گھرے ہوئے ہیں - پہاڑ، ستارے، ایٹم سب اللہ کی عظمت کی گواہی دیتے ہیں، ہمیں کائناتی حمد میں شامل ہونے کی دعوت دیتے ہیں۔",
+          "title_ar": "تسبيح الكون",
+          "coreInsight_ar": "'يسبح له ما في السماوات والأرض' - كل الخلق، الحي وغير الحي، يسبح الله بطرق نفهمها وطرق تتجاوز إدراكنا.",
+          "whyItMatters_ar": "هذا يعني أننا محاطون بالعبادة الكونية - الجبال والنجوم والذرات كلها تشهد لعظمة الله، تدعونا للانضمام إلى الثناء الكوني."
+        },
+        {
+          "id": "59:24:mighty-wise",
+          "title": "The Mighty, The Wise",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah concludes with Al-Aziz (The Exalted in Might) and Al-Hakim (The Wise) - combining absolute power with perfect wisdom.",
+          "whyItMatters": "These final names assure us Allah's power is never tyrannical but always guided by wisdom - His strength serves His perfect knowledge and justice.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          "title_urdu": "غالب، حکیم",
+          "coreInsight_urdu": "سورت العزیز (طاقت میں بلند) اور الحکیم (حکیم) کے ساتھ ختم ہوتی ہے - مطلق طاقت کو کامل حکمت کے ساتھ ملاتی ہے۔",
+          "whyItMatters_urdu": "یہ آخری نام ہمیں یقین دلاتے ہیں کہ اللہ کی طاقت کبھی ظالمانہ نہیں بلکہ ہمیشہ حکمت سے رہنمائی حاصل ہے - اس کی طاقت اس کے کامل علم اور انصاف کی خدمت کرتی ہے۔",
+          "title_ar": "العزيز الحكيم",
+          "coreInsight_ar": "تختتم السورة بالعزيز (العزيز في القوة) والحكيم - جمع القوة المطلقة مع الحكمة الكاملة.",
+          "whyItMatters_ar": "هذه الأسماء الأخيرة تؤكد لنا أن قوة الله ليست استبدادية أبداً بل موجهة دائماً بالحكمة - قوته تخدم علمه وعدالته الكاملة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize these creative names and their implications for understanding Allah's relationship to creation. Ibn Kathir explains that these three names describe the complete creative process from divine will to manifest existence. Al-Qurtubi discusses their meanings and theological significance similarly to Tabatabai's analysis. The phrase 'everything in the heavens and earth glorifies Him' is emphasized in both traditions, with extensive discussion of how conscious and non-conscious creation participates in divine glorification. Both traditions agree that Al-Hakim (the Wise) is among the most important divine names, establishing that divine actions and decrees always reflect perfect wisdom even when humans cannot perceive it. Where traditions may differ is in specific theological debates about the nature of creation: questions about whether Allah creates directly or through intermediaries, whether the Quran itself is created or eternal, and the relationship between divine will and human free will in the creative process. However, these technical debates do not affect the fundamental agreement that Allah is the sole true Creator, that creation reflects divine wisdom and power, and that proper response is worship, gratitude, and reflection on the signs within creation. Al-Tabari provides various scholarly opinions on how creation glorifies Allah, while Tabatabai offers epistemological analysis of how we can know the Creator through contemplating creation. Both traditions use these verses to call believers to see the natural world and their own existence as signs pointing to the Creator, integrating scientific curiosity and spiritual reflection, and understanding that acknowledging Allah as creator necessarily entails worshiping Him alone and living according to His wisdom and guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات ان تخلیقی ناموں اور مخلوق سے اللہ کے تعلق کی سمجھ کے لیے ان کے مضمرات پر زور دیتی ہیں۔ ابن کثیر نے وضاحت کی ہے کہ یہ تین نام الٰہی ارادے سے ظاہر وجود تک مکمل تخلیقی عمل کو بیان کرتے ہیں۔ قرطبی نے ان کے معانی اور الٰہیاتی اہمیت پر بحث کی ہے جو طباطبائی کے تجزیے سے ملتی جلتی ہے۔ 'آسمانوں اور زمین کی ہر چیز اس کی تسبیح کرتی ہے' کا جملہ دونوں روایات میں اس بات پر تفصیلی بحث کے ساتھ زیر تاکید ہے کہ شعوری اور غیرشعوری مخلوق الٰہی تسبیح میں کس طرح حصہ لیتی ہے۔ دونوں روایات متفق ہیں کہ الحکیم (حکمت والا) الٰہی ناموں میں سب سے اہم ہے اور یہ ثابت کرتا ہے کہ الٰہی اعمال اور احکام ہمیشہ کامل حکمت کی عکاسی کرتے ہیں چاہے انسان اسے محسوس کرے یا نہ کرے۔ روایات میں کچھ فرق تخلیق کی نوعیت کے مخصوص الٰہیاتی مباحث میں ہو سکتا ہے: آیا اللہ براہ راست یا وسیلوں سے پیدا کرتا ہے، آیا قرآن خود مخلوق ہے یا ازلی، اور الٰہی ارادے اور انسانی اختیار کے تخلیقی عمل میں باہمی تعلق کا مسئلہ۔ تاہم یہ تکنیکی مباحث اس بنیادی اتفاق کو متاثر نہیں کرتے کہ اللہ اکیلا حقیقی خالق ہے، کہ تخلیق الٰہی حکمت اور قدرت کی عکاسی کرتی ہے، اور کہ مناسب جواب عبادت، شکرگزاری اور تخلیق میں نشانیوں پر تأمل ہے۔ طبری نے اللہ کی تسبیح کرنے کے طریقوں پر مختلف علمی آراء پیش کی ہیں جبکہ طباطبائی نے تخلیق کے ذریعے خالق کو جاننے کے بارے میں معرفتی تجزیہ پیش کیا ہے۔ دونوں روایات ان آیات کو مومنین کو قدرتی دنیا اور اپنے وجود کو خالق کی طرف اشارہ کرنے والی نشانیوں کے طور پر دیکھنے کی دعوت دینے کے لیے استعمال کرتی ہیں — سائنسی تجسس اور روحانی تأمل کو یکجا کرتے ہوئے اور یہ سمجھتے ہوئے کہ اللہ کو خالق تسلیم کرنا لازمی طور پر اکیلے اسی کی عبادت اور اس کی حکمت اور رہنمائی کے مطابق زندگی گزارنے پر منتج ہوتا ہے۔",
+    "layer4_ar": "يُجمع تقليدا الشيعة والسنة على تعظيم هذه الأسماء الخالقية وما تنطوي عليه من دلالاتٍ حول علاقة الله بخلقه. ويُبيِّن ابن كثير أن هذه الأسماء الثلاثة تصف المسيرة الكاملة للفعل الخلاقي من الإرادة الإلهية إلى الوجود المتجلِّي. ويُناقش القرطبي معانيها وثقلها اللاهوتي بما يتوافق مع تحليل الطباطبائي. وقول «تسبِّح له السماوات والأرض وما فيهن» موضع تأكيد في التقليدين، مع تراث علمي وافر في كيفية مشاركة الوجودَين الواعي وغير الواعي في التسبيح الإلهي. ويتَّفق التقليدان على أن العزيز الحكيم من أجلِّ الأسماء الإلهية، وأن أفعال الله وأقداره تنطوي دائماً على حكمةٍ كاملة حتى حين يعجز الإنسان عن إدراكها. وقد تتباين بعض التفاصيل اللاهوتية حول طبيعة الخلق: هل يخلق الله مباشرة أم بوسائط؟ وهل القرآن مخلوقٌ أم لا؟ وما العلاقة بين إرادة الله وحرية الإنسان في الفعل الخلاقي؟ غير أن هذه التدقيقات الفنية لا تمسُّ التوافق الجوهري على أن الله هو الخالق الحقيقي الوحيد، وأن الخلق يعكس حكمته وقدرته، وأن الاستجابة اللائقة هي العبادة والشكر والتأمُّل في آيات الله. ويتَّفق الطباطبائي في الميزان والطبري في تفسيره كلاهما على الدعوة إلى رؤية العالم الطبيعي وكيان المرء نفسه دلائلَ تشير إلى الخالق، جامعاً بين الاستفسار العلمي والتأمُّل الروحي خدمةً للإيمان الراسخ بالله الخالق البارئ المصوِّر."
+  }
+}

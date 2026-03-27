@@ -1,0 +1,522 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:1:clear-evidence",
+          "title": "Clear Evidence",
+          "icon": "doc.text.magnifyingglass",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Bayyinah (the clear evidence) refers to Prophet Muhammad and the Quran - undeniable proof that removes excuses and illuminates the path to truth.",
+          "whyItMatters": "Allah provides clear evidence before holding people accountable. This demonstrates divine justice - we're not left in confusion but given manifest signs to recognize truth.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْبَيِّنَةُ",
+          "title_urdu": "واضح ثبوت",
+          "coreInsight_urdu": "البینہ (واضح ثبوت) نبی محمد اور قرآن کی طرف اشارہ کرتا ہے - ناقابل تردید ثبوت جو بہانوں کو ختم کرتا ہے اور سچائی کی راہ کو روشن کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ لوگوں کو جوابدہ ٹھہرانے سے پہلے واضح ثبوت فراہم کرتا ہے۔ یہ الہی انصاف کو ظاہر کرتا ہے - ہم الجھن میں نہیں چھوڑے جاتے بلکہ سچائی کو پہچاننے کے لیے واضح نشانیاں دی جاتی ہیں۔",
+          "title_ar": "البينة الواضحة",
+          "coreInsight_ar": "البينة (الدليل الواضح) تشير إلى النبي محمد والقرآن - برهان لا يمكن إنكاره يزيل الأعذار وينير طريق الحق.",
+          "whyItMatters_ar": "يقدم الله دليلاً واضحًا قبل محاسبة الناس. يظهر هذا العدل الإلهي - لسنا في حيرة بل نُعطى علامات واضحة للتعرف على الحق."
+        },
+        {
+          "id": "98:1:people-of-scripture",
+          "title": "People of Scripture",
+          "icon": "book.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Ahl al-Kitab (People of the Book) - Jews and Christians who received previous revelations - are specifically mentioned, showing the continuity of divine guidance across prophets.",
+          "whyItMatters": "Islam doesn't reject previous scriptures but sees itself as the culmination of prophetic tradition. This encourages respectful dialogue while maintaining our distinct identity.",
+          "position": "topRight",
+          "arabicHighlight": "أَهْلِ ٱلْكِتَٰبِ",
+          "title_urdu": "اہل کتاب",
+          "coreInsight_urdu": "اہل الکتاب (کتاب والے) - یہودی اور عیسائی جنہوں نے پچھلی وحی حاصل کی - خاص طور پر ذکر کیا گیا ہے، جو پیغمبروں کے درمیان الہی رہنمائی کی تسلسل کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "اسلام پچھلی کتابوں کو مسترد نہیں کرتا بلکہ خود کو نبوی روایت کی تکمیل کے طور پر دیکھتا ہے۔ یہ ہماری الگ شناخت کو برقرار رکھتے ہوئے باعزت مکالمے کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "أهل الكتاب",
+          "coreInsight_ar": "أهل الكتاب - اليهود والمسيحيون الذين تلقوا الوحي السابق - يُذكرون على وجه التحديد، مما يظهر استمرارية الهداية الإلهية عبر الأنبياء.",
+          "whyItMatters_ar": "الإسلام لا يرفض الكتب السابقة بل يرى نفسه كذروة التقليد النبوي. يشجع هذا الحوار المحترم مع الحفاظ على هويتنا المميزة."
+        },
+        {
+          "id": "98:1:polytheists",
+          "title": "Polytheists",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Al-Mushrikin (polytheists) refers to those who associate partners with Allah, the fundamental error that contradicts pure monotheism (tawhid).",
+          "whyItMatters": "Shirk (polytheism) is not just idol worship but any act that elevates creation to the level of Creator - including excessive materialism, nationalism, or self-worship.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْمُشْرِكِينَ",
+          "title_urdu": "مشرکین",
+          "coreInsight_urdu": "المشرکین (مشرک) ان لوگوں کی طرف اشارہ کرتا ہے جو اللہ کے ساتھ شریک ٹھہراتے ہیں، بنیادی غلطی جو خالص توحید (توحید) کے خلاف ہے۔",
+          "whyItMatters_urdu": "شرک (شرک) صرف بت پرستی نہیں ہے بلکہ کوئی بھی عمل جو تخلیق کو خالق کی سطح تک بلند کرتا ہے - بشمول زیادہ مادیت پسندی، قوم پرستی، یا خود پرستی۔",
+          "title_ar": "المشركون",
+          "coreInsight_ar": "المشركون يشير إلى من يشرك بالله، الخطأ الأساسي الذي يتناقض مع التوحيد الخالص.",
+          "whyItMatters_ar": "الشرك ليس فقط عبادة الأصنام بل أي فعل يرفع المخلوق إلى مستوى الخالق - بما في ذلك المادية المفرطة أو القومية أو عبادة الذات."
+        },
+        {
+          "id": "98:1:parted-from-disbelief",
+          "title": "Parted from Disbelief",
+          "icon": "arrow.triangle.turn.up.right.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Munfakkin (parted/separated) indicates that people remained attached to disbelief until clear evidence arrived - truth has the power to break people free from false beliefs.",
+          "whyItMatters": "The Quran and Prophet Muhammad served as catalysts for transformation. When we present Islam correctly, it has inherent power to liberate hearts from falsehood.",
+          "position": "bottomRight",
+          "arabicHighlight": "مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ",
+          "title_urdu": "کفر سے جدا",
+          "coreInsight_urdu": "منفکین (جدا/علیحدہ) اشارہ کرتا ہے کہ لوگ کفر سے منسلک رہے یہاں تک کہ واضح ثبوت آیا - سچائی میں لوگوں کو جھوٹے عقائد سے آزاد کرنے کی طاقت ہے۔",
+          "whyItMatters_urdu": "قرآن اور نبی محمد تبدیلی کے محرک کے طور پر کام کیا۔ جب ہم اسلام کو صحیح طریقے سے پیش کرتے ہیں، تو اس میں دلوں کو جھوٹ سے آزاد کرنے کی فطری طاقت ہے۔",
+          "title_ar": "الانفصال عن الكفر",
+          "coreInsight_ar": "منفكين (منفصل/مفارق) يشير إلى أن الناس ظلوا ملتصقين بالكفر حتى وصلت الأدلة الواضحة - للحق قوة لتحرير الناس من المعتقدات الباطلة.",
+          "whyItMatters_ar": "خدم القرآن والنبي محمد كمحفزات للتحول. عندما نقدم الإسلام بشكل صحيح، له قوة كامنة لتحرير القلوب من الباطل."
+        }
+      ]
+    },
+    "layer4": "Classical Sunni commentators like Ibn Kathir and al-Qurtubi agree with Shia scholars that 'clear evidence' refers to Prophet Muhammad and the Quran, though they emphasize different aspects. Sunni tafsir focuses more on the Quran's linguistic miracles and predictive prophecies as the clear proof, while Shia tafsir equally emphasizes the Prophet's designation of Ali and the Ahlul Bayt as part of the complete evidence. Both traditions agree that the People of the Book recognized Muhammad from their scriptures but many rejected him from envy or tribal prejudice. Al-Razi in Mafatih al-Ghayb discusses the philosophical question of free will implied in this verse, concluding that humans need divine assistance to overcome inherited falsehood. Shia scholars add that this assistance includes not just the Prophet but the continuing guidance through his purified family. Where traditions differ is in identifying what constitutes complete 'clear evidence' - Sunni scholars generally limit it to the Quran and Sunnah broadly understood, while Shia scholars emphasize the specific authority of the twelve Imams. Both schools agree on the principle that divine justice requires sending unmistakable proof before holding people accountable. The verse thus represents common ground about Allah's mercy while reflecting different understandings of how that guidance continues after the Prophet.",
+    "layer4_urdu": "کلاسیکی سنی مفسرین جیسے ابن کثیر اور القرطبی شیعہ علماء سے اتفاق کرتے ہیں کہ 'واضح دلیل' سے مراد نبی محمد صلی اللہ علیہ وآلہ وسلم اور قرآن ہے، اگرچہ وہ مختلف پہلوؤں پر زور دیتے ہیں۔ سنی تفسیر قرآن کے لسانی معجزات اور پیش گوئی کرنے والی نبوتوں پر بطور واضح ثبوت زیادہ توجہ مرکوز کرتی ہے، جبکہ شیعہ تفسیر نبی کی جانب سے علی اور اہل بیت کی تعیین کو مکمل ثبوت کے حصے کے طور پر یکساں طور پر اہمیت دیتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ اہل کتاب نے محمد صلی اللہ علیہ وآلہ وسلم کو اپنی کتابوں سے پہچانا لیکن بہت سے نے حسد یا قبائلی تعصب سے انکار کیا۔ الرازی مفاتیح الغیب میں اس آیت میں پوشیدہ آزاد ارادے کے فلسفیانہ سوال پر بحث کرتے ہیں، یہ نتیجہ اخذ کرتے ہوئے کہ انسانوں کو موروثی باطل پر قابو پانے کے لیے الٰہی مدد کی ضرورت ہے۔ شیعہ علماء اضافہ کرتے ہیں کہ یہ مدد صرف نبی میں نہیں بلکہ ان کے پاکیزہ خاندان کے ذریعے مسلسل رہنمائی میں بھی شامل ہے۔ روایات جہاں مختلف ہیں وہ مکمل 'واضح دلیل' کی شناخت میں ہے - سنی علماء عموماً اسے قرآن اور سنت تک محدود کرتے ہیں جو وسیع معنوں میں سمجھی جاتی ہے، جبکہ شیعہ علماء بارہ اماموں کی مخصوص اتھارٹی پر زور دیتے ہیں۔ دونوں مکاتب فکر اس اصول پر متفق ہیں کہ الٰہی انصاف لوگوں کو جوابدہ ٹھہرانے سے پہلے غیر مبہم ثبوت بھیجنے کا تقاضا کرتا ہے۔ اس طرح یہ آیت اللہ کی رحمت کے بارے میں مشترکہ بنیاد کی نمائندگی کرتی ہے جبکہ نبی کے بعد اس رہنمائی کے جاری رہنے کے بارے میں مختلف سمجھ کی عکاسی کرتی ہے۔",
+    "layer4_ar": "يتفق كبار المفسرين السنة كابن كثير والقرطبي مع علماء الشيعة على أن \"البيِّنة\" تشير إلى النبي محمد صلى الله عليه وآله وسلم والقرآن الكريم، وإن تفاوتوا في تأكيد جوانب مختلفة. فالتفسير السني يُبرز إعجاز القرآن اللغوي وما فيه من نبوءات صادقة باعتبارها الدليل البيِّن الجامع، في حين يُضيف التفسير الشيعي أهميةً مساويةً لتعيين النبي لعلي وأهل البيت باعتباره جزءاً لا يتجزأ من البيِّنة الكاملة. وكلا التراثين متفقان على أن أهل الكتاب عرفوا محمداً صلى الله عليه وآله وسلم من كتبهم غير أن كثيرين منهم أعرضوا عنه حسداً أو تعصباً قبلياً. ويتناول الرازي في مفاتيح الغيب الإشكاليةَ الفلسفية حول الإرادة الحرة التي تطرحها الآية، مُنتهياً إلى أن الإنسان يحتاج العون الإلهي للتحرر من الباطل الموروث. ويُضيف علماء الشيعة أن هذا العون لا يقتصر على النبي بل يتواصل من خلال الهداية الجارية عبر آله الطاهرين. وموطن الاختلاف بين التراثين هو في تحديد ما يُشكِّل \"البيِّنة\" الكاملة؛ إذ يقتصر العلماء السنة عموماً على القرآن والسنة بمفهومها الأشمل، في حين يُؤكد علماء الشيعة على الحجية الخاصة للأئمة الاثني عشر. ومع ذلك يتلاقى التراثان على مبدأ أن العدل الإلهي يستوجب إرسال الدليل القاطع قبل مؤاخذة الناس، فتمثل الآية أرضية مشتركة حول رحمة الله مع تباين في فهم كيفية استمرار تلك الهداية بعد النبي."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:2:messenger-from-allah",
+          "title": "Messenger from Allah",
+          "icon": "person.badge.shield.checkmark.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Rasul min Allah (Messenger from Allah) emphasizes divine appointment - the Prophet didn't claim prophethood for himself but was chosen and sent by the Creator.",
+          "whyItMatters": "Understanding the Prophet's divine mandate helps us appreciate that his message isn't human philosophy but revelation from the All-Knowing, deserving absolute respect and obedience.",
+          "position": "topLeft",
+          "arabicHighlight": "رَسُولٌۭ مِّنَ ٱللَّهِ",
+          "title_urdu": "اللہ کی طرف سے رسول",
+          "coreInsight_urdu": "رسول من اللہ (اللہ کی طرف سے رسول) الہی تقرری پر زور دیتا ہے - نبی نے اپنے آپ کو نبی ہونے کا دعویٰ نہیں کیا بلکہ خالق کی طرف سے چنے گئے اور بھیجے گئے۔",
+          "whyItMatters_urdu": "نبی کے الہی مینڈیٹ کو سمجھنا ہمیں اس بات کی تعریف کرنے میں مدد کرتا ہے کہ ان کا پیغام انسانی فلسفہ نہیں بلکہ علیم کی طرف سے وحی ہے، جو مطلق احترام اور اطاعت کی مستحق ہے۔",
+          "title_ar": "رسول من الله",
+          "coreInsight_ar": "رسول من الله يؤكد التعيين الإلهي - لم يدّعِ النبي النبوة لنفسه بل اختير وأرسل من قبل الخالق.",
+          "whyItMatters_ar": "فهم التفويض الإلهي للنبي يساعدنا على تقدير أن رسالته ليست فلسفة بشرية بل وحي من العليم، يستحق الاحترام والطاعة المطلقة."
+        },
+        {
+          "id": "98:2:reciting-scriptures",
+          "title": "Reciting Scriptures",
+          "icon": "text.book.closed.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Yatlu (reciting) highlights the oral transmission of the Quran - not just reading silently but melodious recitation that touches hearts and preserves authenticity through memorization.",
+          "whyItMatters": "The Quranic tradition of recitation creates emotional connection and ensures preservation. When we recite with proper tajweed, we participate in this sacred 1400-year chain of transmission.",
+          "position": "topRight",
+          "arabicHighlight": "يَتْلُوا۟ صُحُفًۭا",
+          "title_urdu": "صحیفے پڑھنا",
+          "coreInsight_urdu": "یتلو (پڑھنا) قرآن کی زبانی منتقلی کو نمایاں کرتا ہے - صرف خاموشی سے پڑھنا نہیں بلکہ سریلی تلاوت جو دلوں کو چھوتی ہے اور حفظ کے ذریعے صداقت کو محفوظ رکھتی ہے۔",
+          "whyItMatters_urdu": "قرآنی تلاوت کی روایت جذباتی تعلق پیدا کرتی ہے اور تحفظ کو یقینی بناتی ہے۔ جب ہم صحیح تجوید کے ساتھ تلاوت کرتے ہیں، تو ہم اس مقدس 1400 سالہ منتقلی کی زنجیر میں شریک ہوتے ہیں۔",
+          "title_ar": "تلاوة الصحف",
+          "coreInsight_ar": "يتلو يبرز النقل الشفهي للقرآن - ليس مجرد القراءة بصمت بل التلاوة الجميلة التي تلمس القلوب وتحفظ الأصالة من خلال الحفظ.",
+          "whyItMatters_ar": "تقليد التلاوة القرآنية يخلق اتصالاً عاطفيًا ويضمن الحفظ. عندما نتلو بالتجويد الصحيح، نشارك في هذه السلسلة المقدسة للنقل التي تمتد 1400 عام."
+        },
+        {
+          "id": "98:2:purified-pages",
+          "title": "Purified Pages",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Suhufan mutahharah (purified scriptures) indicates the Quran's absolute purity - free from corruption, falsehood, and human alteration, preserved exactly as revealed.",
+          "whyItMatters": "Unlike previous scriptures that suffered human tampering, the Quran remains pristine. This preservation is itself a miracle, giving us confidence that we have direct access to divine guidance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "صُحُفًۭا مُّطَهَّرَةًۭ",
+          "title_urdu": "پاک صحیفے",
+          "coreInsight_urdu": "صحفا مطہرہ (پاک صحیفے) قرآن کی مطلق پاکیزگی کی نشاندہی کرتے ہیں - بگاڑ، جھوٹ اور انسانی تبدیلی سے پاک، بالکل ویسے ہی محفوظ جیسے نازل ہوا۔",
+          "whyItMatters_urdu": "پچھلی کتابوں کے برعکس جو انسانی چھیڑ چھاڑ کا شکار ہوئیں، قرآن بے داغ رہتا ہے۔ یہ تحفظ خود ایک معجزہ ہے، ہمیں یقین دلاتا ہے کہ ہمارے پاس الہی رہنمائی تک براہ راست رسائی ہے۔",
+          "title_ar": "صحف مطهرة",
+          "coreInsight_ar": "صحفًا مطهرة تشير إلى نقاء القرآن المطلق - خالٍ من الفساد والباطل والتغيير البشري، محفوظ تمامًا كما أنزل.",
+          "whyItMatters_ar": "على عكس الكتب السابقة التي عانت من التلاعب البشري، يبقى القرآن نقيًا. هذا الحفظ معجزة بحد ذاته، يعطينا ثقة بأن لدينا وصول مباشر للهداية الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental meaning of this verse: the Prophet brought revealed scriptures free from corruption. Al-Tabari and Ibn Kathir emphasize the Quran's miraculous nature as proof of its divine origin, while Shia scholars additionally emphasize the Prophet's designation of authoritative interpreters. Sunni commentators like al-Qurtubi focus extensively on the Quran's linguistic perfection and its challenge to produce anything similar, viewing this as the primary meaning of 'purified.' Shia exegesis adds that the purification includes protection from misinterpretation through divinely guided authorities. Where traditions converge is in absolute confidence in the Quran's preservation and divine origin, distinguishing Islam from Christianity where scriptural corruption is historically documented. Both schools reject the notion that the Quran has been changed or corrupted, standing united against such claims. The difference emerges in understanding what resources Allah provided for proper interpretation: Sunni scholars generally emphasize scholarly consensus and established principles of jurisprudence, while Shia scholars emphasize the specific guidance of the twelve Imams. Despite this difference, there is remarkable agreement that the Quran represents humanity's only perfectly preserved divine scripture, and that the Prophet's primary mission was delivering and explaining this revelation to humanity.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی معنی پر متفق ہیں: نبی نے تحریف سے آزاد نازل شدہ صحیفے لائے۔ الطبری اور ابن کثیر قرآن کی معجزانہ نوعیت کو اس کی الٰہی اصلیت کے ثبوت کے طور پر زور دیتے ہیں، جبکہ شیعہ علماء اضافی طور پر نبی کی جانب سے مستند مفسرین کی تقرر پر زور دیتے ہیں۔ سنی مفسرین جیسے القرطبی قرآن کی لسانی کمال پر وسیع پیمانے پر توجہ مرکوز کرتے ہیں اور اس جیسی کوئی چیز پیش کرنے کے چیلنج پر، اسے 'پاکیزہ' کے بنیادی معنی کے طور پر دیکھتے ہوئے۔ شیعہ تفسیر اضافہ کرتی ہے کہ تطہیر میں الٰہی طور پر رہنمائی شدہ اتھارٹیز کے ذریعے غلط تشریح سے تحفظ شامل ہے۔ جہاں روایات ملتی ہیں وہ قرآن کے تحفظ اور الٰہی اصلیت میں مطلق اعتماد میں ہے، اسلام کو عیسائیت سے ممتاز کرتے ہوئے جہاں کتابی تحریف تاریخی طور پر دستاویزی ہے۔ دونوں مکاتب فکر اس تصور کو مسترد کرتے ہیں کہ قرآن کو تبدیل یا محرف کیا گیا ہے، ایسے دعووں کے خلاف متحد کھڑے ہیں۔ فرق صحیح تشریح کے لیے اللہ نے کون سے وسائل فراہم کیے اس کی سمجھ میں ابھرتا ہے: سنی علماء عموماً علمائے کرام کے اجماع اور فقہ کے قائم شدہ اصولوں پر زور دیتے ہیں، جبکہ شیعہ علماء بارہ اماموں کی مخصوص رہنمائی پر زور دیتے ہیں۔ اس فرق کے باوجود، اس بات پر قابل ذکر اتفاق ہے کہ قرآن انسانیت کا واحد مکمل طور پر محفوظ الٰہی صحیفہ ہے، اور نبی کا بنیادی مشن انسانیت تک اس وحی کو پہنچانا اور وضاحت کرنا تھا۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الجوهري لهذه الآية: النبي صلى الله عليه وآله وسلم جاء بصُحُف منزَّلة خالية من التحريف. فالطبري وابن كثير يُبرزان الإعجاز القرآني دليلاً على أصالته الإلهية، في حين يُضيف علماء الشيعة التأكيدَ على تعيين النبي لمفسِّرين معصومين. ويُركِّز المفسرون السنة كالقرطبي على الكمال اللغوي للقرآن وتحديه لمن يأتي بمثله باعتبار ذلك أبرز دلالات \"التطهير\". ويُضيف التفسير الشيعي أن التطهير يشمل صون القرآن من الفهم المنحرف عبر أولياء الله الهادين المعصومين. وموطن الوفاق بين التراثين هو الإيمان الجازم بسلامة القرآن وأصالته الإلهية، مما يُميِّز الإسلام عن المسيحية حيث التحريف الكتابي موثَّق تاريخياً. وكلا المذهبين يرفضان رفضاً قاطعاً أي ادعاء بتغيير القرآن أو تحريفه، موقفهما واحد في مواجهة مثل هذه المزاعم. ويظهر الاختلاف في تحديد الموارد التي وفَّرها الله للتفسير الصحيح: فعلماء السنة يُعلون من شأن الإجماع الفقهي وأصول التفسير المستقرة، في حين يُؤكِّد علماء الشيعة على هداية الأئمة الاثني عشر الخاصة. ومع هذا يسود اتفاق لافت على أن القرآن يمثل الكتاب الإلهي الوحيد المحفوظ حفظاً كاملاً في التاريخ البشري، وأن مهمة النبي الكبرى كانت تبليغ هذا الوحي وبيانه للإنسانية."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:3:correct-writings",
+          "title": "Correct Writings",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Kutubun qayyimah (correct/upright writings) emphasizes that the Quran contains eternal truths and guidance that remain relevant across all times and contexts.",
+          "whyItMatters": "The Quran isn't just historically interesting but eternally applicable. Its principles of justice, mercy, and tawhid provide timeless guidance for every generation and circumstance.",
+          "position": "topLeft",
+          "arabicHighlight": "كُتُبٌۭ قَيِّمَةٌۭ",
+          "title_urdu": "قیم تحریریں",
+          "coreInsight_urdu": "کتب قیمہ (درست/سیدھی تحریریں) اس بات پر زور دیتے ہیں کہ قرآن میں ابدی سچائیاں اور رہنمائی ہے جو تمام اوقات اور سیاق و سباق میں متعلقہ رہتی ہے۔",
+          "whyItMatters_urdu": "قرآن صرف تاریخی طور پر دلچسپ نہیں ہے بلکہ ابدی طور پر قابل اطلاق ہے۔ اس کے انصاف، رحم اور توحید کے اصول ہر نسل اور حالات کے لیے لازوال رہنمائی فراہم کرتے ہیں۔",
+          "title_ar": "كتب قيمة",
+          "coreInsight_ar": "كتب قيمة (كتابات صحيحة/مستقيمة) تؤكد أن القرآن يحتوي على حقائق وهداية أبدية تبقى ذات صلة عبر جميع الأوقات والسياقات.",
+          "whyItMatters_ar": "القرآن ليس مجرد تاريخي مثير للاهتمام بل قابل للتطبيق إلى الأبد. مبادئ العدل والرحمة والتوحيد توفر هداية خالدة لكل جيل وظرف."
+        },
+        {
+          "id": "98:3:within-which",
+          "title": "Within Which",
+          "icon": "square.stack.3d.down.right.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Fiha (within which) indicates that the purified scriptures contain these valuable writings - the Quran is a treasure chest of divine wisdom waiting to be explored.",
+          "whyItMatters": "We must actively engage with the Quran to extract its treasures. Surface reading isn't enough; we need contemplation, study, and application to benefit from its depths.",
+          "position": "topRight",
+          "arabicHighlight": "فِيهَا",
+          "title_urdu": "جن میں",
+          "coreInsight_urdu": "فیہا (جن میں) اشارہ کرتا ہے کہ پاک صحیفوں میں یہ قیمتی تحریریں ہیں - قرآن الہی حکمت کا ایک خزانہ ہے جو تلاش کیا جانا منتظر ہے۔",
+          "whyItMatters_urdu": "ہمیں اس کے خزانوں کو نکالنے کے لیے فعال طور پر قرآن کے ساتھ مشغول ہونا چاہیے۔ سطحی مطالعہ کافی نہیں ہے؛ ہمیں اس کی گہرائیوں سے فائدہ اٹھانے کے لیے غور و فکر، مطالعہ اور اطلاق کی ضرورت ہے۔",
+          "title_ar": "فيها",
+          "coreInsight_ar": "فيها تشير إلى أن الصحف المطهرة تحتوي على هذه الكتابات القيمة - القرآن صندوق كنز من الحكمة الإلهية ينتظر الاستكشاف.",
+          "whyItMatters_ar": "يجب أن نتفاعل بنشاط مع القرآن لاستخراج كنوزه. القراءة السطحية ليست كافية؛ نحتاج إلى التأمل والدراسة والتطبيق للاستفادة من أعماقه."
+        },
+        {
+          "id": "98:3:layers-of-truth",
+          "title": "Layers of Truth",
+          "icon": "rectangle.stack.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse structure - purified scriptures containing correct writings - suggests layers of meaning, from surface text to deep spiritual wisdom, accessible to different levels of understanding.",
+          "whyItMatters": "The Quran speaks to everyone - a child can benefit from its stories while scholars discover endless depths. This multi-layered nature ensures universal accessibility and perpetual freshness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فِيهَا كُتُبٌۭ قَيِّمَةٌۭ",
+          "title_urdu": "سچائی کی تہیں",
+          "coreInsight_urdu": "آیت کی ساخت - پاک صحیفے جن میں درست تحریریں ہیں - معنی کی تہوں کا اشارہ دیتے ہیں، سطحی متن سے لے کر گہری روحانی حکمت تک، مختلف سطحوں کی سمجھ کے لیے قابل رسائی۔",
+          "whyItMatters_urdu": "قرآن سب سے بات کرتا ہے - ایک بچہ اس کی کہانیوں سے فائدہ اٹھا سکتا ہے جبکہ علماء لامتناہی گہرائیاں دریافت کرتے ہیں۔ یہ کثیر پرتی نوعیت عالمگیر رسائی اور مستقل تازگی کو یقینی بناتی ہے۔",
+          "title_ar": "طبقات الحق",
+          "coreInsight_ar": "بنية الآية - صحف مطهرة تحتوي على كتابات صحيحة - تقترح طبقات من المعنى، من النص السطحي إلى الحكمة الروحية العميقة، متاحة لمستويات مختلفة من الفهم.",
+          "whyItMatters_ar": "القرآن يخاطب الجميع - يمكن للطفل الاستفادة من قصصه بينما يكتشف العلماء أعماقًا لا نهاية لها. هذا الطبيعة متعددة الطبقات تضمن الوصول العالمي والانتعاش الدائم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree that 'correct writings' refers to the Quran's comprehensive and reliable guidance. Sunni scholars like al-Razi emphasize the Quran's logical coherence and absence of contradictions as proof of its correctness, while also noting its superiority over previous scriptures. Ibn Kathir explains that these correct writings include both explicit commandments and general principles for righteous living. Where traditions differ somewhat is in the mechanisms for correctly understanding these writings. Sunni methodology emphasizes scholarly consensus, analogical reasoning, and established interpretive principles, viewing the collective wisdom of qualified scholars as the safeguard against error. Shia methodology adds specific emphasis on the authoritative interpretations of the twelve Imams, viewing them as divinely protected from error in understanding the Quran. Both traditions agree on fundamental Quranic teachings about monotheism, prophethood, accountability, and basic moral principles. The shared conviction is that the Quran contains perfect guidance when properly understood and applied. Historical Islamic civilization's achievements in science, law, ethics, and culture testify to the practical correctness of these writings when Muslim communities took them seriously. Contemporary interfaith dialogue finds both Shia and Sunni scholars united in defending the Quran's divine origin and comprehensive guidance against secular criticism.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ 'صحیح تحریروں' سے مراد قرآن کی جامع اور قابل اعتماد رہنمائی ہے۔ سنی علماء جیسے الرازی قرآن کی منطقی ہم آہنگی اور تضادات کی عدم موجودگی کو اس کی درستگی کے ثبوت کے طور پر زور دیتے ہیں، جبکہ سابقہ صحیفوں پر اس کی برتری کو بھی نوٹ کرتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ یہ صحیح تحریریں واضح احکام اور نیک زندگی کے لیے عمومی اصول دونوں پر مشتمل ہیں۔ روایات جہاں کسی حد تک مختلف ہیں وہ ان تحریروں کو صحیح طریقے سے سمجھنے کے طریقہ کار میں ہے۔ سنی طریقہ کار علمائے کرام کے اجماع، قیاسی استدلال، اور قائم شدہ تشریحی اصولوں پر زور دیتا ہے، اہل علم کی اجتماعی حکمت کو غلطی سے بچاؤ کے طور پر دیکھتے ہوئے۔ شیعہ طریقہ کار بارہ اماموں کی مستند تشریحات پر خاص زور کا اضافہ کرتا ہے، انہیں قرآن کو سمجھنے میں غلطی سے الٰہی طور پر محفوظ کے طور پر دیکھتے ہوئے۔ دونوں روایات توحید، نبوت، جوابدہی، اور بنیادی اخلاقی اصولوں کے بارے میں بنیادی قرآنی تعلیمات پر متفق ہیں۔ مشترکہ یقین یہ ہے کہ قرآن صحیح طریقے سے سمجھا اور لاگو کیا جائے تو کامل رہنمائی پر مشتمل ہے۔ تاریخی اسلامی تہذیب کی سائنس، قانون، اخلاقیات، اور ثقافت میں کامیابیاں ان تحریروں کی عملی درستگی کی گواہی دیتی ہیں جب مسلم برادریوں نے انہیں سنجیدگی سے لیا۔ عصری بین المذاہب مکالمہ شیعہ اور سنی دونوں علماء کو سیکولر تنقید کے خلاف قرآن کی الٰہی اصلیت اور جامع رہنمائی کا دفاع کرنے میں متحد پاتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن \"الكُتُب القيِّمة\" تشير إلى هداية القرآن الشاملة الموثوقة. ويُشدِّد علماء السنة كالرازي على الاتساق المنطقي للقرآن وخلوِّه من التناقضات دليلاً على قيمومته، مُنوِّهين بتفوقه على الكتب السابقة. ويُبيِّن ابن كثير أن هذه الكتب القيِّمة تشمل الأوامر الصريحة والمبادئ الكلية للعيش الصالح. وموضع الاختلاف بين التراثين يتعلق بالآليات المُيسِّرة للفهم الصحيح لهذه الكتب؛ فالمنهج السني يُعلي من الإجماع العلمي والقياس والأصول التفسيرية المستقرة، ويرى في الحكمة الجماعية للعلماء المؤهلين صمام الأمان من الخطأ. أما المنهج الشيعي فيُضيف تأكيداً خاصاً على الدلالات المعصومة للأئمة الاثني عشر. وكلا التراثين متفقان على الأصول العقدية للقرآن في التوحيد والنبوة والمعاد والمبادئ الأخلاقية الكبرى، والقناعة المشتركة هي أن القرآن يحمل الهداية الكاملة حين فُهم وطُبِّق على الوجه الصحيح. وما حقَّقته الحضارة الإسلامية التاريخية في العلوم والفقه والأخلاق والثقافة يشهد على قيمومة هذه الكتب العملية حين أخذت بها المجتمعات المسلمة بجدية واستيعاب. وحركات التجديد الإسلامي المعاصرة، شيعيةً كانت أم سنية، تعود في الغالب إلى هذه المبادئ الجوهرية حين يُراد الإصلاح، مُستشهدةً بهذه الوصفة القرآنية للدين القيِّم."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:4:division-after-evidence",
+          "title": "Division After Evidence",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E57373",
+          "coreInsight": "Tafarraqa (became divided) occurred after, not before, receiving clear evidence - showing that sectarian divisions often stem from ego and worldly interests, not lack of clarity in truth.",
+          "whyItMatters": "This warns against creating divisions after receiving truth. Unity should increase with knowledge, but pride and worldly attachments can cause fragmentation despite clear guidance.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَا تَفَرَّقَ",
+          "title_urdu": "تقسیم کے بعد ثبوت",
+          "coreInsight_urdu": "تفرق (تقسیم ہو گئے) واضح ثبوت حاصل کرنے کے بعد ہوا، نہ کہ پہلے - یہ ظاہر کرتا ہے کہ فرقہ وارانہ تقسیمیں اکثر انا اور دنیوی مفادات سے پیدا ہوتی ہیں، نہ کہ سچائی میں وضاحت کی کمی سے۔",
+          "whyItMatters_urdu": "یہ سچائی حاصل کرنے کے بعد تقسیم پیدا کرنے کے خلاف خبردار کرتا ہے۔ علم کے ساتھ اتحاد میں اضافہ ہونا چاہیے، لیکن غرور اور دنیوی وابستگیاں واضح رہنمائی کے باوجود تقسیم کا باعث بن سکتی ہیں۔",
+          "title_ar": "الانقسام بعد الدليل",
+          "coreInsight_ar": "التفرق حدث بعد وليس قبل تلقي الدليل الواضح - مما يظهر أن الانقسامات الطائفية غالبًا ما تنبع من الأنا والمصالح الدنيوية، وليس من نقص الوضوح في الحق.",
+          "whyItMatters_ar": "يحذر هذا من خلق الانقسامات بعد تلقي الحق. يجب أن تزداد الوحدة مع المعرفة، لكن الكبرياء والتعلقات الدنيوية يمكن أن تسبب التفتت رغم الهداية الواضحة."
+        },
+        {
+          "id": "98:4:those-given-scripture",
+          "title": "Those Given Scripture",
+          "icon": "book.closed.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Alladhina utu al-kitab (those given the Scripture) refers to communities blessed with divine revelation who should have known better than to divide over truth.",
+          "whyItMatters": "With knowledge comes responsibility. Those who have access to divine guidance will be held more accountable for creating divisions and deviating from truth.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ",
+          "title_urdu": "کتاب دیے گئے",
+          "coreInsight_urdu": "الذین اوتوا الکتاب (جن کو کتاب دی گئی) ان برادریوں کی طرف اشارہ کرتا ہے جو الہی وحی سے نوازے گئے جنہیں سچائی پر تقسیم کرنے سے بہتر جاننا چاہیے تھا۔",
+          "whyItMatters_urdu": "علم کے ساتھ ذمہ داری آتی ہے۔ جن لوگوں کے پاس الہی رہنمائی تک رسائی ہے انہیں تقسیم پیدا کرنے اور سچائی سے ہٹنے کے لیے زیادہ جوابدہ ٹھہرایا جائے گا۔",
+          "title_ar": "أوتوا الكتاب",
+          "coreInsight_ar": "الذين أوتوا الكتاب يشير إلى المجتمعات المباركة بالوحي الإلهي الذين كان يجب أن يعرفوا أفضل من الانقسام حول الحق.",
+          "whyItMatters_ar": "مع المعرفة تأتي المسؤولية. أولئك الذين لديهم وصول إلى الهداية الإلهية سيُحاسبون أكثر على خلق الانقسامات والانحراف عن الحق."
+        },
+        {
+          "id": "98:4:only-after",
+          "title": "Only After",
+          "icon": "arrow.right.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Illa min ba'di (only after) emphasizes the sequence - truth came first, division came later - making the division a choice, not an inevitability or result of confusion.",
+          "whyItMatters": "This absolves Allah of causing division and places responsibility squarely on human choices. We cannot blame unclear guidance for our sectarianism when truth was manifest.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ",
+          "title_urdu": "صرف بعد میں",
+          "coreInsight_urdu": "الا من بعد (صرف بعد میں) ترتیب پر زور دیتا ہے - سچائی پہلے آئی، تقسیم بعد میں آئی - تقسیم کو ایک انتخاب بناتا ہے، نہ کہ ناگزیریت یا الجھن کا نتیجہ۔",
+          "whyItMatters_urdu": "یہ اللہ کو تقسیم کا سبب بننے سے بری کرتا ہے اور ذمہ داری انسانی انتخابوں پر رکھتا ہے۔ ہم اپنی فرقہ واریت کے لیے غیر واضح رہنمائی کو مورد الزام نہیں ٹھہرا سکتے جب سچائی واضح تھی۔",
+          "title_ar": "فقط بعد",
+          "coreInsight_ar": "إلا من بعد يؤكد التسلسل - جاء الحق أولاً، جاء الانقسام لاحقًا - مما يجعل الانقسام خيارًا، وليس حتمية أو نتيجة للارتباك.",
+          "whyItMatters_ar": "يبرئ هذا الله من التسبب في الانقسام ويضع المسؤولية بشكل كامل على الاختيارات البشرية. لا يمكننا إلقاء اللوم على هداية غير واضحة لطائفيتنا عندما كان الحق واضحًا."
+        }
+      ]
+    },
+    "layer4": "Sunni commentators like Ibn Kathir explain this verse as describing the historical rejection of Prophet Muhammad by many Jewish and Christian leaders despite their scriptural knowledge of his coming. Al-Qurtubi notes the irony that those with scriptural knowledge divided more severely than ignorant polytheists, some of whom accepted Islam readily. Sunni scholars generally interpret the division as occurring within and between Jewish and Christian communities in response to Muhammad's prophethood. Shia scholars accept this interpretation but add another layer: the verse establishes a pattern that repeated within the Muslim community after the Prophet's passing, when clear evidence about Ali's leadership was rejected, causing the first major Muslim division. Both traditions agree on the verse's literal meaning regarding the People of the Book. The difference lies in whether the principle applies to later Islamic history. Sunni scholarship generally views early Muslim divisions as political rather than religious, arising from unclear circumstances rather than rejection of clear evidence. Shia scholarship views them as religious divisions rooted in rejection of clearly designated authority, parallel to how the People of the Book divided despite clear evidence. Despite this difference, both traditions agree that Muslims should learn from the People of the Book's failure and maintain unity based on clear Quranic guidance and authenticated prophetic teachings.",
+    "layer4_urdu": "سنی مفسرین جیسے ابن کثیر اس آیت کو بیان کرتے ہیں کہ بہت سے یہودی اور عیسائی رہنماؤں نے اپنے کتابی علم کے باوجود نبی محمد صلی اللہ علیہ وآلہ وسلم کو تاریخی طور پر مسترد کیا۔ القرطبی اس ستم ظریفی کو نوٹ کرتے ہیں کہ کتابی علم رکھنے والے جاہل مشرکین سے زیادہ شدت سے تقسیم ہوئے، جن میں سے کچھ نے آسانی سے اسلام قبول کیا۔ سنی علماء عموماً تقسیم کو محمد صلی اللہ علیہ وآلہ وسلم کی نبوت کے جواب میں یہودی اور عیسائی برادریوں کے اندر اور ان کے درمیان ہونے کے طور پر تشریح کرتے ہیں۔ شیعہ علماء اس تشریح کو قبول کرتے ہیں لیکن ایک اور تہہ شامل کرتے ہیں: یہ آیت ایک نمونہ قائم کرتی ہے جو نبی کی رحلت کے بعد مسلم برادری کے اندر دوہرایا گیا، جب علی کی قیادت کے بارے میں واضح دلیل کو مسترد کیا گیا، پہلی بڑی مسلم تقسیم کا سبب بنا۔ دونوں روایات اہل کتاب کے بارے میں آیت کے لفظی معنی پر متفق ہیں۔ فرق اس میں ہے کہ آیا یہ اصول بعد کی اسلامی تاریخ پر لاگو ہوتا ہے۔ سنی علم عموماً ابتدائی مسلم تقسیموں کو مذہبی کی بجائے سیاسی کے طور پر دیکھتا ہے، واضح دلیل کو مسترد کرنے کی بجائے غیر واضح حالات سے پیدا ہونے والی۔ شیعہ علم انہیں واضح طور پر مقرر کردہ اختیار کو مسترد کرنے میں جڑی ہوئی مذہبی تقسیموں کے طور پر دیکھتا ہے، اہل کتاب کے واضح دلیل کے باوجود تقسیم ہونے کے متوازی۔ اس فرق کے باوجود، دونوں روایات اس بات پر متفق ہیں کہ مسلمانوں کو اہل کتاب کی ناکامی سے سیکھنا چاہیے اور واضح قرآنی رہنمائی اور مستند نبوی تعلیمات کی بنیاد پر اتحاد برقرار رکھنا چاہیے۔",
+    "layer4_ar": "يُفسِّر المفسرون السنة كابن كثير هذه الآية على أنها تصف رفض كثير من أحبار اليهود ورهبان النصارى للنبي محمد صلى الله عليه وآله وسلم على الرغم من علمهم الكتابي بمجيئه. ويُلاحظ القرطبي المفارقةَ في أن أصحاب العلم الكتابي تفرَّقوا تفرقاً أشد مما وقع بين المشركين الجاهليين الذين قبل بعضهم الإسلام بيسر وانشراح. وعلماء السنة عموماً يفسِّرون التفرُّق على أنه وقع داخل الجاليات اليهودية والمسيحية وبينها استجابةً لنبوة محمد صلى الله عليه وآله وسلم. ويقبل علماء الشيعة هذا التفسير ويُضيفون إليه بُعداً آخر: الآية تُثبِّت نمطاً تكرَّر داخل الأمة الإسلامية بعد رحيل النبي حين رُفضت البيِّنة الواضحة على قيادة الإمام علي، فنشأ أول انقسام إسلامي كبير. ويتفق التراثان على المعنى الحرفي للآية المتعلق بأهل الكتاب، والاختلاف في مدى تطبيق المبدأ على التاريخ الإسلامي اللاحق؛ فالعلماء السنة يرون الانقسامات الإسلامية الأولى سياسية لا دينية، نشأت من غموض الظروف لا من رفض بيِّنة واضحة. في حين يراها علماء الشيعة انقسامات دينية جذرها رفض الولاية المعيَّنة صراحة، مُوازيةً لتفرُّق أهل الكتاب رغم البيِّنة. ومع هذا الخلاف يتفق التراثان على أن من واجب المسلمين استخلاص العبرة من إخفاق أهل الكتاب والحفاظ على الوحدة المبنية على الهداية القرآنية الواضحة والتعاليم النبوية المُوثَّقة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:5:sincere-worship",
+          "title": "Sincere Worship",
+          "icon": "heart.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Mukhlisina lahu al-din (sincere to Him in religion) - the core of Islam is pure intention, worshipping Allah alone without seeking human approval, worldly gain, or spiritual pride.",
+          "whyItMatters": "External acts without sincerity are empty shells. Allah looks at hearts, not just actions. This teaches us to constantly examine and purify our intentions in worship and life.",
+          "position": "topLeft",
+          "arabicHighlight": "مُخْلِصِينَ لَهُ ٱلدِّينَ",
+          "title_urdu": "خالص عبادت",
+          "coreInsight_urdu": "مخلصین لہ الدین (دین میں اس کے لیے خالص) - اسلام کا مرکز خالص نیت ہے، صرف اللہ کی عبادت کرنا بغیر انسانی منظوری، دنیوی فائدے، یا روحانی غرور کی تلاش کے۔",
+          "whyItMatters_urdu": "خلوص کے بغیر ظاہری اعمال خالی خول ہیں۔ اللہ دلوں کو دیکھتا ہے، نہ صرف اعمال کو۔ یہ ہمیں سکھاتا ہے کہ عبادت اور زندگی میں اپنی نیتوں کو مسلسل جانچیں اور پاک کریں۔",
+          "title_ar": "العبادة الخالصة",
+          "coreInsight_ar": "مخلصين له الدين - جوهر الإسلام هو النية الخالصة، عبادة الله وحده دون طلب موافقة البشر أو المكاسب الدنيوية أو الكبرياء الروحي.",
+          "whyItMatters_ar": "الأعمال الخارجية بدون إخلاص قشور فارغة. الله ينظر إلى القلوب، وليس فقط الأعمال. يعلمنا هذا فحص وتنقية نوايانا باستمرار في العبادة والحياة."
+        },
+        {
+          "id": "98:5:monotheism",
+          "title": "Monotheism",
+          "icon": "circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Hunafa (inclining to truth/monotheism) refers to the original pure monotheism of Prophet Ibrahim, before religions became corrupted - Islam as return to primordial faith.",
+          "whyItMatters": "Islam isn't a new invention but restoration of humanity's original relationship with the Creator. This connects us to all prophets and gives our faith deep historical and spiritual roots.",
+          "position": "topRight",
+          "arabicHighlight": "حُنَفَآءَ",
+          "title_urdu": "توحید",
+          "coreInsight_urdu": "حنفاء (سچائی/توحید کی طرف مائل) نبی ابراہیم کی اصل خالص توحید کی طرف اشارہ کرتا ہے، مذاہب کے خراب ہونے سے پہلے - اسلام بطور ابتدائی ایمان کی بحالی۔",
+          "whyItMatters_urdu": "اسلام کوئی نئی ایجاد نہیں ہے بلکہ انسانیت کے خالق کے ساتھ اصل تعلق کی بحالی ہے۔ یہ ہمیں تمام انبیاء سے جوڑتا ہے اور ہمارے ایمان کو گہری تاریخی اور روحانی جڑیں دیتا ہے۔",
+          "title_ar": "التوحيد",
+          "coreInsight_ar": "حنفاء (مائلون إلى الحق/التوحيد) يشير إلى التوحيد الخالص الأصلي للنبي إبراهيم، قبل فساد الأديان - الإسلام كعودة إلى الإيمان البدائي.",
+          "whyItMatters_ar": "الإسلام ليس اختراعًا جديدًا بل استعادة لعلاقة الإنسانية الأصلية مع الخالق. يربطنا هذا بجميع الأنبياء ويعطي إيماننا جذورًا تاريخية وروحية عميقة."
+        },
+        {
+          "id": "98:5:establish-prayer",
+          "title": "Establish Prayer",
+          "icon": "figure.stand",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Yuqimu al-salah (establish prayer) - not just 'pray' but 'establish' - means making prayer a firm pillar of life, performed correctly, on time, with presence of heart.",
+          "whyItMatters": "Prayer isn't a ritual to rush through but the foundation of spiritual life. Establishing prayer transforms it from an obligation into a source of peace, guidance, and connection with Allah.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَيُقِيمُوا۟ ٱلصَّلَوٰةَ",
+          "title_urdu": "نماز قائم کرنا",
+          "coreInsight_urdu": "یقیموا الصلوۃ (نماز قائم کرو) - صرف 'نماز پڑھو' نہیں بلکہ 'قائم کرو' - کا مطلب ہے نماز کو زندگی کا مضبوط ستون بنانا، صحیح طریقے سے، وقت پر، دل کی موجودگی کے ساتھ ادا کرنا۔",
+          "whyItMatters_urdu": "نماز کوئی رسم نہیں ہے جس میں جلدی کی جائے بلکہ روحانی زندگی کی بنیاد ہے۔ نماز قائم کرنا اسے ایک فرض سے امن، رہنمائی، اور اللہ کے ساتھ تعلق کے منبع میں تبدیل کرتا ہے۔",
+          "title_ar": "إقامة الصلاة",
+          "coreInsight_ar": "يقيموا الصلاة - ليس فقط 'صلوا' بل 'أقيموا' - يعني جعل الصلاة ركنًا ثابتًا للحياة، تُؤدى بشكل صحيح، في الوقت المحدد، بحضور القلب.",
+          "whyItMatters_ar": "الصلاة ليست طقسًا للإسراع فيه بل أساس الحياة الروحية. إقامة الصلاة تحولها من واجب إلى مصدر للسلام والهداية والاتصال بالله."
+        },
+        {
+          "id": "98:5:give-zakat",
+          "title": "Give Zakat",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Yu'tu al-zakah (give zakah) - systematic wealth purification that addresses inequality, builds community solidarity, and prevents hoarding, making economics an act of worship.",
+          "whyItMatters": "Zakah transforms wealth from personal possession to trust from Allah. It creates a just economic system where the fortunate support the needy, purifying both wealth and hearts.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَيُؤْتُوا۟ ٱلزَّكَوٰةَ",
+          "title_urdu": "زکوٰۃ دینا",
+          "coreInsight_urdu": "یوتوا الزکوٰۃ (زکوٰۃ دو) - منظم دولت کی پاکیزگی جو عدم مساوات کو حل کرتی ہے، کمیونٹی کی یکجہتی بناتی ہے، اور ذخیرہ اندوزی کو روکتی ہے، معاشیات کو عبادت کا عمل بناتی ہے۔",
+          "whyItMatters_urdu": "زکوٰۃ دولت کو ذاتی ملکیت سے اللہ کی طرف سے امانت میں تبدیل کرتا ہے۔ یہ ایک منصفانہ اقتصادی نظام بناتا ہے جہاں خوش قسمت ضرورت مندوں کی مدد کرتے ہیں، دولت اور دلوں دونوں کو پاک کرتے ہیں۔",
+          "title_ar": "إيتاء الزكاة",
+          "coreInsight_ar": "يؤتوا الزكاة - تطهير منهجي للثروة يعالج عدم المساواة، ويبني تضامن المجتمع، ويمنع الاكتناز، مما يجعل الاقتصاد عملاً عباديًا.",
+          "whyItMatters_ar": "الزكاة تحول الثروة من ملكية شخصية إلى أمانة من الله. تخلق نظامًا اقتصاديًا عادلاً حيث يدعم المحظوظون المحتاجين، مطهرين الثروة والقلوب."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on this verse's fundamental message about the core of revealed religion. Sunni commentators like al-Razi emphasize that this verse refutes Christian Trinitarianism and Jewish ethnocentrism, establishing pure monotheism accessible to all humanity. Ibn Kathir stresses that these three elements - sincere monotheism, prayer, and zakah - constitute the foundation of Islam, with other teachings building upon them. Where traditions converge strongly is in rejecting the notion that salvation comes through ethnic identity, priestly mediation, or ritualistic complexity divorced from sincere faith and righteous action. Both Shia and Sunni jurisprudence build upon these foundations, though with different details in implementation. Sunni thought emphasizes the consensus of the community in understanding proper implementation, while Shia thought emphasizes guidance from the Imams in perfecting these practices. The practical convergence is significant: Muslims worldwide pray five times daily in essentially the same manner, calculate and give zakah according to similar principles, and affirm pure monotheism through the same shahada. Historical Islamic civilization's emphasis on both spiritual devotion and social welfare reflects taking this verse seriously. Contemporary Islamic revival movements, whether Shia or Sunni, typically call Muslims back to these fundamental principles when reform is needed, finding common ground in this Quranic prescription for correct religion.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے نازل شدہ دین کے مرکز کے بارے میں بنیادی پیغام پر متفق ہیں۔ سنی مفسرین جیسے الرازی زور دیتے ہیں کہ یہ آیت عیسائی تثلیث اور یہودی نسل پرستی کو رد کرتی ہے، تمام انسانیت کے لیے قابل رسائی خالص توحید قائم کرتی ہے۔ ابن کثیر زور دیتے ہیں کہ یہ تین عناصر - خالص توحید، نماز، اور زکوٰۃ - اسلام کی بنیاد بناتے ہیں، دیگر تعلیمات ان پر تعمیر ہوتی ہیں۔ جہاں روایات مضبوطی سے ملتی ہیں وہ اس تصور کو مسترد کرنے میں ہے کہ نجات نسلی شناخت، پادری کی درمیانی گی، یا رسمی پیچیدگی سے آتی ہے جو مخلص ایمان اور نیک عمل سے الگ ہو۔ شیعہ اور سنی فقہ دونوں ان بنیادوں پر تعمیر ہوتی ہیں، اگرچہ نفاذ میں مختلف تفصیلات کے ساتھ۔ سنی فکر برادری کے اجماع پر زور دیتی ہے صحیح نفاذ کو سمجھنے میں، جبکہ شیعہ فکر ان اعمال کو مکمل کرنے میں اماموں کی رہنمائی پر زور دیتی ہے۔ عملی ہم آہنگی اہم ہے: دنیا بھر کے مسلمان بنیادی طور پر اسی طریقے سے دن میں پانچ بار نماز پڑھتے ہیں، اسی طرح کے اصولوں کے مطابق زکوٰۃ کا حساب لگاتے اور دیتے ہیں، اور وہی شہادت کے ذریعے خالص توحید کی تصدیق کرتے ہیں۔ تاریخی اسلامی تہذیب کا روحانی عقیدت اور سماجی بہبود دونوں پر زور اس آیت کو سنجیدگی سے لینے کی عکاسی کرتا ہے۔ عصری اسلامی احیاء کی تحریکیں، چاہے شیعہ ہوں یا سنی، عام طور پر مسلمانوں کو ان بنیادی اصولوں کی طرف واپس بلاتی ہیں جب اصلاح کی ضرورت ہو، اس قرآنی نسخے میں صحیح دین کے لیے مشترکہ بنیاد پاتے ہوئے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على الرسالة الجوهرية لهذه الآية المتمثلة في أصل الدين الإلهي المنزَّل. ويُبرز المفسرون السنة كالرازي أن الآية تدحض التثليث المسيحي والانغلاق العرقي اليهودي مُقرِّرةً التوحيد الخالص في متناول جميع البشر. ويُشدِّد ابن كثير على أن هذه العناصر الثلاثة -التوحيد المخلص والصلاة والزكاة- تُشكِّل أساس الإسلام وتبني عليها سائر تعاليمه. والتلاقي بين التراثين بالغ القوة في رفض فكرة أن الخلاص يتوقف على الانتماء العرقي أو الوساطة الكهنوتية أو التعقيد الطقوسي المنفصل عن الإيمان الصادق والعمل الصالح. وكلٌّ من الفقه الشيعي والسني يقوم على هذه الأسس، وإن اختلفا في تفاصيل التطبيق. فالفكر السني يُؤكِّد الإجماع الجماعي في فهم طريقة التطبيق الصحيحة، في حين يُؤكِّد الفكر الشيعي على هداية الأئمة في إتقان هذه العبادات وإكمالها. والتلاقي العملي لافت: يُصلِّي مسلمو العالم خمس صلوات يومياً بصورة متقاربة في الجوهر، ويحسبون الزكاة ويؤدونها وفق مبادئ متشابهة، ويُقرُّون التوحيد الخالص بالشهادة ذاتها. وما أنجزته الحضارة الإسلامية التاريخية في تلازم التعبد الروحي والرعاية الاجتماعية يُجسِّد الأخذ الجاد بهذه الآية. وحركات التجديد الإسلامي المعاصرة، شيعيةً كانت أم سنية، تعود في الغالب إلى هذه المبادئ الجوهرية حين يُطلَب الإصلاح، مُلتقيةً في هذه الوصفة القرآنية للدين القيِّم."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:6:worst-of-creatures",
+          "title": "Worst of Creatures",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Sharr al-bariyyah (worst of creatures) - harsh but justified description of those who reject clear truth. Refusing guidance after receiving it represents the ultimate waste of human potential.",
+          "whyItMatters": "This verse warns that intellectual arrogance or stubborn rejection of truth degrades humanity below its honored status. We must remain humble before clear evidence, regardless of our pride.",
+          "position": "topLeft",
+          "arabicHighlight": "شَرُّ ٱلْبَرِيَّةِ",
+          "title_urdu": "بدترین مخلوق",
+          "coreInsight_urdu": "شر البریہ (بدترین مخلوق) - سخت لیکن واضح سچائی کو مسترد کرنے والوں کی درست تفصیل۔ اسے حاصل کرنے کے بعد رہنمائی سے انکار انسانی صلاحیت کے حتمی ضیاع کی نمائندگی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت خبردار کرتی ہے کہ فکری تکبر یا سچائی کی ضدی تردید انسانیت کو اس کی معزز حیثیت سے نیچے گراتی ہے۔ ہمیں اپنے غرور سے قطع نظر واضح ثبوت کے سامنے عاجز رہنا چاہیے۔",
+          "title_ar": "شر البرية",
+          "coreInsight_ar": "شر البرية - وصف قاسٍ لكن مبرر لمن يرفض الحق الواضح. رفض الهداية بعد تلقيها يمثل أسوأ إهدار للإمكانات البشرية.",
+          "whyItMatters_ar": "تحذر هذه الآية من أن الغرور الفكري أو الرفض العنيد للحق يحط من الإنسانية دون مكانتها المكرمة. يجب أن نبقى متواضعين أمام الأدلة الواضحة، بغض النظر عن كبريائنا."
+        },
+        {
+          "id": "98:6:fire-of-hell",
+          "title": "Fire of Hell",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Nar jahannam (fire of Hell) - the consequence of conscious rejection. Hell isn't arbitrary punishment but the natural outcome of choosing falsehood over manifest truth.",
+          "whyItMatters": "Understanding Hell as consequence, not revenge, helps us see divine justice. Allah gives clear guidance; Hell results from our choice to reject it despite knowing better.",
+          "position": "topRight",
+          "arabicHighlight": "فِى نَارِ جَهَنَّمَ",
+          "title_urdu": "جہنم کی آگ",
+          "coreInsight_urdu": "نار جہنم (جہنم کی آگ) - شعوری تردید کا نتیجہ۔ جہنم من مانی سزا نہیں ہے بلکہ واضح سچائی پر جھوٹ کا انتخاب کرنے کا قدرتی نتیجہ ہے۔",
+          "whyItMatters_urdu": "جہنم کو نتیجہ کے طور پر سمجھنا، نہ کہ انتقام، ہمیں الہی انصاف دیکھنے میں مدد کرتا ہے۔ اللہ واضح رہنمائی دیتا ہے؛ جہنم بہتر جاننے کے باوجود اسے مسترد کرنے کے ہمارے انتخاب کا نتیجہ ہے۔",
+          "title_ar": "نار جهنم",
+          "coreInsight_ar": "نار جهنم - عاقبة الرفض الواعي. جهنم ليست عقوبة تعسفية بل النتيجة الطبيعية لاختيار الباطل على الحق الواضح.",
+          "whyItMatters_ar": "فهم جهنم كعاقبة، وليس انتقامًا، يساعدنا على رؤية العدل الإلهي. الله يعطي هداية واضحة؛ جهنم نتيجة اختيارنا رفضها رغم معرفتنا الأفضل."
+        },
+        {
+          "id": "98:6:eternally-therein",
+          "title": "Eternally Therein",
+          "icon": "infinity",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Khalidina fiha (abiding eternally) - the permanence of consequences in the Hereafter, contrasting with temporary worldly existence. Our choices have eternal weight.",
+          "whyItMatters": "Eternity transforms decision-making. When we remember that our choices echo forever, temporary pleasures lose their allure and principled stands become easier despite short-term costs.",
+          "position": "bottomLeft",
+          "arabicHighlight": "خَٰلِدِينَ فِيهَآ",
+          "title_urdu": "اس میں ہمیشہ",
+          "coreInsight_urdu": "خالدین فیہا (اس میں ہمیشہ رہنے والے) - آخرت میں نتائج کی مستقل ہونا، عارضی دنیوی وجود کے برعکس۔ ہماری پسند کا ابدی وزن ہے۔",
+          "whyItMatters_urdu": "ابدیت فیصلہ سازی کو تبدیل کرتی ہے۔ جب ہم یاد رکھتے ہیں کہ ہماری پسند ہمیشہ کے لیے گونجتی ہے، عارضی لذتیں اپنی کشش کھو دیتی ہیں اور اصولی موقف قلیل مدتی اخراجات کے باوجود آسان ہو جاتے ہیں۔",
+          "title_ar": "خالدين فيها",
+          "coreInsight_ar": "خالدين فيها - دوام العواقب في الآخرة، تتناقض مع الوجود الدنيوي المؤقت. اختياراتنا لها وزن أبدي.",
+          "whyItMatters_ar": "الأبدية تحول اتخاذ القرار. عندما نتذكر أن اختياراتنا تتردد إلى الأبد، تفقد الملذات المؤقتة جاذبيتها وتصبح المواقف المبدئية أسهل رغم التكاليف قصيرة الأجل."
+        },
+        {
+          "id": "98:6:disbelieved-people",
+          "title": "Disbelieved People",
+          "icon": "person.crop.circle.badge.xmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Alladhina kafaru (those who disbelieved) - active rejection, not passive ignorance. The verse addresses those who had access to truth but chose to cover and reject it.",
+          "whyItMatters": "This distinguishes between innocent ignorance and willful rejection. Accountability increases with knowledge and access to truth. We cannot claim ignorance after receiving clear evidence.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلَّذِينَ كَفَرُوا۟",
+          "title_urdu": "کفر کرنے والے",
+          "coreInsight_urdu": "الذین کفروا (جنہوں نے کفر کیا) - فعال تردید، نہ کہ غیر فعال جہالت۔ آیت ان لوگوں کو خطاب کرتی ہے جن کو سچائی تک رسائی تھی لیکن انہوں نے اسے چھپانے اور مسترد کرنے کا انتخاب کیا۔",
+          "whyItMatters_urdu": "یہ معصوم جہالت اور جان بوجھ کر تردید کے درمیان فرق کرتا ہے۔ علم اور سچائی تک رسائی کے ساتھ جوابدہی بڑھتی ہے۔ ہم واضح ثبوت حاصل کرنے کے بعد جہالت کا دعویٰ نہیں کر سکتے۔",
+          "title_ar": "الذين كفروا",
+          "coreInsight_ar": "الذين كفروا - رفض نشط، وليس جهل سلبي. تخاطب الآية أولئك الذين كان لديهم وصول إلى الحق لكن اختاروا تغطيته ورفضه.",
+          "whyItMatters_ar": "يميز هذا بين الجهل البريء والرفض المتعمد. تزداد المساءلة مع المعرفة والوصول إلى الحق. لا يمكننا ادعاء الجهل بعد تلقي الأدلة الواضحة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia scholars agree on the basic meaning: those among Jews, Christians, and polytheists who recognized Muhammad's prophethood yet rejected him are the worst of creatures. Classical Sunni commentators like Ibn Kathir emphasize that this harsh judgment applies specifically to those who knew truth yet rejected it from envy, arrogance, or worldly attachment. Al-Qurtubi notes the verse's warning to Muslims not to become like those described by rejecting clear Islamic teachings. Where interpretations diverge is in application beyond the Prophet's immediate context. Shia exegesis applies the principle to those who rejected Ali's designated leadership despite clear evidence at Ghadir Khumm and elsewhere, viewing this as continuous with rejecting the Prophet's authority. Sunni scholarship generally doesn't apply this verse to early Islamic political disputes, viewing those as matters of juristic disagreement rather than rejection of clear evidence. Both traditions agree that the verse establishes a hierarchy of spiritual rank based on acceptance or rejection of clear truth, not merely on religious labels or ethnic identity. Historical Muslim treatment of People of the Book reflects taking this verse seriously: protection and respect for those who maintain their ancestral faiths in good conscience, but severe disapproval of those who actively oppose Islam despite recognizing its truth. Contemporary application finds both traditions warning against internal divisions that replicate the failures this verse describes.",
+    "layer4_urdu": "سنی اور شیعہ علماء بنیادی معنی پر متفق ہیں: یہود، عیسائیوں، اور مشرکین میں سے جن لوگوں نے محمد صلی اللہ علیہ وآلہ وسلم کی نبوت کو پہچانا پھر بھی اسے مسترد کیا وہ مخلوقات میں بدترین ہیں۔ کلاسیکی سنی مفسرین جیسے ابن کثیر زور دیتے ہیں کہ یہ سخت فیصلہ خاص طور پر ان لوگوں پر لاگو ہوتا ہے جو حق کو جانتے تھے پھر بھی حسد، تکبر، یا دنیوی لگاؤ سے اسے مسترد کیا۔ القرطبی نوٹ کرتے ہیں کہ آیت مسلمانوں کو خبردار کرتی ہے کہ وہ واضح اسلامی تعلیمات کو مسترد کر کے ان بیان کردہ لوگوں کی طرح نہ بنیں۔ جہاں تشریحات مختلف ہوتی ہیں وہ نبی کے فوری تناظر سے آگے اطلاق میں ہے۔ شیعہ تفسیر اصول کو ان لوگوں پر لاگو کرتی ہے جنہوں نے غدیر خم اور دیگر جگہوں پر واضح ثبوت کے باوجود علی کی مقرر کردہ قیادت کو مسترد کیا، اسے نبی کے اختیار کو مسترد کرنے کے ساتھ مسلسل دیکھتے ہوئے۔ سنی علم عموماً ابتدائی اسلامی سیاسی تنازعات پر اس آیت کو لاگو نہیں کرتا، انہیں واضح ثبوت کے انکار کی بجائے فقہی اختلاف کے معاملات کے طور پر دیکھتے ہوئے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت واضح حق کی قبولیت یا انکار کی بنیاد پر روحانی درجے کا ایک درجہ بندی قائم کرتی ہے، نہ کہ محض مذہبی عنوانات یا نسلی شناخت پر۔ اہل کتاب کے ساتھ تاریخی مسلم سلوک اس آیت کو سنجیدگی سے لینے کی عکاسی کرتا ہے: ان لوگوں کے لیے تحفظ اور احترام جو اپنے آبائی عقائد کو نیک ضمیری سے برقرار رکھتے ہیں، لیکن ان لوگوں کی سخت ناپسندیدگی جو اسلام کی سچائی کو پہچاننے کے باوجود فعال طور پر مخالفت کرتے ہیں۔ عصری اطلاق میں دونوں روایات اندرونی تقسیموں کے خلاف خبردار کرتی ہیں جو اس آیت میں بیان کردہ ناکامیوں کو دوہراتی ہیں۔",
+    "layer4_ar": "يتفق علماء السنة والشيعة على المعنى الجوهري للآية: إن الكافرين من أهل الكتاب والمشركين الذين عرفوا نبوة محمد صلى الله عليه وآله وسلم ثم جحدوه هم شر البرية. ويُبرز مفسرو السنة الكلاسيكيون كابن كثير أن هذا الحكم القاسي يختص تحديداً بمن عرفوا الحق فرفضوه حسداً أو تكبراً أو تعلقاً بالدنيا. ويُنبِّه القرطبي إلى ما تتضمنه الآية من تحذير للمسلمين ألا يكونوا كمن وصفت الآية برفضهم التعاليم الإسلامية الصريحة. وموطن الاختلاف في التفسير يتعلق بمدى التطبيق خارج السياق المباشر للنبي صلى الله عليه وآله وسلم؛ فالتفسير الشيعي يُطبِّق المبدأ على من رفضوا ولاية الإمام علي المعيَّنة رغم الدليل الواضح في غدير خمٍّ وغيره، ويرى ذلك استمراراً منطقياً لرفض سلطة النبي. في حين أن العلم السني لا يُطبِّق هذه الآية عموماً على الخلافات السياسية الإسلامية الأولى، إذ يراها شؤون اجتهاد فقهي لا رفضاً لدليل قاطع. ويتفق التراثان على أن الآية تُقرِّر تراتبية روحية مبناها قبول الحق أو رفضه لا مجرد الانتماء الديني أو الهوية العرقية. وقد انعكس تعامل المسلمين التاريخي مع أهل الذمة على هذا الفهم: الحماية والاحترام لمن يُديم دينه المورَّث بضمير حي، والاستنكار الشديد لمن يُعادي الإسلام رغم إدراكه حقيقته. ويجد المسلمون المعاصرون من كلا التراثين في هذه الآية تحذيراً من التقاطعات الداخلية التي تُعيد إنتاج الإخفاقات التي تصفها الآية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:7:best-of-creatures",
+          "title": "Best of Creatures",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Khayr al-bariyyah (best of creatures) - those who believe and do righteous deeds achieve humanity's highest potential, fulfilling the purpose for which we were created.",
+          "whyItMatters": "This elevates believers to the pinnacle of creation, not through ethnic or tribal superiority but through faith and action. Excellence is earned through devotion and good works.",
+          "position": "topLeft",
+          "arabicHighlight": "خَيْرُ ٱلْبَرِيَّةِ",
+          "title_urdu": "بہترین مخلوق",
+          "coreInsight_urdu": "خیر البریہ (بہترین مخلوق) - جو لوگ ایمان لاتے ہیں اور نیک اعمال کرتے ہیں وہ انسانیت کی اعلیٰ ترین صلاحیت حاصل کرتے ہیں، اس مقصد کو پورا کرتے ہوئے جس کے لیے ہم پیدا کیے گئے۔",
+          "whyItMatters_urdu": "یہ مومنین کو تخلیق کی چوٹی تک بلند کرتا ہے، نسلی یا قبائلی برتری کے ذریعے نہیں بلکہ ایمان اور عمل کے ذریعے۔ عمدگی عقیدت اور اچھے کاموں کے ذریعے حاصل کی جاتی ہے۔",
+          "title_ar": "خير البرية",
+          "coreInsight_ar": "خير البرية - أولئك الذين يؤمنون ويعملون الصالحات يحققون أعلى إمكانات الإنسانية، محققين الغرض الذي خُلقنا من أجله.",
+          "whyItMatters_ar": "يرفع هذا المؤمنين إلى قمة الخلق، ليس من خلال التفوق العرقي أو القبلي بل من خلال الإيمان والعمل. التميز يُكتسب من خلال الإخلاص والأعمال الصالحة."
+        },
+        {
+          "id": "98:7:believed-and-worked",
+          "title": "Believed and Worked",
+          "icon": "hands.and.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Amanu wa 'amilu al-salihat (believed and done righteous deeds) - faith and action are inseparable twins. Belief without works is incomplete, and works without faith lack spiritual foundation.",
+          "whyItMatters": "This formula appears throughout the Quran, teaching that genuine faith naturally produces good actions. Our deeds testify to the sincerity of our beliefs.",
+          "position": "topRight",
+          "arabicHighlight": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "ایمان اور عمل",
+          "coreInsight_urdu": "آمنوا و عملوا الصالحات (ایمان لائے اور نیک اعمال کیے) - ایمان اور عمل الگ نہیں ہو سکتے جڑواں ہیں۔ کاموں کے بغیر ایمان نامکمل ہے، اور ایمان کے بغیر کاموں میں روحانی بنیاد کی کمی ہے۔",
+          "whyItMatters_urdu": "یہ فارمولہ پورے قرآن میں ظاہر ہوتا ہے، سکھاتا ہے کہ حقیقی ایمان قدرتی طور پر اچھے اعمال پیدا کرتا ہے۔ ہمارے اعمال ہمارے عقائد کی سچائی کی گواہی دیتے ہیں۔",
+          "title_ar": "آمنوا وعملوا",
+          "coreInsight_ar": "آمنوا وعملوا الصالحات - الإيمان والعمل توأمان لا ينفصلان. الإيمان بدون أعمال غير مكتمل، والأعمال بدون إيمان تفتقر إلى الأساس الروحي.",
+          "whyItMatters_ar": "تظهر هذه الصيغة في جميع أنحاء القرآن، تعلم أن الإيمان الحقيقي ينتج بشكل طبيعي أعمالاً صالحة. أعمالنا تشهد على صدق معتقداتنا."
+        },
+        {
+          "id": "98:7:righteous-deeds",
+          "title": "Righteous Deeds",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Al-salihat (righteous deeds) encompasses all actions that benefit self, family, community, and creation - from honesty in business to kindness to animals, from charity to environmental care.",
+          "whyItMatters": "Righteousness isn't limited to ritual worship but includes every aspect of life. Islam makes no distinction between 'religious' and 'secular' - all good deeds done with right intention are worship.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "نیک اعمال",
+          "coreInsight_urdu": "الصالحات (نیک اعمال) تمام اعمال کو شامل کرتے ہیں جو خود، خاندان، کمیونٹی، اور تخلیق کو فائدہ پہنچاتے ہیں - کاروبار میں ایمانداری سے لے کر جانوروں کے ساتھ مہربانی تک، خیرات سے ماحولیاتی دیکھ بھال تک۔",
+          "whyItMatters_urdu": "نیکی صرف رسمی عبادت تک محدود نہیں ہے بلکہ زندگی کے ہر پہلو کو شامل کرتی ہے۔ اسلام 'مذہبی' اور 'سیکولر' کے درمیان کوئی فرق نہیں کرتا - صحیح نیت کے ساتھ کیے گئے تمام اچھے اعمال عبادت ہیں۔",
+          "title_ar": "الصالحات",
+          "coreInsight_ar": "الصالحات تشمل جميع الأعمال التي تفيد الذات والأسرة والمجتمع والخلق - من الأمانة في التجارة إلى اللطف مع الحيوانات، من الصدقة إلى الرعاية البيئية.",
+          "whyItMatters_ar": "الصلاح ليس مقتصرًا على العبادة الشعائرية بل يشمل كل جانب من جوانب الحياة. الإسلام لا يفرق بين 'ديني' و'علماني' - جميع الأعمال الصالحة المنجزة بنية صحيحة هي عبادة."
+        }
+      ]
+    },
+    "layer4": "While Shia and Sunni scholars agree on the verse's basic meaning, they differ on its specific application. Sunni commentators like Ibn Kathir explain it as referring to all sincere Muslims who combine correct belief with righteous action, emphasizing that the criteria are accessible to anyone who believes correctly and acts accordingly. Al-Qurtubi stresses that being 'best of creatures' depends on maintaining both faith and action throughout life, not merely claiming belief. Shia exegesis accepts this general application but emphasizes the verse's specific revelation about Ali and his followers, viewing this as neither exclusive nor metaphorical but rather identifying the exemplary embodiment of the verse's criteria. Multiple Sunni sources, including works by al-Suyuti and al-Tabari, also record traditions connecting this verse to Ali, though Sunni scholars generally interpret these traditions as honoring Ali rather than establishing a sectarian distinction. Both traditions agree that combining sincere faith with righteous action represents the highest human achievement and the purpose of revelation. Historical Islamic scholarship across both traditions has recognized certain individuals as embodying 'best of creatures' status: the early Muslims who sacrificed everything for Islam, scholars who dedicated lives to preserving and teaching faith, and righteous servants who combined devotion with service. Contemporary Muslims can find inspiration in this verse regardless of sectarian affiliation, striving to embody sincere faith and righteous action.",
+    "layer4_urdu": "جبکہ شیعہ اور سنی علماء آیت کے بنیادی معنی پر متفق ہیں، وہ اس کے مخصوص اطلاق پر مختلف ہیں۔ سنی مفسرین جیسے ابن کثیر اسے تمام مخلص مسلمانوں کی طرف اشارہ کے طور پر وضاحت کرتے ہیں جو صحیح عقیدے کو نیک عمل کے ساتھ ملاتے ہیں، اس بات پر زور دیتے ہوئے کہ معیار کسی کے لیے بھی قابل رسائی ہیں جو صحیح طور پر ایمان لائے اور اسی کے مطابق عمل کرے۔ القرطبی زور دیتے ہیں کہ 'مخلوقات میں بہترین' ہونا پوری زندگی ایمان اور عمل دونوں کو برقرار رکھنے پر منحصر ہے، نہ کہ محض ایمان کا دعویٰ کرنے پر۔ شیعہ تفسیر اس عام اطلاق کو قبول کرتی ہے لیکن علی اور ان کے پیروکاروں کے بارے میں آیت کے مخصوص نزول پر زور دیتی ہے، اسے نہ خاص اور نہ استعاراتی کے طور پر دیکھتے ہوئے بلکہ آیت کے معیار کی مثالی تجسیم کی شناخت کرتے ہوئے۔ متعدد سنی ذرائع، بشمول السیوطی اور الطبری کے کام، بھی اس آیت کو علی سے جوڑنے والی روایات کو ریکارڈ کرتے ہیں، اگرچہ سنی علماء عموماً ان روایات کو فرقہ وارانہ امتیاز قائم کرنے کی بجائے علی کی عزت کے طور پر تشریح کرتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ مخلص ایمان کو نیک عمل کے ساتھ ملانا سب سے اونچی انسانی کامیابی اور وحی کا مقصد ہے۔ دونوں روایات میں تاریخی اسلامی علم نے کچھ افراد کو 'مخلوقات میں بہترین' کی حیثیت کو اپنانے والے کے طور پر تسلیم کیا ہے: ابتدائی مسلمان جنہوں نے اسلام کے لیے سب کچھ قربان کیا، علماء جنہوں نے ایمان کو محفوظ اور سکھانے کے لیے زندگیاں وقف کیں، اور نیک بندے جنہوں نے عقیدت کو خدمت کے ساتھ ملایا۔ عصری مسلمان فرقہ وارانہ وابستگی سے قطع نظر اس آیت میں حوصلہ پا سکتے ہیں، مخلص ایمان اور نیک عمل کو اپنانے کی کوشش کرتے ہوئے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الأساسي للآية غير أنهم يختلفون في تطبيقها المحدَّد. فمفسرو السنة كابن كثير يُفسِّرونها بوصفها شاملةً لجميع المسلمين الصادقين الذين يجمعون الاعتقاد الصحيح بالعمل الصالح، مُشدِّدين على أن المعيار في متناول كل من آمن صادقاً وعمل وفق إيمانه. ويُشدِّد القرطبي على أن كون المرء \"خَيرَ البَرِيَّة\" مشروط بالمحافظة على الإيمان والعمل معاً طوال الحياة لا بمجرد ادعاء الإيمان. ويقبل التفسير الشيعي هذا التطبيق العام لكنه يُؤكِّد على نزول الآية تحديداً في شأن علي وشيعته، ويرى ذلك ليس استثناءً ولا مجازاً بل تحديداً للتجسيد النموذجي الأكمل لمعيار الآية. ومصادر سنية متعددة كمؤلفات السيوطي والطبري تُورد أيضاً روايات تربط الآية بعلي، وإن كان علماء السنة يُؤوِّلون هذه الروايات عموماً باعتبارها إكراماً لعلي لا إثباتاً لتمييز مذهبي. ويتفق التراثان على أن الجمع بين الإيمان الصادق والعمل الصالح يُمثِّل أعلى إنجاز بشري والغاية من الوحي. وقد اعترف الدرس الإسلامي التاريخي في كلا التراثين بأفراد بعينهم على أنهم يجسِّدون مرتبة \"خَيرِ البَرِيَّة\": الصحابة الأوائل الذين ضحوا بكل شيء في سبيل الإسلام، والعلماء الذين وقفوا حياتهم على صون الدين ونشره، والصالحون الذين جمعوا بين العبادة والخدمة. وبإمكان المسلمين المعاصرين مهما اختلفت انتماءاتهم المذهبية أن يجدوا في هذه الآية إلهاماً حثيثاً على تجسيد الإيمان الصادق والعمل الصالح."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "98:8:gardens-of-eden",
+          "title": "Gardens of Eden",
+          "icon": "leaf.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Jannat 'adn (gardens of perpetual residence) - 'Adn means permanence and settlement, indicating Paradise as our true home, while this world is temporary lodging.",
+          "whyItMatters": "Recognizing this world as temporary and the Hereafter as permanent shifts our priorities. We invest in eternity rather than hoarding temporary pleasures that we must eventually leave behind.",
+          "position": "topLeft",
+          "arabicHighlight": "جَنَّٰتُ عَدْنٍۢ",
+          "title_urdu": "عدن کے باغات",
+          "coreInsight_urdu": "جنت عدن (مستقل قیام کے باغات) - 'عدن' کا مطلب مستقل اور آبادکاری ہے، جو جنت کو ہمارے حقیقی گھر کے طور پر ظاہر کرتا ہے، جبکہ یہ دنیا عارضی قیام گاہ ہے۔",
+          "whyItMatters_urdu": "اس دنیا کو عارضی اور آخرت کو مستقل کے طور پر پہچاننا ہماری ترجیحات کو بدلتا ہے۔ ہم ابدیت میں سرمایہ کاری کرتے ہیں نہ کہ عارضی لذتوں کو جمع کرتے ہیں جنہیں ہمیں بالآخر چھوڑنا ہوگا۔",
+          "title_ar": "جنات عدن",
+          "coreInsight_ar": "جنات عدن - 'عدن' تعني الدوام والاستقرار، مما يشير إلى الجنة كوطننا الحقيقي، بينما هذا العالم مسكن مؤقت.",
+          "whyItMatters_ar": "إدراك هذا العالم كمؤقت والآخرة كدائم يغير أولوياتنا. نستثمر في الأبدية بدلاً من تكديس الملذات المؤقتة التي يجب أن نتركها في النهاية."
+        },
+        {
+          "id": "98:8:rivers-flowing",
+          "title": "Rivers Flowing",
+          "icon": "water.waves",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Tajri min tahtiha al-anhar (rivers flowing beneath) - constant flowing water symbolizes abundance, life, refreshment, and the continuous blessings that never run dry in Paradise.",
+          "whyItMatters": "In the desert context of revelation, flowing rivers represented ultimate luxury and comfort. Paradise offers perpetual refreshment and satisfaction, unlike worldly pleasures that quickly fade.",
+          "position": "topRight",
+          "arabicHighlight": "تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ",
+          "title_urdu": "بہتی ندیاں",
+          "coreInsight_urdu": "تجری من تحتہا الانہار (اس کے نیچے سے بہتی ندیاں) - مسلسل بہتا پانی فراوانی، زندگی، تازگی، اور مسلسل نعمتوں کی علامت ہے جو جنت میں کبھی خشک نہیں ہوتیں۔",
+          "whyItMatters_urdu": "وحی کے صحرائی تناظر میں، بہتی ندیاں حتمی عیش و عشرت اور آرام کی نمائندگی کرتی تھیں۔ جنت مستقل تازگی اور اطمینان پیش کرتی ہے، دنیوی لذتوں کے برعکس جو جلدی ختم ہو جاتی ہیں۔",
+          "title_ar": "أنهار جارية",
+          "coreInsight_ar": "تجري من تحتها الأنهار - المياه الجارية باستمرار ترمز إلى الوفرة والحياة والانتعاش والبركات المستمرة التي لا تنضب أبدًا في الجنة.",
+          "whyItMatters_ar": "في سياق الوحي الصحراوي، مثلت الأنهار الجارية الرفاهية والراحة المطلقة. الجنة تقدم انتعاشًا ورضا دائمًا، على عكس الملذات الدنيوية التي تتلاشى بسرعة."
+        },
+        {
+          "id": "98:8:mutual-pleasure",
+          "title": "Mutual Pleasure",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Radiya Allahu 'anhum wa radu 'anhu (Allah pleased with them and they with Him) - the ultimate success is mutual contentment between Creator and creation, perfect harmony and love.",
+          "whyItMatters": "Paradise isn't just physical comfort but achieving the relationship with Allah we were created for - Him being pleased with us and us finding complete satisfaction in Him.",
+          "position": "bottomLeft",
+          "arabicHighlight": "رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ",
+          "title_urdu": "باہمی خوشنودی",
+          "coreInsight_urdu": "رضی اللہ عنہم و رضوا عنہ (اللہ ان سے راضی اور وہ اس سے راضی) - حتمی کامیابی خالق اور مخلوق کے درمیان باہمی اطمینان ہے، کامل ہم آہنگی اور محبت۔",
+          "whyItMatters_urdu": "جنت صرف جسمانی آرام نہیں ہے بلکہ اللہ کے ساتھ اس تعلق کو حاصل کرنا ہے جس کے لیے ہم پیدا کیے گئے - اس کا ہم سے راضی ہونا اور ہمارا اس میں مکمل اطمینان حاصل کرنا۔",
+          "title_ar": "الرضا المتبادل",
+          "coreInsight_ar": "رضي الله عنهم ورضوا عنه - النجاح النهائي هو الرضا المتبادل بين الخالق والمخلوق، الانسجام والمحبة الكاملة.",
+          "whyItMatters_ar": "الجنة ليست مجرد راحة جسدية بل تحقيق العلاقة مع الله التي خُلقنا من أجلها - كونه راضيًا عنا ونحن نجد رضا كاملاً فيه."
+        },
+        {
+          "id": "98:8:feared-his-lord",
+          "title": "Feared His Lord",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Khashiya rabbahu (feared his Lord) - not terror but awe-filled reverence that prevents wrongdoing. Khashyah is fear combined with knowledge and love, the hallmark of true believers.",
+          "whyItMatters": "Healthy fear of Allah motivates righteousness without causing despair. It's awareness that our actions matter to the One we love most, preventing us from disappointing Him.",
+          "position": "bottomRight",
+          "arabicHighlight": "لِمَنْ خَشِىَ رَبَّهُۥ",
+          "title_urdu": "اپنے رب سے ڈرا",
+          "coreInsight_urdu": "خشی ربہ (اپنے رب سے ڈرا) - دہشت نہیں بلکہ خوف سے بھرا احترام جو غلط کاری کو روکتا ہے۔ خشیہ علم اور محبت کے ساتھ خوف ہے، حقیقی مومنین کی علامت۔",
+          "whyItMatters_urdu": "اللہ کا صحت مند خوف مایوسی کا باعث بنے بغیر نیکی کی تحریک دیتا ہے۔ یہ شعور ہے کہ ہمارے اعمال اس کے لیے اہمیت رکھتے ہیں جس سے ہم سب سے زیادہ محبت کرتے ہیں، ہمیں اسے مایوس کرنے سے روکتا ہے۔",
+          "title_ar": "خشي ربه",
+          "coreInsight_ar": "خشي ربه - ليس رعبًا بل توقيرًا مملوءًا بالخشية يمنع الإساءة. الخشية هي خوف مقترن بالمعرفة والمحبة، علامة المؤمنين الحقيقيين.",
+          "whyItMatters_ar": "الخوف الصحي من الله يحفز الصلاح دون التسبب في اليأس. إنه وعي بأن أفعالنا مهمة لمن نحبه أكثر، مما يمنعنا من إحباطه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on this verse's basic promise: eternal Paradise and divine pleasure for those who maintain God-consciousness throughout life. Sunni scholars like al-Razi emphasize that the mutual pleasure represents the perfection of spiritual station, where servants love what Allah loves and please in what Allah decrees. Ibn Kathir stresses that Paradise's physical delights, while real, are less significant than the spiritual reward of divine pleasure and proximity. Where traditions differ is in connecting verses seven and eight specifically to Ali and his followers. Shia exegesis maintains this connection based on authenticated hadiths, viewing Ali and sincere Shia as the primary and perfect embodiment of these verses' criteria. Sunni scholarship acknowledges Ali's excellence and certain traditions connecting him to these verses, but generally interprets the verses as applying to all sincere Muslims without specific sectarian implications. Both traditions agree that the ultimate reward isn't merely sensory pleasure but rather spiritual fulfillment through divine proximity and pleasure. Historical Islamic spirituality across both traditions has emphasized that Paradise's greatest gift is seeing Allah (according to Sunni view) or experiencing Allah's infinite manifestations (according to Shia view), with all physical delights being secondary. Contemporary Muslims from both traditions can find motivation in this verse to maintain taqwa (God-consciousness) through life's challenges, confident that temporary difficulties lead to permanent fulfillment for those who remain faithful.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کے بنیادی وعدے پر متفق ہیں: ان لوگوں کے لیے ابدی جنت اور الٰہی خوشنودی جو پوری زندگی اللہ کا شعور برقرار رکھتے ہیں۔ سنی علماء جیسے الرازی زور دیتے ہیں کہ باہمی خوشنودی روحانی مقام کی کمال کی نمائندگی کرتی ہے، جہاں بندے اس سے محبت کرتے ہیں جس سے اللہ محبت کرتا ہے اور اس میں خوش ہوتے ہیں جو اللہ فیصلہ کرتا ہے۔ ابن کثیر زور دیتے ہیں کہ جنت کی جسمانی لذتیں، جبکہ حقیقی ہیں، الٰہی خوشنودی اور قربت کے روحانی اجر سے کم اہم ہیں۔ جہاں روایات مختلف ہیں وہ آیات سات اور آٹھ کو خاص طور پر علی اور ان کے پیروکاروں سے جوڑنے میں ہے۔ شیعہ تفسیر مستند احادیث کی بنیاد پر اس تعلق کو برقرار رکھتی ہے، علی اور مخلص شیعہ کو ان آیات کے معیار کے بنیادی اور کامل مجسمے کے طور پر دیکھتے ہوئے۔ سنی علم علی کی فضیلت اور ان آیات سے انہیں جوڑنے والی کچھ روایات کو تسلیم کرتا ہے، لیکن عموماً آیات کو مخصوص فرقہ وارانہ مفہوم کے بغیر تمام مخلص مسلمانوں پر لاگو ہونے کے طور پر تشریح کرتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ حتمی اجر محض حسی لذت نہیں بلکہ الٰہی قربت اور خوشنودی کے ذریعے روحانی تکمیل ہے۔ دونوں روایات میں تاریخی اسلامی روحانیت نے زور دیا ہے کہ جنت کا سب سے بڑا تحفہ اللہ کو دیکھنا ہے (سنی نقطہ نظر کے مطابق) یا اللہ کے لامتناہی مظاہر کا تجربہ کرنا (شیعہ نقطہ نظر کے مطابق)، تمام جسمانی لذتوں کے ساتھ ثانوی ہونے کے ساتھ۔ دونوں روایات سے عصری مسلمان اس آیت میں زندگی کے چیلنجوں میں تقویٰ (اللہ کا شعور) برقرار رکھنے کی ترغیب پا سکتے ہیں، اس بات پر یقین رکھتے ہوئے کہ عارضی مشکلات ان لوگوں کے لیے مستقل تکمیل کی طرف لے جاتی ہیں جو وفادار رہتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على الوعد الأساسي لهذه الآية: الجنة الأبدية ورضوان الله لمن حافظوا على مراقبة الله طوال حياتهم. ويُشدِّد علماء السنة كالرازي على أن الرضا المتبادل يُمثِّل كمال الحال الروحية، حيث يُحبُّ العباد ما يُحبه الله ويرضون بما يقضيه. ويُؤكِّد ابن كثير أن نعيم الجنة المادي، مع حقيقته الثابتة، يظل دون مكانة الجزاء الروحي المتمثل في الرضوان الإلهي والقرب منه. وموطن الاختلاف في ربط الآيتين السابعة والثامنة تحديداً بعلي وشيعته؛ إذ يُثبِّت التفسير الشيعي هذا الارتباط استناداً إلى أحاديث موثَّقة، ويرى في علي وشيعته الصادقين التجسيد الأول والأكمل لمعيار الآيتين. ويُقرُّ العلم السني بفضل علي ويُورد بعض الروايات التي تصله بهاتين الآيتين، غير أنه يُفسِّرها عموماً بوصفها شاملةً لجميع المسلمين الصادقين دون تمييز مذهبي. ويتفق التراثان على أن أعظم الجزاء ليس المتعة الحسية بل الاكتمال الروحي عبر القرب الإلهي والرضوان؛ فالروحانية الإسلامية التاريخية في كلا التراثين أكَّدت أن أكبر هبة في الجنة هي رؤية الله أو تجلياته اللامتناهية، وكل المتع المادية تأتي في مرتبة ثانية. وبإمكان المسلمين المعاصرين من كلا التراثين أن يجدوا في هذه الآية دافعاً على الحفاظ على التقوى في مواجهة ابتلاءات الحياة، واثقين أن الصعوبات المؤقتة تُفضي إلى الاكتمال الدائم لمن صبروا وثبتوا على الإيمان."
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:1:command-to-declare",
+          "title": "Command to Declare",
+          "icon": "megaphone.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The command 'Qul' (Say) is a divine instruction to publicly declare one's faith position, making religious boundaries explicit rather than hidden.",
+          "whyItMatters": "Public declaration of faith prevents religious ambiguity and protects monotheism from compromise, teaching believers to be clear about their convictions.",
+          "position": "topLeft",
+          "arabicHighlight": "قُلْ",
+          "title_urdu": "اعلان کا حکم",
+          "coreInsight_urdu": "حکم 'قل' (کہہ دیجیے) ایک الہی ہدایت ہے کہ اپنے ایمان کے موقف کا عوامی اعلان کیا جائے، مذہبی حدود کو چھپانے کے بجائے واضح کیا جائے۔",
+          "whyItMatters_urdu": "ایمان کا عوامی اعلان مذہبی ابہام کو روکتا ہے اور توحید کو سمجھوتے سے محفوظ رکھتا ہے، مومنین کو اپنے عقائد کے بارے میں واضح رہنا سکھاتا ہے۔",
+          "title_ar": "أمر الإعلان",
+          "coreInsight_ar": "أمر 'قل' هو تعليم إلهي للإعلان العام عن موقف الإيمان، مما يجعل الحدود الدينية صريحة بدلاً من مخفية.",
+          "whyItMatters_ar": "إن الإعلان العام عن الإيمان يمنع الغموض الديني ويحمي التوحيد من التسوية، ويعلم المؤمنين أن يكونوا واضحين بشأن معتقداتهم."
+        },
+        {
+          "id": "109:1:addressing-disbelievers",
+          "title": "Addressing Disbelievers",
+          "icon": "person.2.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The term 'Al-Kafirun' (the disbelievers) is a direct, unambiguous address that establishes clear religious identity without hostility or hatred.",
+          "whyItMatters": "Clarity in religious discourse doesn't mean animosity—believers can maintain firm theological boundaries while treating others with dignity and respect.",
+          "position": "topRight",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+          "title_urdu": "کافروں سے خطاب",
+          "coreInsight_urdu": "اصطلاح 'الکافرون' (کافر) ایک براہ راست، غیر مبہم خطاب ہے جو دشمنی یا نفرت کے بغیر واضح مذہبی شناخت قائم کرتا ہے۔",
+          "whyItMatters_urdu": "مذہبی گفتگو میں وضاحت کا مطلب دشمنی نہیں ہے—مومن مضبوط الہیاتی حدود برقرار رکھتے ہوئے دوسروں کے ساتھ وقار اور احترام سے پیش آ سکتے ہیں۔",
+          "title_ar": "مخاطبة الكافرين",
+          "coreInsight_ar": "مصطلح 'الكافرون' هو خطاب مباشر وواضح يؤسس هوية دينية واضحة دون عداء أو كراهية.",
+          "whyItMatters_ar": "الوضوح في الخطاب الديني لا يعني العداء—يمكن للمؤمنين الحفاظ على حدود لاهوتية ثابتة مع معاملة الآخرين بالكرامة والاحترام."
+        },
+        {
+          "id": "109:1:prophetic-firmness",
+          "title": "Prophetic Firmness",
+          "icon": "shield.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This surah was revealed when Quraysh offered the Prophet compromise: worship their gods for a year if he would worship Allah. The response is unequivocal rejection.",
+          "whyItMatters": "Religious principles are non-negotiable. The Prophet's firmness teaches that faith cannot be diluted or traded, even for worldly peace or acceptance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+          "title_urdu": "نبوی استقامت",
+          "coreInsight_urdu": "یہ سورت اس وقت نازل ہوئی جب قریش نے نبی کو سمجھوتے کی پیشکش کی: ایک سال ان کے معبودوں کی عبادت کریں اگر وہ اللہ کی عبادت کریں۔ جواب قطعی انکار ہے۔",
+          "whyItMatters_urdu": "مذہبی اصول قابل گفت و شنید نہیں ہیں۔ نبی کی استقامت سکھاتی ہے کہ ایمان کو کمزور یا تبدیل نہیں کیا جا سکتا، یہاں تک کہ دنیاوی امن یا قبولیت کے لیے بھی۔",
+          "title_ar": "الثبات النبوي",
+          "coreInsight_ar": "نزلت هذه السورة عندما عرضت قريش على النبي التسوية: يعبد آلهتهم لمدة عام إذا عبد الله. الجواب هو الرفض القاطع.",
+          "whyItMatters_ar": "المبادئ الدينية غير قابلة للتفاوض. ثبات النبي يعلم أن الإيمان لا يمكن تخفيفه أو المتاجرة به، حتى من أجل السلام أو القبول الدنيوي."
+        }
+      ]
+    },
+    "layer6_urdu": "",
+    "layer4": "Both Shia and Sunni scholars agree on the historical context of this verse and its uncompromising message regarding monotheism. Ibn Kathir, Tabari, and other Sunni commentators concur with Shia sources that this verse was revealed in response to Quraysh's compromise proposal. The interpretation that this surah represents one-fourth of the Quran is accepted across schools of thought. However, Shia scholars particularly emphasize the concept of bara'ah (disassociation from falsehood) as complementary to wilayah (loyalty to truth), viewing both as inseparable aspects of faith. Sunni tradition tends to focus more on the external declaration while Shia tradition emphasizes both the external declaration and internal spiritual commitment. Both traditions agree that this verse does not promote intolerance toward people but rather establishes uncompromising standards for belief and worship. The verse is universally understood as establishing the impossibility of mixing monotheism with any form of polytheism.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے تاریخی سیاق و سباق اور توحید کے بارے میں اس کے غیر سمجھوتہ پیغام پر متفق ہیں۔ ابن کثیر، طبری اور دیگر سنی مفسرین شیعہ ذرائع کے ساتھ متفق ہیں کہ یہ آیت قریش کی سمجھوتہ کی تجویز کے جواب میں نازل ہوئی۔ یہ تفسیر کہ یہ سورہ قرآن کے ایک چوتھائی کی نمائندگی کرتی ہے مذاہب فکر میں قبول شدہ ہے۔ تاہم شیعہ علماء خاص طور پر براءت کے تصور پر زور دیتے ہیں (باطل سے علیحدگی) ولایت کے تکمیلی کے طور پر (حق سے وفاداری)، دونوں کو ایمان کے ناقابل تقسیم پہلوؤں کے طور پر دیکھتے ہوئے۔ سنی روایت بیرونی اعلان پر زیادہ توجہ مرکوز کرتی ہے جبکہ شیعہ روایت بیرونی اعلان اور اندرونی روحانی عزم دونوں پر زور دیتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت لوگوں کے لیے عدم رواداری کو فروغ نہیں دیتی بلکہ عقیدے اور عبادت کے لیے غیر سمجھوتہ کرنے والے معیارات قائم کرتی ہے۔ آیت کو عالمی طور پر توحید کو شرک کی کسی شکل کے ساتھ ملانے کی ناممکنیت قائم کرنے کے طور پر سمجھا جاتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على السياق التاريخي لهذه الآية وعلى صراحة رسالتها في شأن التوحيد. ويُقرُّ ابن كثير والطبري وغيرهم من المفسرين السنة مع المصادر الشيعية بأن هذه الآية نزلت رداً على مقترح المهادنة الذي قدمته قريش. والتفسير القائل بأن هذه السورة تعدل ربع القرآن مقبولٌ في جميع المذاهب. غير أن علماء الشيعة يُولون اهتماماً خاصاً لمفهوم البراءة من الباطل باعتباره مكملاً للولاية وصنواً لها، ويرون في الاثنين وجهين لا ينفصلان من حقيقة الإيمان. أما التراث السني فيميل إلى التركيز على الإعلان الخارجي، في حين يُشدِّد التراث الشيعي على الإعلان الخارجي والالتزام الروحي الداخلي معاً. ويتفق التراثان على أن هذه الآية لا تحث على التعصب تجاه الأشخاص بل تُقيم معايير لا تقبل التنازل في الإيمان والعبادة. وثمة إجماع على أن هذه الآية تُثبت استحالة الجمع بين التوحيد وأي صورة من صور الشرك."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:2:present-rejection",
+          "title": "Present Rejection",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The present tense 'La a'budu' (I do not worship) emphasizes current, active rejection of false worship, not just a future intention.",
+          "whyItMatters": "Faith is lived in the present moment. True commitment to tawhid means rejecting shirk right now, not planning to do so someday.",
+          "position": "topLeft",
+          "arabicHighlight": "لَآ أَعْبُ",
+          "title_urdu": "حال میں انکار",
+          "coreInsight_urdu": "حال کا صیغہ 'لا اعبد' (میں عبادت نہیں کرتا) جھوٹی عبادت کے موجودہ، فعال انکار پر زور دیتا ہے، نہ کہ صرف مستقبل کے ارادے پر۔",
+          "whyItMatters_urdu": "ایمان موجودہ لمحے میں جیا جاتا ہے۔ توحید کے ساتھ حقیقی وابستگی کا مطلب ہے شرک کو ابھی مسترد کرنا، کسی دن کرنے کا ارادہ نہیں۔",
+          "title_ar": "الرفض الحاضر",
+          "coreInsight_ar": "صيغة المضارع 'لا أعبد' تؤكد الرفض الحالي والفعال للعبادة الباطلة، وليس مجرد نية مستقبلية.",
+          "whyItMatters_ar": "الإيمان يُعاش في اللحظة الحالية. الالتزام الحقيقي بالتوحيد يعني رفض الشرك الآن، وليس التخطيط للقيام بذلك يومًا ما."
+        },
+        {
+          "id": "109:2:what-vs-whom",
+          "title": "What vs Whom",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse uses 'ma' (what) instead of 'man' (whom), treating idols as objects without divine reality, not as legitimate deities.",
+          "whyItMatters": "Language shapes thought. By referring to idols as 'what' rather than 'who', the Quran strips false gods of any illusion of personhood or power.",
+          "position": "topRight",
+          "arabicHighlight": "ُ مَا تَعْبُدُونَ",
+          "title_urdu": "کیا بمقابلہ کون",
+          "coreInsight_urdu": "آیت 'ما' (کیا) استعمال کرتی ہے 'من' (کون) کے بجائے، بتوں کو الہی حقیقت کے بغیر اشیاء کے طور پر پیش کرتی ہے، نہ کہ جائز معبود کے طور پر۔",
+          "whyItMatters_urdu": "زبان سوچ کو تشکیل دیتی ہے۔ بتوں کو 'کیا' کے طور پر بیان کرکے 'کون' کے بجائے، قرآن جھوٹے معبودوں سے شخصیت یا طاقت کے کسی بھی وہم کو چھین لیتا ہے۔",
+          "title_ar": "ما مقابل من",
+          "coreInsight_ar": "تستخدم الآية 'ما' بدلاً من 'من'، معاملة الأصنام كأشياء بدون حقيقة إلهية، وليس كآلهة شرعية.",
+          "whyItMatters_ar": "اللغة تشكل الفكر. بالإشارة إلى الأصنام بـ'ما' بدلاً من 'من'، يجرد القرآن الآلهة الزائفة من أي وهم للشخصية أو القوة."
+        },
+        {
+          "id": "109:2:worship-defined",
+          "title": "Worship Defined",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The root 'a-b-d' (worship) encompasses total submission, service, and devotion—far more than ritual. The Prophet rejects all forms of servitude to false gods.",
+          "whyItMatters": "True worship isn't just prayer or ritual—it's complete life orientation. Rejecting false worship means refusing to submit one's will to anything but Allah.",
+          "position": "bottomLeft",
+          "arabicHighlight": " أَعْبُ",
+          "title_urdu": "عبادت کی تعریف",
+          "coreInsight_urdu": "جڑ 'ع-ب-د' (عبادت) مکمل تسلیم، خدمت، اور عقیدت کو شامل کرتی ہے—رسم سے کہیں زیادہ۔ نبی جھوٹے معبودوں کی تمام اقسام کی غلامی کو مسترد کرتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی عبادت صرف نماز یا رسم نہیں ہے—یہ مکمل زندگی کی سمت ہے۔ جھوٹی عبادت کو مسترد کرنے کا مطلب ہے اپنی مرضی کو اللہ کے علاوہ کسی چیز کے سامنے تسلیم کرنے سے انکار کرنا۔",
+          "title_ar": "تعريف العبادة",
+          "coreInsight_ar": "جذر 'ع-ب-د' (العبادة) يشمل الخضوع الكامل والخدمة والتفاني—أكثر بكثير من الطقوس. النبي يرفض جميع أشكال العبودية للآلهة الزائفة.",
+          "whyItMatters_ar": "العبادة الحقيقية ليست مجرد صلاة أو طقوس—إنها توجه حياة كامل. رفض العبادة الزائفة يعني رفض إخضاع إرادة المرء لأي شيء سوى الله."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars unanimously agree that this verse establishes the exclusive worship of Allah as Islam's central principle. Commentators across traditions concur that worship encompasses belief, ritual, and conduct aligned with divine will. Both traditions reject any form of shirk and emphasize Tawhid as the foundation of faith. The interpretation of 'ibadah as comprehensive submission rather than mere ritual is shared across schools of Islamic thought. However, Shia theology particularly emphasizes the role of the Ahlul Bayt as exemplars of pure worship and guides to proper understanding of monotheism. Sunni tradition places more emphasis on following the Sunnah of the Prophet as recorded in hadith collections. Both traditions agree that modern forms of idolatry pose serious challenges to authentic worship. Scholarly consensus exists that this verse applies universally to all situations where Muslims might be pressured to compromise their monotheistic commitment, whether through syncretism, materialism, or other competing value systems.",
+    "layer4_urdu": "شیعہ اور سنی علماء متفقہ طور پر متفق ہیں کہ یہ آیت اللہ کی خاص عبادت کو اسلام کے مرکزی اصول کے طور پر قائم کرتی ہے۔ روایات میں مفسرین متفق ہیں کہ عبادت میں عقیدہ، رسم، اور الہی مرضی کے ساتھ ہم آہنگ طرز عمل شامل ہے۔ دونوں روایات شرک کی کسی بھی شکل کو رد کرتی ہیں اور توحید پر ایمان کی بنیاد کے طور پر زور دیتی ہیں۔ عبادت کی تفسیر بطور جامع تسلیم نہ کہ محض رسم مذاہب فکر میں مشترک ہے۔ تاہم شیعہ الہیات خاص طور پر اہل بیت کے کردار پر زور دیتی ہے بطور پاک عبادت کے نمونے اور توحید کی صحیح فہم کے رہنما۔ سنی روایت نبی کریم کی سنت پر عمل کرنے پر زیادہ زور دیتی ہے جیسا کہ احادیث کے مجموعوں میں درج ہے۔ دونوں روایات اس بات پر متفق ہیں کہ بت پرستی کی جدید شکلیں مستند عبادت کے لیے سنگین چیلنج پیش کرتی ہیں۔ علمی اتفاق رائے موجود ہے کہ یہ آیت عالمی طور پر تمام حالات پر لاگو ہوتی ہے جہاں مسلمانوں پر اپنی توحیدی وابستگی سے سمجھوتہ کرنے کا دباؤ ہو سکتا ہے، چاہے اختلاط، مادیت پسندی، یا دیگر مسابقتی قدری نظاموں کے ذریعے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على أن هذه الآية تُثبت إفراد الله بالعبادة باعتباره الأساس المحوري في الإسلام. ويتوافق المفسرون في جميع المذاهب على أن العبادة تشمل الاعتقاد والشعائر والسلوك المتسق مع الإرادة الإلهية. ويرفض التراثان كل ضرب من ضروب الشرك ويُشدِّدان على التوحيد أساساً للإيمان. والتفسير القائل بأن العبادة استسلام شامل لا مجرد طقوس ظاهرة مشتركٌ بين مذاهب الفكر الإسلامي جميعها. بيد أن الكلام الشيعي يُشدِّد تشديداً خاصاً على دور أهل البيت عليهم السلام قدوةً للعبادة الخالصة وأدلاءً للفهم الصحيح للتوحيد. أما التراث السني فيُولي الأهمية الكبرى لاتباع سنة النبي صلى الله عليه وسلم المدونة في كتب الحديث. ويتفق التراثان على أن أشكال الشرك الحديثة تمثل تحديات جدية للعبادة الأصيلة. وثمة إجماع على أن هذه الآية تسري سريانها في كل موقف يتعرض فيه المسلمون لضغط يدفعهم إلى التنازل عن التزامهم التوحيدي سواء أكان مصدره التوفيقية الدينية أم المادية أم غيرها من المنظومات القيمية المنافسة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:3:mutual-difference",
+          "title": "Mutual Difference",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The conjunction 'wa la' (nor) establishes reciprocal distinction—just as the Prophet doesn't worship idols, the disbelievers don't worship Allah.",
+          "whyItMatters": "Religious difference is mutual and real. Acknowledging this prevents false claims of shared worship while maintaining respectful boundaries.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَآ أَنتُمْ عَٰبِد",
+          "title_urdu": "باہمی فرق",
+          "coreInsight_urdu": "حرف عطف 'ولا' (نہ ہی) باہمی تفریق قائم کرتا ہے—جس طرح نبی بتوں کی عبادت نہیں کرتے، کافر اللہ کی عبادت نہیں کرتے۔",
+          "whyItMatters_urdu": "مذہبی فرق باہمی اور حقیقی ہے۔ اس کو تسلیم کرنا مشترکہ عبادت کے جھوٹے دعووں کو روکتا ہے جبکہ قابل احترام حدود برقرار رکھتا ہے۔",
+          "title_ar": "الاختلاف المتبادل",
+          "coreInsight_ar": "حرف العطف 'ولا' يؤسس تمييزًا متبادلاً—تمامًا كما لا يعبد النبي الأصنام، الكفار لا يعبدون الله.",
+          "whyItMatters_ar": "الاختلاف الديني متبادل وحقيقي. الاعتراف بهذا يمنع ادعاءات مشتركة زائفة للعبادة مع الحفاظ على حدود محترمة."
+        },
+        {
+          "id": "109:3:true-worship",
+          "title": "True Worship",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'ma a'budu' (what I worship) refers to Allah, using 'ma' to emphasize the transcendent, incomprehensible nature of divine reality beyond human categories.",
+          "whyItMatters": "Allah transcends our categories of 'who' and 'what'. True worship acknowledges His absolute uniqueness beyond all comparisons and limitations.",
+          "position": "topRight",
+          "arabicHighlight": "ونَ مَآ أَعْبُدُ",
+          "title_urdu": "حقیقی عبادت",
+          "coreInsight_urdu": "فقرہ 'ما اعبد' (جس کی میں عبادت کرتا ہوں) اللہ کی طرف اشارہ کرتا ہے، 'ما' استعمال کرتے ہوئے انسانی زمروں سے بالاتر الہی حقیقت کی ماورائی، ناقابل فہم نوعیت پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ ہماری 'کون' اور 'کیا' کی زمروں سے بالاتر ہے۔ حقیقی عبادت تمام موازنوں اور حدود سے بالاتر اس کی مطلق انفرادیت کو تسلیم کرتی ہے۔",
+          "title_ar": "العبادة الحقيقية",
+          "coreInsight_ar": "عبارة 'ما أعبد' تشير إلى الله، مستخدمة 'ما' للتأكيد على الطبيعة المتعالية وغير المفهومة للواقع الإلهي خارج الفئات البشرية.",
+          "whyItMatters_ar": "الله يتجاوز فئاتنا من 'من' و 'ما'. العبادة الحقيقية تعترف بفرادته المطلقة خارج جميع المقارنات والقيود."
+        },
+        {
+          "id": "109:3:active-participle",
+          "title": "Active State",
+          "icon": "bolt.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The active participle 'aabidun' (worshippers) describes an ongoing state of being, not just occasional acts—they are fundamentally oriented away from Allah.",
+          "whyItMatters": "Disbelief isn't just intellectual disagreement—it's a life orientation. Understanding this helps believers recognize the depth of what separates monotheism from shirk.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ْ عَٰبِد",
+          "title_urdu": "فعال حالت",
+          "coreInsight_urdu": "فعل حال 'عابدون' (عبادت کرنے والے) ایک جاری حالت کو بیان کرتا ہے، نہ کہ صرف کبھی کبھار اعمال—وہ بنیادی طور پر اللہ سے دور ہیں۔",
+          "whyItMatters_urdu": "کفر صرف فکری اختلاف نہیں ہے—یہ زندگی کی سمت ہے۔ اسے سمجھنا مومنین کو یہ پہچاننے میں مدد کرتا ہے کہ توحید کو شرک سے کیا الگ کرتا ہے۔",
+          "title_ar": "الحالة النشطة",
+          "coreInsight_ar": "اسم الفاعل 'عابدون' يصف حالة مستمرة من الوجود، وليس مجرد أفعال عرضية—إنهم موجهون بشكل أساسي بعيدًا عن الله.",
+          "whyItMatters_ar": "الكفر ليس مجرد خلاف فكري—إنه توجه حياة. فهم هذا يساعد المؤمنين على إدراك عمق ما يفصل التوحيد عن الشرك."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni exegetes agree that this verse emphasizes the qualitative difference between Islamic monotheistic worship and pagan polytheistic practices. Both traditions affirm that the object and intention of worship are as important as the form and actions. Scholars across schools concur that pagans who occasionally invoked Allah while worshiping idols were not truly worshiping Allah in the Islamic sense. The principle that worship requires proper theological understanding is accepted universally. However, Shia scholarship particularly emphasizes the role of divinely appointed guides, the Ahlul Bayt, in teaching proper worship of Allah, while Sunni tradition emphasizes following scholarly consensus and the example of the companions. Both traditions reject the modern relativist view that all religions worship the same God by different paths. There is scholarly agreement that this verse establishes exclusive loyalty to Allah in worship as non-negotiable, regardless of social pressure, political convenience, or contemporary calls for religious synthesis.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین اس بات پر متفق ہیں کہ یہ آیت اسلامی توحیدی عبادت اور کافرانہ شرک کے طریقوں کے درمیان کیفی فرق پر زور دیتی ہے۔ دونوں روایات تصدیق کرتی ہیں کہ عبادت کا مقصد اور نیت شکل اور اعمال جتنی اہم ہیں۔ مذاہب میں علماء متفق ہیں کہ کافر جو کبھی کبھار بتوں کی عبادت کرتے ہوئے اللہ کو پکارتے تھے واقعی اسلامی معنوں میں اللہ کی عبادت نہیں کر رہے تھے۔ یہ اصول کہ عبادت کے لیے صحیح الہیاتی فہم کی ضرورت ہے عالمی طور پر قبول شدہ ہے۔ تاہم شیعہ علمیت خاص طور پر الہی طور پر مقرر کردہ رہنماؤں، اہل بیت کے کردار پر زور دیتی ہے، اللہ کی صحیح عبادت سکھانے میں، جبکہ سنی روایت علمی اتفاق رائے اور صحابہ کی مثال پر عمل کرنے پر زور دیتی ہے۔ دونوں روایات جدید نسبتی نظریے کو رد کرتی ہیں کہ تمام مذاہب مختلف راستوں سے ایک ہی خدا کی عبادت کرتے ہیں۔ علمی اتفاق رائے موجود ہے کہ یہ آیت عبادت میں اللہ کے لیے خاص وفاداری کو غیر قابل گفت و شنید کے طور پر قائم کرتی ہے، قطع نظر سماجی دباؤ، سیاسی سہولت، یا مذہبی ترکیب کے لیے عصری کالوں سے۔",
+    "layer4_ar": "يُقرُّ المفسرون من الشيعة والسنة أن هذه الآية تُبرز الفرق النوعي بين العبادة الإسلامية التوحيدية والممارسة الوثنية المشركة. ويُثبت التراثان معاً أن معبود الإنسان ونيته لا يقلان أهميةً عن صورة العبادة وأفعالها. ويتفق العلماء من جميع المذاهب على أن المشركين الذين كانوا يُناجون الله إلى جانب أصنامهم أحياناً لم يكونوا يعبدون الله بالمعنى الإسلامي. ومبدأ اشتراط الفهم اللاهوتي الصحيح لصحة العبادة مقبولٌ قبولاً عاماً. بيد أن التراث الشيعي يُشدِّد تشديداً خاصاً على دور الأئمة المعصومين من أهل البيت عليهم السلام أدلاءً للعبادة الصحيحة، بينما يُشدِّد التراث السني على اتباع الإجماع العلمي وقدوة الصحابة. ويرفض التراثان الموقف النسبوي الحديث القائل بأن جميع الأديان تعبد الإله ذاته بمسالك مختلفة. وثمة اتفاق علمي على أن هذه الآية تُثبت الولاء الحصري لله في العبادة متطلباً راسخاً لا تنازل عنه مهما كانت الضغوط الاجتماعية أو المصلحة السياسية أو الدعوات المعاصرة إلى التوليف الديني."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:4:future-firmness",
+          "title": "Future Firmness",
+          "icon": "calendar.badge.clock",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The future tense 'wa la ana' (nor will I) extends the rejection into perpetuity—this isn't a temporary stance but an eternal commitment to tawhid.",
+          "whyItMatters": "True faith perseveres. The Prophet's declaration models unwavering commitment that doesn't waver with circumstances, pressure, or time.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَآ أَنَا۠ عَا",
+          "title_urdu": "مستقبل کی استقامت",
+          "coreInsight_urdu": "مستقبل کا صیغہ 'ولا انا' (نہ ہی میں ہوں گا) انکار کو ابدیت تک بڑھاتا ہے—یہ ایک عارضی موقف نہیں بلکہ توحید کے ساتھ ایک ابدی وابستگی ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان برقرار رہتا ہے۔ نبی کا اعلان غیر متزلزل وابستگی کا نمونہ ہے جو حالات، دباؤ، یا وقت کے ساتھ نہیں ڈگمگاتا۔",
+          "title_ar": "الثبات المستقبلي",
+          "coreInsight_ar": "صيغة المستقبل 'ولا أنا' تمدد الرفض إلى الأبد—هذا ليس موقفًا مؤقتًا بل التزامًا أبديًا بالتوحيد.",
+          "whyItMatters_ar": "الإيمان الحقيقي يثابر. إعلان النبي يُنمذج التزامًا ثابتًا لا يتزعزع مع الظروف أو الضغط أو الوقت."
+        },
+        {
+          "id": "109:4:past-reference",
+          "title": "Past Reference",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'ma abadtum' (what you worshipped) uses past tense, referencing both historical idol worship and the entire tradition of shirk before Islam.",
+          "whyItMatters": "The Prophet rejects not just current idols but the entire historical lineage of false worship, breaking completely from ancestral practices that contradict tawhid.",
+          "position": "topRight",
+          "arabicHighlight": "ِدٌۭ مَّا عَبَدتُّمْ",
+          "title_urdu": "ماضی کا حوالہ",
+          "coreInsight_urdu": "فقرہ 'ما عبدتم' (جس کی تم نے عبادت کی) ماضی کا صیغہ استعمال کرتا ہے، تاریخی بت پرستی اور اسلام سے پہلے شرک کی پوری روایت کا حوالہ دیتے ہوئے۔",
+          "whyItMatters_urdu": "نبی نہ صرف موجودہ بتوں بلکہ جھوٹی عبادت کی پوری تاریخی نسل کو مسترد کرتے ہیں، توحید سے متصادم آبائی طریقوں سے مکمل طور پر الگ ہوتے ہوئے۔",
+          "title_ar": "المرجع الماضي",
+          "coreInsight_ar": "عبارة 'ما عبدتم' يستخدم صيغة الماضي، مشيرًا إلى عبادة الأصنام التاريخية وتقليد الشرك بأكمله قبل الإسلام.",
+          "whyItMatters_ar": "النبي يرفض ليس فقط الأصنام الحالية ولكن السلالة التاريخية الكاملة للعبادة الزائفة، منفصلاً تمامًا عن الممارسات الأجدادية التي تتعارض مع التوحيد."
+        },
+        {
+          "id": "109:4:emphatic-repetition",
+          "title": "Emphatic Repetition",
+          "icon": "repeat.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "This verse repeats verse 3's meaning with different tense and pronouns, using repetition for emphasis—a common Quranic rhetorical device to drive home critical points.",
+          "whyItMatters": "The Quran's repetition isn't redundant—it's pedagogical. Important truths deserve reinforcement, helping them penetrate deeply into our consciousness.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+          "title_urdu": "زوردار تکرار",
+          "coreInsight_urdu": "یہ آیت مختلف زمانے اور ضمیروں کے ساتھ آیت 3 کے معنی کو دہراتی ہے، زور کے لیے تکرار استعمال کرتے ہوئے—اہم نکات کو گھر لے جانے کے لیے ایک عام قرآنی بلاغت کا آلہ۔",
+          "whyItMatters_urdu": "قرآن کی تکرار بے کار نہیں ہے—یہ تعلیمی ہے۔ اہم سچائیاں تقویت کی مستحق ہیں، انہیں ہمارے شعور میں گہرائی سے داخل ہونے میں مدد کرتی ہیں۔",
+          "title_ar": "التكرار التأكيدي",
+          "coreInsight_ar": "تكرر هذه الآية معنى الآية 3 بزمن وضمائر مختلفة، مستخدمة التكرار للتأكيد—أداة بلاغية قرآنية شائعة لتوصيل النقاط الحاسمة.",
+          "whyItMatters_ar": "تكرار القرآن ليس زائدًا—إنه تربوي. الحقائق المهمة تستحق التعزيز، مساعدتها على اختراق وعينا بعمق."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions agree that this verse emphasizes the permanence and future-oriented nature of the Prophet's rejection of polytheism. There is consensus that the varying grammatical forms throughout the surah serve rhetorical and theological purposes, each adding emphasis to the central message. Both traditions interpret this verse as establishing that faith commitment must extend throughout one's life and cannot be subject to circumstantial compromise. The principle of steadfastness in faith despite worldly pressures is universally accepted in Islamic theology. Shia scholarship particularly emphasizes the example of Imam Husayn at Karbala as the supreme embodiment of this principle, refusing compromise even at the cost of his life and the lives of his companions. Sunni tradition highlights similar examples from the Prophet's companions who maintained faith under persecution. Both traditions teach that this verse applies to all Muslims, not just the Prophet, establishing the expectation of lifelong commitment to pure monotheism regardless of changing circumstances.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء اس بات پر متفق ہیں کہ یہ آیت نبی کریم کی شرک کے رد کی مستقلیت اور مستقبل پر مبنی نوعیت پر زور دیتی ہے۔ اتفاق رائے ہے کہ پوری سورہ میں مختلف گراماتی شکلیں بلاغتی اور الہیاتی مقاصد کو پورا کرتی ہیں، ہر ایک مرکزی پیغام پر زور شامل کرتے ہوئے۔ دونوں روایات اس آیت کی تفسیر اس طور کرتی ہیں کہ ایمانی وابستگی کو کسی کی زندگی بھر تک بڑھانا چاہیے اور حالاتی سمجھوتے کے تابع نہیں ہو سکتا۔ دنیاوی دباؤؤں کے باوجود ایمان میں استقامت کا اصول اسلامی الہیات میں عالمی طور پر قبول شدہ ہے۔ شیعہ علمیت خاص طور پر کربلا میں امام حسین علیہ السلام کی مثال پر زور دیتی ہے اس اصول کی عظیم ترین تجسیم کے طور پر، اپنی جان اور اپنے ساتھیوں کی جانوں کی قیمت پر بھی سمجھوتہ سے انکار کرتے ہوئے۔ سنی روایت نبی کریم کے صحابہ سے ملتی جلتی مثالوں کو اجاگر کرتی ہے جنہوں نے ظلم و ستم کے تحت ایمان برقرار رکھا۔ دونوں روایات سکھاتی ہیں کہ یہ آیت تمام مسلمانوں پر لاگو ہوتی ہے، نہ صرف نبی کریم پر، تبدیلی پذیر حالات سے قطع نظر خالص توحید سے تاحیات وابستگی کی توقع قائم کرتے ہوئے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُشدِّد على الطابع الدائم والمستقبلي لرفض النبي صلى الله عليه وآله وسلم للشرك. وثمة توافق على أن تنوع الصيغ النحوية عبر السورة يخدم أغراضاً بلاغية ولاهوتية يُضيف كلٌّ منها تأكيداً على الرسالة المحورية. ويُفسِّر التراثان الآية بوصفها تُثبت أن الالتزام الإيماني لا بد أن يمتد طوال الحياة ولا يقبل الخضوع للمساومة الظرفية. ومبدأ الثبات في الإيمان رغم الضغوط الدنيوية مقبولٌ قبولاً عاماً في علم الكلام الإسلامي. ويُشدِّد التراث الشيعي تشديداً خاصاً على مثال الإمام الحسين عليه السلام في كربلاء بوصفه التجسيد الأعظم لهذا المبدأ حين رفض التنازل ولو بذل في ذلك حياته وأرواح صحبه الكرام. ويستشهد التراث السني بنظائر مشابهة من قدوات الصحابة رضوان الله عليهم الذين ثبتوا على الإيمان في مواجهة الاضطهاد. ويُعلِّم التراثان معاً أن هذه الآية تسري على جميع المسلمين لا على النبي وحده، مُقرِّرةً توقع الالتزام مدى الحياة بالتوحيد الخالص في مواجهة الظروف المتغيرة كافة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:5:parallel-structure",
+          "title": "Parallel Structure",
+          "icon": "equal.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse mirrors verse 3 exactly, creating a chiastic structure (A-B-B-A) that emphasizes the complete, mutual separation between true worship and shirk.",
+          "whyItMatters": "The symmetrical structure isn't just poetic—it reflects theological reality. Monotheism and polytheism are fundamentally incompatible, with no middle ground.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+          "title_urdu": "متوازی ڈھانچہ",
+          "coreInsight_urdu": "یہ آیت بالکل آیت 3 کی عکاسی کرتی ہے، ایک تضادی ڈھانچہ (A-B-B-A) بناتی ہے جو حقیقی عبادت اور شرک کے درمیان مکمل، باہمی علیحدگی پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "متوازن ڈھانچہ صرف شاعرانہ نہیں ہے—یہ الہیاتی حقیقت کی عکاسی کرتا ہے۔ توحید اور شرک بنیادی طور پر ناقابل مطابقت ہیں، کوئی درمیانی راستہ نہیں۔",
+          "title_ar": "البنية المتوازية",
+          "coreInsight_ar": "تعكس هذه الآية الآية 3 بالضبط، مما يخلق بنية تصالبية (A-B-B-A) تؤكد الانفصال الكامل والمتبادل بين العبادة الحقيقية والشرك.",
+          "whyItMatters_ar": "البنية المتماثلة ليست مجرد شعرية—إنها تعكس الواقع اللاهوتي. التوحيد والشرك غير متوافقين بشكل أساسي، بدون أرضية وسطى."
+        },
+        {
+          "id": "109:5:rhetorical-force",
+          "title": "Rhetorical Force",
+          "icon": "exclamationmark.3",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The quadruple negation (verses 2-5) creates overwhelming rhetorical force, leaving no ambiguity about the Prophet's absolute rejection of compromise in worship.",
+          "whyItMatters": "Sometimes the most profound truth is expressed through repetition. The Quran's insistence mirrors the non-negotiable nature of tawhid itself.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَآ أَنتُم",
+          "title_urdu": "بلاغت کی قوت",
+          "coreInsight_urdu": "چوگنی نفی (آیات 2-5) زبردست بلاغت کی قوت پیدا کرتی ہے، عبادت میں سمجھوتے کے نبی کے مطلق انکار کے بارے میں کوئی ابہام نہیں چھوڑتی۔",
+          "whyItMatters_urdu": "کبھی کبھی سب سے گہری سچائی تکرار کے ذریعے بیان کی جاتی ہے۔ قرآن کا اصرار خود توحید کی غیر قابل گفت و شنید نوعیت کی عکاسی کرتا ہے۔",
+          "title_ar": "القوة البلاغية",
+          "coreInsight_ar": "النفي الرباعي (الآيات 2-5) يخلق قوة بلاغية ساحقة، لا يترك أي غموض حول رفض النبي المطلق للتسوية في العبادة.",
+          "whyItMatters_ar": "أحيانًا يتم التعبير عن الحقيقة الأعمق من خلال التكرار. إصرار القرآن يعكس الطبيعة غير القابلة للتفاوض للتوحيد نفسه."
+        },
+        {
+          "id": "109:5:complete-separation",
+          "title": "Complete Separation",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "By verse 5, the separation is absolute and comprehensive—covering present, past, and future; covering the Prophet's actions and the disbelievers' actions.",
+          "whyItMatters": "Religious boundaries must be complete, not partial. Half-hearted commitment to tawhid is itself a form of shirk that the Quran categorically rejects.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ْ عَٰبِدُونَ مَآ أَعْبُدُ",
+          "title_urdu": "مکمل علیحدگی",
+          "coreInsight_urdu": "آیت 5 تک، علیحدگی مطلق اور جامع ہے—حال، ماضی، اور مستقبل کا احاطہ کرتے ہوئے؛ نبی کے اعمال اور کافروں کے اعمال کا احاطہ کرتے ہوئے۔",
+          "whyItMatters_urdu": "مذہبی حدود مکمل ہونی چاہئیں، جزوی نہیں۔ توحید کے ساتھ نیم دلانہ وابستگی خود شرک کی ایک شکل ہے جسے قرآن قطعی طور پر مسترد کرتا ہے۔",
+          "title_ar": "الانفصال الكامل",
+          "coreInsight_ar": "بحلول الآية 5، الانفصال مطلق وشامل—يغطي الحاضر والماضي والمستقبل؛ يغطي أفعال النبي وأفعال الكفار.",
+          "whyItMatters_ar": "الحدود الدينية يجب أن تكون كاملة، وليس جزئية. الالتزام الفاتر بالتوحيد هو نفسه شكل من أشكال الشرك الذي يرفضه القرآن بشكل قاطع."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as emphasizing the mutual exclusivity of true monotheistic worship and polytheistic practices. There is consensus that the repetition in the surah serves rhetorical purposes and responds to the specific historical proposal from the Quraysh. Scholars across traditions agree that worship of Allah must be pure and cannot be mixed with worship directed to other beings or objects. Both schools emphasize that this verse does not justify hostility toward non-Muslims but rather establishes clarity regarding Islamic theology. However, Shia scholarship particularly connects this verse to the concept of bara'ah, disassociation from falsehood, as an essential complement to wilayah, loyalty to truth. Sunni tradition emphasizes al-wala wal-bara, a similar concept of loyalty and disavowal. Both traditions teach that this verse applies to all Muslims in maintaining the purity of their faith and worship. Scholarly consensus exists that religious tolerance and respect for others' rights does not require accepting theological relativism or compromising one's own faith commitments.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر کرتے ہیں بطور حقیقی توحیدی عبادت اور شرک کے طریقوں کی باہمی خارجیت پر زور دیتے ہوئے۔ اتفاق رائے ہے کہ سورہ میں تکرار بلاغتی مقاصد پورے کرتی ہے اور قریش کی مخصوص تاریخی تجویز کا جواب دیتی ہے۔ روایات میں علماء متفق ہیں کہ اللہ کی عبادت پاک ہونی چاہیے اور دیگر ہستیوں یا اشیاء کی طرف ہدایت شدہ عبادت کے ساتھ نہیں ملائی جا سکتی۔ دونوں مکاتب زور دیتے ہیں کہ یہ آیت غیر مسلموں کے لیے دشمنی کو جائز نہیں ٹھہراتی بلکہ اسلامی الہیات کے بارے میں وضاحت قائم کرتی ہے۔ تاہم شیعہ علمیت خاص طور پر اس آیت کو براءت کے تصور سے جوڑتی ہے، باطل سے علیحدگی، بطور ولایت کی ضروری تکمیل، حق سے وفاداری۔ سنی روایت الولاء والبراء پر زور دیتی ہے، ایک ملتا جلتا تصور وفاداری اور انکار کا۔ دونوں روایات سکھاتی ہیں کہ یہ آیت تمام مسلمانوں پر اپنے ایمان اور عبادت کی پاکیزگی برقرار رکھنے میں لاگو ہوتی ہے۔ علمی اتفاق رائے موجود ہے کہ مذہبی رواداری اور دوسروں کے حقوق کا احترام الہیاتی نسبتیت کو قبول کرنے یا اپنی ایمانی وابستگیوں سے سمجھوتہ کرنے کی ضرورت نہیں رکھتا۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية بوصفها تُشدِّد على الإقصاء المتبادل بين العبادة التوحيدية الحقيقية والممارسات الشركية. وثمة توافق على أن التكرار في السورة يخدم أغراضاً بلاغية ويردُّ على الاقتراح التاريخي البعينه الذي قدمه قريش. ويتفق العلماء من جميع المذاهب على أن عبادة الله لا بد أن تكون خالصةً لا تختلط بعبادة موجَّهة نحو كائنات أو أشياء أخرى. ويُشدِّد كلا التراثين على أن هذه الآية لا تُسوِّغ العدوان على غير المسلمين بل تُقرِّر الحقيقة اللاهوتية الإسلامية. غير أن التراث الشيعي يربط هذه الآية ربطاً خاصاً بمفهوم البراءة من الباطل باعتبارها رديفاً لا غنى عنه للولاية التي هي الولاء للحق. أما التراث السني فيُشدِّد على مفهوم الولاء والبراء في سياق مقارب. ويُعلِّم التراثان أن هذه الآية تسري على جميع المسلمين في المحافظة على نقاء إيمانهم وعبادتهم. وثمة إجماع علمي على أن التسامح الديني واحترام حقوق الآخرين لا يستلزمان القبول بالنسبوية اللاهوتية أو التفريط في الالتزامات الإيمانية الخاصة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "109:6:your-religion",
+          "title": "Your Religion",
+          "icon": "person.crop.circle",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'lakum dinukum' (for you is your religion) acknowledges the disbelievers' free choice while making clear that their path is fundamentally separate from Islam.",
+          "whyItMatters": "Religious freedom doesn't mean religious equivalence. Islam respects others' right to choose while maintaining that not all paths lead to truth.",
+          "position": "topLeft",
+          "arabicHighlight": "لَكُمْ دِينُكُمْ",
+          "title_urdu": "تمہارا دین",
+          "coreInsight_urdu": "فقرہ 'لکم دینکم' (تمہارے لیے تمہارا دین ہے) کافروں کی آزادانہ پسند کو تسلیم کرتا ہے جبکہ واضح کرتا ہے کہ ان کا راستہ بنیادی طور پر اسلام سے الگ ہے۔",
+          "whyItMatters_urdu": "مذہبی آزادی کا مطلب مذہبی مساوات نہیں ہے۔ اسلام دوسروں کے انتخاب کے حق کا احترام کرتا ہے جبکہ یہ برقرار رکھتا ہے کہ تمام راستے سچائی تک نہیں پہنچتے۔",
+          "title_ar": "دينكم",
+          "coreInsight_ar": "عبارة 'لكم دينكم' تعترف بحرية اختيار الكفار مع توضيح أن طريقهم منفصل بشكل أساسي عن الإسلام.",
+          "whyItMatters_ar": "الحرية الدينية لا تعني التكافؤ الديني. الإسلام يحترم حق الآخرين في الاختيار مع الحفاظ على أن ليست كل المسارات تؤدي إلى الحقيقة."
+        },
+        {
+          "id": "109:6:my-religion",
+          "title": "My Religion",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The phrase 'wa liya din' (and for me is my religion) uses the singular first person, emphasizing personal responsibility for one's faith commitment before Allah.",
+          "whyItMatters": "Faith is ultimately individual. While we live in communities, each person stands alone before Allah, responsible for their own choices and convictions.",
+          "position": "topRight",
+          "arabicHighlight": "وَلِىَ دِينِ",
+          "title_urdu": "میرا دین",
+          "coreInsight_urdu": "فقرہ 'ولی دین' (اور میرے لیے میرا دین ہے) واحد متکلم استعمال کرتا ہے، اللہ کے سامنے اپنی ایمان کی وابستگی کے لیے ذاتی ذمہ داری پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "ایمان بالآخر انفرادی ہے۔ جبکہ ہم کمیونٹیز میں رہتے ہیں، ہر شخص اللہ کے سامنے اکیلا کھڑا ہوتا ہے، اپنے اپنے انتخاب اور عقائد کے لیے ذمہ دار۔",
+          "title_ar": "ديني",
+          "coreInsight_ar": "عبارة 'ولي دين' يستخدم المتكلم المفرد، مؤكدًا المسؤولية الشخصية عن التزام الإيمان أمام الله.",
+          "whyItMatters_ar": "الإيمان في النهاية فردي. بينما نعيش في مجتمعات، كل شخص يقف وحده أمام الله، مسؤول عن اختياراته ومعتقداته الخاصة."
+        },
+        {
+          "id": "109:6:peaceful-coexistence",
+          "title": "Peaceful Coexistence",
+          "icon": "hand.wave.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse establishes a model for religious pluralism: clear boundaries without coercion, firm conviction without aggression, separation without hostility.",
+          "whyItMatters": "Muslims can maintain absolute theological clarity while living peacefully with others. Religious difference doesn't require religious warfare.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+          "title_urdu": "پرامن بقائے باہمی",
+          "coreInsight_urdu": "یہ آیت مذہبی کثرتیت کے لیے ایک نمونہ قائم کرتی ہے: جبر کے بغیر واضح حدود، جارحیت کے بغیر مضبوط یقین، دشمنی کے بغیر علیحدگی۔",
+          "whyItMatters_urdu": "مسلمان دوسروں کے ساتھ پرامن طریقے سے رہتے ہوئے مطلق الہیاتی وضاحت برقرار رکھ سکتے ہیں۔ مذہبی فرق کو مذہبی جنگ کی ضرورت نہیں۔",
+          "title_ar": "التعايش السلمي",
+          "coreInsight_ar": "تؤسس هذه الآية نموذجًا للتعددية الدينية: حدود واضحة بدون إكراه، قناعة ثابتة بدون عدوان، انفصال بدون عداء.",
+          "whyItMatters_ar": "يمكن للمسلمين الحفاظ على الوضوح اللاهوتي المطلق مع العيش بسلام مع الآخرين. الاختلاف الديني لا يتطلب حربًا دينية."
+        },
+        {
+          "id": "109:6:final-word",
+          "title": "Final Word",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah ends with 'din' (religion), making faith the final word. After all arguments and distinctions, what matters most is the path one chooses to worship Allah.",
+          "whyItMatters": "Life's ultimate question is religious: How will you worship? The answer to this question determines one's relationship with the Creator and one's eternal destiny.",
+          "position": "bottomRight",
+          "arabicHighlight": "دِينِ",
+          "title_urdu": "آخری لفظ",
+          "coreInsight_urdu": "سورت 'دین' (مذہب) کے ساتھ ختم ہوتی ہے، ایمان کو آخری لفظ بناتی ہے۔ تمام دلائل اور تفریقات کے بعد، سب سے اہم چیز وہ راستہ ہے جو کوئی اللہ کی عبادت کے لیے منتخب کرتا ہے۔",
+          "whyItMatters_urdu": "زندگی کا حتمی سوال مذہبی ہے: تم کیسے عبادت کرو گے؟ اس سوال کا جواب خالق کے ساتھ کسی کے تعلق اور کسی کی ابدی تقدیر کا تعین کرتا ہے۔",
+          "title_ar": "الكلمة الأخيرة",
+          "coreInsight_ar": "تنتهي السورة بـ'دين' (الدين)، مما يجعل الإيمان الكلمة الأخيرة. بعد كل الحجج والتمييزات، ما يهم أكثر هو المسار الذي يختاره المرء لعبادة الله.",
+          "whyItMatters_ar": "السؤال النهائي للحياة ديني: كيف ستعبد؟ الإجابة على هذا السؤال تحدد علاقة المرء بالخالق ومصيره الأبدي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars cite this verse as foundational for Islamic teachings on religious tolerance and freedom of conscience. There is unanimous agreement that this verse does not express approval of disbelief but rather acknowledges people's free will and separate accountability before God. Scholars across traditions emphasize that this verse comes after clear presentation and rejection of truth, not as an initial approach to interfaith relations. Both schools interpret this verse as establishing that religious diversity is a reality that Islam acknowledges while maintaining its own truth claims. However, Shia scholarship particularly emphasizes this verse in the context of the Prophet's mission during the Meccan period of weakness, with different rules applying after the establishment of Islamic governance. Sunni scholarship similarly discusses the distinction between Meccan and Medinan verses regarding relations with non-Muslims. Both traditions agree that this verse establishes a principle of live-and-let-live after truth has been clearly conveyed, neither forcing conversion nor compromising Islamic beliefs. Contemporary scholars from both traditions cite this verse in advocating for religious freedom and peaceful coexistence in pluralistic societies while maintaining the integrity and distinctiveness of Islamic faith and practice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کو مذہبی رواداری اور ضمیر کی آزادی پر اسلامی تعلیمات کے لیے بنیادی کے طور پر حوالہ دیتے ہیں۔ متفقہ اتفاق رائے ہے کہ یہ آیت کفر کی منظوری کا اظہار نہیں کرتی بلکہ لوگوں کی آزاد مرضی اور خدا کے سامنے علیحدہ جوابدہی کو تسلیم کرتی ہے۔ روایات میں علماء زور دیتے ہیں کہ یہ آیت حق کی واضح پیش کش اور رد کے بعد آتی ہے، نہ کہ بین المذاہب تعلقات کے ابتدائی نقطہ نظر کے طور پر۔ دونوں مکاتب اس آیت کی تفسیر کرتے ہیں بطور یہ قائم کرتے ہوئے کہ مذہبی تنوع ایک حقیقت ہے جسے اسلام تسلیم کرتا ہے جبکہ اپنے حق کے دعووں کو برقرار رکھتا ہے۔ تاہم شیعہ علمیت خاص طور پر اس آیت کو نبی کریم کی مکی دور کی مشن کے سیاق و سباق میں زور دیتی ہے کمزوری کے دور میں، اسلامی حکمرانی کے قیام کے بعد مختلف قواعد لاگو ہوتے ہیں۔ سنی علمیت اسی طرح غیر مسلموں کے ساتھ تعلقات کے بارے میں مکی اور مدنی آیات کے درمیان فرق پر بحث کرتی ہے۔ دونوں روایات متفق ہیں کہ یہ آیت حق کو واضح طور پر پہنچانے کے بعد زندہ رہنے اور جینے دینے کا اصول قائم کرتی ہے، نہ تبدیلی مذہب پر مجبور کرنا اور نہ اسلامی عقائد سے سمجھوتہ کرنا۔ دونوں روایات کے عصری علماء اس آیت کو کثیر التقالید معاشروں میں مذہبی آزادی اور پرامن بقائے باہمی کی وکالت کرنے میں حوالہ دیتے ہیں جبکہ اسلامی ایمان اور عمل کی سالمیت اور مخصوصیت کو برقرار رکھتے ہیں۔",
+    "layer4_ar": "يستشهد علماء الشيعة والسنة معاً بهذه الآية أساساً للتعاليم الإسلامية في شأن التسامح الديني وحرية الاعتقاد. وثمة إجماع على أن الآية لا تُعبِّر عن الرضا بالكفر بل تُقرُّ إرادة الناس الحرة ومحاسبتهم المستقلة أمام الله. ويُشدِّد العلماء من جميع المذاهب على أن هذه الآية تجيء بعد بيان الحق وإقامة الحجة لا موقفاً مبدئياً من التعامل بين الأديان. ويُفسِّر كلا التراثين الآية بأنها تُقرُّ التعددية الدينية واقعاً يُقرُّه الإسلام مع الحفاظ على مطالباته الحقية الخاصة. غير أن التراث الشيعي يُشدِّد تشديداً خاصاً على هذه الآية في سياق رسالة النبي صلى الله عليه وآله وسلم في المرحلة المكية حين كان المسلمون في موضع الضعف، مُشيراً إلى اختلاف الأحكام بعد قيام الحكم الإسلامي. ويُناقش التراث السني بالمثل الفرق بين الآيات المكية والمدنية فيما يتعلق بالعلاقات مع غير المسلمين. ويتفق التراثان على أن هذه الآية تُقرِّر مبدأ قبول الآخر والإبقاء على طريقه بعد إيصال الحق إليه دون إكراه على الإسلام ودون تنازل عن العقيدة الإسلامية. ويستشهد علماء العصر من كلا التراثين بهذه الآية في دعوتهم إلى الحرية الدينية والتعايش السلمي في المجتمعات التعددية مع صون نقاء الإيمان الإسلامي وخصوصيته."
+  }
+}

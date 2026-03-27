@@ -1,0 +1,336 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "97:1:divine-revelation",
+          "title": "Divine Revelation",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Quran was 'sent down' (anzalna) - emphasizing its divine origin from Allah to humanity, not a human creation but a celestial gift.",
+          "whyItMatters": "Understanding the Quran as divine revelation transforms how we approach it - with reverence, seeking guidance directly from our Creator.",
+          "position": "topLeft",
+          "arabicHighlight": "أَنزَلْنَٰهُ",
+          "title_urdu": "وحی الٰہی",
+          "coreInsight_urdu": "قرآن 'نازل کیا گیا' (انزلناہ) - اس کی الہی اصل پر زور دیتے ہوئے اللہ سے انسانیت تک، نہ کہ انسانی تخلیق بلکہ آسمانی تحفہ۔",
+          "whyItMatters_urdu": "قرآن کو الہی وحی کے طور پر سمجھنا اس بات کو تبدیل کر دیتا ہے کہ ہم اس سے کیسے رجوع کرتے ہیں - احترام کے ساتھ، اپنے خالق سے براہ راست رہنمائی حاصل کرتے ہوئے۔",
+          "title_ar": "الوحي الإلهي",
+          "coreInsight_ar": "أُنزل القرآن - مؤكدًا أصله الإلهي من الله إلى البشرية، ليس خلقًا بشريًا بل هدية سماوية.",
+          "whyItMatters_ar": "فهم القرآن كوحي إلهي يحول كيفية تعاملنا معه - بإجلال، طالبين الهداية مباشرة من خالقنا."
+        },
+        {
+          "id": "97:1:night-of-decree",
+          "title": "Night of Decree",
+          "icon": "moon.stars.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Laylat al-Qadr (Night of Decree/Power) is when the Quran was first revealed, marking the most blessed night when divine destiny is written and mercy overflows.",
+          "whyItMatters": "This night, believed to be in the last ten nights of Ramadan, offers Muslims an unparalleled opportunity for worship, forgiveness, and spiritual transformation.",
+          "position": "topRight",
+          "arabicHighlight": "لَيْلَةِ ٱلْقَدْرِ",
+          "title_urdu": "شب قدر",
+          "coreInsight_urdu": "لیلۃ القدر (شب قدر) وہ رات ہے جب قرآن پہلی بار نازل ہوا، سب سے زیادہ بابرکت رات کی نشان دہی کرتی ہے جب الہی تقدیر لکھی جاتی ہے اور رحمت بہہ نکلتی ہے۔",
+          "whyItMatters_urdu": "یہ رات، جس کا یقین ہے کہ رمضان کی آخری دس راتوں میں ہے، مسلمانوں کو عبادت، معافی اور روحانی تبدیلی کے لیے بے مثال موقع فراہم کرتی ہے۔",
+          "title_ar": "ليلة القدر",
+          "coreInsight_ar": "ليلة القدر هي الليلة التي أُنزل فيها القرآن لأول مرة، تمثل أكثر الليالي بركة حيث يُكتب القدر الإلهي وتفيض الرحمة.",
+          "whyItMatters_ar": "توفر هذه الليلة، التي يُعتقد أنها في العشر الأواخر من رمضان، للمسلمين فرصة لا مثيل لها للعبادة والمغفرة والتحول الروحي."
+        },
+        {
+          "id": "97:1:we-sent-down",
+          "title": "We Sent Down",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The plural 'We' (inna) is the royal plural used by Allah, emphasizing His majesty and authority - the Sovereign King revealing His will to humanity.",
+          "whyItMatters": "This linguistic choice reminds us of Allah's supreme authority and the weight of receiving direct communication from the Lord of the Universe.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَنزَلْنَٰهُ",
+          "title_urdu": "ہم نے نازل کیا",
+          "coreInsight_urdu": "جمع 'ہم' (انا) اللہ کی طرف سے استعمال کیا گیا شاہی جمع ہے، اس کی عظمت اور اختیار پر زور دیتے ہوئے - بادشاہ اپنی مرضی انسانیت پر ظاہر کر رہا ہے۔",
+          "whyItMatters_urdu": "یہ لسانی انتخاب ہمیں اللہ کے اعلیٰ اختیار اور کائنات کے رب سے براہ راست پیغام حاصل کرنے کے وزن کی یاد دلاتا ہے۔",
+          "title_ar": "أنزلنا",
+          "coreInsight_ar": "الجمع 'نحن' (إنا) هو جمع التعظيم المستخدم من الله، مؤكدًا على جلالته وسلطته - الملك السيد يكشف إرادته للبشرية.",
+          "whyItMatters_ar": "يذكرنا هذا الاختيار اللغوي بسلطة الله العليا وثقل تلقي التواصل المباشر من رب الكون."
+        }
+      ]
+    },
+    "layer6_urdu": "",
+    "layer4": "Both Shia and Sunni scholars unanimously agree on the fundamental significance of Laylat al-Qadr as the night of the Quran's revelation and its superior value for worship. Classical Sunni exegetes like Ibn Kathir, al-Tabari, and al-Qurtubi confirm that this night occurs in Ramadan's last ten days, with particular emphasis on odd-numbered nights. The primary difference emerges in understanding which specific nights are most probable: Shia tradition, based on narrations from the Imams, particularly emphasizes the 19th, 21st, and 23rd nights, with special focus on the 23rd as most likely. Sunni scholarship generally emphasizes the 27th night based on certain prophetic traditions, though recognizing uncertainty about the exact date. Another distinction appears in the mystical and theological dimensions: Shia exegesis, drawing from Ahlul Bayt traditions, connects this night to the continuing reality of Imamah and divine guidance through the living Imam, while Sunni interpretation focuses more on the historical revelation event. Both traditions agree on recommended practices including prayer, Quran recitation, charity, and supplication. The comparative study reveals complementary rather than contradictory perspectives, with Shia sources providing additional layers of mystical interpretation while maintaining core beliefs shared across the Islamic tradition regarding this blessed night's immense spiritual significance.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں متفقہ طور پر لیلۃ القدر کی بنیادی اہمیت کو قرآن کے نزول کی رات اور عبادت کے لیے اس کی برتر قدر کے طور پر تسلیم کرتے ہیں۔ کلاسیکی سنی مفسرین جیسے ابن کثیر، الطبری اور القرطبی تصدیق کرتے ہیں کہ یہ رات رمضان کے آخری دس دنوں میں آتی ہے، طاق راتوں پر خاص زور کے ساتھ۔ بنیادی فرق یہ سمجھنے میں ابھرتا ہے کہ کون سی مخصوص راتیں سب سے زیادہ ممکنہ ہیں۔ شیعہ روایت، اماموں سے مروی روایات کی بنیاد پر، خاص طور پر انیسویں، اکیسویں اور تئیسویں راتوں پر زور دیتی ہے، تئیسویں پر خاص توجہ کے ساتھ۔ سنی علمیت عام طور پر ستائیسویں رات پر زور دیتی ہے بعض نبوی روایات کی بنیاد پر، اگرچہ صحیح تاریخ کے بارے میں عدم یقینی کو تسلیم کرتی ہے۔ ایک اور فرق صوفیانہ اور نظریاتی جہتوں میں ظاہر ہوتا ہے۔ شیعہ تفسیر، اہل بیت کی روایات سے اخذ کرتے ہوئے، اس رات کو امامت کی جاری حقیقت اور زندہ امام کے ذریعے الٰہی رہنمائی سے جوڑتی ہے، جبکہ سنی تفسیر تاریخی نزول کے واقعے پر زیادہ توجہ مرکوز کرتی ہے۔ دونوں روایات تجویز کردہ اعمال پر متفق ہیں جن میں نماز، تلاوت قرآن، خیرات اور دعا شامل ہے۔ تقابلی مطالعہ متضاد کی بجائے تکمیلی نقطہ نظر کو ظاہر کرتا ہے، شیعہ ذرائع صوفیانہ تفسیر کی اضافی تہیں فراہم کرتے ہیں جبکہ اس مبارک رات کی بے پناہ روحانی اہمیت کے متعلق اسلامی روایت میں مشترک بنیادی عقائد کو برقرار رکھتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة جميعاً على الأهمية الجوهرية لليلة القدر بوصفها ليلة نزول القرآن وتفوقها في فضل العبادة. ويُؤكِّد المفسرون السنيون الكلاسيكيون كابن كثير والطبري والقرطبي أن هذه الليلة تقع في العشر الأواخر من رمضان، مع التشديد على الليالي الوترية. ويتجلى الفارق الرئيسي في تحديد الليالي الأرجح؛ فالتقليد الشيعي المستند إلى روايات الأئمة يُخصِّص ليالي التاسع عشر والحادي والعشرين والثالث والعشرين، مع التركيز على ليلة الثالث والعشرين باعتبارها الأرجح. وتُشدِّد الدراسات السنية على ليلة السابع والعشرين استناداً إلى بعض الأحاديث النبوية، مع الإقرار بعدم اليقين في التحديد. وثمة فارق آخر في الأبعاد الصوفية والعقدية؛ إذ تربط التفسيرات الشيعية المستمدة من أحاديث أهل البيت هذه الليلة بالحقيقة المستمرة للإمامة والهداية الإلهية عبر الإمام الحي، في حين يُركِّز المفهوم السني على الحدث التاريخي للنزول. ويتفق كلا التقليدين على الممارسات المستحسنة التي تشمل الصلاة وتلاوة القرآن والصدقة والدعاء. ويكشف الدرس المقارن عن وجهات نظر مُتكاملة لا متضاربة، تمنح الروايات الشيعية طبقات إضافية من التأويل الروحي مع الحفاظ على القناعات الجوهرية المشتركة بين علماء الأمة الإسلامية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "97:2:rhetorical-emphasis",
+          "title": "Rhetorical Emphasis",
+          "icon": "exclamationmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The question 'What can make you know' (wa ma adraka) is rhetorical, intensifying awareness - no one can truly comprehend this night's magnitude except through Allah's description.",
+          "whyItMatters": "This emphasizes that Laylat al-Qadr's value transcends human understanding, preparing us for the extraordinary description that follows.",
+          "position": "topLeft",
+          "arabicHighlight": "أَدْرَىٰكَ",
+          "title_urdu": "سوالیہ زور",
+          "coreInsight_urdu": "سوال 'تمہیں کیا معلوم' (وما ادراک) سوالیہ ہے، بیداری کو تیز کرتا ہے - کوئی بھی اس رات کی عظمت کو حقیقی طور پر نہیں سمجھ سکتا سوائے اللہ کی وضاحت کے ذریعے۔",
+          "whyItMatters_urdu": "یہ اس بات پر زور دیتا ہے کہ لیلۃ القدر کی قدر انسانی فہم سے بالاتر ہے، ہمیں اس غیر معمولی وضاحت کے لیے تیار کرتی ہے جو آگے آتی ہے۔",
+          "title_ar": "التأكيد البلاغي",
+          "coreInsight_ar": "السؤال 'وما أدراك' بلاغي، يكثف الوعي - لا أحد يمكنه فهم عظمة هذه الليلة حقًا إلا من خلال وصف الله.",
+          "whyItMatters_ar": "يؤكد هذا أن قيمة ليلة القدر تتجاوز الفهم البشري، مهيئًا إيانا للوصف الاستثنائي الذي يلي."
+        },
+        {
+          "id": "97:2:beyond-comprehension",
+          "title": "Beyond Comprehension",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse indicates that Laylat al-Qadr's true nature is beyond ordinary human perception - a mystery that Allah Himself must unveil to us.",
+          "whyItMatters": "This humbles us before divine mysteries, reminding us that spiritual realities often exceed our mental capacity and require divine illumination to grasp.",
+          "position": "topRight",
+          "arabicHighlight": "مَا لَيْلَةُ ٱلْقَدْرِ",
+          "title_urdu": "سمجھ سے بالاتر",
+          "coreInsight_urdu": "آیت اشارہ کرتی ہے کہ لیلۃ القدر کی حقیقی نوعیت عام انسانی ادراک سے بالاتر ہے - ایک راز جسے اللہ خود ہم پر ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں الہی اسرار کے سامنے عاجز کرتا ہے، ہمیں یاد دلاتا ہے کہ روحانی حقیقتیں اکثر ہماری ذہنی صلاحیت سے تجاوز کرتی ہیں اور انہیں سمجھنے کے لیے الہی روشنی کی ضرورت ہوتی ہے۔",
+          "title_ar": "ما وراء الفهم",
+          "coreInsight_ar": "تشير الآية إلى أن طبيعة ليلة القدر الحقيقية تتجاوز الإدراك البشري العادي - سر يجب على الله نفسه أن يكشفه لنا.",
+          "whyItMatters_ar": "يتواضع هذا أمام الألغاز الإلهية، مذكرًا إيانا أن الحقائق الروحية غالبًا ما تتجاوز قدرتنا العقلية وتتطلب التنوير الإلهي لفهمها."
+        },
+        {
+          "id": "97:2:anticipation-building",
+          "title": "Building Anticipation",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The rhetorical question creates suspense and anticipation, drawing the listener's attention before revealing the night's extraordinary value in the next verse.",
+          "whyItMatters": "This literary technique teaches us the power of pause and reflection - sometimes withholding information briefly deepens appreciation when revelation comes.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَآ أَد",
+          "title_urdu": "توقع پیدا کرنا",
+          "coreInsight_urdu": "سوالیہ سوال تجسس اور توقع پیدا کرتا ہے، سننے والے کی توجہ اگلی آیت میں رات کی غیر معمولی قدر کو ظاہر کرنے سے پہلے کھینچتا ہے۔",
+          "whyItMatters_urdu": "یہ ادبی تکنیک ہمیں وقفے اور غور و فکر کی طاقت سکھاتی ہے - کبھی کبھی معلومات کو مختصر طور پر روکنا وحی آنے پر تعریف کو گہرا کر دیتا ہے۔",
+          "title_ar": "بناء التوقع",
+          "coreInsight_ar": "يخلق السؤال البلاغي تشويقًا وترقبًا، جاذبًا انتباه المستمع قبل الكشف عن القيمة الاستثنائية لهذه الليلة في الآية التالية.",
+          "whyItMatters_ar": "تعلمنا هذه التقنية الأدبية قوة التوقف والتأمل - أحيانًا حجب المعلومات لفترة وجيزة يعمق التقدير عندما يأتي الوحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetical traditions recognize this verse as a rhetorical device meant to magnify the importance of Laylat al-Qadr. Ibn Kathir's tafsir explains that such questioning in the Quran invariably precedes statements about matters of tremendous significance that warrant special attention and contemplation. Al-Tabari notes that the format serves to create anticipation and focus the listener's mind on what follows. Both traditions agree that the verse acknowledges limits to human comprehension while simultaneously encouraging believers to seek maximum understanding through revelation, scholarly interpretation, and personal spiritual experience. The interpretive difference emerges primarily in who possesses complete knowledge of this night's reality. Sunni scholarship generally maintains that while the Prophet understood it fully through revelation, comprehensive knowledge of its deepest mysteries remains with Allah alone, and believers access understanding through Quranic text, prophetic traditions, and scholarly consensus. Shia interpretation, while agreeing about the ultimate divine source of knowledge, adds that the Imams inherited the Prophet's complete understanding and continue to serve as authoritative guides to this night's significance. Both perspectives encourage believers to approach Laylat al-Qadr with awe, humility, and earnest seeking, recognizing that its full reality exceeds ordinary comprehension while remaining accessible through sincere worship, proper guidance, and divine grace.",
+    "layer4_urdu": "شیعہ اور سنی تفسیری روایات دونوں اس آیت کو ایک بیانیہ آلے کے طور پر تسلیم کرتی ہیں جس کا مقصد لیلۃ القدر کی اہمیت کو بڑھانا ہے۔ ابن کثیر کی تفسیر وضاحت کرتی ہے کہ قرآن میں ایسے سوالات لازمی طور پر ایسے بیانات سے پہلے آتے ہیں جو بے پناہ اہمیت کے معاملات کے بارے میں ہوں جو خاص توجہ اور فکر کے مستحق ہوں۔ الطبری نوٹ کرتے ہیں کہ یہ شکل توقع پیدا کرنے اور سننے والے کے ذہن کو آگے آنے والی چیز پر مرکوز کرنے کے لیے کام کرتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت انسانی فہم کی حدود کو تسلیم کرتی ہے جبکہ بیک وقت مومنین کو وحی، علمائے کرام کی تفسیر اور ذاتی روحانی تجربے کے ذریعے زیادہ سے زیادہ سمجھ حاصل کرنے کی ترغیب دیتی ہے۔ تفسیری فرق بنیادی طور پر اس میں ابھرتا ہے کہ کون اس رات کی حقیقت کا مکمل علم رکھتا ہے۔ سنی علمیت عام طور پر برقرار رکھتی ہے کہ جبکہ نبی نے وحی کے ذریعے اسے مکمل طور پر سمجھا، اس کے گہرے اسرار کا جامع علم صرف اللہ کے پاس رہتا ہے، اور مومنین قرآنی متن، نبوی روایات اور علمی اتفاق رائے کے ذریعے سمجھ تک رسائی حاصل کرتے ہیں۔ شیعہ تفسیر، علم کے حتمی الٰہی ماخذ کے بارے میں اتفاق کرتے ہوئے، یہ اضافہ کرتی ہے کہ اماموں نے نبی کی مکمل سمجھ وراثت میں لی اور اس رات کی اہمیت کے مستند رہنماؤں کے طور پر کام کرتے رہتے ہیں۔ دونوں نقطہ نظر مومنین کی حوصلہ افزائی کرتے ہیں کہ وہ لیلۃ القدر کے قریب خوف، عاجزی اور سنجیدہ تلاش کے ساتھ آئیں، یہ تسلیم کرتے ہوئے کہ اس کی مکمل حقیقت عام فہم سے زیادہ ہے جبکہ مخلصانہ عبادت، مناسب رہنمائی اور الٰہی فضل کے ذریعے قابل رسائی رہتی ہے۔",
+    "layer4_ar": "يتفق تراث الشيعة والسنة في التفسير على أن هذه الآية أداة بلاغية تهدف إلى تعظيم شأن ليلة القدر. ويُبيِّن تفسير ابن كثير أن مثل هذا الاستفهام في القرآن يسبق دائماً تصريحات تتعلق بأمور بالغة الأهمية تستوجب التأمل الجاد. ويُلاحظ الطبري أن هذا الأسلوب يخلق التوقع ويُرسِّخ انتباه المستمع على ما يأتي. ويتفق كلا التقليدين على أن الآية تُقرُّ بحدود الفهم البشري مع حثِّ المؤمنين في آنٍ واحد على بلوغ أقصى درجات الفهم من خلال الوحي والتفسير العلمي والتجربة الروحية الشخصية. ويتجلى الفارق التفسيري بصورة رئيسية في تحديد من يمتلك المعرفة الكاملة بحقيقة هذه الليلة. فالعلم السني يرى بوجه عام أنه بينما فهم النبي صلى الله عليه وسلم ليلة القدر فهماً كاملاً بالوحي، تبقى المعرفة التامة لأعمق أسرارها عند الله وحده، وأن المؤمنين يصلون إلى الفهم من خلال النص القرآني والأحاديث النبوية والإجماع العلمي. أما التفسير الشيعي فيُضيف مع اتفاقه على المصدر الإلهي للعلم أن الأئمة ورثوا الفهم الكامل للنبي ويواصلون كونهم أدلاء موثوقين إلى دلالة هذه الليلة. ويحثُّ كلا المنهجين المؤمنين على الإقبال على ليلة القدر بالإجلال والتواضع والطلب الصادق، مُقرِّين بأن حقيقتها الكاملة تتجاوز الفهم العادي مع بقائها في متناول من يصدق في التعبد ويسترشد بهداية الحق."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "97:3:better-than-thousand",
+          "title": "Better Than Thousand",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "One night of sincere worship on Laylat al-Qadr equals more than 1,000 months (83+ years) of worship - an incomprehensible multiplication of reward from Allah's infinite generosity.",
+          "whyItMatters": "This shows Allah's desire to shower believers with blessings, offering a single opportunity that can transform an entire lifetime's spiritual account.",
+          "position": "topLeft",
+          "arabicHighlight": "ِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+          "title_urdu": "ہزار سے بہتر",
+          "coreInsight_urdu": "لیلۃ القدر پر ایک رات کی مخلصانہ عبادت 1,000 مہینوں (83+ سال) سے زیادہ عبادت کے برابر ہے - اللہ کی لامحدود سخاوت سے اجر کی ناقابل فہم کثرت۔",
+          "whyItMatters_urdu": "یہ دکھاتا ہے کہ اللہ مومنین کو برکتوں سے نوازنا چاہتا ہے، ایک واحد موقع فراہم کرتا ہے جو پوری زندگی کے روحانی حساب کو بدل سکتا ہے۔",
+          "title_ar": "خير من ألف شهر",
+          "coreInsight_ar": "ليلة واحدة من العبادة الصادقة في ليلة القدر تساوي أكثر من 1000 شهر (83+ سنة) من العبادة - مضاعفة غير مفهومة للأجر من كرم الله اللانهائي.",
+          "whyItMatters_ar": "يُظهر هذا رغبة الله في إغراق المؤمنين بالبركات، مقدمًا فرصة واحدة يمكن أن تحول حساب العمر الروحي بأكمله."
+        },
+        {
+          "id": "97:3:night-of-power",
+          "title": "Night of Power",
+          "icon": "bolt.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Laylat al-Qadr means both 'Night of Decree' (when destinies are written) and 'Night of Power' (when the Quran's immense spiritual power was released into the world).",
+          "whyItMatters": "Understanding both meanings - decree and power - helps us approach this night seeking both divine favor in our fate and spiritual empowerment through connection with revelation.",
+          "position": "topRight",
+          "arabicHighlight": "لَيْلَةُ ٱلْقَدْرِ",
+          "title_urdu": "شب قدر",
+          "coreInsight_urdu": "لیلۃ القدر کا مطلب دونوں 'شب تقدیر' (جب تقدیریں لکھی جاتی ہیں) اور 'شب قدرت' (جب قرآن کی بے پناہ روحانی طاقت دنیا میں جاری کی گئی) ہے۔",
+          "whyItMatters_urdu": "دونوں معنی - تقدیر اور طاقت - کو سمجھنا ہمیں اس رات کو اپنی قسمت میں الہی فضل اور وحی کے ساتھ تعلق کے ذریعے روحانی بااختیاری تلاش کرنے میں مدد کرتا ہے۔",
+          "title_ar": "ليلة القدر",
+          "coreInsight_ar": "تعني ليلة القدر كلاً من 'ليلة القضاء' (عندما تُكتب الأقدار) و'ليلة القوة' (عندما أُطلقت قوة القرآن الروحية الهائلة في العالم).",
+          "whyItMatters_ar": "فهم كلا المعنيين - القضاء والقوة - يساعدنا على الاقتراب من هذه الليلة طالبين رضا الله في مصيرنا والتمكين الروحي من خلال الارتباط بالوحي."
+        },
+        {
+          "id": "97:3:divine-generosity",
+          "title": "Divine Generosity",
+          "icon": "gift.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The phrase 'better than' (khayrun min) emphasizes quality over quantity - Allah's blessing on this night isn't just equivalent but superior to decades of ordinary worship.",
+          "whyItMatters": "This reveals Allah's nature as al-Karim (the Most Generous), who doesn't merely repay our efforts but multiplies them beyond calculation through His grace.",
+          "position": "bottomLeft",
+          "arabicHighlight": "خَيْرٌۭ",
+          "title_urdu": "الہی سخاوت",
+          "coreInsight_urdu": "جملہ 'سے بہتر' (خیرٌ من) مقدار پر معیار پر زور دیتا ہے - اس رات اللہ کی برکت صرف برابر نہیں بلکہ دہائیوں کی عام عبادت سے بہتر ہے۔",
+          "whyItMatters_urdu": "یہ اللہ کی فطرت کو الکریم (سب سے زیادہ سخی) کے طور پر ظاہر کرتا ہے، جو صرف ہماری کوششوں کا بدلہ نہیں دیتا بلکہ اپنے فضل سے انہیں حساب سے بالاتر بڑھاتا ہے۔",
+          "title_ar": "الكرم الإلهي",
+          "coreInsight_ar": "تؤكد عبارة 'خير من' الجودة على الكمية - بركة الله في هذه الليلة ليست مجرد مكافئة بل متفوقة على عقود من العبادة العادية.",
+          "whyItMatters_ar": "يكشف هذا طبيعة الله كالكريم، الذي لا يجزي جهودنا فقط بل يضاعفها بما يتجاوز الحساب من خلال نعمته."
+        },
+        {
+          "id": "97:3:time-compression",
+          "title": "Time Compression",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah transcends time - He can compress 83 years of spiritual reward into a single night, demonstrating that divine mathematics operate beyond human temporal constraints.",
+          "whyItMatters": "This reminds us that in Allah's realm, quality of devotion matters more than quantity, and sincere moments with Him can outweigh years of mechanical worship.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَلْفِ شَهْرٍۢ",
+          "title_urdu": "وقت کی کمی",
+          "coreInsight_urdu": "اللہ وقت سے بالاتر ہے - وہ 83 سال کے روحانی اجر کو ایک رات میں سمیٹ سکتا ہے، ظاہر کرتا ہے کہ الہی ریاضیات انسانی وقت کی قیود سے بالاتر چلتی ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ اللہ کی دنیا میں، عقیدت کا معیار مقدار سے زیادہ اہم ہے، اور اس کے ساتھ مخلصانہ لمحات مشینی عبادت کے سالوں سے زیادہ ہو سکتے ہیں۔",
+          "title_ar": "ضغط الوقت",
+          "coreInsight_ar": "الله يتجاوز الزمن - يمكنه ضغط 83 عامًا من الأجر الروحي في ليلة واحدة، مما يدل على أن الرياضيات الإلهية تعمل خارج القيود الزمنية البشرية.",
+          "whyItMatters_ar": "يذكرنا هذا أنه في عالم الله، جودة التفاني مهمة أكثر من الكمية، ولحظات صادقة معه يمكن أن تفوق سنوات من العبادة الآلية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions unanimously agree on the fundamental meaning of this verse: Laylat al-Qadr offers spiritual opportunities and rewards exceeding those of a thousand months of ordinary worship. This represents one of the clearest points of consensus in Islamic scholarship, with Ibn Kathir, al-Tabari, and al-Qurtubi all confirming this interpretation based on prophetic traditions. Both traditions encourage believers to maximize worship during this night including prayer, Quran recitation, supplication, and charitable giving. The scholarly consensus across both schools is that the superiority encompasses multiple dimensions including reward, blessing, spiritual opportunity, and acceptance of prayers. Differences emerge primarily in practical implementation details. Sunni tradition particularly emphasizes the 27th night based on certain prophetic narrations and the numerical calculation that the phrase 'Laylat al-Qadr' appears in the surah at a position corresponding to the 27th. Shia tradition, based on guidance from the Imams, emphasizes the 19th, 21st, and especially 23rd nights. Additionally, Shia practice includes specific supplications and ritual practices taught by the Ahlul Bayt that are not found in Sunni tradition, though the fundamental worship acts remain similar. Both schools agree that the exact date remains somewhat veiled to encourage sustained effort throughout multiple nights. The comparative study reveals that these differences reflect varying chains of transmitted knowledge rather than fundamental disagreement about the verse's meaning, with both traditions seeking to help believers access the extraordinary blessings Allah has designated for this sacred night.",
+    "layer4_urdu": "شیعہ اور سنی روایات دونوں متفقہ طور پر اس آیت کے بنیادی معنی پر متفق ہیں کہ لیلۃ القدر ایک ہزار مہینوں کی عام عبادت سے زیادہ روحانی مواقع اور اجر فراہم کرتی ہے۔ یہ اسلامی علمیت میں اتفاق رائے کے واضح ترین نکات میں سے ایک کی نمائندگی کرتا ہے، ابن کثیر، الطبری اور القرطبی سب نبوی روایات کی بنیاد پر اس تفسیر کی تصدیق کرتے ہیں۔ دونوں روایات مومنین کی حوصلہ افزائی کرتی ہیں کہ وہ اس رات میں عبادت کو زیادہ سے زیادہ کریں بشمول نماز، تلاوت قرآن، دعا اور خیرات۔ دونوں مکاتب فکر میں علمی اتفاق رائے یہ ہے کہ برتری متعدد جہتوں پر مشتمل ہے بشمول اجر، برکت، روحانی موقع اور دعاؤں کی قبولیت۔ اختلافات بنیادی طور پر عملی نفاذ کی تفصیلات میں ابھرتے ہیں۔ سنی روایت خاص طور پر ستائیسویں رات پر زور دیتی ہے بعض نبوی روایات اور عددی حساب کی بنیاد پر کہ 'لیلۃ القدر' کا فقرہ سورت میں ستائیسویں سے مطابقت رکھنے والی جگہ پر ظاہر ہوتا ہے۔ شیعہ روایت، اماموں کی رہنمائی کی بنیاد پر، انیسویں، اکیسویں اور خاص طور پر تئیسویں راتوں پر زور دیتی ہے۔ اس کے علاوہ، شیعہ عمل میں اہل بیت کی سکھائی ہوئی مخصوص دعائیں اور رسمی اعمال شامل ہیں جو سنی روایت میں نہیں پائے جاتے، اگرچہ بنیادی عبادت کے اعمال ملتے جلتے رہتے ہیں۔ دونوں مکاتب اس بات پر متفق ہیں کہ صحیح تاریخ کسی حد تک پوشیدہ رہتی ہے تاکہ متعدد راتوں میں مسلسل کوشش کی حوصلہ افزائی ہو۔ تقابلی مطالعہ ظاہر کرتا ہے کہ یہ اختلافات آیت کے معنی کے بارے میں بنیادی اختلاف کی بجائے علم کی منتقلی کی مختلف زنجیروں کی عکاسی کرتے ہیں، دونوں روایات مومنین کو ان غیر معمولی برکتوں تک رسائی میں مدد کرنے کی کوشش کرتی ہیں جو اللہ نے اس مقدس رات کے لیے مقرر کی ہیں۔",
+    "layer4_ar": "يتفق كلا تقليدَي الشيعة والسنة على المعنى الجوهري لهذه الآية اتفاقاً تاماً: ليلة القدر تُتيح فرصاً روحية وثواباً يتجاوزان ألف شهر من العبادة الاعتيادية. وهذا من أوضح نقاط الإجماع في الفقه الإسلامي، إذ يُؤكِّده ابن كثير والطبري والقرطبي جميعاً مستندين إلى الأحاديث النبوية. ويُشجِّع كلا التقليدين المؤمنين على تعظيم العبادة في هذه الليلة بما يشمل الصلاة وتلاوة القرآن والدعاء والصدقة. وإجماع العلماء في كلا المذهبين أن الأفضلية متعددة الأبعاد تشمل الثواب والبركة والفرصة الروحية وقبول الدعاء. وتظهر الفوارق بصورة رئيسية في تفاصيل التطبيق العملي. فالتقليد السني يُشدِّد بوجه خاص على ليلة السابع والعشرين استناداً إلى روايات نبوية بعينها والحساب العددي الذي يُشير إلى أن عبارة ليلة القدر في السورة تقع في موضع يوافق السابع والعشرين. أما التقليد الشيعي فيُشدِّد بناءً على توجيهات الأئمة على ليالي التاسع عشر والحادي والعشرين والثالث والعشرين تحديداً. يُضاف إلى ذلك أن العمل الشيعي يتضمن أدعية وممارسات طقسية بعينها مأثورة عن أهل البيت لا توجد في التقليد السني، وإن ظلَّت أفعال العبادة الجوهرية متماثلة. ويتفق كلا المذهبين على أن التاريخ الدقيق يبقى في بعض الغموض حثَّاً على المثابرة طوال ليالٍ متعددة. ويكشف الدرس المقارن أن هذه الفوارق تعكس تباين السلاسل الروائية المنقولة لا خلافاً جوهرياً حول معنى الآية، وكلا التقليدين يسعيان إلى معاونة المؤمنين على الفوز بالبركات الاستثنائية التي خصَّها الله لهذه الليلة المباركة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "97:4:angels-descend",
+          "title": "Angels Descend",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The angels 'descend' (tanazzalu) in unprecedented numbers on this night, filling the earth with divine presence and blessings as they deliver Allah's decrees for the coming year.",
+          "whyItMatters": "The barrier between the heavenly and earthly realms becomes thin on this night, making it an optimal time for supplication as angels fill the world with mercy.",
+          "position": "topLeft",
+          "arabicHighlight": "تَنَزَّلُ ٱلْمَلَ",
+          "title_urdu": "فرشتے اترتے ہیں",
+          "coreInsight_urdu": "فرشتے اس رات بے مثال تعداد میں 'اترتے ہیں' (تنزل)، زمین کو الہی موجودگی اور برکتوں سے بھرتے ہوئے جیسے وہ آنے والے سال کے لیے اللہ کے احکام پہنچاتے ہیں۔",
+          "whyItMatters_urdu": "اس رات آسمانی اور زمینی دائروں کے درمیان رکاوٹ پتلی ہو جاتی ہے، اسے دعا کے لیے ایک بہترین وقت بناتی ہے کیونکہ فرشتے دنیا کو رحمت سے بھر دیتے ہیں۔",
+          "title_ar": "نزول الملائكة",
+          "coreInsight_ar": "تنزل الملائكة بأعداد غير مسبوقة في هذه الليلة، تملأ الأرض بالحضور الإلهي والبركات وهم يوصلون أوامر الله للعام القادم.",
+          "whyItMatters_ar": "يصبح الحاجز بين العالم السماوي والأرضي رقيقًا في هذه الليلة، مما يجعلها وقتًا مثاليًا للدعاء حيث تملأ الملائكة العالم بالرحمة."
+        },
+        {
+          "id": "97:4:the-spirit",
+          "title": "The Spirit",
+          "icon": "flame.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Ar-Ruh (the Spirit) is understood by many scholars as Angel Jibril (Gabriel), who brought the Quran to Prophet Muhammad, or as a special category of exalted angel above regular angels.",
+          "whyItMatters": "The specific mention of 'the Spirit' alongside angels emphasizes the extraordinary spiritual elevation of this night, when the highest celestial beings descend.",
+          "position": "topRight",
+          "arabicHighlight": "ٓئِكَةُ وَٱلرُّ",
+          "title_urdu": "روح",
+          "coreInsight_urdu": "الروح (روح) کو بہت سے علماء فرشتہ جبریل (جبرائیل) کے طور پر سمجھتے ہیں، جو نبی محمد کے پاس قرآن لائے، یا باقاعدہ فرشتوں سے اوپر اعلیٰ فرشتوں کی ایک خاص قسم کے طور پر۔",
+          "whyItMatters_urdu": "فرشتوں کے ساتھ 'روح' کا خاص ذکر اس رات کی غیر معمولی روحانی بلندی پر زور دیتا ہے، جب سب سے اعلیٰ آسمانی مخلوق اترتی ہے۔",
+          "title_ar": "الروح",
+          "coreInsight_ar": "يُفهم الروح من قبل العديد من العلماء على أنه الملاك جبريل (جبرائيل)، الذي أنزل القرآن على النبي محمد، أو كفئة خاصة من الملائكة المرتفعة فوق الملائكة العادية.",
+          "whyItMatters_ar": "يؤكد الذكر المحدد لـ 'الروح' جنبًا إلى جنب مع الملائكة الارتفاع الروحي الاستثنائي لهذه الليلة، عندما تنزل أعلى الكائنات السماوية."
+        },
+        {
+          "id": "97:4:by-permission",
+          "title": "By Permission",
+          "icon": "hand.raised.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Bi-idhn' (by permission of their Lord) shows that even the mightiest angels act only by Allah's command - nothing in creation operates independently of divine will.",
+          "whyItMatters": "This reinforces tawhid (divine oneness) - every movement, blessing, and decree flows from Allah's permission, with angels as His obedient messengers.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِإِذْنِ",
+          "title_urdu": "اجازت سے",
+          "coreInsight_urdu": "'باذن' (اپنے رب کی اجازت سے) ظاہر کرتا ہے کہ یہاں تک کہ طاقتور ترین فرشتے بھی صرف اللہ کے حکم سے کام کرتے ہیں - تخلیق میں کچھ بھی الہی مرضی سے آزاد نہیں چلتا۔",
+          "whyItMatters_urdu": "یہ توحید (الہی یکتائی) کو تقویت دیتا ہے - ہر حرکت، برکت اور حکم اللہ کی اجازت سے بہتا ہے، فرشتوں کے ساتھ اس کے فرمانبردار پیغامبروں کے طور پر۔",
+          "title_ar": "بإذن",
+          "coreInsight_ar": "'بإذن ربهم' يُظهر أن حتى أقوى الملائكة تعمل فقط بأمر الله - لا شيء في الخلق يعمل بشكل مستقل عن الإرادة الإلهية.",
+          "whyItMatters_ar": "يعزز هذا التوحيد - كل حركة وبركة ومرسوم يتدفق من إذن الله، مع الملائكة كرسله المطيعين."
+        },
+        {
+          "id": "97:4:every-matter",
+          "title": "Every Matter",
+          "icon": "list.bullet.clipboard.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The angels carry decrees 'min kulli amr' (for every matter) - births, deaths, provisions, calamities, and blessings for the coming year are distributed on this night.",
+          "whyItMatters": "Understanding that annual destinies are written on this night motivates us to seek Allah's favor through intense worship, hoping to positively influence our coming year.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَمْرٍۢ",
+          "title_urdu": "ہر معاملہ",
+          "coreInsight_urdu": "فرشتے احکام 'من کل امر' (ہر معاملے کے لیے) لے کر جاتے ہیں - پیدائش، موت، رزق، مصیبتیں اور برکتیں آنے والے سال کے لیے اس رات تقسیم کی جاتی ہیں۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ سالانہ تقدیریں اس رات لکھی جاتی ہیں ہمیں شدید عبادت کے ذریعے اللہ کا فضل حاصل کرنے کی ترغیب دیتا ہے، امید ہے کہ اپنے آنے والے سال کو مثبت طور پر متاثر کریں۔",
+          "title_ar": "كل أمر",
+          "coreInsight_ar": "تحمل الملائكة المراسيم 'من كل أمر' - الولادات والوفيات والأرزاق والكوارث والبركات للعام القادم تُوزع في هذه الليلة.",
+          "whyItMatters_ar": "فهم أن الأقدار السنوية تُكتب في هذه الليلة يحفزنا على طلب رضا الله من خلال العبادة الشديدة، على أمل التأثير إيجابيًا على عامنا القادم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that this verse describes the descent of angels and divine decree during Laylat al-Qadr. Ibn Kathir cites numerous prophetic traditions confirming that angels descend in extraordinary numbers during this night, led by Gabriel, bringing mercy and blessings. Al-Tabari explains that the 'matters' being decreed encompass the coming year's births, deaths, provisions, and all significant events. Both traditions recognize that this divine determination does not negate human free will but represents Allah's omniscient governance operating through causality and wisdom. The primary interpretive difference concerns the identity of the 'Spirit' mentioned alongside angels. Most Sunni scholars, including Ibn Kathir and al-Qurtubi, identify the Spirit as the angel Gabriel, with the distinction in wording serving stylistic purposes to emphasize his importance. Shia interpretation, based on teachings from Imam al-Sadiq, maintains that the Spirit represents a distinct and superior spiritual reality beyond the angelic realm. Another significant difference emerges regarding the recipients of the knowledge brought by angels: Shia tradition teaches that after the Prophet's era, this knowledge is conveyed to the living Imam, maintaining continuous divine guidance, while Sunni interpretation generally views this as applying specifically to the prophetic period or focuses on the blessings' general distribution without specific human recipients. Despite these differences, both traditions encourage believers to approach this night with recognition of its extraordinary spiritual atmosphere and opportunity for connection with divine mercy.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین دونوں متفق ہیں کہ یہ آیت لیلۃ القدر کے دوران فرشتوں کے نزول اور الٰہی فیصلے کو بیان کرتی ہے۔ ابن کثیر متعدد نبوی روایات کا حوالہ دیتے ہیں جو تصدیق کرتی ہیں کہ اس رات فرشتے غیر معمولی تعداد میں اترتے ہیں، جبرائیل کی قیادت میں، رحمت اور برکتیں لاتے ہوئے۔ الطبری وضاحت کرتے ہیں کہ 'معاملات' جو فیصلہ کیے جا رہے ہیں آئندہ سال کی پیدائشوں، موتوں، رزق اور تمام اہم واقعات کو شامل کرتے ہیں۔ دونوں روایات تسلیم کرتی ہیں کہ یہ الٰہی تعین انسانی آزاد مرضی کو منسوخ نہیں کرتا بلکہ اللہ کی ہمہ دان حکومت کی نمائندگی کرتا ہے جو سببیت اور حکمت کے ذریعے کام کرتی ہے۔ بنیادی تفسیری فرق فرشتوں کے ساتھ ذکر کردہ 'روح' کی شناخت سے متعلق ہے۔ زیادہ تر سنی علماء، بشمول ابن کثیر اور القرطبی، روح کو فرشتہ جبرائیل کے طور پر شناخت کرتے ہیں، الفاظ میں فرق اسلوبی مقاصد کے لیے کام کرتا ہے تاکہ ان کی اہمیت پر زور دیا جائے۔ شیعہ تفسیر، امام صادق کی تعلیمات کی بنیاد پر، برقرار رکھتی ہے کہ روح فرشتوں کے دائرے سے بالاتر ایک الگ اور برتر روحانی حقیقت کی نمائندگی کرتی ہے۔ ایک اور اہم فرق فرشتوں کے لائے گئے علم کے وصول کنندگان کے متعلق ابھرتا ہے۔ شیعہ روایت سکھاتی ہے کہ نبی کے دور کے بعد، یہ علم زندہ امام کو پہنچایا جاتا ہے، مسلسل الٰہی رہنمائی کو برقرار رکھتے ہوئے، جبکہ سنی تفسیر عام طور پر اسے خاص طور پر نبوی دور پر لاگو ہونے کے طور پر دیکھتی ہے یا مخصوص انسانی وصول کنندگان کے بغیر برکتوں کی عام تقسیم پر توجہ مرکوز کرتی ہے۔ ان اختلافات کے باوجود، دونوں روایات مومنین کی حوصلہ افزائی کرتی ہیں کہ وہ اس رات کے قریب اس کی غیر معمولی روحانی فضا اور الٰہی رحمت سے جڑنے کے موقع کی شناخت کے ساتھ آئیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على أن هذه الآية تصف نزول الملائكة والقضاء الإلهي في ليلة القدر. ويستشهد ابن كثير بروايات نبوية عديدة تُؤكِّد أن الملائكة تنزل بأعداد استثنائية في هذه الليلة بقيادة جبريل عليه السلام حاملةً الرحمة والبركات. ويُبيِّن الطبري أن الأمور المُقدَّرة تشمل ما سيكون في العام القادم من ولادات ووفيات وأرزاق وسائر الأحداث الجسيمة. ويُقرُّ كلا التقليدين بأن هذا القضاء الإلهي لا ينفي الإرادة البشرية الحرة بل يُمثِّل علم الله المُحيط يعمل من خلال السببية والحكمة. ويتمحور الفارق التفسيري الرئيسي حول هوية الروح التي تُذكر إلى جانب الملائكة. فأكثر علماء السنة بمن فيهم ابن كثير والقرطبي يُعرِّفون الروح بالملاك جبريل مُعتبرين التمييز في الصياغة أسلوباً بيانياً للتأكيد على رفيع شأنه. أما التفسير الشيعي المستند إلى تعاليم الإمام الصادق عليه السلام فيُثبت أن الروح حقيقة روحية متميزة وأسمى من العالم الملائكي. وفارق آخر بالغ الأهمية يتعلق بمن يتلقى العلم الذي تحمله الملائكة؛ إذ يُعلِّم التقليد الشيعي أنه بعد عهد النبي صلى الله عليه وآله وسلم يُوصَل هذا العلم إلى الإمام الحي صوناً للهداية الإلهية المستمرة، في حين يرى المفهوم السني بوجه عام أن ذلك خاص بالحقبة النبوية أو يُركِّز على التوزيع العام للبركات دون تحديد متلقٍّ بشري. وعلى الرغم من هذه الفوارق، يُشجِّع كلا التقليدين المؤمنين على الإقبال على هذه الليلة مُدركين طابعها الروحي الاستثنائي وما تُتيحه من تواصل مع الرحمة الإلهية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "97:5:perfect-peace",
+          "title": "Perfect Peace",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The entire night is 'salam' (peace) - a state of complete safety, tranquility, and freedom from harm, as angels spread blessings and divine mercy permeates the atmosphere.",
+          "whyItMatters": "This peace isn't passive but active divine protection - believers who worship on this night are enveloped in celestial security and spiritual serenity.",
+          "position": "topLeft",
+          "arabicHighlight": "سَلَٰمٌ هِىَ",
+          "title_urdu": "کامل امن",
+          "coreInsight_urdu": "پوری رات 'سلام' (امن) ہے - مکمل حفاظت، سکون اور نقصان سے آزادی کی حالت، جیسے فرشتے برکتیں پھیلاتے ہیں اور الہی رحمت فضا میں سرایت کرتی ہے۔",
+          "whyItMatters_urdu": "یہ امن غیر فعال نہیں بلکہ فعال الہی تحفظ ہے - اس رات عبادت کرنے والے مومنین آسمانی تحفظ اور روحانی سکون میں لپٹے ہوئے ہیں۔",
+          "title_ar": "السلام الكامل",
+          "coreInsight_ar": "الليلة كلها 'سلام' - حالة من الأمان الكامل والهدوء والحرية من الضرر، حيث تنشر الملائكة البركات وتتخلل الرحمة الإلهية الجو.",
+          "whyItMatters_ar": "هذا السلام ليس سلبيًا بل حماية إلهية نشطة - المؤمنون الذين يعبدون في هذه الليلة مغلفون بالأمن السماوي والصفاء الروحي."
+        },
+        {
+          "id": "97:5:until-dawn",
+          "title": "Until Dawn",
+          "icon": "sunrise.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Hatta matla'i al-fajr' (until the emergence of dawn) defines the sacred boundary - the special blessings extend through the entire night until the first light appears.",
+          "whyItMatters": "This teaches us to maximize worship throughout the night's duration, not stopping until Fajr prayer, as every moment until dawn carries this extraordinary blessing.",
+          "position": "topRight",
+          "arabicHighlight": "مَطْلَعِ ٱلْفَجْرِ",
+          "title_urdu": "فجر تک",
+          "coreInsight_urdu": "'حتیٰ مطلع الفجر' (فجر کے طلوع تک) مقدس حد کی تعریف کرتا ہے - خاص برکتیں پوری رات تک پھیلتی ہیں جب تک کہ پہلی روشنی ظاہر نہ ہو۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ پوری رات کی مدت میں عبادت کو زیادہ سے زیادہ کریں، فجر کی نماز تک نہ رکیں، کیونکہ فجر تک ہر لمحہ یہ غیر معمولی برکت رکھتا ہے۔",
+          "title_ar": "حتى الفجر",
+          "coreInsight_ar": "'حتى مطلع الفجر' (حتى ظهور الفجر) يحدد الحد المقدس - البركات الخاصة تمتد طوال الليل حتى يظهر أول ضوء.",
+          "whyItMatters_ar": "يعلمنا هذا تعظيم العبادة طوال مدة الليل، دون التوقف حتى صلاة الفجر، حيث تحمل كل لحظة حتى الفجر هذه البركة الاستثنائية."
+        },
+        {
+          "id": "97:5:all-encompassing",
+          "title": "All-Encompassing",
+          "icon": "circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The pronoun 'it' (hiya) referring to the entire night emphasizes totality - not just moments but the complete duration from sunset to dawn is saturated with peace.",
+          "whyItMatters": "Every second of this night has value - whether in formal prayer, Quran recitation, dhikr, or sincere supplication, all acts of worship are magnified.",
+          "position": "bottomLeft",
+          "arabicHighlight": "هِىَ",
+          "title_urdu": "ہمہ گیر",
+          "coreInsight_urdu": "ضمیر 'وہ' (ہی) پوری رات کی طرف اشارہ کرتے ہوئے مکملیت پر زور دیتا ہے - صرف لمحات نہیں بلکہ غروب آفتاب سے فجر تک مکمل مدت امن سے بھری ہوئی ہے۔",
+          "whyItMatters_urdu": "اس رات کی ہر سیکنڈ کی قدر ہے - چاہے رسمی نماز میں، قرآن کی تلاوت، ذکر، یا مخلصانہ دعا میں، عبادت کے تمام اعمال بڑھائے جاتے ہیں۔",
+          "title_ar": "شامل",
+          "coreInsight_ar": "يؤكد الضمير 'هي' المشير إلى الليلة بأكملها على الشمولية - ليس فقط لحظات بل المدة الكاملة من غروب الشمس إلى الفجر مشبعة بالسلام.",
+          "whyItMatters_ar": "كل ثانية من هذه الليلة لها قيمة - سواء في الصلاة الرسمية أو تلاوة القرآن أو الذكر أو الدعاء الصادق، تُعظّم جميع أعمال العبادة."
+        },
+        {
+          "id": "97:5:hope-renewal",
+          "title": "Hope & Renewal",
+          "icon": "arrow.clockwise.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The surah ends with peace and the dawn of a new day, symbolizing spiritual renewal and fresh beginnings available through worship on this blessed night.",
+          "whyItMatters": "Just as dawn brings new light after darkness, sincere worship on Laylat al-Qadr can illuminate our lives and transform our spiritual state for the year ahead.",
+          "position": "bottomRight",
+          "arabicHighlight": "مَطْلَعِ ٱلْفَجْرِ",
+          "title_urdu": "امید اور تجدید",
+          "coreInsight_urdu": "سورت امن اور نئے دن کی فجر کے ساتھ ختم ہوتی ہے، روحانی تجدید اور تازہ شروعات کی علامت جو اس بابرکت رات عبادت کے ذریعے دستیاب ہے۔",
+          "whyItMatters_urdu": "جس طرح فجر اندھیرے کے بعد نئی روشنی لاتی ہے، لیلۃ القدر پر مخلصانہ عبادت ہماری زندگیوں کو روشن کر سکتی ہے اور آنے والے سال کے لیے ہماری روحانی حالت کو تبدیل کر سکتی ہے۔",
+          "title_ar": "الأمل والتجديد",
+          "coreInsight_ar": "تنتهي السورة بالسلام وفجر يوم جديد، رمزًا للتجديد الروحي والبدايات الجديدة المتاحة من خلال العبادة في هذه الليلة المباركة.",
+          "whyItMatters_ar": "تمامًا كما يجلب الفجر نورًا جديدًا بعد الظلام، يمكن للعبادة الصادقة في ليلة القدر أن تنير حياتنا وتحول حالتنا الروحية للعام المقبل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions recognize this verse as describing the comprehensive peace characterizing Laylat al-Qadr from evening until dawn. Al-Qurtubi explains that 'salam' indicates the night is entirely good with no evil in it, and that believers worshipping during these hours are surrounded by divine blessing and angelic greetings. Ibn Kathir confirms that the peace extends throughout the entire night until dawn breaks, encouraging believers to maintain worship for this full duration. Both traditions agree that this verse establishes the time frame for the blessed night and describes its essential characteristic of safety, peace, and divine acceptance. Differences in interpretation are minimal regarding this verse, with both schools encouraging believers to spend the entire night in worship and to understand the peace as encompassing both spiritual and physical dimensions. Sunni tradition emphasizes that angels greet believers with 'salam' throughout the night, referencing various prophetic traditions about angelic activity during Laylat al-Qadr. Shia tradition adds specific practices taught by the Imams for different portions of the night, including particular supplications and Quranic chapters to recite as dawn approaches. Both schools agree that falling asleep during this night, while not prohibited, represents a missed opportunity to access the extraordinary blessings available. The comparative analysis reveals essential unity in understanding this verse as describing a complete, protected period of divine mercy from sunset to dawn, during which believers should maximize worship with confidence that they exist in a state of comprehensive peace and divine acceptance.",
+    "layer4_urdu": "شیعہ اور سنی روایات دونوں اس آیت کو لیلۃ القدر کی خصوصیت رکھنے والے جامع سکون کو بیان کرنے کے طور پر تسلیم کرتی ہیں جو شام سے طلوع فجر تک رہتا ہے۔ القرطبی وضاحت کرتے ہیں کہ 'سلام' ظاہر کرتا ہے کہ رات مکمل طور پر اچھی ہے اس میں کوئی برائی نہیں، اور یہ کہ ان گھنٹوں میں عبادت کرنے والے مومنین الٰہی برکت اور فرشتوں کے سلام سے گھرے ہوتے ہیں۔ ابن کثیر تصدیق کرتے ہیں کہ سکون پوری رات طلوع فجر تک پھیلا ہوا ہے، مومنین کی حوصلہ افزائی کرتے ہوئے کہ وہ اس پوری مدت کے لیے عبادت برقرار رکھیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت مبارک رات کے لیے وقت کا فریم قائم کرتی ہے اور اس کی بنیادی خصوصیت کو حفاظت، سکون اور الٰہی قبولیت کے طور پر بیان کرتی ہے۔ اس آیت کے بارے میں تفسیر میں فرق کم سے کم ہے، دونوں مکاتب فکر مومنین کی حوصلہ افزائی کرتے ہیں کہ وہ پوری رات عبادت میں گزاریں اور سکون کو روحانی اور جسمانی دونوں جہتوں پر مشتمل سمجھیں۔ سنی روایت اس بات پر زور دیتی ہے کہ فرشتے پوری رات مومنین کو 'سلام' کے ساتھ سلام کرتے ہیں، لیلۃ القدر کے دوران فرشتوں کی سرگرمی کے بارے میں مختلف نبوی روایات کا حوالہ دیتے ہوئے۔ شیعہ روایت رات کے مختلف حصوں کے لیے اماموں کی سکھائی ہوئی مخصوص مشقیں شامل کرتی ہے، بشمول فجر کے قریب آتے ہی پڑھنے کے لیے مخصوص دعائیں اور قرآنی سورتیں۔ دونوں مکاتب اس بات پر متفق ہیں کہ اس رات میں سونا، اگرچہ منع نہیں، ایک ضائع شدہ موقع کی نمائندگی کرتا ہے دستیاب غیر معمولی برکتوں تک رسائی کے لیے۔ تقابلی تجزیہ اس آیت کو غروب سے طلوع فجر تک الٰہی رحمت کی ایک مکمل، محفوظ مدت بیان کرنے میں بنیادی اتحاد کو ظاہر کرتا ہے، جس کے دوران مومنین کو جامع سکون اور الٰہی قبولیت کی حالت میں موجود ہونے کے اعتماد کے ساتھ عبادت کو زیادہ سے زیادہ کرنا چاہیے۔",
+    "layer4_ar": "يتفق كلا تقليدَي الشيعة والسنة على أن هذه الآية تصف السلام الشامل الذي يُميِّز ليلة القدر من المساء حتى الفجر. فيُبيِّن القرطبي أن سلام يعني أن الليلة كلها خير لا شر فيها، وأن المتعبدين إبانها محاطون بالبركة الإلهية وتحيات الملائكة. ويُؤكِّد ابن كثير أن السلام يمتد طوال الليل حتى انبلاج الفجر، مُشجِّعاً المؤمنين على صون العبادة لهذه المدة كاملة. ويتفق كلا التقليدين على أن هذه الآية تُحدِّد الإطار الزمني للليلة المباركة وتصف سمتها الجوهرية من الأمان والسلام والقبول الإلهي. والفوارق التفسيرية ضئيلة في هذه الآية، وكلا المذهبين يُشجِّعان المؤمنين على إمضاء الليل بأسره في العبادة وفهم السلام بوصفه يشمل البُعدين الروحي والمادي. ويُؤكِّد التقليد السني أن الملائكة تُحيِّي المؤمنين بالسلام طوال الليل مستنداً إلى روايات نبوية متعددة حول النشاط الملائكي في ليلة القدر. ويُضيف التقليد الشيعي ممارسات بعينها مأثورة عن الأئمة لمختلف أوقات الليل تشمل أدعية وسوراً قرآنية مُستحبة مع اقتراب الفجر. ويتفق كلا المذهبين على أن النوم في هذه الليلة وإن لم يكن محظوراً يُمثِّل فرصة ضائعة للفوز بالبركات الاستثنائية المتاحة. والتحليل المقارن يُكشف عن وحدة جوهرية في فهم هذه الآية بوصفها تصف فترة كاملة محروسة من الرحمة الإلهية من الغروب حتى الفجر، يُحسن المؤمنون فيها تعظيم العبادة بثقة أنهم يقيمون في سلام شامل وقبول إلهي كامل."
+  }
+}

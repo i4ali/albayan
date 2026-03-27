@@ -1,0 +1,360 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:1:seeking-refuge",
+          "title": "Seeking Refuge",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The command to seek refuge (a'udhu) represents the active pursuit of divine protection, acknowledging human vulnerability and Allah's absolute power to safeguard.",
+          "whyItMatters": "This teaches us that seeking Allah's protection is not a sign of weakness but of spiritual wisdom, recognizing that only He can truly shield us from harm.",
+          "position": "topLeft",
+          "arabicHighlight": "قُلْ أَعُوذُ",
+          "title_urdu": "پناہ مانگنا",
+          "coreInsight_urdu": "پناہ مانگنے کا حکم (اعوذ) الہی تحفظ کی فعال تلاش کی نمائندگی کرتا ہے، انسانی کمزوری کو تسلیم کرتے ہوئے اور اللہ کی مطلق طاقت کو محفوظ رکھنے کے لیے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ اللہ کی حفاظت مانگنا کمزوری کی علامت نہیں بلکہ روحانی حکمت کی ہے، یہ تسلیم کرتے ہوئے کہ صرف وہی ہمیں نقصان سے بچا سکتا ہے۔",
+          "title_ar": "طلب الملجأ",
+          "coreInsight_ar": "أمر الاستعاذة (أعوذ) يمثل السعي النشط للحماية الإلهية، مع الاعتراف بالضعف البشري والقدرة المطلقة لله على الحماية.",
+          "whyItMatters_ar": "هذا يعلمنا أن طلب حماية الله ليس علامة ضعف بل حكمة روحية، مع إدراك أنه وحده يمكنه حقًا أن يحمينا من الضرر."
+        },
+        {
+          "id": "114:1:lord-of-mankind",
+          "title": "Lord of All",
+          "icon": "globe.americas.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is identified as 'Rabb an-Nas' (Lord of mankind), emphasizing His role as the sustainer, nourisher, and caretaker of all human beings without exception.",
+          "whyItMatters": "This universal lordship means every human, regardless of faith or status, is under Allah's care and jurisdiction, establishing His authority over all humanity.",
+          "position": "topRight",
+          "arabicHighlight": "بِرَبِّ ٱلنَّاسِ",
+          "title_urdu": "سب کا رب",
+          "coreInsight_urdu": "اللہ کو 'رب الناس' (انسانیت کا رب) کے طور پر پہچانا جاتا ہے، جو بغیر کسی استثنا کے تمام انسانوں کے پالنے والے، پرورش کرنے والے اور دیکھ بھال کرنے والے کے طور پر اس کے کردار پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "یہ عالمگیر ربوبیت کا مطلب ہے کہ ہر انسان، ایمان یا حیثیت سے قطع نظر، اللہ کی دیکھ بھال اور دائرہ اختیار میں ہے، جو پوری انسانیت پر اس کے اختیار کو قائم کرتا ہے۔",
+          "title_ar": "رب الجميع",
+          "coreInsight_ar": "يُعرَّف الله بـ'رب الناس'، مؤكدًا دوره كمربي ومعيل ومعتني بجميع البشر دون استثناء.",
+          "whyItMatters_ar": "هذه الربوبية العالمية تعني أن كل إنسان، بغض النظر عن الإيمان أو المكانة، تحت رعاية الله واختصاصه، مما يؤسس سلطته على البشرية جمعاء."
+        },
+        {
+          "id": "114:1:command-to-say",
+          "title": "Prophetic Speech",
+          "icon": "quote.bubble.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The command 'Qul' (Say) shows this is revealed speech taught to the Prophet, making this supplication a direct divine prescription for protection.",
+          "whyItMatters": "When we recite this surah, we're using the exact words Allah taught His Prophet, giving our supplication divine authenticity and power.",
+          "position": "bottomLeft",
+          "arabicHighlight": "قُلْ",
+          "title_urdu": "نبوی کلام",
+          "coreInsight_urdu": "حکم 'قل' (کہو) ظاہر کرتا ہے کہ یہ نازل شدہ کلام ہے جو نبی کو سکھایا گیا، یہ دعا حفاظت کے لیے براہ راست الہی نسخہ بناتا ہے۔",
+          "whyItMatters_urdu": "جب ہم اس سورہ کی تلاوت کرتے ہیں، تو ہم وہی الفاظ استعمال کر رہے ہیں جو اللہ نے اپنے نبی کو سکھائے، ہماری دعا کو الہی صداقت اور طاقت عطا کرتے ہیں۔",
+          "title_ar": "الكلام النبوي",
+          "coreInsight_ar": "أمر 'قل' يُظهر أن هذا كلام منزل عُلِّم للنبي، مما يجعل هذا الدعاء وصفة إلهية مباشرة للحماية.",
+          "whyItMatters_ar": "عندما نتلو هذه السورة، نستخدم الكلمات ذاتها التي علّمها الله لنبيه، مما يمنح دعائنا أصالة وقوة إلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree on the fundamental meaning of this verse as seeking divine protection through acknowledging Allah's lordship over humanity. Ibn Kathir and al-Qurtubi, like Tabatabai and Tabrisi, explain that 'Rabb al-Nas' emphasizes Allah's comprehensive authority over human affairs. However, there are subtle differences in emphasis. Sunni commentators like al-Razi focus more on the linguistic aspects and the universality of Allah's lordship as proof against polytheism. Shia scholars additionally emphasize the connection between divine lordship and the institution of Imamah, seeing the Imams as extensions of divine guidance for humanity. Both traditions agree that this verse teaches complete dependence on Allah for protection. The classical consensus across both schools is that these three verses (with their three attributes) form a complete theology of refuge. Where traditions differ is in supplementary practices: Shia tradition particularly emphasizes combining this surah with invoking the names of the Ahlul Bayt for additional spiritual protection, while Sunni practice focuses solely on the Quranic text.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس آیت کے بنیادی معنی پر متفق ہیں کہ یہ انسانیت پر اللہ کی ربوبیت کو تسلیم کرتے ہوئے الٰہی حفاظت کی طلب ہے۔ ابن کثیر اور القرطبی، طباطبائی اور طبرسی کی طرح، بتاتے ہیں کہ 'رب الناس' انسانی معاملات پر اللہ کی جامع اتھارٹی پر زور دیتا ہے۔ تاہم زور میں لطیف فرق ہے۔ سنی مفسرین جیسے الرازی لسانی پہلوؤں اور اللہ کی ربوبیت کی عالمگیریت پر زیادہ توجہ دیتے ہیں جو شرک کے خلاف دلیل ہے۔ شیعہ علماء اضافی طور پر الٰہی ربوبیت اور امامت کے ادارے کے درمیان تعلق پر زور دیتے ہیں، ائمہ علیہم السلام کو انسانیت کے لیے الٰہی رہنمائی کی توسیع کے طور پر دیکھتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت حفاظت کے لیے اللہ پر مکمل انحصار سکھاتی ہے۔ دونوں مکاتب فکر میں کلاسیکی اتفاق رائے یہ ہے کہ یہ تین آیات اپنی تین صفات کے ساتھ پناہ کی مکمل الہیات بناتی ہیں۔ روایات میں فرق یہ ہے کہ شیعہ روایت خاص طور پر اضافی روحانی حفاظت کے لیے اہل بیت علیہم السلام کے ناموں کو پکارنے کے ساتھ اس سورت کو ملانے پر زور دیتی ہے، جبکہ سنی عمل صرف قرآنی متن پر توجہ مرکوز کرتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً جوهرياً على المعنى الأصيل لهذه الآية بوصفها طلباً للحماية الإلهية عبر الإقرار بربوبية الله على البشرية. فابن كثير والقرطبي من أهل السنة، كالطباطبائي والطبرسي من الشيعة، يُجمعون على أن \"ربَّ الناس\" يُبرز الصلاحية الشاملة لله على الشؤون الإنسانية. غير أن ثمة فوارق في التأكيد؛ إذ يُركِّز المفسرون السنيون كالرازي على الجوانب اللغوية وعموم ربوبية الله دليلاً على نفي الشرك، في حين يُضيف علماء الشيعة الربطَ بين الربوبية الإلهية ومؤسسة الإمامة، نظراً لأن الأئمة عليهم السلام امتداد للهداية الربانية للبشر. ويتفق التراثان على أن هذه الآية تُعلِّم الاتكال الكلي على الله في طلب الحماية. والإجماع الكلاسيكي بين المذهبين أن الآيات الثلاث بصفاتها الثلاث تُشكِّل منظومةً لاهوتية متكاملة للاستعاذة. وموضع الاختلاف يكمن في الممارسات التكميلية: إذ يُشدِّد التراث الشيعي على الجمع بين هذه السورة والتوسل بأسماء أهل البيت لمزيد من الحماية الروحية، في حين تنصبُّ الممارسة السنية على النص القرآني وحده."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:2:divine-sovereignty",
+          "title": "Divine Kingship",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is 'Malik an-Nas' (Sovereign of mankind), emphasizing His absolute rulership and authority over all human affairs, decisions, and destinies.",
+          "whyItMatters": "Recognizing Allah's sovereignty helps us understand that ultimate control belongs to Him alone, freeing us from fear of worldly powers and evil forces.",
+          "position": "topLeft",
+          "arabicHighlight": "مَلِكِ ٱلنَّاسِ",
+          "title_urdu": "الہی بادشاہت",
+          "coreInsight_urdu": "اللہ 'ملک الناس' (انسانیت کا بادشاہ) ہے، جو تمام انسانی معاملات، فیصلوں اور تقدیروں پر اس کی مطلق حکمرانی اور اختیار پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی حاکمیت کو تسلیم کرنا ہمیں سمجھنے میں مدد کرتا ہے کہ حتمی کنٹرول صرف اسی کا ہے، ہمیں دنیاوی طاقتوں اور برائی کی قوتوں کے خوف سے آزاد کرتا ہے۔",
+          "title_ar": "الملك الإلهي",
+          "coreInsight_ar": "الله هو 'ملك الناس'، مؤكدًا حكمه المطلق وسلطته على جميع الشؤون والقرارات والمصائر البشرية.",
+          "whyItMatters_ar": "إدراك سيادة الله يساعدنا على فهم أن السيطرة النهائية تعود له وحده، مما يحررنا من الخوف من القوى الدنيوية وقوى الشر."
+        },
+        {
+          "id": "114:2:three-attributes",
+          "title": "Triple Description",
+          "icon": "3.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The surah uses three ascending attributes (Lord, Sovereign, God) to build toward the complete understanding of Allah's relationship with humanity.",
+          "whyItMatters": "This progression teaches us to approach Allah through multiple dimensions - as our Sustainer, our Ruler, and our Deity worthy of worship.",
+          "position": "topRight",
+          "arabicHighlight": "مَلِكِ",
+          "title_urdu": "تین صفات",
+          "coreInsight_urdu": "سورہ تین بڑھتی ہوئی صفات (رب، بادشاہ، معبود) استعمال کرتی ہے تاکہ انسانیت کے ساتھ اللہ کے تعلق کی مکمل تفہیم کی طرف بڑھے۔",
+          "whyItMatters_urdu": "یہ ترقی ہمیں سکھاتی ہے کہ اللہ کے پاس متعدد جہتوں سے پہنچیں - ہمارے پالنے والے، ہمارے حکمران، اور ہمارے عبادت کے لائق معبود کے طور پر۔",
+          "title_ar": "الوصف الثلاثي",
+          "coreInsight_ar": "تستخدم السورة ثلاث صفات تصاعدية (رب، ملك، إله) للبناء نحو الفهم الكامل لعلاقة الله بالبشرية.",
+          "whyItMatters_ar": "هذا التدرج يعلمنا الاقتراب من الله من خلال أبعاد متعددة - كمعيلنا، وحاكمنا، وإلهنا المستحق للعبادة."
+        },
+        {
+          "id": "114:2:protection-authority",
+          "title": "Sovereign Protection",
+          "icon": "shield.checkered",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Seeking refuge in Allah as Malik emphasizes that His sovereignty gives Him the power to grant absolute protection against any threat.",
+          "whyItMatters": "Understanding that the King of all humanity protects us removes anxiety about worldly threats and spiritual dangers alike.",
+          "position": "bottomRight",
+          "arabicHighlight": "مَلِكِ ٱلنَّاسِ",
+          "title_urdu": "بادشاہ کی حفاظت",
+          "coreInsight_urdu": "ملک کے طور پر اللہ کی پناہ مانگنا اس بات پر زور دیتا ہے کہ اس کی حاکمیت اسے کسی بھی خطرے کے خلاف مطلق تحفظ فراہم کرنے کی طاقت دیتی ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ تمام انسانیت کا بادشاہ ہماری حفاظت کرتا ہے دنیاوی خطرات اور روحانی خطرات دونوں کے بارے میں پریشانی کو دور کرتا ہے۔",
+          "title_ar": "الحماية السيادية",
+          "coreInsight_ar": "طلب الملجأ في الله كملك يؤكد أن سيادته تمنحه القدرة على منح حماية مطلقة ضد أي تهديد.",
+          "whyItMatters_ar": "فهم أن ملك البشرية جمعاء يحمينا يزيل القلق من التهديدات الدنيوية والأخطار الروحية على حد سواء."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia scholars share fundamental agreement on the meaning of 'Malik al-Nas' as denoting Allah's absolute sovereignty and ownership of humanity. Commentators from both traditions, including al-Tabari, Ibn Kathir, Tabatabai, and Tabrisi, emphasize that this verse establishes Allah's unique position as the true King, unlike earthly rulers whose authority is derived and limited. However, there are differences in political implications. Sunni political theology historically developed concepts of caliphate based on community consensus, while Shia theology emphasizes divinely appointed leadership through the line of the Prophet's family. Both schools agree that human authority must be subordinate to divine sovereignty, but differ on how that authority is legitimately established. Classical Sunni scholars like al-Razi emphasize this verse as proof against those who elevate created beings to divine status. Shia scholars add that it also argues against following leaders who lack divine designation. Despite these differences, both traditions unite in teaching that ultimate refuge is found in Allah's sovereignty alone.",
+    "layer4_urdu": "سنی اور شیعہ علماء 'ملک الناس' کے معنی پر بنیادی اتفاق رکھتے ہیں جو انسانیت پر اللہ کی مطلق حاکمیت اور ملکیت کی نشاندہی کرتا ہے۔ دونوں روایات کے مفسرین بشمول الطبری، ابن کثیر، طباطبائی اور طبرسی زور دیتے ہیں کہ یہ آیت اللہ کی منفرد پوزیشن کو حقیقی بادشاہ کے طور پر قائم کرتی ہے، دنیاوی حکمرانوں کے برعکس جن کی اتھارٹی مشتق اور محدود ہے۔ تاہم سیاسی مضمرات میں فرق ہے۔ سنی سیاسی الہیات نے تاریخی طور پر کمیونٹی کے اتفاق رائے پر مبنی خلافت کے تصورات تیار کیے، جبکہ شیعہ الہیات نبی کے خاندان کی لائن کے ذریعے الٰہی طور پر مقرر کردہ قیادت پر زور دیتی ہے۔ دونوں مکاتب فکر اس بات پر متفق ہیں کہ انسانی اتھارٹی الٰہی حاکمیت کے تابع ہونی چاہیے لیکن اس بات پر مختلف ہیں کہ وہ اتھارٹی جائز طور پر کیسے قائم ہوتی ہے۔ کلاسیکی سنی علماء جیسے الرازی اس آیت کو ان لوگوں کے خلاف دلیل کے طور پر زور دیتے ہیں جو مخلوقات کو الٰہی مقام تک بلند کرتے ہیں۔ شیعہ علماء یہ بھی شامل کرتے ہیں کہ یہ ایسے رہنماوں کی پیروی کے خلاف بھی دلیل ہے جن کے پاس الٰہی تعیین نہیں ہے۔ ان اختلافات کے باوجود دونوں روایات اس تعلیم میں متحد ہیں کہ حتمی پناہ صرف اللہ کی حاکمیت میں ملتی ہے۔",
+    "layer4_ar": "يتفق علماء السنة والشيعة في المعنى الأساسي لـ\"مَلِك الناس\" الدالِّ على السيادة المطلقة لله وملكيته الكاملة للبشرية. ويُؤكِّد المفسرون من كلا التراثين، أمثال الطبري وابن كثير من السنة والطباطبائي والطبرسي من الشيعة، أن الآية تُثبت مكانة الله الفريدة ملكاً حقاً بخلاف الحكام الأرضيين الذين سلطانهم مُستمَدٌّ محدود. غير أن ثمة تبايناً في الاستنتاجات السياسية؛ إذ طوَّرت الفقه السياسي السني تاريخياً مفاهيم الخلافة قائمةً على إجماع الأمة، في حين يُشدِّد الفقه السياسي الشيعي على القيادة الإلهية التعيين المنبثقة من آل بيت النبي. ويتفق المذهبان على أن السلطة البشرية يجب أن تخضع للسيادة الإلهية، لكنهما يختلفان في أسلوب إثبات هذه السلطة المشروعة. ويُبرز المفسرون السنيون الكلاسيكيون كالرازي أن الآية حجة ضد من يرفعون المخلوقين إلى مرتبة الألوهية، في حين يُضيف علماء الشيعة أنها حجة أيضاً ضد اتباع قادة من غير مَن عيَّنهم الله. وعلى الرغم من هذه الفوارق، يلتقي التراثان في تعليم أن الملاذ الحق إنما هو في ملكوت الله وسيادته وحده."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:3:true-deity",
+          "title": "True God",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah as 'Ilah an-Nas' (God of mankind) is the only deity worthy of worship, establishing monotheism as the foundation for seeking divine protection.",
+          "whyItMatters": "True protection comes only from turning to the one true God, not false deities or created beings, making sincere monotheism essential for spiritual safety.",
+          "position": "topLeft",
+          "arabicHighlight": "إِلَٰهِ ٱلنَّاسِ",
+          "title_urdu": "حقیقی معبود",
+          "coreInsight_urdu": "اللہ 'الہ الناس' (انسانیت کا معبود) کے طور پر واحد معبود ہے جو عبادت کے لائق ہے، توحید کو الہی تحفظ حاصل کرنے کی بنیاد کے طور پر قائم کرتا ہے۔",
+          "whyItMatters_urdu": "حقیقی تحفظ صرف ایک سچے معبود کی طرف رجوع کرنے سے آتا ہے، نہ کہ جھوٹے معبودوں یا مخلوق سے، مخلص توحید کو روحانی حفاظت کے لیے ضروری بناتا ہے۔",
+          "title_ar": "الإله الحقيقي",
+          "coreInsight_ar": "الله كـ'إله الناس' هو الإله الوحيد المستحق للعبادة، مما يؤسس التوحيد كأساس لطلب الحماية الإلهية.",
+          "whyItMatters_ar": "الحماية الحقيقية تأتي فقط من التوجه إلى الإله الواحد الحق، وليس الآلهة الزائفة أو الكائنات المخلوقة، مما يجعل التوحيد الصادق ضروريًا للأمان الروحي."
+        },
+        {
+          "id": "114:3:worship-connection",
+          "title": "Worship Link",
+          "icon": "link.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The progression from Rabb (Lord) to Malik (Sovereign) to Ilah (God) connects Allah's care, authority, and right to exclusive worship in one complete relationship.",
+          "whyItMatters": "This teaches that true worship flows from recognizing Allah's nurturing lordship and sovereign authority, creating a complete bond of dependence and devotion.",
+          "position": "topRight",
+          "arabicHighlight": "إِلَٰهِ",
+          "title_urdu": "عبادت کا رشتہ",
+          "coreInsight_urdu": "رب سے ملک سے الہ تک کی ترقی اللہ کی دیکھ بھال، اختیار، اور خصوصی عبادت کے حق کو ایک مکمل تعلق میں جوڑتی ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ حقیقی عبادت اللہ کی پرورش کرنے والی ربوبیت اور خودمختار اختیار کو تسلیم کرنے سے نکلتی ہے، انحصار اور عقیدت کا مکمل بندھن بناتی ہے۔",
+          "title_ar": "رابط العبادة",
+          "coreInsight_ar": "التدرج من رب إلى ملك إلى إله يربط رعاية الله وسلطته وحقه في العبادة الحصرية في علاقة واحدة كاملة.",
+          "whyItMatters_ar": "هذا يعلم أن العبادة الحقيقية تنبع من إدراك ربوبية الله المعيلة وسلطته السيادية، مما يخلق رابطة كاملة من الاعتماد والإخلاص."
+        },
+        {
+          "id": "114:3:complete-dependence",
+          "title": "Total Reliance",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "By establishing Allah as our Lord, King, and God, the surah calls us to complete dependence on Him alone for protection against all forms of evil.",
+          "whyItMatters": "This threefold recognition dissolves any notion of seeking help from other sources, directing all our trust and reliance to Allah exclusively.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِلَٰهِ ٱلنَّاسِ",
+          "title_urdu": "مکمل انحصار",
+          "coreInsight_urdu": "اللہ کو ہمارے رب، بادشاہ اور معبود کے طور پر قائم کرکے، سورہ ہمیں تمام قسم کی برائیوں سے تحفظ کے لیے صرف اسی پر مکمل انحصار کی دعوت دیتی ہے۔",
+          "whyItMatters_urdu": "یہ تین گنا پہچان دوسرے ذرائع سے مدد حاصل کرنے کے کسی تصور کو ختم کرتی ہے، ہمارے تمام اعتماد اور بھروسے کو خاص طور پر اللہ کی طرف لے جاتی ہے۔",
+          "title_ar": "الاعتماد الكلي",
+          "coreInsight_ar": "من خلال تأسيس الله كربنا وملكنا وإلهنا، تدعونا السورة إلى الاعتماد الكامل عليه وحده للحماية من جميع أشكال الشر.",
+          "whyItMatters_ar": "هذا الاعتراف الثلاثي يزيل أي فكرة عن طلب المساعدة من مصادر أخرى، موجهًا كل ثقتنا واعتمادنا إلى الله حصريًا."
+        }
+      ]
+    },
+    "layer4": "There is strong consensus between Shia and Sunni scholars on the fundamental meaning of this verse as establishing pure monotheism and exclusive worship of Allah. Commentators from both traditions agree that 'Ilah al-Nas' declares Allah as the only true deity worthy of worship and that this declaration is central to seeking divine protection. Classical Sunni scholars like Ibn Kathir emphasize this verse as the culmination of Surah al-Ikhlas's message of divine unity. Al-Qurtubi explains that these three attributes comprehensively establish tawhid. Shia scholars like Tabatabai similarly emphasize the verse's role in establishing pure monotheism. However, there are nuanced differences in application. Shia theology particularly emphasizes the connection between pure worship of Allah and love for the Ahlul Bayt, seeing the two as inseparable - loving the Prophet's family is seen as part of proper devotion to Allah, not separate from it. Sunni theology generally focuses on direct worship of Allah without emphasizing intermediary roles of religious figures. Despite these differences, both traditions unite in teaching that ultimate protection comes through sincere, exclusive worship of Allah alone.",
+    "layer4_urdu": "شیعہ اور سنی علماء کے درمیان اس آیت کے بنیادی معنی پر مضبوط اتفاق ہے کہ یہ خالص توحید اور اللہ کی خصوصی عبادت قائم کرتی ہے۔ دونوں روایات کے مفسرین متفق ہیں کہ 'الٰہ الناس' اللہ کو واحد حقیقی معبود قرار دیتا ہے جو عبادت کے لائق ہے اور یہ اعلان الٰہی حفاظت کی طلب میں مرکزی ہے۔ کلاسیکی سنی علماء جیسے ابن کثیر اس آیت پر سورہ الاخلاص کے پیغام کے اختتام کے طور پر زور دیتے ہیں۔ القرطبی بتاتے ہیں کہ یہ تین صفات جامع طور پر توحید قائم کرتی ہیں۔ شیعہ علماء جیسے طباطبائی اسی طرح خالص توحید قائم کرنے میں آیت کے کردار پر زور دیتے ہیں۔ تاہم استعمال میں لطیف فرق ہے۔ شیعہ الہیات خاص طور پر اللہ کی خالص عبادت اور اہل بیت علیہم السلام سے محبت کے درمیان تعلق پر زور دیتی ہے، دونوں کو ناقابل تقسیم سمجھتی ہے - نبی کے خاندان سے محبت کرنا اللہ کے لیے مناسب عقیدت کا حصہ سمجھا جاتا ہے، الگ نہیں۔ سنی الہیات عام طور پر مذہبی شخصیات کے درمیانی کرداروں پر زور دیے بغیر اللہ کی براہ راست عبادت پر توجہ مرکوز کرتی ہے۔ ان اختلافات کے باوجود دونوں روایات اس تعلیم میں متحد ہیں کہ حتمی حفاظت خلوص، خصوصی طور پر صرف اللہ کی عبادت کے ذریعے آتی ہے۔",
+    "layer4_ar": "ثمة توافق قوي بين علماء الشيعة والسنة على المعنى الجوهري للآية الداعي إلى التوحيد الخالص والعبادة المطلقة لله وحده. ويتفق المفسرون من كلا التراثين على أن \"إِلَهَ الناس\" يُعلن الله الإله الحق الوحيد المستحق للعبادة، وأن هذا الإعلان ركيزة في طلب الحماية الإلهية. ويُبرز المفسرون السنيون الكلاسيكيون كابن كثير هذه الآية ذروةً لرسالة سورة الإخلاص في التوحيد. ويُفسِّر القرطبي أن هذه الصفات الثلاث تُثبِّت التوحيد بصورة شاملة. ويُضاهي علماء الشيعة كالطباطبائي هذا التركيز على دور الآية في إرساء التوحيد الخالص. وثمة فوارق دقيقة في التطبيق؛ إذ يُشدِّد الفقه الشيعي على الربط بين خالص العبادة لله ومحبة أهل البيت، رائياً الأمرين متلازمين لا يُفرَّق بينهما، بخلاف الفقه السني الذي يُركِّز عموماً على العبادة المباشرة لله دون التشديد على الأدوار الوساطية للشخصيات الدينية. وعلى الرغم من هذه الفوارق يلتقي التراثان في تعليم أن الملاذ الأعمق يكمن في عبادة الله وحده عبادةً خالصة لا مزيج فيها."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:4:waswas-whisperer",
+          "title": "Evil Whisperer",
+          "icon": "waveform.path",
+          "colorHex": "#E57373",
+          "coreInsight": "The 'waswas' refers to subtle, persistent whispers that plant doubts and evil suggestions in the heart, representing the insidious nature of spiritual attack.",
+          "whyItMatters": "Recognizing that evil often comes through subtle whispers helps us stay vigilant against thoughts that gradually lead us away from truth and righteousness.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْوَسْوَاسِ",
+          "title_urdu": "برا وسوسہ ڈالنے والا",
+          "coreInsight_urdu": "وسواس باریک، مسلسل سرگوشیوں کا حوالہ دیتا ہے جو دل میں شکوک اور برے خیالات پیدا کرتے ہیں، روحانی حملے کی کپٹی نوعیت کی نمائندگی کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ تسلیم کرنا کہ برائی اکثر باریک سرگوشیوں کے ذریعے آتی ہے ہمیں ان خیالات کے خلاف چوکس رہنے میں مدد کرتا ہے جو آہستہ آہستہ ہمیں سچائی اور نیکی سے دور لے جاتے ہیں۔",
+          "title_ar": "الموسوس الشرير",
+          "coreInsight_ar": "يشير 'الوسواس' إلى همسات خفية ومستمرة تزرع الشكوك والاقتراحات الشريرة في القلب، مما يمثل الطبيعة الخبيثة للهجوم الروحي.",
+          "whyItMatters_ar": "إدراك أن الشر غالبًا ما يأتي من خلال همسات خفية يساعدنا على البقاء يقظين ضد الأفكار التي تبعدنا تدريجيًا عن الحق والصلاح."
+        },
+        {
+          "id": "114:4:khannas-retreating",
+          "title": "The Retreater",
+          "icon": "arrow.backward.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Khannas describes how the whisperer retreats when Allah is remembered, revealing the power of divine remembrance (dhikr) to repel evil influences.",
+          "whyItMatters": "This teaches us a practical defense: when we feel negative thoughts or temptations, remembering Allah causes these influences to withdraw and lose their power.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْخَنَّاسِ",
+          "title_urdu": "پیچھے ہٹنے والا",
+          "coreInsight_urdu": "الخناس بیان کرتا ہے کہ کس طرح وسوسہ ڈالنے والا پیچھے ہٹ جاتا ہے جب اللہ کو یاد کیا جاتا ہے، برے اثرات کو دور کرنے کے لیے الہی یاد (ذکر) کی طاقت کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں ایک عملی دفاع سکھاتا ہے: جب ہم منفی خیالات یا لالچ محسوس کرتے ہیں، تو اللہ کو یاد کرنا ان اثرات کو پیچھے ہٹنے اور اپنی طاقت کھونے پر مجبور کرتا ہے۔",
+          "title_ar": "المتراجع",
+          "coreInsight_ar": "الخناس يصف كيف يتراجع الموسوس عندما يُذكر الله، مما يكشف قوة الذكر الإلهي لصد التأثيرات الشريرة.",
+          "whyItMatters_ar": "هذا يعلمنا دفاعًا عمليًا: عندما نشعر بأفكار سلبية أو إغراءات، فإن ذكر الله يجعل هذه التأثيرات تنسحب وتفقد قوتها."
+        },
+        {
+          "id": "114:4:source-of-evil",
+          "title": "Evil's Origin",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse identifies 'sharr' (evil) of the whisperer, acknowledging that genuine spiritual threats exist and require divine protection to overcome.",
+          "whyItMatters": "Understanding that evil whispers are real helps us take spiritual warfare seriously and not dismiss negative thoughts as merely psychological phenomena.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مِن شَرِّ",
+          "title_urdu": "برائی کا منبع",
+          "coreInsight_urdu": "آیت وسوسہ ڈالنے والے کے 'شر' (برائی) کی شناخت کرتی ہے، تسلیم کرتے ہوئے کہ حقیقی روحانی خطرات موجود ہیں اور ان پر قابو پانے کے لیے الہی تحفظ کی ضرورت ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ بری سرگوشیاں حقیقی ہیں ہمیں روحانی جنگ کو سنجیدگی سے لینے میں مدد کرتا ہے اور منفی خیالات کو محض نفسیاتی مظاہر کے طور پر مسترد نہیں کرتا۔",
+          "title_ar": "مصدر الشر",
+          "coreInsight_ar": "تحدد الآية 'شر' الموسوس، مع الاعتراف بوجود تهديدات روحية حقيقية تتطلب حماية إلهية للتغلب عليها.",
+          "whyItMatters_ar": "فهم أن الهمسات الشريرة حقيقية يساعدنا على أخذ الحرب الروحية على محمل الجد وعدم رفض الأفكار السلبية كظواهر نفسية فقط."
+        }
+      ]
+    },
+    "layer4": "There is scholarly consensus across Shia and Sunni traditions regarding the identification of 'al-waswas al-khannas' as Satan and his method of leading humans astray through whispers. Classical commentators from both schools, including al-Tabari, Ibn Kathir, Tabatabai, and Tabrisi, agree that this refers to subtle temptations and evil suggestions that retreat when confronted with faith. Sunni scholar al-Qurtubi emphasizes the importance of seeking refuge from these whispers through recitation of this surah. Shia scholars similarly stress this practice while additionally emphasizing the role of the Ahlul Bayt's teachings in understanding and combating spiritual whispers. Both traditions agree on practical defenses: maintaining regular worship, remembering Allah frequently, avoiding sins, and seeking knowledge of religion. A point of difference lies in supplementary practices: Shia tradition includes specific supplications taught by the Imams and emphasizes the protective role of devotion to the Ahlul Bayt, while Sunni practice focuses primarily on Quranic recitation and prophetic supplications. Despite these differences, both schools unite in teaching that awareness of Satan's methods and constant connection with Allah are the keys to spiritual protection.",
+    "layer4_urdu": "شیعہ اور سنی روایات میں 'الوسواس الخناس' کی شناخت شیطان اور وسوسوں کے ذریعے انسانوں کو گمراہ کرنے کے اس کے طریقے کے طور پر علمی اتفاق ہے۔ دونوں مکاتب فکر کے کلاسیکی مفسرین بشمول الطبری، ابن کثیر، طباطبائی اور طبرسی متفق ہیں کہ یہ لطیف آزمائشوں اور برائی کی تجاویز کی طرف اشارہ کرتا ہے جو ایمان کا سامنا کرنے پر پیچھے ہٹ جاتی ہیں۔ سنی عالم القرطبی اس سورت کی تلاوت کے ذریعے ان وسوسوں سے پناہ مانگنے کی اہمیت پر زور دیتے ہیں۔ شیعہ علماء اسی طرح اس عمل پر زور دیتے ہیں جبکہ اضافی طور پر روحانی وسوسوں کو سمجھنے اور ان کا مقابلہ کرنے میں اہل بیت علیہم السلام کی تعلیمات کے کردار پر زور دیتے ہیں۔ دونوں روایات عملی دفاع پر متفق ہیں: باقاعدہ عبادت برقرار رکھنا، اکثر اللہ کو یاد کرنا، گناہوں سے بچنا اور دین کا علم حاصل کرنا۔ فرق کا نقطہ اضافی طریقوں میں ہے: شیعہ روایت میں ائمہ علیہم السلام کی سکھائی گئی مخصوص دعائیں شامل ہیں اور اہل بیت علیہم السلام سے عقیدت کے حفاظتی کردار پر زور دیا جاتا ہے، جبکہ سنی عمل بنیادی طور پر قرآنی تلاوت اور نبوی دعاؤں پر توجہ مرکوز کرتا ہے۔ ان اختلافات کے باوجود دونوں مکاتب فکر اس تعلیم میں متحد ہیں کہ شیطان کے طریقوں کی آگاہی اور اللہ کے ساتھ مسلسل تعلق روحانی حفاظت کی کلیدیں ہیں۔",
+    "layer4_ar": "يسود توافق علمي بين تراثَي الشيعة والسنة في تعريف \"الوسواس الخنَّاس\" على أنه الشيطان وأسلوبه في استدراج البشر عبر الوساوس. ويتفق المفسرون الكلاسيكيون من كلا المدرستين، أمثال الطبري وابن كثير من السنة والطباطبائي والطبرسي من الشيعة، على أن المراد هو الإغراءات الخفية والإيحاءات الشريرة التي تنحسر حين تواجهها قوة الإيمان. ويُشدِّد العالم السني القرطبي على استحباب تلاوة هذه السورة طلباً للاستعاذة من الوساوس. ويُشاركه علماء الشيعة في هذا التوجيه، مُضيفين التشديد على دور تعاليم أهل البيت في فهم الوساوس الروحية ومواجهتها. ويتفق التراثان على الدفاعات العملية: المواظبة على العبادة، وإدامة ذكر الله، واجتناب المعاصي، وطلب العلم الديني. وثمة تباين في الممارسات التكميلية: إذ يتضمَّن التراث الشيعي أدعيةً علَّمها الأئمة خصيصاً ويُشدِّد على الدور الوقائي للتمسك بأهل البيت، في حين تنصبُّ الممارسة السنية أساساً على التلاوة القرآنية والأذكار النبوية. وعلى الرغم من هذه الفوارق يلتقي المذهبان في تعليم أن الوعي بأساليب الشيطان والارتباط الدائم بالله هما مفتاحا الحماية الروحية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:5:hearts-target",
+          "title": "Heart's Target",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The whisperer targets 'sudur' (breasts/hearts), the center of human emotion, thought, and faith, showing that spiritual corruption begins internally before manifesting externally.",
+          "whyItMatters": "Protecting our hearts through constant remembrance of Allah is essential, as the battle for our souls is fought first in the realm of thoughts and feelings.",
+          "position": "topLeft",
+          "arabicHighlight": "فِى صُدُورِ ٱلنَّاسِ",
+          "title_urdu": "دل کا نشانہ",
+          "coreInsight_urdu": "وسوسہ ڈالنے والا 'صدور' (سینوں/دلوں) کو نشانہ بناتا ہے، انسانی جذبات، سوچ، اور ایمان کا مرکز، یہ ظاہر کرتے ہوئے کہ روحانی فساد بیرونی طور پر ظاہر ہونے سے پہلے اندرونی طور پر شروع ہوتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی مسلسل یاد کے ذریعے اپنے دلوں کی حفاظت ضروری ہے، کیونکہ ہماری روحوں کی جنگ پہلے خیالات اور احساسات کے دائرے میں لڑی جاتی ہے۔",
+          "title_ar": "هدف القلب",
+          "coreInsight_ar": "يستهدف الموسوس 'الصدور' (القلوب)، مركز العاطفة والفكر والإيمان البشري، مما يُظهر أن الفساد الروحي يبدأ داخليًا قبل أن يظهر خارجيًا.",
+          "whyItMatters_ar": "حماية قلوبنا من خلال الذكر المستمر لله أمر ضروري، حيث يُخاض القتال على أرواحنا أولاً في مجال الأفكار والمشاعر."
+        },
+        {
+          "id": "114:5:continuous-attack",
+          "title": "Persistent Assault",
+          "icon": "arrow.trianglehead.clockwise",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verb 'yuwaswisu' indicates ongoing, repeated action, revealing that evil whispers are not occasional but constant, requiring continuous vigilance and protection.",
+          "whyItMatters": "Understanding the persistent nature of these attacks helps us maintain constant awareness and not let our guard down in spiritual matters.",
+          "position": "topRight",
+          "arabicHighlight": "يُوَسْوِسُ",
+          "title_urdu": "مسلسل حملہ",
+          "coreInsight_urdu": "فعل 'یوسوس' جاری، بار بار کی کارروائی کی نشاندہی کرتا ہے، یہ ظاہر کرتے ہوئے کہ بری سرگوشیاں کبھی کبھار نہیں بلکہ مسلسل ہیں، مسلسل چوکسی اور تحفظ کی ضرورت ہے۔",
+          "whyItMatters_urdu": "ان حملوں کی مسلسل نوعیت کو سمجھنا ہمیں مسلسل آگاہی برقرار رکھنے اور روحانی معاملات میں اپنی چوکسی کو کم نہ کرنے میں مدد کرتا ہے۔",
+          "title_ar": "الهجوم المستمر",
+          "coreInsight_ar": "الفعل 'يوسوس' يشير إلى فعل مستمر ومتكرر، مما يكشف أن الهمسات الشريرة ليست عرضية بل مستمرة، مما يتطلب يقظة وحماية دائمة.",
+          "whyItMatters_ar": "فهم الطبيعة المستمرة لهذه الهجمات يساعدنا على الحفاظ على الوعي المستمر وعدم خفض حذرنا في الأمور الروحية."
+        },
+        {
+          "id": "114:5:universal-vulnerability",
+          "title": "All Humanity",
+          "icon": "person.3.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'sudur an-nas' (breasts of mankind) indicates that all humans are vulnerable to these whispers, with no one exempt from this spiritual challenge.",
+          "whyItMatters": "This universal vulnerability means we all need Allah's protection equally, removing any false sense of spiritual superiority or invulnerability.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلنَّاسِ",
+          "title_urdu": "تمام انسانیت",
+          "coreInsight_urdu": "جملہ 'صدور الناس' (انسانوں کے سینے) اشارہ کرتا ہے کہ تمام انسان ان سرگوشیوں سے متاثر ہیں، کوئی بھی اس روحانی چیلنج سے مستثنیٰ نہیں۔",
+          "whyItMatters_urdu": "یہ عالمگیر کمزوری کا مطلب ہے کہ ہم سب کو اللہ کی حفاظت کی یکساں ضرورت ہے، روحانی برتری یا ناقابل تسخیر ہونے کے کسی جھوٹے احساس کو دور کرتے ہوئے۔",
+          "title_ar": "البشرية جمعاء",
+          "coreInsight_ar": "عبارة 'صدور الناس' يشير إلى أن جميع البشر عرضة لهذه الهمسات، دون استثناء أحد من هذا التحدي الروحي.",
+          "whyItMatters_ar": "هذه القابلية العالمية تعني أننا جميعًا بحاجة إلى حماية الله بالتساوي، مما يزيل أي شعور زائف بالتفوق الروحي أو الحصانة."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars are in complete agreement regarding the meaning of this verse as describing the target and nature of Satan's whispers within human consciousness. Classical commentators from both traditions explain that 'sudur al-nas' refers to the innermost thoughts and feelings of all people. Ibn Kathir and al-Qurtubi, like Tabatabai and Tabrisi, emphasize that this verse reveals the psychological and internal nature of spiritual warfare. Both schools teach that the solution is maintaining purity of heart through remembrance of Allah, regular worship, and consciousness of divine presence. Sunni spiritual traditions, particularly Sufism, developed extensive practices for purifying the heart from evil whispers, as did Shia spiritual traditions through the teachings of the Imams. The methodologies are similar: regular prayer, Quran recitation, self-examination, and seeking beneficial knowledge. A difference in emphasis exists: Shia spirituality particularly stresses the role of attachment to the Ahlul Bayt in purifying the heart, while Sunni traditions emphasize direct connection to Allah through prophetic practices. However, both traditions unite in teaching that vigilance over one's internal state and constant connection with the Divine are essential for spiritual health and protection from evil whispers.",
+    "layer4_urdu": "شیعہ اور سنی علماء انسانی شعور کے اندر شیطان کے وسوسوں کے ہدف اور نوعیت کو بیان کرنے کے طور پر اس آیت کے معنی کے بارے میں مکمل اتفاق میں ہیں۔ دونوں روایات کے کلاسیکی مفسرین بتاتے ہیں کہ 'صدور الناس' تمام لوگوں کے اندرونی ترین خیالات اور احساسات کی طرف اشارہ کرتا ہے۔ ابن کثیر اور القرطبی، طباطبائی اور طبرسی کی طرح، زور دیتے ہیں کہ یہ آیت روحانی جنگ کی نفسیاتی اور اندرونی نوعیت کو ظاہر کرتی ہے۔ دونوں مکاتب فکر سکھاتے ہیں کہ حل اللہ کی یاد، باقاعدہ عبادت اور الٰہی موجودگی کی آگاہی کے ذریعے دل کی پاکیزگی برقرار رکھنا ہے۔ سنی روحانی روایات، خاص طور پر تصوف نے، برائی کے وسوسوں سے دل کو پاک کرنے کے لیے وسیع طریقے تیار کیے، جیسا کہ شیعہ روحانی روایات نے ائمہ علیہم السلام کی تعلیمات کے ذریعے کیا۔ طریقے مماثل ہیں: باقاعدہ نماز، قرآن کی تلاوت، خود جائزہ اور فائدہ مند علم کی طلب۔ زور میں فرق موجود ہے: شیعہ روحانیت خاص طور پر دل کو پاک کرنے میں اہل بیت علیہم السلام سے تعلق کے کردار پر زور دیتی ہے، جبکہ سنی روایات نبوی طریقوں کے ذریعے اللہ کے ساتھ براہ راست تعلق پر زور دیتی ہیں۔ تاہم دونوں روایات اس تعلیم میں متحد ہیں کہ اپنی اندرونی حالت پر چوکسی اور الٰہی کے ساتھ مسلسل تعلق روحانی صحت اور برائی کے وسوسوں سے حفاظت کے لیے ضروری ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على معنى هذه الآية الواصفة لهدف وساوس الشيطان داخل الوعي الإنساني وطبيعتها. ويُفسِّر المفسرون الكلاسيكيون من كلا التراثين أن \"صدور الناس\" يُشير إلى أعمق أفكار البشر ومشاعرهم. ويُشدِّد ابن كثير والقرطبي كالطباطبائي والطبرسي على الطابع النفسي والداخلي للصراع الروحي، مُؤكِّدين أن الحل هو الحفاظ على نقاء القلب بذكر الله والعبادة المستمرة والوعي الدائم بحضوره سبحانه. وطوَّرت التقاليد الروحية السنية ولا سيما الصوفية منها ممارسات مستوعِبة لتطهير القلب من الوساوس، كما فعل التراث الروحي الشيعي من خلال تعاليم الأئمة. والمنهجيتان متقاربتان: الصلاة المنتظمة، وتلاوة القرآن، ومحاسبة النفس، وطلب العلم النافع. وثمة تباين في التأكيد: إذ يُشدِّد التراث الروحي الشيعي تحديداً على دور التعلق بأهل البيت في تصفية القلب، في حين تُركِّز التقاليد السنية على الاتصال المباشر بالله عبر الممارسات النبوية. ومع ذلك يلتقي المذهبان في تعليم أن اليقظة الدائمة لحالنا الداخلية والارتباط المستمر بالله ضرورتان أساسيتان للصحة الروحية والحماية من وساوس الشر."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "114:6:dual-source",
+          "title": "Two Sources",
+          "icon": "circle.grid.2x2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The whisperers come from both jinn and humans, revealing that evil influences can be supernatural (from jinn) or natural (from corrupt people who spread doubt and temptation).",
+          "whyItMatters": "Recognizing both sources helps us guard against spiritual attacks from unseen forces and negative influences from people around us.",
+          "position": "topLeft",
+          "arabicHighlight": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "title_urdu": "دو ذرائع",
+          "coreInsight_urdu": "وسوسہ ڈالنے والے جن اور انسان دونوں سے آتے ہیں، یہ ظاہر کرتے ہوئے کہ برے اثرات مافوق الفطرت (جن سے) یا فطری (بدعنوان لوگوں سے جو شک اور لالچ پھیلاتے ہیں) ہو سکتے ہیں۔",
+          "whyItMatters_urdu": "دونوں ذرائع کو تسلیم کرنا ہمیں غیب قوتوں سے روحانی حملوں اور ہمارے ارد گرد کے لوگوں سے منفی اثرات سے بچانے میں مدد کرتا ہے۔",
+          "title_ar": "مصدران",
+          "coreInsight_ar": "يأتي الموسوسون من الجن والإنس، مما يكشف أن التأثيرات الشريرة يمكن أن تكون خارقة للطبيعة (من الجن) أو طبيعية (من الناس الفاسدين الذين ينشرون الشك والإغراء).",
+          "whyItMatters_ar": "إدراك كلا المصدرين يساعدنا على الحماية من الهجمات الروحية من القوى غير المرئية والتأثيرات السلبية من الناس من حولنا."
+        },
+        {
+          "id": "114:6:human-devils",
+          "title": "Human Shayatin",
+          "icon": "person.fill.xmark",
+          "colorHex": "#E57373",
+          "coreInsight": "The inclusion of humans among whisperers teaches that people can become like devils when they spread evil, doubt, and temptation to others through their words and actions.",
+          "whyItMatters": "This warns us to choose our companions carefully and to guard our own tongues, lest we become sources of spiritual harm to others.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلنَّاسِ",
+          "title_urdu": "انسانی شیاطین",
+          "coreInsight_urdu": "وسوسہ ڈالنے والوں میں انسانوں کو شامل کرنا سکھاتا ہے کہ لوگ شیاطین کی طرح بن سکتے ہیں جب وہ اپنے الفاظ اور اعمال کے ذریعے دوسروں کو برائی، شک اور لالچ پھیلاتے ہیں۔",
+          "whyItMatters_urdu": "یہ ہمیں خبردار کرتا ہے کہ اپنے ساتھیوں کا احتیاط سے انتخاب کریں اور اپنی زبانوں کی حفاظت کریں، کہیں ہم دوسروں کے لیے روحانی نقصان کا ذریعہ نہ بن جائیں۔",
+          "title_ar": "الشياطين البشرية",
+          "coreInsight_ar": "إدراج البشر بين الموسوسين يعلم أن الناس يمكن أن يصبحوا مثل الشياطين عندما ينشرون الشر والشك والإغراء للآخرين من خلال أقوالهم وأفعالهم.",
+          "whyItMatters_ar": "هذا يحذرنا من اختيار رفاقنا بعناية وحراسة ألسنتنا، حتى لا نصبح مصادر ضرر روحي للآخرين."
+        },
+        {
+          "id": "114:6:complete-protection",
+          "title": "All-Encompassing Shield",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#7BC47F",
+          "coreInsight": "By mentioning both jinn and humans, the surah provides complete protection against all sources of evil whispers, making it a comprehensive spiritual shield.",
+          "whyItMatters": "This completeness means when we recite this surah with sincerity, we're protected from every type of spiritual attack, whether visible or invisible.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "title_urdu": "ہمہ گیر ڈھال",
+          "coreInsight_urdu": "جن اور انسان دونوں کا ذکر کرکے، سورہ بری سرگوشیوں کے تمام ذرائع کے خلاف مکمل تحفظ فراہم کرتی ہے، اسے ایک جامع روحانی ڈھال بناتی ہے۔",
+          "whyItMatters_urdu": "یہ اکملیت کا مطلب ہے کہ جب ہم اس سورہ کو خلوص کے ساتھ پڑھتے ہیں، تو ہم ہر قسم کے روحانی حملے سے محفوظ ہیں، چاہے وہ نظر آنے والے ہوں یا غیر مرئی۔",
+          "title_ar": "الدرع الشامل",
+          "coreInsight_ar": "بذكر الجن والإنس، توفر السورة حماية كاملة ضد جميع مصادر الهمسات الشريرة، مما يجعلها درعًا روحيًا شاملاً.",
+          "whyItMatters_ar": "هذا الشمول يعني أنه عندما نتلو هذه السورة بإخلاص، نكون محميين من كل نوع من الهجوم الروحي، سواء كان مرئيًا أو غير مرئي."
+        },
+        {
+          "id": "114:6:surah-completion",
+          "title": "Perfect Closure",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The surah ends by completing the description of threats, having established Allah's attributes (Lord, King, God) and identified all sources of evil (jinn and human whisperers).",
+          "whyItMatters": "This perfect structure teaches us that comprehensive protection comes from complete understanding - knowing who protects us (Allah) and what threatens us (all whisperers).",
+          "position": "bottomRight",
+          "arabicHighlight": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+          "title_urdu": "کامل اختتام",
+          "coreInsight_urdu": "سورہ خطرات کی تفصیل مکمل کرکے ختم ہوتی ہے، اللہ کی صفات (رب، بادشاہ، معبود) قائم کرتے ہوئے اور برائی کے تمام ذرائع (جن اور انسانی وسوسہ ڈالنے والے) کی شناخت کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ کامل ساخت ہمیں سکھاتی ہے کہ جامع تحفظ مکمل تفہیم سے آتا ہے - یہ جاننا کہ کون ہماری حفاظت کرتا ہے (اللہ) اور کیا ہمیں خطرہ ہے (تمام وسوسہ ڈالنے والے)۔",
+          "title_ar": "الختام الكامل",
+          "coreInsight_ar": "تنتهي السورة بإكمال وصف التهديدات، بعد تأسيس صفات الله (رب، ملك، إله) وتحديد جميع مصادر الشر (الموسوسين من الجن والإنس).",
+          "whyItMatters_ar": "هذا الهيكل الكامل يعلمنا أن الحماية الشاملة تأتي من الفهم الكامل - معرفة من يحمينا (الله) وما يهددنا (جميع الموسوسين)."
+        }
+      ]
+    },
+    "layer4": "There is unanimous agreement among Shia and Sunni scholars that this verse identifies both jinn and humans as potential sources of evil whispers and that believers should seek Allah's protection from both. Classical commentators from all schools explain that 'min al-jinnati wa al-nas' encompasses Satan and his followers among the jinn, as well as humans who promote evil through their speech and influence. Ibn Kathir, al-Qurtubi, Tabatabai, and Tabrisi all emphasize the danger of human whisperers who may be even more deceptive than supernatural ones. Both traditions stress the importance of choosing righteous companions and avoiding those who lead toward sin. Prophetic hadith warn against sitting with those who speak ill of Allah's religion or encourage disobedience - this teaching is preserved in both Shia and Sunni collections. The practical guidance is similar across traditions: be mindful of companionship, be critical of ideological influences, maintain regular worship and Quran recitation, and seek beneficial knowledge. A difference exists in that Shia tradition particularly emphasizes the protective role of devotion to the Ahlul Bayt and following their guidance, while Sunni tradition emphasizes adherence to the Sunnah and righteous predecessors. Despite these differences, both schools conclude with the same message: constant refuge in Allah through these verses provides complete protection from all sources of evil.",
+    "layer4_urdu": "شیعہ اور سنی علماء میں متفقہ اتفاق ہے کہ یہ آیت جن اور انسانوں دونوں کو برائی کے وسوسوں کے ممکنہ ذرائع کے طور پر شناخت کرتی ہے اور مومنین کو دونوں سے اللہ کی حفاظت چاہنا چاہیے۔ تمام مکاتب فکر کے کلاسیکی مفسرین بتاتے ہیں کہ 'من الجنۃ والناس' شیطان اور جنات میں اس کے پیروکاروں کے ساتھ ساتھ ان انسانوں پر بھی محیط ہے جو اپنی گفتگو اور اثر و رسوخ کے ذریعے برائی کو فروغ دیتے ہیں۔ ابن کثیر، القرطبی، طباطبائی اور طبرسی سب انسانی وسوسہ ڈالنے والوں کے خطرے پر زور دیتے ہیں جو مافوق الفطرت والوں سے بھی زیادہ دھوکہ دہ ہو سکتے ہیں۔ دونوں روایات نیک ساتھیوں کے انتخاب اور ان لوگوں سے بچنے کی اہمیت پر زور دیتی ہیں جو گناہ کی طرف لے جاتے ہیں۔ نبوی حدیث ان لوگوں کے ساتھ بیٹھنے سے خبردار کرتی ہے جو اللہ کے دین کی برائی کرتے ہیں یا نافرمانی کی حوصلہ افزائی کرتے ہیں - یہ تعلیم شیعہ اور سنی دونوں مجموعوں میں محفوظ ہے۔ عملی رہنمائی روایات میں مماثل ہے: صحبت کے بارے میں ہوشیار رہنا، نظریاتی اثرات سے تنقیدی ہونا، باقاعدہ عبادت اور قرآن کی تلاوت برقرار رکھنا اور فائدہ مند علم کی طلب کرنا۔ فرق یہ ہے کہ شیعہ روایت خاص طور پر اہل بیت علیہم السلام سے عقیدت اور ان کی رہنمائی کی پیروی کے حفاظتی کردار پر زور دیتی ہے، جبکہ سنی روایت سنت اور نیک اسلاف کی پیروی پر زور دیتی ہے۔ ان اختلافات کے باوجود دونوں مکاتب فکر ایک ہی پیغام کے ساتھ ختم ہوتے ہیں: ان آیات کے ذریعے اللہ کی مسلسل پناہ برائی کے تمام ذرائع سے مکمل حفاظت فراہم کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً مُجمَعاً على أن هذه الآية تُحدِّد الجنَّ والإنسَ مصدرَين للوساوس الشريرة وأن المؤمنين ينبغي لهم الاستعاذة بالله منهما جميعاً. ويُفسِّر المفسرون الكلاسيكيون من جميع المدارس أن \"مِنَ الجِنَّةِ وَالنَّاس\" يستوعب الشيطان وأتباعه من الجن، فضلاً عن البشر الذين يُشيعون الشر بكلامهم وتأثيرهم. ويُشدِّد ابن كثير والقرطبي كالطباطبائي والطبرسي على خطر الموسوسين من الإنس لأنهم أشد تضليلاً في أغلب الأحيان. ويُشدِّد كلا التراثين على أهمية انتقاء الصحبة الصالحة وتجنب من يدفع نحو الذنب. وتتوافر أحاديث نبوية تُحذِّر من المجالسة مع من يطعن في دين الله أو يُشجِّع على المعصية، وهي أحاديث محفوظة في المدوَّنتين الشيعية والسنية. والتوجيه العملي متشابه عبر التراثين: التحفظ في الصحبة، ومراقبة التأثيرات الفكرية، والمواظبة على العبادة وتلاوة القرآن، وطلب العلم النافع. وثمة تباين في أن التراث الشيعي يُشدِّد خصيصاً على الدور الوقائي للتمسك بأهل البيت واتباع هداهم، في حين يُركِّز التراث السني على التقيُّد بالسنة النبوية والسلف الصالح. ومع ذلك يختتم المذهبان برسالة واحدة: الالتجاء الدائم إلى الله من خلال هذه الآيات يُوفِّر حماية شاملة من جميع مصادر الشر."
+  }
+}

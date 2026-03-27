@@ -1,0 +1,531 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:1:woe-warning",
+          "title": "Divine Woe",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The word 'wayl' (woe) is one of the strongest warnings in the Quran, indicating severe punishment for those who mock and ridicule others.",
+          "whyItMatters": "This reminds us that words have consequences. Mocking others may seem trivial, but it reflects arrogance and harms both the mocker and the mocked spiritually.",
+          "position": "topLeft",
+          "arabicHighlight": "وَيْلٌۭ",
+          "title_urdu": "الہی عذاب کی وعید",
+          "coreInsight_urdu": "لفظ 'ویل' (ہلاکت) قرآن میں سب سے سخت انتباہات میں سے ایک ہے، جو ان لوگوں کے لیے سخت سزا کی نشاندہی کرتا ہے جو دوسروں کا مذاق اڑاتے ہیں۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ الفاظ کے نتائج ہوتے ہیں۔ دوسروں کا مذاق اڑانا معمولی لگ سکتا ہے، لیکن یہ تکبر کی عکاسی کرتا ہے اور مذاق کرنے والے اور مذاق اڑائے جانے والے دونوں کو روحانی طور پر نقصان پہنچاتا ہے۔",
+          "title_ar": "الويل الإلهي",
+          "coreInsight_ar": "كلمة 'ويل' هي من أشد التحذيرات في القرآن، تشير إلى عقاب شديد لمن يسخر ويستهزئ بالآخرين.",
+          "whyItMatters_ar": "يذكرنا هذا أن للكلمات عواقب. قد يبدو السخرية من الآخرين تافهًا، لكنه يعكس الغرور ويضر كلاً من الساخر والمسخور منه روحيًا."
+        },
+        {
+          "id": "104:1:scorner-mocker",
+          "title": "Scorner & Mocker",
+          "icon": "person.crop.circle.badge.xmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Humazah' refers to one who mocks with gestures and actions, while 'lumazah' mocks with words and speech - both forms of belittling others are condemned.",
+          "whyItMatters": "This comprehensive warning covers all forms of mockery, whether through body language, facial expressions, or verbal insults. Respect for human dignity is paramount in Islam.",
+          "position": "topRight",
+          "arabicHighlight": "هُمَزَةٍۢ لُّمَزَةٍ",
+          "title_urdu": "طعنہ زن اور طنز کرنے والا",
+          "coreInsight_urdu": "'ہمزہ' اس شخص کی طرف اشارہ کرتا ہے جو اشاروں اور اعمال سے مذاق اڑاتا ہے، جبکہ 'لمزہ' الفاظ اور بات چیت سے مذاق اڑاتا ہے - دوسروں کو کم کرنے کی دونوں شکلوں کی مذمت کی گئی ہے۔",
+          "whyItMatters_urdu": "یہ جامع انتباہ تمام قسم کے مذاق کا احاطہ کرتا ہے، چاہے جسمانی زبان، چہرے کے تاثرات یا زبانی توہین کے ذریعے ہو۔ اسلام میں انسانی وقار کا احترام سب سے اہم ہے۔",
+          "title_ar": "الهماز واللماز",
+          "coreInsight_ar": "'الهمزة' يشير إلى من يسخر بالإيماءات والأفعال، بينما 'اللمزة' يسخر بالكلمات والكلام - كلا الشكلين من الاستهانة بالآخرين مدانان.",
+          "whyItMatters_ar": "يغطي هذا التحذير الشامل جميع أشكال السخرية، سواء من خلال لغة الجسد أو تعبيرات الوجه أو الإهانات اللفظية. احترام الكرامة الإنسانية أمر بالغ الأهمية في الإسلام."
+        },
+        {
+          "id": "104:1:every-person",
+          "title": "Every Person",
+          "icon": "person.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'kull' (every) makes this warning universal - no one is exempt from accountability for mockery, regardless of wealth, status, or power.",
+          "whyItMatters": "Social status doesn't protect us from divine justice. The powerful who mock the weak, and the wealthy who ridicule the poor, will face equal accountability.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لِّكُلِّ",
+          "title_urdu": "ہر شخص",
+          "coreInsight_urdu": "لفظ 'کل' (ہر) اس انتباہ کو عالمگیر بناتا ہے - کوئی بھی مذاق کے لیے جوابدہی سے مستثنیٰ نہیں ہے، چاہے دولت، حیثیت یا طاقت کچھ بھی ہو۔",
+          "whyItMatters_urdu": "سماجی حیثیت ہمیں الہی انصاف سے نہیں بچاتی۔ طاقتور جو کمزوروں کا مذاق اڑاتے ہیں، اور امیر جو غریبوں کا مذاق اڑاتے ہیں، برابر جوابدہی کا سامنا کریں گے۔",
+          "title_ar": "كل شخص",
+          "coreInsight_ar": "كلمة 'كل' تجعل هذا التحذير عالميًا - لا أحد معفى من المساءلة عن السخرية، بغض النظر عن الثروة أو المكانة أو السلطة.",
+          "whyItMatters_ar": "المكانة الاجتماعية لا تحمينا من العدالة الإلهية. الأقوياء الذين يسخرون من الضعفاء، والأغنياء الذين يستهزئون بالفقراء، سيواجهون مساءلة متساوية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholarship unanimously condemn backbiting and mockery, citing the Quranic verse in Surah Hujurat that explicitly forbids backbiting and compares it to eating dead flesh. Classical Sunni scholars like Imam Ghazali in Ihya Ulum al-Din dedicated extensive sections to the evils of the tongue, paralleling Shia treatments of this topic in works like Jami al-Saadat. The major difference emerges in some Sunni interpretations that identify specific individuals as the targets of this surah, such as Walid ibn Mughira or Akhnas ibn Shurayq, while Shia scholars following Tabatabai emphasize the universal applicability beyond particular historical figures. Ibn Kathir and other Sunni commentators provide similar etymological analysis of humazah and lumazah as their Shia counterparts. Both traditions agree that these sins require sincere repentance, seeking forgiveness from those wronged, and actively reforming one's speech habits. The scholarly consensus across Islamic schools establishes backbiting and mockery as major sins that invalidate one's spiritual state and require immediate correction, demonstrating remarkable unity on social ethics despite theological differences in other areas.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء متفقہ طور پر غیبت اور تمسخر کی مذمت کرتے ہیں، سورہ حجرات کی قرآنی آیت کا حوالہ دیتے ہوئے جو صراحتاً غیبت سے منع کرتی ہے اور اس کا موازنہ مردہ گوشت کھانے سے کرتی ہے۔ کلاسیکی سنی علماء جیسے امام غزالی نے احیاء علوم الدین میں زبان کی برائیوں پر وسیع حصے وقف کیے، جو جامع السعادات جیسی کتابوں میں اس موضوع کے شیعہ علاج کے متوازی ہیں۔ بڑا فرق کچھ سنی تشریحات میں ابھرتا ہے جو اس سورہ کے مخصوص افراد کو ہدف کے طور پر شناخت کرتے ہیں، جیسے ولید بن مغیرہ یا اخنس بن شریق، جبکہ طباطبائی کی پیروی کرنے والے شیعہ علماء خاص تاریخی شخصیات سے ہٹ کر آفاقی قابلیت اطلاق پر زور دیتے ہیں۔ ابن کثیر اور دیگر سنی مفسرین ہمزہ اور لمزہ کا اسی طرح لسانی تجزیہ فراہم کرتے ہیں جیسے ان کے شیعہ ہم منصب۔ دونوں روایات اس بات پر متفق ہیں کہ ان گناہوں کے لیے مخلصانہ توبہ، جن پر ظلم ہوا ان سے معافی مانگنا، اور اپنی بولنے کی عادات میں فعال طور پر اصلاح کرنا ضروری ہے۔ اسلامی مکاتب فکر میں علمی اتفاق رائے قائم کرتا ہے کہ غیبت اور تمسخر کبیرہ گناہ ہیں جو کسی کی روحانی حالت کو باطل کر دیتے ہیں اور فوری اصلاح کی ضرورت رکھتے ہیں، دوسرے شعبوں میں نظریاتی اختلافات کے باوجود سماجی اخلاقیات پر قابل ذکر اتحاد کا مظاہرہ کرتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة بإجماع على إدانة الاغتياب والسخرية، مستدلِّين بالآية القرآنية الصريحة في سورة الحجرات التي تنهى عن الغيبة وتُشبِّهها بأكل لحم الأخ الميت. وقد خصَّص علماء السنة الكبار كالإمام الغزالي في إحياء علوم الدين فصولاً مستفيضة لآفات اللسان، تتوازى مع المعالجات الشيعية لهذا الموضوع في مؤلَّفات كجامع السعادات. ويتجلى الفارق الرئيسي في أن بعض التفاسير السنية تُحدِّد أشخاصاً بعينهم كالوليد بن المغيرة أو الأخنس بن شريق هدفاً للسورة، بينما يُؤكِّد علماء الشيعة وفق منهج الطباطبائي على الشمولية التي تتخطى الأعيان التاريخية. ويُقدِّم ابن كثير وسائر المفسرين السنيين تحليلاً لغوياً للهمزة واللمزة مماثلاً لما قدَّمه نظراؤهم الشيعة. وتتفق كلتا المدرستين على أن هذه الذنوب تستوجب التوبة الصادقة واستسماح من وقع عليهم الإساءة والعمل الجاد على إصلاح الأنماط الكلامية. ويُعلِن الإجماع العلمي عبر المذاهب الإسلامية أن الاغتياب والسخرية كبيرتان من الكبائر تُفسدان الحال الروحي لصاحبهما وتستوجبان تصحيحاً فورياً، مما يُجسِّد وحدة رائعة في الأخلاق الاجتماعية رغم الاختلافات العقدية في مسائل أخرى."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:2:wealth-accumulation",
+          "title": "Wealth Hoarding",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'jama'a malan' (collected wealth) indicates obsessive accumulation beyond need, where wealth becomes the primary focus rather than a means to serve Allah.",
+          "whyItMatters": "Islam doesn't forbid wealth, but warns against making it an idol. When accumulation becomes obsessive, it displaces God from our hearts and makes us worship material possessions.",
+          "position": "topLeft",
+          "arabicHighlight": "جَمَعَ مَالًۭا",
+          "title_urdu": "دولت جمع کرنا",
+          "coreInsight_urdu": "جملہ 'جمع مالا' (دولت جمع کی) ضرورت سے زیادہ جنونی جمع کی نشاندہی کرتا ہے، جہاں دولت اللہ کی خدمت کے ذریعہ کے بجائے بنیادی توجہ بن جاتی ہے۔",
+          "whyItMatters_urdu": "اسلام دولت کی ممانعت نہیں کرتا، لیکن اسے بت بنانے سے خبردار کرتا ہے۔ جب جمع کرنا جنونی بن جاتا ہے، تو یہ ہمارے دلوں سے خدا کو بے دخل کر دیتا ہے اور ہمیں مادی چیزوں کی عبادت کرنے پر مجبور کرتا ہے۔",
+          "title_ar": "تكديس الثروة",
+          "coreInsight_ar": "تشير عبارة 'جمع مالاً' إلى التراكم الوسواسي بما يتجاوز الحاجة، حيث تصبح الثروة التركيز الأساسي بدلاً من وسيلة لخدمة الله.",
+          "whyItMatters_ar": "الإسلام لا يحرم الثروة، لكنه يحذر من جعلها صنمًا. عندما يصبح التراكم وسواسيًا، فإنه يزيح الله من قلوبنا ويجعلنا نعبد الممتلكات المادية."
+        },
+        {
+          "id": "104:2:counting-wealth",
+          "title": "Counting Obsession",
+          "icon": "chart.bar.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Addadahu' (counted it) suggests constant tallying and recounting - an obsession with numbers that reveals where the heart truly lies, away from spiritual concerns.",
+          "whyItMatters": "When we spend more time counting our wealth than reflecting on our faith, we've lost our spiritual balance. Our obsessions reveal our true priorities.",
+          "position": "topRight",
+          "arabicHighlight": "وَعَدَّدَهُۥ",
+          "title_urdu": "گنتی کا جنون",
+          "coreInsight_urdu": "'عددہ' (اسے گنا) مسلسل شمار اور دوبارہ گنتی کا مشورہ دیتا ہے - اعداد کے ساتھ جنون جو ظاہر کرتا ہے کہ دل واقعی کہاں ہے، روحانی خدشات سے دور۔",
+          "whyItMatters_urdu": "جب ہم اپنی دولت کو گننے میں اپنے ایمان پر غور کرنے سے زیادہ وقت گزارتے ہیں، تو ہم اپنا روحانی توازن کھو چکے ہیں۔ ہمارے جنون ہماری حقیقی ترجیحات کو ظاہر کرتے ہیں۔",
+          "title_ar": "وسواس العد",
+          "coreInsight_ar": "يشير 'عدده' (عده) إلى التعداد والإحصاء المستمر - وسواس بالأرقام يكشف أين يكمن القلب حقًا، بعيدًا عن الاهتمامات الروحية.",
+          "whyItMatters_ar": "عندما نقضي وقتًا أطول في عد ثروتنا من التفكير في إيماننا، نكون قد فقدنا توازننا الروحي. وساوسنا تكشف أولوياتنا الحقيقية."
+        },
+        {
+          "id": "104:2:spiritual-disease",
+          "title": "Heart Disease",
+          "icon": "heart.slash.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This verse describes a spiritual disease where material wealth displaces spiritual wealth, leading to arrogance (hence the mockery in verse 1) and false security.",
+          "whyItMatters": "The connection between verses shows how wealth obsession breeds arrogance. Those consumed by material gain often look down on others, forgetting their own mortality.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ",
+          "title_urdu": "دل کی بیماری",
+          "coreInsight_urdu": "یہ آیت ایک روحانی بیماری کو بیان کرتی ہے جہاں مادی دولت روحانی دولت کو بے دخل کر دیتی ہے، جو تکبر (اسی لیے آیت 1 میں مذاق) اور غلط سلامتی کا باعث بنتی ہے۔",
+          "whyItMatters_urdu": "آیات کے درمیان تعلق ظاہر کرتا ہے کہ کس طرح دولت کا جنون تکبر پیدا کرتا ہے۔ جو مادی فائدے میں مصروف ہیں وہ اکثر دوسروں کو نیچا دیکھتے ہیں، اپنی موت کو بھول جاتے ہیں۔",
+          "title_ar": "مرض القلب",
+          "coreInsight_ar": "تصف هذه الآية مرضًا روحيًا حيث تزيح الثروة المادية الثروة الروحية، مما يؤدي إلى الغرور (ومن هنا السخرية في الآية 1) والأمان الزائف.",
+          "whyItMatters_ar": "يظهر الارتباط بين الآيات كيف يولد وسواس الثروة الغرور. أولئك المستهلكون بالمكاسب المادية غالبًا ما ينظرون إلى الآخرين باستخفاف، ناسين فنائهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars identify obsessive wealth accumulation as a spiritual disease requiring treatment through remembrance of death, charity, and contentment. Sunni scholars like Imam Ghazali extensively discussed the dangers of loving wealth in works like Ihya Ulum al-Din, using terminology and analysis remarkably similar to Shia treatments of this topic. Classical Sunni tafsir by scholars like Qurtubi and Razi emphasize that the verse condemns the attitude toward wealth rather than wealth itself, a position shared across Islamic schools. Some Sunni interpretations specifically name wealthy Meccan leaders as the targets of this verse, while Shia scholars maintain the universal applicability to anyone exhibiting these characteristics. Both traditions cite hadith about the dangers of materialism and the virtue of simple living, with the Prophet peace be upon him and his family serving as the ultimate example of detachment from worldly possessions. The consensus across schools establishes that wealth should be earned ethically, spent responsibly, shared generously, and never allowed to corrupt one's character or eclipse one's relationship with Allah. This represents a unified Islamic critique of materialism that transcends sectarian divisions and speaks powerfully to modern consumer culture.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء جنونی دولت جمع کرنے کو ایک روحانی بیماری کے طور پر شناخت کرتے ہیں جس کے لیے موت کی یاد، صدقہ، اور قناعت کے ذریعے علاج کی ضرورت ہے۔ سنی علماء جیسے امام غزالی نے احیاء علوم الدین جیسی تصانیف میں دولت سے محبت کے خطرات پر بڑے پیمانے پر بحث کی، اصطلاحات اور تجزیہ استعمال کرتے ہوئے جو اس موضوع کے شیعہ علاج سے حیرت انگیز طور پر ملتے جلتے ہیں۔ قرطبی اور رازی جیسے علماء کی کلاسیکی سنی تفسیر اس بات پر زور دیتی ہے کہ آیت دولت کی بجائے دولت کے تئیں رویے کی مذمت کرتی ہے، ایک موقف جو اسلامی مکاتب فکر میں مشترک ہے۔ کچھ سنی تشریحات خاص طور پر امیر مکی رہنماؤں کو اس آیت کے ہدف کے طور پر نام دیتی ہیں، جبکہ شیعہ علماء ان خصوصیات کی نمائش کرنے والے کسی بھی شخص پر آفاقی قابلیت اطلاق برقرار رکھتے ہیں۔ دونوں روایات مادیت کے خطرات اور سادہ زندگی کی فضیلت کے بارے میں احادیث کا حوالہ دیتی ہیں، رسول اللہ صلی اللہ علیہ وآلہ وسلم دنیوی ملکیت سے لاتعلقی کی حتمی مثال کے طور پر۔ مکاتب فکر میں اتفاق رائے قائم کرتا ہے کہ دولت اخلاقی طور پر کمائی جائے، ذمہ داری سے خرچ کی جائے، سخاوت سے بانٹی جائے، اور کبھی بھی کسی کے کردار کو خراب کرنے یا اللہ کے ساتھ تعلق کو گرہن لگانے کی اجازت نہ دی جائے۔ یہ مادیت کی متحدہ اسلامی تنقید کی نمائندگی کرتا ہے جو فرقہ وارانہ تقسیم سے بالاتر ہے اور جدید صارفی ثقافت سے طاقتور طور پر بات کرتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في تشخيص هوس تكديس الثروة مرضاً روحياً علاجه تذكُّر الموت والصدقة والقناعة. وقد ناقش علماء السنة كالإمام الغزالي مخاطر حب المال في مؤلَّفات كإحياء علوم الدين بمصطلحات وتحليلات تتشابه إلى حدٍّ بعيد مع المعالجات الشيعية لهذا الموضوع. ويُؤكِّد المفسرون السنة الكلاسيكيون كالقرطبي والرازي أن الآية تُدين الموقف من الثروة لا الثروة ذاتها، وهو موقف مشترك بين المدارس الإسلامية. ويذهب بعض المفسرين السنة إلى تحديد أثرياء مكة بأعيانهم هدفاً لهذه الآية، في حين يُرسِّخ علماء الشيعة الطابع الكلي الشامل لكل من يحمل هذه الصفة. وتستشهد كلتا المدرستين بأحاديث وافرة في خطورة المادية وفضيلة التقشف، مع اعتبار النبي صلى الله عليه وآله وسلم قدوةً مثالية في الزهد في الدنيا. ويُقرر الإجماع العلمي أن الثروة ينبغي أن تُكتسب بالحلال وتُصرف بالمسؤولية وتُشارَك بالكرم، ولا يُسمح لها بفساد الخلق أو حجب العلاقة بالله."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:3:false-immortality",
+          "title": "False Immortality",
+          "icon": "hourglass.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Yahsabu anna malahu akhladahu' (thinks his wealth will make him immortal) reveals the ultimate delusion - that material possessions can defeat death itself.",
+          "whyItMatters": "This delusion affects the wealthy across all times. When we forget death, we live recklessly, forgetting accountability and wasting opportunities for spiritual growth.",
+          "position": "topLeft",
+          "arabicHighlight": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+          "title_urdu": "جھوٹی لافانیت",
+          "coreInsight_urdu": "'یحسب ان مالہ اخلدہ' (سوچتا ہے کہ اس کی دولت اسے لافانی بنا دے گی) حتمی فریب کو ظاہر کرتا ہے - کہ مادی چیزیں موت کو ہی شکست دے سکتی ہیں۔",
+          "whyItMatters_urdu": "یہ فریب تمام اوقات میں امیروں کو متاثر کرتا ہے۔ جب ہم موت کو بھول جاتے ہیں، تو ہم لاپرواہی سے جیتے ہیں، جوابدہی کو بھول جاتے ہیں اور روحانی ترقی کے مواقع ضائع کرتے ہیں۔",
+          "title_ar": "الخلود الزائف",
+          "coreInsight_ar": "يكشف 'يحسب أن ماله أخلده' (يظن أن ثروته ستجعله خالدًا) الوهم النهائي - أن الممتلكات المادية يمكن أن تهزم الموت نفسه.",
+          "whyItMatters_ar": "يؤثر هذا الوهم على الأغنياء عبر كل الأزمان. عندما ننسى الموت، نعيش بتهور، ناسين المساءلة ومضيعين فرص النمو الروحي."
+        },
+        {
+          "id": "104:3:self-deception",
+          "title": "Self-Deception",
+          "icon": "eye.slash.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verb 'yahsabu' (he thinks/assumes) indicates baseless assumption rather than knowledge - wealth creates an illusion that blinds rational thinking about life and death.",
+          "whyItMatters": "Wealth can cloud our judgment, making us believe we're secure when we're actually vulnerable. True security comes from faith and good deeds, not bank accounts.",
+          "position": "topRight",
+          "arabicHighlight": "يَحْسَبُ",
+          "title_urdu": "خود فریبی",
+          "coreInsight_urdu": "فعل 'یحسب' (وہ سوچتا ہے/فرض کرتا ہے) بے بنیاد قیاس کی نشاندہی کرتا ہے نہ کہ علم - دولت ایک وہم پیدا کرتی ہے جو زندگی اور موت کے بارے میں عقلی سوچ کو اندھا کر دیتی ہے۔",
+          "whyItMatters_urdu": "دولت ہمارے فیصلے کو دھندلا سکتی ہے، ہمیں یقین دلاتی ہے کہ ہم محفوظ ہیں جب کہ ہم حقیقت میں کمزور ہیں۔ حقیقی تحفظ ایمان اور نیک اعمال سے آتا ہے، بینک اکاؤنٹس سے نہیں۔",
+          "title_ar": "خداع الذات",
+          "coreInsight_ar": "يشير الفعل 'يحسب' (يظن/يفترض) إلى افتراض لا أساس له وليس معرفة - تخلق الثروة وهمًا يعمي التفكير العقلاني حول الحياة والموت.",
+          "whyItMatters_ar": "يمكن للثروة أن تعمي حكمنا، تجعلنا نعتقد أننا آمنون عندما نكون في الواقع ضعفاء. الأمان الحقيقي يأتي من الإيمان والأعمال الصالحة، وليس من الحسابات المصرفية."
+        },
+        {
+          "id": "104:3:his-wealth",
+          "title": "His Wealth",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The possessive 'malahu' (his wealth) shows misplaced ownership - we forget that all wealth truly belongs to Allah and we are merely temporary trustees.",
+          "whyItMatters": "Understanding wealth as a trust from Allah, not personal property, transforms how we earn, spend, and distribute it. We're accountable for every dollar.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَالَهُۥٓ",
+          "title_urdu": "اس کی دولت",
+          "coreInsight_urdu": "ملکیتی 'مالہ' (اس کی دولت) غلط ملکیت کو ظاہر کرتا ہے - ہم بھول جاتے ہیں کہ تمام دولت حقیقت میں اللہ کی ہے اور ہم محض عارضی امین ہیں۔",
+          "whyItMatters_urdu": "دولت کو اللہ کی طرف سے امانت کے طور پر سمجھنا، ذاتی ملکیت نہیں، تبدیل کرتا ہے کہ ہم کیسے کماتے ہیں، خرچ کرتے ہیں، اور تقسیم کرتے ہیں۔ ہم ہر ڈالر کے لیے جوابدہ ہیں۔",
+          "title_ar": "ثروته",
+          "coreInsight_ar": "يظهر الملكية 'ماله' (ثروته) الملكية الخاطئة - ننسى أن كل الثروة في الحقيقة ملك لله ونحن مجرد أمناء مؤقتين.",
+          "whyItMatters_ar": "فهم الثروة كأمانة من الله، وليس ملكية شخصية، يحول كيف نكسب ونصرف ونوزع. نحن مسؤولون عن كل دولار."
+        }
+      ]
+    },
+    "layer4": "Islamic scholarship across all schools emphasizes remembrance of death as essential spiritual practice, with both Shia and Sunni scholars recommending regular grave visitation and reflection on mortality. Sunni scholars like Ibn Qayyim wrote extensively about death in works like Kitab al-Ruh, covering similar themes to Shia treatments in books like Haqq al-Yaqin. Classical Sunni tafsir scholars like Ibn Kathir interpret this verse as exposing the foolishness of trusting in wealth for security, using similar reasoning to their Shia counterparts. Both traditions cite abundant hadith about the deception of worldly life and the importance of preparing for death through righteous deeds. Some differences appear in eschatological details about the immediate afterlife, but the core message about wealth's inability to provide ultimate security enjoys unanimous agreement. Sufi traditions within Sunni Islam particularly emphasize detachment from worldly attachments, developing extensive practices and literature paralleling Shia emphasis on zuhd or asceticism. The scholarly consensus establishes that believers must maintain awareness of death, avoid deluding themselves through material comfort, prepare for the afterlife through good works, and recognize that only faith and righteousness provide true security in this life and the next.",
+    "layer4_urdu": "اسلامی علم تمام مکاتب فکر میں موت کی یاد کو ضروری روحانی عمل کے طور پر زور دیتا ہے، شیعہ اور سنی دونوں علماء باقاعدہ قبر کے دورے اور موت پر غور کی سفارش کرتے ہیں۔ سنی علماء جیسے ابن قیم نے کتاب الروح جیسی کتابوں میں موت کے بارے میں بڑے پیمانے پر لکھا، حق الیقین جیسی کتابوں میں شیعہ علاج کے مشابہ موضوعات کا احاطہ کرتے ہوئے۔ کلاسیکی سنی تفسیر کے علماء جیسے ابن کثیر نے اس آیت کی تشریح دولت پر بھروسے کی حماقت کو ظاہر کرنے کے طور پر کی، اپنے شیعہ ہم منصبوں کی طرح کا استدلال استعمال کرتے ہوئے۔ دونوں روایات دنیوی زندگی کے دھوکے اور نیک اعمال کے ذریعے موت کی تیاری کی اہمیت کے بارے میں وافر احادیث کا حوالہ دیتی ہیں۔ کچھ اختلافات فوری آخرت کے بارے میں علم کلام کی تفصیلات میں ظاہر ہوتے ہیں، لیکن دولت کی حتمی تحفظ فراہم کرنے میں ناکامی کے بنیادی پیغام پر متفقہ اتفاق ہے۔ سنی اسلام کے اندر صوفی روایات خاص طور پر دنیوی لگاؤ سے بے تعلقی پر زور دیتی ہیں، وسیع طریقے اور ادب تیار کرتے ہوئے جو شیعہ زہد یا تقویٰ پر زور کے متوازی ہیں۔ علمی اتفاق رائے قائم کرتا ہے کہ مومنین کو موت کی آگاہی برقرار رکھنی چاہیے، مادی آرام کے ذریعے خود کو فریب دینے سے بچنا چاہیے، نیک کاموں کے ذریعے آخرت کے لیے تیاری کرنی چاہیے، اور تسلیم کرنا چاہیے کہ صرف ایمان اور راستبازی اس زندگی اور اگلی زندگی میں حقیقی تحفظ فراہم کرتے ہیں۔",
+    "layer4_ar": "تُؤكِّد الدراسات الإسلامية عبر جميع المذاهب على تذكُّر الموت باعتباره ممارسة روحية لا غنى عنها، وكلا المدرستين الشيعية والسنية توصيان بزيارة القبور والتأمل في الفناء. وألَّف علماء السنة كابن القيم في الموت مؤلَّفات مستفيضة كـ«كتاب الروح» تتناول موضوعات متشابهة لما في الكتب الشيعية كـ«حق اليقين». ويُفسِّر ابن كثير وسائر المفسرين السنة الكلاسيكيين هذه الآية بوصفها فضحاً لحماقة التعلق بالمال أماناً، مُستخدمين منطقاً مشابهاً لنظرائهم الشيعة. وتستشهد كلتا المدرستين بأحاديث وافرة في زيف حياة الدنيا وأهمية الاستعداد للموت بالأعمال الصالحة. وتظهر بعض الفوارق في تفاصيل الآخرة وما يعقب الموت مباشرةً، لكن الرسالة الجوهرية في عجز الثروة عن توفير الأمان الحقيقي تحظى بالإجماع الكامل. والتوجه الصوفي داخل السنة يُشدِّد بصفة خاصة على التحرر من التعلقات الدنيوية، مُطوِّراً ممارسات وأدبيات تتوازى مع التأكيد الشيعي على الزهد. ويُقرر الإجماع العلمي أن المؤمن يجب أن يداوم على تذكُّر الموت ولا يستسلم لأوهام المادية، وأن يُعِدَّ للآخرة بالصالحات، مُدركاً أن الإيمان والتقوى وحدهما يمنحان الأمان الحق في الدارين."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:4:divine-rejection",
+          "title": "Divine Rejection",
+          "icon": "hand.thumbsdown.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Kalla' (No! By no means!) is Allah's emphatic rejection of the false belief that wealth provides security or immortality - a divine reality check.",
+          "whyItMatters": "When we build our lives on false foundations (wealth, status, power), Allah's 'Kalla' shatters these illusions. Better to face truth now than at judgment.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "الہی انکار",
+          "coreInsight_urdu": "'کلا' (نہیں! ہرگز نہیں!) اللہ کا جھوٹے عقیدے کا قطعی انکار ہے کہ دولت تحفظ یا لافانیت فراہم کرتی ہے - ایک الہی حقیقت کی جانچ۔",
+          "whyItMatters_urdu": "جب ہم اپنی زندگیوں کو جھوٹی بنیادوں (دولت، حیثیت، طاقت) پر تعمیر کرتے ہیں، تو اللہ کا 'کلا' ان وہموں کو توڑ دیتا ہے۔ فیصلے کے وقت سے بہتر ہے کہ اب سچائی کا سامنا کریں۔",
+          "title_ar": "الرفض الإلهي",
+          "coreInsight_ar": "تعد 'كلا' (لا! بأي حال من الأحوال!) رفضًا قاطعًا من الله للاعتقاد الخاطئ بأن الثروة توفر الأمان أو الخلود - فحص للواقع الإلهي.",
+          "whyItMatters_ar": "عندما نبني حياتنا على أسس زائفة (الثروة، المكانة، القوة)، تحطم 'كلا' الله هذه الأوهام. من الأفضل مواجهة الحقيقة الآن من يوم الحساب."
+        },
+        {
+          "id": "104:4:the-crusher",
+          "title": "The Crusher",
+          "icon": "flame.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Hutamah (the Crusher) is a specific name for Hell emphasizing its crushing, pulverizing nature - it destroys both body and soul, breaking down all false securities.",
+          "whyItMatters": "The vivid imagery serves as a wake-up call. Just as wealth crushes spiritual awareness in this life, divine punishment crushes false pride in the next.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْحُطَمَةِ",
+          "title_urdu": "کچل ڈالنے والی",
+          "coreInsight_urdu": "الحطمہ (کچل ڈالنے والی) جہنم کا ایک خاص نام ہے جو اس کی کچلنے، پیسنے کی نوعیت پر زور دیتا ہے - یہ جسم اور روح دونوں کو تباہ کر دیتا ہے، تمام جھوٹی تحفظات کو توڑ دیتا ہے۔",
+          "whyItMatters_urdu": "واضح تصویر کشی بیداری کی پکار کے طور پر کام کرتی ہے۔ جس طرح دولت اس زندگی میں روحانی بیداری کو کچل دیتی ہے، الہی سزا اگلی زندگی میں جھوٹے غرور کو کچل دیتی ہے۔",
+          "title_ar": "الحطمة",
+          "coreInsight_ar": "الحطمة هي اسم محدد لجهنم يؤكد طبيعتها الساحقة المطحنة - تدمر كلاً من الجسد والروح، محطمة كل الأمان الزائف.",
+          "whyItMatters_ar": "تعمل الصور الحية كدعوة للاستيقاظ. كما تسحق الثروة الوعي الروحي في هذه الحياة، يسحق العقاب الإلهي الكبرياء الزائف في الحياة التالية."
+        },
+        {
+          "id": "104:4:thrown-in",
+          "title": "Thrown In",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Layunbadhanna' (will surely be thrown) indicates forceful, humiliating rejection - those who thought themselves above others will be cast down violently.",
+          "whyItMatters": "The arrogant who mocked others (verse 1) and trusted in wealth (verses 2-3) face ultimate humiliation. Pride truly comes before the fall.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَيُنۢبَذَنَّ",
+          "title_urdu": "پھینک دیا جائے گا",
+          "coreInsight_urdu": "'لینبذن' (ضرور پھینک دیا جائے گا) طاقتور، ذلیل کن انکار کی نشاندہی کرتا ہے - جو لوگ اپنے آپ کو دوسروں سے اوپر سمجھتے تھے انہیں پرتشدد طریقے سے نیچے پھینک دیا جائے گا۔",
+          "whyItMatters_urdu": "متکبر جنہوں نے دوسروں کا مذاق اڑایا (آیت 1) اور دولت پر بھروسہ کیا (آیات 2-3) حتمی ذلت کا سامنا کرتے ہیں۔ غرور واقعی زوال سے پہلے آتا ہے۔",
+          "title_ar": "يلقى فيها",
+          "coreInsight_ar": "تشير 'لينبذن' (سيُلقى بالتأكيد) إلى رفض قوي ومهين - أولئك الذين ظنوا أنفسهم فوق الآخرين سيُلقى بهم بعنف.",
+          "whyItMatters_ar": "المتكبرون الذين سخروا من الآخرين (الآية 1) وثقوا في الثروة (الآيات 2-3) يواجهون الإذلال النهائي. الكبرياء يأتي حقًا قبل السقوط."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholarship agree on the reality of Hellfire and the principle that divine justice ensures accountability for all actions in this life. Classical Sunni commentators like Qurtubi and Ibn Kathir provide similar descriptions of Al-Hutamah as a crushing fire that destroys the arrogant, using comparable language to Shia tafsir. Both traditions emphasize that wealth and status provide no protection from divine judgment, citing Quranic verses and hadith that warn the powerful and wealthy to use their blessings righteously. Some Sunni scholars provide specific names of wealthy Meccans as examples of those threatened in this verse, while Shia scholars focus more on the universal principles applicable to all unjust wealthy individuals. Eschatological details about the nature and levels of Hell show some variation between traditions, but the core message about accountability and appropriate punishment for arrogance and oppression enjoys complete consensus. Both traditions cite the Prophet's teachings about the dangers of wealth and power corrupting character and leading to Hellfire if not managed with piety and justice. The scholarly agreement establishes that believers must maintain fear of divine judgment, avoid arrogance regardless of worldly success, and use all blessings in service of good rather than self-aggrandizement.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علم جہنم کی حقیقت اور اس اصول پر متفق ہیں کہ الٰہی عدل اس زندگی میں تمام اعمال کی جوابدہی کو یقینی بناتا ہے۔ کلاسیکی سنی مفسرین جیسے قرطبی اور ابن کثیر الحطمہ کو کچلنے والی آگ کے طور پر اسی طرح کی وضاحت فراہم کرتے ہیں جو متکبر کو تباہ کرتی ہے، شیعہ تفسیر سے موازنہ کی قابل زبان استعمال کرتے ہوئے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ دولت اور حیثیت الٰہی فیصلے سے کوئی تحفظ فراہم نہیں کرتی، قرآنی آیات اور احادیث کا حوالہ دیتے ہوئے جو طاقتور اور امیر کو متنبہ کرتی ہیں کہ وہ اپنی نعمتوں کو راستبازی سے استعمال کریں۔ کچھ سنی علماء اس آیت میں دھمکی دیے گئے لوگوں کی مثالوں کے طور پر امیر مکیوں کے مخصوص نام فراہم کرتے ہیں، جبکہ شیعہ علماء تمام ناانصاف امیر افراد پر قابل اطلاق آفاقی اصولوں پر زیادہ توجہ مرکوز کرتے ہیں۔ جہنم کی نوعیت اور سطحوں کے بارے میں علم کلام کی تفصیلات روایات کے درمیان کچھ تغیر دکھاتی ہیں، لیکن تکبر اور ظلم کی جوابدہی اور مناسب سزا کے بنیادی پیغام پر مکمل اتفاق رائے ہے۔ دونوں روایات دولت اور طاقت کے کردار کو خراب کرنے اور اگر پرہیزگاری اور انصاف کے ساتھ منظم نہ کیا جائے تو جہنم کی طرف لے جانے کے خطرات کے بارے میں نبی کریم صلی اللہ علیہ وآلہ وسلم کی تعلیمات کا حوالہ دیتی ہیں۔ علمی اتفاق رائے قائم کرتا ہے کہ مومنین کو الٰہی فیصلے کا خوف برقرار رکھنا چاہیے، دنیوی کامیابی سے قطع نظر تکبر سے بچنا چاہیے، اور تمام نعمتوں کو خود شان بڑھانے کے بجائے بھلائی کی خدمت میں استعمال کرنا چاہیے۔",
+    "layer4_ar": "تتفق الدراسات الإسلامية في كلتا المدرستين الشيعية والسنية على حقيقة جهنم وعلى أن العدل الإلهي يكفل مساءلة الجميع على أعمالهم في هذه الحياة. ويُقدِّم المفسرون السنة الكلاسيكيون كالقرطبي وابن كثير أوصافاً للحطمة بوصفها ناراً تُحطِّم المتكبرين مماثلةً في لغتها للتفسير الشيعي. وكلتا المدرستين تُشدِّد على أن الثروة والمكانة لا تقيان من الحكم الإلهي، مستشهدتين بآيات قرآنية وأحاديث تُحذِّر الأقوياء والأثرياء من وجوب توظيف نعمهم توظيفاً صالحاً. ويذهب بعض العلماء السنة إلى تحديد أثرياء مكة بأعيانهم مثالاً للمُهدَّدين بهذه الآية، في حين يتمسك علماء الشيعة بالمبادئ الكلية الشاملة لكل ثري ظالم. وتتباين بعض التفاصيل العقدية المتعلقة بطبيعة جهنم ودرجاتها، لكن الرسالة الجوهرية في المساءلة والعذاب المناسب على الكبرياء والظلم تحظى بالإجماع التام. وتستشهد كلتا المدرستين بتعاليم النبي صلى الله عليه وآله وسلم في مخاطر فساد الثروة والسلطة للخلق وقيادتهما إلى النار إن لم تُدارا بالتقوى والعدل."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:5:rhetorical-question",
+          "title": "Rhetorical Alert",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Wa ma adraka' (And what can make you know?) is a rhetorical question used in the Quran to emphasize something immense, beyond human comprehension.",
+          "whyItMatters": "This phrase alerts us that what follows is extraordinary and terrifying. Allah prepares our minds to grasp the severity of Hell's punishment.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ",
+          "title_urdu": "بیانیہ سوال",
+          "coreInsight_urdu": "'وما ادراک' (اور تمہیں کیا معلوم ہو سکتا ہے؟) ایک بیانیہ سوال ہے جو قرآن میں کسی بہت بڑی، انسانی فہم سے بالاتر چیز پر زور دینے کے لیے استعمال ہوتا ہے۔",
+          "whyItMatters_urdu": "یہ جملہ ہمیں متنبہ کرتا ہے کہ جو آگے آتا ہے وہ غیر معمولی اور خوفناک ہے۔ اللہ ہمارے ذہنوں کو جہنم کی سزا کی شدت کو سمجھنے کے لیے تیار کرتا ہے۔",
+          "title_ar": "السؤال البلاغي",
+          "coreInsight_ar": "يُستخدم 'وما أدراك' (وما الذي يعلمك؟) كسؤال بلاغي في القرآن للتأكيد على شيء هائل، يتجاوز الفهم البشري.",
+          "whyItMatters_ar": "تنبهنا هذه العبارة إلى أن ما يلي غير عادي ومرعب. يعد الله عقولنا لاستيعاب شدة عذاب جهنم."
+        },
+        {
+          "id": "104:5:beyond-comprehension",
+          "title": "Beyond Grasp",
+          "icon": "infinity.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The question implies that Al-Hutamah's horror is beyond worldly experience or imagination - no earthly suffering can compare to divine punishment.",
+          "whyItMatters": "We tend to underestimate consequences we haven't experienced. This verse warns that Hell's reality exceeds our worst imaginings, urging us to take warnings seriously.",
+          "position": "topRight",
+          "arabicHighlight": "مَا ٱلْحُطَمَةُ",
+          "title_urdu": "فہم سے بالاتر",
+          "coreInsight_urdu": "سوال کا مطلب ہے کہ الحطمہ کی ہولناکی دنیوی تجربے یا تخیل سے بالاتر ہے - کوئی زمینی مصیبت الہی سزا کا موازنہ نہیں کر سکتی۔",
+          "whyItMatters_urdu": "ہم ان نتائج کو کم سمجھتے ہیں جن کا ہم نے تجربہ نہیں کیا۔ یہ آیت خبردار کرتی ہے کہ جہنم کی حقیقت ہمارے بدترین تخیلات سے بڑھ جاتی ہے، ہمیں انتباہات کو سنجیدگی سے لینے کی تاکید کرتی ہے۔",
+          "title_ar": "ما وراء الإدراك",
+          "coreInsight_ar": "يشير السؤال إلى أن رعب الحطمة يتجاوز الخبرة الدنيوية أو الخيال - لا يمكن لأي معاناة أرضية أن تقارن بالعقاب الإلهي.",
+          "whyItMatters_ar": "نميل إلى التقليل من العواقب التي لم نختبرها. تحذر هذه الآية من أن واقع جهنم يتجاوز أسوأ تصوراتنا، تحثنا على أخذ التحذيرات على محمل الجد."
+        },
+        {
+          "id": "104:5:divine-emphasis",
+          "title": "Divine Warning",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "By repeating 'Al-Hutamah' after the rhetorical question, Allah emphasizes the name itself, making us pause and reflect on its crushing implications.",
+          "whyItMatters": "Repetition in the Quran is never meaningless. When Allah repeats something, He demands our full attention and deep contemplation on that matter.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْحُطَمَةُ",
+          "title_urdu": "الہی انتباہ",
+          "coreInsight_urdu": "بیانیہ سوال کے بعد 'الحطمہ' کو دہرا کر، اللہ نام کی خود پر زور دیتا ہے، ہمیں رکنے اور اس کے کچلنے والے مضمرات پر غور کرنے پر مجبور کرتا ہے۔",
+          "whyItMatters_urdu": "قرآن میں تکرار کبھی بے معنی نہیں ہوتی۔ جب اللہ کسی چیز کو دہراتا ہے، تو وہ اس معاملے پر ہماری مکمل توجہ اور گہری غور و فکر کا مطالبہ کرتا ہے۔",
+          "title_ar": "التحذير الإلهي",
+          "coreInsight_ar": "بتكرار 'الحطمة' بعد السؤال البلاغي، يؤكد الله على الاسم نفسه، يجعلنا نتوقف ونتأمل في آثارها الساحقة.",
+          "whyItMatters_ar": "التكرار في القرآن ليس بلا معنى أبدًا. عندما يكرر الله شيئًا، فإنه يطالب باهتمامنا الكامل والتأمل العميق في تلك المسألة."
+        }
+      ]
+    },
+    "layer4": "Islamic scholarship across all schools employs this verse as an example of Quranic rhetorical excellence, with both Shia and Sunni scholars of Arabic literature and Quranic sciences analyzing its linguistic and psychological effectiveness. Sunni scholars like Zamakhshari and Razi in their classical commentaries provide similar explanations of the rhetorical function of this question as their Shia counterparts. Both traditions agree that such questions serve to emphasize magnitude, engage the audience, and create memorable impact, techniques found throughout the Quran's treatment of eschatological themes. Classical Arabic rhetoric manuals cite this and similar Quranic questions as exemplars of effective persuasive speech, demonstrating that scriptural analysis contributes to broader literary and linguistic traditions in Islamic civilization. Both Shia and Sunni scholars emphasize that while the afterlife realities exceed complete human comprehension, the Quran provides sufficient description to guide behavior and inspire appropriate awe and preparation. Some scholarly discussions explore whether descriptions of Hell and Heaven are literal or metaphorical, with traditional scholars in both schools generally favoring literal interpretation while acknowledging that the full reality exceeds our current understanding. The consensus establishes that believers should take these descriptions seriously, allow them to shape priorities and behavior, and maintain balanced fear and hope in relating to Allah.",
+    "layer4_urdu": "اسلامی علم تمام مکاتب فکر میں اس آیت کو قرآنی بیانیہ عمدگی کی مثال کے طور پر استعمال کرتا ہے، شیعہ اور سنی دونوں علماء عربی ادب اور قرآنی علوم کے اس کی لسانی اور نفسیاتی تاثیر کا تجزیہ کرتے ہیں۔ سنی علماء جیسے زمخشری اور رازی نے اپنی کلاسیکی تفاسیر میں اس سوال کے بیانیہ کام کی اسی طرح کی وضاحت فراہم کی ہے جیسے ان کے شیعہ ہم منصب۔ دونوں روایات اس بات پر متفق ہیں کہ ایسے سوالات شدت پر زور دینے، سامعین کو مشغول کرنے، اور یادگار اثر پیدا کرنے کے لیے کام کرتے ہیں، تکنیک جو قرآن کے علم کلام کے موضوعات کے علاج میں پائی جاتی ہیں۔ کلاسیکی عربی بیانیہ کی کتابیں اس اور اسی طرح کے قرآنی سوالات کو مؤثر قائل کرنے والی تقریر کی مثالوں کے طور پر حوالہ دیتی ہیں، ظاہر کرتے ہوئے کہ صحیفہ کا تجزیہ اسلامی تہذیب میں وسیع ادبی اور لسانی روایات میں شراکت کرتا ہے۔ شیعہ اور سنی دونوں علماء اس بات پر زور دیتے ہیں کہ اگرچہ آخرت کی حقیقتیں مکمل انسانی فہم سے بالاتر ہیں، قرآن رویے کی رہنمائی کے لیے کافی تفصیل فراہم کرتا ہے اور مناسب خوف اور تیاری کی تحریک دیتا ہے۔ کچھ علمی بحثیں اس بات کی کھوج کرتی ہیں کہ آیا جہنم اور جنت کی تفصیلات لفظی ہیں یا استعاراتی، دونوں مکاتب فکر کے روایتی علماء عموماً لفظی تشریح کو ترجیح دیتے ہیں جبکہ تسلیم کرتے ہیں کہ مکمل حقیقت ہماری موجودہ فہم سے بالاتر ہے۔ اتفاق رائے قائم کرتا ہے کہ مومنین کو ان تفصیلات کو سنجیدگی سے لینا چاہیے، انہیں ترجیحات اور رویے کو تشکیل دینے کی اجازت دینی چاہیے، اور اللہ سے تعلق میں متوازن خوف اور امید برقرار رکھنی چاہیے۔",
+    "layer4_ar": "توظِّف الدراسات الإسلامية في كلتا المدرستين هذه الآية نموذجاً على البلاغة القرآنية الرفيعة، ويُحلِّل علماء السنة والشيعة في الأدب العربي وعلوم القرآن وظيفتها اللغوية والنفسية بالتفصيل. وعلماء السنة الكلاسيكيون كالزمخشري والرازي في تفاسيرهم يُقدِّمون تفسيرات مماثلة للوظيفة البلاغية لهذا السؤال تتشابه مع ما يطرحه نظراؤهم الشيعة. وكلتا المدرستين تتفقان على أن مثل هذه الأسئلة تَخدم غرض إبراز الضخامة واستنهاض المستمع وصنع الأثر الخالد في الذاكرة، وهي أساليب تَسري عبر معالجة القرآن للموضوعات الأخروية بأسرها. وكُتُب البلاغة العربية الكلاسيكية تستشهد بهذا النوع من الأسئلة القرآنية وما يماثله نماذجَ في الخطاب المقنع البليغ، مما يُثبت أن التحليل الكتابي يُغني التراثين الأدبي واللغوي في الحضارة الإسلامية. وكلتا المدرستين تُؤكِّد أنه وإن تجاوزت حقائق الآخرة الفهمَ البشري الكامل فإن القرآن يُقدِّم وصفاً كافياً يُوجِّه السلوك ويُلهم الخشوع والاستعداد اللازم. وتناقش بعض الحوارات العلمية طبيعة الجنة والنار أحرفية هي أم مجازية، والعلماء المحققون في كلتا المدرستين يميلون عموماً إلى التفسير الحرفي مع الإقرار بأن الحقيقة الكاملة تتجاوز إدراكنا الراهن."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:6:fire-of-allah",
+          "title": "Allah's Fire",
+          "icon": "flame.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Naru Allah' (fire of Allah) - not just any fire, but one created and sustained by Allah specifically for punishment, far exceeding any earthly flame in intensity.",
+          "whyItMatters": "Adding Allah's name to the fire emphasizes its divine origin and unimaginable power. No human fire compares; this is supernatural punishment beyond escape.",
+          "position": "topLeft",
+          "arabicHighlight": "نَارُ ٱللَّهِ",
+          "title_urdu": "اللہ کی آگ",
+          "coreInsight_urdu": "'نار اللہ' (اللہ کی آگ) - کوئی عام آگ نہیں، بلکہ ایک جو اللہ نے خاص طور پر سزا کے لیے بنائی اور برقرار رکھی ہے، شدت میں کسی زمینی شعلے سے بہت زیادہ۔",
+          "whyItMatters_urdu": "آگ میں اللہ کا نام شامل کرنا اس کی الہی ابتدا اور ناقابل تصور طاقت پر زور دیتا ہے۔ کوئی انسانی آگ موازنہ نہیں کرتی؛ یہ فرار سے بالاتر مافوق الفطرت سزا ہے۔",
+          "title_ar": "نار الله",
+          "coreInsight_ar": "'نار الله' - ليست مجرد نار عادية، بل نار خلقها الله وأبقاها خصيصًا للعقاب، تفوق بكثير أي لهب أرضي في شدتها.",
+          "whyItMatters_ar": "إضافة اسم الله إلى النار يؤكد أصلها الإلهي وقوتها التي لا يمكن تصورها. لا تضاهيها أي نار بشرية؛ هذا عقاب خارق للطبيعة لا مفر منه."
+        },
+        {
+          "id": "104:6:eternally-kindled",
+          "title": "Ever-Kindled",
+          "icon": "burn",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-muqadah' (kindled/fueled) suggests continuous burning without extinguishing - unlike worldly fires that eventually die, Hell's flames burn eternally.",
+          "whyItMatters": "The permanence of punishment matches the permanence of unrepented sins. Those who died in arrogance and wealth-worship face unending consequences.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمُوقَدَةُ",
+          "title_urdu": "ہمیشہ جلتی",
+          "coreInsight_urdu": "'الموقدۃ' (جلائی گئی/ایندھن) مسلسل جلنے کی تجویز دیتا ہے بغیر بجھنے کے - دنیوی آگ کے برعکس جو آخرکار مر جاتی ہے، جہنم کے شعلے ہمیشہ جلتے ہیں۔",
+          "whyItMatters_urdu": "سزا کی مستقل مزاجی توبہ نہ کیے گئے گناہوں کی مستقل مزاجی سے میل کھاتی ہے۔ جو لوگ تکبر اور دولت کی عبادت میں مر گئے وہ نہ ختم ہونے والے نتائج کا سامنا کرتے ہیں۔",
+          "title_ar": "المشتعلة أبدًا",
+          "coreInsight_ar": "تشير 'الموقدة' إلى الاحتراق المستمر دون انطفاء - على عكس النيران الدنيوية التي تنطفئ في النهاية، تحترق ألسنة جهنم إلى الأبد.",
+          "whyItMatters_ar": "يتوافق دوام العقاب مع دوام الذنوب غير التائبة. أولئك الذين ماتوا في الغرور وعبادة الثروة يواجهون عواقب لا نهاية لها."
+        },
+        {
+          "id": "104:6:complete-description",
+          "title": "Divine Definition",
+          "icon": "doc.text.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This verse directly answers the question in verse 5, defining Al-Hutamah with clarity - it is Allah's eternally burning fire, leaving no room for misunderstanding.",
+          "whyItMatters": "Allah doesn't leave us in doubt about serious matters. When consequences are severe, He explains them clearly so we can make informed choices.",
+          "position": "bottomLeft",
+          "arabicHighlight": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+          "title_urdu": "الہی تعریف",
+          "coreInsight_urdu": "یہ آیت براہ راست آیت 5 میں سوال کا جواب دیتی ہے، الحطمہ کی وضاحت کے ساتھ تعریف کرتی ہے - یہ اللہ کی ہمیشہ جلتی آگ ہے، غلط فہمی کی کوئی گنجائش نہیں چھوڑتی۔",
+          "whyItMatters_urdu": "اللہ ہمیں سنگین معاملات کے بارے میں شک میں نہیں چھوڑتا۔ جب نتائج سنگین ہوتے ہیں، تو وہ انہیں واضح طور پر بیان کرتا ہے تاکہ ہم باخبر انتخاب کر سکیں۔",
+          "title_ar": "التعريف الإلهي",
+          "coreInsight_ar": "تجيب هذه الآية مباشرة على السؤال في الآية 5، معرفة الحطمة بوضوح - إنها نار الله المشتعلة إلى الأبد، دون ترك مجال لسوء الفهم.",
+          "whyItMatters_ar": "لا يتركنا الله في شك حول الأمور الخطيرة. عندما تكون العواقب شديدة، فإنه يشرحها بوضوح حتى نتمكن من اتخاذ قرارات مستنيرة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions affirm the reality of Hellfire as described in the Quran, with classical scholars across schools providing detailed descriptions based on scriptural sources. Sunni scholars like Ibn Qayyim in Hadi al-Arwah and Ghazali in Ihya Ulum al-Din offer vivid descriptions of Hellfire similar to those found in Shia works like Haqq al-Yaqin. Both traditions cite extensive hadith about the characteristics of the Fire, its levels, its inhabitants, and the various punishments it contains. Some theological discussions address whether Hellfire is eternal for all inhabitants, with traditional scholars in both schools affirming eternity for unbelievers while debating whether sinful believers eventually leave. The description of the Fire as perpetually kindled and attributed to Allah appears consistently across Shia and Sunni tafsir, indicating strong consensus on this fundamental teaching. Both traditions emphasize that belief in Hell serves essential functions in Islamic theology and practice, motivating righteousness, enabling justice, and honoring human moral agency through real accountability. The scholarly consensus establishes that Muslims must believe in Hellfire as described in revelation, fear it appropriately, and allow that fear to motivate obedience to Allah while balancing it with hope in divine mercy and forgiveness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات قرآن میں بیان کردہ جہنم کی حقیقت کی تصدیق کرتی ہیں، کلاسیکی علماء مختلف مکاتب فکر میں صحیفہ ذرائع کی بنیاد پر تفصیلی وضاحت فراہم کرتے ہیں۔ سنی علماء جیسے ابن قیم نے ہادی الارواح میں اور غزالی نے احیاء علوم الدین میں جہنم کی واضح وضاحت پیش کی ہے جو حق الیقین جیسے شیعہ کاموں میں پائی جانے والی تفصیلات سے مشابہ ہے۔ دونوں روایات آگ کی خصوصیات، اس کی سطحوں، اس کے باشندوں، اور اس میں موجود مختلف سزاؤں کے بارے میں وسیع احادیث کا حوالہ دیتی ہیں۔ کچھ نظریاتی بحثیں اس بات سے نمٹتی ہیں کہ آیا جہنم تمام باشندوں کے لیے ابدی ہے، روایتی علماء دونوں مکاتب فکر میں کافروں کے لیے ابدیت کی تصدیق کرتے ہیں جبکہ اس پر بحث کرتے ہیں کہ آیا گناہگار مومنین بالآخر نکلتے ہیں۔ ہمیشہ بھڑکائی ہوئی اور اللہ سے منسوب آگ کی تفصیل شیعہ اور سنی تفسیر میں مسلسل ظاہر ہوتی ہے، اس بنیادی تعلیم پر مضبوط اتفاق رائے کی نشاندہی کرتے ہوئے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ جہنم پر یقین اسلامی نظریہ اور عمل میں ضروری کام انجام دیتا ہے، راستبازی کی طرف راغب کرتا ہے، انصاف کو ممکن بناتا ہے، اور حقیقی جوابدہی کے ذریعے انسانی اخلاقی ایجنسی کا احترام کرتا ہے۔ علمی اتفاق رائے قائم کرتا ہے کہ مسلمانوں کو وحی میں بیان کردہ جہنم پر یقین رکھنا چاہیے، اس سے مناسب طور پر ڈرنا چاہیے، اور اس خوف کو اللہ کی اطاعت کی طرف راغب کرنے دینا چاہیے جبکہ الٰہی رحمت اور مغفرت میں امید کے ساتھ اسے متوازن کرنا چاہیے۔",
+    "layer4_ar": "تُقرُّ كلتا المدرستين الشيعية والسنية بحقيقة نار جهنم كما وصفها القرآن الكريم، وعلماء الكلاسيكيون في كلا المذهبين يُقدِّمون أوصافاً تفصيلية مستندة إلى المصادر النقلية. وعلماء السنة كابن القيم في حادي الأرواح والغزالي في إحياء علوم الدين يُقدِّمون أوصافاً حية لنار جهنم تتشابه مع ما في المصادر الشيعية كحق اليقين. وكلتا المدرستين تستشهدان بأحاديث مستفيضة في صفات النار ودركاتها وأهلها وألوان العذاب الذي تتضمنه. وتُثار في بعض النقاشات الكلامية مسألة خلود أهل النار جميعاً، وعلماء الكلاسيكيون في كلتا المدرستين يُقرُّون بخلود الكافرين ويتناقشون هل يخرج منها المؤمنون العصاة في نهاية المطاف. ووصف النار بأنها موقدة دائماً ومنسوبة إلى الله يرد باتساق في تفسيري الشيعة والسنة، مُشيراً إلى إجماع راسخ على هذا التعليم الأساسي. وكلتا المدرستين تُؤكِّدان أن الإيمان بجهنم يؤدي وظائف جوهرية في اللاهوت والممارسة الإسلامية، إذ يَبعث على التقوى ويُحقق العدل ويحترم الفاعلية الأخلاقية للإنسان عبر المحاسبة الحقيقية. ويُقرر الإجماع العلمي أن المسلمين ملزمون بالإيمان بنار جهنم كما وردت في الوحي والخشية منها خشيةً معتدلة وأن يدفعهم ذلك الخوف إلى طاعة الله مع تحقيق التوازن بين الرجاء في الرحمة والمغفرة الإلهية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:7:mounts-hearts",
+          "title": "Reaches Hearts",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Tattali'u 'ala al-af'idah' (mounts/penetrates to the hearts) - Hell's fire doesn't just burn flesh; it reaches the soul's core, the seat of emotions and consciousness.",
+          "whyItMatters": "Physical pain is terrible, but spiritual torment cuts deeper. Hell punishes the arrogance and greed that originated in the heart, where sins are born.",
+          "position": "topLeft",
+          "arabicHighlight": "تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+          "title_urdu": "دلوں تک پہنچتی ہے",
+          "coreInsight_urdu": "'تطلع علی الافئدۃ' (دلوں پر چڑھتی ہے/دلوں میں داخل ہوتی ہے) - جہنم کی آگ صرف گوشت کو نہیں جلاتی؛ یہ روح کے مرکز، جذبات اور شعور کی نشست تک پہنچتی ہے۔",
+          "whyItMatters_urdu": "جسمانی درد خوفناک ہے، لیکن روحانی عذاب زیادہ گہرا کاٹتا ہے۔ جہنم اس تکبر اور لالچ کو سزا دیتی ہے جو دل میں پیدا ہوا، جہاں گناہ پیدا ہوتے ہیں۔",
+          "title_ar": "يصل إلى القلوب",
+          "coreInsight_ar": "تطلع على الأفئدة' (تصعد/تخترق إلى القلوب) - نار جهنم لا تحرق اللحم فحسب؛ بل تصل إلى جوهر الروح، مقر العواطف والوعي.",
+          "whyItMatters_ar": "الألم الجسدي فظيع، لكن العذاب الروحي يقطع أعمق. تعاقب جهنم الغرور والجشع الذي نشأ في القلب، حيث تولد الخطايا."
+        },
+        {
+          "id": "104:7:inner-punishment",
+          "title": "Inner Torment",
+          "icon": "brain.head.profile",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The af'idah (hearts/inner selves) were the source of mockery and greed in this life - now they become the primary target of punishment, a perfect divine justice.",
+          "whyItMatters": "We're punished precisely where we sinned. Those who let their hearts become diseased with arrogance will suffer in those same hearts. Sin's consequences are perfectly tailored.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْأَفْـِٔدَةِ",
+          "title_urdu": "اندرونی عذاب",
+          "coreInsight_urdu": "افئدہ (دل/اندرونی خودی) اس زندگی میں مذاق اور لالچ کا ذریعہ تھے - اب وہ سزا کا بنیادی ہدف بن جاتے ہیں، ایک کامل الہی انصاف۔",
+          "whyItMatters_urdu": "ہمیں بالکل وہیں سزا دی جاتی ہے جہاں ہم نے گناہ کیا۔ جنہوں نے اپنے دلوں کو تکبر سے بیمار ہونے دیا وہ انہی دلوں میں تکلیف اٹھائیں گے۔ گناہ کے نتائج بالکل موزوں ہیں۔",
+          "title_ar": "العذاب الداخلي",
+          "coreInsight_ar": "كانت الأفئدة (القلوب/الذات الداخلية) مصدر السخرية والجشع في هذه الحياة - الآن تصبح الهدف الرئيسي للعقاب، عدالة إلهية كاملة.",
+          "whyItMatters_ar": "نُعاقب بالضبط حيث أخطأنا. أولئك الذين تركوا قلوبهم تمرض بالغرور سيعانون في تلك القلوب نفسها. عواقب الخطيئة مصممة بشكل مثالي."
+        },
+        {
+          "id": "104:7:total-exposure",
+          "title": "Complete Exposure",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Tattali'u' (mounts/overlooks) also implies exposure and revelation - Hell exposes the hidden sins of the heart that were concealed in worldly life.",
+          "whyItMatters": "We can hide our true intentions from people, but not from Allah. In Hell, all inner corruption becomes visible, stripped of worldly disguises like wealth and status.",
+          "position": "bottomLeft",
+          "arabicHighlight": "تَطَّلِعُ",
+          "title_urdu": "مکمل انکشاف",
+          "coreInsight_urdu": "'تطلع' (چڑھنا/نظر آنا) افشا اور انکشاف کا بھی مطلب رکھتا ہے - جہنم دل کے چھپے ہوئے گناہوں کو ظاہر کرتی ہے جو دنیوی زندگی میں چھپے ہوئے تھے۔",
+          "whyItMatters_urdu": "ہم اپنے حقیقی ارادوں کو لوگوں سے چھپا سکتے ہیں، لیکن اللہ سے نہیں۔ جہنم میں، تمام اندرونی فساد نظر آتا ہے، دولت اور حیثیت جیسے دنیوی بھیسوں سے لاچار۔",
+          "title_ar": "الكشف التام",
+          "coreInsight_ar": "تطلع' (تصعد/تطل) تعني أيضًا الكشف والإعلان - تكشف جهنم خطايا القلب المخفية التي كانت مخفية في الحياة الدنيوية.",
+          "whyItMatters_ar": "يمكننا إخفاء نوايانا الحقيقية عن الناس، لكن ليس عن الله. في جهنم، يصبح كل الفساد الداخلي مرئيًا، مجردًا من التنكرات الدنيوية مثل الثروة والمكانة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize the centrality of heart purification in Islamic spirituality, with extensive literature across schools addressing diseases of the heart and their cures. Sunni scholars like Imam Ghazali devoted major sections of Ihya Ulum al-Din to heart purification, using analysis and terminology remarkably similar to Shia treatments in works like Jami al-Saadat. Classical Sunni tafsir by scholars like Razi and Qurtubi explain this verse's reference to the fire reaching hearts in similar ways to Shia commentators, emphasizing that inner spiritual states receive appropriate consequences. Both traditions cite hadith about the importance of heart purity, with the famous hadith that faith increases and decreases in the heart appearing in both Shia and Sunni collections. Sufi traditions within Sunni Islam particularly emphasize heart work and spiritual purification, developing practices paralleling Shia emphasis on tazkiyah. Some differences appear in specific spiritual methodologies and the role of guides or masters in heart purification, but the fundamental principle that inner purity matters supremely enjoys unanimous agreement. The scholarly consensus establishes that believers must attend to heart conditions at least as much as external actions, recognizing that arrogance, envy, malice, and attachment to worldly possessions corrupt the heart and lead to the punishment described in this verse.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اسلامی روحانیت میں دل کی پاکیزگی کی مرکزیت پر زور دیتی ہیں، تمام مکاتب فکر میں دل کی بیماریوں اور ان کے علاج سے نمٹنے والا وسیع ادب کے ساتھ۔ سنی علماء جیسے امام غزالی نے احیاء علوم الدین کے بڑے حصے دل کی پاکیزگی کے لیے وقف کیے، جامع السعادات جیسے شیعہ کاموں میں شیعہ علاج سے حیران کن طور پر مماثل تجزیہ اور اصطلاحات استعمال کرتے ہوئے۔ کلاسیکی سنی تفسیر علماء جیسے رازی اور قرطبی نے اس آیت کے دلوں تک پہنچنے والی آگ کے حوالے کو شیعہ مفسرین کی طرح ہی وضاحت کی، اس بات پر زور دیتے ہوئے کہ اندرونی روحانی حالات کو مناسب نتائج ملتے ہیں۔ دونوں روایات دل کی پاکیزگی کی اہمیت کے بارے میں احادیث کا حوالہ دیتی ہیں، مشہور حدیث کے ساتھ کہ ایمان دل میں بڑھتا اور گھٹتا ہے جو شیعہ اور سنی دونوں مجموعوں میں ظاہر ہوتی ہے۔ سنی اسلام میں صوفی روایات خاص طور پر دل کے کام اور روحانی پاکیزگی پر زور دیتی ہیں، تزکیہ پر شیعہ زور کے متوازی طریقے تیار کرتی ہیں۔ مخصوص روحانی طریقہ کار اور دل کی پاکیزگی میں رہنماؤں یا استادوں کے کردار میں کچھ اختلافات ظاہر ہوتے ہیں، لیکن بنیادی اصول کہ اندرونی پاکیزگی انتہائی اہم ہے سے متفقہ اتفاق رائے ہے۔ علمی اتفاق رائے قائم کرتا ہے کہ مومنین کو کم از کم بیرونی اعمال جتنا دل کی حالتوں پر توجہ دینی چاہیے، یہ تسلیم کرتے ہوئے کہ تکبر، حسد، بغض، اور دنیوی ملکیت سے لگاؤ دل کو خراب کرتے ہیں اور اس آیت میں بیان کردہ سزا کی طرف لے جاتے ہیں۔",
+    "layer4_ar": "تُؤكِّد كلتا المدرستين الشيعية والسنية مركزية تزكية القلب في الروحانية الإسلامية، مع أدب عريض في كلتا المدرستين يُعالج أمراض القلب وعلاجها. وقد خصَّص علماء السنة كالإمام الغزالي أبواباً رئيسية من إحياء علوم الدين لتزكية القلب بمصطلحات وتحليلات تتشابه إلى حد بعيد مع المعالجات الشيعية في مؤلَّفات كجامع السعادات. وعلماء السنة في تفاسيرهم الكلاسيكية كالرازي والقرطبي يُفسِّرون مبلغ النار من الأفئدة في هذه الآية تفسيراً مشابهاً لتفسير نظرائهم الشيعة، مُشدِّدين على أن الأحوال الروحية الداخلية تتلقى عواقبها المناسبة. وكلتا المدرستين تستشهدان بأحاديث في أهمية طهارة القلب، كحديث ازدياد الإيمان وانتقاصه في القلب الوارد في مجاميع الحديث الشيعية والسنية. وتُولي تيارات التصوف في الإسلام السني اهتماماً خاصاً بعمل القلب والتزكية الروحية، مُطوِّرةً ممارسات تُوازي التأكيد الشيعي على التزكية. وتبرز بعض الاختلافات في المناهج الروحية التفصيلية ودور المرشد في تزكية القلب، غير أن المبدأ الجوهري القائل بأن الطهارة الباطنة أولى ما يُعتنى به يحظى بإجماع تام. ويُقرر الإجماع العلمي أن المؤمنين ملزمون بالعناية بأحوال قلوبهم لا بالعمل الظاهر وحده، مُدركين أن الغرور والحسد والحقد والتعلق بالدنيا تُفسد القلب وتُفضي إلى العذاب الموصوف في هذه الآية."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:8:closed-upon",
+          "title": "Sealed Prison",
+          "icon": "lock.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Mu'sadah' (closed/sealed) indicates Hell is locked tight with no exits - unlike worldly prisons that might offer escape or parole, Hell offers no way out.",
+          "whyItMatters": "The finality is absolute. Once judgment is passed, there's no appeal, no second chance, no escape route. This life is our only opportunity for redemption.",
+          "position": "topLeft",
+          "arabicHighlight": "مُّؤْصَدَةٌۭ",
+          "title_urdu": "بند جیل",
+          "coreInsight_urdu": "'موصدۃ' (بند/مہربند) جہنم کی نشاندہی کرتا ہے کہ یہ سختی سے بند ہے بغیر باہر نکلنے کے راستے کے - دنیوی جیلوں کے برعکس جو فرار یا پیرول کی پیشکش کر سکتی ہیں، جہنم باہر نکلنے کا کوئی راستہ نہیں دیتی۔",
+          "whyItMatters_urdu": "حتمیت مطلق ہے۔ ایک بار فیصلہ ہو جائے تو کوئی اپیل نہیں، کوئی دوسرا موقع نہیں، کوئی فرار کا راستہ نہیں۔ یہ زندگی ہمارے لیے نجات کا واحد موقع ہے۔",
+          "title_ar": "السجن المغلق",
+          "coreInsight_ar": "تشير 'مؤصدة' (مغلقة/مختومة) إلى أن جهنم مغلقة بإحكام بدون مخارج - على عكس السجون الدنيوية التي قد تقدم الهروب أو الإفراج المشروط، لا تقدم جهنم أي مخرج.",
+          "whyItMatters_ar": "النهائية مطلقة. بمجرد إصدار الحكم، لا يوجد استئناف، ولا فرصة ثانية، ولا طريق هروب. هذه الحياة هي فرصتنا الوحيدة للخلاص."
+        },
+        {
+          "id": "104:8:upon-them",
+          "title": "Personal Prison",
+          "icon": "person.crop.circle.badge.exclamationmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Alayhim' (upon them) emphasizes the personal nature of punishment - each individual bears their own consequences, trapped by their own sins.",
+          "whyItMatters": "We can't blame others or circumstances. Each person's Hell is custom-made by their own choices, sealed by their own deeds, without scapegoats.",
+          "position": "topRight",
+          "arabicHighlight": "عَلَيْهِم",
+          "title_urdu": "ذاتی جیل",
+          "coreInsight_urdu": "'علیہم' (ان پر) سزا کی ذاتی نوعیت پر زور دیتا ہے - ہر فرد اپنے نتائج برداشت کرتا ہے، اپنے گناہوں میں پھنسا ہوا۔",
+          "whyItMatters_urdu": "ہم دوسروں یا حالات کو مورد الزام نہیں ٹھہرا سکتے۔ ہر شخص کی جہنم ان کے اپنے انتخاب سے بنائی گئی ہے، ان کے اپنے اعمال سے مہربند، بغیر قربانی کے بکرے کے۔",
+          "title_ar": "السجن الشخصي",
+          "coreInsight_ar": "تؤكد 'عليهم' على الطبيعة الشخصية للعقاب - كل فرد يتحمل عواقبه الخاصة، محاصرًا بخطاياه الخاصة.",
+          "whyItMatters_ar": "لا يمكننا لوم الآخرين أو الظروف. جهنم كل شخص مصممة خصيصًا بخياراته الخاصة، مختومة بأفعاله الخاصة، دون كباش فداء."
+        },
+        {
+          "id": "104:8:certainly-indeed",
+          "title": "Absolute Certainty",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Innaha' (indeed/certainly) adds emphasis - this isn't speculation or metaphor but absolute reality. Hell's closure is guaranteed, inevitable.",
+          "whyItMatters": "Allah wants no doubt about consequences. The emphatic language removes all wishful thinking that Hell might not be real or that escape might be possible.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّهَا",
+          "title_urdu": "مطلق یقین",
+          "coreInsight_urdu": "'انہا' (یقیناً/ضرور) زور شامل کرتا ہے - یہ قیاس یا استعارہ نہیں بلکہ مطلق حقیقت ہے۔ جہنم کی بندش کی ضمانت ہے، ناگزیر ہے۔",
+          "whyItMatters_urdu": "اللہ نتائج کے بارے میں کوئی شک نہیں چاہتا۔ زوردار زبان تمام خواہش مندانہ سوچ کو ہٹا دیتی ہے کہ جہنم حقیقی نہیں ہو سکتی یا فرار ممکن ہو سکتا ہے۔",
+          "title_ar": "اليقين المطلق",
+          "coreInsight_ar": "تضيف 'إنها' (بالتأكيد/بكل تأكيد) التأكيد - هذا ليس تخمينًا أو استعارة بل واقع مطلق. إغلاق جهنم مضمون، حتمي.",
+          "whyItMatters_ar": "يريد الله عدم وجود شك في العواقب. اللغة المؤكدة تزيل كل التفكير بالتمني بأن جهنم قد لا تكون حقيقية أو أن الهروب قد يكون ممكنًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions affirm the permanent nature of Hell for those who die as unbelievers, with the sealing representing irreversible judgment. Classical Sunni scholars like Ibn Kathir and Qurtubi interpret this verse similarly to their Shia counterparts, emphasizing the complete enclosure and inescapability of divine punishment. Both traditions cite hadith describing Hell's doors being shut on its inhabitants, sealing them in perpetual torment. Some theological debate exists about whether sinful believers eventually exit Hell, with various positions in both Shia and Sunni scholarship, but agreement that unbelievers remain eternally. The imagery of sealing and closure appears throughout Quranic descriptions of Hell, analyzed consistently across Islamic scholarly traditions as emphasizing finality and justice. Both Shia and Sunni scholars emphasize that these descriptions should motivate repentance and righteousness while opportunity exists, as death ends the time for changing course. Quranic verses about repentance being accepted until the moment of death appear in both traditions' discussions of this topic, establishing that the sealing occurs at death not before. The scholarly consensus establishes that believers should maintain hope in divine mercy while alive, take warnings about Hell seriously enough to motivate righteous action, and recognize that ultimate judgment belongs to Allah alone based on complete knowledge of hearts and deeds.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات ان لوگوں کے لیے جہنم کی مستقل نوعیت کی تصدیق کرتی ہیں جو کافر کی حیثیت سے مرتے ہیں، مہربندی ناقابل واپسی فیصلے کی نمائندگی کرتی ہے۔ کلاسیکی سنی علماء جیسے ابن کثیر اور قرطبی اس آیت کی تشریح اپنے شیعہ ہم منصبوں کی طرح کرتے ہیں، مکمل احاطے اور الٰہی سزا کی ناگزیریت پر زور دیتے ہوئے۔ دونوں روایات احادیث کا حوالہ دیتی ہیں جو جہنم کے دروازوں کو اس کے باشندوں پر بند کیے جانے کو بیان کرتی ہیں، انہیں دائمی عذاب میں مہربند کرتے ہوئے۔ کچھ نظریاتی بحث موجود ہے کہ آیا گناہگار مومنین بالآخر جہنم سے نکلتے ہیں، شیعہ اور سنی دونوں علم میں مختلف مقامات کے ساتھ، لیکن اتفاق ہے کہ کافر ابدی طور پر باقی رہتے ہیں۔ مہربندی اور بندش کی تصویر کشی قرآنی تفصیلات جہنم کی میں ظاہر ہوتی ہے، اسلامی علمی روایات میں مسلسل تجزیہ کیا جاتا ہے حتمیت اور انصاف پر زور دیتے ہوئے۔ شیعہ اور سنی دونوں علماء اس بات پر زور دیتے ہیں کہ ان تفصیلات کو توبہ اور راستبازی کی طرف راغب کرنا چاہیے جبکہ موقع موجود ہے، کیونکہ موت راستہ بدلنے کا وقت ختم کر دیتی ہے۔ توبہ کے موت کے لمحے تک قبول کیے جانے کے بارے میں قرآنی آیات دونوں روایات کی اس موضوع پر بحثوں میں ظاہر ہوتی ہیں، یہ قائم کرتے ہوئے کہ مہربندی موت پر ہوتی ہے اس سے پہلے نہیں۔ علمی اتفاق رائے قائم کرتا ہے کہ مومنین کو زندہ رہتے ہوئے الٰہی رحمت میں امید برقرار رکھنی چاہیے، جہنم کے بارے میں انتباہات کو کافی سنجیدگی سے لینا چاہیے تاکہ نیک عمل کی طرف راغب ہو، اور تسلیم کرنا چاہیے کہ حتمی فیصلہ صرف اللہ کا ہے دلوں اور اعمال کے مکمل علم کی بنیاد پر۔",
+    "layer4_ar": "تُقرُّ كلتا المدرستين الشيعية والسنية بديمومة جهنم لمن ماتوا كافرين، والإغلاق يمثل حكماً لا رجعة فيه. وعلماء السنة الكلاسيكيون كابن كثير والقرطبي يُفسِّرون هذه الآية تفسيراً مشابهاً لتفسير نظرائهم الشيعة، مُشدِّدين على الإحاطة الكاملة وعدم النجاة من العذاب الإلهي. وكلتا المدرستين تستشهدان بأحاديث تصف إغلاق أبواب النار على أهلها وحبسهم في العذاب الأبدي. وتدور بعض النقاشات الكلامية حول هل يخرج من النار المؤمنون العصاة في نهاية الأمر، وفي هذه المسألة مواقف متعددة في كلتا المدرستين السنية والشيعية، مع الاتفاق على بقاء الكافرين فيها خالدين. وتتردد صورة الإغلاق في الأوصاف القرآنية لجهنم وتُحلَّل باتساق في التفاسير الإسلامية المختلفة على أنها تُؤكِّد الحكم النهائي القاطع. وكلتا المدرستين تُؤكِّدان أن هذه الأوصاف ينبغي أن تَبعث على التوبة والتقوى ما دام الوقت متاحاً، لأن الموت يُنهي فرصة تغيير المسار. وتَرِد الآيات القرآنية في قبول التوبة إلى لحظة الاحتضار في مناقشات كلتا المدرستين لهذا الموضوع، مُثبِّتةً أن الإغلاق يقع بالموت لا قبله. ويُقرر الإجماع العلمي أن المؤمنين ينبغي أن يُراوحوا بين الرجاء في الرحمة وأخذ التحذيرات بجدية تكفي لبعث العمل الصالح، مُدركين أن الحكم النهائي لله وحده بعلمه المحيط بالقلوب والأعمال."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "104:9:extended-columns",
+          "title": "Towering Pillars",
+          "icon": "building.columns.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Fi 'amadin mumaddadah' (in extended/stretched columns) describes either the pillars of Hell's gates or the chains binding its inhabitants - both images convey inescapable confinement.",
+          "whyItMatters": "The architectural imagery makes Hell's reality concrete and visual. These aren't abstract concepts but physical structures of eternal imprisonment.",
+          "position": "topLeft",
+          "arabicHighlight": "فِى عَمَدٍۢ مُّمَدَّدَةٍۭ",
+          "title_urdu": "بلند ستون",
+          "coreInsight_urdu": "'فی عمد ممددۃ' (پھیلے ہوئے/کھنچے ہوئے ستونوں میں) جہنم کے دروازوں کے ستونوں یا اس کے رہائشیوں کو باندھنے والی زنجیروں کی وضاحت کرتا ہے - دونوں تصاویر ناقابل فرار قید کی ترسیل کرتی ہیں۔",
+          "whyItMatters_urdu": "تعمیراتی تصویر کشی جہنم کی حقیقت کو ٹھوس اور بصری بناتی ہے۔ یہ تجریدی تصورات نہیں ہیں بلکہ ابدی قید کی جسمانی ساخت ہیں۔",
+          "title_ar": "الأعمدة الممتدة",
+          "coreInsight_ar": "يصف 'في عمد ممددة' (في أعمدة ممتدة/مشدودة) إما أعمدة أبواب جهنم أو السلاسل التي تقيد سكانها - كلا الصورتين تنقلان الحبس الذي لا مفر منه.",
+          "whyItMatters_ar": "تجعل الصور المعمارية واقع جهنم ملموسًا ومرئيًا. هذه ليست مفاهيم مجردة بل هياكل مادية للسجن الأبدي."
+        },
+        {
+          "id": "104:9:stretched-out",
+          "title": "Endlessly Extended",
+          "icon": "arrow.left.and.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Mumaddadah' (extended/stretched out) emphasizes endlessness - the columns or chains stretch infinitely, symbolizing the eternal nature of Hell's confinement.",
+          "whyItMatters": "Just as the wealthy in this world constantly extended their wealth accumulation (verse 2), Hell extends infinitely. The punishment mirrors the sin's obsessive nature.",
+          "position": "topRight",
+          "arabicHighlight": "مُّمَدَّدَةٍۭ",
+          "title_urdu": "لامتناہی طور پر پھیلا ہوا",
+          "coreInsight_urdu": "'ممددۃ' (پھیلا ہوا/کھنچا ہوا) لامتناہی پن پر زور دیتا ہے - ستون یا زنجیریں لامتناہی طور پر پھیلتی ہیں، جہنم کی قید کی ابدی نوعیت کی علامت۔",
+          "whyItMatters_urdu": "جس طرح اس دنیا میں امیروں نے مسلسل اپنی دولت جمع کرنا بڑھایا (آیت 2)، جہنم لامتناہی طور پر پھیلتی ہے۔ سزا گناہ کی جنونی نوعیت کی عکاسی کرتی ہے۔",
+          "title_ar": "ممتد بلا نهاية",
+          "coreInsight_ar": "تؤكد 'ممددة' (ممتدة/مشدودة) على اللانهائية - تمتد الأعمدة أو السلاسل إلى ما لا نهاية، ترمز إلى الطبيعة الأبدية لحبس جهنم.",
+          "whyItMatters_ar": "كما مدد الأغنياء في هذا العالم باستمرار تراكم ثرواتهم (الآية 2)، تمتد جهنم إلى ما لا نهاية. العقاب يعكس الطبيعة الوسواسية للخطيئة."
+        },
+        {
+          "id": "104:9:final-warning",
+          "title": "Complete Warning",
+          "icon": "shield.lefthalf.filled.badge.checkmark",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah ends with vivid imagery of Hell's structure, completing the warning that began with 'Woe' in verse 1 - from sin to consequence, the entire journey is mapped.",
+          "whyItMatters": "Allah provides complete warnings, not partial ones. From the sin (mockery, greed) to the punishment (eternal fire in locked columns), we have full knowledge to make informed choices.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَمَدٍۢ",
+          "title_urdu": "مکمل انتباہ",
+          "coreInsight_urdu": "سورت جہنم کی ساخت کی واضح تصویر کشی کے ساتھ ختم ہوتی ہے، آیت 1 میں 'ویل' سے شروع ہونے والے انتباہ کو مکمل کرتی ہے - گناہ سے نتیجے تک، پورا سفر نقشہ بند ہے۔",
+          "whyItMatters_urdu": "اللہ مکمل انتباہات فراہم کرتا ہے، جزوی نہیں۔ گناہ (مذاق، لالچ) سے سزا (بند ستونوں میں ابدی آگ) تک، ہمارے پاس باخبر انتخاب کرنے کے لیے مکمل علم ہے۔",
+          "title_ar": "التحذير الكامل",
+          "coreInsight_ar": "تنتهي السورة بصور حية لهيكل جهنم، مكملة التحذير الذي بدأ بـ'ويل' في الآية 1 - من الخطيئة إلى العاقبة، الرحلة بأكملها موضحة.",
+          "whyItMatters_ar": "يقدم الله تحذيرات كاملة، وليس جزئية. من الخطيئة (السخرية، الجشع) إلى العقاب (نار أبدية في أعمدة مقفلة)، لدينا معرفة كاملة لاتخاذ قرارات مستنيرة."
+        },
+        {
+          "id": "104:9:divine-justice",
+          "title": "Perfect Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The structure and permanence of Hell reflect Allah's perfect justice - those who built their lives on fleeting wealth find themselves in permanent punishment, a fitting consequence.",
+          "whyItMatters": "Divine justice is precise. Those who mocked the eternal for the sake of the temporary will experience the reverse - temporary pleasure, eternal consequences.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ",
+          "title_urdu": "کامل انصاف",
+          "coreInsight_urdu": "جہنم کی ساخت اور مستقل مزاجی اللہ کے کامل انصاف کی عکاسی کرتی ہے - جنہوں نے اپنی زندگیوں کو عارضی دولت پر تعمیر کیا وہ مستقل سزا میں پاتے ہیں، ایک موزوں نتیجہ۔",
+          "whyItMatters_urdu": "الہی انصاف درست ہے۔ جنہوں نے عارضی کی خاطر ابدی کا مذاق اڑایا وہ الٹا تجربہ کریں گے - عارضی خوشی، ابدی نتائج۔",
+          "title_ar": "العدالة الكاملة",
+          "coreInsight_ar": "يعكس هيكل ودوام جهنم عدالة الله الكاملة - أولئك الذين بنوا حياتهم على الثروة الزائلة يجدون أنفسهم في عقاب دائم، عاقبة مناسبة.",
+          "whyItMatters_ar": "العدالة الإلهية دقيقة. أولئك الذين سخروا من الأبدي من أجل الزائل سيختبرون العكس - لذة مؤقتة، عواقب أبدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars conclude their commentaries on this surah by emphasizing its powerful warning against arrogance, mockery, and materialism, with classical commentators across traditions providing similar interpretations of the extended columns. Sunni scholars like Ibn Kathir cite various early interpretations of what the columns represent, similar to the range of views in Shia scholarship, while agreeing on the general meaning of severe restraint and compounded punishment. Both traditions recognize this surah's literary power and rhetorical effectiveness in creating lasting impact through vivid imagery and emotional intensity. Classical Arabic literary analysis across schools uses this surah as an example of eloquence through brevity, where nine short verses deliver a complete message with maximum impact. Both Shia and Sunni scholars emphasize practical application, calling believers to examine their speech patterns, attitudes toward wealth, and treatment of others in light of these severe warnings. The unanimity across Islamic scholarship on the seriousness of backbiting, mockery, and arrogant materialism reflects shared ethical foundations despite theological differences in other areas. The scholarly consensus establishes that this surah demands response, not mere intellectual analysis, calling all Muslims to concrete behavioral change in avoiding the sins described and cultivating opposing virtues of humility, generosity, and respect for human dignity.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس سورہ پر اپنی تفاسیر کو اس کی طاقتور انتباہ تکبر، تمسخر، اور مادیت پرستی کے خلاف پر زور دیتے ہوئے ختم کرتے ہیں، روایات میں کلاسیکی مفسرین پھیلے ہوئے ستونوں کی اسی طرح کی تشریحات فراہم کرتے ہوئے۔ سنی علماء جیسے ابن کثیر ستونوں کی مختلف ابتدائی تشریحات کا حوالہ دیتے ہیں، شیعہ علم میں نظریات کی رینج سے مماثل، جبکہ سخت پابندی اور بڑھی ہوئی سزا کے عام معنی پر متفق ہیں۔ دونوں روایات اس سورہ کی ادبی طاقت اور بیانیہ تاثیر کو تسلیم کرتی ہیں واضح تصویر کشی اور جذباتی شدت کے ذریعے دیرپا اثر پیدا کرنے میں۔ کلاسیکی عربی ادبی تجزیہ تمام مکاتب فکر میں اس سورہ کو اختصار کے ذریعے فصاحت کی مثال کے طور پر استعمال کرتا ہے، جہاں نو مختصر آیات زیادہ سے زیادہ اثر کے ساتھ مکمل پیغام فراہم کرتی ہیں۔ شیعہ اور سنی دونوں علماء عملی اطلاق پر زور دیتے ہیں، مومنین کو ان سخت انتباہات کی روشنی میں اپنے تقریری نمونوں، دولت کے بارے میں رویوں، اور دوسروں کے ساتھ سلوک کا جائزہ لینے کی دعوت دیتے ہوئے۔ غیبت، تمسخر، اور متکبرانہ مادیت پرستی کی سنجیدگی پر اسلامی علم میں اتفاق رائے دوسرے شعبوں میں نظریاتی اختلافات کے باوجود مشترکہ اخلاقی بنیادوں کی عکاسی کرتا ہے۔ علمی اتفاق رائے قائم کرتا ہے کہ یہ سورہ ردعمل کا مطالبہ کرتی ہے، محض عقلی تجزیہ نہیں، تمام مسلمانوں کو بیان کردہ گناہوں سے بچنے اور مخالف فضائل عاجزی، سخاوت، اور انسانی وقار کے احترام کو فروغ دینے میں ٹھوس رویے کی تبدیلی کی دعوت دیتے ہوئے۔",
+    "layer4_ar": "يختتم علماء الشيعة والسنة معاً تفسيرهم لهذه السورة بالتأكيد على تحذيرها الشديد من الغرور والاستهزاء والمادية، ويُقدِّم المفسرون الكلاسيكيون في كلا المذهبين تفسيرات متشابهة للأعمدة الممتدة. وعلماء السنة كابن كثير ينقلون تفسيرات متعددة للمفسرين الأوائل لدلالة الأعمدة تتقاطع مع الطيف التفسيري عند الشيعة، مع الاتفاق على المعنى العام من الحبس الشديد والعذاب المركَّب المتعدد. وكلتا المدرستين تُقرُّ بالقوة الأدبية والفاعلية البلاغية لهذه السورة في صنع أثر خالد عبر الصور الحية والكثافة العاطفية. والتحليل الأدبي العربي الكلاسيكي في كلا المذهبين يستشهد بهذه السورة نموذجاً على البلاغة في الإيجاز، إذ تُبلِّغ تسع آيات قصيرات رسالةً كاملة بأقصى أثر ممكن. وكلتا المدرستين تُشدِّدان على التطبيق العملي، داعيتين المؤمنين إلى محاسبة أنماط كلامهم ومواقفهم من الثروة ومعاملتهم للناس في ضوء هذه التحذيرات الصارمة. وإجماع الدراسات الإسلامية على خطورة الاغتياب والاستهزاء والمادية المتكبِّرة يعكس أسساً أخلاقية مشتركة تعلو على الخلافات العقدية في مسائل أخرى. ويُقرر الإجماع العلمي أن هذه السورة تستدعي استجابةً فعلية لا تحليلاً ذهنياً فحسب، نداءً لكل مسلم إلى إصلاح ملموس في السلوك بتجنب الذنوب الموصوفة وتنمية الفضائل المقابلة من تواضع وكرم واحترام للكرامة الإنسانية."
+  }
+}

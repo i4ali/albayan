@@ -1,0 +1,418 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:1:denying-judgment",
+          "title": "Denying Judgment",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The word 'yukadhdhib' (يُكَذِّبُ) means to reject or deny as false. Denying the Day of Recompense (ad-Deen) means rejecting accountability, which leads to moral corruption.",
+          "whyItMatters": "Belief in the Hereafter is the foundation of ethical behavior. Without accountability to Allah, people exploit others without conscience.",
+          "position": "topLeft",
+          "arabicHighlight": "يُكَذِّبُ بِٱلدِّين",
+          "title_urdu": "روز جزا کا انکار",
+          "coreInsight_urdu": "لفظ 'یکذب' کا مطلب ہے جھٹلانا یا غلط قرار دینا۔ روز جزا (الدین) کا انکار کرنے کا مطلب ہے جوابدہی سے انکار، جو اخلاقی بدعنوانی کی طرف لے جاتا ہے۔",
+          "whyItMatters_urdu": "آخرت پر ایمان اخلاقی رویے کی بنیاد ہے۔ اللہ کے سامنے جوابدہی کے بغیر، لوگ دوسروں کا بے ضمیری سے استحصال کرتے ہیں۔",
+          "title_ar": "إنكار يوم الدين",
+          "coreInsight_ar": "كلمة 'يُكَذِّبُ' تعني الرفض أو الإنكار باعتباره كذبًا. إنكار يوم الجزاء (الدين) يعني رفض المساءلة، مما يؤدي إلى الفساد الأخلاقي.",
+          "whyItMatters_ar": "الإيمان بالآخرة هو أساس السلوك الأخلاقي. بدون المساءلة أمام الله، يستغل الناس الآخرين بلا ضمير."
+        },
+        {
+          "id": "107:1:have-you-seen",
+          "title": "Have You Seen",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'A ra'ayta' (أَرَءَيْتَ) is a rhetorical question inviting reflection. The Prophet and believers are asked to observe the behavior of those who deny accountability.",
+          "whyItMatters": "This question makes us witnesses to injustice, calling us not just to observe but to act against such behavior in ourselves and society.",
+          "position": "topRight",
+          "arabicHighlight": "أَرَءَيْتَ ٱلَّذِى",
+          "title_urdu": "کیا تم نے دیکھا",
+          "coreInsight_urdu": "'ارایت' ایک بلاغی سوال ہے جو غور و فکر کی دعوت دیتا ہے۔ نبی اور مومنین سے کہا جا رہا ہے کہ ان لوگوں کے رویے کا مشاہدہ کریں جو جوابدہی سے انکار کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ سوال ہمیں ناانصافی کا گواہ بناتا ہے، ہمیں نہ صرف مشاہدہ کرنے بلکہ اپنے اور معاشرے میں ایسے رویے کے خلاف کارروائی کرنے کا مطالبہ کرتا ہے۔",
+          "title_ar": "هل رأيت",
+          "coreInsight_ar": "'أَرَءَيْتَ' سؤال بلاغي يدعو إلى التأمل. يُطلب من النبي والمؤمنين ملاحظة سلوك أولئك الذين ينكرون المساءلة.",
+          "whyItMatters_ar": "هذا السؤال يجعلنا شهودًا على الظلم، داعيًا إيانا ليس فقط إلى الملاحظة ولكن إلى التصرف ضد مثل هذا السلوك في أنفسنا ومجتمعنا."
+        },
+        {
+          "id": "107:1:the-recompense",
+          "title": "The Recompense",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Ad-Deen (ٱلدِّينِ) here means the Day of Judgment and Recompense, not just 'religion'. It encompasses divine justice, accountability, and ultimate consequences.",
+          "whyItMatters": "Understanding that our actions have eternal consequences transforms how we treat others, especially the vulnerable. Justice isn't optional—it's inevitable.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِٱلدِّين",
+          "title_urdu": "جزا و سزا",
+          "coreInsight_urdu": "الدین کا یہاں مطلب ہے روز قیامت اور جزا، نہ صرف 'مذہب'۔ یہ الہی انصاف، جوابدہی، اور حتمی نتائج کو شامل کرتا ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ ہمارے اعمال کے ابدی نتائج ہیں، یہ بدل دیتا ہے کہ ہم دوسروں کے ساتھ کیسا سلوک کرتے ہیں، خاص طور پر کمزوروں کے ساتھ۔ انصاف اختیاری نہیں ہے—یہ ناگزیر ہے۔",
+          "title_ar": "الجزاء",
+          "coreInsight_ar": "الدين هنا يعني يوم القيامة والجزاء، وليس فقط 'الدين'. إنه يشمل العدالة الإلهية والمساءلة والعواقب النهائية.",
+          "whyItMatters_ar": "فهم أن أعمالنا لها عواقب أبدية يحول كيفية معاملتنا للآخرين، وخاصة الضعفاء. العدالة ليست اختيارية—إنها حتمية."
+        }
+      ]
+    },
+    "layer6_urdu": "",
+    "layer4": "Both Shia and Sunni classical scholars agree that this verse establishes the inseparable link between theological belief and ethical behavior. Ibn Kathir in his tafsir notes that the verse describes the hypocrites who claim faith but whose actions betray disbelief, while al-Tabari emphasizes that denial of resurrection leads inevitably to moral corruption. Fakhr al-Din al-Razi discusses how the rhetorical question engages the listener's own observation of social reality. The scholarly consensus across Islamic traditions is that true faith must manifest in righteous action, particularly toward the vulnerable. Where Shia and Sunni interpretations converge is on the practical implications: belief in divine judgment creates moral accountability that protects the weak. A subtle difference appears in Shia emphasis on the Ahlul Bayt's teachings about the depths of hypocrisy when actions contradict beliefs. Both traditions cite this surah as evidence against those who separate religion from social justice or spirituality from ethics. The comparative study reveals that this brief surah has been universally understood as a divine indictment of religious pretense divorced from humanitarian concern.",
+    "layer4_urdu": "شیعہ اور سنی کلاسیکی علماء دونوں اِس بات پر متفق ہیں کہ یہ آیت الٰہیاتی عقیدے اور اخلاقی رویے کے درمیان ناقابلِ تقسیم رابطے کو قائم کرتی ہے۔ ابنِ کثیر اپنی تفسیر میں نوٹ کرتے ہیں کہ آیت منافقین کو بیان کرتی ہے جو ایمان کا دعویٰ کرتے ہیں لیکن اُن کے اعمال کفر کی گواہی دیتے ہیں، جبکہ الطبری اِس بات پر زور دیتے ہیں کہ قیامت کا انکار لازماً اخلاقی بگاڑ کی طرف لے جاتا ہے۔ فخرالدین الرازی بحث کرتے ہیں کہ بلاغی سوال سننے والے کی اپنی سماجی حقیقت کے مشاہدے کو کیسے مشغول کرتا ہے۔ اسلامی روایات میں علمی اتفاق یہ ہے کہ سچے ایمان کا نیک اعمال میں ظاہر ہونا ضروری ہے، خاص طور پر کمزوروں کی طرف۔ جہاں شیعہ اور سنی تشریحات متفق ہیں وہ عملی مضمرات پر ہے: الٰہی فیصلے میں عقیدہ اخلاقی جوابدہی پیدا کرتا ہے جو کمزوروں کی حفاظت کرتی ہے۔ ایک لطیف فرق شیعہ تاکید میں ظاہر ہوتا ہے اہلِ بیت علیہم السلام کی تعلیمات پر نفاق کی گہرائیوں کے بارے میں جب اعمال عقائد سے متصادم ہوں۔ دونوں روایات اِس سورت کو اُن لوگوں کے خلاف الٰہی الزام کے طور پر بیان کرتی ہیں جو مذہب کو سماجی انصاف سے یا روحانیت کو اخلاقیات سے الگ کرتے ہیں۔ تقابلی مطالعہ ظاہر کرتا ہے کہ اِس مختصر سورت کو عالمی طور پر مذہبی دکھاوے کے خلاف الٰہی مذمت کے طور پر سمجھا گیا ہے جو انسانی ہمدردی سے منقطع ہو۔",
+    "layer4_ar": "أجمع علماء الشيعة والسنة الكلاسيكيون على أن هذه الآية ترسي الرابطة الوثيقة بين الاعتقاد العقدي والسلوك الأخلاقي. فقد أشار ابن كثير في تفسيره إلى أنها تصف المنافقين الذين يُعلنون الإيمان بألسنتهم بينما تفضحهم أعمالهم. وذهب الطبري إلى أن إنكار البعث يُفضي حتماً إلى الفساد الأخلاقي. فيما ناقش فخر الدين الرازي الأسلوب الاستنكاري في الآية وما فيه من استدراج المخاطب للمقارنة بواقعه الاجتماعي. والإجماع العلمي عبر التراثين الإسلاميين واضح: الإيمان الحق لا بد أن يُترجَم إلى عمل صالح لا سيما تجاه الضعفاء. وأما موضع الاتفاق بين الشيعة والسنة فهو الأثر العملي: الإيمان بالقضاء الإلهي يصنع مساءلة أخلاقية تحمي المستضعفين. وتتميز الرؤية الشيعية بتركيزها على التعاليم العميقة للأئمة من أهل البيت عليهم السلام في كشف أعماق النفاق حين يناقض الفعلُ الاعتقادَ. وكلا الإرثين يحتجان بهذه السورة على بطلان الفصل بين الدين والعدل الاجتماعي، أو بين الروحانية والأخلاق. ويكشف الدرس المقارن أن هذه السورة الوجيزة قُرئت عبر التاريخ قراءة موحَّدة بوصفها نقداً إلهياً صريحاً للتديُّن الزائف الذي لا يمسُّ صاحبه بخير الإنسان."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:2:drives-away-orphan",
+          "title": "Drives Away",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verb 'yadu' (يَدُعُّ) means to push away harshly or repel violently. This isn't passive neglect—it's active cruelty toward the most vulnerable.",
+          "whyItMatters": "How we treat orphans reveals our hearts. Those who deny accountability show their true nature through violence against the defenseless.",
+          "position": "topLeft",
+          "arabicHighlight": "يَدُعُّ ٱلْيَتِيم",
+          "title_urdu": "یتیم کو دھکیلنا",
+          "coreInsight_urdu": "فعل 'یدع' کا مطلب ہے سختی سے دھکیلنا یا تشدد سے بھگانا۔ یہ غیر فعال نظر انداز کرنا نہیں ہے—یہ سب سے زیادہ کمزوروں کے خلاف فعال ظلم ہے۔",
+          "whyItMatters_urdu": "یتیموں کے ساتھ ہمارا سلوک ہمارے دل کو ظاہر کرتا ہے۔ جو جوابدہی سے انکار کرتے ہیں وہ بے دفاع کے خلاف تشدد کے ذریعے اپنی حقیقی فطرت دکھاتے ہیں۔",
+          "title_ar": "يدفع اليتيم",
+          "coreInsight_ar": "الفعل 'يَدُعُّ' يعني الدفع بقسوة أو الطرد بعنف. هذا ليس إهمالًا سلبيًا—إنه قسوة نشطة تجاه الأكثر ضعفًا.",
+          "whyItMatters_ar": "كيفية معاملتنا للأيتام تكشف قلوبنا. أولئك الذين ينكرون المساءلة يظهرون طبيعتهم الحقيقية من خلال العنف ضد الضعفاء."
+        },
+        {
+          "id": "107:2:the-orphan",
+          "title": "The Orphan",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Al-yateem (ٱلْيَتِيمَ) refers to children who lost their father. Islam places special emphasis on protecting orphans as they have no male guardian in a patriarchal society.",
+          "whyItMatters": "Orphans represent all vulnerable people without power or protection. Caring for them is a test of our humanity and faith.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْيَتِيم",
+          "title_urdu": "یتیم",
+          "coreInsight_urdu": "الیتیم کا اطلاق ان بچوں پر ہوتا ہے جنہوں نے اپنا باپ کھو دیا۔ اسلام یتیموں کی حفاظت پر خاص زور دیتا ہے کیونکہ مردانہ معاشرے میں ان کا کوئی مرد سرپرست نہیں ہوتا۔",
+          "whyItMatters_urdu": "یتیم تمام کمزور لوگوں کی نمائندگی کرتے ہیں جن کے پاس طاقت یا تحفظ نہیں ہے۔ ان کی دیکھ بھال ہماری انسانیت اور ایمان کا امتحان ہے۔",
+          "title_ar": "اليتيم",
+          "coreInsight_ar": "اليتيم يشير إلى الأطفال الذين فقدوا والدهم. يضع الإسلام تركيزًا خاصًا على حماية الأيتام لأنه ليس لديهم وصي ذكر في مجتمع أبوي.",
+          "whyItMatters_ar": "الأيتام يمثلون جميع الأشخاص الضعفاء بدون قوة أو حماية. رعايتهم اختبار لإنسانيتنا وإيماننا."
+        },
+        {
+          "id": "107:2:that-is-the-one",
+          "title": "That Is The One",
+          "icon": "person.crop.circle.badge.exclamationmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Fa-dhalika' (فَذَٰلِكَ) is emphatic—'That is exactly the one!' The Quran directly identifies the denier of judgment by their treatment of orphans.",
+          "whyItMatters": "Our theology is revealed through our actions. True or false belief in the Hereafter is proven not by words, but by how we treat the powerless.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَذَٰلِكَ ٱلَّذِى",
+          "title_urdu": "وہی ہے",
+          "coreInsight_urdu": "'فذلک' زور دار ہے—'بالکل وہی ہے!' قرآن براہ راست قیامت کے منکر کی شناخت یتیموں کے ساتھ ان کے سلوک سے کرتا ہے۔",
+          "whyItMatters_urdu": "ہماری الہیات ہمارے اعمال سے ظاہر ہوتی ہے۔ آخرت پر سچا یا جھوٹا ایمان الفاظ سے نہیں، بلکہ اس سے ثابت ہوتا ہے کہ ہم بے طاقتوں کے ساتھ کیسا سلوک کرتے ہیں۔",
+          "title_ar": "فذلك هو",
+          "coreInsight_ar": "'فَذَٰلِكَ' تأكيدي—'هذا هو بالضبط!' يحدد القرآن مباشرة منكر الحساب من خلال معاملتهم للأيتام.",
+          "whyItMatters_ar": "تتجلى عقيدتنا من خلال أعمالنا. يتم إثبات الإيمان الحقيقي أو الزائف بالآخرة ليس بالكلمات، ولكن بكيفية معاملتنا للضعفاء."
+        }
+      ]
+    },
+    "layer4": "There is unanimous agreement across Shia and Sunni traditions on the gravity of mistreating orphans and the virtue of their care. Ibn Kathir mentions that Abu Jahl was specifically known for driving away orphans, exemplifying the behavior condemned in this verse. Al-Qurtubi in his legal commentary emphasizes that the Quran places special protections around orphans' property and dignity, with severe warnings for those who violate these rights. Fakhr al-Din al-Razi discusses the psychological dimension, explaining that pushing away orphans reveals spiritual disease and lack of mercy. Both traditions cite numerous hadith about the Prophet's emphasis on orphan care, though Shia sources particularly highlight that the Prophet's own experience as an orphan informed his compassion. The major difference in approach is that Shia scholarship often connects orphan care to the concept of Wilayah, guardianship and protection of the vulnerable as a reflection of divine attributes. Sunni scholarship emphasizes the legal rights and communal obligation. Both traditions agree that a society's treatment of orphans is a measure of its moral health and true religiosity.",
+    "layer4_urdu": "شیعہ اور سنی روایات میں یتیموں سے بدسلوکی کی شدت اور اُن کی دیکھ بھال کی فضیلت پر متفقہ اتفاق ہے۔ ابنِ کثیر ذکر کرتے ہیں کہ ابوجہل خاص طور پر یتیموں کو دُھتکارنے کے لیے جانا جاتا تھا، اِس آیت میں مذمت کردہ رویے کی مثال دیتے ہوئے۔ القرطبی اپنی قانونی تفسیر میں زور دیتے ہیں کہ قرآن یتیموں کی جائیداد اور وقار کے گرد خاص تحفظات رکھتا ہے، اُن لوگوں کے لیے سخت تنبیہات کے ساتھ جو اِن حقوق کی خلاف ورزی کرتے ہیں۔ فخرالدین الرازی نفسیاتی جہت پر بحث کرتے ہیں، وضاحت کرتے ہوئے کہ یتیموں کو دُھتکارنا روحانی بیماری اور رحمت کی کمی کو ظاہر کرتا ہے۔ دونوں روایات پیغمبر صلی اللہ علیہ وآلہ وسلم کے یتیم کی دیکھ بھال پر زور کے بارے میں متعدد احادیث بیان کرتی ہیں، اگرچہ شیعہ ذرائع خاص طور پر اِس بات کو نمایاں کرتے ہیں کہ پیغمبر صلی اللہ علیہ وآلہ وسلم کا اپنا تجربہ بطور یتیم اُن کی رحمدلی کی بنیاد بنا۔ نقطہ نظر میں بڑا فرق یہ ہے کہ شیعہ علمیت اکثر یتیموں کی دیکھ بھال کو ولایت کے تصور سے جوڑتی ہے، کمزوروں کی سرپرستی اور حفاظت الٰہی صفات کی عکاسی کے طور پر۔ سنی علمیت قانونی حقوق اور اجتماعی ذمہ داری پر زور دیتی ہے۔ دونوں روایات متفق ہیں کہ یتیموں کے ساتھ معاشرے کا سلوک اُس کی اخلاقی صحت اور حقیقی مذہبیت کا پیمانہ ہے۔",
+    "layer4_ar": "ثمة إجماع بين التراثين الشيعي والسني على خطورة إيذاء اليتيم وعلى عظيم ثواب الإحسان إليه. وأشار ابن كثير إلى أن أبا جهل كان مشهوراً بطرد اليتامى، فصار نموذجاً مجسِّداً للسلوك المذموم في هذه الآية. وتناول القرطبي في تفسيره الفقهي الحمايات التي أحاط بها القرآن أموال اليتامى وكرامتهم مع التحذير الشديد لمن ينتهكها. وناقش فخر الدين الرازي البُعد النفسي، مبيِّناً أن طرد اليتيم كاشف عن مرض روحي وجفاء عاطفي. ويتفق التراثان في الاستشهاد بالأحاديث النبوية الكثيرة في التحضيض على رعاية اليتامى، وإن كانت المصادر الشيعية تُبرز بخاصة أن تجربة النبي نفسه يتيماً أمدَّت رحمته بعمق استثنائي. والفارق الجوهري في المقاربة أن الدراسة الشيعية كثيراً ما تربط رعاية اليتيم بمفهوم الولاية وحماية الضعيف بوصفها انعكاساً للصفات الإلهية، في حين يُركِّز الفقه السني على الحقوق القانونية والواجب الجماعي. ويتفق الإرثان على أن معاملة المجتمع لأيتامه مقياس صادق لصحته الأخلاقية وصدق تديُّنه."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:3:does-not-encourage",
+          "title": "Does Not Encourage",
+          "icon": "hand.thumbsdown.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'La yahuddu' (لَا يَحُضُّ) means to not urge, encourage, or motivate others. Even if they don't feed the poor themselves, they don't inspire others to do so either.",
+          "whyItMatters": "Social responsibility includes encouraging others toward good. Remaining silent about injustice or need makes us complicit in the suffering of others.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا يَحُض",
+          "title_urdu": "حوصلہ نہیں دیتا",
+          "coreInsight_urdu": "'لا یحض' کا مطلب ہے زور نہ دینا، حوصلہ نہ دینا، یا دوسروں کو متحرک نہ کرنا۔ یہاں تک کہ اگر وہ خود غریبوں کو کھانا نہیں کھلاتے، تو وہ دوسروں کو بھی ایسا کرنے کی ترغیب نہیں دیتے۔",
+          "whyItMatters_urdu": "سماجی ذمہ داری میں دوسروں کو نیکی کی طرف حوصلہ دینا شامل ہے۔ ناانصافی یا ضرورت کے بارے میں خاموش رہنا ہمیں دوسروں کی تکلیف میں شریک بنا دیتا ہے۔",
+          "title_ar": "لا يحث",
+          "coreInsight_ar": "'لَا يَحُضُّ' تعني عدم الحث أو التشجيع أو تحفيز الآخرين. حتى لو لم يطعموا الفقراء بأنفسهم، فهم لا يلهمون الآخرين للقيام بذلك أيضًا.",
+          "whyItMatters_ar": "المسؤولية الاجتماعية تشمل تشجيع الآخرين على الخير. الصمت عن الظلم أو الحاجة يجعلنا متواطئين في معاناة الآخرين."
+        },
+        {
+          "id": "107:3:feeding-poor",
+          "title": "Feeding The Poor",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ta'am al-miskeen' (طَعَامِ ٱلْمِسْكِينِ) literally means food of the poor person. Basic sustenance for those in need is a fundamental Islamic obligation.",
+          "whyItMatters": "Food security is a human right in Islam. Denying it or failing to advocate for it reveals spiritual emptiness masked by religious appearances.",
+          "position": "topRight",
+          "arabicHighlight": "طَعَامِ ٱلْمِسْكِين",
+          "title_urdu": "مسکین کو کھانا کھلانا",
+          "coreInsight_urdu": "'طعام المسکین' کا لفظی مطلب ہے غریب شخص کا کھانا۔ ضرورت مندوں کے لیے بنیادی رزق اسلام میں ایک بنیادی ذمہ داری ہے۔",
+          "whyItMatters_urdu": "اسلام میں خوراک کی حفاظت ایک بنیادی حق ہے۔ اسے نظر انداز کرنا یا اس کی حمایت کرنے میں ناکام ہونا روحانی خلا کو ظاہر کرتا ہے جسے مذہبی ظاہری شکل سے چھپایا جاتا ہے۔",
+          "title_ar": "إطعام المسكين",
+          "coreInsight_ar": "'طَعَامِ ٱلْمِسْكِينِ' تعني حرفيًا طعام الشخص الفقير. توفير الغذاء الأساسي للمحتاجين التزام إسلامي أساسي.",
+          "whyItMatters_ar": "الأمن الغذائي حق إنساني في الإسلام. إنكاره أو الفشل في الدعوة إليه يكشف عن فراغ روحي مقنع بمظاهر دينية."
+        },
+        {
+          "id": "107:3:the-miskeen",
+          "title": "Al-Miskeen",
+          "icon": "figure.walk",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Al-miskeen (ٱلْمِسْكِينِ) refers to someone in abject poverty, unable to meet basic needs. They differ from 'faqeer' (poor)—miskeens are more desperate and destitute.",
+          "whyItMatters": "Recognizing different levels of poverty helps us prioritize help. Those in extreme need deserve immediate attention and sustained support from the community.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْمِسْكِين",
+          "title_urdu": "مسکین",
+          "coreInsight_urdu": "المسکین سے مراد وہ شخص ہے جو انتہائی غربت میں ہے، بنیادی ضروریات پوری کرنے سے قاصر ہے۔ وہ 'فقیر' (غریب) سے مختلف ہیں—مساکین زیادہ مایوس اور محتاج ہیں۔",
+          "whyItMatters_urdu": "غربت کی مختلف سطحوں کو پہچاننا ہمیں مدد کو ترجیح دینے میں مدد کرتا ہے۔ انتہائی ضرورت میں لوگ فوری توجہ اور کمیونٹی سے مسلسل مدد کے مستحق ہیں۔",
+          "title_ar": "المسكين",
+          "coreInsight_ar": "المسكين يشير إلى شخص في فقر مدقع، غير قادر على تلبية الاحتياجات الأساسية. يختلفون عن 'الفقير' (الفقير)—المساكين أكثر يأسًا وحرمانًا.",
+          "whyItMatters_ar": "إدراك مستويات مختلفة من الفقر يساعدنا على تحديد أولويات المساعدة. أولئك الذين في حاجة شديدة يستحقون اهتمامًا فوريًا ودعمًا مستدامًا من المجتمع."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly emphasize feeding the hungry as a fundamental Islamic value and sign of true faith. Ibn Kathir mentions that the Quraysh elite specifically refused to feed the poor, viewing it as wasteful, which this verse condemns. Al-Tabari discusses how encouraging others to feed the poor creates a communal culture of compassion versus individualistic selfishness. Qurtubi in his legal commentary addresses the obligation to ensure no Muslim goes hungry, citing various mechanisms including zakat, sadaqah, and communal responsibility. Fakhr al-Din al-Razi explores the psychology of those who discourage charity, noting it stems from love of wealth and denial of the Hereafter. Both traditions agree that Islam requires active compassion, not passive piety. A distinctive Shia emphasis appears in narrations about the Ahlul Bayt's extraordinary generosity and their teaching that feeding the hungry is among the highest spiritual stations. Sunni scholarship emphasizes the legal obligations and community structures for ensuring food security. The consensus across Islamic thought is clear: true religion cannot coexist with indifference to hunger, and believers must both feed the poor and encourage others to do likewise.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات بھوکوں کو کھانا کھلانے کو بنیادی اسلامی قدر اور سچے ایمان کی علامت کے طور پر سختی سے زور دیتی ہیں۔ ابنِ کثیر ذکر کرتے ہیں کہ قریش کے اشرافیہ نے خاص طور پر غریبوں کو کھانا کھلانے سے انکار کیا، اِسے فضول خرچی سمجھتے ہوئے، جسے یہ آیت مذمت کرتی ہے۔ الطبری بحث کرتے ہیں کہ دوسروں کو غریبوں کو کھانا کھلانے کی ترغیب دینا انفرادی خودغرضی کے مقابلے میں اجتماعی رحمدلی کی ثقافت کیسے بناتا ہے۔ قرطبی اپنی قانونی تفسیر میں اِس ذمہ داری کو خطاب کرتے ہیں کہ کوئی مسلمان بھوکا نہ رہے، مختلف طریقہ کار بشمول زکوٰۃ، صدقہ اور اجتماعی ذمہ داری کا حوالہ دیتے ہوئے۔ فخرالدین الرازی اُن لوگوں کی نفسیات کا جائزہ لیتے ہیں جو خیرات کی حوصلہ شکنی کرتے ہیں، یہ نوٹ کرتے ہوئے کہ یہ دولت کی محبت اور آخرت کے انکار سے پیدا ہوتا ہے۔ دونوں روایات متفق ہیں کہ اسلام فعال رحمدلی کی تقاضا کرتا ہے، نہ کہ غیرفعال دینداری۔ ایک مخصوص شیعہ تاکید اہلِ بیت علیہم السلام کی غیرمعمولی سخاوت اور اُن کی تعلیم کے بارے میں روایات میں ظاہر ہوتی ہے کہ بھوکوں کو کھانا کھلانا بلند ترین روحانی مقامات میں سے ہے۔ سنی علمیت قانونی ذمہ داریوں اور غذائی تحفظ کو یقینی بنانے کے لیے برادری کے ڈھانچوں پر زور دیتی ہے۔ اسلامی فکر میں اجماع واضح ہے: سچا مذہب بھوک کے بارے میں بے حسی کے ساتھ بقائے باہمی نہیں رکھ سکتا، اور مومنین کو چاہیے کہ غریبوں کو کھانا کھلائیں اور دوسروں کو بھی ایسا کرنے کی ترغیب دیں۔",
+    "layer4_ar": "يتوافق التراثان الشيعي والسني توافقاً تاماً في تعظيم إطعام الجائع وإدانة البخل بوصفهما قيمة إسلامية جوهرية وعلامة من علامات الإيمان الصادق. وأشار ابن كثير إلى أن أشراف قريش كانوا يرفضون إطعام الفقراء صراحةً، عادِّين ذلك إتلافاً للمال، وهو ما جاءت الآية لتُدينه. وتناول الطبري كيف أن الحثَّ على إطعام الفقراء يصنع ثقافة مجتمعية من الرحمة مقابل الفردية الأنانية. وعالج القرطبي في تفسيره الفقهي وجوب ضمان عدم تجويع أي مسلم، مُستشهِداً بمنظومات الزكاة والصدقة والتكافل. واستكشف فخر الدين الرازي دوافع من يُثبِّطون عن الصدقة، مُردَّاً ذلك إلى حب الدنيا والإنكار الضمني للآخرة. ويتفق الإرثان على أن الإسلام يُوجب الرحمة الفاعلة لا التقوى الصامتة. ويظهر التمييز الشيعي في الروايات الواسعة عن كرم أهل البيت عليهم السلام الأسطوري وتعليمهم أن إطعام الجائع من أعلى المقامات الروحية. والإجماع في الفكر الإسلامي جليٌّ: الدين الحق لا يتعايش مع اللامبالاة تجاه الجوع، والمؤمنون مُلزَمون بإطعام الفقراء والحضِّ على ذلك معاً."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:4:woe-to-those",
+          "title": "Woe!",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Wayl' (وَيْلٌۭ) is a severe warning of destruction and punishment. It's not mild disapproval—it's a declaration of impending divine wrath for hypocrites.",
+          "whyItMatters": "Allah's anger toward religious hypocrisy is severe. Empty rituals without compassion and justice invoke divine wrath, not blessings.",
+          "position": "topLeft",
+          "arabicHighlight": "فَوَيْل",
+          "title_urdu": "ہلاکت ہو",
+          "coreInsight_urdu": "'ویل' تباہی اور سزا کی سخت انتباہ ہے۔ یہ ہلکی ناپسندیدگی نہیں ہے—یہ منافقین کے لیے آنے والے الہی غضب کا اعلان ہے۔",
+          "whyItMatters_urdu": "مذہبی منافقت کے خلاف اللہ کا غضب شدید ہے۔ ہمدردی اور انصاف کے بغیر خالی رسومات الہی غضب کو دعوت دیتی ہیں، نہ کہ برکتوں کو۔",
+          "title_ar": "ويل",
+          "coreInsight_ar": "'وَيْلٌۭ' تحذير شديد من الدمار والعقاب. إنه ليس رفضًا خفيفًا—إنه إعلان عن غضب إلهي وشيك للمنافقين.",
+          "whyItMatters_ar": "غضب الله على النفاق الديني شديد. الطقوس الفارغة بدون رحمة وعدالة تستدعي الغضب الإلهي، وليس البركات."
+        },
+        {
+          "id": "107:4:to-those-pray",
+          "title": "Those Who Pray",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-musalleen' (ٱلْمُصَلِّينَ) refers to people who perform salah. The shocking twist: even those who pray can earn divine wrath if their prayer lacks sincerity.",
+          "whyItMatters": "Prayer alone doesn't guarantee righteousness. The next verses clarify that heedless, show-off prayer combined with stinginess makes worship worthless.",
+          "position": "topRight",
+          "arabicHighlight": "لِّلْمُصَلِّين",
+          "title_urdu": "نمازیوں کے لیے",
+          "coreInsight_urdu": "'المصلین' سے مراد وہ لوگ ہیں جو نماز ادا کرتے ہیں۔ حیران کن موڑ: یہاں تک کہ جو نماز پڑھتے ہیں وہ بھی الہی غضب کما سکتے ہیں اگر ان کی نماز میں خلوص نہیں ہے۔",
+          "whyItMatters_urdu": "صرف نماز نیکی کی ضمانت نہیں دیتی۔ اگلی آیات واضح کرتی ہیں کہ غافل، دکھاوے کی نماز بخل کے ساتھ ملا کر عبادت کو بے کار بنا دیتی ہے۔",
+          "title_ar": "للمصلين",
+          "coreInsight_ar": "'ٱلْمُصَلِّينَ' يشير إلى الأشخاص الذين يؤدون الصلاة. المفاجأة الصادمة: حتى أولئك الذين يصلون يمكن أن يكسبوا الغضب الإلهي إذا كانت صلاتهم تفتقر إلى الإخلاص.",
+          "whyItMatters_ar": "الصلاة وحدها لا تضمن البر. الآيات التالية توضح أن الصلاة الغافلة المرائية مع البخل تجعل العبادة عديمة القيمة."
+        },
+        {
+          "id": "107:4:shocking-warning",
+          "title": "Shocking Warning",
+          "icon": "bolt.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This verse creates dramatic tension—'woe to those who pray' sounds contradictory until verses 5-7 clarify. It forces us to examine the quality, not just quantity, of worship.",
+          "whyItMatters": "The Quran uses shock to make us reflect. We must ask: Are we truly worshipping Allah, or just going through the motions for social approval?",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَوَيْلٌۭ لِّلْمُصَلِّينَ",
+          "title_urdu": "حیران کن انتباہ",
+          "coreInsight_urdu": "یہ آیت ڈرامائی تناؤ پیدا کرتی ہے—'نمازیوں کے لیے ہلاکت' متضاد لگتا ہے جب تک کہ آیات 5-7 واضح نہیں کرتیں۔ یہ ہمیں عبادت کی مقدار نہیں بلکہ معیار کا جائزہ لینے پر مجبور کرتی ہے۔",
+          "whyItMatters_urdu": "قرآن صدمے کا استعمال ہمیں غور کرنے کے لیے کرتا ہے۔ ہمیں پوچھنا چاہیے: کیا ہم واقعی اللہ کی عبادت کر رہے ہیں، یا صرف سماجی منظوری کے لیے رسمی اعمال کر رہے ہیں؟",
+          "title_ar": "تحذير صادم",
+          "coreInsight_ar": "هذه الآية تخلق توترًا دراميًا—'ويل للمصلين' يبدو متناقضًا حتى توضح الآيات 5-7. إنه يجبرنا على فحص جودة العبادة، وليس فقط الكمية.",
+          "whyItMatters_ar": "يستخدم القرآن الصدمة لجعلنا نتأمل. يجب أن نسأل: هل نعبد الله حقًا، أم نمر فقط بالحركات للحصول على الموافقة الاجتماعية؟"
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse condemns hypocrisy in worship rather than worship itself, and both traditions emphasize the necessity of sincerity and consciousness in prayer. Ibn Kathir explains that the verse refers to hypocrites who pray only for show, lacking true faith and commitment. Al-Tabari discusses various interpretations of who these condemned worshippers are, including those who pray only when observed and those who perform prayer mechanically without devotion. Qurtubi emphasizes that prayer must be accompanied by righteous character and ethical behavior to be accepted. Fakhr al-Din al-Razi explores the spiritual psychology of hypocritical worship and its roots in love of worldly approval over divine pleasure. Both traditions cite hadith emphasizing that prayer should prevent indecency and wrongdoing, and when it fails to do so, the prayer is deficient. The Shia tradition particularly emphasizes teachings from the Ahlul Bayt about the inner dimensions of prayer and the spiritual stations that true prayer unlocks. Sunni scholarship focuses on correct form and timing as expressions of commitment. The consensus is that prayer without sincerity, consciousness, and ethical transformation is worse than valueless, potentially indicating deeper spiritual disease.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں متفق ہیں کہ یہ آیت عبادت میں نفاق کی مذمت کرتی ہے نہ کہ عبادت کی خود، اور دونوں روایات نماز میں اخلاص اور شعور کی ضرورت پر زور دیتی ہیں۔ ابنِ کثیر وضاحت کرتے ہیں کہ آیت منافقین کی طرف اشارہ کرتی ہے جو صرف دکھاوے کے لیے نماز پڑھتے ہیں، سچے ایمان اور عزم سے محروم ہیں۔ الطبری بحث کرتے ہیں کہ یہ مذمت کردہ نمازی کون ہیں کی مختلف تشریحات، بشمول وہ لوگ جو صرف مشاہدے میں نماز پڑھتے ہیں اور وہ لوگ جو نماز کو مشینی طور پر بغیر عقیدت کے ادا کرتے ہیں۔ قرطبی زور دیتے ہیں کہ نماز کے ساتھ نیک کردار اور اخلاقی رویہ ہونا ضروری ہے تاکہ قبول ہو۔ فخرالدین الرازی نفاقی عبادت کی روحانی نفسیات اور اُس کی جڑوں کو دنیاوی منظوری کی محبت میں تلاش کرتے ہیں الٰہی خوشنودی سے زیادہ۔ دونوں روایات احادیث کا حوالہ دیتی ہیں جو زور دیتی ہیں کہ نماز کو بے حیائی اور غلط کام سے روکنا چاہیے، اور جب یہ ایسا کرنے میں ناکام رہے تو نماز ناقص ہے۔ شیعہ روایت خاص طور پر اہلِ بیت علیہم السلام کی تعلیمات پر زور دیتی ہے نماز کی باطنی جہتوں اور روحانی مقامات کے بارے میں جو سچی نماز کھولتی ہے۔ سنی علمیت صحیح شکل اور وقت پر بطور عزم کے اظہار توجہ مرکوز کرتی ہے۔ اجماع یہ ہے کہ نماز بغیر اخلاص، شعور اور اخلاقی تبدیلی کے بیکار سے بدتر ہے، ممکنہ طور پر گہری روحانی بیماری کی نشاندہی کرتی ہے۔",
+    "layer4_ar": "يتفق التراثان الشيعي والسني على أن هذه الآية تذمُّ النفاق في العبادة لا العبادة ذاتها، وكلاهما يُشدِّد على ضرورة الإخلاص والخشوع في الصلاة. وأوضح ابن كثير أن الآية تخصُّ المنافقين الذين يُصلُّون حين يُرون ويتركون الصلاة في خلواتهم، فيُثبتون أن صلاتهم مجرد استعراض اجتماعي. وتناول الطبري آراء علمية متعددة فيمن هم هؤلاء المُصلُّون المذمومون، شاملةً من يُصلِّي حين يُشاهَد فحسب ومن يُؤدِّي الصلاة ميكانيكياً بلا روح. وأكَّد القرطبي أن الصلاة يجب أن يُرافقها الخُلق الصالح والسلوك الأخلاقي لتُقبَل. واستكشف فخر الدين الرازي السيكولوجية الروحية للعبادة المنافقة وجذورها في طلب رضا الناس على حساب رضا الله. ويستشهد الإرثان بالأحاديث المؤكِّدة أن الصلاة ينبغي أن تنهى عن الفحشاء والمنكر وأنها حين تُخفق في ذلك تكون ناقصة. ويتميَّز التراث الشيعي بتعاليم أهل البيت عليهم السلام الموسَّعة في الأبعاد الباطنية للصلاة والمقامات الروحية التي تفتحها الصلاة الصادقة. والإجماع عبر الفكر الإسلامي واضح: الصلاة بلا إخلاص وخشوع وتحوُّل أخلاقي ليست عديمة الجدوى فحسب، بل قد تدل على مرض روحي أعمق وبُعد عن حقيقة الإيمان."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:5:heedless-prayer",
+          "title": "Heedless",
+          "icon": "moon.zzz.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Sahoon' (سَاهُونَ) means neglectful, forgetful, or absent-minded. Their bodies pray but their hearts and minds are elsewhere, disconnected from Allah.",
+          "whyItMatters": "Physical prayer without mental presence is spiritually empty. True salah requires concentration (khushu'), awareness of Allah's presence, and sincere engagement.",
+          "position": "topLeft",
+          "arabicHighlight": "سَاهُون",
+          "title_urdu": "غافل",
+          "coreInsight_urdu": "'ساہون' کا مطلب ہے غفلت کرنے والے، بھول جانے والے، یا بے پروا۔ ان کے جسم نماز پڑھتے ہیں لیکن ان کے دل اور ذہن کہیں اور ہیں، اللہ سے منقطع۔",
+          "whyItMatters_urdu": "ذہنی حاضری کے بغیر جسمانی نماز روحانی طور پر خالی ہے۔ حقیقی نماز میں توجہ (خشوع)، اللہ کی موجودگی کا شعور، اور مخلصانہ مشغولیت کی ضرورت ہے۔",
+          "title_ar": "ساهون",
+          "coreInsight_ar": "'سَاهُونَ' تعني المهمل أو الناسي أو الغافل. أجسادهم تصلي لكن قلوبهم وعقولهم في مكان آخر، منفصلة عن الله.",
+          "whyItMatters_ar": "الصلاة الجسدية بدون حضور ذهني فارغة روحيًا. الصلاة الحقيقية تتطلب التركيز (الخشوع)، والوعي بحضور الله، والانخراط الصادق."
+        },
+        {
+          "id": "107:5:about-their-prayer",
+          "title": "Their Prayer",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'An salatihim' (عَن صَلَاتِهِمْ) uses the preposition 'an' meaning 'from' or 'about', indicating distance and separation. They are away from their prayer, not in it.",
+          "whyItMatters": "This linguistic choice emphasizes disconnection. Prayer should be a meeting with Allah, not a mechanical routine we perform while mentally distant.",
+          "position": "topRight",
+          "arabicHighlight": "عَن صَلَاتِهِم",
+          "title_urdu": "اپنی نماز سے",
+          "coreInsight_urdu": "'عن صلاتہم' حرف جر 'عن' کا استعمال کرتا ہے جس کا مطلب ہے 'سے' یا 'کے بارے میں'، جو دوری اور علیحدگی کی نشاندہی کرتا ہے۔ وہ اپنی نماز سے دور ہیں، اس میں نہیں۔",
+          "whyItMatters_urdu": "یہ لسانی انتخاب منقطع ہونے پر زور دیتا ہے۔ نماز اللہ کے ساتھ ملاقات ہونی چاہیے، نہ کہ ایک مکینکی معمول جو ہم ذہنی طور پر دور رہ کر انجام دیتے ہیں۔",
+          "title_ar": "عن صلاتهم",
+          "coreInsight_ar": "'عَن صَلَاتِهِمْ' يستخدم حرف الجر 'عن' بمعنى 'من' أو 'عن'، مما يشير إلى البعد والانفصال. إنهم بعيدون عن صلاتهم، وليسوا فيها.",
+          "whyItMatters_ar": "هذا الاختيار اللغوي يؤكد على الانفصال. يجب أن تكون الصلاة لقاءً مع الله، وليس روتينًا ميكانيكيًا نؤديه بينما نحن بعيدون ذهنيًا."
+        },
+        {
+          "id": "107:5:types-of-heedlessness",
+          "title": "Types of Neglect",
+          "icon": "list.bullet",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Scholars identify several forms: delaying prayer beyond its time, praying without wudu or proper conditions, or praying without concentration. All show disrespect to Allah.",
+          "whyItMatters": "We must examine our prayer habits honestly. Are we praying on time with focus? Or treating prayer as an obligation to rush through?",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُون",
+          "title_urdu": "غفلت کی اقسام",
+          "coreInsight_urdu": "علماء کئی اقسام کی نشاندہی کرتے ہیں: وقت سے آگے نماز میں تاخیر، وضو یا مناسب شرائط کے بغیر نماز، یا توجہ کے بغیر نماز۔ سب اللہ کی بے احترامی دکھاتے ہیں۔",
+          "whyItMatters_urdu": "ہمیں اپنی نماز کی عادات کا ایمانداری سے جائزہ لینا چاہیے۔ کیا ہم وقت پر توجہ کے ساتھ نماز پڑھ رہے ہیں؟ یا نماز کو ایک ذمہ داری کے طور پر دیکھ رہے ہیں جسے جلدی مکمل کرنا ہے؟",
+          "title_ar": "أنواع الإهمال",
+          "coreInsight_ar": "يحدد العلماء عدة أشكال: تأخير الصلاة عن وقتها، أو الصلاة بدون وضوء أو شروط مناسبة، أو الصلاة بدون تركيز. كلها تظهر عدم احترام لله.",
+          "whyItMatters_ar": "يجب أن نفحص عادات صلاتنا بصدق. هل نصلي في الوقت المحدد مع التركيز؟ أم نتعامل مع الصلاة كالتزام نسرع في إنجازه؟"
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly emphasize the importance of concentration and consciousness in prayer and condemn heedless, mechanical worship. Ibn Kathir explains that heedlessness can mean delaying prayer beyond its proper time, which shows disregard for its sanctity. Al-Tabari mentions various scholarly opinions on what constitutes heedlessness, including praying only occasionally, praying without ablution, and praying while mentally occupied with worldly matters. Qurtubi discusses the legal and spiritual dimensions, noting that while a prayer performed with distraction may technically fulfill the obligation, it lacks the spiritual benefits and divine acceptance. Fakhr al-Din al-Razi explores the psychology of heedless worship, connecting it to weak faith and attachment to the material world. Both traditions cite hadith describing the Prophet's intense concentration in prayer and his teaching that prayer should be performed with presence as though seeing Allah. A particular Shia emphasis appears in the extensive teachings from the Ahlul Bayt about the inner dimensions and spiritual stations of prayer beyond mere legal validity. The consensus across Islamic scholarship is that true prayer requires both correct form and conscious presence, and heedlessness undermines the essential purpose of worship.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات نماز میں ارتکاز اور شعور کی اہمیت پر سختی سے زور دیتی ہیں اور غافل، مشینی عبادت کی مذمت کرتی ہیں۔ ابنِ کثیر وضاحت کرتے ہیں کہ غفلت کا مطلب نماز کو اُس کے مناسب وقت سے آگے تاخیر کرنا ہو سکتا ہے، جو اُس کے تقدس کے لیے بے پروائی ظاہر کرتا ہے۔ الطبری غفلت کی تشکیل کے بارے میں مختلف علمی آراء کا ذکر کرتے ہیں، بشمول صرف کبھی کبھار نماز پڑھنا، بغیر وضو کے نماز پڑھنا، اور دنیاوی معاملات میں ذہنی طور پر مشغول ہوتے ہوئے نماز پڑھنا۔ قرطبی قانونی اور روحانی جہتوں پر بحث کرتے ہیں، یہ نوٹ کرتے ہوئے کہ اگرچہ خلفشار کے ساتھ ادا کی گئی نماز تکنیکی طور پر فرض پوری کر سکتی ہے، لیکن اِسے روحانی فوائد اور الٰہی قبولیت سے محروم ہے۔ فخرالدین الرازی غافل عبادت کی نفسیات کا جائزہ لیتے ہیں، اِسے کمزور ایمان اور مادی دنیا سے تعلق سے جوڑتے ہوئے۔ دونوں روایات احادیث بیان کرتی ہیں جو پیغمبر صلی اللہ علیہ وآلہ وسلم کی نماز میں شدید ارتکاز اور اُن کی تعلیم کو بیان کرتی ہیں کہ نماز کو حضور کے ساتھ ادا کیا جائے گویا اللہ کو دیکھ رہے ہوں۔ ایک خاص شیعہ تاکید اہلِ بیت علیہم السلام کی وسیع تعلیمات میں ظاہر ہوتی ہے نماز کی باطنی جہتوں اور روحانی مقامات کے بارے میں محض قانونی صحت سے ماورا۔ اسلامی علمیت میں اجماع یہ ہے کہ سچی نماز کو صحیح شکل اور شعوری حضور دونوں کی ضرورت ہوتی ہے، اور غفلت عبادت کے بنیادی مقصد کو نقصان پہنچاتی ہے۔",
+    "layer4_ar": "يُؤكِّد التراثان الشيعي والسني تأكيداً بالغاً أهمية الخشوع في الصلاة وإدانة السهو الاعتيادي فيها بوصفه مخالفاً لروح الإسلام وحقيقة الإيمان. وأوضح ابن كثير أن السهو قد يعني التأخير الاعتيادي عن وقت الصلاة، وهو استهانة بقدسيتها. وتناول الطبري آراء العلماء في معنى السهو مستوعباً: من يُصلِّي أحياناً لا دائماً، ومن يُصلِّي بلا وضوء، ومن يُصلِّي ذهنه في شؤون الدنيا. وتناول القرطبي الأبعاد الشرعية والروحية، مُلاحِظاً أن الصلاة المُؤدَّاة بشرود قد تُسقط الوجوب شكلاً لكنها تفتقر إلى الثمرة الروحية والقبول الإلهي. واستكشف فخر الدين الرازي السيكولوجية الروحية للصلاة الغافلة وربطها بضعف الإيمان وتعلُّق القلب بالمادة. ويستشهد الإرثان بالأحاديث الواصفة لتركيز النبي المعجز في الصلاة وتعليمه بالصلاة كأنك ترى الله. ويتميَّز التراث الشيعي بروايات أهل البيت عليهم السلام الموسَّعة في الأبعاد الباطنية والمقامات الروحية للصلاة خارج نطاق الصحة الفقهية. والإجماع الإسلامي واضح: الصلاة الحق تستلزم الشكل الصحيح والحضور الواعي معاً، والسهو الاعتيادي يُفرِّغ العبادة من غايتها الجوهرية."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:6:showing-off",
+          "title": "Showing Off",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Yura'oon' (يُرَآءُونَ) comes from 'riya' (showing off), meaning to perform worship to be seen and praised by people rather than for Allah's sake alone.",
+          "whyItMatters": "Riya destroys the value of worship entirely. Actions done for people's approval earn no reward from Allah and may even bring punishment.",
+          "position": "topLeft",
+          "arabicHighlight": "يُرَآءُون",
+          "title_urdu": "ریا کاری",
+          "coreInsight_urdu": "'یراؤون' 'ریا' (دکھاوا) سے آتا ہے، جس کا مطلب ہے عبادت کو لوگوں سے دیکھے جانے اور تعریف حاصل کرنے کے لیے کرنا، نہ کہ صرف اللہ کی خاطر۔",
+          "whyItMatters_urdu": "ریا عبادت کی قیمت کو مکمل طور پر تباہ کر دیتی ہے۔ لوگوں کی منظوری کے لیے کیے گئے اعمال اللہ سے کوئی ثواب نہیں کماتے اور یہاں تک کہ سزا بھی لا سکتے ہیں۔",
+          "title_ar": "الرياء",
+          "coreInsight_ar": "'يُرَآءُونَ' يأتي من 'الرياء' (المباهاة)، بمعنى أداء العبادة ليراها الناس ويحمدوها بدلاً من أن تكون لوجه الله وحده.",
+          "whyItMatters_ar": "الرياء يدمر قيمة العبادة تمامًا. الأعمال التي تُؤدى لموافقة الناس لا تكسب أي ثواب من الله وقد تجلب حتى العقاب."
+        },
+        {
+          "id": "107:6:hidden-shirk",
+          "title": "Hidden Shirk",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The Prophet called riya 'the hidden shirk' because it associates partners with Allah in worship—seeking human approval alongside divine acceptance.",
+          "whyItMatters": "Sincerity (ikhlas) is the foundation of all worship. We must constantly examine our intentions: Are we worshipping for Allah alone, or for reputation?",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِينَ هُمْ يُرَآءُون",
+          "title_urdu": "خفیہ شرک",
+          "coreInsight_urdu": "نبی نے ریا کو 'خفیہ شرک' کہا کیونکہ یہ عبادت میں اللہ کے ساتھ شریک ٹھہراتی ہے—الہی قبولیت کے ساتھ انسانی منظوری بھی طلب کرتی ہے۔",
+          "whyItMatters_urdu": "اخلاص تمام عبادتوں کی بنیاد ہے۔ ہمیں مسلسل اپنی نیتوں کا جائزہ لینا چاہیے: کیا ہم صرف اللہ کے لیے عبادت کر رہے ہیں، یا شہرت کے لیے؟",
+          "title_ar": "الشرك الخفي",
+          "coreInsight_ar": "أطلق النبي على الرياء 'الشرك الخفي' لأنه يشرك شركاء مع الله في العبادة—يسعى للموافقة البشرية إلى جانب القبول الإلهي.",
+          "whyItMatters_ar": "الإخلاص أساس جميع العبادات. يجب أن نفحص نوايانا باستمرار: هل نعبد لله وحده، أم للسمعة؟"
+        },
+        {
+          "id": "107:6:social-pressure",
+          "title": "Social Religion",
+          "icon": "person.3.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "These hypocrites pray publicly to maintain social status and avoid criticism, but their worship lacks love for Allah and awareness of His presence.",
+          "whyItMatters": "True faith means worshipping Allah even when no one is watching. Public worship without private devotion reveals hypocrisy, not righteousness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِينَ هُم",
+          "title_urdu": "سماجی مذہب",
+          "coreInsight_urdu": "یہ منافقین سماجی حیثیت برقرار رکھنے اور تنقید سے بچنے کے لیے عوامی طور پر نماز پڑھتے ہیں، لیکن ان کی عبادت میں اللہ سے محبت اور اس کی موجودگی کا شعور نہیں ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان کا مطلب ہے اللہ کی عبادت کرنا یہاں تک کہ جب کوئی نہیں دیکھ رہا ہو۔ نجی عبادت کے بغیر عوامی عبادت منافقت کو ظاہر کرتی ہے، نیکی کو نہیں۔",
+          "title_ar": "الدين الاجتماعي",
+          "coreInsight_ar": "هؤلاء المنافقون يصلون علنًا للحفاظ على المكانة الاجتماعية وتجنب النقد، لكن عبادتهم تفتقر إلى محبة الله والوعي بحضوره.",
+          "whyItMatters_ar": "الإيمان الحقيقي يعني عبادة الله حتى عندما لا يراقب أحد. العبادة العامة بدون التفاني الخاص تكشف عن النفاق، وليس البر."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly condemn riya as a form of hidden shirk that corrupts worship and voids its spiritual benefits. Ibn Kathir explains that these hypocrites pray only when people can see them, abandoning prayer in private, proving their worship is for show rather than sincere devotion. Al-Tabari discusses how riya was characteristic of the hypocrites in Medina who outwardly displayed Islam while inwardly disbelieving, using worship as social camouflage. Qurtubi addresses the legal implications, noting that worship performed with riya does not fulfill religious obligations and must be repeated with sincere intention. Fakhr al-Din al-Razi explores the subtle psychology of riya, explaining how it can infiltrate even initially sincere worship when the person becomes aware of being observed and begins to beautify their worship for the audience. Both traditions cite extensive hadith about the dangers of riya and the necessity of pure intention. The Shia tradition particularly emphasizes teachings from the Ahlul Bayt about the spiritual stations of sincerity and the constant battle against ego and desire for recognition. The consensus across Islamic thought is absolute: worship performed for show is not only valueless but dangerous, indicating spiritual disease and distance from true faith.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات ریا کی سختی سے مذمت کرتی ہیں بطور پوشیدہ شرک کی ایک شکل جو عبادت کو خراب کرتا ہے اور اُس کے روحانی فوائد کو باطل کرتا ہے۔ ابنِ کثیر وضاحت کرتے ہیں کہ یہ منافقین صرف تب نماز پڑھتے ہیں جب لوگ اُنہیں دیکھ سکیں، نجی طور پر نماز کو ترک کرتے ہوئے، اِس بات کو ثابت کرتے ہوئے کہ اُن کی عبادت دکھاوے کے لیے ہے نہ کہ مخلصانہ عقیدت۔ الطبری بحث کرتے ہیں کہ کیسے ریا مدینہ میں منافقین کی خصوصیت تھی جو ظاہری طور پر اسلام کا اظہار کرتے تھے جبکہ باطنی طور پر کافر تھے، عبادت کو سماجی چھلاوے کے طور پر استعمال کرتے ہوئے۔ قرطبی قانونی مضمرات کو خطاب کرتے ہیں، یہ نوٹ کرتے ہوئے کہ ریا کے ساتھ انجام دی گئی عبادت مذہبی ذمہ داریاں پوری نہیں کرتی اور مخلصانہ نیت کے ساتھ دہرانا ضروری ہے۔ فخرالدین الرازی ریا کی لطیف نفسیات کا جائزہ لیتے ہیں، وضاحت کرتے ہوئے کہ یہ کیسے ابتدائی طور پر مخلصانہ عبادت میں بھی گھس سکتا ہے جب شخص مشاہدے میں ہونے سے آگاہ ہو جاتا ہے اور سامعین کے لیے اپنی عبادت کو خوبصورت بنانا شروع کر دیتا ہے۔ دونوں روایات ریا کے خطرات اور خالص نیت کی ضرورت کے بارے میں وسیع احادیث کا حوالہ دیتی ہیں۔ شیعہ روایت خاص طور پر اہلِ بیت علیہم السلام کی تعلیمات پر زور دیتی ہے اخلاص کے روحانی مقامات اور شناخت کی خواہش کے خلاف مسلسل جنگ کے بارے میں۔ اسلامی فکر میں اجماع مطلق ہے: دکھاوے کے لیے انجام دی گئی عبادت نہ صرف بیکار ہے بلکہ خطرناک ہے، روحانی بیماری اور سچے ایمان سے دُوری کی نشاندہی کرتی ہے۔",
+    "layer4_ar": "يُدين التراثان الشيعي والسني إدانة قاطعة الرياءَ بوصفه شركاً خفياً يُفسِد العبادة ويُعدِمها فائدتها الروحية. وأوضح ابن كثير أن هؤلاء المنافقين يُصلُّون حين يُبصَرون ويتركون الصلاة حين يخلون، مُثبِتين أن عبادتهم استعراض اجتماعي لا توجُّه إلهي. وتناول الطبري كيف كان الرياء سمة المنافقين في المدينة الذين أظهروا الإسلام وأبطنوا الكفر، مُتخذين من العبادة ستاراً اجتماعياً. وعالج القرطبي الأثر الشرعي للرياء، مُشيراً إلى أن العبادة به لا تُسقط الفرض وتجب إعادتها بنية خالصة. واستكشف فخر الدين الرازي السيكولوجية الدقيقة للرياء وكيف يتسلَّل إلى عبادة بدأت صادقة حين يُدرك المرء أنه مُلاحَظ فيبدأ في تجميلها لجمهوره. ويستشهد الإرثان بروايات كثيرة حول خطورة الرياء ووجوب الإخلاص في النية. ويتميَّز التراث الشيعي بتعاليم أهل البيت عليهم السلام الموسَّعة في مراتب الإخلاص وحرب النفس الدائمة ضد الأنا وشهوة التقدير. والإجماع الإسلامي مطلق: العبادة استعراضاً ليست عديمة القيمة فحسب، بل دالة على مرض روحي خطير وبُعد عن حقيقة الإيمان."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "107:7:withhold-assistance",
+          "title": "Withhold",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Yamna'oon' (يَمْنَعُونَ) means to prevent, refuse, or withhold. They actively block and deny help, not just passively fail to give it.",
+          "whyItMatters": "Refusing to help neighbors with small needs reveals spiritual bankruptcy. True faith shows itself in generosity, not hoarding resources.",
+          "position": "topLeft",
+          "arabicHighlight": "يَمْنَعُون",
+          "title_urdu": "روکنا",
+          "coreInsight_urdu": "'یمنعون' کا مطلب ہے روکنا، انکار کرنا، یا باز رکھنا۔ وہ فعال طور پر مدد کو روکتے اور انکار کرتے ہیں، نہ صرف غیر فعال طور پر دینے میں ناکام ہوتے ہیں۔",
+          "whyItMatters_urdu": "پڑوسیوں کو چھوٹی ضروریات میں مدد کرنے سے انکار روحانی دیوالیہ پن کو ظاہر کرتا ہے۔ حقیقی ایمان سخاوت میں ظاہر ہوتا ہے، نہ کہ وسائل کو روکنے میں۔",
+          "title_ar": "المنع",
+          "coreInsight_ar": "'يَمْنَعُونَ' تعني المنع أو الرفض أو الحجب. إنهم يمنعون المساعدة بشكل نشط وينكرونها، وليس فقط يفشلون سلبيًا في تقديمها.",
+          "whyItMatters_ar": "رفض مساعدة الجيران في احتياجات صغيرة يكشف عن إفلاس روحي. الإيمان الحقيقي يظهر في الكرم، وليس في تكديس الموارد."
+        },
+        {
+          "id": "107:7:al-maun",
+          "title": "Al-Ma'un",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Al-ma'un (ٱلْمَاعُونَ) refers to small household items like salt, matches, tools—things neighbors borrow. Some scholars include zakat. It means basic help and necessities.",
+          "whyItMatters": "If we refuse small kindnesses, we reveal our true character. Islam teaches that faith must manifest in both major obligations (prayer) and minor acts (lending items).",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمَاعُون",
+          "title_urdu": "چھوٹی مدد",
+          "coreInsight_urdu": "الماعون سے مراد چھوٹی گھریلو اشیاء ہیں جیسے نمک، ماچس، اوزار—وہ چیزیں جو پڑوسی ادھار لیتے ہیں۔ کچھ علماء زکوٰۃ کو شامل کرتے ہیں۔ اس کا مطلب ہے بنیادی مدد اور ضروریات۔",
+          "whyItMatters_urdu": "اگر ہم چھوٹی مہربانیوں سے انکار کرتے ہیں، تو ہم اپنے حقیقی کردار کو ظاہر کرتے ہیں۔ اسلام سکھاتا ہے کہ ایمان بڑے فرائض (نماز) اور چھوٹے اعمال (اشیاء قرض دینا) دونوں میں ظاہر ہونا چاہیے۔",
+          "title_ar": "الماعون",
+          "coreInsight_ar": "الماعون يشير إلى الأدوات المنزلية الصغيرة مثل الملح والكبريت والأدوات—أشياء يستعيرها الجيران. بعض العلماء يشمل الزكاة. إنه يعني المساعدة والضروريات الأساسية.",
+          "whyItMatters_ar": "إذا رفضنا اللطف الصغير، فإننا نكشف عن شخصيتنا الحقيقية. يعلم الإسلام أن الإيمان يجب أن يتجلى في كل من الالتزامات الكبرى (الصلاة) والأفعال الصغيرة (إقراض الأشياء)."
+        },
+        {
+          "id": "107:7:complete-picture",
+          "title": "Complete Picture",
+          "icon": "circle.hexagongrid.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah paints a complete portrait: denying judgment (v1), cruelty to orphans (v2), ignoring the hungry (v3), hollow prayer (v4-5), show-off worship (v6), and stinginess (v7).",
+          "whyItMatters": "True Islam integrates belief, ritual, and social ethics. Separating worship from justice and compassion produces the hypocrisy this surah condemns.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَيَمْنَعُونَ ٱلْمَاعُون",
+          "title_urdu": "مکمل تصویر",
+          "coreInsight_urdu": "سورت ایک مکمل تصویر پیش کرتی ہے: قیامت کا انکار (آیت 1)، یتیموں کے ساتھ ظلم (آیت 2)، بھوکوں کو نظر انداز کرنا (آیت 3)، کھوکھلی نماز (آیت 4-5)، دکھاوے کی عبادت (آیت 6)، اور بخل (آیت 7)۔",
+          "whyItMatters_urdu": "حقیقی اسلام عقیدے، رسم، اور سماجی اخلاقیات کو مربوط کرتا ہے۔ عبادت کو انصاف اور ہمدردی سے الگ کرنا اس منافقت کو پیدا کرتا ہے جس کی یہ سورت مذمت کرتی ہے۔",
+          "title_ar": "الصورة الكاملة",
+          "coreInsight_ar": "السورة ترسم صورة كاملة: إنكار الحساب (الآية 1)، القسوة على الأيتام (الآية 2)، تجاهل الجائع (الآية 3)، الصلاة الجوفاء (الآيات 4-5)، العبادة المرائية (الآية 6)، والبخل (الآية 7).",
+          "whyItMatters_ar": "الإسلام الحقيقي يدمج الإيمان والطقوس والأخلاق الاجتماعية. فصل العبادة عن العدالة والرحمة ينتج النفاق الذي تدينه هذه السورة."
+        },
+        {
+          "id": "107:7:surah-message",
+          "title": "The Message",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Al-Ma'un teaches that religion without compassion is hypocrisy. Faith must translate into kindness, generosity, and justice, especially toward the vulnerable.",
+          "whyItMatters": "This surah is a mirror for self-examination. Do our prayers lead to better character and service to others? If not, our worship needs transformation.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْمَاعُون",
+          "title_urdu": "سورت کا پیغام",
+          "coreInsight_urdu": "الماعون سکھاتی ہے کہ ہمدردی کے بغیر مذہب منافقت ہے۔ ایمان کو مہربانی، سخاوت، اور انصاف میں ترجمہ ہونا چاہیے، خاص طور پر کمزوروں کے لیے۔",
+          "whyItMatters_urdu": "یہ سورت خود احتسابی کے لیے ایک آئینہ ہے۔ کیا ہماری نمازیں بہتر کردار اور دوسروں کی خدمت کی طرف لے جاتی ہیں؟ اگر نہیں، تو ہماری عبادت کو تبدیلی کی ضرورت ہے۔",
+          "title_ar": "رسالة السورة",
+          "coreInsight_ar": "الماعون يعلم أن الدين بدون رحمة هو نفاق. يجب أن يترجم الإيمان إلى اللطف والكرم والعدالة، خاصة تجاه الضعفاء.",
+          "whyItMatters_ar": "هذه السورة مرآة للفحص الذاتي. هل تؤدي صلاتنا إلى شخصية أفضل وخدمة الآخرين؟ إذا لم يكن كذلك، فإن عبادتنا تحتاج إلى تحول."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize generosity and condemn stinginess as contrary to Islamic character and faith. Ibn Kathir explains that maun refers to small kindnesses and common items that people typically share with neighbors, and withholding these reveals a miserly, uncharitable nature inconsistent with true belief. Al-Tabari discusses various interpretations including that maun means zakat, basic charity, or simple neighborly assistance, with most scholars accepting the broader meaning encompassing all forms of help. Qurtubi addresses the legal obligations of neighborly rights and the moral imperative to assist others in their needs. Fakhr al-Din al-Razi explores how withholding maun connects to the broader themes of the surah, showing that denial of ultimate accountability leads to comprehensive selfishness affecting all levels of behavior from major social responsibilities to minor daily kindnesses. Both traditions cite extensive hadith about the rights of neighbors and the virtue of generosity in small and large matters. The Shia tradition particularly emphasizes the example of the Ahlul Bayt whose generosity was legendary and whose teachings stressed that helping others brings one closer to divine mercy. The consensus across Islamic thought is that true faith manifests in generosity, helpfulness, and concern for others' needs at every level of life.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات سخاوت پر زور دیتی ہیں اور بخل کو اسلامی کردار اور ایمان سے متصادم قرار دیتی ہیں۔ ابنِ کثیر وضاحت کرتے ہیں کہ ماعون چھوٹی مہربانیوں اور عام اشیا کی طرف اشارہ کرتا ہے جو لوگ عام طور پر پڑوسیوں کے ساتھ بانٹتے ہیں، اور اِنہیں روکنا ایک بخیل، غیرخیراتی فطرت کو ظاہر کرتا ہے جو سچے عقیدے سے ناموافق ہے۔ الطبری مختلف تشریحات پر بحث کرتے ہیں بشمول کہ ماعون کا مطلب زکوٰۃ، بنیادی خیرات، یا سادہ پڑوسیانہ مدد ہے، زیادہ تر علماء وسیع تر معنی کو قبول کرتے ہوئے جو مدد کی تمام شکلوں کو شامل کرتا ہے۔ قرطبی پڑوسیوں کے حقوق کی قانونی ذمہ داریوں اور اُن کی ضروریات میں مدد کرنے کے اخلاقی لازم کو خطاب کرتے ہیں۔ فخرالدین الرازی تلاش کرتے ہیں کہ ماعون روکنا سورہ کے وسیع تر موضوعات سے کیسے جڑتا ہے، یہ ظاہر کرتے ہوئے کہ حتمی جوابدہی کا انکار جامع خودغرضی کی طرف لے جاتا ہے جو رویے کی تمام سطحوں کو اہم سماجی ذمہ داریوں سے لے کر معمولی روزانہ مہربانیوں تک متاثر کرتا ہے۔ دونوں روایات پڑوسیوں کے حقوق اور چھوٹے اور بڑے معاملات میں سخاوت کی فضیلت کے بارے میں وسیع احادیث کا حوالہ دیتی ہیں۔ شیعہ روایت خاص طور پر اہلِ بیت علیہم السلام کی مثال پر زور دیتی ہے جن کی سخاوت افسانوی تھی اور جن کی تعلیمات نے زور دیا کہ دوسروں کی مدد کرنا انسان کو الٰہی رحمت کے قریب لاتا ہے۔ اسلامی فکر میں اجماع یہ ہے کہ سچا ایمان سخاوت، مددگاری اور زندگی کی ہر سطح پر دوسروں کی ضروریات کی فکر میں ظاہر ہوتا ہے۔",
+    "layer4_ar": "يُجمع التراثان الشيعي والسني على تكريم السخاء وإدانة البخل بوصفهما ضدَّين لا يجتمعان مع الإيمان الحق والسمة الإسلامية الأصيلة. وأوضح ابن كثير أن الماعون يُشير إلى المعروف الصغير والأشياء الاعتيادية التي يُعيرها الناس لجيرانهم، وامتناع الشخص عنها يكشف طبيعة بخيلة شحيحة لا تنسجم مع الإيمان. وتناول الطبري آراء علمية متعددة في تعريف الماعون من أنه الزكاة أو الصدقة الواجبة أو العون الجواري البسيط، مع ميل أغلبهم إلى التفسير الأشمل الذي يستوعب كل أوجه المساعدة. وعالج القرطبي الواجبات الشرعية للجوار والضرورة الأخلاقية للتعاون في قضاء الحاجات. واستكشف فخر الدين الرازي كيف يرتبط منع الماعون بالموضوعات الكلية للسورة، مُبيِّناً أن الجحود بالمساءلة الأخيرة يُفضي إلى شحٍّ شامل يطال كل مستويات السلوك من الكبائر الاجتماعية حتى الصغائر اليومية. ويستشهد الإرثان بروايات وافرة في حقوق الجار وفضيلة السخاء في الكبير والصغير من الأمور. ويتميَّز التراث الشيعي بمكانة أهل البيت عليهم السلام الأسطورية في السخاء وتعليمهم أن مساعدة الآخرين تُقرِّب العبد من رحمة الله. والإجماع الإسلامي واضح: الإيمان الحق يتجلى في السخاء والبذل والإقبال على حاجة الآخرين في كل مراحل الحياة وجميع مستوياتها."
+  }
+}

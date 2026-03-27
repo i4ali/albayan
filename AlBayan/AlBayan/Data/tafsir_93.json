@@ -1,0 +1,645 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:1:morning-light",
+          "title": "Morning Light",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The oath by 'Ad-Duha' (morning brightness) symbolizes divine illumination after darkness, representing Allah's promise that difficulty is followed by ease.",
+          "whyItMatters": "This teaches us that just as dawn inevitably follows the darkest night, Allah's mercy and relief will come after our hardest trials.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلضُّحَىٰ",
+          "title_urdu": "صبح کی روشنی",
+          "coreInsight_urdu": "الضحیٰ (صبح کی روشنی) کی قسم الہی روشنی کی علامت ہے اندھیرے کے بعد، اللہ کے وعدے کی نمائندگی کرتی ہے کہ مشکل کے بعد آسانی آتی ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ جیسے طلوع فجر لامحالہ سب سے تاریک رات کے بعد آتی ہے، اللہ کی رحمت اور راحت ہماری سخت ترین آزمائشوں کے بعد آئے گی۔",
+          "title_ar": "ضوء الصباح",
+          "coreInsight_ar": "القسم بـ'الضحى' (إشراق الصباح) يرمز إلى الإنارة الإلهية بعد الظلام، مما يمثل وعد الله بأن الصعوبة تتبعها السهولة.",
+          "whyItMatters_ar": "هذا يعلمنا أنه كما يتبع الفجر حتماً أحلك ليلة، ستأتي رحمة الله وفرجه بعد أصعب محننا."
+        },
+        {
+          "id": "93:1:divine-oath",
+          "title": "Sacred Oath",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by the morning brightness to emphasize the importance of His message to Prophet Muhammad, showing divine concern for the Prophet's emotional state.",
+          "whyItMatters": "When Allah takes an oath, it signals something of profound importance - here, reassuring the Prophet during a time of anxiety and doubt.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلضُّحَىٰ",
+          "title_urdu": "مقدس قسم",
+          "coreInsight_urdu": "اللہ صبح کی روشنی کی قسم کھاتے ہیں تاکہ نبی محمد صلی اللہ علیہ وسلم کو اپنے پیغام کی اہمیت پر زور دیں، نبی کی جذباتی حالت کے لیے الہی تشویش ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "جب اللہ قسم کھاتے ہیں، تو یہ کسی گہری اہمیت کی علامت ہے - یہاں، نبی کو پریشانی اور شک کے وقت تسلی دیتے ہوئے۔",
+          "title_ar": "القسم المقدس",
+          "coreInsight_ar": "يقسم الله بإشراق الصباح للتأكيد على أهمية رسالته للنبي محمد، مظهرًا الاهتمام الإلهي بالحالة العاطفية للنبي.",
+          "whyItMatters_ar": "عندما يقسم الله، فإنه يشير إلى شيء ذي أهمية عميقة - هنا، طمأنة النبي خلال وقت من القلق والشك."
+        },
+        {
+          "id": "93:1:bismillah-inclusion",
+          "title": "Divine Opening",
+          "icon": "book.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Unlike most surahs, the Bismillah is integrated into the first verse, making 'In the name of Allah' part of the oath itself, emphasizing divine compassion.",
+          "whyItMatters": "This unique structure shows that Allah's mercy (Ar-Rahman, Ar-Rahim) frames the entire message of consolation to the Prophet.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "title_urdu": "الہی آغاز",
+          "coreInsight_urdu": "زیادہ تر سورتوں کے برعکس، بسم اللہ پہلی آیت میں شامل ہے، 'اللہ کے نام سے' کو قسم کا حصہ بناتے ہوئے، الہی شفقت پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "یہ منفرد ساخت ظاہر کرتی ہے کہ اللہ کی رحمت (الرحمن، الرحیم) نبی کو تسلی کے پورے پیغام کو تشکیل دیتی ہے۔",
+          "title_ar": "البداية الإلهية",
+          "coreInsight_ar": "على عكس معظم السور، البسملة مدمجة في الآية الأولى، مما يجعل 'باسم الله' جزءًا من القسم نفسه، مؤكدًا الرحمة الإلهية.",
+          "whyItMatters_ar": "هذا الهيكل الفريد يُظهر أن رحمة الله (الرحمن، الرحيم) تؤطر رسالة العزاء بأكملها للنبي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation that this verse offers divine reassurance during the pause in revelation. Tafsir Ibn Kathir and other Sunni sources similarly explain the historical context of mockery from the Quraysh. However, Shia scholarship particularly emphasizes the concept of divine testing and the cultivation of spiritual longing as purposes for the pause. Where Sunni tafsir like that of Al-Qurtubi focuses primarily on the comfort given to the Prophet, Shia scholars additionally explore the theological implications of divine wisdom in timing revelations. Fakhr al-Din al-Razi in his comprehensive work discusses the rhetorical power of oaths in the Quran, a point on which both traditions concur. The morning's significance in Islamic practice is universally acknowledged, with both traditions encouraging Fajr prayer and early morning devotions. A notable area of consensus is the interpretation of natural phenomena as signs pointing to the Creator, a theme developed extensively by both Shia and Sunni philosophers and theologians. The verse serves as common ground for understanding divine mercy, the importance of hope, and the theological significance of the natural world.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت وحی کے توقف کے دوران الٰہی یقین دہانی فراہم کرتی ہے۔ تفسیر ابن کثیر اور دیگر سنی مصادر قریش کے مذاق اور تاریخی سیاق و سباق کی اسی طرح وضاحت کرتے ہیں۔ تاہم شیعہ علمی روایت خصوصاً الٰہی آزمائش اور روحانی اشتیاق کی نشوونما کو توقف کے مقاصد کے طور پر اجاگر کرتی ہے۔ جہاں سنی تفسیر جیسے قرطبی کی تفسیر بنیادی طور پر نبی اکرم صلی اللہ علیہ وآلہ وسلم کو دی گئی تسلی پر توجہ دیتی ہے، وہیں شیعہ علماء مزید گہرائی میں الٰہی حکمت کے نظریاتی مضمرات کا جائزہ لیتے ہیں۔ فخر الدین رازی نے اپنی جامع تفسیر میں قرآن میں قسموں کی بلاغی قوت پر بحث کی ہے جس پر دونوں روایات متفق ہیں۔ اسلامی عمل میں صبح کی اہمیت کو سب نے تسلیم کیا ہے اور دونوں روایات نماز فجر اور صبح کی عبادات کی ترغیب دیتی ہیں۔ اتفاق کا ایک قابلِ ذکر نکتہ یہ ہے کہ قدرتی مظاہر کو خالق کی طرف اشارہ کرنے والی نشانیوں کے طور پر دیکھنا، یہ موضوع شیعہ اور سنی دونوں فلاسفروں اور عالموں نے وسیع پیمانے پر پیش کیا ہے۔ یہ آیت الٰہی رحمت کو سمجھنے، امید کی اہمیت اور قدرتی دنیا کی دینی اہمیت کے بارے میں مشترک بنیاد فراہم کرتی ہے۔",
+    "layer4_ar": "يتوافق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية بوصفها طمأنةً إلهية في زمن انقطاع الوحي. وتُوضِّح تفاسير ابن كثير والسنة الأخرى السياقَ التاريخي للاستهزاء الذي أبداه المشركون. غير أن المنظور الشيعي يُعلي من شأن مفهوم الاختبار الإلهي وتنمية الشوق الروحي بوصفهما غايةً من غايات الانقطاع. فبينما تركز تفاسير السنة كتفسير القرطبي على الجانب التسلوي، يتوسع علماء الشيعة في استقراء الدلالات العقدية لحكمة الله في توقيت الوحي. ويتناول فخر الدين الرازي القوةَ البلاغية للقسم في القرآن الكريم، وهو ملمح تتفق عليه التراثان. وتمثل صلاة الصبح والأعمال الصباحية الباكرة سمةً مشتركة بين التراثين معاً. ومن أقوى نقاط التقاء الرأيين تفسيرُ الظواهر الطبيعية بوصفها آياتٍ تُشير إلى الخالق، وهو موضوع نمَّاه فلاسفة ومتكلمو الشيعة والسنة على حدٍّ سواء. وتمثل الآية أرضية مشتركة في فهم رحمة الله وأهمية الرجاء والدلالة اللاهوتية للعالم الطبيعي."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:2:night-stillness",
+          "title": "Night's Stillness",
+          "icon": "moon.stars.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The oath by 'the night when it covers with darkness' (saja) represents the period when revelation temporarily ceased, causing the Prophet anxiety and his enemies to mock him.",
+          "whyItMatters": "Even in spiritual darkness and silence, Allah has not abandoned us - the stillness is temporary and purposeful, not a sign of divine rejection.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+          "title_urdu": "رات کا سکون",
+          "coreInsight_urdu": "رات کی قسم جب وہ اندھیرے سے ڈھک جاتی ہے (سجیٰ) اس دور کی نمائندگی کرتی ہے جب وحی عارضی طور پر رک گئی، نبی کو پریشانی کا باعث بنی اور ان کے دشمنوں نے ان کا مذاق اڑایا۔",
+          "whyItMatters_urdu": "یہاں تک کہ روحانی اندھیرے اور خاموشی میں، اللہ نے ہمیں ترک نہیں کیا - سکون عارضی اور مقصدی ہے، الہی انکار کی علامت نہیں۔",
+          "title_ar": "سكون الليل",
+          "coreInsight_ar": "القسم بـ'الليل إذا سجى' (عندما يغطي بالظلام) يمثل الفترة التي توقف فيها الوحي مؤقتًا، مما تسبب في قلق النبي وسخرية أعدائه منه.",
+          "whyItMatters_ar": "حتى في الظلام الروحي والصمت، لم يتخلى الله عنا - السكون مؤقت وهادف، وليس علامة على الرفض الإلهي."
+        },
+        {
+          "id": "93:2:contrast-pattern",
+          "title": "Divine Contrast",
+          "icon": "circle.lefthalf.filled",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The pairing of day and night creates a powerful metaphor for life's alternating phases - light and darkness, revelation and silence, ease and hardship.",
+          "whyItMatters": "Understanding that both brightness and darkness are part of Allah's plan helps us accept difficult periods as meaningful rather than meaningless suffering.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلَّيْلِ",
+          "title_urdu": "الہی تضاد",
+          "coreInsight_urdu": "دن اور رات کا جوڑا زندگی کے متبادل مراحل کے لیے ایک طاقتور استعارہ بناتا ہے - روشنی اور اندھیرا، وحی اور خاموشی، آسانی اور مشکل۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ روشنی اور اندھیرا دونوں اللہ کے منصوبے کا حصہ ہیں ہمیں مشکل ادوار کو بے معنی تکلیف کے بجائے معنی خیز کے طور پر قبول کرنے میں مدد کرتا ہے۔",
+          "title_ar": "التباين الإلهي",
+          "coreInsight_ar": "اقتران النهار والليل يخلق استعارة قوية لمراحل الحياة المتناوبة - النور والظلام، الوحي والصمت، اليسر والشدة.",
+          "whyItMatters_ar": "فهم أن كلاً من السطوع والظلام جزء من خطة الله يساعدنا على قبول الفترات الصعبة كأمور ذات معنى بدلاً من معاناة بلا معنى."
+        },
+        {
+          "id": "93:2:peaceful-covering",
+          "title": "Tranquil Cover",
+          "icon": "cloud.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verb 'saja' means to be still, calm, and peaceful - indicating that even the night's darkness has a gentle, protective quality rather than being threatening.",
+          "whyItMatters": "Periods of spiritual silence are not attacks but merciful pauses for reflection, rest, and preparation for what comes next.",
+          "position": "bottomRight",
+          "arabicHighlight": "سَجَىٰ",
+          "title_urdu": "پرسکون احاطہ",
+          "coreInsight_urdu": "فعل 'سجیٰ' کا مطلب ہے خاموش، پرسکون، اور پرامن ہونا - یہ ظاہر کرتے ہوئے کہ رات کے اندھیرے میں بھی ایک نرم، حفاظتی معیار ہے بجائے اس کے کہ خطرناک ہو۔",
+          "whyItMatters_urdu": "روحانی خاموشی کے ادوار حملے نہیں بلکہ غور و فکر، آرام، اور آگے آنے والے کے لیے تیاری کے لیے مہربان وقفے ہیں۔",
+          "title_ar": "الغطاء الهادئ",
+          "coreInsight_ar": "الفعل 'سجى' يعني أن يكون ساكنًا وهادئًا وسلميًا - مما يشير إلى أن ظلام الليل له صفة لطيفة وحامية بدلاً من أن يكون مهددًا.",
+          "whyItMatters_ar": "فترات الصمت الروحي ليست هجمات بل فترات راحة رحيمة للتأمل والراحة والاستعداد لما سيأتي."
+        }
+      ]
+    },
+    "layer4": "Across Islamic scholarship, both Shia and Sunni traditions emphasize the spiritual importance of night worship. Tafsir Ibn Kathir and Al-Tabari similarly explain the oath structure and the complementary nature of day and night as divine signs. The practice of tahajjud is universally encouraged in both traditions, with numerous authentic hadith in both collections praising night prayer. Where interpretations particularly converge is in understanding the night as representing difficulty or concealment, while day represents clarity and ease. Razi's tafsir discusses the astronomical and natural significance of the day-night cycle, a perspective shared by Shia scholars. Both traditions see in these verses evidence of divine power and wisdom in creating such perfect natural systems. A subtle difference appears in emphasis: Shia tafsir particularly highlights the inner spiritual states and lessons learned during difficult periods, connecting them to the concept of divine testing and purification. Sunni scholarship tends to focus more on the comfort and reassurance aspects. However, both agree that the complementary oaths demonstrate Allah's complete sovereignty over all conditions and His continuous presence whether in ease or difficulty.",
+    "layer4_urdu": "اسلامی علمی روایت میں شیعہ اور سنی دونوں رات کی عبادت کی روحانی اہمیت پر زور دیتے ہیں۔ تفسیر ابن کثیر اور طبری قسم کے انداز اور دن رات کی تکمیلی نوعیت کو الٰہی نشانیوں کے طور پر اسی طرح سمجھاتے ہیں۔ تہجد کی ترغیب دونوں روایات میں آفاقی ہے اور دونوں مجموعوں میں متعدد صحیح احادیث رات کی نماز کی تعریف کرتی ہیں۔ جہاں تفسیریں خاص طور پر قریب آتی ہیں وہ رات کو مشکل یا پوشیدگی کی نمائندگی اور دن کو وضاحت اور آسانی کی نمائندگی کے طور پر سمجھنے میں ہے۔ رازی کی تفسیر دن رات کے چکر کی فلکیاتی اور قدرتی اہمیت پر بحث کرتی ہے، ایک نظریہ جو شیعہ علماء نے بھی شیئر کیا ہے۔ دونوں روایات ان آیات میں اللہ کی قدرت اور حکمت کا ثبوت دیکھتی ہیں کہ اس نے ایسے کامل قدرتی نظام تخلیق کیے۔ ایک لطیف فرق شیعہ تفسیر کے اس پہلو پر ہے جو مشکل ادوار کے دوران باطنی روحانی حالتوں اور سبقوں پر زور دیتی ہے اور انہیں الٰہی آزمائش اور تطہیر کے تصور سے جوڑتی ہے جبکہ سنی علمی روایت تسلی اور یقین دہانی کے پہلوؤں پر زیادہ توجہ دیتی ہے۔ تاہم دونوں متفق ہیں کہ تکمیلی قسمیں تمام حالتوں پر اللہ کی مکمل حاکمیت اور آسانی اور مشکل دونوں میں اس کی مستقل موجودگی کو ظاہر کرتی ہیں۔",
+    "layer4_ar": "يُولي علماء الشيعة والسنة على حدٍّ سواء أهمية بالغة لعبادة الليل وفضلها. وتُفسِّر تفاسير ابن كثير والطبري وغيرهما بنيةَ القَسَم والطابع التكاملي لعلامَتَي النهار والليل الكونيتين بأسلوب يلتقي مع المنهج الشيعي. وصلاة التهجد مُستحثٌّ عليها في كلا التراثين، وتزخر كتب الحديث في المذهبين بأخبار مادحة لصلاة الليل. ومما تتوافق عليه التفسيرات توصيف الليل بأنه يُمثِّل الشدة أو الحجاب، بينما يُمثِّل النهار الجلاء واليسر. ويبحث الرازي في دلالات دورة الليل والنهار الفلكية والطبيعية، وهو منظور يشاركه العلماء الشيعة. ويرى كلا التراثين في هذه الآيات دليلاً على قدرة الله وحكمته في إيجاد هذه الأنظمة الطبيعية المتقنة. وتبرز نقطة تمايز في التركيز، إذ يُعلي التفسير الشيعي من الحالات الروحية الباطنية والدروس المستفادة من الشدائد ربطاً بمفهوم الابتلاء الإلهي والتزكية، بينما يميل المنهج السني نحو إبراز جانب التسلية والطمأنينة. غير أن كلا التراثين يُؤكِّد أن القَسَمَين المتكاملين يُجلِّيان سيادة الله المطلقة على جميع الأحوال وحضوره الدائم في السراء والضراء على حدٍّ سواء."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:3:divine-assurance",
+          "title": "Divine Reassurance",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah directly addresses the Prophet's anxiety with 'Your Lord has not forsaken you, nor has He detested you,' responding to fears that the pause in revelation meant divine abandonment.",
+          "whyItMatters": "When we feel spiritually distant or face periods of silence from Allah, this verse reminds us that divine love persists even when we can't feel or see it.",
+          "position": "topLeft",
+          "arabicHighlight": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+          "title_urdu": "الہی یقین دہانی",
+          "coreInsight_urdu": "اللہ نبی کی پریشانی کو براہ راست مخاطب کرتے ہیں 'آپ کے رب نے آپ کو نہیں چھوڑا، اور نہ ہی آپ سے نفرت کی'، اس خوف کا جواب دیتے ہوئے کہ وحی میں وقفہ الہی ترک کا مطلب تھا۔",
+          "whyItMatters_urdu": "جب ہم روحانی طور پر دور محسوس کرتے ہیں یا اللہ سے خاموشی کے ادوار کا سامنا کرتے ہیں، یہ آیت ہمیں یاد دلاتی ہے کہ الہی محبت برقرار رہتی ہے یہاں تک کہ جب ہم اسے محسوس یا دیکھ نہیں سکتے۔",
+          "title_ar": "الطمأنينة الإلهية",
+          "coreInsight_ar": "يخاطب الله مخاوف النبي مباشرة بـ'ما ودعك ربك وما قلى'، مجيبًا على المخاوف من أن توقف الوحي يعني التخلي الإلهي.",
+          "whyItMatters_ar": "عندما نشعر بالبعد الروحي أو نواجه فترات من الصمت من الله، تذكرنا هذه الآية أن الحب الإلهي يستمر حتى عندما لا نستطيع الشعور به أو رؤيته."
+        },
+        {
+          "id": "93:3:not-forsaken",
+          "title": "Never Abandoned",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'wadda'a' means to bid farewell as if leaving forever - Allah emphatically denies this, affirming His continuous presence and care despite apparent silence.",
+          "whyItMatters": "This teaches that absence of signs is not absence of care - Allah's guardianship continues even in our darkest, most uncertain moments.",
+          "position": "topRight",
+          "arabicHighlight": "مَا وَدَّعَكَ رَبُّكَ",
+          "title_urdu": "کبھی نہیں چھوڑا",
+          "coreInsight_urdu": "لفظ 'ودعک' کا مطلب ہے الوداع کہنا جیسے ہمیشہ کے لیے جا رہے ہوں - اللہ اس کی سختی سے تردید کرتے ہیں، ظاہری خاموشی کے باوجود اپنی مسلسل موجودگی اور دیکھ بھال کی تصدیق کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ علامات کی غیر موجودگی دیکھ بھال کی غیر موجودگی نہیں ہے - اللہ کی سرپرستی ہماری تاریک ترین، سب سے غیر یقینی لمحات میں بھی جاری رہتی ہے۔",
+          "title_ar": "لم يُترَك أبدًا",
+          "coreInsight_ar": "كلمة 'ودعك' تعني الوداع كما لو كان المغادرة إلى الأبد - ينفي الله ذلك بشدة، مؤكدًا حضوره ورعايته المستمرة رغم الصمت الظاهري.",
+          "whyItMatters_ar": "هذا يعلم أن غياب العلامات ليس غياب الرعاية - وصاية الله تستمر حتى في لحظاتنا الأحلك والأكثر عدم يقين."
+        },
+        {
+          "id": "93:3:nor-displeased",
+          "title": "No Divine Anger",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'qala' means to detest or show displeasure - Allah negates this completely, reassuring that silence doesn't indicate divine anger or disappointment.",
+          "whyItMatters": "During spiritual dry spells, we often fear we've displeased Allah - this verse liberates us from that anxiety, confirming His continued love.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَا قَلَىٰ",
+          "title_urdu": "کوئی الہی غصہ نہیں",
+          "coreInsight_urdu": "لفظ 'قلیٰ' کا مطلب ہے نفرت کرنا یا ناراضگی ظاہر کرنا - اللہ اس کو مکمل طور پر نفی کرتے ہیں، یقین دلاتے ہوئے کہ خاموشی الہی غصے یا مایوسی کی نشاندہی نہیں کرتی۔",
+          "whyItMatters_urdu": "روحانی خشک ادوار کے دوران، ہم اکثر ڈرتے ہیں کہ ہم نے اللہ کو ناراض کیا ہے - یہ آیت ہمیں اس پریشانی سے آزاد کرتی ہے، اس کی مسلسل محبت کی تصدیق کرتی ہے۔",
+          "title_ar": "لا غضب إلهي",
+          "coreInsight_ar": "كلمة 'قلى' تعني الكره أو إظهار الاستياء - ينفي الله ذلك تمامًا، مطمئنًا أن الصمت لا يشير إلى الغضب أو خيبة الأمل الإلهية.",
+          "whyItMatters_ar": "خلال فترات الجفاف الروحي، غالبًا ما نخشى أننا أغضبنا الله - هذه الآية تحررنا من هذا القلق، مؤكدة حبه المستمر."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholarship agree on the historical context and basic meaning of this verse as divine reassurance during the pause in revelation. Ibn Kathir, Al-Tabari, and other Sunni scholars recount similar narrations about the mockery from Quraysh and the Prophet's distress. The theological principle that Allah does not abandon sincere believers is universally affirmed across Islamic traditions. Where Shia interpretation particularly emphasizes the concept of divine testing to develop higher spiritual stations, Sunni tafsir often focuses on the immediate comfort and reassurance provided. Al-Qurtubi discusses the grammatical emphasis in the double negation, a point Shia scholars also highlight. Razi explores the deeper philosophical implications of divine constancy and immutability, themes echoed in Shia theological works. Both traditions draw practical lessons about maintaining faith during difficult periods and trusting in divine wisdom when guidance seems absent. A point of consensus is that this verse applies not only to the Prophet but offers reassurance to all believers facing periods of difficulty or spiritual struggle. The loving relationship between Allah and His servants is a central theme in both Shia and Sunni spirituality, with this verse serving as powerful evidence for divine compassion and faithfulness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علمی روایات تاریخی سیاق و سباق اور اس آیت کے بنیادی معنی پر متفق ہیں کہ یہ وحی کے توقف کے دوران الٰہی یقین دہانی ہے۔ ابن کثیر، طبری اور دیگر سنی علماء قریش کی طرف سے مذاق اور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی پریشانی کی اسی طرح روایات نقل کرتے ہیں۔ یہ دینی اصول کہ اللہ مخلص مومنین کو نہیں چھوڑتا تمام اسلامی مکاتبِ فکر میں آفاقی طور پر تسلیم کیا گیا ہے۔ جہاں شیعہ تفسیر خاص طور پر اعلیٰ روحانی مراتب پیدا کرنے کے لیے الٰہی آزمائش کے تصور پر زور دیتی ہے وہیں سنی تفسیر اکثر فوری آرام اور یقین دہانی کے پہلوؤں پر توجہ دیتی ہے۔ قرطبی دوہری نفی میں گرامری تاکید پر بحث کرتے ہیں، ایک نکتہ جو شیعہ علماء بھی اجاگر کرتے ہیں۔ رازی نے اللہ کی ثبات و لازوال ہونے کے گہرے فلسفیانہ مضمرات کو زیرِ بحث لایا ہے، یہ موضوع شیعہ دینیاتی کاموں میں بھی گونجتا ہے۔ دونوں روایات عملی سبق اخذ کرتی ہیں کہ مشکل ادوار میں ایمان برقرار رکھنا اور جب رہنمائی غیاب دکھے تو الٰہی حکمت پر بھروسہ کرنا ضروری ہے۔ اتفاق کا ایک نکتہ یہ ہے کہ یہ آیت نہ صرف نبی اکرم صلی اللہ علیہ وآلہ وسلم پر بلکہ مشکلات یا روحانی جدوجہد کا سامنا کرنے والے تمام مومنین پر بھی لاگو ہوتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على السياق التاريخي والمعنى الأساسي لهذه الآية بوصفها طمأنينةً إلهية خلال فترة انقطاع الوحي. فابن كثير والطبري وغيرهما من علماء السنة يروون روايات متشابهة عن سخرية قريش وكرب النبي. والمبدأ العقدي القائل بأن الله لا يتخلى عن المؤمنين المخلصين مُقرَّر في مذاهب الإسلام كافة. وحيث يُركِّز التفسير الشيعي تحديداً على مفهوم الابتلاء الإلهي بوصفه طريقاً نحو مقامات روحية أرقى، يتركز المنهج السني في تفاسير أمثال القرطبي على جوانب الراحة والتطمين. ويُحلِّل الرازي المضمراتِ الفلسفية لثبات الله وتنزُّهه عن التغيُّر، وهو موضوع صدىً واسع في الكتابات العقدية الشيعية. وكلا التراثين يستخلصان الدرسَ العملي المتعلق بالثبات على الإيمان في الشدائد والوثوق بحكمة الله حين يبدو الهدى غائباً. ومما يتوافق عليه الجميع أن هذه الآية لا تختص بالنبي وحده بل تمتد بالطمأنينة إلى سائر المؤمنين في أوقات الضيق والجفاف الروحي. والعلاقة الحانية بين الله وعباده محور مشترك في الروحانية الشيعية والسنية، وهذه الآية شاهدٌ بليغ على الوفاء الإلهي ووسعة الحنان الرباني."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:4:better-future",
+          "title": "Better Tomorrow",
+          "icon": "arrow.up.forward.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah promises 'the Hereafter is better for you than the first life,' guaranteeing that what comes later - both in this world and the next - will surpass present difficulties.",
+          "whyItMatters": "This transforms how we view hardship, seeing current struggles not as permanent states but as temporary phases before greater blessings.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ",
+          "title_urdu": "بہتر کل",
+          "coreInsight_urdu": "اللہ وعدہ کرتے ہیں 'آخرت آپ کے لیے پہلی زندگی سے بہتر ہے'، اس بات کی ضمانت دیتے ہوئے کہ جو بعد میں آتا ہے - اس دنیا اور آخرت میں - موجودہ مشکلات سے بڑھ کر ہوگا۔",
+          "whyItMatters_urdu": "یہ بدل دیتا ہے کہ ہم مشکل کو کیسے دیکھتے ہیں، موجودہ جدوجہد کو مستقل حالت کے طور پر نہیں بلکہ زیادہ برکتوں سے پہلے عارضی مراحل کے طور پر دیکھتے ہوئے۔",
+          "title_ar": "غد أفضل",
+          "coreInsight_ar": "يعد الله 'وللآخرة خير لك من الأولى'، مضمنًا أن ما سيأتي لاحقًا - في هذا العالم والآخرة - سيتجاوز الصعوبات الحالية.",
+          "whyItMatters_ar": "هذا يحول كيف ننظر إلى الصعوبات، رؤية النضالات الحالية ليست حالات دائمة بل مراحل مؤقتة قبل نعم أعظم."
+        },
+        {
+          "id": "93:4:dual-meaning",
+          "title": "Double Promise",
+          "icon": "2.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse has dual meaning: the later parts of the Prophet's life would be better than early struggles, and eternal life would surpass all worldly experiences.",
+          "whyItMatters": "This teaches that Allah's blessings work on multiple timelines - immediate worldly improvement and ultimate eternal reward.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَلْءَاخِرَةُ",
+          "title_urdu": "دوہرا وعدہ",
+          "coreInsight_urdu": "آیت کا دوہرا مطلب ہے: نبی کی زندگی کے بعد کے حصے ابتدائی جدوجہد سے بہتر ہوں گے، اور ابدی زندگی تمام دنیاوی تجربات سے بڑھ کر ہوگی۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ اللہ کی برکتیں متعدد وقت کی حدوں پر کام کرتی ہیں - فوری دنیاوی بہتری اور حتمی ابدی اجر۔",
+          "title_ar": "وعد مزدوج",
+          "coreInsight_ar": "الآية لها معنى مزدوج: الأجزاء الأخيرة من حياة النبي ستكون أفضل من النضالات المبكرة، والحياة الأبدية ستتجاوز جميع التجارب الدنيوية.",
+          "whyItMatters_ar": "هذا يعلم أن بركات الله تعمل على جداول زمنية متعددة - تحسين دنيوي فوري ومكافأة أبدية نهائية."
+        },
+        {
+          "id": "93:4:progressive-improvement",
+          "title": "Ascending Path",
+          "icon": "chart.line.uptrend.xyaxis",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The comparison between 'first' and 'later' establishes a principle of progressive improvement - each phase of a believer's journey ascends toward greater good.",
+          "whyItMatters": "This gives us hope that our spiritual journey trends upward, with each trial preparing us for higher states of faith and reward.",
+          "position": "bottomRight",
+          "arabicHighlight": "خَيْرٌۭ",
+          "title_urdu": "چڑھتا راستہ",
+          "coreInsight_urdu": "پہلے' اور 'بعد' کے درمیان موازنہ ترقی پسند بہتری کا اصول قائم کرتا ہے - مومن کے سفر کا ہر مرحلہ زیادہ بھلائی کی طرف چڑھتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں امید دیتا ہے کہ ہمارا روحانی سفر اوپر کی طرف رجحان رکھتا ہے، ہر آزمائش ہمیں ایمان اور اجر کی اعلیٰ حالتوں کے لیے تیار کرتی ہے۔",
+          "title_ar": "المسار الصاعد",
+          "coreInsight_ar": "المقارنة بين 'الأولى' و'الآخرة' تؤسس مبدأ التحسين التدريجي - كل مرحلة من رحلة المؤمن تصعد نحو خير أعظم.",
+          "whyItMatters_ar": "هذا يمنحنا الأمل في أن رحلتنا الروحية تتجه نحو الأعلى، حيث تعدنا كل محنة لحالات أعلى من الإيمان والمكافأة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions agree that this verse promises the Prophet superior rewards in the Hereafter and interprets the 'first' to include both his early struggles in Makkah and this worldly life generally. Ibn Kathir and Al-Tabari emphasize the Paradise and divine rewards awaiting the Prophet, as do Shia scholars. The principle that the Hereafter is better than worldly life is fundamental to Islamic theology across all schools. Where interpretations converge strongly is in the practical application: believers should prioritize eternal benefit over temporary pleasure, remain patient during worldly trials knowing better awaits, and maintain hope in Allah's promises. Al-Qurtubi discusses how this verse counters materialism and worldly attachment, a theme extensively developed in Shia spirituality as well. Both traditions cite hadith describing the incomparable nature of Paradise and the temporary nature of worldly existence. A subtle emphasis in Shia tafsir is the connection to the Day of Judgment when the Prophet will intercede for believers, particularly his true followers who accepted his appointed successors. Sunni scholarship emphasizes the Prophet's intercession as well, though without the specific emphasis on Wilayah. Ultimately, both traditions see this verse as offering profound hope and encouraging proper priorities in allocating one's efforts between this life and the next.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس بات پر متفق ہیں کہ یہ آیت آخرت میں نبی اکرم صلی اللہ علیہ وآلہ وسلم کو اعلیٰ انعامات کا وعدہ کرتی ہے اور پہلی کو ان کی مکہ میں ابتدائی جدوجہد اور عمومی طور پر اس دنیاوی زندگی دونوں کو شامل بتاتی ہے۔ ابن کثیر، طبری اور دیگر سنی علماء جنت اور الٰہی انعامات پر زور دیتے ہیں جو نبی اکرم صلی اللہ علیہ وآلہ وسلم کا انتظار کر رہے ہیں، جیسا کہ شیعہ علماء بھی کرتے ہیں۔ یہ دینی اصول کہ آخرت دنیاوی زندگی سے بہتر ہے تمام اسلامی مکاتب میں بنیادی ہے۔ جہاں تفسیریں زور سے قریب آتی ہیں وہ عملی اطلاق میں ہے: مومنین کو عارضی لذت پر ابدی فائدے کو ترجیح دینی چاہیے، دنیاوی آزمائشوں کے دوران صابر رہنا چاہیے اور اللہ کے وعدوں میں امید برقرار رکھنی چاہیے۔ قرطبی اس بات کی بحث کرتے ہیں کہ یہ آیت مادیت اور دنیاوی لگاؤ کا جواب دیتی ہے، ایک موضوع جو شیعہ روحانیت میں بھی وسیع پیمانے پر ترقی پایا ہے۔ شیعہ تفسیر کا ایک لطیف زور قیامت کے دن پر ہے جب نبی اکرم صلی اللہ علیہ وآلہ وسلم مومنین کی خاص طور پر اپنے حقیقی پیروکاروں کی سفارش کریں گے جنہوں نے ان کے مقرر جانشینوں کو قبول کیا۔ بالآخر دونوں روایات اس آیت کو اللہ کی راہ میں مخلص خدمت کے ابدی پھل اور صحیح ترجیحات کی حوصلہ افزائی کے طور پر دیکھتی ہیں۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني على أن هذه الآية تعِد النبيَّ بجزاء أوفر في الآخرة، وتُفسِّران \"الأُولى\" لتشمل كفاحه المبكر في مكة والحياة الدنيا بوجه عام. فابن كثير والطبري يُركِّزان على الجنة والثواب الإلهي الذي ينتظر النبي، وهو ما يُؤكِّده العلماء الشيعة أيضاً. ومبدأ خيرية الآخرة على الدنيا ركيزة عقدية راسخة في شتى مذاهب الإسلام. ومما يتلاقى عليه التفسيران تلاقياً وثيقاً التطبيقُ العملي: ينبغي للمؤمنين تقديم المصلحة الأبدية على المتعة العاجلة، والصبر على المحن الدنيوية إيماناً بأن الخير آتٍ، والثقة بوعود الله. ويُناقش القرطبي كيف تُجابه هذه الآية المادية والتعلق بالدنيا، وهو موضوع طوَّرته الروحانية الشيعية بإسهاب. وكلا التراثين يستشهدان بأحاديث تصف حقيقة الجنة وزوال الدنيا. وتمتاز إضافة التفسير الشيعي بربط الآية بيوم القيامة حين يشفع النبي للمؤمنين، لا سيما من قبلوا خلفاءه المنصَّبين. ويُؤكِّد المنهج السني شفاعة النبي كذلك لكن دون هذا التركيز الخاص على الولاية. وفي المحصلة، يرى كلا التراثين في هذه الآية رجاءً عميقاً يدعو إلى صواب الأولويات في الموازنة بين الدنيا والآخرة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:5:divine-giving",
+          "title": "Promised Giving",
+          "icon": "gift.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah promises 'Your Lord will give to you, and you will be satisfied,' guaranteeing that divine generosity will continue until complete contentment is achieved.",
+          "whyItMatters": "This verse offers ultimate reassurance - Allah won't stop giving until we're truly satisfied, showing the boundlessness of divine generosity.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+          "title_urdu": "وعدہ شدہ عطا",
+          "coreInsight_urdu": "اللہ وعدہ کرتے ہیں 'آپ کا رب آپ کو دے گا، اور آپ راضی ہوں گے'، اس بات کی ضمانت دیتے ہوئے کہ الہی سخاوت جاری رہے گی جب تک مکمل اطمینان حاصل نہ ہو جائے۔",
+          "whyItMatters_urdu": "یہ آیت حتمی یقین دہانی پیش کرتی ہے - اللہ دینا بند نہیں کریں گے جب تک ہم واقعی مطمئن نہ ہو جائیں، الہی سخاوت کی لامحدودیت کو ظاہر کرتے ہوئے۔",
+          "title_ar": "العطاء الموعود",
+          "coreInsight_ar": "يعد الله 'ولسوف يعطيك ربك فترضى'، مضمنًا أن الكرم الإلهي سيستمر حتى يتحقق الرضا الكامل.",
+          "whyItMatters_ar": "هذه الآية تقدم الطمأنينة النهائية - لن يتوقف الله عن العطاء حتى نكون راضين حقًا، مظهرًا لا محدودية الكرم الإلهي."
+        },
+        {
+          "id": "93:5:future-certainty",
+          "title": "Certain Future",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The emphatic 'sawfa' (will surely) combined with 'la' makes this promise absolutely certain - not a possibility but a guaranteed divine decree.",
+          "whyItMatters": "When facing uncertainty, this verse anchors us in divine certainty - Allah's promise to provide and satisfy us is unbreakable.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَسَوْفَ",
+          "title_urdu": "یقینی مستقبل",
+          "coreInsight_urdu": "زور دار 'سوف' (ضرور کرے گا) 'ل' کے ساتھ ملا کر اس وعدے کو بالکل یقینی بناتا ہے - ایک امکان نہیں بلکہ ایک ضمانت شدہ الہی حکم۔",
+          "whyItMatters_urdu": "غیر یقینی کا سامنا کرتے وقت، یہ آیت ہمیں الہی یقین میں مضبوط کرتی ہے - اللہ کا فراہم کرنے اور ہمیں مطمئن کرنے کا وعدہ ناقابل شکست ہے۔",
+          "title_ar": "المستقبل المؤكد",
+          "coreInsight_ar": "التأكيد 'سوف' (سيعطي بالتأكيد) مع 'ل' يجعل هذا الوعد مؤكدًا تمامًا - ليس احتمالاً بل مرسومًا إلهيًا مضمونًا.",
+          "whyItMatters_ar": "عند مواجهة عدم اليقين، ترسخنا هذه الآية في اليقين الإلهي - وعد الله بتوفير ورضانا غير قابل للكسر."
+        },
+        {
+          "id": "93:5:complete-satisfaction",
+          "title": "Full Contentment",
+          "icon": "heart.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'tarda' (you will be pleased) indicates not just receiving gifts but reaching a state of deep spiritual satisfaction and contentment with Allah's gifts.",
+          "whyItMatters": "True blessing isn't just receiving but being content with what's received - Allah promises both the gift and the heart to appreciate it.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَتَرْضَىٰٓ",
+          "title_urdu": "مکمل اطمینان",
+          "coreInsight_urdu": "لفظ 'ترضیٰ' (آپ خوش ہوں گے) نہ صرف تحائف حاصل کرنے کا اشارہ ہے بلکہ اللہ کے تحائف کے ساتھ گہری روحانی اطمینان اور رضامندی کی حالت تک پہنچنا ہے۔",
+          "whyItMatters_urdu": "حقیقی برکت صرف حاصل کرنا نہیں بلکہ جو ملا ہے اس سے مطمئن ہونا ہے - اللہ تحفہ اور اس کی قدر کرنے کے لیے دل دونوں کا وعدہ کرتے ہیں۔",
+          "title_ar": "الرضا الكامل",
+          "coreInsight_ar": "كلمة 'ترضى' (ستكون راضيًا) تشير ليس فقط إلى تلقي الهدايا ولكن إلى الوصول إلى حالة من الرضا الروحي العميق والقناعة بهدايا الله.",
+          "whyItMatters_ar": "البركة الحقيقية ليست مجرد استلام ولكن القناعة بما تم استلامه - يعد الله بكلٍّ من الهدية والقلب لتقديره."
+        }
+      ]
+    },
+    "layer4": "Across Islamic traditions, this verse is understood as a comprehensive promise of divine generosity to the Prophet. Sunni scholars like Ibn Kathir emphasize the vastness of what will be given, including Paradise, the highest rank therein, the acceptance of his intercession, and the spread of his message. This aligns with Shia interpretation, though Shia scholars particularly emphasize the Prophet's satisfaction being tied to his family's honor and his followers' salvation. Al-Tabari discusses various opinions on what specifically will satisfy the Prophet, with most scholars agreeing it encompasses both worldly and eternal blessings. Al-Qurtubi notes the open-ended nature of the promise, a point emphasized in Shia tafsir as well. Both traditions cite hadith where the Prophet describes his intercession and concern for his community. Razi explores the theological implications of divine knowledge and generosity reflected in this verse. A point of strong consensus is that this promise demonstrates Allah's love for the Prophet and His commitment to honoring those who serve Him faithfully. Both traditions draw the lesson that sincere service to Allah leads to divine satisfaction and reward, though the form and timing are according to divine wisdom. The verse offers hope to all believers that dedication to Allah's path ultimately leads to fulfillment and contentment.",
+    "layer4_urdu": "اسلامی روایات میں شیعہ اور سنی دونوں اس آیت کو نبی اکرم صلی اللہ علیہ وآلہ وسلم کے ساتھ الٰہی سخاوت کے جامع وعدے کے طور پر سمجھتے ہیں۔ سنی علماء جیسے ابن کثیر جنت، اس میں اعلیٰ مرتبے، ان کی سفارش کی قبولیت اور ان کے پیغام کے پھیلاؤ سمیت دی جانے والی چیز کی وسعت پر زور دیتے ہیں۔ یہ شیعہ تفسیر سے ہم آہنگ ہے اگرچہ شیعہ علماء خاص طور پر ان کے خاندان کی عزت اور ان کے پیروکاروں کی نجات سے جڑے نبی اکرم صلی اللہ علیہ وآلہ وسلم کے اطمینان پر زور دیتے ہیں۔ طبری اس بارے میں مختلف آراء پر بحث کرتے ہیں کہ خاص طور پر نبی اکرم صلی اللہ علیہ وآلہ وسلم کو کیا چیز راضی کرے گی اور زیادہ تر علماء اس پر متفق ہیں کہ اس میں دنیاوی اور ابدی دونوں نعمتیں شامل ہیں۔ قرطبی وعدے کی کھلی نوعیت کو نوٹ کرتے ہیں، ایک نکتہ جسے شیعہ تفسیر میں بھی اجاگر کیا گیا ہے۔ رازی اس آیت میں جھلکتے الٰہی علم اور سخاوت کے دینیاتی مضمرات کا جائزہ لیتے ہیں۔ اتفاق کا ایک زور یہ ہے کہ یہ آیت نبی اکرم صلی اللہ علیہ وآلہ وسلم کے ساتھ اللہ کی محبت اور اپنی وفادارانہ خدمت کرنے والوں کی تکریم کے عزم کو ظاہر کرتی ہے۔ بالآخر دونوں روایات اس سبق میں متفق ہیں کہ اللہ کی راہ پر مخلص خدمت بالآخر تکمیل اور قناعت کی طرف لے جاتی ہے، اگرچہ شکل اور وقت الٰہی حکمت کے مطابق ہوتا ہے۔",
+    "layer4_ar": "يفهم كلا التراثين الإسلاميين هذه الآية وعداً شاملاً بالجود الإلهي للنبي. فعلماء السنة كابن كثير يُؤكِّدون على اتساع ما سيُعطى، من جنة وأرفع مقام فيها وقبول شفاعة ونشر رسالة، وهو ما يُفسِّره العلماء الشيعة أيضاً، مع تأكيدهم الخاص على ارتباط رضا النبي بكرامة أهله ونجاة أتباعه. ويتناول الطبري آراء متعددة فيما سيُرضي النبي تحديداً، ويتفق أكثر العلماء على شموله النعيمين الدنيوي والأخروي. ويُلاحظ القرطبي الطابع المفتوح للوعد، وهو ما يُعلي منه التفسير الشيعي أيضاً. ويستشهد كلا التراثين بأحاديث النبي في وصف شفاعته وحرصه على أمته. ويستكشف الرازي الأبعاد العقدية لعلم الله وكرمه المُستبطَنَين في هذه الآية. ومما يتوافق عليه الجميع توافقاً واسعاً أن هذا الوعد يُثبت محبة الله للنبي والتزامه بتكريم من يخلصون في خدمته. ويستخلص كلا التراثين الدرس ذاته: الإخلاص في طاعة الله يُفضي في نهاية المطاف إلى الرضا والجزاء، وإن جاء ذلك وفق حكمة الله في التوقيت والصورة. وتمنح الآية كل مؤمن رجاءً صادقاً يحثُّه على الأولويات الصحيحة بين الدنيا والآخرة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:6:orphan-care",
+          "title": "Orphan Protected",
+          "icon": "figure.and.child.holdinghands",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah reminds the Prophet 'Did He not find you an orphan and give you shelter?' - recalling how divine protection came when the Prophet was most vulnerable after losing his parents.",
+          "whyItMatters": "This shows that Allah's care is most evident in our moments of greatest weakness and need, establishing a pattern of divine provision.",
+          "position": "topLeft",
+          "arabicHighlight": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+          "title_urdu": "یتیم کی حفاظت",
+          "coreInsight_urdu": "اللہ نبی کو یاد دلاتے ہیں 'کیا اس نے آپ کو یتیم نہیں پایا اور پناہ نہیں دی؟' - یاد کرتے ہوئے کہ کس طرح الہی تحفظ آیا جب نبی اپنے والدین کو کھونے کے بعد سب سے زیادہ کمزور تھے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ اللہ کی دیکھ بھال ہماری سب سے بڑی کمزوری اور ضرورت کے لمحات میں سب سے زیادہ واضح ہے، الہی فراہمی کا ایک نمونہ قائم کرتے ہوئے۔",
+          "title_ar": "حماية اليتيم",
+          "coreInsight_ar": "يذكّر الله النبي 'ألم يجدك يتيمًا فآوى؟' - متذكرًا كيف جاءت الحماية الإلهية عندما كان النبي أكثر ضعفًا بعد فقدان والديه.",
+          "whyItMatters_ar": "هذا يُظهر أن رعاية الله أكثر وضوحًا في لحظات ضعفنا وحاجتنا الأعظم، مؤسسًا نمطًا من التوفير الإلهي."
+        },
+        {
+          "id": "93:6:divine-shelter",
+          "title": "Safe Haven",
+          "icon": "house.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verb 'awa' means to give shelter and refuge - Allah provided not just physical care through Abu Talib but spiritual protection and emotional comfort to the orphaned Muhammad.",
+          "whyItMatters": "When we feel alone and vulnerable, Allah creates havens of safety for us through people, circumstances, and direct divine intervention.",
+          "position": "topRight",
+          "arabicHighlight": "فَـَٔاوَىٰ",
+          "title_urdu": "محفوظ پناہ گاہ",
+          "coreInsight_urdu": "فعل 'آویٰ' کا مطلب ہے پناہ اور امان دینا - اللہ نے صرف ابو طالب کے ذریعے جسمانی دیکھ بھال فراہم نہیں کی بلکہ یتیم محمد صلی اللہ علیہ وسلم کو روحانی تحفظ اور جذباتی سکون فراہم کیا۔",
+          "whyItMatters_urdu": "جب ہم اکیلے اور کمزور محسوس کرتے ہیں، تو اللہ لوگوں، حالات، اور براہ راست الہی مداخلت کے ذریعے ہمارے لیے حفاظت کی پناہ گاہیں بناتے ہیں۔",
+          "title_ar": "الملاذ الآمن",
+          "coreInsight_ar": "الفعل 'آوى' يعني إعطاء المأوى واللجوء - قدم الله ليس فقط الرعاية الجسدية من خلال أبي طالب ولكن الحماية الروحية والراحة العاطفية لمحمد اليتيم.",
+          "whyItMatters_ar": "عندما نشعر بالوحدة والضعف، يخلق الله ملاذات أمان لنا من خلال الناس والظروف والتدخل الإلهي المباشر."
+        },
+        {
+          "id": "93:6:past-proves-future",
+          "title": "History Assures",
+          "icon": "clock.arrow.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "By reminding the Prophet of past divine care, Allah establishes that His pattern of protection will continue - past providence proves future provision.",
+          "whyItMatters": "Looking back at how Allah helped us before strengthens faith for current and future challenges - His past faithfulness guarantees future care.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَلَمْ يَجِدْكَ",
+          "title_urdu": "تاریخ یقین دلاتی ہے",
+          "coreInsight_urdu": "نبی کو ماضی کی الہی دیکھ بھال کی یاد دلا کر، اللہ قائم کرتے ہیں کہ اس کی حفاظت کا نمونہ جاری رہے گا - ماضی کی فراہمی مستقبل کی فراہمی ثابت کرتی ہے۔",
+          "whyItMatters_urdu": "پیچھے دیکھنا کہ اللہ نے پہلے ہماری کیسے مدد کی موجودہ اور مستقبل کے چیلنجز کے لیے ایمان کو مضبوط کرتا ہے - اس کی ماضی کی وفاداری مستقبل کی دیکھ بھال کی ضمانت دیتی ہے۔",
+          "title_ar": "التاريخ يؤكد",
+          "coreInsight_ar": "بتذكير النبي بالرعاية الإلهية الماضية، يؤسس الله أن نمط حمايته سيستمر - العناية الماضية تثبت التوفير المستقبلي.",
+          "whyItMatters_ar": "النظر إلى الوراء في كيف ساعدنا الله من قبل يعزز الإيمان للتحديات الحالية والمستقبلية - أمانته الماضية تضمن الرعاية المستقبلية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni sources agree on the historical facts of the Prophet's orphanhood and the divine care provided through his grandfather and uncle. Ibn Kathir, Al-Tabari, and other Sunni scholars recount the same narrative of the Prophet's father dying before his birth and his mother dying in his childhood. The interpretation that this experience gave the Prophet special compassion for orphans and informed his legislative protection for them is universally accepted. Both traditions cite hadith emphasizing the rewards for caring for orphans and the Prophet's special concern for them. Where Shia scholarship particularly emphasizes the concept of divine wisdom in choosing orphanhood as preparation for universal prophethood, Sunni tafsir similarly recognizes the wisdom but may focus more on the immediate care provided by family members. Al-Qurtubi discusses the legal implications for orphans' rights derived from the Prophet's experience. Both traditions see in this verse evidence that difficult circumstances are not signs of divine disfavor but may be part of divine preparation and wisdom. The practical lesson drawn across all schools is that believers should care for orphans, remembering that the greatest of humanity was himself an orphan, and that Allah's care extends to all who are vulnerable if the community fulfills its responsibilities.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات آنحضرت صلی اللہ علیہ وآلہ وسلم کی یتیمی اور الہی رحمت کے ذریعے فراہم کردہ پناہ کے تاریخی حقائق پر متفق ہیں۔ ابن کثیر، طبری اور دیگر سنی علماء اسی روایت کو بیان کرتے ہیں کہ آنحضرت کے والد پیدائش سے پہلے اور والدہ بچپن میں وفات پا گئیں۔ یہ تفسیر کہ اس تجربے نے آنحضرت کو یتیموں کے لیے خاص ہمدردی دی، دونوں روایات میں یکساں طور پر قبول کی گئی ہے۔ دونوں روایات سے یتیموں کی پرورش کے اجر اور آنحضرت کے ان کے لیے خاص اہتمام کی احادیث ملتی ہیں۔ شیعہ علماء اس بات پر خاص توجہ دیتے ہیں کہ یتیمی کو عالمی رسالت کی تیاری کے لیے الہی حکمت کے طور پر چنا گیا، جبکہ سنی تفسیر بھی اس حکمت کو تسلیم کرتی ہے البتہ خاندانی سہارے کے کردار پر زیادہ توجہ دیتی ہے۔ قرطبی نے آنحضرت کے تجربے سے نکلنے والے یتیموں کے قانونی تحفظات پر بحث کی ہے۔ دونوں روایات میں یہ سبق مشترک ہے کہ مشکل حالات الہی ناپسندیدگی کی علامت نہیں بلکہ الہی تیاری اور حکمت کا حصہ ہو سکتے ہیں اور ہمیں اللہ کی رحمت پر بھروسا رکھنا چاہیے۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني على الحقائق التاريخية ليُتم النبي صلى الله عليه وآله وسلم وما هيَّأه الله له من إيواء عبر جده وعمه. فابن كثير والطبري وسائر علماء السنة يروون سردية واحدة عن وفاة أبيه قبل مولده ووفاة أمه في طفولته. والتفسير القائل بأن هذه التجربة أكسبت النبي رحمةً خاصة بالأيتام وأثَّرت في تشريعاته لحمايتهم مقبولٌ قبولاً عاماً في التراثين. ويستشهد كلاهما بأحاديث تُؤكِّد مكافأة من يكفل اليتيم ويُحسن إليه ومدى اهتمام النبي الخاص بهم. والتأكيد الشيعي الخاص يتجلى في الربط بين حكمة الله من اختيار اليُتم وسيلةً لإعداد النبوة الشاملة، وإن كان علماء السنة يُقرُّون الحكمة ذاتها مع تركيزهم أكثر على الرعاية الفورية التي قدَّمها أفراد الأسرة. ويتناول القرطبي الدلالات الفقهية لحقوق الأيتام المستمدة من تجربة النبي. ويرى التراثان معاً في هذه الآية دليلاً على أن الظروف الصعبة ليست علامة على إعراض الله بل قد تكون جزءاً من إعداده وحكمته. والدرس العملي المستخلَص في كل المذاهب متسق: على المؤمنين أن يرعوا الأيتام ذاكرين أن أعظم البشر كان يتيماً، وأن رعاية الله تشمل جميع الضعفاء إن أدّت الأمة مسؤوليتها."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:7:found-lost",
+          "title": "Lost Then Found",
+          "icon": "location.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah states 'He found you lost and guided you' - referring to the Prophet being unaware of revelation and scripture before receiving divine guidance.",
+          "whyItMatters": "This shows that spiritual guidance is Allah's gift, not human achievement - none of us can find truth without divine intervention.",
+          "position": "topLeft",
+          "arabicHighlight": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
+          "title_urdu": "گمراہ پھر ہدایت یافتہ",
+          "coreInsight_urdu": "اللہ فرماتے ہیں 'اس نے آپ کو گمراہ پایا اور ہدایت دی' - نبی کو وحی اور کتاب سے لاعلم ہونے کا حوالہ دیتے ہوئے الہی رہنمائی حاصل کرنے سے پہلے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ روحانی رہنمائی اللہ کا تحفہ ہے، انسانی کامیابی نہیں - ہم میں سے کوئی بھی الہی مداخلت کے بغیر سچائی نہیں پا سکتا۔",
+          "title_ar": "ضائع ثم موجود",
+          "coreInsight_ar": "يقول الله 'ووجدك ضالاً فهدى' - مشيرًا إلى جهل النبي بالوحي والكتاب قبل تلقي التوجيه الإلهي.",
+          "whyItMatters_ar": "هذا يُظهر أن التوجيه الروحي هو هدية الله، وليس إنجازًا بشريًا - لا أحد منا يمكنه إيجاد الحقيقة دون تدخل إلهي."
+        },
+        {
+          "id": "93:7:divine-guidance",
+          "title": "Perfect Guide",
+          "icon": "map.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verb 'hada' means to guide to the right path - Allah didn't just show the way but actively guided the Prophet to truth, revelation, and his prophetic mission.",
+          "whyItMatters": "Allah doesn't leave seekers to find their own way - He actively guides those who are sincere, showing the path and empowering us to walk it.",
+          "position": "topRight",
+          "arabicHighlight": "فَهَدَىٰ",
+          "title_urdu": "کامل رہنما",
+          "coreInsight_urdu": "فعل 'ہدیٰ' کا مطلب ہے صحیح راستہ دکھانا - اللہ نے صرف راستہ نہیں دکھایا بلکہ نبی کو سچائی، وحی، اور ان کے نبوی مشن کی طرف فعال طور پر رہنمائی کی۔",
+          "whyItMatters_urdu": "اللہ تلاش کرنے والوں کو اپنا راستہ خود تلاش کرنے کے لیے نہیں چھوڑتے - وہ ان لوگوں کی فعال طور پر رہنمائی کرتے ہیں جو مخلص ہیں، راستہ دکھاتے ہوئے اور ہمیں اس پر چلنے کے لیے طاقت دیتے ہوئے۔",
+          "title_ar": "المرشد الكامل",
+          "coreInsight_ar": "الفعل 'هدى' يعني الإرشاد إلى الطريق الصحيح - لم يُرِ الله الطريق فحسب بل وجّه النبي بنشاط إلى الحق والوحي ومهمته النبوية.",
+          "whyItMatters_ar": "لا يترك الله الباحثين لإيجاد طريقهم - يوجّه بنشاط أولئك الصادقين، مظهرًا الطريق وممكنًا إيانا من السير فيه."
+        },
+        {
+          "id": "93:7:humble-beginnings",
+          "title": "Humble Start",
+          "icon": "arrow.up.right.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Being 'daal' (unaware/lost) before guidance emphasizes that even the Prophet started from a state of not knowing, showing humility and the transformative power of divine teaching.",
+          "whyItMatters": "No matter how lost we feel spiritually, Allah's guidance can transform us completely - the Prophet's journey from unawareness to perfect guidance proves this.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ضَآلًّۭا",
+          "title_urdu": "عاجزانہ آغاز",
+          "coreInsight_urdu": "رہنمائی سے پہلے 'ضال' (لاعلم/گمراہ) ہونا اس بات پر زور دیتا ہے کہ یہاں تک کہ نبی بھی نہ جاننے کی حالت سے شروع ہوئے، عاجزی اور الہی تعلیم کی تبدیلی کی طاقت کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "اس سے کوئی فرق نہیں پڑتا کہ ہم روحانی طور پر کتنا گمراہ محسوس کرتے ہیں، اللہ کی رہنمائی ہمیں مکمل طور پر تبدیل کر سکتی ہے - نبی کا سفر لاعلمی سے کامل رہنمائی تک اس کو ثابت کرتا ہے۔",
+          "title_ar": "البداية المتواضعة",
+          "coreInsight_ar": "كونك 'ضالاً' (غير مدرك/ضائع) قبل التوجيه يؤكد أن حتى النبي بدأ من حالة عدم المعرفة، مظهرًا التواضع والقوة التحويلية للتعليم الإلهي.",
+          "whyItMatters_ar": "مهما شعرنا بالضياع روحيًا، يمكن لتوجيه الله أن يحولنا تمامًا - رحلة النبي من عدم الوعي إلى التوجيه الكامل تثبت ذلك."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse does not imply the Prophet was in moral error before revelation, as prophets are protected from sin. Ibn Kathir and Al-Tabari explain 'daal' as meaning unaware of specific religious laws and detailed divine knowledge before receiving revelation. This interpretation aligns with Shia scholarship. Both traditions emphasize that guidance is a divine gift and that the Prophet received the highest form of guidance through revelation. The practical lesson drawn across schools is that humans need divine guidance beyond their own intellect, and gratitude for the gift of guidance is essential. Where a subtle difference emerges is in the Shia emphasis on continuing guidance through the Imams after the Prophet, whereas Sunni thought emphasizes the Quran and Prophetic Sunnah as the primary sources of ongoing guidance. However, both traditions agree on the necessity of learned scholars to interpret and explain revelation. Al-Qurtubi discusses the various meanings of 'daal' and concludes it means lacking knowledge of divine law before revelation. Razi explores the relationship between reason and revelation, a theme extensively developed in both Shia and Sunni philosophy. Ultimately, this verse is understood across traditions as affirming the necessity of divine revelation for complete guidance and the special blessing of prophetic knowledge.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ اس آیت سے یہ نہیں سمجھنا چاہیے کہ آنحضرت صلی اللہ علیہ وآلہ وسلم وحی سے پہلے کسی اخلاقی گمراہی میں تھے، کیونکہ انبیاء گناہ سے معصوم ہیں۔ ابن کثیر، طبری اور دیگر سنی علماء 'ضال' کی تفسیر یہ کرتے ہیں کہ آنحضرت وحی سے پہلے شریعت کی تفصیلات اور الہی علم سے ناآشنا تھے۔ یہ تفسیر شیعہ علمی موقف سے ہم آہنگ ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ ہدایت اللہ کا عطیہ ہے اور آنحضرت کو وحی کے ذریعے سب سے اعلیٰ ہدایت ملی۔ دونوں روایات سے عملی سبق یہ نکلتا ہے کہ انسان کو ہدایت کے لیے الہی وحی کی ضرورت ہے اور اس عطیے پر شکرگزاری ضروری ہے۔ ایک نازک فرق یہ ہے کہ شیعہ موقف وحی کے بعد ائمہ علیہم السلام کے ذریعے جاری ہدایت پر زور دیتا ہے، جبکہ سنی فکر بنیادی طور پر قرآن اور سنت نبوی پر توجہ مرکوز کرتی ہے۔ تاہم دونوں روایات اس بات پر متفق ہیں کہ علماء کی ضرورت ہے جو وحی کی تشریح کریں۔ قرطبی نے 'ضال' کے مختلف معانی پر بحث کی ہے۔ رازی نے عقل اور وحی کے تعلق کو فلسفیانہ انداز سے بیان کیا ہے۔ سب روایات اس نکتے پر اتفاق کرتی ہیں کہ مکمل ہدایت کے لیے الہی وحی ناگزیر ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية لا تُلمِّح إلى وقوع النبي في خطأ أخلاقي قبل الوحي، لأن الأنبياء معصومون من الذنب. فابن كثير والطبري يُفسِّران \"ضالاً\" بأنها تعني الغير مُدرِك لتفاصيل الأحكام الشرعية والمعرفة الدينية التفصيلية قبل الوحي، وهو ما يتوافق مع التفسير الشيعي. ويُؤكِّد كلا التراثين أن الهداية هبة إلهية وأن النبي نال أرفع صورها بالوحي. والدرس العملي المستخلَص في المذاهب كلها متسق: البشر في حاجة إلى الهداية الإلهية فوق عقولهم، والشكر على هبة الهداية واجب لازم. والفارق الدقيق الذي يظهر في الفكر الشيعي هو التشديد على استمرار الهداية عبر الأئمة من بعد النبي، في حين يُعلي الفكر السني من شأن القرآن والسنة النبوية بوصفهما المصدر الرئيسي للهداية المستمرة، مع اتفاق الجميع على حاجة العلماء المتخصصين لتفسير الوحي وشرحه. ويناقش القرطبي المعاني المتعددة لـ\"ضال\" ويخلص إلى أنها تعني عدم إلمام الشريعة الإلهية قبل الوحي. ويستكشف الرازي العلاقة بين العقل والوحي في موضوع طوّره فلاسفة الشيعة والسنة بإسهاب. وفي جوهره يُعدُّ هذا التفسير عبر التراثين تأكيداً لضرورة الوحي الإلهي في إكمال الهداية وتأكيداً للنعمة الخاصة بالمعرفة النبوية."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:8:found-poor",
+          "title": "From Poverty",
+          "icon": "banknote.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah recalls 'He found you poor and made you self-sufficient' - the Prophet lived in material poverty until Allah provided through marriage to Khadijah and later conquests.",
+          "whyItMatters": "This teaches that Allah has power over material provision as well as spiritual guidance - no poverty is beyond His ability to transform into sufficiency.",
+          "position": "topLeft",
+          "arabicHighlight": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ",
+          "title_urdu": "غربت سے",
+          "coreInsight_urdu": "اللہ یاد کرتے ہیں 'اس نے آپ کو غریب پایا اور خودکفیل بنایا' - نبی مادی غربت میں رہے جب تک اللہ نے خدیجہ سے شادی اور بعد میں فتوحات کے ذریعے فراہم نہیں کیا۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ اللہ کے پاس روحانی رہنمائی کے ساتھ ساتھ مادی فراہمی پر بھی طاقت ہے - کوئی غربت اس کی کفالت میں تبدیل کرنے کی صلاحیت سے باہر نہیں۔",
+          "title_ar": "من الفقر",
+          "coreInsight_ar": "يتذكر الله 'ووجدك عائلاً فأغنى' - عاش النبي في فقر مادي حتى أتاه الله بالرزق من خلال الزواج من خديجة والفتوحات اللاحقة.",
+          "whyItMatters_ar": "هذا يعلم أن الله له قوة على التوفير المادي وكذلك التوجيه الروحي - لا فقر يتجاوز قدرته على التحويل إلى كفاية."
+        },
+        {
+          "id": "93:8:self-sufficiency",
+          "title": "Made Sufficient",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'aghna' means to make wealthy or self-sufficient - not necessarily extreme wealth, but freedom from need and the ability to be generous to others.",
+          "whyItMatters": "True richness isn't unlimited wealth but having enough to meet your needs and help others - this is the divine sufficiency Allah promises.",
+          "position": "topRight",
+          "arabicHighlight": "فَأَغْنَىٰ",
+          "title_urdu": "کافی بنایا",
+          "coreInsight_urdu": "لفظ 'اغنیٰ' کا مطلب ہے مالدار یا خودکفیل بنانا - ضروری نہیں کہ انتہائی دولت، بلکہ ضرورت سے آزادی اور دوسروں کے لیے سخی ہونے کی صلاحیت۔",
+          "whyItMatters_urdu": "حقیقی دولت لامحدود دولت نہیں بلکہ اپنی ضروریات کو پورا کرنے اور دوسروں کی مدد کرنے کے لیے کافی ہونا ہے - یہ وہ الہی کفایت ہے جس کا اللہ وعدہ کرتے ہیں۔",
+          "title_ar": "جعله كافيًا",
+          "coreInsight_ar": "كلمة 'أغنى' تعني جعله غنيًا أو مكتفيًا ذاتيًا - ليس بالضرورة ثروة هائلة، ولكن الحرية من الحاجة والقدرة على الكرم للآخرين.",
+          "whyItMatters_ar": "الثراء الحقيقي ليس ثروة غير محدودة ولكن امتلاك ما يكفي لتلبية احتياجاتك ومساعدة الآخرين - هذا هو الاكتفاء الإلهي الذي يعد به الله."
+        },
+        {
+          "id": "93:8:threefold-care",
+          "title": "Complete Care",
+          "icon": "square.stack.3d.up.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "These three verses (orphan→shelter, lost→guidance, poor→wealth) show Allah's comprehensive care covering physical, spiritual, and material needs.",
+          "whyItMatters": "Allah doesn't address just one dimension of our struggles but provides holistically - shelter, guidance, and provision working together for complete wellbeing.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَوَجَدَكَ",
+          "title_urdu": "مکمل دیکھ بھال",
+          "coreInsight_urdu": "یہ تین آیات (یتیم→پناہ، گمراہ→ہدایت، غریب→دولت) اللہ کی جامع دیکھ بھال دکھاتی ہیں جو جسمانی، روحانی، اور مادی ضروریات کا احاطہ کرتی ہیں۔",
+          "whyItMatters_urdu": "اللہ ہماری جدوجہد کی صرف ایک جہت کو مخاطب نہیں کرتے بلکہ مجموعی طور پر فراہم کرتے ہیں - پناہ، رہنمائی، اور فراہمی مکمل بہبود کے لیے مل کر کام کرتی ہیں۔",
+          "title_ar": "الرعاية الكاملة",
+          "coreInsight_ar": "هذه الآيات الثلاث (يتيم→مأوى، ضال→هداية، فقير→ثروة) تُظهر رعاية الله الشاملة التي تغطي الاحتياجات الجسدية والروحية والمادية.",
+          "whyItMatters_ar": "لا يعالج الله بُعدًا واحدًا فقط من نضالاتنا بل يوفر بشكل شامل - المأوى والتوجيه والرزق تعمل معًا لتحقيق الرفاهية الكاملة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions interpret this verse as referring to both material provision through the Prophet's work and marriage to Khadijah, and spiritual enrichment through faith and prophethood. Ibn Kathir discusses various narrations about the Prophet's poverty in youth and the provisions Allah arranged for him. Al-Tabari similarly recounts the historical circumstances of the Prophet's work and marriage. Both traditions emphasize that the Prophet remained simple in lifestyle despite later having resources, teaching that enrichment does not require luxury. The concept that true wealth is contentment and self-sufficiency appears in both Shia and Sunni spiritual literature, with scholars across traditions citing hadith where the Prophet defines wealth as richness of the soul, not abundance of possessions. Al-Qurtubi discusses the various interpretations of 'aghna' and concludes it encompasses both material and spiritual enrichment. Razi explores the theological implications of divine provision and enrichment. A point of strong consensus is that this verse teaches gratitude for Allah's provision, contentment with what is given, and recognition that all sustenance comes from Allah. Both traditions draw practical lessons about simple living, generosity with resources, and prioritizing spiritual over material wealth. The verse serves as a corrective to materialistic values in both Shia and Sunni teachings.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت کو آنحضرت صلی اللہ علیہ وآلہ وسلم کی تجارت اور حضرت خدیجہ سلام اللہ علیہا سے نکاح کے ذریعے مادی فراہمی اور نبوت و ایمان کے ذریعے روحانی غنا دونوں کے طور پر تفسیر کرتی ہیں۔ ابن کثیر نے آنحضرت کی ابتدائی غربت اور اللہ کی طرف سے کیے گئے انتظام کے مختلف روایات بیان کی ہیں۔ طبری نے بھی آنحضرت کی تجارت اور نکاح کے تاریخی حالات کو بیان کیا ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ آنحضرت بعد میں وسائل آنے کے بعد بھی سادگی سے زندگی گزارتے رہے۔ حقیقی دولت قناعت ہے اور خود کفالت کا احساس دونوں روایات کے روحانی ادب میں ملتا ہے، اور علماء ان احادیث کو نقل کرتے ہیں جن میں آنحضرت نے دولت کو مال کی فراوانی کے بجائے نفس کی غنا کے طور پر بیان کیا۔ قرطبی نے 'اغنیٰ' کی مختلف تفسیریں بیان کی ہیں۔ رازی نے الہی رزق کے علمی مضمرات کو بیان کیا ہے۔ ایک مضبوط اتفاق رائے یہ ہے کہ یہ آیت اللہ کے رزق پر شکرگزاری، ملے ہوئے پر قناعت اور اس تسلیم کو سکھاتی ہے کہ تمام روزی اللہ کی طرف سے ہے۔ دونوں روایات سادہ زندگی، سخاوت اور مادی کے بجاے روحانی دولت کو ترجیح دینے کے عملی سبق اخذ کرتی ہیں۔",
+    "layer4_ar": "يُفسِّر كلا التراثين الشيعي والسني هذه الآية على أنها تشير إلى الرزق المادي عبر عمل النبي وزواجه من السيدة خديجة وإلى الإغناء الروحي بالإيمان والنبوة معاً. فابن كثير يتناول روايات متعددة عن فقر النبي في شبابه وما هيَّأه الله له من رزق، والطبري يسرد السياق التاريخي لعمل النبي وزواجه. ويُؤكِّد التراثان أن النبي بقي بسيط الحياة رغم توافر الموارد لاحقاً، مُعلِّماً أن الإغناء لا يستلزم الترف. ومفهوم الغنى الحقيقي بالقناعة والاكتفاء بالنفس ورد في الأدب الروحي الشيعي والسني على حدٍّ سواء، مع استشهاد علماء التراثين بأحاديث النبي الذي يُعرِّف الغنى بغنى النفس لا بكثرة المال. ويناقش القرطبي المعاني المختلفة لـ\"أغنى\" ويخلص إلى شمولها الإغناء المادي والروحي. ويستكشف الرازي الأبعاد العقدية لرزق الله وإغنائه. ومما يتوافق عليه الجميع توافقاً واسعاً أن هذه الآية تُعلِّم الشكر على عطاء الله والقناعة بما يُرزق والاعتراف بأن كل الرزق من الله. ويستخلص التراثان دروساً عملية عن البساطة في العيش والسخاء في البذل وتقديم الثروة الروحية على المادية."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:9:orphan-duty",
+          "title": "Protect Orphans",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah commands 'As for the orphan, do not oppress' - connecting the Prophet's own orphan experience to a duty to protect vulnerable children from harm and exploitation.",
+          "whyItMatters": "Those who've experienced hardship have a special responsibility to prevent others from suffering the same - our trials create empathy that must translate to action.",
+          "position": "topLeft",
+          "arabicHighlight": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+          "title_urdu": "یتیموں کی حفاظت",
+          "coreInsight_urdu": "اللہ حکم دیتے ہیں 'یتیم کے بارے میں، ظلم نہ کرو' - نبی کے اپنے یتیم کے تجربے کو کمزور بچوں کو نقصان اور استحصال سے بچانے کے فرض سے جوڑتے ہوئے۔",
+          "whyItMatters_urdu": "جن لوگوں نے مشکل کا تجربہ کیا ہے ان کی خاص ذمہ داری ہے کہ دوسروں کو وہی تکلیف برداشت کرنے سے روکیں - ہماری آزمائشیں ہمدردی پیدا کرتی ہیں جو عمل میں ترجمہ ہونی چاہیے۔",
+          "title_ar": "حماية الأيتام",
+          "coreInsight_ar": "يأمر الله 'فأما اليتيم فلا تقهر' - ربط تجربة النبي الخاصة كيتيم بواجب حماية الأطفال الضعفاء من الأذى والاستغلال.",
+          "whyItMatters_ar": "أولئك الذين عانوا من المشقة لديهم مسؤولية خاصة لمنع الآخرين من المعاناة من نفس الشيء - محننا تخلق التعاطف الذي يجب أن يترجم إلى عمل."
+        },
+        {
+          "id": "93:9:no-oppression",
+          "title": "Never Oppress",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'taqhar' means to oppress, subjugate, or treat harshly - Allah forbids not just neglect but any form of harsh treatment toward the powerless.",
+          "whyItMatters": "Protecting the vulnerable requires active gentleness and kindness, not just avoiding outright abuse - harsh words or cold dismissal are also forms of oppression.",
+          "position": "topRight",
+          "arabicHighlight": "فَلَا تَقْهَرْ",
+          "title_urdu": "کبھی ظلم نہ کرو",
+          "coreInsight_urdu": "لفظ 'تقہر' کا مطلب ہے ظلم کرنا، مغلوب کرنا، یا سختی سے سلوک کرنا - اللہ صرف نظر انداز نہیں بلکہ کمزوروں کے ساتھ کسی بھی قسم کے سخت سلوک سے منع کرتے ہیں۔",
+          "whyItMatters_urdu": "کمزوروں کی حفاظت کے لیے فعال نرمی اور مہربانی کی ضرورت ہے، نہ صرف کھلم کھلا بدسلوکی سے بچنا - سخت الفاظ یا سرد برخاستگی بھی ظلم کی شکلیں ہیں۔",
+          "title_ar": "لا تقهر أبدًا",
+          "coreInsight_ar": "كلمة 'تقهر' تعني القهر أو الإخضاع أو المعاملة القاسية - ينهى الله ليس فقط عن الإهمال ولكن عن أي شكل من أشكال المعاملة القاسية تجاه العاجزين.",
+          "whyItMatters_ar": "حماية الضعفاء تتطلب لطفًا ولينًا نشطًا، وليس فقط تجنب الإساءة الصريحة - الكلمات القاسية أو الرفض البارد هي أيضًا أشكال من القهر."
+        },
+        {
+          "id": "93:9:divine-response",
+          "title": "Grateful Response",
+          "icon": "arrow.turn.up.right",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The 'fa' (so/therefore) connects this command to previous verses - because Allah sheltered you as an orphan, you must now shelter others in similar need.",
+          "whyItMatters": "Gratitude for divine blessings isn't just words but action - we show thanks by extending to others what Allah extended to us.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَأَمَّا",
+          "title_urdu": "شکر گزار جواب",
+          "coreInsight_urdu": "'ف' (تو/اس لیے) اس حکم کو سابقہ آیات سے جوڑتا ہے - کیونکہ اللہ نے آپ کو یتیم کے طور پر پناہ دی، آپ کو اب اسی طرح کی ضرورت والوں کو پناہ دینی چاہیے۔",
+          "whyItMatters_urdu": "الہی برکتوں کے لیے شکر گزاری صرف الفاظ نہیں بلکہ عمل ہے - ہم دوسروں کو وہ بڑھا کر شکریہ ظاہر کرتے ہیں جو اللہ نے ہمیں دیا۔",
+          "title_ar": "الاستجابة الممتنة",
+          "coreInsight_ar": "'ف' (إذن/لذلك) تربط هذا الأمر بالآيات السابقة - لأن الله آواك يتيمًا، يجب عليك الآن إيواء آخرين في حاجة مماثلة.",
+          "whyItMatters_ar": "الامتنان للبركات الإلهية ليس مجرد كلمات بل فعل - نُظهر الشكر بتمديد ما مدّه الله إلينا للآخرين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions strongly emphasize the protection of orphans based on this verse and related texts. Ibn Kathir, Al-Tabari, and other Sunni scholars cite numerous hadith about the Prophet's care for orphans and the severe warnings against mistreating them. Al-Qurtubi extensively discusses the legal protections for orphans' property and persons in Islamic law. These protections are equally emphasized in Shia jurisprudence. Both traditions cite the hadith about sponsoring orphans leading to companionship with the Prophet in Paradise. The interpretation that having experienced hardship should develop empathy rather than bitterness is universally accepted. Where Shia thought particularly emphasizes the connection to social justice and challenging oppressive structures, Sunni scholars similarly stress justice for the vulnerable, though perhaps with somewhat different emphasis on individual versus systemic responsibility. Razi discusses the wisdom in connecting the Prophet's orphanhood to this command, a point Shia scholars also emphasize. Both traditions understand this verse as establishing a broad principle about power and responsibility, extending beyond orphans to all vulnerable groups. The ethical teaching is universal across Islamic schools: power must be used for protection and service, never for oppression, and the strong are accountable to Allah for how they treat the weak.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت اور متعلقہ نصوص کی بنیاد پر یتیموں کی حفاظت پر بہت زور دیتی ہیں۔ ابن کثیر، طبری اور دیگر سنی علماء نے آنحضرت صلی اللہ علیہ وآلہ وسلم کے یتیموں کی پرورش کے بارے میں اور ان سے بدسلوکی پر سخت تنبیہات کے متعلق متعدد احادیث نقل کی ہیں۔ قرطبی نے اسلامی قانون میں یتیموں کی جان و مال کے تحفظات پر تفصیلی بحث کی ہے۔ یہ تحفظات شیعہ فقہ میں بھی یکساں اہمیت رکھتے ہیں۔ دونوں روایات یتیم کی کفالت کرنے کی فضیلت اور آنحضرت سے جنت میں قربت کی حدیث کو بیان کرتی ہیں۔ یہ تفسیر کہ مشکل تجربات ہمیں تلخ نہیں بلکہ ہمدرد بناتے ہیں، دونوں روایات میں یکساں طور پر قبول کی گئی ہے۔ شیعہ فکر میں خاص طور پر اسے سماجی انصاف اور ظالم ڈھانچوں کو چیلنج کرنے سے جوڑا جاتا ہے۔ رازی نے آنحضرت کی یتیمی کو اس حکم سے جوڑنے میں حکمت کو بیان کیا ہے۔ دونوں روایات طاقت اور ذمہ داری کے بارے میں ایک وسیع اخلاقی اصول سمجھتی ہیں: طاقت کا استعمال تحفظ اور خدمت کے لیے ہو نہ کہ ظلم کے لیے، اور طاقتور کمزوروں کے ساتھ اپنے برتاؤ پر اللہ کو جواب دہ ہیں۔",
+    "layer4_ar": "يُشدِّد كلا التراثين الشيعي والسني على حماية الأيتام استناداً إلى هذه الآية وسائر النصوص ذات الصلة. فابن كثير والطبري وسائر علماء السنة يستشهدون بأحاديث كثيرة عن اهتمام النبي بالأيتام والتحذيرات الصارمة من إيذائهم. ويتناول القرطبي بالتفصيل الحمايات الفقهية لأموال الأيتام وأشخاصهم في الشريعة الإسلامية، وهي حمايات مُعادِلة في الفقه الشيعي. ويستشهد التراثان بالحديث النبوي الذي يجعل لكافل اليتيم رفقة النبي في الجنة. والتفسير القائل بأن تجربة الشدة ينبغي أن تُنتج التعاطف لا المرارة مقبولٌ قبولاً عاماً. والإضافة الشيعية الخاصة تتمثل في التأكيد على الارتباط بالعدالة الاجتماعية ومواجهة البنى القاهرة، وإن كان علماء السنة يُؤكِّدون بدورهم العدل للضعفاء ربما مع نبرة مختلفة في التوازن بين المسؤولية الفردية والمنظومية. ويناقش الرازي الحكمة من الربط بين يُتم النبي وهذا الأمر، وهو ما يُعلي منه التفسير الشيعي كذلك. ويرى التراثان في هذه الآية تأسيساً لمبدأ شامل في السلطة والمسؤولية يمتد ليطال جميع الفئات الضعيفة. والتعليم الأخلاقي في كل المذاهب متسق: القوة ينبغي أن تُوظَّف للحماية والخدمة لا للقهر، والأقوياء مسؤولون أمام الله عن معاملتهم للضعفاء."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:10:petitioner-care",
+          "title": "Honor Seekers",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah commands 'As for the petitioner, do not repel' - showing respect for those who ask for help, whether material assistance or spiritual guidance.",
+          "whyItMatters": "How we treat those who ask reflects our gratitude to Allah who answered our needs - harsh rejection of sincere seekers betrays spiritual arrogance.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+          "title_urdu": "سائلین کا احترام",
+          "coreInsight_urdu": "اللہ حکم دیتے ہیں 'سائل کے بارے میں، دھتکارو نہیں' - ان لوگوں کا احترام ظاہر کرتے ہوئے جو مدد مانگتے ہیں، چاہے مادی امداد ہو یا روحانی رہنمائی۔",
+          "whyItMatters_urdu": "ہم جو مانگتے ہیں ان کے ساتھ کیسا سلوک کرتے ہیں اللہ کے لیے ہماری شکر گزاری کی عکاسی کرتا ہے جس نے ہماری ضروریات کو پورا کیا - مخلص تلاش کرنے والوں کی سخت مسترد روحانی تکبر کی خلاف ورزی کرتی ہے۔",
+          "title_ar": "احترام الطالبين",
+          "coreInsight_ar": "يأمر الله 'وأما السائل فلا تنهر' - مظهرًا الاحترام لأولئك الذين يطلبون المساعدة، سواء كانت مساعدة مادية أو توجيهًا روحيًا.",
+          "whyItMatters_ar": "كيف نعامل أولئك الذين يطلبون يعكس امتناننا لله الذي لبى احتياجاتنا - الرفض القاسي للباحثين الصادقين يخون الغطرسة الروحية."
+        },
+        {
+          "id": "93:10:dont-repel",
+          "title": "Gentle Response",
+          "icon": "bubble.left.and.bubble.right.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'tanhar' means to repel harshly, rebuke, or speak roughly - Allah commands gentleness even when unable to fulfill every request.",
+          "whyItMatters": "Even if we can't give what's asked, we must respond with kindness and dignity - harsh words wound seekers and close doors to future growth.",
+          "position": "topRight",
+          "arabicHighlight": "فَلَا تَنْهَرْ",
+          "title_urdu": "نرم جواب",
+          "coreInsight_urdu": "لفظ 'تنہر' کا مطلب ہے سختی سے دھتکارنا، جھڑکنا، یا بے رحمی سے بولنا - اللہ نرمی کا حکم دیتے ہیں یہاں تک کہ جب ہر درخواست کو پورا کرنے سے قاصر ہوں۔",
+          "whyItMatters_urdu": "یہاں تک کہ اگر ہم جو مانگا گیا ہے وہ نہیں دے سکتے، ہمیں مہربانی اور وقار کے ساتھ جواب دینا چاہیے - سخت الفاظ تلاش کرنے والوں کو زخمی کرتے ہیں اور مستقبل کی ترقی کے دروازے بند کرتے ہیں۔",
+          "title_ar": "الاستجابة اللطيفة",
+          "coreInsight_ar": "كلمة 'تنهر' تعني الصد بقسوة أو التوبيخ أو التحدث بخشونة - يأمر الله باللطف حتى عند عدم القدرة على تلبية كل طلب.",
+          "whyItMatters_ar": "حتى لو لم نستطع إعطاء ما طُلب، يجب أن نستجيب باللطف والكرامة - الكلمات القاسية تجرح الطالبين وتغلق الأبواب أمام النمو المستقبلي."
+        },
+        {
+          "id": "93:10:dual-application",
+          "title": "Broad Meaning",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The 'sa'il' (petitioner) includes both material beggars and spiritual seekers asking questions - commanding kindness to all who approach seeking help or knowledge.",
+          "whyItMatters": "This expands our duty of kindness beyond charity to include patience with spiritual seekers, students, and anyone genuinely asking for guidance.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلسَّآئِلَ",
+          "title_urdu": "وسیع معنی",
+          "coreInsight_urdu": "'سائل' میں مادی بھکاری اور روحانی تلاش کرنے والے دونوں شامل ہیں جو سوالات پوچھتے ہیں - مدد یا علم تلاش کرتے ہوئے آنے والے تمام لوگوں کے لیے مہربانی کا حکم دیتے ہوئے۔",
+          "whyItMatters_urdu": "یہ ہماری مہربانی کے فرض کو صدقہ سے آگے بڑھاتا ہے تاکہ روحانی تلاش کرنے والوں، طلباء، اور کسی کے ساتھ بھی صبر شامل کریں جو حقیقی طور پر رہنمائی مانگ رہے ہیں۔",
+          "title_ar": "المعنى الواسع",
+          "coreInsight_ar": "'السائل' يشمل كلاً من المتسولين الماديين والباحثين الروحيين الذين يطرحون أسئلة - آمرًا باللطف لجميع الذين يقتربون طالبين المساعدة أو المعرفة.",
+          "whyItMatters_ar": "هذا يوسع واجب اللطف لدينا إلى ما وراء الصدقة ليشمل الصبر مع الباحثين الروحيين والطلاب وأي شخص يطلب التوجيه بصدق."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize kindness to those who ask based on this verse and related texts. Ibn Kathir and Al-Tabari cite hadith instructing kind treatment of beggars even when not giving to them. Al-Qurtubi discusses the etiquette of declining requests while maintaining the person's dignity. These teachings align with Shia scholarship. Both traditions cite hadith praising generosity and warning against harshness to those in need. The interpretation that 'sa'il' includes seekers of knowledge appears in both traditions, with extensive discussions in both Shia and Sunni educational literature about the ethics of teaching and the importance of patience with students. Where Shia thought particularly emphasizes the model of the Imams' extreme generosity and kindness, Sunni sources cite similar examples from the Prophet and early companions. Razi discusses the wisdom in connecting the Prophet's experience of poverty with this command, a point developed in Shia tafsir as well. Both traditions understand this verse as establishing an ethical principle about compassionate treatment of those who seek help, whether material, educational, or spiritual. The practical application is consistent across schools: respond to requests with kindness and respect even when unable or unwilling to fulfill them, preserving the dignity of all people regardless of their circumstances.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت اور متعلقہ نصوص کی بنیاد پر مانگنے والوں کے ساتھ مہربانی پر زور دیتی ہیں۔ ابن کثیر اور طبری نے وہ احادیث نقل کی ہیں جن میں بھکاریوں کے ساتھ مہربان سلوک اور ان کے ساتھ سختی پر تنبیہ کا حکم ہے۔ قرطبی نے عزت قائم رکھتے ہوئے درخواست رد کرنے کے آداب پر بحث کی ہے، جو شیعہ علمی موقف سے ہم آہنگ ہے۔ دونوں روایات سخاوت کی فضیلت اور ضرورتمندوں کے ساتھ سختی پر تنبیہ کی احادیث نقل کرتی ہیں۔ 'سائل' میں علم کے طالبین کی شمولیت دونوں روایات میں ملتی ہے، جن میں تعلیم کے آداب اور طلبا کے ساتھ صبر کی اہمیت پر وسیع بحث موجود ہے۔ شیعہ فکر میں ائمہ علیہم السلام کی انتہائی سخاوت اور مہربانی کے نمونوں پر خاص زور دیا جاتا ہے جبکہ سنی مصادر آنحضرت اور صحابہ کی اسی قسم کی مثالیں پیش کرتے ہیں۔ رازی نے آنحضرت کی غربت کے تجربے کو اس حکم سے جوڑنے میں حکمت کو بیان کیا ہے۔ دونوں روایات ایک ایسا اخلاقی اصول سمجھتی ہیں جو مدد مانگنے والوں کے ساتھ ہمدردانہ سلوک کا تقاضا کرتا ہے، چاہے درخواست پوری کی جائے یا نہ کی جائے، اور ہر شخص کی کرامت کو برقرار رکھنا ضروری ہے۔",
+    "layer4_ar": "يُشدِّد كلا التراثين الشيعي والسني على اللطف بأهل الحاجة استناداً إلى هذه الآية والنصوص المرتبطة بها. فابن كثير والطبري يستشهدان بأحاديث توجِّه إلى معاملة السائلين بلطف حتى حين يتعذر الإعطاء، والقرطبي يتناول آداب رفض الطلب مع صون كرامة الشخص. وهذه التعاليم تتوافق مع ما في التراث الشيعي. ويستشهد التراثان بأحاديث تُثني على الكرم وتُحذِّر من القسوة على المحتاجين. ويرد التفسير القائل بأن \"السائل\" يشمل طالبي العلم في كلا التراثين مع مباحث واسعة في الأدب الشيعي والسني التربوي حول أخلاقيات التعليم وأهمية الصبر مع الطلاب. والتركيز الشيعي الخاص يتجلى في نمذجة الأئمة بكرمهم المتناهي ولطفهم، بينما تستشهد المصادر السنية بأمثلة مماثلة من سيرة النبي وصحابته. ويناقش الرازي الحكمة من ربط فقر النبي بهذا الأمر وهو ما يُعمِّقه التفسير الشيعي كذلك. ويفهم التراثان هذه الآية تأسيساً لمبدأ أخلاقي في التعامل الرحيم مع طالبي المساعدة مادية كانت أم تعليمية أم روحية. والتطبيق العملي متسق عبر كل المذاهب: تلقَّ الطلبات بلطف واحترام حتى حين لا تستطيع أو لا تُريد تلبيتها، محافظاً على كرامة الإنسان بصرف النظر عن ظروفه."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "93:11:proclaim-blessings",
+          "title": "Declare Favors",
+          "icon": "megaphone.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah commands 'As for the favor of your Lord, proclaim it' - telling the Prophet to speak openly about divine blessings rather than hiding them in false humility.",
+          "whyItMatters": "Sharing how Allah helped us isn't bragging but testimony that gives hope to others facing similar struggles and glorifies Allah's generosity.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+          "title_urdu": "احسانات کا اعلان",
+          "coreInsight_urdu": "اللہ حکم دیتے ہیں 'اپنے رب کی نعمت کے بارے میں، بیان کرو' - نبی کو کہتے ہوئے کہ الہی برکتوں کے بارے میں کھل کر بات کریں بجائے اس کے کہ انہیں جھوٹی عاجزی میں چھپائیں۔",
+          "whyItMatters_urdu": "یہ بتانا کہ اللہ نے ہماری کیسے مدد کی شیخی نہیں بلکہ گواہی ہے جو اسی طرح کی جدوجہد کا سامنا کرنے والوں کو امید دیتی ہے اور اللہ کی سخاوت کی تمجید کرتی ہے۔",
+          "title_ar": "إعلان النعم",
+          "coreInsight_ar": "يأمر الله 'وأما بنعمة ربك فحدث' - يخبر النبي بالتحدث علانية عن البركات الإلهية بدلاً من إخفائها في تواضع زائف.",
+          "whyItMatters_ar": "مشاركة كيف ساعدنا الله ليست تفاخرًا بل شهادة تعطي الأمل للآخرين الذين يواجهون نضالات مماثلة وتمجد كرم الله."
+        },
+        {
+          "id": "93:11:speak-blessings",
+          "title": "Tell Your Story",
+          "icon": "text.bubble.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'haddith' means to narrate or recount - Allah wants us to actively share our testimonies of His care, making them known to inspire and encourage others.",
+          "whyItMatters": "Our stories of divine rescue aren't private matters but tools to build faith in struggling believers who need to hear that Allah answers prayers.",
+          "position": "topRight",
+          "arabicHighlight": "فَحَدِّثْ",
+          "title_urdu": "اپنی کہانی سناؤ",
+          "coreInsight_urdu": "لفظ 'حدث' کا مطلب ہے بیان کرنا یا سنانا - اللہ چاہتے ہیں کہ ہم اپنی دیکھ بھال کی گواہیوں کو فعال طور پر بانٹیں، انہیں دوسروں کو متاثر اور حوصلہ افزائی کرنے کے لیے معلوم کریں۔",
+          "whyItMatters_urdu": "ہماری الہی نجات کی کہانیاں نجی معاملات نہیں بلکہ ایمان بنانے کے اوزار ہیں جدوجہد کرنے والے مومنوں میں جنہیں یہ سننے کی ضرورت ہے کہ اللہ دعاؤں کا جواب دیتے ہیں۔",
+          "title_ar": "احكِ قصتك",
+          "coreInsight_ar": "كلمة 'حدث' تعني السرد أو الحكاية - يريد الله منا أن نشارك بنشاط شهاداتنا عن رعايته، جاعلين إياها معروفة لإلهام وتشجيع الآخرين.",
+          "whyItMatters_ar": "قصصنا عن الإنقاذ الإلهي ليست أمورًا خاصة بل أدوات لبناء الإيمان في المؤمنين المناضلين الذين يحتاجون إلى سماع أن الله يستجيب للصلوات."
+        },
+        {
+          "id": "93:11:complete-gratitude",
+          "title": "Perfect Thanks",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This final command completes the surah's message - remembering past blessings (verses 6-8), showing gratitude through action (verses 9-10), and expressing thanks through words (verse 11).",
+          "whyItMatters": "Complete gratitude has three dimensions: remembering what Allah did, helping others as He helped us, and proclaiming His favors - all three together honor divine generosity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِنِعْمَةِ رَبِّكَ",
+          "title_urdu": "کامل شکر",
+          "coreInsight_urdu": "یہ آخری حکم سورہ کے پیغام کو مکمل کرتا ہے - ماضی کی برکتوں کو یاد کرنا (آیات 6-8)، عمل کے ذریعے شکر گزاری ظاہر کرنا (آیات 9-10)، اور الفاظ کے ذریعے شکریہ ادا کرنا (آیت 11)۔",
+          "whyItMatters_urdu": "مکمل شکر گزاری کی تین جہتیں ہیں: یاد کرنا کہ اللہ نے کیا کیا، دوسروں کی مدد کرنا جیسے اس نے ہماری مدد کی، اور اس کے احسانات کا اعلان کرنا - تینوں مل کر الہی سخاوت کا احترام کرتے ہیں۔",
+          "title_ar": "الشكر الكامل",
+          "coreInsight_ar": "هذا الأمر الأخير يكمل رسالة السورة - تذكر البركات الماضية (آيات 6-8)، إظهار الامتنان من خلال العمل (آيات 9-10)، والتعبير عن الشكر من خلال الكلمات (آية 11).",
+          "whyItMatters_ar": "الامتنان الكامل له ثلاثة أبعاد: تذكر ما فعله الله، ومساعدة الآخرين كما ساعدنا، وإعلان نعمه - جميعها معًا تكرّم الكرم الإلهي."
+        },
+        {
+          "id": "93:11:prophetic-mission",
+          "title": "Mission Reminder",
+          "icon": "arrow.up.message.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This command also reminds the Prophet of his prophetic mission - to proclaim the greatest blessing of all, divine revelation and guidance to humanity.",
+          "whyItMatters": "Each believer shares this mission proportionally - to share the guidance we've received, making known the truth that transformed our lives.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَبِّكَ",
+          "title_urdu": "مشن کی یاد دہانی",
+          "coreInsight_urdu": "یہ حکم نبی کو ان کے نبوی مشن کی بھی یاد دلاتا ہے - سب سے بڑی برکت کا اعلان کرنا، الہی وحی اور انسانیت کے لیے رہنمائی۔",
+          "whyItMatters_urdu": "ہر مومن اس مشن کو متناسب طور پر بانٹتا ہے - جو رہنمائی ہم نے حاصل کی ہے اسے بانٹنا، اس سچائی کو معلوم کرنا جس نے ہماری زندگیوں کو تبدیل کیا۔",
+          "title_ar": "تذكير بالمهمة",
+          "coreInsight_ar": "هذا الأمر يذكّر النبي أيضًا بمهمته النبوية - إعلان أعظم البركات جميعًا، الوحي الإلهي والتوجيه للبشرية.",
+          "whyItMatters_ar": "كل مؤمن يشارك في هذه المهمة بشكل متناسب - لمشاركة التوجيه الذي تلقيناه، جاعلين الحقيقة التي حولت حياتنا معروفة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize gratitude as essential to faith, and this verse is universally understood as commanding expression of thankfulness for Allah's favors. Ibn Kathir and Al-Tabari explain that the Prophet fulfilled this command by proclaiming his message and teaching people about Allah's blessings. Al-Qurtubi discusses how believers should speak about blessings without arrogance, a point emphasized in Shia scholarship as well. Both traditions cite the hadith that not thanking people is part of not thanking Allah, connecting gratitude to Allah with appreciation for those through whom blessings come. The interpretation that speaking about blessings includes teaching Islam and sharing beneficial knowledge appears in both traditions. Razi explores the relationship between gratitude and increase in blessings, a theme extensively developed in both Shia and Sunni spiritual literature. Where Shia thought particularly emphasizes the models of the Imams in expressing gratitude during trials, Sunni sources cite similar examples from the Prophet and companions facing difficulties with gratitude. Both traditions understand this verse as concluding the surah by teaching that the proper response to divine blessings is grateful acknowledgment expressed through words and righteous actions. The practical application is consistent: believers should regularly recognize and speak about Allah's favors while using those blessings in ways that please Him.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات شکرگزاری کو ایمان کا لازمی جزو مانتی ہیں اور یہ آیت سب کے نزدیک اللہ کی نعمتوں پر تشکر کے اظہار کا حکم ہے۔ ابن کثیر اور طبری نے وضاحت کی کہ آنحضرت نے اپنا پیغام پھیلا کر اور لوگوں کو اللہ کی نعمتوں کی تعلیم دے کر اس حکم کو پورا کیا۔ قرطبی نے اس بات پر بحث کی کہ مسلمان تکبر کے بغیر کس طرح نعمتوں کا بیان کریں، جو شیعہ علمی موقف سے بھی ہم آہنگ ہے۔ دونوں روایات اس حدیث کو نقل کرتی ہیں کہ لوگوں کا شکر ادا نہ کرنا اللہ کا شکر ادا نہ کرنے کا حصہ ہے۔ اس طرح اللہ کا شکر اور ان لوگوں کی تعریف جن کے ذریعے نعمتیں آئیں، آپس میں جڑی ہوئی ہیں۔ نعمتوں کا بیان کرنے میں اسلام کی تعلیم اور مفید علم کا بانٹنا دونوں روایات میں ملتا ہے۔ رازی نے شکرگزاری اور نعمتوں میں اضافے کے تعلق کو بیان کیا ہے جو دونوں روایات کے روحانی ادب میں وسیع پیمانے پر ملتا ہے۔ شیعہ فکر میں خاص طور پر آزمائشوں کے دوران ائمہ علیہم السلام کے شکرگزاری کے نمونوں پر زور دیا جاتا ہے جبکہ سنی مصادر آنحضرت اور صحابہ کی اسی طرح کی مثالیں پیش کرتے ہیں۔ دونوں روایات اس آیت کو یہ سکھا کر سورہ کا اختتام سمجھتی ہیں کہ الہی نعمتوں کا مناسب جواب الفاظ اور نیک اعمال کے ذریعے شکرگزار اعتراف ہے اور ان نعمتوں کو اللہ کو راضی کرنے والے طریقے سے استعمال کرنا ہے۔",
+    "layer4_ar": "يُؤكِّد كلا التراثين الشيعي والسني أن الشكر ركنٌ من أركان الإيمان، وتُفهم هذه الآية عالمياً بوصفها أمراً بالتعبير عن الامتنان لنعم الله. فابن كثير والطبري يُبيِّنان أن النبي امتثل هذا الأمر بإعلان رسالته وتعليم الناس نعم الله. ويناقش القرطبي كيفية التحديث بالنعم دون الوقوع في شَرَك الغرور، وهو ما يُؤكِّده التراث الشيعي أيضاً. ويستشهد كلا التراثين بحديث أن عدم شكر الناس جزء من عدم شكر الله، مُربطاً الامتنان لله بتقدير من تأتي النعمة على أيديهم. ويرد تفسير التحديث بالنعم على أنه يشمل تعليم الإسلام ومشاركة العلم النافع في التراثين معاً. ويستكشف الرازي العلاقة بين الشكر وزيادة النعمة، وهو موضوع طوَّره الأدبُ الروحي الشيعي والسني. والإضافة الشيعية الخاصة تتجلى في نمذجة الأئمة للشكر في الشدائد، وتستشهد المصادر السنية بأمثلة مشابهة من سيرة النبي والصحابة حين واجهوا الضيق بالشكر. ويرى كلا التراثين في هذه الآية ختاماً للسورة يُعلِّم أن الاستجابة الصحيحة للنعم الإلهية هي الاعتراف الممتن المُعبَّر عنه بالكلام والعمل الصالح. والتطبيق العملي متسق: على المؤمنين الاعتراف بنعم الله والتحديث بها باستمرار مع توظيف تلك النعم في كل ما يُرضيه سبحانه."
+  }
+}

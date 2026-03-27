@@ -1,0 +1,319 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "105:1:divine-reflection",
+          "title": "Divine Reflection",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The rhetorical question 'Alam tara' (Have you not seen?) invites deep contemplation on Allah's power in history, urging believers to reflect on divine intervention rather than merely observe it.",
+          "whyItMatters": "This questioning style teaches us that faith requires active reflection on Allah's signs in history, transforming historical events into spiritual lessons.",
+          "position": "topLeft",
+          "arabicHighlight": "أَلَمْ تَرَ",
+          "title_urdu": "الہی غور و فکر",
+          "coreInsight_urdu": "بیانیہ سوال 'الم تر' (کیا تم نے نہیں دیکھا؟) تاریخ میں اللہ کی طاقت پر گہری غور و فکر کی دعوت دیتا ہے، مومنین سے کہتا ہے کہ محض مشاہدے کے بجائے الہی مداخلت پر غور کریں۔",
+          "whyItMatters_urdu": "یہ سوالیہ انداز سکھاتا ہے کہ ایمان تاریخ میں اللہ کی نشانیوں پر فعال غور و فکر کا تقاضا کرتا ہے، تاریخی واقعات کو روحانی سبق میں تبدیل کرتا ہے۔",
+          "title_ar": "التأمل الإلهي",
+          "coreInsight_ar": "السؤال البلاغي 'ألم تر' (ألم ترَ؟) يدعو إلى التأمل العميق في قوة الله في التاريخ، حاثاً المؤمنين على التفكر في التدخل الإلهي بدلاً من مجرد ملاحظته.",
+          "whyItMatters_ar": "هذا الأسلوب الاستفهامي يعلمنا أن الإيمان يتطلب تأملاً نشطاً في آيات الله في التاريخ، محولاً الأحداث التاريخية إلى دروس روحية."
+        },
+        {
+          "id": "105:1:lords-dealing",
+          "title": "Divine Action",
+          "icon": "bolt.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'kayfa fa'ala Rabbuka' (how your Lord dealt) emphasizes Allah's direct intervention in protecting the sacred Kaaba, demonstrating His active role in defending His House.",
+          "whyItMatters": "This reminds us that Allah actively protects what is sacred to Him, and those who attack His sanctities will face His overwhelming power.",
+          "position": "topRight",
+          "arabicHighlight": "كَيْفَ فَعَلَ رَبُّكَ",
+          "title_urdu": "الہی عمل",
+          "coreInsight_urdu": "جملہ 'کیف فعل ربک' (تمہارے رب نے کیسے نمٹا) مقدس کعبہ کی حفاظت میں اللہ کی براہ راست مداخلت پر زور دیتا ہے، اپنے گھر کے دفاع میں اس کے فعال کردار کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ اللہ اپنے لیے مقدس چیزوں کی فعال طور پر حفاظت کرتا ہے، اور جو اس کی مقدسات پر حملہ کرتے ہیں وہ اس کی زبردست طاقت کا سامنا کریں گے۔",
+          "title_ar": "الفعل الإلهي",
+          "coreInsight_ar": "عبارة 'كيف فعل ربك' (كيف تعامل ربك) تؤكد على تدخل الله المباشر في حماية الكعبة المقدسة، مما يوضح دوره النشط في الدفاع عن بيته.",
+          "whyItMatters_ar": "هذا يذكرنا بأن الله يحمي بنشاط ما هو مقدس له، وأن من يهاجمون مقدساته سيواجهون قوته الساحقة."
+        },
+        {
+          "id": "105:1:companions-elephant",
+          "title": "Army of Arrogance",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The 'Ashab al-Fil' (companions of the elephant) refers to Abraha's army that attempted to destroy the Kaaba in 570 CE, the year of Prophet Muhammad's birth, symbolizing human arrogance against divine authority.",
+          "whyItMatters": "This event demonstrates that no worldly power, no matter how mighty, can succeed against Allah's will, teaching humility before divine authority.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِأَصْحَٰبِ ٱلْفِيلِ",
+          "title_urdu": "تکبر کی فوج",
+          "coreInsight_urdu": "اصحاب الفیل (ہاتھی والے) ابرہہ کی فوج کی طرف اشارہ ہے جس نے 570 عیسوی میں کعبہ کو تباہ کرنے کی کوشش کی، نبی محمد کی پیدائش کا سال، الہی اختیار کے خلاف انسانی تکبر کی علامت۔",
+          "whyItMatters_urdu": "یہ واقعہ ظاہر کرتا ہے کہ کوئی دنیوی طاقت، چاہے کتنی ہی طاقتور ہو، اللہ کی مرضی کے خلاف کامیاب نہیں ہو سکتی، الہی اختیار کے سامنے عاجزی سکھاتی ہے۔",
+          "title_ar": "جيش الغطرسة",
+          "coreInsight_ar": "يشير 'أصحاب الفيل' (أصحاب الفيل) إلى جيش أبرهة الذي حاول تدمير الكعبة في عام 570 م، عام ميلاد النبي محمد، رمزاً للغطرسة البشرية ضد السلطة الإلهية.",
+          "whyItMatters_ar": "يوضح هذا الحدث أنه لا يمكن لأي قوة دنيوية، مهما كانت قوية، أن تنجح ضد إرادة الله، مما يعلم التواضع أمام السلطة الإلهية."
+        },
+        {
+          "id": "105:1:year-elephant",
+          "title": "Sacred Timing",
+          "icon": "clock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The Year of the Elephant marks the birth year of Prophet Muhammad (PBUH), showing Allah's protection of the Kaaba in preparation for the final Prophet who would restore its monotheistic purpose.",
+          "whyItMatters": "This demonstrates Allah's perfect planning in history, protecting the sacred house before sending the final messenger to all humanity.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْفِيلِ",
+          "title_urdu": "مقدس وقت",
+          "coreInsight_urdu": "ہاتھی کا سال نبی محمد کی پیدائش کا سال ہے، جو آخری نبی کی آمد سے پہلے کعبہ کی اللہ کی حفاظت کو ظاہر کرتا ہے جو اس کے توحیدی مقصد کو بحال کریں گے۔",
+          "whyItMatters_urdu": "یہ تاریخ میں اللہ کی کامل منصوبہ بندی کو ظاہر کرتا ہے، تمام انسانیت کے لیے آخری رسول بھیجنے سے پہلے مقدس گھر کی حفاظت کرتے ہوئے۔",
+          "title_ar": "التوقيت المقدس",
+          "coreInsight_ar": "يمثل عام الفيل عام ميلاد النبي محمد صلى الله عليه وسلم، مما يظهر حماية الله للكعبة استعداداً للنبي الأخير الذي سيستعيد غرضها التوحيدي.",
+          "whyItMatters_ar": "يوضح هذا التخطيط المثالي لله في التاريخ، حماية البيت المقدس قبل إرسال الرسول الأخير لجميع البشرية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the historical authenticity and significance of the Year of the Elephant, with only minor variations in narrated details. Ibn Kathir, Tabari, and Qurtubi in their tafsirs confirm the basic narrative: Abrahah's army was miraculously destroyed before reaching the Kaaba. Sunni sources like Ibn Hisham's Sirah provide extensive historical details that align with Shia accounts. The main consensus includes the date (approximately 570 CE), Abrahah's motivation (to divert pilgrimage to his cathedral in Sanaa), the presence of elephants in his army, and the miraculous intervention through birds carrying stones. Where traditions differ is primarily in emphasis rather than substance. Shia exegetes tend to emphasize this event as divine preparation for the Prophet's mission and as evidence of Allah's protection of the Ahlul Bayt before Islam's formal revelation. Sunni scholars often focus on the event as proof of the Kaaba's sanctity and a warning against arrogance. Both traditions cite Ibn Abbas's interpretation of the rhetorical question as emphasizing certainty. Fakhr al-Din al-Razi notes that this event was so well-known that even the pagan Quraysh could not deny it, making it powerful evidence of divine intervention. Both schools recognize that Abdul-Muttalib's faith in Allah's protection of His House prefigures Islamic monotheism, and that this event served to sanctify Mecca in preparation for its role as Islam's spiritual center.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء عام الفیل کی تاریخی صداقت اور اہمیت پر متفق ہیں، صرف بیان کی گئی تفصیلات میں معمولی فرق کے ساتھ۔ ابن کثیر، طبری، اور قرطبی نے اپنی تفاسیر میں بنیادی بیانیہ کی تصدیق کی ہے: ابرہہ کی فوج معجزانہ طور پر کعبہ تک پہنچنے سے پہلے تباہ ہو گئی۔ ابن ہشام کی سیرت جیسے سنی ذرائع وسیع تاریخی تفصیلات فراہم کرتے ہیں جو شیعہ روایات کے ساتھ ہم آہنگ ہیں۔ اہم اجماع میں تاریخ (تقریباً 570 عیسوی)، ابرہہ کا محرک (حج کو صنعاء میں اپنے گرجا گھر کی طرف موڑنا)، اس کی فوج میں ہاتھیوں کی موجودگی، اور پتھر لے کر آنے والے پرندوں کے ذریعے معجزانہ مداخلت شامل ہے۔ جہاں روایات مختلف ہوتی ہیں وہ بنیادی طور پر مضمون کی بجائے زور میں ہے۔ شیعہ مفسرین اس واقعے کو نبی کے مشن کی الہی تیاری اور اسلام کے رسمی نزول سے پہلے اہل بیت کی اللہ کی حفاظت کے ثبوت کے طور پر زور دیتے ہیں۔ سنی علماء اکثر اس واقعے کو کعبہ کی تقدس کے ثبوت اور تکبر کے خلاف تنبیہ کے طور پر توجہ مرکوز کرتے ہیں۔ دونوں روایات ابن عباس کی بلاغتی سوال کی تشریح کو بیان کرتی ہیں جو یقین پر زور دیتا ہے۔ فخر الدین رازی نوٹ کرتے ہیں کہ یہ واقعہ اتنا مشہور تھا کہ مشرک قریش بھی اس کا انکار نہیں کر سکتے تھے، جو اسے الہی مداخلت کا طاقتور ثبوت بناتا ہے۔ دونوں مکاتب فکر تسلیم کرتے ہیں کہ عبدالمطلب کا اپنے گھر کی اللہ کی حفاظت پر ایمان اسلامی توحید کی پیش گوئی کرتا ہے، اور یہ واقعہ مکہ کو اسلام کے روحانی مرکز کے طور پر اس کے کردار کی تیاری میں مقدس بنانے کے لیے کام کرتا ہے۔",
+    "layer4_ar": "اتفق علماء الشيعة والسنة على الصحة التاريخية لحادثة عام الفيل وجلالة مكانتها، مع تفاوت يسير في تفاصيل بعض الروايات. فقد أثبت ابن كثير والطبري والقرطبي في تفاسيرهم الأطار العام للقصة: إهلاك جيش أبرهة بمعجزة إلهية قبل بلوغه الكعبة. وتُقدِّم المصادر السنية كسيرة ابن هشام تفاصيل تاريخية واسعة تتوافق مع الروايات الشيعية. وتشمل نقاط الإجماع: التأريخ بنحو سنة سبعمئة وسبعين للميلاد، ودافع أبرهة المتمثل في تحويل الحج إلى كنيسته في صنعاء، وامتلاكه الفيلة، والتدخل المعجز بالطير. وموضع الخلاف هو النبرة لا الجوهر؛ إذ يميل المفسرون الشيعة إلى تصوير الحادث إعداداً إلهياً لمهمة النبي ودليلاً على رعاية الله لأهل البيت قبل الإسلام، بينما ينصبُّ اهتمام علماء السنة في الغالب على الحادث شاهداً على حرمة الكعبة ونذيراً من الكبر. ويستشهد العالمان بتفسير ابن عباس للاستفهام البلاغي بوصفه توكيداً لليقين. ويُنبِّه فخر الدين الرازي إلى أن هذا الحادث كان من الشهرة بمكان حتى لم يجرؤ مشركو قريش على إنكاره، فكان أبلغ دليل على التدخل الإلهي. ويتفق المذهبان على أن إيمان عبد المطلب بحفظ الله لبيته يسبق الإسلام الرسمي ويُعلن التوحيد، وأن هذا الحادث قدَّس مكة تمهيداً لدورها مركزاً روحياً للإسلام."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "105:2:their-plot",
+          "title": "Failed Scheme",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The word 'kaydahum' (their plot/scheme) refers to Abraha's carefully planned military campaign with elephants and vast resources, yet Allah rendered it completely futile.",
+          "whyItMatters": "This teaches that elaborate human schemes against Allah's will are ultimately worthless, no matter how well-planned or resourced they appear.",
+          "position": "topLeft",
+          "arabicHighlight": "كَيْدَهُمْ",
+          "title_urdu": "ناکام منصوبہ",
+          "coreInsight_urdu": "لفظ 'کیدہم' (ان کی سازش/چال) ابرہہ کی ہاتھیوں اور وسیع وسائل کے ساتھ احتیاط سے منصوبہ بند فوجی مہم کی طرف اشارہ ہے، پھر بھی اللہ نے اسے مکمل طور پر بیکار بنا دیا۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ اللہ کی مرضی کے خلاف پیچیدہ انسانی منصوبے آخر کار بیکار ہیں، چاہے وہ کتنی ہی اچھی طرح منصوبہ بند یا وسائل سے بھرپور دکھائی دیں۔",
+          "title_ar": "المؤامرة الفاشلة",
+          "coreInsight_ar": "تشير كلمة 'كيدهم' (مكرهم/مؤامرتهم) إلى الحملة العسكرية المخططة بعناية لأبرهة بالفيلة والموارد الهائلة، لكن الله جعلها عديمة الجدوى تماماً.",
+          "whyItMatters_ar": "يعلم هذا أن المخططات البشرية المعقدة ضد إرادة الله لا قيمة لها في النهاية، مهما كانت مخططة جيداً أو مليئة بالموارد."
+        },
+        {
+          "id": "105:2:into-misguidance",
+          "title": "Divine Defeat",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'fi tadlil' (into misguidance/error) shows how Allah transformed their aggressive plan into complete failure and confusion, turning their strength into weakness.",
+          "whyItMatters": "This demonstrates that Allah can turn any enemy's strength into their downfall, protecting believers through unexpected means.",
+          "position": "topRight",
+          "arabicHighlight": "فِى تَضْلِيلٍۢ",
+          "title_urdu": "الہی شکست",
+          "coreInsight_urdu": "جملہ 'فی تضلیل' (گمراہی/غلطی میں) ظاہر کرتا ہے کہ اللہ نے کس طرح ان کے جارحانہ منصوبے کو مکمل ناکامی اور الجھن میں تبدیل کر دیا، ان کی طاقت کو کمزوری میں بدل دیا۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ اللہ کسی بھی دشمن کی طاقت کو ان کے زوال میں بدل سکتا ہے، غیر متوقع ذرائع سے مومنین کی حفاظت کرتا ہے۔",
+          "title_ar": "الهزيمة الإلهية",
+          "coreInsight_ar": "تظهر عبارة 'في تضليل' (في الضلال/الخطأ) كيف حول الله خطتهم العدوانية إلى فشل وارتباك تام، محولاً قوتهم إلى ضعف.",
+          "whyItMatters_ar": "يوضح هذا أن الله يمكنه تحويل قوة أي عدو إلى سقوطه، محمياً المؤمنين بوسائل غير متوقعة."
+        },
+        {
+          "id": "105:2:rhetorical-question",
+          "title": "Affirming Victory",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The rhetorical question 'Alam yaj'al' (Did He not make?) emphasizes the certainty of Allah's intervention, affirming His complete victory over the invaders.",
+          "whyItMatters": "This questioning style reinforces faith by making believers reflect on the undeniable evidence of Allah's power in protecting His sacred House.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَلَمْ يَجْعَلْ",
+          "title_urdu": "فتح کی تصدیق",
+          "coreInsight_urdu": "بیانیہ سوال 'الم یجعل' (کیا اس نے نہیں بنایا؟) اللہ کی مداخلت کی یقینی صورت پر زور دیتا ہے، حملہ آوروں پر اس کی مکمل فتح کی تصدیق کرتا ہے۔",
+          "whyItMatters_urdu": "یہ سوالیہ انداز مومنین کو اپنے مقدس گھر کی حفاظت میں اللہ کی طاقت کے ناقابل تردید ثبوت پر غور کرنے کی ترغیب دے کر ایمان کو مضبوط کرتا ہے۔",
+          "title_ar": "تأكيد النصر",
+          "coreInsight_ar": "السؤال البلاغي 'ألم يجعل' (ألم يجعل؟) يؤكد على يقين تدخل الله، مؤكداً انتصاره الكامل على الغزاة.",
+          "whyItMatters_ar": "يعزز هذا الأسلوب الاستفهامي الإيمان من خلال جعل المؤمنين يتأملون في الأدلة التي لا يمكن إنكارها على قوة الله في حماية بيته المقدس."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes unanimously agree on the meaning and significance of this verse. Ibn Kathir explains that Allah made their plot go astray and fail completely, while Tabari notes that their careful planning came to nothing. Qurtubi emphasizes that the word 'tadlil' indicates utter confusion and wandering without direction, highlighting the completeness of their defeat. Fakhr al-Din al-Razi adds philosophical depth, explaining that human scheming against divine decree is logically impossible to succeed, as the Creator's will always supersedes creation's intentions. Both Shia and Sunni sources cite similar narrations from Ibn Abbas regarding the term 'tadlil,' interpreting it as both the failure of the plan and the destruction that befell its architects. Where interpretations converge most strongly is in understanding this verse as establishing a universal principle: opposition to what Allah protects will inevitably fail. Sunni scholars often emphasize this as evidence of Allah's power and sovereignty, while Shia scholars additionally connect it to the concept of divine guardianship (wilayah) over sacred spaces and righteous causes. Both traditions recognize that this verse provided comfort to early Muslims facing persecution, as it demonstrated that their oppressors' plans, like Abrahah's, would ultimately fail. The consensus on this verse's interpretation reflects its clarity in conveying a message of divine justice and protection that resonates across all Islamic schools of thought.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کے معنی اور اہمیت پر متفقہ طور پر متفق ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ اللہ نے ان کی سازش کو بھٹکا دیا اور مکمل طور پر ناکام بنا دیا، جبکہ طبری نوٹ کرتے ہیں کہ ان کی محتاط منصوبہ بندی کچھ نہیں رہی۔ قرطبی اس بات پر زور دیتے ہیں کہ لفظ 'تضلیل' مکمل الجھن اور بغیر سمت کے بھٹکنے کی نشاندہی کرتا ہے، ان کی شکست کی مکملیت کو اجاگر کرتے ہوئے۔ فخر الدین رازی فلسفیانہ گہرائی شامل کرتے ہیں، وضاحت کرتے ہوئے کہ الہی فرمان کے خلاف انسانی سازش کا کامیاب ہونا منطقی طور پر ناممکن ہے، کیونکہ خالق کی مشیت ہمیشہ مخلوق کے ارادوں پر غالب آتی ہے۔ شیعہ اور سنی دونوں ذرائع ابن عباس سے لفظ 'تضلیل' کے بارے میں ملتی جلتی روایات بیان کرتے ہیں، اسے منصوبے کی ناکامی اور اس کے معماروں کی تباہی دونوں کے طور پر تشریح کرتے ہوئے۔ جہاں تشریحات سب سے زیادہ مضبوطی سے اکٹھی ہوتی ہیں وہ ہے اس آیت کو ایک عالمگیر اصول کے طور پر سمجھنا: جو کچھ اللہ محفوظ رکھتا ہے اس کی مخالفت لامحالہ ناکام ہوگی۔ سنی علماء اکثر اسے اللہ کی قدرت اور خودمختاری کے ثبوت کے طور پر زور دیتے ہیں، جبکہ شیعہ علماء اضافی طور پر اسے مقدس مقامات اور نیک مقاصد پر الہی ولایت کے تصور سے جوڑتے ہیں۔ دونوں روایات تسلیم کرتی ہیں کہ اس آیت نے ابتدائی مسلمانوں کو ظلم و ستم کا سامنا کرتے ہوئے تسلی فراہم کی، کیونکہ اس نے ظاہر کیا کہ ان کے ظالموں کے منصوبے، ابرہہ کی طرح، بالآخر ناکام ہوں گے۔ اس آیت کی تشریح پر اتفاق رائے تمام اسلامی مکاتب فکر میں گونجنے والے الہی عدل اور حفاظت کے پیغام کو پہنچانے میں اس کی وضاحت کی عکاسی کرتا ہے۔",
+    "layer4_ar": "أجمع مفسرو الشيعة والسنة على معنى هذه الآية ومغزاها إجماعاً تاماً. فقد بيَّن ابن كثير أن الله أضلَّ كيدهم وأبطله إبطالاً كاملاً، وأشار الطبري إلى أن تدبيرهم المحكم لم يُغن عنهم شيئاً. وأبرز القرطبي أن \"التضليل\" يُفيد الحيرة التامة والتيه الشامل، مما يدل على اكتمال هزيمتهم. وأضاف فخر الدين الرازي عمقاً فلسفياً، إذ أوضح أن سعي الإنسان ضد القضاء الإلهي مستحيل النجاح منطقياً لأن مشيئة الخالق تعلو على إرادة المخلوق في جميع الأحوال. ويستشهد العالمان الشيعي والسني بروايات متشابهة عن ابن عباس في تفسير \"التضليل\"، فيفهمانه إخفاقاً للخطة وإهلاكاً لأصحابها معاً. وأقوى نقاط التلاقي بين المذهبين في هذه الآية تظهر في فهم الآية مبدأً كونياً شاملاً: كل اعتداء على ما يحميه الله لا بد أن يُخفق. وكثيراً ما يُركِّز علماء السنة على هذا الأمر دليلاً على قدرة الله وسيادته، بينما يربطه علماء الشيعة فضلاً عن ذلك بمفهوم الولاية الإلهية على الأماكن المقدسة والأسباب الحقة. ويتفق المذهبان على أن هذه الآية قدَّمت للمسلمين الأوائل المضطهدين عزاءً بالغاً بإثباتها أن مخططات مضطهديهم، كمخطط أبرهة، ستنتهي حتماً إلى الإخفاق. والإجماع على تفسير هذه الآية يعكس صفاء دلالتها في إيصال رسالة العدل الإلهي والحماية الربانية التي تتجاوز حدود المذاهب والمدارس."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "105:3:sent-against-them",
+          "title": "Divine Army",
+          "icon": "paperplane.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'wa arsala 'alayhim' (and He sent against them) shows Allah deploying His creation as an army, using simple birds to defeat a powerful human military force.",
+          "whyItMatters": "This teaches that Allah's smallest creatures can defeat the mightiest human armies, reminding us that true power belongs only to Him.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَرْسَلَ عَلَيْهِمْ",
+          "title_urdu": "الہی فوج",
+          "coreInsight_urdu": "جملہ 'و ارسل علیہم' (اور اس نے ان پر بھیجا) اللہ کو اپنی تخلیق کو ایک فوج کے طور پر تعینات کرتے ہوئے دکھاتا ہے، طاقتور انسانی فوجی قوت کو شکست دینے کے لیے سادہ پرندوں کا استعمال کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ اللہ کی سب سے چھوٹی مخلوق سب سے طاقتور انسانی فوجوں کو شکست دے سکتی ہے، ہمیں یاد دلاتی ہے کہ حقیقی طاقت صرف اسی کی ہے۔",
+          "title_ar": "الجيش الإلهي",
+          "coreInsight_ar": "تظهر عبارة 'وأرسل عليهم' (وأرسل عليهم) الله وهو ينشر خلقه كجيش، مستخدماً طيوراً بسيطة لهزيمة قوة عسكرية بشرية قوية.",
+          "whyItMatters_ar": "يعلم هذا أن أصغر مخلوقات الله يمكنها هزيمة أقوى الجيوش البشرية، مذكراً إيانا بأن القوة الحقيقية لله وحده."
+        },
+        {
+          "id": "105:3:birds-flocks",
+          "title": "Miraculous Birds",
+          "icon": "bird.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The 'tayran ababil' (birds in flocks) were sent by Allah in waves, each carrying stones that would strike the invaders with divine precision and devastating effect.",
+          "whyItMatters": "This miracle demonstrates Allah's control over all creation and His ability to use unexpected means to protect what is sacred.",
+          "position": "topRight",
+          "arabicHighlight": "طَيْرًا أَبَابِيلَ",
+          "title_urdu": "معجزاتی پرندے",
+          "coreInsight_urdu": "طیر ابابیل (جھنڈوں میں پرندے) اللہ نے لہروں میں بھیجے، ہر ایک پتھر لے کر جو حملہ آوروں پر الہی درستگی اور تباہ کن اثر کے ساتھ وار کرتے تھے۔",
+          "whyItMatters_urdu": "یہ معجزہ تمام مخلوق پر اللہ کے کنٹرول اور جو مقدس ہے اس کی حفاظت کے لیے غیر متوقع ذرائع استعمال کرنے کی اس کی صلاحیت کو ظاہر کرتا ہے۔",
+          "title_ar": "الطيور المعجزة",
+          "coreInsight_ar": "أرسل الله 'طيراً أبابيل' (طيوراً في أسراب) في موجات، كل منها يحمل حجارة تضرب الغزاة بدقة إلهية وتأثير مدمر.",
+          "whyItMatters_ar": "تظهر هذه المعجزة سيطرة الله على كل الخلق وقدرته على استخدام وسائل غير متوقعة لحماية ما هو مقدس."
+        },
+        {
+          "id": "105:3:ababil-meaning",
+          "title": "Waves of Judgment",
+          "icon": "waveform",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'ababil' means 'in successive groups or waves,' indicating that the birds came in organized formations, emphasizing the systematic nature of Allah's punishment.",
+          "whyItMatters": "This shows that Allah's punishment is not random chaos but organized justice, teaching us that divine retribution is precise and purposeful.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَبَابِيلَ",
+          "title_urdu": "فیصلے کی لہریں",
+          "coreInsight_urdu": "لفظ 'ابابیل' کا مطلب ہے 'متواتر گروہوں یا لہروں میں'، یہ ظاہر کرتا ہے کہ پرندے منظم شکلوں میں آئے، اللہ کی سزا کی منظم نوعیت پر زور دیتے ہیں۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ اللہ کی سزا بے ترتیب افراتفری نہیں بلکہ منظم انصاف ہے، ہمیں سکھاتی ہے کہ الہی انتقام درست اور مقصد کے ساتھ ہے۔",
+          "title_ar": "موجات القضاء",
+          "coreInsight_ar": "كلمة 'أبابيل' تعني 'في جماعات أو موجات متتالية'، مما يشير إلى أن الطيور جاءت في تشكيلات منظمة، مؤكدة الطبيعة المنهجية لعقاب الله.",
+          "whyItMatters_ar": "يظهر هذا أن عقاب الله ليس فوضى عشوائية بل عدالة منظمة، مما يعلمنا أن العقاب الإلهي دقيق وهادف."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree on the miraculous nature of the birds and their divine mission. Ibn Kathir describes these birds as coming in successive flocks, each carrying stones that would strike Abrahah's soldiers with devastating effect. Tabari preserves multiple narrations about the birds' description, with Sa'id ibn Jubayr reporting they were somewhat smaller than pigeons and had distinctive features. Qurtubi notes that the word 'ababil' was rare in Arabic, with classical lexicographers agreeing it denotes groups coming successively. Both traditions cite reports that each bird carried three stones - one in its beak and one in each claw - showing the precision of this divine intervention. Where Sunni and Shia interpretations converge most clearly is in understanding these birds as supernatural agents of divine will rather than natural phenomena. Fakhr al-Din al-Razi emphasizes that this event demonstrates Allah's power to use the weak to defeat the strong, a theme resonant in both traditions. Some variations exist in descriptions of the birds' appearance, but these are minor compared to the unanimous agreement on their miraculous function. Both schools recognize that this verse served as powerful evidence for the early Muslim community in Mecca that Allah protects His sacred purposes through means beyond human power. The consensus reflects the historical certainty of this event among the Arabs of that era, making it an undeniable proof of divine intervention that both Shia and Sunni scholarship have preserved with remarkable consistency.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین پرندوں کی معجزانہ نوعیت اور ان کے الہی مشن پر متفق ہیں۔ ابن کثیر ان پرندوں کو لگاتار جھنڈوں میں آنے کے طور پر بیان کرتے ہیں، ہر ایک پتھر اٹھائے ہوئے جو ابرہہ کے سپاہیوں کو تباہ کن اثر کے ساتھ مارتے۔ طبری پرندوں کی تفصیل کے بارے میں متعدد روایات محفوظ کرتے ہیں، سعید بن جبیر کی رپورٹ کے ساتھ کہ وہ کبوتروں سے کچھ چھوٹے تھے اور ممتاز خصوصیات رکھتے تھے۔ قرطبی نوٹ کرتے ہیں کہ لفظ 'ابابیل' عربی میں نایاب تھا، کلاسیکی لغت نویسوں کا اتفاق کرتے ہوئے کہ یہ لگاتار آنے والے گروہوں کی نشاندہی کرتا ہے۔ دونوں روایات رپورٹوں کا حوالہ دیتی ہیں کہ ہر پرندے نے تین پتھر اٹھائے - ایک اپنی چونچ میں اور ایک ایک ہر پنجے میں - اس الہی مداخلت کی درستگی کو ظاہر کرتے ہوئے۔ جہاں سنی اور شیعہ تشریحات سب سے واضح طور پر اکٹھی ہوتی ہیں وہ ان پرندوں کو قدرتی مظاہر کی بجائے الہی مشیت کے مافوق الفطرت ایجنٹوں کے طور پر سمجھنے میں ہے۔ فخر الدین رازی اس بات پر زور دیتے ہیں کہ یہ واقعہ اللہ کی طاقت کو ظاہر کرتا ہے کہ وہ کمزور کو استعمال کر کے طاقتور کو شکست دے، ایک موضوع جو دونوں روایات میں گونجتا ہے۔ پرندوں کی ظاہری شکل کی تفصیلات میں کچھ تغیرات موجود ہیں، لیکن یہ ان کے معجزانہ کام پر متفقہ اتفاق کے مقابلے میں معمولی ہیں۔ دونوں مکاتب فکر تسلیم کرتے ہیں کہ یہ آیت مکہ میں ابتدائی مسلم کمیونٹی کے لیے طاقتور ثبوت کے طور پر کام کرتی ہے کہ اللہ انسانی طاقت سے آگے کے ذرائع کے ذریعے اپنے مقدس مقاصد کی حفاظت کرتا ہے۔ اتفاق رائے اس دور کے عربوں میں اس واقعے کی تاریخی یقین کی عکاسی کرتا ہے، جو اسے الہی مداخلت کا ناقابل تردید ثبوت بناتا ہے جسے شیعہ اور سنی دونوں علم نے قابل ذکر مستقل مزاجی کے ساتھ محفوظ کیا ہے۔",
+    "layer4_ar": "اتفق مفسرو الشيعة والسنة على الطابع المعجز للطير ومهمته الإلهية اتفاقاً تاماً. فقد وصف ابن كثير هذه الطيور بأنها أسراب متعاقبة كان في أثرها هلاك جنود أبرهة. وحفظ الطبري روايات متعددة في أوصافها، فروى سعيد بن جبير أنها كانت أصغر من الحمام قليلاً ولها سمات مميزة. وأشار القرطبي إلى أن \"أبابيل\" لفظ نادر في العربية، وأجمع أهل اللغة على أنها تدل على جماعات تجيء متتالية. ويستشهد المذهبان بروايات تُخبر بأن كل طائر كان يحمل ثلاثة أحجار: واحداً في منقاره واثنين في مخلبيه، مما يُبيِّن دقة هذا التدخل الإلهي. وأوضح نقاط التقاء التفسيرين السني والشيعي في فهم هذه الطيور باعتبارها رسلاً إلهيين خارقين لا ظاهرة طبيعية عادية. ويُؤكِّد فخر الدين الرازي أن هذا الحدث يُثبت قدرة الله على استخدام الضعيف لقهر القوي، وهو مبدأ يتردد صداه في الفكرين معاً. وتوجد فروق يسيرة في وصف الطير إلا أنها تبقى هامشية إزاء الإجماع التام على وظيفتها المعجزة. ويُقرُّ الفكران معاً بأن هذه الآية كانت للمجتمع المسلم الأول في مكة دليلاً ساطعاً على أن الله يصون مقاصده المقدسة بما يفوق القدرة البشرية. ويعكس هذا الإجماع اليقين التاريخي بهذا الحدث لدى عرب تلك الحقبة مما جعله حجةً دامغة على التدخل الإلهي حافظ عليها الفكر الشيعي والسني بتناسق لافت."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "105:4:striking-them",
+          "title": "Precision Strike",
+          "icon": "scope",
+          "colorHex": "#E57373",
+          "coreInsight": "The verb 'tarmihim' (striking/pelting them) indicates a targeted, deliberate attack where each bird hit its mark with divine accuracy, not random falling stones.",
+          "whyItMatters": "This precision demonstrates that Allah's punishment is exact and inescapable for those who transgress against His sanctities.",
+          "position": "topLeft",
+          "arabicHighlight": "تَرْمِيهِم",
+          "title_urdu": "درست وار",
+          "coreInsight_urdu": "فعل 'ترمیہم' (ان پر مارنا/پتھراؤ کرنا) ایک ہدف شدہ، جان بوجھ کر حملے کی نشاندہی کرتا ہے جہاں ہر پرندے نے الہی درستگی کے ساتھ اپنے نشانے کو مارا، بے ترتیب گرتے پتھر نہیں۔",
+          "whyItMatters_urdu": "یہ درستگی ظاہر کرتی ہے کہ اللہ کی سزا ان لوگوں کے لیے بالکل درست اور ناقابل فرار ہے جو اس کی مقدسات کے خلاف تجاوز کرتے ہیں۔",
+          "title_ar": "الضربة الدقيقة",
+          "coreInsight_ar": "يشير الفعل 'ترميهم' (رميهم/قذفهم) إلى هجوم مستهدف ومتعمد حيث أصاب كل طائر هدفه بدقة إلهية، وليس حجارة ساقطة عشوائياً.",
+          "whyItMatters_ar": "تظهر هذه الدقة أن عقاب الله دقيق ولا مفر منه لأولئك الذين يتعدون على مقدساته."
+        },
+        {
+          "id": "105:4:stones-sijjil",
+          "title": "Heavenly Stones",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The 'hijaratin min sijjil' (stones of sijjil) were special stones, possibly of baked clay or a hardened material, that caused devastating destruction upon impact.",
+          "whyItMatters": "These weren't ordinary stones but divinely empowered weapons, showing that Allah can transform simple elements into instruments of His will.",
+          "position": "topRight",
+          "arabicHighlight": "بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+          "title_urdu": "آسمانی پتھر",
+          "coreInsight_urdu": "حجارۃ من سجیل (سجیل کے پتھر) خاص پتھر تھے، ممکنہ طور پر پکی مٹی یا سخت مواد کے، جو ٹکراؤ پر تباہ کن تباہی کا سبب بنتے تھے۔",
+          "whyItMatters_urdu": "یہ عام پتھر نہیں تھے بلکہ الہی طور پر بااختیار ہتھیار تھے، یہ ظاہر کرتے ہیں کہ اللہ سادہ عناصر کو اپنی مرضی کے آلات میں تبدیل کر سکتا ہے۔",
+          "title_ar": "الحجارة السماوية",
+          "coreInsight_ar": "كانت 'حجارة من سجيل' (حجارة السجيل) حجارة خاصة، ربما من طين مشوي أو مادة صلبة، تسببت في دمار مدمر عند الاصطدام.",
+          "whyItMatters_ar": "لم تكن هذه حجارة عادية بل أسلحة ممكّنة إلهياً، مما يظهر أن الله يمكنه تحويل العناصر البسيطة إلى أدوات لإرادته."
+        },
+        {
+          "id": "105:4:sijjil-interpretation",
+          "title": "Marked Destruction",
+          "icon": "seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Some scholars interpret 'sijjil' as meaning 'marked' or 'registered,' suggesting each stone was destined for a specific person, showing divine predetermination in justice.",
+          "whyItMatters": "This teaches that Allah's justice is individualized - each transgressor receives exactly what they deserve through divine decree.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مِّن سِجِّيلٍۢ",
+          "title_urdu": "نشان زدہ تباہی",
+          "coreInsight_urdu": "کچھ علماء 'سجیل' کی تشریح 'نشان زدہ' یا 'رجسٹرڈ' کے طور پر کرتے ہیں، یہ تجویز کرتے ہوئے کہ ہر پتھر ایک خاص شخص کے لیے مقدر تھا، انصاف میں الہی پیش تعین کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ اللہ کا انصاف انفرادی ہے - ہر خلاف ورزی کرنے والے کو الہی فرمان کے ذریعے بالکل وہی ملتا ہے جس کا وہ مستحق ہے۔",
+          "title_ar": "الدمار الموسوم",
+          "coreInsight_ar": "يفسر بعض العلماء 'سجيل' بمعنى 'موسوم' أو 'مسجل'، مما يشير إلى أن كل حجر كان مقدراً لشخص معين، مما يظهر التقدير الإلهي في العدالة.",
+          "whyItMatters_ar": "يعلم هذا أن عدالة الله فردية - كل متجاوز يتلقى بالضبط ما يستحقه من خلال القضاء الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars show remarkable agreement on the interpretation of sijjil stones. Ibn Kathir describes them as stones of baked clay that would strike a soldier and tear through his body, emerging from the other side, leaving him mortally wounded. Tabari preserves multiple narrations about their composition, with Ibn Abbas's interpretation as 'baked clay' being widely accepted in both traditions. Qurtubi adds that some linguists connected sijjil to Persian terms, and others to the word 'sijill' meaning record or decree, suggesting these stones represented written divine judgment. Fakhr al-Din al-Razi provides philosophical analysis, explaining that the stones' effectiveness came from divine power rather than material properties, a view shared by Shia exegetes. Both traditions cite reports that each stone would specifically target one soldier, demonstrating precise divine justice. The main scholarly consensus includes the understanding that sijjil refers to specially composed or selected stones, that they were carried and thrown by the miraculous birds, and that their impact was devastating beyond natural explanation. Minor variations exist in etymological explanations, with Sunni sources sometimes emphasizing Persian linguistic connections while Shia sources focus more on theological implications. Both schools recognize that this verse demonstrates Allah's ability to use humble materials for extraordinary purposes, and that divine punishment, when decreed, is inescapable regardless of human power or protection. The universal agreement on this verse's essential meaning across Islamic scholarship testifies to its clarity in conveying divine justice and power.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء سجیل کے پتھروں کی تشریح پر قابل ذکر اتفاق ظاہر کرتے ہیں۔ ابن کثیر انہیں پکی ہوئی مٹی کے پتھروں کے طور پر بیان کرتے ہیں جو ایک سپاہی کو مارتے اور اس کے جسم میں سے پھاڑتے ہوئے گزرتے، اسے مہلک زخمی چھوڑتے ہوئے۔ طبری ان کی ساخت کے بارے میں متعدد روایات محفوظ کرتے ہیں، ابن عباس کی تشریح 'پکی ہوئی مٹی' کے طور پر دونوں روایات میں وسیع پیمانے پر قبول کی جاتی ہے۔ قرطبی اضافہ کرتے ہیں کہ کچھ لغت دانوں نے سجیل کو فارسی اصطلاحات سے جوڑا، اور دوسروں نے لفظ 'سجل' سے جس کا مطلب ہے ریکارڈ یا فرمان، یہ تجویز کرتے ہوئے کہ یہ پتھر تحریری الہی فیصلے کی نمائندگی کرتے تھے۔ فخر الدین رازی فلسفیانہ تجزیہ فراہم کرتے ہیں، وضاحت کرتے ہوئے کہ پتھروں کی تاثیر مادی خصوصیات سے نہیں بلکہ الہی قوت سے آئی، ایک نظریہ جو شیعہ مفسرین کے ساتھ مشترک ہے۔ دونوں روایات رپورٹوں کا حوالہ دیتی ہیں کہ ہر پتھر خاص طور پر ایک سپاہی کو نشانہ بناتا، درست الہی عدل کا مظاہرہ کرتے ہوئے۔ اہم علمی اتفاق رائے میں یہ فہم شامل ہے کہ سجیل خاص طور پر ترتیب دیے گئے یا منتخب کیے گئے پتھروں کی طرف اشارہ کرتی ہے، کہ وہ معجزانہ پرندوں کے ذریعے لے جائے اور پھینکے گئے، اور ان کا اثر قدرتی وضاحت سے آگے تباہ کن تھا۔ لسانی وضاحتوں میں معمولی تغیرات موجود ہیں، سنی ذرائع بعض اوقات فارسی لسانی روابط پر زور دیتے ہیں جبکہ شیعہ ذرائع الہیاتی مضمرات پر زیادہ توجہ مرکوز کرتے ہیں۔ دونوں مکاتب فکر تسلیم کرتے ہیں کہ یہ آیت اللہ کی صلاحیت کو ظاہر کرتی ہے کہ وہ غیر معمولی مقاصد کے لیے عاجز مواد استعمال کرے، اور یہ کہ الہی عذاب، جب فرمایا جائے، انسانی طاقت یا حفاظت سے قطع نظر ناقابل فرار ہے۔ اسلامی علم میں اس آیت کے بنیادی معنی پر عالمگیر اتفاق الہی عدل اور قوت کو پہنچانے میں اس کی وضاحت کی گواہی دیتا ہے۔",
+    "layer4_ar": "أبدى مفسرو الشيعة والسنة توافقاً لافتاً في تفسير حجارة السجِّيل. فقد وصفها ابن كثير بأنها حجارة من طين محروق كانت تُصيب الجندي فتخترقه من جانب إلى جانب تاركةً إياه في سكرات الموت. وحفظ الطبري روايات متعددة في تركيبها، وتفسير ابن عباس لها بـ\"الطين المحروق\" موضع قبول واسع في المذهبين. ويُضيف القرطبي أن بعض أهل اللغة ربطوا \"سجِّيل\" بألفاظ فارسية، وربطه آخرون بـ\"السجِّل\" بمعنى الصحيفة والكتاب، مما يُوحي بأن هذه الحجارة كانت قضاءً إلهياً مكتوباً. ويُقدِّم فخر الدين الرازي تحليلاً فلسفياً موضحاً أن فاعلية الحجارة كانت من القدرة الإلهية لا من خصائصها المادية، وهو رأي يُشاركه فيه المفسرون الشيعة. ويستشهد المذهبان بروايات تُخبر بأن كل حجرة كانت تستهدف جندياً بعينه، مما يُثبت العدل الإلهي الدقيق. ويشمل الإجماع العلمي الشامل: أن \"سجِّيل\" يُشير إلى حجارة ذات تركيب خاص أو مُنتقاة بعناية، وأن الطير حملتها ورمت بها، وأن أثرها كان مدمِّراً يتجاوز التفسير الطبيعي. وتوجد فروق يسيرة في التوضيحات الاشتقاقية؛ إذ تميل المصادر السنية أحياناً إلى الصلات اللغوية الفارسية بينما تتوجه المصادر الشيعية أكثر نحو الدلالات الكلامية. ويعترف الفكران بأن هذه الآية تُثبت قدرة الله على توظيف المواد المتواضعة في أغراض عظيمة، وأن العقوبة الإلهية متى قُضي بها لا مفرَّ منها مهما بلغت قوة الإنسان أو عظمت حمايته. والإجماع الشامل على المعنى الجوهري لهذه الآية في الفكر الإسلامي شاهدٌ على وضوح دلالتها في إيصال رسالة العدل الإلهي وقدرته."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "105:5:made-them-like",
+          "title": "Total Destruction",
+          "icon": "trash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'fa-ja'alahum' (and He made them) emphasizes Allah's complete transformation of the mighty army into worthless remnants, showing His absolute power over human arrogance.",
+          "whyItMatters": "This demonstrates that no matter how powerful people become, Allah can reduce them to nothing in an instant, humbling all pride before Him.",
+          "position": "topLeft",
+          "arabicHighlight": "فَجَعَلَهُمْ",
+          "title_urdu": "مکمل تباہی",
+          "coreInsight_urdu": "جملہ 'فجعلہم' (اور اس نے انہیں بنا دیا) طاقتور فوج کو بیکار باقیات میں اللہ کی مکمل تبدیلی پر زور دیتا ہے، انسانی تکبر پر اس کی مطلق طاقت کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ چاہے لوگ کتنے ہی طاقتور ہو جائیں، اللہ انہیں ایک لمحے میں کچھ نہیں میں تبدیل کر سکتا ہے، اس کے سامنے تمام غرور کو عاجز کرتے ہوئے۔",
+          "title_ar": "الدمار الكامل",
+          "coreInsight_ar": "تؤكد عبارة 'فجعلهم' (فجعلهم) تحويل الله الكامل للجيش القوي إلى بقايا لا قيمة لها، مما يظهر قوته المطلقة على الغطرسة البشرية.",
+          "whyItMatters_ar": "يوضح هذا أنه مهما أصبح الناس أقوياء، يمكن لله أن يحولهم إلى لا شيء في لحظة، مذلاً كل كبرياء أمامه."
+        },
+        {
+          "id": "105:5:eaten-straw",
+          "title": "Worthless Remains",
+          "icon": "leaf.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The comparison to 'asfin ma'kul' (eaten/devoured straw) paints a vivid image of complete destruction - like crops eaten by livestock, leaving only trampled, worthless chaff.",
+          "whyItMatters": "This imagery teaches that those who oppose Allah's will end up as worthless as consumed straw, their power and pride completely obliterated.",
+          "position": "topRight",
+          "arabicHighlight": "كَعَصْفٍۢ مَّأْكُولٍۭ",
+          "title_urdu": "بیکار باقیات",
+          "coreInsight_urdu": "عصف ماکول (کھایا/نگلا ہوا بھوسا) سے موازنہ مکمل تباہی کی واضح تصویر پیش کرتا ہے - جیسے مویشیوں نے فصلیں کھا لیں، صرف روندا ہوا، بیکار بھوسا چھوڑتے ہوئے۔",
+          "whyItMatters_urdu": "یہ تصویر سکھاتی ہے کہ جو اللہ کی مرضی کی مخالفت کرتے ہیں وہ استعمال شدہ بھوسے کی طرح بیکار ہو جاتے ہیں، ان کی طاقت اور فخر مکمل طور پر مٹ جاتا ہے۔",
+          "title_ar": "البقايا التافهة",
+          "coreInsight_ar": "يرسم التشبيه بـ 'عصف مأكول' (تبن مأكول/مبتلع) صورة حية للدمار الكامل - مثل المحاصيل التي أكلها الماشية، تاركة فقط التبن المداس عديم القيمة.",
+          "whyItMatters_ar": "تعلم هذه الصورة أن أولئك الذين يعارضون إرادة الله ينتهي بهم الأمر بلا قيمة مثل التبن المستهلك، قوتهم وكبريائهم محو تماماً."
+        },
+        {
+          "id": "105:5:divine-warning",
+          "title": "Eternal Lesson",
+          "icon": "book.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse serves as an eternal warning preserved in the Quran, reminding all generations that attacking Allah's sacred sites brings swift and devastating divine punishment.",
+          "whyItMatters": "The Kaaba's protection in the Year of the Elephant prefigures Islam's coming victory and teaches that Allah will always defend His religion and sacred places.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَّأْكُولٍۭ",
+          "title_urdu": "ابدی سبق",
+          "coreInsight_urdu": "یہ آیت قرآن میں محفوظ ایک ابدی تنبیہ کے طور پر کام کرتی ہے، تمام نسلوں کو یاد دلاتی ہے کہ اللہ کی مقدس جگہوں پر حملہ فوری اور تباہ کن الہی سزا لاتا ہے۔",
+          "whyItMatters_urdu": "ہاتھی کے سال میں کعبہ کی حفاظت اسلام کی آنے والی فتح کی پیش گوئی کرتی ہے اور سکھاتی ہے کہ اللہ ہمیشہ اپنے دین اور مقدس مقامات کا دفاع کرے گا۔",
+          "title_ar": "الدرس الأبدي",
+          "coreInsight_ar": "يعمل هذا الآية كتحذير أبدي محفوظ في القرآن، يذكر جميع الأجيال بأن مهاجمة مواقع الله المقدسة تجلب عقاباً إلهياً سريعاً ومدمراً.",
+          "whyItMatters_ar": "تسبق حماية الكعبة في عام الفيل انتصار الإسلام القادم وتعلم أن الله سيدافع دائماً عن دينه وأماكنه المقدسة."
+        },
+        {
+          "id": "105:5:divine-justice",
+          "title": "Perfect Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The complete annihilation of Abraha's army demonstrates Allah's perfect justice - those who seek to destroy His House are themselves utterly destroyed.",
+          "whyItMatters": "This establishes the principle of divine retribution: the measure of punishment matches the severity of the crime against Allah's sanctities.",
+          "position": "bottomRight",
+          "arabicHighlight": "عَصْفٍۢ",
+          "title_urdu": "کامل انصاف",
+          "coreInsight_urdu": "ابرہہ کی فوج کی مکمل تباہی اللہ کے کامل انصاف کو ظاہر کرتی ہے - جو اس کے گھر کو تباہ کرنے کی کوشش کرتے ہیں وہ خود مکمل طور پر تباہ ہو جاتے ہیں۔",
+          "whyItMatters_urdu": "یہ الہی انتقام کا اصول قائم کرتا ہے: سزا کی پیمائش اللہ کی مقدسات کے خلاف جرم کی شدت سے مماثل ہے۔",
+          "title_ar": "العدالة الكاملة",
+          "coreInsight_ar": "يظهر الإبادة الكاملة لجيش أبرهة عدالة الله الكاملة - أولئك الذين يسعون لتدمير بيته يُدمّرون هم أنفسهم تماماً.",
+          "whyItMatters_ar": "يؤسس هذا مبدأ العقاب الإلهي: مقياس العقاب يتطابق مع شدة الجريمة ضد مقدسات الله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree completely on this verse's meaning and imagery. Ibn Kathir describes how the army was utterly destroyed, their bodies torn apart and scattered, resembling eaten and digested straw. Tabari preserves reports from Ibn Abbas and others confirming that 'asf ma'kul' refers to fodder that has been eaten by livestock, representing the ultimate degradation. Qurtubi emphasizes the completeness of their destruction, noting that they fled in terror but died along the way, their corpses scattered across the desert. Fakhr al-Din al-Razi provides philosophical reflection on how this verse demonstrates that human power, regardless of magnitude, is nothing before divine decree. Both traditions cite similar narrations about Abrahah's specific fate - that he fled but died slowly as his body deteriorated, piece by piece, fulfilling the eaten straw metaphor literally. The consensus across all major tafsirs includes understanding this as complete physical destruction, total military defeat, and lasting historical humiliation. Sunni and Shia scholars both recognize this verse as the culmination of a perfect narrative arc demonstrating divine justice. Where interpretations align most strongly is in seeing this event as having multiple audiences: the immediate witnesses who saw divine power firsthand, the Quraysh who were reminded of this event when the surah was revealed, and all future Muslims who draw lessons about trusting divine protection. Both schools emphasize that this surah, though brief, contains comprehensive lessons about divine sovereignty, protection of sacred values, and the futility of opposing Allah's will. The universal agreement on this verse's interpretation across Islamic scholarship reflects its powerful and unambiguous message about divine justice fulfilled.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کے معنی اور تصویر کاری پر مکمل طور پر متفق ہیں۔ ابن کثیر بیان کرتے ہیں کہ کس طرح فوج مکمل طور پر تباہ ہو گئی، ان کے جسم پھاڑے گئے اور بکھرے ہوئے، کھائے اور ہضم شدہ بھوسے سے مشابہت رکھتے ہوئے۔ طبری ابن عباس اور دیگر سے رپورٹیں محفوظ کرتے ہیں جو تصدیق کرتی ہیں کہ 'عصف ماکول' اس چارے کی طرف اشارہ کرتا ہے جو مویشیوں نے کھایا ہو، حتمی تذلیل کی نمائندگی کرتے ہوئے۔ قرطبی ان کی تباہی کی مکملیت پر زور دیتے ہیں، نوٹ کرتے ہوئے کہ وہ دہشت میں بھاگے لیکن راستے میں مر گئے، ان کی لاشیں صحرا میں بکھری ہوئیں۔ فخر الدین رازی فلسفیانہ عکاسی فراہم کرتے ہیں کہ کس طرح یہ آیت ظاہر کرتی ہے کہ انسانی طاقت، شدت سے قطع نظر، الہی فرمان کے سامنے کچھ نہیں ہے۔ دونوں روایات ابرہہ کی مخصوص قسمت کے بارے میں ملتی جلتی روایات کا حوالہ دیتی ہیں - کہ وہ بھاگا لیکن آہستہ آہستہ مرا جیسے جیسے اس کا جسم خراب ہوتا گیا، ٹکڑا ٹکڑا، کھائے ہوئے بھوسے کی تمثیل کو لفظی طور پر پورا کرتے ہوئے۔ تمام بڑی تفاسیر میں اتفاق رائے میں اسے مکمل جسمانی تباہی، مکمل فوجی شکست، اور پائیدار تاریخی ذلت کے طور پر سمجھنا شامل ہے۔ سنی اور شیعہ علماء دونوں اس آیت کو الہی عدل کو ظاہر کرنے والے کامل بیانیہ قوس کے اختتام کے طور پر تسلیم کرتے ہیں۔ جہاں تشریحات سب سے مضبوطی سے ہم آہنگ ہیں وہ اس واقعے کو متعدد سامعین کے لیے دیکھنا ہے: فوری گواہ جنہوں نے الہی قوت کو بلا واسطہ دیکھا، قریش جنہیں اس واقعے کی یاد دلائی گئی جب سورہ نازل ہوئی، اور تمام مستقبل کے مسلمان جو الہی حفاظت پر بھروسے کے بارے میں سبق حاصل کرتے ہیں۔ دونوں مکاتب فکر اس بات پر زور دیتے ہیں کہ یہ سورہ، اگرچہ مختصر ہے، الہی خودمختاری، مقدس اقدار کی حفاظت، اور اللہ کی مشیت کی مخالفت کی بیکاری کے بارے میں جامع سبق پر مشتمل ہے۔ اسلامی علم میں اس آیت کی تشریح پر عالمگیر اتفاق الہی عدل کی تکمیل کے بارے میں اس کے طاقتور اور غیر مبہم پیغام کی عکاسی کرتا ہے۔",
+    "layer4_ar": "اتفق مفسرو الشيعة والسنة اتفاقاً تاماً على معنى هذه الآية ومضمونها التصويري. فقد أوضح ابن كثير كيف أُهلك الجيش هلاكاً مدمِّراً وتمزَّقت أجسادهم وتبعثرت فيشبهون العصف المهضوم المنثور. وحفظ الطبري روايات من ابن عباس وغيره تؤكد أن \"عَصْفاً مَأْكُولاً\" يُشير إلى علف أكله الحيوان وبلعه، وهو أبلغ صورة في التحقير. ويُؤكِّد القرطبي شمولية الدمار، مُخبراً أنهم فرُّوا رعباً وماتوا في طريقهم وجثثهم مبعثرة في الفيافي، واصلاً بذلك التشبيه بالعصف المأكول توصيلاً حرفياً. ويتأمل فخر الدين الرازي في دلالة هذه الآية على أن القوة البشرية مهما بلغت لا وزن لها أمام القضاء الإلهي. ويستشهد المذهبان بروايات متماثلة عن مصير أبرهة الخاص؛ إذ فرَّ ثم هلك ببطء وجسده يتفتت قطعةً قطعة، مُحقِّقاً استعارة العصف المأكول تحقيقاً حرفياً. ويتمحور الإجماع الشامل حول فهم هذه الآية تدميراً جسدياً كاملاً وهزيمةً عسكرية مطلقة وخزياً تاريخياً لا يمحى. ويرى مفسرو الشيعة والسنة في هذه الآية معاً ذروة قوس سردي مثالي يُجسِّد العدل الإلهي. وأقوى نقاط التلاقي تتجلى في اعتبار هذا الحدث ذا جمهور متعدد الطبقات: الشهود الأوائل الذين عاينوا القدرة الإلهية بأعينهم، وقريش الذين استُذكرت عليهم القصة لحظة نزول السورة، وسائر المسلمين في كل العصور الذين يستخلصون من تدبرها دروساً في الثقة بالحماية الإلهية. ويُؤكِّد الفكران أن هذه السورة الموجزة تنطوي على دروس شاملة في السيادة الإلهية والحفاظ على القيم المقدسة وعبثية الاعتراض على مشيئة الله. والإجماع الشامل على تفسير هذه الآية في الفكر الإسلامي يعكس قوة رسالتها النيِّرة عن العدل الإلهي المتحقِّق."
+  }
+}

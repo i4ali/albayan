@@ -1,0 +1,1304 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:1:buruj-oath",
+          "title": "The Constellations",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by the sky containing 'al-buruj' (the great constellations), highlighting the magnificent celestial order as testimony to divine power.",
+          "whyItMatters": "The heavenly signs above us are constant reminders of Allah's majesty and precision, inviting us to reflect on the Creator's infinite wisdom.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+          "title_urdu": "برج و منازل",
+          "coreInsight_urdu": "اللہ آسمان کی قسم کھاتا ہے جس میں 'البروج' (عظیم برج) ہیں، آسمانی نظام کی شان کو الہی قدرت کی گواہی کے طور پر اجاگر کرتے ہوئے۔",
+          "whyItMatters_urdu": "ہمارے اوپر آسمانی نشانیاں اللہ کی عظمت اور درستگی کی مسلسل یاد دہانی ہیں، جو ہمیں خالق کی لامحدود حکمت پر غور کرنے کی دعوت دیتی ہیں۔",
+          "title_ar": "البروج",
+          "coreInsight_ar": "يقسم الله بالسماء ذات البروج، مسلطاً الضوء على النظام السماوي العظيم كشهادة على القدرة الإلهية.",
+          "whyItMatters_ar": "العلامات السماوية فوقنا هي تذكير دائم بعظمة الله ودقته، تدعونا للتفكر في حكمة الخالق اللامتناهية."
+        },
+        {
+          "id": "85:1:divine-oath",
+          "title": "Sacred Witness",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The divine oath by the constellations sets the stage for a powerful message about persecution and divine justice.",
+          "whyItMatters": "When Allah takes oaths by creation, He draws our attention to truths of utmost importance that demand our reflection.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلسَّمَآءِ",
+          "title_urdu": "مقدس گواہی",
+          "coreInsight_urdu": "بروج کی الہی قسم اضطہاد اور الہی انصاف کے بارے میں ایک طاقتور پیغام کی بنیاد رکھتی ہے۔",
+          "whyItMatters_urdu": "جب اللہ اپنی مخلوق کی قسم کھاتا ہے، تو وہ انتہائی اہم سچائیوں کی طرف ہماری توجہ مبذول کراتا ہے جو ہمارے غور و فکر کا تقاضا کرتی ہیں۔",
+          "title_ar": "الشهادة المقدسة",
+          "coreInsight_ar": "القسم الإلهي بالبروج يمهد لرسالة قوية عن الاضطهاد والعدالة الإلهية.",
+          "whyItMatters_ar": "عندما يقسم الله بخلقه، فإنه يوجه انتباهنا إلى حقائق بالغة الأهمية تتطلب تأملنا."
+        },
+        {
+          "id": "85:1:cosmic-order",
+          "title": "Celestial Order",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The precisely arranged constellations reflect Allah's perfect design and control over all creation.",
+          "whyItMatters": "Understanding cosmic order strengthens our faith in Allah's sovereignty and His ability to establish justice on earth.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْبُرُوجِ",
+          "title_urdu": "آسمانی نظام",
+          "coreInsight_urdu": "بالکل منظم بروج اللہ کے کامل ڈیزائن اور تمام مخلوق پر اس کے کنٹرول کی عکاسی کرتے ہیں۔",
+          "whyItMatters_urdu": "کائناتی نظام کو سمجھنا اللہ کی حاکمیت اور زمین پر انصاف قائم کرنے کی اس کی صلاحیت میں ہمارے ایمان کو مضبوط کرتا ہے۔",
+          "title_ar": "النظام الكوني",
+          "coreInsight_ar": "البروج المرتبة بدقة تعكس تصميم الله الكامل وسيطرته على كل الخلق.",
+          "whyItMatters_ar": "فهم النظام الكوني يعزز إيماننا بسيادة الله وقدرته على إقامة العدل على الأرض."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse employs a divine oath to emphasize the importance of what follows. Ibn Kathir and Al-Qurtubi, like their Shia counterparts, explain that the buruj refer to the zodiacal constellations or the positions of celestial bodies. Sunni exegete Fakhr al-Din al-Razi provides detailed astronomical explanations similar to those in Al-Mizan, noting the twelve constellations and their role in marking time. The traditions differ slightly in their spiritual interpretations, with Shia scholars more explicitly connecting the celestial stations to the spiritual journey of the soul through the teachings of the Imams. Both traditions emphasize that Allah's oath by creation serves to awaken human consciousness to divine signs. The classical consensus across Islamic scholarship is that this opening verse establishes the majesty of the Creator before describing the story of martyrdom, showing that those who persecute believers are rebelling not just against humans but against the Lord of the cosmos itself.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ اس آیت میں بعد میں آنے والی باتوں کی اہمیت واضح کرنے کے لیے الٰہی قسم استعمال کی گئی ہے۔ ابن کثیر اور القرطبی نے اپنے شیعہ ہم عصروں کی طرح بیان کیا ہے کہ برج سے مراد منطقۃ البروج کے نکشتر یا آسمانی اجسام کی منازل ہیں۔ سنی مفسر فخر الدین رازی نے الميزان کی طرح تفصیلی فلکیاتی وضاحتیں پیش کی ہیں اور بارہ برجوں اور وقت کے تعین میں ان کے کردار کو بیان کیا ہے۔ روحانی تفسیرات میں تھوڑا فرق ہے، کیونکہ شیعہ علما آئمہ کرام علیہم السلام کی تعلیمات کی بنیاد پر آسمانی منازل کو روح کے روحانی سفر سے زیادہ صراحت کے ساتھ جوڑتے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ اللہ کا مخلوق کی قسم کھانا انسانی شعور کو الٰہی نشانیوں کی طرف بیدار کرنے کے لیے ہے۔ پورے اسلامی علمی دائرے میں کلاسیکی اتفاق یہ ہے کہ یہ آغازی آیت خالق کی عظمت کو قائم کرتی ہے اس سے پہلے کہ شہادت کی داستان بیان کی جائے، یہ ظاہر کرتے ہوئے کہ مؤمنین پر ظلم کرنے والے صرف انسانوں کے خلاف نہیں بلکہ خودِ رب الکائنات کے خلاف بغاوت کر رہے ہیں۔",
+    "layer4_ar": "أجمع علماء الشيعة والسنة على أن هذه الآية توظِّف القَسَم الإلهي لتوجيه الانتباه إلى ما يليه من أحداث جسام. فابن كثير والقرطبي، كنظرائهم من العلماء الشيعة، يُفسِّرون البروج بمنازل الأفلاك أو المواضع التي تحتلها الأجرام السماوية. ويقدِّم فخر الدين الرازي شروحاً فلكية تفصيلية تتقاطع في جوهرها مع ما جاء في الميزان، مع الإشارة إلى الأبراج الاثني عشر ودورها في تحديد الزمن. وتتباين التفاسير قليلاً في الدلالات الروحية، إذ يربط العلماء الشيعة صراحةً بين المنازل الفلكية والرحلة الروحية للنفس عبر تعاليم الأئمة، بينما يُركِّز كلا الفريقين على أن القَسَم بالخلق يُوقظ وعي الإنسان على الآيات الإلهية. ويتفق الإجماع الكلاسيكي عبر المدارس الإسلامية على أن هذه الآية الافتتاحية ترسي مجد الخالق قبل وصف مشهد الاستشهاد، مُبيِّنةً أن الذين يضطهدون المؤمنين إنما يتمردون على رب الكون بأسره."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:2:promised-day",
+          "title": "Promised Day",
+          "icon": "calendar.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Al-Yawm al-Maw'ud refers to the Day of Judgment when all promises will be fulfilled and justice will be established.",
+          "whyItMatters": "Belief in the promised Day transforms how we live, knowing that every action has eternal consequences and divine accountability awaits.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْيَوْمِ ٱلْمَوْعُودِ",
+          "title_urdu": "وعدے کا دن",
+          "coreInsight_urdu": "الیوم الموعود قیامت کے دن کی طرف اشارہ کرتا ہے جب تمام وعدے پورے ہوں گے اور انصاف قائم ہوگا۔",
+          "whyItMatters_urdu": "وعدے کے دن پر یقین ہمارے جینے کے انداز کو بدل دیتا ہے، یہ جانتے ہوئے کہ ہر عمل کے ابدی نتائج ہیں اور الہی جوابدہی منتظر ہے۔",
+          "title_ar": "اليوم الموعود",
+          "coreInsight_ar": "يشير اليوم الموعود إلى يوم القيامة عندما ستتحقق جميع الوعود وتُقام العدالة.",
+          "whyItMatters_ar": "الإيمان باليوم الموعود يحول طريقة حياتنا، معرفةً أن لكل عمل عواقب أبدية وأن المساءلة الإلهية في انتظارنا."
+        },
+        {
+          "id": "85:2:certainty",
+          "title": "Divine Promise",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Day is described as 'promised' (maw'ud), emphasizing the absolute certainty of its arrival - Allah's promise never fails.",
+          "whyItMatters": "Understanding the inevitability of accountability motivates us to prepare through righteous deeds and sincere repentance.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمَوْعُودِ",
+          "title_urdu": "الہی وعدہ",
+          "coreInsight_urdu": "اس دن کو 'موعود' کہا گیا ہے، اس کی آمد کی مطلق یقین پر زور دیتے ہوئے - اللہ کا وعدہ کبھی ناکام نہیں ہوتا۔",
+          "whyItMatters_urdu": "جوابدہی کی ناگزیریت کو سمجھنا ہمیں نیک اعمال اور مخلصانہ توبہ کے ذریعے تیاری کی ترغیب دیتا ہے۔",
+          "title_ar": "الوعد الإلهي",
+          "coreInsight_ar": "يوصف اليوم بأنه 'موعود'، مما يؤكد على اليقين المطلق في قدومه - وعد الله لا يخلف أبداً.",
+          "whyItMatters_ar": "فهم حتمية المساءلة يحفزنا للاستعداد من خلال الأعمال الصالحة والتوبة الصادقة."
+        },
+        {
+          "id": "85:2:eschatology",
+          "title": "Ultimate Justice",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The oath by the Promised Day connects to the surah's theme of persecution - oppressors will face divine judgment.",
+          "whyItMatters": "This gives hope to the oppressed and warns the oppressor that no injustice escapes Allah's notice or reckoning.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْيَوْمِ",
+          "title_urdu": "حتمی انصاف",
+          "coreInsight_urdu": "وعدے کے دن کی قسم سورت کے اضطہاد کے موضوع سے جڑتی ہے - ظالموں کو الہی عدالت کا سامنا کرنا پڑے گا۔",
+          "whyItMatters_urdu": "یہ مظلوموں کو امید دیتا ہے اور ظالم کو خبردار کرتا ہے کہ کوئی ظلم اللہ کی نظر یا حساب سے نہیں بچتا۔",
+          "title_ar": "العدالة المطلقة",
+          "coreInsight_ar": "القسم باليوم الموعود يرتبط بموضوع السورة عن الاضطهاد - سيواجه الظالمون الحكم الإلهي.",
+          "whyItMatters_ar": "هذا يعطي الأمل للمظلومين ويحذر الظالم من أن لا ظلم يفلت من ملاحظة الله أو حسابه."
+        }
+      ]
+    },
+    "layer4": "Scholars across both traditions unanimously identify the promised Day as the Day of Resurrection and Judgment. Sunni exegetes like Ibn Kathir and Al-Tabari, similar to Shia scholars, emphasize that this Day is certain and will be the greatest gathering of humanity. Both traditions preserve hadith describing the events of that Day in vivid detail, including the resurrection, the gathering, the weighing of deeds, and the final judgment. The interpretations converge on the moral implications, with both Shia and Sunni scholars teaching that belief in this Day should motivate righteous conduct and patience in facing trials. Some Sunni commentators like Al-Razi provide philosophical arguments for the necessity of resurrection similar to those in Al-Mizan, noting that divine justice and wisdom require a Day of Accountability. Where traditions differ is in details about intercession, with Shia emphasizing the intercessory role of the Prophet and Ahlul Bayt based on their teachings. Both traditions agree that this verse provides hope to the oppressed and warning to oppressors.",
+    "layer4_urdu": "دونوں روایات کے علما بالاتفاق موعود دن کو روزِ قیامت و محاسبہ قرار دیتے ہیں۔ سنی مفسرین جیسے ابن کثیر اور الطبری اپنے شیعہ ہم عصروں کی طرح اس بات پر زور دیتے ہیں کہ یہ دن یقینی ہے اور انسانیت کا سب سے بڑا اجتماع ہوگا۔ دونوں روایات میں ایسی احادیث محفوظ ہیں جو اس دن کے واقعات کو بہت تفصیل سے بیان کرتی ہیں، جن میں قیامت، حشر، اعمال کا وزن اور آخری فیصلہ شامل ہیں۔ اخلاقی مضامین پر دونوں کی تفسیریں یکجا ہیں اور شیعہ و سنی دونوں علما یہ سکھاتے ہیں کہ اس دن پر ایمان نیک چال چلن کی ترغیب دیتا ہے اور آزمائشوں میں صبر عطا کرتا ہے۔ الرازی جیسے بعض سنی مفسرین نے قیامت کی ضرورت کے بارے میں فلسفیانہ دلائل پیش کیے ہیں جو الميزان کے دلائل سے ملتے جلتے ہیں اور نوٹ کرتے ہیں کہ الٰہی عدل اور حکمت روزِ حساب کا تقاضا کرتے ہیں۔ جہاں روایات ذرا مختلف ہوتی ہیں وہ شفاعت کی تفصیلات ہیں، شیعہ نبی اکرم صلی اللہ علیہ وآلہ وسلم اور اہلِ بیت علیہم السلام کی شفاعت کے کردار پر ان کی تعلیمات کی بنیاد پر زور دیتے ہیں۔ دونوں روایات متفق ہیں کہ یہ آیت مظلوموں کو امید اور ظالموں کو تنبیہ دیتی ہے۔",
+    "layer4_ar": "أجمع علماء الفريقين على أن اليوم الموعود هو يوم القيامة والجزاء. وابن كثير والطبري وسواهم من علماء السنة، كنظرائهم الشيعة، يُؤكِّدون أن هذا اليوم حتمي وسيكون أعظم جمع للبشرية في التاريخ. وتُوجد الروايات المحفوظة في الموروثين السنة والشيعة تفاصيل ثرية تصف أحداث ذلك اليوم من البعث والحشر والميزان والقضاء. وتتقاطع التفاسير في التبعات الأخلاقية، إذ يُعلِّم علماء الفريقين أن الإيمان بهذا اليوم يدفع إلى الفعل الصالح والصبر على الابتلاء. ويُقدِّم بعض المفسرين السنة كالرازي حججاً فلسفية على ضرورة البعث تتوازى مع ما في الميزان من استدلالات عقلية مبنية على العدل الإلهي والحكمة. أما مواضع الاختلاف فتتمحور حول تفاصيل الشفاعة؛ إذ يُبرز الشيعة الدور الشفاعي للنبي وأهل البيت استناداً إلى تعاليمهم. ويتفق الفريقان على أن هذه الآية تمنح المظلومين رجاءً وتُحذِّر الظالمين من عاقبة وخيمة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:3:witness",
+          "title": "Witness & Witnessed",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The pairing of 'shahid' (witness) and 'mashhud' (witnessed) may refer to humanity witnessing the Day of Judgment, or the Prophet and his community.",
+          "whyItMatters": "This verse reminds us that we will both witness divine justice and be witnessed - our actions observed and recorded for judgment.",
+          "position": "topLeft",
+          "arabicHighlight": "وَشَاهِدٍۢ وَمَشْهُودٍۢ",
+          "title_urdu": "گواہ اور مشہود",
+          "coreInsight_urdu": "'شاہد' (گواہ) اور 'مشہود' (جس کا مشاہدہ کیا جائے) کا جوڑا انسانیت کے قیامت کے دن کی گواہی، یا نبی اور ان کی امت کی طرف اشارہ ہو سکتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں یاد دلاتی ہے کہ ہم الہی انصاف کے گواہ ہوں گے اور ہماری گواہی بھی دی جائے گی - ہمارے اعمال عدالت کے لیے دیکھے اور ریکارڈ کیے جاتے ہیں۔",
+          "title_ar": "الشاهد والمشهود",
+          "coreInsight_ar": "قد يشير اقتران 'شاهد' و'مشهود' إلى الإنسانية تشهد يوم القيامة، أو النبي وأمته.",
+          "whyItMatters_ar": "تذكرنا هذه الآية بأننا سنشهد العدالة الإلهية ونكون مشهودين - أعمالنا مُلاحظة ومُسجلة للحكم."
+        },
+        {
+          "id": "85:3:layers-meaning",
+          "title": "Multiple Meanings",
+          "icon": "square.3.layers.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Scholars interpret shahid/mashhud variously: Friday and its gathering, Prophet Muhammad and his ummah, or all of humanity on Judgment Day.",
+          "whyItMatters": "The Quran's layered meanings invite deeper contemplation, revealing that divine words contain wisdom for all contexts and times.",
+          "position": "topRight",
+          "arabicHighlight": "شَاهِدٍۢ",
+          "title_urdu": "متعدد معانی",
+          "coreInsight_urdu": "علماء شاہد/مشہود کی مختلف تشریحات کرتے ہیں: جمعہ اور اس کا اجتماع، نبی محمد اور ان کی امت، یا قیامت کے دن تمام انسانیت۔",
+          "whyItMatters_urdu": "قرآن کے تہہ دار معانی گہرے غور و فکر کی دعوت دیتے ہیں، یہ ظاہر کرتے ہوئے کہ الہی کلام میں تمام سیاق و سباق اور اوقات کے لیے حکمت موجود ہے۔",
+          "title_ar": "المعاني المتعددة",
+          "coreInsight_ar": "يفسر العلماء شاهد/مشهود بطرق مختلفة: الجمعة وجمعها، النبي محمد وأمته، أو البشرية جمعاء يوم القيامة.",
+          "whyItMatters_ar": "معاني القرآن المتعددة الطبقات تدعو للتأمل الأعمق، كاشفة أن الكلمات الإلهية تحتوي على حكمة لجميع السياقات والأزمنة."
+        },
+        {
+          "id": "85:3:divine-observation",
+          "title": "Divine Observation",
+          "icon": "eye.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The concept of witnessing emphasizes that nothing escapes Allah's awareness - every deed, word, and intention is recorded.",
+          "whyItMatters": "Consciousness of being witnessed transforms our behavior, encouraging righteousness in private and public alike.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَشْهُودٍۢ",
+          "title_urdu": "الہی مشاہدہ",
+          "coreInsight_urdu": "گواہی کا تصور اس بات پر زور دیتا ہے کہ کوئی چیز اللہ کی آگاہی سے نہیں بچتی - ہر عمل، لفظ اور نیت ریکارڈ کی جاتی ہے۔",
+          "whyItMatters_urdu": "مشاہدے کا شعور ہمارے رویے کو تبدیل کرتا ہے، نجی اور عوامی دونوں میں نیکی کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "المراقبة الإلهية",
+          "coreInsight_ar": "يؤكد مفهوم الشهادة على أنه لا شيء يفلت من وعي الله - كل فعل وكلمة ونية مُسجلة.",
+          "whyItMatters_ar": "الوعي بكوننا مُراقبين يحول سلوكنا، مشجعاً على الصلاح في الخاص والعام على حد سواء."
+        }
+      ]
+    },
+    "layer4": "Scholars from both traditions have offered various interpretations of this cryptic verse. Among Sunni exegetes, Ibn Abbas suggested it refers to the Day of Congregation being witnessed, while others like Al-Qurtubi propose it means Friday and the congregational prayer, or even Adam and his progeny. Shia and Sunni scholars both preserve interpretations connecting it to the Prophet as witness and the Day of Judgment as witnessed. The interpretative diversity across both traditions reflects the verse's deliberate ambiguity, inviting multiple layers of meaning. Some Sunni scholars like Ibn Kathir acknowledge the interpretation connecting it to witnessing persecution, similar to Shia tafsir. Where traditions converge most strongly is on the ethical implications of witnessing, both emphasizing the duty to testify truthfully and the honor of those who witness for truth even unto martyrdom. Both Shia and Sunni scholarship recognize that this verse establishes witnessing as a central Islamic concept, from the shahada of faith to the shahada of martyrdom, creating accountability and preserving truth across generations.",
+    "layer4_urdu": "دونوں روایات کے علما نے اس پُراسرار آیت کی مختلف تفسیریں پیش کی ہیں۔ سنی مفسرین میں ابن عباس رضی اللہ عنہما نے تجویز کیا کہ یہ اجتماعی دن کی طرف اشارہ ہے جو مشاہدہ کیا جاتا ہے، جبکہ القرطبی جیسے دیگر علما جمعے اور نمازِ جمعہ، یا آدم اور ان کی اولاد سے اس کا ربط جوڑتے ہیں۔ شیعہ اور سنی دونوں علما وہ تفسیریں محفوظ رکھتے ہیں جو اسے نبی بطور گواہ اور روزِ قیامت بطور مشہود سے جوڑتی ہیں۔ دونوں روایات میں تفسیری تنوع اس آیت کی جان بوجھ کر ابہام کو ظاہر کرتا ہے، جو معنی کی متعدد پرتوں کو دعوت دیتا ہے۔ بعض سنی علما جیسے ابن کثیر نے ظلم کو دیکھنے سے اس آیت کو جوڑنے والی تفسیر کو تسلیم کیا ہے جو شیعہ تفسیر کی طرح ہے۔ گواہی کے اخلاقی مضامین پر دونوں روایات سب سے زیادہ یکجا ہیں، اور دونوں سچائی کے لیے گواہی دینے کے فرض اور حق کے لیے گواہی دینے والوں کی عزت پر زور دیتی ہیں چاہے شہادت ہو جائے۔ دونوں شیعہ اور سنی علم اس بات کو تسلیم کرتے ہیں کہ یہ آیت شہادت کو ایک مرکزی اسلامی تصور کے طور پر قائم کرتی ہے، ایمان کی شہادت سے لے کر شہادت تک، احتساب پیدا کرتی اور حق کو نسلوں تک محفوظ رکھتی ہے۔",
+    "layer4_ar": "قدَّم علماء الفريقين تأويلات متباينة لهذه الآية الموجزة العميقة. فبين علماء السنة رأى ابن عباس أنها تعني اجتماع الناس يوم القيامة، وذهب آخرون كالقرطبي إلى أنها تعني الجمعة وصلاة الجماعة، وقيل آدم وذريته. ويحفظ العلماء الشيعة والسنة معاً تأويلات تصل بها إلى النبي شاهداً ويوم القيامة مشهوداً. وتكشف هذه التنوعات التفسيرية عن قصد في الإيجاز القرآني يستوعب طبقات متعددة من الدلالة. ويُقرُّ بعض علماء السنة كابن كثير بتأويل يُصله بمشهد الاضطهاد بما يتقاطع مع التفسير الشيعي. وأوثق مواضع الاتفاق بين الفريقين يكمن في الاستخلاصات الأخلاقية للشهادة، إذ يُؤكِّد كلاهما واجب التوثيق الصادق وشرف من يشهد للحق ولو أسلم روحه. ويتعرَّف كلا الفريقين على أن هذه الآية تُرسي الشهادة مفهوماً إسلامياً محورياً من شهادة الإيمان إلى شهادة الاستشهاد، صانعةً المساءلة وحارسةً الحق عبر الأجيال."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:4:people-trench",
+          "title": "People of the Trench",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Ashaab al-Ukhdud refers to tyrants who dug trenches filled with fire to burn believers alive for refusing to renounce their faith.",
+          "whyItMatters": "This historical atrocity demonstrates the extremes of religious persecution and the courage of steadfast believers facing martyrdom.",
+          "position": "topLeft",
+          "arabicHighlight": "أَصْحَٰبُ ٱلْأُخْدُودِ",
+          "title_urdu": "خندق والے",
+          "coreInsight_urdu": "اصحاب الاخدود ان ظالموں کی طرف اشارہ کرتا ہے جنہوں نے آگ سے بھری خندقیں کھودیں تاکہ ایمان چھوڑنے سے انکار کرنے والے مومنوں کو زندہ جلا دیں۔",
+          "whyItMatters_urdu": "یہ تاریخی ظلم مذہبی ستم کی انتہا اور شہادت کا سامنا کرنے والے ثابت قدم مومنوں کی جرأت کو ظاہر کرتا ہے۔",
+          "title_ar": "أصحاب الأخدود",
+          "coreInsight_ar": "يشير أصحاب الأخدود إلى الطغاة الذين حفروا خنادق مليئة بالنار لحرق المؤمنين أحياء لرفضهم التخلي عن إيمانهم.",
+          "whyItMatters_ar": "تظهر هذه الفظاعة التاريخية تطرفات الاضطهاد الديني وشجاعة المؤمنين الثابتين في مواجهة الشهادة."
+        },
+        {
+          "id": "85:4:divine-curse",
+          "title": "Divine Condemnation",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Qutila' (cursed/destroyed) expresses Allah's severe condemnation of those who persecute believers for their faith.",
+          "whyItMatters": "Divine wrath awaits oppressors who harm the innocent, assuring victims that ultimate justice belongs to Allah.",
+          "position": "topRight",
+          "arabicHighlight": "قُتِلَ",
+          "title_urdu": "الہی لعنت",
+          "coreInsight_urdu": "'قتل' (ملعون/تباہ) اللہ کی سخت مذمت کا اظہار کرتا ہے ان لوگوں کے لیے جو مومنوں کو ان کے ایمان کی وجہ سے ستاتے ہیں۔",
+          "whyItMatters_urdu": "الہی غضب ظالموں کا منتظر ہے جو بے گناہوں کو نقصان پہنچاتے ہیں، متاثرین کو یقین دلاتے ہوئے کہ حتمی انصاف اللہ سے تعلق رکھتا ہے۔",
+          "title_ar": "اللعنة الإلهية",
+          "coreInsight_ar": "يعبر 'قُتِل' (لُعِن/دُمِّر) عن إدانة الله الشديدة لمن يضطهدون المؤمنين بسبب إيمانهم.",
+          "whyItMatters_ar": "الغضب الإلهي في انتظار الظالمين الذين يؤذون الأبرياء، مؤكداً للضحايا أن العدالة المطلقة ملك لله."
+        },
+        {
+          "id": "85:4:historical-witness",
+          "title": "Historical Testimony",
+          "icon": "book.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "While exact historical details vary, this event likely occurred in Yemen or Najran, where Christian or monotheistic believers were martyred.",
+          "whyItMatters": "The Quran preserves the memory of faithful martyrs across religious traditions, honoring all who sacrifice for truth and monotheism.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْأُخْدُودِ",
+          "title_urdu": "تاریخی گواہی",
+          "coreInsight_urdu": "اگرچہ صحیح تاریخی تفصیلات مختلف ہیں، یہ واقعہ ممکنہ طور پر یمن یا نجران میں پیش آیا، جہاں عیسائی یا توحید پرست مومن شہید ہوئے۔",
+          "whyItMatters_urdu": "قرآن مذہبی روایات میں وفادار شہداء کی یادوں کو محفوظ رکھتا ہے، سچائی اور توحید کے لیے قربانی دینے والوں کی عزت کرتا ہے۔",
+          "title_ar": "الشهادة التاريخية",
+          "coreInsight_ar": "بينما تختلف التفاصيل التاريخية الدقيقة، من المحتمل أن هذا الحدث وقع في اليمن أو نجران، حيث استُشهد المؤمنون المسيحيون أو الموحدون.",
+          "whyItMatters_ar": "يحفظ القرآن ذكرى الشهداء الأوفياء عبر التقاليد الدينية، مكرماً كل من يضحي من أجل الحق والتوحيد."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions preserve similar historical accounts of the companions of the trench, though with some variations in details. Most Sunni scholars, like Al-Tabari and Ibn Kathir, identify the event with the persecution by Dhu Nuwas in Yemen, consistent with Shia sources. Muslim reported hadith in his Sahih describing how a tyrant king tested believers by having them thrown into fire pits. Both traditions emphasize the steadfastness of the believers and the divine curse upon their persecutors. The story serves in both Sunni and Shia contexts as an example of true faith and patience in trials. Where interpretations diverge slightly is in connecting this narrative to later Islamic history, with Shia scholars drawing explicit parallels to the persecution of Ahlul Bayt and their followers, while Sunni exegesis tends to keep the focus on the historical incident itself. Both traditions agree that religious persecution is gravely condemned and that believers who remain steadfast despite torture are honored martyrs. The verse establishes a universal principle of religious freedom that transcends sectarian boundaries.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات میں خندق والوں کی اسی طرح کی تاریخی روایات محفوظ ہیں، اگرچہ تفصیلات میں کچھ فرق ہے۔ اکثر سنی علما جیسے الطبری اور ابن کثیر اس واقعے کو یمن میں ذوالنواس کے ہاتھوں ظلم سے جوڑتے ہیں جو شیعہ ماخذ کے مطابق ہے۔ امام مسلم نے اپنی صحیح میں ایسی احادیث نقل کی ہیں جن میں بیان ہے کہ ایک ظالم بادشاہ نے مؤمنین کو آگ کے گڑھوں میں ڈال کر آزمائش میں ڈالا۔ دونوں روایات مؤمنین کی استقامت اور ان کے ستانے والوں پر الٰہی لعنت پر زور دیتی ہیں۔ یہ داستان شیعہ اور سنی دونوں سیاق میں سچے ایمان اور آزمائشوں میں صبر کی مثال کے طور پر کام کرتی ہے۔ جہاں تفسیریں ذرا مختلف ہوتی ہیں وہ اس داستان کو بعد کی اسلامی تاریخ سے جوڑنے میں ہے۔ شیعہ علما اہلِ بیت علیہم السلام اور ان کے پیروکاروں کے ظلم سے واضح مماثلت کھینچتے ہیں، جبکہ سنی تفسیر تاریخی واقعے پر توجہ مرکوز رکھنے کا رجحان رکھتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ مذہبی ظلم شدید طور پر مذموم ہے اور جو مؤمنین تشدد کے باوجود ثابت قدم رہیں وہ معزز شہدا ہیں۔ یہ آیت مذہبی آزادی کا ایک آفاقی اصول قائم کرتی ہے جو مسلکی حدود سے ماورا ہے۔",
+    "layer4_ar": "يحفظ كلا التراثين الشيعي والسني روايات تاريخية متقاربة عن أصحاب الأخدود مع اختلاف في بعض التفاصيل. ويُحدِّد جمهور علماء السنة كالطبري وابن كثير الحادثة بالاضطهاد الذي قاده ذو نواس في اليمن، متوافقين مع المصادر الشيعية. وأخرج مسلم في صحيحه أحاديث تصف كيف ابتلى ملك جبار المؤمنين بإلقائهم في حُفَر النار. ويُؤكِّد كلا الفريقين ثبات المؤمنين واللعن الإلهي لمضطهِديهم. وتُوظَّف القصة في السياقين السني والشيعي نموذجاً للإيمان الحق والصبر على الابتلاء. ومواضع الاختلاف تتمحور حول ربط هذه السردية بأحداث لاحقة في التاريخ الإسلامي؛ إذ يستخلص علماء الشيعة صراحةً موازاةً مع اضطهاد أهل البيت وأتباعهم، بينما يميل التفسير السني إلى إبقاء الاهتمام على الحادثة التاريخية بذاتها. ويتفق الفريقان على أن الاضطهاد الديني من أشد الكبائر إدانةً وأن المؤمنين الثابتين رغم التعذيب شهداء مكرَّمون. وتُؤسِّس الآية مبدأً إنسانياً شاملاً لحرية الضمير يتخطى الحدود المذهبية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:5:fire-fuel",
+          "title": "Fire of Persecution",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The fire 'dhat al-waqud' (full of fuel) describes the intensity of the flames used to torture believers who refused apostasy.",
+          "whyItMatters": "The vivid imagery reminds us that faith requires courage, and that earthly persecution pales before eternal reward for steadfastness.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+          "title_urdu": "ایندھن والی آگ",
+          "coreInsight_urdu": "آگ 'ذات الوقود' (ایندھن سے بھری) ان شعلوں کی شدت بیان کرتی ہے جو مرتد ہونے سے انکار کرنے والے مومنوں کو اذیت دینے کے لیے استعمال کیے گئے۔",
+          "whyItMatters_urdu": "واضح تصویر کشی ہمیں یاد دلاتی ہے کہ ایمان کے لیے جرأت کی ضرورت ہے، اور یہ کہ دنیاوی ستم ثابت قدمی کے ابدی اجر کے مقابلے میں ماند پڑ جاتا ہے۔",
+          "title_ar": "نار الوقود",
+          "coreInsight_ar": "تصف النار 'ذات الوقود' شدة اللهب المستخدم لتعذيب المؤمنين الذين رفضوا الارتداد.",
+          "whyItMatters_ar": "تذكرنا الصورة الحية بأن الإيمان يتطلب الشجاعة، وأن الاضطهاد الدنيوي يتضاءل أمام المكافأة الأبدية للثبات."
+        },
+        {
+          "id": "85:5:cruelty-extreme",
+          "title": "Ultimate Cruelty",
+          "icon": "bolt.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Burning people alive represents one of the most horrific forms of persecution, yet the believers chose faith over safety.",
+          "whyItMatters": "Their sacrifice teaches us that true conviction cannot be extinguished by physical threats, no matter how severe.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلنَّارِ",
+          "title_urdu": "انتہائی ظلم",
+          "coreInsight_urdu": "لوگوں کو زندہ جلانا ستم کی سب سے خوفناک شکلوں میں سے ایک ہے، پھر بھی مومنوں نے حفاظت پر ایمان کو ترجیح دی۔",
+          "whyItMatters_urdu": "ان کی قربانی ہمیں سکھاتی ہے کہ سچے یقین کو جسمانی دھمکیوں سے نہیں بجھایا جا سکتا، چاہے وہ کتنی ہی شدید ہوں۔",
+          "title_ar": "القسوة المطلقة",
+          "coreInsight_ar": "يمثل حرق الناس أحياء أحد أشد أشكال الاضطهاد فظاعة، ومع ذلك اختار المؤمنون الإيمان على الأمان.",
+          "whyItMatters_ar": "تعلمنا تضحيتهم أن القناعة الحقيقية لا يمكن إطفاؤها بالتهديدات المادية، مهما كانت شديدة."
+        },
+        {
+          "id": "85:5:contrast-hellfire",
+          "title": "Ironic Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The oppressors who used fire against believers will themselves face the eternal fire of Hell as divine retribution.",
+          "whyItMatters": "This demonstrates perfect divine justice - the punishment mirrors the crime, and earthly power cannot escape heavenly accountability.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْوَقُودِ",
+          "title_urdu": "طنزیہ انصاف",
+          "coreInsight_urdu": "ظالم جنہوں نے مومنوں کے خلاف آگ استعمال کی، خود الہی انتقام کے طور پر جہنم کی ابدی آگ کا سامنا کریں گے۔",
+          "whyItMatters_urdu": "یہ کامل الہی انصاف کو ظاہر کرتا ہے - سزا جرم کی عکاسی کرتی ہے، اور دنیاوی طاقت آسمانی جوابدہی سے نہیں بچ سکتی۔",
+          "title_ar": "العدالة الساخرة",
+          "coreInsight_ar": "الظالمون الذين استخدموا النار ضد المؤمنين سيواجهون أنفسهم نار جهنم الأبدية كعقاب إلهي.",
+          "whyItMatters_ar": "يظهر هذا العدالة الإلهية الكاملة - العقوبة تعكس الجريمة، والقوة الدنيوية لا يمكنها الهروب من المساءلة السماوية."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions emphasize the cruelty indicated by the preparation of fuel for the fire. Ibn Kathir and Al-Qurtubi, like their Shia counterparts, note that this detail demonstrates premeditation and the organized nature of the persecution. Both traditions use this verse to condemn religious intolerance and violence. The emphasis on abundant fuel appears in tafsir across schools as evidence of the oppressors' determination to destroy the believers completely. Sunni hadith collections like Sahih Muslim include narrations describing similar elements of the story, confirming the basic historical account shared across Islamic traditions. Both Shia and Sunni scholars draw moral lessons about the superiority of patient faith over violent oppression. The interpretations converge on understanding this verse as both historical description and moral teaching, using vivid imagery to condemn persecution and honor martyrdom. Where traditions differ is primarily in connecting this historical event to later Islamic martyrdom narratives, with Shia tradition more explicitly drawing parallels to the suffering of Ahlul Bayt and their followers throughout history.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علما اس آگ کے لیے تیار کردہ ایندھن کو ظاہر کردہ ظلم پر زور دیتے ہیں۔ ابن کثیر اور القرطبی نے اپنے شیعہ ہم عصروں کی طرح نوٹ کیا ہے کہ یہ تفصیل پہلے سے سوچ کر کیے گئے تشدد کی منظم نوعیت کو ظاہر کرتی ہے۔ دونوں روایات اس آیت کو مذہبی عدم برداشت اور تشدد کی مذمت کے لیے استعمال کرتی ہیں۔ آگ کے لیے وافر ایندھن کی تیاری تمام اسلامی مکاتبِ فکر کی تفسیروں میں اس بات کے ثبوت کے طور پر آتی ہے کہ ظالم مؤمنین کو مکمل طور پر تباہ کرنے پر بضد تھے۔ صحیح مسلم جیسے سنی حدیث مجموعوں میں ایسی روایات ہیں جو اس داستان کے اسی طرح کے عناصر بیان کرتی ہیں جو پوری اسلامی روایات میں مشترک بنیادی تاریخی روایت کی تصدیق کرتی ہیں۔ شیعہ اور سنی دونوں علما صبر کے ساتھ ایمان کی برتری کے بارے میں تشدد پر مبنی ظلم کے مقابلے میں اخلاقی سبق نکالتے ہیں۔ تفسیریں اس آیت کو تاریخی بیان اور اخلاقی تعلیم دونوں کے طور پر سمجھنے پر یکجا ہیں اور مذمت کے لیے واضح تصویر بنانے اور شہادت کو سراہانے کے لیے واضح تصویرکشی کا استعمال کرتی ہیں۔ جہاں روایات بنیادی طور پر مختلف ہیں وہ اس تاریخی واقعے کو بعد کی اسلامی شہادت کی داستانوں سے جوڑنے میں ہے، شیعہ روایت پوری تاریخ میں اہلِ بیت علیہم السلام اور ان کے پیروکاروں کی تکلیف سے واضح مماثلت کھینچتی ہے۔",
+    "layer4_ar": "يُبرز علماء كلا التراثين الشيعي والسني القسوة الدالة على وفرة الوقود. فابن كثير والقرطبي، كنظرائهم الشيعة، يُلاحظون أن هذا التفصيل يُثبت التعمُّد والطابع المنظَّم للاضطهاد. ويُفيد كلا الفريقين من هذه الآية في إدانة التعصب الديني والعنف. ويَرِد التأكيد على وفرة الوقود في التفاسير عبر المذاهب دليلاً على إصرار المضطهِدين على استئصال المؤمنين كلياً. وتشتمل صحاح السنة كصحيح مسلم على أحاديث تصف عناصر مماثلة في الرواية، مُؤكِّدةً الأصل التاريخي المشترك بين التراثين الإسلاميين. ويستخلص علماء الفريقين الشيعي والسني دروساً أخلاقية عن تفوُّق الإيمان الصابر على الاضطهاد العنيف. وتتلاقى التأويلات في فهم هذه الآية بوصفها وصفاً تاريخياً وتعليماً أخلاقياً في آنٍ واحد، توظِّف الصورة الحيَّة لإدانة الاضطهاد وتكريم الاستشهاد. ومواضع الاختلاف تتمحور في الأساس حول الربط بين هذه الأحداث التاريخية وسردية الاستشهاد اللاحقة في التاريخ الإسلامي، إذ يُصرِّح التراث الشيعي بتوازيات مع معاناة أهل البيت وأتباعهم عبر الحقب."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:6:sitting-watching",
+          "title": "Seated Observers",
+          "icon": "person.3.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The oppressors sat watching the believers burn, displaying cold-hearted cruelty and complete absence of mercy.",
+          "whyItMatters": "This scene condemns not just active persecution but passive witnessing of injustice - observing evil without intervening makes one complicit.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذْ هُمْ عَلَيْهَا قُعُودٌۭ",
+          "title_urdu": "بیٹھے ہوئے ناظرین",
+          "coreInsight_urdu": "ظالم بیٹھ کر مومنوں کو جلتے ہوئے دیکھتے رہے، سرد دل ظلم اور رحم کی مکمل غیر موجودگی کا مظاہرہ کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ منظر نہ صرف فعال ستم کی مذمت کرتا ہے بلکہ ناانصافی کے غیر فعال مشاہدے کی بھی - مداخلت کے بغیر برائی کا مشاہدہ کرنا کسی کو ملوث بناتا ہے۔",
+          "title_ar": "المراقبون الجالسون",
+          "coreInsight_ar": "جلس الظالمون يراقبون المؤمنين يحترقون، مظهرين قسوة قلب باردة وغياباً تاماً للرحمة.",
+          "whyItMatters_ar": "يدين هذا المشهد ليس فقط الاضطهاد النشط بل مشاهدة الظلم بشكل سلبي - مراقبة الشر دون التدخل تجعل المرء متواطئاً."
+        },
+        {
+          "id": "85:6:spectacle-evil",
+          "title": "Evil as Entertainment",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The act of sitting and watching suggests they treated martyrdom as a spectacle, hardening their hearts to human suffering.",
+          "whyItMatters": "When societies normalize witnessing cruelty without compassion, moral decay reaches its deepest level.",
+          "position": "topRight",
+          "arabicHighlight": "قُعُودٌۭ",
+          "title_urdu": "تفریح کے طور پر برائی",
+          "coreInsight_urdu": "بیٹھ کر دیکھنے کا عمل بتاتا ہے کہ انہوں نے شہادت کو ایک تماشے کے طور پر لیا، انسانی مصائب کے لیے اپنے دلوں کو سخت کرتے ہوئے۔",
+          "whyItMatters_urdu": "جب معاشرے ہمدردی کے بغیر ظلم کے مشاہدے کو معمول بنا لیتے ہیں، تو اخلاقی زوال اپنی گہری ترین سطح پر پہنچ جاتا ہے۔",
+          "title_ar": "الشر كترفيه",
+          "coreInsight_ar": "يشير فعل الجلوس والمراقبة إلى أنهم عاملوا الاستشهاد كمشهد، قاسين قلوبهم تجاه المعاناة الإنسانية.",
+          "whyItMatters_ar": "عندما تطبّع المجتمعات مشاهدة القسوة دون شفقة، يصل الانحلال الأخلاقي إلى أعمق مستوياته."
+        },
+        {
+          "id": "85:6:witness-guilt",
+          "title": "Witness Testimony",
+          "icon": "doc.text.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Their presence as witnesses (next verse elaborates) means they cannot deny their crime on Judgment Day.",
+          "whyItMatters": "Our actions and witnessing of others' actions are recorded and will testify for or against us in the hereafter.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَلَيْهَا",
+          "title_urdu": "گواہ کی شہادت",
+          "coreInsight_urdu": "گواہوں کے طور پر ان کی موجودگی (اگلی آیت تفصیل دیتی ہے) کا مطلب ہے کہ وہ قیامت کے دن اپنے جرم سے انکار نہیں کر سکتے۔",
+          "whyItMatters_urdu": "ہمارے اعمال اور دوسروں کے اعمال کا مشاہدہ ریکارڈ کیا جاتا ہے اور آخرت میں ہمارے حق میں یا خلاف گواہی دے گا۔",
+          "title_ar": "شهادة الشاهد",
+          "coreInsight_ar": "وجودهم كشهود (توضح الآية التالية) يعني أنهم لا يستطيعون إنكار جريمتهم يوم القيامة.",
+          "whyItMatters_ar": "أفعالنا ومشاهدتنا لأفعال الآخرين مُسجلة وستشهد لنا أو ضدنا في الآخرة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes emphasize the moral depravity indicated by the persecutors sitting to watch believers burn. Ibn Kathir describes how they stationed themselves by the fires to observe the execution of their victims, similar to the descriptions in Shia tafsir. Al-Tabari and other Sunni scholars note that this sitting demonstrates their satisfaction and lack of remorse for their actions. Both traditions use this verse to teach about moral responsibility and the danger of hardened hearts. Sunni and Shia scholars alike condemn the spectator mentality that allows people to observe injustice without intervention. The classical consensus across Islamic scholarship is that this verse exposes the psychology of oppression and serves as warning against desensitization to others' suffering. Where interpretations vary is in application to later history, with Shia scholars sometimes drawing parallels to those who sat passively during the persecution of Ahlul Bayt. Both traditions agree that the verse establishes accountability not just for those who commit evil but for those who witness it without opposition, making complicity itself a crime in the divine court.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتوں کے علما ستانے والوں کے گڑھے کے کنارے بیٹھنے سے ظاہر ہونے والی اخلاقی پستی پر زور دیتے ہیں۔ ابن کثیر نے بیان کیا ہے کہ انہوں نے اپنے پیڑیوں کی جان لینے کا مشاہدہ کرنے کے لیے آگ کے قریب مورچہ لگا لیا، جو شیعہ تفسیر کی بیان کردہ تفصیلات سے ملتا ہے۔ طبری اور دیگر سنی علما نوٹ کرتے ہیں کہ یہ بیٹھنا ان کی رضامندی اور پشیمانی کے فقدان کو ظاہر کرتا ہے۔ دونوں روایات اس آیت کو اخلاقی ذمہ داری اور سخت دل ہونے کے خطرے کے بارے میں سکھانے کے لیے استعمال کرتی ہیں۔ سنی اور شیعہ علما یکساں طور پر اس تماشائی ذہنیت کی مذمت کرتے ہیں جو لوگوں کو مداخلت کیے بغیر ناانصافی دیکھنے دیتی ہے۔ اسلامی علوم میں کلاسیکی اتفاق رائے یہ ہے کہ یہ آیت ستم کی نفسیات کو بے نقاب کرتی ہے اور ظلم کے خلاف بے حسی سے خبردار کرتی ہے۔ جہاں تفسیریں مختلف ہوتی ہیں وہ بعد کی تاریخ پر اطلاق میں ہے، شیعہ علما کبھی کبھی ان لوگوں کے ساتھ مماثلت پیدا کرتے ہیں جنہوں نے اہل بیت کے ستم کے دوران خاموشی اختیار کی۔ دونوں اس پر متفق ہیں کہ آیت نہ صرف برائی کرنے والوں بلکہ اسے دیکھ کر مخالفت نہ کرنے والوں کے لیے بھی جوابدہی ثابت کرتی ہے، شراکت کو خود اللہ کی عدالت میں جرم بناتی ہے۔",
+    "layer4_ar": "يُبرز علماء كلا التراثين الشيعي والسني الانحطاط الأخلاقي الذي يكشفه جلوس المضطهِدين لمشاهدة احتراق المؤمنين. ويصف ابن كثير تمركُزَهم بجانب النيران لمشاهدة تنفيذ الإعدام في ضحاياهم، في وصف يُطابق ما جاء في التفسير الشيعي. ويُلاحظ الطبري وغيره من علماء السنة أن هذا الجلوس يدل على رضاهم وانعدام ندمهم. ويستخدم علماء كلا التراثين هذه الآية للتعليم على المسؤولية الأخلاقية وخطر تبلُّد القلوب. ويُدين العلماء الشيعة والسنة على حدٍّ سواء نفسيةَ المتفرِّج التي تتيح للناس مشاهدة الظلم دون تدخل. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية تفضح نفسية الاضطهاد وتُحذِّر من التبلُّد إزاء معاناة الآخرين. وتتباين التأويلات قليلاً في تطبيقاتها اللاحقة، إذ يرسم العلماء الشيعة أحياناً أوجه شبه مع من تقاعسوا إبَّان اضطهاد أهل البيت عليهم السلام. ويتفق الفريقان على أن الآية تُرسي المحاسبة ليس على مرتكبي الشر فحسب بل على شهوده أيضاً حين لا يقفون في وجهه، مُقرِّرةً أن التواطؤ ذاته جريمةٌ في ميزان القضاء الإلهي."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:7:conscious-witnesses",
+          "title": "Conscious Witnesses",
+          "icon": "eye.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The oppressors were 'shuhud' (witnesses) to their own crimes against believers, fully aware of their evil deeds.",
+          "whyItMatters": "Conscious evil - knowing wrongdoing while persisting in it - carries greater accountability than ignorance.",
+          "position": "topLeft",
+          "arabicHighlight": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌۭ",
+          "title_urdu": "باشعور گواہ",
+          "coreInsight_urdu": "ظالم مومنوں کے خلاف اپنے جرائم کے 'شہود' (گواہ) تھے، اپنے برے اعمال سے مکمل طور پر آگاہ۔",
+          "whyItMatters_urdu": "باشعور برائی - غلطی کو جانتے ہوئے اس میں جاری رہنا - لاعلمی سے زیادہ جوابدہی لاتی ہے۔",
+          "title_ar": "شهود واعون",
+          "coreInsight_ar": "كان الظالمون 'شهود' لجرائمهم ضد المؤمنين، مدركين تماماً لأفعالهم الشريرة.",
+          "whyItMatters_ar": "الشر الواعي - معرفة الخطأ مع الاستمرار فيه - يحمل مساءلة أكبر من الجهل."
+        },
+        {
+          "id": "85:7:believers-identity",
+          "title": "Believers Identified",
+          "icon": "person.2.badge.key.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse explicitly identifies the victims as 'al-mu'minin' (the believers), honoring their faith and martyrdom.",
+          "whyItMatters": "Allah recognizes and records the suffering of believers, ensuring their sacrifice is never forgotten and will be rewarded.",
+          "position": "topRight",
+          "arabicHighlight": "بِٱلْمُؤْمِنِينَ",
+          "title_urdu": "مومنوں کی شناخت",
+          "coreInsight_urdu": "آیت واضح طور پر متاثرین کو 'المومنین' (مومنین) کے طور پر شناخت کرتی ہے، ان کے ایمان اور شہادت کو عزت دیتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ مومنوں کے مصائب کو پہچانتا اور ریکارڈ کرتا ہے، اس بات کو یقینی بناتے ہوئے کہ ان کی قربانی کبھی فراموش نہیں ہوگی اور اجر دیا جائے گا۔",
+          "title_ar": "تحديد المؤمنين",
+          "coreInsight_ar": "تحدد الآية صراحة الضحايا بـ'المؤمنين'، مكرمة إيمانهم واستشهادهم.",
+          "whyItMatters_ar": "يعترف الله بمعاناة المؤمنين ويسجلها، مضموناً أن تضحيتهم لن تُنسى أبداً وستُكافأ."
+        },
+        {
+          "id": "85:7:public-crime",
+          "title": "Public Atrocity",
+          "icon": "megaphone.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The public nature of this persecution - done openly with witnesses - compounds the crime's severity.",
+          "whyItMatters": "When oppression becomes public spectacle, it corrupts entire societies and requires collective responsibility to prevent.",
+          "position": "bottomLeft",
+          "arabicHighlight": "شُهُودٌۭ",
+          "title_urdu": "عوامی ظلم",
+          "coreInsight_urdu": "اس ستم کی عوامی نوعیت - گواہوں کے ساتھ کھلے عام کیا گیا - جرم کی شدت کو بڑھاتی ہے۔",
+          "whyItMatters_urdu": "جب ظلم عوامی تماشا بن جاتا ہے، تو یہ پوری معاشرت کو خراب کرتا ہے اور روکنے کے لیے اجتماعی ذمہ داری کی ضرورت ہوتی ہے۔",
+          "title_ar": "الفظاعة العلنية",
+          "coreInsight_ar": "الطبيعة العلنية لهذا الاضطهاد - المرتكب علناً بشهود - تضاعف شدة الجريمة.",
+          "whyItMatters_ar": "عندما يصبح القمع مشهداً عاماً، فإنه يفسد مجتمعات بأكملها ويتطلب مسؤولية جماعية لمنعه."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions emphasize the theme of witnessing and accountability in this verse. Ibn Kathir and Al-Qurtubi, like Shia exegetes, note that the persecutors' witnessing of their own crimes eliminates any excuse or denial. Both traditions teach that conscious wrongdoing is more severely punished than error committed in ignorance. Sunni hadith collections include narrations about how people's own limbs will testify against them on Judgment Day, similar to the traditions preserved in Shia sources. The classical consensus is that this verse establishes multiple levels of evidence against the oppressors, their own witnessing, the witnessing of the victims, and the witnessing of Allah Himself. Both traditions use this verse to teach about moral awareness and the importance of self-accountability, examining one's actions honestly rather than self-deception. Where traditions differ is in their broader application, with Shia scholars often connecting the theme of witnessing to the role of Imams as witnesses over the ummah. Both agree that conscious participation in and observation of persecution carries severe divine punishment and that witnessing creates moral responsibility to oppose injustice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتوں کے علما اس آیت میں گواہی اور جوابدہی کے موضوع پر زور دیتے ہیں۔ ابن کثیر اور طبری جیسے سنی مفسرین، شیعہ مفسرین کی طرح، نوٹ کرتے ہیں کہ ستانے والوں کا اپنے جرائم کا خود مشاہدہ ہر عذر اور انکار کو ختم کر دیتا ہے۔ دونوں روایات سکھاتی ہیں کہ جانتے بوجھتے کیا گیا غلط کام لا علمی میں کی گئی غلطی سے زیادہ سزا کا مستحق ہے۔ سنی حدیث مجموعوں میں ایسی روایات شامل ہیں کہ قیامت کے دن لوگوں کے اپنے اعضاء ان کے خلاف گواہی دیں گے، جو شیعہ مآخذ میں محفوظ روایات سے ملتی جلتی ہیں۔ اسلامی علوم میں کلاسیکی اتفاق رائے یہ ہے کہ یہ آیت ظالموں کے خلاف کئی سطحوں کے ثبوت قائم کرتی ہے یعنی ان کی اپنی گواہی، مظلوموں کی گواہی، اور خود اللہ کی گواہی۔ دونوں روایات اس آیت کو اخلاقی آگاہی اور خود احتسابی کی اہمیت کے بارے میں سکھانے کے لیے استعمال کرتی ہیں، اعمال کو ایمانداری سے جانچنا نہ کہ خود کو فریب دینا۔ جہاں روایات مختلف ہوتی ہیں وہ وسیع تر اطلاق میں ہے، شیعہ علما کبھی کبھی گواہی کے موضوع کو امت پر آئمہ کی گواہی کے کردار سے جوڑتے ہیں۔ دونوں متفق ہیں کہ آیت ثابت کرتی ہے کہ حقیقی طاقت صرف اللہ کے پاس ہے اور اس کی گواہی اس بات کی ضمانت دیتی ہے کہ انصاف بالآخر قائم ہو گا۔",
+    "layer4_ar": "يُبرز علماء التراثين الشيعي والسني معاً موضوعَ الشهود والمساءلة في هذه الآية. فابن كثير والقرطبي، كنظرائهم الشيعة، يُلاحظون أن شهادة المضطهِدين على جرائمهم تُسقط كل عذر أو إنكار. ويُعلِّم الفريقان أن الإيذاء العمد يُعاقَب عليه بأشد مما يُعاقَب به الخطأ الصادر عن جهل. وتشتمل كتب الحديث السنية على روايات تصف شهادة الجوارح على أصحابها يوم القيامة، تتوازى مع ما يُوجد في المصادر الشيعية من روايات. والإجماع الكلاسيكي أن هذه الآية تُرسي طبقات متعددة من الأدلة ضد الظالمين: شهودهم بأنفسهم، وشهادة الضحايا، وشهادة الله سبحانه. ويستخدم علماء الفريقين هذه الآية للتعليم على الوعي الأخلاقي وأهمية محاسبة النفس، ومراجعة الأعمال بصدق بدلاً من التغرير بالنفس. ومواضع الاختلاف في التطبيقات الأشمل، إذ يربط علماء الشيعة كثيراً بين موضوع الشهادة ودور الأئمة شهوداً على الأمة. ويتفق الفريقان على أن المشاركة الواعية في الاضطهاد ومراقبته تستوجب العقاب الإلهي الشديد، وأن الشهود يُنشئ مسؤوليةً أخلاقية لمقاومة الظلم."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:8:only-crime",
+          "title": "Their Only Crime",
+          "icon": "hands.clap.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Wa ma naqamu minhum illa' (they resented them only because) reveals the sole reason for persecution was belief in Allah.",
+          "whyItMatters": "True faith in Allah can provoke hostility from those who reject truth, but this very opposition confirms faith's authenticity.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ",
+          "title_urdu": "ان کا واحد جرم",
+          "coreInsight_urdu": "'وما نقموا منہم الا' (انہوں نے صرف اس وجہ سے ان سے نفرت کی) ظاہر کرتا ہے کہ ستم کی واحد وجہ اللہ پر ایمان تھا۔",
+          "whyItMatters_urdu": "اللہ پر سچا ایمان سچائی کو مسترد کرنے والوں کی دشمنی کو بھڑکا سکتا ہے، لیکن یہی مخالفت ایمان کی صداقت کی تصدیق کرتی ہے۔",
+          "title_ar": "جريمتهم الوحيدة",
+          "coreInsight_ar": "'وما نقموا منهم إلا' تكشف أن السبب الوحيد للاضطهاد كان الإيمان بالله.",
+          "whyItMatters_ar": "الإيمان الحقيقي بالله يمكن أن يثير عداء من يرفضون الحق، لكن هذه المعارضة نفسها تؤكد صحة الإيمان."
+        },
+        {
+          "id": "85:8:al-aziz",
+          "title": "The Exalted in Might",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is described as 'al-Aziz' (the Mighty, Invincible), ironically contrasting with the apparent weakness of persecuted believers.",
+          "whyItMatters": "True might belongs to Allah, not worldly oppressors - believers align with ultimate power even when appearing powerless.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْعَزِيزِ",
+          "title_urdu": "زبردست غالب",
+          "coreInsight_urdu": "اللہ کو 'العزیز' (زبردست، ناقابل شکست) کہا گیا ہے، ستائے گئے مومنوں کی ظاہری کمزوری کے ساتھ طنزیہ تضاد۔",
+          "whyItMatters_urdu": "حقیقی طاقت اللہ سے تعلق رکھتی ہے، نہ کہ دنیاوی ظالموں سے - مومن حتمی طاقت کے ساتھ ہم آہنگ ہیں یہاں تک کہ جب بے بس نظر آئیں۔",
+          "title_ar": "العزيز",
+          "coreInsight_ar": "يوصف الله بـ'العزيز' (القوي، الذي لا يُقهر)، متناقضاً بسخرية مع الضعف الظاهري للمؤمنين المضطهدين.",
+          "whyItMatters_ar": "القوة الحقيقية ملك لله، وليس للظالمين الدنيويين - يتماشى المؤمنون مع القوة المطلقة حتى عندما يبدون عاجزين."
+        },
+        {
+          "id": "85:8:al-hamid",
+          "title": "The Praiseworthy",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-Hamid' (the Praiseworthy) reminds believers that Allah deserves all praise, even amid persecution and suffering.",
+          "whyItMatters": "Maintaining gratitude and praise of Allah through trials demonstrates the highest level of faith and trust.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْحَمِيدِ",
+          "title_urdu": "قابل تعریف",
+          "coreInsight_urdu": "'الحمید' (قابل تعریف) مومنوں کو یاد دلاتا ہے کہ اللہ تمام تعریفوں کا مستحق ہے، یہاں تک کہ ستم اور مصائب کے درمیان۔",
+          "whyItMatters_urdu": "آزمائشوں کے دوران اللہ کا شکر اور حمد برقرار رکھنا ایمان اور بھروسے کی اعلیٰ ترین سطح کو ظاہر کرتا ہے۔",
+          "title_ar": "الحميد",
+          "coreInsight_ar": "'الحميد' يذكّر المؤمنين بأن الله يستحق كل الحمد، حتى وسط الاضطهاد والمعاناة.",
+          "whyItMatters_ar": "الحفاظ على الامتنان والحمد لله خلال المحن يظهر أعلى مستوى من الإيمان والثقة."
+        },
+        {
+          "id": "85:8:faith-persecution",
+          "title": "Faith Under Fire",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verse highlights that pure monotheistic faith often provokes the strongest opposition from those who reject divine authority.",
+          "whyItMatters": "Expect resistance when upholding truth - persecution for faith is a historical pattern that tests and purifies believers.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَن يُؤْمِنُوا۟",
+          "title_urdu": "ایمان آزمائش میں",
+          "coreInsight_urdu": "آیت اجاگر کرتی ہے کہ خالص توحیدی ایمان اکثر ان لوگوں کی سخت ترین مخالفت کو بھڑکاتا ہے جو الہی اختیار کو مسترد کرتے ہیں۔",
+          "whyItMatters_urdu": "سچائی کو برقرار رکھتے ہوئے مزاحمت کی توقع رکھیں - ایمان کے لیے ستم ایک تاریخی نمونہ ہے جو مومنوں کو آزماتا اور پاک کرتا ہے۔",
+          "title_ar": "الإيمان تحت النار",
+          "coreInsight_ar": "تسلط الآية الضوء على أن الإيمان التوحيدي النقي غالباً ما يثير أقوى معارضة من الذين يرفضون السلطة الإلهية.",
+          "whyItMatters_ar": "توقع المقاومة عند التمسك بالحق - الاضطهاد من أجل الإيمان نمط تاريخي يختبر المؤمنين ويطهرهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize that this verse establishes the pure monotheism of the victims and the irrationality of their persecution. Ibn Kathir and Al-Qurtubi, like Shia exegetes, note that the believers had no fault except faith in Allah, making the persecution completely unjust. Both traditions highlight the significance of the two divine attributes mentioned. Sunni scholar Fakhr al-Din al-Razi, like Tabatabai, explains that Al-Aziz indicates Allah's power to help His servants while Al-Hamid indicates His worthiness of devotion and praise. Classical scholars across both traditions teach that persecution for pure monotheistic faith is a recurring pattern from the time of Abraham through the Prophet Muhammad to the present day. Both Sunni and Shia sources preserve the principle that true believers may be tested through persecution but will ultimately be vindicated. Where traditions differ is in their historical applications, with Shia scholarship explicitly connecting this verse to the persecution of Ali and his followers after the Prophet's death. Both agree that the verse establishes faith in Allah as the highest value, worth defending even at the cost of life.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت میں مومنوں کے خالص توحید اور ان کے ستم کی غیر معقولیت کے موضوع پر زور دیتے ہیں۔ ابن کثیر اور القرطبی، شیعہ مفسرین کی طرح، نوٹ کرتے ہیں کہ مومنوں میں کوئی قصور نہ تھا سوائے اللہ پر ایمان کے جس سے ستم بالکل ناانصاف تھا۔ دونوں روایات ذکر کردہ دو الہٰی صفات کی اہمیت کو اجاگر کرتی ہیں۔ سنی عالم فخر الدین رازی، طباطبائی کی طرح، وضاحت کرتے ہیں کہ العزیز اس بات کی نشاندہی کرتا ہے کہ اللہ اپنے بندوں کی مدد کرنے پر قادر ہے جبکہ الحمید اس کی عبادت اور ستائش کی استحقاق کو ظاہر کرتا ہے۔ اسلامی علوم میں کلاسیکی علما متفق ہیں کہ خالص توحیدی ایمان کے لیے ستم حضرت ابراہیم علیہ السلام کے زمانے سے لے کر رسول اللہ صلی اللہ علیہ وآلہ وسلم تک اور آج تک دہرایا جانے والا نمونہ ہے۔ سنی اور شیعہ دونوں مآخذ یہ اصول محفوظ کرتے ہیں کہ حقیقی مومنوں کو ستم کے ذریعے آزمایا جا سکتا ہے لیکن بالآخر انہیں حق دیا جائے گا۔ جہاں روایات مختلف ہیں وہ تاریخی اطلاقات میں ہے، شیعہ علم اس آیت کو رسول اللہ صلی اللہ علیہ وآلہ وسلم کی وفات کے بعد علی علیہ السلام اور ان کے ماننے والوں کے ستم سے صریح طور پر جوڑتے ہیں۔ دونوں متفق ہیں کہ یہ آیت اللہ پر ایمان کو بلند ترین قدر کے طور پر قائم کرتی ہے جس کا دفاع کیا جانا چاہیے حتیٰ کہ جان دے کر بھی۔",
+    "layer4_ar": "يُؤكِّد علماء كلا التراثين الشيعي والسني أن هذه الآية تُثبت صفاء توحيد الضحايا وتُدين لا معقولية الاضطهاد. فابن كثير والقرطبي، كنظرائهم الشيعة، يُلاحظون أنه لم يكن للمؤمنين ذنبٌ غير الإيمان بالله، مما يجعل الاضطهاد ظلماً خالصاً. ويُبرز الفريقان دلالة الصفتين الإلهيتين المذكورتين؛ فالعالِم السني فخر الدين الرازي، كالطباطبائي، يُوضِّح أن العزيز يدل على قدرة الله على نُصرة عباده بينما الحميد يدل على استحقاقه للعبادة والإخلاص. ويُعلِّم العلماء الكلاسيكيون في كلا المدرستين أن الاضطهاد بسبب التوحيد الخالص نمطٌ متكرر من عهد إبراهيم عليه السلام مروراً بالنبي محمد صلى الله عليه وآله وسلم وحتى يومنا هذا. وتُوجد في المصادر السنية والشيعية معاً روايات تُقرِّر أن المؤمن الحق قد يُبتلى بالاضطهاد لكنه سيُنصَف في نهاية المطاف. ومواضع التباين في التطبيقات التاريخية، إذ يربط التراث الشيعي صراحةً بين هذه الآية واضطهاد علي عليه السلام وأتباعه بعد رحيل النبي. ويتفق الفريقان على أن الآية تُرسي الإيمان بالله باعتباره أسمى قيمة جديرة بالدفاع عنها مهما كلَّف الثمن."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:9:sovereignty",
+          "title": "Divine Sovereignty",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Lahu mulk as-samawat wal-ard' (To Him belongs the dominion of heavens and earth) affirms Allah's absolute ownership and control.",
+          "whyItMatters": "Recognizing Allah's total sovereignty means earthly tyrants hold no real power - all authority returns to its true source.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "الہی حاکمیت",
+          "coreInsight_urdu": "'لہ ملک السماوات والارض' (آسمانوں اور زمین کی بادشاہت اسی کی ہے) اللہ کی مطلق ملکیت اور کنٹرول کی تصدیق کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی مکمل حاکمیت کو پہچاننے کا مطلب ہے کہ دنیاوی ظالموں کے پاس کوئی حقیقی طاقت نہیں - تمام اختیار اپنے اصل منبع پر واپس لوٹتا ہے۔",
+          "title_ar": "السيادة الإلهية",
+          "coreInsight_ar": "'له ملك السماوات والأرض' يؤكد ملكية الله المطلقة وسيطرته.",
+          "whyItMatters_ar": "إدراك سيادة الله المطلقة يعني أن الطغاة الأرضيين لا يملكون قوة حقيقية - كل السلطة تعود إلى مصدرها الحقيقي."
+        },
+        {
+          "id": "85:9:allah-witness",
+          "title": "Allah as Witness",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Wallahu ala kulli shay'in shahid' (Allah is Witness over all things) connects to earlier witness themes - nothing escapes His awareness.",
+          "whyItMatters": "The same witnessing that condemned the oppressors also records the believers' suffering, ensuring perfect justice.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
+          "title_urdu": "اللہ گواہ",
+          "coreInsight_urdu": "'واللہ علی کل شیء شہید' (اللہ ہر چیز پر گواہ ہے) پہلے کے گواہی کے موضوعات سے جڑتا ہے - کوئی چیز اس کی آگاہی سے نہیں بچتی۔",
+          "whyItMatters_urdu": "وہی گواہی جس نے ظالموں کی مذمت کی، مومنوں کے مصائب کو بھی ریکارڈ کرتی ہے، کامل انصاف کو یقینی بناتے ہوئے۔",
+          "title_ar": "الله شاهد",
+          "coreInsight_ar": "'والله على كل شيء شهيد' يربط بموضوعات الشهادة السابقة - لا شيء يفلت من وعيه.",
+          "whyItMatters_ar": "نفس الشهادة التي أدانت الظالمين تسجل أيضاً معاناة المؤمنين، مضمونة العدالة الكاملة."
+        },
+        {
+          "id": "85:9:cosmic-authority",
+          "title": "Universal Authority",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah's authority spans both heavens and earth, transcending all human power structures and earthly kingdoms.",
+          "whyItMatters": "This cosmic perspective diminishes worldly oppression to its true insignificance before divine majesty.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "کائناتی اختیار",
+          "coreInsight_urdu": "اللہ کا اختیار آسمانوں اور زمین دونوں پر محیط ہے، تمام انسانی طاقت کے ڈھانچوں اور دنیاوی سلطنتوں سے بالاتر۔",
+          "whyItMatters_urdu": "یہ کائناتی نقطہ نظر دنیاوی ظلم کو الہی عظمت کے سامنے اس کی حقیقی کمتری تک کم کر دیتا ہے۔",
+          "title_ar": "السلطة الكونية",
+          "coreInsight_ar": "تمتد سلطة الله على السماوات والأرض، متجاوزة كل هياكل القوة البشرية والممالك الأرضية.",
+          "whyItMatters_ar": "هذا المنظور الكوني يقلل من القمع الدنيوي إلى تفاهته الحقيقية أمام الجلال الإلهي."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions emphasize Allah's sovereignty and comprehensive witnessing as central themes of this verse. Ibn Kathir and Al-Tabari, like Shia exegetes, explain that Allah's ownership of the heavens and earth means all creation is under His command and authority. Both traditions teach that Allah's witnessing creates absolute accountability, as nothing is hidden from Him. Sunni scholar Al-Razi provides philosophical arguments about divine knowledge similar to those in Al-Mizan, explaining that Allah's knowledge encompasses past, present, and future, particular and universal. Classical consensus across Islamic scholarship is that this verse provides comfort to the oppressed and warning to oppressors. Both Shia and Sunni sources preserve hadith about living with awareness of divine witnessing, making it a foundation of Islamic ethics and spirituality. Where traditions differ is in some of the specific applications, with Shia scholars sometimes connecting Allah's witnessing to the concept of wilaya and the Imams as witnesses over the ummah. Both agree that this verse establishes that true power belongs to Allah alone and that His witnessing guarantees justice will ultimately prevail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتوں کے علما اللہ کی حاکمیت اور جامع گواہی کو اس آیت کے مرکزی موضوعات کے طور پر اجاگر کرتے ہیں۔ ابن کثیر اور طبری، شیعہ مفسرین کی طرح، وضاحت کرتے ہیں کہ آسمانوں اور زمین پر اللہ کی ملکیت کا مطلب تمام مخلوقات اس کے حکم اور اختیار کے تابع ہیں۔ دونوں روایات سکھاتی ہیں کہ اللہ کی گواہی مطلق جوابدہی پیدا کرتی ہے کیونکہ اس سے کچھ پوشیدہ نہیں۔ سنی عالم رازی نے الہٰی علم کے بارے میں فلسفیانہ دلائل دیے ہیں جو الميزان میں موجود دلائل سے ملتے جلتے ہیں اور وضاحت کرتے ہیں کہ اللہ کا علم ماضی، حال اور مستقبل، جزئی اور کلی، سب کو محیط ہے۔ اسلامی علوم میں کلاسیکی اتفاق رائے یہ ہے کہ یہ آیت مظلوموں کو تسلی اور ظالموں کو خبردار کرتی ہے۔ شیعہ اور سنی دونوں مآخذ الہٰی گواہی کی آگاہی کے ساتھ زندگی گزارنے کے بارے میں احادیث محفوظ کرتے ہیں جو اسے اسلامی اخلاقیات اور روحانیت کی بنیاد بناتے ہیں۔ جہاں روایات کچھ مختلف ہیں وہ مخصوص اطلاقات میں ہے، شیعہ علما کبھی کبھی اللہ کی گواہی کو امت پر آئمہ کی گواہی کے تصور ولایت سے جوڑتے ہیں۔ دونوں متفق ہیں کہ یہ آیت قائم کرتی ہے کہ حقیقی طاقت صرف اللہ کے پاس ہے اور اس کی گواہی اس بات کی ضمانت دیتی ہے کہ انصاف بالآخر قائم ہو گا۔",
+    "layer4_ar": "يُؤكِّد علماء كلا التراثين الشيعي والسني أن سيادة الله وشهادته الشاملة هي المحاور المركزية في هذه الآية. فابن كثير والطبري، كنظرائهم الشيعة، يُوضِّحون أن ملك الله للسموات والأرض يعني أن جميع الخلق تحت أمره وسلطانه. ويُعلِّم الفريقان أن شهادة الله تُنشئ مساءلةً مطلقة لا يختفي معها شيء عن علمه. ويُقدِّم العالِم السني الرازي حججاً فلسفية عن العلم الإلهي تتوازى مع ما في الميزان، موضحاً أن علم الله يحيط بالماضي والحاضر والمستقبل، بالجزء والكل. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية تُريح المظلوم وتُحذِّر الظالم. ويُوجد في المصادر الحديثية الشيعية والسنية معاً ما يُثبت الحياة في ظل وعي الشهادة الإلهية، جاعلةً منها أساساً للأخلاق الإسلامية والروحانية. ومواضع التباين في بعض التطبيقات المحددة، إذ يربط العلماء الشيعة أحياناً بين شهادة الله ومفهوم الولاية والأئمة شهوداً على الأمة. ويتفق الفريقان على أن هذه الآية تُقرِّر أن السلطة الحقيقية لله وحده وأن شهادته ضمانٌ أكيد بانتصار العدل في نهاية المطاف."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:10:those-who-tortured",
+          "title": "The Torturers",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Fatanu' means to put to trial through torture - the oppressors tested believers' faith through extreme persecution.",
+          "whyItMatters": "Those who torture others for their faith face divine punishment unless they repent - the door of mercy remains open.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ",
+          "title_urdu": "اذیت دینے والے",
+          "coreInsight_urdu": "'فتنو' کا مطلب اذیت کے ذریعے آزمائش میں ڈالنا ہے - ظالموں نے انتہائی ستم کے ذریعے مومنوں کے ایمان کو آزمایا۔",
+          "whyItMatters_urdu": "جو لوگ دوسروں کو ان کے ایمان کی وجہ سے اذیت دیتے ہیں وہ الہی سزا کا سامنا کرتے ہیں جب تک کہ وہ توبہ نہ کریں - رحمت کا دروازہ کھلا رہتا ہے۔",
+          "title_ar": "المعذِّبون",
+          "coreInsight_ar": "'فتنوا' تعني وضع الناس في محنة من خلال التعذيب - اختبر الظالمون إيمان المؤمنين من خلال الاضطهاد الشديد.",
+          "whyItMatters_ar": "الذين يعذبون الآخرين بسبب إيمانهم يواجهون العقاب الإلهي ما لم يتوبوا - باب الرحمة يبقى مفتوحاً."
+        },
+        {
+          "id": "85:10:gender-inclusion",
+          "title": "Men and Women",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse explicitly mentions both 'mu'minin wal-mu'minat' (believing men and women), honoring female martyrs equally.",
+          "whyItMatters": "Islam recognizes women's spiritual equality and acknowledges their sacrifices for faith alongside men.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ",
+          "title_urdu": "مرد اور عورتیں",
+          "coreInsight_urdu": "آیت واضح طور پر 'مومنین والمومنات' (مومن مرد اور عورتیں) دونوں کا ذکر کرتی ہے، خواتین شہداء کو برابر عزت دیتے ہوئے۔",
+          "whyItMatters_urdu": "اسلام خواتین کی روحانی برابری کو تسلیم کرتا ہے اور مردوں کے ساتھ ساتھ ایمان کے لیے ان کی قربانیوں کو تسلیم کرتا ہے۔",
+          "title_ar": "الرجال والنساء",
+          "coreInsight_ar": "تذكر الآية صراحة 'المؤمنين والمؤمنات'، مكرمة الشهيدات بالتساوي.",
+          "whyItMatters_ar": "يعترف الإسلام بالمساواة الروحية للمرأة ويقر بتضحياتها من أجل الإيمان جنباً إلى جنب مع الرجال."
+        },
+        {
+          "id": "85:10:repentance-door",
+          "title": "Door of Repentance",
+          "icon": "door.left.hand.open",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Thumma lam yatubu' (then did not repent) indicates that even grave oppressors can be forgiven if they sincerely repent.",
+          "whyItMatters": "Allah's mercy is so vast that even those who burn believers alive can find forgiveness through genuine repentance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ثُمَّ لَمْ يَتُوبُوا۟",
+          "title_urdu": "توبہ کا دروازہ",
+          "coreInsight_urdu": "'ثم لم یتوبوا' (پھر توبہ نہیں کی) اشارہ کرتا ہے کہ یہاں تک کہ سنگین ظالم بھی معاف ہو سکتے ہیں اگر وہ مخلصانہ توبہ کریں۔",
+          "whyItMatters_urdu": "اللہ کی رحمت اتنی وسیع ہے کہ یہاں تک کہ جو لوگ مومنوں کو زندہ جلاتے ہیں وہ بھی حقیقی توبہ کے ذریعے معافی پا سکتے ہیں۔",
+          "title_ar": "باب التوبة",
+          "coreInsight_ar": "'ثم لم يتوبوا' يشير إلى أنه حتى الظالمين الجسيمين يمكن أن يُغفر لهم إذا تابوا بصدق.",
+          "whyItMatters_ar": "رحمة الله واسعة لدرجة أن حتى أولئك الذين يحرقون المؤمنين أحياء يمكنهم العثور على المغفرة من خلال التوبة الصادقة."
+        },
+        {
+          "id": "85:10:dual-punishment",
+          "title": "Double Punishment",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse mentions two punishments: 'adhab jahannam' (punishment of Hell) and 'adhab al-hariq' (punishment of burning).",
+          "whyItMatters": "The punishment mirrors the crime - those who burned believers will themselves experience eternal burning.",
+          "position": "bottomRight",
+          "arabicHighlight": "عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+          "title_urdu": "دوہری سزا",
+          "coreInsight_urdu": "آیت دو سزاؤں کا ذکر کرتی ہے: 'عذاب جہنم' (جہنم کی سزا) اور 'عذاب الحریق' (جلنے کی سزا)۔",
+          "whyItMatters_urdu": "سزا جرم کی عکاسی کرتی ہے - جنہوں نے مومنوں کو جلایا وہ خود ابدی جلن کا تجربہ کریں گے۔",
+          "title_ar": "العقاب المزدوج",
+          "coreInsight_ar": "تذكر الآية عقوبتين: 'عذاب جهنم' و'عذاب الحريق'.",
+          "whyItMatters_ar": "العقوبة تعكس الجريمة - الذين أحرقوا المؤمنين سيختبرون أنفسهم الحرق الأبدي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize the twin themes of divine justice and mercy in this verse. Ibn Kathir and Al-Qurtubi, like their Shia counterparts, explain that the punishment of burning fits the crime of burning believers, demonstrating proportionate divine justice. Both traditions preserve the principle that repentance can wipe away even the gravest sins if it is sincere. Sunni scholar Al-Razi discusses the theological implications of Allah punishing by fire those who punished by fire, similar to discussions in Al-Mizan. Classical consensus across Islamic scholarship is that this verse demonstrates that Allah's mercy precedes His wrath, as even severe criminals are offered the opportunity to repent. Both Shia and Sunni sources teach that true repentance requires specific conditions including remorse, cessation of the sin, and determination not to repeat it. Where traditions converge most strongly is on the ethical implications, emphasizing both the severity of oppression and the vastness of divine mercy. Both agree that persecution of believers is among the gravest sins and that justice, whether through repentance and reform or punishment, will ultimately prevail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت میں الہٰی انصاف اور رحمت کے دوہرے موضوعات پر زور دیتے ہیں۔ ابن کثیر اور القرطبی، شیعہ مفسرین کی طرح، وضاحت کرتے ہیں کہ جلانے کی سزا مومنوں کو جلانے کے جرم کے مطابق ہے جو متناسب الہٰی انصاف کو ظاہر کرتی ہے۔ دونوں روایات اس اصول کو محفوظ کرتی ہیں کہ توبہ گناہوں کو مٹا سکتی ہے حتیٰ کہ سب سے سنگین گناہوں کو بھی اگر وہ مخلصانہ ہو۔ سنی عالم رازی نے جرم اور سزا کے درمیان اللہ کے جلانے کے الہیاتی مضمرات پر گفتگو کی ہے جو الميزان میں موجود گفتگو سے ملتی جلتی ہے۔ اسلامی علوم میں کلاسیکی اتفاق رائے یہ ہے کہ یہ آیت ظاہر کرتی ہے کہ اللہ کی رحمت اس کے غضب سے سبقت لے جاتی ہے کیونکہ سنگین جرائم کے مرتکبین کو بھی توبہ کی پیشکش کی جاتی ہے۔ شیعہ اور سنی دونوں مآخذ حقیقی توبہ کی مخصوص شرائط سکھاتے ہیں جن میں پشیمانی، گناہ سے باز آنا اور اسے نہ دہرانے کا عزم شامل ہے۔ جہاں روایات سب سے زیادہ یکجا ہیں وہ اخلاقی مضمرات میں ہے جو ستم کی سنگینی اور الہٰی رحمت کی وسعت دونوں کو اجاگر کرتی ہیں۔ دونوں متفق ہیں کہ مومنوں کو ستانا انتہائی سنگین گناہوں میں سے ہے اور یہ کہ انصاف، چاہے توبہ اور اصلاح کے ذریعے یا سزا کے ذریعے، بالآخر قائم ہو گا۔",
+    "layer4_ar": "يُؤكِّد علماء كلا التراثين الشيعي والسني الموضوعَين المتلازمَين في هذه الآية، العدل الإلهي والرحمة. فابن كثير والقرطبي، كنظرائهم الشيعة، يُوضِّحون أن عقوبة الحريق تُقابل جريمةَ إحراق المؤمنين مُجسِّدةً عدالةً إلهية متناسبة. ويحفظ الفريقان مبدأ أن التوبة قادرة على محو أشد الذنوب وأفدحها إذا كانت صادقة. ويتناول العالِم السني الرازي الأبعادَ الكلامية لتعذيب الله بالنار من أحرق بالنار في نقاش يتوازى مع مناقشات الميزان. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية تُظهر أن رحمة الله تسبق غضبه، إذ يُتاح حتى للمجرمين الشداد فرصة التوبة. ويُعلِّم علماء الفريقين الشيعي والسني أن التوبة الحقة مشروطة بشروط محددة تشمل الندم والكفَّ عن الذنب والعزم على عدم العود. وأشد مواضع التقاء الفريقين قوةً في التبعات الأخلاقية، إذ يُؤكِّدان معاً شدة الظلم وسعة الرحمة الإلهية. ويتفق الفريقان على أن اضطهاد المؤمنين من أعظم الكبائر، وأن العدل سواء عبر التوبة والإصلاح أو عبر العقوبة سينتصر في نهاية المطاف."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:11:gardens-paradise",
+          "title": "Gardens of Paradise",
+          "icon": "leaf.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Jannat tajri min tahtiha al-anhar' (gardens beneath which rivers flow) describes the eternal reward for steadfast believers.",
+          "whyItMatters": "The contrast between earthly fire and heavenly gardens shows that temporary suffering leads to eternal bliss.",
+          "position": "topLeft",
+          "arabicHighlight": "جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ",
+          "title_urdu": "جنت کے باغات",
+          "coreInsight_urdu": "'جنات تجری من تحتہا الانہار' (باغات جن کے نیچے نہریں بہتی ہیں) ثابت قدم مومنوں کے لیے ابدی اجر بیان کرتا ہے۔",
+          "whyItMatters_urdu": "دنیاوی آگ اور آسمانی باغات کے درمیان تضاد ظاہر کرتا ہے کہ عارضی مصائب ابدی خوشی کی طرف لے جاتے ہیں۔",
+          "title_ar": "جنات الفردوس",
+          "coreInsight_ar": "'جنات تجري من تحتها الأنهار' تصف المكافأة الأبدية للمؤمنين الثابتين.",
+          "whyItMatters_ar": "التباين بين النار الأرضية والجنات السماوية يظهر أن المعاناة المؤقتة تؤدي إلى النعيم الأبدي."
+        },
+        {
+          "id": "85:11:faith-deeds",
+          "title": "Faith and Deeds",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Amanu wa 'amilu as-salihat' (believed and did righteous deeds) combines faith with action as the path to paradise.",
+          "whyItMatters": "True faith manifests in righteous action - belief alone without deeds is incomplete, and vice versa.",
+          "position": "topRight",
+          "arabicHighlight": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "ایمان اور اعمال",
+          "coreInsight_urdu": "'آمنوا وعملوا الصالحات' (ایمان لائے اور نیک اعمال کیے) ایمان کو عمل کے ساتھ ملاتا ہے جنت کے راستے کے طور پر۔",
+          "whyItMatters_urdu": "سچا ایمان نیک عمل میں ظاہر ہوتا ہے - اعمال کے بغیر صرف ایمان نامکمل ہے، اور اس کے برعکس۔",
+          "title_ar": "الإيمان والأعمال",
+          "coreInsight_ar": "'آمنوا وعملوا الصالحات' تجمع بين الإيمان والعمل كطريق إلى الجنة.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتجلى في العمل الصالح - الإيمان وحده دون أعمال غير مكتمل، والعكس صحيح."
+        },
+        {
+          "id": "85:11:great-attainment",
+          "title": "Great Attainment",
+          "icon": "trophy.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Dhalika al-fawz al-kabir' (that is the great attainment) emphasizes paradise as the ultimate success and victory.",
+          "whyItMatters": "Worldly success and failure are temporary - true victory is attaining Allah's eternal pleasure and paradise.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+          "title_urdu": "عظیم کامیابی",
+          "coreInsight_urdu": "'ذلک الفوز الکبیر' (یہ عظیم کامیابی ہے) جنت کو حتمی کامیابی اور فتح کے طور پر اجاگر کرتا ہے۔",
+          "whyItMatters_urdu": "دنیاوی کامیابی اور ناکامی عارضی ہیں - حقیقی فتح اللہ کی ابدی خوشنودی اور جنت حاصل کرنا ہے۔",
+          "title_ar": "الفوز العظيم",
+          "coreInsight_ar": "'ذلك الفوز الكبير' يؤكد على الجنة كالنجاح والنصر المطلق.",
+          "whyItMatters_ar": "النجاح والفشل الدنيوي مؤقتان - النصر الحقيقي هو نيل رضا الله الأبدي والجنة."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions universally agree that this verse describes the reward of paradise for believers who combine faith with righteous action. Ibn Kathir and Al-Tabari, like Shia exegetes, emphasize that both faith and good deeds are necessary, as Islamic theology requires both belief and practice. Both traditions describe the gardens of paradise with flowing rivers in similar terms, drawing on authentic hadith preserved in Sunni and Shia collections. Classical scholars across both schools teach that paradise is the ultimate success, making all worldly achievements insignificant in comparison. Sunni scholar Al-Qurtubi, like Tabatabai, explains that the great attainment is salvation from hellfire and admission to paradise. Both traditions emphasize that this verse provides comfort to persecuted believers and motivation for righteous living. Where traditions differ is in some details about paradise and intercession, but both agree on the fundamental message that faith and righteousness lead to eternal happiness. The verse establishes a universal Islamic principle: ultimate success is defined by Allah's pleasure and eternal paradise, not by worldly standards of power or wealth.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء متفقہ طور پر اس بات پر متفق ہیں کہ یہ آیت ان مومنوں کے لیے جنت کا ثواب بیان کرتی ہے جو ایمان اور عملِ صالح کو یکجا کریں۔ ابن کثیر اور الطبری، شیعہ مفسرین کی طرح، اس بات پر زور دیتے ہیں کہ ایمان اور نیک اعمال دونوں ضروری ہیں، اسلامی الہیات دونوں عقیدے اور عمل کا تقاضا کرتی ہے۔ دونوں روایات بہتی نہروں والے جنت کے باغات کو ملتے جلتے الفاظ میں بیان کرتی ہیں، سنی اور شیعہ مجموعوں میں محفوظ مستند احادیث کی بنا پر۔ دونوں مکاتب کے کلاسیکی علماء سکھاتے ہیں کہ جنت حتمی کامیابی ہے جس کے مقابلے میں تمام دنیاوی کامیابیاں ہیچ ہیں۔ سنی عالم القرطبی، طباطبائی کی طرح، بیان کرتے ہیں کہ فوزِ کبیر جہنم سے نجات اور جنت میں داخلہ ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ یہ آیت ستائے ہوئے مومنوں کو سکون اور راستباز زندگی کے لیے تحریک فراہم کرتی ہے۔ جہاں روایات مختلف ہیں وہ جنت اور شفاعت کی کچھ تفصیلات میں ہے، لیکن دونوں بنیادی پیغام پر متفق ہیں کہ ایمان اور تقویٰ ابدی سعادت کی طرف لے جاتے ہیں۔ آیت ایک آفاقی اسلامی اصول قائم کرتی ہے: حتمی کامیابی کا معیار اللہ کی رضا اور ابدی جنت ہے نہ کہ دنیاوی طاقت یا دولت کے معیارات۔",
+    "layer4_ar": "أجمع علماء كلا التراثين الشيعي والسني على أن هذه الآية تصف ثواب الجنة للمؤمنين الجامعين بين الإيمان والعمل الصالح. فابن كثير والطبري، كنظرائهم من علماء الشيعة، يُؤكِّدون أن الإيمان والعمل الصالح ضرورة واحدة لا تتجزأ، كما تقتضيه العقيدة الإسلامية القائمة على التصديق والممارسة معاً. ويصف كلا الفريقين جنات الجنة والأنهار المتدفقة فيها بمصطلحات متقاربة مُستمَدَّة من أحاديث صحيحة محفوظة في مرويَّات الطرفين. ويُعلِّم العلماء الكلاسيكيون في المذهبين أن الجنة هي النجاح الأقصى الذي يُصغِّر أمامه كل إنجاز دنيوي. ويُفسِّر عالم السنة القرطبي، كالطباطبائي، الفوزَ الكبير بالنجاة من النار والدخول إلى الجنة. ويُشدِّد كلا الفريقين على أن هذه الآية عزاء للمضطهَدين وحافز للحياة الصالحة. ومواضع الاختلاف في بعض تفاصيل الجنة وأحكام الشفاعة، بيد أن كليهما يتفقان على الرسالة الجوهرية: الإيمان والصلاح طريق السعادة الأبدية. وتُؤسِّس الآية مبدأً إسلامياً كلياً: النجاح الحق هو رضوان الله والفردوس الأعلى، لا مقاييس القوة والمال الدنيوية."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:12:divine-punishment",
+          "title": "Severe Vengeance",
+          "icon": "bolt.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Inna batsha rabbika la-shadid' (Indeed, the vengeance of your Lord is severe) warns oppressors of divine retribution.",
+          "whyItMatters": "Allah's punishment is proportionate to injustice - the more severe the oppression, the more intense the reckoning.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+          "title_urdu": "سخت انتقام",
+          "coreInsight_urdu": "'ان بطش ربک لشدید' (بیشک آپ کے رب کا انتقام سخت ہے) ظالموں کو الہی سزا سے خبردار کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی سزا ناانصافی کے متناسب ہے - جتنا شدید ظلم، اتنا ہی شدید حساب۔",
+          "title_ar": "الانتقام الشديد",
+          "coreInsight_ar": "'إن بطش ربك لشديد' يحذر الظالمين من الانتقام الإلهي.",
+          "whyItMatters_ar": "عقاب الله متناسب مع الظلم - كلما كان القمع أشد، كلما كان الحساب أكثر شدة."
+        },
+        {
+          "id": "85:12:batsh-meaning",
+          "title": "Divine Seizure",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Batsh' implies forceful seizure and punishment, describing how Allah takes hold of oppressors decisively.",
+          "whyItMatters": "When Allah's patience ends, His punishment comes suddenly and irresistibly - no escape or refuge exists.",
+          "position": "topRight",
+          "arabicHighlight": "بَطْشَ",
+          "title_urdu": "الہی گرفت",
+          "coreInsight_urdu": "'بطش' طاقتور گرفت اور سزا کا اشارہ دیتا ہے، بیان کرتا ہے کہ اللہ کیسے ظالموں کو فیصلہ کن طور پر پکڑتا ہے۔",
+          "whyItMatters_urdu": "جب اللہ کا صبر ختم ہو جاتا ہے، اس کی سزا اچانک اور ناقابل مزاحمت آتی ہے - کوئی فرار یا پناہ موجود نہیں۔",
+          "title_ar": "القبضة الإلهية",
+          "coreInsight_ar": "'بطش' يعني القبض القوي والعقاب، يصف كيف يقبض الله على الظالمين بشكل حاسم.",
+          "whyItMatters_ar": "عندما ينتهي صبر الله، يأتي عقابه فجأة وبلا مقاومة - لا هروب ولا ملجأ."
+        },
+        {
+          "id": "85:12:comfort-oppressed",
+          "title": "Comfort for the Oppressed",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse consoles victims of persecution, assuring them that their Lord will hold oppressors accountable.",
+          "whyItMatters": "Knowing divine justice awaits gives persecuted believers patience and hope to endure trials.",
+          "position": "bottomLeft",
+          "arabicHighlight": "رَبِّكَ",
+          "title_urdu": "مظلوموں کے لیے تسلی",
+          "coreInsight_urdu": "یہ آیت ستم کے شکار لوگوں کو تسلی دیتی ہے، انہیں یقین دلاتے ہوئے کہ ان کا رب ظالموں سے حساب لے گا۔",
+          "whyItMatters_urdu": "الہی انصاف کے انتظار میں ہونے کا علم ستائے گئے مومنوں کو آزمائشوں کو برداشت کرنے کے لیے صبر اور امید دیتا ہے۔",
+          "title_ar": "عزاء للمظلومين",
+          "coreInsight_ar": "تواسي هذه الآية ضحايا الاضطهاد، مؤكدة لهم أن ربهم سيحاسب الظالمين.",
+          "whyItMatters_ar": "معرفة أن العدالة الإلهية في انتظارهم تمنح المؤمنين المضطهدين الصبر والأمل لتحمل المحن."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize Allah's attribute of severe vengeance as essential to divine justice. Ibn Kathir and Al-Qurtubi, like Shia exegetes, explain that the severity of Allah's punishment reflects His absolute power and perfect justice. Both traditions preserve hadith describing Allah's attributes, balancing mercy with justice, forgiveness with punishment. Sunni scholar Al-Razi, like Tabatabai, discusses the theological implications of divine punishment, explaining that it is not vindictive but perfectly just and proportionate. Classical consensus across Islamic scholarship is that this verse provides both warning and comfort, warning to those who commit evil and comfort to those who suffer from it. Both Shia and Sunni sources teach that divine punishment may be delayed but is certain, and its severity corresponds to the severity of the crime. Where traditions converge most strongly is on the ethical implications, encouraging believers to fear Allah's punishment and avoid oppression while trusting that He will defend the oppressed. Both agree that this verse demonstrates that Allah is not indifferent to evil but will punish it severely, establishing justice even when human systems fail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اللہ کی شدید پکڑ کی صفت کو الٰہی انصاف کے لیے ضروری قرار دیتے ہیں۔ ابن کثیر اور القرطبی، شیعہ مفسرین کی طرح، بیان کرتے ہیں کہ اللہ کی سزا کی شدت اس کی مطلق قدرت اور کامل انصاف کو ظاہر کرتی ہے۔ دونوں روایات احادیث محفوظ کرتی ہیں جن میں اللہ کی صفات بیان کی گئی ہیں، رحمت کو انصاف سے، مغفرت کو عذاب سے متوازن کرتے ہوئے۔ سنی عالم الرازی، طباطبائی کی طرح، الٰہی سزا کے الہیاتی مضمرات پر بحث کرتے ہیں اور بیان کرتے ہیں کہ یہ انتقامی نہیں بلکہ بالکل عادلانہ اور متناسب ہے۔ اسلامی علمیت میں کلاسیکی اجماع یہ ہے کہ یہ آیت تنبیہ اور سکون دونوں فراہم کرتی ہے، بدی کا ارتکاب کرنے والوں کو تنبیہ اور اس سے متاثرین کو تسلی۔ شیعہ اور سنی دونوں ذرائع سکھاتے ہیں کہ الٰہی سزا تاخیر سے آ سکتی ہے لیکن یقینی ہے اور اس کی شدت جرم کی شدت کے متناسب ہے۔ جہاں روایات سب سے زیادہ ایک دوسرے سے ملتی ہیں وہ اخلاقی مضمرات میں ہے، مومنوں کو اللہ کی سزا سے ڈرنے اور ظلم سے بچنے کی تلقین کرتے ہوئے اور اس بات پر بھروسہ کرتے ہوئے کہ وہ مظلوموں کا دفاع کرے گا۔ دونوں متفق ہیں کہ یہ آیت ظاہر کرتی ہے کہ اللہ بدی پر خاموش نہیں رہتا بلکہ اسے سخت سزا دے گا، انصاف قائم کرے گا خواہ انسانی نظام ناکام ہو جائیں۔",
+    "layer4_ar": "يُجمع علماء كلا التراثين الشيعي والسني على تأكيد صفة البطش الشديد باعتبارها ركيزة من ركائز العدل الإلهي. فابن كثير والقرطبي، كنظرائهم من الشيعة، يُفسِّرون شدة عقاب الله بكمال قدرته وعدله المطلق. ويحفظ كلا الفريقين أحاديث تصف أوصاف الله موازِنةً بين الرحمة والعدل والمغفرة والعقاب. ويتناول الرازي من علماء السنة، كالطباطبائي من الشيعة، الأبعاد الكلامية للعقوبة الإلهية مُبيِّناً أنها ليست انتقاماً بل عدل مُتقَن موزون بميزان الجريمة. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية تجمع بين الإنذار والتبشير؛ إنذار لمرتكبي الشر وبشارة لمن يُعانون منه. ويُعلِّم مصدرا الفريقين الشيعي والسني أن العقوبة الإلهية قد تتأخر لكنها حتمية وتتناسب في شدتها مع شدة الجريمة. وأوثق مواضع الاتفاق بين الفريقين يتجلى في الاستخلاصات الأخلاقية؛ إذ يحثُّ كلاهما على خشية بطش الله واجتناب الظلم مع الثقة التامة بأنه يُنصف المظلومين. ويتفق الفريقان على أن هذه الآية تُثبت أن الله ليس غافلاً عن الشر بل سيُعاقب عليه بشدة بالغة، مُقيماً العدل حيثما أخفق عدل البشر."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:13:origination",
+          "title": "Creator and Resurrector",
+          "icon": "arrow.clockwise.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Yubdi'u wa yu'id' (originates and repeats) affirms Allah's power to create life initially and resurrect it for judgment.",
+          "whyItMatters": "If Allah created us from nothing, resurrecting us for accountability is simple - denying resurrection defies logic.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+          "title_urdu": "خالق اور دوبارہ اٹھانے والا",
+          "coreInsight_urdu": "'یبدئ ویعید' (شروع کرتا ہے اور دہراتا ہے) اللہ کی طاقت کی تصدیق کرتا ہے کہ وہ ابتدائی طور پر زندگی پیدا کرتا ہے اور عدالت کے لیے اسے دوبارہ زندہ کرتا ہے۔",
+          "whyItMatters_urdu": "اگر اللہ نے ہمیں عدم سے پیدا کیا، تو جوابدہی کے لیے ہمیں دوبارہ اٹھانا آسان ہے - قیامت سے انکار منطق کے خلاف ہے۔",
+          "title_ar": "الخالق والباعث",
+          "coreInsight_ar": "'يبدئ ويعيد' يؤكد قدرة الله على خلق الحياة في البداية وبعثها للحساب.",
+          "whyItMatters_ar": "إذا خلقنا الله من العدم، فإن بعثنا للمساءلة أمر بسيط - إنكار البعث يتحدى المنطق."
+        },
+        {
+          "id": "85:13:resurrection-proof",
+          "title": "Proof of Resurrection",
+          "icon": "sparkles",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verse connects divine punishment (previous verse) with resurrection ability - Allah will recreate to judge.",
+          "whyItMatters": "Belief in resurrection transforms ethics - every action matters because we will be recreated to answer for them.",
+          "position": "topRight",
+          "arabicHighlight": "يُبْدِئُ وَيُعِيدُ",
+          "title_urdu": "قیامت کا ثبوت",
+          "coreInsight_urdu": "آیت الہی سزا (پچھلی آیت) کو قیامت کی صلاحیت سے جوڑتی ہے - اللہ عدالت کے لیے دوبارہ تخلیق کرے گا۔",
+          "whyItMatters_urdu": "قیامت پر یقین اخلاقیات کو تبدیل کرتا ہے - ہر عمل اہمیت رکھتا ہے کیونکہ ہمیں ان کے لیے جواب دینے کے لیے دوبارہ بنایا جائے گا۔",
+          "title_ar": "دليل البعث",
+          "coreInsight_ar": "تربط الآية العقاب الإلهي (الآية السابقة) بقدرة البعث - سيعيد الله الخلق للحكم.",
+          "whyItMatters_ar": "الإيمان بالبعث يحول الأخلاق - كل عمل مهم لأننا سنُخلق من جديد للإجابة عنها."
+        },
+        {
+          "id": "85:13:cycles-creation",
+          "title": "Divine Cycles",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Creation and resurrection represent a cycle - Allah's creative power operates continuously, not just once.",
+          "whyItMatters": "Understanding divine cycles helps us see death not as an end but as a transition to eternal accountability.",
+          "position": "bottomLeft",
+          "arabicHighlight": "هُوَ",
+          "title_urdu": "الہی چکر",
+          "coreInsight_urdu": "تخلیق اور قیامت ایک چکر کی نمائندگی کرتے ہیں - اللہ کی تخلیقی طاقت مسلسل کام کرتی ہے، صرف ایک بار نہیں۔",
+          "whyItMatters_urdu": "الہی چکروں کو سمجھنا ہمیں موت کو اختتام کے بجائے ابدی جوابدہی کی منتقلی کے طور پر دیکھنے میں مدد کرتا ہے۔",
+          "title_ar": "الدورات الإلهية",
+          "coreInsight_ar": "يمثل الخلق والبعث دورة - تعمل القدرة الخلاقة لله باستمرار، وليس مرة واحدة فقط.",
+          "whyItMatters_ar": "فهم الدورات الإلهية يساعدنا على رؤية الموت ليس كنهاية بل كانتقال إلى المساءلة الأبدية."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions agree that this verse establishes Allah's power to resurrect based on His demonstrated power to create. Ibn Kathir and Al-Tabari, like Shia exegetes, explain that origination refers to initial creation while repetition refers to resurrection. Both traditions use this verse to argue against materialists who deny the afterlife, pointing out that creation from nothing is more difficult than resurrection from something. Sunni scholar Al-Razi provides philosophical arguments about divine power similar to those in Al-Mizan, explaining that for the Omnipotent, all actions are equally easy. Classical consensus across Islamic scholarship is that this verse provides rational proof for resurrection, addressing doubts and strengthening faith. Both Shia and Sunni sources preserve hadith about resurrection that elaborate on this theme. Where traditions differ slightly is in some details about the resurrection process and events of the Day of Judgment, but both agree on the fundamental message that Allah's power to create proves His power to resurrect. Both emphasize that this verse should strengthen belief in accountability and motivate righteous living.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء اس بات پر متفق ہیں کہ یہ آیت اللہ کی ثابت شدہ تخلیقی قدرت کی بنا پر اس کی قیامت کی قدرت قائم کرتی ہے۔ ابن کثیر اور الطبری، شیعہ مفسرین کی طرح، بیان کرتے ہیں کہ ابداء سے مراد ابتدائی تخلیق اور اعادہ سے مراد قیامت ہے۔ دونوں روایات اس آیت کو ان مادیت پرستوں کے خلاف استدلال کے لیے استعمال کرتی ہیں جو آخرت سے انکار کرتے ہیں، یہ اشارہ کرتے ہوئے کہ عدم سے تخلیق موجودہ چیز سے دوبارہ تخلیق سے زیادہ مشکل ہے۔ سنی عالم الرازی، المیزان میں موجود تفصیلات سے ملتے جلتے الٰہی قدرت کے فلسفیانہ استدلال پیش کرتے ہیں، یہ بیان کرتے ہوئے کہ قادرِ مطلق کے لیے تمام افعال یکساں آسان ہیں۔ اسلامی علمیت میں کلاسیکی اجماع یہ ہے کہ یہ آیت قیامت کی عقلی دلیل فراہم کرتی ہے، شکوک دور کرتے ہوئے ایمان کو مضبوط کرتی ہے۔ شیعہ اور سنی دونوں ذرائع قیامت کے بارے میں احادیث محفوظ کرتے ہیں جو اس موضوع کو مزید واضح کرتی ہیں۔ جہاں روایات قدرے مختلف ہیں وہ قیامت کے عمل اور قیامت کے دن کے واقعات کی کچھ تفصیلات میں ہے، لیکن دونوں بنیادی پیغام پر متفق ہیں کہ اللہ کی تخلیقی قدرت اس کی قیامت کی قدرت کو ثابت کرتی ہے۔ دونوں اس بات پر زور دیتے ہیں کہ یہ آیت احتساب پر ایمان کو مضبوط اور راستباز زندگی کی تحریک دینی چاہیے۔",
+    "layer4_ar": "أجمع علماء كلا التراثين الشيعي والسني على أن هذه الآية تُثبت قدرة الله على البعث انطلاقاً من قدرته المُثبَتة في الخلق. فابن كثير والطبري، كنظرائهم الشيعة، يُفسِّرون الإبداء بالخلق الأول والإعادة بالبعث. ويُفيد كلا الفريقين من هذه الآية في الردِّ على الماديين المُنكِرين للآخرة، مُنوِّهَين إلى أن الإيجاد من العدم أعسر من البعث من موجود. ويُقدِّم الرازي من علماء السنة حججاً فلسفية على القدرة الإلهية تتوازى مع ما في الميزان، مُوضِّحاً أن القادر على كل شيء تستوي في حقه جميع الأفعال. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية دليل عقلي على البعث، تُبدِّد الشكوك وتُرسِّخ الإيمان. ويحفظ كلا الفريقين أحاديث تُفصِّل في موضوع البعث وتُثري مضامين هذه الآية. ومواضع الاختلاف في بعض تفاصيل مسار البعث وأحداث يوم القيامة، لكن كليهما يتفقان على الرسالة الجوهرية: قدرة الله على الخلق دليلٌ قاطع على قدرته على البعث. ويُشدِّد كلاهما على أن هذه الآية ينبغي أن تُعزِّز الإيمان بالمحاسبة وتُحفِّز الحياة الصالحة المستقيمة."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:14:al-ghafur",
+          "title": "The Forgiving",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Al-Ghafur' (The Forgiving) appears after verses about punishment, showing mercy accompanies justice in divine nature.",
+          "whyItMatters": "Even amid discussions of severe punishment, Allah reminds us of His forgiveness - repentance is always possible.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْغَفُورُ",
+          "title_urdu": "بخشنے والا",
+          "coreInsight_urdu": "'الغفور' (بخشنے والا) سزا کے بارے میں آیات کے بعد آتا ہے، یہ ظاہر کرتے ہوئے کہ رحم الہی فطرت میں انصاف کے ساتھ ہے۔",
+          "whyItMatters_urdu": "سخت سزا کی بحث کے درمیان بھی، اللہ ہمیں اپنی بخشش کی یاد دلاتا ہے - توبہ ہمیشہ ممکن ہے۔",
+          "title_ar": "الغفور",
+          "coreInsight_ar": "يظهر 'الغفور' بعد آيات عن العقاب، مظهراً أن الرحمة ترافق العدل في الطبيعة الإلهية.",
+          "whyItMatters_ar": "حتى وسط مناقشات العقاب الشديد، يذكرنا الله بمغفرته - التوبة ممكنة دائماً."
+        },
+        {
+          "id": "85:14:al-wadud",
+          "title": "The Affectionate",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-Wadud' (The Loving, Affectionate) describes Allah's deep love for His creation, especially believers.",
+          "whyItMatters": "Allah's love for us exceeds any human love - He desires our success and happiness more than we do ourselves.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْوَدُودُ",
+          "title_urdu": "محبت کرنے والا",
+          "coreInsight_urdu": "'الودود' (محبت کرنے والا) اللہ کی اپنی مخلوق، خاص طور پر مومنوں کے لیے گہری محبت بیان کرتا ہے۔",
+          "whyItMatters_urdu": "ہمارے لیے اللہ کی محبت کسی انسانی محبت سے زیادہ ہے - وہ ہماری کامیابی اور خوشی کی خواہش ہم سے زیادہ کرتا ہے۔",
+          "title_ar": "الودود",
+          "coreInsight_ar": "يصف 'الودود' حب الله العميق لخلقه، وخاصة المؤمنين.",
+          "whyItMatters_ar": "حب الله لنا يتجاوز أي حب بشري - إنه يرغب في نجاحنا وسعادتنا أكثر مما نفعل نحن."
+        },
+        {
+          "id": "85:14:balance-attributes",
+          "title": "Balanced Attributes",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Pairing 'Forgiving' and 'Affectionate' balances the severe punishment mentioned earlier, showing Allah's complete nature.",
+          "whyItMatters": "Understanding both Allah's justice and mercy prevents extremes - neither despair nor complacency, but balanced hope and fear.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+          "title_urdu": "متوازن صفات",
+          "coreInsight_urdu": "'بخشنے والا' اور 'محبت کرنے والا' کو جوڑنا پہلے ذکر کی گئی سخت سزا کو متوازن کرتا ہے، اللہ کی مکمل فطرت کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ کے انصاف اور رحم دونوں کو سمجھنا انتہا سے بچاتا ہے - نہ مایوسی، نہ اطمینان، بلکہ متوازن امید اور خوف۔",
+          "title_ar": "الصفات المتوازنة",
+          "coreInsight_ar": "يوازن الجمع بين 'الغفور' و'الودود' العقاب الشديد المذكور سابقاً، مظهراً طبيعة الله الكاملة.",
+          "whyItMatters_ar": "فهم عدل الله ورحمته يمنع التطرف - لا يأس ولا رضا عن النفس، بل أمل وخوف متوازنان."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions emphasize Allah's attributes of forgiveness and affection as central to Islamic theology and spirituality. Ibn Kathir and Al-Qurtubi, like Shia exegetes, explain that Al-Ghafur indicates vast forgiveness for those who repent while Al-Wadud indicates divine love and kindness. Both traditions preserve hadith describing Allah's mercy and love in beautiful terms, emphasizing that His mercy encompasses all things. Sunni scholar Al-Razi, like Tabatabai, discusses the theological significance of these attributes, explaining how they balance with justice and punishment. Classical consensus across Islamic scholarship is that these verses provide hope to sinners and comfort to believers, establishing that Allah's fundamental nature is merciful and loving. Both Shia and Sunni sources teach that repentance opens the door to divine forgiveness no matter how severe the sin. Where traditions converge most strongly is on the practical implications, encouraging believers to seek forgiveness, trust in divine mercy, and reflect these attributes in their own character by being forgiving and loving toward others. Both agree that these attributes demonstrate that Islam is fundamentally a religion of mercy and love, not harshness and fear.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء اللہ کی مغفرت اور محبت کی صفات کو اسلامی الہیات اور روحانیت کا مرکزی حصہ قرار دیتے ہیں۔ ابن کثیر اور القرطبی، شیعہ مفسرین کی طرح، بیان کرتے ہیں کہ الغفور توبہ کرنے والوں کے لیے وسیع مغفرت کی نشاندہی کرتا ہے جبکہ الودود الٰہی محبت اور مہربانی کا۔ دونوں روایات اللہ کی رحمت اور محبت کو خوبصورت الفاظ میں بیان کرنے والی احادیث محفوظ کرتی ہیں، اس بات پر زور دیتے ہوئے کہ اس کی رحمت سب کو محیط ہے۔ سنی عالم الرازی، طباطبائی کی طرح، ان صفات کی الہیاتی اہمیت پر بحث کرتے ہیں، بیان کرتے ہوئے کہ یہ انصاف اور سزا کے ساتھ کیسے متوازن ہیں۔ اسلامی علمیت میں کلاسیکی اجماع یہ ہے کہ یہ آیات گناہگاروں کو امید اور مومنوں کو سکون فراہم کرتی ہیں، یہ قائم کرتے ہوئے کہ اللہ کی بنیادی فطرت رحیمانہ اور محبت کرنے والی ہے۔ شیعہ اور سنی دونوں ذرائع سکھاتے ہیں کہ توبہ اللہ کی مغفرت کا دروازہ کھولتی ہے خواہ گناہ کتنا ہی سخت کیوں نہ ہو۔ جہاں روایات سب سے زیادہ ایک دوسرے سے ملتی ہیں وہ عملی مضمرات میں ہے، مومنوں کو مغفرت مانگنے، الٰہی رحمت پر بھروسا کرنے اور ان صفات کو اپنے کردار میں ظاہر کرنے کی تلقین کرتے ہوئے۔ دونوں متفق ہیں کہ یہ صفات ظاہر کرتی ہیں کہ اسلام بنیادی طور پر رحمت اور محبت کا دین ہے نہ کہ سختی اور خوف کا۔",
+    "layer4_ar": "يُشدِّد علماء كلا التراثين الشيعي والسني على صفتَي الغفران والودِّ الإلهيين باعتبارهما ركيزتين أساسيتين في العقيدة والروحانية الإسلاميتين. فابن كثير والقرطبي، كنظرائهم الشيعة، يُفسِّرون الغفور بالمغفرة الواسعة لمن تاب والودود بالحب الإلهي واللطف. ويحفظ كلا الفريقين أحاديث تصف رحمة الله ومحبته بأجمل العبارات، مُؤكِّدةً أن رحمته وسعت كل شيء. ويتناول الرازي من علماء السنة، كالطباطبائي، الأهمية الكلامية لهاتين الصفتين مُبيِّناً كيف توازنان العدل والعقاب في منظومة الأوصاف الإلهية. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هاتين الآيتين توفيران الرجاء للمذنبين والعزاء للمؤمنين، مُقرِّرتَين أن الطبيعة الإلهية الأصيلة رحيمة محِبَّة. ويُعلِّم مصدرا الفريقين الشيعي والسني أن التوبة تفتح باب المغفرة الإلهية مهما عظم الذنب. وأوثق مواضع الاتفاق بين الفريقين يتجلى في التطبيقات العملية؛ إذ يحثُّ كلاهما على طلب المغفرة والثقة بالرحمة الإلهية وانعكاس هذه الصفات في شخصية المؤمن بالعفو والمحبة تجاه الآخرين. ويتفق الفريقان على أن هذه الصفات تُثبت أن الإسلام في جوهره دين رحمة وحب لا قسوة وخوف."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:15:lord-throne",
+          "title": "Lord of the Throne",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Dhu al-'Arsh' (Owner/Lord of the Throne) emphasizes Allah's supreme authority over all creation and cosmic governance.",
+          "whyItMatters": "The Throne symbolizes divine sovereignty - recognizing Allah's kingship puts all earthly powers in perspective.",
+          "position": "topLeft",
+          "arabicHighlight": "ذُو ٱلْعَرْشِ",
+          "title_urdu": "عرش کا مالک",
+          "coreInsight_urdu": "'ذو العرش' (عرش کا مالک) تمام مخلوق اور کائناتی حکومت پر اللہ کی اعلیٰ ترین اختیار پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "عرش الہی حاکمیت کی علامت ہے - اللہ کی بادشاہی کو تسلیم کرنا تمام دنیاوی طاقتوں کو تناظر میں رکھتا ہے۔",
+          "title_ar": "رب العرش",
+          "coreInsight_ar": "'ذو العرش' يؤكد على سلطة الله العليا على كل الخلق والحكم الكوني.",
+          "whyItMatters_ar": "العرش يرمز للسيادة الإلهية - إدراك ملكية الله يضع كل القوى الأرضية في منظورها الصحيح."
+        },
+        {
+          "id": "85:15:al-majid",
+          "title": "The Glorious",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-Majid' (The Glorious, Majestic) describes Allah's infinite glory and honor that transcends all creation.",
+          "whyItMatters": "Contemplating Allah's glory humbles us and elevates our worship, shifting focus from worldly honors to divine approval.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْمَجِيدُ",
+          "title_urdu": "بزرگ و برتر",
+          "coreInsight_urdu": "'المجید' (بزرگ و برتر) اللہ کی لامحدود شان اور عزت بیان کرتا ہے جو تمام مخلوق سے بالاتر ہے۔",
+          "whyItMatters_urdu": "اللہ کی شان پر غور کرنا ہمیں عاجز کرتا ہے اور ہماری عبادت کو بلند کرتا ہے، توجہ کو دنیاوی اعزازات سے الہی منظوری کی طرف منتقل کرتا ہے۔",
+          "title_ar": "المجيد",
+          "coreInsight_ar": "يصف 'المجيد' مجد الله اللامتناهي وشرفه الذي يتجاوز كل الخلق.",
+          "whyItMatters_ar": "التأمل في مجد الله يذلنا ويرفع عبادتنا، ناقلاً التركيز من الأوسمة الدنيوية إلى الموافقة الإلهية."
+        },
+        {
+          "id": "85:15:throne-symbolism",
+          "title": "Throne Symbolism",
+          "icon": "building.columns.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The Throne ('Arsh) represents Allah's absolute authority and the center of divine governance over all existence.",
+          "whyItMatters": "Understanding divine authority helps oppressed believers trust that ultimate justice flows from the Supreme Throne.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْعَرْشِ ٱلْمَجِيدُ",
+          "title_urdu": "عرش کی علامت",
+          "coreInsight_urdu": "عرش اللہ کے مطلق اختیار اور تمام وجود پر الہی حکومت کے مرکز کی نمائندگی کرتا ہے۔",
+          "whyItMatters_urdu": "الہی اختیار کو سمجھنا ستائے گئے مومنوں کو اعتماد دلانے میں مدد کرتا ہے کہ حتمی انصاف اعلیٰ عرش سے بہتا ہے۔",
+          "title_ar": "رمزية العرش",
+          "coreInsight_ar": "يمثل العرش سلطة الله المطلقة ومركز الحكم الإلهي على كل الوجود.",
+          "whyItMatters_ar": "فهم السلطة الإلهية يساعد المؤمنين المضطهدين على الثقة بأن العدالة المطلقة تتدفق من العرش الأعلى."
+        }
+      ]
+    },
+    "layer4": "Scholars from both Shia and Sunni traditions emphasize the Throne as representing Allah's sovereignty and supreme authority. Ibn Kathir and Al-Tabari, like Shia exegetes, explain that the Throne is the greatest of creations, representing divine majesty and governance. Both traditions preserve hadith describing the Throne in vivid terms, though acknowledging that its true nature is beyond human comprehension. Sunni scholar Al-Razi, like Tabatabai, discusses the theological significance of the Throne, whether understood literally or metaphorically pointing to divine sovereignty. Classical consensus across Islamic scholarship is that this verse emphasizes Allah's absolute power and authority, providing both comfort to believers and warning to those who rebel against divine guidance. Both Shia and Sunni sources teach that reflecting on the majesty of the Throne should inspire awe, humility, and trust in Allah's perfect governance. Where traditions differ is in some details about the nature of the Throne and its relationship to divine attributes, but both agree on the fundamental message: Allah is the supreme Sovereign whose authority encompasses all existence, making all earthly powers insignificant in comparison and ensuring that divine justice will ultimately prevail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات کے علماء عرش کو اللہ کی حاکمیت اور اعلیٰ اقتدار کی علامت قرار دیتے ہیں۔ ابن کثیر اور الطبری، شیعہ مفسرین کی طرح، بیان کرتے ہیں کہ عرش عظیم ترین مخلوق ہے جو الٰہی عظمت اور حکومت کی نمائندگی کرتا ہے۔ دونوں روایات عرش کو بلیغ الفاظ میں بیان کرنے والی احادیث محفوظ کرتی ہیں، اگرچہ یہ تسلیم کرتے ہوئے کہ اس کی حقیقی نوعیت انسانی فہم سے بالاتر ہے۔ سنی عالم الرازی، طباطبائی کی طرح، عرش کی الہیاتی اہمیت پر بحث کرتے ہیں، چاہے لفظی طور پر سمجھا جائے یا استعاراتی طور پر الٰہی حاکمیت کی طرف اشارہ کرتا ہے۔ اسلامی علمیت میں کلاسیکی اجماع یہ ہے کہ یہ آیت اللہ کی مطلق طاقت اور اقتدار پر زور دیتی ہے، مومنوں کو سکون اور الٰہی رہنمائی کے خلاف بغاوت کرنے والوں کو تنبیہ فراہم کرتی ہے۔ شیعہ اور سنی دونوں ذرائع سکھاتے ہیں کہ عرش کی عظمت پر غور کرنا خشوع، عاجزی اور اللہ کی کامل حکومت پر بھروسا پیدا کرے۔ جہاں روایات مختلف ہیں وہ عرش کی نوعیت اور الٰہی صفات سے اس کے تعلق کی کچھ تفصیلات میں ہے، لیکن دونوں بنیادی پیغام پر متفق ہیں: اللہ وہ اعلیٰ حاکم ہے جس کا اقتدار تمام وجود کو محیط ہے، تمام دنیاوی طاقتوں کو ناچیز بناتا ہے اور یقینی بناتا ہے کہ الٰہی انصاف بالآخر غالب آئے گا۔",
+    "layer4_ar": "يُجمع علماء كلا التراثين الشيعي والسني على أن العرش يمثِّل سلطان الله وملكه الأعلى. فابن كثير والطبري، كنظرائهم الشيعة، يُفسِّرون العرش بأنه أعظم المخلوقات الذي يجسِّد الجلال الإلهي والحوكمة الشاملة. ويحفظ كلا الفريقين أحاديث تصف العرش بصور بديعة، مع إقرار الجميع بأن حقيقته تتجاوز فهم الإنسان. ويتناول الرازي من علماء السنة، كالطباطبائي، الأهمية الكلامية للعرش سواء أُفهم على حقيقته أو باعتباره رمزاً للسيادة الإلهية. والإجماع الكلاسيكي عبر المدارس الإسلامية أن هذه الآية تُؤكِّد القدرة الإلهية المطلقة والسلطة العليا، مما يُبعث الطمأنينة في قلوب المؤمنين ويُمثِّل تحذيراً لمن تمردوا على الهدى الإلهي. ويُعلِّم مصدرا الفريقين الشيعي والسني أن التأمل في جلال العرش ينبغي أن يُوقد الهيبة والتواضع والثقة في حسن تدبير الله. ومواضع الاختلاف في بعض تفاصيل طبيعة العرش وعلاقته بالأوصاف الإلهية، لكن كليهما يتفقان على الرسالة الجوهرية: الله السلطان الأعلى الذي يستوعب سلطانه كل الوجود، مما يجعل كل القوى الأرضية هزيلة في مقابله ويكفل انتصار العدل الإلهي في نهاية المطاف."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:16:divine-will",
+          "title": "Absolute Will",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is 'Fa'alun lima yurid' - the Doer of whatever He wills. This verse emphasizes absolute divine sovereignty over all creation.",
+          "whyItMatters": "Understanding Allah's absolute power brings peace in accepting divine decree, knowing that everything happens by His perfect will and wisdom.",
+          "position": "topLeft",
+          "arabicHighlight": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+          "title_urdu": "مطلق ارادہ",
+          "coreInsight_urdu": "اللہ 'فَعَّالٌ لِّمَا يُرِيدُ' ہے - جو چاہے کر گزرنے والا۔ یہ آیت تمام مخلوق پر مطلق الہی حاکمیت پر زور دیتی ہے۔",
+          "whyItMatters_urdu": "اللہ کی مطلق قدرت کو سمجھنا تقدیر الٰہی کو قبول کرنے میں سکون لاتا ہے، یہ جانتے ہوئے کہ ہر چیز اس کی کامل مرضی اور حکمت سے ہوتی ہے۔",
+          "title_ar": "الإرادة المطلقة",
+          "coreInsight_ar": "الله 'فعّال لما يريد' - فاعل ما يشاء. تؤكد هذه الآية على السيادة الإلهية المطلقة على كل الخلق.",
+          "whyItMatters_ar": "فهم قدرة الله المطلقة يجلب السلام في قبول القدر الإلهي، مع العلم أن كل شيء يحدث بإرادته وحكمته الكاملة."
+        },
+        {
+          "id": "85:16:divine-action",
+          "title": "Active Power",
+          "icon": "bolt.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The intensive form 'Fa'al' emphasizes Allah's continuous and active execution of His will, not passive observation.",
+          "whyItMatters": "Allah actively intervenes in creation - rewarding, punishing, creating, and sustaining according to His perfect knowledge and justice.",
+          "position": "topRight",
+          "arabicHighlight": "فَعَّالٌۭ",
+          "title_urdu": "فعال قدرت",
+          "coreInsight_urdu": "شدید صیغہ 'فَعَّالٌ' اللہ کی اپنی مرضی کے مسلسل اور فعال نفاذ پر زور دیتا ہے، نہ کہ غیر فعال مشاہدہ۔",
+          "whyItMatters_urdu": "اللہ فعال طور پر مخلوق میں مداخلت کرتا ہے - اپنے کامل علم اور عدل کے مطابق انعام دینا، سزا دینا، تخلیق کرنا اور برقرار رکھنا۔",
+          "title_ar": "القوة الفاعلة",
+          "coreInsight_ar": "الصيغة المشددة 'فعّال' تؤكد على تنفيذ الله المستمر والفعال لإرادته، وليس المراقبة السلبية.",
+          "whyItMatters_ar": "الله يتدخل بنشاط في الخلق - يكافئ ويعاقب ويخلق ويحفظ وفقاً لعلمه وعدله الكامل."
+        },
+        {
+          "id": "85:16:divine-attributes",
+          "title": "Perfect Doer",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse follows descriptions of Allah as Forgiving, Loving, Glorious Owner of the Throne, showing His will manifests through mercy and majesty.",
+          "whyItMatters": "Allah's absolute power is balanced with His mercy and love, ensuring His actions are always perfect, just, and ultimately good for believers.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يُرِيدُ",
+          "title_urdu": "کامل کرنے والا",
+          "coreInsight_urdu": "یہ آیت اللہ کی بخشنے والا، محبت کرنے والا، عرش کا جلالی مالک کی وضاحت کے بعد آتی ہے، ظاہر کرتی ہے کہ اس کی مرضی رحمت اور جلال کے ذریعے ظاہر ہوتی ہے۔",
+          "whyItMatters_urdu": "اللہ کی مطلق قدرت اس کی رحمت اور محبت کے ساتھ متوازن ہے، یقینی بناتی ہے کہ اس کے افعال ہمیشہ کامل، منصفانہ اور مومنوں کے لیے بالآخر اچھے ہیں۔",
+          "title_ar": "الفاعل الكامل",
+          "coreInsight_ar": "تأتي هذه الآية بعد وصف الله بأنه الغفور الودود المالك المجيد للعرش، مما يظهر أن إرادته تتجلى من خلال الرحمة والجلال.",
+          "whyItMatters_ar": "قوة الله المطلقة متوازنة مع رحمته ومحبته، مما يضمن أن أفعاله دائماً كاملة وعادلة وفي النهاية خير للمؤمنين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes a fundamental attribute of Allah: His unrestricted ability to accomplish His will. This consensus reflects the shared monotheistic foundation of Islamic theology. Sunni scholars like Imam al-Razi in Mafatih al-Ghayb and Imam al-Qurtubi emphasize this attribute as proof against those who would limit Allah's power, similar to Shia commentators. Both traditions use this verse to refute philosophical positions that would make Allah's actions dependent on anything outside His essence. However, there are nuanced differences in theological implications. Within Shia theology, as articulated by Allamah Tabatabai, this verse connects to discussions of divine justice and the necessity of Allah acting according to wisdom, which is itself part of His perfected will. Some Sunni theological schools, particularly Ashari thought, emphasize divine will in a way that minimizes the necessity of wisdom-based action, though this is debated. Both traditions agree that the verse provides comfort to believers and warning to oppressors, though Shia exegesis often connects it more explicitly to historical persecution of the Prophet's family. In practical application, scholars from both traditions teach that this verse should inspire simultaneous trust in Allah and active effort, though they may differ in emphasis. The comparative study reveals that understanding Allah as the Effecter of His will is central to Islamic faith across schools, grounding both theology and spirituality in divine sovereignty.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت اللہ کی ایک بنیادی صفت کو ثابت کرتی ہے کہ اس کا ارادہ کسی رکاوٹ کے بغیر پورا ہوتا ہے۔ یہ اتفاق اسلامی الٰہیات کی مشترک توحیدی بنیاد کی عکاسی کرتا ہے۔ سنی علماء جیسے امام رازی نے مفاتیح الغیب میں اور امام قرطبی نے بھی شیعہ مفسرین کی طرح اس صفت کو ان لوگوں کے خلاف حجت کے طور پر پیش کیا جو اللہ کی قدرت کو محدود ٹھہرانے کی کوشش کرتے ہیں۔ دونوں روایات اس آیت کا استعمال ان فلسفیانہ موقف کو رد کرنے کے لیے کرتی ہیں جو اللہ کے افعال کو اس کی ذات سے باہر کسی چیز پر منحصر بنائیں۔ البتہ الٰہیاتی مضمرات میں باریک فرق موجود ہیں۔ شیعہ الٰہیات میں جیسا کہ علامہ طباطبائی نے بیان کیا ہے، یہ آیت الٰہی عدل اور حکمت پر مبنی عمل کی ضرورت سے متعلق گفتگو سے جڑتی ہے جو خود اللہ کے کامل ارادے کا حصہ ہے۔ بعض سنی الٰہیاتی مکاتب فکر، خصوصاً اشعری فکر، الٰہی ارادے پر اس طرح زور دیتے ہیں جو حکمت پر مبنی عمل کی ضرورت کو کم اہمیت دیتا ہے، اگرچہ اس پر بحث موجود ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت مومنین کے لیے تسلی اور ظالمین کے لیے تنبیہ کا ذریعہ ہے، گرچہ شیعہ تفسیر اسے پیغمبر کے خاندان پر تاریخی ظلم سے زیادہ صراحت کے ساتھ جوڑتی ہے۔ عملی اطلاق میں دونوں روایات کے علماء سکھاتے ہیں کہ یہ آیت بیک وقت اللہ پر بھروسے اور فعال کوشش کی تحریک دیتی ہے۔ تقابلی مطالعے سے پتہ چلتا ہے کہ اللہ کو 'فَعَّالٌ لِّمَا يُرِيدُ' سمجھنا تمام مکاتبِ فکر میں اسلامی عقیدے کا مرکزی نکتہ ہے۔",
+    "layer4_ar": "أجمع علماء الفريقين الشيعي والسني على أن هذه الآية تُقرِّر صفة أساسية لله: قدرته المطلقة على إنجاز إرادته دون أي قيد. وهذا الإجماع يعكس الأساس التوحيدي المشترك للعقيدة الإسلامية. فالرازي في مفاتيح الغيب والقرطبي من علماء السنة يُشدِّدون على هذه الصفة دليلاً على ردِّ من يُحدِّد قدرة الله بحدود، كما يفعل نظراؤهم من المفسرين الشيعة. ويُوظِّف كلا الفريقين هذه الآية في الردِّ على المواقف الفلسفية التي تجعل أفعال الله رهينة بشيء خارج ذاته. غير أن ثمة فروقاً دقيقة في الاستنتاجات الكلامية؛ ففي الكلام الشيعي كما صاغه العلامة الطباطبائي ترتبط الآية بمباحث العدل الإلهي وضرورة أن يتصرف الله وفق الحكمة التي هي في صميم إرادته الكاملة. وبعض المدارس الكلامية السنية ولا سيما الأشعرية تُبرز الإرادة الإلهية بطريقة تُضيِّق من ضرورة الفعل القائم على الحكمة أكثر مما هو سائد في الكلام الشيعي، وإن كان هذا موضع جدل داخل تلك المدارس. ويتفق الفريقان على أن الآية تمنح المؤمنين الأمل وتُنذر الظالمين، وإن كان التفسير الشيعي يربطها بصراحة أكبر بالاضطهاد التاريخي لآل النبي. وعلى الصعيد التطبيقي يُعلِّم علماء كلا الفريقين أن الآية ينبغي أن تُوقِد الثقة بالله مع السعي الفاعل، وإن تفاوتوا في التأكيد. ويكشف الدراسة المقارنة أن فهم الله فعَّالاً لما يريد مركزي في الإيمان الإسلامي عبر كل المدارس، مُؤسِّساً العقيدة والروحانية معاً على السيادة الإلهية."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:17:historical-lesson",
+          "title": "Stories of Warning",
+          "icon": "book.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah asks: 'Has the story of the armies reached you?' - introducing historical accounts of those who persecuted believers.",
+          "whyItMatters": "Historical narratives in the Quran are not mere stories but powerful lessons showing the consequences of opposing truth and oppressing believers.",
+          "position": "topLeft",
+          "arabicHighlight": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+          "title_urdu": "تنبیہی کہانیاں",
+          "coreInsight_urdu": "اللہ پوچھتا ہے: 'کیا تمہیں لشکروں کی کہانی پہنچی؟' - ان لوگوں کے تاریخی بیانات متعارف کرواتے ہوئے جنہوں نے مومنوں پر ظلم کیا۔",
+          "whyItMatters_urdu": "قرآن میں تاریخی بیانیے محض کہانیاں نہیں بلکہ طاقتور سبق ہیں جو حق کی مخالفت اور مومنوں پر ظلم کے نتائج دکھاتے ہیں۔",
+          "title_ar": "قصص التحذير",
+          "coreInsight_ar": "يسأل الله: 'هل أتاك حديث الجنود؟' - مقدماً روايات تاريخية لأولئك الذين اضطهدوا المؤمنين.",
+          "whyItMatters_ar": "الروايات التاريخية في القرآن ليست مجرد قصص بل دروس قوية تظهر عواقب معارضة الحق وظلم المؤمنين."
+        },
+        {
+          "id": "85:17:divine-question",
+          "title": "Rhetorical Call",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The question 'Has it reached you?' is rhetorical, drawing attention and engaging the listener to reflect on these critical historical examples.",
+          "whyItMatters": "Allah's rhetorical style invites active reflection rather than passive listening, making the message more impactful and memorable.",
+          "position": "topRight",
+          "arabicHighlight": "هَلْ أَتَىٰكَ",
+          "title_urdu": "بلاغتی سوال",
+          "coreInsight_urdu": "سوال 'کیا تمہیں پہنچی؟' بلاغتی ہے، توجہ مبذول کراتا ہے اور سننے والے کو ان اہم تاریخی مثالوں پر غور کرنے کی ترغیب دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ کا بلاغتی انداز غیر فعال سننے کی بجائے فعال غور و فکر کی دعوت دیتا ہے، پیغام کو زیادہ اثر انگیز اور یادگار بناتا ہے۔",
+          "title_ar": "النداء البلاغي",
+          "coreInsight_ar": "السؤال 'هل أتاك؟' بلاغي، يجذب الانتباه ويشرك المستمع للتفكر في هذه الأمثلة التاريخية الحاسمة.",
+          "whyItMatters_ar": "الأسلوب البلاغي لله يدعو إلى التفكر النشط بدلاً من الاستماع السلبي، مما يجعل الرسالة أكثر تأثيراً ولا تُنسى."
+        },
+        {
+          "id": "85:17:armies-concept",
+          "title": "Mighty Armies",
+          "icon": "person.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The term 'al-junud' (armies) emphasizes the organized military might of oppressors - yet they were ultimately powerless before Allah's decree.",
+          "whyItMatters": "No matter how powerful worldly forces appear, they cannot escape divine justice. This gives hope to the oppressed and warning to oppressors.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْجُنُودِ",
+          "title_urdu": "طاقتور لشکر",
+          "coreInsight_urdu": "اصطلاح 'الجنود' (لشکر) ظالموں کی منظم فوجی طاقت پر زور دیتی ہے - پھر بھی وہ اللہ کے فیصلے کے سامنے بالآخر بے بس تھے۔",
+          "whyItMatters_urdu": "دنیاوی قوتیں کتنی ہی طاقتور نظر آئیں، وہ الہی عدل سے بچ نہیں سکتیں۔ یہ مظلوموں کو امید اور ظالموں کو تنبیہ دیتا ہے۔",
+          "title_ar": "الجيوش العظيمة",
+          "coreInsight_ar": "مصطلح 'الجنود' يؤكد على القوة العسكرية المنظمة للظالمين - ومع ذلك كانوا في النهاية عاجزين أمام قضاء الله.",
+          "whyItMatters_ar": "مهما بدت القوى الدنيوية قوية، لا يمكنها الهروب من العدالة الإلهية. هذا يعطي الأمل للمظلومين والتحذير للظالمين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes recognize this verse as establishing the Quranic method of teaching through historical example. Sunni scholars like Ibn Kathir and al-Tabari provide detailed accounts of Pharaoh's armies and Thamud, as do Shia scholars, often drawing from similar historical and religious sources. Both traditions emphasize that these examples serve as warning and comfort to believers. The consensus extends to understanding that worldly power cannot protect those who oppose divine truth. However, there are differences in emphasis and application. Shia exegesis, particularly in the context of persecution faced by the Ahlul Bayt, often applies these historical patterns to the struggles of the Prophet's family against opposing forces. The armies that opposed truth in past eras find their parallel in those who opposed the rightful Imams. Sunni exegesis tends to focus more generally on opposition to prophets and disbelief. Both traditions agree on the core lesson: organized opposition to divine truth, no matter how powerful, ultimately fails. In contemporary Islamic discourse, both Shia and Sunni scholars use this verse to encourage steadfastness among Muslims facing various challenges. The comparative approach reveals that while specific applications may differ based on historical experiences of each community, the fundamental message about divine justice prevailing over oppressive power is universally accepted in Islamic scholarship.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات کو تسلیم کرتے ہیں کہ یہ آیت تاریخی مثال کے ذریعے تعلیم دینے کے قرآنی منہج کو قائم کرتی ہے۔ سنی علماء جیسے ابن کثیر اور طبری نے فرعون کے لشکروں اور ثمود کی تفصیلات بیان کی ہیں، اسی طرح شیعہ علماء نے بھی، اور اکثر یکساں تاریخی اور دینی ماخذوں سے استفادہ کیا ہے۔ دونوں روایات یہ سمجھتی ہیں کہ یہ مثالیں مومنین کے لیے تنبیہ اور تسلی کا کام دیتی ہیں۔ اتفاقِ رائے اس بات میں بھی ہے کہ دنیاوی طاقت ان لوگوں کو نہیں بچا سکتی جو الٰہی حق کی مخالفت کرتے ہیں۔ البتہ تاکید اور اطلاق میں فرق ہے۔ شیعہ تفسیر، خاص طور پر اہل بیت پر ظلم کے تناظر میں، ان تاریخی نمونوں کو پیغمبر کے خاندان کی جدوجہد سے جوڑتی ہے جو مخالف قوتوں کے سامنے تھے۔ سنی تفسیر عام طور پر انبیاء کی مخالفت اور کفر کے اصول پر زیادہ توجہ دیتی ہے۔ دونوں روایات بنیادی سبق پر متفق ہیں کہ الٰہی حق کی منظم مخالفت، چاہے کتنی ہی طاقتور کیوں نہ ہو، آخر کار ناکام ہو جاتی ہے۔ جدید اسلامی خطاب میں دونوں شیعہ اور سنی علماء اس آیت سے مسلمانوں کو مختلف چیلنجوں کا سامنا کرتے ہوئے استقامت کی ترغیب دیتے ہیں۔ تقابلی مطالعہ ظاہر کرتا ہے کہ مخصوص اطلاقات میں فرق کے باوجود ظالمانہ طاقت پر الٰہی عدل کے غالب آنے کا بنیادی پیغام اسلامی علوم میں عالمگیر طور پر قبول کیا گیا ہے۔",
+    "layer4_ar": "أجمع المفسرون الشيعة والسنة على أن هذه الآية تُؤسِّس المنهج القرآني في التعليم عبر المثال التاريخي. فابن كثير والطبري من علماء السنة يُقدِّمون روايات مفصَّلة عن جند فرعون وثمود، كما يفعل العلماء الشيعة، وكثيراً ما يستندون إلى مصادر تاريخية ودينية متقاربة. ويُؤكِّد كلا الفريقين أن هذه الأمثلة تُؤدي وظيفة الإنذار والتبشير للمؤمنين. والإجماع يمتد إلى أن القوة الدنيوية لا تُحصِّن أصحابها ممن يتصدَّون للحق الإلهي. غير أن ثمة تفاوتاً في التأكيد والتطبيق؛ فالتفسير الشيعي ولا سيما في سياق ما عاناه أهل البيت، كثيراً ما يُطابق بين هذه الأنماط التاريخية والاضطهاد الذي تعرَّض له آل النبي؛ فالجنود التي تصدَّت للحق في العصور الغابرة تجد موازيها في الذين وقفوا ضد الأئمة الحقِّيين. بينما يركِّز التفسير السني بصورة أعم على معارضة الأنبياء والكفر الإجمالي. ويتفق كلا الفريقين على الدرس الجوهري: التصدي المنظَّم للحق الإلهي مهما بلغ أصحابه من القوة ينتهي إلى الإخفاق. وعلى الصعيد المعاصر يُوظِّف علماء الشيعة والسنة هذه الآية لتشجيع المسلمين على الثبات وسط تحديات شتى. والمقاربة المقارنة تكشف أنه وإن تفاوتت التطبيقات استناداً إلى التجارب التاريخية لكل مجتمع، فالرسالة الجوهرية بانتصار العدل الإلهي على القوة الظالمة مقبولة قبولاً عالمياً في العلم الإسلامي."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:18:pharaoh",
+          "title": "Pharaoh's Army",
+          "icon": "person.crop.circle.badge.exclamationmark.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Pharaoh represents the archetypal tyrant who claimed divinity, oppressed believers (Bani Israel), yet was destroyed along with his mighty army.",
+          "whyItMatters": "Pharaoh's story is a perpetual reminder that no tyrant, no matter how powerful, can stand against Allah's will when He decrees their end.",
+          "position": "topLeft",
+          "arabicHighlight": "فِرْعَوْنَ",
+          "title_urdu": "فرعون کا لشکر",
+          "coreInsight_urdu": "فرعون مثالی ظالم کی نمائندگی کرتا ہے جس نے الوہیت کا دعویٰ کیا، مومنوں (بنی اسرائیل) پر ظلم کیا، پھر بھی اپنی طاقتور فوج کے ساتھ تباہ ہو گیا۔",
+          "whyItMatters_urdu": "فرعون کی کہانی دائمی یاد دہانی ہے کہ کوئی ظالم، چاہے کتنا ہی طاقتور ہو، اللہ کی مرضی کے خلاف کھڑا نہیں ہو سکتا جب وہ اس کے خاتمے کا فیصلہ کرے۔",
+          "title_ar": "جيش فرعون",
+          "coreInsight_ar": "يمثل فرعون الطاغية النموذجي الذي ادعى الألوهية واضطهد المؤمنين (بني إسرائيل)، ومع ذلك دُمّر مع جيشه العظيم.",
+          "whyItMatters_ar": "قصة فرعون تذكير دائم بأنه لا يوجد طاغية، مهما كان قوياً، يمكن أن يقف ضد إرادة الله عندما يقضي بنهايته."
+        },
+        {
+          "id": "85:18:thamud",
+          "title": "People of Thamud",
+          "icon": "house.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Thamud were the people of Prophet Salih (as), who rejected their messenger despite clear signs, and were destroyed by a thunderous blast.",
+          "whyItMatters": "Thamud's destruction shows that rejection of truth and arrogance leads to divine punishment, regardless of one's technological advancement or material strength.",
+          "position": "topRight",
+          "arabicHighlight": "وَثَمُودَ",
+          "title_urdu": "قوم ثمود",
+          "coreInsight_urdu": "ثمود حضرت صالح (ع) کی قوم تھی، جنہوں نے واضح نشانیوں کے باوجود اپنے رسول کو رد کیا، اور ایک گرجدار دھماکے سے تباہ ہو گئے۔",
+          "whyItMatters_urdu": "ثمود کی تباہی ظاہر کرتی ہے کہ حق کو رد کرنا اور تکبر الہی سزا کی طرف لے جاتا ہے، چاہے کوئی تکنیکی ترقی یا مادی طاقت کچھ بھی ہو۔",
+          "title_ar": "قوم ثمود",
+          "coreInsight_ar": "كان ثمود قوم النبي صالح (ع)، الذين رفضوا رسولهم رغم الآيات الواضحة، ودُمّروا بصيحة مدمرة.",
+          "whyItMatters_ar": "دمار ثمود يظهر أن رفض الحق والغطرسة يؤدي إلى العقاب الإلهي، بغض النظر عن التقدم التكنولوجي أو القوة المادية."
+        },
+        {
+          "id": "85:18:historical-parallel",
+          "title": "Pattern of Tyranny",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Mentioning Pharaoh and Thamud together creates a pattern: different times, different methods, same outcome - destruction for those who oppress believers.",
+          "whyItMatters": "This pattern assures persecuted believers throughout history that their oppressors will face justice, just as all previous tyrants did.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فِرْعَوْنَ وَثَمُودَ",
+          "title_urdu": "ظلم کا نمونہ",
+          "coreInsight_urdu": "فرعون اور ثمود کا ایک ساتھ ذکر ایک نمونہ بناتا ہے: مختلف اوقات، مختلف طریقے، ایک ہی نتیجہ - ان کے لیے تباہی جو مومنوں پر ظلم کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ نمونہ تاریخ بھر میں ستائے گئے مومنوں کو یقین دلاتا ہے کہ ان کے ظالموں کو انصاف کا سامنا ہوگا، جیسا کہ تمام سابقہ ظالموں کو ہوا۔",
+          "title_ar": "نمط الطغيان",
+          "coreInsight_ar": "ذكر فرعون وثمود معاً يخلق نمطاً: أزمنة مختلفة، أساليب مختلفة، نفس النتيجة - الدمار لمن يضطهد المؤمنين.",
+          "whyItMatters_ar": "هذا النمط يؤكد للمؤمنين المضطهدين عبر التاريخ أن ظالميهم سيواجهون العدالة، تماماً كما فعل جميع الطغاة السابقين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars extensively discuss the stories of Pharaoh and Thamud, drawing from Quranic verses across multiple surahs as well as hadith literature. The basic historical narratives are agreed upon across traditions: Pharaoh's tyranny, his drowning in the sea, Thamud's prosperity, their killing of the she-camel, and their destruction by earthquake. Sunni scholars like Ibn Kathir provide detailed tafsir of these events, as do Shia scholars, often citing similar Quranic cross-references. Both traditions emphasize these as warnings against oppression and disbelief. The differences emerge more in application than in basic interpretation. Shia scholarship, particularly when examining these verses in the context of Surah al-Buruj which begins with the story of persecution of believers, often connects these historical examples to the persecution of the Ahlul Bayt and their followers. The pattern of truth-bearers facing seemingly overwhelming opposition finds particular resonance in Shia historical experience. Sunni scholarship tends to focus on the general principle of divine punishment for disbelief and oppression. Both traditions agree that these are not merely ancient stories but contain timeless lessons about divine justice. Comparative Islamic scholarship shows that whether examining state tyranny like Pharaoh or collective arrogance like Thamud, Muslim scholars across schools have consistently warned their communities against repeating these patterns. The verse unites Islamic tradition in affirming that no worldly power can ultimately resist divine decree when it opposes truth and justice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء فرعون اور ثمود کی داستانوں کو تفصیل سے بیان کرتے ہیں، قرآن کے متعدد مقامات کی آیات اور حدیث ادب سے استفادہ کرتے ہوئے۔ بنیادی تاریخی روایات پر اتفاق ہے: فرعون کا جبر، اس کا سمندر میں ڈوبنا، ثمود کی خوشحالی، ان کی اونٹنی کو مار ڈالنا اور زلزلے سے ان کی ہلاکت۔ سنی علماء جیسے ابن کثیر نے ان واقعات کی تفصیلی تفسیر لکھی ہے، اسی طرح شیعہ علماء نے بھی، اور اکثر ایک جیسے قرآنی حوالہ جات پیش کیے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ یہ کفر اور ظلم کے خلاف الٰہی عذاب کی تنبیہات ہیں۔ فرق تاویل کے بجائے اطلاق میں زیادہ نمایاں ہے۔ شیعہ علوم، خصوصاً اہل بیت پر ظلم کے تاریخی تجربے کے تناظر میں، ان تاریخی نمونوں کو حق کے علمبرداروں کی مخالف قوتوں سے جدوجہد سے جوڑتی ہے۔ سنی علوم عموماً انبیاء کی مخالفت اور کفر کے عمومی اصول پر زیادہ توجہ دیتی ہیں۔ دونوں روایات بنیادی سبق پر متفق ہیں کہ ظالمانہ اجتماعی مزاحمت، چاہے کتنی ہی طاقتور ہو، الٰہی حق کے سامنے آخرکار ناکام ہو جاتی ہے۔ جدید اسلامی خطاب میں دونوں مکاتبِ فکر کے علماء اس آیت کو مختلف چیلنجوں میں مسلمانوں کے لیے استقامت کا ذریعہ بناتے ہیں۔ تقابلی مطالعہ ثابت کرتا ہے کہ ریاستی جبر ہو یا اجتماعی تکبر، مسلم علماء نے اپنی برادریوں کو ہمیشہ متنبہ کیا ہے کہ ان نمونوں کو نہ دہرائیں۔",
+    "layer4_ar": "يتناول علماء كلا التراثين الشيعي والسني بالتفصيل قصتَي فرعون وثمود، مستندين إلى آيات قرآنية متعددة وأدبيات الحديث. والروايات التاريخية الأساسية متَّفق عليها بين التراثين: طغيان فرعون وغرقه في البحر، ورخاء ثمود وعقرهم الناقة وهلاكهم بالرجفة. ويُقدِّم ابن كثير تفسيراً مفصَّلاً لهذه الأحداث كما يفعل العلماء الشيعة، وكثيراً ما يستشهد الطرفان بمراجع قرآنية متقاطعة. ويُؤكِّد كلا الفريقين أن هذه الأمثلة إنذار من الظلم والكفر. والفوارق تظهر أكثر في التطبيق منها في التفسير الأساسي؛ فالمنهج الشيعي ولا سيما حين يقرأ هذه الآيات في سياق سورة البروج التي تفتتح بقصة أصحاب الأخدود كثيراً ما يصل بين هذه الأمثلة التاريخية واضطهاد أهل البيت وأتباعهم، فنمط حامل الحق المواجِه لمعارضة طاغية يجد صدىً خاصاً في التجربة التاريخية الشيعية. بينما يركِّز المنهج السني على المبدأ الكلي لعقوبة الله على الكفر والظلم. ويتفق التراثان على أن هذه ليست قصصاً تاريخية عتيقة فحسب بل تحمل دروساً خالدة حول العدل الإلهي. والدراسة المقارنة للفكر الإسلامي تُثبت أن سواء في قراءة الطغيان الدولتي كفرعون أو الغرور الجماعي كثمود، حذَّر علماء المسلمين على اختلاف مدارسهم أمتهم من إعادة إنتاج هذه الأنماط. والآية توحِّد الأمة الإسلامية في التأكيد على أنه لا قوة دنيوية تقدر في نهاية المطاف على مقاومة القضاء الإلهي حين يُعارض الحق والعدل."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:19:persistent-denial",
+          "title": "Stubborn Rejection",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse uses 'bal' (rather/but) to contrast: despite historical lessons, disbelievers persist in 'takdhib' - active, willful denial of truth.",
+          "whyItMatters": "This shows that rejection of truth is often not due to lack of evidence but due to arrogance and stubbornness of heart.",
+          "position": "topLeft",
+          "arabicHighlight": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍۢ",
+          "title_urdu": "ضدی انکار",
+          "coreInsight_urdu": "آیت 'بَلِ' (بلکہ) استعمال کرتی ہے تضاد کے لیے: تاریخی سبق کے باوجود، کافر 'تکذیب' میں برقرار رہتے ہیں - فعال، جان بوجھ کر حق کا انکار۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ حق کا انکار اکثر ثبوت کی کمی کی وجہ سے نہیں بلکہ دل کی تکبر اور ضد کی وجہ سے ہوتا ہے۔",
+          "title_ar": "الرفض العنيد",
+          "coreInsight_ar": "تستخدم الآية 'بل' للتباين: رغم الدروس التاريخية، يصر الكافرون على 'التكذيب' - إنكار نشط ومتعمد للحق.",
+          "whyItMatters_ar": "هذا يظهر أن رفض الحق غالباً ليس بسبب نقص الأدلة بل بسبب الغطرسة وعناد القلب."
+        },
+        {
+          "id": "85:19:state-of-denial",
+          "title": "Persistent State",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The preposition 'fi' (in) indicates disbelievers are immersed and trapped in a continuous state of denial, not just occasional rejection.",
+          "whyItMatters": "This warns against hardening one's heart to the point where denial becomes a permanent state rather than a temporary lapse.",
+          "position": "topRight",
+          "arabicHighlight": "فِى تَكْذِيبٍۢ",
+          "title_urdu": "مسلسل حالت",
+          "coreInsight_urdu": "حرف جر 'فِى' (میں) اشارہ کرتا ہے کہ کافر انکار کی مسلسل حالت میں ڈوبے اور پھنسے ہوئے ہیں، نہ کہ صرف کبھی کبھار انکار۔",
+          "whyItMatters_urdu": "یہ تنبیہ کرتا ہے کہ اپنے دل کو اس حد تک سخت نہ کیا جائے کہ انکار عارضی لغزش کی بجائے مستقل حالت بن جائے۔",
+          "title_ar": "الحالة المستمرة",
+          "coreInsight_ar": "حرف الجر 'في' يشير إلى أن الكافرين غارقون ومحاصرون في حالة مستمرة من الإنكار، وليس مجرد رفض عرضي.",
+          "whyItMatters_ar": "هذا تحذير من قسوة القلب لدرجة أن الإنكار يصبح حالة دائمة بدلاً من زلة مؤقتة."
+        },
+        {
+          "id": "85:19:active-rejection",
+          "title": "Willful Falsehood",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Takdhib' is not passive disbelief but active denial - calling truth falsehood, rejecting clear signs despite knowing better.",
+          "whyItMatters": "This verse addresses those who actively fight against truth, warning them that their persistence in falsehood will not prevent divine justice.",
+          "position": "bottomLeft",
+          "arabicHighlight": "تَكْذِيبٍۢ",
+          "title_urdu": "جان بوجھ کر جھوٹ",
+          "coreInsight_urdu": "'تکذیب' غیر فعال کفر نہیں بلکہ فعال انکار ہے - حق کو جھوٹ کہنا، بہتر جاننے کے باوجود واضح نشانیوں کو رد کرنا۔",
+          "whyItMatters_urdu": "یہ آیت ان لوگوں سے خطاب کرتی ہے جو فعال طور پر حق کے خلاف لڑتے ہیں، انہیں تنبیہ کرتی ہے کہ جھوٹ میں ان کی استقامت الہی عدل کو نہیں روکے گی۔",
+          "title_ar": "الكذب المتعمد",
+          "coreInsight_ar": "'التكذيب' ليس كفراً سلبياً بل إنكار نشط - تسمية الحق كذباً، ورفض الآيات الواضحة رغم العلم بها.",
+          "whyItMatters_ar": "هذه الآية تخاطب أولئك الذين يحاربون الحق بنشاط، محذرة إياهم من أن إصرارهم على الباطل لن يمنع العدالة الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as describing the inexplicable persistence of disbelievers in denial despite clear evidence and warnings. Sunni exegetes like Imam al-Qurtubi and Ibn Kathir explain that the verse addresses the Quraysh who persisted in rejecting the Prophet despite signs and warnings, as do Shia commentators. Both traditions recognize this as describing willful denial rather than mere ignorance. The consensus extends to understanding that disbelief often involves moral and spiritual factors beyond intellectual reasoning. However, applications differ based on community experiences. Shia scholarship, in the context of historical denial of the Ahlul Bayt's rights despite clear prophetic designation, sees this verse as explaining a pattern that extended beyond initial rejection of prophethood to rejection of rightful authority after the Prophet. The verse helps explain how clear texts about succession could be denied or reinterpreted. Sunni scholarship focuses primarily on denial of prophethood and fundamental beliefs. Both traditions use the verse to warn their communities against becoming like those described - persisting in wrong positions despite evidence. Theologically, both Shia and Sunni scholars debate the relationship between divine predestination and human choice in disbelief, with most agreeing that while Allah creates the capacity for belief and disbelief, humans choose their path. The verse is used across Islamic thought to explain the limits of rational argument in matters of faith - when dealing with willful denial, evidence alone may not suffice, requiring divine guidance to soften hearts.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کی یہ تشریح کرتے ہیں کہ کافر واضح ثبوت اور تنبیہات کے باوجود انکار پر اصرار کرتے ہیں۔ سنی مفسرین جیسے امام قرطبی اور ابن کثیر وضاحت کرتے ہیں کہ یہ آیت قریش کو مخاطب ہے جو نشانیوں اور تنبیہات کے باوجود پیغمبر کو ٹھکراتے رہے، اسی طرح شیعہ مفسرین بھی۔ دونوں روایات اسے محض جہالت کی بجائے ارادی انکار قرار دیتی ہیں۔ اتفاقِ رائے اس بات تک بھی پھیلا ہوا ہے کہ کفر میں اکثر خالص فکری استدلال سے ماورا اخلاقی اور روحانی عوامل شامل ہوتے ہیں۔ البتہ اطلاقات اپنے اپنے کمیونٹی کے تجربات کی روشنی میں مختلف ہیں۔ شیعہ علوم، اہل بیت کے حق کے انکار کی تاریخ کے تناظر میں، اس آیت کو ایک ایسے نمونے کی وضاحت کے طور پر دیکھتی ہے جو نبوت کی ابتدائی رد سے آگے بڑھ کر پیغمبر کے بعد رہبری کے انکار تک پھیلا۔ یہ آیت یہ سمجھانے میں مدد کرتی ہے کہ جانشینی کے بارے میں واضح نصوص کو کیوں رد کیا گیا۔ سنی علوم بنیادی طور پر نبوت کے انکار اور بنیادی عقائد پر توجہ دیتی ہے۔ دونوں روایات اپنی اپنی برادریوں کو متنبہ کرتی ہیں کہ وہ مذکورین جیسے نہ بنیں اور غلط موقف پر ثبوت کے باوجود اڑے نہ رہیں۔ الٰہیاتی طور پر دونوں مکاتبِ فکر کے علماء الٰہی تقدیر اور کفر میں انسانی انتخاب کے تعلق پر بحث کرتے ہیں، اور اکثر یہ متفق ہیں کہ اللہ ایمان اور کفر کی صلاحیت بخشتا ہے مگر انسان اپنا راستہ خود چنتا ہے۔",
+    "layer4_ar": "يُفسِّر علماء كلا التراثين الشيعي والسني هذه الآية بوصفها وصفاً للإصرار الغريب للمكذِّبين على الإنكار رغم وضوح الأدلة والإنذارات. فالقرطبي وابن كثير من علماء السنة يُفسِّرانها بأنها تصف قريشاً المُصرِّين على رفض النبي رغم الآيات والإنذارات، كما يفعل المفسرون الشيعة. ويُقرُّ كلا التراثين بأنها تصف الإنكار المتعمَّد لا الجهل المحض. والإجماع يمتد إلى أن الكفر كثيراً ما ينطوي على عوامل أخلاقية وروحية تتجاوز حدود التفكير العقلي. غير أن الأطر التطبيقية تتباين بناءً على التجارب الجماعية لكل مجتمع. فالمنهج الشيعي في ضوء الإنكار التاريخي لحقوق أهل البيت رغم صراحة النصوص النبوية يرى في الآية تفسيراً لنمط امتدَّ ما وراء الرفض الأول للنبوة ليشمل ردَّ السلطة الشرعية في أعقاب وفاة النبي. أما المنهج السني فيركِّز أساساً على إنكار النبوة والعقائد الجوهرية. ويُوظِّف كلا التراثين الآية لتحذير مجتمعاتهم من الوقوع في مصير المكذِّبين المُصرِّين على المواقف الخاطئة رغم الدليل. وعلى الصعيد الكلامي يجادل علماء الشيعة والسنة في العلاقة بين القدر الإلهي والاختيار الإنساني في الكفر، وأغلبهم يتفق على أنه وإن كان الله خلق قابلية الإيمان والكفر إلا أن الإنسان هو الذي يختار طريقه. وتُوظَّف الآية في الفكر الإسلامي عموماً لتفسير حدود الجدل العقلي في مسائل الإيمان؛ فحين يصطدم الإنسان بالإنكار المتعمَّد لا تكفي الحجة وحدها إذ لا بدَّ من الهداية الإلهية التي تُليِّن القلوب."
+  },
+  "20": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:20:divine-encompassing",
+          "title": "Allah Encompasses",
+          "icon": "circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Despite disbelievers' denial, 'Allah encompasses them from behind' - they cannot escape His knowledge, power, or inevitable judgment.",
+          "whyItMatters": "No one can hide from Allah or escape His decree. This brings comfort to the oppressed and warning to oppressors that justice is certain.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+          "title_urdu": "اللہ کا احاطہ",
+          "coreInsight_urdu": "کافروں کے انکار کے باوجود، 'اللہ ان کے پیچھے سے محیط ہے' - وہ اس کے علم، قدرت، یا ناگزیر فیصلے سے بچ نہیں سکتے۔",
+          "whyItMatters_urdu": "کوئی اللہ سے چھپ نہیں سکتا یا اس کے فیصلے سے بچ نہیں سکتا۔ یہ مظلوموں کو تسلی اور ظالموں کو تنبیہ دیتا ہے کہ انصاف یقینی ہے۔",
+          "title_ar": "الله يحيط",
+          "coreInsight_ar": "رغم إنكار الكافرين، 'الله من ورائهم محيط' - لا يمكنهم الهروب من علمه أو قدرته أو حكمه الحتمي.",
+          "whyItMatters_ar": "لا أحد يمكنه الاختباء من الله أو الهروب من قضائه. هذا يجلب الراحة للمظلومين والتحذير للظالمين بأن العدالة مؤكدة."
+        },
+        {
+          "id": "85:20:from-behind",
+          "title": "From All Sides",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Min wara'ihim' (from behind) suggests they may think they're escaping forward, but Allah is ahead, behind, and all around them.",
+          "whyItMatters": "There is no direction of escape from divine justice. Allah's knowledge and power surround every aspect of our existence.",
+          "position": "topRight",
+          "arabicHighlight": "مِن وَرَآئِهِم",
+          "title_urdu": "ہر طرف سے",
+          "coreInsight_urdu": "'مِن وَرَآئِهِم' (پیچھے سے) تجویز کرتا ہے کہ وہ سوچ سکتے ہیں کہ وہ آگے بھاگ رہے ہیں، لیکن اللہ آگے، پیچھے، اور ان کے ہر طرف ہے۔",
+          "whyItMatters_urdu": "الہی عدل سے بچنے کی کوئی سمت نہیں۔ اللہ کا علم اور قدرت ہمارے وجود کے ہر پہلو کو گھیرے ہوئے ہے۔",
+          "title_ar": "من كل الجوانب",
+          "coreInsight_ar": "'من ورائهم' تشير إلى أنهم قد يظنون أنهم يهربون إلى الأمام، لكن الله أمامهم وخلفهم ومن كل جانب.",
+          "whyItMatters_ar": "لا يوجد اتجاه للهروب من العدالة الإلهية. علم الله وقدرته يحيطان بكل جانب من جوانب وجودنا."
+        },
+        {
+          "id": "85:20:muhit-concept",
+          "title": "Complete Control",
+          "icon": "shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Muhit' (encompassing) implies total control and complete knowledge - nothing is outside Allah's awareness or reach.",
+          "whyItMatters": "For believers, this is reassurance that Allah is aware of their struggles. For oppressors, it's a warning that their actions are fully known.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مُّحِيطٌۢ",
+          "title_urdu": "مکمل کنٹرول",
+          "coreInsight_urdu": "'مُحِيطٌ' (محیط) مکمل کنٹرول اور مکمل علم کا مطلب ہے - کچھ بھی اللہ کی آگاہی یا رسائی سے باہر نہیں۔",
+          "whyItMatters_urdu": "مومنوں کے لیے، یہ یقین دہانی ہے کہ اللہ ان کی جدوجہد سے آگاہ ہے۔ ظالموں کے لیے، یہ تنبیہ ہے کہ ان کے افعال مکمل طور پر معلوم ہیں۔",
+          "title_ar": "السيطرة الكاملة",
+          "coreInsight_ar": "'محيط' تعني السيطرة الكاملة والعلم التام - لا شيء خارج وعي الله أو متناوله.",
+          "whyItMatters_ar": "للمؤمنين، هذا طمأنينة بأن الله يعلم بنضالاتهم. وللظالمين، إنه تحذير بأن أفعالهم معلومة تماماً."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental interpretation of this verse: Allah's complete encompassment of all creation in knowledge and power, including those who deny Him. Sunni exegetes like Ibn Kathir explain that deniers cannot escape Allah's knowledge or power, regardless of their plans, which aligns with Shia interpretation. The concept of divine encompassment is central to Islamic theology across all schools. Both traditions use this verse to emphasize divine omniscience and omnipotence. However, there are nuanced differences in theological emphasis. In Shia theology as articulated by scholars like Allamah Tabatabai, divine encompassment is understood within the framework of divine justice - Allah's knowledge includes knowledge of human free choices, and His encompassing power is exercised according to perfect justice and wisdom. Some Sunni theological schools, particularly Ash'ari thought, emphasize divine power in ways that minimize human agency more than Shia thought typically does. Both traditions agree the verse provides comfort to believers facing oppression and warning to oppressors. In Shia exegesis, this verse is often connected to the broader Surah al-Buruj theme of persecution - the persecutors may seem powerful, but Allah encompasses them and will hold them accountable. Sunni exegesis focuses similarly on accountability but within their interpretive tradition. Practically, both Shia and Sunni scholars use this verse to cultivate awareness of divine presence and accountability. Comparative study shows that while theological nuances about predestination and free will differ between schools, the core message of inescapable divine encompassment is universally affirmed in Islamic thought.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں: اللہ کا تمام مخلوق پر مکمل احاطہ علم اور قدرت میں، بشمول ان کے جو اسے انکار کرتے ہیں۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ منکر اپنے منصوبوں سے قطع نظر اللہ کے علم اور قدرت سے نہیں بھاگ سکتے، جو شیعہ تفسیر کے ساتھ ہم آہنگ ہے۔ الٰہی احاطے کا تصور تمام مکاتبِ فکر میں اسلامی الٰہیات کے مرکز میں ہے۔ دونوں روایات الٰہی ہمہ دانی اور قدرت پر زور دینے کے لیے اس آیت کا استعمال کرتی ہیں۔ البتہ الٰہیاتی تاکید میں باریک فرق موجود ہے۔ شیعہ الٰہیات میں جیسا کہ علامہ طباطبائی نے بیان کیا، الٰہی احاطہ الٰہی عدل کے اصول کے اندر سمجھا جاتا ہے: اللہ کے علم میں انسانی آزاد انتخاب کا علم بھی شامل ہے اور اس کی گھیرنے والی قدرت کامل عدل اور حکمت کے ساتھ استعمال ہوتی ہے۔ بعض سنی الٰہیاتی مکاتب، خصوصاً اشعری فکر، الٰہی قدرت پر اس طرح زور دیتے ہیں جو شیعہ فکر کے مقابلے میں انسانی فاعلیت کو کم اہمیت دیتا ہے۔ دونوں روایات متفق ہیں کہ یہ آیت ظلم کا سامنا کرنے والے مومنین کو تسلی اور ظالمین کو تنبیہ دیتی ہے۔ شیعہ تفسیر میں اس آیت کو اکثر سورۂ بروج کے وسیع تر موضوع یعنی مومنین پر ظلم سے جوڑا جاتا ہے: ظالمین طاقتور لگ سکتے ہیں مگر اللہ انہیں گھیرے ہوئے ہے اور جوابدہ ٹھہرائے گا۔ تقابلی مطالعہ ظاہر کرتا ہے کہ تقدیر و آزادی کے بارے میں الٰہیاتی باریکیاں مختلف ہونے کے باوجود ناگزیر الٰہی احاطے کا بنیادی پیغام اسلامی فکر میں عالمگیر طور پر تسلیم شدہ ہے۔",
+    "layer4_ar": "أجمع علماء الشيعة والسنة على التفسير الجوهري لهذه الآية: إحاطة الله الكاملة بالخليقة علماً وقدرة بما فيهم من يُنكرونه. فابن كثير يُبيِّن أن المكذِّبين لا يخفى علمهم ولا يُعجز قدرتهم على الله مهما كانت مخطَّطاتهم، وهذا يتوافق مع التفسير الشيعي. ومفهوم الإحاطة الإلهية محوري في العقيدة الإسلامية عبر جميع المدارس. ويُوظِّف كلا الفريقين هذه الآية لتأكيد العلم الإلهي الشامل والقدرة الإلهية الكاملة. غير أن ثمة تفاوتاً دقيقاً في التأكيد الكلامي؛ ففي الكلام الشيعي كما صاغه العلامة الطباطبائي تُفهم الإحاطة الإلهية في إطار العدل الإلهي؛ فعلم الله يشمل علمه بالاختيارات البشرية الحرة، وقدرته المحيطة تُمارَس وفق العدل الكامل والحكمة التامة. وبعض المدارس الكلامية السنية ولا سيما الأشعرية تُؤكِّد القدرة الإلهية بطريقة تُضيِّق من نطاق الفاعلية الإنسانية أكثر مما هو سائد في الكلام الشيعي. ويتفق كلا التراثين على أن الآية تمنح المؤمنين المضطهَدين العزاءَ وتُنذر الظالمين. وفي التفسير الشيعي كثيراً ما ترتبط الآية بموضوع سورة البروج الكبير وهو الاضطهاد؛ فالمضطهِدون وإن بدوا أقوياء هم في إحاطة الله الذي سيُحاسبهم. ويركِّز التفسير السني بالمثل على المحاسبة لكن ضمن إطاره التفسيري الخاص. والدراسة المقارنة تُبيِّن أنه وإن تباينت الفروق الكلامية حول القدر وحرية الإرادة بين المدارس فإن الرسالة الجوهرية عن الإحاطة الإلهية التي لا مفرَّ منها مُقرَّة إقراراً عالمياً في الفكر الإسلامي."
+  },
+  "21": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:21:honored-quran",
+          "title": "Glorious Quran",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Bal' (rather) shifts focus from deniers to truth: This is a 'Quran Majid' - a glorious, honored, magnificent scripture that stands despite rejection.",
+          "whyItMatters": "The Quran's majesty and truth are independent of people's acceptance or rejection. Its glory is inherent, not granted by human approval.",
+          "position": "topLeft",
+          "arabicHighlight": "بَلْ هُوَ قُرْءَانٌۭ مَّجِيدٌۭ",
+          "title_urdu": "عظیم قرآن",
+          "coreInsight_urdu": "'بَلْ' (بلکہ) توجہ انکار کرنے والوں سے حق کی طرف منتقل کرتا ہے: یہ 'قرآن مجید' ہے - ایک شاندار، معزز، عظیم کتاب جو انکار کے باوجود قائم ہے۔",
+          "whyItMatters_urdu": "قرآن کی عظمت اور حق لوگوں کی قبولیت یا انکار سے آزاد ہے۔ اس کی شان ذاتی ہے، انسانی منظوری سے عطا نہیں کی گئی۔",
+          "title_ar": "القرآن المجيد",
+          "coreInsight_ar": "'بل' ينقل التركيز من المنكرين إلى الحق: هذا 'قرآن مجيد' - كتاب مجيد ومكرم وعظيم يقف رغم الرفض.",
+          "whyItMatters_ar": "عظمة القرآن وحقيقته مستقلة عن قبول الناس أو رفضهم. مجده متأصل، لا تمنحه الموافقة البشرية."
+        },
+        {
+          "id": "85:21:majid-attribute",
+          "title": "Inherent Glory",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Majid' conveys glory, honor, nobility, and magnificence - the Quran possesses intrinsic excellence in its words, meanings, and guidance.",
+          "whyItMatters": "Recognizing the Quran's inherent glory motivates us to approach it with reverence, study it deeply, and implement its teachings faithfully.",
+          "position": "topRight",
+          "arabicHighlight": "مَّجِيدٌۭ",
+          "title_urdu": "ذاتی جلال",
+          "coreInsight_urdu": "'مَجِيدٌ' جلال، عزت، نیکی، اور عظمت کا اظہار کرتا ہے - قرآن اپنے الفاظ، معانی، اور رہنمائی میں اندرونی فضیلت رکھتا ہے۔",
+          "whyItMatters_urdu": "قرآن کی ذاتی شان کو پہچاننا ہمیں اس کے ساتھ احترام سے پیش آنے، اسے گہرائی سے پڑھنے، اور اس کی تعلیمات کو وفاداری سے نافذ کرنے کی ترغیب دیتا ہے۔",
+          "title_ar": "المجد الذاتي",
+          "coreInsight_ar": "'مجيد' يعبر عن المجد والشرف والنبل والعظمة - القرآن يمتلك التميز الجوهري في كلماته ومعانيه وإرشاده.",
+          "whyItMatters_ar": "إدراك مجد القرآن الذاتي يحفزنا على التعامل معه بإجلال ودراسته بعمق وتطبيق تعاليمه بأمانة."
+        },
+        {
+          "id": "85:21:contrast-denial",
+          "title": "Truth vs Denial",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse creates stark contrast: deniers may reject it, but the Quran remains glorious; they may lie about it, but its truth endures.",
+          "whyItMatters": "Truth doesn't depend on popular acceptance. The Quran's magnificence persists regardless of how many reject or accept it.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بَلْ هُوَ",
+          "title_urdu": "حق بمقابلہ انکار",
+          "coreInsight_urdu": "یہ آیت واضح تضاد پیدا کرتی ہے: انکار کرنے والے اسے رد کر سکتے ہیں، لیکن قرآن شاندار رہتا ہے؛ وہ اس کے بارے میں جھوٹ بول سکتے ہیں، لیکن اس کی سچائی برقرار رہتی ہے۔",
+          "whyItMatters_urdu": "حق عوامی قبولیت پر منحصر نہیں۔ قرآن کی عظمت برقرار رہتی ہے قطع نظر اس سے کہ کتنے لوگ اسے رد یا قبول کرتے ہیں۔",
+          "title_ar": "الحق مقابل الإنكار",
+          "coreInsight_ar": "تخلق هذه الآية تباين حاد: قد ينكره المنكرون، لكن القرآن يبقى مجيداً؛ قد يكذبون عليه، لكن حقيقته تدوم.",
+          "whyItMatters_ar": "الحق لا يعتمد على القبول الشعبي. عظمة القرآن تستمر بغض النظر عن عدد من يرفضه أو يقبله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unite in affirming the Quran's glorious nature as declared in this verse. Sunni exegetes like Imam al-Qurtubi and Ibn Kathir elaborate on the Quran's glory in terms similar to Shia scholars - its divine origin, preservation, linguistic miracle, comprehensive guidance, and transformative power. Both traditions have rich histories of Quranic scholarship, memorization, and reverence reflecting recognition of its glorious status. The consensus extends to the Quran being the literal word of Allah, preserved from corruption, and superior to all other texts. However, there are important differences in related doctrines. Shia theology emphasizes the necessity of authentic interpretation through the Ahlul Bayt to fully access the Quran's glorious depths, based on hadith like the Hadith of the Two Weighty Things. Sunni methodology relies on broader scholarly consensus and various interpretive methods. Regarding the Quran's preservation, both traditions affirm it, though they may differ on the extent to which interpretive traditions alongside it have been preserved. In practice, both communities have similar reverence for the physical Quran - ritual purity before touching it, beautiful recitation, and honorable treatment. The verse unites Muslims across schools in affirming that the Quran is inherently glorious regardless of attacks from deniers. Comparative Islamic studies show that while there are methodological differences in interpretation and questions about authoritative interpreters, the fundamental belief in the Quran's glorious, divine nature is universally held across Islamic tradition. This verse serves as common ground from which different schools approach the text they all revere.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایتوں کے علماء قرآن کی مجید نوعیت کے بارے میں اس آیت کی دلالت پر متفق ہیں۔ سنی مفسرین جیسے امام القرطبی اور ابن کثیر نے قرآن کی مجادت کو شیعہ علماء سے ملتے جلتے اسلوب میں بیان کیا ہے، یعنی اس کا مصدر الٰہی، محفوظ رہنا، لسانی معجزہ، جامع ہدایت اور تبدیل کن قوت۔ دونوں روایتوں کے یہاں قرآن کی تعظیم اور احترام کی غنی روایتیں موجود ہیں، چاہے حفظ ہو، خوبصورت تلاوت ہو یا عزت کے ساتھ اسے تھامنا ہو، یہ سب اس کے مجید ہونے کے اعتراف کا اظہار ہیں۔ اتفاق رائے اس بات تک بھی پھیلی ہوئی ہے کہ قرآن اللہ کا لفظی کلام ہے، ہر قسم کی تحریف سے محفوظ اور تمام دیگر متون سے برتر ہے۔ تاہم بعض اہم مسائل میں فرق موجود ہے۔ شیعہ عقیدہ قرآن کی مجید گہرائیوں تک رسائی کے لیے اہل بیت علیہم السلام کے ذریعے مستند تفسیر کی ضرورت پر زور دیتا ہے، جیسا کہ حدیث ثقلین کی بنیاد پر ثابت ہے۔ سنی منہج علمی اجماع اور مختلف تفسیری طریقوں پر تکیہ کرتا ہے۔ قرآن کے محفوظ یا غیر محفوظ ہونے کے حوالے سے دونوں روایتیں اس کی تصدیق کرتی ہیں، اگرچہ ساتھ کی تفسیری روایتوں کے محفوظ ہونے کے سوال پر رائیں مختلف ہو سکتی ہیں۔ عملی طور پر دونوں برادریوں میں قرآن کی جسمانی کتاب کے لیے یکساں تعظیم پائی جاتی ہے۔ تقابلی اسلامی مطالعات ظاہر کرتے ہیں کہ تفسیری طریقوں اور معتبر شارحین کے سوال پر اختلافات کے باوجود قرآن کے مجید، الٰہی ہونے کا بنیادی عقیدہ اسلامی روایت میں عالمگیر طور پر موجود ہے۔",
+    "layer4_ar": "يتوحَّد علماء الشيعة والسنة في التأكيد على مجد القرآن كما أعلنته هذه الآية. فالقرطبي وابن كثير من علماء السنة يُفصِّلون في مجد القرآن بمصطلحات تتقاطع مع الشيعة؛ أصله الإلهي، وصون حفظه، وإعجازه اللغوي، وشمولية هدايته، وقدرته التحويلية. وللتراثين إرثٌ زاخر من العلم القرآني والحفظ والتعظيم يعكس الإقرار بمكانته المجيدة. والإجماع يمتد إلى أن القرآن هو كلام الله المحفوظ من التحريف والمتفوِّق على سائر النصوص. غير أن ثمة فوارق مهمة في العقائد المرتبطة؛ فالكلام الشيعي يُؤكِّد ضرورة التفسير الصادق عبر أهل البيت للوصول الكامل إلى أعماق مجد القرآن استناداً إلى حديث الثقلين. وتعتمد المنهجية السنية إجماع العلماء الأوسع وطرائق التفسير المتنوعة. وفي مسألة حفظ القرآن يُقرُّ به كلا التراثين، وإن كان ثمة خلاف في مدى حفظ التقاليد التفسيرية المصاحبة له. وعلى صعيد الممارسة لكلا المجتمعَين تعظيم متشابه للمصحف الشريف؛ طهارة قبل لمسه وترتيل جميل ومعاملة كريمة. وتُوحِّد الآية المسلمين عبر مختلف المدارس في التأكيد على أن القرآن مجيد بذاته بصرف النظر عن طعون المكذِّبين. والدراسة الإسلامية المقارنة تُثبت أنه وإن تباينت الأساليب المنهجية في التفسير وتفاوتت المواقف من السؤال عن المفسرين الحجَّة، فإن الإيمان الجوهري بمجد القرآن وطبيعته الإلهية راسخٌ رسوخاً عالمياً عبر التراث الإسلامي. وتغدو الآية أرضاً مشتركة ينطلق منها كل فريق نحو النص الذي يُعظِّمه."
+  },
+  "22": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "85:22:preserved-tablet",
+          "title": "Preserved Tablet",
+          "icon": "doc.text.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The Quran is inscribed in 'Lawh al-Mahfuz' (Preserved Tablet) - the divine record containing all of Allah's decrees, protected from any alteration.",
+          "whyItMatters": "This guarantees the Quran's eternal preservation. No human or jinn can corrupt what Allah has preserved in the heavenly realm.",
+          "position": "topLeft",
+          "arabicHighlight": "فِى لَوْحٍۢ مَّحْفُوظٍۭ",
+          "title_urdu": "محفوظ لوح",
+          "coreInsight_urdu": "قرآن 'لوح محفوظ' میں لکھا ہوا ہے - الہی ریکارڈ جس میں اللہ کے تمام فیصلے ہیں، کسی بھی تبدیلی سے محفوظ۔",
+          "whyItMatters_urdu": "یہ قرآن کی ابدی حفاظت کی ضمانت دیتا ہے۔ کوئی انسان یا جن اسے خراب نہیں کر سکتا جسے اللہ نے آسمانی دائرے میں محفوظ کیا ہے۔",
+          "title_ar": "اللوح المحفوظ",
+          "coreInsight_ar": "القرآن مسجل في 'اللوح المحفوظ' - السجل الإلهي الذي يحتوي على جميع مراسيم الله، محمي من أي تغيير.",
+          "whyItMatters_ar": "هذا يضمن الحفظ الأبدي للقرآن. لا إنسان ولا جن يمكنه إفساد ما حفظه الله في العالم السماوي."
+        },
+        {
+          "id": "85:22:divine-protection",
+          "title": "Eternal Protection",
+          "icon": "lock.shield.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Mahfuz' (preserved/protected) emphasizes active divine protection - Allah Himself guards this scripture from corruption or loss.",
+          "whyItMatters": "Unlike previous scriptures that were altered, the Quran remains pristine because Allah took direct responsibility for its preservation (15:9).",
+          "position": "topRight",
+          "arabicHighlight": "مَّحْفُوظٍۭ",
+          "title_urdu": "ابدی حفاظت",
+          "coreInsight_urdu": "'مَحْفُوظٍ' (محفوظ/محفوظ) فعال الہی حفاظت پر زور دیتا ہے - اللہ خود اس کتاب کو خرابی یا نقصان سے بچاتا ہے۔",
+          "whyItMatters_urdu": "پچھلی کتابوں کے برعکس جو تبدیل کی گئیں، قرآن بے عیب رہتا ہے کیونکہ اللہ نے اس کی حفاظت کی براہ راست ذمہ داری لی (15:9)۔",
+          "title_ar": "الحماية الأبدية",
+          "coreInsight_ar": "'محفوظ' تؤكد على الحماية الإلهية النشطة - الله نفسه يحرس هذا الكتاب من الفساد أو الضياع.",
+          "whyItMatters_ar": "على عكس الكتب السابقة التي تم تحريفها، يبقى القرآن نقياً لأن الله تولى مسؤولية حفظه المباشرة (15:9)."
+        },
+        {
+          "id": "85:22:heavenly-source",
+          "title": "Heavenly Origin",
+          "icon": "cloud.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The Quran's source is celestial, not earthly. It existed with Allah before being revealed, affirming its divine rather than human origin.",
+          "whyItMatters": "This refutes claims that the Quran is man-made. Its preserved heavenly source confirms it as authentic divine revelation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَوْحٍۢ",
+          "title_urdu": "آسمانی ماخذ",
+          "coreInsight_urdu": "قرآن کا ماخذ آسمانی ہے، زمینی نہیں۔ یہ نازل ہونے سے پہلے اللہ کے پاس موجود تھا، اس کے انسانی کی بجائے الہی ہونے کی تصدیق کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ ان دعووں کی تردید کرتا ہے کہ قرآن انسان کا بنایا ہوا ہے۔ اس کا محفوظ آسمانی ماخذ اسے مستند الہی وحی کی تصدیق کرتا ہے۔",
+          "title_ar": "الأصل السماوي",
+          "coreInsight_ar": "مصدر القرآن سماوي وليس أرضي. كان موجوداً مع الله قبل نزوله، مؤكداً أصله الإلهي وليس البشري.",
+          "whyItMatters_ar": "هذا يدحض الادعاءات بأن القرآن من صنع الإنسان. مصدره السماوي المحفوظ يؤكد أنه وحي إلهي أصيل."
+        },
+        {
+          "id": "85:22:complete-assurance",
+          "title": "Absolute Certainty",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse ends the surah with complete assurance: despite all opposition, the Quran is glorious and eternally preserved in the divine realm.",
+          "whyItMatters": "Believers can have absolute confidence in every word of the Quran, knowing it's protected by Allah Himself in its original, uncorrupted form.",
+          "position": "bottomRight",
+          "arabicHighlight": "فِى لَوْحٍۢ مَّحْفُوظٍۭ",
+          "title_urdu": "مکمل یقین",
+          "coreInsight_urdu": "یہ آیت سورہ کو مکمل یقین کے ساتھ ختم کرتی ہے: تمام مخالفت کے باوجود، قرآن شاندار اور الہی دائرے میں ابدی طور پر محفوظ ہے۔",
+          "whyItMatters_urdu": "مومن قرآن کے ہر لفظ پر مکمل اعتماد کر سکتے ہیں، یہ جانتے ہوئے کہ یہ اللہ کے ذریعہ خود اس کی اصلی، غیر خراب شدہ شکل میں محفوظ ہے۔",
+          "title_ar": "اليقين المطلق",
+          "coreInsight_ar": "تختم هذه الآية السورة بطمأنينة كاملة: رغم كل المعارضة، القرآن مجيد ومحفوظ إلى الأبد في العالم الإلهي.",
+          "whyItMatters_ar": "يمكن للمؤمنين أن يكون لديهم ثقة مطلقة في كل كلمة من القرآن، مع العلم أنها محفوظة بواسطة الله نفسه في شكلها الأصلي غير المحرف."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse: the Quran exists in a Preserved Tablet (Lawh Mahfuz) in the divine realm, guaranteeing its preservation and authenticity. Sunni scholars like Ibn Kathir and Imam al-Qurtubi explain the Lawh Mahfuz as the divine tablet where Allah's decrees and knowledge are recorded, including the Quran in its original form. Both traditions use this verse to affirm the Quran's complete preservation from corruption. The consensus extends to understanding that the Quran's existence in the Lawh Mahfuz represents its eternal divine origin, distinguishing it from human texts. However, there are differences in related theological discussions. Regarding the created or eternal nature of the Quran, the historical debates differed - Shia scholars generally hold that the Quran as divine speech shares in Allah's eternal attributes, while it manifests in created form as sounds and letters. Sunni theology had significant debates on this, with Athari scholars emphasizing the Quran's uncreatedness. Both traditions affirm the text's preservation, though they differ on who has authoritative access to its interpretation - Shia theology emphasizes the Ahlul Bayt's unique knowledge of the Quran's depths, while Sunni methodology relies on broader scholarly consensus. Practically, both traditions teach reverence for the Quran as existing in the Lawh Mahfuz, reflected in ritual purity requirements and respectful handling. Comparative study reveals that this verse serves as foundational common ground - across all Islamic schools, the Quran's preservation in the Lawh Mahfuz establishes its divine authenticity and protection, even as schools may differ in interpretive methodology and questions of authority.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں: قرآن الٰہی دائرے میں لوح محفوظ میں موجود ہے جو اس کی صداقت اور محفوظیت کی ضمانت ہے۔ سنی مفسرین جیسے ابن کثیر اور امام قرطبی نے لوح محفوظ کو اس الٰہی تختی کے طور پر بیان کیا ہے جہاں اللہ کے احکام اور علم درج ہیں، جو شیعہ تفسیر سے ہم آہنگ ہے۔ دونوں روایتیں اس آیت کو قرآن کی کسی بھی قسم کی تحریف سے مکمل محفوظیت کا ثبوت مانتی ہیں۔ یہ اتفاق رائے اس فہم تک بھی پھیلا ہوا ہے کہ قرآن کا لوح محفوظ میں وجود اس کے ابدی الٰہی مصدر کی علامت ہے جو اسے انسانی متون سے ممتاز کرتا ہے۔ تاہم متعلقہ عقیدہ جاتی مباحث میں کچھ فرق موجود ہے۔ قرآن کے مخلوق یا غیر مخلوق ہونے کے تاریخی مناظروں میں الگ الگ رجحانات رہے ہیں۔ شیعہ عقیدہ جاتی فریم ورک میں لوح محفوظ میں قرآن کی موجودگی اس کی ابدی الٰہی نوعیت کی تائید کرتی ہے۔ سنی علم الکلام میں خاص طور پر اثری مکتب فکر نے قرآن کے غیر مخلوق ہونے کو زیادہ زور دیا۔ تفسیر کے حوالے سے شیعہ عقیدہ اہل بیت علیہم السلام کی قرآن کی گہرائیوں تک منفرد رسائی پر زور دیتا ہے، جبکہ سنی منہج علمی اجماع پر تکیہ کرتا ہے۔ عملی طور پر دونوں روایتیں قرآن کی تعلیم دیتی ہیں کہ اسے طہارت سے پکڑا جائے اور عزت سے رکھا جائے جو اس کے لوح محفوظ میں ہونے کا اعتراف ہے۔ تقابلی مطالعہ ظاہر کرتا ہے کہ تفسیری منہج اور حجیت کے سوالات پر اختلاف کے باوجود قرآن کی الٰہی تصدیق اور محفوظیت کا بنیادی عقیدہ تمام اسلامی مکاتب فکر میں مشترک ہے اور یہ آیت اس مشترک زمین کی بنیادی دلیل ہے۔",
+    "layer4_ar": "أجمع علماء الشيعة والسنة على التفسير الجوهري لهذه الآية: أن القرآن موجود في لوح محفوظ في العالم الإلهي، وهو الضمانة الكبرى لأصالته وصون حفظه. فابن كثير والقرطبي من علماء السنة يُفسِّران اللوح المحفوظ بالجدول الإلهي الذي تُسجَّل فيه أقضية الله وعلمه بما فيه القرآن في صورته الأصلية. ويُوظِّف كلا التراثين هذه الآية لتأكيد سلامة حفظ القرآن الكامل من التحريف. والإجماع يمتد إلى أن وجود القرآن في اللوح المحفوظ يُشير إلى أصله الإلهي الأبدي المميَّز له عن سائر النصوص البشرية. غير أن ثمة فوارق في المسائل الكلامية المرتبطة؛ ففيما يخص مخلوقية القرآن أو أزليته كانت النقاشات التاريخية بين المدرستين متباينة؛ يرى علماء الشيعة في الغالب أن القرآن بوصفه كلام الله يُشارك في أوصاف الله الأزلية، وقد دار جدل واسع في علم الكلام السني حول هذه المسألة مع تأكيد الأثريين على عدم مخلوقية القرآن. ويُقرُّ كلا التراثين بحفظ النص وإن اختلفوا في السؤال عن صاحب السلطة التفسيرية الحجَّة؛ فالكلام الشيعي يُؤكِّد علم أهل البيت الخاص بأعماق القرآن، بينما تعتمد المنهجية السنية إجماع العلماء الأوسع. وعلى الصعيد العملي يُعلِّم كلا التراثين التعظيمَ للقرآن باعتباره موجوداً في اللوح المحفوظ، يتجلَّى ذلك في اشتراط الطهارة قبل لمسه والمعاملة المُجلِّة. والدراسة المقارنة تُثبت أن هذه الآية تُمثِّل أرضاً مشتركة جامعة؛ فعبر جميع مدارس الفكر الإسلامي، وجود القرآن في اللوح المحفوظ يُثبت أصالته الإلهية وحمايته، وإن تباينت المدارس في المنهج التفسيري وفي مسائل الصلاحية."
+  }
+}

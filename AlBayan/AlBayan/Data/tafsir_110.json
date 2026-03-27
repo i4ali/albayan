@@ -1,0 +1,189 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "110:1:divine-victory",
+          "title": "Divine Victory",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The victory (nasr) is attributed directly to Allah, emphasizing that true success comes from Him alone, not from human strength or strategy.",
+          "whyItMatters": "Recognizing Allah as the source of victory keeps believers humble in success and hopeful in struggle, knowing that outcomes rest with Him.",
+          "position": "topLeft",
+          "arabicHighlight": "نَصْرُ ٱللَّهِ",
+          "title_urdu": "الہی فتح",
+          "coreInsight_urdu": "فتح (نصر) کو براہ راست اللہ سے منسوب کیا گیا ہے، اس بات پر زور دیتے ہوئے کہ حقیقی کامیابی صرف اللہ کی طرف سے آتی ہے، نہ کہ انسانی طاقت یا حکمت عملی سے۔",
+          "whyItMatters_urdu": "اللہ کو فتح کے سرچشمے کے طور پر پہچاننا مومنین کو کامیابی میں عاجز اور جدوجہد میں امید مند رکھتا ہے، یہ جانتے ہوئے کہ نتائج اس کے ساتھ ہیں۔",
+          "title_ar": "النصر الإلهي",
+          "coreInsight_ar": "يُنسب النصر مباشرة إلى الله، مؤكدًا أن النجاح الحقيقي يأتي منه وحده، وليس من القوة أو الاستراتيجية البشرية.",
+          "whyItMatters_ar": "إن إدراك الله كمصدر للنصر يبقي المؤمنين متواضعين في النجاح ومتفائلين في الكفاح، عالمين أن النتائج بيده."
+        },
+        {
+          "id": "110:1:the-conquest",
+          "title": "The Conquest",
+          "icon": "flag.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Fath (the conquest) refers specifically to the peaceful conquest of Makkah, marking the culmination of the Prophet's mission and the triumph of Islam in Arabia.",
+          "whyItMatters": "This conquest wasn't achieved through violence but through divine support and the Prophet's patience, teaching us that lasting victories come through perseverance and moral integrity.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلْفَتْحُ",
+          "title_urdu": "فتح مکہ",
+          "coreInsight_urdu": "الفتح (فتح) خاص طور پر مکہ کی پرامن فتح کی طرف اشارہ کرتی ہے، جو نبی کی مشن کی تکمیل اور عرب میں اسلام کی فتح کا نشان ہے۔",
+          "whyItMatters_urdu": "یہ فتح تشدد کے ذریعے حاصل نہیں ہوئی بلکہ الہی مدد اور نبی کے صبر کے ذریعے، ہمیں سکھاتی ہے کہ پائیدار کامیابیاں استقامت اور اخلاقی سالمیت کے ذریعے آتی ہیں۔",
+          "title_ar": "الفتح",
+          "coreInsight_ar": "يشير الفتح تحديدًا إلى فتح مكة السلمي، مما يمثل ذروة رسالة النبي وانتصار الإسلام في شبه الجزيرة العربية.",
+          "whyItMatters_ar": "لم يتحقق هذا الفتح بالعنف بل بالدعم الإلهي وصبر النبي، مما يعلمنا أن الانتصارات الدائمة تأتي من خلال المثابرة والنزاهة الأخلاقية."
+        },
+        {
+          "id": "110:1:when-it-comes",
+          "title": "When It Comes",
+          "icon": "clock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Idha' (when) indicates certainty about a future event, not doubt. Allah promised victory, and this surah announces its arrival as an inevitable reality.",
+          "whyItMatters": "Allah's promises are absolute. Understanding this certainty strengthens our faith during trials, knowing that divine promises will manifest in their appointed time.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِذَا جَآءَ",
+          "title_urdu": "جب آئے",
+          "coreInsight_urdu": "'اذا' (جب) مستقبل کے واقعے کے بارے میں یقین کی نشاندہی کرتا ہے، شک نہیں۔ اللہ نے فتح کا وعدہ کیا، اور یہ سورت اس کی آمد کو ایک ناگزیر حقیقت کے طور پر اعلان کرتی ہے۔",
+          "whyItMatters_urdu": "اللہ کے وعدے مطلق ہیں۔ اس یقین کو سمجھنا آزمائشوں کے دوران ہماری ایمان کو مضبوط کرتا ہے، یہ جانتے ہوئے کہ الہی وعدے اپنے مقررہ وقت میں ظاہر ہوں گے۔",
+          "title_ar": "عندما يأتي",
+          "coreInsight_ar": "تشير 'إذا' (عندما) إلى اليقين بشأن حدث مستقبلي، وليس الشك. وعد الله بالنصر، وهذه السورة تعلن وصوله كحقيقة حتمية.",
+          "whyItMatters_ar": "وعود الله مطلقة. فهم هذا اليقين يقوي إيماننا خلال المحن، عالمين أن الوعود الإلهية ستتجلى في وقتها المحدد."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that Surah An-Nasr was among the last revelations and signaled the Prophet's approaching death. Ibn Abbas, whose interpretation is accepted in both traditions, stated that this surah informed the Prophet of his death. However, Shia scholarship places additional emphasis on the connection between this revelation and the event of Ghadir Khumm, where the Prophet appointed Imam Ali as his successor. While Sunni tafsir focuses primarily on the conquest of Mecca and the mass conversions that followed, Shia scholars see a dual meaning: the immediate historical victory and the establishment of divinely guided leadership through the Ahlul Bayt. Both traditions emphasize the importance of humility in victory; Al-Qurtubi and Fakhr al-Din al-Razi, major Sunni exegetes, stress that success should increase one's devotion to Allah. Tabari notes that after this revelation, the Prophet knew his earthly mission was complete. The difference lies in understanding what that mission entailed; Shia scholars argue it included establishing the Imamate as the continuation of prophetic guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ سورہ النصر آخری وحیوں میں سے تھی اور نبی کی آنے والی موت کا اشارہ تھی۔ ابن عباس، جن کی تفسیر دونوں روایات میں قبول کی جاتی ہے، نے کہا کہ اس سورت نے نبی کو ان کی موت کی اطلاع دی۔ تاہم، شیعہ علم اس وحی اور غدیر خم کے واقعے کے درمیان تعلق پر اضافی زور دیتا ہے، جہاں نبی نے امام علی کو اپنا جانشین مقرر کیا۔ جبکہ سنی تفسیر بنیادی طور پر فتح مکہ اور اس کے بعد آنے والی اجتماعی اسلام قبولی پر مرکوز ہے، شیعہ علماء دوہرا معنی دیکھتے ہیں: فوری تاریخی فتح اور اہل بیت کے ذریعے الٰہی رہنمائی والی قیادت کا قیام۔ دونوں روایات فتح میں عاجزی کی اہمیت پر زور دیتی ہیں؛ القرطبی اور فخر الدین الرازی، بڑے سنی مفسرین، اس بات پر زور دیتے ہیں کہ کامیابی کو اللہ کی عبادت میں اضافے کا باعث بننا چاہیے۔ طبری نوٹ کرتے ہیں کہ اس وحی کے بعد، نبی کو معلوم ہو گیا کہ ان کا زمینی مشن مکمل ہو گیا تھا۔ فرق یہ سمجھنے میں ہے کہ اس مشن میں کیا شامل تھا؛ شیعہ علماء کا استدلال ہے کہ اس میں امامت کا قیام بھی شامل تھا جو نبوی رہنمائی کا تسلسل ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن سورة النصر كانت من آخر ما نزل من الوحي وأعلنت اقتراب أجل النبي صلى الله عليه وآله وسلم. فقد صرَّح ابن عباس، الذي تُقبل روايته في كلا التراثين، بأن هذه السورة آذنت النبي بموته. غير أن الفقه الشيعي يُضفي أهمية استثنائية على الصلة بين هذا الوحي وحادثة غدير خم، حيث نصَّب النبي الإمام علياً خليفةً من بعده. وفي حين ينصبُّ اهتمام التفسير السني أساساً على فتح مكة والأعداد الغفيرة الذين دخلوا الإسلام في أعقابه، يرى علماء الشيعة في الآية معنىً مزدوجاً: الانتصار التاريخي الآني، وإرساء القيادة الربانية عبر أهل البيت. وكلا التراثين يُؤكِّد وجوب التواضع في النصر؛ فالقرطبي وفخر الدين الرازي، وهما من كبار المفسرين السنيين، يُلحَّان على أن النجاح ينبغي أن يزيد المرء إخلاصاً لله. ويُشير الطبري إلى أن النبي أيقن بعد هذا الوحي أن مهمته الدنيوية قد اكتملت. أما الاختلاف فيكمن في تحديد ماهية تلك المهمة؛ إذ يرى علماء الشيعة أنها شملت إقامة الإمامة امتداداً للهداية النبوية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "110:2:entering-religion",
+          "title": "Entering Religion",
+          "icon": "door.left.hand.open",
+          "colorHex": "#7BC47F",
+          "coreInsight": "People 'entering' (yadkhulun) the religion signifies a conscious choice and active commitment, not passive inheritance or forced conversion.",
+          "whyItMatters": "True faith requires personal decision and commitment. This verse reminds us that Islam spreads through conviction and example, not coercion.",
+          "position": "topLeft",
+          "arabicHighlight": "يَدْخُلُونَ فِى دِينِ ٱللَّهِ",
+          "title_urdu": "دین میں داخل ہونا",
+          "coreInsight_urdu": "لوگوں کا دین میں 'داخل ہونا' (یدخلون) ایک شعوری انتخاب اور فعال عزم کی نشاندہی کرتا ہے، نہ کہ غیر فعال وراثت یا جبری تبدیلی۔",
+          "whyItMatters_urdu": "حقیقی ایمان ذاتی فیصلے اور عزم کی ضرورت ہے۔ یہ آیت ہمیں یاد دلاتی ہے کہ اسلام یقین اور مثال کے ذریعے پھیلتا ہے، جبر کے ذریعے نہیں۔",
+          "title_ar": "الدخول في الدين",
+          "coreInsight_ar": "دخول الناس في الدين يدل على اختيار واعٍ والتزام نشط، وليس إرثًا سلبيًا أو تحولًا قسريًا.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب قرارًا شخصيًا والتزامًا. تذكرنا هذه الآية أن الإسلام ينتشر من خلال القناعة والقدوة، وليس الإكراه."
+        },
+        {
+          "id": "110:2:in-multitudes",
+          "title": "In Multitudes",
+          "icon": "person.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Afwajan' (in crowds/waves) describes mass conversions after Makkah's conquest, as entire tribes embraced Islam, witnessing its truth through the Prophet's character and Allah's support.",
+          "whyItMatters": "When truth is demonstrated with integrity and divine support, it attracts people naturally. This teaches leaders to focus on embodying values rather than forcing compliance.",
+          "position": "topRight",
+          "arabicHighlight": "أَفْوَاجًۭا",
+          "title_urdu": "جماعتوں میں",
+          "coreInsight_urdu": "'افواجا' (لہروں میں) مکہ کی فتح کے بعد بڑے پیمانے پر مذہب تبدیل کرنے کی وضاحت کرتا ہے، جیسے پوری قبیلے نے اسلام قبول کیا، نبی کے کردار اور اللہ کی مدد کے ذریعے اس کی سچائی کا مشاہدہ کرتے ہوئے۔",
+          "whyItMatters_urdu": "جب سچائی کو سالمیت اور الہی مدد کے ساتھ ظاہر کیا جاتا ہے، تو یہ قدرتی طور پر لوگوں کو اپنی طرف متوجہ کرتی ہے۔ یہ رہنماؤں کو سکھاتا ہے کہ وہ اقدار کو مجسم کرنے پر توجہ دیں نہ کہ تعمیل پر مجبور کرنے پر۔",
+          "title_ar": "أفواجًا",
+          "coreInsight_ar": "يصف 'أفواجًا' (في جماعات/موجات) التحولات الجماعية بعد فتح مكة، حيث اعتنقت قبائل بأكملها الإسلام، شاهدين حقيقته من خلال شخصية النبي ودعم الله.",
+          "whyItMatters_ar": "عندما يتم إظهار الحق بنزاهة ودعم إلهي، فإنه يجذب الناس بشكل طبيعي. يعلم هذا القادة التركيز على تجسيد القيم بدلاً من فرض الامتثال."
+        },
+        {
+          "id": "110:2:you-see",
+          "title": "You See",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Prophet witnessing this mass acceptance was itself a divine gift - seeing the fruits of decades of struggle, persecution, and patience before his mission's completion.",
+          "whyItMatters": "Sometimes Allah allows us to see the results of our efforts as encouragement. Other times, we plant seeds without witnessing the harvest, trusting in His wisdom.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَرَأَيْتَ ٱلنَّاسَ",
+          "title_urdu": "تم دیکھو",
+          "coreInsight_urdu": "نبی کا اس بڑے پیمانے پر قبولیت کا مشاہدہ کرنا خود ایک الہی تحفہ تھا - دہائیوں کی جدوجہد، ظلم اور صبر کے پھل دیکھنا اپنی مشن کی تکمیل سے پہلے۔",
+          "whyItMatters_urdu": "کبھی کبھار اللہ ہمیں حوصلہ افزائی کے طور پر اپنی کوششوں کے نتائج دیکھنے کی اجازت دیتا ہے۔ دوسری بار، ہم فصل کو دیکھے بغیر بیج بوتے ہیں، اس کی حکمت پر بھروسہ کرتے ہوئے۔",
+          "title_ar": "أنت ترى",
+          "coreInsight_ar": "مشاهدة النبي لهذا القبول الجماعي كانت هدية إلهية - رؤية ثمار عقود من النضال والاضطهاد والصبر قبل إكمال رسالته.",
+          "whyItMatters_ar": "أحيانًا يسمح لنا الله برؤية نتائج جهودنا كتشجيع. في أوقات أخرى، نزرع البذور دون رؤية الحصاد، واثقين في حكمته."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni sources agree that after the conquest of Mecca, delegations from across Arabia came to embrace Islam, a period known as 'Aam al-Wufud' (the Year of Delegations). Sunni historians like Ibn Kathir and Tabari document numerous tribes that accepted Islam in the months following the conquest. The difference in interpretation lies in understanding the long-term implications. Sunni scholarship generally views this mass conversion as an unqualified success and the fulfillment of the Prophet's mission. Shia scholars, while acknowledging the historical triumph, emphasize the subsequent challenges these new converts posed to the community's spiritual integrity. Imam Ali's struggles after becoming the fourth caliph, particularly opposition from groups who entered Islam late, are seen as validation of this concern. Both traditions agree that the Prophet's merciful treatment of Mecca's people was exemplary; he declared a general amnesty and forgave those who had persecuted him for years. Fakhr al-Din al-Razi and Al-Zamakhshari note that this demonstrated Islam's emphasis on forgiveness and reconciliation. However, Shia scholars point out that not all who entered Islam after the conquest remained faithful to the Prophet's teachings, particularly regarding his designated successors.",
+    "layer4_urdu": "شیعہ اور سنی دونوں ذرائع اس بات پر متفق ہیں کہ فتح مکہ کے بعد، پورے عرب سے وفود اسلام قبول کرنے آئے، اس عرصے کو 'عام الوفود' (وفود کا سال) کہا جاتا ہے۔ ابن کثیر اور طبری جیسے سنی مورخین متعدد قبیلوں کی دستاویز کرتے ہیں جنہوں نے فتح کے بعد کے مہینوں میں اسلام قبول کیا۔ تشریح میں فرق طویل مدتی مضمرات کو سمجھنے میں ہے۔ سنی علم عام طور پر اس اجتماعی اسلام قبولی کو بلا قید کامیابی اور نبی کے مشن کی تکمیل کے طور پر دیکھتا ہے۔ شیعہ علماء، تاریخی فتح کو تسلیم کرتے ہوئے، ان نئے مسلمانوں نے کمیونٹی کی روحانی سالمیت کو جو بعد کے چیلنجز پیش کیے ان پر زور دیتے ہیں۔ امام علی کی چوتھے خلیفہ بننے کے بعد جدوجہد، خاص طور پر ان گروہوں کی مخالفت جو دیر سے اسلام میں داخل ہوئے، اس تشویش کی تصدیق کے طور پر دیکھی جاتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ نبی کا مکہ کے لوگوں کے ساتھ رحمدلانہ سلوک مثالی تھا؛ آپ نے عام معافی کا اعلان کیا اور ان لوگوں کو معاف کر دیا جنہوں نے برسوں تک آپ پر ظلم کیا تھا۔ فخر الدین الرازی اور الزمخشری نوٹ کرتے ہیں کہ اس نے اسلام کی معافی اور مفاہمت پر زور کا مظاہرہ کیا۔ تاہم، شیعہ علماء اشارہ کرتے ہیں کہ فتح کے بعد اسلام میں داخل ہونے والے تمام لوگ نبی کی تعلیمات، خاص طور پر ان کے نامزد جانشینوں کے بارے میں، وفادار نہیں رہے۔",
+    "layer4_ar": "يتفق المصدران الشيعي والسني على أنه في أعقاب فتح مكة توافدت وفود من شتى أنحاء الجزيرة العربية للإعلان عن إسلامها في الحقبة المعروفة بـ\"عام الوفود\". ويوثِّق المؤرخون السنة كابن كثير والطبري أعداداً كبيرة من القبائل التي اعتنقت الإسلام في الأشهر التي أعقبت الفتح. غير أن الاختلاف في التفسير يتمحور حول فهم التداعيات البعيدة لذلك الحدث. فالدراسة السنية تنظر عموماً إلى هذا الاعتناق الجماعي باعتباره نجاحاً مطلقاً وإتماماً لرسالة النبي دون تحفظ. أما علماء الشيعة فمع إقرارهم بالانتصار التاريخي، يُبرزون التحديات اللاحقة التي أفرزها هؤلاء المنتسبون الجدد على النزاهة الروحية للأمة. وصراعات الإمام علي عليه السلام حين آلت إليه الخلافة، لا سيما معارضة الجماعات التي أسلمت في آخر عهد النبي، تُؤيِّد هذه التوقعات. ويتفق التراثان على أن معاملة النبي صلى الله عليه وآله وسلم لأهل مكة كانت المثل الأعلى في السماحة؛ إذ أعلن العفو العام وصفح عمن آذاه سنوات طويلة. ويُلاحظ القرطبي والزمخشري أن هذا أبرز تأكيد الإسلام على العفو والمصالحة. بيد أن علماء الشيعة يُشيرون إلى أن ليس كل من دخل الإسلام بعد الفتح ظل وفياً لتعاليم النبي صلى الله عليه وآله وسلم، لا سيما فيما يخص خلفاءه الذين عيَّنهم."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "110:3:glorify-with-praise",
+          "title": "Glorify with Praise",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Tasbih (glorification) combined with hamd (praise) - declaring Allah's perfection while thanking Him - is the proper response to success, keeping us grounded in humility.",
+          "whyItMatters": "Victory can lead to arrogance. By immediately directing us to glorify Allah, this verse teaches that success should increase our worship, not our ego.",
+          "position": "topLeft",
+          "arabicHighlight": "فَسَبِّحْ بِحَمْدِ رَبِّكَ",
+          "title_urdu": "تسبیح بحمد",
+          "coreInsight_urdu": "تسبیح (تعریف) حمد (شکر) کے ساتھ ملا کر - اللہ کی کمال کا اعلان کرتے ہوئے اس کا شکر ادا کرنا - کامیابی کے لیے مناسب جواب ہے، ہمیں عاجزی میں مستحکم رکھتا ہے۔",
+          "whyItMatters_urdu": "فتح غرور کا باعث بن سکتی ہے۔ فوری طور پر ہمیں اللہ کی تعریف کی طرف لے جا کر، یہ آیت سکھاتی ہے کہ کامیابی ہماری عبادت میں اضافہ کرنی چاہیے، نہ کہ ہمارے انا میں۔",
+          "title_ar": "سبح بحمد",
+          "coreInsight_ar": "التسبيح (التمجيد) مقترنًا بالحمد (الثناء) - إعلان كمال الله مع شكره - هو الاستجابة الصحيحة للنجاح، يبقينا متواضعين.",
+          "whyItMatters_ar": "يمكن أن يؤدي النصر إلى الغرور. بتوجيهنا فورًا إلى تمجيد الله، تعلمنا هذه الآية أن النجاح يجب أن يزيد عبادتنا، وليس غرورنا."
+        },
+        {
+          "id": "110:3:seek-forgiveness",
+          "title": "Seek Forgiveness",
+          "icon": "hand.raised.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Even in victory, seek istighfar (forgiveness) - acknowledging that perfection belongs to Allah alone and that even our best efforts contain shortcomings needing His mercy.",
+          "whyItMatters": "This command prevents spiritual complacency. No matter how much we achieve, we remain in constant need of Allah's forgiveness and should never see ourselves as self-sufficient.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱسْتَغْفِرْهُ",
+          "title_urdu": "مغفرت طلب کرو",
+          "coreInsight_urdu": "فتح میں بھی استغفار (معافی) طلب کرو - تسلیم کرتے ہوئے کہ کمال صرف اللہ کا ہے اور یہ کہ ہماری بہترین کوششوں میں بھی کمیاں ہیں جن کو اس کی رحمت کی ضرورت ہے۔",
+          "whyItMatters_urdu": "یہ حکم روحانی اطمینان کو روکتا ہے۔ چاہے ہم کتنا ہی حاصل کر لیں، ہمیں اللہ کی معافی کی مسلسل ضرورت رہتی ہے اور ہمیں کبھی اپنے آپ کو خودکفیل نہیں دیکھنا چاہیے۔",
+          "title_ar": "استغفر",
+          "coreInsight_ar": "حتى في النصر، اطلب الاستغفار - مقرًا بأن الكمال لله وحده وأن أفضل جهودنا تحتوي على نواقص تحتاج رحمته.",
+          "whyItMatters_ar": "يمنع هذا الأمر الرضا الروحي. مهما حققنا، نبقى في حاجة مستمرة لمغفرة الله ولا يجب أن نرى أنفسنا مكتفين ذاتيًا."
+        },
+        {
+          "id": "110:3:ever-accepting",
+          "title": "Ever-Accepting",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is 'Tawwab' - continuously accepting repentance, not just once but repeatedly. This divine attribute offers infinite opportunities for renewal and spiritual growth.",
+          "whyItMatters": "No matter how many times we fall short, Allah's door of repentance remains open. This prevents despair and encourages continuous self-improvement throughout life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَانَ تَوَّابًۢا",
+          "title_urdu": "توبہ قبول کرنے والا",
+          "coreInsight_urdu": "اللہ 'توّاب' ہے - مسلسل توبہ قبول کرنے والا، صرف ایک بار نہیں بلکہ بار بار۔ یہ الہی صفت تجدید اور روحانی ترقی کے لامتناہی مواقع فراہم کرتی ہے۔",
+          "whyItMatters_urdu": "چاہے ہم کتنی بار بھی کمی کا شکار ہوں، اللہ کی توبہ کا دروازہ کھلا رہتا ہے۔ یہ مایوسی کو روکتا ہے اور زندگی بھر مسلسل خود بہتری کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "التواب",
+          "coreInsight_ar": "الله 'التواب' - يقبل التوبة باستمرار، ليس مرة واحدة فقط بل مرارًا وتكرارًا. هذه الصفة الإلهية تقدم فرصًا لا حصر لها للتجديد والنمو الروحي.",
+          "whyItMatters_ar": "مهما قصرنا، يبقى باب توبة الله مفتوحًا. يمنع هذا اليأس ويشجع على التحسين الذاتي المستمر طوال الحياة."
+        },
+        {
+          "id": "110:3:your-lord",
+          "title": "Your Lord",
+          "icon": "crown.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The use of 'Rabbik' (your Lord) emphasizes the personal relationship between the Prophet and Allah - a Lord who nurtures, guides, and sustains His servant through all phases.",
+          "whyItMatters": "Allah is not a distant deity but a nurturing Lord intimately involved in our lives. This personal connection should inform how we worship and turn to Him.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَبِّكَ",
+          "title_urdu": "تمہارا رب",
+          "coreInsight_urdu": "'ربک' (تمہارا رب) کا استعمال نبی اور اللہ کے درمیان ذاتی تعلق پر زور دیتا ہے - ایک رب جو تمام مراحل میں اپنے بندے کی پرورش، رہنمائی اور کفالت کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ دور کا خدا نہیں ہے بلکہ ایک پرورش کرنے والا رب ہے جو ہماری زندگیوں میں قریب سے شامل ہے۔ یہ ذاتی تعلق اس بات کی رہنمائی کرنا چاہیے کہ ہم کیسے عبادت کرتے ہیں اور اس کی طرف رجوع کرتے ہیں۔",
+          "title_ar": "ربك",
+          "coreInsight_ar": "استخدام 'ربك' يؤكد العلاقة الشخصية بين النبي والله - رب يرعى ويرشد ويعول عبده في جميع المراحل.",
+          "whyItMatters_ar": "الله ليس إلهًا بعيدًا بل رب راعٍ متورط بشكل وثيق في حياتنا. يجب أن توجه هذه العلاقة الشخصية كيف نعبد ونتوجه إليه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse established the practice of glorification and seeking forgiveness, especially after completing important tasks. Sunni exegetes like Ibn Kathir report that after this surah's revelation, the Prophet increased his remembrance and often said 'Subhanallah wa bihamdihi, astaghfirullah wa atubu ilayh.' Al-Qurtubi emphasizes that if the sinless Prophet was commanded to seek forgiveness, how much more should sinful believers engage in repentance. Fakhr al-Din al-Razi notes the wisdom in commanding glorification and forgiveness together, as tasbih acknowledges Allah's perfection while istighfar acknowledges human imperfection. The main scholarly consensus is that this verse taught humility in success. However, interpretations differ on why the Prophet was commanded to seek forgiveness. Sunni scholars generally explain it as asking forgiveness for his ummah or seeking protection from shortcomings in thankfulness. Shia scholars add that it represented the Prophet's recognition that even the highest human achievement falls short of Allah's deserved worship. Both traditions emphasize the description 'tawwab,' teaching that Allah's mercy encompasses all who sincerely repent. This verse established the practice of concluding religious gatherings with istighfar, recognizing that even our worship may contain imperfections requiring Allah's forgiveness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ اس آیت نے تسبیح اور مغفرت طلب کرنے کا رواج قائم کیا، خاص طور پر اہم کام مکمل کرنے کے بعد۔ ابن کثیر جیسے سنی مفسرین روایت کرتے ہیں کہ اس سورت کی وحی کے بعد، نبی نے اپنے ذکر میں اضافہ کیا اور اکثر 'سبحان اللہ وبحمدہ، استغفراللہ واتوب الیہ' کہتے تھے۔ القرطبی اس بات پر زور دیتے ہیں کہ اگر معصوم نبی کو مغفرت طلب کرنے کا حکم دیا گیا تو گنہگار مومنین کو کتنا زیادہ توبہ میں مشغول ہونا چاہیے۔ فخر الدین الرازی تسبیح اور مغفرت کو ایک ساتھ حکم دینے میں حکمت کو نوٹ کرتے ہیں، کیونکہ تسبیح اللہ کی کمال کو تسلیم کرتی ہے جبکہ استغفار انسانی نقائص کو تسلیم کرتی ہے۔ بنیادی علمی اتفاق رائے یہ ہے کہ اس آیت نے کامیابی میں عاجزی سکھائی۔ تاہم، تشریحات مختلف ہیں کہ نبی کو مغفرت طلب کرنے کا حکم کیوں دیا گیا۔ سنی علماء عام طور پر اسے اپنی امت کے لیے مغفرت مانگنے یا شکرگزاری میں کمیوں سے حفاظت طلب کرنے کے طور پر وضاحت کرتے ہیں۔ شیعہ علماء یہ اضافہ کرتے ہیں کہ یہ نبی کی اس پہچان کی نمائندگی کرتی تھی کہ اعلیٰ ترین انسانی کامیابی بھی اللہ کی مستحق عبادت سے کم ہے۔ دونوں روایات 'تواب' کی وصف پر زور دیتی ہیں، یہ سکھاتے ہوئے کہ اللہ کی رحمت ان تمام کو شامل کرتی ہے جو مخلصانہ توبہ کرتے ہیں۔ اس آیت نے مذہبی اجتماعات کو استغفار کے ساتھ ختم کرنے کا رواج قائم کیا، یہ تسلیم کرتے ہوئے کہ ہماری عبادت میں بھی نقائص ہو سکتے ہیں جن کے لیے اللہ کی مغفرت کی ضرورت ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية أسَّست ممارسة التسبيح وطلب المغفرة وأكَّدت الحاجة إليهما بعد إتمام الأعمال الجليلة. فيروي ابن كثير والمفسرون السنة أن النبي صلى الله عليه وآله وسلم بعد نزول هذه السورة أكثر من قول \"سبحان الله وبحمده، أستغفر الله وأتوب إليه\". ويُؤكِّد القرطبي أنه إذا كان النبي المعصوم قد أُمر بطلب المغفرة، فحريٌّ بالمؤمنين الخطَّائين أن يُكثروا من التوبة والاستغفار. ويُلاحظ فخر الدين الرازي الحكمة في الجمع بين الأمرين: التسبيح يُقرُّ بكمال الله، والاستغفار يُقرُّ بنقص الإنسان، وفي ذلك توازن بالغ الدقة. وثمة إجماع علمي واسع على أن هذه الآية تُعلِّم التواضع في النجاح. غير أن التفسيرات تختلف في تأويل سبب الأمر بالاستغفار للنبي؛ فيُفسِّره العلماء السنة عموماً على أنه استغفار بالنيابة عن أمته أو استدفاع لأي قصور في تأدية شكر النعمة، بينما يُضيف علماء الشيعة أنه كان إقراراً من النبي بأن أعلى ما يُعبِّر عنه الإنسان من عبادة لا يفي الله حقه المستحق. ويتفق التراثان على دلالة وصف الله بـ\"التوَّاب\"، مؤكِّداً أن رحمة الله تعالى تسع جميع التائبين توبة صادقة. وقد أسَّست هذه الآية سنة ختم المجالس الدينية بالاستغفار، إقراراً بأن عبادتنا ذاتها قد تنطوي على نقص يستدعي الاستغفار وصفح الله الكريم."
+  }
+}

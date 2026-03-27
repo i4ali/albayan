@@ -1,0 +1,262 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "106:1:ilaf-quraysh",
+          "title": "Ilaf of Quraysh",
+          "icon": "shield.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The 'ilaf' (accustomed security) refers to the unique privilege granted to Quraysh - safe passage for trade caravans despite Arabia's tribal warfare, a divine blessing facilitating their prosperity.",
+          "whyItMatters": "This verse reminds us that security and prosperity are divine gifts, not merely human achievements. Recognizing this should lead to gratitude and worship of the Provider.",
+          "position": "topLeft",
+          "arabicHighlight": "لِإِيلَٰفِ قُرَيْشٍ",
+          "title_urdu": "ایلافِ قریش",
+          "coreInsight_urdu": "'ایلاف' (عادی سلامتی) سے مراد قریش کو دیا گیا منفرد استحقاق ہے - عرب کی قبائلی جنگوں کے باوجود تجارتی قافلوں کے لیے محفوظ راستہ، ایک الہی نعمت جو ان کی خوشحالی کو آسان بناتی ہے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں یاد دلاتی ہے کہ سلامتی اور خوشحالی الہی تحائف ہیں، نہ کہ محض انسانی کامیابیاں۔ اس کو تسلیم کرنے سے شکر گزاری اور رزق دینے والے کی عبادت کرنی چاہیے۔",
+          "title_ar": "إيلاف قريش",
+          "coreInsight_ar": "يشير 'الإيلاف' (الأمن المعتاد) إلى الامتياز الفريد الممنوح لقريش - المرور الآمن لقوافل التجارة رغم الحرب القبلية في الجزيرة العربية، نعمة إلهية تيسر ازدهارهم.",
+          "whyItMatters_ar": "تذكرنا هذه الآية بأن الأمن والازدهار هدايا إلهية، وليست مجرد إنجازات بشرية. إدراك هذا يجب أن يؤدي إلى الامتنان وعبادة الرازق."
+        },
+        {
+          "id": "106:1:quraysh-tribe",
+          "title": "The Quraysh",
+          "icon": "person.3.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Quraysh were the custodians of the Kaaba and the Prophet's own tribe. Despite their honored position, they initially rejected Islam, showing that privilege doesn't guarantee guidance.",
+          "whyItMatters": "Lineage and status don't ensure righteousness. True honor comes from submitting to Allah, not from tribal prestige or worldly position.",
+          "position": "topRight",
+          "arabicHighlight": "قُرَيْشٍ",
+          "title_urdu": "قریش قبیلہ",
+          "coreInsight_urdu": "قریش کعبہ کے نگران اور نبی کی اپنی قبیلہ تھے۔ اپنی معزز پوزیشن کے باوجود، انہوں نے ابتدا میں اسلام کو مسترد کر دیا، یہ ظاہر کرتے ہوئے کہ استحقاق ہدایت کی ضمانت نہیں دیتا۔",
+          "whyItMatters_urdu": "نسب اور مقام راستبازی کو یقینی نہیں بناتے۔ حقیقی عزت اللہ کے سامنے سر جھکانے سے آتی ہے، نہ کہ قبائلی وقار یا دنیاوی پوزیشن سے۔",
+          "title_ar": "قبيلة قريش",
+          "coreInsight_ar": "كانت قريش حراس الكعبة وقبيلة النبي نفسه. رغم موقعهم المكرم، رفضوا الإسلام في البداية، مما يظهر أن الامتياز لا يضمن الهداية.",
+          "whyItMatters_ar": "النسب والمكانة لا يضمنان الصلاح. الشرف الحقيقي يأتي من الخضوع لله، وليس من الهيبة القبلية أو المكانة الدنيوية."
+        },
+        {
+          "id": "106:1:divine-purpose",
+          "title": "Divine Purpose",
+          "icon": "arrow.forward.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The 'lam' (for/in order to) indicates divine purpose - Allah granted this security specifically so they would recognize His favor and worship Him as the Lord of the House.",
+          "whyItMatters": "Every blessing has a purpose beyond material enjoyment - it should direct us toward gratitude and worship. Blessings are tests of whether we'll acknowledge the Giver.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لِإِيلَٰفِ",
+          "title_urdu": "الہی مقصد",
+          "coreInsight_urdu": "'لام' (کے لیے/تاکہ) الہی مقصد کی نشاندہی کرتا ہے - اللہ نے یہ سلامتی خاص طور پر اس لیے دی تاکہ وہ اس کے احسان کو پہچانیں اور اس کی عبادت کریں جیسا کہ اس گھر کا رب۔",
+          "whyItMatters_urdu": "ہر نعمت کا ایک مقصد ہے مادی لطف اندوزی سے آگے - اسے ہمیں شکر گزاری اور عبادت کی طرف رہنمائی کرنی چاہیے۔ نعمتیں اس بات کی آزمائش ہیں کہ آیا ہم دینے والے کو تسلیم کریں گے۔",
+          "title_ar": "الغرض الإلهي",
+          "coreInsight_ar": "تشير 'اللام' (لـ/من أجل) إلى الغرض الإلهي - منح الله هذا الأمن خصيصًا ليعترفوا بفضله ويعبدوه كرب البيت.",
+          "whyItMatters_ar": "كل نعمة لها غرض يتجاوز التمتع المادي - يجب أن توجهنا نحو الامتنان والعبادة. النعم اختبارات لما إذا كنا سنعترف بالمانح."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia exegetes largely agree on the basic interpretation of this verse, though they differ on emphases. Ibn Kathir and al-Tabari, major Sunni commentators, focus on the historical and linguistic aspects, explaining ilaf as both the Quraysh's mutual agreement for protection and their habitual trade patterns. They emphasize Allah's favor to the Quraysh as a whole tribe. Shia scholars like Tabatabai and Tabrisi, while acknowledging the general blessing to Quraysh, often highlight how this favor was ultimately for the sake of the Prophet Muhammad and the Ahlul Bayt who would emerge from this tribe. Al-Qurtubi's legal-oriented tafsir discusses whether this verse imposes obligations on the Quraysh specifically or all believers generally, concluding it addresses Quraysh directly but contains universal lessons. Both traditions agree the verse demonstrates Allah's strategic preparation of circumstances before major revelations. A point of consensus is that gratitude for blessings requires worship and obedience. Some Sunni scholars emphasize the Quraysh's complete tribal structure, while Shia scholars tend to narrow focus to the Banu Hashim clan from whom the Prophet descended, seeing them as the ultimate recipients and purpose of this divine favor.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس آیت کی بنیادی تشریح پر بڑی حد تک متفق ہیں، حالانکہ وہ زور میں مختلف ہیں۔ ابن کثیر اور طبری، بڑے سنی مفسرین، تاریخی اور لسانی پہلوؤں پر توجہ مرکوز کرتے ہیں، ایلاف کو قریش کے تحفظ کے باہمی معاہدے اور ان کے عادی تجارتی طریقوں دونوں کے طور پر بیان کرتے ہیں۔ وہ پورے قبیلہ قریش پر اللہ کے احسان پر زور دیتے ہیں۔ شیعہ علماء جیسے طباطبائی اور طبرسی، عمومی نعمت کو تسلیم کرتے ہوئے، اکثر اس بات کو نمایاں کرتے ہیں کہ یہ احسان بالآخر نبی محمد صلی اللہ علیہ وآلہ وسلم اور اہل بیت کی خاطر تھا جو اس قبیلے سے ابھرنے والے تھے۔ قرطبی کی قانونی نوعیت کی تفسیر بحث کرتی ہے کہ کیا یہ آیت خاص طور پر قریش پر یا عام طور پر تمام مومنین پر فرائض عائد کرتی ہے، یہ نتیجہ نکالتے ہوئے کہ یہ براہ راست قریش سے خطاب کرتی ہے لیکن عالمگیر سبق رکھتی ہے۔ دونوں روایتیں اس بات پر متفق ہیں کہ یہ آیت بڑی وحیوں سے پہلے اللہ کی حکمت عملی کے ساتھ حالات کی تیاری کو ظاہر کرتی ہے۔ اتفاق رائے کا ایک نقطہ یہ ہے کہ نعمتوں کا شکر عبادت اور فرمانبرداری کا تقاضا کرتا ہے۔ کچھ سنی علماء قریش کی مکمل قبائلی ساخت پر زور دیتے ہیں، جبکہ شیعہ علماء بنو ہاشم قبیلے پر توجہ مرکوز کرتے ہیں جس سے نبی کا ظہور ہوا، انہیں اس الہی احسان کے حتمی وصول کنندگان اور مقصد کے طور پر دیکھتے ہوئے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة في جوهر تفسير هذه الآية وإن تباينت عنايتهم في بعض التفاصيل. فابن كثير والطبري، وهما من كبار المفسرين السنة، يُركِّزان على الجانبين التاريخي واللغوي، مُفسِّرَين الإيلاف بأنه اتفاقات الحماية المتبادلة لقريش وعاداتها التجارية الراسخة، ويُبرزان نعمة الله على القبيلة جمعاء. أما العلماء الشيعة كالطباطبائي والطبرسي فإنهم مع إقرارهم بالنعمة العامة على قريش يُسلِّطون الضوء في الغالب على كون هذه النعمة كانت في المحصلة من أجل النبي محمد صلى الله عليه وآله وسلم وأهل بيته الذين سيخرجون من هذه القبيلة. ويناقش القرطبي في تفسيره الفقهي ما إذا كانت الآية تُوجب واجبات خاصة بقريش أو تعني جميع المؤمنين عموماً، خالصاً إلى أنها تخاطب قريشاً مباشرةً مع انطوائها على دروس كونية. ويتفق التراثان على أن الآية تُثبت تهيئة الله للظروف التاريخية قبل الوحي الكبير، وأن الشكر على النعم يقتضي العبادة والطاعة. ويميل بعض علماء السنة إلى التأكيد على البنية القبلية الكاملة لقريش، فيما يتجه علماء الشيعة نحو التركيز على بني هاشم باعتبارهم أصل النبي والغرض الأسمى من هذه النعمة الإلهية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "106:2:winter-summer",
+          "title": "Winter and Summer",
+          "icon": "sun.snow.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The biannual trade journeys - winter to Yemen and summer to Syria - represent the economic foundation of Quraysh power, made possible only through Allah's protection in lawless Arabia.",
+          "whyItMatters": "Our livelihood and economic activities depend on divine providence. The natural order, seasonal patterns, and social stability are all manifestations of Allah's sustaining power.",
+          "position": "topLeft",
+          "arabicHighlight": "رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+          "title_urdu": "سردی اور گرمی کا سفر",
+          "coreInsight_urdu": "سال میں دو بار تجارتی سفر - سردیوں میں یمن اور گرمیوں میں شام - قریش کی طاقت کی اقتصادی بنیاد کی نمائندگی کرتے ہیں، جو صرف قانون سے بے بہرہ عرب میں اللہ کی حفاظت کے ذریعے ممکن ہوا۔",
+          "whyItMatters_urdu": "ہماری روزی اور معاشی سرگرمیاں الہی فراہمی پر منحصر ہیں۔ قدرتی نظام، موسمی نمونے، اور سماجی استحکام سب اللہ کی برقرار رکھنے والی طاقت کی ظاہریں ہیں۔",
+          "title_ar": "رحلة الشتاء والصيف",
+          "coreInsight_ar": "تمثل الرحلات التجارية نصف السنوية - الشتاء إلى اليمن والصيف إلى الشام - الأساس الاقتصادي لقوة قريش، والذي أصبح ممكنًا فقط من خلال حماية الله في جزيرة العرب بلا قانون.",
+          "whyItMatters_ar": "تعتمد سبل عيشنا وأنشطتنا الاقتصادية على العناية الإلهية. النظام الطبيعي والأنماط الموسمية والاستقرار الاجتماعي كلها مظاهر لقوة الله المستدامة."
+        },
+        {
+          "id": "106:2:their-journeys",
+          "title": "Their Journeys",
+          "icon": "road.lanes",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The repeated emphasis on 'their journeys' highlights that this wasn't a one-time miracle but a sustained pattern of divine protection spanning generations, year after year.",
+          "whyItMatters": "Allah's blessings aren't always dramatic interventions - often they manifest as sustained, quiet mercies we might take for granted. Regular blessings deserve constant gratitude.",
+          "position": "topRight",
+          "arabicHighlight": "إِۦلَٰفِهِمْ رِحْلَةَ",
+          "title_urdu": "ان کے سفر",
+          "coreInsight_urdu": "'ان کے سفر' پر بار بار زور اس بات کو اجاگر کرتا ہے کہ یہ ایک بار کا معجزہ نہیں تھا بلکہ نسلوں تک، سال بہ سال الہی حفاظت کا ایک مسلسل نمونہ تھا۔",
+          "whyItMatters_urdu": "اللہ کی نعمتیں ہمیشہ ڈرامائی مداخلتیں نہیں ہوتیں - اکثر وہ مسلسل، خاموش رحمتوں کے طور پر ظاہر ہوتی ہیں جن کو ہم معمولی سمجھ سکتے ہیں۔ باقاعدہ نعمتیں مسلسل شکر گزاری کی مستحق ہیں۔",
+          "title_ar": "رحلاتهم",
+          "coreInsight_ar": "يبرز التأكيد المتكرر على 'رحلاتهم' أن هذه لم تكن معجزة لمرة واحدة بل نمطًا مستدامًا من الحماية الإلهية عبر الأجيال، عامًا بعد عام.",
+          "whyItMatters_ar": "نعم الله ليست دائمًا تدخلات دراماتيكية - غالبًا ما تتجلى كرحمات مستدامة وهادئة قد نعتبرها أمرًا مفروغًا منه. النعم المنتظمة تستحق الامتنان المستمر."
+        },
+        {
+          "id": "106:2:seasonal-cycle",
+          "title": "Seasonal Cycle",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The seasonal rhythm of trade journeys reflects the natural order Allah established - winter's cooler routes south, summer's escape to northern highlands, showing divine wisdom in creation.",
+          "whyItMatters": "Working in harmony with natural patterns, rather than fighting them, reflects submission to Allah's wisdom. The seasons themselves are signs pointing to the Creator.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلشِّتَآءِ وَٱلصَّيْفِ",
+          "title_urdu": "موسمی چکر",
+          "coreInsight_urdu": "تجارتی سفروں کی موسمی تال قدرتی نظام کی عکاسی کرتی ہے جو اللہ نے قائم کیا - سردیوں کے ٹھنڈے راستے جنوب کی طرف، گرمیوں میں شمالی پہاڑیوں کی طرف فرار، تخلیق میں الہی حکمت کو ظاہر کرتے ہیں۔",
+          "whyItMatters_urdu": "قدرتی نمونوں کے ساتھ ہم آہنگی میں کام کرنا، ان سے لڑنے کی بجائے، اللہ کی حکمت کے سامنے سر تسلیم خم کرنے کی عکاسی کرتا ہے۔ موسم خود نشانیاں ہیں جو خالق کی طرف اشارہ کرتے ہیں۔",
+          "title_ar": "الدورة الموسمية",
+          "coreInsight_ar": "يعكس الإيقاع الموسمي للرحلات التجارية النظام الطبيعي الذي أقامه الله - طرق الشتاء الأكثر برودة جنوبًا، هروب الصيف إلى المرتفعات الشمالية، مما يظهر الحكمة الإلهية في الخلق.",
+          "whyItMatters_ar": "العمل في انسجام مع الأنماط الطبيعية، بدلاً من محاربتها، يعكس الخضوع لحكمة الله. المواسم نفسها علامات تشير إلى الخالق."
+        }
+      ]
+    },
+    "layer4": "There is substantial agreement between Sunni and Shia scholars on the historical facts of this verse - both traditions acknowledge the winter journeys to Yemen and summer journeys to Syria, typically to markets in Gaza, Damascus, and Bosra. Al-Tabari and Ibn Kathir provide extensive historical details about the routes, the goods traded - leather, raisins, and silver from Yemen and grain, oil, and textiles from Syria - and the commercial contracts Hashim negotiated. Shia sources emphasize Hashim's role more prominently as the Prophet's direct ancestor, while Sunni sources mention him among several Quraysh leaders who developed trade. Al-Qurtubi discusses legal implications regarding trade ethics and fulfilling contracts, principles both traditions uphold. A minor difference appears in some Shia interpretations suggesting the two journeys symbolically represent the Quraysh's ultimate spiritual choice - accepting Muhammad's message or rejecting it - while Sunni tafsirs typically maintain a more literal historical focus. Both traditions agree these journeys were divinely facilitated miracles of protection. Consensus exists that the verse teaches gratitude for provision and the legitimacy of commerce in Islam. Modern scholars from both traditions increasingly emphasize the verse's economic ethics - fair trade, honoring agreements, and recognizing that business success requires divine blessing, not just human effort.",
+    "layer4_urdu": "اس آیت کی تاریخی حقائق پر سنی اور شیعہ علماء میں کافی اتفاق ہے - دونوں روایتیں یمن کے سردیوں کے سفروں اور شام کے گرمیوں کے سفروں کو تسلیم کرتی ہیں، عام طور پر غزہ، دمشق، اور بصریٰ کی منڈیوں تک۔ طبری اور ابن کثیر راستوں، تجارت کیے جانے والے سامان - یمن سے چمڑا، کشمش، اور چاندی اور شام سے اناج، تیل، اور کپڑے - اور ہاشم کے تجارتی معاہدوں کے بارے میں وسیع تاریخی تفصیلات فراہم کرتے ہیں۔ شیعہ ذرائع ہاشم کے کردار پر زیادہ نمایاں طور پر زور دیتے ہیں کیونکہ وہ نبی کے براہ راست جد تھے، جبکہ سنی ذرائع انہیں کئی قریشی رہنماؤں میں ذکر کرتے ہیں جنہوں نے تجارت کو ترقی دی۔ قرطبی تجارتی اخلاقیات اور معاہدوں کو پورا کرنے سے متعلق قانونی مضمرات پر بحث کرتے ہیں، جن اصولوں کو دونوں روایتیں برقرار رکھتی ہیں۔ کچھ شیعہ تشریحات میں ایک معمولی فرق ظاہر ہوتا ہے جو تجویز کرتی ہیں کہ دو سفر علامتی طور پر قریش کے حتمی روحانی انتخاب کی نمائندگی کرتے ہیں - محمد کے پیغام کو قبول کرنا یا مسترد کرنا - جبکہ سنی تفاسیر عام طور پر زیادہ لفظی تاریخی توجہ برقرار رکھتی ہیں۔ دونوں روایتیں اس بات پر متفق ہیں کہ یہ سفر الہی طور پر آسان بنائے گئے تحفظ کے معجزات تھے۔ اتفاق رائے موجود ہے کہ یہ آیت رزق کے لیے شکرگزاری اور اسلام میں تجارت کی جواز سکھاتی ہے۔ دونوں روایتوں کے جدید علماء تیزی سے آیت کی معاشی اخلاقیات پر زور دیتے ہیں - منصفانہ تجارت، معاہدوں کا احترام، اور اس بات کو تسلیم کرنا کہ کاروباری کامیابی صرف انسانی کوشش نہیں بلکہ الہی برکت کا تقاضا کرتی ہے۔",
+    "layer4_ar": "ثمة توافق واسع بين علماء السنة والشيعة حول الحقائق التاريخية في هذه الآية؛ كلا التراثين يُقرَّان برحلة الشتاء إلى اليمن ورحلة الصيف إلى الشام، عادةً إلى أسواق غزة ودمشق وبصرى. ويُقدِّم الطبري وابن كثير تفاصيل تاريخية موسَّعة عن الطرق والبضائع المتداولة كالجلود والزبيب والفضة من اليمن والحبوب والزيت والمنسوجات من الشام، وعن العقود التجارية التي أبرمها هاشم. ويُبرز المصادر الشيعية دور هاشم بوضوح أكبر بوصفه جد النبي المباشر، في حين تذكره المصادر السنية ضمن نخبة من زعماء قريش الذين أرسوا تقاليد التجارة. ويناقش القرطبي الاستدلالات الفقهية المتعلقة بأخلاقيات التجارة والوفاء بالعقود، وهي مبادئ يتفق عليها التراثان. ويظهر خلاف بسيط في بعض التفسيرات الشيعية إذ تُرى الرحلتان رمزاً للخيار الروحي الأخير لقريش بين قبول رسالة محمد ورفضها، بينما تحتفظ تفاسير السنة في الغالب بتركيزها التاريخي الحرفي. ويتفق التراثان على أن هذه الرحلات كانت تُيسِّرها معجزات إلهية من الحماية، وأن الآية تُعلِّم الشكر على الرزق ومشروعية التجارة في الإسلام."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "106:3:worship-command",
+          "title": "Let Them Worship",
+          "icon": "hands.clap.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The command 'falyabudu' (so let them worship) presents worship as the logical, obligatory response to the blessings described. Security and provision demand grateful worship in return.",
+          "whyItMatters": "Worship isn't arbitrary - it's the natural human response to recognizing divine favor. Those who enjoy Allah's gifts yet refuse worship live in profound ingratitude and contradiction.",
+          "position": "topLeft",
+          "arabicHighlight": "فَلْيَعْبُدُوا۟",
+          "title_urdu": "عبادت کا حکم",
+          "coreInsight_urdu": "حکم 'فلیعبدوا' (تو انہیں عبادت کرنی چاہیے) عبادت کو بیان کردہ نعمتوں کے لیے منطقی، لازمی جواب کے طور پر پیش کرتا ہے۔ سلامتی اور رزق بدلے میں شکر گزار عبادت کا مطالبہ کرتے ہیں۔",
+          "whyItMatters_urdu": "عبادت من مانی نہیں ہے - یہ الہی احسان کو پہچاننے کے لیے قدرتی انسانی ردعمل ہے۔ جو لوگ اللہ کے تحائف سے لطف اندوز ہوتے ہیں پھر بھی عبادت سے انکار کرتے ہیں وہ گہری ناشکری اور تضاد میں رہتے ہیں۔",
+          "title_ar": "أمر العبادة",
+          "coreInsight_ar": "يقدم الأمر 'فليعبدوا' (فليعبدوا) العبادة كاستجابة منطقية وإلزامية للنعم الموصوفة. الأمن والرزق يطالبان بعبادة شاكرة في المقابل.",
+          "whyItMatters_ar": "العبادة ليست تعسفية - إنها الاستجابة البشرية الطبيعية للاعتراف بالنعمة الإلهية. أولئك الذين يتمتعون بهدايا الله ومع ذلك يرفضون العبادة يعيشون في جحود عميق وتناقض."
+        },
+        {
+          "id": "106:3:lord-of-house",
+          "title": "Lord of This House",
+          "icon": "house.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Rabb hadha al-bayt (Lord of this House) directly identifies Allah as the Kaaba's true Lord, challenging Quraysh who filled it with idols despite knowing Ibrahim built it for Allah alone.",
+          "whyItMatters": "Custodianship doesn't equal ownership. The Quraysh guarded the House but corrupted its purpose - a warning against those who claim religious authority while distorting true worship.",
+          "position": "topRight",
+          "arabicHighlight": "رَبَّ هَٰذَا ٱلْبَيْتِ",
+          "title_urdu": "اس گھر کا رب",
+          "coreInsight_urdu": "رب ہذا البیت (اس گھر کا رب) براہ راست اللہ کو کعبہ کے حقیقی رب کے طور پر شناخت کرتا ہے، قریش کو چیلنج کرتے ہوئے جنہوں نے اسے بتوں سے بھر دیا حالانکہ وہ جانتے تھے کہ ابراہیم نے اسے صرف اللہ کے لیے بنایا تھا۔",
+          "whyItMatters_urdu": "نگہبانی ملکیت کے برابر نہیں ہے۔ قریش نے گھر کی حفاظت کی لیکن اس کے مقصد کو خراب کر دیا - ان لوگوں کے لیے ایک انتباہ جو مذہبی اتھارٹی کا دعویٰ کرتے ہیں جبکہ حقیقی عبادت کو مسخ کرتے ہیں۔",
+          "title_ar": "رب هذا البيت",
+          "coreInsight_ar": "يحدد 'رب هذا البيت' الله مباشرة كرب الكعبة الحقيقي، متحديًا قريشًا الذين ملأوها بالأصنام رغم معرفتهم أن إبراهيم بناها لله وحده.",
+          "whyItMatters_ar": "الوصاية لا تساوي الملكية. حرست قريش البيت لكنها أفسدت غرضه - تحذير لأولئك الذين يدعون السلطة الدينية بينما يشوهون العبادة الحقيقية."
+        },
+        {
+          "id": "106:3:this-house",
+          "title": "This House",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Hadha al-bayt (this House) uses the demonstrative 'this' to emphasize the Kaaba's physical presence among them - the very House whose sanctity granted them their privileged status.",
+          "whyItMatters": "The blessings we enjoy are directly connected to our sacred responsibilities. The Quraysh's prosperity stemmed from the House they were meant to honor through pure monotheistic worship.",
+          "position": "bottomLeft",
+          "arabicHighlight": "هَٰذَا ٱلْبَيْتِ",
+          "title_urdu": "یہ گھر",
+          "coreInsight_urdu": "ہذا البیت (یہ گھر) اشاراتی 'یہ' استعمال کرتا ہے تاکہ کعبہ کی جسمانی موجودگی ان کے درمیان پر زور دیا جائے - وہی گھر جس کی تقدس نے انہیں ان کی مراعات یافتہ حیثیت دی۔",
+          "whyItMatters_urdu": "جن نعمتوں سے ہم لطف اندوز ہوتے ہیں وہ ہماری مقدس ذمہ داریوں سے براہ راست جڑے ہوئے ہیں۔ قریش کی خوشحالی اس گھر سے نکلی جسے وہ خالص توحیدی عبادت کے ذریعے عزت دینے کے لیے بنائے گئے تھے۔",
+          "title_ar": "هذا البيت",
+          "coreInsight_ar": "يستخدم 'هذا البيت' الإشارة 'هذا' للتأكيد على الوجود المادي للكعبة بينهم - البيت نفسه الذي منحتهم قدسيته مكانتهم المميزة.",
+          "whyItMatters_ar": "النعم التي نتمتع بها مرتبطة مباشرة بمسؤولياتنا المقدسة. نبع ازدهار قريش من البيت الذي كان من المفترض أن يكرموه من خلال العبادة التوحيدية النقية."
+        },
+        {
+          "id": "106:3:the-lord",
+          "title": "The Lord",
+          "icon": "crown.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Rabb' (Lord) signifies the One who owns, sustains, protects, and has authority over the House. It's not just a title but describes an active, nurturing relationship.",
+          "whyItMatters": "Allah's lordship means He actively manages and protects what belongs to Him. Recognizing Him as Rabb means acknowledging His ongoing authority and care in every aspect of life.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَبَّ",
+          "title_urdu": "رب",
+          "coreInsight_urdu": "'رب' (رب) اس کی نشاندہی کرتا ہے جو گھر کا مالک ہے، برقرار رکھتا ہے، حفاظت کرتا ہے، اور اس پر اختیار رکھتا ہے۔ یہ صرف ایک لقب نہیں ہے بلکہ ایک فعال، پرورش کرنے والے تعلق کو بیان کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی ربوبیت کا مطلب ہے کہ وہ فعال طور پر اس کا انتظام اور حفاظت کرتا ہے جو اس کا ہے۔ اسے رب کے طور پر پہچاننا کا مطلب ہے زندگی کے ہر پہلو میں اس کے جاری اختیار اور دیکھ بھال کو تسلیم کرنا۔",
+          "title_ar": "الرب",
+          "coreInsight_ar": "يشير 'الرب' إلى من يملك ويحافظ ويحمي وله سلطة على البيت. إنه ليس مجرد لقب بل يصف علاقة نشطة ورعاية.",
+          "whyItMatters_ar": "ربوبية الله تعني أنه يدير بنشاط ويحمي ما يخصه. الاعتراف به كرب يعني الاعتراف بسلطته ورعايته المستمرة في كل جانب من جوانب الحياة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia scholars unanimously agree on this verse's core message - the Quraysh must worship Allah alone, abandoning idolatry, and this worship is the proper response to divine blessings. Ibn Kathir and al-Tabari emphasize that the command addresses the Quraysh specifically but extends to all humanity, as Allah is Lord of the Kaaba and Lord of all creation. They provide extensive discussion of pre-Islamic Arab idolatry and how the Quraysh, despite Abrahamic heritage, had corrupted pure monotheism. Al-Qurtubi's legal analysis examines what constitutes proper worship, including prayer, charity, fasting, and ethical conduct, principles both traditions share. The primary difference emerges in how each tradition understands complete obedience to Allah's lordship. Shia tafsir emphasizes that worship includes following divinely appointed Imams as authoritative interpreters of divine law, while Sunni tafsir focuses on following the Sunnah of the Prophet with various approaches to jurisprudential authority after his death. Both agree that worship means comprehensive life submission, not just ritual. Shia scholars like Tabatabai connect this verse to the concept of wilaya - devotion to Allah necessarily includes loyalty to His appointed guides. Sunni scholars emphasize the sufficiency of Quran and authenticated Sunnah. Despite this difference in religious authority structure, both traditions condemn the Quraysh's idolatry and affirm that blessings obligate gratitude expressed through sincere, exclusive worship of the One who bestowed them.",
+    "layer4_urdu": "سنی اور شیعہ علماء اس آیت کے بنیادی پیغام پر متفقہ طور پر متفق ہیں - قریش کو صرف اللہ کی عبادت کرنی چاہیے، بت پرستی کو ترک کرتے ہوئے، اور یہ عبادت الہی نعمتوں کا مناسب جواب ہے۔ ابن کثیر اور طبری زور دیتے ہیں کہ یہ حکم خاص طور پر قریش کو خطاب کرتا ہے لیکن تمام انسانیت تک پھیلا ہوا ہے، کیونکہ اللہ کعبہ کا رب اور تمام تخلیق کا رب ہے۔ وہ پیش اسلامی عرب بت پرستی کی وسیع بحث فراہم کرتے ہیں اور کس طرح قریش نے، ابراہیمی ورثے کے باوجود، خالص توحید کو خراب کیا تھا۔ قرطبی کا قانونی تجزیہ اس بات کی جانچ کرتا ہے کہ مناسب عبادت کیا ہے، جس میں نماز، صدقہ، روزہ، اور اخلاقی طرز عمل شامل ہیں، جن اصولوں کو دونوں روایتیں شیئر کرتی ہیں۔ بنیادی فرق اس میں ظاہر ہوتا ہے کہ ہر روایت اللہ کی ربوبیت کی مکمل اطاعت کو کیسے سمجھتی ہے۔ شیعہ تفسیر زور دیتی ہے کہ عبادت میں الہی قانون کے مستند مفسرین کے طور پر الہی طور پر مقرر اماموں کی پیروی شامل ہے، جبکہ سنی تفسیر نبی کی سنت کی پیروی پر توجہ مرکوز کرتی ہے اور ان کی وفات کے بعد فقہی اختیار کے مختلف طریقوں کے ساتھ۔ دونوں متفق ہیں کہ عبادت کا مطلب جامع زندگی کی تسلیم ہے، نہ کہ صرف رسم۔ شیعہ علماء جیسے طباطبائی اس آیت کو ولایت کے تصور سے جوڑتے ہیں - اللہ کی عبادت لازمی طور پر اس کے مقرر کردہ رہنماؤں سے وفاداری کو شامل کرتی ہے۔ سنی علماء قرآن اور مستند سنت کی کفایت پر زور دیتے ہیں۔ مذہبی اختیار کی ساخت میں اس فرق کے باوجود، دونوں روایتیں قریش کی بت پرستی کی مذمت کرتی ہیں اور اس بات کی تصدیق کرتی ہیں کہ نعمتیں شکرگزاری کو واجب کرتی ہیں جو اس ذات کی خلوص دل اور مخصوص عبادت کے ذریعے ظاہر ہوتی ہے جس نے انہیں عطا کیا۔",
+    "layer4_ar": "يتفق علماء السنة والشيعة اتفاقاً تاماً على المضمون المحوري لهذه الآية: وجوب عبادة قريش لله وحده والإقلاع عن الشرك، وأن هذه العبادة هي الاستجابة الصحيحة للنعم الإلهية. ويُبيِّن ابن كثير والطبري أن الأمر يخاطب قريشاً مباشرةً لكنه يمتد إلى سائر البشرية، فالله رب الكعبة ورب الخليقة جمعاء. ويقدِّمان مناقشة موسَّعة للشرك العربي في الجاهلية وكيف شوَّهت قريش التوحيد الإبراهيمي النقي. ويدرس القرطبي في تحليله الفقهي معنى العبادة الصحيحة التي تشمل الصلاة والزكاة والصوم والسلوك الأخلاقي، وهي مبادئ يتفق عليها التراثان. وينبثق الفارق الرئيسي في كيفية فهم كل تراث للطاعة الشاملة لله. فالتفسير الشيعي يؤكد أن العبادة تتضمن اتباع الأئمة المعيَّنين إلهياً بوصفهم المفسِّرين الموثوقين للشريعة، بينما يرتكز التفسير السني على اتباع سنة النبي وأساليب الاجتهاد الفقهي المختلفة بعد وفاته. ويتفق التراثان على أن العبادة انقياد شامل في الحياة لا مجرد شعائر، وأن علماء الشيعة كالطباطبائي يربطون الآية بمفهوم الولاية إذ إن التقرب إلى الله يستلزم الارتباط بأوليائه المعيَّنين. وعلى الرغم من هذا الاختلاف في بنية المرجعية الدينية فإن التراثين معاً يُدينان شرك قريش ويُقرَّان بأن النعم تُوجب شكراً يتجلى في العبادة الصادقة الخالصة لله الواحد."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "106:4:fed-from-hunger",
+          "title": "Fed from Hunger",
+          "icon": "leaf.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Atamahum min ju' (fed them from hunger) emphasizes the transformation - they moved from hunger to fullness through Allah's provision, not their own efforts alone.",
+          "whyItMatters": "Material security comes from Allah. Even when we work hard, the ultimate provision is divine. This should prevent arrogance in wealth and despair in poverty.",
+          "position": "topLeft",
+          "arabicHighlight": "أَطْعَمَهُم مِّن جُوعٍۢ",
+          "title_urdu": "بھوک سے کھلایا",
+          "coreInsight_urdu": "اطعمہم من جوع (بھوک سے کھلایا) تبدیلی پر زور دیتا ہے - وہ اللہ کے رزق کے ذریعے بھوک سے پیٹ بھرنے کی طرف بڑھے، نہ کہ صرف اپنی کوششوں سے۔",
+          "whyItMatters_urdu": "مادی سلامتی اللہ سے آتی ہے۔ یہاں تک کہ جب ہم سخت محنت کرتے ہیں، حتمی رزق الہی ہے۔ یہ دولت میں غرور اور غربت میں مایوسی کو روکنا چاہیے۔",
+          "title_ar": "أطعمهم من جوع",
+          "coreInsight_ar": "يؤكد 'أطعمهم من جوع' على التحول - انتقلوا من الجوع إلى الشبع من خلال رزق الله، وليس جهودهم وحدها.",
+          "whyItMatters_ar": "الأمن المادي يأتي من الله. حتى عندما نعمل بجد، الرزق النهائي إلهي. يجب أن يمنع هذا الغرور في الثروة واليأس في الفقر."
+        },
+        {
+          "id": "106:4:safe-from-fear",
+          "title": "Safe from Fear",
+          "icon": "shield.checkered",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Amanahum min khawf (made them safe from fear) addresses psychological security - in lawless Arabia, the Quraysh enjoyed unique peace of mind that only divine protection could provide.",
+          "whyItMatters": "True security is both physical and psychological, and both come from Allah. No amount of wealth or weapons can provide peace of mind if Allah doesn't grant safety.",
+          "position": "topRight",
+          "arabicHighlight": "وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+          "title_urdu": "خوف سے محفوظ",
+          "coreInsight_urdu": "امنہم من خوف (خوف سے محفوظ کیا) نفسیاتی سلامتی کو خطاب کرتا ہے - قانون سے بے بہرہ عرب میں، قریش نے منفرد ذہنی سکون سے لطف اندوز ہوئے جو صرف الہی حفاظت فراہم کر سکتی تھی۔",
+          "whyItMatters_urdu": "حقیقی سلامتی جسمانی اور نفسیاتی دونوں ہے، اور دونوں اللہ سے آتی ہیں۔ کوئی بھی مقدار میں دولت یا ہتھیار ذہنی سکون فراہم نہیں کر سکتے اگر اللہ سلامتی نہیں دیتا۔",
+          "title_ar": "آمنهم من خوف",
+          "coreInsight_ar": "يعالج 'آمنهم من خوف' الأمن النفسي - في جزيرة العرب بلا قانون، تمتعت قريش براحة بال فريدة لا يمكن أن توفرها إلا الحماية الإلهية.",
+          "whyItMatters_ar": "الأمن الحقيقي جسدي ونفسي، وكلاهما يأتي من الله. لا يمكن لأي قدر من الثروة أو الأسلحة أن يوفر راحة البال إذا لم يمنح الله الأمان."
+        },
+        {
+          "id": "106:4:two-blessings",
+          "title": "Two Fundamental Needs",
+          "icon": "heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse pairs the two most fundamental human needs - food (survival) and security (safety). Together they represent the foundation of civilized life that Allah provided to Quraysh.",
+          "whyItMatters": "When these basic needs are met, humans have no excuse for ingratitude or idolatry. The verse challenges: if Allah gave you everything you need, why worship others?",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+          "title_urdu": "دو بنیادی ضروریات",
+          "coreInsight_urdu": "آیت دو انتہائی بنیادی انسانی ضروریات کو جوڑتی ہے - خوراک (بقا) اور سلامتی (تحفظ)۔ اکٹھے وہ مہذب زندگی کی بنیاد کی نمائندگی کرتے ہیں جو اللہ نے قریش کو فراہم کی۔",
+          "whyItMatters_urdu": "جب یہ بنیادی ضروریات پوری ہو جاتی ہیں، تو انسانوں کے پاس ناشکری یا بت پرستی کا کوئی عذر نہیں ہے۔ آیت چیلنج کرتی ہے: اگر اللہ نے آپ کو وہ سب کچھ دیا جو آپ کو چاہیے، تو دوسروں کی عبادت کیوں؟",
+          "title_ar": "حاجتان أساسيتان",
+          "coreInsight_ar": "تقرن الآية أكثر الاحتياجات الإنسانية الأساسية - الطعام (البقاء) والأمن (السلامة). معًا يمثلان أساس الحياة المتحضرة التي وفرها الله لقريش.",
+          "whyItMatters_ar": "عندما تُلبى هذه الاحتياجات الأساسية، ليس لدى البشر عذر للجحود أو الشرك. تتحدى الآية: إذا أعطاك الله كل ما تحتاجه، لماذا تعبد الآخرين؟"
+        },
+        {
+          "id": "106:4:who-gave",
+          "title": "The One Who Gave",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Alladhi (the One Who) grammatically links back to 'Rabb' (Lord) in verse 3, making it crystal clear: the same Lord of the House is the Provider of all these blessings.",
+          "whyItMatters": "Worship and gratitude must go to the actual Giver. The surah demolishes any excuse for polytheism - if one God provides everything, He alone deserves worship.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلَّذِىٓ",
+          "title_urdu": "جس نے دیا",
+          "coreInsight_urdu": "الذی (جس نے) گرامر کے لحاظ سے آیت 3 میں 'رب' (رب) سے واپس جڑتا ہے، یہ بالکل واضح کرتے ہوئے: گھر کا وہی رب ان تمام نعمتوں کا دینے والا ہے۔",
+          "whyItMatters_urdu": "عبادت اور شکر گزاری اصل دینے والے کو جانا چاہیے۔ سورۃ شرک کے لیے کسی بھی عذر کو ختم کرتی ہے - اگر ایک خدا سب کچھ فراہم کرتا ہے، تو صرف وہی عبادت کا مستحق ہے۔",
+          "title_ar": "الذي أعطى",
+          "coreInsight_ar": "يربط 'الذي' نحويًا بـ 'الرب' في الآية 3، مما يجعله واضحًا تمامًا: نفس رب البيت هو مانح كل هذه النعم.",
+          "whyItMatters_ar": "يجب أن تذهب العبادة والامتنان إلى المانح الفعلي. تهدم السورة أي عذر للشرك - إذا كان إله واحد يوفر كل شيء، فهو وحده يستحق العبادة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia exegetes share complete agreement on this verse's historical and theological basics - Allah provided the Quraysh with food and security, remarkable blessings in seventh-century Arabia, creating moral obligation for grateful worship. Ibn Kathir and al-Tabari provide historical context about Meccan food dependence on imports and the miracle of the Quraysh's immunity from the endemic tribal raiding that plagued the peninsula. They emphasize Allah's direct agency in these provisions as proof of His lordship deserving worship. Al-Qurtubi explores legal implications regarding gratitude obligations and the sin of ingratitude manifested in the Quraysh's rejection of Muhammad despite obvious divine favor toward them. Shia scholars like Tabatabai and Tabrisi emphasize the same historical facts but often connect the provision and protection to the blessed lineage that would produce the Prophet and Ahlul Bayt - Allah was preparing the environment for the final revelation. Both traditions agree the verse contains universal lessons about divine providence, human dependence on Allah, and the obligation of gratitude. A subtle difference appears in some Shia interpretations seeing the 'feeding' and 'safety' as foreshadowing the spiritual nourishment and ultimate security believers find in following the Prophet and Imams, while Sunni tafsirs typically maintain focus on the literal historical blessings. Nonetheless, scholarly consensus across both traditions affirms that this verse teaches Allah's complete sovereignty, His generous provision deserving grateful worship, and the moral accountability of those who receive blessings yet refuse to acknowledge their Source.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس آیت کی تاریخی اور نظریاتی بنیادوں پر مکمل اتفاق رکھتے ہیں - اللہ نے قریش کو خوراک اور تحفظ فراہم کیا، ساتویں صدی عرب میں قابل ذکر نعمتیں، جو شکر گزار عبادت کے لیے اخلاقی ذمہ داری پیدا کرتی ہیں۔ ابن کثیر اور طبری مکی خوراک کی درآمدات پر انحصار اور قریش کی اس معجزے کے بارے میں تاریخی سیاق و سباق فراہم کرتے ہیں کہ وہ جزیرہ نما میں پھیلی ہوئی قبائلی ڈاکہ زنی سے محفوظ تھے۔ وہ ان فراہمیوں میں اللہ کے براہ راست فعل پر زور دیتے ہیں کہ یہ اس کی ربوبیت کا ثبوت ہے جو عبادت کا مستحق ہے۔ قرطبی شکرگزاری کی ذمہ داریوں اور ناشکری کے گناہ کے بارے میں قانونی مضمرات کی کھوج کرتے ہیں جو قریش کے محمد کو مسترد کرنے میں ظاہر ہوئی، ان پر واضح الہی احسان کے باوجود۔ شیعہ علماء جیسے طباطبائی اور طبرسی اسی تاریخی حقائق پر زور دیتے ہیں لیکن اکثر فراہمی اور تحفظ کو اس مبارک نسل سے جوڑتے ہیں جو نبی اور اہل بیت کو پیدا کرے گی - اللہ آخری وحی کے لیے ماحول تیار کر رہا تھا۔ دونوں روایتیں اس بات پر متفق ہیں کہ آیت الہی عنایت، اللہ پر انسانی انحصار، اور شکرگزاری کی ذمہ داری کے بارے میں عالمگیر سبق رکھتی ہے۔ کچھ شیعہ تشریحات میں ایک لطیف فرق ظاہر ہوتا ہے جو 'کھلانے' اور 'حفاظت' کو اس روحانی پرورش اور حتمی تحفظ کی پیش گوئی کے طور پر دیکھتے ہیں جو مومنین نبی اور اماموں کی پیروی میں پاتے ہیں، جبکہ سنی تفاسیر عام طور پر لفظی تاریخی نعمتوں پر توجہ برقرار رکھتی ہیں۔ اس کے باوجود، دونوں روایتوں میں علمی اتفاق رائے اس بات کی تصدیق کرتا ہے کہ یہ آیت اللہ کی مکمل خودمختاری، اس کی سخی فراہمی جو شکر گزار عبادت کی مستحق ہے، اور ان لوگوں کی اخلاقی جوابدہی سکھاتی ہے جو نعمتیں حاصل کرتے ہیں پھر بھی ان کے منبع کو تسلیم کرنے سے انکار کرتے ہیں۔",
+    "layer4_ar": "يتفق المفسرون من السنة والشيعة اتفاقاً تاماً على الأساسيات التاريخية والعقدية لهذه الآية؛ فالله أنعم على قريش بالطعام والأمن، وكانتا نعمتين نادرتين في الجزيرة العربية في القرن السابع الميلادي، مما يُوجب عليهم العبادة الشاكرة. ويُقدِّم ابن كثير والطبري السياق التاريخي عن اعتماد مكة على الواردات الغذائية ومعجزة حصانة قريش من غارات القبائل التي كانت ظاهرة متفشية في شبه الجزيرة. ويشددان على أن الله هو الفاعل الحقيقي في هذا الرزق والحماية دليلاً على ربوبيته المستوجبة للعبادة. ويستقصي القرطبي الاستدلالات الفقهية في واجبات الشكر وإثم الكفران المتجلي في رد قريش على النبي رغم ما نالوا من فضل الله. ويُبرز العلماء الشيعة كالطباطبائي والطبرسي هذه الحقائق التاريخية مع ربط الرزق والحماية في الغالب بالنسب المبارك الذي أنجب النبي وأهل البيت عليهم السلام؛ فكان الله يُهيِّئ البيئة للوحي الخاتم. ويتفق التراثان على أن الآية تنطوي على دروس كونية في العناية الإلهية واعتماد الإنسان على الله ووجوب الشكر. ويُلاحظ فارق بسيط في بعض التفسيرات الشيعية التي ترى في «الإطعام» و«الأمان» تمهيداً لما يجده المؤمنون من الغذاء الروحي والأمن المطلق في اتباع النبي والأئمة، بينما تحتفظ تفاسير السنة عموماً بتركيزها على النعم التاريخية الحقيقية. بيد أن الإجماع العلمي في كلا التراثين يُثبت سيادة الله المطلقة وكرمه الواسع المستوجب للعبادة الشاكرة، والمساءلة الأخلاقية لمن يتقلَّب في النعم ثم يُنكر مصدرها."
+  }
+}

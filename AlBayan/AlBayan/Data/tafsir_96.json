@@ -1,0 +1,1117 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:1:recite",
+          "title": "Recite",
+          "icon": "book.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Iqra' (recite/read) is the first divine command of revelation, marking the beginning of the Quran's descent and emphasizing knowledge as Islam's foundation.",
+          "whyItMatters": "This command to read transforms humanity's relationship with knowledge - literacy and learning become acts of worship, not mere worldly pursuits.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱقْرَأْ",
+          "title_urdu": "پڑھو",
+          "coreInsight_urdu": "اقرا (پڑھو/تلاوت کرو) وحی کا پہلا الہی حکم ہے، جو قرآن کے نزول کی شروعات کی نشاندہی کرتا ہے اور علم کو اسلام کی بنیاد کے طور پر اجاگر کرتا ہے۔",
+          "whyItMatters_urdu": "پڑھنے کا یہ حکم انسانیت کے علم کے ساتھ تعلق کو تبدیل کر دیتا ہے - خواندگی اور سیکھنا عبادت کے عمل بن جاتے ہیں، محض دنیاوی مقاصد نہیں۔",
+          "title_ar": "اقرأ",
+          "coreInsight_ar": "اقرأ هو الأمر الإلهي الأول للوحي، يمثل بداية نزول القرآن ويؤكد على المعرفة كأساس للإسلام.",
+          "whyItMatters_ar": "يحول هذا الأمر بالقراءة علاقة الإنسانية بالمعرفة - تصبح القراءة والتعلم أعمال عبادة، وليست مجرد مساعي دنيوية."
+        },
+        {
+          "id": "96:1:in-name-of-lord",
+          "title": "In Your Lord's Name",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Reading 'in the name of your Lord' sanctifies knowledge - all learning must begin with acknowledging Allah as the source of wisdom and truth.",
+          "whyItMatters": "This teaches that knowledge disconnected from divine purpose can lead astray. True education integrates spiritual awareness with intellectual growth.",
+          "position": "topRight",
+          "arabicHighlight": "بِٱسْمِ رَبِّكَ",
+          "title_urdu": "اپنے رب کے نام سے",
+          "coreInsight_urdu": "'اپنے رب کے نام سے' پڑھنا علم کو مقدس بناتا ہے - تمام سیکھنا اللہ کو حکمت اور سچائی کے منبع کے طور پر تسلیم کرنے سے شروع ہونا چاہیے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ الہی مقصد سے منقطع علم گمراہ کر سکتا ہے۔ حقیقی تعلیم روحانی شعور کو ذہنی ترقی کے ساتھ مربوط کرتی ہے۔",
+          "title_ar": "باسم ربك",
+          "coreInsight_ar": "القراءة 'باسم ربك' تقدس المعرفة - يجب أن يبدأ كل تعلم بالاعتراف بالله كمصدر للحكمة والحقيقة.",
+          "whyItMatters_ar": "يعلم هذا أن المعرفة المنفصلة عن الهدف الإلهي يمكن أن تضل. التعليم الحقيقي يدمج الوعي الروحي مع النمو الفكري."
+        },
+        {
+          "id": "96:1:who-created",
+          "title": "The Creator",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allathee khalaq (who created) immediately connects reading and knowledge to Allah's creative power - studying creation reveals the Creator.",
+          "whyItMatters": "Every scientific discovery and intellectual pursuit should lead us back to recognizing Allah's wisdom in creation, not away from Him.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِى خَلَقَ",
+          "title_urdu": "جس نے پیدا کیا",
+          "coreInsight_urdu": "الذی خلق (جس نے پیدا کیا) فوری طور پر پڑھنے اور علم کو اللہ کی تخلیقی طاقت سے جوڑتا ہے - تخلیق کا مطالعہ خالق کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "ہر سائنسی دریافت اور فکری کوشش ہمیں واپس تخلیق میں اللہ کی حکمت کو پہچاننے کی طرف لے جانی چاہیے، اس سے دور نہیں۔",
+          "title_ar": "الذي خلق",
+          "coreInsight_ar": "الذي خلق يربط فورًا القراءة والمعرفة بقدرة الله الخلاقة - دراسة الخلق تكشف الخالق.",
+          "whyItMatters_ar": "يجب أن يقودنا كل اكتشاف علمي ومسعى فكري إلى الاعتراف بحكمة الله في الخلق، وليس بعيدًا عنه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree that these are the first verses revealed to Prophet Muhammad, and both traditions emphasize the centrality of knowledge in Islam. Sunni exegetes like Imam Tabari and Ibn Kathir, along with Shia scholars like Tabatabai and Tabrisi, concur that this verse establishes literacy and education as fundamental Islamic values. However, there are subtle differences in emphasis. Shia tafsir, particularly Al-Mizan, stresses that the command to read specifically refers to reciting revelation and that the Prophet's role as the teacher of divine knowledge connects to the concept of Imamah - continuous divine guidance through the Ahlul Bayt. Sunni commentary focuses more on the general virtue of reading and learning. Both traditions agree that 'Bismi Rabbika' establishes that knowledge must be pursued with God-consciousness. Fakhr al-Din al-Razi notes that beginning with the name of the Lord sanctifies the act of learning. Qurtubi emphasizes that this verse makes seeking knowledge a form of worship. Despite minor differences in theological framing, Muslims of all schools share profound respect for this verse as establishing Islam's commitment to enlightenment, intellectual development, and the sacred nature of education.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما متفقہ طور پر تسلیم کرتے ہیں کہ یہ نبی کریم صلی اللہ علیہ وآلہ وسلم پر نازل ہونے والی پہلی آیات ہیں اور دونوں روایات اسلام میں علم کی مرکزیت پر زور دیتی ہیں۔ سنی مفسرین جیسے امام طبری اور ابن کثیر، شیعہ علما جیسے طباطبائی اور طبرسی کے ساتھ متفق ہیں کہ یہ آیت خواندگی اور تعلیم کو بنیادی اسلامی اقدار کے طور پر قائم کرتی ہے۔ تاہم زور میں لطیف فرق ہیں۔ شیعہ تفسیر، خاص طور پر المیزان، اس بات پر زور دیتی ہے کہ پڑھنے کا حکم خاص طور پر وحی کی تلاوت سے مراد ہے اور نبی کریم کا الٰہی علم کے معلم کے طور پر کردار امامت کے تصور سے جڑتا ہے یعنی اہل بیت علیہم السلام کے ذریعے مسلسل الٰہی رہنمائی۔ سنی تفسیر پڑھنے اور سیکھنے کی عام فضیلت پر زیادہ توجہ دیتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ 'بسم ربک' یہ قائم کرتا ہے کہ علم اللہ کی معرفت کے ساتھ حاصل کیا جانا چاہیے۔ فخر الدین رازی نوٹ کرتے ہیں کہ رب کے نام سے شروع کرنا سیکھنے کے عمل کو مقدس بناتا ہے۔ قرطبی اس بات پر زور دیتے ہیں کہ یہ آیت علم کی تلاش کو عبادت کی ایک شکل بناتی ہے۔ الہیاتی فریم ورک میں معمولی فرق کے باوجود، تمام مکاتب فکر کے مسلمان اس آیت کے لیے گہرا احترام رکھتے ہیں کہ یہ روشن خیالی، علمی ترقی اور تعلیم کی مقدس نوعیت کے لیے اسلام کی وابستگی قائم کرتی ہے۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة إجماعاً على أن هذه الآيات هي أول ما نزل على النبي محمد صلى الله عليه وآله وسلم، ويشترك الفريقان في تأكيد مركزية العلم في الإسلام. فمفسرون سنيون كالإمام الطبري وابن كثير، ومفسرون شيعة كالطباطبائي والطبرسي، يتفقون على أن هذه الآية تُثبِّت القراءة والتعليم قيمتين إسلاميتين راسختين. غير أن ثمة تفاوتاً دقيقاً في الأوجه المُشدَّد عليها؛ فالتفسير الشيعي، ولا سيما «الميزان»، يُبرز أن الأمر بالقراءة يختص بتلاوة الوحي، وأن دور النبي صلى الله عليه وآله وسلم معلماً للعلم الإلهي يتصل بمفهوم الإمامة والهداية الإلهية المتواصلة عبر أهل البيت عليهم السلام. في حين يُركِّز التفسير السني على فضيلة القراءة والتعلم المطلق. ويتفق الفريقان على أن قوله «باسم ربك» يُقيم مبدأ أن المعرفة ينبغي أن تُطلب في حال من التقوى والخشية. ويُلاحظ فخر الدين الرازي أن البدء باسم الرب يُقدِّس فعل التعلم، فيما يُؤكِّد القرطبي أن الآية تجعل طلب العلم ضرباً من ضروب العبادة. وعلى الرغم من الفوارق الطفيفة في الإطار العقدي، فإن المسلمين من سائر المذاهب يحملون توقيراً عميقاً لهذه الآية بوصفها تُرسِّخ التزام الإسلام بالاستنارة والتطور الفكري وقدسية التعليم."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:2:human-creation",
+          "title": "Created Man",
+          "icon": "person.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "After mentioning creation generally, Allah specifies humanity's origin - reminding us of our humble beginnings despite our intellectual capabilities.",
+          "whyItMatters": "Understanding our origins keeps us humble. No matter how advanced our knowledge, we began as something insignificant, entirely dependent on Allah.",
+          "position": "topLeft",
+          "arabicHighlight": "خَلَقَ ٱلْإِنسَٰنَ",
+          "title_urdu": "انسان کو پیدا کیا",
+          "coreInsight_urdu": "عام طور پر تخلیق کا ذکر کرنے کے بعد، اللہ انسانیت کی اصل کی وضاحت کرتا ہے - ہماری فکری صلاحیتوں کے باوجود ہماری عاجزانہ شروعات کی یاد دہانی کراتا ہے۔",
+          "whyItMatters_urdu": "اپنی اصل کو سمجھنا ہمیں عاجز رکھتا ہے۔ چاہے ہمارا علم کتنا ہی ترقی یافتہ ہو، ہم نے کچھ معمولی چیز کے طور پر شروعات کی، مکمل طور پر اللہ پر منحصر۔",
+          "title_ar": "خلق الإنسان",
+          "coreInsight_ar": "بعد ذكر الخلق عمومًا، يحدد الله أصل الإنسانية - مذكرًا إيانا ببداياتنا المتواضعة رغم قدراتنا الفكرية.",
+          "whyItMatters_ar": "فهم أصولنا يبقينا متواضعين. مهما تقدمت معرفتنا، بدأنا كشيء تافه، معتمدين كليًا على الله."
+        },
+        {
+          "id": "96:2:clinging-substance",
+          "title": "Clinging Substance",
+          "icon": "drop.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Alaq (clinging substance/embryo) describes the earliest stage of human embryonic development - a scientific fact unknown in the 7th century, proving divine revelation.",
+          "whyItMatters": "This embryological precision demonstrates the Quran's divine origin. Modern science confirms what Allah revealed 1400 years ago.",
+          "position": "topRight",
+          "arabicHighlight": "مِنْ عَلَقٍ",
+          "title_urdu": "جونک سے",
+          "coreInsight_urdu": "علق (چمٹنے والا مادہ/جنین) انسانی جنین کی ترقی کے ابتدائی مرحلے کی وضاحت کرتا ہے - ایک سائنسی حقیقت جو ساتویں صدی میں نامعلوم تھی، الہی وحی کو ثابت کرتی ہے۔",
+          "whyItMatters_urdu": "یہ جنینیاتی درستگی قرآن کی الہی اصل کو ظاہر کرتی ہے۔ جدید سائنس اس بات کی تصدیق کرتی ہے جو اللہ نے 1400 سال پہلے ظاہر کیا۔",
+          "title_ar": "من علق",
+          "coreInsight_ar": "العلق (المادة المتعلقة/الجنين) يصف المرحلة الأولى من تطور الجنين البشري - حقيقة علمية مجهولة في القرن السابع، تثبت الوحي الإلهي.",
+          "whyItMatters_ar": "تثبت هذه الدقة الجنينية الأصل الإلهي للقرآن. يؤكد العلم الحديث ما أوحى الله به قبل 1400 عام."
+        },
+        {
+          "id": "96:2:humble-origins",
+          "title": "Humble Beginnings",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "From this tiny clinging substance comes humanity with all its potential - a journey from microscopic beginnings to beings capable of reading divine revelation.",
+          "whyItMatters": "This transformation from alaq to conscious beings capable of worship shows Allah's power and should inspire gratitude for the gift of consciousness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+          "title_urdu": "عاجزانہ شروعات",
+          "coreInsight_urdu": "اس چھوٹے سے چمٹنے والے مادے سے انسانیت اپنی تمام صلاحیت کے ساتھ آتی ہے - خورد بینی شروعات سے الہی وحی پڑھنے کی صلاحیت رکھنے والے مخلوق تک کا سفر۔",
+          "whyItMatters_urdu": "علق سے شعوری مخلوق بننے کی یہ تبدیلی اللہ کی طاقت کو ظاہر کرتی ہے اور شعور کے تحفے کے لیے شکرگزاری کو متاثر کرنی چاہیے۔",
+          "title_ar": "البدايات المتواضعة",
+          "coreInsight_ar": "من هذه المادة الصغيرة المتعلقة تأتي الإنسانية بكل إمكاناتها - رحلة من البدايات المجهرية إلى كائنات قادرة على قراءة الوحي الإلهي.",
+          "whyItMatters_ar": "يظهر هذا التحول من العلق إلى كائنات واعية قادرة على العبادة قدرة الله ويجب أن يلهم الامتنان لهدية الوعي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree on the basic meaning of 'alaq' as the early embryonic stage, and both traditions cite this verse as evidence of the Quran's scientific miraculousness. Ibn Kathir and Tabari, like Tabatabai and Tabrisi, emphasize that this verse humbles human pride by reminding us of our lowly origin. However, Shia commentary particularly emphasizes the connection between this verse and the concept of divine guidance through the Ahlul Bayt - just as Allah brought humans from 'alaq' to full existence, He continues to nurture humanity through guidance. Sunni commentators like Qurtubi focus on the verse as proof of resurrection - the God who created us from nothing can certainly recreate us. Razi emphasizes the verse as proof of divine wisdom in the stages of creation. Both traditions agree that this verse calls for reflection on human origins as a spiritual exercise. The scientific accuracy of the Quran regarding embryology is celebrated across Islamic scholarship. Where subtle differences exist, they relate to theological implications rather than the basic meaning. All Muslim scholars agree that this verse establishes Allah as the sole Creator and calls humans to humility by recognizing their dependent, created nature.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین 'علق' کے بنیادی معنی پر متفق ہیں کہ یہ ابتدائی جنینی مرحلہ ہے اور دونوں روایات اس آیت کو قرآن کے سائنسی اعجاز کی دلیل کے طور پر پیش کرتی ہیں۔ ابن کثیر اور طبری، طباطبائی اور طبرسی کی طرح، اس بات پر زور دیتے ہیں کہ یہ آیت ہماری پست ابتدا یاد دلا کر انسانی غرور کو عاجز کرتی ہے۔ تاہم شیعہ تفسیر خاص طور پر اس آیت اور اہل بیت علیہم السلام کے ذریعے الٰہی رہنمائی کے تصور کے درمیان تعلق پر زور دیتی ہے کہ جس طرح اللہ نے انسانوں کو 'علق' سے مکمل وجود میں لایا، وہ رہنمائی کے ذریعے انسانیت کی پرورش جاری رکھتے ہیں۔ سنی مفسرین جیسے قرطبی اس آیت کو قیامت کی دلیل کے طور پر پیش کرتے ہیں کہ جس خدا نے ہمیں عدم سے بنایا وہ یقیناً ہمیں دوبارہ بنا سکتا ہے۔ رازی تخلیق کے مراحل میں الٰہی حکمت کی دلیل کے طور پر اس آیت پر زور دیتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت انسانی ابتدا پر غور کو روحانی مشق کے طور پر پیش کرتی ہے۔ ایمبریولوجی کے بارے میں قرآن کی سائنسی درستگی کو پورے اسلامی علمی حلقوں میں منایا جاتا ہے۔ جہاں لطیف فرق ہیں وہ الہیاتی مضمرات سے متعلق ہیں نہ کہ بنیادی معنی سے۔ تمام مسلمان علما اس بات پر متفق ہیں کہ یہ آیت اللہ کو واحد خالق کے طور پر قائم کرتی ہے اور انسانوں کو اپنی انحصاری، مخلوق فطرت کو پہچان کر عاجزی کی دعوت دیتی ہے۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة على المعنى الأساسي لـ«العلق» بوصفه المرحلة الجنينية الأولى، ويحتجُّ الفريقان بهذه الآية دليلاً على إعجاز القرآن العلمي. فابن كثير والطبري، كالطباطبائي والطبرسي، يُشدِّدون على أن الآية تكسر كبر الإنسان بتذكيره بأصله الوضيع. وبينما يُؤكِّد التفسير الشيعي، ولا سيما «الميزان»، الصلة بين هذه الآية ومفهوم الهداية الإلهية عبر أهل البيت، يرى المفسرون السنة كالقرطبي أن الآية دليل على البعث؛ إذ إن القادر على الخلق من العدم قادر على الإعادة. ويُشدِّد الرازي على أن الآية برهان على الحكمة الإلهية في مراحل الخلق. ويتفق الفريقان على أن التأمل في أصل الإنسان تمرين روحي لا غنى عنه. والإعجاز العلمي للقرآن في مجال الأجنة يحظى بتقدير مشترك عبر المدارس الإسلامية. وأين وُجدت فوارق فهي في المستلزمات العقدية لا في الأصل اللغوي. ويتفق جميع العلماء على أن الآية تُثبت أن الله وحده الخالق وتدعو الإنسان إلى التواضع باستيعاب حقيقة طبيعته المخلوقة المفتقرة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:3:recite-again",
+          "title": "Recite Again",
+          "icon": "repeat.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The command to recite is repeated, emphasizing persistence in seeking knowledge and the importance of continuous learning throughout life.",
+          "whyItMatters": "Education is not a one-time event but a lifelong journey. This repetition teaches that we must constantly engage with divine guidance and knowledge.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱقْرَأْ",
+          "title_urdu": "دوبارہ پڑھو",
+          "coreInsight_urdu": "پڑھنے کا حکم دہرایا گیا ہے، علم کی تلاش میں استقامت اور زندگی بھر مسلسل سیکھنے کی اہمیت پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "تعلیم ایک بار کا واقعہ نہیں ہے بلکہ زندگی بھر کا سفر ہے۔ یہ تکرار سکھاتی ہے کہ ہمیں مسلسل الہی رہنمائی اور علم کے ساتھ مشغول رہنا چاہیے۔",
+          "title_ar": "اقرأ مرة أخرى",
+          "coreInsight_ar": "يتكرر الأمر بالقراءة، مؤكدًا المثابرة في طلب المعرفة وأهمية التعلم المستمر طوال الحياة.",
+          "whyItMatters_ar": "التعليم ليس حدثًا لمرة واحدة بل رحلة مدى الحياة. يعلمنا هذا التكرار أنه يجب علينا الانخراط المستمر مع التوجيه والمعرفة الإلهية."
+        },
+        {
+          "id": "96:3:most-generous",
+          "title": "Most Generous",
+          "icon": "gift.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Akram (the Most Generous) describes Allah's boundless generosity in granting knowledge, wisdom, and revelation without asking anything in return.",
+          "whyItMatters": "Allah's generosity in sharing knowledge means we should never hoard or monetize essential knowledge - it should be shared generously as Allah shares it with us.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْأَكْرَمُ",
+          "title_urdu": "سب سے زیادہ کریم",
+          "coreInsight_urdu": "الاکرم (سب سے زیادہ کریم) علم، حکمت اور وحی عطا کرنے میں اللہ کی بے حد سخاوت کی وضاحت کرتا ہے بغیر بدلے میں کچھ مانگے۔",
+          "whyItMatters_urdu": "علم کو شیئر کرنے میں اللہ کی سخاوت کا مطلب ہے کہ ہمیں کبھی ضروری علم کو جمع یا منیٹائز نہیں کرنا چاہیے - اسے سخاوت سے شیئر کیا جانا چاہیے جیسے اللہ ہمارے ساتھ شیئر کرتا ہے۔",
+          "title_ar": "الأكرم",
+          "coreInsight_ar": "الأكرم يصف كرم الله اللامحدود في منح المعرفة والحكمة والوحي دون طلب أي شيء في المقابل.",
+          "whyItMatters_ar": "كرم الله في مشاركة المعرفة يعني أننا يجب ألا نكتنز أو نحول المعرفة الأساسية إلى سلعة - يجب مشاركتها بسخاء كما يشاركها الله معنا."
+        },
+        {
+          "id": "96:3:your-lord-generous",
+          "title": "Your Generous Lord",
+          "icon": "heart.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Connecting generosity to 'your Lord' personalizes Allah's relationship with each seeker of knowledge - He nurtures our intellectual and spiritual growth personally.",
+          "whyItMatters": "Learning is not a cold academic pursuit but an intimate relationship with our Lord who personally guides each student according to their capacity and sincerity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَرَبُّكَ ٱلْأَكْرَمُ",
+          "title_urdu": "تمہارا کریم رب",
+          "coreInsight_urdu": "سخاوت کو 'تمہارے رب' سے جوڑنا علم کے ہر طالب کے ساتھ اللہ کے تعلق کو ذاتی بناتا ہے - وہ ہماری فکری اور روحانی ترقی کی ذاتی طور پر پرورش کرتا ہے۔",
+          "whyItMatters_urdu": "سیکھنا کوئی ٹھنڈا تعلیمی تعاقب نہیں ہے بلکہ ہمارے رب کے ساتھ ایک قریبی تعلق ہے جو ہر طالب علم کی ذاتی طور پر ان کی صلاحیت اور خلوص کے مطابق رہنمائی کرتا ہے۔",
+          "title_ar": "ربك الأكرم",
+          "coreInsight_ar": "ربط الكرم بـ 'ربك' يضفي طابعًا شخصيًا على علاقة الله مع كل طالب معرفة - يرعى نمونا الفكري والروحي شخصيًا.",
+          "whyItMatters_ar": "التعلم ليس سعيًا أكاديميًا باردًا بل علاقة حميمة مع ربنا الذي يوجه كل طالب شخصيًا وفقًا لقدرته وإخلاصه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that 'Al-Akram' refers to Allah's supreme generosity and nobility, and both traditions connect this attribute to Allah's teaching of humanity. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, emphasize that divine generosity is manifest in revelation and in granting humans the capacity for knowledge. Qurtubi notes that Allah is generous in forgiving, providing, and teaching - the three dimensions of divine grace. Razi emphasizes that calling Allah 'Al-Akram' immediately after mentioning human lowly origin highlights the contrast between our humble state and divine nobility that elevates us. Both traditions teach that recognizing Allah's generosity should generate gratitude and humility. A subtle difference emerges in Shia emphasis on the Ahlul Bayt as channels of divine generosity in teaching - the Imams are viewed as inheritors and distributors of prophetic knowledge. Sunni commentary focuses more on individual access to divine knowledge through the Quran and Sunnah. However, both agree on the fundamental meaning: Allah is supremely generous, and this generosity is especially manifest in teaching humanity. Both traditions call Muslims to embody this generosity by sharing knowledge and facilitating education for all.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ 'الاکرم' سے مراد اللہ کی اعلیٰ سخاوت اور شرافت ہے اور دونوں روایات اس صفت کو اللہ کی انسانیت کو سکھانے سے جوڑتی ہیں۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، اس بات پر زور دیتے ہیں کہ الٰہی سخاوت وحی میں اور انسانوں کو علم کی صلاحیت دینے میں ظاہر ہوتی ہے۔ قرطبی نوٹ کرتے ہیں کہ اللہ معاف کرنے، فراہم کرنے اور سکھانے میں سخی ہیں یعنی الٰہی فضل کے تین پہلو۔ رازی اس بات پر زور دیتے ہیں کہ انسانی پست ابتدا کے فوراً بعد اللہ کو 'الاکرم' کہنا ہماری عاجز حالت اور الٰہی شرافت کے درمیان تضاد کو اجاگر کرتا ہے جو ہمیں بلند کرتی ہے۔ دونوں روایات سکھاتی ہیں کہ اللہ کی سخاوت کو پہچاننا شکر اور عاجزی پیدا کرنا چاہیے۔ ایک لطیف فرق شیعہ زور میں ظاہر ہوتا ہے کہ اہل بیت علیہم السلام کو تعلیم میں الٰہی سخاوت کے چینلز کے طور پر دیکھا جاتا ہے کہ ائمہ نبوی علم کے وارث اور تقسیم کنندے ہیں۔ سنی تفسیر قرآن اور سنت کے ذریعے الٰہی علم تک انفرادی رسائی پر زیادہ توجہ دیتی ہے۔ تاہم دونوں بنیادی معنی پر متفق ہیں: اللہ انتہائی سخی ہیں اور یہ سخاوت خاص طور پر انسانیت کو سکھانے میں ظاہر ہوتی ہے۔ دونوں روایات مسلمانوں کو علم بانٹنے اور سب کے لیے تعلیم کی سہولت فراہم کر کے اس سخاوت کا مظاہرہ کرنے کی دعوت دیتی ہیں۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة على أن «الأكرم» تعني السمو الإلهي والكرم المطلق، ويربط الفريقان هذه الصفة بتعليم الله للإنسانية. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُؤكِّدون أن الكرم الإلهي يتجلَّى في الوحي وفي منح الإنسان الطاقة على المعرفة. ويُلاحظ القرطبي أن الله كريم في المغفرة والرزق والتعليم، وهي الأبعاد الثلاثة للنعمة الإلهية. ويُؤكِّد الرازي أن ذكر الله بـ«الأكرم» في أعقاب ذكر الأصل الوضيع للإنسان يُبرز التضاد بين وضاعة حالنا والنبل الإلهي الذي يرفعنا. ويتفق الفريقان على أن الاعتراف بكرم الله ينبغي أن يُولِّد الشكر والتواضع. والفارق الدقيق أن التفسير الشيعي يُؤكِّد دور أهل البيت عليهم السلام قناةً للكرم الإلهي في التعليم، بينما يُركِّز التفسير السني على القرآن والسنة مصدرَين تامَّين للعلم الديني. بيد أن الفريقين يتفقان على الجوهر: الله بالغ الكرم، ويتجلَّى كرمه خاصةً في تعليم الإنسانية، والمسلمون مدعوون إلى تجسيد هذا الكرم بمشاركة العلم وتيسير التعليم للجميع."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:4:taught-by-pen",
+          "title": "Taught by Pen",
+          "icon": "pencil",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Al-Qalam (the pen) represents written knowledge and its preservation - Allah elevated the pen as the primary tool for transmitting knowledge across time and space.",
+          "whyItMatters": "Writing preserves knowledge for future generations. This verse sanctifies the written word and scholarship, making documentation a form of worship.",
+          "position": "topLeft",
+          "arabicHighlight": "عَلَّمَ بِٱلْقَلَمِ",
+          "title_urdu": "قلم سے سکھایا",
+          "coreInsight_urdu": "القلم (قلم) تحریری علم اور اس کے تحفظ کی نمائندگی کرتا ہے - اللہ نے قلم کو وقت اور جگہ میں علم منتقل کرنے کے لیے بنیادی آلے کے طور پر بلند کیا۔",
+          "whyItMatters_urdu": "تحریر آنے والی نسلوں کے لیے علم کو محفوظ کرتی ہے۔ یہ آیت تحریری لفظ اور علمیت کو مقدس بناتی ہے، دستاویز سازی کو عبادت کی ایک شکل بناتی ہے۔",
+          "title_ar": "علم بالقلم",
+          "coreInsight_ar": "القلم يمثل المعرفة المكتوبة وحفظها - رفع الله القلم كأداة أساسية لنقل المعرفة عبر الزمان والمكان.",
+          "whyItMatters_ar": "الكتابة تحفظ المعرفة للأجيال القادمة. تقدس هذه الآية الكلمة المكتوبة والمنح الدراسية، مما يجعل التوثيق شكلاً من أشكال العبادة."
+        },
+        {
+          "id": "96:4:divine-teaching",
+          "title": "Divine Teacher",
+          "icon": "book.closed.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allama (taught) affirms that all knowledge ultimately comes from Allah - He is the ultimate teacher who grants understanding and wisdom.",
+          "whyItMatters": "Recognizing Allah as the source of all knowledge keeps scholars humble and students hopeful - success in learning depends on divine grace, not just effort.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِى عَلَّمَ",
+          "title_urdu": "الہی استاد",
+          "coreInsight_urdu": "علّم (سکھایا) اس بات کی تصدیق کرتا ہے کہ تمام علم بالآخر اللہ سے آتا ہے - وہ حتمی استاد ہے جو سمجھ اور حکمت عطا کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ کو تمام علم کے منبع کے طور پر پہچاننا علماء کو عاجز اور طلباء کو امید مند رکھتا ہے - سیکھنے میں کامیابی الہی فضل پر منحصر ہے، صرف محنت پر نہیں۔",
+          "title_ar": "المعلم الإلهي",
+          "coreInsight_ar": "علم يؤكد أن كل المعرفة تأتي في النهاية من الله - هو المعلم النهائي الذي يمنح الفهم والحكمة.",
+          "whyItMatters_ar": "إدراك الله كمصدر لكل المعرفة يبقي العلماء متواضعين والطلاب متفائلين - النجاح في التعلم يعتمد على النعمة الإلهية، وليس فقط الجهد."
+        },
+        {
+          "id": "96:4:knowledge-technology",
+          "title": "Knowledge Technology",
+          "icon": "square.and.pencil",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The pen as technology bridges minds across generations - what one generation writes, another reads, creating continuity of knowledge and wisdom.",
+          "whyItMatters": "This verse validates using technology for spreading knowledge. Just as the pen revolutionized learning, modern tools should be embraced for education when used righteously.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِٱلْقَلَمِ",
+          "title_urdu": "علم کی ٹیکنالوجی",
+          "coreInsight_urdu": "قلم بطور ٹیکنالوجی نسلوں میں ذہنوں کو جوڑتا ہے - جو ایک نسل لکھتی ہے، دوسری پڑھتی ہے، علم اور حکمت کی تسلسل پیدا کرتی ہے۔",
+          "whyItMatters_urdu": "یہ آیت علم پھیلانے کے لیے ٹیکنالوجی استعمال کرنے کی توثیق کرتی ہے۔ جیسے قلم نے سیکھنے میں انقلاب برپا کیا، جدید آلات کو تعلیم کے لیے اپنایا جانا چاہیے جب انہیں نیک طریقے سے استعمال کیا جائے۔",
+          "title_ar": "تكنولوجيا المعرفة",
+          "coreInsight_ar": "القلم كتكنولوجيا يربط العقول عبر الأجيال - ما يكتبه جيل، يقرأه آخر، مما يخلق استمرارية المعرفة والحكمة.",
+          "whyItMatters_ar": "تصادق هذه الآية على استخدام التكنولوجيا لنشر المعرفة. كما أحدث القلم ثورة في التعلم، يجب تبني الأدوات الحديثة للتعليم عند استخدامها بشكل صحيح."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars honor this verse's elevation of writing and literacy. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, emphasize that Allah teaching by the pen established the importance of literacy in Islam. Qurtubi notes that this verse appeared in the first revelation to emphasize literacy's priority. Razi points out that the pen enables knowledge to transcend time and space, preserving the wisdom of the past for the benefit of the future. Both traditions produced vast written literature - hadith compilations, tafsir works, legal texts, and scientific treatises - applying this verse's teaching. The Islamic golden age saw Muslims lead the world in book production, libraries, and knowledge preservation, reflecting devotion to the pen across sectarian lines. Both Shia and Sunni scholars compiled extensive hadith collections, demonstrating shared commitment to preserving prophetic teachings through writing. Minor differences exist in which texts each tradition emphasizes, but the fundamental reverence for the pen and written knowledge is universal. Both traditions encourage students to write down beneficial knowledge and maintain the custom of scholarly writing and publication. The verse's teaching that Allah taught by the pen unites all Muslims in valuing literacy, education, scholarship, and the preservation of knowledge through documentation.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت کی تحریر اور خواندگی کو بلند کرنے کی عزت کرتے ہیں۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، اس بات پر زور دیتے ہیں کہ اللہ کا قلم کے ذریعے سکھانا اسلام میں خواندگی کی اہمیت قائم کرتا ہے۔ قرطبی نوٹ کرتے ہیں کہ یہ آیت پہلی وحی میں ظاہر ہوئی تاکہ خواندگی کی ترجیح پر زور دیا جائے۔ رازی اس بات کی نشاندہی کرتے ہیں کہ قلم علم کو وقت اور جگہ سے ماورا ہونے کی اجازت دیتا ہے، ماضی کی حکمت کو مستقبل کے فائدے کے لیے محفوظ کرتے ہوئے۔ دونوں روایات نے وسیع تحریری ادب تیار کیا یعنی حدیث کے مجموعے، تفسیری کام، قانونی متون اور سائنسی مقالے، اس آیت کی تعلیم کو لاگو کرتے ہوئے۔ اسلامی سنہری دور میں مسلمانوں نے کتابوں کی تیاری، لائبریریوں اور علم کو محفوظ کرنے میں دنیا کی قیادت کی، فرقہ وارانہ لائنوں کے پار قلم کے لیے لگن کی عکاسی کرتے ہوئے۔ شیعہ اور سنی دونوں علما نے وسیع حدیث کے مجموعے مرتب کیے، تحریر کے ذریعے نبوی تعلیمات کو محفوظ کرنے کے لیے مشترکہ عہد کا مظاہرہ کرتے ہوئے۔ معمولی فرق موجود ہیں کہ ہر روایت کون سے متون پر زور دیتی ہے لیکن قلم اور تحریری علم کے لیے بنیادی احترام عالمگیر ہے۔ دونوں روایات طلباء کو فائدہ مند علم لکھنے کی ترغیب دیتی ہیں اور علمی تحریر اور اشاعت کی روایت برقرار رکھتی ہیں۔ آیت کی یہ تعلیم کہ اللہ نے قلم سے سکھایا تمام مسلمانوں کو خواندگی، تعلیم، علمیت اور دستاویزات کے ذریعے علم کو محفوظ کرنے میں متحد کرتی ہے۔",
+    "layer4_ar": "يُكرِّم العلماء الشيعة والسنة هذه الآية تكريماً مشتركاً لما تُجلِّيه من قيمة الكتابة والقراءة. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُؤكِّدون أن تعليم الله بالقلم أرسى أهمية محو الأمية في الإسلام. ويُلاحظ القرطبي أن الآية وردت في أول وحي مما يُؤكِّد أولوية الكتابة. ويُشير الرازي إلى أن القلم يُمكِّن المعرفة من تجاوز الزمان والمكان إذ يحفظ حكمة الماضي لأجل المستقبل. وقد أنتجت الحضارة الإسلامية في عصرها الذهبي أضخم المكتبات وأوفر التوثيق وأغزر إنتاج الكتب تجسيداً للتفاني في القلم عبر الحدود المذهبية. وصنَّف العلماء الشيعة والسنة مجاميع ضخمة من الحديث تجلياً للالتزام المشترك بحفظ التعاليم النبوية كتابةً. وثمة فوارق طفيفة في النصوص التي يُولي كل تراث اهتمامه لها، لكن الإجلال الجوهري للقلم والمعرفة المكتوبة سمة مشتركة بلا خلاف. ويتفق الفريقان على أن الآية تجعل طلب العلم بالكتابة والتوثيق وتيسير التعليم واجباً يشترك فيه الجميع."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:5:taught-human",
+          "title": "Taught Humanity",
+          "icon": "person.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Al-Insan (humanity) emphasizes that knowledge is a universal human birthright - Allah teaches all people regardless of background, making learning accessible to everyone.",
+          "whyItMatters": "Knowledge should never be restricted by class, race, or gender. This verse establishes the democratic nature of learning - everyone has the right to education.",
+          "position": "topLeft",
+          "arabicHighlight": "عَلَّمَ ٱلْإِنسَٰنَ",
+          "title_urdu": "انسانیت کو سکھایا",
+          "coreInsight_urdu": "الانسان (انسانیت) اس بات پر زور دیتا ہے کہ علم ایک عالمگیر انسانی حق ہے - اللہ پس منظر سے قطع نظر تمام لوگوں کو سکھاتا ہے، سیکھنے کو سب کے لیے قابل رسائی بناتا ہے۔",
+          "whyItMatters_urdu": "علم کو کبھی طبقے، نسل یا جنس سے محدود نہیں کیا جانا چاہیے۔ یہ آیت سیکھنے کی جمہوری نوعیت قائم کرتی ہے - سب کو تعلیم کا حق ہے۔",
+          "title_ar": "علم الإنسانية",
+          "coreInsight_ar": "الإنسان يؤكد أن المعرفة حق بشري عالمي - يعلم الله جميع الناس بغض النظر عن الخلفية، مما يجعل التعلم في متناول الجميع.",
+          "whyItMatters_ar": "يجب ألا تقيد المعرفة أبدًا بالطبقة أو العرق أو الجنس. تؤسس هذه الآية الطبيعة الديمقراطية للتعلم - كل شخص له الحق في التعليم."
+        },
+        {
+          "id": "96:5:what-not-known",
+          "title": "Unknown Knowledge",
+          "icon": "lightbulb.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Ma lam ya'lam (what he knew not) reveals that humans are born ignorant but have unlimited potential for learning - every discovery is a gift from Allah.",
+          "whyItMatters": "This verse humbles the arrogant and encourages the discouraged - no matter how much we learn, there's always more, and Allah can grant understanding to anyone.",
+          "position": "topRight",
+          "arabicHighlight": "مَا لَمْ يَعْلَمْ",
+          "title_urdu": "نامعلوم علم",
+          "coreInsight_urdu": "ما لم یعلم (جو وہ نہیں جانتا تھا) ظاہر کرتا ہے کہ انسان جاہل پیدا ہوتے ہیں لیکن سیکھنے کی لامحدود صلاحیت رکھتے ہیں - ہر دریافت اللہ کا تحفہ ہے۔",
+          "whyItMatters_urdu": "یہ آیت مغرور کو عاجز اور مایوس کو حوصلہ دیتی ہے - چاہے ہم کتنا ہی سیکھیں، ہمیشہ زیادہ ہے، اور اللہ کسی کو بھی سمجھ عطا کر سکتا ہے۔",
+          "title_ar": "المعرفة المجهولة",
+          "coreInsight_ar": "ما لم يعلم يكشف أن البشر يولدون جاهلين لكن لديهم إمكانات غير محدودة للتعلم - كل اكتشاف هدية من الله.",
+          "whyItMatters_ar": "تتواضع هذه الآية المتكبرين وتشجع المحبطين - مهما تعلمنا، هناك دائمًا المزيد، ويمكن لله أن يمنح الفهم لأي شخص."
+        },
+        {
+          "id": "96:5:infinite-knowledge",
+          "title": "Infinite Learning",
+          "icon": "infinity",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The open-ended nature of 'what he knew not' suggests knowledge is infinite - there will always be more to learn, keeping humanity in perpetual pursuit of understanding.",
+          "whyItMatters": "This prevents intellectual stagnation. No generation can claim to know everything - each must continue learning and contributing to humanity's collective knowledge.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+          "title_urdu": "لامحدود سیکھنا",
+          "coreInsight_urdu": "'جو وہ نہیں جانتا تھا' کی کھلی نوعیت بتاتی ہے کہ علم لامحدود ہے - ہمیشہ زیادہ سیکھنے کو ہوگا، انسانیت کو سمجھ کی مسلسل تلاش میں رکھتا ہے۔",
+          "whyItMatters_urdu": "یہ فکری جمود کو روکتا ہے۔ کوئی نسل یہ دعویٰ نہیں کر سکتی کہ وہ سب کچھ جانتی ہے - ہر ایک کو سیکھنا جاری رکھنا چاہیے اور انسانیت کے اجتماعی علم میں حصہ ڈالنا چاہیے۔",
+          "title_ar": "التعلم اللانهائي",
+          "coreInsight_ar": "الطبيعة المفتوحة لـ 'ما لم يعلم' تشير إلى أن المعرفة لا نهائية - سيكون هناك دائمًا المزيد للتعلم، مما يبقي الإنسانية في سعي دائم للفهم.",
+          "whyItMatters_ar": "يمنع هذا الركود الفكري. لا يمكن لجيل أن يدعي معرفة كل شيء - يجب على كل جيل مواصلة التعلم والمساهمة في المعرفة الجماعية للإنسانية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes Allah as the source of all knowledge and emphasizes divine grace in teaching humanity. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that humans are born ignorant and all knowledge is acquired through Allah's teaching, whether direct or indirect. Qurtubi emphasizes that this verse should generate profound gratitude for the gift of intellect and learning. Razi notes that human knowledge progress from generation to generation demonstrates ongoing fulfillment of 'taught man what he knew not.' Both traditions encourage seeking knowledge from cradle to grave, based on this verse's principle. A subtle difference exists in Shia emphasis on the Imams as continuing teachers of what humans knew not, preserving and explaining the Prophet's knowledge. Sunni scholars focus on the Quran and hadith as the complete sources of religious knowledge, with human reason discovering natural knowledge. However, both agree on the fundamental meaning: all knowledge originates from Allah, whether religious or scientific. Both traditions cite these five verses as establishing Islam's commitment to learning, literacy, and intellectual development. Muslim scholars across all schools celebrate these verses as Islam's constitution for education and knowledge-seeking.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت اللہ کو تمام علم کے سرچشمے کے طور پر قائم کرتی ہے اور انسانیت کو سکھانے میں الٰہی فضل پر زور دیتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ انسان نادان پیدا ہوتے ہیں اور تمام علم اللہ کی تعلیم کے ذریعے حاصل ہوتا ہے، چاہے براہ راست یا بالواسطہ۔ قرطبی زور دیتے ہیں کہ یہ آیت عقل اور سیکھنے کی نعمت کے لیے گہرا شکر پیدا کرنی چاہیے۔ رازی نوٹ کرتے ہیں کہ نسل در نسل انسانی علم کی ترقی 'انسان کو سکھایا جو وہ نہیں جانتا تھا' کی جاری تکمیل کو ظاہر کرتی ہے۔ دونوں روایات اس آیت کے اصول کی بنیاد پر گہوارے سے قبر تک علم کی تلاش کی ترغیب دیتی ہیں۔ ایک لطیف فرق شیعہ زور میں موجود ہے کہ ائمہ علیہم السلام کو ان چیزوں کو سکھانے والے کے طور پر دیکھا جاتا ہے جو انسان نہیں جانتے تھے، نبی کریم کے علم کو محفوظ اور وضاحت کرتے ہوئے۔ سنی علما قرآن اور حدیث کو مذہبی علم کے مکمل ذرائع کے طور پر پیش کرتے ہیں جبکہ انسانی عقل قدرتی علم دریافت کرتی ہے۔ تاہم دونوں بنیادی معنی پر متفق ہیں: تمام علم اللہ سے نکلتا ہے، چاہے مذہبی ہو یا سائنسی۔ دونوں روایات ان پانچ آیات کو اسلام کی تعلیم، خواندگی اور علمی ترقی کے لیے وابستگی قائم کرنے والا بتاتی ہیں۔ تمام مکاتب فکر کے مسلمان علما ان آیات کو تعلیم اور علم کی تلاش کے لیے اسلام کے آئین کے طور پر مناتے ہیں۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة على أن هذه الآية تُؤسِّس الله مصدراً لكل معرفة وتُؤكِّد النعمة الإلهية في تعليم الإنسان. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن الإنسان يُولد جاهلاً وكل معرفته مكتسبة بتعليم الله مباشرةً أو غير مباشر. ويُؤكِّد القرطبي أن هذه الآية ينبغي أن تُولِّد شكراً عميقاً على نعمة العقل والتعلم. ويُلاحظ الرازي أن تقدم المعرفة الإنسانية من جيل إلى جيل يُجسِّد استمرار تحقُّق معنى «علَّم الإنسان ما لم يعلم». ويحثُّ كلا التراثين على طلب العلم من المهد إلى اللحد استناداً إلى مبدأ هذه الآية. والفارق الدقيق أن التفسير الشيعي يُؤكِّد دور الأئمة عليهم السلام معلِّمين مستمرين لما لم يكن يعلمه الناس، ويحفظون علم النبي صلى الله عليه وآله وسلم ويُفصِّلون تعاليمه. بينما يُركِّز علماء السنة على القرآن والحديث مصدرَين كاملَين للعلم الديني والعقل كاشفاً للعلم الطبيعي. غير أن الفريقين يتفقان على الجوهر: كل العلم من الله سواء كان دينياً أم طبيعياً. ويحتفي علماء المسلمين من جميع المذاهب بهذه الآيات الخمس مستشهدين بها دستوراً إسلامياً للتعليم وطلب العلم وبيان الطبيعة المقدَّسة للمعرفة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:6:human-transgression",
+          "title": "Human Transgression",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Kalla (No!/Nay!) marks a sharp turn from knowledge to warning - despite being taught, humans transgress (yatgha), crossing boundaries Allah has set.",
+          "whyItMatters": "Knowledge alone doesn't guarantee righteousness. This verse warns that learning without spiritual grounding leads to arrogance and transgression.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+          "title_urdu": "انسانی سرکشی",
+          "coreInsight_urdu": "کلّا (نہیں!) علم سے انتباہ کی طرف ایک تیز موڑ کی نشاندہی کرتا ہے - سکھائے جانے کے باوجود، انسان سرکشی کرتا ہے (یطغی)، اللہ کی مقرر کردہ حدود کو عبور کرتا ہے۔",
+          "whyItMatters_urdu": "صرف علم نیکی کی ضمانت نہیں دیتا۔ یہ آیت خبردار کرتی ہے کہ روحانی بنیاد کے بغیر سیکھنا غرور اور سرکشی کی طرف لے جاتا ہے۔",
+          "title_ar": "تجاوز الإنسان",
+          "coreInsight_ar": "كلا (لا!) تمثل منعطفًا حادًا من المعرفة إلى التحذير - رغم التعليم، يتجاوز الإنسان (يطغى)، متجاوزًا الحدود التي وضعها الله.",
+          "whyItMatters_ar": "المعرفة وحدها لا تضمن الصلاح. تحذر هذه الآية من أن التعلم بدون أساس روحي يؤدي إلى الغطرسة والتجاوز."
+        },
+        {
+          "id": "96:6:certainly-transgresses",
+          "title": "Certain Transgression",
+          "icon": "arrow.up.right.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "La-yatgha (certainly transgresses) uses emphatic grammar - this isn't occasional error but a predictable human tendency when unchecked by divine consciousness.",
+          "whyItMatters": "Understanding this inherent tendency helps us guard against it through constant remembrance of Allah and spiritual accountability.",
+          "position": "topRight",
+          "arabicHighlight": "لَيَطْغَىٰٓ",
+          "title_urdu": "یقینی سرکشی",
+          "coreInsight_urdu": "لیطغی (یقیناً سرکشی کرتا ہے) زور دار گرامر استعمال کرتا ہے - یہ کبھی کبھار کی غلطی نہیں ہے بلکہ ایک قابل پیش گوئی انسانی رجحان ہے جب الہی شعور سے بے لگام ہو۔",
+          "whyItMatters_urdu": "اس موروثی رجحان کو سمجھنا ہمیں اللہ کی مسلسل یاد اور روحانی جوابدہی کے ذریعے اس سے محفوظ رہنے میں مدد کرتا ہے۔",
+          "title_ar": "التجاوز المؤكد",
+          "coreInsight_ar": "ليطغى (يتجاوز بالتأكيد) تستخدم قواعد توكيدية - هذا ليس خطأ عرضيًا بل ميل بشري متوقع عند عدم كبحه بالوعي الإلهي.",
+          "whyItMatters_ar": "فهم هذا الميل الكامن يساعدنا على الحذر منه من خلال الذكر المستمر لله والمساءلة الروحية."
+        },
+        {
+          "id": "96:6:indeed-man",
+          "title": "Indeed Man",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Inna al-insan (indeed man) - the same humanity Allah taught is the same that transgresses, showing the dual nature of human potential for both excellence and error.",
+          "whyItMatters": "This duality means we must actively choose righteousness. Our capacity for knowledge comes with responsibility to use it ethically and spiritually.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّ ٱلْإِنسَٰنَ",
+          "title_urdu": "یقیناً انسان",
+          "coreInsight_urdu": "انّ الانسان (یقیناً انسان) - وہی انسانیت جسے اللہ نے سکھایا وہی سرکشی کرتی ہے، انسانی صلاحیت کی دوہری نوعیت کو ظاہر کرتا ہے عظمت اور غلطی دونوں کے لیے۔",
+          "whyItMatters_urdu": "یہ دوہری نوعیت کا مطلب ہے کہ ہمیں فعال طور پر نیکی کا انتخاب کرنا چاہیے۔ علم کی ہماری صلاحیت ذمہ داری کے ساتھ آتی ہے کہ اسے اخلاقی اور روحانی طور پر استعمال کریں۔",
+          "title_ar": "إن الإنسان",
+          "coreInsight_ar": "إن الإنسان - نفس الإنسانية التي علمها الله هي التي تتجاوز، مما يظهر الطبيعة المزدوجة للإمكانات البشرية للتميز والخطأ.",
+          "whyItMatters_ar": "تعني هذه الازدواجية أننا يجب أن نختار الصلاح بنشاط. تأتي قدرتنا على المعرفة مع مسؤولية استخدامها أخلاقيًا وروحيًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse warns against arrogance born of material prosperity. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that the verse was revealed about Abu Jahl but applies universally. Ibn Kathir notes that wealth and power test people's character, often revealing arrogance and oppression. Qurtubi emphasizes that the verse teaches that adversity can be a blessing if it keeps one humble, while prosperity can be a curse if it breeds arrogance. Razi analyzes the psychological mechanism: when people perceive themselves as independent, they lose moral restraint because they no longer feel accountable. Both traditions teach that remembering dependence on Allah is the antidote to transgression. Shia scholars particularly emphasize the contrast between Abu Jahl's arrogance and Imam Ali's humility despite his knowledge and closeness to the Prophet. Sunni scholars emphasize Abu Bakr and Umar's simplicity despite their authority. Both traditions agree on the core teaching: material success tests character, often leading to transgression unless countered by constant remembrance of Allah. Both call Muslims to voluntary simplicity, generosity with wealth, and humility in all circumstances. The verse's warning transcends sectarian boundaries, addressing universal human tendency toward arrogance in prosperity.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت مادی خوشحالی سے پیدا شدہ تکبر کے خلاف خبردار کرتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ یہ آیت ابو جہل کے بارے میں نازل ہوئی لیکن عالمگیر طور پر لاگو ہوتی ہے۔ ابن کثیر نوٹ کرتے ہیں کہ دولت اور طاقت لوگوں کے کردار کو آزماتی ہیں اور اکثر تکبر اور ظلم کو ظاہر کرتی ہیں۔ قرطبی زور دیتے ہیں کہ یہ آیت سکھاتی ہے کہ مشکلات نعمت ہو سکتی ہیں اگر وہ عاجز رکھیں، جبکہ خوشحالی لعنت ہو سکتی ہے اگر وہ تکبر پیدا کرے۔ رازی اس نفسیاتی سچائی کا تجزیہ کرتے ہیں کہ کامیابی اکثر نافرمانی پیدا کرتی ہے جبکہ جدوجہد اطاعت کی طرف لے جا سکتی ہے۔ دونوں روایات سکھاتی ہیں کہ حقیقی دولت اندرونی قناعت ہے، بیرونی مال نہیں۔ ایک لطیف فرق شیعہ زور میں موجود ہے کہ ائمہ علیہم السلام کو خود کفالت کے وہم کے خلاف مثالیں دیکھا جاتا ہے کیونکہ انہوں نے سادگی سے زندگی گزاری باوجود یہ کہ وہ نبوی خاندان سے تھے۔ سنی علما صحابہ کی سادگی پر زور دیتے ہیں۔ دونوں بنیادی معنی پر متفق ہیں کہ خوشحالی میں عاجزی برقرار رکھنا ایمان کی نشانی ہے۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة على أن هذه الآية تُحذِّر من الكبر الناشئ عن الرخاء المادي. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن الآية نزلت في أبي جهل غير أنها تسري على الإنسانية جمعاء. ويُلاحظ ابن كثير أن الثروة والسلطة تختبران الطباع كثيراً ما تكشفان عن الكبر والطغيان. ويُؤكِّد القرطبي أن المحنة قد تكون نعمة إن أبقت المرء متواضعاً، بينما الرخاء قد يكون بلاءً إن أنتج الكبر. ويُحلِّل الرازي الآلية النفسية: حين يُحسُّ الناس بالاستقلال يفقدون الرادع الأخلاقي لأنهم يتوهمون أنهم غير محاسَبين. ويُعلِّم الفريقان أن الاستشعار الدائم بالافتقار إلى الله هو العلاج الناجع للطغيان. ويُبرز علماء الشيعة تحديداً التضاد بين كبر أبي جهل وتواضع الإمام علي عليه السلام رغم علمه الواسع وقربه من النبي. ويُؤكِّد علماء السنة بساطة أبي بكر وعمر رغم سلطانهما. ويتفق الفريقان على جوهر التعليم: النجاح الدنيوي يختبر الطبيعة البشرية وكثيراً ما يقود إلى الطغيان ما لم يُواجَه بالذكر الدائم لله. وكلاهما يدعو المسلمين إلى الزهد الاختياري والسخاء في المال والتواضع في جميع الأحوال."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:7:sees-self-sufficient",
+          "title": "Self-Sufficiency Illusion",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Istaghna (self-sufficient) describes the dangerous delusion that we don't need Allah - wealth, knowledge, or power create the false belief in independence.",
+          "whyItMatters": "True self-sufficiency is impossible for creation. Recognizing our total dependence on Allah in every moment is essential for spiritual health.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱسْتَغْنَىٰٓ",
+          "title_urdu": "خود کفالت کا وہم",
+          "coreInsight_urdu": "استغنیٰ (خودکفیل) خطرناک فریب کی وضاحت کرتا ہے کہ ہمیں اللہ کی ضرورت نہیں - دولت، علم، یا طاقت آزادی میں جھوٹے یقین کو پیدا کرتی ہے۔",
+          "whyItMatters_urdu": "حقیقی خودکفالت مخلوق کے لیے ناممکن ہے۔ ہر لمحے اللہ پر اپنی مکمل انحصار کو پہچاننا روحانی صحت کے لیے ضروری ہے۔",
+          "title_ar": "وهم الاكتفاء الذاتي",
+          "coreInsight_ar": "استغنى يصف الوهم الخطير بأننا لا نحتاج الله - الثروة والمعرفة أو القوة تخلق الإيمان الزائف بالاستقلال.",
+          "whyItMatters_ar": "الاكتفاء الذاتي الحقيقي مستحيل للمخلوقات. إدراك اعتمادنا الكامل على الله في كل لحظة ضروري للصحة الروحية."
+        },
+        {
+          "id": "96:7:because-he-sees",
+          "title": "Perception Problem",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Ra'ahu (he sees himself) reveals that transgression starts with perception - how we see ourselves determines how we act toward Allah and others.",
+          "whyItMatters": "Correcting our self-perception is the first step to righteousness. We must see ourselves as humble servants, not independent actors.",
+          "position": "topRight",
+          "arabicHighlight": "أَن رَّءَاهُ",
+          "title_urdu": "ادراک کا مسئلہ",
+          "coreInsight_urdu": "رآہ (وہ اپنے آپ کو دیکھتا ہے) ظاہر کرتا ہے کہ سرکشی ادراک سے شروع ہوتی ہے - ہم اپنے آپ کو کیسے دیکھتے ہیں یہ طے کرتا ہے کہ ہم اللہ اور دوسروں کے ساتھ کیسے کام کرتے ہیں۔",
+          "whyItMatters_urdu": "اپنے خود ادراک کو درست کرنا نیکی کی طرف پہلا قدم ہے۔ ہمیں اپنے آپ کو عاجز خادم کے طور پر دیکھنا چاہیے، آزاد اداکار کے طور پر نہیں۔",
+          "title_ar": "مشكلة الإدراك",
+          "coreInsight_ar": "رآه يكشف أن التجاوز يبدأ بالإدراك - كيف نرى أنفسنا يحدد كيف نتصرف تجاه الله والآخرين.",
+          "whyItMatters_ar": "تصحيح إدراكنا الذاتي هو الخطوة الأولى نحو الصلاح. يجب أن نرى أنفسنا كخدم متواضعين، وليس فاعلين مستقلين."
+        },
+        {
+          "id": "96:7:wealth-arrogance",
+          "title": "Wealth's Danger",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "While not explicitly mentioned, classical tafsir understands this verse in context of material wealth that makes people forget their Creator and origins.",
+          "whyItMatters": "Wealth is a test. Those who succeed see it as Allah's trust to be used for good; those who fail see it as proof of their own superiority.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+          "title_urdu": "دولت کا خطرہ",
+          "coreInsight_urdu": "اگرچہ واضح طور پر ذکر نہیں کیا گیا، کلاسیکی تفسیر اس آیت کو مادی دولت کے تناظر میں سمجھتی ہے جو لوگوں کو اپنے خالق اور اصل کو بھلا دیتی ہے۔",
+          "whyItMatters_urdu": "دولت ایک آزمائش ہے۔ جو کامیاب ہوتے ہیں وہ اسے اللہ کی امانت سمجھتے ہیں جسے نیکی کے لیے استعمال کیا جائے؛ جو ناکام ہوتے ہیں وہ اسے اپنی برتری کے ثبوت کے طور پر دیکھتے ہیں۔",
+          "title_ar": "خطر الثروة",
+          "coreInsight_ar": "بينما لم يذكر صراحة، يفهم التفسير الكلاسيكي هذه الآية في سياق الثروة المادية التي تجعل الناس ينسون خالقهم وأصولهم.",
+          "whyItMatters_ar": "الثروة اختبار. الذين ينجحون يرونها كأمانة من الله لاستخدامها للخير؛ الذين يفشلون يرونها دليلاً على تفوقهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse identifies the psychological root of arrogance and oppression - the false perception of self-sufficiency. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that Abu Jahl's wealth and status created the delusion of independence that led to his opposition to the Prophet. Qurtubi emphasizes that this verse teaches that adversity can be spiritually beneficial if it maintains awareness of dependence on Allah, while prosperity can be spiritually dangerous if it breeds false confidence. Razi analyzes the philosophical dimensions: humans are contingent beings who depend on Allah for existence in every moment, making self-sufficiency ontologically impossible. Both traditions teach that the cure for arrogance is constant remembrance of Allah and reflection on human neediness. Shia scholars particularly emphasize the Ahlul Bayt's voluntary simplicity as modeling the opposite of Abu Jahl's arrogance. Sunni scholars emphasize the Prophet's companions who chose simplicity despite opportunities for wealth. Both traditions agree that this verse reveals timeless spiritual truth about the corrupting potential of unchecked prosperity. Both call Muslims to generosity, simplicity, and constant awareness of dependence on Allah. The verse's teaching unites Islamic scholarship across sectarian lines in condemning arrogance and calling for humility.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت تکبر اور ظلم کی نفسیاتی جڑ کی نشاندہی کرتی ہے - خود کفالت کا جھوٹا تصور۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ ابو جہل کی دولت اور حیثیت نے آزادی کا وہم پیدا کیا جو نبی کریم کی مخالفت کی طرف لے گیا۔ قرطبی زور دیتے ہیں کہ یہ آیت سکھاتی ہے کہ مشکلات روحانی طور پر فائدہ مند ہو سکتی ہیں اگر وہ اللہ پر انحصار کی آگاہی برقرار رکھیں، جبکہ خوشحالی روحانی طور پر نقصان دہ ہو سکتی ہے اگر وہ آزادی کا وہم پیدا کرے۔ رازی اس بات کا تجزیہ کرتے ہیں کہ کیسے دولت آزادی کا تصور پیدا کرتی ہے کیونکہ لوگ محسوس کرتے ہیں کہ وہ اپنی ضروریات خود پوری کر سکتے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ حقیقی خود کفالت صرف اللہ کی ہے اور انسانی دعوے فریب ہیں۔ ایک لطیف فرق یہ ہے کہ شیعہ علما زور دیتے ہیں کہ ائمہ علیہم السلام نے سادگی سے زندگی گزار کر اور مسلسل اللہ پر انحصار کا اظہار کر کے اس وہم کو رد کیا۔ سنی علما ابو بکر اور عمر کی سادگی پر زور دیتے ہیں۔ دونوں بنیادی اصول پر متفق ہیں کہ خوشحالی میں عاجزی اور اللہ پر انحصار کا اظہار حقیقی ایمان کی نشانی ہے۔",
+    "layer4_ar": "يتفق العلماء الشيعة والسنة على أن هذه الآية تُحدِّد الجذر النفسي للكبر والاستبداد وهو الإحساس الزائف بالاستغناء. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن ثروة أبي جهل ومكانته أوجدا له وهم الاستقلال الذي دفعه إلى معارضة النبي صلى الله عليه وآله وسلم. ويُؤكِّد القرطبي أن الآية تُعلِّم أن المحنة قد تكون نافعة روحياً إن أبقت الإنسان واعياً بافتقاره إلى الله، بينما الرخاء قد يكون ضاراً روحياً إن أورثه ثقة زائفة. ويُحلِّل الرازي الأبعاد الفلسفية مُقرِّراً أن الإنسان كيان ممكن يعتمد على الله في كل لحظة من وجوده، مما يجعل الاستغناء الأنطولوجي الحقيقي أمراً محالاً. ويُعلِّم كلا التراثين أن الذكر الدائم لله والتأمل في حاجة الإنسان الجوهرية هما الدواء الناجع من الكبر. ويُبرز علماء الشيعة تحديداً الزهد الاختياري لأهل البيت عليهم السلام نقيضاً لكبر أبي جهل. ويُؤكِّد علماء السنة بساطة أصحاب النبي رغم مواتي الفرص الدنيوية. ويتفق الفريقان على الحقيقة الروحية الخالدة التي تكشفها الآية: إمكانية الثروة غير المقرونة بالتواضع للإفساد الأخلاقي والروحي. ويدعوان معاً المسلمين إلى السخاء والبساطة والوعي الدائم بالافتقار إلى الله."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:8:return-to-lord",
+          "title": "Return to Lord",
+          "icon": "arrow.uturn.left.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Al-ruj'a (the return) affirms that every soul will return to Allah for judgment - this life's independence is temporary, accountability is permanent.",
+          "whyItMatters": "Remembering our inevitable return to Allah prevents arrogance and motivates ethical behavior when no one is watching except Him.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلرُّجْعَىٰٓ",
+          "title_urdu": "رب کی طرف واپسی",
+          "coreInsight_urdu": "الرجعیٰ (واپسی) تصدیق کرتا ہے کہ ہر روح فیصلے کے لیے اللہ کی طرف لوٹے گی - اس زندگی کی آزادی عارضی ہے، جوابدہی مستقل ہے۔",
+          "whyItMatters_urdu": "اللہ کی طرف ہماری ناگزیر واپسی کو یاد رکھنا غرور کو روکتا ہے اور اخلاقی رویے کو متحرک کرتا ہے جب کوئی نہیں دیکھ رہا ہوتا سوائے اس کے۔",
+          "title_ar": "العودة إلى الرب",
+          "coreInsight_ar": "الرجعى يؤكد أن كل نفس ستعود إلى الله للحساب - استقلال هذه الحياة مؤقت، والمساءلة دائمة.",
+          "whyItMatters_ar": "تذكر عودتنا الحتمية إلى الله يمنع الغطرسة ويحفز السلوك الأخلاقي عندما لا يراقب أحد سوى هو."
+        },
+        {
+          "id": "96:8:to-your-lord",
+          "title": "To Your Lord",
+          "icon": "figure.walk.arrival",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Rabbika (your Lord) personalizes the return - we don't face an unknown judge but our Lord who created, nurtured, and knows us completely.",
+          "whyItMatters": "This should bring both fear and hope - fear of disappointing One who gave us everything, hope in His mercy and knowledge of our struggles.",
+          "position": "topRight",
+          "arabicHighlight": "إِلَىٰ رَبِّكَ",
+          "title_urdu": "تمہارے رب کی طرف",
+          "coreInsight_urdu": "ربک (تمہارا رب) واپسی کو ذاتی بناتا ہے - ہمیں کسی نامعلوم جج کا سامنا نہیں ہے بلکہ ہمارے رب کا جس نے پیدا کیا، پرورش کی، اور ہمیں مکمل طور پر جانتا ہے۔",
+          "whyItMatters_urdu": "یہ خوف اور امید دونوں لانا چاہیے - اس کو مایوس کرنے کا خوف جس نے ہمیں سب کچھ دیا، اس کی رحمت اور ہماری جدوجہد کے علم میں امید۔",
+          "title_ar": "إلى ربك",
+          "coreInsight_ar": "ربك يضفي طابعًا شخصيًا على العودة - لا نواجه قاضيًا مجهولاً بل ربنا الذي خلق ورعى ويعرفنا تمامًا.",
+          "whyItMatters_ar": "يجب أن يجلب هذا الخوف والأمل - الخوف من خيبة أمل من أعطانا كل شيء، والأمل في رحمته ومعرفته بنضالاتنا."
+        },
+        {
+          "id": "96:8:indeed-return",
+          "title": "Certain Return",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Inna (indeed) emphasizes certainty - the return to Allah is not a possibility but an absolute guarantee that no one can escape.",
+          "whyItMatters": "This certainty should govern how we live - every action is recorded, every choice matters, and ultimate justice is guaranteed.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+          "title_urdu": "یقینی واپسی",
+          "coreInsight_urdu": "انّ (یقیناً) یقین پر زور دیتا ہے - اللہ کی طرف واپسی ایک امکان نہیں ہے بلکہ ایک مطلق ضمانت ہے جس سے کوئی نہیں بچ سکتا۔",
+          "whyItMatters_urdu": "یہ یقین اس بات کی حکومت کرنا چاہیے کہ ہم کیسے زندگی گزارتے ہیں - ہر عمل ریکارڈ ہے، ہر انتخاب اہم ہے، اور حتمی انصاف کی ضمانت ہے۔",
+          "title_ar": "العودة المؤكدة",
+          "coreInsight_ar": "إن تؤكد اليقين - العودة إلى الله ليست احتمالًا بل ضمانًا مطلقًا لا يمكن لأحد الهروب منه.",
+          "whyItMatters_ar": "يجب أن يحكم هذا اليقين كيف نعيش - كل عمل مسجل، كل اختيار مهم، والعدالة النهائية مضمونة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes ultimate accountability before Allah as the foundation of Islamic ethics. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that the certain return to Allah should prevent transgression and motivate righteousness. Ibn Kathir emphasizes that this verse specifically warned Abu Jahl that he would face judgment for opposing the Prophet and oppressing believers. Qurtubi notes that 'to your Lord' emphasizes the intimate relationship - you will return not to a distant judge but to your Creator and Sustainer who knows everything about you. Razi emphasizes that the return is inevitable and inescapable - death comes to everyone regardless of wealth or status. Both traditions teach that frequent remembrance of death and judgment purifies the soul and motivates moral behavior. Shia scholars emphasize traditions from the Ahlul Bayt about the barzakh (the state between death and resurrection) and the detailed questioning in the grave. Sunni scholars emphasize hadith about the questioning by the angels Munkar and Nakir. Despite minor differences in details, both traditions fundamentally agree that everyone will return to Allah for judgment, and this belief should shape every decision and action. Both call Muslims to live with accountability consciousness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت اللہ کے سامنے حتمی جوابدہی کو اسلامی اخلاقیات کی بنیاد کے طور پر قائم کرتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ اللہ کی طرف یقینی واپسی کو سرکشی روکنی اور نیکی کی محرک بنانی چاہیے۔ ابن کثیر زور دیتے ہیں کہ یہ آیت خاص طور پر ابو جہل کو خبردار کرتی تھی کہ وہ نبی کریم کی مخالفت اور مومنوں پر ظلم کا سامنا کرے گا۔ قرطبی نوٹ کرتے ہیں کہ 'تیرے رب کی طرف' اس بات پر زور دیتا ہے کہ واپسی کوئی اجنبی جج کی طرف نہیں بلکہ اس رب کی طرف ہے جس نے ہمیں بنایا اور ہر چیز فراہم کی۔ رازی اس بات کا تجزیہ کرتے ہیں کہ کیسے قیامت کا یقین معاشرے میں اخلاقی رویے کو برقرار رکھنے کے لیے ضروری ہے۔ دونوں روایات سکھاتی ہیں کہ موت اور فیصلے کی یاددہانی عاجزی پیدا کرنی اور ظلم روکنی چاہیے۔ ایک لطیف فرق یہ ہے کہ شیعہ علما ائمہ علیہم السلام کو اللہ کی طرف واپسی کی تیاری میں نمونے کے طور پر پیش کرتے ہیں۔ سنی علما صحابہ کی موت کی تیاری پر زور دیتے ہیں۔ دونوں متفق ہیں کہ یہ آیت انصاف اور جوابدہی قائم کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُقرِّر المساءلة الأبدية أمام الله أساساً للأخلاق الإسلامية. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُوضِّحون أن اليقين بالرجوع إلى الله ينبغي أن يحول دون الطغيان ويحثَّ على الصلاح. ويُؤكِّد ابن كثير أن الآية حذَّرت أبا جهل تحديداً من أنه سيُساءل على معارضته للنبي وإيذائه المؤمنين. ويُلاحظ القرطبي أن «إِلَى رَبِّكَ» تُؤكِّد العلاقة الحميمة: أنت لن تعود إلى قاضٍ بعيد بل إلى خالقك والمتكفِّل برزقك الذي يعلم كل شيء عنك. ويُؤكِّد الرازي أن الرجوع حتم لا مفرَّ منه؛ فالموت يأتي الكل بصرف النظر عن الثروة والمكانة. ويُعلِّم كلا التراثين أن كثرة ذكر الموت والحساب تُصفِّي النفس وتُحرِّك الهمة نحو الصلاح. ويُؤكِّد علماء الشيعة روايات أهل البيت عليهم السلام عن البرزخ والسؤال في القبر. ويُبرز علماء السنة الأحاديث المتعلقة بسؤال الملكَين منكر ونكير. وعلى الرغم من الفوارق في بعض التفاصيل فإن الفريقين يتفقان جوهرياً على أن الجميع راجعون إلى الله للحساب وأن هذا اليقين ينبغي أن يُشكِّل كل قرار وكل فعل. وكلاهما يدعو المسلمين إلى حياة الاستشعار بالمسؤولية."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:9:have-you-seen",
+          "title": "Have You Seen",
+          "icon": "eye.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Ara'ayta (have you seen) shifts to addressing the Prophet about Abu Jahl, who tried to prevent him from praying - a rhetorical question highlighting oppression's absurdity.",
+          "whyItMatters": "This teaches that those who prevent worship are witnessing against themselves, exposing their own spiritual bankruptcy through their actions.",
+          "position": "topLeft",
+          "arabicHighlight": "أَرَءَيْتَ",
+          "title_urdu": "کیا تم نے دیکھا",
+          "coreInsight_urdu": "ارأیت (کیا تم نے دیکھا) نبی کو ابو جہل کے بارے میں خطاب کرنے کی طرف منتقل ہوتا ہے، جس نے انہیں نماز پڑھنے سے روکنے کی کوشش کی - ایک بیانیہ سوال جو ظلم کی بے معنویت کو اجاگر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ جو عبادت کو روکتے ہیں وہ اپنے خلاف گواہی دے رہے ہیں، اپنے اعمال کے ذریعے اپنی روحانی دیوالیہ پن کو بے نقاب کرتے ہوئے۔",
+          "title_ar": "أرأيت",
+          "coreInsight_ar": "أرأيت تتحول إلى مخاطبة النبي عن أبي جهل، الذي حاول منعه من الصلاة - سؤال بلاغي يبرز عبثية القمع.",
+          "whyItMatters_ar": "يعلم هذا أن من يمنعون العبادة يشهدون ضد أنفسهم، كاشفين إفلاسهم الروحي من خلال أعمالهم."
+        },
+        {
+          "id": "96:9:one-who-forbids",
+          "title": "The Forbidder",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allathee yanha (the one who forbids) refers to Abu Jahl specifically but applies universally to those who obstruct others' worship and spiritual growth.",
+          "whyItMatters": "Preventing others from connecting with Allah is a grave sin. We must ensure our actions facilitate, not hinder, others' relationship with their Creator.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلَّذِى يَنْهَىٰ",
+          "title_urdu": "منع کرنے والا",
+          "coreInsight_urdu": "الذی ینہیٰ (جو منع کرتا ہے) خاص طور پر ابو جہل کی طرف اشارہ کرتا ہے لیکن عالمی طور پر ان لوگوں پر لاگو ہوتا ہے جو دوسروں کی عبادت اور روحانی ترقی میں رکاوٹ ڈالتے ہیں۔",
+          "whyItMatters_urdu": "دوسروں کو اللہ سے جڑنے سے روکنا ایک سنگین گناہ ہے۔ ہمیں اس بات کو یقینی بنانا چاہیے کہ ہمارے اعمال دوسروں کے اپنے خالق کے ساتھ تعلق کو آسان بنائیں، رکاوٹ نہ بنیں۔",
+          "title_ar": "المانع",
+          "coreInsight_ar": "الذي ينهى يشير إلى أبي جهل على وجه التحديد لكنه يطبق عالميًا على من يعرقلون عبادة الآخرين ونموهم الروحي.",
+          "whyItMatters_ar": "منع الآخرين من الاتصال بالله خطيئة جسيمة. يجب أن نضمن أن أفعالنا تسهل، وليس تعيق، علاقة الآخرين بخالقهم."
+        },
+        {
+          "id": "96:9:servant-praying",
+          "title": "A Servant Praying",
+          "icon": "figure.stand",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Abdan idha salla (a servant when he prays) - the act of prayer is the ultimate expression of servitude, and preventing it is preventing someone from their purpose.",
+          "whyItMatters": "Prayer is a fundamental human right and spiritual need. Those who create environments hostile to worship work against human nature and divine design.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَبْدًا إِذَا صَلَّىٰٓ",
+          "title_urdu": "نماز پڑھتا بندہ",
+          "coreInsight_urdu": "عبدا اذا صلّی (ایک بندہ جب نماز پڑھتا ہے) - نماز کا عمل غلامی کا حتمی اظہار ہے، اور اسے روکنا کسی کو ان کے مقصد سے روکنا ہے۔",
+          "whyItMatters_urdu": "نماز ایک بنیادی انسانی حق اور روحانی ضرورت ہے۔ جو لوگ عبادت کے لیے دشمنانہ ماحول پیدا کرتے ہیں وہ انسانی فطرت اور الہی ڈیزائن کے خلاف کام کرتے ہیں۔",
+          "title_ar": "عبد يصلي",
+          "coreInsight_ar": "عبدًا إذا صلى - فعل الصلاة هو التعبير النهائي عن العبودية، ومنعها منع شخص من غرضه.",
+          "whyItMatters_ar": "الصلاة حق أساسي وحاجة روحية. من يخلقون بيئات معادية للعبادة يعملون ضد الطبيعة البشرية والتصميم الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the historical context - Abu Jahl threatened to attack the Prophet while praying - and both condemn preventing worship as grave oppression. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, cite the same hadith from Ibn Abbas about Abu Jahl's threat and the angels' protection. Both traditions teach that this verse establishes freedom of worship as a fundamental right. Ibn Kathir emphasizes that preventing prayer is particularly evil because prayer is the direct connection between servant and Lord. Qurtubi notes that the rhetorical question format implies condemnation - only the most misguided would prevent worship. Razi emphasizes that Abu Jahl's attempt to prevent prayer revealed his complete spiritual blindness and hostility to truth. Both traditions teach that maintaining prayer despite opposition is among the highest forms of faith. Both condemn historical and contemporary religious persecution. Shia scholars particularly emphasize Imam Ali's martyrdom during prayer as exemplifying devotion that no threat could prevent. Sunni scholars emphasize the Prophet's courage in praying publicly despite threats. Both traditions agree that this verse calls believers to prioritize worship over worldly concerns and to resist all attempts to suppress religious practice. The verse's teaching unites Muslims in condemning religious oppression and cherishing freedom of worship.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما تاریخی سیاق و سباق پر متفق ہیں - ابو جہل نے نبی کریم کو نماز کے دوران حملہ کرنے کی دھمکی دی - اور دونوں عبادت روکنے کو سنگین ظلم قرار دیتے ہیں۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، ابن عباس کی وہی حدیث نقل کرتے ہیں ابو جہل کی دھمکی اور فرشتوں کی حفاظت کے بارے میں۔ دونوں روایات سکھاتی ہیں کہ یہ آیت عبادت کی آزادی کو بنیادی حق قائم کرتی ہے۔ ابن کثیر زور دیتے ہیں کہ نماز روکنا خاص طور پر برا ہے کیونکہ نماز خالق اور مخلوق کا براہ راست تعلق ہے۔ قرطبی نوٹ کرتے ہیں کہ یہ آیت مومنوں کو تسلی دیتی ہے کہ اللہ عبادت گزاروں کی حفاظت کرتے ہیں۔ رازی اس بات کا تجزیہ کرتے ہیں کہ کیسے عبادت کو روکنا تکبر کی انتہا ہے۔ دونوں روایات نماز کی اہمیت پر زور دیتی ہیں۔ ایک لطیف فرق یہ ہے کہ شیعہ علما ائمہ علیہم السلام کو نمونے کے طور پر پیش کرتے ہیں جنہوں نے انتہائی مشکل حالات میں بھی نماز برقرار رکھی۔ سنی علما صحابہ کی نماز پر استقامت پر زور دیتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على السياق التاريخي للآية؛ فأبو جهل هدَّد النبي صلى الله عليه وآله وسلم حين يُصلِّي، وكلا التراثين يُدين منع العبادة إدانةً شديدة. فالطبري وابن كثير، كالطباطبائي والطبرسي، يستشهدون بالحديث ذاته عن ابن عباس في تهديد أبي جهل وحماية الملائكة. ويُعلِّم كلا التراثين أن هذه الآية تُرسِّخ حرية العبادة حقاً أصيلاً لا يُنازَع. ويُؤكِّد ابن كثير أن منع الصلاة شر بالغ لأن الصلاة الصلة المباشرة بين العبد وربه. ويُلاحظ القرطبي أن الصيغة الاستنكارية تحمل الإدانة الضمنية؛ إذ لا يُقدِم على هذا إلا أشد الناس ضلالاً. ويُؤكِّد الرازي أن محاولة أبي جهل كشفت عمى روحياً كاملاً وعداءً صريحاً للحق. ويُعلِّم كلا التراثين أن الثبات على الصلاة رغم المعارضة من أعلى مراتب الإيمان. وكلاهما يُدين الاضطهاد الديني في كل زمان ومكان. ويُبرز علماء الشيعة تحديداً استشهاد الإمام علي عليه السلام في الصلاة نموذجاً للولاء الذي لا يثنيه تهديد. ويُؤكِّد علماء السنة شجاعة النبي صلى الله عليه وآله وسلم في الصلاة علناً رغم الأخطار. ويتفق الفريقان على أن الآية تدعو المؤمنين إلى تقديم العبادة على الدنيا ومقاومة كل محاولة لقمع الشعائر الدينية."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:10:when-he-prays",
+          "title": "When He Prays",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Idha salla (when he prays) emphasizes the specific context - the oppressor targets the moment of worship, when the believer is most vulnerable and focused on Allah.",
+          "whyItMatters": "Enemies of faith often attack during moments of worship because they recognize prayer's power. This shouldn't deter us but strengthen our commitment.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذَا صَلَّىٰٓ",
+          "title_urdu": "جب وہ نماز پڑھتا ہے",
+          "coreInsight_urdu": "اذا صلّی (جب وہ نماز پڑھتا ہے) مخصوص سیاق و سباق پر زور دیتا ہے - ظالم عبادت کے لمحے کو نشانہ بناتا ہے، جب مومن سب سے زیادہ کمزور اور اللہ پر مرکوز ہوتا ہے۔",
+          "whyItMatters_urdu": "ایمان کے دشمن اکثر عبادت کے لمحات کے دوران حملہ کرتے ہیں کیونکہ وہ نماز کی طاقت کو پہچانتے ہیں۔ یہ ہمیں روکنا نہیں چاہیے بلکہ ہمارے عزم کو مضبوط کرنا چاہیے۔",
+          "title_ar": "عندما يصلي",
+          "coreInsight_ar": "إذا صلى يؤكد السياق المحدد - يستهدف الظالم لحظة العبادة، عندما يكون المؤمن أكثر ضعفًا وتركيزًا على الله.",
+          "whyItMatters_ar": "غالبًا ما يهاجم أعداء الإيمان خلال لحظات العبادة لأنهم يدركون قوة الصلاة. يجب ألا يردعنا هذا بل يقوي التزامنا."
+        },
+        {
+          "id": "96:10:the-servant",
+          "title": "The Servant",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Abd (servant) is a title of honor in Islam - the Prophet himself is called 'abd Allah' (servant of Allah), showing that servitude to Allah is humanity's highest status.",
+          "whyItMatters": "Being Allah's servant is not degrading but elevating. This verse dignifies the worshipper and condemns those who mock or prevent worship.",
+          "position": "topRight",
+          "arabicHighlight": "عَبْدًا",
+          "title_urdu": "بندہ",
+          "coreInsight_urdu": "عبد (بندہ) اسلام میں عزت کا لقب ہے - نبی خود 'عبداللہ' (اللہ کے بندے) کہلاتے ہیں، یہ ظاہر کرتے ہوئے کہ اللہ کی غلامی انسانیت کا سب سے اونچا درجہ ہے۔",
+          "whyItMatters_urdu": "اللہ کا بندہ ہونا ذلیل کن نہیں ہے بلکہ بلند کرنے والا ہے۔ یہ آیت عبادت کرنے والے کو عزت دیتی ہے اور ان لوگوں کی مذمت کرتی ہے جو عبادت کا مذاق اڑاتے یا روکتے ہیں۔",
+          "title_ar": "العبد",
+          "coreInsight_ar": "العبد لقب شرف في الإسلام - النبي نفسه يُدعى 'عبد الله'، مما يظهر أن العبودية لله أعلى مكانة للإنسانية.",
+          "whyItMatters_ar": "كونك عبدًا لله ليس مهينًا بل رافعًا. تكرم هذه الآية العابد وتدين من يسخرون أو يمنعون العبادة."
+        },
+        {
+          "id": "96:10:prayer-confrontation",
+          "title": "Prayer as Confrontation",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The fact that Abu Jahl specifically targeted the Prophet during prayer shows that worship itself is an act of resistance against oppression and falsehood.",
+          "whyItMatters": "Prayer is never merely private - it's a public declaration of allegiance to truth. Maintaining worship under persecution demonstrates unshakeable faith.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَبْدًا إِذَا صَلَّىٰٓ",
+          "title_urdu": "نماز بطور مقابلہ",
+          "coreInsight_urdu": "یہ حقیقت کہ ابو جہل نے خاص طور پر نماز کے دوران نبی کو نشانہ بنایا یہ ظاہر کرتا ہے کہ عبادت خود ظلم اور جھوٹ کے خلاف مزاحمت کا عمل ہے۔",
+          "whyItMatters_urdu": "نماز کبھی محض نجی نہیں ہے - یہ سچائی کے ساتھ وفاداری کا عوامی اعلان ہے۔ ظلم کے تحت عبادت کو برقرار رکھنا غیر متزلزل ایمان کو ظاہر کرتا ہے۔",
+          "title_ar": "الصلاة كمواجهة",
+          "coreInsight_ar": "حقيقة أن أبا جهل استهدف النبي على وجه التحديد أثناء الصلاة تظهر أن العبادة نفسها عمل مقاومة ضد القمع والباطل.",
+          "whyItMatters_ar": "الصلاة ليست خاصة أبدًا - إنها إعلان علني للولاء للحق. الحفاظ على العبادة تحت الاضطهاد يظهر إيمانًا لا يتزعزع."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse emphasizes prayer's supreme importance by condemning those who prevent it. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that Abu Jahl's specific threat against the Prophet while praying revealed the central role of prayer in early Islam. Both traditions teach that prayer is Islam's most important pillar after shahada. Ibn Kathir notes that the verse's focus on the moment of prayer emphasizes its special sanctity. Qurtubi emphasizes that those who maintain prayer despite opposition demonstrate the highest level of faith. Razi notes that prostration in prayer symbolizes complete submission to Allah, which directly contradicts the arrogance of those who imagine themselves self-sufficient. Both traditions teach that missing prayers without valid excuse is a major sin. Both emphasize that the Prophet never missed a prayer in his life, setting the model for believers. Shia scholars particularly emphasize the Imams' meticulous attention to prayer times and conditions. Sunni scholars emphasize the companions' devotion to congregational prayer. Minor differences exist in jurisprudence regarding prayer specifics, but both traditions fundamentally agree that prayer is the defining practice of Muslims and must be maintained despite all difficulties. Both condemn preventing worship and call believers to prioritize prayer above worldly concerns.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت نماز کی اعلیٰ اہمیت پر زور دیتی ہے اور جو اسے روکتے ہیں ان کی مذمت کرتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ ابو جہل کی نماز پڑھتے ہوئے نبی کریم کے خلاف خاص دھمکی ابتدائی اسلام میں نماز کے مرکزی کردار کو ظاہر کرتی تھی۔ دونوں روایات سکھاتی ہیں کہ نماز شہادہ کے بعد اسلام کا سب سے اہم ستون ہے۔ ابن کثیر نوٹ کرتے ہیں کہ آیت کی نماز کے لمحے پر توجہ اس کی خاص تقدس کو اجاگر کرتی ہے۔ قرطبی زور دیتے ہیں کہ نماز پڑھتے ہوئے شخص اللہ کے ساتھ بات چیت میں ہوتا ہے اور اس لمحے میں مداخلت خاص طور پر گھناؤنی ہے۔ رازی اس بات کا تجزیہ کرتے ہیں کہ کیسے نماز سے دشمنی اللہ سے دشمنی کو ظاہر کرتی ہے۔ دونوں روایات مسلمانوں کو ہر حال میں نماز برقرار رکھنے کی تاکید کرتی ہیں۔ معمولی فرق یہ ہے کہ شیعہ علما ائمہ علیہم السلام کی نماز پر استقامت کو نمونے کے طور پر پیش کرتے ہیں۔ سنی علما صحابہ کی نماز پر پابندی پر زور دیتے ہیں۔ دونوں متفق ہیں کہ نماز روکنا سنگین جرم ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُعلي من شأن الصلاة بإدانة من يسعى إلى منعها. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن تهديد أبي جهل المحدَّد للنبي صلى الله عليه وآله وسلم في أثناء صلاته كشف عن المكانة المحورية للصلاة في صدر الإسلام. ويُعلِّم كلا التراثين أن الصلاة أهم أركان الإسلام بعد الشهادتين. ويُلاحظ ابن كثير أن تركيز الآية على لحظة الصلاة تحديداً يُؤكِّد قداستها الخاصة. ويُؤكِّد القرطبي أن من ثبت على الصلاة رغم المعارضة بلغ أعلى درجات الإيمان. ويُلاحظ الرازي أن السجود في الصلاة يُجسِّد الاستسلام التام لله مما يتناقض تناقضاً جذرياً مع كبر من يتوهَّم نفسه مستغنياً. ويُعلِّم كلا التراثين أن إهمال الصلاة من غير عذر من الكبائر. ويُؤكِّدان أن النبي صلى الله عليه وآله وسلم لم يُفوِّت صلاةً قط في حياته، ضارباً المثل الأعلى للمؤمنين. ويُبرز علماء الشيعة دقة الأئمة عليهم السلام في مراعاة أوقات الصلاة وشروطها. ويُؤكِّد علماء السنة ارتباط الصحابة بصلاة الجماعة. وتوجد فوارق في فروع الفقه المتعلقة بتفاصيل الصلاة، غير أن كلا التراثين يتفقان جوهرياً على أن الصلاة الممارسة المميِّزة للمسلمين الواجب صونها رغم كل العقبات. وكلاهما يُدين منع العبادة ويدعو المؤمنين إلى تقديم الصلاة على شواغل الدنيا جميعاً."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:11:if-upon-guidance",
+          "title": "Upon Guidance",
+          "icon": "map.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Ala al-huda (upon guidance) poses a rhetorical question - what if the one you're stopping is actually on the right path? The oppressor risks opposing divine guidance itself.",
+          "whyItMatters": "Before opposing someone's worship or religious practice, we must ask: are we fighting against guidance itself? This verse warns against religious persecution.",
+          "position": "topLeft",
+          "arabicHighlight": "عَلَى ٱلْهُدَىٰٓ",
+          "title_urdu": "ہدایت پر",
+          "coreInsight_urdu": "علی الہدیٰ (ہدایت پر) ایک بیانیہ سوال پیش کرتا ہے - اگر جسے تم روک رہے ہو وہ در حقیقت صحیح راستے پر ہو تو کیا ہو؟ ظالم خود الہی رہنمائی کی مخالفت کا خطرہ مول لیتا ہے۔",
+          "whyItMatters_urdu": "کسی کی عبادت یا مذہبی عمل کی مخالفت کرنے سے پہلے، ہمیں پوچھنا چاہیے: کیا ہم خود ہدایت کے خلاف لڑ رہے ہیں؟ یہ آیت مذہبی ظلم کے خلاف خبردار کرتی ہے۔",
+          "title_ar": "على الهدى",
+          "coreInsight_ar": "على الهدى يطرح سؤالًا بلاغيًا - ماذا لو كان من توقفه في الواقع على الطريق الصحيح؟ يخاطر الظالم بمعارضة التوجيه الإلهي نفسه.",
+          "whyItMatters_ar": "قبل معارضة عبادة شخص أو ممارسته الدينية، يجب أن نسأل: هل نحارب الهداية نفسها؟ تحذر هذه الآية من الاضطهاد الديني."
+        },
+        {
+          "id": "96:11:have-you-considered",
+          "title": "Have You Considered",
+          "icon": "brain.head.profile",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Ara'ayta (have you seen/considered) repeats, urging reflection - oppressors act without thinking about the consequences of opposing someone on the true path.",
+          "whyItMatters": "Before acting against others, we must pause and consider: what if they're right? This intellectual humility prevents injustice and opens us to truth.",
+          "position": "topRight",
+          "arabicHighlight": "أَرَءَيْتَ إِن كَانَ",
+          "title_urdu": "کیا تم نے غور کیا",
+          "coreInsight_urdu": "ارأیت (کیا تم نے دیکھا/غور کیا) دہراتا ہے، غور و فکر کی تاکید کرتا ہے - ظالم سچے راستے پر کسی کی مخالفت کے نتائج کے بارے میں سوچے بغیر کام کرتے ہیں۔",
+          "whyItMatters_urdu": "دوسروں کے خلاف کام کرنے سے پہلے، ہمیں رکنا چاہیے اور غور کرنا چاہیے: اگر وہ صحیح ہوں تو کیا ہو؟ یہ فکری عاجزی ناانصافی کو روکتی ہے اور ہمیں سچائی کے لیے کھولتی ہے۔",
+          "title_ar": "هل فكرت",
+          "coreInsight_ar": "أرأيت يتكرر، حاثًا على التأمل - يتصرف الظالمون دون التفكير في عواقب معارضة شخص على الطريق الحق.",
+          "whyItMatters_ar": "قبل التصرف ضد الآخرين، يجب أن نتوقف ونفكر: ماذا لو كانوا على حق؟ يمنع هذا التواضع الفكري الظلم ويفتحنا على الحقيقة."
+        },
+        {
+          "id": "96:11:if-he-was",
+          "title": "What If",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "In kan (if he was) introduces doubt into the oppressor's certainty - you think you're opposing falsehood, but what if you're opposing truth?",
+          "whyItMatters": "Certainty in one's own righteousness can lead to oppressing the truly righteous. Humility and openness to being wrong are essential virtues.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِن كَانَ",
+          "title_urdu": "اگر ہو",
+          "coreInsight_urdu": "ان کان (اگر ہو) ظالم کی یقین دہانی میں شک متعارف کراتا ہے - آپ سوچتے ہیں کہ آپ جھوٹ کی مخالفت کر رہے ہیں، لیکن اگر آپ سچائی کی مخالفت کر رہے ہوں تو کیا ہو؟",
+          "whyItMatters_urdu": "اپنی نیکی میں یقین واقعی نیک لوگوں پر ظلم کا باعث بن سکتا ہے۔ عاجزی اور غلط ہونے کے لیے کھلاپن ضروری خوبیاں ہیں۔",
+          "title_ar": "ماذا لو",
+          "coreInsight_ar": "إن كان يدخل الشك في يقين الظالم - تعتقد أنك تعارض الباطل، لكن ماذا لو كنت تعارض الحق؟",
+          "whyItMatters_ar": "اليقين في صلاح المرء يمكن أن يؤدي إلى ظلم الصالحين حقًا. التواضع والانفتاح على الخطأ فضائل أساسية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes the Prophet as genuinely guided, making opposition to him fundamentally unjust. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that the verse's rhetorical question affirms the Prophet's guidance while condemning Abu Jahl's opposition. Ibn Kathir emphasizes that the Prophet's moral character and spiritual practices proved his guidance. Qurtubi notes that the verse implies that preventing someone on guidance from worship compounds the sin - you are not just preventing worship but obstructing divine guidance. Razi emphasizes that true guidance is demonstrated through submission to Allah, making prayer a key indicator. Both traditions teach that recognizing authentic guidance requires spiritual insight, not just superficial observation. Shia scholars particularly emphasize that guidance continues through the Ahlul Bayt, who inherit and explain the Prophet's teachings. Sunni scholars emphasize that guidance is found in the Quran and Sunnah, properly understood by qualified scholars. Despite this difference in epistemological sources, both traditions agree on the fundamental teaching: the Prophet was on perfect guidance, opposition to the guided is opposition to truth, and authentic guidance is demonstrated by commitment to worship and submission to Allah. Both call Muslims to prioritize divine guidance over worldly success when evaluating themselves and others.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت نبی کریم کو حقیقی طور پر ہدایت یافتہ قائم کرتی ہے، جو ان کی مخالفت کو بنیادی طور پر ناانصافی بناتا ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ آیت کا بیانیہ سوال نبی کریم کی ہدایت کی تصدیق کرتا ہے جبکہ ابو جہل کی مخالفت کی مذمت کرتا ہے۔ ابن کثیر زور دیتے ہیں کہ نبی کریم کا اخلاقی کردار اور روحانی اعمال ان کی ہدایت کو ثابت کرتے تھے۔ قرطبی نوٹ کرتے ہیں کہ یہ آیت اشارہ کرتی ہے کہ کسی کو جو ہدایت پر ہے عبادت سے روکنا گناہ کو بڑھا دیتا ہے - آپ نہ صرف عبادت روک رہے ہیں بلکہ الٰہی ہدایت میں رکاوٹ ڈال رہے ہیں۔ رازی زور دیتے ہیں کہ حقیقی ہدایت اللہ کے سامنے تسلیم کے ذریعے ظاہر ہوتی ہے، جو نماز کو کلیدی اشارہ بناتا ہے۔ دونوں روایات سکھاتی ہیں کہ مستند ہدایت کو پہچاننے کے لیے روحانی بصیرت کی ضرورت ہے، نہ کہ صرف سطحی مشاہدے کی۔ شیعہ علما خاص طور پر زور دیتے ہیں کہ ہدایت اہل بیت علیہم السلام کے ذریعے جاری رہتی ہے، جو نبی کریم کی تعلیمات کے وارث اور وضاحت کرنے والے ہیں۔ سنی علما زور دیتے ہیں کہ ہدایت قرآن اور سنت میں پائی جاتی ہے، اہل علماء کی طرف سے صحیح طریقے سے سمجھی گئی۔ علمی ذرائع میں اس فرق کے باوجود، دونوں روایات بنیادی تعلیم پر متفق ہیں: نبی کریم کامل ہدایت پر تھے، ہدایت یافتہ کی مخالفت سچائی کی مخالفت ہے، اور مستند ہدایت عبادت کے عہد اور اللہ کے سامنے تسلیم سے ظاہر ہوتی ہے۔ دونوں مسلمانوں کو دعوت دیتے ہیں کہ اپنے اور دوسروں کا جائزہ لیتے وقت الٰہی ہدایت کو دنیاوی کامیابی پر ترجیح دیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تُقرِّر هداية النبي صلى الله عليه وآله وسلم وتُثبت ظلم من عارضه. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن السؤال الاستنكاري في الآية يُثبت هداية النبي صلى الله عليه وآله وسلم في الوقت الذي يُدين فيه معارضة أبي جهل. ويُؤكِّد ابن كثير أن خُلُق النبي الرفيع وممارساته الروحية شاهدان ناصعان على هدايته. ويُلاحظ القرطبي أن الآية تُفيد أن منع المهتدي من العبادة يُضاعف الجُرم؛ إذ أنت لا تمنع عبادةً فحسب، بل تسد طريق الهداية الإلهية. ويُؤكِّد الرازي أن الهداية الحقة تتجلى بالإذعان لله، مما يجعل الصلاة المؤشرَ الأمين عليها. ويُعلِّم كلا التراثين أن التعرف على الهداية الأصيلة يستلزم بصيرة روحية لا مجرد مشاهدة سطحية. ويُشدِّد علماء الشيعة تحديداً على أن الهداية تستمر عبر أهل البيت عليهم السلام الذين يرثون تفسير النبي صلى الله عليه وآله وسلم ويُبيِّنونه. ويُشدِّد علماء السنة على أن الهداية تُوجَد في القرآن والسنة على وفق الفهم الصحيح المؤهَّل. وبالرغم من هذا التمايز في مصادر المعرفة يتفق التراثان جوهرياً: النبي صلى الله عليه وآله وسلم كان على هداية كاملة، ومعارضة المهتدي معارضة للحق ذاته، والهداية الصادقة تتجلى بالتفاني في العبادة والإذعان لله. وكلاهما يدعو المسلمين إلى تقديم الهداية الإلهية على النجاح الدنيوي عند تقييم أنفسهم وسائر الناس."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:12:enjoins-righteousness",
+          "title": "Enjoins Righteousness",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Amara bil-taqwa (enjoins righteousness) - what if the person you're opposing not only follows guidance but actively calls others to piety and God-consciousness?",
+          "whyItMatters": "Opposing those who call to righteousness is doubly wrong - you're not just opposing their practice but preventing them from guiding others to goodness.",
+          "position": "topLeft",
+          "arabicHighlight": "أَمَرَ بِٱلتَّقْوَىٰٓ",
+          "title_urdu": "نیکی کا حکم",
+          "coreInsight_urdu": "امر بالتقویٰ (نیکی کا حکم دینا) - اگر جس شخص کی آپ مخالفت کر رہے ہیں وہ نہ صرف ہدایت کی پیروی کرتا ہے بلکہ فعال طور پر دوسروں کو پارسائی اور خدا کی آگاہی کی طرف بلاتا ہے تو کیا ہو؟",
+          "whyItMatters_urdu": "ان لوگوں کی مخالفت جو نیکی کی طرف بلاتے ہیں دوہرا غلط ہے - آپ نہ صرف ان کے عمل کی مخالفت کر رہے ہیں بلکہ انہیں دوسروں کو نیکی کی طرف رہنمائی کرنے سے روک رہے ہیں۔",
+          "title_ar": "يأمر بالتقوى",
+          "coreInsight_ar": "أمر بالتقوى - ماذا لو كان الشخص الذي تعارضه لا يتبع الهداية فحسب بل يدعو الآخرين بنشاط إلى التقوى والوعي بالله؟",
+          "whyItMatters_ar": "معارضة من يدعون إلى البر خطأ مضاعف - أنت لا تعارض ممارستهم فقط بل تمنعهم من إرشاد الآخرين إلى الخير."
+        },
+        {
+          "id": "96:12:taqwa",
+          "title": "God-Consciousness",
+          "icon": "eye.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Taqwa means awareness of Allah in all actions, leading to righteousness and moral excellence - it's the comprehensive Islamic virtue encompassing all good.",
+          "whyItMatters": "Those who cultivate and promote taqwa are society's greatest assets. Opposing or silencing them harms the entire community's spiritual health.",
+          "position": "topRight",
+          "arabicHighlight": "بِٱلتَّقْوَىٰٓ",
+          "title_urdu": "خدا کی آگاہی",
+          "coreInsight_urdu": "تقویٰ کا مطلب ہے تمام اعمال میں اللہ کی آگاہی، جو نیکی اور اخلاقی عظمت کی طرف لے جاتا ہے - یہ جامع اسلامی فضیلت ہے جو تمام نیکی کو شامل کرتا ہے۔",
+          "whyItMatters_urdu": "جو لوگ تقویٰ کی پرورش اور فروغ دیتے ہیں وہ معاشرے کے سب سے بڑے اثاثے ہیں۔ ان کی مخالفت یا خاموش کرنا پوری کمیونٹی کی روحانی صحت کو نقصان پہنچاتا ہے۔",
+          "title_ar": "التقوى",
+          "coreInsight_ar": "التقوى تعني الوعي بالله في جميع الأفعال، مما يؤدي إلى البر والتميز الأخلاقي - إنها الفضيلة الإسلامية الشاملة التي تشمل كل الخير.",
+          "whyItMatters_ar": "من يزرعون التقوى ويروجونها هم أعظم أصول المجتمع. معارضتهم أو إسكاتهم يضر بالصحة الروحية للمجتمع بأسره."
+        },
+        {
+          "id": "96:12:or-enjoined",
+          "title": "Or Enjoined",
+          "icon": "arrow.turn.up.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Aw (or) adds another dimension - beyond personal guidance, this person actively works to improve society by calling others to righteousness.",
+          "whyItMatters": "Islam values both personal piety and social responsibility. Preventing someone from both is attacking the foundation of a moral society.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَوْ أَمَرَ",
+          "title_urdu": "یا حکم دیا",
+          "coreInsight_urdu": "او (یا) ایک اور جہت کا اضافہ کرتا ہے - ذاتی ہدایت سے آگے، یہ شخص فعال طور پر دوسروں کو نیکی کی طرف بلا کر معاشرے کو بہتر بنانے کے لیے کام کرتا ہے۔",
+          "whyItMatters_urdu": "اسلام ذاتی پارسائی اور سماجی ذمہ داری دونوں کی قدر کرتا ہے۔ کسی کو دونوں سے روکنا ایک اخلاقی معاشرے کی بنیاد پر حملہ ہے۔",
+          "title_ar": "أو أمر",
+          "coreInsight_ar": "أو يضيف بعدًا آخر - بعد التقوى الشخصية، يعمل هذا الشخص بنشاط لتحسين المجتمع بدعوة الآخرين إلى البر.",
+          "whyItMatters_ar": "يقدر الإسلام التقوى الشخصية والمسؤولية الاجتماعية. منع شخص من الاثنين هو مهاجمة أساس مجتمع أخلاقي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that enjoining good and forbidding evil is a fundamental Islamic obligation, and this verse praises those who fulfill it. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that the Prophet exemplified enjoining righteousness, making opposition to him particularly unjust. Ibn Kathir emphasizes that calling to taqwa is among the noblest actions and a defining characteristic of prophets and righteous people. Qurtubi notes that a society that silences those calling to righteousness is doomed to moral decline. Razi emphasizes that taqwa encompasses all virtues - consciousness of Allah leading to righteous action. Both traditions teach that Muslims must actively promote good and oppose evil according to their capability. Shia scholars particularly emphasize the Ahlul Bayt's courageous stands against oppression as models of enjoining good and forbidding evil. Sunni scholars emphasize the companions' devotion to moral reformation. Minor differences exist in specific applications and jurisprudence, but both traditions fundamentally agree that enjoining righteousness is obligatory and praiseworthy. Both condemn silencing moral voices and call believers to support those calling to taqwa. Both teach that personal righteousness must be combined with social moral responsibility. The verse's teaching unites Islamic scholarship in emphasizing moral activism as essential to faith.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ نیکی کا حکم دینا اور برائی سے روکنا بنیادی اسلامی فریضہ ہے، اور یہ آیت ان لوگوں کی تعریف کرتی ہے جو اسے پورا کرتے ہیں۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ نبی کریم نے نیکی کا حکم دینے کی مثال پیش کی، جو ان کی مخالفت کو خاص طور پر ناانصافی بناتا ہے۔ ابن کثیر زور دیتے ہیں کہ تقویٰ کی دعوت دینا بلند ترین اعمال میں سے ہے اور انبیاء اور نیک لوگوں کی خصوصیت ہے۔ قرطبی نوٹ کرتے ہیں کہ جو معاشرہ نیکی کی دعوت دینے والوں کو خاموش کراتا ہے وہ اخلاقی زوال کے لیے برباد ہے۔ رازی زور دیتے ہیں کہ تقویٰ تمام فضائل پر محیط ہے - اللہ کی آگاہی جو نیک عمل کی طرف لے جاتی ہے۔ دونوں روایات سکھاتی ہیں کہ مسلمانوں کو اپنی صلاحیت کے مطابق فعال طور پر بھلائی کو فروغ دینا اور برائی کی مخالفت کرنی چاہیے۔ شیعہ علما خاص طور پر اہل بیت علیہم السلام کے ظلم کے خلاف بہادرانہ موقف کو نیکی کا حکم دینے اور برائی سے روکنے کے نمونوں کے طور پر اجاگر کرتے ہیں۔ سنی علما صحابہ کی اخلاقی اصلاح کے لیے عقیدت پر زور دیتے ہیں۔ مخصوص اطلاق اور فقہ میں معمولی اختلافات موجود ہیں، لیکن دونوں روایات بنیادی طور پر اس بات پر متفق ہیں کہ نیکی کا حکم دینا واجب اور قابل تعریف ہے۔ دونوں اخلاقی آوازوں کو خاموش کرانے کی مذمت کرتے ہیں اور مومنوں کو دعوت دیتے ہیں کہ تقویٰ کی دعوت دینے والوں کی حمایت کریں۔ دونوں سکھاتے ہیں کہ ذاتی نیکی کو معاشرتی اخلاقی ذمہ داری کے ساتھ ملایا جانا چاہیے۔ آیت کی تعلیم اسلامی علمی دنیا کو متحد کرتی ہے کہ اخلاقی سرگرمی ایمان کے لیے ضروری ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الأمر بالمعروف والنهي عن المنكر فريضة إسلامية جوهرية، وأن هذه الآية تُثني على من يقوم بها حق قيام. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن النبي صلى الله عليه وآله وسلم كان النموذج الأعلى للأمر بالتقوى، مما يجعل معارضة أبي جهل له بالغة الظلم والجحود. ويُؤكِّد ابن كثير أن الدعوة إلى التقوى من أشرف الأعمال وعلامة الأنبياء والصالحين. ويُلاحظ القرطبي أن المجتمع الذي يُسكِّت الأصوات الداعية إلى الاستقامة محكوم عليه بالتردِّي الأخلاقي. ويُؤكِّد الرازي أن التقوى تجمع جميع الفضائل في كلمة واحدة: مراقبة الله المُفضية إلى الالتزام بأوامره في كل شؤون الحياة. ويُعلِّم كلا التراثين أن على المسلمين النهوض بالأمر بالمعروف والنهي عن المنكر بحسب طاقتهم. ويُشدِّد علماء الشيعة تحديداً على مواقف أهل البيت عليهم السلام الشجاعة في مواجهة الظلم نماذجَ حيَّةً لهذه الفريضة. ويُبرز علماء السنة تفاني الصحابة في الإصلاح الأخلاقي. وتوجد فوارق في تفاصيل التطبيق الفقهي، غير أن كلا التراثين يتفقان جوهرياً على أن الأمر بالتقوى واجب محمود، وأن إسكات الأصوات الأخلاقية مذموم. ويتفق التراثان على ضرورة الجمع بين الاستقامة الشخصية والمسؤولية الأخلاقية الاجتماعية، وأن في ذلك وحده يتحقق نموذج الإيمان الصادق الذي يُنشئه القرآن الكريم."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:13:if-he-denies",
+          "title": "If He Denies",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Kaththaba (denies/rejects) describes Abu Jahl's fundamental problem - not ignorance but active rejection of truth despite recognizing it.",
+          "whyItMatters": "The greatest sin is not not-knowing but knowing the truth and deliberately rejecting it. This verse warns against intellectual dishonesty.",
+          "position": "topLeft",
+          "arabicHighlight": "كَذَّبَ",
+          "title_urdu": "اگر وہ جھٹلائے",
+          "coreInsight_urdu": "کذّب (جھٹلانا/مسترد کرنا) ابو جہل کے بنیادی مسئلے کی وضاحت کرتا ہے - جہالت نہیں بلکہ سچائی کو پہچاننے کے باوجود اس کی فعال تردید۔",
+          "whyItMatters_urdu": "سب سے بڑا گناہ نہ جانا نہیں ہے بلکہ سچائی کو جاننا اور جان بوجھ کر مسترد کرنا ہے۔ یہ آیت فکری بے ایمانی کے خلاف خبردار کرتی ہے۔",
+          "title_ar": "إن كذب",
+          "coreInsight_ar": "كذب يصف مشكلة أبي جهل الأساسية - ليس الجهل بل الرفض النشط للحق رغم الاعتراف به.",
+          "whyItMatters_ar": "أكبر خطيئة ليست عدم المعرفة بل معرفة الحق ورفضه عمدًا. تحذر هذه الآية من عدم الأمانة الفكرية."
+        },
+        {
+          "id": "96:13:turns-away",
+          "title": "Turns Away",
+          "icon": "arrow.turn.left.up",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Tawalla (turns away) adds to denial - not only rejecting truth but actively avoiding it, refusing to engage or consider evidence.",
+          "whyItMatters": "Avoidance is a form of denial. When we actively avoid examining challenging truths, we're turning away from potential growth and enlightenment.",
+          "position": "topRight",
+          "arabicHighlight": "وَتَوَلَّىٰٓ",
+          "title_urdu": "منہ موڑتا ہے",
+          "coreInsight_urdu": "تولّی (منہ موڑنا) تردید میں اضافہ کرتا ہے - نہ صرف سچائی کو مسترد کرنا بلکہ فعال طور پر اس سے بچنا، ثبوت کو غور کرنے یا شامل ہونے سے انکار کرنا۔",
+          "whyItMatters_urdu": "بچنا تردید کی ایک شکل ہے۔ جب ہم فعال طور پر چیلنجنگ سچائیوں کا جائزہ لینے سے بچتے ہیں، تو ہم ممکنہ ترقی اور روشن خیالی سے منہ موڑ رہے ہیں۔",
+          "title_ar": "يتولى",
+          "coreInsight_ar": "تولى يضيف إلى الإنكار - ليس فقط رفض الحق بل تجنبه بنشاط، رفض المشاركة أو النظر في الأدلة.",
+          "whyItMatters_ar": "التجنب شكل من أشكال الإنكار. عندما نتجنب بنشاط فحص الحقائق الصعبة، نحن نبتعد عن النمو والاستنارة المحتملة."
+        },
+        {
+          "id": "96:13:denial-and-turning",
+          "title": "Denial and Turning",
+          "icon": "figure.walk.departure",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The combination of kaththaba and tawalla shows complete rejection - both intellectual (denying) and practical (turning away from worship and guidance).",
+          "whyItMatters": "Hypocrisy can be partial - believing but not acting, or acting without belief. Complete rejection involves both mind and action, making rehabilitation difficult.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَذَّبَ وَتَوَلَّىٰٓ",
+          "title_urdu": "تردید اور منہ موڑنا",
+          "coreInsight_urdu": "کذّب اور تولّی کا مجموعہ مکمل تردید کو ظاہر کرتا ہے - دونوں فکری (جھٹلانا) اور عملی (عبادت اور ہدایت سے منہ موڑنا)۔",
+          "whyItMatters_urdu": "منافقت جزوی ہو سکتی ہے - یقین کرنا لیکن عمل نہ کرنا، یا یقین کے بغیر عمل کرنا۔ مکمل تردید میں ذہن اور عمل دونوں شامل ہیں، بحالی کو مشکل بناتا ہے۔",
+          "title_ar": "الإنكار والتولي",
+          "coreInsight_ar": "مزيج كذب وتولى يظهر الرفض الكامل - فكري (الإنكار) وعملي (الابتعاد عن العبادة والهداية).",
+          "whyItMatters_ar": "يمكن أن يكون النفاق جزئيًا - الإيمان دون العمل، أو العمل دون الإيمان. الرفض الكامل يشمل العقل والعمل، مما يجعل التأهيل صعبًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse describes conscious, willful rejection of known truth, exemplified by Abu Jahl. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, cite reports that Abu Jahl privately acknowledged the Prophet's truthfulness but publicly denied it. Ibn Kathir emphasizes that denial combined with turning away represents complete rebellion - rejecting truth intellectually and refusing it practically. Qurtubi notes that this is the worst form of disbelief, worse than ignorance, because it is conscious choice of falsehood. Razi analyzes the psychological mechanism: arrogance prevents submission even when truth is recognized. Both traditions teach that this verse warns against intellectual dishonesty and stubbornness in the face of evidence. Both emphasize that sincere truth-seeking leads to faith, while arrogance leads to denial. Shia scholars particularly emphasize parallels to those who denied Imam Ali's rightful succession despite clear evidence from the Prophet. Sunni scholars emphasize the companions' immediate acceptance of truth, contrasting them with deniers like Abu Jahl. Despite different applications, both traditions fundamentally agree on this verse's teaching: conscious rejection of known truth is gravely sinful and leads to destruction. Both call believers to intellectual honesty and humble submission to truth regardless of personal preferences.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت معلوم سچائی کے شعوری، ارادی رد کو بیان کرتی ہے، جس کی مثال ابو جہل نے پیش کی۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، ایسی روایات کا حوالہ دیتے ہیں کہ ابو جہل نے نجی طور پر نبی کریم کی سچائی کو تسلیم کیا لیکن عوامی طور پر اس کا انکار کیا۔ ابن کثیر زور دیتے ہیں کہ منہ موڑنے کے ساتھ انکار مکمل بغاوت کی نمائندگی کرتا ہے - فکری طور پر سچائی کو رد کرنا اور عملی طور پر اس سے انکار کرنا۔ قرطبی نوٹ کرتے ہیں کہ یہ کفر کی بدترین شکل ہے، لاعلمی سے بدتر، کیونکہ یہ جھوٹ کا شعوری انتخاب ہے۔ رازی نفسیاتی طریقہ کار کا تجزیہ کرتے ہیں: تکبر تسلیم سے روکتا ہے چاہے سچائی کو پہچانا جائے۔ دونوں روایات سکھاتی ہیں کہ یہ آیت فکری بے ایمانی اور ثبوت کے سامنے ضد کے خلاف خبردار کرتی ہے۔ دونوں زور دیتے ہیں کہ مخلص سچائی کی تلاش ایمان کی طرف لے جاتی ہے، جبکہ تکبر انکار کی طرف لے جاتا ہے۔ شیعہ علما خاص طور پر ان لوگوں کے ساتھ مماثلتیں اجاگر کرتے ہیں جنہوں نے نبی کریم کے واضح ثبوت کے باوجود امام علی علیہ السلام کی حقدار جانشینی کا انکار کیا۔ سنی علما صحابہ کی سچائی کی فوری قبولیت پر زور دیتے ہیں، انہیں ابو جہل جیسے انکار کرنے والوں سے متضاد کرتے ہوئے۔ مختلف اطلاق کے باوجود، دونوں روایات بنیادی طور پر اس آیت کی تعلیم پر متفق ہیں: معلوم سچائی کا شعوری رد سنگین گناہ ہے اور تباہی کی طرف لے جاتا ہے۔ دونوں مومنوں کو فکری ایمانداری اور ذاتی ترجیحات سے قطع نظر سچائی کے سامنے عاجزانہ تسلیم کی دعوت دیتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تصف الرفض الإرادي الواعي للحق المعروف مُتَجسِّداً في شخص أبي جهل. فالطبري وابن كثير، كالطباطبائي والطبرسي، يستشهدون بروايات تُفيد أن أبا جهل أقرَّ سراً بصدق النبي صلى الله عليه وآله وسلم ثم أعلن تكذيبه علناً. ويُؤكِّد ابن كثير أن الجمع بين التكذيب والتولِّي يعني العصيان المكتمل: ردُّ الحق فكرياً ورفض الخضوع له سلوكياً. ويُلاحظ القرطبي أن هذا أقبح صور الكفر وأشدها وطأةً من الجهل، لأنه اختيار واعٍ للباطل على بصيرة. ويُحلِّل الرازي الآلية النفسية لهذه الظاهرة: الكبر يحول دون الانقياد حتى حين يُدرَك الحق ويُعرَف. ويُعلِّم كلا التراثين أن الآية تُحذِّر من الكبر الفكري والعناد أمام الدليل. ويُشدِّد علماء الشيعة تحديداً على أوجه الشبه بين حال أبي جهل وحال من أنكروا ولاية الإمام علي عليه السلام رغم قيام الحجة الصريحة عن النبي صلى الله عليه وآله وسلم. ويُبرز علماء السنة مبادرة الصحابة الفورية إلى قبول الحق في مقابل إصرار المنكرين كأبي جهل. وعلى تباين التطبيقات يتفق التراثان جوهرياً على ما تُقرِّره الآية: الردُّ الإرادي للحق المعروف إثم جسيم يُفضي إلى الهلاك، والأمانة الفكرية والانقياد المتواضع للحق مهما كان ثمنه شخصياً واجبٌ على كل مؤمن."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:14:does-not-know",
+          "title": "Does Not Know",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Alam ya'lam (does he not know) is rhetorical - Abu Jahl knows intellectually that Allah sees, but acts as if He doesn't, showing the gap between knowledge and practice.",
+          "whyItMatters": "Knowing about Allah's attributes intellectually is not enough - we must internalize and act upon that knowledge constantly, especially when alone.",
+          "position": "topLeft",
+          "arabicHighlight": "أَلَمْ يَعْلَم",
+          "title_urdu": "کیا نہیں جانتا",
+          "coreInsight_urdu": "الم یعلم (کیا وہ نہیں جانتا) بیانیہ ہے - ابو جہل ذہنی طور پر جانتا ہے کہ اللہ دیکھتا ہے، لیکن ایسے کام کرتا ہے جیسے وہ نہیں دیکھتا، علم اور عمل کے درمیان خلا کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی صفات کے بارے میں ذہنی طور پر جانا کافی نہیں ہے - ہمیں اس علم کو اندرونی بنانا اور مسلسل اس پر عمل کرنا چاہیے، خاص طور پر جب تنہا ہوں۔",
+          "title_ar": "ألم يعلم",
+          "coreInsight_ar": "ألم يعلم بلاغي - أبو جهل يعرف فكريًا أن الله يرى، لكنه يتصرف كما لو أنه لا يرى، مما يظهر الفجوة بين المعرفة والممارسة.",
+          "whyItMatters_ar": "معرفة صفات الله فكريًا ليست كافية - يجب أن نستوعب ونعمل بتلك المعرفة باستمرار، خاصة عند الخلوة."
+        },
+        {
+          "id": "96:14:allah-sees",
+          "title": "Allah Sees",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Anna Allaha yara (that Allah sees) is the ultimate deterrent from evil and motivation for good - constant awareness that nothing escapes divine observation.",
+          "whyItMatters": "Living with consciousness that Allah sees everything transforms behavior. This awareness (muraqabah) is the foundation of Islamic ethics and spirituality.",
+          "position": "topRight",
+          "arabicHighlight": "بِأَنَّ ٱللَّهَ يَرَىٰ",
+          "title_urdu": "اللہ دیکھتا ہے",
+          "coreInsight_urdu": "انّ اللہ یریٰ (کہ اللہ دیکھتا ہے) برائی سے حتمی روک اور نیکی کے لیے حوصلہ افزائی ہے - مسلسل آگاہی کہ کچھ بھی الہی مشاہدے سے نہیں بچتا۔",
+          "whyItMatters_urdu": "اس شعور کے ساتھ زندگی گزارنا کہ اللہ سب کچھ دیکھتا ہے رویے کو تبدیل کر دیتا ہے۔ یہ آگاہی (مراقبہ) اسلامی اخلاقیات اور روحانیت کی بنیاد ہے۔",
+          "title_ar": "الله يرى",
+          "coreInsight_ar": "أن الله يرى هو الرادع النهائي عن الشر والدافع للخير - الوعي المستمر بأن لا شيء يفلت من المراقبة الإلهية.",
+          "whyItMatters_ar": "العيش بوعي أن الله يرى كل شيء يحول السلوك. هذا الوعي (المراقبة) هو أساس الأخلاق والروحانية الإسلامية."
+        },
+        {
+          "id": "96:14:divine-vision",
+          "title": "Divine Vision",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Yara (sees) encompasses complete knowledge - Allah doesn't just observe but fully comprehends intentions, context, and consequences of every action.",
+          "whyItMatters": "We can't hide anything from Allah - not our actions, words, thoughts, or intentions. This comprehensive vision demands complete sincerity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَرَىٰ",
+          "title_urdu": "الہی بصیرت",
+          "coreInsight_urdu": "یریٰ (دیکھتا ہے) مکمل علم کو شامل کرتا ہے - اللہ صرف مشاہدہ نہیں کرتا بلکہ ہر عمل کے ارادوں، سیاق و سباق، اور نتائج کو مکمل طور پر سمجھتا ہے۔",
+          "whyItMatters_urdu": "ہم اللہ سے کچھ بھی نہیں چھپا سکتے - نہ ہمارے اعمال، الفاظ، خیالات، یا ارادے۔ یہ جامع بصیرت مکمل اخلاص کا مطالبہ کرتی ہے۔",
+          "title_ar": "الرؤية الإلهية",
+          "coreInsight_ar": "يرى يشمل المعرفة الكاملة - الله لا يراقب فقط بل يفهم تمامًا النوايا والسياق والعواقب لكل عمل.",
+          "whyItMatters_ar": "لا يمكننا إخفاء أي شيء عن الله - لا أفعالنا ولا كلماتنا ولا أفكارنا ولا نوايانا. تتطلب هذه الرؤية الشاملة الإخلاص الكامل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes Allah's omniscience and calls believers to live with consciousness of divine observation. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that this verse warns oppressors that Allah sees their injustice. Ibn Kathir emphasizes that consciousness of Allah's observation is the foundation of taqwa (God-consciousness). Qurtubi notes that this verse teaches that no sin occurs except through forgetting that Allah sees. Razi emphasizes the theological point that Allah's knowledge is eternal, comprehensive, and perfect, encompassing all times, places, and circumstances. Both traditions teach the spiritual practice of muraqaba - cultivating constant awareness of divine presence. Both cite the hadith of Ihsan as explaining this verse's practical application. Shia scholars particularly emphasize traditions from the Imams about Allah's comprehensive knowledge and the spiritual practice of acting as if in Allah's visible presence. Sunni scholars emphasize similar teachings from the Prophet and companions. Minor differences exist in specific terminology and narrations, but both traditions fundamentally agree on this verse's teaching: Allah sees everything, and living with awareness of divine observation is the foundation of ethical and spiritual life. Both call believers to cultivate this consciousness through regular worship, remembrance, and conscious spiritual practice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت اللہ کے علم کامل کو قائم کرتی ہے اور مومنوں کو الٰہی مشاہدے کے شعور کے ساتھ زندگی گزارنے کی دعوت دیتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ یہ آیت ظالموں کو خبردار کرتی ہے کہ اللہ ان کا ظلم دیکھتے ہیں۔ ابن کثیر زور دیتے ہیں کہ اللہ کے مشاہدے کا شعور تقویٰ (خدا ترسی) کی بنیاد ہے۔ قرطبی نوٹ کرتے ہیں کہ یہ آیت سکھاتی ہے کہ کوئی گناہ نہیں ہوتا مگر یہ بھول کر کہ اللہ دیکھتے ہیں۔ رازی عقیدے کے نقطے پر زور دیتے ہیں کہ اللہ کا علم ابدی، جامع اور کامل ہے، تمام اوقات، جگہوں اور حالات پر محیط۔ دونوں روایات مراقبہ کی روحانی مشق سکھاتی ہیں - الٰہی موجودگی کا مسلسل شعور پیدا کرنا۔ دونوں احسان کی حدیث کا حوالہ دیتے ہیں جو اس آیت کے عملی اطلاق کی وضاحت کرتی ہے۔ شیعہ علما خاص طور پر ائمہ علیہم السلام سے روایات پر زور دیتے ہیں اللہ کے جامع علم اور اللہ کی مرئی موجودگی میں عمل کرنے کی روحانی مشق کے بارے میں۔ سنی علما نبی کریم اور صحابہ سے اسی طرح کی تعلیمات پر زور دیتے ہیں۔ مخصوص اصطلاحات اور روایات میں معمولی اختلافات موجود ہیں، لیکن دونوں روایات بنیادی طور پر اس آیت کی تعلیم پر متفق ہیں: اللہ ہر چیز دیکھتے ہیں، اور الٰہی مشاہدے کے شعور کے ساتھ زندگی گزارنا اخلاقی اور روحانی زندگی کی بنیاد ہے۔ دونوں مومنوں کو دعوت دیتے ہیں کہ باقاعدہ عبادت، یاددہانی اور شعوری روحانی مشق کے ذریعے اس شعور کو پیدا کریں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تُقرِّر علم الله الشامل وتدعو المؤمنين إلى العيش باستشعار رقابته تعالى. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن الآية تُنذر الظالمين بأن الله يرى جورهم. ويُؤكِّد ابن كثير أن استشعار رقابة الله أساس التقوى. ويُلاحظ القرطبي أن الآية تُعلِّم أن كل معصية لا تقع إلا بنسيان أن الله يرى. ويُؤكِّد الرازي النقطة العقدية بأن علم الله أزلي شامل كامل، يحيط بجميع الأزمان والأمكنة والأحوال. ويُعلِّم كلا التراثين الممارسة الروحية المُراقَبة: تنمية الاستشعار الدائم بحضور الله تعالى. ويستشهد الفريقان بحديث الإحسان الشريف شارحاً للتطبيق العملي لهذه الآية. ويُؤكِّد علماء الشيعة تحديداً الروايات الواردة عن الأئمة عليهم السلام في علم الله الشامل وممارسة العيش كأن رقابته الإلهية ماثلة مرئية. ويُؤكِّد علماء السنة تعاليم مماثلة عن النبي صلى الله عليه وآله وسلم وصحابته الكرام. وتوجد فوارق طفيفة في مصطلحات بعينها وروايات خاصة، غير أن كلا التراثين يتفقان جوهرياً على ما تُقرِّره الآية: الله يرى كل شيء، والعيش باستشعار الرقابة الإلهية أساس الحياة الأخلاقية والروحية، والمؤمنون مدعوون إلى تنمية هذا الوعي المستمر بالعبادة الدائمة والذكر الدائم والسعي الواعي إلى أن يكون الله شاهداً على كل لحظة."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:15:if-not-desist",
+          "title": "If Not Desist",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Lam yantahi (if he does not desist) offers a final warning before punishment - Allah gives opportunities to repent before consequences arrive.",
+          "whyItMatters": "Divine warnings precede divine punishment. This demonstrates Allah's mercy - He doesn't punish suddenly but gives clear warnings and chances to change.",
+          "position": "topLeft",
+          "arabicHighlight": "لَّمْ يَنتَهِ",
+          "title_urdu": "اگر باز نہ آیا",
+          "coreInsight_urdu": "لم ینتہ (اگر باز نہ آیا) سزا سے پہلے آخری انتباہ پیش کرتا ہے - اللہ نتائج آنے سے پہلے توبہ کے مواقع دیتا ہے۔",
+          "whyItMatters_urdu": "الہی انتباہات الہی سزا سے پہلے آتی ہیں۔ یہ اللہ کی رحمت کو ظاہر کرتا ہے - وہ اچانک سزا نہیں دیتا بلکہ واضح انتباہات اور تبدیلی کے مواقع دیتا ہے۔",
+          "title_ar": "إن لم ينته",
+          "coreInsight_ar": "لم ينته يقدم تحذيرًا نهائيًا قبل العقاب - يعطي الله فرصًا للتوبة قبل وصول العواقب.",
+          "whyItMatters_ar": "تسبق التحذيرات الإلهية العقاب الإلهي. يظهر هذا رحمة الله - لا يعاقب فجأة بل يعطي تحذيرات واضحة وفرصًا للتغيير."
+        },
+        {
+          "id": "96:15:drag-by-forelock",
+          "title": "Drag by Forelock",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Nasfa'an bil-nasiyah (drag by the forelock) describes humiliating punishment - the forelock represents honor and dignity, seizing it shows complete subjugation.",
+          "whyItMatters": "Those who arrogantly oppose divine guidance will face humiliation. The very pride that drove their transgression becomes the means of their degradation.",
+          "position": "topRight",
+          "arabicHighlight": "لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+          "title_urdu": "پیشانی سے پکڑیں گے",
+          "coreInsight_urdu": "لنسفعا بالناصیۃ (پیشانی سے پکڑیں گے) ذلت آمیز سزا کی وضاحت کرتا ہے - پیشانی عزت اور وقار کی نمائندگی کرتی ہے، اسے پکڑنا مکمل محکومیت کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "جو لوگ غرور سے الہی رہنمائی کی مخالفت کرتے ہیں وہ ذلت کا سامنا کریں گے۔ وہی غرور جس نے ان کی سرکشی کو چلایا ان کی تذلیل کا ذریعہ بن جاتا ہے۔",
+          "title_ar": "نسحب بالناصية",
+          "coreInsight_ar": "لنسفعًا بالناصية يصف العقاب المهين - الناصية تمثل الشرف والكرامة، والإمساك بها يظهر الإخضاع الكامل.",
+          "whyItMatters_ar": "من يعارضون الهداية الإلهية بغطرسة سيواجهون الإذلال. الكبرياء نفسه الذي دفع تجاوزهم يصبح وسيلة انحطاطهم."
+        },
+        {
+          "id": "96:15:lying-sinful",
+          "title": "Lying Sinful Forelock",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Nasiyah kathibah khati'ah (lying, sinful forelock) - the forelock is described by its owner's character, showing how our actions define us before Allah.",
+          "whyItMatters": "We become identified by our persistent sins. What we repeatedly do becomes who we are - our very identity absorbs our choices.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِٱلنَّاصِيَةِ",
+          "title_urdu": "جھوٹی گناہگار پیشانی",
+          "coreInsight_urdu": "ناصیہ کاذبہ خاطئہ (جھوٹی، گناہگار پیشانی) - پیشانی کو اس کے مالک کے کردار سے بیان کیا جاتا ہے، یہ ظاہر کرتا ہے کہ ہمارے اعمال اللہ کے سامنے ہماری تعریف کرتے ہیں۔",
+          "whyItMatters_urdu": "ہم اپنے مسلسل گناہوں سے پہچانے جاتے ہیں۔ جو ہم بار بار کرتے ہیں وہ بن جاتا ہے جو ہم ہیں - ہماری شناخت ہمارے انتخاب کو جذب کر لیتی ہے۔",
+          "title_ar": "الناصية الكاذبة الخاطئة",
+          "coreInsight_ar": "ناصية كاذبة خاطئة - توصف الناصية بشخصية صاحبها، مما يظهر كيف تحددنا أفعالنا أمام الله.",
+          "whyItMatters_ar": "نصبح محددين بخطايانا المستمرة. ما نفعله بشكل متكرر يصبح من نحن - هويتنا ذاتها تمتص خياراتنا."
+        },
+        {
+          "id": "96:15:no-certainly",
+          "title": "No! Certainly",
+          "icon": "xmark.seal.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Kalla (No!/Certainly not!) emphatically rejects Abu Jahl's behavior and mindset - this is Allah's direct response to arrogance and oppression.",
+          "whyItMatters": "Sometimes Allah responds to human arrogance with direct, emphatic rejection. This teaches that certain behaviors are absolutely unacceptable to Him.",
+          "position": "bottomRight",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "نہیں! یقیناً",
+          "coreInsight_urdu": "کلّا (نہیں!/یقیناً نہیں!) ابو جہل کے رویے اور ذہنیت کو زور سے رد کرتا ہے - یہ غرور اور ظلم کے لیے اللہ کا براہ راست جواب ہے۔",
+          "whyItMatters_urdu": "کبھی کبھار اللہ انسانی غرور کا براہ راست، زور دار تردید کے ساتھ جواب دیتا ہے۔ یہ سکھاتا ہے کہ کچھ رویے اس کے لیے بالکل ناقابل قبول ہیں۔",
+          "title_ar": "كلا! بالتأكيد",
+          "coreInsight_ar": "كلا يرفض بشدة سلوك أبي جهل وعقليته - هذا رد الله المباشر على الغطرسة والقمع.",
+          "whyItMatters_ar": "أحيانًا يرد الله على الغطرسة البشرية برفض مباشر وحازم. يعلم هذا أن بعض السلوكيات غير مقبولة تمامًا له."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse warns Abu Jahl specifically and all persistent oppressors generally. Tabari and Ibn Kathir, like Tabatabai and Tabrisi, explain that the verse threatens seizing by the forelock as humiliating punishment. Ibn Kathir emphasizes that Abu Jahl's death at Badr fulfilled this warning. Qurtubi notes that the verse's conditional form shows divine mercy - punishment can be avoided through repentance. Razi emphasizes that the forelock symbolizes pride and status, so seizing it represents utter humiliation. Both traditions cite Abu Jahl's death as historical fulfillment of this verse. Both teach that the verse applies beyond Abu Jahl to all who persist in preventing worship and oppressing believers. Both emphasize that Allah's justice is certain though sometimes delayed, and both call believers to trust divine justice rather than seeking personal revenge. Shia scholars particularly emphasize parallels to all who oppress the righteous and prevent justice, including political oppressors throughout history. Sunni scholars emphasize that the verse demonstrates Quranic prediction - Abu Jahl's specific fate was foretold. Despite different emphases, both traditions fundamentally agree on this verse's teaching: persistent oppression despite warnings leads to humiliating punishment, divine justice is certain, and believers should trust Allah's judgment while patiently maintaining worship and righteousness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات پر متفق ہیں کہ یہ آیت خاص طور پر ابو جہل اور عام طور پر تمام جاری ظالموں کو خبردار کرتی ہے۔ طبری اور ابن کثیر، طباطبائی اور طبرسی کی طرح، وضاحت کرتے ہیں کہ آیت پیشانی کے بالوں سے پکڑنے کی دھمکی ذلت آمیز سزا کے طور پر دیتی ہے۔ ابن کثیر زور دیتے ہیں کہ ابو جہل کی بدر میں موت نے اس خبرداری کو پورا کیا۔ قرطبی نوٹ کرتے ہیں کہ آیت کی مشروط شکل الٰہی رحمت کو ظاہر کرتی ہے - سزا توبہ کے ذریعے ٹالی جا سکتی ہے۔ رازی زور دیتے ہیں کہ پیشانی کے بال غرور اور حیثیت کی علامت ہیں، اس لیے ان کو پکڑنا انتہائی ذلت کی نمائندگی کرتا ہے۔ دونوں روایات ابو جہل کی موت کو اس آیت کی تاریخی تکمیل کے طور پر بیان کرتی ہیں۔ دونوں سکھاتی ہیں کہ یہ آیت ابو جہل سے آگے تمام لوگوں پر لاگو ہوتی ہے جو عبادت روکنے اور مومنوں پر ظلم میں جاری رہتے ہیں۔ دونوں زور دیتے ہیں کہ اللہ کا انصاف یقینی ہے حالانکہ کبھی کبھی تاخیر سے ہوتا ہے، اور دونوں مومنوں کو دعوت دیتے ہیں کہ ذاتی انتقام لینے کی بجائے الٰہی انصاف پر بھروسہ کریں۔ شیعہ علما خاص طور پر پوری تاریخ میں نیکوں پر ظلم کرنے والوں اور انصاف روکنے والوں سمیت سیاسی ظالموں کے ساتھ مماثلتیں اجاگر کرتے ہیں۔ سنی علما زور دیتے ہیں کہ آیت قرآنی پیشین گوئی کو ظاہر کرتی ہے - ابو جہل کے مخصوص انجام کی پیشگوئی کی گئی تھی۔ مختلف زور کے باوجود، دونوں روایات بنیادی طور پر اس آیت کی تعلیم پر متفق ہیں: خبرداریوں کے باوجود جاری ظلم ذلت آمیز سزا کی طرف لے جاتا ہے، الٰہی انصاف یقینی ہے، اور مومنوں کو اللہ کے فیصلے پر بھروسہ کرتے ہوئے صبر سے عبادت اور نیکی برقرار رکھنی چاہیے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الآية تُنذر أبا جهل تحديداً وجميع الظالمين المُصرِّين عموماً. فالطبري وابن كثير، كالطباطبائي والطبرسي، يُبيِّنون أن الآية تُوعِّد بالسَّفع بالناصية عقوبةً مُذِلَّة للمتجبِّرين. ويُؤكِّد ابن كثير أن مصرع أبي جهل في بدر وفاءٌ بهذا الإنذار. ويُلاحظ القرطبي أن الصيغة الشرطية في الآية شاهد على رحمة الله إذ العقوبة تُتقَّى بالتوبة وإصلاح المسار. ويُؤكِّد الرازي أن الناصية رمز الكبر والمكانة، وأن الإمساك بها يُجسِّد الذل المطلق. ويستشهد كلا التراثين بمصرع أبي جهل وفاءً تاريخياً وعينياً بما أوعدته الآية. ويُعلِّم الفريقان أن الآية تتجاوز أبا جهل لتشمل كل من يُصرُّ على منع العبادة وقمع المؤمنين. ويُؤكِّدان أن عدل الله مؤجَّل أحياناً لكنه حقٌّ لا ريب، ويدعوان المؤمنين إلى الثقة بالقضاء الإلهي لا ابتغاء الانتقام الشخصي. ويُشدِّد علماء الشيعة تحديداً على أوجه الشبه بين أبي جهل وكل ظالم اضطهد الصالحين عبر التاريخ. ويُؤكِّد علماء السنة أن الآية تُثبت إعجاز القرآن النبوي إذ أُعلن مصير أبي جهل قبل تحقُّقه. وعلى تباين الأوجه المُشدَّد عليها يتفق التراثان جوهرياً على ما تُقرِّره الآية: الإصرار على الطغيان رغم الإنذارات يُفضي إلى عقاب إلهي مُذِلٍّ، وعدل الله حقٌّ ثابت، والمؤمنون مدعوون إلى الصبر ومواصلة العبادة والبراءة واليقين بأن الله سيُنصف المظلوم ويُخزي الظالم في نهاية المطاف."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:16:nasiya",
+          "title": "Forelock",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The nasiya (forelock) represents the center of decision-making and willpower. Abu Jahl's forelock is described as lying and sinning, indicating corruption at the source of his choices.",
+          "whyItMatters": "This anatomical reference teaches that sin originates in the mind's choices before manifesting in actions - moral transformation must begin with how we think and decide.",
+          "position": "topLeft",
+          "arabicHighlight": "نَاصِيَةٍۢ",
+          "title_urdu": "پیشانی",
+          "coreInsight_urdu": "ناصیہ (پیشانی) فیصلہ سازی اور قوت ارادی کے مرکز کی نمائندگی کرتی ہے۔ ابو جہل کی پیشانی کو جھوٹا اور گنہگار قرار دیا گیا ہے، جو اس کے انتخاب کے منبع میں فساد کی نشاندہی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ جسمانی حوالہ سکھاتا ہے کہ گناہ اعمال میں ظاہر ہونے سے پہلے ذہن کے انتخاب میں شروع ہوتا ہے - اخلاقی تبدیلی کا آغاز اس بات سے ہونا چاہیے کہ ہم کیسے سوچتے اور فیصلہ کرتے ہیں۔",
+          "title_ar": "الناصية",
+          "coreInsight_ar": "الناصية تمثل مركز اتخاذ القرار والإرادة. وصفت ناصية أبي جهل بالكاذبة والخاطئة، مما يشير إلى الفساد في مصدر اختياراته.",
+          "whyItMatters_ar": "يعلم هذا المرجع التشريحي أن الخطيئة تنشأ في اختيارات العقل قبل أن تتجلى في الأفعال - يجب أن يبدأ التحول الأخلاقي بكيفية تفكيرنا واتخاذ قراراتنا."
+        },
+        {
+          "id": "96:16:lying-sinning",
+          "title": "Lying & Sinning",
+          "icon": "xmark.seal.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The pairing of 'lying' (kadhiba) and 'sinning' (khati'a) reveals the connection between intellectual dishonesty and moral corruption. False beliefs lead to sinful actions.",
+          "whyItMatters": "Recognizing this link helps us guard our minds against falsehood - what we believe shapes who we become, making truthfulness essential for spiritual purity.",
+          "position": "topRight",
+          "arabicHighlight": "كَٰذِبَةٍ خَاطِئَةٍۢ",
+          "title_urdu": "جھوٹ اور گناہ",
+          "coreInsight_urdu": "'جھوٹا' (کاذبہ) اور 'گنہگار' (خاطئہ) کا جوڑا فکری بے ایمانی اور اخلاقی فساد کے درمیان تعلق کو ظاہر کرتا ہے۔ جھوٹے عقائد گناہ کے اعمال کی طرف لے جاتے ہیں۔",
+          "whyItMatters_urdu": "اس ربط کو پہچاننا ہمیں جھوٹ کے خلاف اپنے ذہنوں کی حفاظت میں مدد کرتا ہے - جو ہم مانتے ہیں وہ ہمیں تشکیل دیتا ہے، جو سچائی کو روحانی پاکیزگی کے لیے ضروری بناتا ہے۔",
+          "title_ar": "الكذب والخطيئة",
+          "coreInsight_ar": "يكشف الجمع بين 'الكذب' و'الخطيئة' عن العلاقة بين عدم الأمانة الفكرية والفساد الأخلاقي. تؤدي المعتقدات الخاطئة إلى أفعال آثمة.",
+          "whyItMatters_ar": "إدراك هذا الارتباط يساعدنا على حماية عقولنا من الباطل - ما نؤمن به يشكل من نصبح، مما يجعل الصدق ضرورياً للنقاء الروحي."
+        },
+        {
+          "id": "96:16:abu-jahl",
+          "title": "Defiant Opposition",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "This verse specifically addresses Abu Jahl who tried to prevent the Prophet from praying at the Kaaba, representing arrogant opposition to divine truth despite clear evidence.",
+          "whyItMatters": "It warns us that knowledge alone doesn't guarantee righteousness - Abu Jahl knew the truth but pride and worldly status prevented him from accepting it.",
+          "position": "bottomLeft",
+          "arabicHighlight": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+          "title_urdu": "سرکش مخالفت",
+          "coreInsight_urdu": "یہ آیت خاص طور پر ابو جہل کو مخاطب کرتی ہے جس نے نبی کو کعبہ میں نماز پڑھنے سے روکنے کی کوشش کی، واضح ثبوت کے باوجود الہی سچائی کی متکبرانہ مخالفت کی نمائندگی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں متنبہ کرتا ہے کہ صرف علم راستبازی کی ضمانت نہیں دیتا - ابو جہل سچائی کو جانتا تھا لیکن غرور اور دنیاوی حیثیت نے اسے قبول کرنے سے روکا۔",
+          "title_ar": "المعارضة المتمردة",
+          "coreInsight_ar": "تخاطب هذه الآية أبا جهل الذي حاول منع النبي من الصلاة في الكعبة، مما يمثل معارضة متكبرة للحق الإلهي رغم الأدلة الواضحة.",
+          "whyItMatters_ar": "تحذرنا من أن المعرفة وحدها لا تضمن البر - كان أبو جهل يعرف الحق لكن الكبرياء والمكانة الدنيوية منعته من قبوله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse, identifying it as a reference to Abu Jahl's attempt to prevent the Prophet from praying. Ibn Kathir, Tabari, and Qurtubi in their respective tafasir confirm the historical context and the symbolic meaning of the forelock. However, there are nuanced differences in emphasis. Sunni exegetes like al-Razi focus primarily on the historical narrative and linguistic analysis, explaining the dual description (lying and sinning) as comprehensively condemning both speech and action. Shia scholars like Tabatabai and Tabrisi add layers of spiritual and theological significance, connecting the verse to broader themes of Wilayah (divine authority) and the cosmic struggle between truth and falsehood. Some classical Sunni scholars interpret the forelock more literally as a body part that will be seized, while Shia tradition emphasizes the symbolic dimension - the forelock represents human will and authority. Both traditions agree, however, on the core message: arrogant opposition to divine worship brings severe consequences, and those who prevent others from remembering Allah have corrupted their very capacity for moral judgment.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تشریح پر متفق ہیں، اسے ابو جہل کی نبی کریم کو نماز سے روکنے کی کوشش کے حوالے کے طور پر شناخت کرتے ہیں۔ ابن کثیر، طبری اور قرطبی اپنی تفاسیر میں تاریخی سیاق و سباق اور پیشانی کے علامتی معنی کی تصدیق کرتے ہیں۔ تاہم، زور میں باریک فرق ہیں۔ سنی مفسرین جیسے الرازی بنیادی طور پر تاریخی بیانیہ اور لسانی تجزیہ پر توجہ مرکوز کرتے ہیں، دوہری تفصیل (جھوٹا اور گناہگار) کو قول اور فعل دونوں کی جامع مذمت کے طور پر بیان کرتے ہیں۔ شیعہ علماء جیسے طباطبائی اور طبرسی روحانی اور کلامی اہمیت کی تہیں شامل کرتے ہیں، آیت کو ولایت (الٰہی اختیار) اور سچائی اور جھوٹ کے درمیان کائناتی جدوجہد کے وسیع تر موضوعات سے جوڑتے ہیں۔ کچھ کلاسیکی سنی علماء پیشانی کی زیادہ لفظی تشریح کرتے ہیں کہ یہ ایک جسمانی عضو ہے جو پکڑا جائے گا، جبکہ شیعہ روایت علامتی جہت پر زور دیتی ہے - پیشانی انسانی ارادے اور اختیار کی نمائندگی کرتی ہے۔ تاہم، دونوں روایات بنیادی پیغام پر متفق ہیں: الٰہی عبادت کی متکبرانہ مخالفت شدید نتائج لاتی ہے، اور جو لوگ دوسروں کو اللہ کی یاد سے روکتے ہیں ان کی اخلاقی فیصلے کی صلاحیت خراب ہو گئی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية وتحديدها مرجعاً لمحاولة أبي جهل منع النبي صلى الله عليه وآله وسلم من الصلاة. فابن كثير والطبري والقرطبي في تفاسيرهم يُثبتون السياق التاريخي والمعنى الرمزي للناصية. غير أن ثمة فوارق دقيقة في الأوجه المُشدَّد عليها؛ فمفسرو السنة كالرازي يُركِّزون في المقام الأول على السرد التاريخي والتحليل اللغوي، ويُفسِّرون الوصف المزدوج «كاذبة خاطئة» على أنه إدانة جامعة للقول والفعل معاً. بينما يُضيف علماء الشيعة كالطباطبائي والطبرسي أبعاداً روحية وعقدية، يربطون فيها الآية بالموضوعات الكبرى للولاية الإلهية والصراع الكوني بين الحق والباطل. ويميل بعض علماء السنة الكلاسيكيين إلى فهم الناصية على نحو حرفي باعتبارها عضواً سيُؤخذ به، بينما تُشدِّد التقاليد الشيعية على البُعد الرمزي — إذ تمثِّل الناصية إرادة الإنسان وسلطته على نفسه. ويتفق التراثان على المضمون الجوهري للآية: الكبر ومعاداة العبادة الإلهية يُفسدان قدرة الإنسان على الحكم الأخلاقي ذاتها، ومن أصرَّ على ذلك استوجب ما أوعدته الآيات من العقاب الشديد."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:17:call-assembly",
+          "title": "Call Your Council",
+          "icon": "person.3.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah challenges Abu Jahl to summon his nadih (council/tribe) - the worldly supporters he relies upon. This is divine irony: gather your helpers if you think they can protect you.",
+          "whyItMatters": "It exposes the futility of relying on human power against divine decree. The verse teaches that earthly alliances, no matter how strong, cannot shield us from accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "فَلْيَدْعُ نَادِيَهُۥ",
+          "title_urdu": "اپنی مجلس بلاؤ",
+          "coreInsight_urdu": "اللہ ابو جہل کو چیلنج کرتا ہے کہ اپنی نادیہ (مجلس/قبیلہ) کو بلائے - دنیاوی حامی جن پر وہ انحصار کرتا ہے۔ یہ الہی طنز ہے: اپنے مددگاروں کو جمع کرو اگر تمہیں لگتا ہے کہ وہ تمہاری حفاظت کر سکتے ہیں۔",
+          "whyItMatters_urdu": "یہ الہی فیصلے کے خلاف انسانی طاقت پر انحصار کی بیکاری کو بے نقاب کرتا ہے۔ آیت سکھاتی ہے کہ زمینی اتحاد، چاہے کتنے ہی مضبوط ہوں، ہمیں جوابدہی سے محفوظ نہیں رکھ سکتے۔",
+          "title_ar": "ادع مجلسك",
+          "coreInsight_ar": "يتحدى الله أبا جهل أن يستدعي ناديه (مجلسه/قبيلته) - المؤيدين الدنيويين الذين يعتمد عليهم. هذه سخرية إلهية: اجمع أنصارك إن كنت تظن أنهم يستطيعون حمايتك.",
+          "whyItMatters_ar": "تكشف عن عدم جدوى الاعتماد على القوة البشرية ضد القضاء الإلهي. تعلم الآية أن التحالفات الأرضية، مهما كانت قوية، لا يمكن أن تحمينا من المساءلة."
+        },
+        {
+          "id": "96:17:nadih",
+          "title": "The Assembly",
+          "icon": "building.columns.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Nadih refers to the social gathering place where Quraysh leaders met to make decisions. It represents worldly power structures and elite councils that opposed the Prophet.",
+          "whyItMatters": "This reminds us that institutional power and social prestige are worthless when opposing divine truth - the mighty councils of Quraysh could not stop Islam's spread.",
+          "position": "topRight",
+          "arabicHighlight": "نَادِيَهُۥ",
+          "title_urdu": "مجلس",
+          "coreInsight_urdu": "نادیہ اس سماجی اجتماعی جگہ سے مراد ہے جہاں قریش کے رہنما فیصلے کرنے کے لیے ملتے تھے۔ یہ دنیاوی طاقت کے ڈھانچے اور اشرافیہ کی مجلسوں کی نمائندگی کرتا ہے جنہوں نے نبی کی مخالفت کی۔",
+          "whyItMatters_urdu": "یہ یاد دلاتا ہے کہ ادارہ جاتی طاقت اور سماجی وقار بے کار ہیں جب الہی سچائی کی مخالفت کی جائے - قریش کی طاقتور مجلسیں اسلام کے پھیلاؤ کو نہیں روک سکیں۔",
+          "title_ar": "المجلس",
+          "coreInsight_ar": "يشير النادي إلى مكان التجمع الاجتماعي حيث التقى قادة قريش لاتخاذ القرارات. يمثل هياكل السلطة الدنيوية والمجالس النخبوية التي عارضت النبي.",
+          "whyItMatters_ar": "يذكرنا أن السلطة المؤسسية والهيبة الاجتماعية لا قيمة لها عند معارضة الحق الإلهي - لم تستطع مجالس قريش القوية وقف انتشار الإسلام."
+        },
+        {
+          "id": "96:17:divine-challenge",
+          "title": "Divine Challenge",
+          "icon": "bolt.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The imperative 'falyadʿu' (let him call) is a rhetorical challenge expressing Allah's supreme power. It's not permission but a demonstration that no worldly help can avail against divine will.",
+          "whyItMatters": "Understanding this tone teaches us about Allah's absolute sovereignty - He challenges opposition not from weakness but from complete dominance over all creation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَلْيَدْعُ",
+          "title_urdu": "الہی چیلنج",
+          "coreInsight_urdu": "'فلیدع' (تو بلائے) ایک بیانیہ چیلنج ہے جو اللہ کی اعلیٰ طاقت کا اظہار کرتا ہے۔ یہ اجازت نہیں بلکہ اس بات کا مظاہرہ ہے کہ کوئی دنیاوی مدد الہی مرضی کے خلاف کام نہیں آ سکتی۔",
+          "whyItMatters_urdu": "اس لہجے کو سمجھنا ہمیں اللہ کی مطلق حاکمیت کے بارے میں سکھاتا ہے - وہ کمزوری سے نہیں بلکہ تمام مخلوق پر مکمل غلبے سے مخالفت کو چیلنج کرتا ہے۔",
+          "title_ar": "التحدي الإلهي",
+          "coreInsight_ar": "الأمر 'فليدع' هو تحدٍ بلاغي يعبر عن قوة الله العليا. إنه ليس إذناً بل إظهار أن لا مساعدة دنيوية يمكن أن تنفع ضد الإرادة الإلهية.",
+          "whyItMatters_ar": "فهم هذه النبرة يعلمنا عن سيادة الله المطلقة - يتحدى المعارضة ليس من ضعف بل من سيطرة كاملة على كل الخلق."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars show remarkable consensus on the interpretation of this verse, though with some differences in emphasis. Both traditions identify the 'nadiyah' as Abu Jahl's assembly of Qurayshi leaders. Ibn Kathir, Tabari, and other Sunni exegetes provide detailed historical context about the council meetings near the Kaaba. Shia scholars like Tabatabai and Tabrisi agree on these historical details but emphasize the theological implications more strongly - the verse as a demonstration of divine sovereignty over human power structures. A subtle difference appears in how the verse is applied. Sunni commentators tend to focus on the historical defeat of Quraysh as evidence of Islam's truth, while Shia exegetes connect this to the ongoing struggle of the Imams against oppressive power structures. For example, Shia tradition sees parallels between Abu Jahl's nadiyah and the councils that opposed Imam Ali's rightful leadership. Both traditions agree, however, that the core message is universal: no human assembly, regardless of its power and prestige, can prevail against divine decree. The verse serves as eternal warning to tyrants and comfort to the oppressed that worldly power structures are ultimately illusory when arrayed against truth.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس آیت کی تشریح پر قابل ذکر اتفاق رائے دکھاتے ہیں، اگرچہ زور میں کچھ فرق کے ساتھ۔ دونوں روایات نادیہ کو ابو جہل کی قریشی رہنماؤں کی مجلس کے طور پر شناخت کرتی ہیں۔ ابن کثیر، طبری اور دیگر سنی مفسرین کعبہ کے قریب مجلس کی میٹنگوں کے بارے میں تفصیلی تاریخی سیاق و سباق فراہم کرتے ہیں۔ شیعہ علماء جیسے طباطبائی اور طبرسی ان تاریخی تفصیلات پر متفق ہیں لیکن کلامی مضمرات پر زیادہ مضبوطی سے زور دیتے ہیں - آیت کو انسانی طاقت کے ڈھانچوں پر الٰہی بالادستی کے مظاہرے کے طور پر۔ آیت کو کس طرح لاگو کیا جاتا ہے اس میں ایک باریک فرق ظاہر ہوتا ہے۔ سنی مبصرین قریش کی تاریخی شکست پر توجہ مرکوز کرتے ہیں اسلام کی سچائی کے ثبوت کے طور پر، جبکہ شیعہ مفسرین اسے جابرانہ طاقت کے ڈھانچوں کے خلاف ائمہ کی جاری جدوجہد سے جوڑتے ہیں۔ مثال کے طور پر، شیعہ روایت ابو جہل کی نادیہ اور ان مجلسوں کے درمیان مماثلت دیکھتی ہے جنہوں نے امام علی کی حق دار قیادت کی مخالفت کی۔ تاہم، دونوں روایات اس بات پر متفق ہیں کہ بنیادی پیغام عالمگیر ہے: کوئی انسانی اجتماع، اس کی طاقت اور وقار سے قطع نظر، الٰہی فرمان کے خلاف غالب نہیں آ سکتا۔ یہ آیت ظالموں کے لیے ابدی انتباہ اور مظلوموں کے لیے تسلی کے طور پر کام کرتی ہے کہ سچائی کے خلاف صف بندی کی گئی دنیاوی طاقت کے ڈھانچے بالآخر فریب ہیں۔",
+    "layer4_ar": "يُبدي علماء الشيعة والسنة توافقاً لافتاً في تفسير هذه الآية، وإن تمايزا في بعض الأوجه. فكلا التراثين يُعيِّن «النادي» نادي أبي جهل من زعماء قريش. ويُقدِّم ابن كثير والطبري وسائر مفسِّري السنة السياق التاريخي المفصَّل لاجتماعات المجلس قرب الكعبة. ويتفق علماء الشيعة كالطباطبائي والطبرسي على هذه التفاصيل التاريخية غير أنهم يُبرزون الدلالات العقدية بصورة أعمق؛ إذ يعدُّون الآية إثباتاً للسيادة الإلهية على بُنى القوى الإنسانية. وتتجلَّى فروق دقيقة في كيفية توظيف الآية؛ فمفسِّرو السنة يُركِّزون على هزيمة قريش التاريخية شاهداً على صدق الإسلام، بينما يربط المفسِّرون الشيعة ذلك بالصراع الممتد للأئمة مع بُنى القوى المتسلِّطة عبر التاريخ، ويجدون تشابهات بين نادي أبي جهل والمجالس التي ناصبت الإمام عليَّاً عليه السلام حقَّه المشروع. ومع ذلك يتفق التراثان على المضمون الجوهري: لا مجلس بشري مهما بلغت قوته وهيبته يقدر على الوقوف أمام القضاء الإلهي، والآية إنذار أبدي للطغاة وبشرى راسخة للمظلومين."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:18:zabaniya",
+          "title": "Angels of Hell",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Az-Zabaniya are the stern angels who guard Hellfire and execute divine punishment. They represent Allah's absolute justice and the inevitable consequences of persistent rebellion.",
+          "whyItMatters": "This verse establishes that divine justice is not abstract but will be enforced by mighty angels - accountability is real and inescapable for those who persist in opposition to truth.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلزَّبَانِيَةَ",
+          "title_urdu": "جہنم کے فرشتے",
+          "coreInsight_urdu": "الزبانیہ سخت فرشتے ہیں جو جہنم کی حفاظت کرتے ہیں اور الہی سزا کو نافذ کرتے ہیں۔ وہ اللہ کی مطلق عدل اور مسلسل بغاوت کے ناگزیر نتائج کی نمائندگی کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ آیت قائم کرتی ہے کہ الہی انصاف تجریدی نہیں بلکہ طاقتور فرشتوں کی طرف سے نافذ کیا جائے گا - جوابدہی حقیقی اور ناگزیر ہے ان لوگوں کے لیے جو سچائی کی مخالفت میں ثابت قدم رہتے ہیں۔",
+          "title_ar": "ملائكة جهنم",
+          "coreInsight_ar": "الزبانية هم الملائكة الأشداء الذين يحرسون جهنم وينفذون العقاب الإلهي. يمثلون عدالة الله المطلقة والعواقب الحتمية للتمرد المستمر.",
+          "whyItMatters_ar": "تؤكد هذه الآية أن العدالة الإلهية ليست مجردة بل ستنفذها ملائكة أقوياء - المساءلة حقيقية ولا مفر منها لمن يصر على معارضة الحق."
+        },
+        {
+          "id": "96:18:we-will-call",
+          "title": "We Will Call",
+          "icon": "exclamationmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The majestic plural 'sanad'u' (We will call) contrasts Abu Jahl's futile calling of human helpers with Allah's summoning of angelic enforcers - showing the vast power differential.",
+          "whyItMatters": "This linguistic parallel teaches that while humans call upon each other for help, Allah commands angels with absolute authority - there is no comparison between human and divine power.",
+          "position": "topRight",
+          "arabicHighlight": "سَنَدْعُ",
+          "title_urdu": "ہم بلائیں گے",
+          "coreInsight_urdu": "شاہانہ جمع 'سندع' (ہم بلائیں گے) ابو جہل کے انسانی مددگاروں کو بلانے کی بیکار کوشش کا اللہ کے فرشتوں کو بلانے سے موازنہ کرتا ہے - طاقت کے وسیع فرق کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "یہ لسانی موازنہ سکھاتا ہے کہ جبکہ انسان ایک دوسرے سے مدد کے لیے پکارتے ہیں، اللہ فرشتوں کو مطلق اختیار کے ساتھ حکم دیتا ہے - انسانی اور الہی طاقت میں کوئی موازنہ نہیں۔",
+          "title_ar": "سندعو",
+          "coreInsight_ar": "يتناقض الجمع الملكي 'سندعو' مع دعوة أبي جهل الباطلة للمساعدين البشريين مع استدعاء الله للملائكة المنفذين - مما يظهر فرق القوة الهائل.",
+          "whyItMatters_ar": "يعلم هذا التوازي اللغوي أنه بينما يدعو البشر بعضهم للمساعدة، يأمر الله الملائكة بسلطة مطلقة - لا مقارنة بين القوة البشرية والإلهية."
+        },
+        {
+          "id": "96:18:divine-response",
+          "title": "Allah's Counter",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse is Allah's direct response to Abu Jahl's threat - 'you call your people, We'll call Our angels.' It demonstrates that every human threat is met with infinitely superior divine power.",
+          "whyItMatters": "It reassures believers facing persecution that Allah's response to oppressors is decisive and overwhelming - we need not fear when the Almighty is our protector.",
+          "position": "bottomLeft",
+          "arabicHighlight": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+          "title_urdu": "اللہ کا جواب",
+          "coreInsight_urdu": "یہ آیت ابو جہل کی دھمکی کا اللہ کا براہ راست جواب ہے - 'تم اپنے لوگوں کو بلاؤ، ہم اپنے فرشتوں کو بلائیں گے۔' یہ ظاہر کرتا ہے کہ ہر انسانی دھمکی کا جواب لامحدود برتر الہی طاقت سے دیا جاتا ہے۔",
+          "whyItMatters_urdu": "یہ ایذا رسانی کا سامنا کرنے والے مومنوں کو یقین دلاتا ہے کہ ظالموں کے لیے اللہ کا جواب فیصلہ کن اور زبردست ہے - ہمیں ڈرنے کی ضرورت نہیں جب قادر مطلق ہمارا محافظ ہے۔",
+          "title_ar": "رد الله",
+          "coreInsight_ar": "هذه الآية هي رد الله المباشر على تهديد أبي جهل - 'ادع قومك، سندعو ملائكتنا.' توضح أن كل تهديد بشري يقابله قوة إلهية أقوى بما لا يقاس.",
+          "whyItMatters_ar": "تطمئن المؤمنين الذين يواجهون الاضطهاد أن رد الله على الظالمين حاسم وساحق - لا نحتاج للخوف عندما يكون القدير حامينا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions show strong agreement on the interpretation of the Zabaniyah as the angels of Hell. Ibn Kathir identifies them with the nineteen angels mentioned in Surah al-Muddaththir, and both Tabari and Qurtubi provide narrations about Abu Jahl's foolish response that he could gather more than nineteen supporters. This story appears in both Sunni and Shia sources, showing consensus on the historical context. However, there are subtle theological differences. Sunni scholars like al-Razi emphasize the power disparity - one angel being stronger than any number of humans - as proof of Allah's omnipotence. Shia scholars additionally emphasize the cosmic structure of justice - the Zabaniyah are not arbitrary enforcers but part of the divine order where wrongdoing necessarily brings punishment, just as the Imams taught about the necessary connection between action and consequence. Some Sunni commentators interpret the verse as a future threat (the Zabaniyah will punish Abu Jahl in the afterlife), while Shia exegetes note that the angels could have struck immediately, showing divine restraint. Both traditions agree, however, on the central message: angelic power vastly exceeds human power, and those who oppose divine will face enforcers against whom no worldly support can prevail.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات زبانیہ کی تشریح پر مضبوط اتفاق دکھاتی ہیں جہنم کے فرشتوں کے طور پر۔ ابن کثیر انہیں سورہ المدثر میں بیان کردہ انیس فرشتوں سے شناخت کرتا ہے، اور طبری اور قرطبی دونوں ابو جہل کے احمقانہ جواب کے بارے میں روایات فراہم کرتے ہیں کہ وہ انیس سے زیادہ حامیوں کو جمع کر سکتا تھا۔ یہ کہانی سنی اور شیعہ دونوں ذرائع میں ظاہر ہوتی ہے، تاریخی سیاق و سباق پر اتفاق رائے دکھاتی ہے۔ تاہم، باریک کلامی فرق ہیں۔ سنی علماء جیسے الرازی طاقت کے فرق پر زور دیتے ہیں - ایک فرشتہ انسانوں کی کسی بھی تعداد سے زیادہ مضبوط ہے - اللہ کی قادر مطلقی کے ثبوت کے طور پر۔ شیعہ علماء اضافی طور پر انصاف کی کائناتی ساخت پر زور دیتے ہیں - زبانیہ من مانی نفاذ کرنے والے نہیں ہیں بلکہ الٰہی نظام کا حصہ ہیں جہاں بدکاری لازمی طور پر سزا لاتی ہے، جیسا کہ ائمہ نے عمل اور نتیجے کے درمیان ضروری تعلق کے بارے میں سکھایا۔ کچھ سنی مبصرین آیت کی تشریح مستقبل کی دھمکی کے طور پر کرتے ہیں (زبانیہ آخرت میں ابو جہل کو سزا دیں گے)، جبکہ شیعہ مفسرین نوٹ کرتے ہیں کہ فرشتے فوری طور پر مار سکتے تھے، الٰہی تحمل کو دکھاتے ہوئے۔ تاہم، دونوں روایات مرکزی پیغام پر متفق ہیں: فرشتوں کی طاقت انسانی طاقت سے بہت زیادہ ہے، اور جو لوگ الٰہی ارادے کی مخالفت کرتے ہیں وہ ایسے نفاذ کرنے والوں کا سامنا کرتے ہیں جن کے خلاف کوئی دنیاوی حمایت غالب نہیں آ سکتی۔",
+    "layer4_ar": "يتوافق تراثا الشيعة والسنة توافقاً قوياً على تفسير الزبانية باعتبارهم ملائكة جهنم. فابن كثير يربطهم بالتسعة عشر الواردة في سورة المدثر، وكلٌّ من الطبري والقرطبي يرويان قصة رد أبي جهل المتغطرس ادعاءً بقدرته على جمع أكثر من تسعة عشر مؤيِّداً. وهذه القصة واردة في المصادر السنية والشيعية على حدٍّ سواء مما يدل على توافق في السياق التاريخي. غير أن ثمة فروقاً عقدية دقيقة: يُشدِّد علماء السنة كالرازي على الفجوة الهائلة في القوة — فملك واحد أقوى من كل البشر — دليلاً على قدرة الله المطلقة. ويُضيف علماء الشيعة بُعداً آخر يتعلق بالبنية الكونية للعدل؛ فالزبانية ليسوا منفِّذين اعتباطيين بل هم جزء من النظام الإلهي الذي يجعل للظلم عاقبةً ضرورية حتمية، وهو ما أكَّد عليه الأئمة في ربط الفعل بالنتيجة ربطاً حتمياً. ويرى بعض مفسِّري السنة الآية وعيداً مستقبلياً بعذاب الآخرة، بينما يُلاحظ علماء الشيعة أن الملائكة كان بإمكانها الإجهاز على الظالم فوراً مما يُجلِّي معنى الإمهال الإلهي. ويتفق التراثان على المعنى الجوهري: القوة الملائكية تفوق القوة البشرية فوقاً لا حدَّ له، ومن عارضوا المشيئة الإلهية يواجهون منفِّذين لا يُعجزهم شيء من قوى الدنيا."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "96:19:kalla",
+          "title": "No! Kalla",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Kalla is a forceful particle of prohibition and rejection. It emphatically negates Abu Jahl's authority and commands - this is Allah's decisive 'NO' to tyranny and oppression.",
+          "whyItMatters": "This word empowers believers to stand firm against unjust demands. When truth is clear, we must have the courage to say 'NO' to those who try to prevent us from worship.",
+          "position": "topLeft",
+          "arabicHighlight": "كَلَّا",
+          "title_urdu": "ہرگز نہیں",
+          "coreInsight_urdu": "کلا ممانعت اور رد کا ایک زور دار ذرہ ہے۔ یہ ابو جہل کے اختیار اور احکام کو واضح طور پر رد کرتا ہے - یہ ظلم اور جبر کے لیے اللہ کا فیصلہ کن 'نہیں' ہے۔",
+          "whyItMatters_urdu": "یہ لفظ مومنوں کو ناانصافی کے مطالبات کے خلاف مضبوطی سے کھڑے رہنے کی طاقت دیتا ہے۔ جب سچائی واضح ہو، تو ہمیں ان لوگوں کو 'نہیں' کہنے کی ہمت رکھنی چاہیے جو ہمیں عبادت سے روکنے کی کوشش کرتے ہیں۔",
+          "title_ar": "كلا",
+          "coreInsight_ar": "كلا هي أداة قوية للمنع والرفض. تنفي بشدة سلطة أبي جهل وأوامره - هذه 'لا' الله الحاسمة للطغيان والظلم.",
+          "whyItMatters_ar": "تمكّن هذه الكلمة المؤمنين من الثبات ضد المطالب الظالمة. عندما يكون الحق واضحاً، يجب أن نملك الشجاعة لقول 'لا' لمن يحاول منعنا من العبادة."
+        },
+        {
+          "id": "96:19:do-not-obey",
+          "title": "Reject Tyranny",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The command 'la tuti'hu' (do not obey him) establishes that obedience to oppressors who prevent worship is forbidden. Allah's commands supersede all human authority.",
+          "whyItMatters": "This verse provides the Islamic framework for civil disobedience - when human laws contradict divine commands, we are obligated to follow Allah even if it means defying worldly powers.",
+          "position": "topRight",
+          "arabicHighlight": "لَا تُطِعْهُ",
+          "title_urdu": "ظلم کو رد کرو",
+          "coreInsight_urdu": "حکم 'لا تطعہ' (اس کی اطاعت نہ کرو) قائم کرتا ہے کہ ظالموں کی اطاعت جو عبادت سے روکتے ہیں حرام ہے۔ اللہ کے احکام تمام انسانی اختیار پر فوقیت رکھتے ہیں۔",
+          "whyItMatters_urdu": "یہ آیت مدنی نافرمانی کا اسلامی فریم ورک فراہم کرتی ہے - جب انسانی قوانین الہی احکام سے متصادم ہوں، تو ہم اللہ کی پیروی کرنے کے پابند ہیں چاہے اس کا مطلب دنیاوی طاقتوں کی نافرمانی ہو۔",
+          "title_ar": "رفض الطغيان",
+          "coreInsight_ar": "يؤسس الأمر 'لا تطعه' أن طاعة الطغاة الذين يمنعون العبادة محرمة. أوامر الله تتفوق على كل سلطة بشرية.",
+          "whyItMatters_ar": "توفر هذه الآية الإطار الإسلامي للعصيان المدني - عندما تتناقض القوانين البشرية مع الأوامر الإلهية، نحن ملزمون باتباع الله حتى لو عنى ذلك تحدي السلطات الدنيوية."
+        },
+        {
+          "id": "96:19:prostrate",
+          "title": "Prostrate",
+          "icon": "figure.mind.and.body",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Usjud (prostrate) is the direct counter to oppression - when tyrants try to prevent worship, the response is to worship with even greater devotion. Sujood represents ultimate submission to Allah alone.",
+          "whyItMatters": "Prostration is spiritual resistance - by bowing to Allah, we demonstrate that no human can make us bow to them. This verse marks a sajda tilawa, emphasizing its sacred importance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱسْجُدْ",
+          "title_urdu": "سجدہ کرو",
+          "coreInsight_urdu": "اسجد (سجدہ کرو) ظلم کا براہ راست جواب ہے - جب ظالم عبادت سے روکنے کی کوشش کرتے ہیں، تو جواب اور بھی زیادہ عقیدت کے ساتھ عبادت کرنا ہے۔ سجود صرف اللہ کے سامنے حتمی تسلیم کی نمائندگی کرتا ہے۔",
+          "whyItMatters_urdu": "سجدہ روحانی مزاحمت ہے - اللہ کے سامنے جھک کر، ہم ظاہر کرتے ہیں کہ کوئی انسان ہمیں اپنے سامنے نہیں جھکا سکتا۔ یہ آیت سجدہ تلاوت کی نشاندہی کرتی ہے، اس کی مقدس اہمیت پر زور دیتے ہوئے۔",
+          "title_ar": "اسجد",
+          "coreInsight_ar": "اسجد هو الرد المباشر على الظلم - عندما يحاول الطغاة منع العبادة، يكون الرد بالعبادة بإخلاص أكبر. السجود يمثل الخضوع المطلق لله وحده.",
+          "whyItMatters_ar": "السجود هو مقاومة روحية - بالانحناء لله، نثبت أن لا إنسان يمكنه أن يجعلنا ننحني له. تحدد هذه الآية سجدة تلاوة، مؤكدة أهميتها المقدسة."
+        },
+        {
+          "id": "96:19:draw-near",
+          "title": "Draw Near",
+          "icon": "arrow.up.heart.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Waqtarib (draw near) is the climax of the surah - it promises that through prostration and worship, we achieve closeness to Allah. This is the ultimate goal of all revelation.",
+          "whyItMatters": "The surah that began with 'Read' ends with 'Draw near' - showing that the journey from knowledge to divine proximity happens through devoted worship and rejection of all that prevents it.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَٱقْتَرِب",
+          "title_urdu": "قریب ہو جاؤ",
+          "coreInsight_urdu": "واقترب (قریب ہو جاؤ) سورت کا عروج ہے - یہ وعدہ کرتا ہے کہ سجدے اور عبادت کے ذریعے، ہم اللہ سے قربت حاصل کرتے ہیں۔ یہ تمام وحی کا حتمی مقصد ہے۔",
+          "whyItMatters_urdu": "وہ سورت جو 'پڑھو' سے شروع ہوئی 'قریب ہو جاؤ' پر ختم ہوتی ہے - یہ ظاہر کرتا ہے کہ علم سے الہی قربت کا سفر عقیدت مند عبادت اور ہر اس چیز کو رد کرنے سے ہوتا ہے جو اسے روکتی ہے۔",
+          "title_ar": "اقترب",
+          "coreInsight_ar": "واقترب هي ذروة السورة - تعد بأنه من خلال السجود والعبادة، نحقق القرب من الله. هذا هو الهدف النهائي لكل الوحي.",
+          "whyItMatters_ar": "السورة التي بدأت بـ'اقرأ' تنتهي بـ'اقترب' - مما يظهر أن الرحلة من المعرفة إلى القرب الإلهي تحدث من خلال العبادة المخلصة ورفض كل ما يمنعها."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni traditions show substantial agreement on this verse while emphasizing different dimensions. Both traditions cite the hadith that the servant is nearest to Allah during prostration, and both identify this as a verse requiring sajdah tilawah (prostration of Quran recitation), though with some jurisprudential differences about whether it is obligatory or recommended. Ibn Kathir, Tabari, and other Sunni exegetes emphasize the historical context - this was revealed to encourage the Prophet to continue praying despite Abu Jahl's threats. Shia scholars agree but extend the application more explicitly to all believers facing opposition. A significant difference appears in the interpretation of 'iqtarib' (draw near). Sunni commentators generally understand it as achieving closeness to Allah through obedience, while Shia scholars, influenced by the Ahlul Bayt's teachings, emphasize the ontological dimension - prostration actually transforms the spiritual state of the person, creating real proximity to divine reality. Both traditions oppose anthropomorphic understanding of 'nearness' - it is spiritual not spatial. Another area of emphasis differs: Sunni exegetes focus on the immediate command to the Prophet, while Shia tradition strongly emphasizes the universal applicability to all believers, particularly those facing oppression. Despite these nuances, both traditions agree on the core message: prostration is the supreme act of worship, the antidote to arrogance, and the means of achieving closeness to Allah, and no human threat should prevent believers from this essential practice.",
+    "layer4_urdu": "شیعہ اور سنی روایات اس آیت پر کافی اتفاق دکھاتی ہیں جبکہ مختلف جہتوں پر زور دیتی ہیں۔ دونوں روایات اس حدیث کا حوالہ دیتی ہیں کہ بندہ سجدے کے دوران اللہ سے سب سے زیادہ قریب ہوتا ہے، اور دونوں اسے سجدہ تلاوت (قرآن کی تلاوت کا سجدہ) کی ضرورت والی آیت کے طور پر شناخت کرتی ہیں، اگرچہ فقہی فرق کے ساتھ کہ آیا یہ واجب ہے یا مستحب۔ ابن کثیر، طبری اور دیگر سنی مفسرین تاریخی سیاق و سباق پر زور دیتے ہیں - یہ نبی کریم کو ابو جہل کی دھمکیوں کے باوجود نماز جاری رکھنے کی حوصلہ افزائی کے لیے نازل ہوا۔ شیعہ علماء متفق ہیں لیکن اطلاق کو زیادہ واضح طور پر تمام مومنوں تک بڑھاتے ہیں جو مخالفت کا سامنا کر رہے ہیں۔ اقترب (قریب آؤ) کی تشریح میں ایک اہم فرق ظاہر ہوتا ہے۔ سنی مبصرین عام طور پر اسے فرمانبرداری کے ذریعہ اللہ سے قربت حاصل کرنے کے طور پر سمجھتے ہیں، جبکہ شیعہ علماء، اہل بیت کی تعلیمات سے متاثر، وجودی جہت پر زور دیتے ہیں - سجدہ اصل میں شخص کی روحانی حالت کو تبدیل کرتا ہے، الٰہی حقیقت سے حقیقی قربت پیدا کرتا ہے۔ دونوں روایات قربت کی انسان نما تفہیم کی مخالفت کرتی ہیں - یہ روحانی ہے نہ کہ مکانی۔ زور کا ایک اور علاقہ مختلف ہے: سنی مفسرین نبی کریم کو فوری حکم پر توجہ مرکوز کرتے ہیں، جبکہ شیعہ روایت تمام مومنوں کے لیے عالمگیر قابل اطلاق ہونے پر مضبوطی سے زور دیتی ہے، خاص طور پر جو ظلم کا سامنا کر رہے ہیں۔ ان باریکیوں کے باوجود، دونوں روایات بنیادی پیغام پر متفق ہیں: سجدہ عبادت کا اعلیٰ عمل ہے، تکبر کا تریاق ہے، اور اللہ سے قربت حاصل کرنے کا ذریعہ ہے، اور کوئی انسانی دھمکی مومنوں کو اس ضروری عمل سے نہیں روکنی چاہیے۔",
+    "layer4_ar": "يتوافق تراثا الشيعة والسنة توافقاً جوهرياً في تفسير هذه الآية مع بعض تباين في الأوجه المُشدَّد عليها. فكلا التراثين يستشهد بالحديث القائل بأن العبد أقرب ما يكون إلى الله وهو ساجد، وكلاهما يُعدُّ هذه الآية من آيات السجود التي يُستحبُّ أو يجب السجود عند تلاوتها، وإن تباينا في الحكم الفقهي بين الوجوب والاستحباب. ويُشدِّد ابن كثير والطبري وسائر مفسِّري السنة على السياق التاريخي — الآية نزلت تشجيعاً للنبي صلى الله عليه وآله وسلم على المضيِّ في صلاته رغم تهديدات أبي جهل. ويتفق علماء الشيعة على ذلك لكنهم يُعمِّمون التطبيق صراحةً على كل مؤمن يواجه الاضطهاد. ويتجلَّى الفارق الأبرز في تفسير «اقْتَرِبْ»؛ فمفسِّرو السنة يفهمون القرب عموماً باعتباره تحقيقاً للقرب من الله عبر الطاعة، بينما يُؤكِّد علماء الشيعة مستندين إلى تعاليم أهل البيت البُعدَ الوجودي — إذ يُحدِث السجود تحولاً حقيقياً في الحال الروحي للإنسان يُنتج قرباً من الحقيقة الإلهية لا مجرد قرب مجازي. ويرفض التراثان التفسير الجسماني للقرب؛ فهو قرب روحي لا مكاني. وثمة تمايز في الأولويات: المفسِّرون السنة يُركِّزون على الأمر الموجَّه للنبي صلى الله عليه وآله وسلم ابتداءً، بينما يُشدِّد التراث الشيعي على شمولية الخطاب لكل المؤمنين وخاصةً المُضطَهَدين. وعلى هذه التمايزات يتفق التراثان جميعاً على الجوهر: السجود أرفع العبادات وترياق الكبر والطريق إلى القرب من الله، ولا ينبغي لأي تهديد بشري أن يحول دون المؤمن وهذه الممارسة الجوهرية التي هي رأس الصلة بالحق سبحانه."
+  }
+}

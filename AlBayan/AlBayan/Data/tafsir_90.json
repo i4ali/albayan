@@ -1,0 +1,1158 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:1:the-city",
+          "title": "The Sacred City",
+          "icon": "building.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by 'this city' (al-balad) - Makkah, the most sacred place on earth, emphasizing its unique spiritual significance as the birthplace of Islam and the location of the Ka'bah.",
+          "whyItMatters": "Understanding Makkah's sanctity deepens our appreciation for the Hajj pilgrimage and reminds us that certain places carry divine blessings and protection.",
+          "position": "topLeft",
+          "arabicHighlight": "هَٰذَا ٱلْبَلَدِ",
+          "title_urdu": "مقدس شہر",
+          "coreInsight_urdu": "اللہ 'اس شہر' (البلد) - مکہ کی قسم کھاتا ہے، جو زمین پر سب سے مقدس جگہ ہے، اسلام کی جائے پیدائش اور کعبہ کے مقام کے طور پر اس کی منفرد روحانی اہمیت پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "مکہ کی تقدس کو سمجھنا حج کی زیارت کے لیے ہماری تعریف کو گہرا کرتا ہے اور ہمیں یاد دلاتا ہے کہ کچھ جگہیں الہی برکات اور تحفظ رکھتی ہیں۔",
+          "title_ar": "المدينة المقدسة",
+          "coreInsight_ar": "يقسم الله بـ 'هذه البلدة' - مكة، أقدس مكان على وجه الأرض، مؤكدًا أهميتها الروحية الفريدة كمسقط رأس الإسلام وموقع الكعبة.",
+          "whyItMatters_ar": "فهم قدسية مكة يعمق تقديرنا لحج الحج ويذكرنا أن بعض الأماكن تحمل البركات والحماية الإلهية."
+        },
+        {
+          "id": "90:1:divine-oath",
+          "title": "Divine Oath",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'La uqsimu' (I swear) shows Allah taking an oath by Makkah, drawing attention to something momentous about this city and what follows in the surah.",
+          "whyItMatters": "When Allah takes an oath, it signals that what follows requires deep reflection. Divine oaths elevate our attention to critical spiritual truths.",
+          "position": "topRight",
+          "arabicHighlight": "لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+          "title_urdu": "الہی قسم",
+          "coreInsight_urdu": "'لا اقسم' (میں قسم کھاتا ہوں) اللہ کو مکہ کی قسم کھاتے ہوئے دکھاتا ہے، اس شہر اور سورت میں آگے آنے والی چیزوں کے بارے میں کچھ اہم بات کی طرف توجہ مبذول کراتے ہوئے۔",
+          "whyItMatters_urdu": "جب اللہ قسم کھاتا ہے، تو یہ اشارہ کرتا ہے کہ جو آگے آتا ہے اس میں گہری عکاسی کی ضرورت ہے۔ الہی قسمیں اہم روحانی سچائیوں کی طرف ہماری توجہ کو بلند کرتی ہیں۔",
+          "title_ar": "القسم الإلهي",
+          "coreInsight_ar": "'لا أقسم' (أقسم) يظهر الله يقسم بمكة، لافتًا الانتباه إلى شيء مهم حول هذه المدينة وما يلي في السورة.",
+          "whyItMatters_ar": "عندما يقسم الله، فإنه يشير إلى أن ما يلي يتطلب تأملًا عميقًا. الأقسام الإلهية ترفع انتباهنا إلى الحقائق الروحية الحاسمة."
+        },
+        {
+          "id": "90:1:bismillah-included",
+          "title": "Bismillah Opening",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse includes 'Bismillah ar-Rahman ar-Rahim' at the beginning, invoking Allah's mercy and compassion before addressing humanity's struggles.",
+          "whyItMatters": "Every divine message begins with mercy, reminding us that even when discussing hardship, Allah's compassion remains central to our relationship with Him.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "title_urdu": "بسم اللہ کی ابتدا",
+          "coreInsight_urdu": "آیت ابتدا میں 'بسم اللہ الرحمن الرحیم' شامل کرتی ہے، انسانیت کی جدوجہد سے خطاب کرنے سے پہلے اللہ کی رحمت اور شفقت کا مطالبہ کرتے ہوئے۔",
+          "whyItMatters_urdu": "ہر الہی پیغام رحمت سے شروع ہوتا ہے، ہمیں یاد دلاتا ہے کہ مشکلات پر بات کرتے وقت بھی، اللہ کی شفقت ہمارے اس کے ساتھ تعلق کا مرکز رہتی ہے۔",
+          "title_ar": "افتتاح البسملة",
+          "coreInsight_ar": "تتضمن الآية 'بسم الله الرحمن الرحيم' في البداية، داعية رحمة الله وتراحمه قبل معالجة نضالات البشرية.",
+          "whyItMatters_ar": "كل رسالة إلهية تبدأ بالرحمة، تذكرنا أنه حتى عند مناقشة المصاعب، تبقى رحمة الله مركزية في علاقتنا معه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic meaning of this verse as an oath by Makkah, though they offer different emphases. Sunni tafsir, such as Ibn Kathir and Tabari, focus on the verse as honoring Makkah's general sanctity and its role as the site of the Kaaba. They interpret the oath primarily in terms of the city's religious significance for all Muslims. Shia commentators like Tabatabai and Tabrisi add layers of meaning related to the Prophet's specific struggles in Makkah and the persecution he faced from its elite. While Sunni tafsir emphasizes the city's eternal sanctity, Shia interpretation highlights the temporal contradiction of a sacred city rejecting its prophet. Both traditions agree that the verse establishes Makkah's unique status in Islamic geography. Fakhr al-Din al-Razi in his Sunni tafsir discusses the grammatical significance of 'la uqsimu,' similar to Shia scholars. The comparative analysis reveals that while the verse's basic meaning is universally accepted, Shia tafsir tends to emphasize the social justice dimensions and the irony of sacred spaces harboring injustice, while Sunni tafsir focuses more on the unchanging sanctity of the location itself.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کو مکہ کی قسم کے طور پر تسلیم کرنے میں متفق ہیں، اگرچہ وہ مختلف پہلوؤں پر زور دیتے ہیں۔ سنی تفاسیر جیسے ابن کثیر اور طبری، آیت کو مکہ کے عمومی تقدس اور کعبہ کی میزبانی کے اعزاز کے حوالے سے دیکھتے ہیں اور قسم کی تفسیر بنیادی طور پر شہر کی تمام مسلمانوں کے لیے مذہبی اہمیت کے تناظر میں کرتے ہیں۔ شیعہ مفسرین جیسے طباطبائی اور طبرسی مکہ میں نبی کریم صلی اللہ علیہ وآلہ وسلم کی مخصوص آزمائشوں اور آپ کو پیش آنے والے ظلم سے متعلق معانی کی مزید پرتیں شامل کرتے ہیں۔ جہاں سنی تفسیر شہر کے دائمی تقدس پر زور دیتی ہے، وہاں شیعہ تفسیر ایک مقدس شہر کے اپنے نبی کو ٹھکرانے کے وقتی تضاد کو نمایاں کرتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت اسلامی جغرافیے میں مکہ کے منفرد مقام کو ثابت کرتی ہے۔ فخر الدین رازی نے اپنی سنی تفسیر میں 'لا أُقسِم' کی نحوی اہمیت کو شیعہ علماء سے ملتے جلتے انداز میں بیان کیا ہے۔ تقابلی جائزہ ظاہر کرتا ہے کہ آیت کا بنیادی مفہوم عالمی سطح پر قبول ہے، مگر شیعہ تفسیر سماجی انصاف کے پہلوؤں اور مقدس مقامات میں ظلم کے تضاد پر زیادہ زور دیتی ہے، جبکہ سنی تفسیر اس مقام کے ابدی تقدس پر زیادہ توجہ مرکوز رکھتی ہے۔",
+    "layer4_ar": "يتوافق علماء الشيعة والسنة في المعنى الأساسي للآية بوصفها قسماً بمكة المكرمة، وإن تباينت لديهم نقاط التركيز. فالتفسير السني عند ابن كثير والطبري يُعنى بالآية باعتبارها تكريماً لحرمة مكة العامة ودورها موضعاً للكعبة المشرفة، وينصبُّ القسم عندهم أساساً على المكانة الدينية للبلدة لجميع المسلمين. أما المفسرون الشيعة كالطباطبائي والطبرسي فيُضيفون طبقات من المعنى تتصل بمعاناة النبي الخاصة في مكة وما عاناه من أذى صفوتها. وبينما يُؤكِّد التفسير السني قدسية البلدة الثابتة الأبدية، يُبرز التفسير الشيعي التناقض الزمني الكامن في بلد مقدس يرفض نبيه. ويتفق التراثان على أن الآية تُثبِّت مكانة مكة الفريدة في الجغرافيا الإسلامية. ويتناول فخر الدين الرازي في تفسيره السني الدلالة النحوية لعبارة \"لا أُقسِم\" على نحو مشابه لما يذهب إليه العلماء الشيعة. ويُظهر التحليل المقارن أنه بينما يُجمع الجميع على معنى الآية الأساسي فإن التفسير الشيعي يميل إلى إبراز أبعاد العدالة الاجتماعية ومفارقة اقتران الظلم بالبقاع المقدسة، في حين ينصبُّ التفسير السني على قدسية المكان الثابتة التي لا تتغير."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:2:lawful-resident",
+          "title": "Lawful Resident",
+          "icon": "house.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Hill' (free/lawful) indicates the Prophet's special status - he would eventually conquer Makkah lawfully, making what was once forbidden to him permissible.",
+          "whyItMatters": "This verse contains a prophecy fulfilled years later. Allah's promises are certain, even when circumstances seem impossible.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+          "title_urdu": "جائز رہائشی",
+          "coreInsight_urdu": "'حل' (آزاد/جائز) نبی کی خاص حیثیت کی نشاندہی کرتا ہے - وہ بالآخر مکہ کو قانونی طور پر فتح کریں گے، جو ایک بار ان کے لیے ممنوع تھا اسے جائز بناتے ہوئے۔",
+          "whyItMatters_urdu": "یہ آیت سالوں بعد پوری ہونے والی پیشین گوئی پر مشتمل ہے۔ اللہ کے وعدے یقینی ہیں، یہاں تک کہ جب حالات ناممکن لگیں۔",
+          "title_ar": "المقيم المشروع",
+          "coreInsight_ar": "'حل' (حر/مشروع) يشير إلى مكانة النبي الخاصة - سيفتح مكة بشكل قانوني في النهاية، مما يجعل ما كان محرمًا عليه مسموحًا.",
+          "whyItMatters_ar": "تحتوي هذه الآية على نبوءة تحققت بعد سنوات. وعود الله أكيدة، حتى عندما تبدو الظروف مستحيلة."
+        },
+        {
+          "id": "90:2:prophetic-connection",
+          "title": "Prophet's Bond",
+          "icon": "heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse addresses the Prophet directly, acknowledging his deep connection to Makkah - his birthplace, where he suffered persecution yet longed to return.",
+          "whyItMatters": "Love of homeland is natural and honored in Islam. The Prophet's attachment to Makkah despite hardship shows that faith and emotional bonds coexist.",
+          "position": "topRight",
+          "arabicHighlight": "وَأَنتَ",
+          "title_urdu": "نبوی تعلق",
+          "coreInsight_urdu": "آیت براہ راست نبی سے خطاب کرتی ہے، مکہ کے ساتھ ان کے گہرے تعلق کو تسلیم کرتے ہوئے - ان کی جائے پیدائش، جہاں انہوں نے ظلم برداشت کیا لیکن پھر بھی واپسی کی خواہش رکھی۔",
+          "whyItMatters_urdu": "وطن سے محبت قدرتی ہے اور اسلام میں عزت دی جاتی ہے۔ مشکلات کے باوجود مکہ سے نبی کی وابستگی ظاہر کرتی ہے کہ ایمان اور جذباتی بندھن ایک ساتھ موجود ہیں۔",
+          "title_ar": "رابطة النبي",
+          "coreInsight_ar": "تخاطب الآية النبي مباشرة، معترفة بارتباطه العميق بمكة - مسقط رأسه، حيث عانى الاضطهاد لكنه كان يتوق للعودة.",
+          "whyItMatters_ar": "حب الوطن طبيعي ومكرم في الإسلام. ارتباط النبي بمكة رغم الصعوبات يظهر أن الإيمان والروابط العاطفية تتعايش."
+        },
+        {
+          "id": "90:2:contrast-sanctity",
+          "title": "Contrasting States",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The contrast between Makkah's sanctity (where fighting is normally forbidden) and the Prophet's permission to eventually fight there highlights exceptional circumstances.",
+          "whyItMatters": "Divine laws have wisdom and flexibility. What seems absolute may have exceptions when higher purposes are at stake, always under divine guidance.",
+          "position": "bottomLeft",
+          "arabicHighlight": "حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+          "title_urdu": "متضاد حالات",
+          "coreInsight_urdu": "مکہ کی تقدس (جہاں جنگ عام طور پر ممنوع ہے) اور نبی کو بالآخر وہاں لڑنے کی اجازت کے درمیان تضاد غیر معمولی حالات کو نمایاں کرتا ہے۔",
+          "whyItMatters_urdu": "الہی قوانین حکمت اور لچک رکھتے ہیں۔ جو مطلق لگتا ہے اس کی استثناء ہو سکتی ہے جب اعلیٰ مقاصد داؤ پر لگے ہوں، ہمیشہ الہی رہنمائی کے تحت۔",
+          "title_ar": "الحالات المتناقضة",
+          "coreInsight_ar": "التباين بين قدسية مكة (حيث يُحظر القتال عادة) وإذن النبي بالقتال هناك في النهاية يسلط الضوء على ظروف استثنائية.",
+          "whyItMatters_ar": "القوانين الإلهية لها حكمة ومرونة. ما يبدو مطلقًا قد يكون له استثناءات عندما تكون الأهداف الأعلى على المحك، دائمًا تحت التوجيه الإلهي."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni commentators offer complementary interpretations of 'hil' in this verse. Sunni scholars like Tabari and Ibn Kathir primarily interpret it as referring to the future conquest of Makkah, when the Prophet would reside there freely as its ruler. Some Sunni tafsir suggests it means the Prophet was permitted to fight in Makkah's sacred precincts due to the extreme persecution he faced. Qurtubi notes that this permission was specific to the Prophet and did not establish a general principle allowing warfare in Makkah. Shia commentators like Tabatabai emphasize both the immediate consolation provided to the Prophet during persecution and the promise of future victory. They tend to highlight the verse's validation of the Prophet's suffering and divine recognition of his constrained circumstances. Both traditions agree on the exceptional nature of the Prophet's status in Makkah. Razi discusses various grammatical interpretations of 'hil,' similar to Shia scholarly analysis. The main difference lies in emphasis - Sunni tafsir focuses more on the future conquest and the exception allowing defensive fighting, while Shia interpretation emphasizes the psychological and spiritual comfort provided to the Prophet during his trials, connecting it to the broader theme of divine support for the oppressed.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین اس آیت میں 'حِلّ' کی تکمیلی تفسیریں پیش کرتے ہیں۔ سنی علماء جیسے طبری اور ابن کثیر بنیادی طور پر اسے مستقبل کی فتحِ مکہ سے تعلق رکھنے والا سمجھتے ہیں جب نبی کریم صلی اللہ علیہ وآلہ وسلم اس کے حکمران کی حیثیت سے آزادانہ قیام فرمائیں گے۔ بعض سنی تفاسیر بتاتی ہیں کہ اس کا مطلب ہے نبی کریم صلی اللہ علیہ وآلہ وسلم کو مکہ کی مقدس حدود میں لڑنے کی اجازت دی گئی بوجہ شدید ظلم کے۔ قرطبی نے نوٹ کیا ہے کہ یہ اجازت نبی کریم صلی اللہ علیہ وآلہ وسلم کے لیے مخصوص تھی اور اس سے مکہ میں جنگ کا عمومی اصول نہیں نکلتا۔ شیعہ مفسرین جیسے طباطبائی ظلم کے دوران نبی کریم صلی اللہ علیہ وآلہ وسلم کو فراہم کردہ فوری تسلی اور آئندہ فتح کے وعدے دونوں کو نمایاں کرتے ہیں۔ وہ اس آیت کو نبی کریم صلی اللہ علیہ وآلہ وسلم کی تکالیف کی توثیق اور آپ کے محدود حالات کی الٰہی پہچان کے طور پر اجاگر کرتے ہیں۔ دونوں روایات مکہ میں نبی کریم صلی اللہ علیہ وآلہ وسلم کی حیثیت کی استثنائی نوعیت پر متفق ہیں۔ رازی نے 'حِلّ' کی مختلف نحوی تفسیریں شیعہ علمی تحلیل سے ملتی جلتی انداز میں زیرِبحث لائی ہیں۔ بنیادی فرق تاکید میں ہے: سنی تفسیر مستقبل کی فتح اور مدافعانہ لڑائی کے استثناء پر زیادہ توجہ دیتی ہے، جبکہ شیعہ تفسیر آزمائشوں کے دوران نبی کریم صلی اللہ علیہ وآلہ وسلم کو فراہم کردہ نفسیاتی اور روحانی تسلی کو نمایاں کرتے ہوئے اسے مظلوموں کی الٰہی حمایت کے وسیع موضوع سے جوڑتی ہے۔",
+    "layer4_ar": "يُقدِّم مفسرو الشيعة والسنة تفسيرات متكاملة لمعنى \"حِلٌّ\" في هذه الآية. فالعلماء السنيون كالطبري وابن كثير يُفسِّرونها أساساً بفتح مكة الوشيك حين يُقيم النبي فيها حاكماً طليقاً، وبعضهم يرى أنها تعني إذنه بالقتال في حرم مكة في ضوء الاضطهاد الشديد. ويُلاحظ القرطبي أن هذا الإذن كان خاصاً بالنبي دون أن يُؤسِّس سُنَّةً عامة بإباحة القتال في مكة. أما المفسرون الشيعة كالطباطبائي فيُبرزون معنيين معاً؛ العزاء الفوري للنبي في محنته وعده بالنصر المستقبلي، ويُشدِّدون على إقرار الآية بمعاناة النبي وشهادة الله الإلهية لظروفه المُكبَّلة. ويتفق التراثان على استثنائية مقام النبي في مكة. ويتناول الرازي الدلالات النحوية المتعددة لـ\"حِلٌّ\" على نحو مشابه للتحليل الشيعي. والفارق الجوهري يكمن في التركيز؛ فالتفسير السني يُعنى أكثر بالفتح المستقبلي والاستثناء المجيز للقتال الدفاعي، بينما يُبرز التفسير الشيعي العزاء النفسي والروحي المُقدَّم للنبي في محنته، رابطاً إياه بالموضوع الأشمل للدعم الإلهي للمستضعفين."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:3:father-progeny",
+          "title": "Father & Offspring",
+          "icon": "person.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Walid wa ma walad' (father and what he begot) refers to the human lineage from Adam onwards, emphasizing the universal human experience across generations.",
+          "whyItMatters": "This oath connects all humanity - every generation faces the same fundamental struggles. We're part of an eternal human story of trial and choice.",
+          "position": "topLeft",
+          "arabicHighlight": "وَوَالِدٍۢ وَمَا وَلَدَ",
+          "title_urdu": "باپ اور اولاد",
+          "coreInsight_urdu": "'والد وما ولد' (باپ اور جو اس نے پیدا کیا) آدم سے آگے انسانی نسل کی طرف اشارہ کرتا ہے، نسلوں میں عالمگیر انسانی تجربے پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "یہ قسم تمام انسانیت کو جوڑتی ہے - ہر نسل ایک ہی بنیادی جدوجہد کا سامنا کرتی ہے۔ ہم آزمائش اور انتخاب کی ایک ابدی انسانی کہانی کا حصہ ہیں۔",
+          "title_ar": "الوالد والنسل",
+          "coreInsight_ar": "'والد وما ولد' (الوالد وما ولد) يشير إلى النسب البشري من آدم فصاعدًا، مؤكدًا التجربة الإنسانية العالمية عبر الأجيال.",
+          "whyItMatters_ar": "هذا القسم يربط كل البشرية - كل جيل يواجه نفس النضالات الأساسية. نحن جزء من قصة بشرية أبدية من التجربة والاختيار."
+        },
+        {
+          "id": "90:3:generational-cycle",
+          "title": "Generational Cycle",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The mention of 'father and offspring' establishes a cycle of responsibility - each generation inherits challenges and passes on legacy, continuing the divine test.",
+          "whyItMatters": "Understanding our role in generational continuity motivates us to leave positive spiritual and moral legacies for those who come after us.",
+          "position": "topRight",
+          "arabicHighlight": "مَا وَلَدَ",
+          "title_urdu": "نسلی چکر",
+          "coreInsight_urdu": "'باپ اور اولاد' کا ذکر ذمہ داری کا ایک چکر قائم کرتا ہے - ہر نسل چیلنجز وراثت میں لیتی ہے اور میراث منتقل کرتی ہے، الہی امتحان جاری رکھتے ہوئے۔",
+          "whyItMatters_urdu": "نسلی تسلسل میں ہمارے کردار کو سمجھنا ہمیں ان لوگوں کے لیے مثبت روحانی اور اخلاقی میراث چھوڑنے کی ترغیب دیتا ہے جو ہمارے بعد آئیں گے۔",
+          "title_ar": "الدورة الجيلية",
+          "coreInsight_ar": "ذكر 'الوالد والنسل' يؤسس دورة من المسؤولية - كل جيل يرث التحديات ويمرر الإرث، مستمرًا في الاختبار الإلهي.",
+          "whyItMatters_ar": "فهم دورنا في الاستمرارية الجيلية يحفزنا على ترك إرث روحي وأخلاقي إيجابي لمن يأتي بعدنا."
+        },
+        {
+          "id": "90:3:three-oaths",
+          "title": "Triple Oath",
+          "icon": "3.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah swears by three things - the city (place), the Prophet (person), and father-offspring (time/lineage) - encompassing all dimensions of human existence.",
+          "whyItMatters": "These three oaths cover space, personality, and temporal continuity, showing that the message applies universally across all contexts of human life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَوَالِدٍۢ",
+          "title_urdu": "تین قسمیں",
+          "coreInsight_urdu": "اللہ تین چیزوں کی قسم کھاتا ہے - شہر (جگہ)، نبی (شخص)، اور باپ-اولاد (وقت/نسب) - انسانی وجود کی تمام جہات کو شامل کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ تین قسمیں جگہ، شخصیت، اور وقتی تسلسل کو احاطہ کرتی ہیں، ظاہر کرتے ہوئے کہ پیغام انسانی زندگی کے تمام سیاق و سباق میں عالمگیر طور پر لاگو ہوتا ہے۔",
+          "title_ar": "القسم الثلاثي",
+          "coreInsight_ar": "يقسم الله بثلاثة أشياء - المدينة (المكان)، والنبي (الشخص)، والوالد-النسل (الزمن/النسب) - يشمل جميع أبعاد الوجود البشري.",
+          "whyItMatters_ar": "هذه الأقسام الثلاثة تغطي المكان والشخصية والاستمرارية الزمنية، مما يظهر أن الرسالة تنطبق عالميًا عبر جميع سياقات الحياة البشرية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars largely agree on the interpretation of this verse, with most identifying the father as Adam and what he begot as all human beings. Sunni commentators like Mujahid, Qatadah, and Ad-Dahhak, cited by Ibn Kathir, explicitly state this refers to Adam and his children. Some Sunni scholars mention alternative views that it could refer to Ibrahim and Ismail, particularly given the context of swearing by Makkah. Tabari presents multiple opinions without strongly preferring one. Shia scholars like Tabatabai emphasize the Adam interpretation as most consistent with the surah's themes of universal human hardship. Both traditions recognize this as an oath by humanity itself, though they may differ on secondary implications. Sunni tafsir tends to focus on the verse as establishing human accountability - since all are descended from Adam, all inherit the consequences of his choices and the responsibility to obey Allah. Shia interpretation adds emphasis on the unity and equality of all humans before Allah, countering tribal and ethnic divisions. Razi discusses the grammatical structure similarly to Shia scholars. The comparative perspective shows broad consensus on the verse's reference to universal humanity, with differences mainly in the specific applications and implications drawn from this understanding.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر پر کافی حد تک متفق ہیں اور اکثر باپ سے حضرت آدم علیہ السلام اور ان کی اولاد سے تمام انسانوں کی شناخت کرتے ہیں۔ سنی مفسرین جیسے مجاہد، قتادہ اور ضحاک جنہیں ابن کثیر نے نقل کیا ہے، صراحتاً بیان کرتے ہیں کہ اس سے مراد حضرت آدم علیہ السلام اور ان کے بچے ہیں۔ بعض سنی علماء متبادل رائے بھی بیان کرتے ہیں کہ اس سے مراد حضرت ابراہیم علیہ السلام اور حضرت اسماعیل علیہ السلام ہیں، خاص طور پر مکہ کے حوالے سے۔ طبری کسی ایک رائے کو زیادہ ترجیح دیے بغیر متعدد آراء پیش کرتے ہیں۔ شیعہ علماء جیسے طباطبائی، آدم کی تفسیر کو سورت کے آفاقی انسانی مشقت کے موضوعات سے سب سے زیادہ ہم آہنگ قرار دیتے ہیں۔ دونوں روایات اسے انسانیت ہی کی قسم تسلیم کرتی ہیں، اگرچہ ثانوی مفاہیم میں فرق ہو سکتا ہے۔ سنی تفسیر انسانی احتساب اور جدوجہد اور جزاء کے درمیان تعلق کو نمایاں کرتی ہے، جبکہ شیعہ تفسیر اکثر اللہ کے حضور تمام انسانوں کی وحدت اور مساوات پر زور دیتی ہے جو قبائلی و نسلی تفریق کا رد کرتی ہے۔ رازی کا علمِ نحو پر مبنی جائزہ شیعہ علمی تحلیل سے مشابہ ہے۔ تقابلی جائزہ اس آیت کے آفاقی نوعِ انسانی سے تعلق پر وسیع اتفاقِ رائے ظاہر کرتا ہے، فرق بنیادی طور پر اس فہم سے اخذ کردہ مخصوص اطلاقات اور مفاہیم میں ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في الجملة على تفسير هذه الآية إذ يرى أكثرهم أن الوالد آدم وما ولد البشر جميعاً. فمن المفسرين السنيين مجاهد وقتادة والضحاك الذين نقل عنهم ابن كثير أن الآية تشير إلى آدم وأبنائه صراحةً. وبعض العلماء السنة يطرحون رأياً بديلاً يرى أنها تعني إبراهيم وإسماعيل لا سيما في ضوء سياق القسم بمكة. ويستعرض الطبري آراء متعددة دون ترجيح حاسم. وعلماء الشيعة كالطباطبائي يُرجِّحون تفسير آدم بوصفه الأنسجم مع محور السورة في الكفاح الإنساني الشامل. ويُجمع التراثان على أن هذا قسم بالإنسانية ذاتها وإن تفاوتا في الدلالات الثانوية المستنبطة. والتفسير السني يميل إلى إبراز المساءلة الفردية على أساس أن جميع الناس من صلب آدم فيرثون تبعات خياراته وتقع عليهم مسؤولية طاعة الله. أما التفسير الشيعي فيُضيف التأكيد على وحدة البشر ومساواتهم أمام الله مواجهاً التعصب القبلي والعرقي. ويتناول الرازي البنية النحوية على نحو مشابه للتحليل الشيعي. وهكذا يكشف المنهج المقارن عن إجماع واسع حول إشارة الآية إلى الإنسانية الجامعة مع تباين في التطبيقات والدلالات الخاصة المستخلصة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:4:created-hardship",
+          "title": "Created in Toil",
+          "icon": "figure.strengthtraining.traditional",
+          "colorHex": "#E57373",
+          "coreInsight": "'Kabad' (hardship/toil) describes the fundamental human condition - we are created to face struggles, challenges, and exertion as an inherent part of existence.",
+          "whyItMatters": "Understanding that struggle is by design, not punishment, helps us accept life's difficulties with patience and see them as opportunities for growth.",
+          "position": "topLeft",
+          "arabicHighlight": "فِى كَبَدٍ",
+          "title_urdu": "مشقت میں پیدا کیا",
+          "coreInsight_urdu": "'کبد' (مشقت/محنت) بنیادی انسانی حالت کی وضاحت کرتا ہے - ہم جدوجہد، چیلنجز، اور کوشش کا سامنا کرنے کے لیے پیدا کیے گئے ہیں جو وجود کا لازمی حصہ ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ جدوجہد ڈیزائن کے مطابق ہے، سزا نہیں، ہمیں زندگی کی مشکلات کو صبر کے ساتھ قبول کرنے میں مدد کرتا ہے اور انہیں ترقی کے مواقع کے طور پر دیکھتا ہے۔",
+          "title_ar": "خلق في كبد",
+          "coreInsight_ar": "'كبد' (مشقة/كد) يصف الحالة البشرية الأساسية - خلقنا لمواجهة النضالات والتحديات والجهد كجزء متأصل من الوجود.",
+          "whyItMatters_ar": "فهم أن النضال بالتصميم وليس العقاب يساعدنا على قبول صعوبات الحياة بصبر ورؤيتها كفرص للنمو."
+        },
+        {
+          "id": "90:4:we-created",
+          "title": "Divine Creation",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Khalaqna' (We created) emphasizes that hardship isn't random or accidental - Allah deliberately designed human life to include struggle with divine purpose and wisdom.",
+          "whyItMatters": "Knowing our struggles have divine purpose transforms suffering from meaningless pain into purposeful testing that develops character and earns reward.",
+          "position": "topRight",
+          "arabicHighlight": "خَلَقْنَا ٱلْإِنسَٰنَ",
+          "title_urdu": "الہی تخلیق",
+          "coreInsight_urdu": "'خلقنا' (ہم نے پیدا کیا) اس بات پر زور دیتا ہے کہ مشقت بے ترتیب یا حادثاتی نہیں ہے - اللہ نے جان بوجھ کر انسانی زندگی کو الہی مقصد اور حکمت کے ساتھ جدوجہد شامل کرنے کے لیے ڈیزائن کیا۔",
+          "whyItMatters_urdu": "یہ جاننا کہ ہماری جدوجہد کا الہی مقصد ہے تکلیف کو بے معنی درد سے بامقصد آزمائش میں تبدیل کر دیتا ہے جو کردار کو ترقی دیتا ہے اور اجر کماتا ہے۔",
+          "title_ar": "الخلق الإلهي",
+          "coreInsight_ar": "'خلقنا' (خلقنا) يؤكد أن المشقة ليست عشوائية أو عرضية - صمم الله حياة الإنسان عمدًا لتشمل النضال بغرض وحكمة إلهية.",
+          "whyItMatters_ar": "معرفة أن نضالاتنا لها غرض إلهي تحول المعاناة من ألم بلا معنى إلى اختبار هادف يطور الشخصية ويكسب الثواب."
+        },
+        {
+          "id": "90:4:certainly-created",
+          "title": "Emphatic Certainty",
+          "icon": "exclamationmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Laqad' (certainly) provides emphasis - there's no doubt about this reality. Human life definitively involves struggle; this is an absolute truth.",
+          "whyItMatters": "The emphatic certainty prevents false expectations of effortless life. Accepting this truth helps us prepare mentally and spiritually for inevitable challenges.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَقَدْ خَلَقْنَا",
+          "title_urdu": "یقینی زور",
+          "coreInsight_urdu": "'لقد' (یقیناً) زور فراہم کرتا ہے - اس حقیقت کے بارے میں کوئی شک نہیں۔ انسانی زندگی یقینی طور پر جدوجہد پر مشتمل ہے؛ یہ ایک مطلق سچائی ہے۔",
+          "whyItMatters_urdu": "یقینی یقین آسان زندگی کی غلط توقعات کو روکتا ہے۔ اس سچائی کو قبول کرنا ہمیں ناگزیر چیلنجز کے لیے ذہنی اور روحانی طور پر تیار کرنے میں مدد کرتا ہے۔",
+          "title_ar": "اليقين المؤكد",
+          "coreInsight_ar": "'لقد' (بالتأكيد) يوفر التأكيد - لا شك في هذا الواقع. الحياة البشرية تشمل بالتأكيد النضال؛ هذه حقيقة مطلقة.",
+          "whyItMatters_ar": "اليقين المؤكد يمنع التوقعات الخاطئة لحياة سهلة. قبول هذه الحقيقة يساعدنا على الاستعداد ذهنيًا وروحيًا للتحديات الحتمية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars universally agree on the basic meaning of 'kabad' as hardship and struggle inherent in human life. Sunni commentators like Ibn Kathir describe the various forms of difficulty humans face from conception through death, including the trials of birth, childhood, adulthood, and old age. Tabari cites various scholars explaining 'kabad' as standing upright, struggling, or facing difficulties. Qurtubi emphasizes the moral and spiritual struggles of choosing between right and wrong. The interpretations across traditions are remarkably similar, reflecting a shared understanding of the human condition. Shia scholars like Tabatabai add particular emphasis on the purposefulness of hardship as a means of spiritual development and testing. They connect it more explicitly to the concept of divine wisdom in creating a world of trial rather than immediate paradise. Sunni tafsir tends to emphasize individual accountability and the relationship between struggle and reward, while Shia interpretation often highlights the collective human experience and the special significance of struggle in the lives of the righteous. Razi's philosophical Sunni approach discusses the wisdom behind human hardship in ways similar to Tabatabai's. Both traditions use this verse to counsel patience, perseverance, and trust in divine wisdom when facing life's inevitable difficulties.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء 'کَبَد' کے بنیادی مفہوم یعنی انسانی زندگی میں فطری مشقت اور جدوجہد پر مکمل اتفاق رکھتے ہیں۔ سنی مفسرین جیسے ابن کثیر انسانوں کو درپیش مختلف مشکلات کو بیان کرتے ہیں جو حمل سے لے کر بڑھاپے تک ولادت، بچپن، جوانی اور ضعف کی آزمائشوں کو شامل کرتی ہیں۔ طبری 'کَبَد' کی مختلف علماء کی وضاحتیں نقل کرتے ہیں جیسے سیدھے کھڑے ہونا، جدوجہد کرنا یا مشکلات کا سامنا کرنا۔ قرطبی صحیح اور غلط کے درمیان انتخاب کی اخلاقی و روحانی جدوجہد پر زور دیتے ہیں۔ روایات کے پار تفسیریں قابلِ ذکر حد تک مشابہ ہیں۔ شیعہ علماء جیسے طباطبائی خاص طور پر مشقت کو روحانی ترقی اور آزمائش کے ذریعے کے طور پر اس کی مقصدیت پر زور دیتے ہیں۔ وہ اسے ایک ایسی دنیا بنانے میں الٰہی حکمت کے تصور سے زیادہ واضح طور پر جوڑتے ہیں جو فوری جنت کے بجائے آزمائش کا مقام ہو۔ سنی تفسیر انفرادی احتساب اور جدوجہد و ثواب کے درمیان تعلق کو نمایاں کرتی ہے، جبکہ شیعہ تفسیر اکثر مشترک انسانی تجربے اور راست بازوں کی زندگیوں میں جدوجہد کی خاص اہمیت کو اجاگر کرتی ہے۔ رازی کا فلسفیانہ سنی انداز انسانی مشقت کی حکمت پر طباطبائی سے ملتے جلتے طریقے سے بحث کرتا ہے۔ دونوں روایات صبر، استقامت اور الٰہی حکمت پر بھروسے کے لیے اس آیت کا سہارا لیتی ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً شبه تام على المعنى الأصيل لـ\"الكَبَد\" باعتبارها المشقة والكفاح المتأصِّلين في الحياة الإنسانية. فالمفسرون السنيون كابن كثير يصفون ألوان الشدة التي يُعانيها الإنسان من الولادة حتى الوفاة بما تشمله من ابتلاءات الطفولة والشباب والشيخوخة. ويستشهد الطبري بآراء علماء متعددين يُفسِّرون \"الكَبَد\" بالانتصاب والكفاح ومواجهة المصاعب. ويُركِّز القرطبي على الجهاد الأخلاقي والروحي في الاختيار بين الحق والباطل. والتفسيرات عبر التراثين متقاربة بشكل لافت في تحديد الرسالة الجوهرية. ويُضيف علماء الشيعة كالطباطبائي تأكيداً خاصاً على هدفية المشقة وسيلةً للنمو الروحي والاختبار، ويربطونها بصراحة أكبر بمفهوم الحكمة الإلهية في خلق عالم للابتلاء لا لجنة فورية. والتفسير السني يميل إلى التركيز على المساءلة الفردية والعلاقة بين الكفاح والجزاء، بينما يُبرز التفسير الشيعي التجربة الإنسانية الجماعية والدلالة الخاصة للكفاح في حياة الصالحين. ويتناول الرازي في منهجه الفلسفي السني حكمة المشقة الإنسانية على نحو مشابه لمقاربة الطباطبائي. ويلتقي التراثان في توظيف هذه الآية للحثِّ على الصبر والثبات والتوكل على الله في مواجهة ابتلاءات الحياة التي لا مناص منها."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:5:arrogant-delusion",
+          "title": "Arrogant Delusion",
+          "icon": "person.crop.circle.badge.exclamationmark",
+          "colorHex": "#E57373",
+          "coreInsight": "'Ayahsabu' (does he think) exposes human arrogance - the false belief that one is invincible, untouchable by accountability or consequence.",
+          "whyItMatters": "Pride blinds us to our vulnerability. Recognizing our dependence on Allah prevents destructive arrogance and keeps us humble before divine power.",
+          "position": "topLeft",
+          "arabicHighlight": "أَيَحْسَبُ",
+          "title_urdu": "مغرور فریب",
+          "coreInsight_urdu": "'ایحسب' (کیا وہ سوچتا ہے) انسانی تکبر کو بے نقاب کرتا ہے - غلط عقیدہ کہ کوئی ناقابل شکست ہے، جوابدہی یا نتیجے سے ناقابل رسائی۔",
+          "whyItMatters_urdu": "غرور ہمیں اپنی کمزوری سے اندھا کر دیتا ہے۔ اللہ پر اپنی انحصار کو پہچاننا تباہ کن تکبر کو روکتا ہے اور ہمیں الہی طاقت کے سامنے عاجز رکھتا ہے۔",
+          "title_ar": "الوهم المتغطرس",
+          "coreInsight_ar": "'أيحسب' (هل يظن) يكشف الغرور البشري - الاعتقاد الخاطئ بأن المرء لا يقهر، محصن من المساءلة أو العواقب.",
+          "whyItMatters_ar": "الكبرياء يعمينا عن ضعفنا. إدراك اعتمادنا على الله يمنع الغرور المدمر ويبقينا متواضعين أمام القوة الإلهية."
+        },
+        {
+          "id": "90:5:no-power-over",
+          "title": "Powerlessness",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Lan yaqdira 'alayhi ahad' (never will anyone overcome him) - the arrogant person falsely believes no one can hold him accountable, forgetting Allah's ultimate authority.",
+          "whyItMatters": "Worldly power is temporary and illusory. True accountability lies with Allah, who has power over all, regardless of earthly status or wealth.",
+          "position": "topRight",
+          "arabicHighlight": "لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+          "title_urdu": "بے بسی",
+          "coreInsight_urdu": "'لن یقدر علیہ احد' (کبھی کوئی اس پر قابو نہیں پا سکے گا) - مغرور شخص غلط طور پر یقین کرتا ہے کہ کوئی اسے جوابدہ نہیں ٹھہرا سکتا، اللہ کی حتمی اتھارٹی کو بھول جاتا ہے۔",
+          "whyItMatters_urdu": "دنیاوی طاقت عارضی اور فریب آمیز ہے۔ حقیقی جوابدہی اللہ کے ساتھ ہے، جس کی تمام پر طاقت ہے، چاہے زمینی حیثیت یا دولت کچھ بھی ہو۔",
+          "title_ar": "العجز",
+          "coreInsight_ar": "'لن يقدر عليه أحد' (لن يتغلب عليه أحد أبدًا) - الشخص المتكبر يعتقد خطأً أنه لا أحد يمكنه محاسبته، ناسيًا سلطة الله النهائية.",
+          "whyItMatters_ar": "القوة الدنيوية مؤقتة ووهمية. المساءلة الحقيقية مع الله، الذي له القوة على الجميع، بغض النظر عن المكانة الدنيوية أو الثروة."
+        },
+        {
+          "id": "90:5:rhetorical-question",
+          "title": "Divine Challenge",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The rhetorical question challenges false beliefs directly. Allah questions human arrogance not to seek information but to expose its absurdity.",
+          "whyItMatters": "Divine rhetorical questions invite self-reflection. When Allah asks 'does he think...?', He's calling us to examine our false assumptions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَيَحْسَبُ أَن",
+          "title_urdu": "الہی چیلنج",
+          "coreInsight_urdu": "بیانیہ سوال براہ راست غلط عقائد کو چیلنج کرتا ہے۔ اللہ انسانی تکبر پر سوال کرتا ہے معلومات حاصل کرنے کے لیے نہیں بلکہ اس کی بیہودگی کو بے نقاب کرنے کے لیے۔",
+          "whyItMatters_urdu": "الہی بیانیہ سوالات خود عکاسی کی دعوت دیتے ہیں۔ جب اللہ پوچھتا ہے 'کیا وہ سوچتا ہے...؟'، وہ ہمیں اپنے غلط مفروضات کا جائزہ لینے کے لیے بلا رہا ہے۔",
+          "title_ar": "التحدي الإلهي",
+          "coreInsight_ar": "السؤال البلاغي يتحدى المعتقدات الخاطئة مباشرة. الله يسأل عن الغرور البشري ليس للحصول على معلومات ولكن لكشف عبثه.",
+          "whyItMatters_ar": "الأسئلة البلاغية الإلهية تدعو إلى التأمل الذاتي. عندما يسأل الله 'هل يظن...؟'، يدعونا لفحص افتراضاتنا الخاطئة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators interpret this verse as criticizing arrogance and the false sense of invincibility that comes with wealth and power. Sunni scholars like Ibn Kathir explain that this refers to those who boast about their spending and accomplishments, thinking no one can hold them accountable. Tabari presents various opinions about whom this verse addresses, including specific individuals in Makkah known for their arrogance. Qurtubi emphasizes the verse as a warning against pride and a reminder of divine oversight of all human actions. The interpretations across traditions align closely in identifying the core message about the foolishness of arrogance. Shia commentators like Tabatabai tend to emphasize the political dimensions more explicitly, connecting the verse to the historical pattern of tyrants who oppressed truth while believing themselves secure. They highlight the verse's relevance to the persecution faced by the Prophet and later by the Imams and their followers. Sunni tafsir focuses more on individual moral accountability and the Day of Judgment. Razi discusses the psychological dimensions of arrogance and self-deception in ways similar to Shia scholarly analysis. Both traditions use this verse to counsel humility, warn against pride, and remind believers that all power ultimately belongs to Allah alone.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کی تفسیر اس طرح کرتے ہیں کہ یہ دولت اور طاقت کے ساتھ آنے والے تکبر اور ناقابلِ تسخیریت کے جھوٹے احساس کو رد کرتی ہے۔ سنی علماء جیسے ابن کثیر وضاحت کرتے ہیں کہ اس سے مراد وہ لوگ ہیں جو اپنے خرچے اور کارناموں پر فخر کرتے ہیں اور سوچتے ہیں کہ کوئی انہیں جوابدہ نہیں کر سکتا۔ طبری مختلف آراء پیش کرتے ہیں کہ یہ آیت کن لوگوں سے متعلق ہے، جن میں مکہ کے وہ مخصوص افراد بھی شامل ہیں جو اپنے تکبر کے لیے مشہور تھے۔ قرطبی آیت کو غرور کے خلاف تنبیہ اور تمام انسانی اعمال پر الٰہی نگرانی کی یادہانی کے طور پر استعمال کرتے ہیں۔ روایات کے پار تفسیریں تکبر کے بارے میں بنیادی پیغام کی شناخت میں قریب ہیں۔ شیعہ مفسرین جیسے طباطبائی سیاسی پہلو کو زیادہ صراحت کے ساتھ نمایاں کرتے ہیں اور آیت کو مکہ کے اشرافیہ کے ایمان والوں پر ظلم کی تاریخی مثال سے جوڑتے ہیں۔ وہ نبی کریم صلی اللہ علیہ وآلہ وسلم اور بعد میں آئمہ علیہم السلام اور ان کے پیروکاروں کے ساتھ کیے جانے والے ظلم سے اس کی مطابقت اجاگر کرتے ہیں۔ سنی تفسیر انفرادی اخلاقی جوابدہی اور قیامت کے دن پر زیادہ توجہ دیتی ہے۔ رازی نے تکبر اور خود فریبی کے نفسیاتی پہلو پر شیعہ علمی تجزیے سے ملتے جلتے انداز میں گفتگو کی ہے۔ تقابلی نقطہ نظر اس آیت کے پیغام پر مکمل اتفاق ظاہر کرتا ہے کہ تمام طاقت بالآخر صرف اللہ کی ہے اور انسانی کبر کی کوئی جگہ نہیں ہے۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية تفسيراً متفقاً عليه في جوهره بوصفها نقداً للكبر والإحساس الزائف بالقوة المنبعث من الثروة والنفوذ. فالمفسرون السنيون كابن كثير يُبيِّنون أن الآية تعني من يتباهون بأموالهم وإنجازاتهم ظانِّين أن لا أحد يُحاسبهم. ويستعرض الطبري آراء متعددة حول المقصودين بالآية بمن فيهم أفراد من مكة اشتُهروا بتكبرهم. ويوظِّف القرطبي الآية تحذيراً من الغرور وتذكيراً بالرقابة الإلهية على أعمال العباد. والتفسيرات عبر التراثين تتقاطع تقاطعاً وثيقاً في استخلاص الرسالة الجوهرية حول فراغ الكبر من المضمون. غير أن المفسرين الشيعة كالطباطبائي يُبرزون البعد السياسي بصورة أجلى ربطاً للآية بنمط الطغاة التاريخيين الذين اضطهدوا الحق وهم في أوج غرورهم. ويُبرزون وجاهة الآية لفهم الاضطهاد الذي لقيه النبي ثم الأئمة وأتباعهم لاحقاً. والتفسير السني يميل أكثر إلى التركيز على المساءلة الفردية ويوم القيامة، بينما يُؤكِّد التفسير الشيعي نمط الطغيان المتكرر عبر التاريخ. ويتناول الرازي الجانب النفسي للكبر والخداع الذاتي على نحو يُشبه التحليل الشيعي في منهجه. وهكذا يكشف المنهج المقارن عن توافق واسع على أن القوة والثروة وسيلتان أخلاقياً محايدتان، وأن النية والغرض وحدهما يُحدِّدان قيمتهما الروحية."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:6:boasting-wealth",
+          "title": "Wealth Boasting",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Ahlaktu malan lubada' (I have spent wealth in abundance) reveals arrogant pride in material expenditure, as if spending money is itself a virtue regardless of purpose.",
+          "whyItMatters": "Spending wealth isn't praiseworthy unless done for righteous purposes. Allah values the intention and impact, not the amount.",
+          "position": "topLeft",
+          "arabicHighlight": "أَهْلَكْتُ مَالًۭا لُّبَدًا",
+          "title_urdu": "دولت کی شیخی",
+          "coreInsight_urdu": "'اہلکت مالا لبدا' (میں نے بہت سی دولت خرچ کی ہے) مادی اخراجات میں متکبرانہ فخر کو ظاہر کرتا ہے، جیسے کہ پیسے خرچ کرنا خود ہی ایک فضیلت ہو بغیر مقصد کے۔",
+          "whyItMatters_urdu": "دولت خرچ کرنا تعریف کے قابل نہیں جب تک کہ صالح مقاصد کے لیے نہ کیا جائے۔ اللہ نیت اور اثر کو اہمیت دیتا ہے، رقم کو نہیں۔",
+          "title_ar": "التباهي بالثروة",
+          "coreInsight_ar": "'أهلكت مالاً لبداً' (أنفقت ثروة وفيرة) يكشف الفخر المتغطرس في الإنفاق المادي، كما لو أن إنفاق المال فضيلة في حد ذاته بغض النظر عن الغرض.",
+          "whyItMatters_ar": "إنفاق الثروة ليس جديرًا بالثناء إلا إذا تم لأغراض صالحة. الله يقدر النية والأثر، وليس المبلغ."
+        },
+        {
+          "id": "90:6:destroyed-wealth",
+          "title": "Wasted Resources",
+          "icon": "trash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Ahlaktu' literally means 'destroyed' - the arrogant person views wasteful spending as achievement, not recognizing it as destruction of resources Allah provided.",
+          "whyItMatters": "Every resource is a trust from Allah. Wasteful spending, even if abundant, is spiritual destruction rather than accomplishment.",
+          "position": "topRight",
+          "arabicHighlight": "أَهْلَكْتُ",
+          "title_urdu": "ضائع وسائل",
+          "coreInsight_urdu": "'اہلکت' لفظی طور پر 'تباہ کر دیا' کا مطلب ہے - متکبر شخص فضول خرچی کو کامیابی کے طور پر دیکھتا ہے، اسے اللہ کی فراہم کردہ وسائل کی تباہی کے طور پر نہیں پہچانتا۔",
+          "whyItMatters_urdu": "ہر وسیلہ اللہ کی طرف سے امانت ہے۔ فضول خرچی، چاہے کتنی ہی زیادہ ہو، روحانی تباہی ہے نہ کہ کامیابی۔",
+          "title_ar": "الموارد المهدرة",
+          "coreInsight_ar": "'أهلكت' تعني حرفيًا 'دمرت' - الشخص المتكبر يرى الإنفاق الإسرافي إنجازًا، دون أن يدرك أنه تدمير للموارد التي قدمها الله.",
+          "whyItMatters_ar": "كل مورد أمانة من الله. الإنفاق الإسرافي، حتى لو كان وفيرًا، هو دمار روحي وليس إنجازًا."
+        },
+        {
+          "id": "90:6:heaped-up",
+          "title": "Abundant Pride",
+          "icon": "chart.bar.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Lubada' (heaped up/abundant) emphasizes large quantities, revealing that the arrogant measure worth by amount rather than purpose or righteousness.",
+          "whyItMatters": "In Allah's sight, a small deed with pure intention outweighs massive acts done for show. Quality of faith matters more than quantity of actions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَالًۭا لُّبَدًا",
+          "title_urdu": "فراوان غرور",
+          "coreInsight_urdu": "'لبدا' (ڈھیر/فراوان) بڑی مقداروں پر زور دیتا ہے، ظاہر کرتا ہے کہ متکبر قیمت کو رقم سے ناپتا ہے نہ کہ مقصد یا نیکی سے۔",
+          "whyItMatters_urdu": "اللہ کی نظر میں، خالص نیت کے ساتھ ایک چھوٹا عمل دکھاوے کے لیے کیے گئے بڑے اعمال سے زیادہ وزن رکھتا ہے۔ ایمان کی کیفیت اعمال کی مقدار سے زیادہ اہم ہے۔",
+          "title_ar": "الفخر الوفير",
+          "coreInsight_ar": "'لبداً' (مكدس/وفير) يؤكد الكميات الكبيرة، كاشفًا أن المتكبر يقيس القيمة بالكمية بدلاً من الغرض أو الصلاح.",
+          "whyItMatters_ar": "في نظر الله، عمل صغير بنية خالصة يفوق أعمالًا ضخمة تُفعل للعرض. جودة الإيمان أهم من كمية الأعمال."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars largely agree on the basic interpretation of this verse as describing someone who boasts about their spending. Sunni commentators like Ibn Kathir explain that this refers to individuals who spent wealth in worldly pursuits or opposition to Islam while expecting this to earn them status or protection from judgment. Tabari cites opinions that this describes extravagant wasteful spending without benefit. Qurtubi emphasizes that the verse shows such boasting is meaningless before Allah. The interpretations across traditions align in identifying the core message about the emptiness of prideful expenditure. Shia scholars like Tabatabai add specific emphasis on the political dimension, noting that the wealthy elite of Makkah spent lavishly to maintain their power and oppose the Prophet's egalitarian message. They highlight the verse's critique of using wealth as a tool of oppression or social control. Sunni tafsir tends to focus more on individual moral accountability and the Day of Judgment. Both traditions use this verse to distinguish between praiseworthy charity motivated by faith and ostentation motivated by pride. Razi discusses the psychological aspects of boasting about wealth similarly to Shia scholars. The comparative perspective shows consensus that wealth and its expenditure are morally neutral - only intention and purpose determine their spiritual value.",
+    "layer4_urdu": "شیعہ اور سنی علماء بنیادی طور پر اس آیت کی تفسیر میں متفق ہیں کہ یہ اس شخص کو بیان کرتی ہے جو اپنے خرچ پر فخر کرتا ہے۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ یہ ان لوگوں سے متعلق ہے جنہوں نے دنیاوی مقاصد کے لیے یا اسلام کی مخالفت میں مال خرچ کیا اور توقع کرتے تھے کہ اس سے انہیں مرتبہ یا جوابدہی سے چھٹکارا ملے گا۔ طبری فضول اور بے فائدہ خرچ کے بارے میں مختلف آراء نقل کرتے ہیں۔ قرطبی اس بات پر زور دیتے ہیں کہ آیت ظاہر کرتی ہے کہ ایسا فخر اللہ کے سامنے بے معنی ہے۔ دونوں روایات میں تفسیریں اس بنیادی پیغام میں متحد ہیں کہ فخریہ انفاق لغو اور خالی ہے۔ شیعہ علماء جیسے طباطبائی اس کی سیاسی جہت پر خصوصی زور دیتے ہیں اور نشاندہی کرتے ہیں کہ مکہ کے اشراف نے اپنی طاقت برقرار رکھنے اور نبی اکرم صلی اللہ علیہ وآلہ وسلم کے مساواتی پیغام کی مخالفت کے لیے بے دریغ خرچ کیا۔ وہ دولت کو ظلم یا سماجی کنٹرول کے آلے کے طور پر استعمال کرنے کی آیت کی تنقید کو نمایاں کرتے ہیں۔ سنی تفسیر فردی اخلاقی جوابدہی اور یومِ قیامت پر زیادہ توجہ دیتی ہے۔ دونوں روایات اس آیت کو ممدوح صدقے، جو ایمان سے محرک ہو، اور دکھاوے کی نیت سے تکبر آمیز خرچ، کے درمیان فرق کرنے کے لیے استعمال کرتی ہیں۔",
+    "layer4_ar": "يتوافق علماء الشيعة والسنة إلى حدٍّ بعيد في التفسير الأساسي لهذه الآية بوصفها تصويراً لشخص يتفاخر بإنفاقه. يُبيِّن ابن كثير من المفسرين السنيين أن هذا إشارة إلى من أنفقوا ثرواتهم في سبيل الدنيا أو في معارضة الإسلام ظانِّين أن هذا يكسبهم مكانة أو يُجيرهم من المحاسبة. ويُورد الطبري آراءً تذهب إلى أن المراد هو الإنفاق المبذِّر المُسرف بلا طائل. ويُبرز القرطبي أن هذا التفاخر لاغٍ عديم الأثر عند الله. وتتقاطع التفسيرات عبر التراثين في استخلاص الرسالة الجوهرية حول فراغ الإنفاق المتكبر من المضمون. ويُضيف المفسرون الشيعة كالطباطبائي تركيزاً خاصاً على البعد السياسي، مُشيرين إلى أن الآية تنتقد نمط الطغاة التاريخيين الذين وظَّفوا ثرواتهم لمعارضة رسالة النبي صلى الله عليه وآله وسلم والتسلط على الناس. ويُبرز المفسرون الشيعة وجاهة الآية لفهم الاضطهاد الذي لقيه النبي ثم الأئمة لاحقاً. بينما يميل التفسير السني أكثر إلى التركيز على المسؤولية الفردية ويوم الحساب، يُؤكِّد التفسير الشيعي نمط الاستبداد المتكرر عبر حقب التاريخ. ويتناول الرازي الجوانب النفسية للكبر والخداع الذاتي على نحو يُشبه التحليل الشيعي. وهكذا يكشف المنهج المقارن عن توافق واسع على أن المال والإنفاق وسيلتان محايدتان أخلاقياً، وأن النية والغاية وحدهما يُحدِّدان قيمتهما الروحية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:7:unseen-watcher",
+          "title": "Unseen Watcher",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Lam yarahu ahad' (no one has seen him) exposes the false belief that actions done in secret escape accountability, forgetting Allah's all-seeing knowledge.",
+          "whyItMatters": "Allah sees everything - public and private, external and internal. This awareness should govern all our choices, not just those visible to others.",
+          "position": "topLeft",
+          "arabicHighlight": "أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+          "title_urdu": "نادیدہ نگراں",
+          "coreInsight_urdu": "'لم یرہ احد' (کسی نے اسے نہیں دیکھا) اس غلط عقیدے کو بے نقاب کرتا ہے کہ خفیہ طور پر کیے گئے اعمال جوابدہی سے بچ جاتے ہیں، اللہ کے ہر چیز دیکھنے والے علم کو بھول جاتے ہیں۔",
+          "whyItMatters_urdu": "اللہ سب کچھ دیکھتا ہے - عوامی اور نجی، بیرونی اور اندرونی۔ یہ آگاہی ہمارے تمام انتخابات کو کنٹرول کرنی چاہیے، نہ صرف وہ جو دوسروں کو نظر آتے ہیں۔",
+          "title_ar": "المراقب غير المرئي",
+          "coreInsight_ar": "'لم يره أحد' (لم يره أحد) يكشف الاعتقاد الخاطئ بأن الأفعال المخفية تفلت من المساءلة، ناسيًا علم الله الشامل.",
+          "whyItMatters_ar": "الله يرى كل شيء - العام والخاص، الخارجي والداخلي. يجب أن يحكم هذا الوعي جميع خياراتنا، وليس فقط تلك المرئية للآخرين."
+        },
+        {
+          "id": "90:7:false-security",
+          "title": "False Security",
+          "icon": "shield.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The arrogant person's false sense of security comes from avoiding human detection, not realizing that divine awareness renders all concealment futile.",
+          "whyItMatters": "True security comes from righteousness, not secrecy. Living as if always watched by Allah purifies intentions and prevents hidden sins.",
+          "position": "topRight",
+          "arabicHighlight": "أَيَحْسَبُ",
+          "title_urdu": "جھوٹا تحفظ",
+          "coreInsight_urdu": "متکبر شخص کا جھوٹا احساس محفوظیت انسانی پتہ لگانے سے بچنے سے آتا ہے، یہ احساس نہیں کرتے کہ الہی آگاہی تمام پوشیدگی کو بیکار بنا دیتی ہے۔",
+          "whyItMatters_urdu": "حقیقی تحفظ نیکی سے آتا ہے، رازداری سے نہیں۔ یہ زندگی گزارنا کہ ہمیشہ اللہ کی نظر میں ہیں نیتوں کو صاف کرتا ہے اور پوشیدہ گناہوں کو روکتا ہے۔",
+          "title_ar": "الأمان الزائف",
+          "coreInsight_ar": "الشعور الزائف بالأمان للشخص المتغطرس يأتي من تجنب الكشف البشري، دون أن يدرك أن الوعي الإلهي يجعل كل إخفاء عبثيًا.",
+          "whyItMatters_ar": "الأمان الحقيقي يأتي من الصلاح، وليس السرية. العيش كما لو كنا دائمًا تحت مراقبة الله ينقي النوايا ويمنع الذنوب الخفية."
+        },
+        {
+          "id": "90:7:divine-knowledge",
+          "title": "All-Encompassing Knowledge",
+          "icon": "brain.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The rhetorical question implies Allah's comprehensive knowledge - He sees not just actions but intentions, not just words but thoughts.",
+          "whyItMatters": "Since Allah knows our innermost thoughts, sincerity becomes paramount. External piety without internal righteousness holds no value.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَّمْ يَرَهُۥٓ",
+          "title_urdu": "ہمہ گیر علم",
+          "coreInsight_urdu": "بیانیہ سوال اللہ کے جامع علم کو ظاہر کرتا ہے - وہ صرف اعمال نہیں بلکہ نیتوں کو، صرف الفاظ نہیں بلکہ خیالات کو دیکھتا ہے۔",
+          "whyItMatters_urdu": "چونکہ اللہ ہمارے اندرونی خیالات کو جانتا ہے، اخلاص سب سے اہم ہو جاتا ہے۔ اندرونی نیکی کے بغیر بیرونی پرہیزگاری کی کوئی قدر نہیں۔",
+          "title_ar": "المعرفة الشاملة",
+          "coreInsight_ar": "السؤال البلاغي يشير إلى معرفة الله الشاملة - يرى ليس فقط الأفعال بل النوايا، ليس فقط الكلمات بل الأفكار.",
+          "whyItMatters_ar": "بما أن الله يعلم أعمق أفكارنا، تصبح الإخلاص أمرًا بالغ الأهمية. التقوى الخارجية بدون صلاح داخلي لا قيمة لها."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse identically as affirming divine omniscience and challenging the delusion that actions go unobserved. Sunni commentators like Ibn Kathir emphasize that Allah sees all things and that nothing is hidden from Him, making the arrogant person's assumption foolish and dangerous. Tabari cites various scholars confirming that this verse establishes divine observation of all human actions. Qurtubi uses this verse to counsel awareness of Allah's presence and the recording of deeds by angels. The interpretations across traditions are remarkably uniform on the basic meaning. Both Shia and Sunni scholars use this verse to encourage moral behavior in private as well as public, emphasizing that divine observation is constant and comprehensive. Shia scholars like Tabatabai connect this more explicitly to the concept of muraqabah (divine observation consciousness) as a spiritual practice. They also emphasize the implications for victims of hidden injustice, assuring them that Allah witnesses what humans cannot. Sunni tafsir similarly emphasizes the Day of Judgment when all hidden things will be revealed. Razi discusses the theological implications of divine knowledge in detail similar to Shia scholarly analysis. The comparative perspective reveals complete consensus on this verse's message about absolute divine omniscience and the impossibility of evading accountability.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر میں یکساں طور پر اسے الٰہی علمِ کل کا اثبات اور اس وہم کا رد قرار دیتے ہیں کہ اعمال بغیر دیکھے رہ جاتے ہیں۔ سنی مفسرین جیسے ابن کثیر اس بات پر زور دیتے ہیں کہ اللہ سب کچھ دیکھتا ہے اور اس سے کچھ بھی پوشیدہ نہیں، جس سے متکبر شخص کا گمان احمقانہ اور خطرناک ثابت ہوتا ہے۔ طبری مختلف علماء کی تصدیق نقل کرتے ہیں کہ یہ آیت تمام انسانی اعمال کی الٰہی نگرانی قائم کرتی ہے۔ قرطبی اس آیت کو اللہ کی موجودگی اور اعمال کی فرشتوں کے ذریعے ریکارڈنگ کا شعور رکھنے کی تلقین کے لیے استعمال کرتے ہیں۔ دونوں روایات میں تفسیریں بنیادی معنی میں حیرت انگیز یکسانیت رکھتی ہیں۔ شیعہ اور سنی دونوں علماء اس آیت کو عوامی کے ساتھ ساتھ نجی میں بھی اخلاقی رویے کی ترغیب دیتے ہیں، اس بات پر زور دیتے ہوئے کہ الٰہی نگرانی مسلسل اور جامع ہے۔ شیعہ علماء جیسے طباطبائی اسے مراقبہ کی روحانی مشق سے زیادہ واضح طور پر جوڑتے ہیں۔ وہ پوشیدہ ظلم کے شکاروں کو اس یقین دہانی کے پہلو پر بھی زور دیتے ہیں کہ اللہ وہ کچھ دیکھتا ہے جو انسان نہیں دیکھ سکتے۔ رازی الٰہی علم کے الہیاتی مضمرات پر شیعہ علمی تجزیے کی طرح تفصیلی گفتگو کرتے ہیں۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية على نحو متطابق في جوهره بوصفها تأكيداً للعلم الإلهي وتحدياً لوهم أن الأعمال تمر دون أن يُنظَر إليها. فابن كثير من المفسرين السنيين يُشدِّد على أن الله يرى كل شيء ولا يخفى عليه شيء، مما يجعل ظن المتكبر ضرباً من الحمق المُهلِك. ويورد الطبري آراء جمهور العلماء المؤكِّدة أن هذه الآية تُرسِّخ مبدأ رقابة الله على جميع أعمال الإنسان. ويوظِّف القرطبي هذه الآية حثّاً على الشعور الدائم بحضور الله وتسجيل الملائكة للأعمال. والتفسيرات عبر التراثين متوافقة إلى حدٍّ كبير في المعنى الأساسي. فكلا التراثين يوظِّفان هذه الآية لتحفيز حسن السلوك في الخلوة كما في الجلوة، مُؤكِّدَين أن المراقبة الإلهية دائمة شاملة. ويربط علماء الشيعة كالطباطبائي هذه الآية بمفهوم المراقبة ممارسةً روحية أكثر صراحةً، كما يُبرزون ما تنطوي عليه من دلالات لصالح ضحايا الظلم الخفي، مطمئنين إياهم بأن الله يشهد ما لا يراه البشر. ويُؤكِّد التفسير السني كذلك يوم القيامة الذي تُكشَف فيه كل خافية. ويتناول الرازي الأبعاد الكلامية لعلم الله بتفصيل مشابه للتحليل الشيعي. ويكشف المنهج المقارن عن توافق تام على رسالة الآية في العلم الإلهي المطلق واستحالة الإفلات من المحاسبة، مع تقاطع تام في التوظيف التربوي للآية في كلا التراثين."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:8:two-eyes",
+          "title": "Gift of Sight",
+          "icon": "eye.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Alam naj'al lahu 'aynayn' (Have We not made for him two eyes?) highlights the divine gift of vision - both physical sight and the capacity for insight.",
+          "whyItMatters": "Our eyes are blessings that should lead to gratitude and righteous vision. They're meant to see truth, recognize blessings, and witness divine signs.",
+          "position": "topLeft",
+          "arabicHighlight": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+          "title_urdu": "بینائی کا تحفہ",
+          "coreInsight_urdu": "'الم نجعل لہ عینین' (کیا ہم نے اس کے لیے دو آنکھیں نہیں بنائیں؟) بصارت کے الہی تحفے کو نمایاں کرتا ہے - جسمانی بینائی اور بصیرت کی صلاحیت دونوں۔",
+          "whyItMatters_urdu": "ہماری آنکھیں نعمتیں ہیں جو شکر گزاری اور نیک بصارت کی طرف لے جانی چاہیے۔ وہ سچائی دیکھنے، نعمتوں کو پہچاننے، اور الہی نشانیوں کا مشاہدہ کرنے کے لیے ہیں۔",
+          "title_ar": "هدية البصر",
+          "coreInsight_ar": "'ألم نجعل له عينين' (ألم نجعل له عينين؟) يسلط الضوء على هدية الرؤية الإلهية - البصر الجسدي والقدرة على البصيرة.",
+          "whyItMatters_ar": "أعيننا نعم يجب أن تؤدي إلى الامتنان والرؤية الصالحة. إنها مخصصة لرؤية الحق، والتعرف على النعم، ومشاهدة الآيات الإلهية."
+        },
+        {
+          "id": "90:8:divine-provision",
+          "title": "Divine Provision",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The rhetorical question 'Have We not...?' reminds humans that their abilities are gifts from Allah, not self-created achievements to boast about.",
+          "whyItMatters": "Recognizing our faculties as divine gifts prevents arrogance and cultivates gratitude. Everything we have comes from Allah's generosity.",
+          "position": "topRight",
+          "arabicHighlight": "أَلَمْ نَجْعَل",
+          "title_urdu": "الہی رزق",
+          "coreInsight_urdu": "بیانیہ سوال 'کیا ہم نے نہیں...؟' انسانوں کو یاد دلاتا ہے کہ ان کی صلاحیتیں اللہ کے تحائف ہیں، خود تخلیق شدہ کامیابیاں نہیں جن پر فخر کیا جائے۔",
+          "whyItMatters_urdu": "اپنی صلاحیتوں کو الہی تحائف کے طور پر پہچاننا تکبر کو روکتا ہے اور شکر گزاری کو فروغ دیتا ہے۔ جو کچھ ہمارے پاس ہے وہ اللہ کی سخاوت سے آتا ہے۔",
+          "title_ar": "الرزق الإلهي",
+          "coreInsight_ar": "السؤال البلاغي 'ألم نجعل...؟' يذكر البشر بأن قدراتهم هدايا من الله، وليست إنجازات ذاتية للتباهي بها.",
+          "whyItMatters_ar": "إدراك ملكاتنا كهدايا إلهية يمنع الغرور ويزرع الامتنان. كل ما لدينا يأتي من كرم الله."
+        },
+        {
+          "id": "90:8:paired-blessings",
+          "title": "Paired Design",
+          "icon": "circle.grid.2x1.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Two eyes provide depth perception and wider vision - the pairing shows divine wisdom in creation, giving us enhanced capabilities through balanced design.",
+          "whyItMatters": "Allah's design is purposeful and perfect. The pairing of organs teaches us about balance, complementarity, and the wisdom in divine creation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عَيْنَيْنِ",
+          "title_urdu": "جوڑے کی ڈیزائن",
+          "coreInsight_urdu": "دو آنکھیں گہرائی کا ادراک اور وسیع بصارت فراہم کرتی ہیں - جوڑا تخلیق میں الہی حکمت کو ظاہر کرتا ہے، ہمیں متوازن ڈیزائن کے ذریعے بہتر صلاحیتیں دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ کی ڈیزائن بامقصد اور کامل ہے۔ اعضاء کا جوڑا ہمیں توازن، تکمیل، اور الہی تخلیق میں حکمت کے بارے میں سکھاتا ہے۔",
+          "title_ar": "التصميم الزوجي",
+          "coreInsight_ar": "عينان توفران إدراك العمق ورؤية أوسع - الاقتران يظهر الحكمة الإلهية في الخلق، مما يمنحنا قدرات محسنة من خلال التصميم المتوازن.",
+          "whyItMatters_ar": "تصميم الله هادف وكامل. اقتران الأعضاء يعلمنا عن التوازن والتكامل والحكمة في الخلق الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators interpret this verse identically as emphasizing divine blessing and the perfection of human creation. Sunni scholars like Ibn Kathir explain that Allah lists the faculties He has given humans to establish His favor and their obligation of gratitude and obedience. Tabari emphasizes that these verses demonstrate Allah's perfect design of the human being, equipped with all necessary tools for guidance. Qurtubi uses these verses to argue for human accountability - since Allah has provided the means for recognizing truth, humans have no excuse for disbelief or disobedience. The interpretations across traditions are uniform in the basic meaning. Both Shia and Sunni scholars develop both literal and metaphorical interpretations - praising Allah for the physical blessing of sight while also emphasizing spiritual vision and insight. Shia commentators like Tabatabai tend to connect these verses more explicitly to the broader Quranic theme of signs in creation pointing to the Creator. They also emphasize the responsibility created by these blessings, particularly for those in positions of knowledge or authority. Sunni tafsir similarly emphasizes gratitude and accountability. Both traditions use these verses to encourage proper use of human faculties in obedience to Allah and avoidance of sin.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کی تفسیر میں یکساں طور پر اسے الٰہی نعمت اور انسانی تخلیق کے کمال پر زور دینے والی آیت قرار دیتے ہیں۔ سنی علماء جیسے ابن کثیر وضاحت کرتے ہیں کہ اللہ نے انسانوں کو دی گئی صلاحیتوں کی فہرست بیان کر کے اپنا احسان اور ان کی شکرگزاری اور اطاعت کی ذمہ داری ثابت کی ہے۔ طبری اس بات پر زور دیتے ہیں کہ یہ آیات انسانی تخلیق کے کمال کو ظاہر کرتی ہیں جو رہنمائی کے تمام ضروری آلات سے مجہز ہے۔ قرطبی ان آیات کو انسانی جوابدہی کی دلیل کے طور پر استعمال کرتے ہیں کیونکہ جب اللہ نے حق جاننے کے تمام ذرائع فراہم کر دیے تو کفر یا نافرمانی کا کوئی عذر نہیں۔ دونوں روایات میں تفسیریں بنیادی معنی میں یکساں ہیں۔ شیعہ اور سنی دونوں علماء جسمانی اور استعاراتی دونوں تشریحیں پیش کرتے ہیں، بینائی کی جسمانی نعمت پر اللہ کی حمد کرتے ہوئے روحانی بصارت اور اخلاقی شعور پر بھی زور دیتے ہیں۔ شیعہ مفسرین جیسے طباطبائی ان آیات کو کائنات میں خالق کی طرف اشارہ کرنے والی نشانیوں کے وسیع تر قرآنی موضوع سے زیادہ واضح طور پر جوڑتے ہیں اور ان نعمتوں سے پیدا ہونے والی ذمہ داری پر بھی زور دیتے ہیں۔ سنی تفسیر میں بھی شکرگزاری اور جوابدہی پر یکساں توجہ دی جاتی ہے۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية على نحو متوافق في جوهره، معتبرين إياها إبرازاً للنعمة الإلهية وكمال خلق الإنسان. فالمفسرون السنيون كابن كثير يُبيِّنون أن الله يستعرض ما منحه للإنسان من ملكات ليُؤسِّس بذلك واجب الشكر والطاعة. ويُشدِّد الطبري على أن هذه الآيات تُجلِّي كمال تصميم الله للإنسان إذ زوَّده بجميع ما يحتاج إليه من أدوات الهداية. ويوظِّف القرطبي هذه الآيات حجةً على المساءلة الإنسانية، إذ لمَّا وفَّر الله الوسائل اللازمة لإدراك الحق فلا عذر للإنسان في الكفر أو المعصية. والتفسيرات عبر التراثين متوافقة في المعنى الأساسي. ويُطوِّر علماء الشيعة والسنة كليهم تفسيرات حرفية ومجازية، شاكرين الله على نعمة البصر الجسدي ومُؤكِّدين في الوقت ذاته أهمية الرؤية الروحية والبصيرة. ويميل المفسرون الشيعة كالطباطبائي إلى ربط هذه الآيات بالموضوع القرآني الأشمل المتعلق بالآيات الكونية الدالة على الخالق. كما يُبرزون المسؤولية التي يُفرزها هذا العطاء، لا سيما لأهل العلم والسلطة. ويُؤكِّد التفسير السني كذلك واجب الشكر وتجنُّب إساءة استخدام الملكات. والتراثان يستشهدان بأحاديث تتعلق بتوظيف النعم توظيفاً صالحاً. والمنهج المقارن يكشف عن توافق تام على رسالة الآية في النعمة الإلهية والمسؤولية المقرونة بالملكات البشرية."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:9:speech-faculty",
+          "title": "Gift of Speech",
+          "icon": "text.bubble.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Lisanan wa shafatayn' (a tongue and two lips) represents the extraordinary gift of speech - the ability to communicate, express, testify, and remember Allah.",
+          "whyItMatters": "Speech is a powerful trust that can build or destroy. This gift should be used for truth, remembrance of Allah, and beneficial communication.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلِسَانًۭا وَشَفَتَيْنِ",
+          "title_urdu": "گفتگو کا تحفہ",
+          "coreInsight_urdu": "'لسانا وشفتین' (ایک زبان اور دو ہونٹ) گفتگو کے غیر معمولی تحفے کی نمائندگی کرتا ہے - بات چیت کرنے، اظہار کرنے، گواہی دینے، اور اللہ کو یاد کرنے کی صلاحیت۔",
+          "whyItMatters_urdu": "گفتگو ایک طاقتور امانت ہے جو تعمیر یا تباہ کر سکتی ہے۔ اس تحفے کو سچائی، اللہ کی یاد، اور فائدہ مند مواصلات کے لیے استعمال کیا جانا چاہیے۔",
+          "title_ar": "هدية الكلام",
+          "coreInsight_ar": "'لسانًا وشفتين' (لسان وشفتان) يمثل الهدية الاستثنائية للكلام - القدرة على التواصل، والتعبير، والشهادة، وذكر الله.",
+          "whyItMatters_ar": "الكلام أمانة قوية يمكن أن تبني أو تدمر. يجب استخدام هذه الهدية للحق وذكر الله والتواصل المفيد."
+        },
+        {
+          "id": "90:9:articulation-mechanism",
+          "title": "Complex Design",
+          "icon": "gearshape.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The tongue and lips work together in intricate coordination to produce speech - this complex mechanism demonstrates Allah's masterful engineering of human anatomy.",
+          "whyItMatters": "Every part of our body reveals divine wisdom and planning. Studying our own design should increase recognition of Allah's creative power.",
+          "position": "topRight",
+          "arabicHighlight": "لِسَانًۭا",
+          "title_urdu": "پیچیدہ ڈیزائن",
+          "coreInsight_urdu": "زبان اور ہونٹ گفتگو پیدا کرنے کے لیے پیچیدہ ہم آہنگی میں کام کرتے ہیں - یہ پیچیدہ طریقہ کار انسانی جسمانیات کی اللہ کی ماہرانہ انجینئرنگ کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "ہمارے جسم کا ہر حصہ الہی حکمت اور منصوبہ بندی کو ظاہر کرتا ہے۔ اپنی ڈیزائن کا مطالعہ اللہ کی تخلیقی طاقت کی پہچان میں اضافہ کرنا چاہیے۔",
+          "title_ar": "التصميم المعقد",
+          "coreInsight_ar": "اللسان والشفتان يعملان معًا في تنسيق معقد لإنتاج الكلام - هذه الآلية المعقدة تظهر هندسة الله الماهرة للتشريح البشري.",
+          "whyItMatters_ar": "كل جزء من جسمنا يكشف الحكمة والتخطيط الإلهي. دراسة تصميمنا الخاص يجب أن تزيد من إدراك قوة الله الخلاقة."
+        },
+        {
+          "id": "90:9:communication-responsibility",
+          "title": "Sacred Communication",
+          "icon": "person.2.wave.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Speech enables building communities, sharing knowledge, and calling to good - but also carries responsibility, as we'll be questioned about every word.",
+          "whyItMatters": "The Prophet said: 'Whoever believes in Allah and the Last Day should speak good or remain silent.' Our words will testify for or against us.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَشَفَتَيْنِ",
+          "title_urdu": "مقدس مواصلات",
+          "coreInsight_urdu": "گفتگو کمیونٹیز بنانے، علم بانٹنے، اور نیکی کی طرف بلانے کو ممکن بناتی ہے - لیکن ذمہ داری بھی لاتی ہے، کیونکہ ہم سے ہر لفظ کے بارے میں پوچھا جائے گا۔",
+          "whyItMatters_urdu": "نبی نے فرمایا: 'جو اللہ اور آخری دن پر ایمان رکھتا ہے اسے اچھی بات کرنی چاہیے یا خاموش رہنا چاہیے۔' ہمارے الفاظ ہمارے لیے یا خلاف گواہی دیں گے۔",
+          "title_ar": "التواصل المقدس",
+          "coreInsight_ar": "الكلام يمكّن من بناء المجتمعات ومشاركة المعرفة والدعوة إلى الخير - لكنه يحمل أيضًا مسؤولية، حيث سنُسأل عن كل كلمة.",
+          "whyItMatters_ar": "قال النبي: 'من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت.' كلماتنا ستشهد لنا أو علينا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse identically as highlighting the divine blessing of speech and the responsibility it entails. Sunni commentators like Ibn Kathir emphasize that Allah gave humans the ability to speak as a means of expressing their needs, communicating knowledge, and worshipping through recitation and remembrance. Tabari explains the coordination between tongue and lips in producing speech, seeing in this sophisticated mechanism evidence of divine design. Qurtubi uses this verse to emphasize the accountability associated with speech, noting that the tongue will testify for or against its owner on Judgment Day. The interpretations across traditions are uniform in basic meaning. Both Shia and Sunni scholars extensively develop teachings about proper use of the tongue, warning against its misuse while encouraging its employment in worship and good deeds. Shia scholars like Tabatabai emphasize the tongue's role in establishing justice, speaking truth to power, and defending the oppressed, drawing on the examples of the Imams. Sunni tafsir similarly emphasizes truthful speech and avoiding harmful talk. Both traditions cite hadith about the tongue being a source of either salvation or destruction. The comparative perspective reveals complete consensus on the verse's message about the blessing and responsibility of human speech.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر میں یکساں طور پر اسے گفتار کی الٰہی نعمت اور اس سے وابستہ ذمہ داری کو اجاگر کرنے والی آیت قرار دیتے ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ اللہ نے انسانوں کو بولنے کی صلاحیت اپنی ضروریات کے اظہار، علم کی ترسیل، اور تلاوت و ذکر کے ذریعے عبادت کے لیے دی ہے۔ طبری بولنے میں زبان اور ہونٹوں کے ہم آہنگ کام کو الٰہی ڈیزائن کے ثبوت کے طور پر بیان کرتے ہیں۔ قرطبی اس آیت کو گفتار سے وابستہ جوابدہی پر زور دینے کے لیے استعمال کرتے ہیں اور نشاندہی کرتے ہیں کہ روزِ قیامت زبان اپنے مالک کے حق میں یا اس کے خلاف گواہی دے گی۔ دونوں روایات میں تفسیریں بنیادی معنی میں یکساں ہیں۔ شیعہ اور سنی دونوں علماء زبان کے صحیح استعمال کے بارے میں وسیع تعلیمات دیتے ہیں، اس کے غلط استعمال سے خبردار کرتے ہوئے عبادت اور نیک کاموں میں اسے استعمال کرنے کی ترغیب دیتے ہیں۔ شیعہ علماء جیسے طباطبائی انصاف قائم کرنے، طاقت کے سامنے حق بولنے، اور مظلوموں کا دفاع کرنے میں زبان کے کردار پر زور دیتے ہیں اور آئمہ کی مثالیں پیش کرتے ہیں۔ سنی تفسیر میں بھی سچی گفتار اور نقصاندہ باتوں سے پرہیز پر یکساں زور دیا جاتا ہے۔ دونوں روایات زبان کے نجات یا ہلاکت کا ذریعہ ہونے کے بارے میں حدیثیں نقل کرتی ہیں۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية على نحو متوافق في جوهره بوصفها إبرازاً للنعمة الإلهية في منح الإنسان قدرة الكلام والمسؤولية المترتبة عليها. فابن كثير من المفسرين السنيين يُبيِّن أن الله وهب الإنسان القدرة على الكلام وسيلةً للتعبير عن احتياجاته وتوصيل معرفته والتعبد بالتلاوة والذكر. ويُوضِّح الطبري التناسق الوظيفي بين اللسان والشفتين في إنتاج الكلام، رائياً في هذه الآلية المتطورة دليلاً على حُسن التصميم الإلهي. ويوظِّف القرطبي هذه الآية لتأكيد المساءلة المقرونة بالكلام، مُنبِّهاً إلى أن اللسان سيشهد لصاحبه أو عليه يوم القيامة. والتفسيرات عبر التراثين متوافقة في المعنى الأساسي. ويطوِّر علماء الشيعة والسنة كليهم تعاليم وافرة حول الاستخدام السليم للسان، يحثُّون على صون نعمته ويحذِّرون من تبذيرها في الأذى. ويميل المفسرون الشيعة كالطباطبائي إلى إبراز دور اللسان في إقامة العدل وإعلاء الحق والدفاع عن المستضعفين مستشهدين بنماذج الأئمة. ويُؤكِّد التفسير السني كذلك الصدق في الكلام وتجنُّب ما يُؤذي. والتراثان يستشهدان بأحاديث في فضائل الكلام الحسن وخطورة الكلام المذموم. والمنهج المقارن يكشف عن توافق تام على رسالة الآية في النعمة والمسؤولية المقرونة بالكلام الإنساني."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:10:two-paths",
+          "title": "Two Paths",
+          "icon": "road.lanes",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'An-najdayn' (the two paths/ways) represents the fundamental choice between right and wrong, good and evil that every human must navigate.",
+          "whyItMatters": "Life is about choices. Allah has shown us both paths clearly - now we're accountable for which direction we choose to follow.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلنَّجْدَيْنِ",
+          "title_urdu": "دو راستے",
+          "coreInsight_urdu": "'النجدین' (دو راستے) صحیح اور غلط، اچھائی اور برائی کے درمیان بنیادی انتخاب کی نمائندگی کرتا ہے جس سے ہر انسان کو گزرنا پڑتا ہے۔",
+          "whyItMatters_urdu": "زندگی انتخاب کے بارے میں ہے۔ اللہ نے ہمیں دونوں راستے واضح طور پر دکھائے ہیں - اب ہم جوابدہ ہیں کہ ہم کس سمت کو منتخب کرتے ہیں۔",
+          "title_ar": "الطريقان",
+          "coreInsight_ar": "'النجدين' (الطريقان) يمثل الاختيار الأساسي بين الصواب والخطأ، الخير والشر الذي يجب على كل إنسان أن يتنقل فيه.",
+          "whyItMatters_ar": "الحياة تدور حول الاختيارات. أظهر لنا الله كلا الطريقين بوضوح - الآن نحن مسؤولون عن الاتجاه الذي نختار اتباعه."
+        },
+        {
+          "id": "90:10:divine-guidance",
+          "title": "Clear Guidance",
+          "icon": "signpost.right.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Hadaynahu' (We have shown him) emphasizes that Allah doesn't leave humans to wander blindly - He provides clear guidance distinguishing truth from falsehood.",
+          "whyItMatters": "We can't claim ignorance on Judgment Day. Allah has equipped us with intellect, revelation, and moral intuition to recognize the right path.",
+          "position": "topRight",
+          "arabicHighlight": "وَهَدَيْنَٰهُ",
+          "title_urdu": "واضح رہنمائی",
+          "coreInsight_urdu": "'ہدینا' (ہم نے اسے دکھایا) اس بات پر زور دیتا ہے کہ اللہ انسانوں کو اندھے میں بھٹکنے نہیں چھوڑتا - وہ سچائی کو جھوٹ سے ممتاز کرنے والی واضح رہنمائی فراہم کرتا ہے۔",
+          "whyItMatters_urdu": "ہم قیامت کے دن لاعلمی کا دعویٰ نہیں کر سکتے۔ اللہ نے ہمیں عقل، وحی، اور اخلاقی بصیرت سے آراستہ کیا ہے تاکہ صحیح راستے کو پہچان سکیں۔",
+          "title_ar": "الهداية الواضحة",
+          "coreInsight_ar": "'هديناه' (أريناه) يؤكد أن الله لا يترك البشر يتجولون بشكل أعمى - يوفر إرشادًا واضحًا يميز الحق من الباطل.",
+          "whyItMatters_ar": "لا يمكننا أن ندعي الجهل يوم القيامة. لقد زودنا الله بالعقل والوحي والحدس الأخلاقي للتعرف على الطريق الصحيح."
+        },
+        {
+          "id": "90:10:free-will",
+          "title": "Human Choice",
+          "icon": "arrow.left.arrow.right.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Showing two paths implies free will - Allah guides but doesn't force. Humans have genuine choice and bear responsibility for their decisions.",
+          "whyItMatters": "Our choices matter eternally. The existence of two paths means we shape our destiny through daily decisions aligned with either path.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلنَّجْدَيْنِ",
+          "title_urdu": "انسانی انتخاب",
+          "coreInsight_urdu": "دو راستے دکھانا آزاد مرضی کو ظاہر کرتا ہے - اللہ رہنمائی کرتا ہے لیکن مجبور نہیں کرتا۔ انسانوں کے پاس حقیقی انتخاب ہے اور وہ اپنے فیصلوں کے لیے ذمہ دار ہیں۔",
+          "whyItMatters_urdu": "ہمارے انتخاب ابدی طور پر اہمیت رکھتے ہیں۔ دو راستوں کا وجود ہمارا مطلب ہے کہ ہم روزانہ کے فیصلوں کے ذریعے اپنی تقدیر تشکیل دیتے ہیں جو کسی ایک راستے سے منسلک ہوتے ہیں۔",
+          "title_ar": "الاختيار البشري",
+          "coreInsight_ar": "إظهار طريقين يعني الإرادة الحرة - الله يهدي لكن لا يجبر. البشر لديهم اختيار حقيقي ويتحملون مسؤولية قراراتهم.",
+          "whyItMatters_ar": "اختياراتنا مهمة أبديًا. وجود طريقين يعني أننا نشكل مصيرنا من خلال القرارات اليومية المتوافقة مع أي من الطريقين."
+        }
+      ]
+    },
+    "layer4": "Shia and Sunni scholars largely agree on the interpretation of the two paths as good and evil, though with some differences in application. Sunni commentators like Ibn Kathir explain that the two paths are good and evil, and that Allah has clarified them through revelation and innate human disposition. Tabari cites various opinions including that the paths refer to the way of guidance and misguidance, or the way to Paradise and Hellfire. Qurtubi emphasizes that humans are responsible for their choices since Allah has made both paths clear. The basic interpretation is shared across traditions. Shia scholars like Tabatabai additionally emphasize the role of the Ahlul Bayt as living guides who clarify the paths and exemplify the way of righteousness. They connect this verse to the concept of Imamate - that Allah's perfect guidance includes not just scripture but also divinely appointed guides who show the way practically. Sunni tafsir focuses more exclusively on the Quran and Sunnah as the means by which paths are shown. Razi discusses the philosophical aspects of human free will and moral knowledge similarly to Shia scholars. Both traditions agree that the verse establishes human accountability based on divinely provided knowledge of right and wrong, though they differ somewhat on the complete means by which this knowledge is conveyed.",
+    "layer4_urdu": "شیعہ اور سنی علماء بڑی حد تک دو راستوں کی تفسیر میں نیکی اور برائی کے طور پر متفق ہیں، اگرچہ اطلاق میں کچھ فرق ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ دو راستے نیکی اور برائی کے ہیں اور اللہ نے انہیں وحی اور انسانی فطری رجحان کے ذریعے واضح کیا ہے۔ طبری مختلف آراء نقل کرتے ہیں جن میں یہ بھی شامل ہے کہ راستے ہدایت اور گمراہی کی طرف یا جنت اور جہنم کی طرف جاتے ہیں۔ قرطبی اس بات پر زور دیتے ہیں کہ انسان اپنے انتخاب کے ذمہ دار ہیں کیونکہ اللہ نے دونوں راستے واضح کر دیے ہیں۔ بنیادی تفسیر دونوں روایات میں مشترک ہے۔ شیعہ علماء جیسے طباطبائی اضافی طور پر اہلِ بیت کے کردار پر زور دیتے ہیں بطور زندہ رہنمائوں کے جو راستوں کو عملی طور پر واضح کرتے اور راستبازی کی مثال پیش کرتے ہیں۔ وہ اس آیت کو امامت کے تصور سے جوڑتے ہیں کہ اللہ کی کامل رہنمائی میں صرف کتاب ہی نہیں بلکہ الٰہی مقرر کردہ رہنما بھی شامل ہیں جو عملی طور پر راستہ دکھاتے ہیں۔ سنی تفسیر قرآن اور سنت کو ہی راستے دکھانے کا مکمل ذریعہ سمجھتی ہے۔ رازی انسانی آزاد ارادے اور اخلاقی علم کے فلسفیانہ پہلوؤں پر شیعہ علمی تجزیے کی طرح بحث کرتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ آیت دونوں راستوں کے بارے میں الٰہی علم کی فراہمی کی بنیاد پر انسانی جوابدہی قائم کرتی ہے۔",
+    "layer4_ar": "يتوافق علماء الشيعة والسنة إلى حدٍّ كبير في تفسير الطريقين بالخير والشر، وإن تباينت لديهم نقاط التطبيق. فابن كثير من المفسرين السنيين يُبيِّن أن الطريقين هما الخير والشر وأن الله أبانهما عبر الوحي والفطرة الإنسانية. ويورد الطبري آراء متعددة منها أن النجدين طريق الهدى والضلال أو طريق الجنة والنار. ويُشدِّد القرطبي على مسؤولية الإنسان عن اختياراته إذ أوضح الله الطريقين وجلَّاهما. والتفسير الأساسي مشترك بين التراثين. ويُضيف المفسرون الشيعة كالطباطبائي التركيزَ على دور أهل البيت أدلاءَ أحياءً يُوضِّحون الطريقين ويُجسِّدون منهج البر عملياً. ويربطون هذه الآية بمفهوم الإمامة، مُقرِّرين أن هداية الله الكاملة تشمل ليس الكتاب وحده بل الأدلاء الربانيين الذين يُريون الطريق عملياً. ويُعنى التفسير السني في المقابل بالقرآن والسنة النبوية وسيلتَين حصريتَين لمعرفة الطريقين. ويتناول الرازي الأبعاد الفلسفية لحرية الإرادة والمعرفة الأخلاقية على نحو مشابه للتحليل الشيعي. والمنهج المقارن يكشف عن توافق التراثين على أن الآية تُرسِّخ المحاسبة الإنسانية انطلاقاً من الهداية الإلهية المُعطاة، مع اختلاف نسبي في تحديد الوسائل الكاملة التي يُبيَّن بها الطريقان."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:11:steep-path",
+          "title": "Steep Ascent",
+          "icon": "mountain.2.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Al-'aqabah' (the steep path/difficult ascent) symbolizes the challenging but righteous path requiring effort, sacrifice, and struggle against base desires.",
+          "whyItMatters": "The path to Paradise is steep, requiring exertion and sacrifice. Easy choices often lead downward, while the upward path demands commitment.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْعَقَبَةَ",
+          "title_urdu": "مشکل چڑھائی",
+          "coreInsight_urdu": "'العقبة' (مشکل راستہ/چڑھائی) صالح راستے کی علامت ہے جس میں کوشش، قربانی، اور بنیادی خواہشات کے خلاف جدوجہد کی ضرورت ہوتی ہے۔",
+          "whyItMatters_urdu": "جنت کا راستہ مشکل ہے، محنت اور قربانی کی ضرورت ہے۔ آسان انتخاب اکثر نیچے کی طرف لے جاتے ہیں، جبکہ اوپر کا راستہ عزم کا مطالبہ کرتا ہے۔",
+          "title_ar": "الصعود الحاد",
+          "coreInsight_ar": "'العقبة' (الطريق الوعر/الصعود الصعب) يرمز إلى الطريق الصالح الصعب الذي يتطلب الجهد والتضحية والنضال ضد الرغبات الدنيئة.",
+          "whyItMatters_ar": "طريق الجنة حاد، يتطلب الجهد والتضحية. الخيارات السهلة غالبًا ما تؤدي إلى الأسفل، بينما الطريق الصاعد يتطلب الالتزام."
+        },
+        {
+          "id": "90:11:did-not-attempt",
+          "title": "Failed Attempt",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Fala iqtahama' (but he has not attempted/broken through) criticizes those who, despite having guidance and ability, fail to even try the righteous path.",
+          "whyItMatters": "Knowing the right path isn't enough - we must actively pursue it. Many people recognize virtue but fail to act, which is itself a failure.",
+          "position": "topRight",
+          "arabicHighlight": "فَلَا ٱقْتَحَمَ",
+          "title_urdu": "ناکام کوشش",
+          "coreInsight_urdu": "'فلا اقتحم' (لیکن اس نے کوشش نہیں کی/توڑا نہیں) ان لوگوں کی تنقید کرتا ہے جو رہنمائی اور صلاحیت کے باوجود صالح راستے کی کوشش بھی نہیں کرتے۔",
+          "whyItMatters_urdu": "صحیح راستے کو جاننا کافی نہیں ہے - ہمیں فعال طور پر اس کی پیروی کرنی چاہیے۔ بہت سے لوگ فضیلت کو پہچانتے ہیں لیکن عمل کرنے میں ناکام ہوتے ہیں، جو خود ہی ایک ناکامی ہے۔",
+          "title_ar": "المحاولة الفاشلة",
+          "coreInsight_ar": "'فلا اقتحم' (لكنه لم يحاول/يخترق) ينتقد أولئك الذين، رغم وجود الإرشاد والقدرة، يفشلون حتى في محاولة الطريق الصالح.",
+          "whyItMatters_ar": "معرفة الطريق الصحيح ليست كافية - يجب أن نسعى إليه بنشاط. كثير من الناس يدركون الفضيلة لكنهم يفشلون في التصرف، وهو فشل في حد ذاته."
+        },
+        {
+          "id": "90:11:breaking-through",
+          "title": "Breakthrough Effort",
+          "icon": "bolt.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Iqtihama' implies forcefully breaking through obstacles - the righteous path requires determined effort to overcome barriers of ego, comfort, and social pressure.",
+          "whyItMatters": "Spiritual growth demands breaking through comfort zones. Passive faith isn't enough; we must actively assault the barriers holding us back from righteousness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱقْتَحَمَ ٱلْعَقَبَةَ",
+          "title_urdu": "پیش رفت کی کوشش",
+          "coreInsight_urdu": "'اقتحام' زبردستی رکاوٹوں کو توڑنے کا مطلب ہے - صالح راستے کو انا، آرام، اور سماجی دباؤ کی رکاوٹوں پر قابو پانے کے لیے پختہ کوشش کی ضرورت ہوتی ہے۔",
+          "whyItMatters_urdu": "روحانی ترقی آرام کے علاقوں کو توڑنے کا مطالبہ کرتی ہے۔ غیر فعال ایمان کافی نہیں ہے؛ ہمیں فعال طور پر ان رکاوٹوں پر حملہ کرنا چاہیے جو ہمیں نیکی سے روک رہی ہیں۔",
+          "title_ar": "جهد الاختراق",
+          "coreInsight_ar": "'الاقتحام' يعني اختراق العوائق بقوة - الطريق الصالح يتطلب جهدًا حازمًا للتغلب على حواجز الأنا والراحة والضغط الاجتماعي.",
+          "whyItMatters_ar": "النمو الروحي يتطلب اختراق مناطق الراحة. الإيمان السلبي ليس كافيًا؛ يجب أن نهاجم بنشاط الحواجز التي تعيقنا عن الصلاح."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret aqaba as representing difficult righteous actions, though with some variation in specifics. Sunni commentators like Ibn Kathir explain that aqaba is a difficult path in the Hereafter that only those who performed certain good deeds can pass, specifically the deeds mentioned in following verses - freeing slaves and feeding the needy. Tabari cites multiple interpretations including that it is a steep road in Hell that only righteous people can escape. Qurtubi emphasizes that the verse criticizes those who have capacity to do good but fail to do so. The basic interpretation aligns across traditions. Shia scholars like Tabatabai emphasize the social justice dimension more explicitly, connecting the steep path to challenging oppression and supporting the marginalized. They highlight that the verse criticizes passive faith that avoids demanding action. Sunni tafsir similarly emphasizes the importance of putting faith into action through charity and good deeds. Both traditions agree that the verse condemns knowing what is right yet failing to act. Razi discusses the metaphorical nature of the steep path similarly to Shia scholars. The comparative perspective shows consensus that true faith requires difficult sacrificial action, not merely belief or comfortable ritual, though traditions may emphasize different aspects of what constitutes the steep path.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء عقبہ کی تفسیر دشوار صالح اعمال کے طور پر کرتے ہیں، اگرچہ تفصیلات میں کچھ فرق ہے۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ عقبہ آخرت کا ایک دشوار راستہ ہے جسے صرف وہی لوگ عبور کر سکتے ہیں جنہوں نے دنیا میں مخصوص نیک اعمال انجام دیے ہوں، بالخصوص اگلی آیات میں مذکور غلام آزاد کرنا اور غریبوں کو کھلانا۔ طبری نے اس کی متعدد تفسیریں نقل کی ہیں جن میں یہ بھی شامل ہے کہ یہ جہنم کا ایک ایسا راستہ ہے جس سے صرف نیک لوگ نکل سکتے ہیں۔ قرطبی نے اس بات پر زور دیا کہ یہ آیت ان لوگوں پر تنقید کرتی ہے جو نیکی کرنے کی صلاحیت رکھتے ہیں مگر ایسا نہیں کرتے۔ بنیادی تفسیر دونوں روایات میں یکساں ہے۔ شیعہ علماء جیسے طباطبائی سماجی انصاف کے پہلو پر زیادہ واضح طور پر زور دیتے ہیں اور عقبہ کو ظلم کو چیلنج کرنے اور پسماندہ لوگوں کی حمایت سے جوڑتے ہیں۔ وہ اس بات پر روشنی ڈالتے ہیں کہ یہ آیت اس سطحی ایمان کی مذمت کرتی ہے جو مشکل عمل سے گریز کرتا ہے۔ سنی تفسیر بھی عمل کے ذریعے ایمان کی اہمیت پر یکساں زور دیتی ہے۔ رازی نے عقبہ کی استعاراتی نوعیت کو شیعہ علماء سے ملتے جلتے انداز میں بیان کیا ہے۔ تقابلی نقطہ نظر سے یہ اتفاق رائے ظاہر ہوتا ہے کہ سچے ایمان کے لیے دشوار قربانی درکار ہے، نہ صرف عقیدہ یا آرام دہ عبادت۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن العقبة تُمثِّل الأعمال الصالحة الشاقة، وإن تفاوتوا في تفاصيل التطبيق. فالمفسرون السنيون كابن كثير يُبيِّنون أن العقبة هي طريق شاق في الآخرة لا يستطيع المرور به إلا من أتى أعمالاً بعينها، وهي الأعمال المذكورة في الآيات التالية كعتق الرقاب وإطعام المحتاجين. ويورد الطبري تفسيرات متعددة تشمل أنها طريق صعب في جهنم لا ينجو منه إلا الصالحون. ويُشدِّد القرطبي على أن الآية تنتقد من يمتلكون القدرة على فعل الخير ولكنهم يُقصِّرون عنه. والتفسير الجوهري متوافق بين التراثين. ويُؤكِّد المفسرون الشيعة كالطباطبائي بوضوح أكبر على البُعد الاجتماعي العادل، ربطاً للطريق الصعد بمواجهة الظلم ونصرة المهمَّشين. ويُبرزون أن الآية تنتقد الإيمان السلبي الذي يتهرب من العمل الطلَّاب. والتفسير السني يُشدِّد بالقدر ذاته على أهمية ترجمة الإيمان إلى أعمال من خير وصدقة. ويتوافق التراثان على أن الآية تُدين معرفة الصواب مع التقاعس عن فعله. ويتناول الرازي الطبيعة المجازية للعقبة على نحو مشابه للتحليل الشيعي. والمنهج المقارن يكشف إجماعاً على أن الإيمان الحقيقي يستلزم عملاً تضحوياً شاقاً لا مجرد اعتقاد أو شعيرة مريحة، وإن تباينت التراثات في بعض جوانب ما يُشكِّل الطريق الصعد."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:12:rhetorical-emphasis",
+          "title": "What Makes You Know?",
+          "icon": "questionmark.diamond.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Wa ma adraka ma al-'aqabah' (And what will make you know what the steep path is?) builds anticipation - Allah is about to reveal something profound about the challenging path.",
+          "whyItMatters": "This rhetorical device demands our full attention. When Allah asks 'what makes you know?', important revelation follows that we must internalize.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+          "title_urdu": "آپ کیا جانتے ہیں؟",
+          "coreInsight_urdu": "'وما ادراک ما العقبة' (اور آپ کیا جانتے ہیں کہ مشکل راستہ کیا ہے؟) توقع پیدا کرتا ہے - اللہ مشکل راستے کے بارے میں کچھ گہرا انکشاف کرنے والا ہے۔",
+          "whyItMatters_urdu": "یہ بیانیہ آلہ ہماری مکمل توجہ کا مطالبہ کرتا ہے۔ جب اللہ پوچھتا ہے 'آپ کیا جانتے ہیں؟'، اہم وحی آتی ہے جسے ہمیں اندرونی بنانا چاہیے۔",
+          "title_ar": "ما يدريك؟",
+          "coreInsight_ar": "'وما أدراك ما العقبة' (وما يدريك ما الطريق الوعر؟) يبني الترقب - الله على وشك الكشف عن شيء عميق حول الطريق الصعب.",
+          "whyItMatters_ar": "هذا الجهاز البلاغي يتطلب اهتمامنا الكامل. عندما يسأل الله 'ما يدريك؟'، يتبع ذلك وحي مهم يجب أن نستوعبه."
+        },
+        {
+          "id": "90:12:divine-explanation",
+          "title": "Divine Clarification",
+          "icon": "lightbulb.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah doesn't leave the steep path vague - He's about to specify exactly what actions constitute this challenging but righteous ascent.",
+          "whyItMatters": "Islam provides concrete guidance. Rather than abstract morality, Allah gives specific actions that embody righteousness and social justice.",
+          "position": "topRight",
+          "arabicHighlight": "مَا ٱلْعَقَبَةُ",
+          "title_urdu": "الہی وضاحت",
+          "coreInsight_urdu": "اللہ مشکل راستے کو مبہم نہیں چھوڑتا - وہ بالکل بیان کرنے والا ہے کہ کون سے اعمال اس مشکل لیکن صالح چڑھائی کو تشکیل دیتے ہیں۔",
+          "whyItMatters_urdu": "اسلام ٹھوس رہنمائی فراہم کرتا ہے۔ تجریدی اخلاقیات کے بجائے، اللہ مخصوص اعمال دیتا ہے جو نیکی اور سماجی انصاف کو مجسم کرتے ہیں۔",
+          "title_ar": "التوضيح الإلهي",
+          "coreInsight_ar": "الله لا يترك الطريق الوعر غامضًا - إنه على وشك تحديد بالضبط ما هي الأعمال التي تشكل هذا الصعود الصعب لكن الصالح.",
+          "whyItMatters_ar": "الإسلام يوفر إرشادًا ملموسًا. بدلاً من الأخلاق المجردة، يعطي الله أعمالًا محددة تجسد الصلاح والعدالة الاجتماعية."
+        },
+        {
+          "id": "90:12:attention-grabber",
+          "title": "Pedagogical Technique",
+          "icon": "exclamationmark.3",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This Quranic pattern - asking 'what makes you know?' - is a teaching method that makes listeners mentally prepared to receive and remember important information.",
+          "whyItMatters": "The Quran uses powerful rhetorical techniques because how we learn affects what we retain. This pattern ensures the following message impacts deeply.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَآ أَدْرَىٰكَ",
+          "title_urdu": "تعلیمی تکنیک",
+          "coreInsight_urdu": "یہ قرآنی نمونہ - 'آپ کیا جانتے ہیں؟' پوچھنا - ایک تعلیمی طریقہ ہے جو سننے والوں کو ذہنی طور پر اہم معلومات حاصل کرنے اور یاد رکھنے کے لیے تیار کرتا ہے۔",
+          "whyItMatters_urdu": "قرآن طاقتور بیانیہ تکنیک استعمال کرتا ہے کیونکہ ہم کیسے سیکھتے ہیں اس سے متاثر ہوتا ہے کہ ہم کیا برقرار رکھتے ہیں۔ یہ نمونہ یقینی بناتا ہے کہ آنے والا پیغام گہرائی سے اثر انداز ہو۔",
+          "title_ar": "التقنية التربوية",
+          "coreInsight_ar": "هذا النمط القرآني - سؤال 'ما يدريك؟' - هو أسلوب تعليمي يجعل المستمعين مستعدين ذهنيًا لتلقي وتذكر المعلومات المهمة.",
+          "whyItMatters_ar": "القرآن يستخدم تقنيات بلاغية قوية لأن كيف نتعلم يؤثر على ما نحتفظ به. هذا النمط يضمن أن الرسالة التالية تؤثر بعمق."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars recognize this as a rhetorical device emphasizing what follows. Sunni commentators like Ibn Kathir explain that such questions in the Quran signal that important information is about to be presented and that the matter deserves special attention. Tabari notes that the format creates emphasis and makes the teaching more memorable. Qurtubi uses such verses to encourage deep reflection on Quranic teachings rather than superficial reading. The interpretation across traditions is uniform regarding the verse's rhetorical function. Both Shia and Sunni scholars use this verse to emphasize the importance of the actions about to be described - freeing slaves and feeding the needy. Shia commentators like Tabatabai tend to emphasize the verse as signaling the spiritual profundity of seemingly simple acts of charity and justice. They stress that the steep path represents fundamental soul transformation. Sunni tafsir similarly emphasizes the importance and reward of the actions to be described. Both traditions encourage using such verses as prompts for deep reflection on divine guidance. Razi discusses the rhetorical techniques of the Quran in ways parallel to Shia scholarly analysis. The comparative perspective shows complete consensus on this verse's function as emphasizing what follows and inviting careful attention to the steep path's definition.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کو بعد میں آنے والی باتوں پر زور دینے والے استفہامی اسلوب کے طور پر پہچانتے ہیں۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ قرآن میں اس طرح کے سوال اس بات کی علامت ہیں کہ اہم معلومات پیش کی جانے والی ہیں اور وہ معاملہ خصوصی توجہ کا مستحق ہے۔ طبری نے نوٹ کیا کہ یہ اسلوب زور پیدا کرتا ہے اور تعلیم کو زیادہ یادگار بناتا ہے۔ قرطبی نے ایسی آیات کا استعمال کرتے ہوئے قرآنی تعلیمات پر سطحی پڑھنے کی بجائے گہرے غوروفکر کی ترغیب دی ہے۔ تفسیر کا بنیادی انداز دونوں روایات میں آیت کے استفہامی کام کے حوالے سے یکساں ہے۔ شیعہ اور سنی دونوں علماء نے اس آیت کو آگے بیان ہونے والے اعمال یعنی غلاموں کو آزاد کرنا اور مستحقین کو کھلانا کی اہمیت پر زور دینے کے لیے استعمال کیا ہے۔ شیعہ مفسرین جیسے طباطبائی بظاہر سادہ خیراتی اور انصافی اعمال کی روحانی گہرائی کو اجاگر کرنے کے لیے اس آیت پر خصوصی زور دیتے ہیں۔ وہ اس بات پر روشنی ڈالتے ہیں کہ عقبہ روح کی بنیادی تبدیلی کا نام ہے۔ سنی تفسیر بھی اسی طرح آگے بیان ہونے والے اعمال کی اہمیت اور ثواب پر زور دیتی ہے۔ دونوں روایات ایسی آیات کو الٰہی رہنمائی پر گہرے غوروفکر کی ترغیب کے طور پر استعمال کرتی ہیں۔ رازی نے قرآنی بلاغت کی تکنیکوں پر ایسے انداز میں بحث کی ہے جو شیعہ علمی تجزیے سے موازی ہے۔",
+    "layer4_ar": "يُجمع علماء الشيعة والسنة على أن هذه الآية أداة بلاغية تُمهِّد لما يليها وتُؤكِّده. فالمفسرون السنيون كابن كثير يُبيِّنون أن مثل هذه الأسئلة في القرآن تُلفِّت إلى أن ما سيأتي ذو بال وأن المسألة تستأهل عناية خاصة. ويُلاحظ الطبري أن هذا الأسلوب يصنع توكيداً ويجعل التعليم أكثر ترسخاً في الذاكرة. ويُوظِّف القرطبي مثل هذه الآيات حثاً على التأمل العميق في تعاليم القرآن بدلاً من القراءة السطحية. والتفسير عبر التراثين متوحِّد في شأن الوظيفة البلاغية للآية. ويُوظِّف علماء الشيعة والسنة كليهم هذه الآية تأكيداً لأهمية الأعمال التي ستُذكَر بعدها وهي عتق الرقاب وإطعام المحتاجين. ويميل المفسرون الشيعة كالطباطبائي إلى إبراز كون الآية مُنبِّهةً على العمق الروحي الكامن في أعمال تبدو بسيطة من صدقة وعدالة، مُؤكِّدين أن الطريق الصعد يُمثِّل تحولاً جذرياً في النفس. والتفسير السني يُشدِّد بالقدر ذاته على أهمية الأعمال التي ستُذكَر وثوابها. ويُعنى التراثان بتوظيف مثل هذه الآيات دافعاً للتأمل العميق في الهداية الإلهية. ويتناول الرازي الأساليب البلاغية القرآنية على نحو موازٍ للتحليل الشيعي. والمنهج المقارن يكشف عن توافق تام على وظيفة الآية في التأكيد على ما يلي ودعوة القارئ إلى الإصغاء المُتأني لتعريف الطريق الصعد."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:13:freeing-slaves",
+          "title": "Freeing Slaves",
+          "icon": "figure.walk",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Fakku raqabah' (freeing a slave/neck) is the first example of the steep path - liberating those in bondage, valuing human freedom and dignity above material wealth.",
+          "whyItMatters": "True righteousness involves lifting others from oppression. Freeing slaves was revolutionary, teaching that human dignity transcends social hierarchies.",
+          "position": "topLeft",
+          "arabicHighlight": "فَكُّ رَقَبَةٍ",
+          "title_urdu": "غلام آزاد کرنا",
+          "coreInsight_urdu": "'فک رقبة' (غلام کو آزاد کرنا) مشکل راستے کی پہلی مثال ہے - قید میں لوگوں کو آزاد کرنا، مادی دولت سے اوپر انسانی آزادی اور وقار کی قدر کرنا۔",
+          "whyItMatters_urdu": "حقیقی نیکی دوسروں کو ظلم سے اٹھانے پر مشتمل ہے۔ غلاموں کو آزاد کرنا انقلابی تھا، سکھاتا ہے کہ انسانی وقار سماجی درجہ بندیوں سے بالاتر ہے۔",
+          "title_ar": "تحرير العبيد",
+          "coreInsight_ar": "'فك رقبة' (تحرير العبد) هو المثال الأول للطريق الوعر - تحرير أولئك في الأسر، تقدير الحرية والكرامة الإنسانية فوق الثروة المادية.",
+          "whyItMatters_ar": "الصلاح الحقيقي ينطوي على رفع الآخرين من القمع. كان تحرير العبيد ثوريًا، يعلم أن الكرامة الإنسانية تتجاوز التسلسلات الاجتماعية."
+        },
+        {
+          "id": "90:13:liberating-metaphor",
+          "title": "Neck Liberation",
+          "icon": "link.badge.plus",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'raqabah' (neck) symbolizes bondage - freeing the neck means removing chains, whether physical slavery or other forms of oppression and debt.",
+          "whyItMatters": "This teaching extends beyond historical slavery to all forms of bondage - helping people escape debt, addiction, poverty, or any state that restricts dignity.",
+          "position": "topRight",
+          "arabicHighlight": "رَقَبَةٍ",
+          "title_urdu": "گردن کی آزادی",
+          "coreInsight_urdu": "لفظ 'رقبہ' (گردن) غلامی کی علامت ہے - گردن کو آزاد کرنا زنجیروں کو ہٹانا ہے، چاہے جسمانی غلامی ہو یا ظلم اور قرض کی دوسری اقسام۔",
+          "whyItMatters_urdu": "یہ تعلیم تاریخی غلامی سے بالاتر قید کی تمام اقسام تک پھیلتی ہے - لوگوں کو قرض، نشہ، غربت، یا کسی بھی ایسی حالت سے بچنے میں مدد کرنا جو وقار کو محدود کرتی ہے۔",
+          "title_ar": "تحرير الرقبة",
+          "coreInsight_ar": "كلمة 'رقبة' ترمز إلى العبودية - تحرير الرقبة يعني إزالة القيود، سواء كانت عبودية جسدية أو أشكال أخرى من القمع والدين.",
+          "whyItMatters_ar": "هذا التعليم يتجاوز العبودية التاريخية إلى جميع أشكال الأسر - مساعدة الناس على الهروب من الديون والإدمان والفقر أو أي حالة تقيد الكرامة."
+        },
+        {
+          "id": "90:13:sacrifice-required",
+          "title": "Costly Compassion",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Freeing a slave required significant financial sacrifice - Allah defines righteousness not as easy charity but as actions that cost us something valuable.",
+          "whyItMatters": "Real virtue requires sacrifice. The steep path isn't walked through comfortable donations but through giving what genuinely impacts our wealth and comfort.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَكُّ",
+          "title_urdu": "قیمتی ہمدردی",
+          "coreInsight_urdu": "غلام کو آزاد کرنا اہم مالی قربانی کی ضرورت تھی - اللہ نیکی کی تعریف آسان صدقے کے طور پر نہیں بلکہ ایسے اعمال کے طور پر کرتا ہے جو ہمیں قیمتی چیز کی قیمت دیتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی فضیلت قربانی کا مطالبہ کرتی ہے۔ مشکل راستہ آرام دہ عطیات کے ذریعے نہیں بلکہ وہ دینے کے ذریعے چلا جاتا ہے جو واقعی ہماری دولت اور آرام کو متاثر کرتا ہے۔",
+          "title_ar": "التعاطف المكلف",
+          "coreInsight_ar": "تحرير العبد تطلب تضحية مالية كبيرة - الله يحدد الصلاح ليس كصدقة سهلة ولكن كأعمال تكلفنا شيئًا قيمًا.",
+          "whyItMatters_ar": "الفضيلة الحقيقية تتطلب التضحية. الطريق الوعر لا يُسلك من خلال التبرعات المريحة ولكن من خلال إعطاء ما يؤثر حقًا على ثروتنا وراحتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic meaning of this verse as identifying freeing slaves as part of the steep path. Sunni commentators like Ibn Kathir explain that freeing a slave is highly meritorious and was prescribed as expiation for various sins in Islamic law. Tabari discusses how Islam encouraged manumission through various mechanisms. Qurtubi emphasizes the spiritual reward for freeing slaves and notes that this is specified as part of the steep path that leads to Paradise. The interpretation across traditions is largely uniform regarding the historical meaning. Both traditions developed extensive jurisprudence around slavery and manumission reflecting this verse's values. Shia scholars like Tabatabai tend to emphasize more explicitly the verse's broader principle about liberating the oppressed and fighting unjust systems, applying it to contemporary contexts beyond chattel slavery. Sunni tafsir focuses more on the specific historical practice and its legal dimensions. Both traditions agree that the verse establishes freeing slaves as among the highest forms of charity and worship. The comparative perspective shows consensus on the verse's call to liberate those in bondage, with differences mainly in how broadly the principle is applied beyond the specific historical context of chattel slavery.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی معنی پر متفق ہیں کہ غلاموں کو آزاد کرنا عقبہ کا حصہ ہے۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ غلام آزاد کرنا نہایت فضیلت مند عمل ہے اور اسلامی فقہ میں مختلف گناہوں کا کفارہ قرار دیا گیا ہے۔ طبری نے بیان کیا ہے کہ اسلام نے مختلف طریقوں سے آزادی کی حوصلہ افزائی کی۔ قرطبی نے غلام آزاد کرنے کی روحانی جزا پر زور دیا ہے اور نوٹ کیا ہے کہ اسے عقبہ کے حصے کے طور پر بیان کیا گیا جو جنت کی طرف لے جاتا ہے۔ دونوں روایات میں تاریخی معنی کے حوالے سے تفسیر بڑی حد تک یکساں ہے۔ دونوں روایات نے اس آیت کی اقدار کو مدنظر رکھتے ہوئے غلامی اور آزادی کے بارے میں وسیع فقہ وضع کی۔ شیعہ علماء جیسے طباطبائی آیت کے اس وسیع اصول پر زیادہ واضح طور پر زور دیتے ہیں کہ مظلوموں کو آزاد کرنا اور ناانصافی کے نظاموں سے لڑنا، اسے خاص تاریخی سیاق سے آگے بڑھ کر معاصر حالات پر لاگو کرتے ہیں۔ سنی تفسیر مخصوص تاریخی عمل اور اس کے قانونی پہلوؤں پر زیادہ توجہ دیتی ہے۔ دونوں روایات متفق ہیں کہ یہ آیت مقیدین کو آزاد کرنے کو خیرات اور عبادت کی اعلیٰ ترین اقسام میں سے قرار دیتی ہے، فرق بنیادی طور پر اس میں ہے کہ یہ اصول خاص تاریخی سیاق سے آگے کس حد تک لاگو ہوتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في جوهرهم على معنى هذه الآية بوصفها تعريفاً لعتق الرقاب ضمن مكونات الطريق الصعد. فالمفسرون السنيون كابن كثير يُبيِّنون أن عتق العبد عمل مثاب عليه ثواباً جزيلاً وقد فُرِض كفارةً عن معاصٍ مختلفة في الفقه الإسلامي. ويتناول الطبري كيف شجَّع الإسلام العتق من خلال آليات متعددة. ويُشدِّد القرطبي على الثواب الروحي لعتق الرقاب ويُلاحظ أن تحديده ضمن الطريق الصعد المؤدي إلى الجنة أمر ذو دلالة. والتفسير عبر التراثين متوافق في الجملة حول المعنى التاريخي. وقد طوَّر التراثان فقهاً مستفيضاً حول الرق والعتق انعكاساً لقيم هذه الآية. ويميل المفسرون الشيعة كالطباطبائي إلى إبراز المبدأ الأشمل للآية بصورة أصرح، وهو تحرير المقهورين ومقاومة المنظومات الجائرة وتطبيقه على سياقات معاصرة تتجاوز الرقَّة التاريخية. والتفسير السني يُعنى أكثر بالممارسة التاريخية المحددة وأبعادها الفقهية. ويُجمع التراثان على أن الآية تجعل تحرير المستعبَدين من أعلى درجات الصدقة والعبادة. والمنهج المقارن يكشف عن توافق على دعوة الآية إلى تحرير من هم في قيود، مع تفاوت في مدى اتساع تطبيق المبدأ خارج السياق التاريخي المحدد لرق الأجساد."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:14:feeding-hungry",
+          "title": "Feeding the Hungry",
+          "icon": "fork.knife",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'It'am fi yawmin dhi masghabah' (feeding on a day of severe hunger) - providing food during famine or crisis when resources are scarce and most valuable.",
+          "whyItMatters": "True charity shines brightest during hardship. Giving when it's difficult demonstrates genuine compassion over comfortable generosity.",
+          "position": "topLeft",
+          "arabicHighlight": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+          "title_urdu": "بھوکوں کو کھلانا",
+          "coreInsight_urdu": "'اطعام فی یوم ذی مسغبة' (شدید بھوک کے دن کھانا کھلانا) - قحط یا بحران کے دوران خوراک فراہم کرنا جب وسائل کم اور سب سے قیمتی ہوں۔",
+          "whyItMatters_urdu": "حقیقی صدقہ مشکلات کے دوران سب سے زیادہ چمکتا ہے۔ مشکل ہونے پر دینا آرام دہ سخاوت پر حقیقی ہمدردی کو ظاہر کرتا ہے۔",
+          "title_ar": "إطعام الجائعين",
+          "coreInsight_ar": "'إطعام في يوم ذي مسغبة' (الإطعام في يوم الجوع الشديد) - توفير الطعام خلال المجاعة أو الأزمة عندما تكون الموارد نادرة وأكثر قيمة.",
+          "whyItMatters_ar": "الصدقة الحقيقية تتألق أكثر خلال المصاعب. العطاء عندما يكون صعبًا يظهر تعاطفًا حقيقيًا على الكرم المريح."
+        },
+        {
+          "id": "90:14:severe-hunger",
+          "title": "Crisis Compassion",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Masghabah' (severe hunger/famine) specifies the context - not just any charity, but feeding others when food itself is precious and scarce.",
+          "whyItMatters": "Allah values sacrifice quality over quantity. Feeding someone during abundance is good, but during scarcity demonstrates higher faith and selflessness.",
+          "position": "topRight",
+          "arabicHighlight": "ذِى مَسْغَبَةٍۢ",
+          "title_urdu": "بحران کی ہمدردی",
+          "coreInsight_urdu": "'مسغبة' (شدید بھوک/قحط) سیاق و سباق کی وضاحت کرتا ہے - صرف کوئی صدقہ نہیں، بلکہ دوسروں کو کھانا کھلانا جب خوراک خود قیمتی اور کم ہو۔",
+          "whyItMatters_urdu": "اللہ مقدار پر قربانی کی کیفیت کو اہمیت دیتا ہے۔ فراوانی کے دوران کسی کو کھانا کھلانا اچھا ہے، لیکن قلت کے دوران اعلیٰ ایمان اور بے لوثی کو ظاہر کرتا ہے۔",
+          "title_ar": "التعاطف في الأزمات",
+          "coreInsight_ar": "'مسغبة' (جوع شديد/مجاعة) يحدد السياق - ليس مجرد أي صدقة، بل إطعام الآخرين عندما يكون الطعام نفسه ثمينًا ونادرًا.",
+          "whyItMatters_ar": "الله يقدر جودة التضحية على الكمية. إطعام شخص ما خلال الوفرة جيد، لكن خلال الندرة يظهر إيمانًا ونكران ذات أعلى."
+        },
+        {
+          "id": "90:14:or-feeding",
+          "title": "Alternative Paths",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Aw' (or) shows multiple ways to climb the steep path - freeing slaves or feeding the hungry are both examples, not an exhaustive list.",
+          "whyItMatters": "Righteousness has many forms. Allah provides options so everyone can find ways to serve according to their circumstances and abilities.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَوْ إِطْعَٰمٌۭ",
+          "title_urdu": "متبادل راستے",
+          "coreInsight_urdu": "'او' (یا) مشکل راستے پر چڑھنے کے متعدد طریقے دکھاتا ہے - غلاموں کو آزاد کرنا یا بھوکوں کو کھانا کھلانا دونوں مثالیں ہیں، مکمل فہرست نہیں۔",
+          "whyItMatters_urdu": "نیکی کی بہت سی اقسام ہیں۔ اللہ اختیارات فراہم کرتا ہے تاکہ ہر کوئی اپنے حالات اور صلاحیتوں کے مطابق خدمت کے طریقے تلاش کر سکے۔",
+          "title_ar": "المسارات البديلة",
+          "coreInsight_ar": "'أو' (أو) يظهر طرقًا متعددة لتسلق الطريق الوعر - تحرير العبيد أو إطعام الجائعين كلاهما أمثلة، وليس قائمة شاملة.",
+          "whyItMatters_ar": "الصلاح له أشكال عديدة. الله يوفر خيارات حتى يتمكن الجميع من العثور على طرق للخدمة وفقًا لظروفهم وقدراتهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on this verse's call to feed the hungry during times of scarcity. Sunni commentators like Ibn Kathir explain that feeding the hungry during famine is among the actions that constitute the steep path to Paradise. Tabari discusses various interpretations of 'day of severe hunger' including literal famine and chronic scarcity. Qurtubi emphasizes the reward for feeding the hungry and notes that the specification of scarcity indicates this is when the act is most valuable. The basic interpretation aligns across traditions. Both developed extensive teachings on feeding the hungry as a religious obligation and form of worship. Shia scholars like Tabatabai tend to emphasize more explicitly the systemic dimensions - that Muslims must address not only individual hunger but structural causes. They connect the verse to broader Islamic social justice principles. Sunni tafsir focuses similarly on the obligation and reward of feeding the hungry. Both traditions cite hadith about the virtues of feeding the hungry and Allah's displeasure with those who ignore starving people. The comparative perspective shows consensus that feeding the hungry, especially during scarcity, is a fundamental religious obligation and part of the path to Paradise, with differences mainly in emphasis between individual charity and systemic reform.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء قحط کے وقت بھوکوں کو کھانا کھلانے کے بارے میں اس آیت کی دعوت پر متفق ہیں۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ قحط کے دوران بھوکوں کو کھانا کھلانا ان اعمال میں شامل ہے جو عقبہ کو تشکیل دیتے ہیں جو جنت کی طرف لے جاتا ہے۔ طبری نے 'شدید بھوک کے دن' کی مختلف تفسیریں بیان کی ہیں جن میں لفظی قحط اور دائمی قلت شامل ہے۔ قرطبی نے بھوکوں کو کھانا کھلانے کی جزا پر زور دیا اور نوٹ کیا کہ قلت کی خصوصیت یہ ظاہر کرتی ہے کہ یہی وقت ہے جب یہ عمل سب سے زیادہ قیمتی ہوتا ہے۔ دونوں روایات میں بنیادی تفسیر یکساں ہے۔ دونوں نے بھوکوں کو کھانا کھلانے کو دینی فریضے اور عبادت کی شکل کے طور پر بیان کرنے میں وسیع تعلیمات وضع کی ہیں۔ شیعہ علماء جیسے طباطبائی نظامی پہلوؤں پر زیادہ واضح طور پر زور دیتے ہیں کہ مسلمانوں کو انفرادی بھوک کے ساتھ ساتھ بنیادی وجوہات کو بھی حل کرنا چاہیے، اسے وسیع تر اسلامی سماجی انصاف کے اصولوں سے جوڑتے ہوئے۔ سنی تفسیر بھی بھوکوں کو کھانا کھلانے کی ذمہ داری اور ثواب پر یکساں زور دیتی ہے۔ دونوں روایات ان احادیث کا حوالہ دیتی ہیں جو بھوکوں کو کھانا کھلانے کی فضیلت اور بھوکے لوگوں کو نظرانداز کرنے پر اللہ کی ناراضگی کو بیان کرتی ہیں۔ تقابلی نقطہ نظر سے یہ اتفاق رائے ظاہر ہوتا ہے کہ بھوکوں کو کھانا کھلانا، خاص طور پر قلت کے وقت، ایک بنیادی دینی فریضہ اور جنت کی طرف راستے کا حصہ ہے، فرق بنیادی طور پر انفرادی خیرات اور نظامی اصلاح کے درمیان زور دینے میں ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في جوهرهم على دعوة هذه الآية إلى إطعام الجائعين في أوقات الشح. فالمفسرون السنيون كابن كثير يُبيِّنون أن إطعام الجائعين في المجاعة من الأعمال التي تُشكِّل الطريق الصعد إلى الجنة. ويتناول الطبري تفسيرات متعددة لـ\"يوم ذي مسغبة\" بما يشمل المجاعة الحرفية والشُّح المزمن. ويُشدِّد القرطبي على الثواب المترتب على إطعام الجائعين ويُلاحظ أن تخصيص أوقات الشح يدل على أن العمل في تلك الأوقات بالذات أبلغ قدراً وأعظم أجراً. والتفسير الجوهري متوافق بين التراثين. وقد طوَّر كلاهما تعاليم مستفيضة في إطعام الجائعين بوصفه واجباً دينياً وضرباً من ضروب العبادة. ويميل المفسرون الشيعة كالطباطبائي إلى تأكيد الأبعاد المنهجية بصورة أصرح؛ فالمسلمون مُلزَمون بمعالجة الجوع الفردي وأسبابه البنيوية على حدٍّ سواء، ربطاً للآية بمبادئ العدالة الاجتماعية الأشمل في الإسلام. والتفسير السني يُشدِّد بالقدر ذاته على وجوب الإطعام وثوابه. ويستشهد كلا التراثين بأحاديث في فضائل إطعام الجائعين وسخط الله على من يتجاهل الجوع المحيط به. والمنهج المقارن يكشف عن إجماع على أن إطعام الجائعين ولا سيما في أوقات الشدة واجب ديني أصيل وجزء لا يُتجزأ من الطريق إلى الجنة، مع تفاوت في التركيز بين الصدقة الفردية والإصلاح المنهجي."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:15:orphan-kinship",
+          "title": "Orphan with Ties",
+          "icon": "person.crop.circle.badge.checkmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Yatiman dha maqrabah' (an orphan of near relationship) - specifically caring for orphaned relatives, combining family duty with charitable compassion.",
+          "whyItMatters": "Charity begins with those closest to us. Islam prioritizes helping family first, as neglecting relatives while helping strangers contradicts true compassion.",
+          "position": "topLeft",
+          "arabicHighlight": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+          "title_urdu": "رشتہ دار یتیم",
+          "coreInsight_urdu": "'یتیما ذا مقربة' (قریبی رشتے کا یتیم) - خاص طور پر یتیم رشتہ داروں کی دیکھ بھال، خاندانی فرض کو خیراتی ہمدردی کے ساتھ ملاتے ہوئے۔",
+          "whyItMatters_urdu": "صدقہ ہم سے قریب ترین لوگوں سے شروع ہوتا ہے۔ اسلام پہلے خاندان کی مدد کو ترجیح دیتا ہے، کیونکہ اجنبیوں کی مدد کرتے ہوئے رشتہ داروں کو نظرانداز کرنا حقیقی ہمدردی سے متصادم ہے۔",
+          "title_ar": "اليتيم ذو القرابة",
+          "coreInsight_ar": "'يتيمًا ذا مقربة' (يتيم ذو علاقة قريبة) - رعاية الأقارب اليتامى على وجه التحديد، الجمع بين واجب الأسرة والتعاطف الخيري.",
+          "whyItMatters_ar": "الصدقة تبدأ مع أقرب الناس إلينا. الإسلام يعطي الأولوية لمساعدة الأسرة أولاً، حيث أن إهمال الأقارب أثناء مساعدة الغرباء يتناقض مع التعاطف الحقيقي."
+        },
+        {
+          "id": "90:15:vulnerable-children",
+          "title": "Protecting Orphans",
+          "icon": "figure.2.and.child.holdinghands",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Yatim' (orphan) represents the most vulnerable members of society - children without parental protection who need community support and care.",
+          "whyItMatters": "How a society treats its most vulnerable reflects its moral character. Islam mandates protecting orphans, making their welfare a religious duty.",
+          "position": "topRight",
+          "arabicHighlight": "يَتِيمًۭا",
+          "title_urdu": "یتیموں کی حفاظت",
+          "coreInsight_urdu": "'یتیم' سماج کے سب سے کمزور ارکان کی نمائندگی کرتا ہے - ایسے بچے جن کے والدین کی حفاظت نہیں جنہیں کمیونٹی کی مدد اور دیکھ بھال کی ضرورت ہے۔",
+          "whyItMatters_urdu": "ایک معاشرہ اپنے سب سے کمزور لوگوں کے ساتھ کیسا سلوک کرتا ہے اس کی اخلاقی کردار کو ظاہر کرتا ہے۔ اسلام یتیموں کی حفاظت کو لازمی قرار دیتا ہے، ان کی فلاح کو مذہبی فریضہ بناتا ہے۔",
+          "title_ar": "حماية الأيتام",
+          "coreInsight_ar": "'يتيم' يمثل أكثر أفراد المجتمع ضعفًا - الأطفال بدون حماية الوالدين الذين يحتاجون إلى دعم ورعاية المجتمع.",
+          "whyItMatters_ar": "كيف يعامل المجتمع أفراده الأكثر ضعفًا يعكس طابعه الأخلاقي. الإسلام يفرض حماية الأيتام، مما يجعل رفاهيتهم واجبًا دينيًا."
+        },
+        {
+          "id": "90:15:near-relationship",
+          "title": "Family Priority",
+          "icon": "house.and.flag.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Dha maqrabah' (of near relationship) emphasizes that kinship creates additional responsibility - family orphans have a greater claim on our support than distant strangers.",
+          "whyItMatters": "Islam's social system is concentric - obligations radiate outward from family to community to humanity. Prioritizing relatives strengthens social fabric.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَا مَقْرَبَةٍ",
+          "title_urdu": "خاندان کی ترجیح",
+          "coreInsight_urdu": "'ذا مقربة' (قریبی رشتہ) اس بات پر زور دیتا ہے کہ رشتہ داری اضافی ذمہ داری پیدا کرتی ہے - خاندانی یتیموں کا ہماری مدد پر دور کے اجنبیوں سے زیادہ دعویٰ ہے۔",
+          "whyItMatters_urdu": "اسلام کا سماجی نظام مرکزی ہے - ذمہ داریاں خاندان سے کمیونٹی سے انسانیت کی طرف پھیلتی ہیں۔ رشتہ داروں کو ترجیح دینا سماجی تانے بانے کو مضبوط کرتا ہے۔",
+          "title_ar": "أولوية الأسرة",
+          "coreInsight_ar": "'ذا مقربة' (ذو علاقة قريبة) يؤكد أن القرابة تخلق مسؤولية إضافية - الأيتام من الأسرة لهم مطالبة أكبر على دعمنا من الغرباء البعيدين.",
+          "whyItMatters_ar": "النظام الاجتماعي للإسلام متحد المركز - الالتزامات تشع للخارج من الأسرة إلى المجتمع إلى الإنسانية. إعطاء الأولوية للأقارب يقوي النسيج الاجتماعي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on this verse's emphasis on caring for orphans, particularly those who are relatives. Sunni commentators like Ibn Kathir explain that feeding orphaned relatives is particularly meritorious, combining the reward for charity, maintaining family ties, and supporting the vulnerable. Tabari discusses various interpretations regarding who qualifies as the orphan of near relationship. Qurtubi emphasizes that the verse establishes priority for near relatives while not excluding other orphans from support. The basic interpretation is uniform across traditions. Both developed extensive teachings on care for orphans, recognizing their special vulnerability. Islamic law in both traditions includes detailed provisions protecting orphans' property and welfare. Shia scholars like Tabatabai tend to emphasize the verse as part of a broader pattern of Quranic concern for the marginalized and vulnerable, connecting it to social justice principles. Sunni tafsir similarly emphasizes the obligation to care for orphans and the reward for doing so. Both traditions cite hadith about the virtues of caring for orphans and the severe consequences of neglecting or exploiting them. The comparative perspective shows complete consensus on the importance of supporting orphans, especially those in one's own family, as part of the path to Paradise, with both traditions treating this as a fundamental Islamic obligation.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء یتیموں کی دیکھ بھال پر اس آیت کے زور پر متفق ہیں، خاص طور پر جو رشتہ دار ہوں۔ سنی مفسرین جیسے ابن کثیر نے وضاحت کی ہے کہ رشتہ دار یتیموں کو کھانا کھلانا خاص طور پر فضیلت مند ہے کیونکہ یہ خیرات، صلہ رحمی اور کمزور کی حمایت تینوں کی جزاء کو یکجا کرتا ہے۔ طبری نے 'قریبی رشتے کے یتیم' سے متعلق مختلف آراء پر بحث کی ہے۔ قرطبی نے اس بات پر زور دیا کہ آیت قریبی رشتہ داروں کو ترجیح دیتی ہے جبکہ دوسرے یتیموں کی حمایت کو خارج نہیں کرتی۔ دونوں روایات میں بنیادی تفسیر یکساں ہے۔ دونوں روایات نے یتیموں کی دیکھ بھال کی اسلامی ذمہ داری کے بارے میں وسیع تعلیمات وضع کی ہیں، ان کی خاص کمزوری کو پہچانتے ہوئے۔ اسلامی فقہ میں دونوں روایات یتیموں کی جائیداد اور فلاح کے تحفظ کے لیے تفصیلی احکام رکھتی ہیں۔ شیعہ علماء جیسے طباطبائی آیت کو قرآن کی کمزوروں اور پسماندہ لوگوں کے لیے وسیع فکرمندی کے نمونے کے حصے کے طور پر بیان کرتے ہیں اور اسے سماجی انصاف کے اصولوں سے جوڑتے ہیں۔ سنی تفسیر بھی یتیموں کی دیکھ بھال کی ذمہ داری اور اس کی جزا پر یکساں زور دیتی ہے۔ دونوں روایات یتیموں کی دیکھ بھال کی فضیلت اور ان کو نظرانداز یا استحصال کرنے کے سنگین نتائج کے بارے میں احادیث کا حوالہ دیتی ہیں۔ تقابلی نقطہ نظر سے یتیموں کی حمایت کی اہمیت پر مکمل اتفاق رائے ظاہر ہوتا ہے، خاص طور پر اپنے خاندان میں، جنت کی راہ کے ایک بنیادی اسلامی فریضے کے طور پر۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في جوهرهم على اهتمام هذه الآية برعاية اليتامى ولا سيما ذوي القربى. فالمفسرون السنيون كابن كثير يُبيِّنون أن إطعام أقارب اليتامى أمر مُثاب عليه ثواباً خاصاً يجمع بين ثواب الصدقة وصلة الرحم ونصرة الضعيف. ويتناول الطبري تفسيرات متعددة تتعلق بمن يُعدُّ يتيم القربى. ويُؤكِّد القرطبي أن الآية تُرتِّب الأولوية للأقارب مع عدم إخراج سائر اليتامى من دائرة الاستحقاق. والتفسير الجوهري متوحِّد بين التراثين. وقد طوَّر كلاهما تعاليم مستفيضة في رعاية اليتامى معترفاً بهشاشتهم البالغة. وتتضمن الشريعة الإسلامية في كلا التراثين أحكاماً تفصيلية تحمي أموال اليتامى ورعايتهم وحقوقهم. ويميل المفسرون الشيعة كالطباطبائي إلى قراءة الآية جزءاً من نمط قرآني أشمل للعناية بالمهمَّشين والمستضعفين، ربطاً لها بمبادئ العدالة الاجتماعية. والتفسير السني يُشدِّد بالقدر ذاته على وجوب رعاية اليتامى وثوابها الجزيل. ويستشهد كلا التراثين بأحاديث في فضل كفالة اليتيم وشدة عقوبة استغلاله أو إهماله. والمنهج المقارن يكشف عن إجماع تام على أهمية رعاية اليتامى ولا سيما من كانوا من ذوي القربى، بوصفها جزءاً أصيلاً من الطريق إلى الجنة واعتبارها في كلا التراثين فريضة إسلامية جوهرية لا تقبل الإهمال أو التهاون."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:16:miskin-poverty",
+          "title": "Extreme Poverty",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#E57373",
+          "coreInsight": "'Miskīnan dhā matrabah' describes someone in the most desperate poverty - literally 'clinging to dust', utterly destitute with no resources or support.",
+          "whyItMatters": "This verse highlights the most vulnerable in society, calling us to recognize that true righteousness includes caring for those in extreme need, not just moderate poverty.",
+          "position": "topLeft",
+          "arabicHighlight": "مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+          "title_urdu": "انتہائی غربت",
+          "coreInsight_urdu": "'مسکینا ذا متربہ' سب سے زیادہ مایوس غربت میں کسی کو بیان کرتا ہے - لفظی طور پر 'مٹی سے چمٹا ہوا'، مکمل طور پر بے سہارا کوئی وسائل یا مدد کے بغیر۔",
+          "whyItMatters_urdu": "یہ آیت معاشرے میں سب سے زیادہ کمزور لوگوں کو اجاگر کرتی ہے، ہمیں یاد دلاتی ہے کہ حقیقی نیکی میں انتہائی ضرورت مندوں کی دیکھ بھال شامل ہے، نہ صرف اعتدال پسند غربت۔",
+          "title_ar": "الفقر المدقع",
+          "coreInsight_ar": "'مسكينًا ذا متربة' يصف شخصًا في أشد الفقر - حرفيًا 'متشبثًا بالتراب'، معدم تمامًا بلا موارد أو دعم.",
+          "whyItMatters_ar": "تسلط هذه الآية الضوء على أكثر الفئات ضعفًا في المجتمع، وتدعونا للاعتراف بأن الصلاح الحقيقي يشمل الاهتمام بمن هم في أشد الحاجة، وليس فقط الفقر المعتدل."
+        },
+        {
+          "id": "90:16:feeding-continuation",
+          "title": "Complete Charity",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse completes the previous thought - freeing slaves (v15) OR feeding the extremely poor (v16) are both acts that 'ascend the steep path' toward righteousness.",
+          "whyItMatters": "Islam offers multiple paths to spiritual elevation through social justice - whether liberating the oppressed or uplifting the destitute, both are equally valid expressions of faith.",
+          "position": "topRight",
+          "arabicHighlight": "أَوْ مِسْكِينًۭا",
+          "title_urdu": "مکمل خیرات",
+          "coreInsight_urdu": "یہ آیت پچھلے خیال کو مکمل کرتی ہے - غلاموں کو آزاد کرنا (آیت 15) یا انتہائی غریبوں کو کھانا کھلانا (آیت 16) دونوں وہ اعمال ہیں جو 'کھڑی راہ چڑھتے ہیں' نیکی کی طرف۔",
+          "whyItMatters_urdu": "اسلام سماجی انصاف کے ذریعے روحانی بلندی کے لیے متعدد راستے پیش کرتا ہے - چاہے مظلوموں کو آزاد کرنا ہو یا بے سہارا لوگوں کو بلند کرنا، دونوں ایمان کے برابر طور پر درست اظہار ہیں۔",
+          "title_ar": "الصدقة الكاملة",
+          "coreInsight_ar": "تكمل هذه الآية الفكرة السابقة - تحرير العبيد (آية 15) أو إطعام الفقراء المدقعين (آية 16) كلاهما أعمال 'تصعد المسلك الصعب' نحو الصلاح.",
+          "whyItMatters_ar": "يقدم الإسلام مسارات متعددة للارتقاء الروحي من خلال العدالة الاجتماعية - سواء تحرير المظلومين أو رفع المعدمين، كلاهما تعبيرات صحيحة بالتساوي عن الإيمان."
+        },
+        {
+          "id": "90:16:social-responsibility",
+          "title": "Social Justice",
+          "icon": "hands.and.sparkles.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The Quran links spiritual progress directly to social action - the 'steep path' cannot be climbed through prayer alone, but requires tangible help to society's most vulnerable.",
+          "whyItMatters": "True faith demands we address systemic poverty and oppression, not just offer occasional charity. Our relationship with Allah is inseparable from our treatment of the suffering.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَا مَتْرَبَةٍۢ",
+          "title_urdu": "سماجی انصاف",
+          "coreInsight_urdu": "قرآن روحانی ترقی کو براہ راست سماجی عمل سے جوڑتا ہے - 'کھڑی راہ' صرف نماز سے نہیں چڑھی جا سکتی، بلکہ معاشرے کے سب سے کمزور لوگوں کی ٹھوس مدد کی ضرورت ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان ہم سے مطالبہ کرتا ہے کہ ہم نظامی غربت اور ظلم کو حل کریں، نہ صرف کبھی کبھار خیرات دیں۔ اللہ کے ساتھ ہمارا تعلق تکلیف میں رہنے والوں کے ساتھ ہمارے سلوک سے الگ نہیں ہے۔",
+          "title_ar": "العدالة الاجتماعية",
+          "coreInsight_ar": "يربط القرآن التقدم الروحي مباشرة بالعمل الاجتماعي - لا يمكن تسلق 'المسلك الصعب' بالصلاة وحدها، بل يتطلب مساعدة ملموسة لأكثر فئات المجتمع ضعفًا.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب منا معالجة الفقر والظلم النظاميين، وليس فقط تقديم الصدقة العرضية. علاقتنا مع الله لا تنفصل عن معاملتنا للمعاناة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental obligation to feed the desperately poor, though they emphasize different aspects. Sunni exegetes like Ibn Kathir and Qurtubi focus heavily on the individual merit gained through such charity, viewing it primarily as a means of personal salvation and reward in the hereafter. Shia scholars, while acknowledging individual reward, place greater emphasis on feeding the poor as a social obligation and a manifestation of justice (adl), one of the five roots of religion in Shia theology. Tabatabai and Tabrisi stress that allowing people to reach the state of 'matrabah' represents a societal failure that believers must actively work to prevent. Where Sunni tafsir often discusses charity in terms of voluntary sadaqah and zakat calculations, Shia scholarship integrates this verse into the broader framework of wilayah (guardianship), arguing that legitimate Islamic leadership must ensure no one falls to such desperate poverty. Both traditions cite similar hadiths about the virtues of feeding the hungry, though Shia sources emphasize narrations from the Imams while Sunni sources focus on Prophetic traditions transmitted through the companions. Modern scholars from both schools increasingly agree on the need for systematic poverty alleviation beyond individual charity, though Shia scholars more explicitly connect this to political and economic reform rooted in justice.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں انتہائی فقیروں کو کھانا کھلانے کی بنیادی ذمہ داری پر متفق ہیں، اگرچہ وہ مختلف پہلوؤں پر زور دیتے ہیں۔ سنی مفسرین جیسے ابن کثیر اور قرطبی اس عمل کو بنیادی طور پر ذاتی نجات اور آخرت کے ثواب کے حصول کا ذریعہ سمجھتے ہوئے صدقے کے فضائل پر گفتگو کرتے ہیں۔ دوسری طرف شیعہ علماء جیسے طباطبائی اور طبرسی اس پر زیادہ زور دیتے ہیں کہ فقیروں کو مَتَرَبَة کی حالت تک پہنچنے دینا معاشرتی ناکامی ہے جسے مومنین کو فعال طور پر روکنا چاہیے۔ سنی تفسیر اکثر زکوٰة اور نفلی صدقے کے حسابات پر توجہ مرکوز کرتی ہے، جبکہ شیعہ علماء اس آیت کو ولایت کے وسیع تر ڈھانچے میں رکھ کر دیکھتے ہیں اور استدلال کرتے ہیں کہ جائز اسلامی قیادت کو لازماً یہ یقینی بنانا چاہیے کہ کوئی بھی اس شدید محتاجی تک نہ پہنچے۔ دونوں روایات میں بھوکوں کو کھانا کھلانے کی فضیلت پر ملتی جلتی احادیث موجود ہیں جہاں شیعہ مصادر میں آئمہ علیہم السلام کے ارشادات زیادہ نمایاں ہیں جبکہ سنی مصادر صحابہ کرام کے توسط سے نبوی احادیث پر اعتماد کرتے ہیں۔ جدید علماء دونوں مکاتب سے انفرادی خیرات سے بڑھ کر منظم غربت کے خاتمے کی ضرورت پر اتفاق رائے کی جانب بڑھ رہے ہیں، اگرچہ شیعہ علماء اسے عدل پر مبنی سیاسی و معاشی اصلاحات سے زیادہ واضح طور پر جوڑتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على الفريضة الجوهرية المتمثلة في إطعام الفقير البائس، وإن اختلفت مناهجهم وتأكيداتهم. فالمفسرون السنيون كابن كثير والقرطبي ينصبُّ جُلُّ اهتمامهم على الفضل الفردي المُكتسب من هذه الصدقة، ويرونها أساساً وسيلةً للنجاة الشخصية والمكافأة الأخروية. والعلماء الشيعة وإن أقروا بالمكافأة الفردية إلا أنهم يُولون أهمية أكبر لإطعام الفقير بوصفه واجباً اجتماعياً ومظهراً من مظاهر العدل الذي يُعدُّ أحد أصول الدين الخمسة في العقيدة الشيعية. ويُؤكِّد الطباطبائي والطبرسي أن التراخي في مساعدة الناس حتى يبلغوا حد \"المتربة\" إخفاق مجتمعي ينبغي للمؤمنين العمل الجاد على درئه. وبينما يُعالج التفسير السني الصدقة في إطار صدقة التطوع وحسابات الزكاة، يدمج العلم الشيعي هذه الآية في منظومة الولاية مُجادلاً بأن القيادة الإسلامية الشرعية مُلزَمة بكفالة ألا يصل أحد إلى ذلك الإفلاس الحاد. ويستشهد التراثان بأحاديث متشابهة في فضل إطعام الجائع، غير أن المصادر الشيعية تُقدِّم روايات الأئمة بينما تُركِّز المصادر السنية على السنة النبوية المروية عبر الصحابة. ويزداد علماء المدرستين تقارباً في الوقت الحاضر نحو الاتفاق على ضرورة معالجة الفقر بصورة منهجية تتجاوز الإحسان الفردي."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:17:faith-community",
+          "title": "Believers' Bond",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Thumma kāna min alladhīna āmanū' - then being among those who believed. True righteousness requires both charity (v15-16) AND belonging to a community of faith and mutual support.",
+          "whyItMatters": "Individual good deeds are incomplete without communal faith. Islam emphasizes that we grow spiritually through connection with other believers, not in isolation.",
+          "position": "topLeft",
+          "arabicHighlight": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "مومنوں کا رشتہ",
+          "coreInsight_urdu": "'ثم کان من الذین آمنوا' - پھر ان لوگوں میں سے ہونا جو ایمان لائے۔ حقیقی نیکی کو خیرات (آیت 15-16) اور ایمان اور باہمی مدد کی کمیونٹی سے تعلق دونوں کی ضرورت ہے۔",
+          "whyItMatters_urdu": "انفرادی نیک اعمال اجتماعی ایمان کے بغیر نامکمل ہیں۔ اسلام زور دیتا ہے کہ ہم روحانی طور پر دوسرے مومنین کے ساتھ تعلق کے ذریعے بڑھتے ہیں، تنہائی میں نہیں۔",
+          "title_ar": "رابطة المؤمنين",
+          "coreInsight_ar": "'ثم كان من الذين آمنوا' - ثم كونه من الذين آمنوا. الصلاح الحقيقي يتطلب كلاً من الصدقة (آية 15-16) والانتماء إلى مجتمع من الإيمان والدعم المتبادل.",
+          "whyItMatters_ar": "الأعمال الصالحة الفردية غير مكتملة بدون الإيمان الجماعي. يؤكد الإسلام أننا ننمو روحياً من خلال الاتصال مع المؤمنين الآخرين، وليس في عزلة."
+        },
+        {
+          "id": "90:17:mutual-patience",
+          "title": "Mutual Patience",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Wa tawāṣaw bi-ṣ-ṣabr' - they advised one another to patience. Believers don't just endure hardship alone, but actively encourage each other to persevere through trials.",
+          "whyItMatters": "Patience (sabr) is a communal practice in Islam, not individual stoicism. We strengthen each other's resolve through mutual encouragement and shared faith.",
+          "position": "topRight",
+          "arabicHighlight": "وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "title_urdu": "باہمی صبر",
+          "coreInsight_urdu": "'و تواصوا بالصبر' - انہوں نے ایک دوسرے کو صبر کی نصیحت کی۔ مومنین صرف تنہائی میں مشکلات برداشت نہیں کرتے، بلکہ فعال طور پر ایک دوسرے کو آزمائشوں میں ثابت قدم رہنے کی ترغیب دیتے ہیں۔",
+          "whyItMatters_urdu": "صبر اسلام میں ایک اجتماعی عمل ہے، نہ کہ انفرادی برداشت۔ ہم باہمی حوصلہ افزائی اور مشترکہ ایمان کے ذریعے ایک دوسرے کے عزم کو مضبوط کرتے ہیں۔",
+          "title_ar": "الصبر المتبادل",
+          "coreInsight_ar": "'وتواصوا بالصبر' - تواصوا بعضهم بعضاً بالصبر. المؤمنون لا يتحملون المصاعب وحدهم فقط، بل يشجعون بعضهم بعضاً بنشاط على المثابرة عبر المحن.",
+          "whyItMatters_ar": "الصبر ممارسة جماعية في الإسلام، وليس تحملاً فردياً. نعزز عزيمة بعضنا البعض من خلال التشجيع المتبادل والإيمان المشترك."
+        },
+        {
+          "id": "90:17:mutual-compassion",
+          "title": "Mutual Compassion",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Wa tawāṣaw bi-l-marḥamah' - they advised one another to compassion. The believing community constantly reminds each other to maintain mercy and kindness, especially toward the vulnerable.",
+          "whyItMatters": "Compassion isn't just a feeling but a discipline that requires community reinforcement. We keep each other accountable to treating others with mercy and empathy.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+          "title_urdu": "باہمی شفقت",
+          "coreInsight_urdu": "'و تواصوا بالمرحمہ' - انہوں نے ایک دوسرے کو شفقت کی نصیحت کی۔ مومنین کی کمیونٹی مسلسل ایک دوسرے کو رحم اور مہربانی برقرار رکھنے کی یاد دلاتی ہے، خاص طور پر کمزوروں کے ساتھ۔",
+          "whyItMatters_urdu": "شفقت صرف ایک احساس نہیں بلکہ ایک نظم و ضبط ہے جو کمیونٹی کی تقویت کی ضرورت ہے۔ ہم ایک دوسرے کو جوابدہ رکھتے ہیں کہ دوسروں کے ساتھ رحم اور ہمدردی سے پیش آئیں۔",
+          "title_ar": "التراحم المتبادل",
+          "coreInsight_ar": "'وتواصوا بالمرحمة' - تواصوا بعضهم بعضاً بالرحمة. مجتمع المؤمنين يذكر بعضهم بعضاً باستمرار للحفاظ على الرحمة واللطف، خاصة تجاه الضعفاء.",
+          "whyItMatters_ar": "الرحمة ليست مجرد شعور بل انضباط يتطلب تعزيز المجتمع. نبقي بعضنا البعض مسؤولين عن معاملة الآخرين بالرحمة والتعاطف."
+        },
+        {
+          "id": "90:17:tawasaw-counsel",
+          "title": "Sacred Counsel",
+          "icon": "bubble.left.and.bubble.right.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'tawāṣaw' (advised one another) implies continuous, reciprocal counsel - believers don't lecture but engage in mutual guidance, learning from each other.",
+          "whyItMatters": "Islamic community is built on horizontal relationships of mutual advice, not top-down authority. Every believer has wisdom to share and gaps to fill.",
+          "position": "bottomRight",
+          "arabicHighlight": "تَوَاصَوْا۟",
+          "title_urdu": "مقدس مشورہ",
+          "coreInsight_urdu": "لفظ 'تواصوا' (ایک دوسرے کو نصیحت کی) مسلسل، دو طرفہ مشورے کو ظاہر کرتا ہے - مومنین تقریر نہیں کرتے بلکہ باہمی رہنمائی میں مشغول ہوتے ہیں، ایک دوسرے سے سیکھتے ہیں۔",
+          "whyItMatters_urdu": "اسلامی کمیونٹی باہمی مشورے کے افقی تعلقات پر بنی ہے، نہ کہ اوپر سے نیچے کی اتھارٹی پر۔ ہر مومن کے پاس شیئر کرنے کے لیے حکمت اور بھرنے کے لیے خلا ہے۔",
+          "title_ar": "المشورة المقدسة",
+          "coreInsight_ar": "كلمة 'تواصوا' (تواصوا بعضهم بعضاً) تعني المشورة المستمرة المتبادلة - المؤمنون لا يلقون المحاضرات بل ينخرطون في التوجيه المتبادل، ويتعلمون من بعضهم البعض.",
+          "whyItMatters_ar": "يُبنى المجتمع الإسلامي على علاقات أفقية من المشورة المتبادلة، وليس سلطة من أعلى إلى أسفل. كل مؤمن لديه حكمة للمشاركة وفجوات للملء."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize the communal dimension of this verse, though with different frameworks. Sunni exegetes like Maududi and Ibn Kathir stress that the verse describes characteristics of the Companions of the Prophet who supported one another in early Islam. They emphasize tawasau as a Prophetic model where the early community encouraged one another to maintain faith despite persecution. Shia scholars agree on the historical context but extend this principle through the continuous guidance of the Imams, arguing that each era needs leaders who embody and teach patience and compassion. Where Sunni scholarship often emphasizes individual responsibility within community, Shia thought stresses the organic unity of the believing community under proper leadership. Both traditions agree that sabr and marhama are essential virtues, though Shia scholars more explicitly connect compassion to justice and oppose systems that lack mercy. Regarding tawasau, Sunni scholars often focus on scholarly authority in giving advice, while Shia thought emphasizes the mutual nature where all believers, guided by the Imams' teachings, support one another horizontally. Modern scholars from both traditions increasingly agree that creating communities of mutual support is urgent in facing contemporary challenges like secularism, materialism, and social fragmentation. Both emphasize that individual piety without community engagement fails to fulfill the Quranic ideal presented in this verse.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس آیت کی اجتماعی جہت پر زور دیتے ہیں، اگرچہ ان کے ڈھانچے مختلف ہیں۔ سنی مفسرین جیسے مودودی اور ابن کثیر نے اس بات پر زور دیا ہے کہ آیت ان صحابہ کرام کی خصوصیات بیان کرتی ہے جنہوں نے ابتدائی اسلام میں ایک دوسرے کا سہارا بنا اور ایذارسانی کے باوجود ایمان برقرار رکھنے کے لیے ایک دوسرے کو حوصلہ دیا۔ شیعہ علماء تاریخی سیاق سے متفق ہیں لیکن اس اصول کو آئمہ علیہم السلام کی مسلسل رہنمائی کے ذریعے آگے بڑھاتے ہیں، یہ دلیل پیش کرتے ہوئے کہ ہر دور کو ایسے رہنماؤں کی ضرورت ہے جو صبر اور رحمت کو عملی شکل دیں اور سکھائیں۔ جہاں سنی علمیت اکثر برادری کے اندر انفرادی ذمہ داری پر زور دیتی ہے، شیعہ فکر مناسب قیادت کے تحت مومن برادری کی نامیاتی وحدت پر زیادہ توجہ دیتی ہے۔ تَوَاصَوا کے بارے میں سنی علماء اکثر علمی اتھارٹی پر زور دیتے ہیں جبکہ شیعہ فکر اس کی باہمی نوعیت پر زور دیتی ہے جہاں تمام مومنین آئمہ علیہم السلام کی تعلیمات کی روشنی میں ایک دوسرے کا افقی سہارا بنتے ہیں۔ دونوں مکاتب کے جدید علماء تیزی سے اس بات پر متفق ہیں کہ عصری سیکولر ازم، مادہ پرستی اور سماجی انتشار جیسے چیلنجوں سے نمٹنے کے لیے باہمی تعاون کی برادریوں کا قیام ضروری ہے۔ دونوں اس بات پر بھی متفق ہیں کہ برادری کی شمولیت کے بغیر انفرادی تقویٰ قرآن کے اس آیت میں پیش کردہ مثالی خاکے کو پورا نہیں کرتا۔",
+    "layer4_ar": "يُؤكِّد علماء الشيعة والسنة كلاهما البُعد الجماعي لهذه الآية وإن انطلقوا من أطر مختلفة. فالمفسرون السنيون كالمودودي وابن كثير يُشدِّدون على أن الآية تصف خصال الصحابة الذين تعاضدوا في صدر الإسلام، ويرون التواصي نموذجاً نبوياً كانت فيه الجماعة الأولى تُشجع بعضها على الثبات في الإيمان رغم الاضطهاد. ويوافق العلماء الشيعة على السياق التاريخي لكنهم يمدون هذا المبدأ عبر الهداية المستمرة للأئمة مجادلين بأن كل عصر يحتاج قادة يُجسِّدون الصبر والمرحمة ويُعلِّمونهما. وبينما يُؤكِّد الفكر السني المسؤولية الفردية داخل المجتمع يُشدِّد الفكر الشيعي على الوحدة العضوية للجماعة المؤمنة تحت قيادة رشيدة. ويتفق التراثان على أن الصبر والمرحمة فضيلتان جوهريتان وإن ربط العلماء الشيعة المرحمة بالعدل بصورة أصرح ووقفوا في وجه الأنظمة الخالية من الرحمة. وفي شأن التواصي يُركِّز العلماء السنيون على السلطة العلمية في إسداء النصيحة بينما يُؤكِّد الفكر الشيعي طابعه التبادلي حيث يتعاضد جميع المؤمنين أفقياً موجَّهين بتعاليم الأئمة. ويتزايد اتفاق علماء المدرستين في الوقت الراهن على إلحاح بناء مجتمعات التعاضد في مواجهة تحديات العلمانية والمادية والتفكك الاجتماعي المعاصرة."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:18:companions-right",
+          "title": "People of the Right",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Ulā'ika aṣḥābu-l-maymanah' - those are the companions of the right. This refers to those who will receive their record in their right hand on Judgment Day, symbolizing success and blessing.",
+          "whyItMatters": "The 'right side' in Islamic eschatology represents favor, honor, and Paradise. Those who practice charity, faith, patience, and compassion earn this elevated status.",
+          "position": "topLeft",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+          "title_urdu": "دائیں طرف والے",
+          "coreInsight_urdu": "'اولئک اصحاب المیمنہ' - یہ دائیں طرف والے ہیں۔ یہ ان لوگوں کی طرف اشارہ کرتا ہے جو قیامت کے دن اپنے دائیں ہاتھ میں اپنا ریکارڈ وصول کریں گے، کامیابی اور برکت کی علامت۔",
+          "whyItMatters_urdu": "اسلامی اخروی علم میں 'دائیں طرف' احسان، عزت، اور جنت کی نمائندگی کرتی ہے۔ جو لوگ خیرات، ایمان، صبر، اور شفقت کی مشق کرتے ہیں وہ یہ بلند مقام حاصل کرتے ہیں۔",
+          "title_ar": "أصحاب اليمين",
+          "coreInsight_ar": "'أولئك أصحاب الميمنة' - أولئك أصحاب اليمين. يشير هذا إلى أولئك الذين سيتلقون سجلهم في يدهم اليمنى يوم القيامة، رمزًا للنجاح والبركة.",
+          "whyItMatters_ar": "يمثل 'الجانب الأيمن' في العقيدة الإسلامية الأخروية الحظوة والشرف والجنة. أولئك الذين يمارسون الصدقة والإيمان والصبر والرحمة يكسبون هذه المكانة العالية."
+        },
+        {
+          "id": "90:18:conditional-reward",
+          "title": "Earned Success",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse concludes a conditional statement: IF one frees slaves or feeds the poor (v15-16) AND joins the believing community with mutual patience/compassion (v17), THEN they are companions of the right.",
+          "whyItMatters": "Paradise isn't granted arbitrarily but earned through specific actions: social justice combined with communal faith. Both dimensions are required, not just one.",
+          "position": "topRight",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ",
+          "title_urdu": "حاصل شدہ کامیابی",
+          "coreInsight_urdu": "یہ آیت ایک مشروط بیان کو ختم کرتی ہے: اگر کوئی غلاموں کو آزاد کرتا ہے یا غریبوں کو کھانا کھلاتا ہے (آیت 15-16) اور باہمی صبر/شفقت کے ساتھ مومنین کی کمیونٹی میں شامل ہوتا ہے (آیت 17)، تو وہ دائیں طرف والے ہیں۔",
+          "whyItMatters_urdu": "جنت من مانی طریقے سے نہیں دی جاتی بلکہ مخصوص اعمال کے ذریعے حاصل کی جاتی ہے: سماجی انصاف اجتماعی ایمان کے ساتھ ملا ہوا۔ دونوں جہتوں کی ضرورت ہے، صرف ایک کی نہیں۔",
+          "title_ar": "النجاح المكتسب",
+          "coreInsight_ar": "تختتم هذه الآية بيانًا شرطيًا: إذا حرر المرء العبيد أو أطعم الفقراء (آية 15-16) وانضم إلى مجتمع المؤمنين بالصبر/الرحمة المتبادلين (آية 17)، فهم أصحاب اليمين.",
+          "whyItMatters_ar": "لا تُمنح الجنة بشكل تعسفي بل تُكتسب من خلال أعمال محددة: العدالة الاجتماعية مقترنة بالإيمان الجماعي. كلا البعدين مطلوبان، وليس واحدًا فقط."
+        },
+        {
+          "id": "90:18:maymanah-blessing",
+          "title": "Blessed Station",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Al-maymanah' literally means 'blessing' or 'good fortune' - the companions of the right are those who receive Allah's favor and eternal prosperity.",
+          "whyItMatters": "True blessing comes from aligning our actions with divine values. Material wealth is temporary, but spiritual blessing through righteous deeds is everlasting.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْمَيْمَنَةِ",
+          "title_urdu": "مبارک مقام",
+          "coreInsight_urdu": "'المیمنہ' لفظی طور پر 'برکت' یا 'اچھی قسمت' کا مطلب ہے - دائیں طرف والے وہ ہیں جو اللہ کا احسان اور ابدی خوشحالی حاصل کرتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی برکت ہمارے اعمال کو الہی اقدار کے ساتھ ہم آہنگ کرنے سے آتی ہے۔ مادی دولت عارضی ہے، لیکن نیک اعمال کے ذریعے روحانی برکت ہمیشہ کے لیے ہے۔",
+          "title_ar": "المقام المبارك",
+          "coreInsight_ar": "'الميمنة' تعني حرفيًا 'البركة' أو 'الحظ السعيد' - أصحاب اليمين هم أولئك الذين ينالون حظوة الله والازدهار الأبدي.",
+          "whyItMatters_ar": "البركة الحقيقية تأتي من مواءمة أعمالنا مع القيم الإلهية. الثروة المادية مؤقتة، لكن البركة الروحية من خلال الأعمال الصالحة أبدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret ashab al-maymana (companions of the right) as those destined for Paradise, though they differ on some specifics. Sunni exegetes like Ibn Kathir and Tabari emphasize that these are believers who maintained faith and performed good deeds, often identifying them particularly with the early Muslim community and the Companions of the Prophet. They stress that receiving one's record in the right hand indicates divine pleasure and guaranteed entry to Paradise. Shia scholars agree on the basic eschatological meaning but add layers of interpretation connecting the 'right' to Imam Ali (as) and righteous leadership. According to Shia hadith, 'the right hand' symbolically refers to the Imam, and being among his companions means following his guidance in both this world and the hereafter. This interpretation emphasizes continuity between earthly allegiances and heavenly outcomes. Both traditions agree that being among ashab al-maymana requires combining faith with action, though Shia thought more explicitly includes acceptance of rightful leadership as part of complete faith. Regarding the criteria for being among the blessed, both schools cite the previous verses about freeing slaves, feeding the poor, patience, and compassion. Where they differ is in Shia emphasis on wilayah (accepting the guardianship of the Ahlul Bayt) as essential to complete faith. Modern scholars from both traditions increasingly emphasize the social justice dimensions of these verses, agreeing that communities claiming to be among the companions of the right must demonstrate commitment to helping the vulnerable and building compassionate societies.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اصحاب المیمنہ کو جنت کے مقدر والوں کے طور پر تعبیر کرتے ہیں، اگرچہ بعض تفصیلات میں اختلاف ہے۔ سنی مفسرین جیسے ابن کثیر اور طبری نے یہ بیان کیا ہے کہ یہ وہ مومنین ہیں جنہوں نے ایمان کو برقرار رکھا اور نیک اعمال انجام دیے اور اکثر انہیں نبی صلی اللہ علیہ وآلہ وسلم کی ابتدائی صحابی برادری سے خاص طور پر متعلق سمجھتے ہیں۔ وہ اس بات پر زور دیتے ہیں کہ قیامت کے روز دائیں ہاتھ میں نامۂ اعمال ملنا الٰہی خوشنودی اور یقینی جنت کا اشارہ ہے۔ شیعہ علماء بنیادی اخروی معنی سے متفق ہیں لیکن تشریح کی مزید پرتیں شامل کرتے ہیں جو دائیں کو امام علی علیہ السلام اور صالح قیادت سے جوڑتی ہیں۔ نجات کے معیار کے بارے میں دونوں مکاتب نے سابقہ آیات کا حوالہ دیا ہے جن میں غلاموں کو آزاد کرنا، فقیروں کو کھانا کھلانا، صبر اور رحمت شامل ہیں، اور جہاں فرق ہے وہ شیعہ تاکید میں ہے کہ ولایت اہل بیت علیہم السلام قبول کرنا مکمل ایمان کا لازمی حصہ ہے۔ دونوں روایات کے جدید علماء تیزی سے ان آیات کے سماجی انصاف کے پہلوؤں پر زور دے رہے ہیں اور اس بات پر متفق ہیں کہ جو جماعتیں اصحاب المیمنہ ہونے کا دعوی کریں انہیں محتاجوں کی مدد اور رحم دل معاشروں کی تعمیر کے عزم کا ثبوت دینا ہوگا۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة أصحاب الميمنة بأنهم أهل الجنة وإن تفاوتوا في بعض التفاصيل. فالمفسرون السنيون كابن كثير والطبري يُؤكِّدون أنهم المؤمنون الذين حافظوا على الإيمان وعملوا الصالحات مُعرِّفين إياهم في الغالب بالمجتمع الإسلامي الأول وصحابة النبي صلى الله عليه وسلم. ويُشدِّدون على أن تلقِّي الصحيفة باليمين دليل الرضا الإلهي والدخول المضمون إلى الجنة. ويوافق العلماء الشيعة على المعنى الأخروي الأساسي لكنهم يُضيفون طبقات من التفسير تربط \"اليمين\" بالإمام علي عليه السلام والقيادة الصالحة. ووفق الحديث الشيعي تدل \"اليد اليمنى\" رمزياً على الإمام وأن الانتماء إلى أصحابه يعني اتباع هديه في الدنيا والآخرة معاً. وهذا التفسير يُؤكِّد الاستمرارية بين الولاءات الدنيوية والمآلات الأخروية. ويتفق التراثان على أن الانتماء إلى أصحاب الميمنة يستوجب الجمع بين الإيمان والعمل وإن كان الفكر الشيعي يُصرح أكثر بأن قبول ولاية أهل البيت جزء من الإيمان الكامل. وفيما يخص معايير الانتماء إلى المبارَكين يستشهد كلا التقليدين بالآيات السابقة عن تحرير الرقاب وإطعام الفقراء والصبر والمرحمة. ويزداد علماء المدرستين في عصرنا تأكيداً على الأبعاد العدلية الاجتماعية لهذه الآيات، متفقين على أن الجماعات المدَّعية الانتماء إلى أصحاب الميمنة عليها إثبات التزامها بنصرة الضعفاء وبناء المجتمعات الرحيمة."
+  },
+  "19": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:19:companions-left",
+          "title": "People of the Left",
+          "icon": "hand.thumbsdown.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Walladhīna kafarū bi-āyātinā hum aṣḥābu-l-mash'amah' - those who disbelieved in Our signs are the companions of the left, who will receive their record in their left hand on Judgment Day.",
+          "whyItMatters": "The 'left side' represents rejection, disgrace, and Hellfire. Those who reject Allah's signs - both revelation and creation - face eternal consequences.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+          "title_urdu": "بائیں طرف والے",
+          "coreInsight_urdu": "'والذین کفروا بآیاتنا ہم اصحاب المشئمہ' - جن لوگوں نے ہماری آیات کا انکار کیا وہ بائیں طرف والے ہیں، جو قیامت کے دن اپنے بائیں ہاتھ میں اپنا ریکارڈ وصول کریں گے۔",
+          "whyItMatters_urdu": "'بائیں طرف' انکار، رسوائی، اور جہنم کی نمائندگی کرتی ہے۔ جو لوگ اللہ کی آیات کو مسترد کرتے ہیں - وحی اور تخلیق دونوں - ابدی نتائج کا سامنا کرتے ہیں۔",
+          "title_ar": "أصحاب الشمال",
+          "coreInsight_ar": "'والذين كفروا بآياتنا هم أصحاب المشأمة' - أولئك الذين كفروا بآياتنا هم أصحاب الشمال، الذين سيتلقون سجلهم في يدهم اليسرى يوم القيامة.",
+          "whyItMatters_ar": "يمثل 'الجانب الأيسر' الرفض والعار وجهنم. أولئك الذين يرفضون آيات الله - الوحي والخلق - يواجهون عواقب أبدية."
+        },
+        {
+          "id": "90:19:rejection-ayat",
+          "title": "Rejecting Signs",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Kafarū bi-āyātinā' - they rejected Our signs. 'Ayat' includes both Quranic verses and natural signs in creation that point to Allah's existence and guidance.",
+          "whyItMatters": "Disbelief isn't just intellectual doubt but active rejection of overwhelming evidence. Allah holds us accountable for willfully ignoring the signs He places before us.",
+          "position": "topRight",
+          "arabicHighlight": "كَفَرُوا۟ بِـَٔايَٰتِنَا",
+          "title_urdu": "آیات کو مسترد کرنا",
+          "coreInsight_urdu": "'کفروا بآیاتنا' - انہوں نے ہماری آیات کو مسترد کیا۔ 'آیات' میں قرآنی آیات اور تخلیق میں قدرتی نشانیاں دونوں شامل ہیں جو اللہ کی موجودگی اور رہنمائی کی طرف اشارہ کرتی ہیں۔",
+          "whyItMatters_urdu": "کفر صرف فکری شک نہیں بلکہ زبردست ثبوت کو فعال طور پر مسترد کرنا ہے۔ اللہ ہمیں جان بوجھ کر ان نشانیوں کو نظر انداز کرنے کے لیے جوابدہ ٹھہراتا ہے جو وہ ہمارے سامنے رکھتا ہے۔",
+          "title_ar": "رفض الآيات",
+          "coreInsight_ar": "'كفروا بآياتنا' - رفضوا آياتنا. 'الآيات' تشمل كلاً من الآيات القرآنية والعلامات الطبيعية في الخلق التي تشير إلى وجود الله وإرشاده.",
+          "whyItMatters_ar": "الكفر ليس مجرد شك فكري بل رفض نشط لأدلة ساحقة. يحاسبنا الله على تجاهل العلامات التي يضعها أمامنا عمدًا."
+        },
+        {
+          "id": "90:19:contrast-righteous",
+          "title": "Stark Contrast",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse directly contrasts with v18 - while the righteous climbed the steep path through charity and faith, the disbelievers rejected divine guidance entirely.",
+          "whyItMatters": "The Quran presents a binary choice: either we ascend through faith and good works, or descend through rejection and selfishness. There is no neutral ground.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلَّذِينَ كَفَرُوا۟",
+          "title_urdu": "واضح تضاد",
+          "coreInsight_urdu": "یہ آیت براہ راست آیت 18 سے متضاد ہے - جبکہ نیک لوگوں نے خیرات اور ایمان کے ذریعے کھڑی راہ چڑھی، کافروں نے الہی رہنمائی کو مکمل طور پر مسترد کر دیا۔",
+          "whyItMatters_urdu": "قرآن ایک دوہری پسند پیش کرتا ہے: یا تو ہم ایمان اور نیک اعمال کے ذریعے چڑھتے ہیں، یا انکار اور خود غرضی کے ذریعے اترتے ہیں۔ کوئی غیر جانبدار زمین نہیں ہے۔",
+          "title_ar": "التناقض الصارخ",
+          "coreInsight_ar": "تتناقض هذه الآية مباشرة مع الآية 18 - بينما صعد الصالحون المسلك الصعب من خلال الصدقة والإيمان، رفض الكافرون الإرشاد الإلهي تمامًا.",
+          "whyItMatters_ar": "يقدم القرآن خيارًا ثنائيًا: إما أن نصعد من خلال الإيمان والأعمال الصالحة، أو ننزل من خلال الرفض والأنانية. لا توجد أرضية محايدة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that ashab al-mash'ama (companions of the left) are those destined for Hellfire due to disbelief, though they differ on some interpretative details. Sunni exegetes like Ibn Kathir emphasize that disbelief in divine signs includes rejecting the prophethood of Muhammad (peace be upon him), denying the Quran's divine origin, or refusing to submit to clear Islamic teachings. They stress that the ayat (signs) are so clear that rejection constitutes willful obstinacy deserving punishment. Qurtubi and other Sunni scholars emphasize that disbelief can be in creed (wrong beliefs), word (blasphemy), or action (abandoning Islam's pillars). Shia scholars agree with these basic categories but add that rejecting the Imams appointed by the Prophet constitutes disbelief in divine signs, particularly the sign of wilayah. Tabatabai and Tabrisi emphasize that refusing to accept rightful authority after it has been clearly established is a form of kufr that places one among ashab al-mash'ama. Both traditions agree that sincere ignorance differs from willful rejection; someone who never had access to clear guidance may be judged differently than one who saw truth and deliberately turned away. Modern scholars from both schools grapple with questions about the fate of those in pluralistic societies with competing truth claims. Most agree that divine justice ensures those who sincerely seek truth will find it, while those among ashab al-mash'ama are there due to choices they made despite having access to guidance.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس بات پر متفق ہیں کہ اصحاب المشأمة کفر کے باعث جہنم کے مقدر ہیں، اگرچہ بعض تشریحی تفصیلات میں اختلاف ہے۔ سنی مفسرین جیسے ابن کثیر نے یہ بیان کیا ہے کہ الٰہی نشانیوں کا انکار حضرت محمد صلی اللہ علیہ وآلہ وسلم کی نبوت کو رد کرنا، قرآن کی الٰہی اصل سے انکار کرنا، یا واضح اسلامی تعلیمات کی تابعداری سے انکار کرنا شامل ہے۔ قرطبی اور دیگر سنی علماء نے بیان کیا ہے کہ کفر عقیدے میں، قول میں یا عمل میں ہو سکتا ہے۔ شیعہ علماء ان بنیادی درجہ بندیوں سے متفق ہیں لیکن یہ اضافہ کرتے ہیں کہ نبی صلی اللہ علیہ وآلہ وسلم کے مقرر کردہ آئمہ علیہم السلام کو رد کرنا الٰہی نشانیوں کا کفر ہے جو انسان کو اصحاب المشأمة میں شامل کر دیتا ہے۔ طباطبائی اور طبرسی اس بات پر زور دیتے ہیں کہ واجبی رہنمائی کے واضح طور پر قائم ہونے کے بعد اسے قبول کرنے سے انکار کفر کی ایک صورت ہے۔ دونوں روایات اس بات پر متفق ہیں کہ مخلص لاعلمی جان بوجھ کر رد کرنے سے مختلف ہے؛ الٰہی انصاف اس بات کو یقینی بناتا ہے کہ جن لوگوں کو واضح رہنمائی تک رسائی نہیں تھی انہیں انہی لوگوں کے طرح نہیں آنکا جائے گا جنہوں نے دیکھتے بوجھتے حق کو ٹھکرایا۔ دونوں مکاتب کے جدید علماء کثرتیت پسند معاشروں میں مختلف حق کے دعووں کے ساتھ رہنے والوں کے بارے میں سوالات سے نبردآزما ہیں اور اکثر اس بات پر متفق ہیں کہ الٰہی انصاف اس بات کو یقینی بناتا ہے کہ سچے طالب کو رہنمائی ملے گی۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن أصحاب المشأمة مصيرهم النار بسبب الكفر وإن تفاوتوا في بعض التفاصيل التفسيرية. فالمفسرون السنيون كابن كثير يُؤكِّدون أن الكفر بالآيات الإلهية يشمل إنكار نبوة محمد صلى الله عليه وسلم وجحود أصل القرآن الإلهي والامتناع عن الاستجابة للتعاليم الإسلامية الصريحة. ويشدِّدون على أن الآيات بلغت من الوضوح حداً يجعل الرفض عناداً متعمداً يستحق العقوبة. ويُناقش القرطبي وغيره من علماء السنة أن الكفر يكون في العقيدة والقول والفعل. ويوافق العلماء الشيعة على هذه الفئات الجوهرية لكنهم يُضيفون أن رفض الأئمة الذين نصَّبهم النبي صلى الله عليه وآله وسلم يُعدُّ كفراً بالآيات الإلهية ولا سيما آية الولاية. ويُؤكِّد الطباطبائي والطبرسي أن رفض السلطة الشرعية بعد قيام الحجة عليها ضرب من الكفر يُلحق صاحبه بأصحاب المشأمة. ويتفق التراثان على أن الجهل الصادق يختلف عن الرفض المتعمد وأن من لم تبلغه الهداية الواضحة قد يُحاسَب محاسبةً مختلفة عمن رأى الحق فأعرض عنه. ويتصارع علماء المدرستين في الوقت الحاضر مع تساؤلات مصير من يعيشون في مجتمعات تعددية تتزاحم فيها دعاوى الحق. ويتفق أكثرهم على أن العدل الإلهي يكفل أن الباحث المخلص عن الحق سيجده، بينما أصحاب المشأمة هناك بسبب اختيارات اتخذوها رغم توافر الهداية."
+  },
+  "20": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "90:20:fire-closed",
+          "title": "Sealed Fire",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'ʿAlayhim nārun mu'ṣadah' - over them will be fire closed in. 'Mu'ṣadah' means sealed, locked, or tightly closed with no escape, describing the eternal confinement of Hellfire.",
+          "whyItMatters": "This final verse completes the surah's warning: those who reject Allah's guidance and neglect social responsibility face an inescapable punishment, emphasizing the gravity of our choices.",
+          "position": "topLeft",
+          "arabicHighlight": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+          "title_urdu": "بند آگ",
+          "coreInsight_urdu": "'علیہم نار مؤصدہ' - ان پر بند آگ ہوگی۔ 'مؤصدہ' کا مطلب ہے مہر بند، تالا بند، یا مضبوطی سے بند کوئی فرار نہیں، جہنم کی ابدی قید کو بیان کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ آخری آیت سورت کی انتباہ کو مکمل کرتی ہے: جو لوگ اللہ کی رہنمائی کو مسترد کرتے ہیں اور سماجی ذمہ داری کو نظر انداز کرتے ہیں وہ ناقابل فرار سزا کا سامنا کرتے ہیں، ہمارے انتخاب کی سنگینی پر زور دیتے ہوئے۔",
+          "title_ar": "النار المغلقة",
+          "coreInsight_ar": "'عليهم نار مؤصدة' - عليهم نار مغلقة. 'مؤصدة' تعني مختومة، مقفلة، أو مغلقة بإحكام دون هروب، تصف الحبس الأبدي لجهنم.",
+          "whyItMatters_ar": "تكمل هذه الآية الأخيرة تحذير السورة: أولئك الذين يرفضون إرشاد الله ويهملون المسؤولية الاجتماعية يواجهون عقابًا لا مفر منه، مؤكدة خطورة خياراتنا."
+        },
+        {
+          "id": "90:20:eternal-consequence",
+          "title": "Final Consequence",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse serves as the surah's climactic conclusion - after describing the steep path and the two groups (right vs left), it reveals the ultimate fate of those who reject truth.",
+          "whyItMatters": "The Quran doesn't sugarcoat consequences. Our earthly choices have eternal ramifications, making every decision about faith and charity critically important.",
+          "position": "topRight",
+          "arabicHighlight": "نَارٌۭ مُّؤْصَدَةٌۢ",
+          "title_urdu": "حتمی نتیجہ",
+          "coreInsight_urdu": "یہ آیت سورت کے عروج پر اختتام کے طور پر کام کرتی ہے - کھڑی راہ اور دو گروہوں (دائیں بمقابلہ بائیں) کو بیان کرنے کے بعد، یہ سچائی کو مسترد کرنے والوں کی حتمی تقدیر کو ظاہر کرتی ہے۔",
+          "whyItMatters_urdu": "قرآن نتائج کو میٹھا نہیں کرتا۔ ہمارے دنیاوی انتخاب کے ابدی اثرات ہیں، ایمان اور خیرات کے بارے میں ہر فیصلے کو انتہائی اہم بناتے ہیں۔",
+          "title_ar": "العاقبة النهائية",
+          "coreInsight_ar": "تعمل هذه الآية كختام ذروة السورة - بعد وصف المسلك الصعب والمجموعتين (اليمين مقابل اليسار)، تكشف المصير النهائي لأولئك الذين يرفضون الحقيقة.",
+          "whyItMatters_ar": "لا يخفف القرآن من العواقب. خياراتنا الأرضية لها تداعيات أبدية، مما يجعل كل قرار حول الإيمان والصدقة ذا أهمية حاسمة."
+        },
+        {
+          "id": "90:20:mu-sadah-meaning",
+          "title": "No Escape",
+          "icon": "lock.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'mu'ṣadah' comes from 'aṣada' meaning to close tightly or lock. It emphasizes that Hellfire is not temporary confinement but permanent imprisonment with sealed doors.",
+          "whyItMatters": "This terrifying image should motivate us to action now - while we still have time to choose the steep path of righteousness, before the doors of opportunity close forever.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مُّؤْصَدَةٌۢ",
+          "title_urdu": "کوئی فرار نہیں",
+          "coreInsight_urdu": "لفظ 'مؤصدہ' 'اصدہ' سے آیا ہے جس کا مطلب ہے مضبوطی سے بند کرنا یا تالا لگانا۔ یہ اس بات پر زور دیتا ہے کہ جہنم عارضی قید نہیں بلکہ مہر بند دروازوں کے ساتھ مستقل قید خانہ ہے۔",
+          "whyItMatters_urdu": "یہ خوفناک تصویر ہمیں ابھی عمل کرنے کی ترغیب دے - جب ہمارے پاس ابھی بھی نیکی کی کھڑی راہ کو منتخب کرنے کا وقت ہے، اس سے پہلے کہ مواقع کے دروازے ہمیشہ کے لیے بند ہو جائیں۔",
+          "title_ar": "لا هروب",
+          "coreInsight_ar": "كلمة 'مؤصدة' تأتي من 'أصد' بمعنى إغلاق بإحكام أو قفل. تؤكد أن جهنم ليست حبسًا مؤقتًا بل سجنًا دائمًا بأبواب مختومة.",
+          "whyItMatters_ar": "يجب أن تحفزنا هذه الصورة المرعبة على العمل الآن - بينما لا يزال لدينا وقت لاختيار مسلك الصلاح الصعب، قبل أن تغلق أبواب الفرصة إلى الأبد."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars affirm Hell's reality and eternality for disbelievers, though they differ on some theological details. Sunni exegetes like Ibn Kathir and Tabari emphasize that 'narun mu'sadah' (fire closed in) describes Hell's permanence and inescapability for disbelievers, supporting this with numerous Prophetic hadiths describing Hell's torments. They stress that Hell's eternality demonstrates divine justice against those who rejected the clear message brought by prophets. Sunni theology generally holds that all inhabitants of Hell remain there eternally, including sinful Muslims (according to some scholars), though mainstream Sunni view is that sinful Muslims who die with faith will eventually exit Hell after purification. Shia theology more clearly distinguishes between disbelievers (eternal in Hell) and sinful believers (temporary punishment followed by Paradise). Both traditions agree that 'mu'sadah' indicates sealing and closure, eliminating hope of escape. Where traditions differ somewhat is on intercession; Shia scholars emphasize the power of the Prophet and Imams to intercede for believers, potentially saving them from Hell or shortening their stay, while Sunni scholars debate the extent and nature of intercession. Both schools agree that the purpose of describing Hell is not to create despair but to motivate righteousness, repentance, and gratitude for divine guidance. Modern scholars from both traditions struggle with how to present Hell's reality in ways that inspire healthy fear without creating psychological trauma or driving people away from religion. Both increasingly emphasize that focusing on Hell alone without understanding divine mercy and the clear path to salvation (described in earlier verses) gives an incomplete picture.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں کافروں کے لیے جہنم کی حقیقت اور ابدیت کی تصدیق کرتے ہیں، اگرچہ بعض الٰہیاتی تفصیلات میں اختلاف ہے۔ سنی مفسرین جیسے ابن کثیر اور طبری نے اس بات پر زور دیا ہے کہ نَارٌ مُؤصَدَة یعنی بند کی ہوئی آگ جہنم کی دوامیت اور ناقابل فرار ہونے کی طرف اشارہ کرتی ہے اور اس کی تائید ان بے شمار نبوی احادیث سے کی ہے جو جہنم کی اذیتوں کو بیان کرتی ہیں۔ وہ اس بات پر زور دیتے ہیں کہ جہنم کی ابدیت انبیاء علیہم السلام کے لائے ہوئے واضح پیغام کو رد کرنے والوں کے خلاف الٰہی عدل کو ثابت کرتی ہے۔ سنی الٰہیات میں عمومی موقف یہ ہے کہ تمام جہنمی ابد تک وہاں رہیں گے، اگرچہ مرکزی دھارے کا سنی موقف یہ بھی ہے کہ ایمان والے گناہ گار پاکیزگی کے بعد بالآخر جہنم سے نکل کر جنت میں داخل ہوں گے۔ شیعہ الٰہیات زیادہ واضح طور پر کافروں اور گناہ گار مومنین میں فرق کرتا ہے، کافروں کے لیے ابدی جہنم اور مومنین کے لیے عارضی سزا کے بعد جنت۔ شفاعت کے بارے میں شیعہ علماء نبی صلی اللہ علیہ وآلہ وسلم اور آئمہ علیہم السلام کی شفاعت کی قوت پر زور دیتے ہیں جو مومنین کو جہنم سے بچا سکتی ہے، جبکہ سنی علماء شفاعت کی حد اور ماہیت پر بحث کرتے ہیں۔ دونوں مکاتب اس بات پر متفق ہیں کہ جہنم کی تفصیل کا مقصد مایوسی پیدا کرنا نہیں بلکہ صالحیت، توبہ اور الٰہی رہنمائی کی قدردانی کو ابھارنا ہے، اور دونوں اس بات پر بھی متفق ہیں کہ جہنم اور جنت کا مکمل اور متوازن تصور پیش کرنا ضروری ہے۔",
+    "layer4_ar": "يُثبِّت علماء الشيعة والسنة كلاهما حقيقة الجهنم وأبديتها للكافرين وإن تفاوتوا في بعض التفاصيل العقدية. فالمفسرون السنيون كابن كثير والطبري يُؤكِّدون أن \"نَارٌ مُّؤصَدَةٌ\" تصف ثبات الجهنم وإحكام إغلاقها في وجه الكافرين مستندين إلى أحاديث نبوية عديدة في وصف عذابها. ويُشدِّدون على أن أبدية الجهنم تجلية للعدل الإلهي في حق من ردوا الرسالة الواضحة التي جاء بها الأنبياء. وتقول عقيدة أهل السنة في جملتها إن جميع سكان الجهنم يمكثون فيها أبداً بمن فيهم المسلمون المذنبون وفق بعض العلماء وإن كان الرأي السائد أن المسلمين المذنبين الذين ماتوا على الإيمان سيخرجون منها بعد تطهير. والعقيدة الشيعية تُميِّز بصورة أجلى بين الكافرين الخالدين في الجهنم والمؤمنين المذنبين الذين يمكثون فيها مؤقتاً ثم يدخلون الجنة. ويتفق التراثان على أن \"مُؤصَدَة\" تدل على الإغلاق وانعدام المفر. ويختلفان نسبياً في شأن الشفاعة إذ يُؤكِّد العلماء الشيعة قدرة النبي صلى الله عليه وآله وسلم والأئمة على الشفاعة للمؤمنين مما قد يُنقذهم من الجهنم أو يُخفِّف مكوثهم فيها، بينما يتجادل العلماء السنيون في مدى الشفاعة ونوعها. ويتفق الجانبان على أن الغاية من وصف الجهنم ليست بث اليأس بل الدفع إلى الصلاح والتوبة وشكر الله على هدايته الجلية. ويتصارع علماء المدرستين في العصر الحاضر مع كيفية تقديم حقيقة الجهنم بأسلوب يُفضي إلى خوف صحي دون إفراز صدمة نفسية أو تنفير الناس من الدين، متفقين جميعاً على أن تصوير الجهنم دون فهم الرحمة الإلهية والطريق الواضح إلى النجاة المرسوم في الآيات السابقة يُعطي صورة ناقصة."
+  }
+}

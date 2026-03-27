@@ -1,0 +1,474 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:1:sacred-symbols",
+          "title": "Sacred Symbols",
+          "icon": "leaf.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The fig (at-Tin) and olive (az-Zaytun) are blessed fruits symbolizing sacred lands of revelation - Jerusalem and Damascus where prophets like Isa and Yahya preached.",
+          "whyItMatters": "These divine oaths remind us that Allah sanctifies specific places and creation, connecting us to a legacy of prophetic guidance and spiritual heritage.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+          "title_urdu": "مقدس علامات",
+          "coreInsight_urdu": "انجیر (التین) اور زیتون (الزیتون) مبارک پھل ہیں جو مقدس سرزمینوں کی علامت ہیں - یروشلم اور دمشق جہاں انبیاء جیسے عیسیٰ اور یحییٰ نے تبلیغ کی۔",
+          "whyItMatters_urdu": "یہ الہی قسمیں ہمیں یاد دلاتی ہیں کہ اللہ مخصوص مقامات اور تخلیق کو مقدس بناتا ہے، ہمیں نبوی رہنمائی اور روحانی ورثے سے جوڑتا ہے۔",
+          "title_ar": "الرموز المقدسة",
+          "coreInsight_ar": "التين والزيتون ثمار مباركة ترمز إلى أراضي الوحي المقدسة - القدس ودمشق حيث بشر الأنبياء مثل عيسى ويحيى.",
+          "whyItMatters_ar": "تذكرنا هذه الأقسام الإلهية بأن الله يقدس أماكن وخلقًا معينة، تربطنا بإرث من الهداية النبوية والتراث الروحي."
+        },
+        {
+          "id": "95:1:divine-oath",
+          "title": "Divine Oath",
+          "icon": "hand.raised.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by His own creation (wa-) to emphasize the profound truth that follows - when the Creator takes an oath, it demands our utmost attention.",
+          "whyItMatters": "Divine oaths in the Quran signal critical lessons about human nature, accountability, and our purpose - they are Allah calling us to reflect deeply.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلتِّينِ",
+          "title_urdu": "قسم الہی",
+          "coreInsight_urdu": "اللہ اپنی تخلیق کی قسم کھاتا ہے (و) آنے والی گہری سچائی پر زور دینے کے لیے - جب خالق قسم کھاتا ہے، تو یہ ہماری مکمل توجہ کا تقاضا کرتا ہے۔",
+          "whyItMatters_urdu": "قرآن میں الہی قسمیں انسانی فطرت، جوابدہی اور ہمارے مقصد کے بارے میں اہم اسباق کا اشارہ دیتی ہیں - یہ اللہ کا ہمیں گہرائی سے غور کرنے کی دعوت ہے۔",
+          "title_ar": "القسم الإلهي",
+          "coreInsight_ar": "يقسم الله بخلقه (و-) للتأكيد على الحقيقة العميقة التالية - عندما يقسم الخالق، فإنه يتطلب اهتمامنا القصوى.",
+          "whyItMatters_ar": "تشير الأقسام الإلهية في القرآن إلى دروس حاسمة حول الطبيعة البشرية والمساءلة وغرضنا - إنها الله يدعونا للتأمل بعمق."
+        },
+        {
+          "id": "95:1:blessed-lands",
+          "title": "Blessed Lands",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Shia traditions also connect these symbols to Kufa and Medina - centers where the Ahlul Bayt's wisdom flourished, linking prophetic heritage to Imamic guidance.",
+          "whyItMatters": "Recognizing sacred geography helps us understand that Allah's covenant with humanity continues through the pure lineage of the Prophet's family.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+          "title_urdu": "بابرکت سرزمینیں",
+          "coreInsight_urdu": "شیعہ روایات ان علامتوں کو کوفہ اور مدینہ سے بھی جوڑتی ہیں - وہ مراکز جہاں اہل بیت کی حکمت پروان چڑھی، نبوی ورثے کو امامت کی رہنمائی سے جوڑتی ہے۔",
+          "whyItMatters_urdu": "مقدس جغرافیہ کو پہچاننا ہمیں سمجھنے میں مدد کرتا ہے کہ انسانیت کے ساتھ اللہ کا عہد نبی کے خاندان کی پاکیزہ نسل کے ذریعے جاری ہے۔",
+          "title_ar": "الأراضي المباركة",
+          "coreInsight_ar": "تربط التقاليد الشيعية أيضًا هذه الرموز بالكوفة والمدينة - المراكز التي ازدهرت فيها حكمة أهل البيت، تربط التراث النبوي بالهداية الإمامية.",
+          "whyItMatters_ar": "إن التعرف على الجغرافيا المقدسة يساعدنا على فهم أن عهد الله مع البشرية يستمر من خلال النسب الطاهر لعائلة النبي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse opens with a divine oath emphasizing the sanctity of certain lands and fruits. Sunni exegetes like Ibn Kathir and Al-Qurtubi similarly interpret the fig and olive as references to the blessed regions of the Levant, particularly Damascus and Jerusalem. Al-Razi in Mafatih al-Ghayb presents various views, including that these represent the fruits themselves as divine blessings worthy of contemplation. The consensus across both traditions is that divine oaths in the Quran serve to draw attention to important theological truths. Where interpretations diverge is in the esoteric dimension - Shia tafsir includes narrations linking these symbols to the Ahlul Bayt, particularly Imam Hasan and Husayn, while Sunni exegesis focuses primarily on the geographical and literal meanings. Both traditions emphasize the importance of Jerusalem and recognize its sacred status in Islamic theology. The shared understanding is that Allah's oaths in the Quran are pedagogical tools, directing believers to reflect on creation as signs pointing to the Creator and His profound wisdom.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت بعض سرزمینوں اور پھلوں کے تقدس پر زور دیتے ہوئے الہی قسم سے شروع ہوتی ہے۔ سنی مفسرین جیسے ابن کثیر اور القرطبی نے بھی انجیر اور زیتون کو شام کے مبارک علاقوں، خاص طور پر دمشق اور بیت المقدس، کے حوالے سے تشریح کیا ہے۔ الرازی نے مفاتیح الغیب میں مختلف نظریات پیش کیے ہیں، جن میں یہ بھی شامل ہے کہ یہ خود پھلوں کی نمائندگی کرتے ہیں جو غور و فکر کے لائق الہی نعمتیں ہیں۔ دونوں روایات میں اجماع ہے کہ قرآن میں الہی قسمیں اہم الہیاتی حقائق کی طرف توجہ مبذول کرانے کے لیے ہیں۔ جہاں تشریحات میں اختلاف ہے وہ باطنی جہت میں ہے - شیعہ تفسیر میں ایسی روایات شامل ہیں جو ان علامتوں کو اہل بیت، خاص طور پر امام حسن اور حسین، سے جوڑتی ہیں، جبکہ سنی تفسیر بنیادی طور پر جغرافیائی اور لفظی معنوں پر مرکوز رہتی ہے۔ دونوں روایات بیت المقدس کی اہمیت پر زور دیتی ہیں اور اسلامی الہیات میں اس کی مقدس حیثیت کو تسلیم کرتی ہیں۔ مشترکہ فہم یہ ہے کہ قرآن میں اللہ کی قسمیں تعلیمی ذرائع ہیں، جو مومنین کو تخلیق پر غور و فکر کی طرف رہنمائی دیتی ہیں جو خالق اور اس کی گہری حکمت کی نشانیاں ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُفتتح بقسم إلهي يُجلِّل أراضي بعينها وثماراً معينة. ويُفسِّر المفسرون السنيون كابن كثير والقرطبي التين والزيتون كذلك بأنهما إشارة إلى الأقاليم المباركة في بلاد الشام، ولا سيما دمشق والقدس. ويعرض الرازي في مفاتيح الغيب آراءً شتى من بينها أن هذين الاسمين يُشيران إلى الثمرتين ذاتهما باعتبارهما نعمتين إلهيتين جديرتين بالتأمل. والإجماع بين التراثين أن الأقسام الإلهية في القرآن أداةٌ توجِّه الانتباه نحو حقائق عقدية جوهرية. ومحل الاختلاف يكمن في البعد الباطني؛ إذ يضم التفسير الشيعي روايات تربط هذه الرموز بأهل البيت، ولا سيما الإمام الحسن والحسين عليهما السلام، بينما يقتصر المفسرون السنيون في الغالب على المعنيين الجغرافي والحرفي. ويُكنُّ التراثان تعظيماً مشتركاً للقدس الشريف، وهو ما يعكسه الحج والروابط الإسلامية بالمسجد الأقصى. والفهم المشترك هو أن أقسام الله في القرآن وسائل تعليمية تحثّ المؤمنين على التأمل في الكون بوصفه آيات تدل على خالقها وحكمته البالغة."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:2:mount-sinai",
+          "title": "Mount Sinai",
+          "icon": "mountain.2.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Tur Sineen (Mount Sinai) is where Allah spoke to Prophet Musa, giving him the Torah - a sacred mountain representing direct divine communication.",
+          "whyItMatters": "This oath connects us to the continuity of revelation across prophets, showing that the Quran completes the message begun at Sinai.",
+          "position": "topLeft",
+          "arabicHighlight": "طُورِ سِينِينَ",
+          "title_urdu": "کوہ سینا",
+          "coreInsight_urdu": "طور سینین (کوہ سینا) وہ جگہ ہے جہاں اللہ نے حضرت موسیٰ سے بات کی، انہیں توریت دی - ایک مقدس پہاڑ جو براہ راست الہی بات چیت کی نمائندگی کرتا ہے۔",
+          "whyItMatters_urdu": "یہ قسم ہمیں انبیاء میں وحی کے تسلسل سے جوڑتی ہے، یہ ظاہر کرتی ہے کہ قرآن سینا پر شروع ہونے والے پیغام کو مکمل کرتا ہے۔",
+          "title_ar": "جبل سيناء",
+          "coreInsight_ar": "طور سينين (جبل سيناء) هو المكان الذي تكلم فيه الله مع النبي موسى، وأعطاه التوراة - جبل مقدس يمثل التواصل الإلهي المباشر.",
+          "whyItMatters_ar": "يربطنا هذا القسم باستمرارية الوحي عبر الأنبياء، مما يظهر أن القرآن يكمل الرسالة التي بدأت في سيناء."
+        },
+        {
+          "id": "95:2:prophetic-legacy",
+          "title": "Prophetic Legacy",
+          "icon": "book.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "By invoking Mount Sinai, Allah reminds us of Prophet Musa's mission and the unbroken chain of messengers sent to guide humanity.",
+          "whyItMatters": "Understanding this continuity helps us see Islam not as a new religion, but as the culmination of Allah's eternal guidance to all peoples.",
+          "position": "topRight",
+          "arabicHighlight": "طُورِ سِينِينَ",
+          "title_urdu": "نبوی ورثہ",
+          "coreInsight_urdu": "کوہ سینا کو یاد کرتے ہوئے، اللہ ہمیں حضرت موسیٰ کے مشن اور انسانیت کی رہنمائی کے لیے بھیجے گئے رسولوں کی نہ ٹوٹنے والی زنجیر کی یاد دلاتا ہے۔",
+          "whyItMatters_urdu": "اس تسلسل کو سمجھنا ہمیں اسلام کو ایک نئے مذہب کے طور پر نہیں، بلکہ تمام لوگوں کے لیے اللہ کی ابدی رہنمائی کے نتیجے کے طور پر دیکھنے میں مدد کرتا ہے۔",
+          "title_ar": "الإرث النبوي",
+          "coreInsight_ar": "من خلال استحضار جبل سيناء، يذكرنا الله بمهمة النبي موسى والسلسلة غير المنقطعة من الرسل المرسلين لهداية البشرية.",
+          "whyItMatters_ar": "إن فهم هذا الاستمرارية يساعدنا على رؤية الإسلام ليس كدين جديد، بل كذروة لهداية الله الأبدية لجميع الشعوب."
+        },
+        {
+          "id": "95:2:divine-speech",
+          "title": "Divine Speech",
+          "icon": "speaker.wave.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Mount Sinai witnessed Allah's direct speech (kalaam) to Musa - a moment of unmediated divine revelation that shaped monotheistic history.",
+          "whyItMatters": "This sacred site reminds us that Allah communicates with humanity, and the Quran is the final, preserved form of that divine speech.",
+          "position": "bottomRight",
+          "arabicHighlight": "طُورِ سِينِينَ",
+          "title_urdu": "کلام الہی",
+          "coreInsight_urdu": "کوہ سینا نے حضرت موسیٰ سے اللہ کی براہ راست بات (کلام) کا مشاہدہ کیا - غیر ثالثی الہی وحی کا ایک لمحہ جس نے توحیدی تاریخ کی تشکیل کی۔",
+          "whyItMatters_urdu": "یہ مقدس جگہ ہمیں یاد دلاتی ہے کہ اللہ انسانیت سے بات کرتا ہے، اور قرآن اس الہی کلام کی آخری، محفوظ شکل ہے۔",
+          "title_ar": "الكلام الإلهي",
+          "coreInsight_ar": "شهد جبل سيناء كلام الله المباشر لموسى - لحظة من الوحي الإلهي غير المتوسط الذي شكل التاريخ التوحيدي.",
+          "whyItMatters_ar": "يذكرنا هذا الموقع المقدس بأن الله يتواصل مع البشرية، والقرآن هو الشكل النهائي المحفوظ من ذلك الكلام الإلهي."
+        }
+      ]
+    },
+    "layer4": "Mount Sinai enjoys universal recognition across Islamic traditions as the sacred site of Musa's revelation. Both Shia and Sunni exegetes cite the same Quranic narratives describing how Allah spoke to Musa at this mountain and revealed the Torah. Sunni scholars like Ibn Kathir emphasize the historical and theological significance of this location, interpreting the divine oath as validation of the prophethood of Musa and the authenticity of previous scriptures before their corruption. Al-Tabari in his comprehensive tafsir discusses the various linguistic forms of the mountain's name and its significance in pre-Islamic Arabian consciousness. The interpretive consensus is that this oath establishes continuity between revelations and prophets. Where traditions may differ is in emphasis - Shia exegesis tends to draw connections between the prophetic experience at Mount Sinai and the spiritual stations of the Imams, while Sunni commentary focuses more exclusively on the Mosaic tradition itself. Both traditions agree that the Quran's affirmation of Mount Sinai demonstrates Islam's respect for previous prophets and revelations, while asserting that the Quran supersedes and completes all previous divine messages.",
+    "layer4_urdu": "کوہ طور کو اسلامی روایات میں عالمگیر طور پر حضرت موسیٰ کی وحی کی مقدس جگہ کے طور پر تسلیم کیا جاتا ہے۔ شیعہ اور سنی دونوں مفسرین وہی قرآنی بیانات نقل کرتے ہیں جو بیان کرتے ہیں کہ کس طرح اللہ نے اس پہاڑ پر موسیٰ سے کلام کیا اور توریت نازل کی۔ سنی علماء جیسے ابن کثیر اس مقام کی تاریخی اور الہیاتی اہمیت پر زور دیتے ہیں، الہی قسم کو حضرت موسیٰ کی نبوت اور ان کی بگاڑ سے پہلے سابقہ صحیفوں کی صداقت کی توثیق کے طور پر تشریح کرتے ہوئے۔ الطبری نے اپنی جامع تفسیر میں پہاڑ کے نام کی مختلف لسانی شکلوں اور اسلام سے پہلے عربوں کے شعور میں اس کی اہمیت پر بحث کی ہے۔ تشریحی اجماع یہ ہے کہ یہ قسم وحیوں اور انبیاء کے درمیان تسلسل قائم کرتی ہے۔ جہاں روایات مختلف ہو سکتی ہیں وہ زور میں ہے - شیعہ تفسیر کوہ طور پر نبوی تجربے اور اماموں کے روحانی مقامات کے درمیان روابط کی طرف مائل ہوتی ہے، جبکہ سنی تفسیر خود موسوی روایت پر زیادہ خاص طور پر توجہ مرکوز کرتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ قرآن کی کوہ طور کی تصدیق سابقہ انبیاء اور وحیوں کے لیے اسلام کے احترام کو ظاہر کرتی ہے، جبکہ یہ دعویٰ کرتی ہے کہ قرآن تمام سابقہ الہی پیغامات کو منسوخ اور مکمل کرتا ہے۔",
+    "layer4_ar": "يحظى طور سيناء بإجماع عالمي في التراثين الإسلاميين بوصفه الموقع المقدس لوحي موسى عليه السلام. ويستشهد علماء الشيعة والسنة بالسياق القرآني ذاته الذي يصف كيف كلَّم الله موسى في هذا الجبل وأنزل عليه التوراة. ويؤكد علماء السنة كابن كثير الأهمية التاريخية والعقدية لهذا الموقع، مُفسِّرين القسم به بأنه إثباتٌ لنبوة موسى وصدق الكتب السابقة قبل تحريفها. ويناقش الطبري في تفسيره الجامع الصيغ اللغوية المختلفة لاسم الجبل وأهميته في الوعي العربي قبل الإسلام. والإجماع التفسيري هو أن هذا القسم يُؤسِّس لاستمرارية الرسالات والأنبياء. ومحل الاختلاف في التركيز: يميل التفسير الشيعي إلى استجلاء صلات بين التجربة النبوية في طور سيناء والمقامات الروحية للأئمة، بينما يقتصر التفسير السني في الغالب على الموروث الموسوي بذاته. ويتفق التراثان على أن إقرار القرآن بطور سيناء يُجلِّي احترام الإسلام للأنبياء السابقين ورسالاتهم، مع التأكيد على أن القرآن يتجاوز كل الرسالات السابقة ويُتمِّمها."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:3:secure-city",
+          "title": "Secure City",
+          "icon": "building.2.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Al-Balad al-Ameen (the secure city) refers to Makkah, the birthplace of Prophet Muhammad and site of the Kaaba - humanity's spiritual center.",
+          "whyItMatters": "Makkah's sanctity as a place of safety and worship connects us to Ibrahim's legacy and the final prophet's mission to purify monotheism.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْبَلَدِ ٱلْأَمِينِ",
+          "title_urdu": "محفوظ شہر",
+          "coreInsight_urdu": "البلد الامین (محفوظ شہر) مکہ کی طرف اشارہ ہے، حضرت محمد کی جائے پیدائش اور کعبہ کی جگہ - انسانیت کا روحانی مرکز۔",
+          "whyItMatters_urdu": "مکہ کی حفاظت اور عبادت کی جگہ کے طور پر تقدس ہمیں حضرت ابراہیم کی میراث اور آخری نبی کے توحید کو پاک کرنے کے مشن سے جوڑتا ہے۔",
+          "title_ar": "البلد الأمين",
+          "coreInsight_ar": "البلد الأمين يشير إلى مكة، مسقط رأس النبي محمد وموقع الكعبة - المركز الروحي للبشرية.",
+          "whyItMatters_ar": "تربطنا قدسية مكة كمكان للأمان والعبادة بإرث إبراهيم ومهمة النبي الأخير لتنقية التوحيد."
+        },
+        {
+          "id": "95:3:sacred-sanctuary",
+          "title": "Sacred Sanctuary",
+          "icon": "shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Makkah has been divinely protected (ameen) as a sanctuary where violence is forbidden and all who enter are granted safety.",
+          "whyItMatters": "This divine security teaches us that true peace comes from sacred spaces dedicated to Allah's worship and remembrance.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْأَمِينِ",
+          "title_urdu": "مقدس پناہ گاہ",
+          "coreInsight_urdu": "مکہ کو ایک پناہ گاہ کے طور پر الہی طور پر محفوظ (امین) رکھا گیا ہے جہاں تشدد ممنوع ہے اور جو بھی داخل ہو اسے حفاظت دی جاتی ہے۔",
+          "whyItMatters_urdu": "یہ الہی سلامتی ہمیں سکھاتی ہے کہ حقیقی امن ان مقدس جگہوں سے آتا ہے جو اللہ کی عبادت اور یاد کے لیے وقف ہیں۔",
+          "title_ar": "الحرم المقدس",
+          "coreInsight_ar": "تم حماية مكة إلهيًا (أمين) كملاذ حيث يُحظر العنف ويُمنح جميع الداخلين الأمان.",
+          "whyItMatters_ar": "يعلمنا هذا الأمان الإلهي أن السلام الحقيقي يأتي من الأماكن المقدسة المخصصة لعبادة الله وذكره."
+        },
+        {
+          "id": "95:3:three-revelations",
+          "title": "Three Revelations",
+          "icon": "star.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "These three locations (Jerusalem, Sinai, Makkah) represent the Torah, Injeel, and Quran - the complete arc of divine revelation to humanity.",
+          "whyItMatters": "Allah's oath encompasses all major revelations, showing Islam's respect for previous scriptures while affirming the Quran's finality.",
+          "position": "bottomLeft",
+          "arabicHighlight": "هَٰذَا ٱلْبَلَدِ",
+          "title_urdu": "تین وحی",
+          "coreInsight_urdu": "یہ تین مقامات (یروشلم، سینا، مکہ) تورات، انجیل، اور قرآن کی نمائندگی کرتے ہیں - انسانیت کے لیے الہی وحی کا مکمل سلسلہ۔",
+          "whyItMatters_urdu": "اللہ کی قسم تمام بڑی وحیوں کو شامل کرتی ہے، قرآن کی آخریت کی تصدیق کرتے ہوئے اسلام کا پچھلے صحیفوں کے لیے احترام ظاہر کرتی ہے۔",
+          "title_ar": "الوحي الثلاثة",
+          "coreInsight_ar": "تمثل هذه المواقع الثلاثة (القدس، سيناء، مكة) التوراة والإنجيل والقرآن - القوس الكامل للوحي الإلهي للبشرية.",
+          "whyItMatters_ar": "يشمل قسم الله جميع الوحي الرئيسية، مما يظهر احترام الإسلام للكتب السابقة مع تأكيد نهائية القرآن."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that 'al-balad al-amin' refers to Makkah al-Mukarramah. Sunni exegetes like Ibn Kathir, Al-Tabari, and Al-Qurtubi extensively discuss Makkah's sacred status, its establishment as a sanctuary by Prophet Ibrahim, and its central role in Islamic worship and pilgrimage. The interpretive consensus emphasizes that Allah swearing by Makkah validates its unique position in Islamic theology and practice. Al-Razi discusses the various blessings of Makkah mentioned throughout the Quran, including its designation as the site of the first house of worship established for humanity. Where Shia and Sunni exegesis differ is in the additional layer - some Shia narrations include esoteric interpretations linking the 'secure city' to the Prophet and Ahlul Bayt as spiritual sanctuaries, while Sunni tafsir maintains exclusively the geographical meaning. Both traditions honor Makkah's sanctity and agree on the prohibition of violence within its boundaries, though they may differ on jurisprudential details. The shared reverence for Makkah remains a powerful unifying element across Islamic traditions, symbolized by millions of Shia and Sunni Muslims performing pilgrimage together annually.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ 'البلد الامین' سے مراد مکہ مکرمہ ہے۔ سنی مفسرین جیسے ابن کثیر، الطبری، اور القرطبی نے مکہ کی مقدس حیثیت، حضرت ابراہیم کے ذریعے اسے حرم کے طور پر قائم کرنے، اور اسلامی عبادت اور حج میں اس کے مرکزی کردار پر تفصیل سے بحث کی ہے۔ تشریحی اجماع اس بات پر زور دیتا ہے کہ مکہ کی قسم اٹھانا اسلامی الہیات اور عمل میں اس کے منفرد مقام کی توثیق کرتا ہے۔ الرازی نے قرآن میں ذکر کردہ مکہ کی مختلف برکتوں پر بحث کی ہے، جن میں انسانیت کے لیے قائم کردہ پہلے عبادت کے گھر کے مقام کے طور پر اس کی تعیین شامل ہے۔ جہاں شیعہ اور سنی تفسیر مختلف ہے وہ اضافی تہہ میں ہے - بعض شیعہ روایات میں باطنی تشریحات شامل ہیں جو 'محفوظ شہر' کو نبی اور اہل بیت سے روحانی حرموں کے طور پر جوڑتی ہیں، جبکہ سنی تفسیر خاص طور پر جغرافیائی معنی کو برقرار رکھتی ہے۔ دونوں روایات مکہ کے تقدس کا احترام کرتی ہیں اور اس کی حدود میں تشدد کی ممانعت پر متفق ہیں، حالانکہ وہ فقہی تفصیلات میں مختلف ہو سکتی ہیں۔ مکہ کے لیے مشترکہ احترام اسلامی روایات میں ایک طاقتور متحد کرنے والا عنصر باقی ہے، جس کی علامت لاکھوں شیعہ اور سنی مسلمان ہیں جو سالانہ ایک ساتھ حج ادا کرتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن البلد الأمين يُشير إلى مكة المكرمة. ويتناول المفسرون السنيون كابن كثير والطبري والقرطبي قدسية مكة بإسهاب، وتأسيس إبراهيم لها حرماً آمناً، ومكانتها المحورية في العبادة الإسلامية والحج. وكلٌّ منهم يُؤكِّد أن إقسام الله بمكة يُثبت مكانتها الفريدة في الفقه واللاهوت الإسلاميين. ويناقش الرازي نعم مكة المتعددة المبثوثة في القرآن الكريم، بما فيها وصفها بأنها موضع أول بيت وُضع للناس. ومحل الاختلاف بين التفسيرين يكمن في الطبقة الإضافية؛ إذ تضم بعض الروايات الشيعية تفسيرات باطنية تربط البلد الأمين بالنبي وأهل البيت بوصفهم ملجأ روحياً، بينما يحافظ التفسير السني على المعنى الجغرافي وحده. ويشترك التراثان في تعظيم حرمة مكة والاتفاق على تحريم العنف داخل حدودها، وإن اختلفا في تفاصيل فقهية. ويبقى الإجلال المشترك لمكة عاملاً توحيدياً قوياً عبر التراثات الإسلامية، يتجلى كل عام في أداء الملايين من شيعة وسنة الحج جنباً إلى جنب."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:4:perfect-creation",
+          "title": "Perfect Creation",
+          "icon": "person.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Humans were created 'in the best of stature' (ahsan taqweem) - perfectly balanced in physical form, intellect, and spiritual potential.",
+          "whyItMatters": "This verse affirms human dignity and nobility, reminding us that we are Allah's masterpiece, created with purpose and inherent worth.",
+          "position": "topLeft",
+          "arabicHighlight": "أَحْسَنِ تَقْوِيمٍ",
+          "title_urdu": "کامل تخلیق",
+          "coreInsight_urdu": "انسان کو 'بہترین ساخت' (احسن تقویم) میں پیدا کیا گیا - جسمانی شکل، عقل، اور روحانی صلاحیت میں بالکل متوازن۔",
+          "whyItMatters_urdu": "یہ آیت انسانی عزت اور شرافت کی تصدیق کرتی ہے، ہمیں یاد دلاتی ہے کہ ہم اللہ کا شاہکار ہیں، مقصد اور فطری قدر کے ساتھ تخلیق کیے گئے۔",
+          "title_ar": "الخلق الكامل",
+          "coreInsight_ar": "خُلق الإنسان 'في أحسن تقويم' - متوازن تمامًا في الشكل الجسدي والفكر والإمكانات الروحية.",
+          "whyItMatters_ar": "تؤكد هذه الآية كرامة الإنسان ونبله، تذكرنا بأننا تحفة الله، مخلوقون بغرض وقيمة متأصلة."
+        },
+        {
+          "id": "95:4:divine-design",
+          "title": "Divine Design",
+          "icon": "brain.head.profile",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Taqweem implies careful proportioning and balance - Allah designed humans with upright posture, complex cognition, and moral consciousness.",
+          "whyItMatters": "Our sophisticated design is proof of divine artistry and a sign that we have responsibilities matching our elevated status.",
+          "position": "topRight",
+          "arabicHighlight": "تَقْوِيمٍ",
+          "title_urdu": "الہی ڈیزائن",
+          "coreInsight_urdu": "تقویم محتاط تناسب اور توازن کا مطلب ہے - اللہ نے انسانوں کو سیدھے قد، پیچیدہ ادراک، اور اخلاقی شعور کے ساتھ ڈیزائن کیا۔",
+          "whyItMatters_urdu": "ہماری نفیس ڈیزائن الہی فن کا ثبوت ہے اور ایک نشانی ہے کہ ہماری ذمہ داریاں ہماری بلند حیثیت سے مطابقت رکھتی ہیں۔",
+          "title_ar": "التصميم الإلهي",
+          "coreInsight_ar": "يعني التقويم التناسب والتوازن الدقيق - صمم الله البشر بقامة مستقيمة وإدراك معقد ووعي أخلاقي.",
+          "whyItMatters_ar": "تصميمنا المتطور دليل على الفن الإلهي وعلامة على أن لدينا مسؤوليات تتناسب مع مكانتنا الرفيعة."
+        },
+        {
+          "id": "95:4:human-potential",
+          "title": "Human Potential",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Being created in 'ahsan taqweem' means humans have unique potential for moral excellence, spiritual growth, and closeness to Allah.",
+          "whyItMatters": "This verse challenges us to live up to our creation's nobility through faith and righteous deeds, not squander our divine gifts.",
+          "position": "bottomRight",
+          "arabicHighlight": "خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+          "title_urdu": "انسانی صلاحیت",
+          "coreInsight_urdu": "'احسن تقویم' میں پیدا ہونے کا مطلب ہے کہ انسانوں میں اخلاقی فضیلت، روحانی ترقی، اور اللہ سے قربت کی منفرد صلاحیت ہے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں چیلنج کرتی ہے کہ ایمان اور نیک اعمال کے ذریعے اپنی تخلیق کی شرافت کے مطابق زندگی گزاریں، اپنے الہی تحائف کو ضائع نہ کریں۔",
+          "title_ar": "الإمكانات البشرية",
+          "coreInsight_ar": "الخلق 'في أحسن تقويم' يعني أن البشر لديهم إمكانات فريدة للتميز الأخلاقي والنمو الروحي والقرب من الله.",
+          "whyItMatters_ar": "تتحدانا هذه الآية للعيش بما يليق بنبل خلقنا من خلال الإيمان والأعمال الصالحة، وعدم إهدار هباتنا الإلهية."
+        }
+      ]
+    },
+    "layer4": "The interpretation of 'ahsan taqwim' enjoys broad consensus across Islamic traditions. Sunni exegetes like Ibn Kathir explain this as referring to human physical uprightness and balanced proportions, as well as intellectual and moral capacities that distinguish humans from animals. Al-Tabari cites various scholarly opinions, including that this phrase refers to the upright posture of humans, the perfection of physical form, or the gift of reason and understanding. Al-Qurtubi emphasizes the moral dimension - humans were created with the capacity to recognize good and evil and to choose between them. The shared understanding across Shia and Sunni scholarship is that this verse establishes human dignity and responsibility before Allah. Both traditions recognize that this excellence encompasses body, mind, and soul, and that it carries with it accountability for our actions. Where emphasis may differ slightly is that Shia exegesis often explicitly connects this potential to the spiritual realization seen in the Imams, while Sunni tafsir may focus more broadly on general human capabilities. Nonetheless, the fundamental message remains consistent: humans are uniquely honored in creation and uniquely responsible before the Creator.",
+    "layer4_urdu": "'احسن تقویم' کی تشریح اسلامی روایات میں وسیع اجماع سے لطف اندوز ہوتی ہے۔ سنی مفسرین جیسے ابن کثیر اسے انسانی جسمانی سیدھے پن اور متوازن تناسب، نیز فکری اور اخلاقی صلاحیتوں کے حوالے سے بیان کرتے ہیں جو انسانوں کو جانوروں سے ممتاز کرتی ہیں۔ الطبری نے مختلف علمی آراء نقل کی ہیں، جن میں یہ شامل ہے کہ یہ جملہ انسانوں کے سیدھے قد و قامت، جسمانی شکل کی کمال، یا عقل اور فہم کے تحفے کی طرف اشارہ کرتا ہے۔ القرطبی نے اخلاقی جہت پر زور دیا - انسان اچھائی اور برائی کو پہچاننے اور ان کے درمیان انتخاب کرنے کی صلاحیت کے ساتھ پیدا کیے گئے۔ شیعہ اور سنی علمی ادب میں مشترکہ فہم یہ ہے کہ یہ آیت اللہ کے سامنے انسانی وقار اور ذمہ داری قائم کرتی ہے۔ دونوں روایات تسلیم کرتی ہیں کہ یہ عمدگی جسم، دماغ اور روح کو شامل کرتی ہے، اور یہ کہ یہ ہمارے اعمال کے لیے جوابدہی لاتی ہے۔ جہاں زور تھوڑا سا مختلف ہو سکتا ہے وہ یہ ہے کہ شیعہ تفسیر اکثر اس صلاحیت کو اماموں میں دیکھے گئے روحانی احساس سے صریح طور پر جوڑتی ہے، جبکہ سنی تفسیر عام انسانی صلاحیتوں پر زیادہ وسیع طور پر توجہ مرکوز کر سکتی ہے۔ بہرحال، بنیادی پیغام مستقل رہتا ہے: انسان تخلیق میں منفرد طور پر معزز اور خالق کے سامنے منفرد طور پر ذمہ دار ہیں۔",
+    "layer4_ar": "يحظى تفسير \"أحسن تقويم\" بإجماع واسع عبر التراثين الإسلاميين. فعلماء السنة كابن كثير يُفسِّرون ذلك بأنه يُشير إلى انتصاب قامة الإنسان وتناسق خلقته وملكاته العقلية والأخلاقية التي تميزه عن سائر الحيوانات. ويستشهد الطبري بآراء علمية متنوعة، منها أن العبارة تُشير إلى استقامة الإنسان في مشيته، أو إلى كمال صورته الجسمية، أو إلى موهبة العقل والفهم. ويُؤكِّد القرطبي البعد الأخلاقي: خُلق الإنسان بالقدرة على التمييز بين الخير والشر والاختيار بينهما. والمفهوم المشترك عبر المذاهب هو أن هذه الآية تُرسِّخ كرامة الإنسان ومسؤوليته أمام الله، وأن هذا التكريم يشمل الجسد والعقل والروح، ويحمل معه المساءلة عن الأفعال. وقد يكمن الاختلاف في التركيز حيث يربط التفسير الشيعي هذه الطاقة صراحةً بالكمال الروحي المتجلي في الأئمة، بينما يتوسع التفسير السني ليشمل القدرات الإنسانية العامة. ومع ذلك تبقى الرسالة الجوهرية موحدة: الإنسان مُكرَّم في الخلق تكريماً استثنائياً ومسؤولٌ أمام خالقه مسؤولية فريدة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:5:moral-descent",
+          "title": "Moral Descent",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Despite being created in perfection, humans can fall to 'asfal safileen' (lowest of the low) through rejection of faith and pursuit of evil.",
+          "whyItMatters": "This verse warns that nobility is not guaranteed - we must actively choose righteousness or risk descending below even animals in moral worth.",
+          "position": "topLeft",
+          "arabicHighlight": "أَسْفَلَ سَٰفِلِينَ",
+          "title_urdu": "اخلاقی زوال",
+          "coreInsight_urdu": "کمال میں پیدا ہونے کے باوجود، انسان ایمان کے انکار اور برائی کی تلاش کے ذریعے 'اسفل سافلین' (سب سے نیچے) میں گر سکتے ہیں۔",
+          "whyItMatters_urdu": "یہ آیت خبردار کرتی ہے کہ شرافت کی ضمانت نہیں ہے - ہمیں فعال طور پر نیکی کا انتخاب کرنا چاہیے یا اخلاقی قدر میں جانوروں سے بھی نیچے گرنے کا خطرہ ہے۔",
+          "title_ar": "الانحدار الأخلاقي",
+          "coreInsight_ar": "على الرغم من الخلق في الكمال، يمكن للبشر السقوط إلى 'أسفل سافلين' (أدنى الأدنى) من خلال رفض الإيمان وسعي الشر.",
+          "whyItMatters_ar": "تحذر هذه الآية من أن النبل ليس مضمونًا - يجب علينا اختيار البر بنشاط أو المخاطرة بالنزول إلى أدنى من الحيوانات في القيمة الأخلاقية."
+        },
+        {
+          "id": "95:5:spiritual-degradation",
+          "title": "Spiritual Fall",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'thumma radadnahu' (then We return him) shows that this fall is a consequence of human choices, not Allah's initial design.",
+          "whyItMatters": "Allah created us noble but gave us free will - our spiritual state is determined by whether we honor or betray that sacred trust.",
+          "position": "topRight",
+          "arabicHighlight": "رَدَدْنَٰهُ",
+          "title_urdu": "روحانی زوال",
+          "coreInsight_urdu": "جملہ 'ثم رددناہ' (پھر ہم نے اسے لوٹایا) ظاہر کرتا ہے کہ یہ زوال انسانی انتخاب کا نتیجہ ہے، نہ کہ اللہ کے ابتدائی ڈیزائن کا۔",
+          "whyItMatters_urdu": "اللہ نے ہمیں شریف پیدا کیا لیکن ہمیں آزاد مرضی دی - ہماری روحانی حالت اس بات سے طے ہوتی ہے کہ آیا ہم اس مقدس امانت کا احترام کرتے ہیں یا اس سے غداری کرتے ہیں۔",
+          "title_ar": "السقوط الروحي",
+          "coreInsight_ar": "تظهر عبارة 'ثم رددناه' (ثم نعيده) أن هذا السقوط نتيجة لاختيارات بشرية، وليس تصميم الله الأولي.",
+          "whyItMatters_ar": "خلقنا الله نبلاء لكنه أعطانا الإرادة الحرة - تتحدد حالتنا الروحية بما إذا كنا نكرم أو نخون تلك الأمانة المقدسة."
+        },
+        {
+          "id": "95:5:divine-consequence",
+          "title": "Divine Consequence",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This 'returning' to degradation is Allah's just response to those who corrupt their fitrah (natural disposition) and reject divine guidance.",
+          "whyItMatters": "The verse teaches accountability - Allah elevates those who maintain their spiritual nobility and lowers those who choose corruption.",
+          "position": "bottomLeft",
+          "arabicHighlight": "رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+          "title_urdu": "الہی نتیجہ",
+          "coreInsight_urdu": "یہ 'لوٹانا' تنزلی کی طرف اللہ کا منصفانہ جواب ہے ان لوگوں کے لیے جو اپنی فطرت کو خراب کرتے ہیں اور الہی رہنمائی کو مسترد کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ آیت جوابدہی سکھاتی ہے - اللہ ان کو بلند کرتا ہے جو اپنی روحانی شرافت کو برقرار رکھتے ہیں اور ان کو پست کرتا ہے جو بدعنوانی کا انتخاب کرتے ہیں۔",
+          "title_ar": "العواقب الإلهية",
+          "coreInsight_ar": "هذا 'الإعادة' إلى التدهور هو استجابة الله العادلة لأولئك الذين يفسدون فطرتهم ويرفضون الهداية الإلهية.",
+          "whyItMatters_ar": "تعلم الآية المساءلة - يرفع الله من يحافظون على نبلهم الروحي ويخفض من يختارون الفساد."
+        }
+      ]
+    },
+    "layer4": "The concept of 'asfala safilin' is interpreted with broad consensus across Islamic traditions as spiritual and moral degradation resulting from disbelief and sin. Sunni exegetes like Ibn Kathir explain that this descent refers to Hell in the hereafter or to the degraded state of disbelievers who are worse than animals because they have reason but refuse to use it. Al-Tabari presents multiple interpretations, including that it refers to extreme old age when faculties decline, though the more dominant view relates to moral and spiritual descent. Al-Qurtubi emphasizes that this fate befalls those who deny resurrection and live heedlessly. Both Shia and Sunni scholars agree that the verse presents a stark contrast with the previous verse: humans are created in the best form but can fall to the lowest state through their choices. Where emphasis may differ is that Shia exegesis explicitly connects this descent to rejection of divinely appointed guidance, while Sunni tafsir focuses more broadly on disbelief and sinfulness. Both traditions use this verse to warn against spiritual complacency and to emphasize the serious consequences of moral choices.",
+    "layer4_urdu": "'اسفل سافلین' کا تصور اسلامی روایات میں وسیع اجماع کے ساتھ تشریح کیا جاتا ہے کہ یہ کفر اور گناہ کے نتیجے میں روحانی اور اخلاقی انحطاط ہے۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ یہ گراوٹ آخرت میں جہنم کی طرف اشارہ کرتی ہے یا کافروں کی انحطاط یافتہ حالت کی طرف جو جانوروں سے بدتر ہیں کیونکہ ان کے پاس عقل ہے لیکن وہ اسے استعمال کرنے سے انکار کرتے ہیں۔ الطبری نے متعدد تشریحات پیش کی ہیں، جن میں یہ شامل ہے کہ یہ انتہائی بڑھاپے کی طرف اشارہ کرتا ہے جب صلاحیتیں کم ہو جاتی ہیں، حالانکہ زیادہ غالب نظریہ اخلاقی اور روحانی گراوٹ سے متعلق ہے۔ القرطبی اس بات پر زور دیتے ہیں کہ یہ انجام ان لوگوں کو ملتا ہے جو قیامت کا انکار کرتے ہیں اور غفلت سے جیتے ہیں۔ شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ آیت پچھلی آیت کے ساتھ واضح تضاد پیش کرتی ہے: انسان بہترین صورت میں پیدا کیے گئے لیکن اپنے انتخابات کے ذریعے نیچے ترین حالت میں گر سکتے ہیں۔ جہاں زور مختلف ہو سکتا ہے وہ یہ ہے کہ شیعہ تفسیر اس گراوٹ کو صریح طور پر الہی طور پر مقرر کردہ ہدایت کی مسترد سے جوڑتی ہے، جبکہ سنی تفسیر کفر اور گناہ پر زیادہ وسیع طور پر توجہ مرکوز کرتی ہے۔ دونوں روایات اس آیت کو روحانی بے فکری کے خلاف خبردار کرنے اور اخلاقی انتخابات کے سنگین نتائج پر زور دینے کے لیے استعمال کرتی ہیں۔",
+    "layer4_ar": "يُفسَّر مفهوم \"أسفل سافلين\" بإجماع واسع عبر التراثين الإسلاميين باعتباره الانحطاط الروحي والأخلاقي الناجم عن الكفر والمعصية. ويُبيِّن علماء السنة كابن كثير أن هذا الانحدار يُشير إلى الجحيم في الآخرة أو إلى الحال المزرية للكافرين الذين هم أدنى من الحيوان لأنهم يملكون العقل ويأبون توظيفه. ويعرض الطبري تفسيرات متعددة، منها أنه يُشير إلى أرذل العمر حين تتراجع الملكات، غير أن الرأي الأقوى يتعلق بالانحطاط الأخلاقي والروحي. ويُؤكِّد القرطبي أن هذا المصير يحلُّ بمن أنكر البعث وعاش في غفلة تامة. ويتفق علماء الشيعة والسنة على أن الآية تطرح تقابلاً صارخاً مع الآية السابقة: خُلق الإنسان في أحسن تقويم لكنه يمكن أن يهوي إلى أسفل الدركات بخياراته. ومحل الاختلاف في التركيز هو أن التفسير الشيعي يربط صراحةً هذا الانحدار برفض الهداية المُعيَّنة إلهياً، بينما يتحدث التفسير السني بصورة أشمل عن الكفر والعصيان. ويستخدم كلا التراثين هذه الآية تحذيراً من الغفلة الروحية وتأكيداً على خطورة ما تترتب عليه الاختيارات الأخلاقية من عواقب وخيمة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:6:divine-exception",
+          "title": "Divine Exception",
+          "icon": "checkmark.shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Illa' (except) introduces the critical exemption - those who believe (amanu) and do righteous deeds (salihat) are saved from degradation.",
+          "whyItMatters": "This exception proves that faith and action together are the antidote to spiritual fall, maintaining the nobility of our creation.",
+          "position": "topLeft",
+          "arabicHighlight": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "الہی استثنیٰ",
+          "coreInsight_urdu": "'الا' (سوائے) اہم استثنیٰ متعارف کراتا ہے - جو ایمان لاتے ہیں (آمنوا) اور نیک اعمال کرتے ہیں (صالحات) وہ تنزلی سے بچ جاتے ہیں۔",
+          "whyItMatters_urdu": "یہ استثنیٰ ثابت کرتا ہے کہ ایمان اور عمل مل کر روحانی زوال کا علاج ہیں، ہماری تخلیق کی شرافت کو برقرار رکھتے ہیں۔",
+          "title_ar": "الاستثناء الإلهي",
+          "coreInsight_ar": "'إلا' (إلا) يقدم الاستثناء الحاسم - أولئك الذين آمنوا وعملوا الصالحات ينجون من التدهور.",
+          "whyItMatters_ar": "يثبت هذا الاستثناء أن الإيمان والعمل معًا هما الترياق للسقوط الروحي، للحفاظ على نبل خلقنا."
+        },
+        {
+          "id": "95:6:faith-action",
+          "title": "Faith & Action",
+          "icon": "hands.clap.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Quran consistently pairs 'amanu' (believed) with 'amilu as-salihat' (did good deeds) - showing faith requires tangible righteousness.",
+          "whyItMatters": "True Islam is not passive belief but active transformation - our deeds must reflect our faith to maintain spiritual elevation.",
+          "position": "topRight",
+          "arabicHighlight": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ",
+          "title_urdu": "ایمان اور عمل",
+          "coreInsight_urdu": "قرآن مسلسل 'آمنوا' (ایمان لائے) کو 'عملوا الصالحات' (نیک اعمال کیے) کے ساتھ جوڑتا ہے - ظاہر کرتا ہے کہ ایمان کو ٹھوس نیکی کی ضرورت ہے۔",
+          "whyItMatters_urdu": "حقیقی اسلام غیر فعال عقیدہ نہیں بلکہ فعال تبدیلی ہے - ہمارے اعمال کو ہمارے ایمان کی عکاسی کرنی چاہیے تاکہ روحانی بلندی برقرار رہے۔",
+          "title_ar": "الإيمان والعمل",
+          "coreInsight_ar": "يقرن القرآن باستمرار 'آمنوا' (آمنوا) مع 'عملوا الصالحات' (عملوا الصالحات) - مما يظهر أن الإيمان يتطلب البر الملموس.",
+          "whyItMatters_ar": "الإسلام الحقيقي ليس إيمانًا سلبيًا بل تحولًا نشطًا - يجب أن تعكس أفعالنا إيماننا للحفاظ على الارتقاء الروحي."
+        },
+        {
+          "id": "95:6:uninterrupted-reward",
+          "title": "Endless Reward",
+          "icon": "infinity",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The reward is 'ghayr mamnun' (uninterrupted/unlimited) - eternal Paradise without end, defect, or diminishment for the faithful.",
+          "whyItMatters": "This promise of infinite reward motivates us to persevere in faith and good deeds despite worldly hardships and temporal struggles.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَجْرٌ غَيْرُ مَمْنُونٍ",
+          "title_urdu": "لامتناہی اجر",
+          "coreInsight_urdu": "اجر 'غیر ممنون' (بغیر رکاوٹ/لامحدود) ہے - ایمان داروں کے لیے بغیر انتہا، عیب، یا کمی کے ابدی جنت۔",
+          "whyItMatters_urdu": "لامحدود اجر کا یہ وعدہ ہمیں دنیوی مشکلات اور عارضی جدوجہد کے باوجود ایمان اور نیک اعمال میں ثابت قدم رہنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الأجر اللانهائي",
+          "coreInsight_ar": "الأجر 'غير ممنون' (غير منقطع/غير محدود) - الجنة الأبدية بلا نهاية أو عيب أو نقصان للمؤمنين.",
+          "whyItMatters_ar": "يحفزنا هذا الوعد بالمكافأة اللانهائية على المثابرة في الإيمان والأعمال الصالحة رغم المصاعب الدنيوية والصراعات الزمنية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that this verse establishes the essential requirements for salvation: faith and righteous action. Sunni scholars like Ibn Kathir explain that those who believe in Allah, His messengers, and the Day of Judgment, and who perform good deeds, are saved from the degradation of the previous verse and will receive Paradise as their eternal reward. Al-Qurtubi emphasizes that 'ghayr mamnun' means a reward that is neither diminished nor interrupted, continuing eternally in the afterlife. Al-Tabari discusses various interpretations of 'mamnun,' concluding that it means unending and unlimited reward. The consensus across traditions is that faith and works together are necessary for salvation, and that divine reward is both just and generous. Where interpretations may differ is in the details of what constitutes complete faith - Shia theology includes belief in the Imamah of the Ahlul Bayt as part of complete faith, while Sunni theology does not include this as a requirement. However, both traditions agree on the core message: those who believe and do good will receive eternal, uninterrupted reward from Allah. This verse provides hope and encouragement for believers across all Islamic schools of thought.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ یہ آیت نجات کے لیے ضروری تقاضے قائم کرتی ہے: ایمان اور نیک عمل۔ سنی علماء جیسے ابن کثیر وضاحت کرتے ہیں کہ جو لوگ اللہ، اس کے رسولوں، اور قیامت کے دن پر ایمان رکھتے ہیں، اور نیک اعمال کرتے ہیں، وہ پچھلی آیت کی تنزلی سے بچ جاتے ہیں اور انہیں ان کے ابدی اجر کے طور پر جنت ملے گی۔ القرطبی اس بات پر زور دیتے ہیں کہ 'غیر ممنون' کا مطلب ایک ایسا اجر ہے جو نہ کم ہوتا ہے نہ منقطع، آخرت میں ابدی طور پر جاری رہتا ہے۔ الطبری 'ممنون' کی مختلف تشریحات پر بحث کرتے ہیں، یہ نتیجہ اخذ کرتے ہوئے کہ اس کا مطلب لامتناہی اور لامحدود اجر ہے۔ روایات میں اجماع یہ ہے کہ ایمان اور اعمال دونوں مل کر نجات کے لیے ضروری ہیں، اور یہ کہ الہی اجر منصفانہ اور فیاض دونوں ہے۔ جہاں تشریحات مختلف ہو سکتی ہیں وہ مکمل ایمان کی تفصیلات میں ہے - شیعہ الہیات میں اہل بیت کی امامت پر یقین مکمل ایمان کا حصہ شامل ہے، جبکہ سنی الہیات اسے ضرورت کے طور پر شامل نہیں کرتی۔ تاہم، دونوں روایات بنیادی پیغام پر متفق ہیں: جو لوگ ایمان لاتے ہیں اور نیک عمل کرتے ہیں انہیں اللہ سے ابدی، بلا انقطاع اجر ملے گا۔ یہ آیت اسلامی فکر کے تمام مکاتب میں مومنین کے لیے امید اور حوصلہ افزائی فراہم کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُرسي الشروط الجوهرية للنجاة: الإيمان والعمل الصالح. ويُبيِّن علماء السنة كابن كثير أن من آمنوا بالله ورسله واليوم الآخر وأدَّوا الصالحات نجوا من الانحطاط الوارد في الآية السابقة ونالوا الجنة مأوىً أبدياً. ويُؤكِّد القرطبي أن \"غير ممنون\" يعني ثواباً لا يُنقَص ولا ينقطع بل يتواصل أبداً في الآخرة. ويستعرض الطبري تفسيرات متعددة لـ\"ممنون\" خالصاً إلى أنه يعني الثواب الذي لا ينتهي ولا يُحدُّ. وثمة إجماع عبر التراثين على أن الإيمان والعمل معاً شرطٌ لازم للنجاة، وأن الجزاء الإلهي عادلٌ كريم في آنٍ معاً. ومحل الاختلاف يكمن في تفاصيل ما يُكمِّل الإيمان؛ إذ يُدرج الكلام الشيعي الإيمان بإمامة أهل البيت ضمن ركائز الإيمان الكامل، بينما لا يتضمن الكلام السني هذا الشرط. بيد أن كلا التراثين يتفقان على جوهر الرسالة: من آمنوا وعملوا الصالحات سينالون الثواب الأبدي المتواصل من الله. وهذه الآية تبعث الأمل والتشجيع في نفوس المؤمنين على اختلاف مذاهبهم الإسلامية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:7:rhetorical-challenge",
+          "title": "Rhetorical Challenge",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Fama yukadhdhibuka' (So what causes you to deny) - Allah directly confronts those who reject the Day of Judgment despite clear evidence.",
+          "whyItMatters": "This rhetorical question exposes the irrationality of denying accountability when human nobility and divine justice have been proven.",
+          "position": "topLeft",
+          "arabicHighlight": "يُكَذِّبُكَ",
+          "title_urdu": "بیانیہ چیلنج",
+          "coreInsight_urdu": "'فما یکذبک' (تو کیا چیز تمہیں جھٹلاتی ہے) - اللہ واضح ثبوت کے باوجود قیامت کے دن کو مسترد کرنے والوں کا براہ راست سامنا کرتا ہے۔",
+          "whyItMatters_urdu": "یہ بیانیہ سوال جوابدہی کے انکار کی غیر معقولیت کو بے نقاب کرتا ہے جب انسانی شرافت اور الہی انصاف ثابت ہو چکا ہو۔",
+          "title_ar": "التحدي البلاغي",
+          "coreInsight_ar": "'فما يكذبك' (فما الذي يجعلك تنكر) - يواجه الله مباشرة أولئك الذين يرفضون يوم القيامة رغم الأدلة الواضحة.",
+          "whyItMatters_ar": "يكشف هذا السؤال البلاغي عن لاعقلانية إنكار المساءلة عندما ثبت نبل الإنسان والعدالة الإلهية."
+        },
+        {
+          "id": "95:7:day-of-judgment",
+          "title": "Day of Recompense",
+          "icon": "calendar.badge.clock",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Ad-Deen refers to the Day of Judgment when all will be held accountable - the ultimate settling of accounts between Creator and creation.",
+          "whyItMatters": "Belief in the Hereafter transforms how we live today, knowing every choice has eternal consequences beyond this temporary life.",
+          "position": "topRight",
+          "arabicHighlight": "بِٱلدِّينِ",
+          "title_urdu": "جزا کا دن",
+          "coreInsight_urdu": "الدین قیامت کے دن کی طرف اشارہ ہے جب سب کو جوابدہ ٹھہرایا جائے گا - خالق اور مخلوق کے درمیان حسابات کا حتمی تصفیہ۔",
+          "whyItMatters_urdu": "آخرت پر ایمان اس بات کو تبدیل کرتا ہے کہ ہم آج کیسے زندگی گزارتے ہیں، یہ جانتے ہوئے کہ ہر انتخاب کے اس عارضی زندگی سے پرے ابدی نتائج ہیں۔",
+          "title_ar": "يوم الجزاء",
+          "coreInsight_ar": "الدين يشير إلى يوم القيامة عندما يُحاسب الجميع - التسوية النهائية للحسابات بين الخالق والخلق.",
+          "whyItMatters_ar": "يحول الإيمان بالآخرة كيف نعيش اليوم، مع العلم أن كل خيار له عواقب أبدية تتجاوز هذه الحياة المؤقتة."
+        },
+        {
+          "id": "95:7:after-proof",
+          "title": "After All Proofs",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Ba'du' (after) emphasizes that denial of judgment is inexcusable after witnessing human creation, moral capacity, and divine revelation.",
+          "whyItMatters": "Allah has given us intellect, revelation, and observable reality - denying accountability after such evidence is willful stubbornness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بَعْدُ",
+          "title_urdu": "تمام ثبوت کے بعد",
+          "coreInsight_urdu": "'بعد' (بعد) زور دیتا ہے کہ انسانی تخلیق، اخلاقی صلاحیت، اور الہی وحی کو دیکھنے کے بعد فیصلے کا انکار ناقابل معافی ہے۔",
+          "whyItMatters_urdu": "اللہ نے ہمیں عقل، وحی، اور قابل مشاہدہ حقیقت دی ہے - ایسے ثبوت کے بعد جوابدہی سے انکار جان بوجھ کر ضد ہے۔",
+          "title_ar": "بعد كل الأدلة",
+          "coreInsight_ar": "'بعد' (بعد) يؤكد أن إنكار الحكم لا يغتفر بعد مشاهدة الخلق البشري والقدرة الأخلاقية والوحي الإلهي.",
+          "whyItMatters_ar": "أعطانا الله العقل والوحي والواقع الملحوظ - إنكار المساءلة بعد مثل هذا الدليل هو عناد متعمد."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret 'ad-Din' in this verse as referring to the Day of Judgment and divine recompense. Sunni exegetes like Ibn Kathir explain that the verse challenges the disbelievers' denial of resurrection and accountability, asking what could possibly cause them to reject something so logical and well-evidenced. Al-Tabari discusses the rhetorical force of the question - it implies that there is no good reason to deny the Hereafter, that such denial is irrational. Al-Qurtubi emphasizes that the entire surah builds toward this question, establishing through divine oaths and logical reasoning that humans will indeed be held accountable. The consensus across traditions is that belief in the Day of Judgment is fundamental to Islamic theology and essential for a coherent moral universe. Where Shia and Sunni exegesis may differ is in additional layers of interpretation - some Shia sources include esoteric meanings linking 'Din' to Wilayah, while Sunni tafsir maintains exclusively the meaning of divine judgment. However, the primary message is shared: denial of ultimate accountability is both irrational and dangerous, and believers should be confident in the reality of divine justice that will manifest on the Day of Resurrection.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت میں 'الدین' کو قیامت کے دن اور الہی جزا و سزا کے حوالے سے تشریح کرتے ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ آیت کافروں کے قیامت اور جوابدہی کے انکار کو چیلنج کرتی ہے، پوچھتی ہے کہ ممکن طور پر کیا چیز انہیں کچھ اتنا منطقی اور اچھی طرح ثابت شدہ کو مسترد کرنے کا سبب بن سکتی ہے۔ الطبری نے سوال کی بیانیہ قوت پر بحث کی ہے - یہ مضمر کرتا ہے کہ آخرت کا انکار کرنے کی کوئی اچھی وجہ نہیں، کہ ایسا انکار غیر معقول ہے۔ القرطبی اس بات پر زور دیتے ہیں کہ پوری سورت اس سوال کی طرف تعمیر ہوتی ہے، الہی قسموں اور منطقی استدلال کے ذریعے قائم کرتی ہے کہ انسانوں کو واقعی جوابدہ ٹھہرایا جائے گا۔ روایات میں اجماع یہ ہے کہ قیامت کے دن پر یقین اسلامی الہیات کا بنیادی حصہ ہے اور مربوط اخلاقی کائنات کے لیے ضروری ہے۔ جہاں شیعہ اور سنی تفسیر مختلف ہو سکتی ہے وہ معنی کی اضافی تہوں میں ہے - بعض شیعہ ذرائع میں 'دین' کو ولایت سے جوڑنے والے باطنی معانی شامل ہیں، جبکہ سنی تفسیر خاص طور پر الہی فیصلے کے معنی کو برقرار رکھتی ہے۔ تاہم، بنیادی پیغام مشترک ہے: حتمی جوابدہی کا انکار غیر معقول اور خطرناک دونوں ہے، اور مومنین کو الہی انصاف کی حقیقت پر اعتماد ہونا چاہیے جو قیامت کے دن ظاہر ہو گا۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني على أن \"الدين\" في هذه الآية يعني يوم القيامة والجزاء الإلهي. ويُبيِّن علماء السنة كابن كثير أن الآية تتحدى إنكار الكفار للبعث والمساءلة، وتسأل ما الذي يمكن أن يجعلهم يردون أمراً شديد المنطق وافر الشواهد. ويناقش الطبري القوة البلاغية للسؤال الذي يُوحي بأنه لا يوجد مسوِّغ وجيه لإنكار الآخرة وأن هذا الإنكار ضربٌ من اللامعقول. ويُؤكِّد القرطبي أن السورة كلها تتصاعد نحو هذا السؤال مُرسيةً بالأقسام الإلهية والبراهين العقلية أن الإنسان سيُحاسَب حتماً. والإجماع عبر التراثين أن الإيمان بيوم الدين ركنٌ في العقيدة الإسلامية وضرورةٌ لانسجام المنظومة الأخلاقية. ومحل الاختلاف يكمن في طبقات التفسير الإضافية؛ إذ تتضمن بعض المصادر الشيعية معانيَ باطنية تربط \"الدين\" بالولاية، بينما يقتصر التفسير السني على معنى القضاء الإلهي. غير أن الرسالة الجوهرية مشتركة: إنكار المساءلة الكبرى ضربٌ من الخطل والخطر معاً، وينبغي للمؤمنين الوثوق بحقيقة العدل الإلهي الذي سيتجلى يوم القيامة."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "95:8:supreme-judge",
+          "title": "Supreme Judge",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Ahkam al-Hakimeen' (most just of judges) affirms Allah as the ultimate arbiter whose judgments are perfectly fair and absolutely wise.",
+          "whyItMatters": "This concluding verse assures believers that divine justice will prevail - no good deed goes unrewarded, no evil escapes accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "أَحْكَمِ ٱلْحَٰكِمِينَ",
+          "title_urdu": "اعلیٰ فیصلہ کن",
+          "coreInsight_urdu": "'احکم الحاکمین' (سب سے زیادہ منصف فیصلہ کن) اللہ کو حتمی ثالث کے طور پر تصدیق کرتا ہے جس کے فیصلے بالکل منصفانہ اور مکمل طور پر دانشمندانہ ہیں۔",
+          "whyItMatters_urdu": "یہ اختتامی آیت مومنین کو یقین دلاتی ہے کہ الہی انصاف غالب آئے گا - کوئی نیک عمل بے اجر نہیں رہتا، کوئی برائی جوابدہی سے نہیں بچتی۔",
+          "title_ar": "القاضي الأعلى",
+          "coreInsight_ar": "'أحكم الحاكمين' (أعدل القضاة) يؤكد الله كالحكم النهائي الذي أحكامه عادلة تمامًا وحكيمة تمامًا.",
+          "whyItMatters_ar": "تؤكد هذه الآية الختامية للمؤمنين أن العدالة الإلهية ستسود - لا عمل صالح يمر دون مكافأة، ولا شر يفلت من المساءلة."
+        },
+        {
+          "id": "95:8:rhetorical-affirmation",
+          "title": "Rhetorical Affirmation",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The question 'Alaysa Allahu...' (Is not Allah...) expects an emphatic 'Yes!' - it's an undeniable truth no rational person can reject.",
+          "whyItMatters": "This rhetorical device invites us to affirm Allah's justice with our hearts, making it a personal declaration rather than abstract theology.",
+          "position": "topRight",
+          "arabicHighlight": "أَلَيْسَ ٱللَّهُ",
+          "title_urdu": "بیانیہ تصدیق",
+          "coreInsight_urdu": "سوال 'الیس اللہ...' (کیا اللہ نہیں...) زوردار 'ہاں!' کی توقع رکھتا ہے - یہ ایک ناقابل تردید سچائی ہے جسے کوئی عقلمند شخص مسترد نہیں کر سکتا۔",
+          "whyItMatters_urdu": "یہ بیانیہ آلہ ہمیں اپنے دلوں سے اللہ کے انصاف کی تصدیق کی دعوت دیتا ہے، اسے تجریدی الہیات کے بجائے ایک ذاتی اعلان بناتا ہے۔",
+          "title_ar": "التأكيد البلاغي",
+          "coreInsight_ar": "السؤال 'أليس الله...' (أليس الله...) يتوقع 'نعم!' قاطع - إنها حقيقة لا يمكن إنكارها لا يمكن لأي شخص عاقل رفضها.",
+          "whyItMatters_ar": "تدعونا هذه الأداة البلاغية لتأكيد عدالة الله بقلوبنا، مما يجعلها إعلانًا شخصيًا بدلاً من اللاهوت المجرد."
+        },
+        {
+          "id": "95:8:divine-wisdom",
+          "title": "Divine Wisdom",
+          "icon": "brain.head.profile",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah's judgment (hukm) combines perfect knowledge, absolute justice, and infinite wisdom - surpassing any human court or understanding.",
+          "whyItMatters": "Trusting in Allah as the Supreme Judge brings peace when worldly justice fails, knowing ultimate fairness awaits in the Hereafter.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْحَٰكِمِينَ",
+          "title_urdu": "حکمت الہی",
+          "coreInsight_urdu": "اللہ کا فیصلہ (حکم) کامل علم، مطلق انصاف، اور لامحدود حکمت کو یکجا کرتا ہے - کسی بھی انسانی عدالت یا فہم سے بالاتر۔",
+          "whyItMatters_urdu": "اللہ پر اعلیٰ فیصلہ کن کے طور پر بھروسہ امن لاتا ہے جب دنیوی انصاف ناکام ہو، یہ جانتے ہوئے کہ آخرت میں حتمی انصاف منتظر ہے۔",
+          "title_ar": "الحكمة الإلهية",
+          "coreInsight_ar": "حكم الله (الحكم) يجمع بين المعرفة الكاملة والعدالة المطلقة والحكمة اللانهائية - متجاوزًا أي محكمة أو فهم بشري.",
+          "whyItMatters_ar": "الثقة بالله كالقاضي الأعلى تجلب السلام عندما تفشل العدالة الدنيوية، مع العلم أن العدالة النهائية تنتظر في الآخرة."
+        },
+        {
+          "id": "95:8:believer-response",
+          "title": "Believer's Response",
+          "icon": "heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Muslims traditionally respond 'Bala, wa ana ala dhalika min ash-shahideen' (Indeed, and I am among those who bear witness) after reciting this verse.",
+          "whyItMatters": "This responsive affirmation makes the Quran interactive worship, transforming passive reading into active testimony of Allah's attributes.",
+          "position": "bottomRight",
+          "arabicHighlight": "بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+          "title_urdu": "مومن کا جواب",
+          "coreInsight_urdu": "مسلمان روایتی طور پر 'بلیٰ، وانا علیٰ ذلک من الشاہدین' (یقیناً، اور میں ان لوگوں میں سے ہوں جو گواہی دیتے ہیں) کہہ کر جواب دیتے ہیں اس آیت کی تلاوت کے بعد۔",
+          "whyItMatters_urdu": "یہ جوابی تصدیق قرآن کو انٹرایکٹو عبادت بناتی ہے، غیر فعال پڑھنے کو اللہ کی صفات کی فعال گواہی میں تبدیل کرتی ہے۔",
+          "title_ar": "استجابة المؤمن",
+          "coreInsight_ar": "يستجيب المسلمون تقليديًا 'بلى، وأنا على ذلك من الشاهدين' (بالفعل، وأنا من الذين يشهدون) بعد تلاوة هذه الآية.",
+          "whyItMatters_ar": "يجعل هذا التأكيد الاستجابي القرآن عبادة تفاعلية، محولًا القراءة السلبية إلى شهادة نشطة لصفات الله."
+        }
+      ]
+    },
+    "layer4": "The interpretation of this verse as affirming Allah's perfect justice enjoys complete consensus across all Islamic traditions. Sunni exegetes like Ibn Kathir, Al-Tabari, and Al-Qurtubi all explain that this rhetorical question requires the answer 'Yes, indeed' and affirms that Allah is supreme in wisdom and justice. Both Shia and Sunni traditions recognize this as a fundamental attribute of Allah - He is perfectly just, neither oppressing anyone nor allowing any good deed to go unrewarded. Al-Razi discusses the theological implications: Allah's justice is inseparable from His other attributes of knowledge, wisdom, and power. The shared understanding is that this verse provides assurance of divine accountability and justice, which is foundational to Islamic theology. Where traditions differ is primarily in practice - Shia tradition includes the specific responsive affirmation when this verse is recited, while Sunni practice may not include this particular custom, though the affirmation of the content is universal. Both traditions use this verse to conclude discussions of divine justice, resurrection, and accountability. The message is universal and timeless: Allah is the ultimate judge, and His judgment is perfectly just.",
+    "layer4_urdu": "اس آیت کی تشریح اللہ کے کامل انصاف کی تصدیق کے طور پر تمام اسلامی روایات میں مکمل اجماع سے لطف اندوز ہوتی ہے۔ سنی مفسرین جیسے ابن کثیر، الطبری، اور القرطبی سب وضاحت کرتے ہیں کہ یہ بیانیہ سوال جواب 'ہاں، بالکل' کا تقاضا کرتا ہے اور تصدیق کرتا ہے کہ اللہ حکمت اور انصاف میں سب سے بالا ہے۔ شیعہ اور سنی دونوں روایات اسے اللہ کی بنیادی صفت کے طور پر تسلیم کرتی ہیں - وہ کامل طور پر منصف ہے، نہ کسی پر ظلم کرتا ہے نہ کسی نیک عمل کو بے انعام چھوڑتا ہے۔ الرازی نے الہیاتی مضمرات پر بحث کی ہے: اللہ کا انصاف اس کی دیگر صفات علم، حکمت، اور قوت سے جدا نہیں۔ مشترکہ فہم یہ ہے کہ یہ آیت الہی جوابدہی اور انصاف کی یقین دہانی فراہم کرتی ہے، جو اسلامی الہیات کی بنیاد ہے۔ جہاں روایات مختلف ہیں وہ بنیادی طور پر عمل میں ہے - شیعہ روایت میں مخصوص جوابی تصدیق شامل ہے جب یہ آیت پڑھی جاتی ہے، جبکہ سنی عمل میں یہ مخصوص رواج شامل نہیں ہو سکتا، حالانکہ مواد کی تصدیق عالمگیر ہے۔ دونوں روایات اس آیت کو الہی انصاف، قیامت، اور جوابدہی کی بحثوں کے اختتام کے لیے استعمال کرتی ہیں۔ پیغام عالمگیر اور لازوال ہے: اللہ حتمی فیصلہ کنندہ ہے، اور اس کا فیصلہ کامل طور پر منصفانہ ہے۔",
+    "layer4_ar": "يتمتع تفسير هذه الآية على أنها تُقرُّ بكمال عدل الله بإجماع تام عبر جميع التراثات الإسلامية. ويُبيِّن علماء السنة كابن كثير والطبري والقرطبي أن هذا السؤال البلاغي يستدعي جواباً بـ\"نعم\" وأنه يُثبت أن الله منتهى الحكمة والعدل. ويُقرُّ التراثان الشيعي والسني بأن هذه صفةٌ جوهرية لله، فهو عدلٌ لا يظلم أحداً ولا يُضيِّع عملاً صالحاً. ويستعرض الرازي الأبعاد الكلامية لهذه الصفة، مُبيِّناً أن عدل الله لا ينفصل عن سائر صفاته من العلم والحكمة والقدرة. والفهم المشترك أن هذه الآية تُبعث الطمأنينة بالمساءلة والعدل الإلهي، وهو ركنٌ في عقيدة الإسلام. ومحل الاختلاف ينصبُّ على الممارسة في الغالب؛ إذ يتضمن التراث الشيعي استجابةً تأكيدية محددة عند تلاوة هذه الآية، بينما لا يشتمل التراث السني بالضرورة على هذه العادة بعينها وإن كانت الموافقة على مضمونها موصولة غير مقطوعة. ويُوظِّف كلا التراثين هذه الآية خاتمةً لبحوث العدل الإلهي والبعث والمساءلة. والرسالة إنسانية وعصرية في آنٍ: الله القاضي الأعلى وحكمه بالغ العدل لا تشوبه شائبة."
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:1:sun-oath",
+          "title": "Divine Oath",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah swears by the sun and its brightness (duha), using cosmic phenomena to emphasize the gravity of what follows - the message about human accountability.",
+          "whyItMatters": "When Allah takes an oath by His creation, it signals the immense importance of the message, demanding our full attention to the truths being revealed.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+          "title_urdu": "قسم آفتاب",
+          "coreInsight_urdu": "اللہ سورج اور اس کی روشنی (ضحیٰ) کی قسم کھاتا ہے، کائناتی مظاہر کا استعمال کرتے ہوئے جو آگے آنے والے پیغام کی اہمیت پر زور دیتا ہے - انسانی جوابدہی کا پیغام۔",
+          "whyItMatters_urdu": "جب اللہ اپنی مخلوق کی قسم کھاتا ہے، تو یہ پیغام کی بے پناہ اہمیت کا اشارہ ہے، جو ظاہر کی جانے والی سچائیوں پر ہماری مکمل توجہ کا تقاضا کرتا ہے۔",
+          "title_ar": "القسم بالشمس",
+          "coreInsight_ar": "يقسم الله بالشمس وضحاها، مستخدماً الظواهر الكونية للتأكيد على خطورة ما يلي - رسالة المساءلة البشرية.",
+          "whyItMatters_ar": "عندما يقسم الله بخلقه، فإن ذلك يشير إلى الأهمية الهائلة للرسالة، مما يتطلب اهتمامنا الكامل بالحقائق التي يتم الكشف عنها."
+        },
+        {
+          "id": "91:1:solar-brightness",
+          "title": "Solar Light",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The sun's brightness (duha) represents clarity, illumination, and guidance - just as the sun lights the physical world, divine guidance illuminates the spiritual realm.",
+          "whyItMatters": "Understanding this symbolism helps us appreciate that Allah's signs in nature point to deeper spiritual truths about enlightenment and clarity in faith.",
+          "position": "topRight",
+          "arabicHighlight": "ضُحَىٰهَا",
+          "title_urdu": "سورج کی روشنی",
+          "coreInsight_urdu": "سورج کی روشنی (ضحیٰ) وضاحت، روشنی اور رہنمائی کی نمائندگی کرتی ہے - جیسے سورج طبیعی دنیا کو روشن کرتا ہے، الہی رہنمائی روحانی دائرے کو منور کرتی ہے۔",
+          "whyItMatters_urdu": "اس علامت کو سمجھنا ہمیں یہ سمجھنے میں مدد کرتا ہے کہ قدرت میں اللہ کی نشانیاں ایمان میں روشن خیالی اور وضاحت کے بارے میں گہری روحانی سچائیوں کی طرف اشارہ کرتی ہیں۔",
+          "title_ar": "ضوء الشمس",
+          "coreInsight_ar": "يمثل ضوء الشمس (الضحى) الوضوح والإضاءة والهداية - فكما تضيء الشمس العالم المادي، فإن الهداية الإلهية تنير العالم الروحي.",
+          "whyItMatters_ar": "فهم هذه الرمزية يساعدنا على تقدير أن آيات الله في الطبيعة تشير إلى حقائق روحية أعمق حول التنوير والوضوح في الإيمان."
+        },
+        {
+          "id": "91:1:cosmic-witness",
+          "title": "Cosmic Witness",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The heavenly bodies serve as eternal witnesses to Allah's power and the truth of His message, functioning continuously since creation without deviation.",
+          "whyItMatters": "The constancy of cosmic order reflects Allah's reliability and the certainty of His promises, reinforcing our trust in His guidance and judgment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلشَّمْسِ",
+          "title_urdu": "کائناتی گواہ",
+          "coreInsight_urdu": "آسمانی اجسام اللہ کی قدرت اور اس کے پیغام کی سچائی کے ابدی گواہ کے طور پر کام کرتے ہیں، تخلیق سے لے کر مسلسل بغیر کسی انحراف کے کام کرتے ہیں۔",
+          "whyItMatters_urdu": "کائناتی نظام کا استقلال اللہ کی قابل اعتماد اور اس کے وعدوں کی یقینی کی عکاسی کرتا ہے، جو اس کی رہنمائی اور فیصلے میں ہمارے اعتماد کو تقویت دیتا ہے۔",
+          "title_ar": "الشاهد الكوني",
+          "coreInsight_ar": "تعمل الأجرام السماوية كشهود أبديين على قوة الله وحقيقة رسالته، وتعمل باستمرار منذ الخلق دون انحراف.",
+          "whyItMatters_ar": "ثبات النظام الكوني يعكس موثوقية الله ويقين وعوده، مما يعزز ثقتنا في هدايته وحكمه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that the oaths in this surah serve to emphasize the momentous declaration that follows regarding human spiritual success or failure. Sunni commentator Ibn Kathir notes that Allah swears by His creation as a testimony to His power, while Tabrisi in the Shia tradition emphasizes that these oaths represent the largest collection at a surah's beginning, indicating exceptional importance. Classical Sunni scholar Al-Razi in his Mafatih al-Ghayb discusses the sun as a sign of divine providence, similar to Shia interpretations. A point of convergence is understanding the sun as a symbol of guidance and enlightenment. Where perspectives may differ is in the Shia emphasis on the sun as symbolizing the light of the Ahlul Bayt's guidance alongside prophetic revelation. Sunni tafsir tends to focus more exclusively on the natural phenomenon itself as a sign. Both traditions, however, unite in seeing these verses as calling humanity to reflection on creation as evidence of the Creator's wisdom and power.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مکاتبِ فکر کے مفسرین اس بات پر متفق ہیں کہ سورج کی قسم الٰہی تخلیقی قدرت کے عظیم مظاہر میں سے ایک ہے۔ ابن کثیر نے اپنی تفسیر میں سورج کو اللہ کی بڑی نشانیوں میں شمار کیا ہے جو انسانوں کو غور و فکر کی دعوت دیتی ہے۔ قرطبی نے سورج کی روشنی کو زندگی کے تسلسل اور الٰہی نظم کی دلیل قرار دیا ہے۔ طبرسی رحمۃ اللہ علیہ نے بھی سورہ الشمس کی ابتدائی قسموں کی کثرت کو اس سورت کے پیغام کی اہمیت اور گہرائی کا قرینہ بتایا ہے۔ ایک نمایاں فرق یہ ہے کہ شیعہ تفسیر سورج کو نبوت اور امامت کی روحانی علامت کے طور پر بھی دیکھتی ہے، جبکہ سنی تفسیر عموماً قدرتی مظہر اور اس سے استدلال پر زیادہ توجہ دیتی ہے۔ تاہم دونوں روایات اس بات پر متفق ہیں کہ سورج کا مشاہدہ انسان کو خالق کی معرفت اور شکرگزاری کی طرف لے جانا چاہیے اور اللہ کی قسموں کا مقصد انسانی توجہ کو فطرت کے ان عجائبات کی طرف مبذول کرانا ہے جو اس کی وحدانیت پر گواہ ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن أقسام هذه السورة موجَّهة لتعظيم ما يُقسَم عليه من الحقيقة الكبرى المتعلقة بالفلاح والخيبة في المسيرة الروحية للإنسان. ويُلاحظ المفسر السني ابن كثير أن الله يُقسم بمخلوقاته شهادةً على قدرته، في حين يُبرز الطبرسي في التفسير الشيعي أن هذه الأقسام تُمثّل أكبر تجمّع لها في مطلع سورة، مما يدل على عناية بالغة بما يُقسَم عليه. ويتناول الإمام الرازي في مفاتيح الغيب الشمسَ بوصفها آية من آيات العناية الإلهية على نحو يلتقي مع التفسيرات الشيعية. ونقطة الالتقاء بين التراثين هي فهم الشمس رمزاً للهدى والإضاءة. أما موضع الاختلاف فيتجلى في التأكيد الشيعي على دلالة الشمس بوصفها رمزاً لنور هداية أهل البيت عليهم السلام إلى جانب الوحي النبوي، بينما يميل التفسير السني في الغالب إلى الوقوف عند الظاهرة الطبيعية ذاتها بوصفها آية. غير أن التراثين يلتقيان في أن هذه الآيات تدعو الإنسان إلى التدبر في الخلق شاهداً على حكمة الخالق وقدرته."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:2:moon-following",
+          "title": "Lunar Sequence",
+          "icon": "moon.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The moon following (tala) the sun represents the perfect cosmic order and harmony in Allah's creation, where each celestial body has its appointed course.",
+          "whyItMatters": "This divine orchestration teaches us about obedience and following the right path, just as the moon faithfully follows its ordained trajectory.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+          "title_urdu": "چاند کی پیروی",
+          "coreInsight_urdu": "چاند کا سورج کی پیروی کرنا (تلا) اللہ کی تخلیق میں کامل کائناتی نظام اور ہم آہنگی کی نمائندگی کرتا ہے، جہاں ہر آسمانی جسم کا اپنا مقررہ راستہ ہے۔",
+          "whyItMatters_urdu": "یہ الہی انتظام ہمیں اطاعت اور صحیح راستے کی پیروی کے بارے میں سکھاتا ہے، جیسے چاند وفاداری سے اپنے مقررہ راستے کی پیروی کرتا ہے۔",
+          "title_ar": "التسلسل القمري",
+          "coreInsight_ar": "يمثل اتباع القمر للشمس (تلاها) النظام الكوني المثالي والانسجام في خلق الله، حيث لكل جسم سماوي مساره المعين.",
+          "whyItMatters_ar": "يعلمنا هذا التنسيق الإلهي عن الطاعة واتباع الطريق الصحيح، تمامًا كما يتبع القمر بأمانة مساره المقرر."
+        },
+        {
+          "id": "91:2:day-night-cycle",
+          "title": "Natural Rhythm",
+          "icon": "arrow.2.circlepath",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The alternation implied by the sun-moon sequence symbolizes the rhythms of life - success and trial, joy and sorrow, all part of Allah's wise design.",
+          "whyItMatters": "Recognizing these cycles helps us maintain balance in both prosperity and hardship, knowing that all states are temporary and divinely ordained.",
+          "position": "topRight",
+          "arabicHighlight": "إِذَا تَلَىٰهَا",
+          "title_urdu": "قدرتی تال",
+          "coreInsight_urdu": "سورج اور چاند کی ترتیب سے مضمر تبدیلی زندگی کی تالوں کی علامت ہے - کامیابی اور آزمائش، خوشی اور غم، سب اللہ کے حکیمانہ ڈیزائن کا حصہ ہیں۔",
+          "whyItMatters_urdu": "ان چکروں کو پہچاننا ہمیں خوشحالی اور مشکلات دونوں میں توازن برقرار رکھنے میں مدد کرتا ہے، یہ جانتے ہوئے کہ تمام حالات عارضی اور الہی طور پر مقرر ہیں۔",
+          "title_ar": "الإيقاع الطبيعي",
+          "coreInsight_ar": "يرمز التناوب الضمني في تسلسل الشمس والقمر إلى إيقاعات الحياة - النجاح والمحنة، الفرح والحزن، كلها جزء من تصميم الله الحكيم.",
+          "whyItMatters_ar": "إدراك هذه الدورات يساعدنا على الحفاظ على التوازن في الرخاء والشدة، عالمين أن جميع الحالات مؤقتة ومقدرة إلهياً."
+        },
+        {
+          "id": "91:2:reflected-light",
+          "title": "Reflected Glory",
+          "icon": "light.beacon.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The moon has no light of its own but reflects the sun's light, symbolizing how believers should reflect Allah's guidance rather than claiming independent virtue.",
+          "whyItMatters": "This teaches humility - all goodness in us comes from Allah's light, and we are merely vessels reflecting His attributes and mercy.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْقَمَرِ",
+          "title_urdu": "منعکس جلال",
+          "coreInsight_urdu": "چاند کی اپنی کوئی روشنی نہیں ہے بلکہ سورج کی روشنی کو منعکس کرتا ہے، یہ علامت ہے کہ کس طرح مومنین کو آزاد فضیلت کا دعویٰ کرنے کے بجائے اللہ کی رہنمائی کو منعکس کرنا چاہیے۔",
+          "whyItMatters_urdu": "یہ عاجزی سکھاتا ہے - ہم میں تمام نیکی اللہ کی روشنی سے آتی ہے، اور ہم صرف برتن ہیں جو اس کی صفات اور رحمت کو منعکس کرتے ہیں۔",
+          "title_ar": "المجد المنعكس",
+          "coreInsight_ar": "ليس للقمر ضوء خاص به ولكنه يعكس ضوء الشمس، مما يرمز إلى كيفية عكس المؤمنين لهداية الله بدلاً من الادعاء بالفضيلة المستقلة.",
+          "whyItMatters_ar": "هذا يعلم التواضع - كل الخير فينا يأتي من نور الله، ونحن مجرد أوعية تعكس صفاته ورحمته."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators concur that the moon's following the sun demonstrates divine wisdom in celestial organization. Ibn Kathir in his tafsir emphasizes the moon's beauty and its service to humanity in marking time and illuminating the night. Qurtubi notes the moon's phases as signs for those who reflect. Shia exegete Tabrisi similarly emphasizes the moon's role in the cosmic order established by divine wisdom. Both traditions recognize the moon's importance in Islamic religious practice, particularly for determining the lunar calendar used for worship. A distinctive Shia interpretation, found in various narrations, sees deeper symbolic meaning in the sun-moon relationship as representing the Prophet and his spiritual successors. Sunni tafsir generally maintains focus on the literal astronomical phenomenon as a sign of Allah's creative power. Both perspectives agree that these oaths serve to draw human attention to the magnificence of creation as testimony to the Creator's existence, wisdom, and power. The interpretations complement rather than contradict each other.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ چاند کا سورج کے پیچھے آنا کائناتی تنظیم میں الٰہی حکمت کو ظاہر کرتا ہے۔ ابن کثیر نے اپنی تفسیر میں چاند کی خوبصورتی اور وقت کی نشاندہی و رات کی روشنی میں اس کی انسانی خدمت پر زور دیا ہے۔ قرطبی نے چاند کے مراحل کو ان لوگوں کے لیے نشانیاں قرار دیا جو غور و فکر کرتے ہیں۔ شیعہ مفسر طبرسی نے بھی کائناتی نظم میں الٰہی حکمت کے ذریعے چاند کے کردار پر زور دیا ہے۔ ایک امتیازی شیعہ تفسیر جو مختلف روایات میں ملتی ہے وہ سورج اور چاند کے تعلق میں نبی صلی اللہ علیہ وآلہ وسلم اور ان کے روحانی جانشینوں کی گہری علامت دیکھتی ہے۔ سنی تفسیر عموماً قدرتی فلکیاتی ظاہرے پر اللہ کی تخلیقی قدرت کی نشانی کے طور پر توجہ مرکوز رکھتی ہے۔ دونوں نقطہ نظر ایک دوسرے کے متضاد نہیں بلکہ ایک دوسرے کے مکمل ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ قسمیں انسانی توجہ کو تخلیق کی عظمت کی طرف اس کے خالق کے وجود، حکمت اور قدرت کی گواہی کے طور پر مبذول کراتی ہیں۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على أن اتباع القمر للشمس يُجلّي الحكمة الإلهية في تنظيم الأجرام السماوية. ويُبرز ابن كثير في تفسيره جمال القمر وخدمته للإنسانية في ضبط التوقيت وإنارة الليل، فيما يُلاحظ القرطبي أن أطوار القمر آيات لأولي الألباب. ويُؤكد المفسر الشيعي الطبرسي بالمثل على دور القمر في النظام الكوني الذي أقامه الله بحكمته. ويُقرّ التراثان بأهمية القمر في الممارسة الدينية الإسلامية ولا سيما في ضبط التقويم القمري المعتمد في العبادة. والتفسير الشيعي المتميز المستند إلى جملة من الروايات يرى في علاقة الشمس والقمر دلالة رمزية تُعبّر عن النبي وخلفائه الروحيين، بينما يُمسك التفسير السني في الغالب بالظاهرة الفلكية الحسية دليلاً على قدرة الله الخالقة. غير أن كلا التراثين يتلاقيان في أن هذه الأقسام مدعاة لاستيعاب عظمة الخلق شاهداً على وجود الخالق وحكمته وقدرته المطلقة، وأن التفسيرين يُكمل أحدهما الآخر دون أن يتعارضا."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:3:day-revelation",
+          "title": "Day's Display",
+          "icon": "sun.horizon.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The day revealing (jalla) the sun symbolizes how truth and guidance become manifest and clear, dispelling darkness and ignorance.",
+          "whyItMatters": "Just as daylight makes everything visible, Allah's revelation makes the path of truth clear for those who seek it with sincerity.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+          "title_urdu": "دن کا اظہار",
+          "coreInsight_urdu": "دن کا سورج کو ظاہر کرنا (جلّٰی) اس بات کی علامت ہے کہ کس طرح حق اور رہنمائی واضح ہو جاتی ہے، اندھیرے اور جہالت کو دور کرتی ہے۔",
+          "whyItMatters_urdu": "جیسے دن کی روشنی ہر چیز کو نمایاں کرتی ہے، اللہ کی وحی ان لوگوں کے لیے حق کا راستہ واضح کرتی ہے جو خلوص سے اسے تلاش کرتے ہیں۔",
+          "title_ar": "إظهار النهار",
+          "coreInsight_ar": "يرمز النهار الذي يكشف (جلاها) الشمس إلى كيفية ظهور الحق والهداية بوضوح، مبددة الظلام والجهل.",
+          "whyItMatters_ar": "مثلما يجعل ضوء النهار كل شيء مرئيًا، فإن وحي الله يجعل طريق الحق واضحًا لمن يبحث عنه بإخلاص."
+        },
+        {
+          "id": "91:3:illumination",
+          "title": "Divine Clarity",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Jalla (to reveal/make clear) emphasizes the active unveiling of truth - Allah doesn't hide guidance but makes it brilliantly clear through His signs.",
+          "whyItMatters": "This assures us that confusion about faith doesn't come from Allah's ambiguity but from our own inattention or resistance to clear signs.",
+          "position": "topRight",
+          "arabicHighlight": "جَلَّىٰهَا",
+          "title_urdu": "الہی وضاحت",
+          "coreInsight_urdu": "جلّٰی (ظاہر کرنا/واضح کرنا) سچائی کے فعال انکشاف پر زور دیتا ہے - اللہ رہنمائی کو نہیں چھپاتا بلکہ اسے اپنی نشانیوں کے ذریعے شاندار طور پر واضح کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں یقین دلاتا ہے کہ ایمان کے بارے میں الجھن اللہ کی ابہام سے نہیں آتی بلکہ ہماری اپنی عدم توجہی یا واضح نشانیوں کے خلاف مزاحمت سے آتی ہے۔",
+          "title_ar": "الوضوح الإلهي",
+          "coreInsight_ar": "يؤكد جلاها (الكشف/التوضيح) على الكشف النشط للحقيقة - الله لا يخفي الهداية بل يجعلها واضحة بشكل رائع من خلال آياته.",
+          "whyItMatters_ar": "هذا يؤكد لنا أن الارتباك حول الإيمان لا يأتي من غموض الله بل من عدم انتباهنا أو مقاومتنا للعلامات الواضحة."
+        },
+        {
+          "id": "91:3:transparency-truth",
+          "title": "Truth Unveiled",
+          "icon": "light.panel.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The day's function of displaying emphasizes that truth by nature seeks visibility and cannot remain hidden, just as light naturally dispels darkness.",
+          "whyItMatters": "This gives hope that falsehood, no matter how pervasive, will eventually be exposed, as truth has an inherent power to manifest itself.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِذَا جَلَّىٰهَا",
+          "title_urdu": "سچائی کا انکشاف",
+          "coreInsight_urdu": "دن کا ظاہر کرنے کا کام اس بات پر زور دیتا ہے کہ سچائی فطرت کے لحاظ سے نمائش چاہتی ہے اور چھپی نہیں رہ سکتی، جیسے روشنی فطری طور پر اندھیرے کو دور کرتی ہے۔",
+          "whyItMatters_urdu": "یہ امید دیتا ہے کہ باطل، چاہے کتنا ہی پھیلا ہوا ہو، بالآخر بے نقاب ہو جائے گا، کیونکہ سچائی میں اپنے آپ کو ظاہر کرنے کی فطری طاقت ہے۔",
+          "title_ar": "الحقيقة المكشوفة",
+          "coreInsight_ar": "تؤكد وظيفة النهار في العرض أن الحقيقة بطبيعتها تسعى إلى الظهور ولا يمكن أن تظل مخفية، تمامًا كما يبدد الضوء الظلام بشكل طبيعي.",
+          "whyItMatters_ar": "هذا يعطي الأمل في أن الباطل، مهما كان منتشرًا، سيتم فضحه في النهاية، حيث أن للحقيقة قوة متأصلة لإظهار نفسها."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes appreciate this verse as part of the building sequence of oaths emphasizing cosmic order. Sunni commentator Al-Razi discusses how the day reveals the sun's benefits to humanity, enabling vision, work, and appreciation of the world's beauty. Ibn Kathir notes the day as a mercy from Allah, providing light for human needs. Tabrisi similarly emphasizes divine wisdom in creating day and night for human benefit. Both traditions connect this verse to others describing day and night as signs for people who reflect. A shared interpretation sees the day as symbolizing guidance and clarity in contrast to the confusion of misguidance. Shia tradition particularly emphasizes the day revealing the sun as symbolic of how the Ahlul Bayt manifest and preserve prophetic teaching, while Sunni tafsir focuses more on the natural phenomenon itself. Despite different symbolic emphases, both traditions agree that this verse directs attention to Allah's wisdom in organizing creation for human welfare and spiritual development. The interpretations enrich rather than oppose each other.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کو کائناتی نظم پر زور دینے والی قسموں کے تسلسل کے حصے کے طور پر سراہتے ہیں۔ سنی مفسر فخرالدین رازی نے بحث کی ہے کہ کس طرح دن سورج کے فوائد کو انسانیت کے سامنے ظاہر کرتا ہے، جس سے بصارت، کام اور دنیا کی خوبصورتی کی قدردانی ممکن ہوتی ہے۔ ابن کثیر دن کو اللہ کی رحمت قرار دیتے ہوئے انسانی ضروریات کے لیے روشنی فراہم کرتا ہے۔ طبرسی رحمۃ اللہ علیہ نے بھی انسانی بھلائی کے لیے دن اور رات پیدا کرنے میں الٰہی حکمت پر زور دیا ہے۔ ایک مشترکہ تفسیر دن کو گمراہی کی الجھن کے برعکس رہنمائی اور وضاحت کی علامت قرار دیتی ہے۔ شیعہ روایت خاص طور پر دن کے سورج کو ظاہر کرنے کو اس بات کی علامت کے طور پر زور دیتی ہے کہ اہلِ بیت علیہم السلام نبوی تعلیمات کو کیسے ظاہر اور محفوظ کرتے ہیں، جبکہ سنی تفسیر قدرتی مظہر پر زیادہ توجہ دیتی ہے۔ ان مختلف تاکیدات کے باوجود دونوں روایات اس بات پر متفق ہیں کہ یہ آیت مومنین کو شکرگزاری، تخلیق کے مقصد پر غور و فکر اور اس اعتراف کی طرف متوجہ کرتی ہے کہ زمین کی قابلِ رہائش ہونا الٰہی ڈیزائن کا ثبوت ہے۔",
+    "layer4_ar": "يُقدّر كل من المفسرين الشيعة والسنة هذه الآية بوصفها حلقة في سلسلة الأقسام المتصاعدة التي تُعظّم النظام الكوني. ويتحدث المفسر السني الرازي عن تجلية النهار لنعم الشمس للإنسان فتُمكّنه من الإبصار والعمل والاستمتاع ببهاء الكون، فيما يُلاحظ ابن كثير أن النهار رحمة من الله وفّر بها للإنسان النور الذي يحتاج. ويُؤكد الطبرسي بالمثل على الحكمة الإلهية في خلق النهار والليل لمصلحة الإنسان. ويربط التراثان هذه الآية بنظائرها الواصفة للنهار والليل آيتين لمن يتأملون. وثمة تفسير مشترك يرى في النهار رمزاً للهداية والوضوح في مقابل تشوّش الضلالة. وتُبرز الرواية الشيعية تجليةَ النهار للشمس رمزاً لكيفية إظهار أهل البيت عليهم السلام للتعاليم النبوية والمحافظة عليها، بينما يتوجّه التفسير السني في الغالب إلى الظاهرة الطبيعية ذاتها. وبرغم هذا التباين في التأكيد، يتفق التراثان على أن هذه الآية تُوجّه الأنظار نحو حكمة الله في تنظيم الخلق لمصلحة الإنسان ونمائه الروحي، وأن التفسيرين يُثريان بعضهما بعضاً."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:4:night-covering",
+          "title": "Night's Veil",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The night covering (yaghsha) the sun represents how ignorance and heedlessness can temporarily obscure truth, though truth remains unchanged beneath.",
+          "whyItMatters": "This reminds us that periods of spiritual darkness are temporary tests - the sun of truth still exists even when veiled by night.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+          "title_urdu": "رات کا پردہ",
+          "coreInsight_urdu": "رات کا سورج کو ڈھانپنا (یغشیٰ) اس بات کی نمائندگی کرتا ہے کہ کس طرح جہالت اور غفلت عارضی طور پر حق کو چھپا سکتی ہے، حالانکہ حق نیچے کی طرف غیر تبدیل شدہ رہتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ روحانی تاریکی کے ادوار عارضی آزمائشیں ہیں - سچائی کا سورج رات کے پردے میں بھی موجود ہے۔",
+          "title_ar": "حجاب الليل",
+          "coreInsight_ar": "يمثل الليل الذي يغشى الشمس كيف يمكن للجهل والغفلة أن يحجبا الحقيقة مؤقتًا، رغم أن الحقيقة تظل دون تغيير تحتها.",
+          "whyItMatters_ar": "هذا يذكرنا بأن فترات الظلام الروحي هي اختبارات مؤقتة - شمس الحقيقة لا تزال موجودة حتى عندما يحجبها الليل."
+        },
+        {
+          "id": "91:4:divine-balance",
+          "title": "Sacred Balance",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The alternation of day and night demonstrates Allah's perfect balance in creation - rest and activity, visibility and concealment, each serving divine purpose.",
+          "whyItMatters": "Understanding this balance teaches us to accept both ease and difficulty as complementary aspects of our spiritual journey, not contradictions.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱلَّيْلِ",
+          "title_urdu": "مقدس توازن",
+          "coreInsight_urdu": "دن اور رات کی تبدیلی تخلیق میں اللہ کے کامل توازن کو ظاہر کرتی ہے - آرام اور سرگرمی، نمائش اور پوشیدگی، ہر ایک الہی مقصد کی خدمت کرتا ہے۔",
+          "whyItMatters_urdu": "اس توازن کو سمجھنا ہمیں آسانی اور مشکلات دونوں کو اپنے روحانی سفر کے باہمی پہلوؤں کے طور پر قبول کرنا سکھاتا ہے، تضادات نہیں۔",
+          "title_ar": "التوازن المقدس",
+          "coreInsight_ar": "يظهر تعاقب الليل والنهار التوازن المثالي لله في الخلق - الراحة والنشاط، الرؤية والإخفاء، كل منهما يخدم غرضًا إلهيًا.",
+          "whyItMatters_ar": "فهم هذا التوازن يعلمنا قبول كل من السهولة والصعوبة كجوانب تكميلية لرحلتنا الروحية، وليس تناقضات."
+        },
+        {
+          "id": "91:4:test-darkness",
+          "title": "Trial of Darkness",
+          "icon": "shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Night's covering function symbolizes the trials that obscure our spiritual vision, testing whether we maintain faith when truth isn't immediately visible.",
+          "whyItMatters": "True faith is proven not in moments of clarity but in perseverance through periods of obscurity and doubt, trusting that dawn will return.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَغْشَىٰهَا",
+          "title_urdu": "تاریکی کی آزمائش",
+          "coreInsight_urdu": "رات کا ڈھانپنے کا کام ان آزمائشوں کی علامت ہے جو ہماری روحانی بصیرت کو چھپاتی ہیں، یہ آزمائش کرتی ہیں کہ آیا ہم ایمان کو برقرار رکھتے ہیں جب حق فوری طور پر نظر نہیں آتا۔",
+          "whyItMatters_urdu": "حقیقی ایمان وضاحت کے لمحات میں نہیں بلکہ ابہام اور شک کے ادوار میں استقامت سے ثابت ہوتا ہے، اعتماد کرتے ہوئے کہ صبح واپس آئے گی۔",
+          "title_ar": "محنة الظلام",
+          "coreInsight_ar": "ترمز وظيفة الليل التغطية إلى المحن التي تحجب رؤيتنا الروحية، واختبار ما إذا كنا نحافظ على الإيمان عندما لا تكون الحقيقة مرئية على الفور.",
+          "whyItMatters_ar": "يثبت الإيمان الحقيقي ليس في لحظات الوضوح بل في المثابرة خلال فترات الغموض والشك، واثقين أن الفجر سيعود."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators share appreciation for night as a divine creation with specific purposes. Ibn Kathir emphasizes night as time for rest and recovery, a mercy from Allah for exhausted creation. Al-Razi discusses the night's covering as demonstrating divine power over cosmic forces. Tabrisi similarly notes the night's essential role in the created order and its particular suitability for worship. Both traditions treasure narrations encouraging night prayer, seeing these hours as specially blessed for supplication and Quranic recitation. The major tafsir works of both traditions emphasize the balance and complementarity of day and night as signs for those who reflect. Shia interpretation particularly connects night's covering to the concept of divine mysteries temporarily hidden but ultimately to be revealed, while Sunni exegesis focuses more on the natural phenomenon and its benefits. Both perspectives recognize that Allah's wisdom encompasses apparent opposites, using both light and darkness for human spiritual and physical wellbeing. These interpretations converge on appreciating divine mercy manifest in creation's rhythms.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین الٰہی تخلیق کے طور پر مخصوص مقاصد کے ساتھ رات کی تعریف کرتے ہیں۔ ابن کثیر نے رات کو آرام اور صحت یابی کا وقت، تھکی ہوئی مخلوق کے لیے اللہ کی رحمت قرار دیا ہے۔ فخرالدین رازی نے رات کے ڈھانپنے کو کائناتی قوتوں پر الٰہی قدرت کے مظاہرے کے طور پر زیر بحث لایا ہے۔ طبرسی رحمۃ اللہ علیہ نے اسی طرح مخلوق نظام میں رات کے ضروری کردار اور عبادت کے لیے اس کی خاص موزونیت پر زور دیا ہے۔ دونوں روایات نماز شب کی ترغیب دینے والی احادیث کو قدر کی نظر سے دیکھتی ہیں۔ دونوں روایات کی بڑی تفسیری کتب غور و فکر کرنے والوں کے لیے نشانیوں کے طور پر دن اور رات کے توازن اور تکمیلیت پر زور دیتی ہیں۔ شیعہ تفسیر خاص طور پر رات کے ڈھانپنے کو الٰہی اسرار کے عارضی پردے کی علامت کے طور پر جوڑتی ہے جو بالآخر ظاہر ہوں گے، جبکہ سنی تفسیر زیادہ قدرتی مظہر اور اس کے فوائد پر توجہ دیتی ہے۔ دونوں نقطہ نظر اس بات پر متفق ہیں کہ اللہ کی حکمت ضدین کو محیط ہے اور روحانی و جسمانی بھلائی کے لیے روشنی اور تاریکی دونوں کو استعمال کرتی ہے۔",
+    "layer4_ar": "يتشارك المفسرون السنة والشيعة في تقدير الليل خلقاً إلهياً له وظائف محددة وغايات حكيمة. ويُبرز ابن كثير الليلَ وقتَ راحة واستعادة، رحمةً من الله بالخلق المُنهَك. ويتناول الرازي غشيان الليل باعتباره دليلاً على القدرة الإلهية المتحكّمة في القوى الكونية. ويُؤكد الطبرسي بالمثل على الدور الجوهري للليل في المنظومة الكونية وما يتسم به من خصوصية تجعله أوفق أوقات العبادة. ويزخر التراثان معاً بروايات تُحثّ على الصلاة الليلية، إذ يُعدّ هذا الوقت موسماً من مواسم الدعاء والتلاوة المباركة. وتُبرز المصنّفات التفسيرية الكبرى في الاتجاهين توازنَ النهار والليل وتكاملهما آيتين لمن يتأملون. ويربط التفسير الشيعي ستر الليل بمفهوم الأسرار الإلهية المحجوبة مؤقتاً والمُكشوفة في حينها، بينما يتوجّه التفسير السني في الغالب إلى الظاهرة الطبيعية ومنافعها. ويتلاقى التراثان في الإقرار بأن حكمة الله تُحيط بالمتضادات فتوظّف النور والظلام معاً لمصلحة الإنسان وسعادته الروحية والمادية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:5:sky-construction",
+          "title": "Cosmic Architecture",
+          "icon": "building.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah swears by the sky and its Builder (ma banaha), emphasizing the deliberate design and construction of the universe by divine intelligence.",
+          "whyItMatters": "The perfection of cosmic architecture points to the perfection of the Architect, inviting us to recognize divine wisdom in every aspect of creation.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+          "title_urdu": "کائناتی تعمیر",
+          "coreInsight_urdu": "اللہ آسمان اور اس کے بنانے والے (ما بناھا) کی قسم کھاتا ہے، الہی ذہانت کے ذریعے کائنات کے جان بوجھ کر ڈیزائن اور تعمیر پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "کائناتی تعمیر کی کمال معمار کی کمال کی طرف اشارہ کرتی ہے، ہمیں تخلیق کے ہر پہلو میں الہی حکمت کو پہچاننے کی دعوت دیتی ہے۔",
+          "title_ar": "العمارة الكونية",
+          "coreInsight_ar": "يقسم الله بالسماء وبانيها (ما بناها)، مؤكدًا على التصميم المتعمد والبناء للكون بواسطة الذكاء الإلهي.",
+          "whyItMatters_ar": "كمال العمارة الكونية يشير إلى كمال المهندس، داعيًا إيانا للتعرف على الحكمة الإلهية في كل جانب من جوانب الخلق."
+        },
+        {
+          "id": "91:5:divine-builder",
+          "title": "The Builder",
+          "icon": "hammer.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Ma banaha' (He who built it) shifts focus from creation to Creator, from the sign to the One signified, teaching us to see beyond the veil of creation.",
+          "whyItMatters": "Every beautiful aspect of nature should direct our hearts to its Creator, transforming observation of creation into worship of the Creator.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَا بَنَىٰهَا",
+          "title_urdu": "بنانے والا",
+          "coreInsight_urdu": "'ما بناھا' (جس نے اسے بنایا) تخلیق سے خالق کی طرف، نشانی سے اس کی طرف جس کا اشارہ ہے، توجہ منتقل کرتا ہے، ہمیں تخلیق کے پردے سے آگے دیکھنا سکھاتا ہے۔",
+          "whyItMatters_urdu": "قدرت کا ہر خوبصورت پہلو ہمارے دلوں کو اس کے خالق کی طرف ہدایت کرنا چاہیے، تخلیق کے مشاہدے کو خالق کی عبادت میں تبدیل کرنا چاہیے۔",
+          "title_ar": "البناء",
+          "coreInsight_ar": "تنقل 'ما بناها' (الذي بناها) التركيز من الخلق إلى الخالق، من العلامة إلى المشار إليه، تعلمنا أن نرى ما وراء حجاب الخلق.",
+          "whyItMatters_ar": "يجب أن يوجه كل جانب جميل من الطبيعة قلوبنا إلى خالقها، مما يحول ملاحظة الخلق إلى عبادة الخالق."
+        },
+        {
+          "id": "91:5:structural-perfection",
+          "title": "Perfect Design",
+          "icon": "star.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verb 'bana' (to build) implies purposeful construction with precision and planning, not random chance or evolutionary accident.",
+          "whyItMatters": "Recognizing intentional design in creation affirms that our own existence has purpose and meaning within Allah's grand plan.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بَنَىٰهَا",
+          "title_urdu": "کامل ڈیزائن",
+          "coreInsight_urdu": "فعل 'بنیٰ' (بنانا) درستگی اور منصوبہ بندی کے ساتھ مقصدی تعمیر کا مطلب ہے، بے ترتیب موقع یا ارتقائی حادثہ نہیں۔",
+          "whyItMatters_urdu": "تخلیق میں جان بوجھ کر ڈیزائن کو پہچاننا اس بات کی تصدیق کرتا ہے کہ ہمارے اپنے وجود کا اللہ کے عظیم منصوبے کے اندر مقصد اور معنی ہے۔",
+          "title_ar": "التصميم المثالي",
+          "coreInsight_ar": "يعني الفعل 'بنى' (البناء) البناء الهادف بدقة وتخطيط، وليس صدفة عشوائية أو حادث تطوري.",
+          "whyItMatters_ar": "إدراك التصميم المتعمد في الخلق يؤكد أن وجودنا له غرض ومعنى ضمن خطة الله الكبرى."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes recognize this verse as praising divine creative power through the heavens' magnificent construction. Ibn Kathir discusses various interpretations of who built the sky, concluding it refers to Allah, and describes the heavens' vastness and beauty as signs for believers. Al-Razi explores the sky's construction as evidence for Allah's existence and attributes. Tabrisi similarly emphasizes divine power manifest in celestial architecture. Both traditions connect this verse to numerous others describing the heavens' creation and function. Classical commentators from both schools discussed whether the sky is a solid dome or more subtle substance, generally concluding that its exact nature matters less than recognizing its Creator. Shia tradition particularly emphasizes the transition from created thing to Creator in the phrase 'and who built it,' while Sunni tafsir also notes this shift in focus. Both perspectives agree that contemplating the sky's magnificence should increase faith, gratitude, and humble recognition of human limitation before infinite divine power and wisdom.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کو آسمانوں کی عظیم تعمیر کے ذریعے الٰہی تخلیقی قدرت کی تعریف کے طور پر سراہتے ہیں۔ ابن کثیر آسمان کی تعمیر کی مختلف تفسیروں پر بحث کرتے ہوئے اس نتیجے پر پہنچتے ہیں کہ یہ اللہ کی طرف اشارہ کرتا ہے اور آسمانوں کی وسعت اور خوبصورتی کو مومنین کے لیے نشانیاں قرار دیتے ہیں۔ فخرالدین رازی آسمان کی تعمیر کو اللہ کے وجود اور صفات کی دلیل کے طور پر کھنگالتے ہیں۔ طبرسی رحمۃ اللہ علیہ نے بھی آسمانی تعمیر میں الٰہی قدرت کو اسی طرح اجاگر کیا ہے۔ دونوں روایات اس آیت کو متعدد دیگر آیات سے جوڑتی ہیں جو آسمانوں کی تخلیق اور کام کو بیان کرتی ہیں۔ کلاسیکی مفسرین دونوں مکاتبِ فکر سے آسمان کی حقیقی ماہیت پر بحث کرتے رہے اور عام طور پر یہ نتیجہ اخذ کیا کہ اس کی صحیح فطرت کی بجائے اس کے خالق کو پہچاننا زیادہ اہم ہے۔ شیعہ روایت خاص طور پر 'مَا بَنَاہَا' کے فقرے میں مخلوق سے خالق کی طرف منتقلی پر زور دیتی ہے جبکہ سنی تفسیر بھی اس تبدیلیِ توجہ کو نوٹ کرتی ہے۔ دونوں نقطہ نظر اس بات پر متفق ہیں کہ آسمان کی عظمت پر غور و فکر ایمان، شکرگزاری اور اللہ کی لامحدود قدرت و حکمت کے سامنے عاجزی کو بڑھانا چاہیے۔",
+    "layer4_ar": "يُقرّ كل من علماء الشيعة والسنة بأن هذه الآية تُمجّد القدرة الإلهية الخلاقة عبر الهندسة الشاهقة للسماوات. ويتناول ابن كثير تأويلات متعددة لبنائها مُنتهياً إلى أنه يُسند إلى الله، ويصف رحابة السماوات وجمالها آيتين للمؤمنين. ويستكشف الرازي بناء السماء دليلاً على وجود الله وصفاته الجلالية والجمالية. ويُؤكد الطبرسي بالمثل على القدرة الإلهية المتجلية في بنية السماوات الشامخة. ويربط التراثان هذه الآية بآيات أخرى كثيرة تصف خلق السماوات ووظيفتها. وقد ناقش المفسرون الكلاسيكيون من المذهبين طبيعة السماء أقبة صلبة أم جوهر أرق، ليُجمعوا على أن كُنهها الدقيق أقل أهمية من الاعتراف بخالقها. وتُبرز الرواية الشيعية الانتقال من المخلوق إلى الخالق في عبارة وما بناها، وهو ما يُلاحظه التفسير السني أيضاً. ويتفق التراثان على أن استيعاب عظمة السماء ينبغي أن يزيد الإيمان ويُنمّي الشكر والإقرار المتواضع بمحدودية الإنسان أمام القدرة الإلهية اللانهائية والحكمة البالغة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:6:earth-spreading",
+          "title": "Earth's Expanse",
+          "icon": "globe.central.south.asia.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah swears by the earth and He who spread it (tahaha), emphasizing the deliberate expansion and preparation of earth as a habitable realm for humanity.",
+          "whyItMatters": "The earth's suitability for life isn't accidental but reflects Allah's merciful provision, creating a home perfectly suited for our needs and trials.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+          "title_urdu": "زمین کا پھیلاؤ",
+          "coreInsight_urdu": "اللہ زمین اور جس نے اسے پھیلایا (طحاھا) کی قسم کھاتا ہے، انسانیت کے لیے رہنے کے قابل دائرے کے طور پر زمین کی جان بوجھ کر توسیع اور تیاری پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "زندگی کے لیے زمین کی مناسبت حادثاتی نہیں ہے بلکہ اللہ کی رحیم فراہمی کی عکاسی کرتی ہے، ایک گھر بناتے ہوئے جو ہماری ضروریات اور آزمائشوں کے لیے بالکل موزوں ہے۔",
+          "title_ar": "امتداد الأرض",
+          "coreInsight_ar": "يقسم الله بالأرض ومن طحاها (الذي بسطها)، مؤكدًا على التوسع المتعمد وإعداد الأرض كعالم صالح للسكن للبشرية.",
+          "whyItMatters_ar": "ملاءمة الأرض للحياة ليست عرضية بل تعكس رحمة الله، مما يخلق موطنًا مناسبًا تمامًا لاحتياجاتنا ومحننا."
+        },
+        {
+          "id": "91:6:divine-provision",
+          "title": "Merciful Provision",
+          "icon": "heart.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The spreading (taha) implies not just expansion but careful preparation - making the earth level, stable, and filled with provisions for life.",
+          "whyItMatters": "Every resource we depend on reflects Allah's advance planning for our needs, inviting gratitude for sustenance we often take for granted.",
+          "position": "topRight",
+          "arabicHighlight": "طَحَىٰهَا",
+          "title_urdu": "رحیم فراہمی",
+          "coreInsight_urdu": "پھیلاؤ (طحیٰ) نہ صرف توسیع بلکہ محتاط تیاری کا مطلب ہے - زمین کو ہموار، مستحکم، اور زندگی کے لیے فراہمیوں سے بھرا ہوا بنانا۔",
+          "whyItMatters_urdu": "ہر وسیلہ جس پر ہم انحصار کرتے ہیں اللہ کی ہماری ضروریات کے لیے پیشگی منصوبہ بندی کی عکاسی کرتا ہے، شکر گزاری کی دعوت دیتا ہے اس رزق کے لیے جسے ہم اکثر یقینی سمجھتے ہیں۔",
+          "title_ar": "الرزق الرحيم",
+          "coreInsight_ar": "يعني البسط (طحى) ليس مجرد التوسع بل الإعداد الدقيق - جعل الأرض مستوية ومستقرة ومليئة بالأرزاق للحياة.",
+          "whyItMatters_ar": "كل مورد نعتمد عليه يعكس تخطيط الله المسبق لاحتياجاتنا، داعيًا إلى الامتنان للرزق الذي غالبًا ما نأخذه كأمر مسلم به."
+        },
+        {
+          "id": "91:6:testing-ground",
+          "title": "Arena of Trial",
+          "icon": "figure.walk",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The earth is deliberately prepared not just for comfort but as the arena where souls are tested, purified, and prepared for eternal return to Allah.",
+          "whyItMatters": "Understanding earth as a testing ground transforms how we view challenges - they're not random afflictions but purposeful examinations on prepared ground.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْأَرْضِ",
+          "title_urdu": "آزمائش کا میدان",
+          "coreInsight_urdu": "زمین جان بوجھ کر صرف آرام کے لیے نہیں بلکہ اس میدان کے طور پر تیار کی گئی ہے جہاں روحوں کو آزمایا، پاک کیا، اور اللہ کی طرف ابدی واپسی کے لیے تیار کیا جاتا ہے۔",
+          "whyItMatters_urdu": "زمین کو آزمائش کی جگہ کے طور پر سمجھنا ہمارے چیلنجز کو دیکھنے کے طریقے کو بدل دیتا ہے - یہ بے ترتیب مصیبتیں نہیں بلکہ تیار شدہ زمین پر مقصدی امتحانات ہیں۔",
+          "title_ar": "ساحة الاختبار",
+          "coreInsight_ar": "تم إعداد الأرض عمدًا ليس فقط للراحة ولكن كساحة يتم فيها اختبار الأرواح وتنقيتها وإعدادها للعودة الأبدية إلى الله.",
+          "whyItMatters_ar": "فهم الأرض كأرض اختبار يحول كيفية رؤيتنا للتحديات - فهي ليست مصائب عشوائية بل فحوصات هادفة على أرض معدة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators share appreciation for this verse as highlighting divine wisdom in Earth's creation. Ibn Kathir describes the earth's spreading as Allah making it flat and suitable for human habitation, providing resources and stability. Al-Razi discusses the earth's preparation for humanity as evidence of divine providence and care. Tabrisi similarly emphasizes divine mercy in spreading the earth for human benefit. Both traditions connect this verse to others describing mountains as pegs stabilizing the earth, valleys as paths, and plains as farmland. Classical scholars debated the earth's shape, with most concluding that spreading refers to local flatness for ease of travel rather than the planet's overall geometry. Shia interpretation emphasizes Allah's intentional spreading of earth from the Kaaba, making Mecca spiritually central, while Sunni tafsir focuses more broadly on earth's suitability for life. Both perspectives recognize this verse as calling believers to gratitude, reflection on creation's purpose, and recognition that Earth's habitability demonstrates intentional divine design rather than random cosmic accident.",
+    "layer4_urdu": "شیعہ اور سنی مفسرین اس آیت کے بارے میں زمین کی تخلیق میں الٰہی حکمت کو اجاگر کرنے پر متفق ہیں۔ ابنِ کثیر نے زمین کے پھیلاؤ کو اللہ کا اسے انسانی رہائش کے لیے ہموار اور مناسب بنانا قرار دیا جس میں وسائل اور استحکام فراہم کیا گیا۔ امام رازی نے انسانیت کے لیے زمین کی تیاری کو الٰہی عنایت اور نگہداشت کی دلیل کے طور پر زیرِ بحث لایا۔ طبرسی نے بھی اسی طرح انسانی فائدے کے لیے زمین کے پھیلاؤ میں الٰہی رحمت کو نمایاں کیا۔ دونوں روایات اس آیت کو ان دوسری آیات سے جوڑتی ہیں جن میں پہاڑوں کو زمین کو مستحکم رکھنے والی میخیں، وادیوں کو راہیں اور میدانوں کو کاشتکاری کی زمین قرار دیا گیا ہے۔ کلاسیکی علماء نے زمین کی شکل پر بحث کی اور اکثر نے یہ نتیجہ اخذ کیا کہ پھیلانے سے مراد سفر کی آسانی کے لیے مقامی ہمواری ہے نہ کہ سیارے کی مجموعی ہیئت۔ شیعہ تفسیر اس پہلو پر خاص زور دیتی ہے کہ اللہ نے زمین کو خانہ کعبہ سے پھیلایا جس سے مکہ روحانی طور پر مرکزی بن جاتا ہے، جبکہ سنی تفسیر زیادہ عمومی طور پر زندگی کے لیے زمین کی موزونیت پر توجہ مرکوز کرتی ہے۔ دونوں دیدگاہ اس بات پر متفق ہیں کہ یہ آیت مؤمنین کو شکرگزاری، تخلیق کے مقصد پر غور و فکر اور اس تسلیم کی دعوت دیتی ہے کہ زمین کی قابلِ رہائش ہونا اتفاقی نہیں بلکہ ارادی الٰہی ڈیزائن کا نتیجہ ہے۔",
+    "layer4_ar": "يتشارك المفسرون السنة والشيعة في تقدير هذه الآية باعتبارها تُسلّط الضوء على الحكمة الإلهية في خلق الأرض. ويصف ابن كثير بسط الأرض بأن الله جعلها مستوية صالحة للسكن، موفِّرةً الموارد والاستقرار للإنسان. ويتناول الرازي تهيئة الأرض للبشر دليلاً على العناية الإلهية والرحمة الواسعة. ويُؤكد الطبرسي بالمثل على الرحمة الإلهية في بسط الأرض لمنفعة الإنسان. ويربط التراثان هذه الآية بآيات أخرى تصف الجبال أوتاداً تُثبّت الأرض والوديان مسالك والسهول أراضي زراعية. وقد تجادل العلماء الكلاسيكيون في شكل الأرض، وانتهى أكثرهم إلى أن البسط يُشير إلى الاستواء المحلي لتيسير السلوك لا إلى هندسة الكوكب الكلية. ويُبرز التفسير الشيعي أن الله بسط الأرض من الكعبة المشرفة مُجعلاً مكة مركزاً روحياً لها، في حين يتجه التفسير السني في الغالب إلى التركيز على صلاحية الأرض للحياة بمفهوم أشمل. ويتفق التراثان على أن هذه الآية تدعو المؤمنين إلى الشكر والتأمل في غاية الخلق، والإقرار بأن صلاحية الأرض للإعاشة دليل على التصميم الإلهي المتعمد لا على المصادفة الكونية العمياء."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:7:soul-proportion",
+          "title": "Soul's Design",
+          "icon": "person.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah swears by the soul and He who proportioned it (sawwaha), emphasizing the deliberate, balanced creation of the human soul with perfect faculties and potential.",
+          "whyItMatters": "Recognizing that our soul is divinely proportioned means we possess all the spiritual capacities needed for success - the question is whether we develop or neglect them.",
+          "position": "topLeft",
+          "arabicHighlight": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+          "title_urdu": "روح کی ساخت",
+          "coreInsight_urdu": "اللہ روح اور جس نے اسے متناسب بنایا (سوّاھا) کی قسم کھاتا ہے، کامل صلاحیتوں اور صلاحیت کے ساتھ انسانی روح کی جان بوجھ کر، متوازن تخلیق پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "یہ پہچاننا کہ ہماری روح الہی طور پر متناسب ہے کا مطلب ہے کہ ہمارے پاس کامیابی کے لیے تمام روحانی صلاحیتیں ہیں - سوال یہ ہے کہ آیا ہم انہیں ترقی دیتے ہیں یا نظر انداز کرتے ہیں۔",
+          "title_ar": "تصميم الروح",
+          "coreInsight_ar": "يقسم الله بالنفس ومن سواها (الذي عدلها)، مؤكدًا على الخلق المتعمد والمتوازن للنفس البشرية بقدرات وإمكانات مثالية.",
+          "whyItMatters_ar": "إدراك أن روحنا متناسبة إلهيًا يعني أننا نمتلك جميع القدرات الروحية اللازمة للنجاح - السؤال هو ما إذا كنا نطورها أو نهملها."
+        },
+        {
+          "id": "91:7:balanced-creation",
+          "title": "Divine Balance",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Sawwaha (to proportion/balance) indicates the soul was created with perfect equilibrium between reason and passion, spiritual and material inclinations.",
+          "whyItMatters": "This balance means we're not inherently inclined toward evil - we have equal capacity for righteousness and sin, making our choices truly meaningful and free.",
+          "position": "topRight",
+          "arabicHighlight": "سَوَّىٰهَا",
+          "title_urdu": "الہی توازن",
+          "coreInsight_urdu": "سوّاھا (متناسب/متوازن بنانا) اس بات کی نشاندہی کرتا ہے کہ روح عقل اور جذبات، روحانی اور مادی میلانات کے درمیان کامل توازن کے ساتھ بنائی گئی تھی۔",
+          "whyItMatters_urdu": "اس توازن کا مطلب ہے کہ ہم فطری طور پر برائی کی طرف مائل نہیں ہیں - ہمارے پاس نیکی اور گناہ کی برابر صلاحیت ہے، جو ہمارے انتخاب کو واقعی معنی خیز اور آزاد بناتا ہے۔",
+          "title_ar": "التوازن الإلهي",
+          "coreInsight_ar": "يشير سواها (التناسب/التوازن) إلى أن النفس خُلقت بتوازن مثالي بين العقل والعاطفة، والميول الروحية والمادية.",
+          "whyItMatters_ar": "هذا التوازن يعني أننا لسنا ميالين بطبيعتنا نحو الشر - لدينا قدرة متساوية على البر والخطيئة، مما يجعل اختياراتنا ذات معنى حقيقي وحرة."
+        },
+        {
+          "id": "91:7:human-potential",
+          "title": "Perfect Potential",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The soul's perfect proportioning means every human is created with complete potential for spiritual excellence, regardless of background or circumstance.",
+          "whyItMatters": "This universality of spiritual capacity affirms human dignity and equality before Allah - no soul is created deficient or predetermined to fail.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَنَفْسٍۢ",
+          "title_urdu": "کامل صلاحیت",
+          "coreInsight_urdu": "روح کے کامل تناسب کا مطلب ہے کہ ہر انسان کو روحانی عظمت کی مکمل صلاحیت کے ساتھ بنایا گیا ہے، پس منظر یا حالات سے قطع نظر۔",
+          "whyItMatters_urdu": "روحانی صلاحیت کی یہ عالمگیریت اللہ کے سامنے انسانی وقار اور مساوات کی تصدیق کرتی ہے - کوئی روح نا مکمل یا ناکام ہونے کے لیے پہلے سے طے شدہ نہیں بنائی گئی۔",
+          "title_ar": "الإمكانات المثالية",
+          "coreInsight_ar": "تناسب الروح المثالية تعني أن كل إنسان خُلق بإمكانات كاملة للتميز الروحي، بغض النظر عن الخلفية أو الظروف.",
+          "whyItMatters_ar": "هذه العالمية للقدرة الروحية تؤكد الكرامة الإنسانية والمساواة أمام الله - لا توجد روح خُلقت ناقصة أو محددة مسبقًا للفشل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes recognize this verse as highlighting human uniqueness and moral responsibility. Ibn Kathir explains that the soul's proportioning means Allah created it upright with capacity for faith and good deeds. Al-Razi discusses the soul's perfect creation as evidence that moral failure comes from human choice rather than defective nature. Tabrisi similarly emphasizes that Allah proportioned the soul with balanced capacities for good and evil, making humans accountable for their direction. Both traditions connect this verse to others describing humanity's creation from clay then divine spirit breathed into the form. Classical scholars across both schools debated the soul's nature, generally agreeing on its immaterial reality beyond physical body. Shia tradition particularly emphasizes the soul's proportioning as preparation for receiving divine guidance through the Ahlul Bayt, while Sunni tafsir focuses more on individual accountability. Both perspectives agree that this verse establishes human dignity through divine creative care and responsibility through being given balanced faculties capable of moral choice.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس آیت کو انسانی انفرادیت اور اخلاقی ذمہ داری کو اجاگر کرنے والی آیت کے طور پر پہچانتے ہیں۔ ابنِ کثیر نے بیان کیا کہ روح کے توازن سے مراد یہ ہے کہ اللہ نے اسے ایمان اور نیک اعمال کی صلاحیت کے ساتھ سیدھا تخلیق فرمایا۔ امام رازی نے روح کی کامل تخلیق پر اس دلیل کے طور پر بحث کی کہ اخلاقی ناکامی انسانی انتخاب سے آتی ہے نہ کہ نقص دار فطرت سے۔ طبرسی نے بھی اسی طرح اس بات پر زور دیا کہ اللہ نے روح کو خیر و شر دونوں کے لیے متوازن صلاحیتوں کے ساتھ بنایا جس سے انسان اپنی سمت کے لیے جوابدہ ہیں۔ دونوں روایات اس آیت کو ان دوسری آیات سے جوڑتی ہیں جن میں انسانیت کی مٹی سے تخلیق اور پھر الٰہی روح کے پھونکے جانے کا ذکر ہے۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے روح کی فطرت پر بحث کی اور عموماً اس کی مادی جسم سے ماورا غیر مادی حقیقت پر متفق رہے۔ شیعہ روایت خاص طور پر اس بات پر زور دیتی ہے کہ روح کا توازن اہلِ بیت علیہم السلام کے ذریعے الٰہی ہدایت قبول کرنے کی تیاری ہے جبکہ سنی تفسیر زیادہ انفرادی جوابدہی پر توجہ مرکوز کرتی ہے۔ دونوں دیدگاہ اس بات پر متفق ہیں کہ یہ آیت انسانی وقار کو الٰہی تخلیقی احتیاط کے ذریعے اور ذمہ داری کو متوازن صلاحیتوں کے ذریعے ثابت کرتی ہے۔",
+    "layer4_ar": "يتفق كل من المفسرين الشيعة والسنة على أن هذه الآية تُبرز تفرّد الإنسان ومسؤوليته الأخلاقية. ويُبيّن ابن كثير أن تسوية النفس تعني أن الله خلقها مستقيمةً لديها القدرة على الإيمان والعمل الصالح. ويتناول الرازي الخلق المثالي للنفس دليلاً على أن الإخفاق الأخلاقي ينشأ من الاختيار الإنساني لا من طبيعة ناقصة. ويُؤكد الطبرسي بالمثل على أن الله سوّى النفس بملكات متوازنة للخير والشر مما يجعل الإنسان محاسَباً على توجّهه. ويربط التراثان هذه الآية بآيات أخرى تصف خلق الإنسان من طين ثم نفخ الروح الإلهية فيه. وقد تجادل العلماء الكلاسيكيون من المذهبين في طبيعة النفس، وأجمعوا في الغالب على واقعيتها اللامادية المتجاوزة للجسد. وتُبرز الرواية الشيعية أن تسوية النفس تُهيّئها لاستقبال الهدى الإلهي عبر أهل البيت عليهم السلام، بينما يُركّز التفسير السني أكثر على المساءلة الفردية. ويتفق التراثان على أن هذه الآية تُرسّخ كرامة الإنسان عبر الرعاية الإلهية في خلقه، وتُثبت مسؤوليته عبر تزويده بملكات متوازنة قادرة على الاختيار الأخلاقي الحقيقي."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:8:divine-inspiration",
+          "title": "Innate Knowledge",
+          "icon": "brain.head.profile",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah inspired (alhama) the soul with knowledge of both its wickedness (fujur) and righteousness (taqwa), giving innate moral consciousness without need for external teaching.",
+          "whyItMatters": "This internal moral compass means we always know right from wrong at the deepest level - our accountability stems from this God-given awareness, not ignorance.",
+          "position": "topLeft",
+          "arabicHighlight": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+          "title_urdu": "فطری علم",
+          "coreInsight_urdu": "اللہ نے روح کو اس کی بدکاری (فجور) اور پرہیزگاری (تقویٰ) دونوں کے علم سے الہام کیا، بیرونی تعلیم کی ضرورت کے بغیر فطری اخلاقی شعور دیا۔",
+          "whyItMatters_urdu": "یہ اندرونی اخلاقی قطب نما کا مطلب ہے کہ ہم ہمیشہ گہری سطح پر صحیح اور غلط کو جانتے ہیں - ہماری جوابدہی اس خدا کی دی ہوئی آگاہی سے ہے، جہالت سے نہیں۔",
+          "title_ar": "المعرفة الفطرية",
+          "coreInsight_ar": "ألهم الله النفس بمعرفة كل من فجورها (الشر) وتقواها (البر)، مما أعطى وعيًا أخلاقيًا فطريًا دون حاجة للتعليم الخارجي.",
+          "whyItMatters_ar": "هذا البوصلة الأخلاقية الداخلية تعني أننا نعرف دائمًا الصواب من الخطأ على أعمق مستوى - مساءلتنا تنبع من هذا الوعي الموهوب من الله، وليس الجهل."
+        },
+        {
+          "id": "91:8:moral-duality",
+          "title": "Two Paths",
+          "icon": "arrow.triangle.branch",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Fujur (wickedness) and taqwa (righteousness) represent the two fundamental paths available to the soul, making life a continuous choice between corruption and purity.",
+          "whyItMatters": "Every action is a vote for one of these paths - we're constantly either purifying or corrupting our souls, with no neutral ground in spiritual development.",
+          "position": "topRight",
+          "arabicHighlight": "فُجُورَهَا وَتَقْوَىٰهَا",
+          "title_urdu": "دو راستے",
+          "coreInsight_urdu": "فجور (بدکاری) اور تقویٰ (نیکی) روح کے لیے دستیاب دو بنیادی راستوں کی نمائندگی کرتے ہیں، زندگی کو بگاڑ اور پاکیزگی کے درمیان مسلسل انتخاب بناتے ہیں۔",
+          "whyItMatters_urdu": "ہر عمل ان راستوں میں سے ایک کے لیے ووٹ ہے - ہم مسلسل یا تو اپنی روحوں کو پاک کر رہے ہیں یا خراب کر رہے ہیں، روحانی ترقی میں کوئی غیر جانبدار زمین نہیں ہے۔",
+          "title_ar": "طريقان",
+          "coreInsight_ar": "يمثل الفجور (الشر) والتقوى (البر) الطريقين الأساسيين المتاحين للنفس، مما يجعل الحياة اختيارًا مستمرًا بين الفساد والنقاء.",
+          "whyItMatters_ar": "كل عمل هو تصويت لأحد هذين الطريقين - نحن باستمرار إما نطهر أو نفسد أرواحنا، دون أرض محايدة في التطور الروحي."
+        },
+        {
+          "id": "91:8:divine-guidance",
+          "title": "Internal Compass",
+          "icon": "location.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Ilham (inspiration) is deeper than knowledge - it's an intuitive, pre-rational awareness that guides the conscience, operating before logical analysis.",
+          "whyItMatters": "This shows we can't excuse wrongdoing by claiming ignorance - our fitrah (natural disposition) already knows truth, though we may suppress this knowledge.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَأَلْهَمَهَا",
+          "title_urdu": "اندرونی قطب نما",
+          "coreInsight_urdu": "الہام علم سے زیادہ گہرا ہے - یہ ایک بدیہی، عقلی سے پہلے کی آگاہی ہے جو ضمیر کی رہنمائی کرتی ہے، منطقی تجزیہ سے پہلے کام کرتی ہے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ ہم جہالت کا دعویٰ کرکے غلطی کا عذر نہیں بنا سکتے - ہماری فطرت پہلے سے ہی سچائی کو جانتی ہے، حالانکہ ہم اس علم کو دبا سکتے ہیں۔",
+          "title_ar": "البوصلة الداخلية",
+          "coreInsight_ar": "الإلهام أعمق من المعرفة - إنه وعي بديهي، ما قبل العقلاني يوجه الضمير، ويعمل قبل التحليل المنطقي.",
+          "whyItMatters_ar": "هذا يوضح أننا لا نستطيع أن نعذر الخطأ بادعاء الجهل - فطرتنا (الاستعداد الطبيعي) تعرف الحقيقة بالفعل، رغم أننا قد نكبت هذه المعرفة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators agree that this verse establishes innate moral awareness as foundation for accountability. Ibn Kathir explains that Allah made the soul understand both good and evil, giving no excuse for sin. Al-Razi discusses this inspiration as divine mercy equipping humans for their moral test. Tabrisi similarly emphasizes that Allah inspired knowledge of both paths, leaving choice to human free will. Both traditions connect this to hadith about the fitrah, the natural disposition toward good with which every child is born. Classical scholars debated whether this inspiration is sufficient or requires prophetic guidance to specify, with most concluding that both innate conscience and revealed law are necessary. Shia interpretation particularly emphasizes that while basic moral sense is innate, detailed ethical understanding requires guidance from the Ahlul Bayt in addition to the Quran, while Sunni tradition focuses on the Quran and Sunnah as specifications. Both perspectives agree that this verse establishes human responsibility by affirming we possess internal moral awareness, cannot plead ignorance of basic right and wrong, and face consequences for our choices.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس بات پر متفق ہیں کہ یہ آیت جوابدہی کی بنیاد کے طور پر فطری اخلاقی شعور کو ثابت کرتی ہے۔ ابنِ کثیر نے بیان کیا کہ اللہ نے روح کو خیر و شر دونوں کی سمجھ عطا فرمائی، گناہ کے لیے کوئی عذر نہیں چھوڑا۔ امام رازی نے اس الہام کی الٰہی رحمت کے طور پر بحث کی جو انسانوں کو ان کے اخلاقی امتحان کے لیے تیار کرتی ہے۔ طبرسی نے بھی اسی طرح اس بات پر زور دیا کہ اللہ نے دونوں راستوں کا علم الہام کیا اور انتخاب انسانی آزادیِ ارادہ پر چھوڑا۔ دونوں روایات اسے فطرت سے متعلق احادیث سے جوڑتی ہیں کہ ہر بچہ اس قدرتی میلان کے ساتھ پیدا ہوتا ہے جو خیر کی طرف مائل ہے۔ کلاسیکی علماء نے اس پر بحث کی کہ آیا یہ الہام کافی ہے یا نبوی ہدایت کا تقاضا ہے، اکثر کا نتیجہ یہ تھا کہ فطری ضمیر اور منزل شریعت دونوں ضروری ہیں۔ شیعہ تفسیر خاص طور پر اس بات پر زور دیتی ہے کہ اگرچہ بنیادی اخلاقی حس فطری ہے، تفصیلی اخلاقی فہم کے لیے اہلِ بیت علیہم السلام کی رہنمائی درکار ہے، جبکہ سنی تفسیر قرآن اور سنت پر توجہ مرکوز کرتی ہے۔ دونوں دیدگاہ اس بات پر متفق ہیں کہ یہ آیت ہماری ذمہ داری ثابت کرتی ہے کیونکہ ہم بنیادی حق و باطل سے لاعلمی کا دعویٰ نہیں کر سکتے اور اپنے انتخاب کے نتائج بھگتیں گے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على أن هذه الآية تُؤسّس للوعي الأخلاقي الفطري قاعدةً للمساءلة. ويُبيّن ابن كثير أن الله جعل النفس تعرف الخير والشر مما يُسقط أي عذر بالجهل. ويتناول الرازي هذا الإلهام باعتباره رحمة إلهية تُجهّز الإنسان لاختبار كماله الأخلاقي. ويُؤكد الطبرسي بالمثل أن الله ألهم معرفة كلا المسارين تاركاً الاختيار للإرادة الحرة. ويربط التراثان ذلك بأحاديث عن الفطرة، الاستعداد الطبيعي نحو الخير الذي يُولد عليه كل طفل. وقد ناقش علماء كلا التراثين هل هذا الإلهام كافٍ أم يستلزم التوجيه النبوي لتفصيله، وانتهى أكثرهم إلى أن الضمير الفطري والشريعة المُوحى بها كلاهما ضرورة. ويُبرز التفسير الشيعي أنه بينما الحاسة الأخلاقية الأساسية فطرية فإن الفهم الأخلاقي التفصيلي يستلزم الهدى من أهل البيت عليهم السلام بالإضافة إلى القرآن الكريم، بينما يتركّز التفسير السني على القرآن والسنة النبوية. ويتفق التراثان على أن هذه الآية تُؤكد مسؤولية الإنسان بإثبات أنه يملك وعياً أخلاقياً داخلياً لا يستطيع معه الادعاء بالجهل بالحق والباطل الأساسيين وسيواجه تبعات خياراته."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:9:success-formula",
+          "title": "Path to Success",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After the cosmic oaths, Allah reveals the conclusion: true success (falah) belongs to whoever purifies (zakkaha) their soul through righteous actions and spiritual refinement.",
+          "whyItMatters": "This verse defines success not by wealth, status, or power, but by spiritual purity - reorienting our life goals toward what truly matters in Allah's sight.",
+          "position": "topLeft",
+          "arabicHighlight": "أَفْلَحَ مَن",
+          "title_urdu": "کامیابی کا فارمولا",
+          "coreInsight_urdu": "کائناتی قسموں کے بعد، اللہ نتیجہ کا اعلان کرتا ہے: حقیقی کامیابی (فلاح) اس کے لیے ہے جو اپنی روح کو نیک اعمال اور روحانی بہتری کے ذریعے پاک کرتا ہے (زکّاھا)۔",
+          "whyItMatters_urdu": "یہ آیت کامیابی کو دولت، حیثیت، یا طاقت سے نہیں بلکہ روحانی پاکیزگی سے متعین کرتی ہے - ہماری زندگی کے اہداف کو اللہ کی نظر میں واقعی اہم چیز کی طرف موڑتی ہے۔",
+          "title_ar": "صيغة النجاح",
+          "coreInsight_ar": "بعد الأقسام الكونية، يكشف الله الاستنتاج: النجاح الحقيقي (الفلاح) لمن زكاها (طهر نفسه) من خلال الأعمال الصالحة والتطهير الروحي.",
+          "whyItMatters_ar": "تحدد هذه الآية النجاح ليس بالثروة أو المكانة أو القوة، بل بالنقاء الروحي - مما يعيد توجيه أهداف حياتنا نحو ما يهم حقًا في نظر الله."
+        },
+        {
+          "id": "91:9:soul-purification",
+          "title": "Spiritual Cleansing",
+          "icon": "sparkles",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Tazkiyah (purification) involves both removing impurities (sins, bad character) and cultivating virtues (faith, good character), requiring active effort not passive waiting.",
+          "whyItMatters": "Soul purification is our primary life task - it demands conscious striving through worship, self-reflection, and moral improvement, not accidental development.",
+          "position": "topRight",
+          "arabicHighlight": "مَن",
+          "title_urdu": "روحانی پاکیزگی",
+          "coreInsight_urdu": "تزکیہ (پاکیزگی) میں ناپاکیوں (گناہ، بری عادتیں) کو دور کرنا اور فضائل (ایمان، اچھی عادتیں) کو ترقی دینا دونوں شامل ہیں، فعال کوشش کی ضرورت ہے غیر فعال انتظار کی نہیں۔",
+          "whyItMatters_urdu": "روح کی پاکیزگی ہماری بنیادی زندگی کا کام ہے - یہ عبادت، خود غور و فکر، اور اخلاقی بہتری کے ذریعے شعوری کوشش کا تقاضا کرتا ہے، حادثاتی ترقی کا نہیں۔",
+          "title_ar": "التطهير الروحي",
+          "coreInsight_ar": "تشمل التزكية (التطهير) إزالة الشوائب (الذنوب، الأخلاق السيئة) وتنمية الفضائل (الإيمان، الأخلاق الحسنة)، مما يتطلب جهدًا نشطًا وليس انتظارًا سلبيًا.",
+          "whyItMatters_ar": "تطهير الروح هو مهمتنا الحياتية الأساسية - فهو يتطلب سعيًا واعيًا من خلال العبادة والتأمل الذاتي والتحسين الأخلاقي، وليس التطور العرضي."
+        },
+        {
+          "id": "91:9:certain-success",
+          "title": "Guaranteed Victory",
+          "icon": "trophy.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Qad aflaha' (has indeed succeeded) uses emphatic language indicating absolute certainty - those who purify their souls have already achieved success, not merely hope for it.",
+          "whyItMatters": "This certainty provides tremendous motivation - spiritual effort isn't a gamble but a guaranteed investment, with Allah Himself promising the outcome.",
+          "position": "bottomLeft",
+          "arabicHighlight": "قَدْ أَفْلَحَ",
+          "title_urdu": "یقینی کامیابی",
+          "coreInsight_urdu": "'قد أفلح' (واقعی کامیاب ہوا) زور دار زبان استعمال کرتا ہے جو مطلق یقین کی نشاندہی کرتا ہے - جو اپنی روحوں کو پاک کرتے ہیں انہوں نے پہلے ہی کامیابی حاصل کر لی ہے، محض اس کی امید نہیں ہے۔",
+          "whyItMatters_urdu": "یہ یقین زبردست حوصلہ فراہم کرتا ہے - روحانی کوشش جوا نہیں بلکہ ایک گارنٹی شدہ سرمایہ کاری ہے، اللہ خود نتیجے کا وعدہ کرتا ہے۔",
+          "title_ar": "النصر المضمون",
+          "coreInsight_ar": "يستخدم 'قد أفلح' (قد نجح بالفعل) لغة تأكيدية تشير إلى اليقين المطلق - أولئك الذين يطهرون أرواحهم حققوا النجاح بالفعل، وليس مجرد الأمل فيه.",
+          "whyItMatters_ar": "هذا اليقين يوفر حافزًا هائلاً - الجهد الروحي ليس مقامرة بل استثمارًا مضمونًا، مع وعد الله نفسه بالنتيجة."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia exegetes agree that this verse establishes purification as the criterion for salvation. Ibn Kathir explains that purifying the soul means cleansing it from sins and adorning it with virtues, leading to Paradise. Al-Razi discusses purification as the purpose of revelation and prophetic mission. Tabrisi similarly emphasizes that success in both worlds depends on soul purification. Both traditions connect this to numerous hadith about purifying the heart, controlling desires, and developing good character. Classical scholars across both schools discussed spiritual stations and stages in the purification process. Sunni tradition emphasizes purification through following the Quran and Prophetic Sunnah, practicing the five pillars, and avoiding major sins. Shia tradition includes these elements but additionally emphasizes following the Ahlul Bayt as guides in the purification process and understanding Wilayah as essential to spiritual development. Despite differences in details, both perspectives agree that this verse identifies the core human challenge - purifying the soul Allah created - as determining eternal success or failure, making spirituality the most important human endeavor.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اس بات پر متفق ہیں کہ یہ آیت نجات کے معیار کے طور پر تزکیے کو قائم کرتی ہے۔ ابنِ کثیر نے بیان کیا کہ روح کو پاک کرنے کا مطلب ہے اسے گناہوں سے صاف کرنا اور فضائل سے آراستہ کرنا، یہ جنت کی طرف لے جاتا ہے۔ امام رازی نے تزکیے کو وحی اور نبوی مشن کا مقصد قرار دیا۔ طبرسی نے بھی اسی طرح اس بات پر زور دیا کہ دونوں جہانوں میں کامیابی روح کے تزکیے پر منحصر ہے۔ دونوں روایات اسے دل پاک کرنے، خواہشات پر قابو پانے اور اچھے اخلاق پروان چڑھانے کے بارے میں متعدد احادیث سے جوڑتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے تزکیے کے عمل میں روحانی مقامات اور مراحل پر بحث کی۔ سنی روایت قرآن اور سنتِ نبوی کی پیروی، پانچ ارکانِ اسلام پر عمل اور کبیرہ گناہوں سے اجتناب کے ذریعے تزکیے پر زور دیتی ہے۔ شیعہ روایت ان عناصر کو شامل کرنے کے ساتھ اہلِ بیت علیہم السلام کو روحانی ارتقاء میں رہنما کے طور پر پیروی کرنے اور ولایت کو روحانی نشوونما کے لیے لازمی سمجھنے پر زور دیتی ہے۔ تفصیلات میں فرق کے باوجود دونوں دیدگاہ اس بات پر متفق ہیں کہ یہ آیت انسانی چیلنج کے جوہر کو بیان کرتی ہے — اللہ کی تخلیق کردہ روح کو پاک کرنا — اور یہی ابدی کامیابی یا ناکامی کا تعین کرتا ہے، روحانیت کو انسانی زندگی کی سب سے اہم کوشش بناتا ہے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على أن هذه الآية تجعل التزكية معيار النجاة الأوحد. ويُبيّن ابن كثير أن تزكية النفس تعني تطهيرها من الذنوب وتحليتها بالفضائل مما يُفضي إلى الجنة. ويتناول الرازي التزكية باعتبارها غاية الوحي والرسالة النبوية. ويُؤكد الطبرسي بالمثل أن الفلاح في الدارين مرهون بتزكية النفس. ويربط التراثان ذلك بأحاديث عديدة حول تطهير القلب وضبط الشهوات وتنمية حسن الخلق. وقد تناول علماء كلا التراثين المقامات والمراحل في مسيرة التزكية. والرواية السنية تُؤكد التزكية عبر اتباع القرآن والسنة النبوية وأداء الأركان الخمسة واجتناب الكبائر. بينما تشتمل الرواية الشيعية على هذه العناصر مع إبراز إضافي لضرورة اتباع أهل البيت عليهم السلام موجِّهين في مسيرة التزكية وفهم الولاية شرطاً أصيلاً للنمو الروحي. وعلى الرغم من تباين التفاصيل يتفق التراثان على أن هاتين الآيتين - التاسعة والعاشرة - تعرضان الخيار الإنساني الجوهري المُحدِّد للمصير الأبدي، مما يجعل الرقي الروحي أهم ما يشغل الإنسان وأولى ما يستحق الاهتمام."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:10:failure-warning",
+          "title": "Path to Ruin",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "In stark contrast to verse 9, whoever corrupts (dassaha) their soul through sins and neglect has failed (khaba), using strong language for spiritual bankruptcy.",
+          "whyItMatters": "This warns that spiritual neglect isn't neutral but actively destructive - failing to purify means defaulting to corruption, as souls don't remain static.",
+          "position": "topLeft",
+          "arabicHighlight": "خَابَ مَن",
+          "title_urdu": "تباہی کا راستہ",
+          "coreInsight_urdu": "آیت 9 کے بالکل برعکس، جو کوئی اپنی روح کو گناہوں اور غفلت کے ذریعے خراب کرتا ہے (دسّاھا) وہ ناکام ہوا (خاب)، روحانی دیوالیہ پن کے لیے سخت زبان استعمال کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ خبردار کرتا ہے کہ روحانی غفلت غیر جانبدار نہیں بلکہ فعال طور پر تباہ کن ہے - پاک کرنے میں ناکامی کا مطلب بگاڑ کی طرف جانا ہے، کیونکہ روحیں جامد نہیں رہتیں۔",
+          "title_ar": "طريق الخراب",
+          "coreInsight_ar": "في تناقض صارخ مع الآية 9، من أفسد (دساها) نفسه من خلال الذنوب والإهمال قد خاب (فشل)، باستخدام لغة قوية للإفلاس الروحي.",
+          "whyItMatters_ar": "هذا يحذر من أن الإهمال الروحي ليس محايدًا بل مدمرًا بنشاط - الفشل في التطهير يعني التخلف إلى الفساد، حيث لا تبقى الأرواح ثابتة."
+        },
+        {
+          "id": "91:10:soul-burial",
+          "title": "Buried Potential",
+          "icon": "arrow.down.to.line",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Dassaha (to corrupt/bury) literally means to hide or cover - sin doesn't just stain the soul but buries its divine potential under layers of spiritual darkness.",
+          "whyItMatters": "Each sin is like throwing dirt on our soul's light, progressively obscuring the fitrah until we can barely recognize truth, making repentance increasingly difficult.",
+          "position": "topRight",
+          "arabicHighlight": "مَن",
+          "title_urdu": "دفن شدہ صلاحیت",
+          "coreInsight_urdu": "دسّاھا (خراب کرنا/دفن کرنا) لفظی طور پر چھپانے یا ڈھانپنے کا مطلب ہے - گناہ روح کو صرف داغدار نہیں کرتا بلکہ اس کی الہی صلاحیت کو روحانی تاریکی کی تہوں کے نیچے دفن کر دیتا ہے۔",
+          "whyItMatters_urdu": "ہر گناہ ہماری روح کی روشنی پر مٹی پھینکنے جیسا ہے، آہستہ آہستہ فطرت کو چھپاتا ہے جب تک ہم مشکل سے سچائی کو پہچان نہیں سکتے، توبہ کو تیزی سے مشکل بناتا ہے۔",
+          "title_ar": "الإمكانات المدفونة",
+          "coreInsight_ar": "دساها (الفساد/الدفن) تعني حرفيًا الإخفاء أو التغطية - الذنب لا يلطخ الروح فقط بل يدفن إمكاناتها الإلهية تحت طبقات من الظلام الروحي.",
+          "whyItMatters_ar": "كل ذنب مثل إلقاء التراب على نور روحنا، مما يحجب الفطرة تدريجيًا حتى نكاد نتعرف على الحق، مما يجعل التوبة صعبة بشكل متزايد."
+        },
+        {
+          "id": "91:10:absolute-loss",
+          "title": "Total Failure",
+          "icon": "xmark.seal.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Khaba (failure/disappointment) implies not just loss but devastating disappointment - finding one's efforts worthless and hopes shattered on the Day of Judgment.",
+          "whyItMatters": "This ultimate failure puts worldly losses in perspective - no earthly setback compares to the spiritual bankruptcy of facing Allah with a corrupted soul.",
+          "position": "bottomLeft",
+          "arabicHighlight": "خَابَ",
+          "title_urdu": "مکمل ناکامی",
+          "coreInsight_urdu": "خاب (ناکامی/مایوسی) نہ صرف نقصان بلکہ تباہ کن مایوسی کا مطلب ہے - اپنی کوششوں کو بیکار اور امیدوں کو روز قیامت پر ٹوٹا ہوا پانا۔",
+          "whyItMatters_urdu": "یہ حتمی ناکامی دنیاوی نقصانات کو تناظر میں رکھتی ہے - کوئی زمینی ناکامی اللہ کا سامنا خراب شدہ روح کے ساتھ کرنے کی روحانی دیوالیہ پن سے موازنہ نہیں کر سکتی۔",
+          "title_ar": "الفشل التام",
+          "coreInsight_ar": "خاب (الفشل/خيبة الأمل) يعني ليس فقط الخسارة بل خيبة أمل مدمرة - إيجاد جهود المرء عديمة القيمة والآمال محطمة يوم القيامة.",
+          "whyItMatters_ar": "هذا الفشل النهائي يضع الخسائر الدنيوية في منظورها الصحيح - لا توجد نكسة أرضية تقارن بالإفلاس الروحي لمواجهة الله بروح فاسدة."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators agree that this verse warns of damnation for those who corrupt their souls through sin and disobedience. Ibn Kathir explains that corrupting the soul means covering it with sins and preventing it from guidance, leading to Hellfire. Al-Razi discusses corruption as rejecting divine guidance and following base desires. Tabrisi similarly emphasizes that failure results from choosing wickedness over righteousness despite being given knowledge of both. Both traditions connect this verse to hadith about the heart being either polished by good deeds or rusted by sins. Classical scholars across both schools taught that major sins corrupt the soul severely while minor sins accumulate to cause corruption if not repented. Sunni tradition emphasizes avoiding corruption through following Quranic guidance and prophetic example. Shia tradition includes these elements but additionally emphasizes the necessity of Wilayah and following the Ahlul Bayt to avoid corruption and achieve purification. Both perspectives agree that these two verses - nine and ten - present the fundamental human choice determining eternal destiny, making moral and spiritual development life's highest priority requiring urgent attention.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس بات پر متفق ہیں کہ یہ آیت ان لوگوں کو ہلاکت کی خبر دیتی ہے جو گناہ اور نافرمانی سے اپنی روح کو خراب کرتے ہیں۔ ابنِ کثیر نے بیان کیا کہ روح کو خراب کرنے کا مطلب ہے اسے گناہوں سے ڈھانپنا اور اسے ہدایت سے روکنا، یہ جہنم کی طرف لے جاتا ہے۔ امام رازی نے فساد کو الٰہی رہنمائی کو مسترد کرنے اور پست خواہشات کی پیروی کے طور پر زیرِ بحث لایا۔ طبرسی نے بھی اسی طرح اس بات پر زور دیا کہ ناکامی دونوں کا علم عطا کیے جانے کے باوجود نیکی کی جگہ بدکاری کو چننے سے آتی ہے۔ دونوں روایات اس آیت کو دل کے اچھے اعمال سے صاف ہونے یا گناہوں سے زنگ آلود ہونے کے بارے میں احادیث سے جوڑتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے سکھایا کہ کبیرہ گناہ روح کو شدید نقصان پہنچاتے ہیں جبکہ صغیرہ گناہ جمع ہو کر فساد کا باعث بنتے ہیں اگر توبہ نہ کی جائے۔ سنی روایت قرآنی رہنمائی اور نبوی مثال کی پیروی کے ذریعے فساد سے بچنے پر زور دیتی ہے۔ شیعہ روایت ان عناصر کے ساتھ فساد سے بچنے اور تزکیہ حاصل کرنے کے لیے ولایت اور اہلِ بیت علیہم السلام کی پیروی کی ضرورت پر بھی زور دیتی ہے۔ دونوں دیدگاہ اس بات پر متفق ہیں کہ یہ دونوں آیات — نو اور دس — وہ بنیادی انسانی انتخاب پیش کرتی ہیں جو ابدی تقدیر کا تعین کرتا ہے، اخلاقی اور روحانی ارتقاء کو انسانی زندگی کی سب سے اہم ترجیح بناتا ہے جس پر فوری توجہ درکار ہے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على أن هذه الآية تُحذّر من الخسران المُبين لمن يُفسدون نفوسهم بالمعاصي والإعراض. ويُبيّن ابن كثير أن تدسية النفس تعني تغطيتها بالذنوب وصدّها عن الهدى مما يُفضي إلى النار. ويتناول الرازي الإفساد باعتباره نتيجة رفض الهدى الإلهي واتباع الهوى الأدنى. ويُؤكد الطبرسي بالمثل أن الخيبة تنجم عن اختيار الفجور على التقوى رغم إلهام معرفة الاثنين. ويربط التراثان ذلك بأحاديث حول القلب الذي تجلوه الأعمال الصالحة أو تُصدّئه الذنوب المتراكمة. وقد علّم علماء كلا التراثين أن الكبائر تُفسد النفس إفساداً شديداً بينما تتراكم الصغائر حتى تُفضي إلى الإفساد إن لم تُكفَّر. والرواية السنية تُؤكد تجنّب الإفساد عبر اتباع هدى القرآن والقدوة النبوية. بينما تشتمل الرواية الشيعية على هذه العناصر مع إبراز ضرورة الولاية واتباع أهل البيت عليهم السلام لتجنّب الإفساد وتحقيق التزكية. ويتفق التراثان على أن هاتين الآيتين - التاسعة والعاشرة - تعرضان الخيار الإنساني الجوهري المُحدِّد للمصير الأبدي، مما يجعل الرقي الأخلاقي والروحي أعلى أولويات الإنسان وأوجب ما يستدعي الاهتمام العاجل."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:11:thamud-denial",
+          "title": "Historic Warning",
+          "icon": "building.columns.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The surah shifts to historical example: Thamud denied (kadhdhabat) their prophet Salih due to their transgression (taghwa), illustrating the disastrous consequences of soul corruption.",
+          "whyItMatters": "Historical examples aren't just stories but warnings - Thamud's fate demonstrates what happens when societies collectively choose corruption over purification.",
+          "position": "topLeft",
+          "arabicHighlight": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+          "title_urdu": "تاریخی انتباہ",
+          "coreInsight_urdu": "سورت تاریخی مثال کی طرف بڑھتی ہے: ثمود نے اپنی سرکشی (طغویٰ) کی وجہ سے اپنے نبی صالح کو جھٹلایا (کذّبت)، روح کے بگاڑ کے تباہ کن نتائج کی مثال دیتے ہوئے۔",
+          "whyItMatters_urdu": "تاریخی مثالیں صرف کہانیاں نہیں بلکہ انتباہات ہیں - ثمود کی قسمت ظاہر کرتی ہے کہ کیا ہوتا ہے جب معاشرے اجتماعی طور پر پاکیزگی پر بگاڑ کا انتخاب کرتے ہیں۔",
+          "title_ar": "التحذير التاريخي",
+          "coreInsight_ar": "تنتقل السورة إلى مثال تاريخي: كذبت ثمود (أنكرت) نبيهم صالح بسبب طغيانها، مما يوضح العواقب الكارثية لفساد الروح.",
+          "whyItMatters_ar": "الأمثلة التاريخية ليست مجرد قصص بل تحذيرات - مصير ثمود يوضح ما يحدث عندما تختار المجتمعات جماعيًا الفساد على التطهير."
+        },
+        {
+          "id": "91:11:transgression-cause",
+          "title": "Arrogant Rebellion",
+          "icon": "flame.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Taghwa (transgression) derives from tughyan (exceeding bounds) - Thamud's arrogance made them reject divine limits and their prophet's guidance.",
+          "whyItMatters": "Arrogance is the root of disbelief - when we view ourselves as self-sufficient, we reject accountability to Allah and guidance from His messengers.",
+          "position": "topRight",
+          "arabicHighlight": "بِطَغْوَىٰهَآ",
+          "title_urdu": "مغرور بغاوت",
+          "coreInsight_urdu": "طغویٰ (سرکشی) طغیان (حدوں سے تجاوز) سے ماخوذ ہے - ثمود کے تکبر نے انہیں الہی حدود اور اپنے نبی کی رہنمائی کو مسترد کرنے پر مجبور کیا۔",
+          "whyItMatters_urdu": "تکبر کفر کی جڑ ہے - جب ہم اپنے آپ کو خود کفیل سمجھتے ہیں، تو ہم اللہ کے سامنے جوابدہی اور اس کے رسولوں کی رہنمائی کو مسترد کرتے ہیں۔",
+          "title_ar": "التمرد المتكبر",
+          "coreInsight_ar": "تشتق طغواها (التجاوز) من الطغيان (تجاوز الحدود) - جعلت كبرياء ثمود ترفض الحدود الإلهية وإرشاد نبيهم.",
+          "whyItMatters_ar": "الكبرياء هو جذر الكفر - عندما نرى أنفسنا مكتفين ذاتيًا، نرفض المساءلة أمام الله والإرشاد من رسله."
+        },
+        {
+          "id": "91:11:collective-corruption",
+          "title": "Social Sin",
+          "icon": "person.3.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse uses the feminine form 'kadhdhabat' for the nation as a whole, indicating collective responsibility - entire societies can become corrupt when individuals fail spiritually.",
+          "whyItMatters": "Individual soul corruption can metastasize into collective rejection of truth, creating cultures where righteousness is mocked and transgression normalized.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَذَّبَتْ ثَمُودُ",
+          "title_urdu": "اجتماعی گناہ",
+          "coreInsight_urdu": "آیت پوری قوم کے لیے مؤنث صیغہ 'کذّبت' استعمال کرتی ہے، اجتماعی ذمہ داری کی نشاندہی کرتے ہوئے - پوری معاشرے خراب ہو سکتی ہیں جب افراد روحانی طور پر ناکام ہوتے ہیں۔",
+          "whyItMatters_urdu": "انفرادی روح کا بگاڑ سچائی کے اجتماعی رد میں پھیل سکتا ہے، ایسی ثقافتیں پیدا کرتا ہے جہاں نیکی کا مذاق اڑایا جاتا ہے اور سرکشی کو عام بنایا جاتا ہے۔",
+          "title_ar": "الخطيئة الاجتماعية",
+          "coreInsight_ar": "تستخدم الآية الصيغة الأنثوية 'كذبت' للأمة ككل، مما يشير إلى المسؤولية الجماعية - يمكن أن تصبح مجتمعات بأكملها فاسدة عندما يفشل الأفراد روحيًا.",
+          "whyItMatters_ar": "يمكن أن ينتشر فساد الروح الفردي إلى رفض جماعي للحقيقة، مما يخلق ثقافات يُسخر فيها من البر ويُطبع فيها التجاوز."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia exegetes recount the Thamud story as historical fact and moral lesson. Ibn Kathir provides details of the Thamud's location, Prophet Salih's mission, and their eventual destruction. Al-Razi discusses their transgression as the cause of their denial, showing how sin corrupts the soul's ability to recognize truth. Tabrisi similarly narrates their story emphasizing the connection between moral corruption and intellectual blindness to divine signs. Both traditions agree on the basic narrative: the Thamud were powerful and prosperous but arrogant; Salih called them to monotheism; they demanded a sign; Allah sent the she-camel; they killed it; they were destroyed. Classical scholars across both schools used the Thamud as archetypal example of divine punishment for rejecting prophets. Some details differ in various narrations, but the essential moral lesson remains consistent. Both Sunni and Shia interpretations emphasize that their destruction serves as warning to subsequent generations, particularly the Prophet Muhammad's community, that rejecting divine guidance leads to catastrophe in both this world and the next, regardless of material power or civilizational achievement.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین ثمود کی کہانی کو تاریخی حقیقت اور اخلاقی سبق کے طور پر بیان کرتے ہیں۔ ابن کثیر نے ثمود کے مقام، نبی صالح علیہ السلام کی بعثت اور ان کی آخری تباہی کی تفصیلات فراہم کی ہیں۔ الرازی اس بات پر بحث کرتے ہیں کہ ان کی سرکشی ان کے انکار کا سبب بنی، یہ ظاہر کرتے ہوئے کہ گناہ کس طرح روح کی الٰہی نشانیوں کو پہچاننے کی صلاحیت کو کمزور کر دیتا ہے۔ طبرسی نے بھی مماثل تفصیلات بیان کی ہیں جن میں اخلاقی بگاڑ اور الٰہی نشانیوں کے بارے میں ذہنی اندھے پن کے مابین تعلق پر زور دیا گیا ہے۔ دونوں روایات بنیادی داستان پر متفق ہیں: ثمود طاقتور اور خوشحال تھے مگر متکبر بھی؛ صالح علیہ السلام نے انھیں توحید کی دعوت دی؛ انھوں نے نشانی مانگی؛ اللہ نے اونٹنی بھیجی؛ انھوں نے اسے قتل کیا؛ اور وہ تباہ ہو گئے۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے ثمود کو انبیاء علیہم السلام کو جھٹلانے کے الٰہی عذاب کی نمونہ مثال کے طور پر پیش کیا۔ سنی روایت قرآن اور سنت نبوی کی پیروی کے ذریعے بگاڑ سے بچنے پر زور دیتی ہے، جبکہ شیعہ روایت میں اہل بیت علیہم السلام کی پیروی کو روحانی ترقی کے لیے ضروری قرار دیا جاتا ہے۔ دونوں نقطہ نظر اس بات پر متفق ہیں کہ یہ آیت ظاہر کرتی ہے کہ مادی قوت الٰہی عذاب سے محفوظ نہیں رکھ سکتی۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على سرد قصة ثمود باعتبارها حقيقة تاريخية ودرساً أخلاقياً لا غنى عنه. ويُقدِّم ابن كثير تفاصيل موقع ثمود ورسالة النبي صالح ومصيرهم المحتوم. ويتناول الرازي طغيانهم بوصفه السبب المباشر لتكذيبهم، كاشفاً كيف يُفسد الإثم قدرةَ النفس على التعرف إلى الحق. ويسرد الطبرسي قصتهم بالمثل مع إبراز الصلة بين الفساد الأخلاقي والعمى الفكري عن الآيات الإلهية. ويتفق التراثان على الرواية الأساسية: ثمود كانوا أقوياء مترفين متكبرين؛ دعاهم صالح إلى التوحيد؛ طالبوا بآية؛ فأرسل الله الناقة؛ فعقروها؛ فأُهلكوا. ووظَّف علماء كلا التراثين ثمود نموذجاً أثيراً على العقوبة الإلهية لمن كذَّب الأنبياء. وثمة تفاوت في بعض تفاصيل الروايات لكن الدرس الأخلاقي الجوهري يبقى ثابتاً. ويُؤكد كلا التفسيرين السني والشيعي أن هلاكهم بمثابة تحذير للأجيال المتعاقبة ولا سيما لأمة النبي محمد صلى الله عليه وآله وسلم، من أن رفض الهدى الإلهي يُفضي إلى الكارثة في الدارين بصرف النظر عن القوة المادية أو الإنجاز الحضاري."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:12:most-wretched",
+          "title": "Ultimate Wretchedness",
+          "icon": "figure.fall",
+          "colorHex": "#E57373",
+          "coreInsight": "When the most wretched (ashqa) of Thamud arose to hamstring the she-camel, he represented the lowest spiritual state - one person's extreme corruption triggering collective doom.",
+          "whyItMatters": "This warns that societies tolerating their worst elements enable catastrophe - failing to restrain the wretched among us invites divine punishment on all.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+          "title_urdu": "انتہائی بدبختی",
+          "coreInsight_urdu": "جب ثمود کا سب سے بدبخت (اشقیٰ) اونٹنی کی ٹانگیں کاٹنے کے لیے اٹھا، تو اس نے سب سے نچلی روحانی حالت کی نمائندگی کی - ایک شخص کی انتہائی بگاڑ اجتماعی تباہی کو متحرک کرتی ہے۔",
+          "whyItMatters_urdu": "یہ خبردار کرتا ہے کہ معاشرے اپنے بدترین عناصر کو برداشت کرتے ہوئے تباہی کو قابل بناتے ہیں - ہمارے درمیان بدبختوں کو روکنے میں ناکامی سب پر الہی عذاب کی دعوت دیتی ہے۔",
+          "title_ar": "الشقاء الأقصى",
+          "coreInsight_ar": "عندما نهض أشقى ثمود (الأكثر شقاءً) لعقر الناقة، مثل أدنى حالة روحية - فساد شخص واحد المتطرف يؤدي إلى هلاك جماعي.",
+          "whyItMatters_ar": "هذا يحذر من أن المجتمعات التي تتسامح مع أسوأ عناصرها تمكن الكارثة - الفشل في كبح الأشقياء بيننا يدعو العقاب الإلهي على الجميع."
+        },
+        {
+          "id": "91:12:active-evil",
+          "title": "Rising Corruption",
+          "icon": "arrow.up.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Inba'atha (arose/sprang forth) suggests active movement toward evil - the wretched one didn't passively sin but actively sought to defy Allah's sign through violence.",
+          "whyItMatters": "Extreme corruption doesn't stay dormant but actively seeks to destroy divine signs and silence prophetic voices, requiring vigilant resistance from believers.",
+          "position": "topRight",
+          "arabicHighlight": "ٱنۢبَعَثَ",
+          "title_urdu": "فعال بگاڑ",
+          "coreInsight_urdu": "انبعث (اٹھا/ابھرا) برائی کی طرف فعال حرکت کا مشورہ دیتا ہے - بدبخت نے غیر فعال طور پر گناہ نہیں کیا بلکہ فعال طور پر تشدد کے ذریعے اللہ کی نشانی کی خلاف ورزی کرنے کی کوشش کی۔",
+          "whyItMatters_urdu": "انتہائی بگاڑ ساکن نہیں رہتا بلکہ فعال طور پر الہی نشانیوں کو تباہ کرنے اور نبوی آوازوں کو خاموش کرنے کی کوشش کرتا ہے، مومنین سے چوکس مزاحمت کی ضرورت ہے۔",
+          "title_ar": "الفساد النشط",
+          "coreInsight_ar": "يشير انبعث (نهض/انطلق) إلى حركة نشطة نحو الشر - لم يخطئ الأشقى بشكل سلبي بل سعى بنشاط لتحدي آية الله من خلال العنف.",
+          "whyItMatters_ar": "الفساد الشديد لا يبقى خاملاً بل يسعى بنشاط لتدمير الآيات الإلهية وإسكات الأصوات النبوية، مما يتطلب مقاومة يقظة من المؤمنين."
+        },
+        {
+          "id": "91:12:communal-silence",
+          "title": "Enabling Evil",
+          "icon": "speaker.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Though one man committed the act, the entire nation shared guilt through their silence and approval - passive complicity in evil equals active participation.",
+          "whyItMatters": "Remaining silent when truth is attacked makes us accomplices - we're responsible not only for our own sins but for evil we fail to oppose.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَشْقَىٰهَا",
+          "title_urdu": "برائی کو قابل بنانا",
+          "coreInsight_urdu": "اگرچہ ایک آدمی نے عمل کیا، لیکن پوری قوم نے اپنی خاموشی اور منظوری کے ذریعے جرم میں حصہ لیا - برائی میں غیر فعال شراکت فعال شرکت کے برابر ہے۔",
+          "whyItMatters_urdu": "جب سچائی پر حملہ ہوتا ہے تو خاموش رہنا ہمیں ساتھی بناتا ہے - ہم نہ صرف اپنے گناہوں کے بلکہ اس برائی کے بھی ذمہ دار ہیں جس کی ہم مخالفت کرنے میں ناکام ہوتے ہیں۔",
+          "title_ar": "تمكين الشر",
+          "coreInsight_ar": "على الرغم من أن رجلاً واحدًا ارتكب الفعل، فإن الأمة بأكملها شاركت في الذنب من خلال صمتها وموافقتها - التواطؤ السلبي في الشر يساوي المشاركة النشطة.",
+          "whyItMatters_ar": "البقاء صامتين عندما يتعرض الحق للهجوم يجعلنا متواطئين - نحن مسؤولون ليس فقط عن خطايانا بل عن الشر الذي نفشل في معارضته."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia sources agree on the basic narrative that one particularly evil individual killed the she-camel, bringing destruction upon his entire people. Ibn Kathir identifies him as Qudar ibn Salif and describes him as a powerful but wretched man who was incited by his people to kill the she-camel. Al-Razi discusses how his wretchedness manifested in his deed. Tabrisi provides similar details with additional emphasis on collective responsibility. Both traditions cite the Prophet Muhammad comparing this killer to the one who would murder Ali ibn Abi Talib, though this comparison carries special significance in Shia interpretation given Ali's station as the first Imam. Classical scholars across both schools discussed whether the entire community participated in killing the she-camel or just Qudar, concluding that even if only one struck the physical blow, the community's support made them collectively guilty. Both Sunni and Shia exegetes emphasize that the label 'most wretched' indicates his ultimate spiritual failure, and that his deed exemplifies how corrupted souls manifest in destructive actions that bring down not only themselves but those around them.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مآخذ اس بنیادی داستان پر متفق ہیں کہ ایک خاص بدکار شخص نے اونٹنی کو قتل کیا اور اپنی پوری قوم پر تباہی لے آیا۔ ابن کثیر نے اسے قدار بن سالف کے نام سے شناخت کیا اور اسے ایک طاقتور لیکن بدبخت شخص بتایا جسے اس کی قوم نے اونٹنی قتل کرنے پر اکسایا۔ الرازی اس بات پر بحث کرتے ہیں کہ اس کی شقاوت اس کے فعل میں کس طرح ظاہر ہوئی۔ طبرسی اسی طرح کی تفصیلات فراہم کرتے ہیں جن میں اجتماعی ذمہ داری پر زیادہ زور دیا گیا ہے۔ دونوں روایات اس حدیث کا حوالہ دیتی ہیں جس میں نبی اکرم صلی اللہ علیہ وآلہ وسلم نے اس قاتل کا موازنہ علی بن ابی طالب علیہ السلام کے قاتل سے کیا، تاہم یہ موازنہ شیعہ تفسیر میں امام علیہ السلام کے مقام کی وجہ سے خاص اہمیت رکھتا ہے۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے اس بارے میں بحث کی کہ آیا پوری برادری نے اونٹنی قتل کرنے میں حصہ لیا یا صرف قدار نے، اس نتیجے پر پہنچتے ہوئے کہ اگرچہ صرف ایک نے جسمانی ضرب لگائی تاہم برادری کی حمایت نے انھیں اجتماعی طور پر مجرم بنا دیا۔ دونوں سنی اور شیعہ مفسرین اس بات پر زور دیتے ہیں کہ سب سے شقی کا لقب اس کی ابدی روحانی ناکامی کو ظاہر کرتا ہے اور اس کا فعل اس بات کی مثال ہے کہ تباہ حال روحیں کس طرح تخریبی اعمال میں ظاہر ہوتی ہیں۔",
+    "layer4_ar": "تتوافق المصادر السنية والشيعية على الرواية الأساسية القاضية بأن شريراً بعينه هو الذي عقر الناقة فجلب الهلاك على قومه أجمعين. ويُحدِّد ابن كثير القاتل بأنه قدار بن سالف، واصفاً إياه بالقوة والخبث، مُشيراً إلى أن قومه هم من حرَّضوه على العقر. ويتناول الرازي شقاوته بوصفها تجلِّياً لها في فعله. ويُسرد الطبرسي تفاصيل مماثلة مع إبراز إضافي للمسؤولية الجماعية. ويستشهد التراثان بحديث النبي صلى الله عليه وآله وسلم الذي يُقارن هذا القاتل بمن سيغتال علي بن أبي طالب عليه السلام، وإن كانت هذه المقارنة تحمل في التفسير الشيعي ثقلاً رمزياً مُضاعفاً نظراً لمقام الإمام عليه السلام. وقد ناقش علماء كلا التراثين هل شارك كل أبناء ثمود في عقر الناقة أم اقتصر الأمر على قدار، فخلصوا إلى أنه حتى لو كان ضربة الفأس من يد واحدة فإن دعم الجماعة جعلهم جميعاً شركاء في الإثم. ويتفق التراثان السني والشيعي على أن وصف أشقاها يُشير إلى الإخفاق الروحي الأقصى، وأن فعله يُجسِّد كيف تتجلى النفوس الفاسدة في أعمال تدميرية لا تُهلك أصحابها وحدهم بل تطال كل من حولهم."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:13:prophetic-warning",
+          "title": "Divine Messenger",
+          "icon": "envelope.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah's messenger Salih warned them about the she-camel of Allah (naqat Allah) and her right to drink, establishing clear divine boundaries they chose to transgress.",
+          "whyItMatters": "Prophets don't make arbitrary rules but convey divine commands - respecting these boundaries is respecting Allah Himself, while violations invite His wrath.",
+          "position": "topLeft",
+          "arabicHighlight": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+          "title_urdu": "نبوی انتباہ",
+          "coreInsight_urdu": "اللہ کے رسول صالح نے انہیں اللہ کی اونٹنی (ناقۃ اللہ) اور اس کے پانی پینے کے حق کے بارے میں خبردار کیا، واضح الہی حدود قائم کرتے ہوئے جنہیں انہوں نے عبور کرنے کا انتخاب کیا۔",
+          "whyItMatters_urdu": "انبیاء من مانے قوانین نہیں بناتے بلکہ الہی احکام پہنچاتے ہیں - ان حدود کا احترام کرنا خود اللہ کا احترام کرنا ہے، جبکہ خلاف ورزیاں اس کے غضب کو دعوت دیتی ہیں۔",
+          "title_ar": "التحذير النبوي",
+          "coreInsight_ar": "حذرهم رسول الله صالح عن ناقة الله (ناقة الله) وحقها في الشرب، مؤسسًا حدودًا إلهية واضحة اختاروا تجاوزها.",
+          "whyItMatters_ar": "الأنبياء لا يضعون قواعد تعسفية بل ينقلون الأوامر الإلهية - احترام هذه الحدود هو احترام الله نفسه، بينما الانتهاكات تدعو غضبه."
+        },
+        {
+          "id": "91:13:divine-sign",
+          "title": "Sacred Symbol",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The she-camel was called 'naqat Allah' (Allah's camel), making her not just a test but a living divine sign - attacking her meant attacking a symbol of Allah's authority.",
+          "whyItMatters": "Divine signs demand reverence not just intellectually but practically - disrespecting symbols of Allah's power reveals hearts hardened against faith itself.",
+          "position": "topRight",
+          "arabicHighlight": "نَاقَةَ ٱللَّهِ",
+          "title_urdu": "مقدس علامت",
+          "coreInsight_urdu": "اونٹنی کو 'ناقۃ اللہ' (اللہ کی اونٹنی) کہا گیا، اسے صرف ایک آزمائش نہیں بلکہ ایک زندہ الہی نشانی بناتے ہوئے - اس پر حملہ کرنا اللہ کے اختیار کی علامت پر حملہ کرنا تھا۔",
+          "whyItMatters_urdu": "الہی نشانیاں صرف فکری طور پر نہیں بلکہ عملی طور پر احترام کا تقاضا کرتی ہیں - اللہ کی طاقت کی علامتوں کی بے احترامی ایمان کے خلاف سخت ہوئے دلوں کو ظاہر کرتی ہے۔",
+          "title_ar": "الرمز المقدس",
+          "coreInsight_ar": "سُميت الناقة 'ناقة الله' (ناقة الله)، مما جعلها ليست مجرد اختبار بل آية إلهية حية - مهاجمتها تعني مهاجمة رمز سلطة الله.",
+          "whyItMatters_ar": "الآيات الإلهية تتطلب التوقير ليس فقط فكريًا بل عمليًا - عدم احترام رموز قوة الله يكشف عن قلوب متصلبة ضد الإيمان نفسه."
+        },
+        {
+          "id": "91:13:water-rights",
+          "title": "Divine Justice",
+          "icon": "drop.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The camel's right to drink (suqya) on alternating days represented divine justice - even a miraculous sign from Allah had rights that must be respected.",
+          "whyItMatters": "If Allah grants rights even to animals in His service, how much more seriously should we take the rights of fellow humans, especially the vulnerable?",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَسُقْيَٰهَا",
+          "title_urdu": "الہی انصاف",
+          "coreInsight_urdu": "اونٹنی کے متبادل دنوں میں پانی پینے کا حق (سقیٰ) الہی انصاف کی نمائندگی کرتا تھا - اللہ کی طرف سے ایک معجزانہ نشانی کے بھی حقوق تھے جن کا احترام ضروری تھا۔",
+          "whyItMatters_urdu": "اگر اللہ اپنی خدمت میں جانوروں کو بھی حقوق دیتا ہے، تو ہمیں ساتھی انسانوں کے حقوق، خاص طور پر کمزوروں کے حقوق کو کتنا زیادہ سنجیدگی سے لینا چاہیے؟",
+          "title_ar": "العدالة الإلهية",
+          "coreInsight_ar": "مثل حق الناقة في الشرب (سقياها) في الأيام المتناوبة العدالة الإلهية - حتى آية معجزة من الله كانت لها حقوق يجب احترامها.",
+          "whyItMatters_ar": "إذا منح الله حقوقًا حتى للحيوانات في خدمته، فكم يجب أن نأخذ حقوق إخواننا البشر بجدية أكبر، خاصة الضعفاء؟"
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia exegetes detail the story of Prophet Salih's warning about the she-camel and the Thamud's fatal disobedience. Ibn Kathir recounts that Salih warned his people repeatedly not to harm the she-camel, and that she would drink from the well on her designated day while they could take water on alternate days. Al-Razi discusses the she-camel as a miraculous sign proving Salih's prophethood and a practical test of obedience. Tabrisi provides similar details with additional emphasis on the she-camel's miraculous emergence from solid rock at the Thamud's own request. Both traditions agree that the warning was absolutely clear, leaving the Thamud without excuse. Classical scholars across both schools discussed the wisdom in this particular test, with various conclusions but agreement that it combined miraculous sign with practical obedience. Shia tradition particularly emphasizes the she-camel as representing divinely designated authority requiring respect and obedience, connecting it to the Imams' station. Both perspectives agree that the Thamud's violation of the clear warning demonstrated their complete moral corruption and justified the severe punishment that followed.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین نبی صالح علیہ السلام کی اونٹنی کے بارے میں تنبیہ اور ثمود کی مہلک نافرمانی کی تفصیلات بیان کرتے ہیں۔ ابن کثیر روایت کرتے ہیں کہ صالح علیہ السلام نے اپنی قوم کو بار بار اونٹنی کو نقصان نہ پہنچانے کی تنبیہ کی، اور یہ کہ وہ مقررہ دن کنویں سے پانی پیے جبکہ وہ متبادل دنوں میں پانی لیں۔ الرازی اونٹنی کو ایک معجزاتی نشانی کے طور پر بیان کرتے ہیں جو صالح علیہ السلام کی نبوت کو ثابت کرتی تھی اور اطاعت کا عملی امتحان تھی۔ طبرسی اسی طرح کی تفصیلات فراہم کرتے ہیں اور اونٹنی کے ٹھوس چٹان سے معجزانہ ظہور پر زور دیتے ہیں جو ثمود کی اپنی خواہش پر ہوا تھا۔ دونوں روایات اس بات پر متفق ہیں کہ تنبیہ بالکل واضح تھی، جس سے ثمود کے پاس کوئی عذر نہ رہا۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے اس خاص امتحان کی حکمت پر غور کیا اور مختلف نتائج کے ساتھ اس بات پر اتفاق کیا کہ اس نے معجزاتی نشانی کو عملی اطاعت کے ساتھ یکجا کیا۔ شیعہ روایت خاص طور پر اونٹنی کو الٰہی طور پر نامزد اتھارٹی کی علامت کے طور پر بیان کرتی ہے جو احترام اور اطاعت کی طلبگار ہے، اسے ائمہ علیہم السلام کے مقام سے جوڑتے ہوئے۔ دونوں نقطہ نظر اس بات پر متفق ہیں کہ ثمود کی واضح تنبیہ کی خلاف ورزی نے ان کے مکمل اخلاقی بگاڑ کو ظاہر کیا اور سخت عذاب کو جائز قرار دیا۔",
+    "layer4_ar": "يفصِّل المفسرون السنة والشيعة قصة تحذير النبي صالح عليه السلام من الناقة ومعصية ثمود المُهلِكة. ويُخبر ابن كثير أن صالحاً حذَّر قومه مراراً من إيذاء الناقة، وأنها كانت ترِد البئر في يومها المحدد فيما يأخذ القوم الماء في يوم آخر. ويتناول الرازي الناقة بوصفها آيةً معجزة تُثبت نبوة صالح واختباراً عملياً للطاعة. ويُسرد الطبرسي التفاصيل ذاتها مُضيفاً تأكيداً على خروج الناقة معجزاً من الصخرة الصماء استجابةً لمطالبة ثمود أنفسهم. ويتفق التراثان على أن التحذير كان بالغ الوضوح لا يترك لثمود حجةً. وقد ناقش علماء كلا المذهبين الحكمة من هذا الاختبار بعينه بنتائج متباينة لكنهم اتفقوا على أنه جمع بين الآية المعجزة والطاعة العملية. والتراث الشيعي يُبرز بصفة خاصة دلالة الناقة على السلطة الإلهية المُعيَّنة التي تستوجب الاحترام والطاعة ربطاً بمقام الأئمة عليهم السلام. ويتفق التراثان على أن انتهاك ثمود للتحذير الصريح كشف عن فسادهم الأخلاقي الكامل ومرَّر طريق العقوبة الشديدة التي تلته."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:14:rejection-destruction",
+          "title": "Fatal Defiance",
+          "icon": "bolt.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "They denied the prophet and hamstrung the camel ('aqaruha), so their Lord brought complete destruction (damdama) upon them for their sin, leveling all equally.",
+          "whyItMatters": "Open defiance of clear divine commands brings swift and total judgment - Allah's patience has limits when arrogance reaches the point of attacking His signs.",
+          "position": "topLeft",
+          "arabicHighlight": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ",
+          "title_urdu": "مہلک سرکشی",
+          "coreInsight_urdu": "انہوں نے نبی کو جھٹلایا اور اونٹنی کی ٹانگیں کاٹ دیں (عقروھا)، لہذا ان کے رب نے ان پر اپنے گناہ کے لیے مکمل تباہی (دمدم) نازل کی، سب کو برابر کر دیا۔",
+          "whyItMatters_urdu": "واضح الہی احکام کی کھلی خلاف ورزی تیز اور مکمل فیصلہ لاتی ہے - اللہ کے صبر کی حدیں ہیں جب تکبر اس کی نشانیوں پر حملہ کرنے کی حد تک پہنچ جائے۔",
+          "title_ar": "التحدي القاتل",
+          "coreInsight_ar": "أنكروا النبي وعقروا الناقة (عقروها)، فدمدم عليهم ربهم (أحل عليهم دمارًا كاملاً) بذنبهم، مسويًا الجميع بالتساوي.",
+          "whyItMatters_ar": "التحدي المفتوح للأوامر الإلهية الواضحة يجلب حكمًا سريعًا وكاملاً - صبر الله له حدود عندما يصل الكبرياء إلى نقطة مهاجمة آياته."
+        },
+        {
+          "id": "91:14:complete-annihilation",
+          "title": "Total Destruction",
+          "icon": "building.2.crop.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Damdama (leveled/crushed) conveys utter obliteration - Allah didn't just punish but completely annihilated Thamud, leaving no trace of their civilization as a lasting warning.",
+          "whyItMatters": "When divine punishment comes, worldly power provides no protection - the mighty Thamud with their rock-carved homes were reduced to ruins in an instant.",
+          "position": "topRight",
+          "arabicHighlight": "فَدَمْدَمَ عَلَيْهِمْ",
+          "title_urdu": "مکمل تباہی",
+          "coreInsight_urdu": "دمدم (برابر کیا/کچل دیا) مکمل فنا کو بیان کرتا ہے - اللہ نے صرف سزا نہیں دی بلکہ ثمود کو مکمل طور پر تباہ کر دیا، ان کی تہذیب کا کوئی نشان باقی نہیں چھوڑا ایک دائمی انتباہ کے طور پر۔",
+          "whyItMatters_urdu": "جب الہی سزا آتی ہے، تو دنیاوی طاقت کوئی تحفظ فراہم نہیں کرتی - طاقتور ثمود اپنے پتھر میں کھدے ہوئے گھروں کے ساتھ ایک لمحے میں کھنڈرات میں تبدیل ہو گئے۔",
+          "title_ar": "الدمار التام",
+          "coreInsight_ar": "تنقل دمدم (سوى/سحق) الإبادة الكاملة - الله لم يعاقب فقط بل أبادهم تمامًا، دون ترك أي أثر لحضارتهم كتحذير دائم.",
+          "whyItMatters_ar": "عندما يأتي العقاب الإلهي، لا توفر القوة الدنيوية أي حماية - ثمود العظيمة بمنازلها المنحوتة في الصخر تحولت إلى أنقاض في لحظة."
+        },
+        {
+          "id": "91:14:equal-judgment",
+          "title": "Universal Accountability",
+          "icon": "equal.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Fasawwaha (made it equal) indicates the punishment encompassed all - whether actively criminal, passively complicit, or silently tolerant, all shared the fate.",
+          "whyItMatters": "In communities that collectively reject truth, personal innocence doesn't guarantee protection - we must actively oppose evil or risk sharing collective punishment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَسَوَّىٰهَا",
+          "title_urdu": "عالمگیر جوابدہی",
+          "coreInsight_urdu": "فسوّاھا (اسے برابر کیا) اشارہ کرتا ہے کہ سزا نے سب کو گھیر لیا - چاہے فعال طور پر مجرم، غیر فعال طور پر ملوث، یا خاموشی سے برداشت کرنے والے، سب نے قسمت میں حصہ لیا۔",
+          "whyItMatters_urdu": "ان معاشروں میں جو اجتماعی طور پر سچائی کو مسترد کرتے ہیں، ذاتی معصومیت تحفظ کی ضمانت نہیں دیتی - ہمیں فعال طور پر برائی کی مخالفت کرنی چاہیے یا اجتماعی سزا میں حصہ لینے کا خطرہ مول لینا چاہیے۔",
+          "title_ar": "المساءلة الشاملة",
+          "coreInsight_ar": "تشير فسواها (جعلها متساوية) إلى أن العقاب شمل الجميع - سواء كانوا مجرمين بنشاط، أو متواطئين سلبيًا، أو متسامحين صامتين، شارك الجميع المصير.",
+          "whyItMatters_ar": "في المجتمعات التي ترفض الحق جماعيًا، لا تضمن البراءة الشخصية الحماية - يجب أن نعارض الشر بنشاط أو نخاطر بمشاركة العقاب الجماعي."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators agree on the basic narrative of the Thamud's destruction following their crime against the she-camel. Ibn Kathir describes the terrible sound and earthquake that destroyed them all simultaneously after they killed the camel and planned to kill Salih. Al-Razi discusses divine justice in punishing the community collectively since they shared responsibility for the crime. Tabrisi provides similar details with emphasis on the three-day warning period and their continued defiance. Both traditions cite hadith encouraging travelers passing through the ruins of destroyed nations to reflect on divine justice and human accountability. Classical scholars across both schools discussed the nature of collective punishment and divine justice, generally concluding that Allah's wisdom perfectly calibrates response to crime. Both Sunni and Shia exegesis emphasize that this verse illustrates the general principle that societies face consequences for moral corruption, particularly when rejecting prophetic guidance. The equal distribution of punishment demonstrates that social cohesion means shared fate - whether salvation or destruction - based on collective moral direction. Both perspectives present the Thamud as a permanent warning that material power cannot protect against divine justice.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین اونٹنی کے خلاف ان کے جرم کے بعد ثمود کی تباہی کی بنیادی داستان پر متفق ہیں۔ ابن کثیر نے اس خوفناک آواز اور زلزلے کو بیان کیا جس نے انھیں اونٹنی قتل کرنے اور صالح علیہ السلام کو قتل کرنے کا منصوبہ بنانے کے بعد ایک ساتھ تباہ کر دیا۔ الرازی الٰہی عدل پر بحث کرتے ہیں جو برادری کو اجتماعی سزا دیتا ہے کیونکہ وہ جرم کی ذمہ داری میں شریک تھے۔ طبرسی اسی طرح کی تفصیلات بیان کرتے ہیں اور تین دن کی مہلت اور ان کی مسلسل سرکشی پر زور دیتے ہیں۔ دونوں روایات تباہ شدہ قوموں کے کھنڈرات سے گزرتے وقت غور و فکر اور الٰہی عدل اور انسانی احتساب پر تأمل کی ترغیب دیتی احادیث کا حوالہ دیتی ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے اجتماعی عذاب اور الٰہی عدل کی نوعیت پر بحث کرتے ہوئے عمومی طور پر یہ نتیجہ اخذ کیا کہ اللہ کی حکمت جرم کے مطابق ردعمل کو کامل طریقے سے ترتیب دیتی ہے۔ سنی اور شیعہ دونوں تفاسیر اس بات پر زور دیتے ہیں کہ یہ آیت اس عمومی اصول کو ظاہر کرتی ہے کہ معاشرے اخلاقی بگاڑ کے نتائج بھگتتے ہیں۔ عذاب کی مساوی تقسیم یاد دلاتی ہے کہ سماجی یکجہتی مشترکہ انجام کا سبب بنتی ہے جو اجتماعی اخلاقی راستے کی بنیاد پر نجات یا تباہی میں سے کوئی ایک ہوتا ہے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على الرواية الأساسية لهلاك ثمود إثر جريمتهم في حق الناقة. ويصف ابن كثير الصاعقة الرهيبة والزلزال الذي دمَّرهم جميعاً في آنٍ واحد بعد أن عقروا الناقة ودبَّروا قتل صالح. ويتناول الرازي العدل الإلهي في معاقبة الجماعة معاً إذ اشتركوا في المسؤولية عن الجريمة. ويُسرد الطبرسي التفاصيل ذاتها مُشيراً إلى فترة الإنذار البالغة ثلاثة أيام وتمادي ثمود في العصيان بعدها. ويستشهد التراثان بأحاديث تحثُّ المسافرين المارِّين على ديار الأمم المُهلَكة على استحضار العدل الإلهي والمساءلة الإنسانية في قلوبهم. وقد ناقش علماء كلا المذهبين طبيعة العقوبة الجماعية والعدل الإلهي خلف ذلك، منتهين في الغالب إلى أن حكمة الله تُوازن استجابتها مع حجم الجريمة بدقة تامة. ويُبرز تفسيرا السنة والشيعة معاً أن هذه الآية تُجسِّد المبدأ العام القائل بأن المجتمعات تُلاقي تبعات فسادها الأخلاقي لا سيما حين تُنكر الهدى النبوي. وتوزيع العذاب بالتسوية يُثبت أن التضامن الاجتماعي يعني المصير المشترك - نجاةً أو هلاكاً - بناءً على التوجه الأخلاقي الجمعي. ويُقدِّم التراثان ثمود تحذيراً راسخاً أبدياً من أن القوة المادية لا تقي من العدل الإلهي."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "91:15:divine-power",
+          "title": "Absolute Authority",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah doesn't fear the consequences ('uqba) of His judgment - unlike human rulers who worry about backlash, Allah's power is absolute and His justice unquestionable.",
+          "whyItMatters": "This supreme sovereignty means divine decisions are never arbitrary but always perfectly just, executed without hesitation or concern for worldly opposition.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَا يَخَافُ عُقْبَٰهَا",
+          "title_urdu": "مطلق اختیار",
+          "coreInsight_urdu": "اللہ اپنے فیصلے کے نتائج (عقبیٰ) سے نہیں ڈرتا - انسانی حکمرانوں کے برعکس جو ردعمل کی فکر کرتے ہیں، اللہ کی طاقت مطلق ہے اور اس کا انصاف ناقابل سوال ہے۔",
+          "whyItMatters_urdu": "اس عظیم حاکمیت کا مطلب ہے کہ الہی فیصلے کبھی من مانے نہیں ہوتے بلکہ ہمیشہ مکمل طور پر منصفانہ ہوتے ہیں، بغیر کسی ہچکچاہٹ یا دنیاوی مخالفت کی فکر کے نافذ ہوتے ہیں۔",
+          "title_ar": "السلطة المطلقة",
+          "coreInsight_ar": "الله لا يخاف عواقب (عقباها) حكمه - على عكس الحكام البشر الذين يقلقون من رد الفعل، قوة الله مطلقة وعدالته لا تُساءل.",
+          "whyItMatters_ar": "هذه السيادة العليا تعني أن القرارات الإلهية ليست تعسفية أبدًا بل دائمًا عادلة تمامًا، تُنفذ دون تردد أو قلق من المعارضة الدنيوية."
+        },
+        {
+          "id": "91:15:fearless-justice",
+          "title": "Unafraid Judgment",
+          "icon": "hammer.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'la yakhafu' (does not fear) emphasizes Allah's complete independence - no force can challenge His decisions or make Him hesitate in executing justice.",
+          "whyItMatters": "Unlike human courts swayed by power or public opinion, Allah's judgment is perfectly just precisely because it fears no consequences or criticism.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَا يَخَافُ",
+          "title_urdu": "بے خوف فیصلہ",
+          "coreInsight_urdu": "جملہ 'لا یخاف' (نہیں ڈرتا) اللہ کی مکمل آزادی پر زور دیتا ہے - کوئی طاقت اس کے فیصلوں کو چیلنج نہیں کر سکتی یا اسے انصاف کو نافذ کرنے میں ہچکچانے پر مجبور نہیں کر سکتی۔",
+          "whyItMatters_urdu": "انسانی عدالتوں کے برعکس جو طاقت یا عوامی رائے سے متاثر ہوتی ہیں، اللہ کا فیصلہ بالکل منصفانہ ہے کیونکہ یہ کسی نتائج یا تنقید سے نہیں ڈرتا۔",
+          "title_ar": "الحكم الخالي من الخوف",
+          "coreInsight_ar": "تؤكد العبارة 'لا يخاف' على استقلال الله التام - لا توجد قوة يمكنها تحدي قراراته أو جعله يتردد في تنفيذ العدالة.",
+          "whyItMatters_ar": "على عكس المحاكم البشرية التي تتأثر بالقوة أو الرأي العام، حكم الله عادل تمامًا بالضبط لأنه لا يخاف أي عواقب أو انتقادات."
+        },
+        {
+          "id": "91:15:final-warning",
+          "title": "Ultimate Reminder",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "This verse concludes the surah by returning to the central message: purify your soul now, for Allah's judgment will come without hesitation or mercy for the corrupt.",
+          "whyItMatters": "The time for soul purification is now, in this life - once divine judgment arrives, no appeals or second chances will save those who buried their souls in corruption.",
+          "position": "bottomLeft",
+          "arabicHighlight": "عُقْبَٰهَا",
+          "title_urdu": "آخری یاد دہانی",
+          "coreInsight_urdu": "یہ آیت مرکزی پیغام کی طرف واپس آتے ہوئے سورت کا اختتام کرتی ہے: اپنی روح کو ابھی پاک کرو، کیونکہ اللہ کا فیصلہ بغیر کسی ہچکچاہٹ یا بدعنوانوں کے لیے رحم کے آئے گا۔",
+          "whyItMatters_urdu": "روح کی پاکیزگی کا وقت اب ہے، اس زندگی میں - ایک بار الہی فیصلہ آ جائے، کوئی اپیلیں یا دوسرے مواقع ان لوگوں کو نہیں بچائیں گے جنہوں نے اپنی روحوں کو بگاڑ میں دفن کیا۔",
+          "title_ar": "التذكير النهائي",
+          "coreInsight_ar": "تختتم هذه الآية السورة بالعودة إلى الرسالة المركزية: طهر روحك الآن، لأن حكم الله سيأتي دون تردد أو رحمة للفاسدين.",
+          "whyItMatters_ar": "وقت تطهير الروح هو الآن، في هذه الحياة - بمجرد وصول الحكم الإلهي، لن تنقذ أي طعون أو فرص ثانية أولئك الذين دفنوا أرواحهم في الفساد."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia exegetes interpret this verse as affirming divine sovereignty and the perfection of Allah's judgments. Ibn Kathir explains that Allah does not fear anyone seeking revenge for those He destroyed or holding Him accountable for His decisions, because He is the ultimate authority answerable to none. Al-Razi discusses the verse as negating any limitation or fear from Allah, establishing His absolute power and independence. Tabrisi similarly emphasizes that Allah's destruction of the Thamud was entirely just, and no consequence of that action could cause Him any concern because His power and authority are absolute. Both traditions connect this verse to numerous others affirming that Allah is questioned about nothing He does while all others are questioned about their deeds. Classical scholars across both schools discussed the verse as establishing the proper relationship between Creator and creation - absolute authority on one side, complete accountability on the other. Both Sunni and Shia interpretation emphasize that this verse should inspire both fear of divine judgment and trust in divine justice. The verse concludes Surah Ash-Shams by affirming that ultimate power, knowledge, and justice rest with Allah alone.",
+    "layer4_urdu": "سنی اور شیعہ دونوں مفسرین اس آیت کو الٰہی حاکمیت اور اللہ کے فیصلوں کی کمال کی تصدیق کے طور پر سمجھتے ہیں۔ ابن کثیر وضاحت کرتے ہیں کہ اللہ کسی سے نہیں ڈرتا جو ان کا انتقام لے جنھیں اس نے تباہ کیا یا اس کے فیصلوں کے بارے میں اسے جوابدہ ٹھہرائے، کیونکہ وہ کسی کے سامنے جوابدہ نہ ہونے والی حتمی اتھارٹی ہے۔ الرازی آیت پر بحث کرتے ہوئے اللہ پر کسی محدودیت یا خوف کی نفی کرتے ہیں اور اس کی مطلق طاقت اور آزادی کو قائم کرتے ہیں۔ طبرسی نے بھی اسی طرح زور دیا کہ اللہ کا ثمود کو تباہ کرنا مکمل طور پر عادلانہ تھا اور اس عمل کا کوئی نتیجہ اسے کوئی فکر نہیں پہنچا سکتا کیونکہ اس کی طاقت اور اختیار مطلق ہے۔ دونوں روایات متعدد دیگر آیات سے ربط قائم کرتی ہیں جو تصدیق کرتی ہیں کہ اللہ سے اس کے کسی کام کے بارے میں سوال نہیں کیا جا سکتا جبکہ سب دوسرے اپنے اعمال کے بارے میں جوابدہ ہیں۔ دونوں مکاتبِ فکر کے کلاسیکی علماء نے اس آیت کو خالق اور مخلوق کے درمیان صحیح تعلق قائم کرنے کے طور پر بیان کیا۔ سنی اور شیعہ دونوں تفاسیر اس بات پر زور دیتی ہیں کہ یہ آیت الٰہی فیصلے کا خوف اور الٰہی عدل پر اعتماد دونوں کو اکسانی چاہیے۔ سورۃ الشمس کا اختتام تصدیق کرتا ہے کہ حتمی طاقت، علم اور انصاف صرف اللہ کے پاس ہے۔",
+    "layer4_ar": "يتفق المفسرون السنة والشيعة على أن هذه الآية تُثبت السيادة الإلهية وكمال أحكامه. ويُبيِّن ابن كثير أن الله لا يخشى أحداً يسعى للثأر ممن أهلكهم أو يُحاسبه على قراراته لأنه السلطة القصوى التي لا تُساءل. ويتناول الرازي الآية بوصفها نفياً لكل قيد وخوف عن الله، مُؤسِّسةً قدرته المطلقة وغناه التام. ويُؤكد الطبرسي بالمثل أن إهلاك الله لثمود كان بالغ العدل ولا يترتب على ذلك الفعل أي تبعة يمكن أن تُشغل باله سبحانه لأن قدرته وسلطانه مطلقان لا حدود لهما. ويربط التراثان الآية بكثير من الآيات الأخرى المُقررة أن الله لا يُسأل عما يفعل وجميع الخلق مسؤولون عما يفعلون. وقد ناقش علماء كلا المذهبين الآية بوصفها مُؤسِّسةً العلاقة الصحيحة بين الخالق والمخلوق - سلطان مطلق في جانب ومساءلة تامة في الجانب الآخر. ويُبرز التفسيران السني والشيعي معاً أن هذه الآية ينبغي أن تُلهم في الوقت ذاته خشية الحكم الإلهي والثقة بعدله وحكمته. وتختتم هذه الآية سورة الشمس بتقرير أن القدرة الحقة والعلم المحيط والعدل الكامل لله وحده لا شريك له."
+  }
+}

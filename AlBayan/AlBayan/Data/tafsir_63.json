@@ -1,0 +1,677 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:1:false-testimony",
+          "title": "False Testimony",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites verbally testify to the Prophet's messengership while their hearts reject it. Allah exposes their testimony as a lie despite its apparent truth.",
+          "whyItMatters": "True faith requires alignment between speech and belief. Outward declarations without inner conviction constitute spiritual deception and self-betrayal.",
+          "position": "topLeft",
+          "arabicHighlight": "نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ",
+          "title_urdu": "جھوٹی گواہی",
+          "coreInsight_urdu": "منافقین زبانی طور پر نبی کی رسالت کی گواہی دیتے ہیں جبکہ ان کے دل اسے رد کرتے ہیں۔ اللہ ان کی گواہی کو جھوٹ قرار دیتا ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان میں بول اور عقیدے کی ہم آہنگی ضروری ہے۔ ظاہری اعلانات بغیر باطنی یقین کے روحانی دھوکہ ہیں۔",
+          "title_ar": "الشهادة الكاذبة",
+          "coreInsight_ar": "يشهد المنافقون لفظياً برسالة النبي بينما قلوبهم ترفضها. الله يفضح شهادتهم كذباً رغم ظاهرها الصادق.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب التوافق بين القول والاعتقاد. التصريحات الظاهرية دون القناعة الباطنية خداع روحي."
+        },
+        {
+          "id": "63:1:divine-knowledge",
+          "title": "Divine Knowledge",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah knows the truth of the Prophet's messengership and simultaneously knows the hypocrisy in the hearts of those who falsely testify. Nothing is hidden from His knowledge.",
+          "whyItMatters": "We cannot deceive Allah with outward displays. His knowledge penetrates the deepest recesses of the heart, making sincerity essential in all our declarations.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ يَعْلَمُ",
+          "title_urdu": "علم الٰہی",
+          "coreInsight_urdu": "اللہ نبی کی رسالت کی حقیقت جانتا ہے اور ان کے دلوں میں نفاق کو بھی جانتا ہے۔ اس کے علم سے کچھ چھپا نہیں۔",
+          "whyItMatters_urdu": "ہم ظاہری دکھاوے سے اللہ کو دھوکا نہیں دے سکتے۔ اس کا علم دل کی گہرائیوں تک پہنچتا ہے۔",
+          "title_ar": "العلم الإلهي",
+          "coreInsight_ar": "الله يعلم حقيقة رسالة النبي ويعلم في نفس الوقت النفاق في قلوب الشاهدين كذباً. لا شيء يخفى عن علمه.",
+          "whyItMatters_ar": "لا يمكننا خداع الله بالمظاهر الخارجية. علمه يخترق أعمق أعماق القلب."
+        },
+        {
+          "id": "63:1:hypocrisy-exposed",
+          "title": "Hypocrisy Exposed",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah directly testifies that the hypocrites are liars, unveiling the contradiction between their external profession and internal reality.",
+          "whyItMatters": "This divine exposure serves as a warning that hypocrisy cannot remain hidden. The truth will eventually be revealed, making authenticity the only sustainable path.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ",
+          "title_urdu": "نفاق کی بے نقابی",
+          "coreInsight_urdu": "اللہ براہ راست گواہی دیتا ہے کہ منافقین جھوٹے ہیں، ان کے ظاہر اور باطن کے تضاد کو بے نقاب کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ الہی بے نقابی انتباہ ہے کہ نفاق چھپا نہیں رہ سکتا۔ سچائی آخرکار ظاہر ہوگی۔",
+          "title_ar": "كشف النفاق",
+          "coreInsight_ar": "الله يشهد مباشرة أن المنافقين كاذبون، كاشفاً التناقض بين إعلانهم الخارجي وحقيقتهم الداخلية.",
+          "whyItMatters_ar": "هذا الكشف الإلهي تحذير بأن النفاق لا يمكن أن يبقى مخفياً. الحقيقة ستنكشف في النهاية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse exposing the hypocrites of Medina. Sunni commentators like Ibn Kathir and Tabari identify Abdullah ibn Ubayy as the chief hypocrite referenced here, a view shared by Shia sources. However, Shia scholarship extends the analysis to later periods, examining hypocrisy among some companions after the Prophet's death. While Sunni tradition generally holds all companions in high esteem, Shia scholars distinguish between sincere companions and those who opposed the Ahlul Bayt, particularly regarding the succession to the Prophet. Both traditions emphasize that outward conformity without inner belief is spiritually worthless. Fakhr al-Din al-Razi notes that the verse teaches Allah's knowledge encompasses both the apparent and the hidden, a point emphasized equally in Shia sources. The universal message is that God cannot be deceived by false testimony, regardless of how convincing it appears to other humans.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس آیت کی بنیادی تشریح پر متفق ہیں جو مدینے کے منافقین کو بے نقاب کرتی ہے۔ سنی مفسرین جیسے ابن کثیر اور طبری عبداللہ بن ابی کو یہاں حوالہ دیتے ہیں جو منافقین کا سردار تھا، یہ نقطہ نظر شیعہ ذرائع میں بھی موجود ہے۔ تاہم، شیعہ علمیات نبی کی وفات کے بعد کی مدت میں بھی نفاق کے تجزیے کو بڑھاتی ہے، بعض صحابہ جو اہل بیت کی مخالفت کرتے تھے۔ جب کہ سنی روایت عام طور پر تمام صحابہ کو عالی مقام سمجھتی ہے، شیعہ علماء سچے اور نافریب صحابہ میں فرق کرتے ہیں۔ دونوں تقاليد اس بات پر زور دیتے ہیں کہ ظاہری موافقت بغیر سچے ایمان کے روحانی لحاظ سے بیکار ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة في جوهر تفسير هذه الآية الكاشفة لأحوال منافقي المدينة. ويُحدِّد المفسرون السنة كابن كثير والطبري عبدَ الله بن أُبيٍّ رأساً للمنافقين المقصودين بالآية، وهو ما تتوافق معه المصادر الشيعية. غير أن الدراسة الشيعية تمتد في تحليلها إلى المراحل اللاحقة، لتتناول النفاق عند بعض الصحابة بعد وفاة النبي صلى الله عليه وآله وسلم. وبينما تحمل التراث السني عموم الصحابة على الجلالة والتوقير، يُميِّز علماء الشيعة بين الصحابة المخلصين وأولئك الذين ناصبوا أهل البيت العداء، ولا سيما في مسألة الخلافة. والتراثان معاً يُقرِّران أن الموافقة الظاهرية مع خلو الباطن من الإيمان لا تُجدي صاحبها شيئاً في ميزان الله. ويُنبِّه فخر الدين الرازي إلى أن الآية تُرسِّخ مبدأ إحاطة علم الله بالظاهر والباطن معاً، وهو ما تُؤكِّده المصادر الشيعية تأكيداً مماثلاً. والحكمة الجامعة هي أن الله لا يمكن خداعه بالشهادات الزائفة، مهما بلغت من الإقناع في أعين البشر."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:2:oaths-as-shield",
+          "title": "Oaths as Shield",
+          "icon": "shield.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Hypocrites use false oaths as a protective barrier to hide their true intentions and gain trust, turning sacred declarations into tools of deception.",
+          "whyItMatters": "Misusing oaths degrades their spiritual value and creates a culture of mistrust. Sacred commitments should never be weaponized for personal gain.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةًۭ",
+          "title_urdu": "قسموں کی ڈھال",
+          "coreInsight_urdu": "منافقین جھوٹی قسموں کو حفاظتی رکاوٹ کے طور پر استعمال کرتے ہیں تاکہ اپنے حقیقی ارادوں کو چھپائیں اور اعتماد حاصل کریں۔",
+          "whyItMatters_urdu": "قسموں کا غلط استعمال ان کی روحانی قدر کو کم کرتا ہے اور عدم اعتماد کی ثقافت پیدا کرتا ہے۔",
+          "title_ar": "الأيمان كدرع",
+          "coreInsight_ar": "المنافقون يستخدمون الأيمان الكاذبة كحاجز وقائي لإخفاء نواياهم الحقيقية وكسب الثقة.",
+          "whyItMatters_ar": "إساءة استخدام الأيمان تقلل من قيمتها الروحية وتخلق ثقافة انعدام الثقة."
+        },
+        {
+          "id": "63:2:blocking-guidance",
+          "title": "Blocking Guidance",
+          "icon": "road.lanes",
+          "colorHex": "#E57373",
+          "coreInsight": "Through their false displays and manipulation, hypocrites actively prevent others from following the path of Allah, becoming obstacles to truth.",
+          "whyItMatters": "Those who block others from guidance bear double responsibility - for their own misguidance and for leading others astray. The influence we have demands accountability.",
+          "position": "topRight",
+          "arabicHighlight": "فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+          "title_urdu": "ہدایت میں رکاوٹ",
+          "coreInsight_urdu": "اپنے جھوٹے مظاہروں اور ہیرا پھیری سے منافقین دوسروں کو اللہ کی راہ پر چلنے سے روکتے ہیں۔",
+          "whyItMatters_urdu": "جو لوگ دوسروں کو ہدایت سے روکتے ہیں وہ دوہری ذمہ داری اٹھاتے ہیں - اپنی گمراہی اور دوسروں کی گمراہی کی۔",
+          "title_ar": "منع الهداية",
+          "coreInsight_ar": "من خلال مظاهرهم الكاذبة ومناوراتهم، يمنع المنافقون الآخرين من اتباع طريق الله.",
+          "whyItMatters_ar": "الذين يمنعون الآخرين من الهداية يتحملون مسؤولية مزدوجة - عن ضلالهم وإضلال الآخرين."
+        },
+        {
+          "id": "63:2:evil-deeds",
+          "title": "Evil Actions",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah declares the actions of hypocrites as fundamentally evil - not just mistaken but morally reprehensible in their deceptive nature.",
+          "whyItMatters": "This severe judgment reminds us that some actions are not merely errors but constitute genuine evil. We must recognize and avoid such paths decisively.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+          "title_urdu": "بری حرکات",
+          "coreInsight_urdu": "اللہ منافقین کے اعمال کو بنیادی طور پر برے قرار دیتا ہے - صرف غلطی نہیں بلکہ اخلاقی طور پر قابل مذمت۔",
+          "whyItMatters_urdu": "یہ سخت فیصلہ یاد دلاتا ہے کہ کچھ اعمال محض غلطیاں نہیں بلکہ حقیقی برائی ہیں۔",
+          "title_ar": "الأعمال الشريرة",
+          "coreInsight_ar": "الله يعلن أعمال المنافقين شريرة بشكل أساسي - ليست مجرد أخطاء بل مذمومة أخلاقياً.",
+          "whyItMatters_ar": "هذا الحكم الصارم يذكرنا أن بعض الأفعال ليست مجرد أخطاء بل شر حقيقي."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators unanimously condemn the hypocrites' abuse of oaths as shields. Qurtubi and Ibn Kathir provide detailed accounts of how Abdullah ibn Ubayy and his followers would swear loyalty to escape accountability, a narrative fully supported by Shia sources. The main interpretive difference appears in identifying who constitutes a hypocrite in Islamic history. While Sunni scholarship generally limits the discussion to the Medinan hypocrites of the Prophet's time, Shia scholarship extends the analysis to include some companions who later opposed Imam Ali's rightful caliphate, seeing this opposition as evidence of hidden hypocrisy. However, both schools agree on the moral principle that insincere oaths are worthless before Allah and harmful to the community. Razi emphasizes that using religion as a cover for evil makes the sin doubly grave, a position echoed in Shia jurisprudence. The shared teaching is that authentic faith requires integrity where one's private beliefs and public declarations align completely.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین قسمیں ڈھال کے طور پر استعمال کرنے کی مذمت میں متفق ہیں۔ قرطبی اور ابن کثیر تفصیلی حسابات فراہم کرتے ہیں کہ عبداللہ بن ابی اور اس کے پیروکار جوابدہی سے بچنے کے لیے وفاداری کی قسمیں کیسے کھاتے تھے، یہ روایت شیعہ ذرائع میں بھی پوری طرح معاون ہے۔ اہم تشریحی فرق اس میں نظر آتا ہے کہ اسلامی تاریخ میں کون منافق ہے۔ جب کہ سنی علمیات عام طور پر نبی کے زمانے کے منافقین تک اپنی تحریر کو محدود رکھتی ہے، شیعہ علمیات بعض صحابہ کو شامل کرتی ہے جنہوں نے بعد میں امام علی کی حقیقی خلافت کی مخالفت کی۔ تاہم، دونوں اس اخلاقی نکتے پر متفق ہیں کہ سچی قسمیں اللہ کے سامنے بیکار ہیں اور جماعت کے لیے نقصان دہ ہیں۔",
+    "layer4_ar": "يُجمع المفسرون من الشيعة والسنة على إدانة استغلال المنافقين للأيمان جُنناً تقيهم المساءلة. ويُورد القرطبي وابن كثير تفاصيل دقيقة عن أساليب عبد الله بن أُبيٍّ وأتباعه في الحلف للتملص من تبعاتهم، وهي روايات تتوافق كلياً مع ما تُورده المصادر الشيعية. ويتجلى الاختلاف التفسيري الرئيسي في تحديد هوية المنافق في التاريخ الإسلامي؛ إذ يُحصر الخطاب السني عموماً في منافقي المدينة في عهد النبي، بينما تمتد الدراسة الشيعية لتشمل بعض الصحابة الذين عارضوا لاحقاً خلافة الإمام علي عليه السلام الحقة، ناظرةً في هذه المعارضة شاهداً على نفاق كامن. غير أن المذهبين يتوافقان على المبدأ الأخلاقي القائل بأن الأيمان الفاقدة للإخلاص لا قيمة لها عند الله وأنها مضرة بالمجتمع. ويُقرِّر الرازي أن توظيف الدين ستاراً على الشر يُضاعف الإثم مضاعفةً، وهو موقف يصدى له الفقه الشيعي كاملاً. والحكمة المشتركة التي لا يختلف فيها المذهبان أن صحة الإيمان رهينة بتطابق القناعة الخاصة مع التصريح العلني تطابقاً تاماً."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:3:belief-then-disbelief",
+          "title": "Lost Faith",
+          "icon": "arrow.uturn.backward",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites initially believed but then consciously chose disbelief, representing a deliberate rejection of truth they once accepted.",
+          "whyItMatters": "This warns against complacency in faith. Initial belief doesn't guarantee permanence - we must actively nurture and protect our faith against erosion.",
+          "position": "topLeft",
+          "arabicHighlight": "ءَامَنُوا۟ ثُمَّ كَفَرُوا۟",
+          "title_urdu": "کھویا ہوا ایمان",
+          "coreInsight_urdu": "منافقین نے پہلے ایمان لایا لیکن پھر شعوری طور پر کفر کا انتخاب کیا، یہ سچائی کی شعوری تردید ہے جسے انہوں نے کبھی قبول کیا تھا۔",
+          "whyItMatters_urdu": "یہ ایمان میں غفلت کے خلاف انتباہ ہے۔ ابتدائی ایمان مستقل نہیں ہوتا - ہمیں اپنے ایمان کی فعال دیکھ بھال کرنی چاہیے۔",
+          "title_ar": "الإيمان المفقود",
+          "coreInsight_ar": "المنافقون آمنوا في البداية ثم اختاروا الكفر بوعي، مما يمثل رفضاً متعمداً للحق الذي قبلوه مرة.",
+          "whyItMatters_ar": "هذا تحذير ضد التراخي في الإيمان. الإيمان الأولي لا يضمن الاستمرارية - يجب رعاية إيماننا بنشاط."
+        },
+        {
+          "id": "63:3:sealed-hearts",
+          "title": "Sealed Hearts",
+          "icon": "lock.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "As a consequence of their apostasy, Allah seals their hearts, making them impervious to truth and unable to comprehend guidance.",
+          "whyItMatters": "Persistent rejection of truth can lead to spiritual hardening where the heart becomes incapable of receiving guidance. We must keep our hearts receptive through sincere seeking.",
+          "position": "topRight",
+          "arabicHighlight": "فَطُبِعَ عَلَىٰ قُلُوبِهِمْ",
+          "title_urdu": "مہر لگے دل",
+          "coreInsight_urdu": "ان کے ارتداد کے نتیجے میں، اللہ ان کے دلوں پر مہر لگا دیتا ہے، انہیں سچائی سے محروم اور ہدایت کو سمجھنے سے قاصر بنا دیتا ہے۔",
+          "whyItMatters_urdu": "سچائی کی مسلسل تردید روحانی سختی کا باعث بن سکتی ہے جہاں دل ہدایت حاصل کرنے سے قاصر ہو جاتا ہے۔",
+          "title_ar": "القلوب المختومة",
+          "coreInsight_ar": "كنتيجة لارتدادهم، يختم الله على قلوبهم، مما يجعلها مغلقة أمام الحق وعاجزة عن فهم الهداية.",
+          "whyItMatters_ar": "الرفض المستمر للحق يمكن أن يؤدي إلى قسوة روحية حيث يصبح القلب عاجزاً عن تلقي الهداية."
+        },
+        {
+          "id": "63:3:no-understanding",
+          "title": "Lost Understanding",
+          "icon": "brain.head.profile",
+          "colorHex": "#E57373",
+          "coreInsight": "The sealed hearts result in complete loss of spiritual comprehension - they cannot understand even when truth is presented clearly.",
+          "whyItMatters": "Understanding is a divine gift that can be withdrawn. We must value and utilize our capacity for comprehension while we have it, seeking truth sincerely.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَهُمْ لَا يَفْقَهُونَ",
+          "title_urdu": "کھوئی ہوئی سمجھ",
+          "coreInsight_urdu": "مہر لگے دلوں کا نتیجہ روحانی فہم کا مکمل نقصان ہے - وہ سمجھ نہیں سکتے حتیٰ کہ جب سچائی واضح طور پر پیش کی جائے۔",
+          "whyItMatters_urdu": "سمجھ ایک الہی تحفہ ہے جو واپس لیا جا سکتا ہے۔ ہمیں اپنی فہم کی صلاحیت کی قدر کرنی چاہیے۔",
+          "title_ar": "فقدان الفهم",
+          "coreInsight_ar": "القلوب المختومة تؤدي إلى فقدان كامل للفهم الروحي - لا يستطيعون الفهم حتى عند عرض الحق بوضوح.",
+          "whyItMatters_ar": "الفهم هبة إلهية يمكن سحبها. يجب أن نقدر قدرتنا على الفهم ونستخدمها بصدق."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that belief followed by disbelief results in spiritual blindness. Ibn Kathir explains the sealing as divine punishment for apostasy, while also acknowledging it as a natural consequence of rejecting truth. This dual understanding is shared across Islamic scholarship. Tabari provides similar narratives about the Medinan hypocrites who initially professed Islam but harbored inner rejection. The concept of the sealed heart appears frequently in both traditions' spiritual teachings. Ghazali, from the Sunni tradition, wrote extensively about diseases of the heart, paralleling Shia scholars' emphasis on spiritual purification. A difference emerges in application: Shia scholarship more readily applies the category of hypocrisy to later historical figures who opposed the rightful Imams, while Sunni scholarship tends to view the concept as primarily applicable to the Prophet's era. Nevertheless, both traditions emphasize that maintaining faith requires constant vigilance, sincere worship, and protection of the heart from corrupting influences.",
+    "layer4_urdu": "شیعہ اور سنی علماء اس بات پر متفق ہیں کہ ایمان کے بعد کفر روحانی اندھے پن کا سبب بنتا ہے۔ ابن کثیر مہربندی کو ارتداد کے لیے الہی سزا کے طور پر وضاحت دیتے ہیں، جبکہ یہ بھی تسلیم کرتے ہیں کہ یہ سچائی کو مسترد کرنے کا قدرتی نتیجہ ہے۔ یہ دوہری تفہیم پورے اسلامی علمیات میں مشترک ہے۔ طبری ابتدائی منافقین سے متعلق اسی طرح کی روایات فراہم کرتے ہیں۔ مہربند دل کا تصور دونوں روایات کی روحانی تعلیمات میں بار بار نمایاں ہوتا ہے۔ غزالی، سنی روایت سے، دل کی بیماریوں پر بیشتر لکھا ہے، شیعہ علماء کے روحانی صفائی پر زور دینے کے ساتھ متوازی۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن الإيمان المعقوب بالكفر يُفضي إلى العمى الروحي. ويُفسِّر ابن كثير الختم عقوبة على الردة مع تسليمه بأنه نتيجة طبيعية لرفض الحق، وهذا الفهم المزدوج مشترك بين مختلف تيارات الفكر الإسلامي. ويُورد الطبري روايات عن منافقي المدينة الذين أظهروا الإسلام وأضمروا الرفض، شبيهة بما تتناوله المصادر الشيعية. ومفهوم الختم على القلب حاضر في الموروث الروحي لكلا التراثين بقوة. وقد كتب الغزالي من المنظور السني مطوَّلاً في أمراض القلب، وهو ما يتوازى مع اهتمام العلماء الشيعة بالتزكية الروحية. ويتجلى الاختلاف في التطبيق التاريخي: يُقدِم الخطاب الشيعي بصورة أوسع على تصنيف بعض الشخصيات التاريخية التي عارضت الأئمة الحق في خانة المنافقين، بينما يُقصر الخطاب السني هذا المفهوم في الغالب على حقبة النبي صلى الله عليه وآله وسلم. وفي ما وراء هذا الاختلاف، يُؤكِّد التراثان معاً أن صون الإيمان يستلزم يقظة دائمة وعبادة صادقة وحماية القلب من المؤثرات المفسدة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:4:impressive-appearance",
+          "title": "Deceptive Appearance",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Hypocrites present impressive physical appearances and eloquent speech that attract attention, masking their spiritual emptiness with outward charm.",
+          "whyItMatters": "We must look beyond surface-level impressions to evaluate character. Eloquence and appearance can deceive - true worth lies in sincerity and substance.",
+          "position": "topLeft",
+          "arabicHighlight": "تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ",
+          "title_urdu": "فریب دہ ظاہر",
+          "coreInsight_urdu": "منافقین متاثر کن جسمانی شکل اور فصیح گفتگو پیش کرتے ہیں جو توجہ حاصل کرتی ہے، اپنی روحانی خالی پن کو ظاہری دلکشی سے چھپاتے ہوئے۔",
+          "whyItMatters_urdu": "ہمیں کردار کا جائزہ لینے کے لیے سطحی تاثرات سے آگے دیکھنا چاہیے۔ فصاحت اور ظاہر دھوکا دے سکتے ہیں۔",
+          "title_ar": "المظهر الخادع",
+          "coreInsight_ar": "المنافقون يقدمون مظاهر جسدية مبهرة وكلاماً فصيحاً يجذب الانتباه، مخفين فراغهم الروحي بسحر خارجي.",
+          "whyItMatters_ar": "يجب أن ننظر ما وراء الانطباعات السطحية لتقييم الشخصية. الفصاحة والمظهر قد يخدعان."
+        },
+        {
+          "id": "63:4:hollow-inside",
+          "title": "Hollow Within",
+          "icon": "circle.slash",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah compares hypocrites to propped-up pieces of wood - structurally present but spiritually lifeless, appearing substantial while lacking genuine substance.",
+          "whyItMatters": "External religious displays mean nothing without internal spiritual life. We must cultivate genuine faith rather than becoming hollow performers of rituals.",
+          "position": "topRight",
+          "arabicHighlight": "كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ",
+          "title_urdu": "اندر سے خالی",
+          "coreInsight_urdu": "اللہ منافقین کو ٹیکے ہوئے لکڑی کے ٹکڑوں سے تشبیہ دیتا ہے - ساختی طور پر موجود لیکن روحانی طور پر بے جان۔",
+          "whyItMatters_urdu": "بیرونی مذہبی مظاہرے اندرونی روحانی زندگی کے بغیر بے معنی ہیں۔ ہمیں حقیقی ایمان پروان چڑھانا چاہیے۔",
+          "title_ar": "فراغ داخلي",
+          "coreInsight_ar": "الله يشبه المنافقين بقطع الخشب المسندة - موجودون هيكلياً لكن ميتون روحياً.",
+          "whyItMatters_ar": "المظاهر الدينية الخارجية لا معنى لها دون حياة روحية داخلية. يجب أن نزرع إيماناً حقيقياً."
+        },
+        {
+          "id": "63:4:constant-paranoia",
+          "title": "Fearful Paranoia",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Hypocrites live in constant fear that every sound exposes them, reflecting the psychological burden of maintaining false identities and hidden agendas.",
+          "whyItMatters": "Deception breeds anxiety and paranoia. Living authentically brings peace, while maintaining false fronts creates constant psychological stress.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ",
+          "title_urdu": "خوف زدہ شک",
+          "coreInsight_urdu": "منافقین مسلسل خوف میں رہتے ہیں کہ ہر آواز انہیں بے نقاب کر دے گی، یہ جھوٹی شناخت برقرار رکھنے کا نفسیاتی بوجھ ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "دھوکہ بازی پریشانی اور شک پیدا کرتی ہے۔ مستند زندگی امن لاتی ہے، جبکہ جھوٹا محاذ نفسیاتی دباؤ پیدا کرتا ہے۔",
+          "title_ar": "جنون الخوف",
+          "coreInsight_ar": "المنافقون يعيشون في خوف دائم من أن كل صوت يفضحهم، مما يعكس العبء النفسي للحفاظ على هويات زائفة.",
+          "whyItMatters_ar": "الخداع يولد القلق والجنون. العيش بصدق يجلب السلام، بينما الحفاظ على واجهات زائفة يخلق ضغطاً نفسياً."
+        },
+        {
+          "id": "63:4:true-enemy",
+          "title": "Hidden Enemy",
+          "icon": "person.fill.xmark",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah warns believers to beware of hypocrites as they are the true enemy - more dangerous than open opponents because they work from within.",
+          "whyItMatters": "Internal threats are often more dangerous than external ones. We must develop discernment to identify those who undermine community from within while appearing supportive.",
+          "position": "bottomRight",
+          "arabicHighlight": "هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ",
+          "title_urdu": "چھپا ہوا دشمن",
+          "coreInsight_urdu": "اللہ مومنین کو منافقین سے ہوشیار رہنے کی تنبیہ کرتا ہے کیونکہ وہ حقیقی دشمن ہیں - کھلے دشمنوں سے زیادہ خطرناک۔",
+          "whyItMatters_urdu": "اندرونی خطرات اکثر بیرونی سے زیادہ خطرناک ہوتے ہیں۔ ہمیں پرکھ کی صلاحیت پیدا کرنی چاہیے۔",
+          "title_ar": "العدو المخفي",
+          "coreInsight_ar": "الله يحذر المؤمنين من المنافقين فهم العدو الحقيقي - أخطر من الخصوم العلنيين لأنهم يعملون من الداخل.",
+          "whyItMatters_ar": "التهديدات الداخلية غالباً أخطر من الخارجية. يجب تطوير الفطنة لتحديد الذين يقوضون المجتمع من الداخل."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia commentators unanimously identify this verse as describing Abdullah ibn Ubayy and his circle in Medina. Ibn Kathir provides similar descriptions of their impressive appearance and eloquent speech. Qurtubi emphasizes that their fear and paranoia revealed guilty consciences, a point made identically in Shia sources. Both traditions use this verse to teach discernment in evaluating people's character beyond surface impressions. Razi explains the 'propped-up wood' metaphor as indicating lack of substance, identical to Tabatabai's interpretation. The main difference appears in historical application: Shia scholars extend the warning about eloquent hypocrites to some companions who opposed Imam Ali despite having been close to the Prophet, while Sunni scholarship generally does not. However, both traditions agree on the timeless principle that charisma and eloquence are not indicators of spiritual worth or sincere faith. The shared wisdom is that the Muslim community must develop discernment to distinguish between those who serve Islam sincerely and those who exploit it for personal gain, regardless of how impressive they appear outwardly.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین بالاتفاق عبداللہ بن ابی اور ان کے حلقے کو اس آیت میں منافقین کے طور پر شناخت کرتے ہیں۔ ابن کثیر ان کی متاثر کن شکل اور فصیح تقریروں کی اسی طرح کی تفصیلات فراہم کرتے ہیں۔ قرطبی اس بات پر زور دیتے ہیں کہ 'لکڑی کے ٹکڑے' استعارے میں کوئی مادہ نہیں ہے، طباطبائی کے تشریح سے متطابق ہے۔ اہم فرق سطحی تاثرات سے بہتر قوت یقین میں نظر آتا ہے۔ شیعہ علمیات اس انتباہ کو بعض صحابہ کی طرف بھی بڑھاتی ہے جنہوں نے امام علی کی مخالفت کی، جبکہ سنی علمیات عام طور پر یہ نہیں کرتی۔ تاہم، دونوں تقاليد اس سدا قابلِ حیثیت اصول پر متفق ہیں کہ کرشمہ اور فصاحت روحانی قابلِ قدر یا سچے ایمان کی نشاندہی نہیں ہے۔",
+    "layer4_ar": "يُجمع المفسرون من الشيعة والسنة على أن هذه الآية تصف عبد الله بن أُبيٍّ وحاشيته في المدينة. ويُورد ابن كثير أوصافاً متشابهة لمظهرهم اللافت وبيانهم المُسهب. ويُؤكِّد القرطبي أن وسوستهم وهواجسهم كشفت عن ضمائر مذنبة، وهو ما تُقرِّره المصادر الشيعية بعين القول. والتراثان كلاهما يستعينان بهذه الآية لتعليم الفطنة في تقييم الشخصيات بما يتجاوز الانطباعات السطحية الخادعة. ويُفسِّر الرازي استعارة «الخشب المسنَّدة» بانعدام الجوهر الداخلي، وهو تفسير لا يختلف عن اجتهاد الطباطبائي. ويتجلى الفارق الرئيسي في التطبيق التاريخي: يمتد تحذير الشيعة من المنافقين البُلغاء الفصحاء ليطال بعض الصحابة الذين عارضوا الإمام علياً عليه السلام رغم قربهم من النبي، في حين لا يسير الخطاب السني في هذا المسار غالباً. ومع ذلك يتوافق التراثان على المبدأ الخالد القائل بأن الكاريزما والفصاحة ليستا علامة على الجدارة الروحية أو صدق الإيمان. والحكمة المشتركة أن الأمة الإسلامية مطالبة بالفطنة لتمييز من يخدم الإسلام بإخلاص ممن يستغله لمصالح شخصية، مهما بلغ بهاء مظهره الخارجي."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:5:refusing-intercession",
+          "title": "Rejecting Intercession",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "When invited to seek the Prophet's intercession and forgiveness, hypocrites physically turn away their heads in rejection and disdain.",
+          "whyItMatters": "Pride prevents people from seeking help and guidance even when freely offered. Humility to accept assistance is essential for spiritual growth.",
+          "position": "topLeft",
+          "arabicHighlight": "لَوَّوْا۟ رُءُوسَهُمْ",
+          "title_urdu": "شفاعت کی تردید",
+          "coreInsight_urdu": "جب نبی کی شفاعت اور بخشش کی طلب کی دعوت دی جاتی ہے، تو منافقین جسمانی طور پر اپنے سر پھیر لیتے ہیں۔",
+          "whyItMatters_urdu": "غرور لوگوں کو مدد اور رہنمائی حاصل کرنے سے روکتا ہے حتیٰ کہ جب آزادانہ پیش کی جائے۔ عاجزی ضروری ہے۔",
+          "title_ar": "رفض الشفاعة",
+          "coreInsight_ar": "عندما دعوا لطلب شفاعة النبي ومغفرته، يدير المنافقون رؤوسهم جسدياً في رفض واحتقار.",
+          "whyItMatters_ar": "الكبرياء يمنع الناس من طلب المساعدة والهداية حتى عندما تقدم مجاناً. التواضع ضروري للنمو الروحي."
+        },
+        {
+          "id": "63:5:arrogant-evasion",
+          "title": "Arrogant Evasion",
+          "icon": "arrow.turn.right.up",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites actively evade the opportunity for forgiveness, their arrogance making them flee from the very mercy they desperately need.",
+          "whyItMatters": "Arrogance is the ultimate barrier to salvation. It prevents us from acknowledging our need for help and accepting the mercy Allah offers through His messengers.",
+          "position": "topRight",
+          "arabicHighlight": "وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+          "title_urdu": "مغرورانہ فرار",
+          "coreInsight_urdu": "منافقین فعال طور پر بخشش کے موقع سے بچتے ہیں، ان کا غرور انہیں اس رحمت سے بھگاتا ہے جس کی انہیں سخت ضرورت ہے۔",
+          "whyItMatters_urdu": "غرور نجات کی حتمی رکاوٹ ہے۔ یہ ہمیں اپنی مدد کی ضرورت تسلیم کرنے سے روکتا ہے۔",
+          "title_ar": "التهرب المتكبر",
+          "coreInsight_ar": "المنافقون يتهربون بنشاط من فرصة المغفرة، كبريائهم يجعلهم يفرون من الرحمة التي يحتاجونها بشدة.",
+          "whyItMatters_ar": "الكبرياء الحاجز النهائي للخلاص. يمنعنا من الاعتراف بحاجتنا للمساعدة وقبول الرحمة."
+        },
+        {
+          "id": "63:5:physical-rejection",
+          "title": "Physical Rejection",
+          "icon": "figure.walk.departure",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse describes visible, physical acts of rejection - turning heads and walking away - showing how internal arrogance manifests in outward behavior.",
+          "whyItMatters": "Our physical actions reflect our spiritual state. The body language of pride - turning away, avoiding - reveals the hardness of the heart within.",
+          "position": "bottomLeft",
+          "arabicHighlight": "تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ",
+          "title_urdu": "جسمانی تردید",
+          "coreInsight_urdu": "آیت تردید کی مرئی، جسمانی حرکات کو بیان کرتی ہے - سر پھیرنا اور چلے جانا - یہ ظاہر کرتا ہے کہ اندرونی غرور ظاہری رویے میں کیسے ظاہر ہوتا ہے۔",
+          "whyItMatters_urdu": "ہمارے جسمانی اعمال ہماری روحانی حالت کی عکاسی کرتے ہیں۔ غرور کی جسمانی زبان دل کی سختی ظاہر کرتی ہے۔",
+          "title_ar": "الرفض الجسدي",
+          "coreInsight_ar": "تصف الآية أفعال الرفض الجسدية المرئية - إدارة الرؤوس والابتعاد - موضحة كيف يتجلى الكبرياء الداخلي في السلوك الخارجي.",
+          "whyItMatters_ar": "أفعالنا الجسدية تعكس حالتنا الروحية. لغة الجسد للكبرياء - الابتعاد، التجنب - تكشف قسوة القلب."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia sources agree on the basic interpretation: the hypocrites' arrogant rejection of prophetic intercession demonstrated their inner disbelief. Ibn Kathir describes their contemptuous head-turning and prideful departure, matching Shia accounts exactly. Tabari provides historical context showing this occurred when Abdullah ibn Ubayy was confronted about slanderous statements but refused to seek the Prophet's forgiveness. A significant difference appears in the understanding of intercession after the Prophet's death. Shia theology maintains that the Prophet continues to intercede and that the Imams also possess this spiritual authority, making Tawassul through them recommended. Many Sunni scholars accept intercession but emphasize it occurs on the Day of Judgment rather than in worldly life, though some Sunni traditions also practice seeking blessings through the righteous. Despite this difference, both traditions unanimously condemn arrogance and emphasize humility as essential to faith. The shared wisdom is that recognizing our need for divine mercy, accepting spiritual authority, and humbly seeking forgiveness are marks of genuine faith, while arrogant self-sufficiency indicates spiritual illness.",
+    "layer4_urdu": "سنی اور شیعہ ذرائع نبی کی شفاعت سے غرور سے منافقین کی مخالفت پر متفق ہیں۔ ابن کثیر ان کی حقارت آمیز سر پھیری اور غرور سے روانگی کو بیان کرتے ہیں، شیعہ اکاؤنٹس سے مماثل۔ طبری اس تاریخی سیاق فراہم کرتے ہیں جو عبداللہ بن ابی کی طرف سے مسترد نقطہ نظر نہیں۔ ایک اہم فرق شفاعت کی بعد از مرگ تفہیم میں نمایاں ہوتا ہے۔ شیعہ نظریہ یہ برقرار رکھتا ہے کہ نبی مسلسل شفاعت کرتے ہیں اور ائمہ کے پاس بھی یہ روحانی اختیار ہے، شفاعت کو ان کے ذریعے تجویز کرتے ہوئے۔ بہت سے سنی علماء شفاعت کو قبول کرتے ہیں لیکن اس کے بجائے روز حساب پر روحانی زندگی میں واقع ہوتے ہوئے، اگرچہ کچھ سنی روایات بھی صالحین کے ذریعے برکت تلاش کرتی ہیں۔ تکبر اور تعاون کا پیغام دونوں میں متحدہ ہے۔",
+    "layer4_ar": "يتفق المصدران الشيعي والسني على جوهر التفسير: أن رفض المنافقين المتكبر للشفاعة النبوية جلَّى كفرهم الباطن. ويصف ابن كثير إدارتهم رؤوسهم احتقاراً ومضيَّهم في الغرور، بما يتطابق مع الروايات الشيعية تماماً. ويُورد الطبري السياق التاريخي مُبيِّناً أن ذلك وقع حين جُوبه عبد الله بن أُبيٍّ بسبب كلامه المسيء فأبى طلب مغفرة النبي. ويتجلى الاختلاف المهم في فهم الشفاعة بعد وفاة النبي صلى الله عليه وآله وسلم؛ فالعقيدة الشيعية تُقرِّر أن النبي يواصل شفاعته وأن الأئمة يتمتعون بهذه السلطة الروحية أيضاً، مما يجعل التوسل بهم مندوباً. وكثير من العلماء السنة يُقرُّون بالشفاعة لكنهم يُؤطِّرونها يوم القيامة لا في الحياة الدنيا، وإن كانت بعض التيارات السنية تُجيز أيضاً التبرك بالصالحين. ورغم هذا الاختلاف، يُجمع التراثان على إدانة الكبر وتأكيد التواضع شرطاً للإيمان. والحكمة المشتركة أن الاعتراف بحاجتنا إلى رحمة الله وقبول السلطة الروحية وطلب المغفرة بتواضع هي أمارات الإيمان الصادق، في حين أن الاستغناء الغرور يكشف عن مرض روحي متجذِّر."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:6:sealed-fate",
+          "title": "Sealed Fate",
+          "icon": "lock.seal.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah declares that seeking forgiveness for hypocrites is futile - whether the Prophet prays for them or not makes no difference, as they have crossed the point of no return.",
+          "whyItMatters": "There exists a spiritual point of no return where persistent rejection hardens into permanent separation from mercy. We must turn to Allah before reaching this irreversible state.",
+          "position": "topLeft",
+          "arabicHighlight": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+          "title_urdu": "مقرر شدہ تقدیر",
+          "coreInsight_urdu": "اللہ اعلان کرتا ہے کہ منافقین کے لیے بخشش کی طلب بیکار ہے - چاہے نبی ان کے لیے دعا کریں یا نہ کریں کوئی فرق نہیں۔",
+          "whyItMatters_urdu": "ایک روحانی نقطہ لاوا پسی موجود ہے جہاں مسلسل تردید رحمت سے مستقل علیحدگی میں سخت ہو جاتی ہے۔",
+          "title_ar": "المصير المحتوم",
+          "coreInsight_ar": "الله يعلن أن طلب المغفرة للمنافقين عبث - سواء دعا النبي لهم أم لا فلا فرق، فقد تجاوزوا نقطة اللاعودة.",
+          "whyItMatters_ar": "هناك نقطة لا عودة روحية حيث يتصلب الرفض المستمر إلى انفصال دائم عن الرحمة."
+        },
+        {
+          "id": "63:6:divine-justice",
+          "title": "Divine Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah's refusal to forgive the hypocrites is not arbitrary but reflects His perfect justice - they have willfully chosen rejection and earned their separation.",
+          "whyItMatters": "Divine mercy has boundaries defined by justice. While Allah is infinitely merciful, persistent willful rejection places one outside the reach of that mercy.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+          "title_urdu": "الہی انصاف",
+          "coreInsight_urdu": "منافقین کو معاف نہ کرنا اللہ کی من مانی نہیں بلکہ اس کے کامل انصاف کی عکاسی ہے - انہوں نے شعوری طور پر تردید کا انتخاب کیا۔",
+          "whyItMatters_urdu": "الہی رحمت کی حدود انصاف سے متعین ہیں۔ جبکہ اللہ لامحدود رحیم ہے، مسلسل تردید کسی کو رحمت کی پہنچ سے باہر رکھتی ہے۔",
+          "title_ar": "العدل الإلهي",
+          "coreInsight_ar": "رفض الله مغفرة المنافقين ليس تعسفياً بل يعكس عدله الكامل - لقد اختاروا الرفض عن قصد واكتسبوا انفصالهم.",
+          "whyItMatters_ar": "الرحمة الإلهية لها حدود محددة بالعدل. بينما الله رحيم إلى ما لا نهاية، الرفض المتعمد يضع المرء خارج مدى تلك الرحمة."
+        },
+        {
+          "id": "63:6:no-guidance-for-rebellious",
+          "title": "Lost Guidance",
+          "icon": "road.lanes",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah states He does not guide those who defiantly disobey - guidance is offered to those who seek it sincerely, not those who rebel persistently.",
+          "whyItMatters": "Guidance requires receptivity and sincerity. Defiant rebellion closes the door to divine guidance, making repentance and humility prerequisites for finding the path.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+          "title_urdu": "کھوئی ہوئی ہدایت",
+          "coreInsight_urdu": "اللہ فرماتا ہے کہ وہ ان لوگوں کو ہدایت نہیں دیتا جو سرکشی سے نافرمانی کرتے ہیں - ہدایت ان کو دی جاتی ہے جو مخلصانہ طلب کرتے ہیں۔",
+          "whyItMatters_urdu": "ہدایت کے لیے قبولیت اور خلوص ضروری ہے۔ سرکش بغاوت الہی ہدایت کا دروازہ بند کر دیتی ہے۔",
+          "title_ar": "الهداية المفقودة",
+          "coreInsight_ar": "الله يقول إنه لا يهدي الذين يعصون بتحدٍ - الهداية تقدم للذين يسعونها بصدق، وليس للمتمردين المستمرين.",
+          "whyItMatters_ar": "الهداية تتطلب التقبل والإخلاص. التمرد المتحدي يغلق باب الهداية الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia commentators agree this verse refers to hardened hypocrites for whom prophetic intercession is ineffective. Ibn Kathir explains that this was revealed about Abdullah ibn Ubayy and similar figures who persistently opposed Islam despite clear evidence. Qurtubi emphasizes that it does not limit Allah's mercy generally but describes a specific category of individuals who have made themselves unreceptive to mercy. Shia and Sunni sources agree that the 'defiantly disobedient' are those who rebel against Allah with full knowledge, not those who sin out of weakness or ignorance. A theological difference appears in the scope of intercession: Shia theology teaches that the Prophet and Imams can intercede for believers who committed grave sins but maintained fundamental faith and love for the Ahlul Bayt, while this verse makes clear such intercession does not extend to hypocrites. Sunni theology similarly limits intercession, though definitions of who qualifies vary. Both traditions emphasize the critical importance of dying in a state of faith, and both warn against the grave danger of hypocrisy. The unanimous message is that sincere repentance must occur before death, and persistent, knowing rebellion against truth places one beyond divine mercy.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس بات پر متفق ہیں کہ یہ آیت ان منافقین کی طرف اشارہ کرتی ہے جنہوں نے نبی کی شفاعت کے باوجود اپنے آپ کو ہدایت سے غیر قابلِ شفا بنا لیا۔ ابن کثیر وضاحت کرتے ہیں کہ یہ عبداللہ بن ابی اور اسی طرح کے اعدام شدہ افراد کے بارے میں ظاہر کیا گیا تھا جنہوں نے واضح ثبوت کے باوجود مسلسل اسلام کی مخالفت کی۔ قرطبی زور دیتے ہیں کہ یہ اللہ کی رحمت کو محدود نہیں کرتی بلکہ افراد کی ایک خصوص زمرے کو بیان کرتی ہے جنہوں نے خود کو رحمت سے غیر قابلِ بیان بنایا۔ شیعہ اور سنی ذرائع 'معاند مخالفین' پر متفق ہیں جو انتہائی شدید گناہ کار نہیں بلکہ ہوشیاری سے عام ہیں۔",
+    "layer4_ar": "يتفق المفسرون من الشيعة والسنة على أن هذه الآية تتناول المنافقين المتمرِّدين الذين لم تُجدِ معهم شفاعة النبي صلى الله عليه وآله وسلم. ويُبيِّن ابن كثير أنها نزلت في شأن عبد الله بن أُبيٍّ وأمثاله ممن أصرُّوا على مخالفة الإسلام رغم تواتر الشواهد الساطعة. ويُؤكِّد القرطبي أن الآية لا تحدُّ من رحمة الله الشاملة، بل تصف فئة معينة جعلت نفسها عصيَّة على الرحمة. والمصادر الشيعية والسنية متفقة على أن «الفاسقين» هم من تمرَّدوا على الله مع كامل العلم والإدراك لا من أذنبوا بجهل أو ضعف. ويتجلى الاختلاف العقدي في نطاق الشفاعة؛ إذ تُقرِّر العقيدة الشيعية أن النبي والأئمة يشفعون للمؤمنين الذين ارتكبوا الكبائر لكنهم أبقوا على أصل الإيمان ومحبة أهل البيت في قلوبهم، بينما تُصرِّح الآية بأن هذه الشفاعة لا تنال المنافقين. والعقيدة السنية تُقيِّد الشفاعة بالمؤمنين أيضاً وإن تفاوت التعريف. والتراثان كلاهما يُشدِّدان على أهمية الموت على الإيمان وعلى الخطر البالغ للنفاق. والحكمة الموحَّدة أن التوبة الصادقة يجب أن تسبق الموت، وأن التمرد الواعي المتمادي على الحق يُضع صاحبه خارج دائرة الرحمة الإلهية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:7:economic-warfare",
+          "title": "Economic Warfare",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Hypocrites attempt to undermine the Muslim community by calling for economic boycott, hoping to starve out the Prophet's followers and force their dispersal.",
+          "whyItMatters": "Economic pressure is a tool of oppression. Believers must be financially independent and support each other to resist such manipulation and maintain community strength.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟",
+          "title_urdu": "معاشی جنگ",
+          "coreInsight_urdu": "منافقین معاشی بائیکاٹ کی دعوت دے کر مسلم کمیونٹی کو کمزور کرنے کی کوشش کرتے ہیں، نبی کے پیروکاروں کو بھوکا رکھنے کی امید میں۔",
+          "whyItMatters_urdu": "معاشی دباؤ جبر کا ایک آلہ ہے۔ مومنین کو مالی طور پر آزاد ہونا چاہیے اور ایک دوسرے کی مدد کرنی چاہیے۔",
+          "title_ar": "الحرب الاقتصادية",
+          "coreInsight_ar": "المنافقون يحاولون تقويض المجتمع المسلم بالدعوة إلى المقاطعة الاقتصادية، آملين في تجويع أتباع النبي وإجبارهم على التفرق.",
+          "whyItMatters_ar": "الضغط الاقتصادي أداة قمع. يجب أن يكون المؤمنون مستقلين مالياً وأن يدعموا بعضهم البعض."
+        },
+        {
+          "id": "63:7:divine-treasures",
+          "title": "Divine Treasures",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah reminds that all treasures of heavens and earth belong to Him alone - human economic schemes cannot limit divine provision for those He supports.",
+          "whyItMatters": "Ultimate provision comes from Allah, not human sources. This truth frees believers from fear of economic pressure and builds trust in divine sustenance.",
+          "position": "topRight",
+          "arabicHighlight": "وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "الہی خزانے",
+          "coreInsight_urdu": "اللہ یاد دلاتا ہے کہ آسمانوں اور زمین کے تمام خزانے صرف اسی کے ہیں - انسانی معاشی سازشیں الہی رزق کو محدود نہیں کر سکتیں۔",
+          "whyItMatters_urdu": "حتمی رزق اللہ سے آتا ہے، انسانی ذرائع سے نہیں۔ یہ حقیقت مومنین کو معاشی دباؤ کے خوف سے آزاد کرتی ہے۔",
+          "title_ar": "الكنوز الإلهية",
+          "coreInsight_ar": "الله يذكر أن جميع كنوز السماوات والأرض له وحده - المخططات الاقتصادية البشرية لا تستطيع تحديد الرزق الإلهي.",
+          "whyItMatters_ar": "الرزق النهائي يأتي من الله، وليس من المصادر البشرية. هذه الحقيقة تحرر المؤمنين من الخوف من الضغط الاقتصادي."
+        },
+        {
+          "id": "63:7:hypocrites-lack-understanding",
+          "title": "Failed Understanding",
+          "icon": "brain.head.profile",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites fail to comprehend that divine provision transcends human economic control - their lack of understanding leads to futile schemes.",
+          "whyItMatters": "Spiritual ignorance leads to misplaced confidence in material power. Understanding Allah's sovereignty over provision prevents both arrogance and despair.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ",
+          "title_urdu": "ناکام فہم",
+          "coreInsight_urdu": "منافقین یہ سمجھنے میں ناکام رہتے ہیں کہ الہی رزق انسانی معاشی کنٹرول سے بالاتر ہے - ان کی سمجھ کی کمی بیکار سازشوں کا باعث بنتی ہے۔",
+          "whyItMatters_urdu": "روحانی جہالت مادی طاقت پر غلط اعتماد کا باعث بنتی ہے۔ رزق پر اللہ کی حاکمیت کو سمجھنا غرور اور مایوسی دونوں سے بچاتا ہے۔",
+          "title_ar": "الفهم الفاشل",
+          "coreInsight_ar": "المنافقون يفشلون في فهم أن الرزق الإلهي يتجاوز السيطرة الاقتصادية البشرية - افتقارهم للفهم يؤدي إلى مخططات عقيمة.",
+          "whyItMatters_ar": "الجهل الروحي يؤدي إلى ثقة في غير محلها بالقوة المادية. فهم سيادة الله على الرزق يمنع الغطرسة واليأس."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia sources identify this verse as responding to hypocrites in Medina who attempted to economically isolate the Prophet and his followers. Ibn Kathir and Tabari provide similar accounts of wealthy hypocrites encouraging others to cut off support for poor Muslims. Both traditions emphasize the verse's message of trust in divine provision over human means. Historical accounts in both Sunni and Shia sources describe the economic challenges faced by early Muslims, particularly migrants who had left behind their properties in Mecca. The principle of the Ansar (Helpers) supporting the Muhajirun (Migrants) is celebrated in both traditions as exemplifying the mutual support this verse encourages. A shared emphasis appears on economic justice and support for the vulnerable as central to Islamic ethics. Both traditions also draw from this verse the teaching that commitment to Islamic principles should not be compromised for economic gain or abandoned under economic pressure. The unanimous wisdom is that the Muslim community must develop economic resilience through mutual support, that ultimate provision comes from Allah not human sources, and that economic warfare against the faithful has been a tool of enemies throughout Islamic history.",
+    "layer4_urdu": "سنی اور شیعہ ذرائع بالاتفاق اس آیت کو مدینے میں منافقین کے معاشی علیحدہ تاریخ کے ساتھ سمجھتے ہیں۔ ابن کثیر اور طبری ایسی نقل فراہم کرتے ہیں جہاں امیر منافقین غریب مسلمانوں کی معاونت کو روکنے کی کوشش کرتے تھے۔ دونوں روایتوں میں اللہ کے فیصلہ سے منافقین کے اہم خصلت اور دولت کی کہانیاں سامنے آتی ہیں جہاں صلاح و معاشی حالات ملتے ہیں۔ دونوں اسلام کے لیے معاشی انصاف اور متبادل حمایت کا زور دیتے ہیں۔ سنی اور شیعہ روایتوں میں انصار اور مہاجرین کا رشتہ دونوں میں جشن کے ساتھ منایا جاتا ہے کہ یہ اسی آیت میں حوصلہ افزائی کی جانے والی متبادل معاونت کو ظاہر کرتے ہیں۔ دونوں روایات بھی اخلاق نکالتے ہیں کہ دولت کے ساتھ موجود نہ ہونا یا انکار کرنا اسلام کے خلاف ہے۔ دونوں تقالید بھی متفق ہیں کہ معاشی مجبوری اسلامی اصولوں سے سمجھوتے کے لیے عذر نہیں ہے۔",
+    "layer4_ar": "يتفق المصدران الشيعي والسني على تفسير هذه الآية بوصفها رداً على المنافقين في المدينة الذين حاولوا عزل النبي صلى الله عليه وآله وسلم وأتباعه اقتصادياً. ويُورد ابن كثير والطبري روايات متشابهة عن منافقين أثرياء يحرِّضون على قطع الدعم عن فقراء المسلمين. ويُؤكِّد التراثان رسالة الآية في الثقة بالرزق الإلهي على المصادر البشرية. والروايات التاريخية في المصدرين تصف الأزمات الاقتصادية التي عانى منها المسلمون الأوائل ولا سيما المهاجرون الذين تركوا وراءهم أموالهم في مكة. ومثال الأنصار في إيوائهم المهاجرين ومشاطرتهم أموالهم يُحتفى به في كلا التراثين تجسيداً للتكافل الذي تحثُّ عليه الآية. وتشترك القراءتان في التأكيد على العدالة الاقتصادية ودعم المستضعفين قيمتَين محوريتَين في الأخلاق الإسلامية. وكلا التراثين يستخلصان من الآية أن الالتزام بالمبادئ الإسلامية لا يجوز التفريط فيه لمكاسب اقتصادية، ولا التراجع عنه تحت وطأة الضغوط المالية. والحكمة الموحَّدة أن على الأمة أن تبني صموداً اقتصادياً قائماً على التكافل المتبادل، وأن الرازق الأول والأخير هو الله لا البشر، وأن الحرب الاقتصادية على المؤمنين سنة متكررة عبر تاريخ الإسلام ينبغي التصدي لها بالتوكل والتضامن معاً."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:8:arrogance-of-power",
+          "title": "False Pride",
+          "icon": "crown.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The hypocrites boast that the 'more honored' will expel the 'more humble' from Madinah, displaying arrogance rooted in perceived worldly power and status.",
+          "whyItMatters": "Worldly measures of honor and power are illusions. True dignity comes from faith and character, not from social status or political influence.",
+          "position": "topLeft",
+          "arabicHighlight": "لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ",
+          "title_urdu": "جھوٹا غرور",
+          "coreInsight_urdu": "منافقین فخر کرتے ہیں کہ 'زیادہ معزز' مدینہ سے 'زیادہ ذلیل' کو نکال دیں گے، ظاہری دنیاوی طاقت پر مبنی غرور ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "عزت اور طاقت کی دنیاوی پیمائش فریب ہے۔ حقیقی وقار ایمان اور کردار سے آتا ہے، سماجی حیثیت سے نہیں۔",
+          "title_ar": "الكبرياء الزائف",
+          "coreInsight_ar": "المنافقون يتفاخرون بأن 'الأعز' سيطرد 'الأذل' من المدينة، مظهرين غطرسة متجذرة في القوة والمكانة الدنيوية المتصورة.",
+          "whyItMatters_ar": "المقاييس الدنيوية للشرف والقوة أوهام. الكرامة الحقيقية تأتي من الإيمان والخلق، وليس من المكانة الاجتماعية."
+        },
+        {
+          "id": "63:8:true-honor",
+          "title": "Divine Honor",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah declares that true honor belongs exclusively to Him, His Messenger, and the believers - not to those who boast of worldly power.",
+          "whyItMatters": "Honor is not earned through wealth or status but granted by Allah to those who believe and follow His guidance. Seeking honor from Allah, not people, is the path to genuine dignity.",
+          "position": "topRight",
+          "arabicHighlight": "وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ",
+          "title_urdu": "الہی عزت",
+          "coreInsight_urdu": "اللہ اعلان کرتا ہے کہ حقیقی عزت صرف اسی کی، اس کے رسول کی اور مومنین کی ہے - ان کی نہیں جو دنیاوی طاقت پر فخر کرتے ہیں۔",
+          "whyItMatters_urdu": "عزت دولت یا حیثیت سے نہیں بلکہ اللہ کی طرف سے ان کو دی جاتی ہے جو ایمان لاتے ہیں۔ اللہ سے عزت طلب کرنا حقیقی وقار کا راستہ ہے۔",
+          "title_ar": "الشرف الإلهي",
+          "coreInsight_ar": "الله يعلن أن الشرف الحقيقي ملك له حصرياً ولرسوله وللمؤمنين - وليس لمن يتفاخرون بالقوة الدنيوية.",
+          "whyItMatters_ar": "الشرف لا يكتسب بالثروة أو المكانة بل يمنحه الله للذين يؤمنون ويتبعون هديه. طلب الشرف من الله طريق الكرامة الحقيقية."
+        },
+        {
+          "id": "63:8:hypocrites-ignorance",
+          "title": "Profound Ignorance",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Despite their scheming and worldly wisdom, hypocrites remain profoundly ignorant of spiritual realities - they do not know the true source of honor.",
+          "whyItMatters": "Worldly intelligence without spiritual awareness is profound ignorance. Knowledge of material success means nothing without understanding divine truth.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ",
+          "title_urdu": "گہری جہالت",
+          "coreInsight_urdu": "اپنی سازشوں اور دنیاوی حکمت کے باوجود، منافقین روحانی حقائق سے گہری جہالت میں رہتے ہیں - وہ عزت کے حقیقی ذریعہ کو نہیں جانتے۔",
+          "whyItMatters_urdu": "روحانی آگاہی کے بغیر دنیاوی ذہانت گہری جہالت ہے۔ مادی کامیابی کا علم الہی سچائی کی سمجھ کے بغیر بے معنی ہے۔",
+          "title_ar": "الجهل العميق",
+          "coreInsight_ar": "رغم مكائدهم وحكمتهم الدنيوية، يبقى المنافقون جاهلين جهلاً عميقاً بالحقائق الروحية - لا يعرفون المصدر الحقيقي للشرف.",
+          "whyItMatters_ar": "الذكاء الدنيوي دون الوعي الروحي جهل عميق. معرفة النجاح المادي لا تعني شيئاً دون فهم الحقيقة الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia sources agree this verse responds to Abdullah ibn Ubayy's arrogant boast about expelling the Prophet from Medina. Ibn Kathir and Qurtubi provide detailed historical context matching Shia accounts. All classical commentators emphasize that the verse establishes honor as belonging to Allah, His Messenger, and the believers, overturning worldly hierarchies based on wealth or lineage. A significant application appears in Shia theology regarding the Imams: their right to leadership is based on divine appointment and spiritual excellence, not worldly power, and history shows they possessed true honor even when politically marginalized. Sunni theology similarly emphasizes that righteous believers hold dignity regardless of worldly status, though it does not extend the prophetic honor to specific Imams as Shia theology does. Both traditions draw from this verse the teaching that Muslims should not be intimidated by the apparent power of opponents of Islam, trusting that divine judgment will vindicate the righteous. The shared wisdom is that true honor comes from Allah alone, is granted based on faith and righteousness, and that worldly measures of prestige are ultimately meaningless before divine justice.",
+    "layer4_urdu": "سنی اور شیعہ ذرائع بالاتفاق اس آیت کو عبداللہ بن ابی کے غرور سے متعلق سمجھتے ہیں۔ ابن کثیر اور قرطبی تاریخی سیاق فراہم کرتے ہیں جو شیعہ اکاؤنٹس سے مماثل ہے۔ تمام علمیات مفسرین اس بات پر زور دیتے ہیں کہ آیت عزت کو دنیاوی طاقت سے بالاتر قائم کرتا ہے۔ رازی زور دیتے ہیں کہ آیت دنیاوی معیار اور الہی معیار کے مابین فرق سکھاتا ہے، شیعہ ذرائع میں بھی بیان ہے۔ شیعہ نظریہ خلافت کے لیے نبی کی شفاعت کے حق کو الہی تقرری پر مبنی سمجھتا ہے، نہ کہ دنیاوی طاقت پر۔ سنی تقالید بھی اس بات پر زور دیتی ہیں کہ سچی عزت الہی تقویٰ سے آتی ہے۔ دونوں تقالید یہ بھی سہمت ہیں کہ مسلمانوں کو بیرونی مخالفین کے بظاہر طاقت سے نہیں ڈرنا چاہیے، یہ یقین رکھتے ہوئے کہ حقیقی فیصلہ الہی ہے۔",
+    "layer4_ar": "يتفق المصدران الشيعي والسني على أن هذه الآية جاءت رداً على تباهي عبد الله بن أُبيٍّ بطرد النبي صلى الله عليه وآله وسلم من المدينة. ويُورد ابن كثير والقرطبي السياق التاريخي المفصَّل بما يتوافق مع الروايات الشيعية. ويُؤكِّد جميع المفسرين الكلاسيكيين أن الآية تُقرِّر العزة لله ولرسوله وللمؤمنين مقلِّبةً بذلك الموازين الدنيوية القائمة على الثروة والنسب. وثمة تطبيق بارز في العقيدة الشيعية خاص بالأئمة: فحقهم في القيادة مستند إلى التعيين الإلهي والتفوق الروحي لا إلى القوة الدنيوية، والتاريخ شاهد على أنهم حملوا العزة الحقيقية حتى في أوقات التهميش السياسي. وتُقرِّر اللاهوتية السنية هي الأخرى أن المؤمن الصادق يحمل كرامته بصرف النظر عن وضعه الدنيوي، وإن كانت لا تمتد بالعزة النبوية إلى أئمة بعينهم كما تفعل العقيدة الشيعية. وكلا التراثين يستخلصان من الآية ألا يرتاع المسلمون من القوة الظاهرة لخصوم الإسلام ثقةً بأن الحكم الإلهي سيُنصف الصادقين. والحكمة المشتركة أن العزة الحقيقية هبة من الله وحده، وتُمنح استناداً إلى الإيمان والتقوى، وأن المقاييس الدنيوية للنفوذ لا قيمة لها في ميزان العدل الإلهي."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:9:divine-call",
+          "title": "Call to Believers",
+          "icon": "person.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "After exposing hypocrites, Allah directly addresses true believers with guidance, distinguishing them from the hypocrites through sincere faith.",
+          "whyItMatters": "This shift marks a clear distinction between believers and hypocrites. True faith qualifies us to receive divine guidance and commands.",
+          "position": "topLeft",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "مومنین کو پکار",
+          "coreInsight_urdu": "منافقین کو بے نقاب کرنے کے بعد، اللہ براہ راست سچے مومنین کو رہنمائی کے ساتھ خطاب کرتا ہے، انہیں مخلص ایمان کے ذریعے منافقین سے الگ کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ تبدیلی مومنین اور منافقین کے درمیان واضح فرق کی نشاندہی کرتی ہے۔ حقیقی ایمان ہمیں الہی رہنمائی حاصل کرنے کا اہل بناتا ہے۔",
+          "title_ar": "دعوة المؤمنين",
+          "coreInsight_ar": "بعد فضح المنافقين، يخاطب الله المؤمنين الحقيقيين مباشرة بالهداية، متميزاً بينهم وبين المنافقين بالإيمان الصادق.",
+          "whyItMatters_ar": "هذا التحول يشير إلى تمييز واضح بين المؤمنين والمنافقين. الإيمان الحقيقي يؤهلنا لتلقي الهداية الإلهية."
+        },
+        {
+          "id": "63:9:wealth-distraction",
+          "title": "Material Distraction",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah warns that wealth can distract from remembrance of Him - material pursuits competing with spiritual priorities for our attention and time.",
+          "whyItMatters": "Wealth is not inherently evil but becomes harmful when it diverts us from Allah. We must actively resist letting material concerns overshadow spiritual duties.",
+          "position": "topRight",
+          "arabicHighlight": "لَا تُلْهِكُمْ أَمْوَٰلُكُمْ",
+          "title_urdu": "مادی خلفشار",
+          "coreInsight_urdu": "اللہ تنبیہ کرتا ہے کہ دولت اس کی یاد سے غافل کر سکتی ہے - مادی تعاقب ہماری توجہ اور وقت کے لیے روحانی ترجیحات سے مقابلہ کرتے ہیں۔",
+          "whyItMatters_urdu": "دولت فی نفسہ بری نہیں لیکن جب یہ ہمیں اللہ سے ہٹا دے تو نقصان دہ ہو جاتی ہے۔ ہمیں مادی فکروں کو روحانی فرائض پر غالب نہیں آنے دینا چاہیے۔",
+          "title_ar": "الإلهاء المادي",
+          "coreInsight_ar": "الله يحذر من أن الثروة قد تلهي عن ذكره - المساعي المادية تتنافس مع الأولويات الروحية على انتباهنا ووقتنا.",
+          "whyItMatters_ar": "الثروة ليست شراً بطبيعتها لكنها تصبح ضارة عندما تحرفنا عن الله. يجب مقاومة ترك الاهتمامات المادية تطغى على الواجبات الروحية."
+        },
+        {
+          "id": "63:9:children-distraction",
+          "title": "Family Distraction",
+          "icon": "figure.2.and.child.holdinghands",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Children and family, despite being blessings, can also distract from remembrance of Allah when they consume all our focus and devotion.",
+          "whyItMatters": "Even good things can become harmful when they displace Allah in our priorities. Balance requires ensuring family duties don't eclipse spiritual obligations.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ",
+          "title_urdu": "خاندانی خلفشار",
+          "coreInsight_urdu": "بچے اور خاندان، برکت ہونے کے باوجود، اللہ کی یاد سے بھی غافل کر سکتے ہیں جب وہ ہماری تمام توجہ اور لگاؤ استعمال کر لیں۔",
+          "whyItMatters_urdu": "اچھی چیزیں بھی نقصان دہ ہو سکتی ہیں جب وہ ہماری ترجیحات میں اللہ کو بے جگہ کر دیں۔ توازن کے لیے خاندانی فرائض کو روحانی ذمہ داریوں پر غالب نہیں آنے دینا چاہیے۔",
+          "title_ar": "إلهاء الأسرة",
+          "coreInsight_ar": "الأطفال والعائلة، رغم كونهم نعمة، قد يلهون أيضاً عن ذكر الله عندما يستهلكون كل تركيزنا وتفانينا.",
+          "whyItMatters_ar": "حتى الأشياء الجيدة قد تصبح ضارة عندما تحل محل الله في أولوياتنا. التوازن يتطلب ضمان عدم طغيان واجبات الأسرة على الالتزامات الروحية."
+        },
+        {
+          "id": "63:9:true-loss",
+          "title": "Ultimate Loss",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who allow wealth and family to distract from Allah are the true losers - gaining the world but losing eternal success and divine pleasure.",
+          "whyItMatters": "True loss isn't measured in material terms but in spiritual bankruptcy. Prioritizing temporary pleasures over eternal realities constitutes the gravest loss.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+          "title_urdu": "حتمی نقصان",
+          "coreInsight_urdu": "وہ جو دولت اور خاندان کو اللہ سے غافل ہونے کا باعث بننے دیتے ہیں وہ حقیقی خسارہ اٹھانے والے ہیں - دنیا حاصل کرتے ہیں لیکن ابدی کامیابی کھو دیتے ہیں۔",
+          "whyItMatters_urdu": "حقیقی نقصان مادی لحاظ سے نہیں بلکہ روحانی دیوالیہ پن میں ناپا جاتا ہے۔ عارضی خوشیوں کو ابدی حقائق پر ترجیح دینا سب سے بڑا نقصان ہے۔",
+          "title_ar": "الخسارة النهائية",
+          "coreInsight_ar": "الذين يسمحون للثروة والعائلة بإلهائهم عن الله هم الخاسرون الحقيقيون - يكسبون الدنيا لكن يخسرون النجاح الأبدي.",
+          "whyItMatters_ar": "الخسارة الحقيقية لا تقاس بالمصطلحات المادية بل بالإفلاس الروحي. إعطاء الأولوية للملذات المؤقتة على الحقائق الأبدية هو أعظم خسارة."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia commentators emphasize this verse's warning about worldly distraction from spiritual priorities. Ibn Kathir and Qurtubi provide similar interpretations focusing on the danger of wealth and children consuming attention that should be directed toward Allah. Ghazali, in the Sunni tradition, wrote extensively about this theme in his works on spiritual purification, paralleling Shia scholars' emphasis on maintaining divine remembrance despite worldly responsibilities. Both traditions cite numerous hadith about the danger of worldly attachment and the importance of dhikr. Razi emphasizes that the verse describes a common human weakness, not an unforgivable sin, and calls believers to self-examination. Shia sources particularly emphasize involving family in spiritual practices as taught by the Ahlul Bayt. Both traditions agree that wealth and children are blessings that become tests; success lies in using them as means to draw closer to Allah rather than allowing them to create distance. The shared wisdom is that believers must actively maintain spiritual priorities through discipline and mindfulness, as the pull of worldly attachments is strong and constant vigilance is required to prevent these blessings from becoming veils between the soul and its Creator.",
+    "layer4_urdu": "سنی اور شیعہ مفسرین اس آیت کی انتباہ کے لیے تاکید کرتے ہیں کہ دولت اور بچوں سے الگ ہو سکتے ہیں۔ ابن کثیر اور قرطبی موافق تشریحات فراہم کرتے ہیں جو روحانی ترجیح پر زور دیتے ہیں۔ غزالی، سنی روایت سے، اس موضوع پر روحانی تطہیر پر بیشتر لکھا ہے، شیعہ علماء کے تکیے کے ساتھ متوازی۔ دونوں روایات دنیاوی منسلکیوں کے خطرے کے بارے میں بے شمار احادیث حوالہ دیتے ہیں۔ رازی زور دیتے ہیں کہ آیت انسانی کمزوری کو بیان کرتا ہے، نہ کہ ناممکن حالت، اور خود فریزی یا خاندار کو الگ کرنے کی بات نہیں کرتی۔ شیعہ ذرائع خاص طور پر خاندار میں روحانی عمل شامل کرنے پر زور دیتے ہیں جیسے اہل بیت کی تعلیم کے تحت۔ دونوں تقالید متفق ہیں کہ دولت اور خاندار اسلامی اصولوں کے مطابق استعمال ہونے چاہیں، خود شاہانہ احتیاط۔",
+    "layer4_ar": "يُؤكِّد المفسرون من الشيعة والسنة على حدٍّ سواء تحذير هذه الآية من الانصراف عن الله بزخرف الدنيا. ويُقدِّم ابن كثير والقرطبي تفسيرات متقاربة تتمحور حول خطر استهلاك الأموال والأولاد لكل الاهتمام الذي ينبغي أن يُصرف نحو الله. وكتب الغزالي في التراث السني مطوَّلاً في هذا الموضوع في كتبه في التزكية الروحية، مما يتوازى مع تأكيد العلماء الشيعة على الإبقاء على ذكر الله رغم المسؤوليات الدنيوية. وكلا التراثين يستشهدان بأحاديث وافرة في خطر التعلق الدنيوي وأهمية الذكر. ويُؤكِّد الرازي أن الآية تصف ضعفاً إنسانياً شائعاً لا خطيئة لا تُغفر، وتدعو المؤمنين إلى المحاسبة الذاتية. والمصادر الشيعية تُولي اهتماماً خاصاً لإشراك الأسرة في العبادة اقتداءً بتعاليم أهل البيت عليهم السلام. ويتفق التراثان على أن الأموال والأولاد نعم تصير ابتلاءات، والنجاح يُقاس بما إذا كانت هذه النعم وسيلة للتقرب إلى الله أم حجاباً يحول دون ذلك. والحكمة المشتركة أن المؤمنين مطالبون بصون الأولويات الروحية بمجاهدة الأولويات وضبط النفس، لأن جاذبية التعلقات الدنيوية شديدة ومستمرة ولا تكفُّ عن الشدِّ والمطالبة."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:10:spend-before-death",
+          "title": "Spend Before Death",
+          "icon": "clock.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah commands spending from what He has provided before death arrives - emphasizing the urgency of charitable action during our limited lifetime.",
+          "whyItMatters": "Death ends all opportunities for good deeds. We must act now, using our resources for Allah's sake, because no second chances exist after death.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ",
+          "title_urdu": "موت سے پہلے خرچ کرو",
+          "coreInsight_urdu": "اللہ حکم دیتا ہے کہ جو کچھ اس نے دیا ہے اس میں سے موت آنے سے پہلے خرچ کرو - ہماری محدود زندگی کے دوران خیراتی عمل کی فوریت پر زور دیتے ہوئے۔",
+          "whyItMatters_urdu": "موت نیک اعمال کے تمام مواقع ختم کر دیتی ہے۔ ہمیں اب عمل کرنا چاہیے، اپنے وسائل اللہ کی خاطر استعمال کرتے ہوئے، کیونکہ موت کے بعد دوسرا موقع نہیں ملتا۔",
+          "title_ar": "أنفقوا قبل الموت",
+          "coreInsight_ar": "الله يأمر بالإنفاق مما رزقنا قبل أن يأتي الموت - مؤكداً على إلحاح العمل الخيري خلال عمرنا المحدود.",
+          "whyItMatters_ar": "الموت ينهي كل الفرص للأعمال الصالحة. يجب أن نتصرف الآن، مستخدمين مواردنا لله، لأنه لا توجد فرص ثانية بعد الموت."
+        },
+        {
+          "id": "63:10:deathbed-regret",
+          "title": "Deathbed Regret",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The dying person pleads for a brief extension to give charity and be righteous - but it's too late, death marks the end of opportunity.",
+          "whyItMatters": "Deathbed regrets are among the most painful - wishing we had done good when opportunities existed. We must act now to avoid this devastating regret.",
+          "position": "topRight",
+          "arabicHighlight": "رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ",
+          "title_urdu": "موت کے وقت ندامت",
+          "coreInsight_urdu": "مرنے والا شخص تھوڑی سی مہلت کی التجا کرتا ہے تاکہ صدقہ دے اور نیکوکار بنے - لیکن بہت دیر ہو چکی ہے، موت موقع کا خاتمہ ہے۔",
+          "whyItMatters_urdu": "موت کے وقت کی ندامت سب سے تکلیف دہ ہے - کاش ہم نے نیکی کی ہوتی جب موقع تھا۔ ہمیں اب عمل کرنا چاہیے اس تباہ کن ندامت سے بچنے کے لیے۔",
+          "title_ar": "ندم الاحتضار",
+          "coreInsight_ar": "المحتضر يتوسل للحصول على فترة قصيرة ليتصدق ويكون من الصالحين - لكن فات الأوان، الموت ينهي الفرصة.",
+          "whyItMatters_ar": "ندم الاحتضار من أشد الآلام - التمني بأننا فعلنا الخير عندما كانت الفرص موجودة. يجب أن نتصرف الآن لتجنب هذا الندم المدمر."
+        },
+        {
+          "id": "63:10:charity-righteousness",
+          "title": "Charity & Righteousness",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The regretful person specifically wishes they had given charity and been among the righteous - recognizing these as essential marks of a successful life.",
+          "whyItMatters": "At death, we realize what truly matters - generosity and righteousness, not wealth and status. Living by these values now prevents regret later.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+          "title_urdu": "صدقہ اور نیکی",
+          "coreInsight_urdu": "ندامت کرنے والا خاص طور پر چاہتا ہے کہ کاش اس نے صدقہ دیا ہوتا اور نیکوکاروں میں سے ہوتا - ان کو کامیاب زندگی کی ضروری علامات کے طور پر تسلیم کرتے ہوئے۔",
+          "whyItMatters_urdu": "موت پر، ہم سمجھتے ہیں کہ واقعی کیا اہم ہے - سخاوت اور نیکی، دولت اور حیثیت نہیں۔ اب ان اقدار پر زندگی گزارنا بعد میں ندامت سے بچاتا ہے۔",
+          "title_ar": "الصدقة والصلاح",
+          "coreInsight_ar": "النادم يتمنى على وجه التحديد أنه تصدق وكان من الصالحين - معترفاً بهما كعلامات أساسية للحياة الناجحة.",
+          "whyItMatters_ar": "عند الموت، ندرك ما يهم حقاً - الكرم والصلاح، وليس الثروة والمكانة. العيش بهذه القيم الآن يمنع الندم لاحقاً."
+        },
+        {
+          "id": "63:10:brief-term",
+          "title": "Brief Extension",
+          "icon": "clock.badge.exclamationmark.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The dying person asks for just a 'brief term' - not years or decades, recognizing that even a little time would suffice for good deeds if only it were granted.",
+          "whyItMatters": "We take time for granted until it runs out. Every moment is precious and sufficient for doing good - we must not waste the time we have been given.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ",
+          "title_urdu": "مختصر مہلت",
+          "coreInsight_urdu": "مرنے والا صرف 'مختصر مدت' مانگتا ہے - برسوں یا دہائیوں نہیں، یہ تسلیم کرتے ہوئے کہ تھوڑا سا وقت بھی نیک اعمال کے لیے کافی ہوگا اگر دیا جائے۔",
+          "whyItMatters_urdu": "ہم وقت کو معمولی سمجھتے ہیں جب تک یہ ختم نہیں ہو جاتا۔ ہر لمحہ قیمتی اور نیکی کے لیے کافی ہے - ہمیں دیا گیا وقت ضائع نہیں کرنا چاہیے۔",
+          "title_ar": "الأجل القصير",
+          "coreInsight_ar": "المحتضر يطلب فقط 'أجلاً قريباً' - وليس سنوات أو عقوداً، مدركاً أن حتى القليل من الوقت سيكفي للأعمال الصالحة لو منح.",
+          "whyItMatters_ar": "نعتبر الوقت أمراً مسلماً به حتى ينفد. كل لحظة ثمينة وكافية لفعل الخير - يجب ألا نضيع الوقت الذي أعطينا."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia commentators emphasize this verse's call to immediate charitable action before death makes it impossible. Ibn Kathir and Qurtubi provide similar interpretations of the deathbed regret described. Hadith in both traditions describe the Prophet encouraging immediate charity and warning against procrastination. The Sunni tradition, like the Shia tradition, emphasizes Sadaqah Jariyah, ongoing charity that benefits the deceased. Both cite similar narrations about the best time to give charity being during health and attachment to wealth. A shared emphasis appears on the concept that death is the deadline for all good works, and proper preparation involves ensuring financial obligations are met and charity is given while opportunity exists. Both traditions warn against hoarding wealth until death, at which point it brings no spiritual benefit to the deceased. The unanimous wisdom is that awareness of death's inevitability should motivate immediate action in charity and righteousness rather than procrastination or endless accumulation. While there are differences in specific calculations of Zakat and Khums between traditions, both emphasize these obligatory charities must be fulfilled promptly, and voluntary charity beyond the obligatory is highly encouraged and should not be delayed.",
+    "layer4_urdu": "سنی اور شیعہ علماء اس آیت کے فوری خیرات کے عمل پر بتاتے ہیں۔ ابن کثیر اور قرطبی وضاحت کرتے ہیں کہ موت کی پچھتاوے جس کی تصویر دی گئی ہے۔ دونوں روایات میں حدیث نبی خیرات کی بیان کو متعلقہ کرتے ہیں اور دیری سے منع کرتے ہیں۔ سنی اور شیعہ روایات یکساں طور پر جاری خیرات کے بارے میں بات کرتے ہیں۔ دونوں کنویں یا تعلیم کی حمایت بنانے جیسی روحانی منتقلی کو اہم سمجھتے ہیں۔ رازی زور دیتے ہیں کہ موت ختم لائن کے لیے ہے تمام نیک کام، اور صحیح تیاری میں یقینی بنانا ہے کہ دولت حلال ہے، الزام پورے ہیں، اور خیرات قائم ہے تاکہ شخص اللہ سے ملنے میں اعتماد کے ساتھ رہے۔ دونوں تقالید متفق ہیں کہ موت کی بیداری جیتے ہوں وہ اس سے پہلے آ سکتی ہے، اور صحیح تیاری فوری خیرات اور موثر کام شامل کرتا ہے۔",
+    "layer4_ar": "يُؤكِّد المفسرون من الشيعة والسنة هذا النداء الإلهي إلى الإنفاق الفوري قبل أن يحول الموت دون ذلك. ويُقدِّم ابن كثير والقرطبي تفسيرات متقاربة لندم الاحتضار الموصوف. والأحاديث في كلا التراثين تحثُّ على البدار إلى الصدقة وتُحذِّر من التسويف. والتراث السني كالتراث الشيعي يُؤكِّد الصدقة الجارية التي تُكمل نفعها بعد رحيل صاحبها. وكلاهما يستشهد بأحاديث متماثلة في أن أفضل أوقات الصدقة زمن الصحة والتعلق بالمال. وثمة تأكيد مشترك على أن الموت أجل لجميع الأعمال الصالحة وأن الاستعداد السليم يقتضي الوفاء بالالتزامات المالية والعطاء في وقت يسر قبل أن يستبدَّ العُسر. والتراثان معاً يُحذِّران من اكتناز المال إلى حين الأجل حيث لا يُجدي الميت الثروة المتروكة. وفي تفاصيل الزكاة والخمس فروق حسابية بين المذهبين، لكنهما يتفقان على أن هذه الفرائض واجبة الأداء في وقتها، وأن تطوع الخير فوق الفريضة أمر مُحثَّث عليه ولا يجوز تأجيله. والحكمة الموحَّدة أن الوعي بحتمية الموت ينبغي أن يستنهض همة العمل والعطاء لا أن يُعطِّل، وأن الأعمال الصادقة والخير لا تضيع لأنها في حفظ العليم الخبير، وأن العاقل يعيش في استعداد روحي دائم لا يُسوِّف توبةً ولا يُرجِّئ خيراً."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "63:11:no-delay",
+          "title": "No Delay",
+          "icon": "clock.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah declares with absolute certainty that He never delays a soul when its appointed time arrives - death comes precisely at its decreed moment.",
+          "whyItMatters": "We cannot negotiate with death or bargain for more time. This reality demands immediate action - we must use our current time wisely, not assuming we'll have tomorrow.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا",
+          "title_urdu": "کوئی تاخیر نہیں",
+          "coreInsight_urdu": "اللہ مطلق یقین کے ساتھ اعلان کرتا ہے کہ وہ کبھی کسی روح کو تاخیر نہیں دیتا جب اس کا مقررہ وقت آ جائے - موت بالکل اپنے مقدر لمحے پر آتی ہے۔",
+          "whyItMatters_urdu": "ہم موت کے ساتھ سودا نہیں کر سکتے یا زیادہ وقت کے لیے مذاکرات نہیں کر سکتے۔ یہ حقیقت فوری عمل کا تقاضا کرتی ہے - ہمیں اپنے موجودہ وقت کو دانشمندی سے استعمال کرنا چاہیے۔",
+          "title_ar": "لا تأخير",
+          "coreInsight_ar": "الله يعلن بيقين مطلق أنه لن يؤخر نفساً إذا جاء أجلها - الموت يأتي بالضبط في لحظته المقدرة.",
+          "whyItMatters_ar": "لا يمكننا التفاوض مع الموت أو المساومة للحصول على مزيد من الوقت. هذا الواقع يتطلب عملاً فورياً - يجب استخدام وقتنا الحالي بحكمة."
+        },
+        {
+          "id": "63:11:appointed-time",
+          "title": "Appointed Time",
+          "icon": "calendar.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Every soul has a precisely appointed time of death determined by Allah - not random, not uncertain, but fixed from the beginning.",
+          "whyItMatters": "Understanding that our lifespan is predetermined brings both urgency and peace - urgency to maximize our time, peace knowing it's all in Allah's perfect plan.",
+          "position": "topRight",
+          "arabicHighlight": "إِذَا جَآءَ أَجَلُهَا",
+          "title_urdu": "مقررہ وقت",
+          "coreInsight_urdu": "ہر روح کا موت کا بالکل مقررہ وقت اللہ کی طرف سے متعین ہے - بے ترتیب نہیں، غیر یقینی نہیں، بلکہ شروع سے طے شدہ۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ ہماری عمر پہلے سے طے شدہ ہے فوریت اور سکون دونوں لاتا ہے - اپنے وقت کو زیادہ سے زیادہ کرنے کی فوریت، یہ جان کر سکون کہ سب اللہ کے کامل منصوبے میں ہے۔",
+          "title_ar": "الأجل المحدد",
+          "coreInsight_ar": "لكل نفس أجل محدد بدقة يحدده الله - ليس عشوائياً، ليس غير مؤكد، بل مقدر من البداية.",
+          "whyItMatters_ar": "فهم أن عمرنا محدد مسبقاً يجلب الإلحاح والسلام - إلحاح لتعظيم وقتنا، سلام بمعرفة أن كل شيء في خطة الله الكاملة."
+        },
+        {
+          "id": "63:11:divine-awareness",
+          "title": "Complete Awareness",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah is fully acquainted with everything we do - our deeds, intentions, and use of time are all known to Him with perfect knowledge.",
+          "whyItMatters": "This awareness should motivate excellence in all actions. Knowing Allah observes everything encourages us to live consciously and purposefully, making every moment count.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+          "title_urdu": "مکمل آگاہی",
+          "coreInsight_urdu": "اللہ ہر اس چیز سے مکمل طور پر واقف ہے جو ہم کرتے ہیں - ہمارے اعمال، ارادے، اور وقت کا استعمال سب کامل علم کے ساتھ اسے معلوم ہے۔",
+          "whyItMatters_urdu": "یہ آگاہی تمام اعمال میں بہترین کو متحرک کرنی چاہیے۔ یہ جاننا کہ اللہ سب کچھ دیکھ رہا ہے ہمیں شعوری اور مقصد کے ساتھ زندگی گزارنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الوعي الكامل",
+          "coreInsight_ar": "الله مطلع تماماً على كل ما نفعل - أعمالنا ونوايانا واستخدامنا للوقت كلها معلومة له بعلم كامل.",
+          "whyItMatters_ar": "هذا الوعي يجب أن يحفز التميز في جميع الأفعال. معرفة أن الله يراقب كل شيء يشجعنا على العيش بوعي وبهدف."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia sources emphasize this verse's teaching about the fixed nature of death's timing and divine knowledge of all actions. Ibn Kathir and Qurtubi provide interpretations matching Shia sources on the impossibility of postponing death once its time arrives. Both traditions encourage frequent remembrance of death as spiritual practice, citing similar prophetic traditions. Ghazali wrote extensively on this theme in 'The Remembrance of Death and the Afterlife,' paralleling Shia scholars' emphasis. Both traditions teach that while the moment of death is fixed, the quality and barakah of life can be influenced by righteous actions, particularly charity and maintaining family ties. A difference appears in some details of predestination theology, but both agree on the practical implication: live with urgency and readiness as death can come at any time. The concept of divine knowledge of all actions appears identically in both traditions, emphasizing accountability and inspiring both hope in divine justice and fear of divine punishment. The shared wisdom is that contemplating mortality is not morbid but spiritually healthy, that sincere effort and good works are never wasted as they are fully known to Allah, and that the wise person lives in constant spiritual readiness rather than procrastinating repentance or good works.",
+    "layer4_urdu": "سنی اور شیعہ ذرائع اس آیت کی موت کے وقت کی مقررہ نوعیت کی تعلیم پر متفق ہیں۔ ابن کثیر اور قرطبی ایسی تشریحات فراہم کرتے ہیں جو موت کی حتمیت پر زور دیتے ہیں جب یہ وقت آجائے۔ دونوں روایات میں موت کی یادداشتوں کو روحانی عمل کے طور پر حوصلہ افزائی کی جاتی ہے، ملتے ہوئے نبوی روایات۔ غزالی سنی روایت سے 'موت کی یادداشت اور آخرت' پر بہت لکھا ہے، شیعہ علماء کے تکیے کے ساتھ متوازی۔ دونوں روایات سکھاتے ہیں کہ جب تک موت کا وقت مقررہ ہے، زندگی کی معیت چھوٹی اعمال سے متاثر ہو سکتی ہے، خاص طور پر صدقہ اور خاندار کے رشتے کو برقرار رکھنا۔ دونوں روایات اللہ کے علم کی شامل ہے تمام اعمال کو، یقین اور خوف دونوں کو الہام کرتے ہیں۔ متوازی پیغام یہ ہے کہ موت کی بیداری صحت مند ہے، کہ فوری عمل ضروری ہے، اور خود حساب و جمع اللہ کے سامنے جواب دہی کے لیے تیاری ہے۔",
+    "layer4_ar": "يُؤكِّد كلٌّ من المصدرين الشيعي والسني تعليم هذه الآية عن ثبوت توقيت الموت وإحاطة الله العلمية بكل الأعمال. ويُقدِّم ابن كثير والقرطبي تفسيرات موافقة للمصادر الشيعية في استحالة تأجيل الموت بعد بلوغ الأجل. وكلا التراثين يُوصيان بكثرة ذكر الموت عبادةً روحية، مستشهدَين بأحاديث نبوية متقاربة. وقد كتب الغزالي مطوَّلاً في هذا الموضوع في كتاب «ذكر الموت وما بعده»، بما يتوازى مع تأكيد العلماء الشيعة على هذا المعنى. ويُقرِّر التراثان أن لحظة الموت وإن كانت محددة فإن نوعية الحياة وبركاتها تتأثر بالأعمال الصالحة ولا سيما الصدقة وصلة الرحم. ويظهر فارق في بعض تفاصيل عقيدة القضاء والقدر، لكنهما يتفقان على المفهوم العملي: عِش في استعجال واستعداد لأن الأجل قد يُباغتك في أي لحظة. ومفهوم الله المطَّلع على كل أعمال العباد واحد في التراثين، يُثير الرجاء في العدل الإلهي والخشية من عقابه. والحكمة الموحَّدة أن التأمل في الموت ليس كآبةً مرضية بل صحة روحية نافعة، وأن السعي الصادق والأعمال الصالحة لا تُهدر لأنها في علم الله، وأن العاقل يعيش في استعداد روحي دائم لا يُسوِّف توبةً ولا يُرجِّئ خيراً."
+  }
+}

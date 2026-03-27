@@ -1,0 +1,1188 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:1:prophetic-authority",
+          "title": "Prophetic Authority",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Believers are commanded not to precede Allah and His Messenger in judgment, acknowledging the supreme authority of divine revelation and prophetic guidance.",
+          "whyItMatters": "Recognizing prophetic authority prevents us from imposing personal opinions over divine wisdom, ensuring our actions align with authentic Islamic teachings.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ",
+          "title_urdu": "نبوی اختیار",
+          "coreInsight_urdu": "مومنین کو حکم دیا گیا ہے کہ اللہ اور اس کے رسول سے پہلے فیصلہ نہ کریں، یہ وحی اور نبوی رہنمائی کی اعلیٰ اختیار کو تسلیم کرنا ہے۔",
+          "whyItMatters_urdu": "نبوی اختیار کو پہچاننا ہمیں ذاتی آراء کو الہی حکمت پر مسلط کرنے سے روکتا ہے۔",
+          "title_ar": "السلطة النبوية",
+          "coreInsight_ar": "أُمر المؤمنون بعدم التقدم على الله ورسوله في الحكم، مما يعترف بالسلطة العليا للوحي الإلهي والإرشاد النبوي.",
+          "whyItMatters_ar": "الاعتراف بالسلطة النبوية يمنعنا من فرض الآراء الشخصية على الحكمة الإلهية."
+        },
+        {
+          "id": "49:1:divine-awareness",
+          "title": "Divine Awareness",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah is described as All-Hearing and All-Knowing, reminding believers that every word and action is witnessed by the Creator.",
+          "whyItMatters": "Consciousness of divine awareness cultivates mindfulness in speech and conduct, transforming our private and public behavior.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+          "title_urdu": "الہی آگاہی",
+          "coreInsight_urdu": "اللہ کو سمیع اور علیم کہا گیا ہے، مومنین کو یاد دلایا جاتا ہے کہ ہر لفظ اور عمل خالق کے سامنے ہے۔",
+          "whyItMatters_urdu": "الہی آگاہی کا شعور کلام اور برتاؤ میں ہوشیاری پیدا کرتا ہے۔",
+          "title_ar": "الوعي الإلهي",
+          "coreInsight_ar": "وُصف الله بأنه السميع العليم، مما يذكّر المؤمنين بأن كل كلمة وفعل مشهودة من الخالق.",
+          "whyItMatters_ar": "الوعي بالمراقبة الإلهية يزرع اليقظة في الكلام والسلوك."
+        },
+        {
+          "id": "49:1:taqwa-foundation",
+          "title": "Taqwa Foundation",
+          "icon": "shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse emphasizes taqwa (God-consciousness) as the protective shield that prevents believers from overstepping boundaries in religious matters.",
+          "whyItMatters": "Taqwa creates internal restraint and wisdom, guiding us to respect divine limits and prophetic teachings in all aspects of life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱتَّقُوا۟ ٱللَّهَ",
+          "title_urdu": "تقویٰ کی بنیاد",
+          "coreInsight_urdu": "آیت تقویٰ پر زور دیتی ہے جو مومنین کو دینی معاملات میں حدود سے تجاوز کرنے سے روکتی ہے۔",
+          "whyItMatters_urdu": "تقویٰ اندرونی پابندی اور حکمت پیدا کرتا ہے۔",
+          "title_ar": "أساس التقوى",
+          "coreInsight_ar": "تؤكد الآية على التقوى كدرع واقٍ يمنع المؤمنين من تجاوز الحدود في الأمور الدينية.",
+          "whyItMatters_ar": "التقوى تخلق ضبطاً داخلياً وحكمة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes the supreme authority of divine revelation and Prophetic guidance over personal opinion. However, interpretive differences emerge in how this authority continues after the Prophet's death. Sunni exegetes like Ibn Kathir and Qurtubi interpret this verse as emphasizing adherence to Quran and Sunnah through scholarly consensus (ijma) and analogical reasoning (qiyas). Shia scholars, drawing from Al-Mizan and Majma al-Bayan, extend the principle to the authority of the Imams as divinely appointed successors. Fakhr al-Din al-Razi in Mafatih al-Ghayb discusses this verse in terms of prophetic authority in legislative matters, which both traditions accept. Where the traditions differ is in identifying who inherits interpretive authority: Sunni scholarship distributes this among qualified jurists collectively, while Shia scholarship vests it in the designated Imams and subsequently in qualified mujtahids following their methodology. Both traditions emphasize that this verse prohibits religious innovation and requires consulting religious knowledge before acting. The shared principle is submission to divine guidance; the difference lies in identifying its authentic channels.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت ذاتی رائے پر وحیِ الٰہی اور رہنمائیِ نبوی کی بالادستی قائم کرتی ہے۔ البتہ تفسیری اختلاف اس امر میں پیدا ہوتا ہے کہ نبی اکرم صلی اللہ علیہ وآلہ وسلم کی وفات کے بعد یہ اختیار کیسے قائم رہتا ہے۔ سنی مفسرین جیسے ابنِ کثیر اور قرطبی اس آیت کو قرآن و سنت کی پیروی پر، اجماع اور قیاس کے ذریعے، زور دینے کے طور پر تعبیر کرتے ہیں۔ شیعہ علماء المیزان اور مجمع البیان کی روشنی میں اس اصول کو آئمہ کی ولایت تک وسعت دیتے ہیں جو الٰہی مقرر کردہ جانشین ہیں۔ فخرالدین رازی نے مفاتیح الغیب میں تشریعی معاملات میں نبوی اختیار کے حوالے سے اس آیت پر بحث کی ہے جسے دونوں روایات تسلیم کرتی ہیں۔ جہاں دونوں روایات کا اختلاف ہے وہ یہ ہے کہ تفسیری اختیار کا وارث کون ہے: سنی علماء اسے مجموعی طور پر اہلِ اجتہاد فقہاء میں تقسیم کرتے ہیں، جبکہ شیعہ علماء اسے معین آئمہ میں، اور بعد ازاں ان کے منہج پر چلنے والے مجتہدین میں، مرتکز دیکھتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت دینی بدعت کو حرام قرار دیتی ہے اور عمل کرنے سے پہلے دینی علم سے رجوع کو لازم قرار دیتی ہے۔ مشترک اصول الٰہی رہنمائی کے سامنے سرتسلیم خم کرنا ہے؛ فرق اس کے مستند ذرائع کی شناخت میں ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُؤسِّس لسمو سلطة الوحي الإلهي والهداية النبوية على الرأي الشخصي. غير أن الاختلاف يظهر في كيفية استمرار هذه السلطة بعد وفاة النبي صلى الله عليه وآله وسلم. فمفسِّرو السنة كابن كثير والقرطبي يفهمون الآية على أنها تُؤكِّد التمسُّك بالقرآن والسنة عبر الإجماع والقياس، في حين أن علماء الشيعة استناداً إلى الميزان ومجمع البيان يُمدِّدون المبدأ ليشمل سلطة الأئمة المعيَّنين خلفاءً للنبي بأمر الله. ويتناول الفخر الرازي في مفاتيح الغيب هذه الآية من حيث السلطة النبوية في التشريع وهو موقفٌ تتوافق حوله كلتا المدرستين. ونقطة الخلاف تكمن في تحديد من يرث صلاحية التفسير: فالفقه السني يُوزِّعها على الفقهاء المؤهَّلين مجتمعين، بينما يُخصِّصها الفقه الشيعي للأئمة المعيَّنين ثم لمن يعمل بمنهجهم من المجتهدين. ويتَّفق الفريقان على أن الآية تنهى عن الابتداع وتستوجب الرجوع إلى العلم الديني قبل العمل. والمبدأ المشترك هو الانقياد للهداية الإلهية، والاختلاف يقتصر على تحديد قنواتها الأصيلة."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:2:respect-protocol",
+          "title": "Respectful Speech",
+          "icon": "speaker.wave.2.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Believers are forbidden from raising their voices above the Prophet's voice or speaking loudly to him, establishing protocols of reverence in divine presence.",
+          "whyItMatters": "The etiquette of respect toward the Prophet teaches humility and recognition of spiritual hierarchy, values that extend to all relationships of authority and knowledge.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ",
+          "title_urdu": "ادب والا کلام",
+          "coreInsight_urdu": "مومنین کو نبی کی آواز سے اونچی آواز میں بات کرنے یا ان سے بلند آواز میں بات کرنے سے منع کیا گیا ہے۔",
+          "whyItMatters_urdu": "نبی کے لیے ادب کا طریقہ عاجزی سکھاتا ہے۔",
+          "title_ar": "الكلام المحترم",
+          "coreInsight_ar": "نُهي المؤمنون عن رفع أصواتهم فوق صوت النبي أو التحدث إليه بصوت عالٍ.",
+          "whyItMatters_ar": "آداب الاحترام تجاه النبي تعلّم التواضع."
+        },
+        {
+          "id": "49:2:deed-nullification",
+          "title": "Deed Nullification",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse warns that disrespectful behavior toward the Prophet can nullify one's good deeds without conscious awareness, highlighting the severity of spiritual breaches.",
+          "whyItMatters": "Understanding the fragility of our spiritual achievements motivates constant vigilance in maintaining proper conduct and respect for sacred relationships.",
+          "position": "topRight",
+          "arabicHighlight": "أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+          "title_urdu": "اعمال کی تباہی",
+          "coreInsight_urdu": "آیت متنبہ کرتی ہے کہ نبی کے ساتھ بے ادبی اعمال کو بے شعوری میں برباد کر سکتی ہے۔",
+          "whyItMatters_urdu": "روحانی کامیابیوں کی نازکی کو سمجھنا ہمیں محتاط رکھتا ہے۔",
+          "title_ar": "إبطال الأعمال",
+          "coreInsight_ar": "تحذّر الآية من أن السلوك غير المحترم تجاه النبي يمكن أن يبطل الأعمال الصالحة.",
+          "whyItMatters_ar": "فهم هشاشة إنجازاتنا الروحية يحفّز اليقظة المستمرة."
+        },
+        {
+          "id": "49:2:unconscious-sin",
+          "title": "Hidden Dangers",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'while you perceive not' reveals that spiritual harm can occur through seemingly minor actions, without immediate awareness of their consequences.",
+          "whyItMatters": "Awareness of hidden spiritual dangers encourages us to study Islamic etiquette deeply and maintain high standards of conduct in all circumstances.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَأَنتُمْ لَا تَشْعُرُونَ",
+          "title_urdu": "پوشیدہ خطرات",
+          "coreInsight_urdu": "جملہ 'جبکہ تم نہیں جانتے' ظاہر کرتا ہے کہ معمولی اعمال سے روحانی نقصان ہو سکتا ہے۔",
+          "whyItMatters_urdu": "پوشیدہ روحانی خطرات کی آگاہی ہمیں اسلامی آداب کا گہرائی سے مطالعہ کرنے کی ترغیب دیتی ہے۔",
+          "title_ar": "المخاطر الخفية",
+          "coreInsight_ar": "عبارة 'وأنتم لا تشعرون' يكشف أن الضرر الروحي يمكن أن يحدث من خلال أفعال تبدو بسيطة.",
+          "whyItMatters_ar": "الوعي بالمخاطر الروحية الخفية يشجعنا على دراسة الآداب الإسلامية بعمق."
+        }
+      ]
+    },
+    "layer4": "All Islamic schools agree on the fundamental requirement of respecting the Prophet Muhammad, with this verse providing unambiguous textual evidence. Sunni scholars like Tabari and Ibn Kathir narrate similar historical contexts regarding the revelation, with broad consensus on the prohibition of raising voices above the Prophet's. The principle of deeds being nullified through disrespect is discussed across traditions, though with different emphases. Sunni scholarship generally focuses on this as specific to the Prophet's lifetime, while some extend it to respecting his legacy and teachings. Shia scholarship, drawing from Ahlul Bayt traditions, emphasizes that this respect extends to the Prophet's designated successors. Both traditions agree that the verse teaches the inseparability of faith and proper conduct. Qurtubi in his tafsir emphasizes that this verse establishes a hierarchy of respect in Islam, with scholars noting parallels to respecting parents and elders. Where traditions converge strongly is in viewing this verse as establishing that Islamic ethics are not merely optional niceties but spiritual requirements that affect one's relationship with Allah. Both Shia and Sunni scholars cite this verse when discussing the importance of adab in the spiritual path.",
+    "layer4_urdu": "تمام اسلامی مکاتبِ فکر نبی اکرم صلی اللہ علیہ وآلہ وسلم کے احترام کے بنیادی تقاضے پر متفق ہیں، اور یہ آیت اس کے لیے ناقابلِ ابہام نصیِّ دلیل فراہم کرتی ہے۔ سنی مفسرین جیسے طبری اور ابنِ کثیر نزولِ آیت کے تاریخی سیاق کی ملتی جلتی روایات نقل کرتے ہیں، اور نبی صلی اللہ علیہ وآلہ وسلم کے سامنے آواز بلند کرنے کی ممانعت پر وسیع اتفاق ہے۔ بے ادبی سے اعمال کے ضائع ہونے کے اصول پر مختلف انداز کے ساتھ تمام روایات میں بحث ملتی ہے۔ سنی علماء عموماً اسے نبی اکرم صلی اللہ علیہ وآلہ وسلم کی زندگی کے ساتھ مخصوص سمجھتے ہیں، جبکہ بعض آپ صلی اللہ علیہ وآلہ وسلم کی میراث اور تعلیمات کے احترام تک اسے وسعت دیتے ہیں۔ شیعہ علماء اہلِ بیت علیہم السلام کی روایات کی روشنی میں اس احترام کو نبی اکرم صلی اللہ علیہ وآلہ وسلم کے نامزد جانشینوں تک بھی وسیع کرتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت ایمان اور مناسب طرزِ عمل کی لازمیت کو سکھاتی ہے۔ قرطبی نے اپنی تفسیر میں اس بات پر زور دیا کہ یہ آیت اسلام میں احترام کا ایک درجہ بندی مقرر کرتی ہے اور علماء نے والدین اور بزرگوں کے احترام کے ساتھ اس کی مماثلتوں کو نوٹ کیا ہے۔ جس بات پر روایات پوری طرح یکجا ہیں وہ یہ ہے کہ اسلامی اخلاق محض اختیاری نکتہ چینی نہیں بلکہ روحانی لازمی تقاضے ہیں جو اللہ سے بندے کے تعلق کو متاثر کرتے ہیں۔ شیعہ اور سنی دونوں علماء اس آیت سے روحانی سفر میں ادب کی اہمیت بیان کرتے ہوئے استشہاد کرتے ہیں۔",
+    "layer4_ar": "يتَّفق جميع المذاهب الإسلامية على وجوب احترام النبي محمد صلى الله عليه وآله وسلم وعلى الدليل القاطع الذي توفِّره هذه الآية. ويسرد مفسِّرو السنة كالطبري وابن كثير سياقات تاريخية متقاربة لنزولها، مع إجماع واسع على تحريم رفع الصوت فوق صوت النبي صلى الله عليه وآله وسلم. ويُتناول موضوع إحباط الأعمال بالاستهانة في التراثين وإن تفاوتت التأكيدات. فمنهج الفقه السني يجعل ذلك في الأغلب خاصَّاً بزمن حياة النبي صلى الله عليه وآله وسلم وإن امتدَّه بعضهم إلى توقير إرثه وتعاليمه. وعلماء الشيعة استناداً إلى روايات أهل البيت عليهم السلام يرون أن هذا الاحترام يشمل الخلفاء المعيَّنين من بعد النبي صلى الله عليه وآله وسلم. ويتَّفق التراثان على أن الآية تُعلِّم عدم انفصال الإيمان عن السلوك القويم. ويُبرز القرطبي في تفسيره أن الآية تُؤسِّس تراتبيةً من الاحترام في الإسلام ويُلاحظ العلماء أوجه التوازي مع توقير الوالدين والكبار. ونقطة التوافق القوية بين المدرستين: النظر إلى الآية باعتبارها تُقرِّر أن الآداب الإسلامية ليست تطوُّعاً وإنما هي متطلَّبات روحية تمسُّ صلة العبد بالله. ويستشهد علماء الشيعة والسنة بهذه الآية عند الكلام على مكانة الأدب في المسلك الروحي."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:3:tested-hearts",
+          "title": "Tested Hearts",
+          "icon": "heart.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Those who lower their voices before the Prophet are described as having hearts that Allah has tested for taqwa, indicating that proper conduct reflects inner spiritual refinement.",
+          "whyItMatters": "External etiquette serves as both evidence and cultivation of internal faith, showing that true belief manifests in respectful behavior.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ",
+          "title_urdu": "آزمائے ہوئے دل",
+          "coreInsight_urdu": "جو لوگ نبی کے سامنے اپنی آواز نیچی رکھتے ہیں ان کے دلوں کو اللہ نے تقویٰ کے لیے آزمایا ہے۔",
+          "whyItMatters_urdu": "بیرونی آداب اندرونی ایمان کی دلیل اور نشوونما دونوں ہیں۔",
+          "title_ar": "القلوب المختبرة",
+          "coreInsight_ar": "الذين يخفضون أصواتهم أمام النبي وُصفوا بأن قلوبهم امتحنها الله للتقوى.",
+          "whyItMatters_ar": "الآداب الخارجية تعمل كدليل وتنمية للإيمان الداخلي."
+        },
+        {
+          "id": "49:3:divine-reward",
+          "title": "Great Reward",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse promises forgiveness and great reward for those who maintain reverence, showing that proper etiquette brings both spiritual purification and divine favor.",
+          "whyItMatters": "Understanding the rewards of respectful conduct motivates consistent practice of Islamic manners and deepens appreciation for prophetic teachings.",
+          "position": "topRight",
+          "arabicHighlight": "لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌ",
+          "title_urdu": "عظیم اجر",
+          "coreInsight_urdu": "آیت ان لوگوں کے لیے مغفرت اور عظیم اجر کا وعدہ کرتی ہے جو ادب برقرار رکھتے ہیں۔",
+          "whyItMatters_urdu": "ادب والے برتاؤ کے اجر کو سمجھنا اسلامی آداب کی مستقل مشق کی ترغیب دیتا ہے۔",
+          "title_ar": "الأجر العظيم",
+          "coreInsight_ar": "تعد الآية بالمغفرة والأجر العظيم لمن يحافظون على التوقير.",
+          "whyItMatters_ar": "فهم مكافآت السلوك المحترم يحفز الممارسة المستمرة للآداب الإسلامية."
+        },
+        {
+          "id": "49:3:lowering-voice",
+          "title": "Humble Demeanor",
+          "icon": "speaker.wave.1.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Lowering one's voice becomes a metaphor for humility and submission before divine authority, teaching that physical actions express spiritual states.",
+          "whyItMatters": "This principle extends beyond the Prophet's presence to all contexts requiring humility, making us conscious of how our physical behavior reflects spiritual orientation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ",
+          "title_urdu": "عاجزانہ روش",
+          "coreInsight_urdu": "آواز نیچی کرنا الہی اختیار کے سامنے عاجزی اور تسلیم کا استعارہ بن جاتا ہے۔",
+          "whyItMatters_urdu": "یہ اصول نبی کی موجودگی سے آگے بھی پھیلتا ہے۔",
+          "title_ar": "التصرف المتواضع",
+          "coreInsight_ar": "خفض الصوت يصبح استعارة للتواضع والخضوع أمام السلطة الإلهية.",
+          "whyItMatters_ar": "هذا المبدأ يمتد إلى ما وراء حضور النبي."
+        }
+      ]
+    },
+    "layer4": "There is broad consensus across Islamic traditions on the virtue of showing reverence to the Prophet and the spiritual rewards promised in this verse. Sunni scholars like Ibn Kathir and Fakhr al-Razi emphasize similar points about the connection between outward respect and inward piety. The interpretation of 'tested hearts for righteousness' is understood similarly across traditions as indicating spiritual refinement. However, Shia scholarship places additional emphasis on extending this reverence to the Ahlul Bayt as inheritors of the Prophet's station, citing traditions from the Imams that link this verse to respect for religious authority generally. Sunni scholarship tends to focus more exclusively on the historical context of the Prophet's lifetime. Both traditions cite this verse when teaching about Islamic manners (adab) and the importance of propriety in religious contexts. Qurtubi and other Sunni scholars note that the companions' response to this verse—speaking in lowered voices—became a permanent practice, which Shia sources also confirm. The shared understanding is that Islam integrates belief, behavior, and spiritual development, with this verse exemplifying how seemingly small acts of conduct carry profound spiritual significance when done with consciousness of Allah's presence and recognition of His Messenger's station.",
+    "layer4_urdu": "اسلامی روایات میں نبی اکرم صلی اللہ علیہ وآلہ وسلم کی تعظیم ظاہر کرنے کی فضیلت اور اس آیت میں موعود روحانی انعامات پر وسیع اتفاق پایا جاتا ہے۔ سنی علماء جیسے ابنِ کثیر اور فخرالدین رازی ظاہری احترام اور باطنی تقویٰ کے درمیان تعلق کے بارے میں ملتے جلتے نکات بیان کرتے ہیں۔ 'نیکی کے لیے آزمائے گئے دلوں' کی تفسیر تمام روایات میں روحانی تصفیے کے معنی میں یکساں طور پر سمجھی جاتی ہے۔ تاہم شیعہ علماء اس تعظیم کو اہلِ بیت علیہم السلام تک وسعت دینے پر اضافی زور دیتے ہیں، آئمہ کی روایات کا حوالہ دیتے ہوئے جو اس آیت کو عام طور پر دینی اختیار کے احترام سے جوڑتی ہیں۔ سنی علماء رجحاناً نبی اکرم صلی اللہ علیہ وآلہ وسلم کی حیاتِ مبارکہ کے تاریخی سیاق پر زیادہ توجہ دیتے ہیں۔ دونوں روایات اس آیت کو اسلامی آداب اور دینی سیاق میں شائستگی کی اہمیت کی تعلیم دیتے وقت نقل کرتی ہیں۔ قرطبی اور دیگر سنی علماء نوٹ کرتے ہیں کہ صحابہ کا اس آیت کے بعد یہ عمل کہ انہوں نے آواز پست کر کے بات کرنا مستقل معمول بنا لیا، شیعہ مآخذ بھی اس کی تائید کرتے ہیں۔ مشترکہ سمجھ یہ ہے کہ اسلام عقیدے، رویے اور روحانی ارتقاء کو یکجا کرتا ہے، اور یہ آیت اس کی نمائندگی کرتی ہے کہ بظاہر چھوٹے آداب اللہ کی موجودگی کے شعور اور اس کے رسول صلی اللہ علیہ وآلہ وسلم کے مقام کی پہچان کے ساتھ کیے جانے پر عمیق روحانی اہمیت رکھتے ہیں۔",
+    "layer4_ar": "يسود التوافق بين مذاهب الإسلام كافَّةً في فضيلة إجلال النبي صلى الله عليه وآله وسلم والثواب الموعود في هذه الآية. ويُؤكِّد مفسِّرو السنة كابن كثير والفخر الرازي نقاطاً مشابهة في العلاقة بين التوقير الظاهر والتقوى الباطنة. وتفسير «امتحن قلوبهم للتقوى» بأنه دلالةٌ على الصفاء الروحي تفسيرٌ متَّفقٌ عليه بين التراثين. ويُؤكِّد الفريقان أن هذا الامتحان ليس استكشافاً إلهياً لما يجهله الله بل هو تجلٍّ للأحوال الداخلية. ويضيف علماء الشيعة تأكيداً خاصَّاً على امتداد هذا الإجلال إلى أهل البيت عليهم السلام باعتبارهم وارثي مقام النبي، مستشهدين بروايات الأئمة التي تربط الآية بتوقير السلطة الدينية عموماً. أما منهج السنة فيركِّز أكثر على السياق التاريخي لحياة النبي صلى الله عليه وآله وسلم. ويستشهد الفريقان بهذه الآية عند تدريس آداب الإسلام وأهمية السلوك اللائق في السياقات الدينية. ويُؤكِّد القرطبي ومصادر شيعية معاً أن استجابة الصحابة بخفض أصواتهم غدت ممارسةً دائمة. والفهم المشترك: الإسلام يُوحِّد الإيمان والسلوك والنموِّ الروحي، وهذه الآية نموذجٌ على كيف تحمل الأعمال الظاهرة الصغيرة أثراً روحياً عميقاً حين تصدر عن وعيٍّ بحضور الله والإقرار بمقام رسوله صلى الله عليه وآله وسلم."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:4:lack-of-reasoning",
+          "title": "Missing Wisdom",
+          "icon": "brain.head.profile",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who called out to the Prophet from behind the private chambers are described as lacking reason, connecting improper behavior with intellectual and spiritual deficiency.",
+          "whyItMatters": "True intelligence includes emotional and spiritual awareness, teaching that wisdom manifests in respectful conduct and proper timing.",
+          "position": "topLeft",
+          "arabicHighlight": "أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+          "title_urdu": "حکمت کی کمی",
+          "coreInsight_urdu": "جو لوگ نبی کو کمروں کے پیچھے سے پکارتے تھے ان میں عقل کی کمی بتائی گئی ہے۔",
+          "whyItMatters_urdu": "حقیقی ذہانت میں جذباتی اور روحانی آگاہی شامل ہے۔",
+          "title_ar": "نقص الحكمة",
+          "coreInsight_ar": "الذين نادوا النبي من وراء الحجرات وُصفوا بأنهم يفتقرون إلى العقل.",
+          "whyItMatters_ar": "الذكاء الحقيقي يشمل الوعي العاطفي والروحي."
+        },
+        {
+          "id": "49:4:private-boundaries",
+          "title": "Sacred Privacy",
+          "icon": "door.left.hand.closed",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The mention of chambers emphasizes the importance of respecting private spaces and personal boundaries, especially for those in positions of spiritual leadership.",
+          "whyItMatters": "Honoring privacy and boundaries reflects spiritual maturity and prevents intrusion that can harm both individual well-being and community harmony.",
+          "position": "topRight",
+          "arabicHighlight": "مِن وَرَآءِ ٱلْحُجُرَٰتِ",
+          "title_urdu": "مقدس رازداری",
+          "coreInsight_urdu": "کمروں کا ذکر نجی جگہوں اور ذاتی حدود کے احترام کی اہمیت پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "رازداری اور حدود کا احترام روحانی پختگی کو ظاہر کرتا ہے۔",
+          "title_ar": "الخصوصية المقدسة",
+          "coreInsight_ar": "ذكر الحجرات يؤكد أهمية احترام الأماكن الخاصة والحدود الشخصية.",
+          "whyItMatters_ar": "احترام الخصوصية والحدود يعكس النضج الروحي."
+        },
+        {
+          "id": "49:4:improper-timing",
+          "title": "Wrong Timing",
+          "icon": "clock.badge.exclamationmark.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Calling out without consideration of appropriate timing shows lack of awareness, teaching that when we act is as important as what we do.",
+          "whyItMatters": "Developing sensitivity to proper timing in our interactions demonstrates emotional intelligence and respect for others' circumstances and needs.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ",
+          "title_urdu": "غلط وقت",
+          "coreInsight_urdu": "مناسب وقت کی پروا کیے بغیر پکارنا آگاہی کی کمی ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "ہماری بات چیت میں مناسب وقت کی حساسیت پیدا کرنا جذباتی ذہانت کو ظاہر کرتا ہے۔",
+          "title_ar": "التوقيت الخاطئ",
+          "coreInsight_ar": "النداء دون اعتبار للتوقيت المناسب يظهر نقص الوعي.",
+          "whyItMatters_ar": "تطوير الحساسية للتوقيت المناسب يظهر الذكاء العاطفي."
+        }
+      ]
+    },
+    "layer4": "Islamic scholars across traditions agree on the historical context and basic interpretation of this verse. Sunni exegetes like Tabari and Ibn Kathir provide similar accounts of the Banu Tamim delegation calling out disrespectfully. The connection between proper conduct and true understanding is emphasized in both Shia and Sunni scholarship. Where there is convergence is in using this verse to teach Islamic etiquette generally. Both traditions cite this in discussions of proper manners when approaching scholars and religious authorities. Qurtubi emphasizes that this verse teaches that knowledge without adab is incomplete, a principle found throughout Islamic education in all schools. Fakhr al-Din al-Razi discusses the psychological insight of the verse: that those who lack spiritual refinement often also lack awareness of their own deficiency, hence they don't recognize their improper behavior. This observation appears in Shia sources as well. The verse has been used across Islamic history to establish norms for approaching religious teachers and spaces. Both traditions see this as establishing that Islam is not merely a set of beliefs but a comprehensive way of life that includes refined conduct in all situations, especially when seeking religious guidance.",
+    "layer4_urdu": "اسلامی روایات کے علماء اس آیت کے تاریخی سیاق اور بنیادی تفسیر پر متفق ہیں۔ طبری اور ابنِ کثیر جیسے سنی مفسرین قبیلۂ بنو تمیم کے وفد کی بے ادبی کے ملتے جلتے واقعات نقل کرتے ہیں۔ مناسب طرزِ عمل اور حقیقی سمجھ کے درمیان تعلق کو شیعہ اور سنی دونوں علوم میں نمایاں کیا گیا ہے۔ جہاں دونوں کا اتفاق ہے وہ اس آیت کا عام اسلامی آداب کی تعلیم کے لیے استعمال ہے۔ دونوں روایات علماء اور دینی ارکان کے قریب ہونے کے مناسب آداب کے بیان میں اسے نقل کرتی ہیں۔ قرطبی اس بات پر زور دیتے ہیں کہ یہ آیت سکھاتی ہے کہ آداب کے بغیر علم ناقص ہے، یہ اصول اسلامی تعلیم کے تمام مکاتب میں پایا جاتا ہے۔ فخرالدین رازی آیت کی نفسیاتی بصیرت پر بحث کرتے ہیں: کہ جو لوگ روحانی تصفیے سے محروم ہیں وہ اکثر اپنی کمزوری سے بے خبر ہوتے ہیں، اس لیے انہیں اپنے نامناسب رویے کا ادراک نہیں ہوتا۔ یہ مشاہدہ شیعہ مآخذ میں بھی ملتا ہے۔ اس آیت کو اسلامی تاریخ میں دینی اساتذہ اور مقامات کے پاس جانے کے اصول مقرر کرنے کے لیے استعمال کیا گیا ہے۔ دونوں روایات اسے اس بات کی دلیل کے طور پر دیکھتی ہیں کہ اسلام محض عقائد کا مجموعہ نہیں بلکہ زندگی کا ایک جامع طریقہ ہے جس میں تمام حالات خصوصاً دینی رہنمائی طلب کرتے وقت کے آداب شامل ہیں۔",
+    "layer4_ar": "يتَّفق العلماء في جميع المذاهب الإسلامية على السياق التاريخي والتفسير الجوهري للآية. ويسرد مفسِّرو السنة كالطبري وابن كثير روايات متقاربة عن وفد بني تميم ونداءاتهم المخالفة للآداب. ويُؤكِّد كلا التراثين الصلة بين حسن السلوك والفهم الحقيقي. ويتوافق الفريقان في الاستشهاد بهذه الآية لتدريس آداب الإسلام عموماً، كما يستشهد بها كلاهما في مسألة الآداب الواجبة عند التوجُّه للعلماء والسلطات الدينية. ويُشير القرطبي إلى أن الآية تُعلِّمنا أن العلم بلا أدب ناقصٌ، وهو مبدأٌ حاضرٌ في جميع مناهج التعليم الإسلامي. ويتناول الفخر الرازي البُعد النفسي للآية: من يفتقر إلى الصقل الروحي لا يُدرك في الغالب نقصَه لذا لا يلحظ قبح سلوكه. وهذه الملاحظة واردةٌ في المصادر الشيعية أيضاً. وقد استُعيِن بهذه الآية عبر التاريخ الإسلامي كلِّه لتأسيس الأعراف في التوجُّه للمعلِّمين والأماكن الدينية. ويرى الفريقان في الآية تأسيساً لأن الإسلام ليس مجرَّد منظومة من العقائد بل أسلوب حياة شامل يرتقي بالسلوك في جميع الأحوال لا سيَّما عند طلب الهداية الدينية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:5:virtue-of-patience",
+          "title": "Patient Waiting",
+          "icon": "hourglass",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The verse emphasizes that patient waiting until the Prophet emerged would have been better, elevating sabr (patience) as a fundamental virtue in Islamic conduct.",
+          "whyItMatters": "Practicing patience in our demands and expectations cultivates self-control and consideration, preventing harm from impulsive actions.",
+          "position": "topLeft",
+          "arabicHighlight": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ",
+          "title_urdu": "صبر کی فضیلت",
+          "coreInsight_urdu": "آیت زور دیتی ہے کہ نبی کے باہر آنے تک صبر سے انتظار کرنا بہتر ہوتا۔",
+          "whyItMatters_urdu": "اپنی مانگوں اور توقعات میں صبر کرنا خود پر قابو اور لحاظ پیدا کرتا ہے۔",
+          "title_ar": "فضيلة الصبر",
+          "coreInsight_ar": "تؤكد الآية أن الانتظار بصبر حتى يخرج النبي كان أفضل.",
+          "whyItMatters_ar": "ممارسة الصبر في مطالبنا وتوقعاتنا تنمي ضبط النفس والاعتبار."
+        },
+        {
+          "id": "49:5:divine-forgiveness",
+          "title": "Endless Mercy",
+          "icon": "heart.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Despite their error, Allah's names Al-Ghafoor (Forgiving) and Ar-Raheem (Merciful) are invoked, demonstrating that divine mercy always remains accessible.",
+          "whyItMatters": "Knowing that Allah's forgiveness is always available encourages repentance after mistakes and prevents despair from past errors.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+          "title_urdu": "لامتناہی رحمت",
+          "coreInsight_urdu": "ان کی غلطی کے باوجود، اللہ کے نام غفور اور رحیم کا ذکر ہے، جو ظاہر کرتا ہے کہ الہی رحمت ہمیشہ دستیاب ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ اللہ کی بخشش ہمیشہ دستیاب ہے، غلطیوں کے بعد توبہ کی حوصلہ افزائی کرتا ہے۔",
+          "title_ar": "الرحمة اللامتناهية",
+          "coreInsight_ar": "على الرغم من خطئهم، تُذكر أسماء الله الغفور الرحيم، مما يظهر أن الرحمة الإلهية متاحة دائماً.",
+          "whyItMatters_ar": "معرفة أن مغفرة الله متاحة دائماً تشجع على التوبة بعد الأخطاء."
+        },
+        {
+          "id": "49:5:better-choice",
+          "title": "Superior Path",
+          "icon": "arrow.up.forward",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'it would have been better for them' teaches that Islamic guidance always leads to what is truly better, even when our desires suggest otherwise.",
+          "whyItMatters": "Trusting in divine wisdom over personal preference leads to better outcomes and deeper satisfaction, even when immediate gratification is delayed.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَكَانَ خَيْرًۭا لَّهُمْ",
+          "title_urdu": "بہتر راستہ",
+          "coreInsight_urdu": "جملہ 'ان کے لیے بہتر ہوتا' سکھاتا ہے کہ اسلامی رہنمائی ہمیشہ بہتر کی طرف لے جاتی ہے۔",
+          "whyItMatters_urdu": "ذاتی پسند پر الہی حکمت پر بھروسہ کرنا بہتر نتائج کی طرف لے جاتا ہے۔",
+          "title_ar": "الطريق الأفضل",
+          "coreInsight_ar": "عبارة 'لكان خيراً لهم' يعلّم أن الإرشاد الإسلامي يؤدي دائماً إلى ما هو أفضل حقاً.",
+          "whyItMatters_ar": "الثقة في الحكمة الإلهية على التفضيل الشخصي تؤدي إلى نتائج أفضل."
+        }
+      ]
+    },
+    "layer4": "There is unanimous agreement across Islamic traditions on the virtue of patience and the interpretation of this verse. Sunni scholars like Ibn Kathir and Qurtubi emphasize similar lessons about proper etiquette and the value of patience when seeking religious guidance. The placement of Allah's beautiful names 'Forgiving and Merciful' at the verse's conclusion is understood across traditions as indicating divine compassion for human errors in judgment. Both Shia and Sunni scholarship use this verse to teach about Islamic manners and the importance of timing in religious seeking. Fakhr al-Din al-Razi discusses the psychological insight that patience leads to better outcomes, a point emphasized in Shia sources as well. Where the traditions fully converge is in viewing this verse as exemplifying Allah's educational methodology: He corrects His servants firmly but mercifully, teaching proper conduct while keeping the door of forgiveness open. This verse appears in both Shia and Sunni works on Islamic ethics (akhlaq) as evidence that patience is central to proper Islamic character. The broader lesson—that spiritual development requires patience, proper timing, and respectful conduct—is shared across all schools of Islamic thought and remains a cornerstone of Islamic spiritual education.",
+    "layer4_urdu": "تمام اسلامی روایات میں صبر کی فضیلت اور اس آیت کی تفسیر پر اتفاقِ رائے پایا جاتا ہے۔ ابنِ کثیر اور قرطبی جیسے سنی علماء دینی رہنمائی طلب کرتے وقت مناسب آداب اور صبر کی قدر کے بارے میں ملتے جلتے سبق بیان کرتے ہیں۔ آیت کے اختتام پر اللہ کے خوبصورت نام 'غفور اور رحیم' کا ذکر تمام روایات میں فیصلے کی انسانی غلطیوں پر الٰہی شفقت کی علامت کے طور پر یکساں سمجھا جاتا ہے۔ شیعہ اور سنی دونوں علماء اس آیت کو اسلامی آداب اور دینی طلب میں توقیت کی اہمیت کی تعلیم دیتے وقت استعمال کرتے ہیں۔ فخرالدین رازی نے نفسیاتی بصیرت پر بحث کی ہے کہ صبر بہتر نتائج دیتا ہے، یہ نکتہ شیعہ مآخذ میں بھی موجود ہے۔ جہاں روایات مکمل طور پر متحد ہیں وہ اس آیت کو اللہ کے تعلیمی طریقۂ کار کی مثال کے طور پر دیکھنے میں ہے: وہ اپنے بندوں کی اصلاح مضبوطی سے لیکن رحمت کے ساتھ کرتا ہے، مناسب طرزِ عمل سکھاتا ہے اور مغفرت کا دروازہ کھلا رکھتا ہے۔ یہ آیت شیعہ اور سنی دونوں اخلاق کی کتابوں میں اس بات کی دلیل کے طور پر نظر آتی ہے کہ اسلامی کردار کے لیے صبر مرکزی اہمیت کا حامل ہے۔ وسیع تر سبق کہ روحانی ارتقاء صبر، مناسب توقیت اور باادب طرزِ عمل کا متقاضی ہے، تمام اسلامی مکاتبِ فکر میں مشترک ہے اور اسلامی روحانی تعلیم کا ایک بنیادی رکن ہے۔",
+    "layer4_ar": "يتَّفق التراثان الإسلاميان الشيعي والسني اتِّفاقاً تاماً على فضيلة الصبر وتفسير هذه الآية. ويُؤكِّد مفسِّرو السنة كابن كثير والقرطبي دروساً متشابهة في حسن الأدب وقيمة الصبر عند طلب الهداية الدينية. واختتام الآية باسمَي الله «الغفور الرحيم» يُفسَّر في التراثين على أنه دلالةٌ على الرحمة الإلهية بما يصدر عن الإنسان من أخطاء في التقدير. ويستشهد الشيعة والسنة بهذه الآية لتدريس الآداب الإسلامية وأهمية التوقيت في الطلب الديني. ويتناول الفخر الرازي كما تفعل المصادر الشيعية البُعدَ النفسي المتمثِّل في أن الصبر يُؤدِّي إلى نتائج أفضل. وتوافق التراثان تاماً في النظر إلى الآية باعتبارها نموذجاً على المنهج التربوي الإلهي: تصحيح العباد بحزم وبرحمة دافئة مع إبقاء باب المغفرة مفتوحاً. وتظهر هذه الآية في مصنَّفات الأخلاق الإسلامية في كلا التراثين شاهداً على أن الصبر ركيزةٌ في الخُلُق الإسلامي الأصيل. والدرس الأشمل المشترك بين جميع المذاهب: أن النموَّ الروحي يستوجب الصبر وإحكام التوقيت والسلوك اللائق. وهي قيمةٌ راسخة في التعليم الديني الإسلامي ومرجعٌ أساسي في التربية الروحية إلى يوم القيامة."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:6:verify-information",
+          "title": "Verify First",
+          "icon": "magnifyingglass",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Believers are commanded to verify information brought by a fasiq (disobedient/unreliable person) before acting on it, establishing the principle of evidence-based judgment.",
+          "whyItMatters": "Verification prevents injustice and regret, teaching critical thinking and protecting communities from the harm of false information and hasty decisions.",
+          "position": "topLeft",
+          "arabicHighlight": "إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍۢ فَتَبَيَّنُوٓا۟",
+          "title_urdu": "پہلے تصدیق کریں",
+          "coreInsight_urdu": "مومنین کو حکم دیا گیا ہے کہ فاسق کی لائی ہوئی خبر پر عمل سے پہلے تصدیق کریں۔",
+          "whyItMatters_urdu": "تصدیق ظلم اور پشیمانی سے بچاتی ہے اور تنقیدی سوچ سکھاتی ہے۔",
+          "title_ar": "التحقق أولاً",
+          "coreInsight_ar": "أُمر المؤمنون بالتحقق من المعلومات التي يجلبها الفاسق قبل التصرف بناءً عليها.",
+          "whyItMatters_ar": "التحقق يمنع الظلم والندم، ويعلّم التفكير النقدي."
+        },
+        {
+          "id": "49:6:harm-prevention",
+          "title": "Preventing Harm",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse warns against harming innocent people out of ignorance, emphasizing that good intentions don't excuse actions based on unverified claims.",
+          "whyItMatters": "Recognizing our responsibility for harm caused by our actions, even unintentional, makes us more careful and accountable in decisions affecting others.",
+          "position": "topRight",
+          "arabicHighlight": "أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍۢ",
+          "title_urdu": "نقصان سے بچاؤ",
+          "coreInsight_urdu": "آیت نادانی سے بے گناہ لوگوں کو نقصان پہنچانے سے خبردار کرتی ہے۔",
+          "whyItMatters_urdu": "اپنے اعمال سے ہونے والے نقصان کی ذمہ داری کو تسلیم کرنا ہمیں زیادہ محتاط بناتا ہے۔",
+          "title_ar": "منع الضرر",
+          "coreInsight_ar": "تحذّر الآية من إيذاء الأبرياء عن جهل.",
+          "whyItMatters_ar": "إدراك مسؤوليتنا عن الضرر الناتج عن أفعالنا يجعلنا أكثر حذراً."
+        },
+        {
+          "id": "49:6:future-regret",
+          "title": "Avoiding Regret",
+          "icon": "arrow.uturn.backward",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The warning about becoming regretful highlights that hasty actions based on false information lead to lasting remorse that could have been avoided.",
+          "whyItMatters": "Anticipating potential regret before acting provides powerful motivation to pause, verify, and reflect before making decisions with lasting consequences.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ",
+          "title_urdu": "ندامت سے بچنا",
+          "coreInsight_urdu": "ندامت کے بارے میں انتباہ اس بات کو اجاگر کرتا ہے کہ جھوٹی معلومات پر جلد بازی دائمی پچھتاوا لاتی ہے۔",
+          "whyItMatters_urdu": "عمل سے پہلے ممکنہ ندامت کا اندازہ لگانا ٹھہرنے کی تحریک دیتا ہے۔",
+          "title_ar": "تجنب الندم",
+          "coreInsight_ar": "التحذير من الندم يسلط الضوء على أن الأفعال المتسرعة تؤدي إلى ندم دائم.",
+          "whyItMatters_ar": "توقع الندم المحتمل قبل التصرف يوفر دافعاً قوياً للتوقف والتحقق."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys universal acceptance across Islamic traditions as the foundation for principles of verification and justice. Sunni scholars like Ibn Kathir, Qurtubi, and Tabari provide similar historical contexts regarding Walid ibn Uqbah. The legal principle that testimony of a fasiq requires corroboration is established in both Shia and Sunni jurisprudence based on this verse. There is complete consensus that verification before acting on potentially harmful information is obligatory. Both traditions derive from this verse the inadmissibility of uncorroborated testimony from corrupt sources in Islamic courts. Fakhr al-Din al-Razi emphasizes, as do Shia scholars, that the verse protects both individuals and communities from injustice based on false information. Where scholarly discussion occurs across traditions is in precisely defining who qualifies as a fasiq, with various jurisprudential criteria developed. However, the core principle—that source credibility matters and verification is mandatory before action—is universal. Modern Islamic scholars across all schools cite this verse extensively when addressing misinformation, fake news, and the ethics of information sharing in the digital age. This verse represents one of the Quran's clearest statements on epistemology and justice, finding application in both classical jurisprudence and contemporary ethics.",
+    "layer4_urdu": "یہ آیت تصدیق اور عدل کے اصولوں کی بنیاد کے طور پر اسلامی روایات میں عالمگیر قبولیت رکھتی ہے۔ سنی علماء جیسے ابن کثیر، قرطبی، اور طبری نے ولید بن عقبہ سے متعلق مماثل تاریخی سیاق فراہم کیا ہے۔ شیعہ اور سنی فقہ دونوں میں اس آیت کی بنیاد پر یہ اصول قائم ہے کہ فاسق کی تائید کے بغیر گواہی اسلامی عدالت میں ناقابلِ قبول ہے۔ ممکنہ طور پر نقصاندہ معلومات پر عمل کرنے سے پہلے تحقیق واجب ہے — اس پر مکمل اجماع ہے۔ فخرالدین رازی نے، جیسا کہ شیعہ علماء نے بھی کیا، اس بات پر زور دیا کہ یہ آیت جھوٹی معلومات پر مبنی ناانصافی سے افراد اور معاشرے دونوں کو محفوظ رکھتی ہے۔ اختلافِ رائے وہاں آتا ہے جہاں فاسق کی تعریف پر گفتگو ہوتی ہے، جس کے لیے مختلف فقہی معیارات وضع کیے گئے ہیں۔ تاہم مرکزی اصول — کہ ماخذ کی ساکھ اہمیت رکھتی ہے اور عمل سے پہلے تصدیق لازمی ہے — تمام روایات میں یکساں ہے۔ عصری اسلامی علماء تمام مذاہب میں اس آیت کو غلط معلومات، جھوٹی خبروں، اور ڈیجیٹل دور میں اطلاعات کے اشتراک کے آداب پر گفتگو کرتے وقت بکثرت پیش کرتے ہیں۔ یہ آیت قرآن کے معرفتیات اور عدل پر واضح ترین بیانات میں سے ایک ہے، جو کلاسیکی فقہ اور عصری اخلاقیات دونوں میں یکساں طور پر کارگر ہے۔",
+    "layer4_ar": "حظيت هذه الآية بقبولٍ شامل عند علماء الشيعة والسنة بوصفها الأساس الراسخ لمبادئ التثبُّت والعدالة. ويورد ابن كثير والقرطبي والطبري سياقاً تاريخياً متقارباً في شأن الوليد بن عقبة، وثمة إجماعٌ تام على أن وجوب التثبُّت قبل التصرُّف بناءً على أخبار قد تضرُّ بالآخرين فريضةٌ شرعية. ويستنبط الفريقان من هذه الآية عدمَ قبول شهادة الفاسق المنفردة في أقضية المسلمين. ويُؤكِّد الفخر الرازي كما يُؤكِّد علماء الشيعة أن الآية تحمي الأفراد والجماعات من الظلم القائم على معلومات مغلوطة. وينشأ الاجتهاد العلمي عند الفريقين في تحديد الضوابط الدقيقة لمعنى «الفسق» الموجب لاشتراط التثبُّت، غير أن المبدأ الجوهري واحدٌ: مصداقية المصدر معيارٌ فارق يُوجب التحقُّق قبل البناء على الخبر. ويُكثر علماء الإسلام المعاصرون في سائر المذاهب من الاستشهاد بهذه الآية حين يتناولون الإشكاليات الأخلاقية المتعلِّقة بتداول المعلومات، من نشر الأخبار الزائفة إلى سلوكيات وسائل التواصل الاجتماعي، مما يجعلها من أبيَن الآيات القرآنية في مجال الإبستيمولوجيا والأخلاق التطبيقية."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:7:prophetic-wisdom",
+          "title": "Prophetic Wisdom",
+          "icon": "brain",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse reveals that if the Prophet obeyed believers in many matters, it would lead to hardship, showing that prophetic judgment surpasses collective human opinion.",
+          "whyItMatters": "Trusting prophetic guidance over popular consensus protects us from paths that seem right but lead to difficulty, teaching humility about our limited perspective.",
+          "position": "topLeft",
+          "arabicHighlight": "لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ",
+          "title_urdu": "نبوی حکمت",
+          "coreInsight_urdu": "آیت ظاہر کرتی ہے کہ اگر نبی بہت سے معاملات میں مومنین کی اطاعت کرتے تو مشکل ہوتی۔",
+          "whyItMatters_urdu": "مقبول اتفاق رائے پر نبوی رہنمائی پر بھروسہ ہمیں مشکلات سے بچاتا ہے۔",
+          "title_ar": "الحكمة النبوية",
+          "coreInsight_ar": "تكشف الآية أن طاعة النبي للمؤمنين في كثير من الأمور ستؤدي إلى المشقة.",
+          "whyItMatters_ar": "الثقة في الإرشاد النبوي على الإجماع الشعبي يحمينا من طرق تبدو صحيحة."
+        },
+        {
+          "id": "49:7:beloved-faith",
+          "title": "Beloved Faith",
+          "icon": "heart.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah has made faith beloved and beautified it in believers' hearts, revealing that true iman is a divine gift that transforms our inner orientation.",
+          "whyItMatters": "Understanding faith as Allah's gift cultivates gratitude and humility, while the beautification of faith explains why it brings joy and satisfaction to the soul.",
+          "position": "topRight",
+          "arabicHighlight": "حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ",
+          "title_urdu": "محبوب ایمان",
+          "coreInsight_urdu": "اللہ نے ایمان کو محبوب بنایا اور مومنین کے دلوں میں اسے خوبصورت بنایا۔",
+          "whyItMatters_urdu": "ایمان کو اللہ کا تحفہ سمجھنا شکر اور عاجزی پیدا کرتا ہے۔",
+          "title_ar": "الإيمان المحبوب",
+          "coreInsight_ar": "جعل الله الإيمان محبوباً وزيّنه في قلوب المؤمنين.",
+          "whyItMatters_ar": "فهم الإيمان كهدية من الله يزرع الامتنان والتواضع."
+        },
+        {
+          "id": "49:7:hateful-evil",
+          "title": "Hating Evil",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah has made disbelief, defiance, and disobedience hateful to believers, showing that spiritual development includes natural aversion to sin.",
+          "whyItMatters": "When we find ourselves naturally repelled by sinful behavior, it's evidence of Allah's work in our hearts, encouraging us to nurture this divine gift.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ",
+          "title_urdu": "برائی سے نفرت",
+          "coreInsight_urdu": "اللہ نے کفر، فسق اور نافرمانی کو مومنین کے لیے ناپسند بنایا ہے۔",
+          "whyItMatters_urdu": "جب ہم قدرتی طور پر گناہ سے دور ہوتے ہیں، یہ ہمارے دلوں میں اللہ کے کام کی دلیل ہے۔",
+          "title_ar": "كراهية الشر",
+          "coreInsight_ar": "جعل الله الكفر والفسوق والعصيان مكروهاً للمؤمنين.",
+          "whyItMatters_ar": "عندما نشعر بالنفور الطبيعي من السلوك الخاطئ، إنه دليل على عمل الله في قلوبنا."
+        },
+        {
+          "id": "49:7:rightly-guided",
+          "title": "True Guidance",
+          "icon": "location.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Those with beautified faith and natural aversion to sin are declared the rightly guided, defining true guidance as transformed inner disposition.",
+          "whyItMatters": "Real guidance isn't just intellectual knowledge but heart-level transformation that affects our loves, hates, and natural inclinations.",
+          "position": "bottomRight",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+          "title_urdu": "حقیقی ہدایت",
+          "coreInsight_urdu": "خوبصورت ایمان اور گناہ سے قدرتی نفرت والوں کو ہدایت یافتہ قرار دیا گیا ہے۔",
+          "whyItMatters_urdu": "حقیقی ہدایت صرف علمی معلومات نہیں بلکہ دل کی تبدیلی ہے۔",
+          "title_ar": "الهداية الحقيقية",
+          "coreInsight_ar": "الذين لديهم إيمان مُزيّن ونفور طبيعي من الخطيئة هم الراشدون.",
+          "whyItMatters_ar": "الهداية الحقيقية ليست مجرد معرفة فكرية بل تحول في القلب."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental message of this verse: that prophetic guidance surpasses human opinion and that genuine faith involves heart transformation. Sunni exegetes like Tabari and Ibn Kathir emphasize similar points about the superiority of prophetic judgment. The interpretation that Allah makes faith beloved to believers' hearts is universal across traditions. Qurtubi discusses the theological point that this beautification is divine action (tawfiq), though human effort plays a role in receptivity. Shia scholarship similarly balances divine grace with human responsibility. Fakhr al-Din al-Razi discusses the three evils made hateful (disbelief, defiance, disobedience) as representing different degrees of opposition to faith, a categorization found in Shia sources too. Where the traditions develop different emphases is in the continuation of prophetic authority: Shia scholarship extends the principle of divinely-guided leadership to the Imams, while Sunni scholarship relies on scholarly consensus guided by Quran and Sunnah. However, both agree that in the Prophet's lifetime, his judgment superseded other opinions, and both emphasize that this verse teaches the necessity of aligning with divine guidance over personal preferences. The verse is cited across traditions when discussing the nature of genuine faith, the role of religious authority, and the balance between human reasoning and divine revelation.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی پیغام پر متفق ہیں: کہ نبوی رہنمائی انسانی رائے سے برتر ہے اور حقیقی ایمان میں دل کی تبدیلی شامل ہے۔ سنی مفسرین جیسے طبری اور ابن کثیر نبوی فیصلے کی برتری کے بارے میں مماثل نکات بیان کرتے ہیں۔ یہ تفسیر کہ اللہ مومنوں کے دلوں میں ایمان کو محبوب بناتا ہے تمام روایات میں عالمگیر ہے۔ قرطبی نے اس فقہی نکتے پر گفتگو کی ہے کہ یہ الہی آرائش ایک الہی فعل ہے (توفیق)، البتہ انسانی کوشش قابلیت پیدا کرنے میں کردار ادا کرتی ہے — یہی موازنہ شیعہ علماء کے ہاں بھی ملتا ہے۔ فخرالدین رازی نے تین برائیوں — کفر، فسق، عصیان — کو ایمان کی مخالفت کے مختلف درجات کے طور پر بیان کیا ہے، جو شیعہ منابع میں بھی موجود ہے۔ جہاں روایات مختلف اہمیت دیتی ہیں وہ نبوی اقتدار کے تسلسل میں ہے: شیعہ علماء اس اصول کو آئمہ علیہم السلام تک توسیع دیتے ہیں، جبکہ سنی علماء قرآن و سنت کی رہنمائی میں علمی اجماع پر اعتماد کرتے ہیں۔ تاہم دونوں اس پر متفق ہیں کہ آپؐ کی زندگی میں آپؐ کا فیصلہ تمام دیگر آراء پر مقدم تھا، اور دونوں اس بات پر زور دیتے ہیں کہ یہ آیت ذاتی ترجیحات کے مقابلے میں الہی رہنمائی کے ساتھ ہم آہنگی کی ضرورت سکھاتی ہے۔ حقیقی ایمان کی نوعیت، دینی اقتدار کے کردار، اور انسانی عقل و الہی وحی کے توازن پر گفتگو کرتے وقت یہ آیت تمام روایات میں پیش کی جاتی ہے۔",
+    "layer4_ar": "اتَّفق علماء الشيعة والسنة على المضمون الجوهري لهذه الآية: أن الهدى النبوي يسمو على الرأي البشري، وأن الإيمان الحق يستلزم تحوُّلاً في القلب. ويُبرز علماء السنة كالطبري وابن كثير نقاطاً متقاربة في شأن علوِّ الحكمة النبوية على الرأي الإنساني. والتفسير القائل بأن الله يُحبِّب الإيمان إلى قلوب المؤمنين متَّفقٌ عليه بين أرباب المذاهب. ويُناقش القرطبي المسألة العقدية مُبيِّناً أن هذا التحبيب من تسديد الله وتوفيقه مع بقاء المسؤولية الإنسانية، وهو رأيٌ تنسجم معه المصادر الشيعية. ويُحلِّل الفخر الرازي الشرور الثلاثة المكرَّهة في الآية كما يُحلِّلها علماء الشيعة تصنيفاً متقارباً. ومحلُّ التباين بين التقليدين مسألةُ استمرار ولاية النبوة في القيادة: فالتقليد الشيعي يمدُّها إلى الأئمة المعصومين، بينما يعتمد التقليد السني منهج إجماع العلماء المجتهدين. غير أن كلا التقليدين يتَّفقان على أنه في حياة النبي صلى الله عليه وآله وسلم كان حكمه سابقاً لسائر الآراء، وأن الآية تُعلِّم وجوب تقديم الهدى الإلهي على الأهواء الشخصية."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:8:divine-bounty",
+          "title": "Divine Bounty",
+          "icon": "gift.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Faith and guidance are described as fadl (bounty) and ni'mah (favor) from Allah, emphasizing that spiritual blessings are unearned gifts beyond human achievement.",
+          "whyItMatters": "Recognizing faith as divine favor prevents spiritual pride and maintains gratitude, reminding us that our best qualities are gifts we should nurture humbly.",
+          "position": "topLeft",
+          "arabicHighlight": "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ",
+          "title_urdu": "الہی فضل",
+          "coreInsight_urdu": "ایمان اور ہدایت کو اللہ کا فضل اور نعمت بتایا گیا ہے۔",
+          "whyItMatters_urdu": "ایمان کو الہی فضل کے طور پر تسلیم کرنا روحانی تکبر سے بچاتا ہے۔",
+          "title_ar": "الفضل الإلهي",
+          "coreInsight_ar": "وُصف الإيمان والهداية بالفضل والنعمة من الله.",
+          "whyItMatters_ar": "الاعتراف بالإيمان كفضل إلهي يمنع الكبرياء الروحية."
+        },
+        {
+          "id": "49:8:divine-knowledge",
+          "title": "All-Knowing",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah's attribute of being Aleem (All-Knowing) assures that divine gifts of faith are distributed with perfect awareness of each person's capacity and need.",
+          "whyItMatters": "Trust in Allah's perfect knowledge prevents comparison with others and cultivates contentment with our unique spiritual journey and station.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+          "title_urdu": "سب جاننے والا",
+          "coreInsight_urdu": "اللہ کی صفت علیم یقین دلاتی ہے کہ ایمان کے الہی تحائف کامل آگاہی سے تقسیم ہوتے ہیں۔",
+          "whyItMatters_urdu": "اللہ کے کامل علم پر بھروسہ دوسروں سے موازنہ سے روکتا ہے۔",
+          "title_ar": "العليم",
+          "coreInsight_ar": "صفة الله العليم يؤكد أن هدايا الإيمان تُوزع بوعي كامل.",
+          "whyItMatters_ar": "الثقة في علم الله الكامل تمنع المقارنة مع الآخرين."
+        },
+        {
+          "id": "49:8:divine-wisdom",
+          "title": "Perfect Wisdom",
+          "icon": "lightbulb.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The attribute Hakeem (All-Wise) reveals that every aspect of our spiritual journey is orchestrated with perfect wisdom and purpose.",
+          "whyItMatters": "Understanding divine wisdom helps us accept life's challenges as purposeful, trusting that even difficulties serve our spiritual development.",
+          "position": "bottomLeft",
+          "arabicHighlight": "حَكِيمٌۭ",
+          "title_urdu": "کامل حکمت",
+          "coreInsight_urdu": "صفت حکیم ظاہر کرتی ہے کہ ہمارے روحانی سفر کا ہر پہلو کامل حکمت سے ترتیب دیا گیا ہے۔",
+          "whyItMatters_urdu": "الہی حکمت کو سمجھنا زندگی کی مشکلات کو مقصد کے ساتھ قبول کرنے میں مدد دیتا ہے۔",
+          "title_ar": "الحكمة الكاملة",
+          "coreInsight_ar": "صفة الحكيم يكشف أن كل جانب من رحلتنا الروحية مرتب بحكمة كاملة.",
+          "whyItMatters_ar": "فهم الحكمة الإلهية يساعدنا على قبول تحديات الحياة كهادفة."
+        }
+      ]
+    },
+    "layer4": "There is broad theological agreement across Islamic traditions that faith involves divine grace, though the exact relationship between human effort and divine enabling has been debated. This verse is cited by both Shia and Sunni scholars when discussing predestination and free will. Sunni scholars like Qurtubi and Fakhr al-Din al-Razi emphasize that faith is from Allah's bounty while maintaining human responsibility. Shia scholarship, particularly in the works of Allamah Tabatabai and classical mutakallimun (theologians), presents similar balanced views. The Ashari school in Sunni theology emphasizes divine action in creating faith, while Maturidi and Mutazili approaches give more emphasis to human agency—though all agree the verse indicates faith involves divine favor. Shia theology generally follows the middle path articulated by the Imams: 'Neither compulsion nor complete delegation, but something between the two.' Both traditions use this verse to cultivate humility and gratitude among believers. Where there is complete consensus is that Allah's knowledge and wisdom are perfect, that faith is a tremendous blessing, and that believers should be grateful for it rather than arrogant about it. The verse appears across traditions in discussions of divine attributes, human free will, and the nature of faith.",
+    "layer4_urdu": "اسلامی روایات میں یہ وسیع الہیاتی اتفاق ہے کہ ایمان میں الہی فضل شامل ہے، البتہ انسانی کوشش اور الہی توفیق کے درمیان صحیح تعلق پر بحث جاری رہی ہے۔ یہ آیت شیعہ اور سنی دونوں علماء کی جانب سے تقدیر اور اختیار کے مباحث میں پیش کی جاتی ہے۔ قرطبی اور فخرالدین رازی جیسے سنی علماء اس بات پر زور دیتے ہیں کہ ایمان اللہ کی عنایت سے ہے، ساتھ ساتھ انسانی ذمہ داری بھی قائم رہتی ہے۔ علامہ طباطبائی اور کلاسیکی شیعہ متکلمین کی تحریریں بھی یکساں متوازن نقطہ نظر پیش کرتی ہیں۔ سنی الہیات میں اشعری مکتب الہی فعل کو ایمان پیدا کرنے میں مرکزیت دیتا ہے، جبکہ ماتریدی اور معتزلی رجحانات انسانی ارادے کو زیادہ اہمیت دیتے ہیں — تاہم سب اس بات پر متفق ہیں کہ آیت ایمان کو الہی نعمت قرار دیتی ہے۔ شیعہ کلام عموماً آئمہ علیہم السلام کے اس درمیانی راستے کی پیروی کرتا ہے: نہ جبر نہ تفویض، بلکہ دونوں کے درمیان ایک بات۔ مکمل اتفاق یہ ہے کہ اللہ کا علم اور حکمت کامل ہے، ایمان ایک عظیم نعمت ہے، اور مومنین کو اس پر تکبر نہیں بلکہ شکر گزار ہونا چاہیے۔ یہ آیت تمام روایات میں الہی صفات، انسانی اختیار، اور ایمان کی نوعیت کے مباحث میں یکساں طور پر پیش کی جاتی ہے۔",
+    "layer4_ar": "أجمع علماء الشيعة والسنة من حيث المبدأ على أن الإيمان يتضمَّن فضلاً إلهياً، وإن تفاوتت مدارسهم في تحديد العلاقة الدقيقة بين العطاء الرباني والكسب الإنساني. ويُكثر الشيخان قرطبي والفخر الرازي من الاستشهاد بهذه الآية في معرض مناقشة القضاء والقدر وحرية الإرادة، مُؤكِّدَين في آنٍ واحد أن الإيمان منحةٌ من الله وأن الإنسان مسؤول. ويقدِّم التقليد الشيعي في أعمال العلامة الطباطبائي وعلماء الكلام الكلاسيكيين مواقف مُتوازنة تتقاطع مع ذلك. وثمة فروق دقيقة في الطرح: مدرسة الأشاعرة في السنة تُؤكِّد دور المشيئة الإلهية في «خلق» الإيمان، بينما تميل المعتزلة ثم مدرسة الماتريدية إلى إبراز أثر الإنسان بشكل أجلى، وكلُّ ذلك تحت مظلَّة الاعتراف بأن الله هو المُعين الأول. أما الفقه الشيعي فيتَّخذ في الغالب طريقاً وسطاً معبَّراً عنه في المأثور الذهبي عن الأئمة عليهم السلام: «لا جبر ولا تفويض بل أمرٌ بين الأمرين». وفيما يتعلق بالتطبيق العملي يتَّفق التقليدان: الآية تدعو إلى الشكر والتواضع وتنهى عن الغرور الروحي."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:9:conflict-resolution",
+          "title": "Make Peace",
+          "icon": "hands.and.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "When two groups of believers fight, the community is commanded to actively reconcile them, establishing that peacemaking is a collective responsibility.",
+          "whyItMatters": "Active intervention in conflicts prevents escalation and protects community unity, making peace not just an ideal but a practical duty.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا",
+          "title_urdu": "صلح کرانا",
+          "coreInsight_urdu": "جب مومنین کے دو گروہ لڑیں تو معاشرے کو ان میں صلح کرانے کا حکم دیا گیا ہے۔",
+          "whyItMatters_urdu": "تنازعات میں فعال مداخلت بڑھنے سے روکتی ہے اور اتحاد کی حفاظت کرتی ہے۔",
+          "title_ar": "صنع السلام",
+          "coreInsight_ar": "عندما تتقاتل فئتان من المؤمنين، يُؤمر المجتمع بالمصالحة بينهما بنشاط.",
+          "whyItMatters_ar": "التدخل النشط في النزاعات يمنع التصعيد ويحمي وحدة المجتمع."
+        },
+        {
+          "id": "49:9:fighting-oppression",
+          "title": "Oppose Tyranny",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#E57373",
+          "coreInsight": "If one group oppresses after reconciliation attempts, the community must actively fight the oppressor until they return to Allah's command, legitimizing resistance to injustice.",
+          "whyItMatters": "Peace doesn't mean accepting oppression - justice requires courage to stand against aggression, even within the believing community.",
+          "position": "topRight",
+          "arabicHighlight": "فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى",
+          "title_urdu": "ظلم کی مخالفت",
+          "coreInsight_urdu": "اگر ایک گروہ صلح کی کوشش کے بعد ظلم کرے تو معاشرے کو ظالم سے لڑنا چاہیے۔",
+          "whyItMatters_urdu": "امن کا مطلب ظلم قبول کرنا نہیں - انصاف کو جارحیت کے خلاف کھڑے ہونے کی ہمت چاہیے۔",
+          "title_ar": "معارضة الطغيان",
+          "coreInsight_ar": "إذا بغت إحدى الفئتين بعد محاولات المصالحة، يجب على المجتمع قتال الباغية.",
+          "whyItMatters_ar": "السلام لا يعني قبول الظلم - العدالة تتطلب الشجاعة للوقوف ضد العدوان."
+        },
+        {
+          "id": "49:9:return-to-allah",
+          "title": "Divine Standard",
+          "icon": "arrow.uturn.up",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Fighting continues only until the oppressor returns to Allah's command, showing that restoration to divine law is the goal, not punishment or domination.",
+          "whyItMatters": "This principle prevents revenge and ensures that all conflict resolution aims at restoring justice under Allah's guidance, not human vendetta.",
+          "position": "bottomLeft",
+          "arabicHighlight": "حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ",
+          "title_urdu": "الہی معیار",
+          "coreInsight_urdu": "لڑائی صرف اس وقت تک جاری رہتی ہے جب تک ظالم اللہ کے حکم کی طرف نہ لوٹ آئے۔",
+          "whyItMatters_urdu": "یہ اصول انتقام سے روکتا ہے اور یقینی بناتا ہے کہ تنازعات کا حل انصاف بحال کرنے کا ہے۔",
+          "title_ar": "المعيار الإلهي",
+          "coreInsight_ar": "يستمر القتال فقط حتى تعود الفئة الباغية إلى أمر الله.",
+          "whyItMatters_ar": "هذا المبدأ يمنع الانتقام ويضمن أن كل حل للنزاع يهدف إلى استعادة العدالة."
+        },
+        {
+          "id": "49:9:love-of-justice",
+          "title": "Allah Loves Justice",
+          "icon": "scale.3d",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse concludes by stating Allah loves those who act justly, making divine love conditional on practicing fairness and equity in all situations.",
+          "whyItMatters": "Knowing that justice attracts Allah's love motivates us to be fair even when it's difficult, making equity a path to divine nearness.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+          "title_urdu": "اللہ انصاف سے محبت کرتا ہے",
+          "coreInsight_urdu": "آیت اختتام کرتی ہے کہ اللہ انصاف کرنے والوں سے محبت کرتا ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ انصاف اللہ کی محبت کو کھینچتا ہے، ہمیں مشکل حالات میں بھی منصف بننے کی ترغیب دیتا ہے۔",
+          "title_ar": "الله يحب العدل",
+          "coreInsight_ar": "تختتم الآية بأن الله يحب المقسطين.",
+          "whyItMatters_ar": "معرفة أن العدل يجذب محبة الله يحفزنا على الإنصاف حتى عندما يكون صعباً."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys universal acceptance across Islamic traditions as the foundation for conflict resolution among Muslims. Sunni scholars like Ibn Kathir, Qurtubi, and Tabari provide similar historical contexts and derive similar legal principles. Both traditions agree that fighting between Muslims doesn't remove them from the faith, that mediation is obligatory, and that oppression must be resisted. The principle that reconciliation must be based on justice is emphasized across all schools. Where historical divergence occurs is in applying this verse to early Islamic history: Shia scholars cite Imam Ali's conduct during the conflicts of his caliphate as the perfect application of this verse, while Sunni scholars may emphasize other examples. However, the principles themselves are universally accepted. Fakhr al-Din al-Razi, like Shia scholars, emphasizes that Allah's love for those who act justly makes justice a form of worship. Both traditions use this verse to oppose blind partisanship and advocate principled stances based on justice rather than tribal or factional loyalty. In modern contexts, Islamic scholars across all traditions cite this verse when addressing conflicts among Muslim nations or communities, calling for mediation and justice rather than military escalation or continued enmity.",
+    "layer4_urdu": "یہ آیت مسلمانوں کے درمیان تنازعات کے حل کی بنیاد کے طور پر اسلامی روایات میں عالمگیر قبولیت رکھتی ہے۔ سنی علماء ابن کثیر، قرطبی، اور طبری نے مماثل تاریخی پس منظر بیان کیے ہیں اور یکساں فقہی احکامات اخذ کیے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ مسلمانوں کے درمیان لڑائی انہیں دائرہ ایمان سے خارج نہیں کرتی، کہ ثالثی واجب ہے، اور کہ ظلم کی مزاحمت ضروری ہے۔ یہ اصول کہ صلح عدل پر مبنی ہونی چاہیے تمام مذاہب میں یکساں طور پر زور دیا جاتا ہے۔ تاریخی اختلاف اس آیت کو ابتدائی اسلامی تاریخ پر لاگو کرنے میں ہے: شیعہ علماء امام علی علیہ السلام کے اپنی خلافت کے دوران طرزِ عمل کو اس آیت کا کامل اطلاق قرار دیتے ہیں، جبکہ سنی علماء دیگر مثالیں پیش کرتے ہیں۔ تاہم خود اصول عالمگیر طور پر قبول ہیں۔ فخرالدین رازی نے، جیسا کہ شیعہ علماء نے کیا، اس بات پر زور دیا کہ عدل کرنے والوں سے اللہ کی محبت عدل کو ایک عبادت بنا دیتی ہے۔ دونوں روایات اندھی جانبداری کو رد کرنے اور فرقہ وارانہ یا قبائلی وفاداری کے بجائے اصول پر مبنی موقف اپنانے کے لیے اس آیت سے استدلال کرتی ہیں۔ جدید دور میں مسلم ممالک یا کمیونٹیز کے درمیان تنازعوں پر گفتگو کرتے ہوئے تمام روایات کے اسلامی علماء اس آیت کو ثالثی اور عدل کے لیے پیش کرتے ہیں، نہ کہ فوجی کشیدگی یا مستقل دشمنی کے لیے۔",
+    "layer4_ar": "حظيت هذه الآية بقبولٍ تام في سائر مذاهب الإسلام بوصفها الأساس المرجعي لحلِّ النزاعات بين المسلمين. ويُقدِّم ابن كثير والقرطبي والطبري سياقاتٍ تاريخية ومستنبطاتٍ فقهية متقاربة. ويتَّفق التقليدان على أن الاقتتال بين المسلمين لا يُسلبهم الإيمان، وأن الوساطة فريضة، وأن الظلم يجب مقاومته، وأن التسوية ينبغي أن تقوم على العدل. ومحلُّ الافتراق التاريخي المعروف في تطبيق هذه الآية على سياقات التاريخ الإسلامي المبكر: يستشهد العلماء الشيعة بسيرة الإمام علي عليه السلام في الحروب التي خاضها نموذجاً أمثل لتطبيق هذه الآية، بينما يُبرز علماء السنة شواهد أخرى. غير أن المبادئ الجوهرية متَّفقٌ عليها في الفريقين. ويُؤكِّد الفخر الرازي كما يُؤكِّد علماء الشيعة أن محبَّة الله للمقسطين ترتقي بالعدل إلى مرتبة العبادة. ويستند علماء الإسلام في العصر الحديث من التقليدين إلى هذه الآية حين يتناولون النزاعات بين الدول أو المجتمعات المسلمة، داعين إلى الوساطة والعدل بديلاً عن التصعيد العسكري والعداء المتجذِّر."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:10:universal-brotherhood",
+          "title": "Universal Brotherhood",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "All believers are declared brothers, establishing a spiritual kinship that transcends race, ethnicity, and nationality, uniting the ummah under faith.",
+          "whyItMatters": "This brotherhood creates obligations of care, support, and reconciliation that make the Muslim community a true family united by belief rather than blood.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ",
+          "title_urdu": "عالمی بھائی چارہ",
+          "coreInsight_urdu": "تمام مومنین کو بھائی قرار دیا گیا ہے، ایک روحانی رشتہ جو نسل اور قومیت سے بالاتر ہے۔",
+          "whyItMatters_urdu": "یہ بھائی چارہ دیکھ بھال، حمایت اور صلح کی ذمہ داریاں پیدا کرتا ہے۔",
+          "title_ar": "الأخوة العالمية",
+          "coreInsight_ar": "جميع المؤمنين إخوة، مما ينشئ قرابة روحية تتجاوز العرق والقومية.",
+          "whyItMatters_ar": "هذه الأخوة تخلق التزامات بالرعاية والدعم والمصالحة."
+        },
+        {
+          "id": "49:10:reconciliation-duty",
+          "title": "Duty to Reconcile",
+          "icon": "arrow.triangle.merge",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The command to reconcile between brothers makes peacemaking not optional but obligatory, requiring active involvement in resolving conflicts within the community.",
+          "whyItMatters": "We cannot remain neutral when believers are in conflict - brotherhood demands we work for unity and repair broken relationships.",
+          "position": "topRight",
+          "arabicHighlight": "فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ",
+          "title_urdu": "صلح کی ذمہ داری",
+          "coreInsight_urdu": "بھائیوں کے درمیان صلح کا حکم امن سازی کو واجب بناتا ہے۔",
+          "whyItMatters_urdu": "جب مومنین تنازع میں ہوں تو ہم غیر جانبدار نہیں رہ سکتے۔",
+          "title_ar": "واجب المصالحة",
+          "coreInsight_ar": "أمر المصالحة بين الإخوة يجعل صنع السلام واجباً.",
+          "whyItMatters_ar": "لا يمكننا البقاء على الحياد عندما يكون المؤمنون في صراع."
+        },
+        {
+          "id": "49:10:fear-allah",
+          "title": "Taqwa Imperative",
+          "icon": "shield.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Maintaining brotherhood and reconciling conflicts is tied to taqwa, showing that God-consciousness expresses itself through maintaining community bonds.",
+          "whyItMatters": "True taqwa isn't just individual piety but includes social responsibility, making community harmony a form of worship and divine obedience.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱتَّقُوا۟ ٱللَّهَ",
+          "title_urdu": "تقویٰ کی ضرورت",
+          "coreInsight_urdu": "بھائی چارہ برقرار رکھنا اور تنازعات میں صلح کرنا تقویٰ سے جڑا ہے۔",
+          "whyItMatters_urdu": "حقیقی تقویٰ صرف انفرادی پرہیزگاری نہیں بلکہ سماجی ذمہ داری بھی شامل ہے۔",
+          "title_ar": "ضرورة التقوى",
+          "coreInsight_ar": "الحفاظ على الأخوة والمصالحة في النزاعات مرتبط بالتقوى.",
+          "whyItMatters_ar": "التقوى الحقيقية ليست مجرد تقوى فردية بل تشمل المسؤولية الاجتماعية."
+        },
+        {
+          "id": "49:10:receive-mercy",
+          "title": "Path to Mercy",
+          "icon": "heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The promise 'that you may receive mercy' links reconciliation work to divine mercy, showing that showing mercy to others opens the door to Allah's mercy.",
+          "whyItMatters": "Our treatment of others directly affects our relationship with Allah - by being instruments of peace and mercy, we become recipients of divine mercy.",
+          "position": "bottomRight",
+          "arabicHighlight": "لَعَلَّكُمْ تُرْحَمُونَ",
+          "title_urdu": "رحمت کا راستہ",
+          "coreInsight_urdu": "وعدہ 'تاکہ تم پر رحم کیا جائے' صلح کو الہی رحمت سے جوڑتا ہے۔",
+          "whyItMatters_urdu": "دوسروں کے ساتھ ہمارا سلوک اللہ کے ساتھ ہمارے تعلق کو متاثر کرتا ہے۔",
+          "title_ar": "طريق الرحمة",
+          "coreInsight_ar": "الوعد 'لعلكم ترحمون' يربط عمل المصالحة بالرحمة الإلهية.",
+          "whyItMatters_ar": "معاملتنا للآخرين تؤثر مباشرة على علاقتنا بالله."
+        }
+      ]
+    },
+    "layer4": "The concept of Islamic brotherhood established in this verse is universally accepted across all Islamic traditions. Sunni and Shia scholars alike emphasize the rights and responsibilities this brotherhood entails. Both traditions cite similar hadiths about believers being like a single body. Islamic jurisprudence in all schools derives various legal obligations from this brotherhood, including the prohibition of harming fellow Muslims, the obligation to assist them in need, and the duty to reconcile conflicts. Where traditions sometimes differ is in how this brotherhood relates to sectarian identity: does brotherhood extend across Shia-Sunni lines? Progressive scholars in both traditions affirm that it does, while some exclusivist voices in each tradition have historically denied this. However, the verse's language 'the believers are brothers' without qualification supports the inclusive interpretation. Both traditions use this verse to teach Islamic ethics, emphasize community cohesion, and advocate against division. Qurtubi, Ibn Kathir, and other Sunni exegetes provide commentary very similar to Shia sources on the obligations of brotherhood. In modern interfaith and intrafaith dialogue, scholars across traditions cite this verse as establishing the basis for Muslim unity and mutual support despite differences in secondary matters.",
+    "layer4_urdu": "اس آیت میں قائم کردہ اسلامی بھائی چارے کا تصور تمام اسلامی روایات میں عالمگیر طور پر قبول ہے۔ شیعہ اور سنی علماء یکساں طور پر اس بھائی چارے کے تقاضا کردہ حقوق اور ذمہ داریوں پر زور دیتے ہیں۔ دونوں روایات مومنوں کے ایک جسم ہونے کے بارے میں مماثل احادیث پیش کرتی ہیں۔ تمام مذاہب میں اسلامی فقہ اس بھائی چارے سے مختلف قانونی فرائض اخذ کرتی ہے، جن میں ساتھی مسلمانوں کو نقصان پہنچانے کی ممانعت، ضرورت میں ان کی مدد کا وجوب، اور تنازعات میں صلح کا فریضہ شامل ہیں۔ جہاں روایات کبھی کبھی اختلاف کرتی ہیں وہ یہ ہے کہ یہ بھائی چارہ شیعہ سنی فرقہ وارانہ شناخت سے کیسے متعلق ہے: کیا بھائی چارہ ان دونوں میں پھیلا ہوا ہے؟ دونوں روایات کے ترقی پسند علماء اثبات میں جواب دیتے ہیں، جبکہ تاریخ میں ہر روایت میں بعض خارجیت پسند آوازیں اس کی نفی کرتی رہی ہیں۔ تاہم آیت کی عبارت مومن بھائی ہیں بلا قید جامع تفسیر کی تائید کرتی ہے۔ دونوں روایات اسلامی اخلاقیات سکھانے، کمیونٹی کے اتحاد پر زور دینے، اور ثانوی مسائل میں اختلافات کے باوجود تفرقے کے خلاف وکالت کے لیے اس آیت کا استعمال کرتی ہیں۔ قرطبی، ابن کثیر اور دیگر سنی مفسرین نے بھائی چارے کے فرائض پر شیعہ منابع سے بہت ملتی جلتی تفسیر فراہم کی ہے۔ جدید بین المذاہب اور فروع المذاہب مکالمے میں تمام روایات کے علماء اس آیت کو مسلم وحدت اور ثانوی اختلافات کے باوجود باہمی تعاون کی بنیاد کے طور پر پیش کرتے ہیں۔",
+    "layer4_ar": "لقيت مفهوم الأخوَّة الإسلامية الواردة في هذه الآية قبولاً شاملاً في سائر المذاهب. ويُؤكِّد علماء الشيعة والسنة على حدٍّ سواء الحقوق والواجبات التي تُرتِّبها هذه الأخوَّة. ويستشهد الفريقان بأحاديث متقاربة في معنى كون المؤمنين كالجسد الواحد. والفقه الإسلامي في كل مذهب يستنبط من هذه الأخوَّة أحكاماً ملزِمة تشمل تحريم إيذاء المسلم، ووجوب إعانته عند الحاجة، وفرضية السعي في إصلاح ذات البين. ومحلُّ التباين أحياناً مسألة امتداد هذه الأخوَّة عبر الخطوط المذهبية: هل تشمل الشيعة والسنة بعضهم؟ يُجيب بالإيجاب المتجدِّدون في التقليدين، في حين نازع بعض المتشدِّدين تاريخياً في ذلك. غير أن عبارة الآية «إنما المؤمنون إخوة» دون تقييد تؤيِّد التفسير الشامل. ويُقدِّم القرطبي وابن كثير وغيرهم من علماء السنة شروحاً قريبة في معناها من المصادر الشيعية في مسألة واجبات الأخوَّة. وفي الحوار الإسلامي الداخلي المعاصر، يستشهد علماء التقليدين بهذه الآية دليلاً على وحدة المسلمين والدعم المتبادل رغم الاختلاف في الفروع."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:11:no-mockery",
+          "title": "No Mockery",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Believers are forbidden from mocking others, with the warning that those mocked may actually be better in Allah's sight, teaching humility about human judgment.",
+          "whyItMatters": "Our inability to see others' true spiritual worth should make us cautious and respectful, recognizing that external appearances don't reveal inner value.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ",
+          "title_urdu": "تمسخر نہیں",
+          "coreInsight_urdu": "مومنین کو دوسروں کا مذاق اڑانے سے منع کیا گیا ہے، تنبیہ کے ساتھ کہ جن کا مذاق اڑایا جاتا ہے وہ اللہ کی نظر میں بہتر ہو سکتے ہیں۔",
+          "whyItMatters_urdu": "دوسروں کی حقیقی روحانی قدر نہ دیکھ سکنا ہمیں محتاط اور محترم بناتا ہے۔",
+          "title_ar": "لا سخرية",
+          "coreInsight_ar": "نُهي المؤمنون عن السخرية من الآخرين، مع التحذير بأن من يُستهزأ بهم قد يكونون أفضل.",
+          "whyItMatters_ar": "عدم قدرتنا على رؤية القيمة الروحية الحقيقية للآخرين يجب أن يجعلنا حذرين ومحترمين."
+        },
+        {
+          "id": "49:11:gender-equality",
+          "title": "Women's Dignity",
+          "icon": "figure.dress.line.vertical.figure",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse explicitly prohibits women from mocking other women, giving separate attention to women's interactions and establishing gender-specific guidance.",
+          "whyItMatters": "This recognition of women's community dynamics shows Islam's concern for relationships among women, acknowledging unique social contexts that require specific guidance.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ",
+          "title_urdu": "خواتین کی عزت",
+          "coreInsight_urdu": "آیت واضح طور پر خواتین کو دوسری خواتین کا مذاق اڑانے سے منع کرتی ہے۔",
+          "whyItMatters_urdu": "خواتین کی کمیونٹی کی حرکیات کی یہ پہچان اسلام کی خواتین کے رشتوں کی فکر کو ظاہر کرتی ہے۔",
+          "title_ar": "كرامة المرأة",
+          "coreInsight_ar": "تنهى الآية النساء صراحةً عن السخرية من نساء أخريات.",
+          "whyItMatters_ar": "هذا الاعتراف بديناميات مجتمع النساء يظهر اهتمام الإسلام بالعلاقات بين النساء."
+        },
+        {
+          "id": "49:11:no-defaming",
+          "title": "Stop Defaming",
+          "icon": "message.badge.filled.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Insulting one another and using offensive nicknames is prohibited, protecting human dignity and preventing the wounds that words can inflict.",
+          "whyItMatters": "Words have power to hurt and degrade - Islamic ethics demands we use language to build up rather than tear down, recognizing speech as moral action.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ",
+          "title_urdu": "بدنامی بند کرو",
+          "coreInsight_urdu": "ایک دوسرے کی توہین کرنا اور جارحانہ عرفی نام استعمال کرنا ممنوع ہے۔",
+          "whyItMatters_urdu": "الفاظ میں تکلیف اور تذلیل کی طاقت ہے - اسلامی اخلاقیات کا تقاضا ہے کہ ہم زبان کا استعمال تعمیر کے لیے کریں۔",
+          "title_ar": "توقف التشهير",
+          "coreInsight_ar": "يُحظر إهانة بعضنا البعض واستخدام الألقاب المسيئة.",
+          "whyItMatters_ar": "للكلمات قوة الإيذاء والإذلال - الأخلاق الإسلامية تطالبنا باستخدام اللغة للبناء."
+        },
+        {
+          "id": "49:11:repentance-required",
+          "title": "Repent or Wrong",
+          "icon": "arrow.uturn.left.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Those who don't repent from such behavior are declared wrongdoers, making repentance essential for restoring one's status as a righteous believer.",
+          "whyItMatters": "Past mistakes don't define us permanently - through sincere repentance we can restore our standing, but refusing to repent transforms mistakes into persistent wrongdoing.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+          "title_urdu": "توبہ کریں یا غلط",
+          "coreInsight_urdu": "جو لوگ اس رویے سے توبہ نہیں کرتے انہیں ظالم قرار دیا گیا ہے۔",
+          "whyItMatters_urdu": "ماضی کی غلطیاں ہمیشہ کے لیے ہماری تعریف نہیں کرتیں - سچی توبہ سے ہم اپنی حیثیت بحال کر سکتے ہیں۔",
+          "title_ar": "توبوا أو خطأ",
+          "coreInsight_ar": "الذين لا يتوبون من مثل هذا السلوك يُعلنون ظالمين.",
+          "whyItMatters_ar": "الأخطاء الماضية لا تحددنا بشكل دائم - من خلال التوبة الصادقة يمكننا استعادة مكانتنا."
+        }
+      ]
+    },
+    "layer4": "This verse is universally accepted across Islamic traditions as prohibiting mockery, insults, and offensive nicknames. Sunni scholars like Ibn Kathir, Qurtubi, and Tabari provide similar interpretations and emphasize the protection of human dignity. Both traditions cite similar hadiths prohibiting mockery and offensive names. The principle that spiritual worth is determined by taqwa, not worldly characteristics, is emphasized across all schools. Islamic jurisprudence in both traditions categorizes mockery and insult as sinful, requiring repentance. Where there is complete consensus is that accepting Islam includes accepting its ethical framework, which protects human dignity and forbids degrading speech. Fakhr al-Din al-Razi discusses, as do Shia scholars, the wisdom of the phrase 'perhaps they may be better': it prevents arrogance and cultivates humility by reminding us that we don't know others' true spiritual station. Both traditions teach that mockery, even if intended as humor, is prohibited when it causes harm or degrades dignity. In modern Islamic ethics across all schools, this verse is cited when addressing bullying, cyberbullying, racism, classism, and all forms of social degradation. The verse represents Quranic establishment of universal human dignity that transcends sectarian interpretation.",
+    "layer4_urdu": "یہ آیت تمام اسلامی روایات میں اس بات پر اتفاقِ رائے کے ساتھ قبول کی گئی ہے کہ تضحیک، توہین اور برے القاب حرام ہیں۔ سنی علماء جیسے ابنِ کثیر، قرطبی اور طبری نے بھی اسی روح میں تفسیر کی ہے اور انسانی وقار کے تحفظ پر زور دیا ہے۔ دونوں روایات ان احادیث کا حوالہ دیتی ہیں جو تضحیک اور برے القاب سے منع کرتی ہیں۔ یہ اصول کہ روحانی مرتبے کا تعین تقویٰ سے ہوتا ہے نہ کہ دنیوی خصوصیات سے، تمام مکاتبِ فکر میں یکساں طور پر تسلیم کیا جاتا ہے۔ دونوں روایتوں کی فقہ میں استہزاء اور توہین کو گناہ قرار دیا گیا ہے جس پر توبہ واجب ہے۔ فخرالدین رازی نے 'شاید وہ بہتر ہوں' کی حکمت پر گفتگو کی ہے اور شیعہ علماء نے بھی اسی رخ سے اس کی تشریح کی ہے کہ یہ جملہ تکبر کو روکتا ہے اور انکساری پیدا کرتا ہے کیونکہ ہم دوسروں کا حقیقی روحانی مقام نہیں جانتے۔ دونوں روایات یہ سکھاتی ہیں کہ تضحیک، چاہے مزاح کے طور پر ہی کیوں نہ ہو، اس وقت ممنوع ہے جب وہ کسی کو تکلیف پہنچائے یا اس کی توہین کرے۔ جدید اسلامی اخلاق میں دونوں مکاتب کے علماء اس آیت کا حوالہ دیتے ہوئے غنڈہ گردی، سائبر بُلّینگ، نسل پرستی اور طبقاتی امتیاز کے خلاف آواز اٹھاتے ہیں۔ یہ آیت قرآن کا وہ اعلانِ عظیم ہے جو انسانی وقار کو ہر مسلک اور فرقے سے بالاتر ہو کر محفوظ قرار دیتا ہے۔",
+    "layer4_ar": "تتوافق المذاهب الإسلامية جميعها على أن هذه الآية تُحرِّم السخرية والإهانة والتنابز بالألقاب تحريماً قاطعاً. ويُقدِّم علماء السنة كابن كثير والقرطبي والطبري تفسيرات مشتركة تُؤكِّد حماية الكرامة الإنسانية وصيانتها. وكلا الفريقين يستشهد بأحاديث متماثلة تحرِّم السخرية والألقاب المسيئة. ومبدأ أن الشرف الحقيقي بالتقوى لا بالصفات الدنيوية مُقرَّرٌ في جميع المذاهب. وتُصنِّف الشريعة الإسلامية في كلا التقليدين السخريةَ والإهانةَ ذنباً يستوجب التوبة. وثمة توافقٌ تام على أن قبول الإسلام يستلزم قبول منظومته الأخلاقية الحاميةِ للكرامة الإنسانية والمحرِّمةِ للكلام المُهين. ويناقش الفخر الرازي كما يناقش علماء الشيعة حكمة عبارة «عسى أن يكونوا خيراً منهم»، إذ يرى أنها تُحرِّض على التواضع وتُقاوم الغرور بتذكيرنا أننا لا نعلم المقام الروحي الحقيقي لأحد. ويتَّفق الفريقان على أن السخرية حتى لو نُويَ بها المزاح محرَّمةٌ متى كانت تُلحق أذىً أو تنتهك كرامةً. وفي الأخلاق الإسلامية المعاصرة على امتداد المذاهب، تُستشهد هذه الآية في معالجة التنمُّر والتمييز العنصري والطبقي وسائر أشكال الإهانة الاجتماعية. وتُمثِّل الآية إرساءً قرآنياً لكرامة إنسانية شاملة تتجاوز الحواجز المذهبية وتخاطب الضمير الإنساني."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:12:avoid-suspicion",
+          "title": "Avoid Suspicion",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Believers are commanded to avoid much negative assumption because some assumption is sin, acknowledging that unverified suspicion can lead to spiritual corruption.",
+          "whyItMatters": "Our thoughts about others matter morally - harboring unjustified suspicion is itself a sin, teaching that purity of heart includes giving others the benefit of the doubt.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ",
+          "title_urdu": "بدگمانی سے بچو",
+          "coreInsight_urdu": "مومنین کو منفی قیاس آرائیوں سے بچنے کا حکم دیا گیا ہے کیونکہ کچھ قیاس آرائیاں گناہ ہیں۔",
+          "whyItMatters_urdu": "دوسروں کے بارے میں ہمارے خیالات اخلاقی طور پر اہم ہیں۔",
+          "title_ar": "تجنب الظن",
+          "coreInsight_ar": "أُمر المؤمنون بتجنب الكثير من الظن السلبي لأن بعض الظن إثم.",
+          "whyItMatters_ar": "أفكارنا عن الآخرين مهمة أخلاقياً."
+        },
+        {
+          "id": "49:12:no-spying",
+          "title": "No Spying",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Spying on others is explicitly forbidden, protecting privacy and teaching that curiosity about others' private affairs violates Islamic ethics.",
+          "whyItMatters": "Respecting others' privacy builds trust and dignity in communities, while spying destroys the social fabric by breeding paranoia and mistrust.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَا تَجَسَّسُوا۟",
+          "title_urdu": "جاسوسی نہیں",
+          "coreInsight_urdu": "دوسروں کی جاسوسی صراحتاً ممنوع ہے، رازداری کی حفاظت کرتے ہوئے۔",
+          "whyItMatters_urdu": "دوسروں کی رازداری کا احترام معاشروں میں اعتماد اور وقار پیدا کرتا ہے۔",
+          "title_ar": "لا تجسس",
+          "coreInsight_ar": "يُحظر التجسس على الآخرين صراحةً.",
+          "whyItMatters_ar": "احترام خصوصية الآخرين يبني الثقة والكرامة في المجتمعات."
+        },
+        {
+          "id": "49:12:no-backbiting",
+          "title": "Stop Backbiting",
+          "icon": "mouth.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Backbiting is compared to eating the flesh of one's dead brother, using visceral imagery to convey the extreme repulsiveness and harm of speaking ill of others.",
+          "whyItMatters": "This shocking metaphor reveals how serious backbiting is - it's not minor gossip but an act so vile it's likened to cannibalism, demanding we guard our tongues.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا",
+          "title_urdu": "غیبت بند کرو",
+          "coreInsight_urdu": "غیبت کو اپنے مردہ بھائی کا گوشت کھانے سے تشبیہ دی گئی ہے۔",
+          "whyItMatters_urdu": "یہ حیران کن استعارہ ظاہر کرتا ہے کہ غیبت کتنی سنگین ہے۔",
+          "title_ar": "توقف عن الغيبة",
+          "coreInsight_ar": "تُشبّه الغيبة بأكل لحم الأخ الميت.",
+          "whyItMatters_ar": "هذا الاستعارة المذهلة تكشف مدى خطورة الغيبة."
+        },
+        {
+          "id": "49:12:repentant-merciful",
+          "title": "Mercy Available",
+          "icon": "arrow.uturn.backward.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After listing serious social sins, the verse closes with Allah's names At-Tawwab (Oft-Returning) and Ar-Raheem (Merciful), offering hope for those who repent.",
+          "whyItMatters": "No matter how much we've wronged others through suspicion, spying, or backbiting, Allah's door of repentance remains open, encouraging transformation.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
+          "title_urdu": "رحمت دستیاب",
+          "coreInsight_urdu": "سنگین سماجی گناہوں کی فہرست کے بعد، آیت اللہ کے ناموں توّاب اور رحیم کے ساتھ ختم ہوتی ہے۔",
+          "whyItMatters_urdu": "چاہے ہم نے بدگمانی، جاسوسی یا غیبت سے کتنا ہی ظلم کیا ہو، اللہ کی توبہ کا دروازہ کھلا رہتا ہے۔",
+          "title_ar": "الرحمة متاحة",
+          "coreInsight_ar": "بعد سرد الخطايا الاجتماعية الخطيرة، تُختتم الآية بأسماء الله التواب الرحيم.",
+          "whyItMatters_ar": "مهما أخطأنا في حق الآخرين، باب توبة الله يبقى مفتوحاً."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys complete consensus across Islamic traditions as prohibiting negative assumptions, spying, and backbiting. Sunni and Shia scholars provide virtually identical definitions and explanations. Both cite the hadith about backbiting being like eating dead brother's flesh. The principle that mentioning others' faults in their absence is sinful is established in all schools of Islamic jurisprudence. Ibn Kathir, Qurtubi, and other Sunni exegetes emphasize the same points as Shia scholars regarding these prohibitions. Islamic ethics texts across all traditions dedicate extensive discussion to gheebah (backbiting) based on this verse. Both traditions teach that backbiting is only permissible in specific circumstances: warning someone about a harmful person, seeking religious/legal advice, or when the information is already public and discussing it serves a legitimate purpose. The graphic metaphor is universally understood as indicating the severity of this sin. Fakhr al-Din al-Razi discusses, as do Shia sources, the wisdom in prohibiting negative assumptions: they poison social relationships and often lead to the other prohibited actions. In modern Islamic ethics across all schools, this verse is foundational for teachings on privacy, gossip, and maintaining community harmony. The verse represents universal Islamic values transcending sectarian differences.",
+    "layer4_urdu": "یہ آیت تمام اسلامی روایات میں بدگمانی، جاسوسی اور غیبت کی ممانعت پر مکمل اتفاقِ رائے کے ساتھ قبول کی گئی ہے۔ شیعہ اور سنی دونوں علماء تقریباً یکساں تعریفات اور تشریحات پیش کرتے ہیں۔ دونوں روایات اس حدیث کا حوالہ دیتی ہیں جس میں غیبت کو مُردہ بھائی کا گوشت کھانے سے تشبیہ دی گئی ہے۔ یہ اصول کہ غیابِ کسی کی برائی بیان کرنا گناہ ہے، تمام مذاہبِ فقہ میں قائم ہے۔ ابنِ کثیر، قرطبی اور دیگر سنی مفسرین نے وہی نکات اُٹھائے ہیں جو شیعہ علماء نے ان ممانعتوں کے بارے میں۔ تمام روایات سکھاتی ہیں کہ غیبت صرف مخصوص حالات میں جائز ہے: کسی نقصاندہ شخص سے خبردار کرنا، دینی یا قانونی مشاورت، یا وہ بات جو پہلے ہی ظاہر ہو چکی ہو اور جس کا ذکر کوئی جائز مقصد پورا کرے۔ فخرالدین رازی نے، شیعہ ذرائع کی طرح، بدگمانی کی ممانعت کی حکمت پر گفتگو کی ہے کہ یہ سماجی تعلقات کو زہرآلود کرتی اور دیگر ممنوع اعمال کی طرف لے جاتی ہے۔ جدید اسلامی اخلاق میں تمام مکاتب کے علماء اس آیت کی روشنی میں رازداری، غیبت اور معاشرتی ہم آہنگی کی تعلیم دیتے ہیں۔ یہ آیت اسلام کی ان عالمگیر اقدار کی نمائندہ ہے جو مسلکی اختلافات سے بالاتر ہیں۔",
+    "layer4_ar": "تنعم هذه الآية بتوافق تام بين التقليدين الشيعي والسني على تحريم الظن السيئ والتجسُّس والغيبة. ويُقدِّم علماء السنة كابن كثير والقرطبي والطبري تعريفاتٍ وتفسيراتٍ متوافقة مع المصادر الشيعية. وكلا الفريقين يستشهد بحديث الغيبة وتشبيهها بأكل لحم الأخ الميت. ومبدأ أن ذكر عيوب الآخرين في غيبتهم ذنبٌ محرَّمٌ مُقرَّرٌ في كل مذاهب الفقه الإسلامي. وتتباحث كتب الأخلاق الإسلامية في كلا التقليدين في الغيبة تبحُّثاً مستفيضاً استناداً إلى هذه الآية. ويُقرُّ الفريقان بأن الغيبة تجوز في حالات محدودة: التحذير من شخص ضار، أو طلب الفتوى والمشورة القانونية، أو حين تكون المعلومة عامةً معلومةً ونقلها يخدم غرضاً مشروعاً. والمثل البليغ مُستساغٌ عند الجميع دليلاً على عِظَم هذا الذنب وبشاعته. ويُحلِّل الفخر الرازي حكمة النهي عن سوء الظن كما تُحلِّلها المصادر الشيعية، إذ يرى أن هذه الظنون تُسمِّم العلاقات الاجتماعية وغالباً ما تفتح الباب لسائر المحرَّمات. وفي الأخلاق الإسلامية المعاصرة على امتداد المذاهب، تُعدُّ هذه الآية ركيزةً أساسية في تعليم الخصوصية وصون العِرض والحفاظ على التناسق المجتمعي."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:13:human-equality",
+          "title": "Common Origin",
+          "icon": "person.2.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "All humanity is created from a single male and female, establishing fundamental equality regardless of race, color, or ethnicity - we share common ancestors.",
+          "whyItMatters": "Understanding our shared origin dismantles pride based on lineage or ethnicity, teaching that no race or family is inherently superior to another.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ",
+          "title_urdu": "مشترکہ ابتدا",
+          "coreInsight_urdu": "تمام انسانیت ایک مرد اور عورت سے پیدا کی گئی ہے، نسل، رنگ یا قومیت سے قطع نظر بنیادی مساوات قائم کرتے ہوئے۔",
+          "whyItMatters_urdu": "ہماری مشترکہ ابتدا کو سمجھنا نسب یا نسل پر مبنی تکبر کو ختم کرتا ہے۔",
+          "title_ar": "الأصل المشترك",
+          "coreInsight_ar": "خُلقت البشرية كلها من ذكر وأنثى، مما يؤسس المساواة الأساسية.",
+          "whyItMatters_ar": "فهم أصلنا المشترك يزيل الفخر القائم على النسب أو العرق."
+        },
+        {
+          "id": "49:13:diversity-purpose",
+          "title": "Know Each Other",
+          "icon": "globe.americas.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Peoples and tribes exist for mutual recognition and acquaintance, not competition or superiority - diversity is designed for connection, understanding, and learning.",
+          "whyItMatters": "Cultural and ethnic diversity is not a problem to overcome but a divine gift meant to enrich humanity through shared knowledge and mutual appreciation.",
+          "position": "topRight",
+          "arabicHighlight": "وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟",
+          "title_urdu": "ایک دوسرے کو جانیں",
+          "coreInsight_urdu": "قومیں اور قبیلے باہمی پہچان کے لیے موجود ہیں، مقابلے یا برتری کے لیے نہیں۔",
+          "whyItMatters_urdu": "ثقافتی اور نسلی تنوع مسئلہ نہیں بلکہ ایک الہی تحفہ ہے۔",
+          "title_ar": "التعارف",
+          "coreInsight_ar": "الشعوب والقبائل موجودة للتعارف المتبادل، وليس للمنافسة.",
+          "whyItMatters_ar": "التنوع الثقافي والعرقي ليس مشكلة بل هدية إلهية."
+        },
+        {
+          "id": "49:13:taqwa-criterion",
+          "title": "Taqwa Criterion",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The most noble person in Allah's sight is the one with greatest taqwa, establishing God-consciousness as the only valid criterion for human excellence.",
+          "whyItMatters": "This revolutionary principle demolishes all systems of racial, ethnic, or class superiority, making spiritual development the sole measure of true nobility.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ",
+          "title_urdu": "تقویٰ کا معیار",
+          "coreInsight_urdu": "اللہ کی نظر میں سب سے زیادہ عزت والا وہ ہے جو سب سے زیادہ متقی ہو۔",
+          "whyItMatters_urdu": "یہ انقلابی اصول نسلی، قومی یا طبقاتی برتری کے تمام نظاموں کو ختم کرتا ہے۔",
+          "title_ar": "معيار التقوى",
+          "coreInsight_ar": "أكرم الناس عند الله هو الأتقى.",
+          "whyItMatters_ar": "هذا المبدأ الثوري يهدم جميع أنظمة التفوق العرقي أو الطبقي."
+        },
+        {
+          "id": "49:13:divine-knowledge",
+          "title": "Allah Knows All",
+          "icon": "eye.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse concludes that Allah is Aleem (All-Knowing) and Khabeer (All-Aware), reminding us that only Allah truly knows each person's spiritual rank.",
+          "whyItMatters": "Since only Allah sees true taqwa in hearts, we must avoid judging others' spiritual worth and focus on developing our own God-consciousness.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
+          "title_urdu": "اللہ سب جانتا ہے",
+          "coreInsight_urdu": "آیت اختتام کرتی ہے کہ اللہ علیم اور خبیر ہے، یاد دلاتے ہوئے کہ صرف اللہ ہر شخص کا روحانی درجہ جانتا ہے۔",
+          "whyItMatters_urdu": "چونکہ صرف اللہ دلوں میں حقیقی تقویٰ دیکھتا ہے، ہمیں دوسروں کی روحانی قدر کا فیصلہ کرنے سے بچنا چاہیے۔",
+          "title_ar": "الله يعلم كل شيء",
+          "coreInsight_ar": "تختتم الآية بأن الله العليم الخبير، مما يذكرنا أن الله وحده يعلم المرتبة الروحية لكل شخص.",
+          "whyItMatters_ar": "بما أن الله وحده يرى التقوى الحقيقية في القلوب، يجب أن نتجنب الحكم على قيمة الآخرين الروحية."
+        }
+      ]
+    },
+    "layer4": "This verse is universally accepted across all Islamic traditions as establishing human equality and rejecting racism and ethnic supremacy. Sunni and Shia scholars provide virtually identical interpretations. Ibn Kathir, Qurtubi, Tabari, and other Sunni exegetes emphasize the same principles: common human origin, divine purpose in diversity, and taqwa as the sole criterion for nobility. The Prophet's farewell sermon, which echoes this verse, is narrated in both Shia and Sunni sources identically. Where minor differences appear is in what constitutes taqwa, with various schools emphasizing different aspects, but all agree it refers to righteousness and God-consciousness. This verse has been cited throughout Islamic history by scholars of all backgrounds to oppose racial and ethnic discrimination. In modern times, Muslim scholars across all traditions cite this verse when addressing racism, ethnic conflict, and nationalism. The verse provided foundation for Islamic civilization's relative success in creating multiethnic societies in Andalusia, the Abbasid Caliphate, and the Ottoman Empire. In contemporary Islamic thought, this verse is among the most frequently cited for interfaith dialogue and human rights discussions, as it establishes universal human dignity. The verse represents core Islamic values that transcend sectarian boundaries and speak to all humanity.",
+    "layer4_urdu": "یہ آیت تمام اسلامی روایات میں انسانی مساوات قائم کرنے اور نسل پرستی اور قومی برتری کو رد کرنے کے سلسلے میں مکمل اتفاقِ رائے کے ساتھ قبول کی گئی ہے۔ شیعہ اور سنی علماء تقریباً یکساں تفسیریں پیش کرتے ہیں۔ ابنِ کثیر، قرطبی، طبری اور دیگر سنی مفسرین وہی اصول بیان کرتے ہیں: مشترک انسانی اصل، تنوع کا الٰہی مقصد، اور تقویٰ بطور واحد معیارِ شرافت۔ نبی اکرم صلی اللہ علیہ وآلہ وسلم کے خطبۂ وداع کی یہ حدیث، جو اس آیت کا عکس ہے، شیعہ اور سنی دونوں ذرائع میں یکساں طور پر روایت کی گئی ہے۔ جہاں معمولی اختلاف ہے وہ تقویٰ کے مختلف پہلوؤں کی تفسیر میں ہے، مگر سبھی متفق ہیں کہ اس سے مراد راستبازی اور خداترسی ہے۔ اسلامی تاریخ میں ہر دور کے علماء نے اس آیت کا حوالہ دیتے ہوئے نسلی اور قومی امتیاز کی مخالفت کی ہے۔ عصرِ حاضر میں تمام روایتوں کے مسلم علماء اس آیت کو نسل پرستی، قومی تعصب اور قوم پرستی پر گفتگو میں سب سے زیادہ استعمال کرتے ہیں۔ یہ آیت اسلامی تہذیب کی اس نسبتاً نسلی مساوات کی بنیاد بنی جو اندلس، عباسی خلافت اور سلطنتِ عثمانیہ میں نظر آئی۔ معاصر اسلامی فکر میں یہ آیت بین المذاہب مکالمے اور انسانی حقوق کی بحثوں میں سب سے زیادہ حوالہ دی جانے والی آیات میں سے ہے۔",
+    "layer4_ar": "تتوافق جميع التقاليد الإسلامية على أن هذه الآية تُرسِّخ المساواة الإنسانية وترفض العنصرية والتفوُّق الإثني رفضاً قاطعاً. ويُقدِّم علماء السنة كابن كثير والقرطبي والطبري تفسيرات متماثلة: الأصل الإنساني المشترك، والغرض الإلهي من التنوُّع، والتقوى معياراً وحيداً للشرف. وحديث النبي صلى الله عليه وآله وسلم في حجة الوداع الذي يُصدِّى الآية منقولٌ بصياغات متقاربة في المصادر الشيعية والسنية. وفيما يخص تعريف التقوى يبرز اختلافٌ بسيط إذ تُؤكِّد المذاهب جوانب متفاوتة، بيد أنها تتَّفق جميعها على أنها تعني الصلاح والوعي الإلهي. وقد احتجَّ العلماء بهذه الآية على مرِّ التاريخ الإسلامي في مواجهة التمييز والعصبية الإثنية. وفي العصر الحديث يستشهد علماء كل التقاليد بها في السياقات الحقوقية والتعددية الدينية. والآية وفَّرت سنداً إسلامياً للنجاح النسبي الذي أثبته المجتمع الأندلسي والحضارة العباسية والإمبراطورية العثمانية في بناء مجتمعات متعددة الأعراق. وفي الفكر الإسلامي المعاصر، تُعدُّ الآية من أكثر الآيات توظيفاً في الحوار بين الأديان ومسائل حقوق الإنسان. وتُمثِّل القيم الإسلامية الجوهرية الكونية التي تتخطَّى الحدود المذهبية وتُخاطب ضمير الإنسانية."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:14:faith-vs-submission",
+          "title": "Faith vs. Islam",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The Bedouins claimed belief (iman) but were told to say they've submitted (islam), distinguishing between outward conformity and true heart-level faith.",
+          "whyItMatters": "This reveals that Islam and iman are not identical - one can practice Islam outwardly while lacking the inner faith that defines true belief.",
+          "position": "topLeft",
+          "arabicHighlight": "قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا",
+          "title_urdu": "ایمان بمقابلہ اسلام",
+          "coreInsight_urdu": "دیہاتیوں نے ایمان کا دعویٰ کیا لیکن انہیں کہا گیا کہ کہو کہ ہم نے اسلام قبول کیا ہے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ اسلام اور ایمان ایک نہیں ہیں۔",
+          "title_ar": "الإيمان مقابل الإسلام",
+          "coreInsight_ar": "ادّعى الأعراب الإيمان لكن قيل لهم قولوا أسلمنا.",
+          "whyItMatters_ar": "هذا يكشف أن الإسلام والإيمان ليسا متطابقين."
+        },
+        {
+          "id": "49:14:heart-faith",
+          "title": "Heart Matters",
+          "icon": "heart.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse states 'faith has not yet entered your hearts,' teaching that true iman is a matter of heart transformation, not just verbal declaration or external practice.",
+          "whyItMatters": "We can't deceive Allah with outward displays - real faith must penetrate and transform the heart, affecting our loves, priorities, and inner motivations.",
+          "position": "topRight",
+          "arabicHighlight": "وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ",
+          "title_urdu": "دل کی اہمیت",
+          "coreInsight_urdu": "آیت کہتی ہے 'ایمان ابھی تمہارے دلوں میں داخل نہیں ہوا'، سکھاتے ہوئے کہ حقیقی ایمان دل کی تبدیلی کا معاملہ ہے۔",
+          "whyItMatters_urdu": "ہم ظاہری نمائش سے اللہ کو دھوکا نہیں دے سکتے۔",
+          "title_ar": "أهمية القلب",
+          "coreInsight_ar": "تقول الآية 'ولما يدخل الإيمان في قلوبكم'، مما يعلّم أن الإيمان الحقيقي تحول في القلب.",
+          "whyItMatters_ar": "لا يمكننا خداع الله بالمظاهر الخارجية."
+        },
+        {
+          "id": "49:14:obedience-promise",
+          "title": "Sincere Obedience",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "If they obey Allah and His Messenger sincerely, they're promised that nothing of their deeds will be diminished, showing that Allah judges intention and effort.",
+          "whyItMatters": "Even those lacking complete faith can progress through sincere obedience, and Allah promises to honor their efforts without diminishing their rewards.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا",
+          "title_urdu": "خالص اطاعت",
+          "coreInsight_urdu": "اگر وہ اللہ اور اس کے رسول کی خلوص سے اطاعت کریں تو ان کے اعمال میں سے کچھ کم نہیں ہوگا۔",
+          "whyItMatters_urdu": "یہاں تک کہ جن میں مکمل ایمان کی کمی ہو وہ خلوص سے اطاعت کے ذریعے ترقی کر سکتے ہیں۔",
+          "title_ar": "الطاعة الصادقة",
+          "coreInsight_ar": "إن أطاعوا الله ورسوله بإخلاص، وُعدوا بأن لا ينقص من أعمالهم شيء.",
+          "whyItMatters_ar": "حتى الذين يفتقرون إلى الإيمان الكامل يمكنهم التقدم من خلال الطاعة الصادقة."
+        },
+        {
+          "id": "49:14:forgiving-merciful",
+          "title": "Divine Mercy",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Despite exposing their lack of true faith, Allah's names Al-Ghafoor and Ar-Raheem appear, offering hope that the path to genuine iman remains open.",
+          "whyItMatters": "Allah's correction comes with mercy - even those with incomplete faith are not rejected but invited to deepen their belief through sincere obedience.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+          "title_urdu": "الہی رحمت",
+          "coreInsight_urdu": "ان کے حقیقی ایمان کی کمی کو ظاہر کرنے کے باوجود، اللہ کے نام غفور اور رحیم آتے ہیں۔",
+          "whyItMatters_urdu": "اللہ کی اصلاح رحمت کے ساتھ آتی ہے۔",
+          "title_ar": "الرحمة الإلهية",
+          "coreInsight_ar": "على الرغم من كشف نقص إيمانهم الحقيقي، تظهر أسماء الله الغفور الرحيم.",
+          "whyItMatters_ar": "تصحيح الله يأتي مع الرحمة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars accept the distinction this verse makes between islam and iman, though there are discussions about precise definitions. Sunni scholars like Bukhari and Muslim dedicated sections of their hadith collections to this topic. The general understanding across traditions is that islam refers to outward submission while iman includes inner conviction. Some Sunni scholars, particularly from the Murjia school, minimized the difference, while others emphasized it. Shia scholarship, following Ahlul Bayt teachings, consistently maintains clear distinction while emphasizing that both have levels and can develop. Ibn Kathir and Qurtubi provide historical contexts similar to Shia sources regarding the bedouins. Both traditions agree that the verse teaches faith has degrees and develops through sincere practice. Where there's complete consensus is that verbal claim to faith doesn't necessarily reflect one's true spiritual state and that Allah judges the heart. Fakhr al-Din al-Razi discusses, as do Shia scholars, the mercy shown in this verse: rather than condemning incomplete faith, Allah provides a path forward through obedience. Modern Islamic scholars across traditions cite this verse when discussing the difference between cultural and convinced Muslims, and when teaching that faith is a journey requiring ongoing development rather than a one-time achievement.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے اسلام اور ایمان کے درمیان فرق کو تسلیم کرتے ہیں، اگرچہ دونوں کی درست تعریفات پر بعض بحث موجود ہے۔ سنی علماء جیسے بخاری اور مسلم نے اپنے حدیث مجموعوں میں اس موضوع کو تفصیل سے بیان کیا ہے۔ تمام روایات کا عمومی فہم یہ ہے کہ اسلام ظاہری تسلیم کی طرف اشارہ کرتا ہے جبکہ ایمان میں باطنی یقین شامل ہے۔ بعض سنی علماء، خصوصاً مرجئہ مسلک سے، نے اس فرق کو کم اہمیت دی جبکہ دیگر نے اسے اہمیت دی۔ شیعہ علماء، اہلِ بیت علیہم السلام کی تعلیمات پر چلتے ہوئے، اس فرق کو ہمیشہ واضح رکھتے ہیں اور یہ بھی بتاتے ہیں کہ دونوں کے درجات ہوتے ہیں اور ترقی ممکن ہے۔ ابنِ کثیر اور قرطبی نے اعراب کے بارے میں شیعہ ذرائع سے ملتا جلتا تاریخی سیاق بیان کیا ہے۔ دونوں روایات متفق ہیں کہ آیت بتاتی ہے کہ ایمان کے درجات ہوتے ہیں اور مخلصانہ عمل کے ذریعے ترقی ہوتی ہے۔ جہاں مکمل اتفاق ہے وہ یہ ہے کہ ایمان کا زبانی دعویٰ حقیقی روحانی کیفیت کا لازمی اشارہ نہیں اور اللہ دل کو دیکھتا ہے۔ فخرالدین رازی نے، شیعہ علماء کی طرح، اس آیت میں دکھائی گئی رحمت پر گفتگو کی ہے: نامکمل ایمان کو مذمت کرنے کی بجائے اللہ اطاعت کے ذریعے آگے کا راستہ دکھاتا ہے۔",
+    "layer4_ar": "يتقبَّل كلا التقليدين الشيعي والسني التمييز الذي تُقرِّره الآية بين الإسلام والإيمان، وإن دارت نقاشات حول التعريفات الدقيقة والحدود بينهما. وقد خصَّص البخاري ومسلم أبواباً كاملة في صحيحيهما لهذا الموضوع، مما يدلُّ على أهميته في التراث السني. والفهم العام في كلا التقليدين أن الإسلام يُشير إلى الاستسلام الظاهري والإيمان يتضمَّن القناعة الباطنة. وقلَّل بعض علماء السنة من مدرسة المرجئة من هذا الفرق، في حين أكَّده غيرهم. وعلماء الشيعة على اتِّساق تام في الحفاظ على هذا التمييز واضحاً تبعاً لتعاليم أهل البيت عليهم السلام، مع التشديد على أن لكليهما درجاتٍ ومراتب قابلة للنموِّ والتطوُّر. ويُقدِّم ابن كثير والقرطبي سياقاً تاريخياً مشابهاً للمصادر الشيعية في شأن هؤلاء الأعراب. ويتَّفق الفريقان على أن الآية تُعلِّم أن الإيمان ذو درجات ويتطوَّر بالممارسة الصادقة. وثمة توافقٌ تام على أن مجرَّد الادِّعاء الإيماني لا يعكس بالضرورة الحال الروحية الحقيقية وأن الله يحكم بالقلوب. ويُناقش الفخر الرازي كما يُناقش علماء الشيعة الرحمة الظاهرة في الآية: فبدلاً من إدانة الإيمان الناقص يُقدِّم الله طريقاً للأمام عبر الطاعة. ويستشهد علماء الإسلام المعاصرون في كل التقاليد بهذه الآية حين يُعالجون الفرق بين المسلمين الثقافيين والمسلمين ذوي القناعة الراسخة."
+  },
+  "15": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:15:true-believers",
+          "title": "True Believers",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "True believers are those who believe in Allah and His Messenger without doubt, defining genuine faith as unwavering conviction free from hesitation or skepticism.",
+          "whyItMatters": "Faith requires certainty - doubting and wavering indicates incomplete iman, teaching that true belief involves firm conviction at the deepest level.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟",
+          "title_urdu": "سچے مومن",
+          "coreInsight_urdu": "سچے مومن وہ ہیں جو اللہ اور اس کے رسول پر بغیر شک کے ایمان لاتے ہیں۔",
+          "whyItMatters_urdu": "ایمان کو یقین کی ضرورت ہے - شک اور تذبذب نامکمل ایمان کو ظاہر کرتا ہے۔",
+          "title_ar": "المؤمنون الحقيقيون",
+          "coreInsight_ar": "المؤمنون الحقيقيون هم الذين آمنوا بالله ورسوله بلا شك.",
+          "whyItMatters_ar": "الإيمان يتطلب اليقين - الشك والتردد يشير إلى إيمان غير مكتمل."
+        },
+        {
+          "id": "49:15:striving-with-wealth",
+          "title": "Financial Sacrifice",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "True believers strive with their wealth in Allah's path, showing that genuine faith manifests in financial sacrifice and generosity for the cause.",
+          "whyItMatters": "Money reveals priorities - willingness to spend wealth for Allah's sake demonstrates that faith has truly taken root and transformed our values.",
+          "position": "topRight",
+          "arabicHighlight": "وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ",
+          "title_urdu": "مالی قربانی",
+          "coreInsight_urdu": "سچے مومن اپنے مال سے اللہ کی راہ میں جدوجہد کرتے ہیں۔",
+          "whyItMatters_urdu": "پیسہ ترجیحات کو ظاہر کرتا ہے۔",
+          "title_ar": "التضحية المالية",
+          "coreInsight_ar": "المؤمنون الحقيقيون يجاهدون بأموالهم في سبيل الله.",
+          "whyItMatters_ar": "المال يكشف الأولويات."
+        },
+        {
+          "id": "49:15:striving-with-lives",
+          "title": "Physical Sacrifice",
+          "icon": "figure.run",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "True believers strive with their lives/selves, indicating that genuine faith requires personal effort, physical sacrifice, and putting oneself at risk for the cause.",
+          "whyItMatters": "The ultimate test of faith is willingness to sacrifice not just comfort or wealth but life itself, showing that belief transforms our relationship with survival and safety.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ",
+          "title_urdu": "جسمانی قربانی",
+          "coreInsight_urdu": "سچے مومن اپنی جانوں سے اللہ کی راہ میں جدوجہد کرتے ہیں۔",
+          "whyItMatters_urdu": "ایمان کا حتمی امتحان یہ ہے کہ نہ صرف آرام یا دولت بلکہ جان کی بھی قربانی دی جائے۔",
+          "title_ar": "التضحية الجسدية",
+          "coreInsight_ar": "المؤمنون الحقيقيون يجاهدون بأنفسهم في سبيل الله.",
+          "whyItMatters_ar": "الاختبار النهائي للإيمان هو الاستعداد للتضحية بالحياة نفسها."
+        },
+        {
+          "id": "49:15:the-truthful",
+          "title": "Truly Truthful",
+          "icon": "checkmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Those with unwavering faith who strive with wealth and life are declared 'the truthful,' showing that actions validate claims of belief.",
+          "whyItMatters": "Truth in faith isn't just verbal honesty but alignment between claim and action - those who back their words with sacrifice prove their truthfulness.",
+          "position": "bottomRight",
+          "arabicHighlight": "أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+          "title_urdu": "واقعی سچے",
+          "coreInsight_urdu": "جو بے شک ایمان رکھتے ہیں اور مال اور جان سے جدوجہد کرتے ہیں انہیں 'صادق' قرار دیا گیا ہے۔",
+          "whyItMatters_urdu": "ایمان میں سچائی صرف زبانی ایمانداری نہیں بلکہ دعوے اور عمل کے درمیان ہم آہنگی ہے۔",
+          "title_ar": "الصادقون حقاً",
+          "coreInsight_ar": "الذين لديهم إيمان ثابت ويجاهدون بالمال والنفس هم الصادقون.",
+          "whyItMatters_ar": "الصدق في الإيمان ليس مجرد صدق لفظي بل توافق بين الادعاء والفعل."
+        }
+      ]
+    },
+    "layer4": "This verse is accepted across all Islamic traditions as defining characteristics of true faith. Sunni and Shia scholars agree that genuine faith includes belief, certainty, and active striving. Ibn Kathir, Qurtubi, and other Sunni exegetes provide similar interpretations regarding the necessity of combining belief with action. The understanding that jihad includes both physical struggle when necessary and broader striving for Islamic causes is found in both traditions. Where there is complete consensus is that the verse establishes action as a necessary component of faith, not merely an optional addition. Both traditions cite this verse against the Murjia position that faith is only belief regardless of actions. The description of true believers as 'the truthful' is understood similarly across traditions as indicating those whose actions verify their claims. However, applications of 'striving in Allah's cause' differ historically: Shia scholarship emphasizes supporting the rightful Imam and opposing oppression, while Sunni scholarship emphasizes various forms of jihad and charitable works. In modern times, scholars across traditions apply the verse broadly to include social justice work, charitable giving, and Islamic education. The verse is universally understood as setting a high standard for genuine faith that transcends sectarian interpretation.",
+    "layer4_urdu": "یہ آیت تمام اسلامی روایات میں حقیقی ایمان کی خصوصیات بیان کرنے والی آیت کے طور پر قبول کی گئی ہے۔ شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ حقیقی ایمان میں یقین، اور فعال جہاد شامل ہے۔ ابنِ کثیر، قرطبی اور دیگر سنی مفسرین نے ایمان کو عمل کے ساتھ جوڑنے کی ضرورت پر یکساں تفسیر پیش کی ہے۔ یہ فہم کہ جہاد میں جب ضروری ہو تو جسمانی جدوجہد اور اسلامی مقاصد کے لیے وسیع تر کوشش دونوں شامل ہیں، دونوں روایتوں میں موجود ہے۔ جہاں مکمل اتفاق ہے وہ یہ ہے کہ آیت عمل کو ایمان کا ضروری جزو قرار دیتی ہے، محض اختیاری اضافہ نہیں۔ دونوں روایات اس آیت کا حوالہ دیتی ہیں جب مرجئہ کے اس موقف کا رد کرنا ہو کہ ایمان محض عقیدہ ہے چاہے اعمال کچھ بھی ہوں۔ حقیقی مومنین کو 'الصادقون' کہلانا دونوں روایتوں میں ایک ہی طرح سمجھا جاتا ہے: یعنی وہ جن کے اعمال ان کے دعووں کی تصدیق کرتے ہیں۔ البتہ 'اللہ کی راہ میں جہاد' کے اطلاقات میں تاریخی فرق ہے: شیعہ علماء حقیقی امام کی حمایت اور ظلم کی مخالفت پر زور دیتے ہیں، جبکہ سنی علماء جہاد کی مختلف صورتوں اور خیراتی اعمال پر زور دیتے ہیں۔ جدید دور میں دونوں روایتوں کے علماء آیت کا اطلاق سماجی انصاف، خیراتی کاموں اور اسلامی تعلیم پر وسیع طور پر کرتے ہیں۔",
+    "layer4_ar": "تتوافق جميع التقاليد الإسلامية على أن هذه الآية تُعرِّف مقوِّمات الإيمان الحقيقي، ويُقرُّ علماء الشيعة والسنة معاً بأن الإيمان الحق يجمع بين الاعتقاد واليقين والعمل الفاعل. ويُقدِّم ابن كثير والقرطبي وسائر المفسِّرين السنة تفسيراتٍ مماثلة تُؤكِّد ضرورة الجمع بين الإيمان والعمل. وفهم الجهاد بأنه يشمل القتال الدفاعي عند اللزوم والسعي الأشمل في سبيل الإسلام موجودٌ في كلا التقليدين. وثمة توافقٌ تام على أن الآية تجعل العمل ركناً ضرورياً في الإيمان لا مجرَّد إضافة اختيارية. وكلا الفريقين يستشهدان بالآية في ردِّ موقف المرجئة القائل بأن الإيمان التصديق وحده بصرف النظر عن الأعمال. ووصف المؤمنين الحقيقيين بـ«الصادقين» يُفهم بصورة مشتركة على أنه يعني من صدَّقت أعمالهم ادِّعاءاتهم. غير أن تطبيقات «الجهاد في سبيل الله» تتباين تاريخياً: فعلماء الشيعة يُركِّزون على نصرة الإمام الحق ومقاومة الظلم، بينما يُركِّز علماء السنة على أشكال الجهاد المتعددة والأعمال الخيرية. وفي العصر الحديث يُوسِّع علماء التقليدين مفهوم الآية ليشمل العمل للعدل الاجتماعي والإنفاق الخيري والتعليم الإسلامي. والآية مفهومةٌ عند الجميع بوصفها وضعاً لمعيارٍ رفيع للإيمان الحقيقي يتجاوز الحدود المذهبية ويُخاطب كل مسلم."
+  },
+  "16": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:16:absurdity-of-claim",
+          "title": "Teaching Allah",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The rhetorical question 'Would you teach Allah about your religion?' exposes the absurdity of claiming faith before the One who knows hearts better than we know ourselves.",
+          "whyItMatters": "We cannot convince Allah of our faith through mere claims - He knows the reality of our hearts, teaching humility about the limits of self-deception.",
+          "position": "topLeft",
+          "arabicHighlight": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ",
+          "title_urdu": "اللہ کو سکھانا",
+          "coreInsight_urdu": "سوالیہ سوال 'کیا تم اللہ کو اپنے دین کے بارے میں سکھاتے ہو؟' ایمان کے دعوے کی بیہودگی کو ظاہر کرتا ہے۔",
+          "whyItMatters_urdu": "ہم محض دعووں سے اللہ کو اپنے ایمان کے بارے میں قائل نہیں کر سکتے۔",
+          "title_ar": "تعليم الله",
+          "coreInsight_ar": "السؤال البلاغي 'هل تعلمون الله بدينكم؟' يكشف سخافة ادعاء الإيمان.",
+          "whyItMatters_ar": "لا يمكننا إقناع الله بإيماننا من خلال مجرد الادعاءات."
+        },
+        {
+          "id": "49:16:divine-omniscience",
+          "title": "All-Encompassing Knowledge",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah knows everything in the heavens and earth, establishing that divine knowledge encompasses all reality, making any human claim of hidden faith transparent to Him.",
+          "whyItMatters": "Nothing is hidden from Allah - our true spiritual state, motivations, and heart condition are completely known, encouraging honesty with ourselves and Allah.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "ہر چیز کا علم",
+          "coreInsight_urdu": "اللہ آسمانوں اور زمین کی ہر چیز کو جانتا ہے، یہ قائم کرتے ہوئے کہ الہی علم تمام حقیقت کو گھیرے ہوئے ہے۔",
+          "whyItMatters_urdu": "اللہ سے کچھ بھی چھپا نہیں ہے۔",
+          "title_ar": "المعرفة الشاملة",
+          "coreInsight_ar": "يعلم الله كل ما في السماوات والأرض، مما يؤسس أن المعرفة الإلهية تشمل كل الواقع.",
+          "whyItMatters_ar": "لا شيء مخفي عن الله."
+        },
+        {
+          "id": "49:16:perfect-awareness",
+          "title": "Complete Awareness",
+          "icon": "brain.head.profile",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The verse concludes that Allah has knowledge of all things, using the comprehensive phrase that emphasizes nothing escapes divine awareness.",
+          "whyItMatters": "Allah's complete knowledge should comfort true believers and concern hypocrites - it ensures justice and prevents any spiritual fraud.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+          "title_urdu": "مکمل آگاہی",
+          "coreInsight_urdu": "آیت اختتام کرتی ہے کہ اللہ کو ہر چیز کا علم ہے۔",
+          "whyItMatters_urdu": "اللہ کا مکمل علم سچے مومنین کو سکون دیتا ہے اور منافقین کو فکرمند کرتا ہے۔",
+          "title_ar": "الوعي الكامل",
+          "coreInsight_ar": "تختتم الآية بأن الله بكل شيء عليم.",
+          "whyItMatters_ar": "علم الله الكاملة يجب أن تريح المؤمنين الحقيقيين وتقلق المنافقين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental message of this verse: that Allah's knowledge is absolute and that sincere faith is superior to mere outward claims. Ibn Kathir in his tafsir explains that the verse was revealed about certain Arabs who became Muslim and then boasted about it, thinking they had done the Prophet a favor. Qurtubi in Al-Jami li-Ahkam al-Quran similarly emphasizes that the verse rebukes those who make exaggerated claims about their faith. Both traditions cite similar historical contexts regarding the Bedouin tribes. However, there are subtle differences in emphasis. Sunni scholars like Tabari tend to focus more on the verse as a general warning against religious pride and the importance of sincerity in worship. Shia scholars, drawing on the teachings of the Ahlul Bayt, often connect this verse more explicitly to the distinction between Islam as external submission and iman as internal transformation of the heart, a distinction elaborated in hadith literature of the Imams. Both traditions reference Hadith Jibril where the angel asks the Prophet about Islam and iman as separate but related concepts. Where the traditions converge powerfully is in the practical application: all scholars agree that this verse calls believers to humility, sincerity, and awareness of divine omniscience. Both Shia and Sunni commentators emphasize that true faith must be demonstrated through righteous action and sincere devotion, not through boastful claims or attempts to prove one's religiosity to others.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی پیغام پر متفق ہیں: اللہ کا علم مطلق ہے اور خلوص پر مبنی ایمان محض ظاہری دعووں سے بہتر ہے۔ ابنِ کثیر نے اپنی تفسیر میں لکھا ہے کہ یہ آیت ان عربوں کے بارے میں نازل ہوئی جو مسلمان ہو کر اس پر فخر کرتے تھے، گویا انہوں نے نبی اکرم صلی اللہ علیہ وآلہ وسلم پر کوئی احسان کیا ہو۔ قرطبی نے الجامع لاحکام القرآن میں اسی طرح اس بات پر زور دیا ہے کہ آیت ایمان کے بارے میں مبالغہ آمیز دعوے کرنے والوں کو سرزنش کرتی ہے۔ دونوں روایات بدوی قبائل سے متعلق ملتی جلتی تاریخی سیاق بیان کرتی ہیں۔ تاہم زور دینے کے انداز میں باریک فرق موجود ہے: طبری جیسے سنی علماء اس آیت کو عموماً مذہبی تکبر کے خلاف عام تنبیہ اور عبادت میں اخلاص کی اہمیت کے طور پر پیش کرتے ہیں، جبکہ شیعہ علماء اہلِ بیت علیہم السلام کی تعلیمات کی روشنی میں اس آیت کو خاص طور پر بیرونی اسلام اور باطنی قلبی تبدیلی کے طور پر ایمان کے درمیان فرق سے جوڑتے ہیں — ایک تمیز جو ائمہ علیہم السلام کی حدیثی روایات میں تفصیل سے بیان ہوئی ہے۔ دونوں روایات حدیثِ جبریل کا حوالہ دیتی ہیں جس میں جبرئیل علیہ السلام نے نبی صلی اللہ علیہ وآلہ وسلم سے اسلام اور ایمان کے بارے میں الگ الگ سوال کیا۔ جہاں دونوں مکاتبِ فکر بھرپور اتفاق رکھتے ہیں وہ عملی اطلاق ہے: تمام علماء اس بات پر متفق ہیں کہ یہ آیت ایمان والوں کو فروتنی، خلوص اور الٰہی علمِ کل کے شعور کی دعوت دیتی ہے، اور یہ کہ سچا ایمان نیک عمل اور مخلصانہ عبادت سے ظاہر ہونا چاہیے نہ کہ دوسروں کے سامنے اپنی دینداری ثابت کرنے کی کوشش سے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على الرسالة الجوهرية لهذه الآية: أن علم الله مطلق شامل وأن الإيمان الصادق أعلى مرتبةً من مجرَّد الادِّعاء الظاهر. ويُوضِّح ابن كثير في تفسيره أن الآية نزلت في أناس من العرب أسلموا ثم فخروا بإسلامهم ظانِّين أنهم بذلك قدَّموا فضلاً للنبي صلى الله عليه وسلم. ويُؤكِّد القرطبي في الجامع لأحكام القرآن أن الآية تُعاتب من يُبالغون في ادِّعاء الإيمان. ويستشهد كلا التقليدين بسياقات تاريخية متشابهة تتعلق بالقبائل الأعرابية. غير أن ثمة فروقاً دقيقة في التأكيد: فعلماء السنة كالطبري يُركِّزون في الغالب على الآية بوصفها تحذيراً عاماً من الكبر الديني وأهمية الإخلاص في العبادة، في حين يربط علماء الشيعة استناداً إلى تعاليم أهل البيت الآيةَ بالتمييز الأعمق بين الإسلام بوصفه استسلاماً ظاهرياً والإيمان بوصفه تحوُّلاً باطنياً للقلب. ويستند كلا التقليدين إلى حديث جبريل الذي سأل فيه النبيَّ صلى الله عليه وسلم عن الإسلام والإيمان بوصفهما مفهومَين متمايزَين ومتكاملَين. وتتقارب الآراء بقوة في التطبيق العملي: فجميع العلماء يُجمعون على أن هذه الآية تدعو المؤمنين إلى التواضع والإخلاص والوعي بعلم الله الشامل، وأن الإيمان الحقيقي ينبغي أن يتجلَّى في الأفعال الصالحة والعبادة الصادقة لا في الادِّعاءات الفارغة أو محاولة إثبات التديُّن للآخرين."
+  },
+  "17": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:17:false-favor",
+          "title": "False Favor",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The Bedouins considered their acceptance of Islam a favor to the Prophet, revealing spiritual pride that views submission to Allah as doing Him a favor rather than receiving one.",
+          "whyItMatters": "This attitude exposes a fundamental misunderstanding of faith - accepting guidance is receiving a gift, not granting one, teaching humility about our relationship with Allah.",
+          "position": "topLeft",
+          "arabicHighlight": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟",
+          "title_urdu": "جھوٹا احسان",
+          "coreInsight_urdu": "دیہاتیوں نے اسلام قبول کرنے کو نبی پر احسان سمجھا، روحانی تکبر کو ظاہر کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ رویہ ایمان کی بنیادی غلط فہمی کو ظاہر کرتا ہے۔",
+          "title_ar": "الفضل الزائف",
+          "coreInsight_ar": "اعتبر الأعراب قبولهم للإسلام فضلاً على النبي.",
+          "whyItMatters_ar": "هذا الموقف يكشف سوء فهم أساسي للإيمان."
+        },
+        {
+          "id": "49:17:true-favor",
+          "title": "Real Favor",
+          "icon": "gift.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah corrects them, stating that He is the One conferring favor by guiding them to faith, reversing the relationship and showing guidance as divine gift.",
+          "whyItMatters": "Recognizing faith as Allah's favor to us rather than our gift to Him transforms pride into gratitude and obligation into privilege.",
+          "position": "topRight",
+          "arabicHighlight": "بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ",
+          "title_urdu": "حقیقی احسان",
+          "coreInsight_urdu": "اللہ انہیں درست کرتا ہے، بتاتے ہوئے کہ وہ ہی ہے جو انہیں ایمان کی طرف رہنمائی کر کے احسان کر رہا ہے۔",
+          "whyItMatters_urdu": "ایمان کو اللہ کا احسان سمجھنا تکبر کو شکر میں بدل دیتا ہے۔",
+          "title_ar": "الفضل الحقيقي",
+          "coreInsight_ar": "يصححهم الله، مبيناً أنه هو من يمن عليهم بهدايتهم للإيمان.",
+          "whyItMatters_ar": "إدراك الإيمان كفضل الله علينا يحول الكبرياء إلى امتنان."
+        },
+        {
+          "id": "49:17:conditional-truth",
+          "title": "If You're Truthful",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'if you should be truthful' questions the sincerity of their claim, teaching that mere verbal declaration doesn't prove genuine faith.",
+          "whyItMatters": "Allah challenges us to examine the authenticity of our belief - do our actions, attitudes, and hearts match our verbal claims of faith?",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِن كُنتُمْ صَٰدِقِينَ",
+          "title_urdu": "اگر تم سچے ہو",
+          "coreInsight_urdu": "جملہ 'اگر تم سچے ہو' ان کے دعوے کی سچائی پر سوال اٹھاتا ہے۔",
+          "whyItMatters_urdu": "اللہ ہمیں اپنے ایمان کی صداقت کو جانچنے کا چیلنج دیتا ہے۔",
+          "title_ar": "إن كنتم صادقين",
+          "coreInsight_ar": "عبارة 'إن كنتم صادقين' يشكك في صدق ادعائهم.",
+          "whyItMatters_ar": "يتحدانا الله لفحص أصالة إيماننا."
+        },
+        {
+          "id": "49:17:guidance-as-gift",
+          "title": "Guidance Gift",
+          "icon": "lightbulb.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah's guidance to faith is presented as a favor and gift, emphasizing that hidayah (guidance) is divine grace that must be received with humility and gratitude.",
+          "whyItMatters": "When we understand that our faith itself is a gift from Allah, it prevents spiritual arrogance and cultivates constant thankfulness for being guided.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ",
+          "title_urdu": "ہدایت کا تحفہ",
+          "coreInsight_urdu": "اللہ کی ایمان کی طرف رہنمائی کو احسان اور تحفہ کے طور پر پیش کیا گیا ہے۔",
+          "whyItMatters_urdu": "جب ہم سمجھتے ہیں کہ ہمارا ایمان خود اللہ کا تحفہ ہے، تو یہ روحانی تکبر کو روکتا ہے۔",
+          "title_ar": "هدية الهداية",
+          "coreInsight_ar": "تُقدم هداية الله للإيمان كفضل وهدية.",
+          "whyItMatters_ar": "عندما نفهم أن إيماننا نفسه هدية من الله، فإنه يمنع الغطرسة الروحية."
+        }
+      ]
+    },
+    "layer4": "There is broad agreement between Shia and Sunni scholars on the core message of this verse. Ibn Kathir explains that the verse was revealed about people from the Arab tribes who came to the Prophet saying they had believed without being fought, unlike others who resisted initially. They expected praise and recognition for this. Al-Razi in Mafatih al-Ghayb emphasizes that all guidance is from Allah alone, and humans have no ground for boasting about their faith. Qurtubi stresses that accepting Islam benefits the believer themselves through salvation and divine pleasure, not the Prophet or Allah who are completely independent. These interpretations align closely with Shia commentaries. However, there are some differences in emphasis and application. Sunni scholars tend to focus more on the general principle of humility and gratitude in religion. Shia scholars, drawing on the teachings of the Imams, often emphasize the deeper spiritual psychology of this verse - how it reveals the subtle workings of spiritual pride and the importance of attributing all good to Allah. Some Shia commentators also connect this verse to the broader theme of Wilayah, noting that true guidance includes recognition of divinely appointed authority, not just abstract belief. Both traditions cite prophetic traditions emphasizing that faith is a gift from Allah. Where the traditions converge is in the practical application: this verse calls all Muslims to approach their faith with humility and gratitude, recognizing that even their ability to believe is a divine favor, not a personal achievement deserving praise or creating obligation.",
+    "layer4_urdu": "اس آیت کے مرکزی پیغام پر شیعہ اور سنی علماء کا وسیع اتفاق ہے۔ ابنِ کثیر وضاحت کرتے ہیں کہ یہ آیت عرب قبائل کے ان لوگوں کے بارے میں نازل ہوئی جو نبی صلی اللہ علیہ وآلہ وسلم کے پاس آ کر کہتے تھے کہ وہ بغیر لڑائی کے ایمان لائے ہیں برعکس ان کے جنہوں نے ابتدا میں مزاحمت کی تھی — اور وہ اس پر تعریف اور اعتراف کی توقع رکھتے تھے۔ امام رازی نے مفاتیح الغیب میں اس بات پر زور دیا ہے کہ تمام ہدایت صرف اللہ ہی کی طرف سے ہے اور انسانوں کے پاس اپنے ایمان پر فخر کرنے کی کوئی بنیاد نہیں۔ قرطبی یہ واضح کرتے ہیں کہ اسلام قبول کرنے سے نجات اور الٰہی رضا کے ذریعے مومن خود فائدہ اٹھاتا ہے، نہ کہ نبی صلی اللہ علیہ وآلہ وسلم یا اللہ جو ہر شے سے بے نیاز ہے۔ یہ تفسیریں شیعہ تفاسیر سے قریب ہیں۔ تاہم زور اور اطلاق میں کچھ فرق موجود ہے۔ سنی علماء عمومی طور پر اس آیت سے دین میں انکساری اور شکر کے عام اصول پر توجہ مرکوز کرتے ہیں۔ شیعہ علماء، ائمہ علیہم السلام کی تعلیمات سے استفادہ کرتے ہوئے، اکثر اس آیت کی گہری روحانی نفسیات کو اجاگر کرتے ہیں — یہ کہ آیت کس طرح روحانی تکبر کی نازک کارگزاریوں کو بے نقاب کرتی ہے اور ہر بھلائی کو اللہ سے منسوب کرنے کی اہمیت کو واضح کرتی ہے۔ کچھ شیعہ مفسرین اس آیت کو ولایت کے وسیع موضوع سے بھی جوڑتے ہیں، یہ نشاندہی کرتے ہوئے کہ حقیقی ہدایت میں اللہ کی جانب سے مقرر کردہ اقتدار کی شناخت شامل ہے، نہ کہ محض تجریدی عقیدہ۔ دونوں روایات وہ نبوی احادیث بیان کرتی ہیں جو اس بات پر زور دیتی ہیں کہ ایمان اللہ کی طرف سے عطیہ ہے۔ جہاں دونوں مکاتبِ فکر طاقت سے ہم آہنگ ہیں وہ عملی اطلاق ہے: یہ آیت تمام مسلمانوں کو دعوت دیتی ہے کہ وہ اپنے ایمان کو فروتنی اور شکر کے ساتھ اپنائیں، اور یہ تسلیم کریں کہ ایمان کی صلاحیت بھی الٰہی فضل ہے، ذاتی کامیابی نہیں جس پر تعریف ملنی چاہیے یا جو کسی ذمہ داری کو جنم دے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة اتِّفاقاً واسعاً على الرسالة الجوهرية لهذه الآية. ويُوضِّح ابن كثير أنها نزلت في أناس من القبائل العربية جاؤوا إلى النبي مُذكِّرين إيَّاه بإيمانهم دون أن يُقاتَلوا كما قوتل غيرهم، وكأنهم يتوقَّعون الثناء والاعتراف. ويُؤكِّد الرازي في مفاتيح الغيب أن كل الهداية من الله وحده وليس للإنسان أدنى أساسٍ للتفاخر بإيمانه. ويُشدِّد القرطبي على أن قبول الإسلام يعود على المؤمن نفسه بالنجاة والرضا الإلهي، لا على النبي أو الله اللذين في غنىً مطلق. وهذه التفسيرات تتوافق مع التعليقات الشيعية توافقاً وثيقاً. غير أن ثمة فروقاً في التأكيد والتطبيق: فعلماء السنة يُركِّزون في الغالب على المبدأ العام للتواضع والشكر في الدين، في حين يُعمِّق علماء الشيعة استناداً إلى تعاليم الأئمة عليهم السلام التحليلَ النفسي الروحي للآية، كاشفين عن الآليات الدقيقة للكبر الروحي وأهمية إسناد كل خيرٍ إلى الله. ويستشهد بعض المُعلِّقين الشيعة بهذه الآية أيضاً في سياق الولاية، مُلاحظين أن الهداية الحقيقية تشمل الاعتراف بالسلطة الإلهية المنصَّبة لا الإيمان المجرَّد فحسب. وتتقارب التقليدان في التطبيق العملي: فهذه الآية تدعو جميع المسلمين إلى التعامل مع إيمانهم بتواضعٍ وامتنان، مُدركين أن حتى قدرتهم على الإيمان هي فضلٌ إلهي لا إنجازٌ شخصيٌّ يستوجب الثناء أو يُنشئ التزاماً."
+  },
+  "18": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "49:18:knowledge-of-unseen",
+          "title": "Unseen Knowledge",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah knows the unseen of the heavens and earth, establishing that nothing is hidden from divine knowledge, including the secrets of hearts and hidden intentions.",
+          "whyItMatters": "The knowledge of the unseen is exclusive to Allah, reminding us that no matter how well we hide our true selves, everything is exposed before the Creator.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "غیب کا علم",
+          "coreInsight_urdu": "اللہ آسمانوں اور زمین کے غیب کو جانتا ہے، یہ قائم کرتے ہوئے کہ الہی علم سے کچھ بھی چھپا نہیں ہے۔",
+          "whyItMatters_urdu": "غیب کا علم صرف اللہ کے پاس ہے۔",
+          "title_ar": "علم الغيب",
+          "coreInsight_ar": "يعلم الله غيب السماوات والأرض، مما يؤسس أن لا شيء مخفي عن المعرفة الإلهية.",
+          "whyItMatters_ar": "علم الغيب حصرية لله."
+        },
+        {
+          "id": "49:18:divine-observation",
+          "title": "All-Seeing",
+          "icon": "eye.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah is Baseer (All-Seeing) of what people do, meaning every action, movement, and deed is witnessed and recorded by the Creator.",
+          "whyItMatters": "The awareness that Allah sees everything we do should transform our behavior in private as much as in public, making righteousness consistent.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+          "title_urdu": "سب دیکھنے والا",
+          "coreInsight_urdu": "اللہ بصیر ہے لوگوں کے اعمال کو، یعنی ہر عمل، حرکت اور کام خالق کی نگاہ میں ہے۔",
+          "whyItMatters_urdu": "یہ آگاہی کہ اللہ ہمارے ہر عمل کو دیکھتا ہے، ہمارے رویے کو تبدیل کر دیتی ہے۔",
+          "title_ar": "البصير",
+          "coreInsight_ar": "الله بصير بما يعمل الناس، أي كل فعل وحركة وعمل مشهود ومسجل من الخالق.",
+          "whyItMatters_ar": "الوعي بأن الله يرى كل ما نفعله يجب أن يحول سلوكنا."
+        },
+        {
+          "id": "49:18:final-accountability",
+          "title": "Ultimate Accountability",
+          "icon": "scale.3d",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This concluding verse of the surah emphasizes accountability - since Allah knows the unseen and sees all actions, every person will be held accountable for their deeds.",
+          "whyItMatters": "The combination of knowing the unseen and seeing all actions means perfect justice is guaranteed - no good or evil will be forgotten or overlooked.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+          "title_urdu": "حتمی جوابدہی",
+          "coreInsight_urdu": "سورت کی یہ آخری آیت جوابدہی پر زور دیتی ہے - چونکہ اللہ غیب کو جانتا اور تمام اعمال دیکھتا ہے۔",
+          "whyItMatters_urdu": "غیب کو جاننے اور تمام اعمال کو دیکھنے کا امتزاج کامل انصاف کی ضمانت دیتا ہے۔",
+          "title_ar": "المساءلة النهائية",
+          "coreInsight_ar": "هذه الآية الختامية للسورة تؤكد على المساءلة.",
+          "whyItMatters_ar": "الجمع بين معرفة الغيب ورؤية جميع الأفعال يضمن العدالة الكاملة."
+        },
+        {
+          "id": "49:18:perfect-closure",
+          "title": "Perfect Closure",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah concludes by returning to divine knowledge and vision, providing perfect closure to themes of faith, conduct, and sincerity explored throughout.",
+          "whyItMatters": "By ending with Allah's comprehensive knowledge and sight, the surah reminds us that all the ethical teachings given require sincerity, as Allah knows our true state.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ يَعْلَمُ",
+          "title_urdu": "کامل اختتام",
+          "coreInsight_urdu": "سورت الہی علم اور نظر پر واپس آ کر اختتام پذیر ہوتی ہے۔",
+          "whyItMatters_urdu": "اللہ کے جامع علم اور نظر کے ساتھ ختم کر کے، سورت یاد دلاتی ہے کہ تمام اخلاقی تعلیمات کو خلوص کی ضرورت ہے۔",
+          "title_ar": "الختام الكامل",
+          "coreInsight_ar": "تختتم السورة بالعودة إلى المعرفة والرؤية الإلهية.",
+          "whyItMatters_ar": "بإنهاء السورة بمعرفة الله الشاملة ورؤيته، تذكرنا أن جميع التعاليم الأخلاقية تتطلب الإخلاص."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that this verse establishes fundamental Islamic beliefs about divine knowledge and observation. Ibn Kathir explains that this verse summarizes the crucial doctrine that nothing is hidden from Allah, neither in the heavens nor earth, and that He sees all that His servants do, both good and evil. Al-Razi in Mafatih al-Ghayb provides detailed theological analysis of Allah's knowledge of the unseen, emphasizing that divine knowledge is eternal, unchanging, and comprehensive. Qurtubi notes that this verse should inspire believers to God-consciousness in all circumstances. These interpretations align closely with Shia commentaries. Both traditions emphasize the verse's function as a foundation for accountability and divine justice. However, there are some differences in theological elaboration. Sunni Ashari theology tends to emphasize divine will and power alongside knowledge, while Shia theology, particularly in the tradition of Allamah Tabatabai, explores more deeply the philosophical implications of divine knowledge's relationship to human free will and choice. Some Sunni scholars reference this verse in discussions of predestination, while Shia scholars tend to emphasize it in the context of divine justice and human responsibility. Both traditions cite this verse in discussions of private versus public behavior, using it to encourage moral consistency. Where both schools converge powerfully is in the practical application: this verse should produce taqwa (God-consciousness), inspire moral behavior even when unobserved by other humans, provide comfort that Allah knows our sincere intentions, and establish confidence in ultimate divine justice based on perfect knowledge and observation.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس بات پر متفق ہیں کہ یہ آیت الٰہی علم اور مشاہدے کے بارے میں اسلامی عقائد کا بنیادی ستون ہے۔ ابنِ کثیر وضاحت کرتے ہیں کہ یہ آیت اس اہم عقیدے کا خلاصہ ہے کہ اللہ سے کچھ بھی پوشیدہ نہیں — نہ آسمانوں میں اور نہ زمین میں — اور یہ کہ وہ اپنے بندوں کے تمام اعمال دیکھتا ہے، نیک اور بد سب۔ امام رازی نے مفاتیح الغیب میں اللہ کے غیب کے علم کا مفصل عقدی تجزیہ پیش کیا ہے، اس بات پر زور دیتے ہوئے کہ الٰہی علم ابدی، لا متغیر اور ہمہ گیر ہے۔ قرطبی نے نشان دہی کی ہے کہ یہ آیت مومنوں کو ہر حال میں اللہ کے حضور ہوشیار رہنے کی ترغیب دیتی ہے۔ یہ تفسیریں شیعہ تفاسیر سے قریب ہیں۔ دونوں روایات اس آیت کو احتساب اور عدلِ الٰہی کی بنیاد کے طور پر اہمیت دیتی ہیں۔ تاہم عقدی تشریح میں کچھ فروق موجود ہیں۔ سنی اشعری کلام میں علم کے ساتھ الٰہی ارادہ اور قدرت پر خصوصی توجہ دی جاتی ہے، جبکہ شیعہ کلام بالخصوص علامہ طباطبائی کی روایت میں الٰہی علم کا انسانی آزادیِ ارادہ اور انتخاب سے تعلق کے فلسفیانہ مضمرات کا گہرا تجزیہ کیا جاتا ہے۔ کچھ سنی علماء اس آیت کا تقدیر کے مسئلے پر بحث میں حوالہ دیتے ہیں، جبکہ شیعہ علماء اسے عدلِ الٰہی اور انسانی ذمہ داری کے سیاق میں زیادہ استعمال کرتے ہیں۔ دونوں روایات اس آیت کو ظاہری اور پوشیدہ رویے کے مسئلے میں بیان کرتی ہیں، اسے اخلاقی ثبات کی ترغیب کے لیے استعمال کرتے ہوئے۔ جہاں دونوں مکاتبِ فکر بھرپور ہم آہنگی رکھتے ہیں وہ عملی اطلاق ہے: یہ آیت تقویٰ پیدا کرے، انسانی نگاہ سے اوجھل ہونے پر بھی نیک رویے کا باعث بنے، یہ اطمینان دے کہ اللہ ہماری مخلصانہ نیتوں کو جانتا ہے، اور مکمل علم اور بے عیب مشاہدے پر مبنی عدلِ الٰہی میں یقین کو راسخ کرے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية تُقرِّر عقائد إسلامية راسخة في علم الله الشامل ورؤيته لأفعال العباد. ويُوضِّح ابن كثير أن الآية تُلخِّص المبدأ العقدي الجوهري القائل بأن شيئاً لا يخفى عن الله في السماوات ولا في الأرض، وأنه يرى ما يعمله عباده من خير وشر. ويُقدِّم الرازي في مفاتيح الغيب تحليلاً لاهوتياً مستفيضاً لعلم الله بالغيب، مُؤكِّداً أن العلم الإلهي أزليٌّ ثابتٌ شامل. ويُلاحظ القرطبي أن هذه الآية ينبغي أن تبعث في المؤمنين التقوى في كل الأحوال. وتتوافق هذه التفسيرات مع التعليقات الشيعية توافقاً كبيراً. ويُؤكِّد كلا التقليدين أن الآية تُؤسِّس للمساءلة والعدل الإلهي. غير أن ثمة فروقاً في التفصيل العقدي: يميل علم الكلام السني الأشعري إلى إبراز الإرادة الإلهية والقدرة جنباً إلى جنب مع العلم، في حين تُعمِّق الرؤية الشيعية لا سيما عند الطباطبائي البحث الفلسفي في علاقة العلم الإلهي بالإرادة الإنسانية الحرة والمسؤولية الأخلاقية. ويستشهد بعض علماء السنة بهذه الآية في سياق الجبر والقدر، في حين يُركِّز علماء الشيعة على استحضارها في سياق العدل الإلهي والمسؤولية الإنسانية. ويتلاقى التقليدان بقوة في التطبيق العملي: ينبغي أن تبعث هذه الآية في القلوب التقوى والاستقامة في السر والعلن، وأن تُقدِّم العزاء بيقين العدل الإلهي المطلق القائم على معرفةٍ تامة ومراقبةٍ كاملة لا تخفى عنها خافية."
+  }
+}

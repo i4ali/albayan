@@ -1,0 +1,303 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "111:1:ruined-hands",
+          "title": "Ruined Hands",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'tabba yadaa' (perished be the hands) signifies the complete destruction of Abu Lahab's power and influence, symbolizing how worldly authority crumbles when used against divine truth.",
+          "whyItMatters": "This teaches us that no matter how powerful someone appears, those who actively oppose divine guidance will ultimately face ruin in this life and the next.",
+          "position": "topLeft",
+          "arabicHighlight": "تَبَّتْ يَدَآ أَبِى لَهَبٍۢ",
+          "title_urdu": "برباد ہاتھ",
+          "coreInsight_urdu": "جملہ 'تبت یدا' (ہلاک ہوں ہاتھ) ابو لہب کی طاقت اور اثر و رسوخ کی مکمل تباہی کی نشاندہی کرتا ہے، یہ ظاہر کرتے ہوئے کہ کس طرح دنیوی اقتدار ٹوٹ جاتا ہے جب اسے الہی حق کے خلاف استعمال کیا جائے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ چاہے کوئی کتنا ہی طاقتور نظر آئے، جو لوگ فعال طور پر الہی رہنمائی کی مخالفت کرتے ہیں وہ بالآخر اس دنیا اور آخرت میں بربادی کا سامنا کریں گے۔",
+          "title_ar": "الأيدي المدمرة",
+          "coreInsight_ar": "عبارة 'تبت يدا' (هلكت الأيدي) يدل على الدمار الكامل لقوة أبي لهب ونفوذه، مما يرمز إلى كيف تنهار السلطة الدنيوية عندما تستخدم ضد الحق الإلهي.",
+          "whyItMatters_ar": "هذا يعلمنا أنه بغض النظر عن مدى قوة شخص ما، فإن أولئك الذين يعارضون الهداية الإلهية بنشاط سيواجهون في النهاية الخراب في هذه الحياة والآخرة."
+        },
+        {
+          "id": "111:1:abu-lahab",
+          "title": "Abu Lahab",
+          "icon": "person.fill.xmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Abu Lahab (father of flame) was the Prophet's uncle who became his fiercest enemy. The Quran uniquely names him by his nickname, eternally marking his opposition to Islam.",
+          "whyItMatters": "This demonstrates that family ties do not exempt anyone from accountability, and that proximity to truth does not guarantee acceptance of it.",
+          "position": "topRight",
+          "arabicHighlight": "أَبِى لَهَبٍۢ",
+          "title_urdu": "ابو لہب",
+          "coreInsight_urdu": "ابو لہب (شعلے کا باپ) نبی کا چچا تھا جو ان کا سخت ترین دشمن بن گیا۔ قرآن نے منفرد طور پر اسے اس کے لقب سے نام دیا، اسلام کی مخالفت کو ہمیشہ کے لیے نشان زد کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ خاندانی رشتے کسی کو جوابدہی سے مستثنیٰ نہیں کرتے، اور حق کی قربت اس کی قبولیت کی ضمانت نہیں دیتی۔",
+          "title_ar": "أبو لهب",
+          "coreInsight_ar": "كان أبو لهب (أب اللهب) عم النبي الذي أصبح ألد أعدائه. القرآن يسميه بلقبه فريدًا، مما يضع علامة أبدية على معارضته للإسلام.",
+          "whyItMatters_ar": "هذا يدل على أن الروابط العائلية لا تعفي أحدًا من المساءلة، وأن القرب من الحق لا يضمن قبوله."
+        },
+        {
+          "id": "111:1:divine-curse",
+          "title": "Prophetic Curse",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The repetition of 'tabba' (ruined/perished) emphasizes the certainty and completeness of his destruction - both his deeds and his person are condemned.",
+          "whyItMatters": "This shows that persistent, active opposition to divine truth leads to comprehensive ruin, affecting both one's actions and ultimate destiny.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَتَبَّ",
+          "title_urdu": "نبوی لعنت",
+          "coreInsight_urdu": "'تب' (برباد/ہلاک) کی تکرار اس کی تباہی کی یقینی اور مکمل نوعیت پر زور دیتی ہے - اس کے اعمال اور اس کی ذات دونوں کی مذمت کی گئی ہے۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ الہی حق کی مسلسل، فعال مخالفت جامع بربادی کی طرف لے جاتی ہے، جو کسی کے اعمال اور حتمی تقدیر دونوں کو متاثر کرتی ہے۔",
+          "title_ar": "اللعنة النبوية",
+          "coreInsight_ar": "تكرار 'تب' (هلك/دمر) يؤكد على يقين ودمار دماره الكامل - كل من أفعاله وشخصه مدانان.",
+          "whyItMatters_ar": "هذا يوضح أن المعارضة المستمرة والنشطة للحق الإلهي تؤدي إلى خراب شامل، يؤثر على أفعال المرء ومصيره النهائي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars unanimously agree on the historical context and basic interpretation of this verse, making it one of the least contested passages in tafsir literature. Ibn Kathir, Qurtubi, Tabari, and other Sunni exegetes confirm the same narrative found in Shia sources regarding Abu Lahab's mockery on Mount Safa and his subsequent fate. The phrase 'tabbat yada Abi Lahabin wa-tabb' is interpreted consistently across both traditions as a comprehensive curse covering his efforts and his being. However, there are subtle emphases: Sunni scholars like Ibn Kathir focus extensively on the miraculous predictive nature of the verse, emphasizing how Abu Lahab never converted despite the public challenge, proving the Quran's divine origin. Shia scholars while acknowledging this miracle, additionally emphasize the social justice dimensions, seeing Abu Lahab as representative of oppressive power structures that the Ahlul Bayt would continue to confront throughout Islamic history. Both traditions cite Ibn Abbas extensively, though Shia sources also incorporate insights from Imam Ali and Imam al-Sadiq. The theological consensus is remarkable: this verse demonstrates that divine knowledge encompasses individual choices, that family ties don't guarantee salvation, and that persistent opposition to prophetic mission results in divine condemnation. The minor differences lie in application rather than interpretation, with Shia scholarship connecting this to broader themes of Wilayah and legitimate spiritual authority.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس آیت کے تاریخی سیاق و سباق اور بنیادی تشریح پر متفقہ طور پر متفق ہیں، جو اسے تفسیری ادب میں سب سے کم متنازعہ اقتباسات میں سے ایک بناتا ہے۔ ابن کثیر، قرطبی، طبری، اور دیگر سنی مفسرین ابو لہب کی کوہ صفا پر طنز اور اس کے بعد کی قسمت کے بارے میں شیعہ ذرائع میں پائی جانے والی ایسی ہی روایت کی تصدیق کرتے ہیں۔ جملہ \"تبت یدا ابی لہب وتب\" کی تشریح دونوں روایات میں مسلسل طور پر ایک جامع لعنت کے طور پر کی جاتی ہے جو اس کی کوششوں اور اس کی ذات کو احاطہ کرتی ہے۔ تاہم، لطیف زور میں فرق ہیں: ابن کثیر جیسے سنی علماء آیت کی معجزانہ پیشین گوئی کی نوعیت پر بڑے پیمانے پر توجہ مرکوز کرتے ہیں، اس بات پر زور دیتے ہوئے کہ عوامی چیلنج کے باوجود ابو لہب کبھی مسلمان نہیں ہوا، قرآن کی الہی اصل کو ثابت کرتے ہوئے۔ شیعہ علماء اس معجزے کو تسلیم کرتے ہوئے، اضافی طور پر سماجی انصاف کے پہلوؤں پر زور دیتے ہیں، ابو لہب کو ان جابرانہ طاقت کے ڈھانچوں کے نمائندے کے طور پر دیکھتے ہوئے جن کا اہل بیت نے پوری اسلامی تاریخ میں سامنا کرنا جاری رکھا، خاص طور پر اموی دور میں۔ دونوں روایات ابن عباس کو بڑے پیمانے پر حوالہ دیتے ہیں، حالانکہ شیعہ ذرائع امام علی اور امام صادق علیہما السلام سے بصیرتیں بھی شامل کرتے ہیں۔ مذہبی اجماع قابل ذکر ہے: یہ آیت ظاہر کرتی ہے کہ الہی علم انفرادی انتخاب کو گھیرے ہوئے ہے، کہ خاندانی تعلقات نجات کی ضمانت نہیں دیتے، اور نبوی مشن کی مسلسل مخالفت الہی مذمت کا نتیجہ ہے۔ معمولی فرق اطلاق میں ہیں نہ کہ تشریح میں، شیعہ علم اسے ولایت اور جائز روحانی اتھارٹی کے وسیع تر موضوعات سے جوڑتے ہوئے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة بإجماع على السياق التاريخي والتفسير الأساسي لهذه الآية، مما يجعلها من أقل الآيات خلافاً في تراث التفسير. فابن كثير والقرطبي والطبري وسواهم من المفسرين السنيين يُؤكِّدون الرواية ذاتها الواردة في المصادر الشيعية بشأن سخرية أبي لهب على جبل الصفا وما آل إليه مصيره. وتُؤوَّل عبارة \"تَبَّت يَدَا أَبِي لَهَبٍ وَتَبَّ\" تأويلاً متسقاً عبر التراثين بوصفها لعنة شاملة تطال مساعيه ووجوده على حدٍّ سواء. غير أن ثمة فوارق في التركيز: يُعنى علماء السنة كابن كثير عنايةً موسَّعة بالطابع الإعجازي التنبؤي للآية، مُشيرين إلى إحجام أبي لهب عن الإسلام رغم التحدي العلني دليلاً على الأصل الإلهي للقرآن. وعلماء الشيعة إذ يُقرُّون بهذا الإعجاز يُضيفون إليه أبعاد العدالة الاجتماعية، ناظرين إلى أبي لهب بوصفه نموذجاً لمنظومات السلطة القاهرة التي سيتواصل أهل البيت عليهم السلام في مواجهتها عبر تاريخ الإسلام. ويتكئ التراثان على ابن عباس اتكاءً كبيراً، فيما تُدرِج المصادر الشيعية إضافةً إلى ذلك رؤى الإمام علي والإمام الصادق عليهما السلام. والتوافق العقدي لافت: تُبيِّن هذه الآية أن العلم الإلهي يُحيط بالاختيارات الفردية، وأن صلات الرحم لا تُضمن النجاة، وأن التصدي المتواصل للرسالة النبوية يستجلب الإدانة الإلهية. وتتمثل الفوارق الجزئية في التطبيق لا في التفسير، مع ميل التفسير الشيعي إلى الربط بمحاور الولاية وشرعية السلطة الروحية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "111:2:wealth-futility",
+          "title": "Worthless Wealth",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Abu Lahab was wealthy and influential, yet his riches provided no protection against divine decree. The verse emphasizes that wealth cannot buy salvation or avert divine justice.",
+          "whyItMatters": "This reminds us that accumulating wealth means nothing if we oppose truth and justice - material success cannot compensate for spiritual bankruptcy.",
+          "position": "topLeft",
+          "arabicHighlight": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ",
+          "title_urdu": "بیکار دولت",
+          "coreInsight_urdu": "ابو لہب دولت مند اور بااثر تھا، پھر بھی اس کی دولت نے اسے الہی فیصلے سے کوئی تحفظ فراہم نہیں کیا۔ آیت اس بات پر زور دیتی ہے کہ دولت نجات نہیں خرید سکتی یا الہی انصاف کو نہیں روک سکتی۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ اگر ہم حق اور انصاف کی مخالفت کریں تو دولت جمع کرنا بے معنی ہے - مادی کامیابی روحانی دیوالیہ پن کا ازالہ نہیں کر سکتی۔",
+          "title_ar": "الثروة عديمة الفائدة",
+          "coreInsight_ar": "كان أبو لهب ثريًا ومؤثرًا، لكن ثروته لم توفر له أي حماية ضد القضاء الإلهي. تؤكد الآية أن الثروة لا يمكن أن تشتري الخلاص أو تدفع العدالة الإلهية.",
+          "whyItMatters_ar": "هذا يذكرنا بأن تراكم الثروة لا يعني شيئًا إذا عارضنا الحق والعدل - النجاح المادي لا يمكن أن يعوض الإفلاس الروحي."
+        },
+        {
+          "id": "111:2:earned-gains",
+          "title": "Vain Earnings",
+          "icon": "chart.line.downtrend.xyaxis",
+          "colorHex": "#E57373",
+          "coreInsight": "'What he gained' (ma kasaba) refers to his efforts, children, reputation, and social status - all proving useless in protecting him from divine punishment.",
+          "whyItMatters": "This teaches that worldly achievements and legacy mean nothing if built on opposition to truth and oppression of the righteous.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَا كَسَبَ",
+          "title_urdu": "بیکار کمائی",
+          "coreInsight_urdu": "'جو اس نے کمایا' (ما کسب) اس کی کوششوں، اولاد، شہرت، اور سماجی حیثیت کی طرف اشارہ ہے - سب اسے الہی عذاب سے بچانے میں بیکار ثابت ہوئے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ دنیوی کامیابیاں اور میراث کچھ معنی نہیں رکھتیں اگر حق کی مخالفت اور صالحین پر ظلم پر بنائی گئی ہوں۔",
+          "title_ar": "المكاسب الباطلة",
+          "coreInsight_ar": "'ما كسب' يشير إلى جهوده، أطفاله، سمعته، ومكانته الاجتماعية - كلها أثبتت عدم جدواها في حمايته من العقاب الإلهي.",
+          "whyItMatters_ar": "هذا يعلم أن الإنجازات الدنيوية والإرث لا تعني شيئًا إذا بُنيت على معارضة الحق وظلم الصالحين."
+        },
+        {
+          "id": "111:2:false-security",
+          "title": "False Security",
+          "icon": "shield.slash.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Abu Lahab relied on his wealth and status for security, but found no refuge when facing divine justice. Material power creates an illusion of protection.",
+          "whyItMatters": "We must not place false confidence in worldly possessions or status, as they offer no real protection in matters of ultimate accountability.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَآ أَغْنَىٰ عَنْهُ",
+          "title_urdu": "جھوٹی حفاظت",
+          "coreInsight_urdu": "ابو لہب اپنی حفاظت کے لیے اپنی دولت اور حیثیت پر انحصار کرتا تھا، لیکن الہی انصاف کا سامنا کرتے وقت کوئی پناہ نہیں ملی۔ مادی طاقت حفاظت کا وہم پیدا کرتی ہے۔",
+          "whyItMatters_urdu": "ہمیں دنیوی املاک یا حیثیت پر جھوٹا اعتماد نہیں رکھنا چاہیے، کیونکہ وہ حتمی جوابدہی کے معاملات میں کوئی حقیقی تحفظ فراہم نہیں کرتے۔",
+          "title_ar": "الأمن الزائف",
+          "coreInsight_ar": "اعتمد أبو لهب على ثروته ومكانته للأمن، لكنه لم يجد ملجأ عند مواجهة العدالة الإلهية. القوة المادية تخلق وهم الحماية.",
+          "whyItMatters_ar": "يجب ألا نضع ثقة زائفة في الممتلكات الدنيوية أو المكانة، لأنها لا توفر حماية حقيقية في أمور المساءلة النهائية."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys unanimous interpretation across Shia and Sunni scholarship, with all classical commentators agreeing on its essential meaning and message. Ibn Kathir, Qurtubi, and Tabari in the Sunni tradition emphasize the same points found in Shia sources: that Abu Lahab's wealth provided no protection from divine punishment and that material resources are worthless without faith. Fakhr al-Din al-Razi adds philosophical depth, discussing how wealth creates illusions of power and independence that ultimately prove false. Both traditions cite similar hadith about the dangers of wealth and the importance of using resources righteously. The consensus spans theological and practical dimensions: wealth is not evil in itself, but becomes problematic when it leads to arrogance, injustice, or distraction from divine remembrance. Where Shia and Sunni exegesis might differ in emphasis is in the application to Islamic history. Shia scholars often connect this verse to later conflicts where economic interests motivated opposition to the Ahlul Bayt, particularly during the Umayyad period, seeing Abu Lahab as the prototype of those who prioritized worldly gain over spiritual truth. Sunni scholars tend to focus more on the individual moral lesson without extending it to later historical controversies. However, both traditions absolutely agree on the core message: that accountability transcends economic status, that wealth requires moral stewardship, and that ultimate security comes only through faith and righteousness, not through material accumulation.",
+    "layer4_urdu": "یہ آیت شیعہ اور سنی علم دونوں میں متفقہ تشریح سے لطف اندوز ہوتی ہے، تمام کلاسیکی مفسرین اس کے لازمی معنی اور پیغام پر متفق ہیں۔ ابن کثیر، قرطبی، اور طبری سنی روایت میں شیعہ ذرائع میں پائے جانے والے نکات پر زور دیتے ہیں: کہ ابو لہب کی دولت نے الہی عذاب سے کوئی تحفظ فراہم نہیں کیا اور مادی وسائل ایمان کے بغیر بیکار ہیں۔ فخر الدین رازی فلسفیانہ گہرائی شامل کرتے ہیں، اس بات پر بحث کرتے ہوئے کہ کس طرح دولت طاقت اور آزادی کے فریب پیدا کرتی ہے جو بالآخر جھوٹے ثابت ہوتے ہیں۔ دونوں روایات دولت کے خطرات اور وسائل کو راستبازی سے استعمال کرنے کی اہمیت کے بارے میں اسی طرح کی احادیث کا حوالہ دیتی ہیں۔ اتفاق رائے مذہبی اور عملی جہتوں میں پھیلا ہوا ہے: دولت خود برائی نہیں ہے، لیکن مسئلہ بن جاتی ہے جب وہ تکبر، ناانصافی، یا الہی یاد سے پریشانی کی طرف لے جائے۔ جہاں شیعہ اور سنی تفسیر زور میں مختلف ہو سکتی ہے وہ اسلامی تاریخ میں اطلاق میں ہے۔ شیعہ علماء اکثر اس آیت کو بعد کے تنازعات سے جوڑتے ہیں جہاں اقتصادی مفادات نے اہل بیت کی مخالفت کو محرک بنایا، خاص طور پر اموی دور میں، ابو لہب کو ان لوگوں کے پیش رو کے طور پر دیکھتے ہوئے جنہوں نے دنیوی فائدے کو روحانی حق سے زیادہ ترجیح دی۔ سنی علماء بعد کے تاریخی تنازعات تک اسے بڑھائے بغیر انفرادی اخلاقی سبق پر زیادہ توجہ مرکوز کرتے ہیں۔ تاہم، دونوں روایات بنیادی پیغام پر مکمل طور پر متفق ہیں: کہ جواب دہی اقتصادی حیثیت سے بالاتر ہے، کہ دولت اخلاقی نگہبانی کی ضرورت ہے، اور حتمی سیکیورٹی صرف ایمان اور راستبازی کے ذریعے آتی ہے، مادی جمع کے ذریعے نہیں۔",
+    "layer4_ar": "تحظى هذه الآية بتفسير إجماعي عبر التراثين الشيعي والسني، إذ يتفق المفسرون الكلاسيكيون في التراثين على معناها الجوهري ورسالتها. فابن كثير والقرطبي والطبري في التراث السني يُؤكِّدون ما تُؤكِّده المصادر الشيعية: أن مال أبي لهب لم يُوفِّر له وقاية من العذاب الإلهي وأن الموارد المادية بلا إيمان لا قيمة لها. ويُضيف فخر الدين الرازي عمقاً فلسفياً بمناقشة وهم القوة والاستقلال الذي تُولِّده الثروة وما يتبيَّن من كذبه في نهاية المطاف. ويُورد التراثان أحاديث مماثلة عن مخاطر الثروة وأهمية توظيف الموارد في سبيل الصلاح. والإجماع يمتد على امتداد الأبعاد العقدية والعملية: الثروة ليست شراً في ذاتها، لكنها تستحيل مشكلة حين تُفضي إلى الكبر أو الجور أو الغفلة عن ذكر الله. وقد يتمايز التفسيران الشيعي والسني في التطبيق دون التفسير؛ إذ يُوصل العلماء الشيعة كثيراً هذه الآية بصراعات تاريخية لاحقة حيث دفعت المصالح الاقتصادية أصحابها إلى معارضة أهل البيت عليهم السلام لا سيما في العهد الأموي، ناظرين إلى أبي لهب باعتباره النموذج الأول لمن آثروا المكاسب الدنيوية على الحق الروحي. وعلماء السنة يميلون إلى التركيز على الدرس الأخلاقي الفردي دون امتداد إلى الخلافات التاريخية اللاحقة. وكلا التراثين يتفقان تمام الاتفاق على الرسالة الجوهرية: المساءلة تسمو فوق الوضع الاقتصادي، والثروة تستلزم الاستئمان الأخلاقي، والأمان الحقيقي لا يتأتى إلا من الإيمان والتقوى لا من تكديس المال."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "111:3:blazing-fire",
+          "title": "Blazing Fire",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The 'naran dhat lahab' (fire of blazing flame) is a direct wordplay on Abu Lahab's name - he who was called 'father of flame' will burn in flames, a fitting divine irony.",
+          "whyItMatters": "This demonstrates divine justice in its most poetic form - what one gloried in (the nickname 'flame') becomes the instrument of punishment.",
+          "position": "topLeft",
+          "arabicHighlight": "نَارًۭا ذَاتَ لَهَبٍۢ",
+          "title_urdu": "بھڑکتی آگ",
+          "coreInsight_urdu": "'نارا ذات لہب' (بھڑکتے شعلے کی آگ) ابو لہب کے نام پر براہ راست لفظی کھیل ہے - جسے 'شعلے کا باپ' کہا جاتا تھا وہ شعلوں میں جلے گا، ایک موزوں الہی ستم ظریفی۔",
+          "whyItMatters_urdu": "یہ الہی انصاف کو اس کی سب سے شاعرانہ شکل میں ظاہر کرتا ہے - جس چیز پر کوئی فخر کرتا تھا (لقب 'شعلہ') وہی سزا کا آلہ بن جاتی ہے۔",
+          "title_ar": "النار المتلهبة",
+          "coreInsight_ar": "'نارًا ذات لهب' (نار ذات لهيب) هي لعبة مباشرة على اسم أبي لهب - من كان يُدعى 'أبا اللهب' سيحترق في اللهب، سخرية إلهية مناسبة.",
+          "whyItMatters_ar": "هذا يوضح العدالة الإلهية في شكلها الأكثر شعرية - ما تمجد به المرء (اللقب 'لهب') يصبح أداة العقاب."
+        },
+        {
+          "id": "111:3:certain-destiny",
+          "title": "Certain Destiny",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The future tense 'sayaslaa' (he will burn) spoken in the past during his lifetime was a bold prophecy that came true - he died without accepting Islam.",
+          "whyItMatters": "This proves the Quran's divine origin, as it confidently predicted the unchangeable fate of someone still alive, and history confirmed it.",
+          "position": "topRight",
+          "arabicHighlight": "سَيَصْلَىٰ",
+          "title_urdu": "یقینی تقدیر",
+          "coreInsight_urdu": "مستقبل کا صیغہ 'سیصلی' (وہ جلے گا) جو ان کی زندگی میں ماضی میں کہا گیا ایک جرأت مندانہ پیشین گوئی تھی جو سچ ثابت ہوئی - وہ اسلام قبول کیے بغیر مر گیا۔",
+          "whyItMatters_urdu": "یہ قرآن کی الہی ماخذ کو ثابت کرتا ہے، کیونکہ اس نے اعتماد سے ایک زندہ شخص کی ناقابل تبدیل قسمت کی پیشین گوئی کی، اور تاریخ نے اس کی تصدیق کی۔",
+          "title_ar": "المصير المحتوم",
+          "coreInsight_ar": "الفعل المستقبلي 'سيصلى' (سيحترق) الذي قيل في الماضي خلال حياته كان نبوءة جريئة تحققت - مات دون قبول الإسلام.",
+          "whyItMatters_ar": "هذا يثبت الأصل الإلهي للقرآن، حيث تنبأ بثقة بمصير شخص لا يزال على قيد الحياة لا يمكن تغييره، والتاريخ أكده."
+        },
+        {
+          "id": "111:3:eternal-punishment",
+          "title": "Eternal Torment",
+          "icon": "infinity",
+          "colorHex": "#E57373",
+          "coreInsight": "The description of entering and burning in the fire signifies not just punishment, but continuous, eternal suffering for active opposition to the Prophet and persecution of early Muslims.",
+          "whyItMatters": "This emphasizes the severity of persecuting believers and actively working against divine guidance - such actions have eternal consequences.",
+          "position": "bottomLeft",
+          "arabicHighlight": "سَيَصْلَىٰ نَارًۭا",
+          "title_urdu": "ابدی عذاب",
+          "coreInsight_urdu": "آگ میں داخل ہونے اور جلنے کی تفصیل صرف سزا نہیں بلکہ نبی کی فعال مخالفت اور ابتدائی مسلمانوں پر ظلم کے لیے مسلسل، ابدی تکلیف کی نشاندہی کرتی ہے۔",
+          "whyItMatters_urdu": "یہ مومنین پر ظلم اور الہی رہنمائی کے خلاف فعال طور پر کام کرنے کی شدت پر زور دیتا ہے - ایسے اعمال کے ابدی نتائج ہیں۔",
+          "title_ar": "العذاب الأبدي",
+          "coreInsight_ar": "وصف الدخول والاحتراق في النار لا يدل على العقاب فحسب، بل على المعاناة المستمرة الأبدية للمعارضة النشطة للنبي واضطهاد المسلمين الأوائل.",
+          "whyItMatters_ar": "هذا يؤكد على خطورة اضطهاد المؤمنين والعمل بنشاط ضد الهداية الإلهية - هذه الأفعال لها عواقب أبدية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree completely on the interpretation of this verse, with classical and contemporary commentators across both traditions confirming that it describes Abu Lahab's punishment in hellfire using imagery that ironically connects to his name. Ibn Kathir provides extensive hadith about the nature of hellfire and confirms that 'dhat lahabin' indicates flames of intense heat without smoke. Qurtubi discusses the grammatical structure and rhetorical power of the phrase. Tabari provides historical context about Abu Lahab's persecution of Muslims and how this verse was received in Mecca. Fakhr al-Din al-Razi adds philosophical reflection on divine justice and the relationship between worldly actions and otherworldly consequences. The consensus is complete regarding both the literal meaning and the theological implications: that divine punishment is real, that it is just, and that worldly status provides no immunity from accountability. Both traditions emphasize that this verse is not celebrating punishment but demonstrating the seriousness of moral choice and the certainty of divine justice. Where Shia and Sunni scholarship might differ in emphasis is in the broader theological framework. Shia scholars connect this to concepts of divine justice that emphasize human free will and moral responsibility, while some Sunni scholars emphasize divine sovereignty and predestination, though mainstream Sunni theology also affirms human responsibility. However, regarding this specific verse, there is no meaningful difference in interpretation, both traditions see it as a clear statement of Abu Lahab's fate resulting from his persistent, informed rejection of truth and his active persecution of believers and the Prophet himself.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس آیت کی تشریح پر مکمل طور پر متفق ہیں، دونوں روایات میں کلاسیکی اور معاصر مفسرین تصدیق کرتے ہوئے کہ یہ جہنم کی آگ میں ابو لہب کی سزا بیان کرتی ہے، ایسی تصویری زبان استعمال کرتے ہوئے جو ستم ظریفی سے ان کے نام سے جڑتی ہے۔ ابن کثیر جہنم کی آگ کی نوعیت کے بارے میں وسیع احادیث فراہم کرتے ہیں اور تصدیق کرتے ہیں کہ \"ذات لہب\" دھوئیں کے بغیر شدید گرمی کے شعلوں کی نشاندہی کرتا ہے۔ قرطبی گرامر کی ساخت اور جملے کی بلاغتی طاقت پر بحث کرتے ہیں۔ طبری ابو لہب کے مسلمانوں پر ظلم اور یہ آیت مکہ میں کیسے وصول ہوئی کے بارے میں تاریخی سیاق و سباق فراہم کرتے ہیں۔ فخر الدین رازی الہی انصاف اور دنیوی اعمال اور اخروی نتائج کے درمیان تعلق پر فلسفیانہ غور و فکر شامل کرتے ہیں۔ لفظی معنی اور مذہبی مضمرات دونوں کے حوالے سے اتفاق مکمل ہے: کہ الہی سزا حقیقی ہے، کہ یہ منصفانہ ہے، اور دنیوی حیثیت احتساب سے استثنیٰ فراہم نہیں کرتی۔ دونوں روایات زور دیتی ہیں کہ یہ آیت سزا کا جشن نہیں منا رہی بلکہ اخلاقی انتخاب کی سنجیدگی اور الہی انصاف کی یقینی کا مظاہرہ کر رہی ہے۔ جہاں شیعہ اور سنی علم زور میں مختلف ہو سکتی ہے وہ وسیع تر مذہبی فریم ورک میں ہے۔ شیعہ علماء اسے الہی انصاف کے تصورات سے جوڑتے ہیں جو انسانی آزاد مرضی اور اخلاقی ذمہ داری پر زور دیتے ہیں، جبکہ کچھ سنی علماء الہی خودمختاری اور تقدیر پر زور دیتے ہیں، حالانکہ مرکزی دھارے کی سنی الہیات بھی انسانی ذمہ داری کی تصدیق کرتی ہے۔ تاہم، اس مخصوص آیت کے حوالے سے، تشریح میں کوئی معنی خیز فرق نہیں ہے، دونوں روایات اسے ابو لہب کی قسمت کا واضح بیان کے طور پر دیکھتی ہیں جو ان کی مسلسل، باخبر حق کی مسترد اور مومنوں اور نبی خود کے فعال ظلم کا نتیجہ ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة اتفاقاً تاماً على تفسير هذه الآية؛ فالمفسرون الكلاسيكيون والمعاصرون في التراثين يُؤكِّدون أنها تصف عذاب أبي لهب في نار الجحيم بصور تربط جناسياً باسمه. ويورد ابن كثير أحاديث مفصَّلة حول طبيعة الجحيم ويُؤكِّد أن \"ذَاتَ لَهَبٍ\" تدل على نار أجيجها شديد دون دخان. ويستكشف القرطبي البنية النحوية والقوة البلاغية للعبارة. ويورد الطبري السياق التاريخي لاضطهاد أبي لهب للمسلمين وكيف تُلقِّيت هذه الآية في مكة المكرمة. ويُضيف فخر الدين الرازي تأمُّلاً فلسفياً في العدل الإلهي والعلاقة بين الأعمال الدنيوية والجزاء الأخروي. والإجماع تام على المعنى الحرفي والدلالات العقدية: العذاب الإلهي حق، وهو عادل، ولا تُوفِّر المكانة الدنيوية حصانة من المساءلة. ويُشدِّد التراثان على أن هذه الآية ليست احتفاءً بالعذاب بل كشفاً عن جدية الاختيار الأخلاقي ويقين العدل الإلهي. وقد يتمايز التراثان الشيعي والسني في الإطار العقدي الشامل؛ إذ يربط علماء الشيعة هذا الموضوع بمفاهيم العدل الإلهي المُؤكِّدة لحرية الإرادة البشرية والمسؤولية الأخلاقية، بينما يُؤكِّد بعض علماء السنة السيادة الإلهية والقدر، وإن كانت عمدة الفقه السني تُثبت المسؤولية البشرية أيضاً. وفيما يتعلق بهذه الآية تحديداً لا خلاف يُذكر بين التراثين، فكلاهما يراها إعلاناً صريحاً عن مصير أبي لهب المتأتي من رفضه المتعمَّد الواعي للحق ومن اضطهاده الفعلي للمؤمنين والنبي الكريم."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "111:4:wife-accomplice",
+          "title": "Partner in Sin",
+          "icon": "person.2.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Abu Lahab's wife, Umm Jamil (Arwa bint Harb), actively participated in opposing the Prophet, placing thorns on his path and spreading slander. She shares his punishment equally.",
+          "whyItMatters": "This demonstrates individual accountability - each person faces consequences for their own actions, and supporting injustice makes one complicit in it.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱمْرَأَتُهُۥ",
+          "title_urdu": "گناہ میں شریک",
+          "coreInsight_urdu": "ابو لہب کی بیوی، ام جمیل (اروی بنت حرب)، نبی کی مخالفت میں فعال طور پر حصہ لیتی تھی، ان کے راستے میں کانٹے رکھتی اور بہتان پھیلاتی تھی۔ وہ اس کی سزا میں برابر کی شریک ہے۔",
+          "whyItMatters_urdu": "یہ انفرادی جوابدہی کو ظاہر کرتا ہے - ہر شخص اپنے اعمال کے نتائج کا سامنا کرتا ہے، اور ظلم کی حمایت کرنا کسی کو اس میں شریک بناتا ہے۔",
+          "title_ar": "شريكة في الإثم",
+          "coreInsight_ar": "شاركت زوجة أبي لهب، أم جميل (أروى بنت حرب)، بنشاط في معارضة النبي، بوضع الشوك في طريقه ونشر الافتراء. تشاركه عقابه بالتساوي.",
+          "whyItMatters_ar": "هذا يوضح المساءلة الفردية - كل شخص يواجه عواقب أفعاله الخاصة، ودعم الظلم يجعل المرء متواطئًا فيه."
+        },
+        {
+          "id": "111:4:firewood-carrier",
+          "title": "Wood Carrier",
+          "icon": "figure.walk.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Hammalat al-hatab' (carrier of firewood) has multiple meanings: she carried thorny branches to harm the Prophet, and now carries fuel for her own eternal fire - a perfect poetic justice.",
+          "whyItMatters": "This shows how our harmful actions against others ultimately become the means of our own destruction - what we intend for others returns to us.",
+          "position": "topRight",
+          "arabicHighlight": "حَمَّالَةَ ٱلْحَطَبِ",
+          "title_urdu": "لکڑی اٹھانے والی",
+          "coreInsight_urdu": "'حمالۃ الحطب' (لکڑی اٹھانے والی) کے کئی معنی ہیں: وہ نبی کو نقصان پہنچانے کے لیے کانٹے دار شاخیں اٹھاتی تھی، اور اب اپنی ابدی آگ کے لیے ایندھن اٹھاتی ہے - ایک کامل شاعرانہ انصاف۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ کس طرح دوسروں کے خلاف ہمارے نقصان دہ اعمال بالآخر ہماری اپنی تباہی کا ذریعہ بن جاتے ہیں - جو ہم دوسروں کے لیے چاہتے ہیں وہ ہمارے پاس واپس آتا ہے۔",
+          "title_ar": "حمالة الحطب",
+          "coreInsight_ar": "'حمالة الحطب' له معاني متعددة: كانت تحمل الأغصان الشائكة لإيذاء النبي، والآن تحمل وقودًا لنارها الأبدية - عدالة شعرية مثالية.",
+          "whyItMatters_ar": "هذا يوضح كيف أن أفعالنا الضارة ضد الآخرين تصبح في النهاية وسيلة لدمارنا - ما نقصده للآخرين يعود إلينا."
+        },
+        {
+          "id": "111:4:active-persecution",
+          "title": "Active Harm",
+          "icon": "hand.raised.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Umm Jamil didn't just passively support her husband - she actively spread slander (gossip and lies) about the Prophet and physically placed obstacles in his path at night.",
+          "whyItMatters": "This warns that passive support of evil is bad, but active participation in harming the righteous brings severe divine punishment.",
+          "position": "bottomLeft",
+          "arabicHighlight": "حَمَّالَةَ",
+          "title_urdu": "فعال نقصان",
+          "coreInsight_urdu": "ام جمیل نے صرف اپنے شوہر کی غیر فعال حمایت نہیں کی - اس نے فعال طور پر نبی کے بارے میں بہتان (غیبت اور جھوٹ) پھیلائے اور رات کو جسمانی طور پر ان کے راستے میں رکاوٹیں رکھیں۔",
+          "whyItMatters_urdu": "یہ خبردار کرتا ہے کہ برائی کی غیر فعال حمایت بری ہے، لیکن صالحین کو نقصان پہنچانے میں فعال شرکت سخت الہی سزا لاتی ہے۔",
+          "title_ar": "الضرر النشط",
+          "coreInsight_ar": "لم تدعم أم جميل زوجها بشكل سلبي فقط - بل نشرت الافتراء (الغيبة والأكاذيب) بنشاط عن النبي ووضعت عقبات مادية في طريقه ليلاً.",
+          "whyItMatters_ar": "هذا يحذر من أن الدعم السلبي للشر سيئ، لكن المشاركة النشطة في إيذاء الصالحين تجلب عقابًا إلهيًا شديدًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse, with classical commentators across both traditions confirming that it refers to Abu Lahab's wife Umm Jamil and her active opposition to the Prophet. Ibn Kathir reports the same narratives about her scattering thorns and spreading slander. Qurtubi discusses both literal and metaphorical interpretations of 'hammalat al-hatab', as do Shia sources. Tabari confirms her identity as the sister of Abu Sufyan and provides similar historical context. Where there are slight differences is in the emphasis and details. Sunni sources like Ibn Kathir emphasize the miraculous nature of the incident where she came to attack the Prophet but couldn't see him despite his physical presence, demonstrating divine protection. Shia sources while mentioning this incident also emphasize the theological principle of individual accountability and the symbolism of actions defining identity. Both traditions cite Ibn Abbas extensively regarding the interpretation of this verse. The scholarly consensus spans both traditions on key points: that Umm Jamil was a fierce opponent of Islam, that she used her influence to harm the Muslim community, that the description 'carrier of firewood' captures both her literal actions and her metaphorical role in fueling conflict, and that she faces punishment for her free choices despite her social status. The minor differences are in narrative details and emphases rather than core interpretation, making this verse another example of substantial agreement across Shia and Sunni tafsir traditions in understanding this condemnation of active opposition to prophetic mission.",
+    "layer4_urdu": "شیعہ اور سنی علماء دونوں اس آیت کی بنیادی تشریح پر متفق ہیں، دونوں روایات میں کلاسیکی مفسرین تصدیق کرتے ہوئے کہ یہ ابو لہب کی بیوی ام جمیل اور نبی کے خلاف ان کی فعال مخالفت کا حوالہ دیتی ہے۔ ابن کثیر کانٹے بکھیرنے اور تہمت پھیلانے کے بارے میں اسی روایات کی رپورٹ کرتے ہیں۔ قرطبی \"حمالۃ الحطب\" کی لفظی اور استعاراتی دونوں تشریحات پر بحث کرتے ہیں، جیسا کہ شیعہ ذرائع کرتے ہیں۔ طبری ان کی شناخت کی تصدیق کرتے ہیں بطور ابو سفیان کی بہن اور اسی طرح کا تاریخی سیاق و سباق فراہم کرتے ہیں۔ جہاں معمولی فرق ہیں وہ زور اور تفصیلات میں ہیں۔ ابن کثیر جیسے سنی ذرائع اس واقعے کی معجزانہ نوعیت پر زور دیتے ہیں جہاں وہ نبی پر حملہ کرنے آئیں لیکن ان کی جسمانی موجودگی کے باوجود انہیں نہیں دیکھ سکیں، الہی حفاظت کا مظاہرہ کرتے ہوئے۔ شیعہ ذرائع اس واقعے کا ذکر کرتے ہوئے انفرادی احتساب اور اعمال کی شناخت کی تعریف کرنے کی علامت کے مذہبی اصول پر بھی زور دیتے ہیں۔ دونوں روایات اس آیت کی تشریح کے حوالے سے ابن عباس کو بڑے پیمانے پر حوالہ دیتی ہیں۔ علمی اجماع دونوں روایات میں کلیدی نکات پر پھیلا ہوا ہے: کہ ام جمیل اسلام کی شدید مخالف تھیں، کہ انہوں نے اپنا اثر و رسوخ مسلم کمیونٹی کو نقصان پہنچانے کے لیے استعمال کیا، کہ وصف \"لکڑی کی لے جانے والی\" ان کے لفظی اعمال اور تنازعہ کو ہوا دینے میں ان کے استعاراتی کردار دونوں کو پکڑتا ہے، اور وہ اپنے سماجی حیثیت کے باوجود اپنے آزاد انتخاب کے لیے سزا کا سامنا کرتی ہیں۔ معمولی فرق روایتی تفصیلات اور زور میں ہیں نہ کہ بنیادی تشریح میں، جو اس آیت کو نبوی مشن کی فعال مخالفت کی مذمت میں شیعہ اور سنی تفسیری روایات میں کافی معاہدے کی ایک اور مثال بناتا ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية، إذ يُؤكِّد المفسرون الكلاسيكيون في التراثين أنها تُشير إلى زوجة أبي لهب أم جميل وما بذلته من جهود حثيثة في معارضة النبي. فابن كثير يُورد الروايات ذاتها عن نثرها الأشواك ونشرها الفتن والأكاذيب. والقرطبي يناقش التفسيرين الحرفي والمجازي لـ\"حَمَّالَةَ الْحَطَبِ\" وكذلك المصادر الشيعية. والطبري يُؤكِّد كونها أخت أبي سفيان ويورد سياقاً تاريخياً مماثلاً. وتبرز فوارق طفيفة في التركيز والتفاصيل؛ فالمصادر السنية كابن كثير تُؤكِّد الطابع المعجزي لحادثة مجيئها للاعتداء على النبي وعجزها عن رؤيته رغم جلوسه أمامها، دليلاً على الحماية الإلهية. أما المصادر الشيعية فتُورد هذه الحادثة وتُضيف إليها التركيز على المبدأ العقدي للمساءلة الفردية ورمزية الأعمال المحدِّدة للهوية. ويعتمد التراثان على ابن عباس اعتماداً كبيراً في تفسير هذه الآية. والإجماع العلمي في التراثين على نقاط جوهرية: أن أم جميل كانت من أشد معارضي الإسلام، وأنها وظَّفت نفوذها لأذى الجماعة المسلمة، وأن عبارة \"حاملة الحطب\" تُعبِّر عن أفعالها الحرفية ودورها المجازي في تأجيج الصراع معاً، وأنها تلقَّت جزاءها على اختياراتها الحرة رغم مكانتها الاجتماعية. والفوارق الجزئية تتعلق بتفاصيل الروايات والتركيزات لا بجوهر التفسير، مما يجعل هذه الآية نموذجاً آخر للتوافق الواسع بين التراثين الشيعي والسني في فهم إدانة الخصومة الفعلية للرسالة النبوية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "111:5:rope-of-fiber",
+          "title": "Twisted Rope",
+          "icon": "link.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The 'habl min masad' (rope of twisted fiber) around her neck symbolizes eternal bondage and humiliation - she who wore expensive jewelry will wear a collar of fire.",
+          "whyItMatters": "This demonstrates how worldly pride and vanity are replaced with ultimate humiliation for those who harm Allah's messengers and believers.",
+          "position": "topLeft",
+          "arabicHighlight": "حَبْلٌۭ مِّن مَّسَدٍۭ",
+          "title_urdu": "بٹی ہوئی رسی",
+          "coreInsight_urdu": "'حبل من مسد' (بٹے ہوئے ریشے کی رسی) اس کی گردن میں ابدی غلامی اور ذلت کی علامت ہے - وہ جو مہنگے زیورات پہنتی تھی آگ کا طوق پہنے گی۔",
+          "whyItMatters_urdu": "یہ ظاہر کرتا ہے کہ کس طرح دنیوی فخر اور غرور کو حتمی ذلت سے بدل دیا جاتا ہے ان لوگوں کے لیے جو اللہ کے رسولوں اور مومنین کو نقصان پہنچاتے ہیں۔",
+          "title_ar": "الحبل المجدول",
+          "coreInsight_ar": "'حبل من مسد' (حبل من ليف ملتوي) حول رقبتها يرمز إلى العبودية الأبدية والإذلال - التي كانت ترتدي المجوهرات الثمينة سترتدي طوق من نار.",
+          "whyItMatters_ar": "هذا يوضح كيف يتم استبدال الكبرياء والغرور الدنيويين بالإذلال النهائي لأولئك الذين يؤذون رسل الله والمؤمنين."
+        },
+        {
+          "id": "111:5:neck-symbolism",
+          "title": "Neck Punishment",
+          "icon": "circle.slash.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The neck (jeed) represents pride and bearing - punishment around the neck signifies the breaking of arrogance and forced submission to divine justice.",
+          "whyItMatters": "This teaches that those who lift their necks in arrogance against truth will have them bound in humiliation in the hereafter.",
+          "position": "topRight",
+          "arabicHighlight": "فِى جِيدِهَا",
+          "title_urdu": "گردن کی سزا",
+          "coreInsight_urdu": "گردن (جید) فخر اور برداشت کی نمائندگی کرتی ہے - گردن کے گرد سزا تکبر کو توڑنے اور الہی انصاف کے سامنے جبری تسلیم کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ سکھاتا ہے کہ جو لوگ حق کے خلاف تکبر میں اپنی گردنیں اٹھاتے ہیں ان کی گردنیں آخرت میں ذلت میں بندھیں گی۔",
+          "title_ar": "عقوبة الرقبة",
+          "coreInsight_ar": "الرقبة (جيد) تمثل الكبرياء والكرامة - العقوبة حول الرقبة تدل على كسر الغطرسة والخضوع القسري للعدالة الإلهية.",
+          "whyItMatters_ar": "هذا يعلم أن أولئك الذين يرفعون أعناقهم في غطرسة ضد الحق سيتم تقييدها في الذل في الآخرة."
+        },
+        {
+          "id": "111:5:eternal-binding",
+          "title": "Eternal Chains",
+          "icon": "lock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The rope is not temporary - it represents eternal restraint and suffering. She who bound herself to evil in life remains bound in the afterlife.",
+          "whyItMatters": "Our choices in this life create permanent consequences - binding ourselves to sin in this world means eternal binding in the next.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فِى جِيدِهَا حَبْلٌۭ",
+          "title_urdu": "ابدی زنجیریں",
+          "coreInsight_urdu": "رسی عارضی نہیں ہے - یہ ابدی پابندی اور تکلیف کی نمائندگی کرتی ہے۔ وہ جو زندگی میں برائی سے خود کو باندھتی تھی آخرت میں بندھی رہتی ہے۔",
+          "whyItMatters_urdu": "اس دنیا میں ہمارے انتخابات مستقل نتائج پیدا کرتے ہیں - اس دنیا میں خود کو گناہ سے باندھنا اگلی دنیا میں ابدی بندھن کا مطلب ہے۔",
+          "title_ar": "السلاسل الأبدية",
+          "coreInsight_ar": "الحبل ليس مؤقتًا - إنه يمثل القيد والمعاناة الأبديين. هي التي قيدت نفسها بالشر في الحياة تبقى مقيدة في الآخرة.",
+          "whyItMatters_ar": "اختياراتنا في هذه الحياة تخلق عواقب دائمة - ربط أنفسنا بالخطيئة في هذا العالم يعني الارتباط الأبدي في العالم التالي."
+        },
+        {
+          "id": "111:5:divine-irony",
+          "title": "Perfect Justice",
+          "icon": "scale.3d",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The surah ends with poetic irony - the wealthy couple's pride, jewelry, and status are replaced with fire, rope, and eternal humiliation. Divine justice is precisely fitting.",
+          "whyItMatters": "This final image reminds us that Allah's punishment is never arbitrary but perfectly suited to the crime - those who oppress will be oppressed.",
+          "position": "bottomRight",
+          "arabicHighlight": "مِّن مَّسَدٍۭ",
+          "title_urdu": "کامل انصاف",
+          "coreInsight_urdu": "سورہ شاعرانہ ستم ظریفی کے ساتھ ختم ہوتی ہے - دولت مند جوڑے کے فخر، زیورات، اور حیثیت کو آگ، رسی، اور ابدی ذلت سے بدل دیا جاتا ہے۔ الہی انصاف بالکل موزوں ہے۔",
+          "whyItMatters_urdu": "یہ آخری تصویر ہمیں یاد دلاتی ہے کہ اللہ کی سزا کبھی من مانی نہیں ہوتی بلکہ جرم کے بالکل موزوں ہوتی ہے - جو لوگ ظلم کرتے ہیں ان پر ظلم کیا جائے گا۔",
+          "title_ar": "العدالة المثالية",
+          "coreInsight_ar": "تنتهي السورة بسخرية شعرية - يتم استبدال فخر الزوجين الأثرياء والمجوهرات والمكانة بالنار والحبل والإذلال الأبدي. العدالة الإلهية مناسبة تمامًا.",
+          "whyItMatters_ar": "هذه الصورة الأخيرة تذكرنا بأن عقاب الله ليس تعسفيًا أبدًا ولكنه مناسب تمامًا للجريمة - أولئك الذين يظلمون سيُظلمون."
+        }
+      ]
+    },
+    "layer4": "This verse enjoys complete consensus in interpretation across Shia and Sunni scholarship, with all classical commentators agreeing it describes a rope of coarse fiber around Umm Jamil's neck in hellfire. Ibn Kathir provides similar details about the meaning of 'masad' and discusses the irony of the wealthy aristocrat being bound with the roughest rope. Qurtubi explores the grammatical structure and confirms the interpretation of 'jid' as neck and 'hablun min masad' as twisted palm fiber rope. Tabari provides historical context about Umm Jamil's character and actions that led to this punishment. Fakhr al-Din al-Razi discusses the rhetorical brilliance of the surah's conclusion and how the imagery creates a complete picture of retributive justice. Both Shia and Sunni traditions report similar narrations about Umm Jamil's expensive necklace which she vowed to sell to finance opposition to the Prophet, making the rope around her neck a deliberate reversal. The consensus extends to the theological implications: that divine punishment is just, specific, and meaningful, that worldly status provides no immunity from accountability, and that those who use their advantages to harm others will find those very advantages transformed into instruments of punishment. Minor differences exist in narrative details, some Sunni sources emphasize the miraculous protective element when she came to harm the Prophet but couldn't see him, while Shia sources emphasize the lessons about Wilayah and proper use of resources, but these are differences of emphasis rather than interpretation. Both traditions see this verse as a powerful conclusion to a surah that demonstrates divine justice, prophetic vindication, and the certainty that oppressors will face comprehensive accountability regardless of their worldly power, wealth, or status.",
+    "layer4_urdu": "یہ آیت شیعہ اور سنی علم میں تشریح میں مکمل اتفاق رائے سے لطف اندوز ہوتی ہے، تمام کلاسیکی مفسرین متفق ہیں کہ یہ جہنم میں ام جمیل کی گردن میں کھردرے ریشے کی رسی بیان کرتی ہے۔ ابن کثیر \"مسد\" کے معنی کے بارے میں اسی طرح کی تفصیلات فراہم کرتے ہیں اور امیر اشرافیہ کو کھردری رسی سے باندھے جانے کی ستم ظریفی پر بحث کرتے ہیں۔ قرطبی گرامر کی ساخت کی تلاش کرتے ہیں اور \"جید\" کو گردن کے طور پر اور \"حبل من مسد\" کو بٹے ہوئے کھجور کے ریشے کی رسی کے طور پر تشریح کی تصدیق کرتے ہیں۔ طبری ام جمیل کے کردار اور ان اعمال کے بارے میں تاریخی سیاق و سباق فراہم کرتے ہیں جو اس سزا کی طرف لے گئے۔ فخر الدین رازی سورہ کے اختتام کی بلاغتی شاندار پر بحث کرتے ہیں اور کس طرح تصویری زبان انتقامی انصاف کی ایک مکمل تصویر بناتی ہے۔ شیعہ اور سنی دونوں روایات ام جمیل کے مہنگے ہار کے بارے میں اسی طرح کی روایات رپورٹ کرتی ہیں جسے انہوں نے نبی کی مخالفت کی مالی معاونت کے لیے فروخت کرنے کی قسم کھائی، جو ان کی گردن میں رسی کو جان بوجھ کر الٹ پھیر بناتا ہے۔ اتفاق رائے مذہبی مضمرات تک پھیلا ہوا ہے: کہ الہی سزا منصفانہ، مخصوص، اور معنی خیز ہے، کہ دنیوی حیثیت احتساب سے استثنیٰ فراہم نہیں کرتی، اور جو لوگ اپنے فوائد کو دوسروں کو نقصان پہنچانے کے لیے استعمال کرتے ہیں وہ پائیں گے کہ وہی فوائد سزا کے آلات میں تبدیل ہو جائیں گے۔ روایتی تفصیلات میں معمولی فرق موجود ہیں، کچھ سنی ذرائع معجزانہ حفاظتی عنصر پر زور دیتے ہیں جب وہ نبی کو نقصان پہنچانے آئیں لیکن انہیں نہیں دیکھ سکیں، جبکہ شیعہ ذرائع ولایت اور وسائل کے صحیح استعمال کے بارے میں سبق پر زور دیتے ہیں، لیکن یہ زور کے فرق ہیں نہ کہ تشریح کے۔ دونوں روایات اس آیت کو ایک طاقتور سورہ کے نتیجے کے طور پر دیکھتی ہیں جو الہی انصاف، نبوی تصدیق، اور یقینی کا مظاہرہ کرتا ہے کہ ظالم ان کی دنیوی طاقت، دولت، یا حیثیت سے قطع نظر جامع احتساب کا سامنا کریں گے۔",
+    "layer4_ar": "تحظى هذه الآية بإجماع تفسيري تام عبر التراثين الشيعي والسني، إذ يتفق المفسرون الكلاسيكيون جميعاً على أنها تصف حبلاً من ليف خشن في عنق أم جميل في الجحيم. ويتناول ابن كثير معنى \"المَسَد\" بتفصيل ويُناقش مفارقة ارتباط الأرستقراطية الثرية بأخشن حبل. ويستكشف القرطبي البنية النحوية ويُؤكِّد تفسير \"الجيد\" بالعنق و\"حَبْلٌ مِّن مَّسَدٍ\" بحبل ليف النخل المفتول. ويُقدِّم الطبري سياقاً تاريخياً عن شخصية أم جميل وأفعالها التي استوجبت هذا العذاب. ويتأمل فخر الدين الرازي في الروعة البلاغية لختام السورة وفي كيفية إرساء الصور صورةً متكاملة لعدل انتقامي. ويُورد التراثان الشيعي والسني روايات مماثلة عن عقد أم جميل الثمين الذي أقسمت أن تبيعه لتموِّل معارضة النبي، مما يجعل الحبل في عنقها انعكاساً متعمَّداً. ويمتد الإجماع إلى الدلالات العقدية: العذاب الإلهي عادل ومحدد وذو معنى، والمكانة الدنيوية لا تُوفِّر حصانة من المساءلة، ومن وظَّف مزاياه في أذى الآخرين سيجد تلك المزايا ذاتها محوَّلةً إلى أدوات عقاب. وتوجد فوارق طفيفة في تفاصيل الروايات: بعض المصادر السنية تُبرز الجانب الإعجازي لعجزها عن رؤية النبي رغم قربه منها، بينما المصادر الشيعية تُؤكِّد دروس الولاية وحُسن توظيف الموارد. لكن هذه التمايزات في التركيز لا في التفسير. ويرى التراثان هذه الآية خاتمةً قوية لسورة تُجلِّي العدل الإلهي وانتصار النبوة ويقينَ أن الظالمين مهما بلغت قوتهم سينالون حساباً شاملاً على أعمالهم."
+  }
+}

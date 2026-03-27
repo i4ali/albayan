@@ -1,0 +1,335 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "113:1:seeking-refuge",
+          "title": "Seeking Refuge",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The command to seek refuge (a'udhu) establishes the foundational Islamic practice of turning to Allah for protection from all forms of evil.",
+          "whyItMatters": "This teaches us that seeking divine protection is the first step in spiritual defense, acknowledging that only Allah can truly safeguard us from harm.",
+          "position": "topLeft",
+          "arabicHighlight": "قُلْ أَعُوذُ",
+          "title_urdu": "پناہ مانگنا",
+          "coreInsight_urdu": "پناہ مانگنے کا حکم (اعوذ) تمام قسم کی برائیوں سے تحفظ کے لیے اللہ کی طرف رجوع کرنے کی بنیادی اسلامی مشق قائم کرتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ الہی تحفظ مانگنا روحانی دفاع میں پہلا قدم ہے، یہ تسلیم کرتے ہوئے کہ صرف اللہ ہی ہمیں نقصان سے بچا سکتا ہے۔",
+          "title_ar": "طلب الملجأ",
+          "coreInsight_ar": "أمر الاستعاذة (أعوذ) يؤسس الممارسة الإسلامية الأساسية للجوء إلى الله للحماية من جميع أشكال الشر.",
+          "whyItMatters_ar": "هذا يعلمنا أن طلب الحماية الإلهية هو الخطوة الأولى في الدفاع الروحي، مع الاعتراف بأن الله وحده يمكنه حقًا حمايتنا من الأذى."
+        },
+        {
+          "id": "113:1:lord-of-daybreak",
+          "title": "Lord of Daybreak",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah is identified as 'Rabb al-Falaq' (Lord of the daybreak), the One who splits darkness with light, symbolizing His power to dispel all forms of darkness—physical, spiritual, and moral.",
+          "whyItMatters": "This attribute reminds us that just as Allah brings dawn after night, He can illuminate our darkest moments with His guidance and mercy.",
+          "position": "topRight",
+          "arabicHighlight": "ُ بِرَبِّ ٱلْفَ",
+          "title_urdu": "صبح کا رب",
+          "coreInsight_urdu": "اللہ کو 'رب الفلق' (صبح کا رب) کے طور پر پہچانا جاتا ہے، وہ جو اندھیرے کو روشنی سے پھاڑتا ہے، جو تمام قسم کی تاریکیوں کو دور کرنے کی اس کی طاقت کی علامت ہے - جسمانی، روحانی، اور اخلاقی۔",
+          "whyItMatters_urdu": "یہ صفت ہمیں یاد دلاتی ہے کہ جیسے اللہ رات کے بعد فجر لاتا ہے، وہ ہماری تاریک ترین لمحات کو اپنی رہنمائی اور رحمت سے روشن کر سکتا ہے۔",
+          "title_ar": "رب الفلق",
+          "coreInsight_ar": "يُعرَّف الله بـ'رب الفلق'، الذي يشق الظلام بالنور، رمزًا لقدرته على تبديد جميع أشكال الظلام - الجسدي والروحي والأخلاقي.",
+          "whyItMatters_ar": "هذه الصفة تذكرنا بأنه كما يجلب الله الفجر بعد الليل، يمكنه أن ينير أحلك لحظاتنا بهدايته ورحمته."
+        },
+        {
+          "id": "113:1:prophetic-command",
+          "title": "Divine Command",
+          "icon": "quote.bubble.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The command 'Qul' (Say) indicates this is revealed speech taught to the Prophet, making this supplication a divinely prescribed formula for protection.",
+          "whyItMatters": "When we recite this surah, we're using Allah's own prescribed words, giving our supplication direct divine authority and power against evil.",
+          "position": "bottomLeft",
+          "arabicHighlight": "قُلْ",
+          "title_urdu": "الہی حکم",
+          "coreInsight_urdu": "حکم 'قل' (کہو) اشارہ کرتا ہے کہ یہ نازل شدہ کلام ہے جو نبی کو سکھایا گیا، یہ دعا حفاظت کے لیے الہی طور پر تجویز کردہ فارمولا بناتا ہے۔",
+          "whyItMatters_urdu": "جب ہم اس سورہ کی تلاوت کرتے ہیں، تو ہم اللہ کے اپنے تجویز کردہ الفاظ استعمال کر رہے ہیں، جو ہماری دعا کو برائی کے خلاف براہ راست الہی اختیار اور طاقت دیتے ہیں۔",
+          "title_ar": "الأمر الإلهي",
+          "coreInsight_ar": "أمر 'قل' يشير إلى أن هذا كلام منزل عُلِّم للنبي، مما يجعل هذا الدعاء صيغة موصوفة إلهيًا للحماية.",
+          "whyItMatters_ar": "عندما نتلو هذه السورة، نستخدم كلمات الله الموصوفة، مما يمنح دعائنا سلطة وقوة إلهية مباشرة ضد الشر."
+        },
+        {
+          "id": "113:1:light-darkness",
+          "title": "Breaking Dawn",
+          "icon": "sunrise.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Al-Falaq literally means 'the splitting' or 'the cleaving,' referring to the moment dawn breaks through darkness, symbolizing hope and renewal.",
+          "whyItMatters": "This imagery teaches us that Allah's protection brings light into our lives, dispelling the darkness of fear, ignorance, and evil with certainty and hope.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْفَلَقِ",
+          "title_urdu": "طلوع فجر",
+          "coreInsight_urdu": "الفلق کا لفظی مطلب ہے 'پھٹنا' یا 'چیرنا'، جو اس لمحے کی طرف اشارہ کرتا ہے جب فجر اندھیرے کو توڑتی ہے، امید اور تجدید کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ تصویر ہمیں سکھاتی ہے کہ اللہ کا تحفظ ہماری زندگیوں میں روشنی لاتا ہے، خوف، جہالت، اور برائی کے اندھیرے کو یقین اور امید سے دور کرتا ہے۔",
+          "title_ar": "انبلاج الفجر",
+          "coreInsight_ar": "الفلق تعني حرفيًا 'الشق' أو 'الفلق'، في إشارة إلى اللحظة التي ينبثق فيها الفجر من خلال الظلام، رمزًا للأمل والتجديد.",
+          "whyItMatters_ar": "هذه الصورة تعلمنا أن حماية الله تجلب النور إلى حياتنا، مبددة ظلام الخوف والجهل والشر باليقين والأمل."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions unanimously recognize the immense spiritual significance of Surah Al-Falaq, though they emphasize different dimensions. Sunni scholars like Ibn Kathir focus extensively on the historical context of these verses being revealed to protect the Prophet from magic worked against him, citing detailed accounts from Sahih Bukhari and Muslim. Shia scholars, while acknowledging this historical context, emphasize the universal and timeless applicability of the verse beyond that specific incident. Fakhr al-Din al-Razi in his tafsir provides extensive linguistic analysis of 'Falaq,' similar to Tabatabai's approach, showing scholarly consensus on the multiplicity of meanings. The major difference emerges in application: Sunni traditions often focus on the protective aspect against specific evils like magic and envy, while Shia scholarship, particularly through the lens of Ahlul Bayt teachings, emphasizes the transformative spiritual dimension of seeking refuge, connecting it to broader concepts of divine friendship and guidance. Qurtubi and Tabrisi both agree that these verses should be recited regularly for protection, though Tabrisi additionally emphasizes their role in spiritual purification. Both traditions stress that the act of seeking refuge must be sincere and accompanied by righteous action, not treated as mere talismanic recitation. The verse represents common ground in Islamic spirituality, demonstrating that protection from evil and turning to Allah in times of need transcends sectarian boundaries.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات بلا اختلاف سورہ الفلق کی عظیم روحانی اہمیت کو تسلیم کرتی ہیں، اگرچہ وہ مختلف پہلوؤں پر زور دیتی ہیں۔ سنی علماء جیسے ابن کثیر ان آیات کے نزول کی تاریخی سیاق و سباق پر بڑے پیمانے پر توجہ مرکوز کرتے ہیں، جو نبی کو جادو سے بچانے کے لیے نازل ہوئیں، صحیح بخاری اور مسلم سے تفصیلی روایات پیش کرتے ہوئے۔ شیعہ علماء، اس تاریخی سیاق و سباق کو تسلیم کرتے ہوئے، آیت کی اس مخصوص واقعے سے آگے عالمگیر اور لازمانی قابل اطلاق پر زور دیتے ہیں۔ فخر الدین رازی اپنی تفسیر میں \"فلق\" کا وسیع لسانی تجزیہ فراہم کرتے ہیں، طباطبائی کے نقطہ نظر سے ملتا جلتا، جو معانی کی کثرت پر علمی اتفاق رائے کو ظاہر کرتا ہے۔ اہم فرق اطلاق میں سامنے آتا ہے: سنی روایات اکثر جادو اور حسد جیسے مخصوص شرور کے خلاف حفاظتی پہلو پر توجہ دیتی ہیں، جبکہ شیعہ اسکالرشپ، خاص طور پر اہل بیت کی تعلیمات کے عینک سے، پناہ طلب کرنے کے تبدیلی والے روحانی پہلو پر زیادہ زور دیتی ہے، اسے الہی دوستی اور رہنمائی کے وسیع تر تصورات سے جوڑتی ہے۔ قرطبی اور طبرسی دونوں اتفاق کرتے ہیں کہ یہ آیات تحفظ کے لیے باقاعدگی سے پڑھی جانی چاہئیں، حالانکہ طبرسی اضافی طور پر روحانی پاکیزگی میں ان کے کردار پر بھی زور دیتے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ پناہ طلب کرنے کا عمل مخلص ہونا چاہیے اور نیک عمل کے ساتھ ہونا چاہیے، محض تعویذ کی طرح پڑھنا نہیں۔ یہ آیت اسلامی روحانیت میں مشترکہ بنیاد کی نمائندگی کرتی ہے، جو ظاہر کرتی ہے کہ شر سے تحفظ اور ضرورت کے وقت اللہ کی طرف رجوع فرقہ وارانہ حدود سے بالاتر ہے۔",
+    "layer4_ar": "يتفق التراثان الشيعي والسني اتفاقاً تاماً على الأهمية الروحية الجليلة لسورة الفلق، وإن تباينت جوانب التركيز. فعلماء السنة كابن كثير يستبسطون في السياق التاريخي لنزول الآيات وقايةً للنبي صلى الله عليه وسلم من سحر أُلقي عليه، مستندين إلى روايات الصحيحين. ويُقرُّ علماء الشيعة بهذا السياق التاريخي غير أنهم يُؤكِّدون الدلالة الكونية الخالدة للآية متجاوزةً ذلك الحادث بعينه. ويقدِّم فخر الدين الرازي في تفسيره تحليلاً لغوياً مستفيضاً لـ«الفلق» يتوازى مع نهج الطباطبائي، مما يكشف عن إجماع علمي على تعدد المعاني. أما الفارق الجوهري فيكمن في التطبيق: إذ يُركِّز التراث السني أكثر على البُعد الوقائي من أشكال الشر المحددة كالسحر والحسد، بينما يُبرز التراث الشيعي بوحي من تعاليم أهل البيت البُعدَ التحويلي الروحي للاستعاذة، رابطاً إياها بمفاهيم الولاية الإلهية والهداية. ويتفق القرطبي والطبرسي على وجوب الإكثار من هذه السورة، غير أن الطبرسي يُضيف دورها في التزكية الروحية. وكلا التراثين يُشدِّد على ضرورة الإخلاص في الاستعاذة مع إرفاقها بالعمل الصالح، رفضاً لمجرد الترديد المسطحي المجرد من المعنى. وتمثِّل الآية أرضيةً مشتركةً في الروحانية الإسلامية تُثبت أن الأمان من الشر والإقبال على الله في أوقات الضيق قيمة جامعة تتخطى الفوارق المذهبية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "113:2:evil-of-creation",
+          "title": "Created Evil",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'sharr ma khalaqa' (evil of what He created) acknowledges that while Allah creates all things, some creations can cause harm through their misuse or nature.",
+          "whyItMatters": "Understanding this distinction helps us recognize that evil arises from the actions of created beings, not from Allah's essence, while still seeking His protection from all harm.",
+          "position": "topLeft",
+          "arabicHighlight": "شَرِّ مَا خَلَق",
+          "title_urdu": "مخلوق کی برائی",
+          "coreInsight_urdu": "جملہ 'شر ما خلق' (جو اس نے پیدا کیا اس کی برائی) تسلیم کرتا ہے کہ جبکہ اللہ تمام چیزیں پیدا کرتا ہے، کچھ مخلوقات اپنے غلط استعمال یا فطرت کے ذریعے نقصان پہنچا سکتی ہیں۔",
+          "whyItMatters_urdu": "اس فرق کو سمجھنا ہمیں پہچاننے میں مدد کرتا ہے کہ برائی مخلوق کے اعمال سے پیدا ہوتی ہے، نہ کہ اللہ کی ذات سے، جبکہ ابھی بھی تمام نقصانات سے اس کی حفاظت مانگتے ہیں۔",
+          "title_ar": "شر المخلوقات",
+          "coreInsight_ar": "عبارة 'شر ما خلق' تقر بأنه بينما يخلق الله كل شيء، فإن بعض المخلوقات يمكن أن تسبب الضرر من خلال سوء استخدامها أو طبيعتها.",
+          "whyItMatters_ar": "فهم هذا التمييز يساعدنا على إدراك أن الشر ينشأ من أفعال المخلوقات، وليس من جوهر الله، بينما لا نزال نسعى لحمايته من كل ضرر."
+        },
+        {
+          "id": "113:2:comprehensive-protection",
+          "title": "Universal Shield",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The general phrase 'ma khalaqa' (what He created) encompasses all possible sources of harm—visible and invisible, known and unknown, physical and spiritual.",
+          "whyItMatters": "This comprehensive protection gives believers confidence that Allah's refuge covers every conceivable threat, even those we cannot identify or understand.",
+          "position": "topRight",
+          "arabicHighlight": "مَا خَلَقَ",
+          "title_urdu": "عالمگیر ڈھال",
+          "coreInsight_urdu": "عام جملہ 'ما خلق' (جو اس نے پیدا کیا) نقصان کے تمام ممکنہ ذرائع کو شامل کرتا ہے - مرئی اور پوشیدہ، معلوم اور نامعلوم، جسمانی اور روحانی۔",
+          "whyItMatters_urdu": "یہ جامع تحفظ مومنین کو اعتماد دیتا ہے کہ اللہ کی پناہ ہر ممکنہ خطرے کو محیط ہے، یہاں تک کہ وہ جو ہم شناخت یا سمجھ نہیں سکتے۔",
+          "title_ar": "الدرع الشامل",
+          "coreInsight_ar": "العبارة العامة 'ما خلق' تشمل جميع مصادر الضرر المحتملة - المرئية والخفية، المعروفة والمجهولة، المادية والروحية.",
+          "whyItMatters_ar": "هذه الحماية الشاملة تعطي المؤمنين الثقة بأن ملجأ الله يغطي كل تهديد يمكن تصوره، حتى تلك التي لا نستطيع تحديدها أو فهمها."
+        },
+        {
+          "id": "113:2:evil-nature",
+          "title": "Nature of Evil",
+          "icon": "flame.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'sharr' (evil) refers to anything that brings harm, distress, or corruption, encompassing both moral evil and natural calamities.",
+          "whyItMatters": "Recognizing the broad scope of evil helps us understand our constant need for divine protection in every aspect of life, from moral temptations to physical dangers.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مِن شَرِّ ",
+          "title_urdu": "برائی کی فطرت",
+          "coreInsight_urdu": "لفظ 'شر' (برائی) ہر اس چیز کی طرف اشارہ کرتا ہے جو نقصان، پریشانی، یا فساد لاتی ہے، اخلاقی برائی اور قدرتی آفات دونوں کو شامل کرتے ہوئے۔",
+          "whyItMatters_urdu": "برائی کے وسیع دائرے کو پہچاننا ہمیں زندگی کے ہر پہلو میں الہی تحفظ کی مسلسل ضرورت کو سمجھنے میں مدد کرتا ہے، اخلاقی آزمائشوں سے لے کر جسمانی خطرات تک۔",
+          "title_ar": "طبيعة الشر",
+          "coreInsight_ar": "كلمة 'شر' تشير إلى أي شيء يجلب الضرر أو الضيق أو الفساد، وتشمل كلاً من الشر الأخلاقي والكوارث الطبيعية.",
+          "whyItMatters_ar": "إدراك النطاق الواسع للشر يساعدنا على فهم حاجتنا المستمرة للحماية الإلهية في كل جانب من جوانب الحياة، من الإغراءات الأخلاقية إلى الأخطار الجسدية."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia scholars share extensive common ground on this verse, both emphasizing its comprehensive protective scope. Ibn Kathir provides detailed categorization of created evils, including harmful animals, insects, diseases, and malicious humans, similar to the categories described in Shia hadith from Imam al-Sadiq. Tabari and Tabatabai both emphasize the theological sophistication of seeking refuge 'from what He created' rather than speaking of creation as inherently evil, preserving the doctrine that Allah's creation is fundamentally good. A significant difference emerges in emphasis: Sunni tafsir often focuses more on external threats and specific incidents of harm, providing detailed accounts of how the Prophet used these verses for protection against identifiable dangers. Shia scholarship, particularly influenced by Ahlul Bayt teachings, places greater emphasis on internal spiritual threats and the purification required for divine protection to be fully effective. Razi and Qurtubi both provide extensive linguistic analysis similar to Shia classical works, showing scholarly consensus on the verse's all-encompassing nature. Both traditions agree that this verse should be recited regularly, particularly in the morning, evening, and before sleep. The interpretive difference is subtle but meaningful: Sunni tradition often presents seeking refuge as primarily defensive, while Shia tradition, drawing from Ahlul Bayt wisdom, presents it as both defensive and transformative, purifying the believer while providing protection. Ultimately, both traditions affirm that this verse offers complete shelter under divine mercy for all who sincerely seek it.",
+    "layer4_urdu": "سنی اور شیعہ علماء اس آیت پر وسیع مشترکہ بنیاد رکھتے ہیں، دونوں اس کے جامع حفاظتی دائرے پر زور دیتے ہیں۔ ابن کثیر مخلوق شرور کی تفصیلی درجہ بندی فراہم کرتے ہیں، جن میں نقصان دہ جانور، کیڑے، بیماریاں، اور بدنیت انسان شامل ہیں، امام الصادق سے شیعہ حدیث میں بیان کردہ قسموں سے ملتا جلتا۔ طبری اور طباطبائی دونوں \"جو کچھ اس نے پیدا کیا\" سے پناہ مانگنے کی الہیاتی نفاست پر زور دیتے ہیں بجائے تخلیق کو فی نفسہ شر کہنے کے، اس نظریے کو محفوظ رکھتے ہوئے کہ اللہ کی تخلیق بنیادی طور پر اچھی ہے۔ ایک اہم فرق زور میں سامنے آتا ہے: سنی تفسیر اکثر بیرونی خطرات اور نقصان کے مخصوص واقعات پر زیادہ توجہ دیتی ہے، تفصیلی روایات فراہم کرتی ہے کہ نبی نے شناخت شدہ خطرات کے خلاف تحفظ کے لیے ان آیات کو کیسے استعمال کیا۔ شیعہ اسکالرشپ، خاص طور پر اہل بیت کی تعلیمات سے متاثر، اندرونی روحانی خطرات اور الہی تحفظ کے مؤثر ہونے کے لیے درکار پاکیزگی پر زیادہ زور دیتی ہے۔ رازی اور قرطبی دونوں شیعہ کلاسیکی کاموں کی طرح وسیع لسانی تجزیہ فراہم کرتے ہیں، جو آیت کی ہمہ گیر نوعیت پر علمی اتفاق رائے ظاہر کرتا ہے۔ دونوں روایات اتفاق کرتی ہیں کہ یہ آیت باقاعدگی سے پڑھی جانی چاہیے، خاص طور پر صبح، شام، اور سونے سے پہلے۔ تشریحی فرق لطیف لیکن معنی خیز ہے: سنی روایت اکثر پناہ مانگنے کو بنیادی طور پر دفاعی کے طور پر پیش کرتی ہے، جبکہ شیعہ روایت، اہل بیت کی حکمت سے اخذ کرتے ہوئے، اسے دفاعی اور تبدیلی دونوں کے طور پر پیش کرتی ہے، مومن کو پاک کرتے ہوئے تحفظ فراہم کرتی ہے۔ بالآخر، دونوں روایات اس بات کی تصدیق کرتی ہیں کہ یہ آیت تمام ان لوگوں کے لیے الہی رحمت کے تحت مکمل پناہ فراہم کرتی ہے جو مخلصانہ طور پر اسے طلب کرتے ہیں۔",
+    "layer4_ar": "يتشارك علماء السنة والشيعة أرضيةً واسعة في هذه الآية إذ يتفقون جميعاً على نطاق حمايتها الشامل. فابن كثير يُفصِّل أصناف الشرور المخلوقة من حيوانات مؤذية وحشرات وأمراض وبشر سيئي النية في توازٍ مع الأصناف الواردة في أحاديث الإمام الصادق عليه السلام. ويُؤكِّد الطبري والطباطبائي كلاهما الرهافة الكلامية في الاستعاذة «مما خلق» لا في نعت الخلق بالشر، صوناً لعقيدة أن خلق الله في أصله حسن. وثمة فارق في التركيز: فالتفسير السني كثيراً ما يُركِّز على التهديدات الخارجية والحوادث المحددة من أذى مُعاش ومواجهة مألوفة، بينما يُولي التراث الشيعي بوحي من تعاليم أهل البيت عناية أكبر للتهديدات الروحية الداخلية والتزكية الضرورية لبلوغ كمال الحماية الإلهية. ويُقدِّم الرازي والقرطبي تحليلاً لغوياً يضاهي ما في المؤلفات الكلاسيكية الشيعية، مُؤكِّداً الإجماع العلمي على الطابع الاستيعابي للآية. ويتفق التراثان على وجوب الإكثار من هذه الآية ولا سيما صباحاً ومساءً وعند النوم. والفارق التفسيري دقيق ذو مغزى: يُقدِّم التراث السني الاستعاذة في الغالب دفاعاً محضاً، في حين يُقدِّمها التراث الشيعي المستلهَم من حكمة أهل البيت دفاعاً وتحولاً في آن، يُطهِّر المؤمن ويحميه معاً. وفي النهاية يُثبت التراثان معاً أن هذه الآية توفِّر مأوىً كاملاً تحت رحمة الله لكل من صدق في الاستعاذة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "113:3:darkness-night",
+          "title": "Settling Darkness",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'ghasiqin idha waqaba' (darkness when it settles) refers to the deep darkness of night when evil forces become most active and humans are most vulnerable.",
+          "whyItMatters": "This teaches us that certain times and conditions make us more susceptible to harm, requiring heightened spiritual vigilance and reliance on Allah's protection.",
+          "position": "topLeft",
+          "arabicHighlight": "غَاسِقٍ إِذَا وَقَبَ",
+          "title_urdu": "اترتی تاریکی",
+          "coreInsight_urdu": "جملہ 'غاسق اذا وقب' (تاریکی جب وہ بیٹھ جائے) رات کی گہری تاریکی کی طرف اشارہ کرتا ہے جب برائی کی قوتیں سب سے زیادہ فعال ہو جاتی ہیں اور انسان سب سے زیادہ کمزور ہوتا ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ کچھ اوقات اور حالات ہمیں نقصان کے لیے زیادہ حساس بناتے ہیں، جس کے لیے بلند روحانی چوکسی اور اللہ کے تحفظ پر انحصار کی ضرورت ہوتی ہے۔",
+          "title_ar": "ظلام الليل",
+          "coreInsight_ar": "عبارة 'غاسق إذا وقب' تشير إلى ظلام الليل العميق عندما تصبح قوى الشر أكثر نشاطًا ويكون البشر أكثر ضعفًا.",
+          "whyItMatters_ar": "هذا يعلمنا أن أوقاتًا وظروفًا معينة تجعلنا أكثر عرضة للضرر، مما يتطلب يقظة روحية متزايدة واعتمادًا على حماية الله."
+        },
+        {
+          "id": "113:3:night-dangers",
+          "title": "Night's Perils",
+          "icon": "moon.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The specific mention of nighttime darkness encompasses both literal dangers (predators, accidents) and metaphorical ones (ignorance, temptation, spiritual attacks).",
+          "whyItMatters": "Understanding that darkness symbolizes multiple forms of harm reminds us to seek Allah's protection for both our physical safety and spiritual well-being.",
+          "position": "topRight",
+          "arabicHighlight": "غَاسِقٍ",
+          "title_urdu": "رات کے خطرات",
+          "coreInsight_urdu": "رات کی تاریکی کا خاص ذکر لفظی خطرات (شکاری، حادثات) اور علامتی خطرات (جہالت، آزمائش، روحانی حملے) دونوں کو شامل کرتا ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ تاریکی نقصان کی متعدد شکلوں کی علامت ہے ہمیں یاد دلاتا ہے کہ ہماری جسمانی حفاظت اور روحانی بہبود دونوں کے لیے اللہ کی حفاظت مانگیں۔",
+          "title_ar": "مخاطر الليل",
+          "coreInsight_ar": "الإشارة المحددة لظلام الليل تشمل كلاً من الأخطار الحرفية (الحيوانات المفترسة، الحوادث) والمجازية (الجهل، الإغراء، الهجمات الروحية).",
+          "whyItMatters_ar": "فهم أن الظلام يرمز إلى أشكال متعددة من الضرر يذكرنا بطلب حماية الله لسلامتنا الجسدية ورفاهيتنا الروحية."
+        },
+        {
+          "id": "113:3:penetrating-darkness",
+          "title": "Deep Penetration",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'waqaba' means to penetrate deeply or settle intensely, describing how darkness descends and pervades everything, symbolizing evil's attempt to engulf believers.",
+          "whyItMatters": "This vivid imagery reminds us that evil can be pervasive and overwhelming, making divine refuge not just helpful but absolutely essential for protection.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَقَبَ",
+          "title_urdu": "گہری دخول",
+          "coreInsight_urdu": "لفظ 'وقب' کا مطلب ہے گہرائی سے داخل ہونا یا شدت سے بیٹھنا، بیان کرتے ہوئے کہ کیسے تاریکی اترتی ہے اور ہر چیز میں پھیل جاتی ہے، برائی کی مومنین کو نگلنے کی کوشش کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ واضح تصویر ہمیں یاد دلاتی ہے کہ برائی وسیع اور زبردست ہو سکتی ہے، جو الہی پناہ کو نہ صرف مددگار بلکہ حفاظت کے لیے بالکل ضروری بناتی ہے۔",
+          "title_ar": "الاختراق العميق",
+          "coreInsight_ar": "كلمة 'وقب' تعني الاختراق العميق أو الاستقرار الشديد، تصف كيف ينزل الظلام ويتخلل كل شيء، رمزًا لمحاولة الشر ابتلاع المؤمنين.",
+          "whyItMatters_ar": "هذه الصورة الحية تذكرنا بأن الشر يمكن أن يكون منتشرًا وساحقًا، مما يجعل الملجأ الإلهي ليس مفيدًا فحسب بل ضروريًا تمامًا للحماية."
+        }
+      ]
+    },
+    "layer4": "Both Sunni and Shia traditions show remarkable consensus on interpreting this verse as referring primarily to night and its associated dangers, while acknowledging metaphorical dimensions. Ibn Kathir cites Ibn Abbas identifying 'ghasiq' as night and 'waqaba' as its settling, identical to the interpretation found in Tabrisi and Tabatabai. Sunni commentator Ibn Qayyim provides extensive discussion of the wisdom in seeking protection before sleep, paralleling Shia emphasis on pre-sleep supplications, both traditions drawing from Prophetic practice. A notable difference is that Sunni tafsir often provides more extensive discussion of the specific evils that emerge at night (predatory animals, thieves, harmful insects), while Shia commentary, particularly in the Ahlul Bayt tradition, gives greater attention to the spiritual and psychological dimensions of darkness. Razi in his philosophical tafsir discusses the symbolic significance of light and darkness in Quranic metaphysics, closely paralleling Tabatabai's approach in Al-Mizan. Both traditions emphasize that night itself is not evil but rather a blessing that allows rest, making the verse specifically about protection from evils that exploit nighttime vulnerability. Qurtubi and Tabrisi both note that the specification of night after the general mention of all created evil suggests that darkness presents particularly significant dangers requiring explicit mention. The interpretive harmony between traditions demonstrates that this verse addresses a universal human experience: vulnerability during darkness and the natural seeking of divine protection during weakened states. Both Sunni and Shia scholars encourage regular recitation before sleep, recognizing that this practice combines physical safety with spiritual consciousness.",
+    "layer4_urdu": "سنی اور شیعہ دونوں روایات اس آیت کی تشریح میں قابل ذکر اتفاق رائے ظاہر کرتی ہیں جو بنیادی طور پر رات اور اس کے منسلک خطرات کی طرف اشارہ کرتی ہے، جبکہ استعاراتی پہلوؤں کو تسلیم کرتی ہیں۔ ابن کثیر ابن عباس کا حوالہ دیتے ہیں جو \"غاسق\" کو رات اور \"وقب\" کو اس کا بسنا قرار دیتے ہیں، طبرسی اور طباطبائی میں پائی جانے والی تشریح سے یکساں۔ سنی مفسر ابن قیم نماز سے پہلے تحفظ طلب کرنے میں حکمت کی وسیع بحث فراہم کرتے ہیں، شیعہ نماز سے پہلے کی دعاؤں پر زور کے متوازی، دونوں روایات نبوی عمل سے اخذ کرتے ہوئے۔ ایک قابل ذکر فرق یہ ہے کہ سنی تفسیر اکثر رات میں ابھرنے والے مخصوص شرور (شکاری جانور، چور، نقصان دہ کیڑے) کی زیادہ وسیع بحث فراہم کرتی ہے، جبکہ شیعہ تبصرہ، خاص طور پر اہل بیت کی روایت میں، تاریکی کے روحانی اور نفسیاتی پہلوؤں پر زیادہ توجہ دیتا ہے۔ رازی اپنی فلسفیانہ تفسیر میں قرآنی مابعدالطبیعیات میں روشنی اور تاریکی کی علامتی اہمیت پر بحث کرتے ہیں، طباطبائی کے المیزان میں نقطہ نظر کے قریب سے متوازی۔ دونوں روایات زور دیتی ہیں کہ رات خود شر نہیں بلکہ ایک برکت ہے جو آرام کی اجازت دیتی ہے، آیت کو خاص طور پر ان شرور سے تحفظ کے بارے میں بناتے ہوئے جو رات کی کمزوری کا استحصال کرتے ہیں۔ قرطبی اور طبرسی دونوں نوٹ کرتے ہیں کہ تمام مخلوق شر کے عمومی ذکر کے بعد رات کی تخصیص تجویز کرتی ہے کہ تاریکی خاص طور پر اہم خطرات پیش کرتی ہے جن کے لیے واضح ذکر کی ضرورت ہے۔ روایات کے درمیان تشریحی ہم آہنگی ظاہر کرتی ہے کہ یہ آیت ایک عالمگیر انسانی تجربے کو خطاب کرتی ہے: تاریکی کے دوران کمزوری اور کمزور حالتوں میں الہی تحفظ کی فطری تلاش۔ سنی اور شیعہ دونوں علماء سونے سے پہلے باقاعدگی سے تلاوت کی حوصلہ افزائی کرتے ہیں، تسلیم کرتے ہوئے کہ یہ عمل جسمانی تحفظ کو روحانی شعور کے ساتھ ملاتا ہے۔",
+    "layer4_ar": "يُبدي التراثان السني والشيعي توافقاً لافتاً في تفسير هذه الآية بالليل وما يرتبط به من أخطار مع الإقرار بأبعاده المجازية. فابن كثير يستشهد بابن عباس في تعريف «الغاسق» بالليل و«وقب» بتمكُّنه، وهو ما يتطابق مع ما عند الطبرسي والطباطبائي. وابن قيِّم الجوزية في التفسير السني يُسهب في الحديث عن حكمة الاستعاذة قبل النوم، موازياً ما عند الشيعة من التأكيد على الأذكار والأدعية قبله، وكلا الموقفَين مستقيان من السنة النبوية. وجوهر الفارق أن التفسير السني كثيراً ما يُوسِّع في الحديث عن الأضرار المحددة التي يجلبها الليل من حيوانات مفترسة ولصوص وحشرات مؤذية، بينما يُولي التعليق الشيعي ولا سيما في إرث أهل البيت عناية أكبر للأبعاد الروحية والنفسية للظلام. أما الرازي في تفسيره الفلسفي فيتناول الأهمية الرمزية للنور والظلام في الميتافيزيقا القرآنية بما يتوازى مع نهج الطباطبائي في الميزان. وكلا التراثين يُؤكِّد أن الليل في ذاته نعمة تُتيح الراحة لا شرٌّ في أصله، مما يجعل الآية صريحةً في طلب الوقاية من الشرور التي تستغلُّ هشاشة الليل دون إدانة الليل نفسه. ويتفق القرطبي والطبرسي على أن تخصيص الليل بعد الكلام العام يدل على أن الظلام يُشكِّل خطراً بالغ الأهمية يستحق النصَّ الصريح. ويتجلى الانسجام بين التراثين في أن هذه الآية تُخاطب تجربةً إنسانية كونية: الهشاشة في الظلام والشوق الفطري للحماية الإلهية في أوقات الضعف."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "113:4:sorcery-evil",
+          "title": "Black Magic",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'naffathat fil uqad' (blowers in knots) refers to those who practice sorcery by blowing on knots while casting spells, a real spiritual danger recognized in Islamic tradition.",
+          "whyItMatters": "This acknowledges the reality of spiritual evil and the importance of seeking Allah's protection from both seen and unseen harmful forces, including black magic and occult practices.",
+          "position": "topLeft",
+          "arabicHighlight": " ٱلنَّفَّٰثَٰتِ فِى ٱلْعُق",
+          "title_urdu": "کالا جادو",
+          "coreInsight_urdu": "جملہ 'نفاثات فی العقد' (گرہوں میں پھونکنے والے) ان لوگوں کی طرف اشارہ کرتا ہے جو جادو کرتے ہیں گرہوں پر پھونک مار کر جبکہ منتر پڑھتے ہیں، ایک حقیقی روحانی خطرہ جو اسلامی روایت میں تسلیم شدہ ہے۔",
+          "whyItMatters_urdu": "یہ روحانی برائی کی حقیقت کو تسلیم کرتا ہے اور دیکھے اور نہ دیکھے نقصان دہ قوتوں سے اللہ کی حفاظت مانگنے کی اہمیت، بشمول کالا جادو اور خفیہ طریقے۔",
+          "title_ar": "السحر الأسود",
+          "coreInsight_ar": "عبارة 'النفاثات في العقد' يشير إلى أولئك الذين يمارسون السحر بالنفث على العقد أثناء إلقاء التعاويذ، خطر روحي حقيقي معترف به في التقليد الإسلامي.",
+          "whyItMatters_ar": "هذا يعترف بواقع الشر الروحي وأهمية طلب حماية الله من القوى الضارة المرئية والخفية، بما في ذلك السحر الأسود والممارسات الغامضة."
+        },
+        {
+          "id": "113:4:envy-harm",
+          "title": "Harmful Intent",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The specific mention of those who blow on knots represents people who actively seek to harm others through spiritual means, motivated by envy, malice, or hatred.",
+          "whyItMatters": "This reminds us that some harm comes from deliberate human malevolence, requiring us to maintain strong faith and regular spiritual protection through Quranic recitation.",
+          "position": "topRight",
+          "arabicHighlight": " ٱلنَّفَّٰثَٰ",
+          "title_urdu": "نقصان دہ ارادہ",
+          "coreInsight_urdu": "گرہوں پر پھونکنے والوں کا خاص ذکر ان لوگوں کی نمائندگی کرتا ہے جو فعال طور پر دوسروں کو روحانی ذرائع سے نقصان پہنچانے کی کوشش کرتے ہیں، حسد، بدخواہی، یا نفرت سے متحرک۔",
+          "whyItMatters_urdu": "یہ ہمیں یاد دلاتا ہے کہ کچھ نقصان جان بوجھ کر انسانی بدخواہی سے آتا ہے، جو ہمیں مضبوط ایمان اور قرآنی تلاوت کے ذریعے باقاعدہ روحانی تحفظ برقرار رکھنے کی ضرورت ہے۔",
+          "title_ar": "النية الضارة",
+          "coreInsight_ar": "الإشارة المحددة لأولئك الذين ينفثون على العقد تمثل الأشخاص الذين يسعون بنشاط لإيذاء الآخرين من خلال الوسائل الروحية، مدفوعين بالحسد أو الخبث أو الكراهية.",
+          "whyItMatters_ar": "هذا يذكرنا بأن بعض الأذى يأتي من الخبث البشري المتعمد، مما يتطلب منا الحفاظ على إيمان قوي وحماية روحية منتظمة من خلال تلاوة القرآن."
+        },
+        {
+          "id": "113:4:knots-symbolism",
+          "title": "Tied Intentions",
+          "icon": "link.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The 'uqad' (knots) symbolize the binding of harmful intentions and the tying up of one's affairs, representing how evil can restrict blessings and create obstacles in life.",
+          "whyItMatters": "Understanding this symbolism helps us recognize when our lives feel 'tied up' or blocked, prompting us to seek Allah's help in untying these spiritual and practical knots.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْعُقَدِ",
+          "title_urdu": "بندھے ارادے",
+          "coreInsight_urdu": "'عقد' (گرہیں) نقصان دہ ارادوں کو باندھنے اور کسی کے معاملات کو باندھنے کی علامت ہیں، نمائندگی کرتے ہوئے کہ کیسے برائی برکتوں کو محدود کر سکتی ہے اور زندگی میں رکاوٹیں پیدا کر سکتی ہے۔",
+          "whyItMatters_urdu": "اس علامت کو سمجھنا ہمیں پہچاننے میں مدد کرتا ہے جب ہماری زندگیاں 'بندھی ہوئی' یا مسدود محسوس ہوں، ہمیں ان روحانی اور عملی گرہوں کو کھولنے میں اللہ کی مدد مانگنے کی ترغیب دیتا ہے۔",
+          "title_ar": "النوايا المعقودة",
+          "coreInsight_ar": "'العقد' ترمز إلى ربط النوايا الضارة وتعقيد شؤون المرء، ممثلة كيف يمكن للشر أن يقيد البركات ويخلق عقبات في الحياة.",
+          "whyItMatters_ar": "فهم هذا الرمز يساعدنا على التعرف عندما تبدو حياتنا 'معقودة' أو محظورة، مما يدفعنا لطلب مساعدة الله في حل هذه العقد الروحية والعملية."
+        },
+        {
+          "id": "113:4:spiritual-warfare",
+          "title": "Unseen Battle",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse acknowledges the reality of spiritual warfare, where believers must protect themselves from unseen attacks through faith, remembrance of Allah, and Quranic recitation.",
+          "whyItMatters": "Recognizing spiritual threats empowers believers to take proactive protective measures, making supplication and Quranic verses like this essential spiritual armor.",
+          "position": "bottomRight",
+          "arabicHighlight": " شَرِّ ٱلنَّفَّٰثَٰ",
+          "title_urdu": "نادیدہ جنگ",
+          "coreInsight_urdu": "یہ آیت روحانی جنگ کی حقیقت کو تسلیم کرتی ہے، جہاں مومنین کو ایمان، اللہ کی یاد، اور قرآنی تلاوت کے ذریعے نادیدہ حملوں سے اپنی حفاظت کرنی چاہیے۔",
+          "whyItMatters_urdu": "روحانی خطرات کو پہچاننا مومنین کو فعال حفاظتی اقدامات کرنے کے قابل بناتا ہے، دعا اور قرآنی آیات کو اس طرح ضروری روحانی زرہ بناتا ہے۔",
+          "title_ar": "المعركة الخفية",
+          "coreInsight_ar": "هذه الآية تعترف بواقع الحرب الروحية، حيث يجب على المؤمنين حماية أنفسهم من الهجمات الخفية من خلال الإيمان وذكر الله وتلاوة القرآن.",
+          "whyItMatters_ar": "إدراك التهديدات الروحية يمكّن المؤمنين من اتخاذ تدابير وقائية استباقية، مما يجعل الدعاء والآيات القرآنية مثل هذا درعًا روحيًا أساسيًا."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia traditions strongly agree on the interpretation and significance of this verse, both recognizing it as protection against magic and sorcery. Ibn Kathir provides extensive hadith about how the Prophet was affected by magic and how these verses were revealed for his protection, particularly the incident involving Labid ibn al-Asam. This historical context is acknowledged in Shia sources as well, though they often emphasize the broader applicability beyond that specific incident. The major scholarly consensus across both traditions is that magic is real, affects people only by Allah's permission, and these verses provide powerful protection. Tabari, Ibn Kathir, and Qurtubi from the Sunni tradition, along with Tabrisi and Tabatabai from the Shia tradition, all provide similar interpretations of 'naffathat fil uqad' as referring to those who practice magic by tying knots and blowing on them with incantations. A difference in emphasis appears in the discussion of magic's reality: Sunni scholarship often provides more extensive discussion of the mechanics and types of magic, while Shia scholarship tends to emphasize spiritual protection through Quranic recitation and connection with the Ahlul Bayt. Both traditions strictly forbid practicing magic, considering it a major sin that can nullify one's Islam if it involves clear shirk. The Maliki, Shafi, Hanbali, and Hanafi schools, along with Ja'fari jurisprudence, all agree that practicing harmful magic carries severe punishment. Both traditions emphasize that fear of magic should not dominate a believer's life, as trust in Allah and regular spiritual practices provide complete protection. The verse represents common ground in Islamic spirituality, affirming that divine protection overcomes all forms of occult harm.",
+    "layer4_urdu": "سنی اور شیعہ روایات اس آیت کی تشریح اور اہمیت پر مضبوطی سے متفق ہیں، دونوں اسے جادو اور سحر کے خلاف تحفظ کے طور پر تسلیم کرتی ہیں۔ ابن کثیر اس بارے میں وسیع حدیث فراہم کرتے ہیں کہ کیسے نبی جادو سے متاثر ہوئے اور یہ آیات ان کے تحفظ کے لیے نازل ہوئیں، خاص طور پر لبید بن الاعصم کے واقعے کو۔ یہ تاریخی سیاق و سباق شیعہ ذرائع میں بھی تسلیم کیا گیا ہے، حالانکہ وہ اکثر اس مخصوص واقعے سے آگے وسیع تر قابلیت اطلاق پر زور دیتے ہیں۔ دونوں روایات میں بڑا علمی اتفاق رائے یہ ہے کہ جادو حقیقی ہے، لوگوں کو صرف اللہ کی اجازت سے متاثر کرتا ہے، اور یہ آیات طاقتور تحفظ فراہم کرتی ہیں۔ سنی روایت سے طبری، ابن کثیر، اور قرطبی، شیعہ روایت سے طبرسی اور طباطبائی کے ساتھ، سب \"نفاثات فی العقد\" کی ملتی جلتی تشریحات فراہم کرتے ہیں جو ان لوگوں کی طرف اشارہ کرتی ہے جو منتروں کے ساتھ گرہیں لگا کر اور پھونک کر جادو کرتے ہیں۔ جادو کی حقیقت کی بحث میں زور میں فرق ظاہر ہوتا ہے: سنی اسکالرشپ اکثر جادو کی میکانیات اور اقسام کی زیادہ وسیع بحث فراہم کرتی ہے، جبکہ شیعہ اسکالرشپ قرآنی تلاوت اور اہل بیت کے ساتھ تعلق کے ذریعے روحانی تحفظ پر زور دیتی ہے۔ دونوں روایات سختی سے جادو کرنے سے منع کرتی ہیں، اسے ایک بڑا گناہ سمجھتی ہیں جو واضح شرک شامل ہونے پر کسی کے اسلام کو باطل کر سکتا ہے۔ مالکی، شافعی، حنبلی، اور حنفی مکاتب فکر، جعفری فقہ کے ساتھ، سب اتفاق کرتے ہیں کہ نقصان دہ جادو کرنے پر سخت سزا ہے۔ دونوں روایات زور دیتی ہیں کہ جادو کا خوف کسی مومن کی زندگی پر حاوی نہیں ہونا چاہیے، کیونکہ اللہ پر بھروسہ اور باقاعدہ روحانی عمل مکمل تحفظ فراہم کرتے ہیں۔ یہ آیت اسلامی روحانیت میں مشترکہ بنیاد کی نمائندگی کرتی ہے، تصدیق کرتے ہوئے کہ الہی تحفظ غیبی نقصان کی تمام شکلوں پر قابو پاتا ہے۔",
+    "layer4_ar": "يتوافق التراثان السني والشيعي توافقاً كبيراً في تفسير هذه الآية والإقرار بأنها حماية من السحر والشعوذة. فابن كثير يُسهب في الحديث عن السحر الذي أُلقي على النبي صلى الله عليه وسلم وعن نزول هاتين السورتين حمايةً له ولا سيما ما يتعلق بلبيد بن الأعصم. وهذا السياق التاريخي موثَّق في المصادر الشيعية أيضاً وإن كانت تُؤكِّد التطبيق الأوسع لهذه الآيات مما وراء الحادثة المحددة. والإجماع العلمي الكبير في كلا التراثين أن السحر حقيقي ولا يُؤثِّر في أحد إلا بإذن الله وأن هذه الآيات تُوفِّر حمايةً بالغة. وكلٌّ من الطبري وابن كثير والقرطبي من التراث السني، ومن الطبرسي والطباطبائي من التراث الشيعي، يُقدِّم تفسيرات متماثلة لـ«النفَّاثات في العُقَد» بوصفهن من يمارسن السحر بربط العُقَد والنفث عليها بالتعاويذ. ويتجلى فارق في التركيز عند مناقشة واقعية السحر: إذ يُقدِّم التراث السني في الغالب نقاشاً أوفر عن آليات السحر وأنواعه، بينما يميل التراث الشيعي إلى التشديد على الحماية الروحية بالتلاوة القرآنية والاتصال بأهل البيت. ويتفق المذاهب المالكي والشافعي والحنبلي والحنفي مع المذهب الجعفري على أن ممارسة السحر الضار كبيرة من الكبائر. ويُؤكِّد التراثان معاً أن الخوف من السحر لا ينبغي أن يسيطر على حياة المؤمن، لأن التوكل على الله والمواظبة على الشعائر الروحية يُوفِّران حمايةً كاملة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "113:5:envy-evil",
+          "title": "The Envier",
+          "icon": "eye.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'hasid idha hasad' (an envier when he envies) identifies envy as a potent source of harm, where resentment of others' blessings can manifest as real spiritual and even physical damage.",
+          "whyItMatters": "This teaches us that envy is not just a moral failing but an active force that can harm its target, making protection from envious eyes essential for believers who are blessed.",
+          "position": "topLeft",
+          "arabicHighlight": "حَاسِدٍ إِذَا حَسَدَ",
+          "title_urdu": "حسد کرنے والا",
+          "coreInsight_urdu": "جملہ 'حاسد اذا حسد' (حسد کرنے والا جب وہ حسد کرے) حسد کو نقصان کے ایک طاقتور ذریعہ کے طور پر شناخت کرتا ہے، جہاں دوسروں کی نعمتوں سے ناراضگی حقیقی روحانی اور یہاں تک کہ جسمانی نقصان کے طور پر ظاہر ہو سکتی ہے۔",
+          "whyItMatters_urdu": "یہ ہمیں سکھاتا ہے کہ حسد صرف ایک اخلاقی ناکامی نہیں ہے بلکہ ایک فعال قوت ہے جو اپنے ہدف کو نقصان پہنچا سکتی ہے، جو مومنین کے لیے حسد کرنے والی نگاہوں سے تحفظ کو ضروری بناتی ہے۔",
+          "title_ar": "الحاسد",
+          "coreInsight_ar": "عبارة 'حاسد إذا حسد' يحدد الحسد كمصدر قوي للضرر، حيث يمكن أن يتجلى استياء نعم الآخرين كضرر روحي وحتى جسدي حقيقي.",
+          "whyItMatters_ar": "هذا يعلمنا أن الحسد ليس مجرد فشل أخلاقي بل قوة نشطة يمكن أن تضر هدفها، مما يجعل الحماية من العيون الحاسدة ضرورية للمؤمنين المباركين."
+        },
+        {
+          "id": "113:5:evil-eye",
+          "title": "Evil Eye",
+          "icon": "eye.trianglebadge.exclamationmark.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse is understood to include protection from 'ayn (evil eye), the harmful effect that can result from intense envy or admiration, recognized across Islamic traditions including hadith from Ahlul Bayt.",
+          "whyItMatters": "Understanding the reality of evil eye helps believers take practical precautions like saying 'MashaAllah' when admiring blessings and regularly reciting protective supplications.",
+          "position": "topRight",
+          "arabicHighlight": "حَاسِدٍ",
+          "title_urdu": "بری نظر",
+          "coreInsight_urdu": "اس آیت کو 'عین' (بری نظر) سے تحفظ شامل سمجھا جاتا ہے، نقصان دہ اثر جو شدید حسد یا تعریف کے نتیجے میں ہو سکتا ہے، اہل بیت سے حدیث سمیت اسلامی روایات میں تسلیم شدہ۔",
+          "whyItMatters_urdu": "بری نظر کی حقیقت کو سمجھنا مومنین کو عملی احتیاطی تدابیر اٹھانے میں مدد کرتا ہے جیسے نعمتوں کی تعریف کرتے وقت 'ماشاءاللہ' کہنا اور باقاعدگی سے حفاظتی دعائیں پڑھنا۔",
+          "title_ar": "العين الشريرة",
+          "coreInsight_ar": "يُفهم أن هذه الآية تتضمن الحماية من 'العين'، التأثير الضار الذي يمكن أن ينتج عن الحسد أو الإعجاب الشديد، معترف به في التقاليد الإسلامية بما في ذلك أحاديث أهل البيت.",
+          "whyItMatters_ar": "فهم واقع العين الشريرة يساعد المؤمنين على اتخاذ احتياطات عملية مثل قول 'ما شاء الله' عند الإعجاب بالنعم وتلاوة أدعية الحماية بانتظام."
+        },
+        {
+          "id": "113:5:active-envy",
+          "title": "When He Envies",
+          "icon": "bolt.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'idha hasad' (when he envies) emphasizes the moment of active envy, when jealous feelings transform into actual harmful intent or action against the envied person.",
+          "whyItMatters": "This specification shows that protection is needed precisely when envy becomes active, reminding us that Allah's refuge is a dynamic, real-time shield against harm.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِذَا حَسَدَ",
+          "title_urdu": "جب وہ حسد کرے",
+          "coreInsight_urdu": "جملہ 'اذا حسد' (جب وہ حسد کرے) فعال حسد کے لمحے پر زور دیتا ہے، جب حسد کے جذبات حقیقی نقصان دہ ارادے یا حسد کیے گئے شخص کے خلاف عمل میں تبدیل ہو جاتے ہیں۔",
+          "whyItMatters_urdu": "یہ تخصیص ظاہر کرتی ہے کہ بالکل تب تحفظ کی ضرورت ہے جب حسد فعال ہو جائے، ہمیں یاد دلاتے ہوئے کہ اللہ کی پناہ نقصان کے خلاف ایک متحرک، حقیقی وقت کی ڈھال ہے۔",
+          "title_ar": "عندما يحسد",
+          "coreInsight_ar": "عبارة 'إذا حسد' يؤكد لحظة الحسد النشط، عندما تتحول مشاعر الغيرة إلى نية أو فعل ضار فعلي ضد الشخص المحسود.",
+          "whyItMatters_ar": "هذا التحديد يُظهر أن الحماية مطلوبة تحديدًا عندما يصبح الحسد نشطًا، مذكرًا إيانا بأن ملجأ الله هو درع ديناميكي في الوقت الفعلي ضد الضرر."
+        },
+        {
+          "id": "113:5:comprehensive-refuge",
+          "title": "Complete Protection",
+          "icon": "checkmark.shield.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This final verse completes the surah's comprehensive protection, covering physical evil (creation), temporal danger (night), spiritual attacks (sorcery), and social harm (envy).",
+          "whyItMatters": "Understanding that this short surah provides total protection from all categories of evil shows Allah's mercy in giving us a complete spiritual shield in just five verses.",
+          "position": "bottomRight",
+          "arabicHighlight": " شَرِّ حَاسِدٍ ",
+          "title_urdu": "مکمل تحفظ",
+          "coreInsight_urdu": "یہ آخری آیت سورہ کے جامع تحفظ کو مکمل کرتی ہے، جسمانی برائی (تخلیق)، وقتی خطرہ (رات)، روحانی حملے (جادو)، اور سماجی نقصان (حسد) کا احاطہ کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ یہ مختصر سورہ برائی کی تمام اقسام سے مکمل تحفظ فراہم کرتی ہے، اللہ کی رحمت کو ظاہر کرتا ہے کہ وہ ہمیں صرف پانچ آیات میں ایک مکمل روحانی ڈھال دیتا ہے۔",
+          "title_ar": "الحماية الكاملة",
+          "coreInsight_ar": "هذه الآية الأخيرة تكمل الحماية الشاملة للسورة، تغطي الشر المادي (الخلق)، والخطر الزمني (الليل)، والهجمات الروحية (السحر)، والضرر الاجتماعي (الحسد).",
+          "whyItMatters_ar": "فهم أن هذه السورة القصيرة توفر حماية كاملة من جميع فئات الشر يُظهر رحمة الله في إعطائنا درعًا روحيًا كاملاً في خمس آيات فقط."
+        }
+      ]
+    },
+    "layer4": "Sunni and Shia traditions show complete harmony in recognizing envy as a major spiritual disease and this verse as essential protection. Ibn Kathir cites numerous hadith about the destructive nature of envy and the Prophet's teaching that envy destroys good deeds, identical to teachings found in Shia hadith collections. Both traditions emphasize the distinction between harmful envy and praiseworthy admiration, with Sunni scholar Ibn Hajar and Shia scholar Tabrisi making essentially the same distinction. The major difference in emphasis is that Sunni commentary often focuses more extensively on the evil eye as a specific manifestation of envy, citing numerous hadith about its reality and effects, while Shia commentary tends to emphasize both the evil eye and the broader spiritual and social consequences of envy. Razi provides philosophical analysis of why envy is particularly odious, paralleling Tabatabai's discussion of how envy represents dissatisfaction with divine decree. Both Sunni and Shia traditions strongly encourage regular recitation of this verse, particularly for children, those experiencing success, and anyone who might be the target of envy. Qurtubi and Tabrisi both emphasize that the best protection is combining supplication with righteous character, particularly humility and generosity. Both traditions agree that envy is among the major sins and that persistent, unrepentant envy can lead to spiritual destruction. A beautiful point of convergence is that both traditions teach that the envious person suffers more than their target, making envy primarily self-destructive. The verse represents universal Islamic wisdom: that human jealousy and resentment are real sources of harm, that Allah provides protection through His words, and that believers must seek purification from envy while seeking protection from it. Both traditions conclude that this final verse of Al-Falaq completes a comprehensive supplication covering all major sources of harm, ending with one of the most common yet often overlooked dangers in human society.",
+    "layer4_urdu": "سنی اور شیعہ روایات حسد کو ایک بڑی روحانی بیماری اور اس آیت کو ضروری تحفظ کے طور پر تسلیم کرنے میں مکمل ہم آہنگی ظاہر کرتی ہیں۔ ابن کثیر حسد کی تباہ کن نوعیت کے بارے میں متعدد احادیث کا حوالہ دیتے ہیں اور نبی کی تعلیم کہ حسد نیک اعمال کو تباہ کر دیتا ہے، شیعہ حدیث کے مجموعوں میں پائی جانے والی تعلیمات سے یکساں۔ دونوں روایات نقصان دہ حسد اور قابل تعریف تعریف کے درمیان فرق پر زور دیتی ہیں، سنی عالم ابن حجر اور شیعہ عالم طبرسی بنیادی طور پر ایک ہی فرق کرتے ہوئے۔ زور میں بڑا فرق یہ ہے کہ سنی تبصرہ اکثر نظر بد پر بطور حسد کے مخصوص مظہر زیادہ وسیع توجہ دیتا ہے، اس کی حقیقت اور اثرات کے بارے میں متعدد احادیث کا حوالہ دیتے ہوئے، جبکہ شیعہ تبصرہ نظر بد اور حسد کے وسیع تر روحانی اور سماجی نتائج دونوں پر زور دیتا ہے۔ رازی فلسفیانہ تجزیہ فراہم کرتے ہیں کہ حسد کیوں خاص طور پر ناگوار ہے، طباطبائی کی بحث کے متوازی کہ کیسے حسد الہی تقدیر سے عدم اطمینان کی نمائندگی کرتا ہے۔ سنی اور شیعہ دونوں روایات اس آیت کی باقاعدہ تلاوت کی مضبوطی سے حوصلہ افزائی کرتی ہیں، خاص طور پر بچوں، کامیابی کا تجربہ کرنے والوں، اور کسی کے لیے جو حسد کا ہدف ہو سکتا ہے۔ قرطبی اور طبرسی دونوں زور دیتے ہیں کہ بہترین تحفظ دعا کو نیک کردار کے ساتھ ملانا ہے، خاص طور پر عاجزی اور سخاوت۔ دونوں روایات اتفاق کرتی ہیں کہ حسد بڑے گناہوں میں سے ہے اور مسلسل، توبہ نہ کیا جانے والا حسد روحانی تباہی کا باعث بن سکتا ہے۔ ہم آہنگی کا ایک خوبصورت نقطہ یہ ہے کہ دونوں روایات سکھاتی ہیں کہ حاسد شخص اپنے ہدف سے زیادہ تکلیف اٹھاتا ہے، جو حسد کو بنیادی طور پر خود تباہ کن بناتا ہے۔ یہ آیت عالمگیر اسلامی حکمت کی نمائندگی کرتی ہے: کہ انسانی رشک اور ناراضگی نقصان کے حقیقی ذرائع ہیں، کہ اللہ اپنے الفاظ کے ذریعے تحفظ فراہم کرتا ہے، اور یہ کہ مومنین کو اس سے تحفظ طلب کرتے ہوئے حسد سے پاکیزگی تلاش کرنی چاہیے۔ دونوں روایات نتیجہ اخذ کرتی ہیں کہ الفلق کی یہ آخری آیت تمام بڑے ذرائع نقصان کا احاطہ کرنے والی ایک جامع دعا کو مکمل کرتی ہے، انسانی معاشرے میں سب سے عام پھر بھی اکثر نظر انداز کیے جانے والے خطرات میں سے ایک کے ساتھ ختم ہوتی ہے۔",
+    "layer4_ar": "يتوافق التراثان السني والشيعي تواصلاً كاملاً في الإقرار بأن الحسد داءٌ روحي كبير وهذه الآية حماية ضرورية منه. فابن كثير يستشهد بأحاديث وافرة في الطبيعة المهلكة للحسد وفي قول النبي صلى الله عليه وسلم إن الحسد يأكل الحسنات كما تأكل النار الحطب في توازٍ تام مع ما في مجاميع الحديث الشيعي. ويُؤكِّد التراثان الفرق بين الحسد الضار والغبطة المحمودة وهو تمييز يُسوِّيه ابن حجر العسقلاني والطبرسي تسوية متطابقة تقريباً. والفارق الجوهري في التركيز أن التعليق السني يُركِّز أكثر على العين بوصفها مظهراً بعينه من مظاهر الحسد مستشهداً بأحاديث وافرة في واقعيتها وآثارها، بينما يُعنى التعليق الشيعي بالحسد والعين معاً إلى جانب عواقبه الروحية والاجتماعية الأوسع. ويُقدِّم الرازي تحليلاً فلسفياً لوجه قبح الحسد يوازي حديث الطباطبائي عن كونه اعتراضاً على التوزيع الإلهي للنعم. ويحثُّ التراثان معاً على الإكثار من تلاوة هذه الآية ولا سيما لحماية الأطفال ومن ينعمون بالنجاح ومن قد يتعرضون للحسد. ويتفق القرطبي والطبرسي على أن خير حماية هي الجمع بين الدعاء وحسن الخُلق ولا سيما التواضع والسخاء. ويتفق التراثان على أن الحسد من الكبائر وأن الحسد المستمر دون توبة يُفضي إلى هلاك روحي. ومن جمال التقاء التراثين أن كليهما يُقرِّر أن الحاسد يُعذَّب بحسده أكثر مما يُعذَّب المحسود بأثره، مما يجعل الحسد مدمِّراً للذات في المقام الأول. وتُجسِّد الآية حكمةً إسلاميةً كونية: أن الغيرة البشرية والحقد حقيقتان مؤلمتان، وأن الله يُوفِّر الحماية بكلامه، وأن على المؤمنين أن يبتغوا التطهير من الحسد بينما يستعيذون منه. ويتفق التراثان على أن هذه الآية الختامية من سورة الفلق تُتمِّم دعاءً شاملاً يغطي مصادر الأذى الكبرى خاتمةً بأحد أكثر مصادر الشر انتشاراً وأقلها التفاتاً في المجتمع الإنساني."
+  }
+}

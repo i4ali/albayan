@@ -1,0 +1,221 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "108:1:al-kawthar",
+          "title": "Al-Kawthar",
+          "icon": "drop.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Al-Kawthar (الكوثر) literally means 'abundant goodness' - it refers to a blessed river in Paradise promised to the Prophet, but also symbolizes all divine blessings bestowed upon him and his ummah.",
+          "whyItMatters": "Understanding that Allah grants abundant goodness to His Prophet reminds us that true wealth lies in spiritual blessings, not material accumulation. The Kawthar represents endless divine generosity.",
+          "position": "topLeft",
+          "arabicHighlight": "ٱلْكَوْثَرَ",
+          "title_urdu": "الکوثر",
+          "coreInsight_urdu": "الکوثر کا لفظی معنی 'بہت زیادہ خیر' ہے - یہ جنت میں نبی کو عطا کردہ ایک مبارک ندی کا حوالہ دیتا ہے، لیکن ان پر اور ان کی امت پر عطا کردہ تمام الہی نعمتوں کی علامت بھی ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ اللہ اپنے نبی کو وافر خیر عطا کرتا ہے ہمیں یاد دلاتا ہے کہ حقیقی دولت روحانی نعمتوں میں ہے، نہ کہ مادی جمع میں۔ کوثر لامحدود الہی سخاوت کی نمائندگی کرتا ہے۔",
+          "title_ar": "الكوثر",
+          "coreInsight_ar": "الكوثر يعني حرفيًا 'الخير الوفير' - يشير إلى نهر مبارك في الجنة وعد به النبي، ولكنه أيضًا يرمز إلى جميع البركات الإلهية الممنوحة له ولأمته.",
+          "whyItMatters_ar": "إن فهم أن الله يمنح الخير الوفير لنبيه يذكرنا أن الثروة الحقيقية تكمن في البركات الروحية، وليس التراكم المادي. يمثل الكوثر الكرم الإلهي اللامتناهي."
+        },
+        {
+          "id": "108:1:we-granted",
+          "title": "We Granted",
+          "icon": "gift.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "'Inna a'taynaka' (إِنَّآ أَعْطَيْنَٰكَ) - the emphatic 'Indeed, We have granted you' uses the royal plural, emphasizing Allah's majesty while affirming the certainty and completion of this divine gift.",
+          "whyItMatters": "This isn't a promise of the future but a completed act. Allah had already granted the Kawthar, teaching us that His gifts are assured and His promises are already fulfilled in His knowledge.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّآ أَعْطَيْنَٰكَ",
+          "title_urdu": "ہم نے عطا کیا",
+          "coreInsight_urdu": "'انا اعطیناک' - زوردار 'یقیناً ہم نے تمہیں عطا کیا' شاہی جمع استعمال کرتا ہے، اللہ کی عظمت پر زور دیتے ہوئے اس الہی تحفے کی یقین اور تکمیل کی تصدیق کرتا ہے۔",
+          "whyItMatters_urdu": "یہ مستقبل کا وعدہ نہیں بلکہ ایک مکمل عمل ہے۔ اللہ نے پہلے ہی کوثر عطا کر دیا تھا، ہمیں سکھاتا ہے کہ اس کے تحائف یقینی ہیں اور اس کے وعدے اس کے علم میں پہلے سے پورے ہو چکے ہیں۔",
+          "title_ar": "أعطيناك",
+          "coreInsight_ar": "'إِنَّآ أَعْطَيْنَٰكَ' - التوكيد 'إننا قد أعطيناك' يستخدم الجمع الملكي، مؤكدًا على جلال الله مع تأكيد يقين وإتمام هذه الهدية الإلهية.",
+          "whyItMatters_ar": "هذا ليس وعدًا بالمستقبل بل فعل مكتمل. كان الله قد منح الكوثر بالفعل، مما يعلمنا أن هداياه مضمونة ووعوده متحققة بالفعل في علمه."
+        },
+        {
+          "id": "108:1:to-you",
+          "title": "To You",
+          "icon": "person.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The direct address to Prophet Muhammad (ص) personalizes this blessing - Allah singles him out for this unique honor, affirming his elevated status despite opposition from enemies who mocked him.",
+          "whyItMatters": "When people belittle or reject us for following truth, Allah elevates those He chooses. The Prophet's honor came directly from Allah, not from worldly validation.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَعْطَيْنَٰكَ",
+          "title_urdu": "تمہیں",
+          "coreInsight_urdu": "نبی محمد (ص) کو براہ راست خطاب اس نعمت کو ذاتی بناتا ہے - اللہ انہیں اس منفرد اعزاز کے لیے منتخب کرتا ہے، دشمنوں کی مخالفت کے باوجود ان کے بلند مقام کی تصدیق کرتا ہے جنہوں نے ان کا مذاق اڑایا۔",
+          "whyItMatters_urdu": "جب لوگ ہمیں سچائی کی پیروی کے لیے چھوٹا کرتے یا مسترد کرتے ہیں، تو اللہ ان کو بلند کرتا ہے جن کو وہ منتخب کرتا ہے۔ نبی کی عزت دنیاوی توثیق سے نہیں بلکہ براہ راست اللہ سے آئی۔",
+          "title_ar": "لك",
+          "coreInsight_ar": "الخطاب المباشر للنبي محمد (ص) يجعل هذه البركة شخصية - يخصه الله بهذا الشرف الفريد، مؤكدًا مكانته الرفيعة رغم معارضة الأعداء الذين سخروا منه.",
+          "whyItMatters_ar": "عندما يقلل الناس من شأننا أو يرفضوننا لاتباع الحق، يرفع الله من يختارهم. جاء شرف النبي مباشرة من الله، وليس من التصديق الدنيوي."
+        },
+        {
+          "id": "108:1:divine-compensation",
+          "title": "Divine Compensation",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This surah was revealed when enemies mocked the Prophet for having no surviving sons, calling him 'abtar' (cut off). Allah responds by granting him eternal honor and countless spiritual descendants.",
+          "whyItMatters": "Worldly losses can be divine setups for spiritual gains. What others perceive as failure, Allah transforms into everlasting success when we remain faithful to our mission.",
+          "position": "bottomRight",
+          "arabicHighlight": "أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+          "title_urdu": "الہی معاوضہ",
+          "coreInsight_urdu": "یہ سورت اس وقت نازل ہوئی جب دشمنوں نے نبی کا مذاق اڑایا کہ ان کے کوئی زندہ بیٹے نہیں ہیں، انہیں 'ابتر' (کٹا ہوا) کہتے ہوئے۔ اللہ نے انہیں ابدی عزت اور بے شمار روحانی اولاد عطا کر کے جواب دیا۔",
+          "whyItMatters_urdu": "دنیاوی نقصانات روحانی فوائد کے لیے الہی سیٹ اپ ہو سکتے ہیں۔ جسے دوسرے ناکامی سمجھتے ہیں، اللہ اسے دائمی کامیابی میں تبدیل کر دیتا ہے جب ہم اپنی مشن کے لیے وفادار رہتے ہیں۔",
+          "title_ar": "التعويض الإلهي",
+          "coreInsight_ar": "نزلت هذه السورة عندما سخر الأعداء من النبي لعدم بقاء أبنائه على قيد الحياة، ودعوه 'الأبتر' (المقطوع). يرد الله بمنحه شرفًا أبديًا وذرية روحية لا تحصى.",
+          "whyItMatters_ar": "يمكن أن تكون الخسائر الدنيوية إعدادات إلهية للمكاسب الروحية. ما يراه الآخرون فشلاً، يحوله الله إلى نجاح أبدي عندما نبقى أوفياء لرسالتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic meaning of Kawthar as a river in Paradise and abundant blessings, with authentic hadith in both traditions describing its characteristics. However, interpretive emphasis differs significantly. Sunni tafsir works like those of Ibn Kathir and Tabari focus primarily on Kawthar as the literal river in Paradise, with detailed descriptions from hadith about its physical attributes. They acknowledge multiple meanings but give less prominence to the progeny interpretation. The historical context of the revelation is agreed upon in both traditions, that it responded to those who mocked the Prophet for lack of sons, particularly after the death of his son Qasim. Shia scholarship, drawing from the Imams' explanations, emphasizes Lady Fatimah and her descendants as manifestations of Kawthar, seeing this as the most significant refutation of the mockery. This interpretation is supported by historical fact that the Prophet's line continued exclusively through Fatimah, while his opponents' lineages faded into obscurity. Fakhr al-Din al-Razi, a respected Sunni scholar, acknowledges in Mafatih al-Ghayb that the Prophet's descendants through Fatimah spread throughout the world while his enemies became truly 'abtar' (cut off). Some Sunni scholars like Qurtubi mention the progeny interpretation but don't emphasize it as central. The theological difference reflects broader divergence on the status of Ahlul Bayt. Both traditions agree this surah provides comfort and divine vindication to the Prophet.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء کوثر کے بنیادی معنی پر متفق ہیں بطور جنت میں ایک نہر اور وافر برکتیں، دونوں روایات میں مستند احادیث اس کی خصوصیات بیان کرتی ہیں۔ تاہم، تفسیری زور نمایاں طور پر مختلف ہے۔ ابن کثیر اور طبری جیسے سنی تفسیری کام بنیادی طور پر کوثر کو جنت میں لفظی نہر کے طور پر اہمیت دیتے ہیں، احادیث سے اس کی جسمانی صفات کی تفصیلی وضاحت کے ساتھ۔ وہ متعدد معانی تسلیم کرتے ہیں لیکن اولاد کی تفسیر کو کم اہمیت دیتے ہیں۔ نزول کا تاریخی سیاق و سباق دونوں روایات میں متفق علیہ ہے، کہ یہ ان لوگوں کے جواب میں آیا جنہوں نے نبی کریم کا بیٹوں کی کمی پر مذاق اڑایا، خاص طور پر آپ کے بیٹے قاسم کی وفات کے بعد۔ شیعہ علم، ائمہ کی وضاحتوں سے اخذ کرتے ہوئے، سیدہ فاطمہ اور ان کی اولاد کو کوثر کے مظاہر کے طور پر اہمیت دیتا ہے، اسے تمسخر کی سب سے اہم تردید کے طور پر دیکھتے ہوئے۔ یہ تفسیر تاریخی حقیقت سے تائید شدہ ہے کہ نبی کریم کی نسل صرف فاطمہ کے ذریعے جاری رہی، جبکہ آپ کے مخالفین کی نسلیں گمنامی میں ختم ہو گئیں۔ فخر الدین رازی، ایک معزز سنی عالم، مفاتیح الغیب میں تسلیم کرتے ہیں کہ نبی کریم کی اولاد فاطمہ کے ذریعے دنیا بھر میں پھیل گئی جبکہ آپ کے دشمن واقعی 'ابتر' یعنی منقطع ہو گئے۔ قرطبی جیسے کچھ سنی علماء اولاد کی تفسیر کا ذکر کرتے ہیں لیکن اسے مرکزی اہمیت نہیں دیتے۔ الہیاتی فرق اہل بیت کی حیثیت پر وسیع تر اختلاف کی عکاسی کرتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ سورہ نبی کریم کو تسلی اور الہی تائید فراہم کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الأساسي للكوثر باعتباره نهراً في الجنة ونعماً وفيرة، وتصفه أحاديث صحيحة في كلا التراثين. بيد أن التأكيد التفسيري يختلف اختلافاً ملحوظاً؛ فكتب التفسير السنية كابن كثير والطبري تتمحور أساساً حول الكوثر بوصفه النهر الحرفي في الجنة، مع وصف مفصَّل لسماته المادية من الأحاديث، وتُقرُّ بتعدد المعاني دون أن تُعلي من شأن تفسير الذرية. والسياق التاريخي للنزول متفق عليه في كلا التراثين بأنه جاء رداً على استهزاء من كانوا يُعيِّرون النبي بعدم البنين لا سيما بعد وفاة ابنه القاسم. أما الفقه الشيعي المستند إلى تفسيرات الأئمة عليهم السلام فيُبرز السيدة فاطمة وذريتها باعتبارهم مظاهر الكوثر الأبرز، ويرى في ذلك الرد الأوفى على تلك الاستهزاءات. ويسنده التاريخ نفسه إذ استمر نسل النبي حصراً من فاطمة بينما اندثر أعداؤه في خضم الزمن. وقد أقر الرازي، العالم السني الجليل، في مفاتيح الغيب بأن ذرية النبي من فاطمة انتشرت في أصقاع الأرض بينما صار أعداؤه أبتراً حقاً. وقد أشار بعض العلماء السنة كالقرطبي إلى تفسير الذرية دون إبرازه محوراً رئيسياً. ويعكس الاختلاف العقدي تبايناً أعمق حول مكانة أهل البيت. ويتفق كلا التراثين على أن هذه السورة تُقدِّم لرسول الله التعزية والبراءة الإلهية."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "108:2:so-pray",
+          "title": "So Pray",
+          "icon": "hands.clap.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "'Fasalli' (فَصَلِّ) - the command to pray in response to divine blessings. The 'fa' (so/therefore) connects gratitude directly to worship, teaching that receiving Allah's gifts demands increased devotion.",
+          "whyItMatters": "Blessings aren't just to enjoy but to deepen our worship. When Allah honors us, our response should be more prayer, more submission, more consciousness of Him.",
+          "position": "topLeft",
+          "arabicHighlight": "فَصَلِّ",
+          "title_urdu": "نماز پڑھو",
+          "coreInsight_urdu": "'فصلّ' - الہی نعمتوں کے جواب میں نماز کا حکم۔ 'فا' (لہذا/پھر) شکر کو براہ راست عبادت سے جوڑتا ہے، سکھاتا ہے کہ اللہ کے تحائف حاصل کرنا بڑھتی ہوئی عقیدت کا تقاضا کرتا ہے۔",
+          "whyItMatters_urdu": "نعمتیں صرف لطف اندوز ہونے کے لیے نہیں بلکہ ہماری عبادت کو گہرا کرنے کے لیے ہیں۔ جب اللہ ہمیں عزت دیتا ہے، تو ہمارا جواب زیادہ نماز، زیادہ اطاعت، اس کے بارے میں زیادہ شعور ہونا چاہیے۔",
+          "title_ar": "فصل",
+          "coreInsight_ar": "'فَصَلِّ' - الأمر بالصلاة استجابة للبركات الإلهية. يربط 'فا' (إذن/لذلك) الشكر مباشرة بالعبادة، معلمًا أن تلقي هدايا الله يتطلب المزيد من التفاني.",
+          "whyItMatters_ar": "البركات ليست فقط للاستمتاع بل لتعميق عبادتنا. عندما يكرمنا الله، يجب أن تكون استجابتنا المزيد من الصلاة، المزيد من الخضوع، المزيد من الوعي به."
+        },
+        {
+          "id": "108:2:to-your-lord",
+          "title": "To Your Lord",
+          "icon": "crown.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Li-Rabbika' (لِرَبِّكَ) - pray specifically to YOUR Lord, emphasizing the intimate, personal relationship. Not to creation, not to intermediaries, but directly to the One who nurtured and blessed you.",
+          "whyItMatters": "Worship must be directed purely to Allah alone. This verse reinforces tawhid - all devotion, gratitude, and submission belong exclusively to the Lord who grants all blessings.",
+          "position": "topRight",
+          "arabicHighlight": "لِرَبِّكَ",
+          "title_urdu": "تمہارے رب کے لیے",
+          "coreInsight_urdu": "'لربک' - خاص طور پر اپنے رب سے دعا کرو، قریبی، ذاتی تعلق پر زور دیتے ہوئے۔ نہ مخلوق سے، نہ واسطوں سے، بلکہ براہ راست اس سے جس نے تمہاری پرورش کی اور تمہیں برکت دی۔",
+          "whyItMatters_urdu": "عبادت خالصتاً صرف اللہ کی طرف ہونی چاہیے۔ یہ آیت توحید کو تقویت دیتی ہے - تمام عقیدت، شکر اور اطاعت خصوصی طور پر اس رب سے تعلق رکھتی ہے جو تمام نعمتیں عطا کرتا ہے۔",
+          "title_ar": "لربك",
+          "coreInsight_ar": "'لِرَبِّكَ' - صلِّ على وجه التحديد لربك، مؤكدًا على العلاقة الحميمة الشخصية. ليس للمخلوقات، ولا للوسطاء، بل مباشرة للذي رباك وباركك.",
+          "whyItMatters_ar": "يجب أن تتوجه العبادة إلى الله وحده خالصة. تعزز هذه الآية التوحيد - كل التفاني والامتنان والخضوع ينتمي حصريًا للرب الذي يمنح كل البركات."
+        },
+        {
+          "id": "108:2:and-sacrifice",
+          "title": "And Sacrifice",
+          "icon": "heart.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Wanhar' (وَٱنْحَرْ) means to sacrifice animals, specifically referring to the ritual of slaughtering during Eid or other acts of worship. It symbolizes giving from what we value in devotion to Allah.",
+          "whyItMatters": "True gratitude involves sacrifice - giving up what we cherish for Allah's sake. Whether literal sacrifice during Eid or metaphorical sacrifice of our desires, we demonstrate sincerity through what we're willing to give up.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱنْحَرْ",
+          "title_urdu": "اور قربانی کرو",
+          "coreInsight_urdu": "'وانحر' کا مطلب جانوروں کی قربانی کرنا ہے، خاص طور پر عید کے دوران یا دیگر عبادت کے اعمال میں ذبح کی رسم کا حوالہ دیتا ہے۔ یہ اللہ کی عقیدت میں جو ہم قدر کرتے ہیں اس میں سے دینے کی علامت ہے۔",
+          "whyItMatters_urdu": "حقیقی شکر قربانی شامل ہے - جو ہم عزیز رکھتے ہیں اسے اللہ کی خاطر چھوڑ دینا۔ چاہے عید کے دوران لفظی قربانی ہو یا ہماری خواہشات کی استعاراتی قربانی، ہم جو چھوڑنے کے لیے تیار ہیں اس کے ذریعے خلوص کا مظاہرہ کرتے ہیں۔",
+          "title_ar": "وانحر",
+          "coreInsight_ar": "'وَٱنْحَرْ' تعني ذبح الحيوانات، وتشير تحديدًا إلى طقوس الذبح خلال العيد أو أعمال العبادة الأخرى. ترمز إلى العطاء مما نقدره تفانيًا لله.",
+          "whyItMatters_ar": "الامتنان الحقيقي يشمل التضحية - التخلي عما نعتز به من أجل الله. سواء كانت تضحية حرفية خلال العيد أو تضحية مجازية برغباتنا، نظهر الإخلاص من خلال ما نحن على استعداد للتخلي عنه."
+        },
+        {
+          "id": "108:2:worship-combo",
+          "title": "Worship Combination",
+          "icon": "sparkles",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Prayer and sacrifice together represent complete worship - the spiritual (salah) and the physical/material (sacrifice). Islam demands holistic devotion engaging both soul and body, worship and wealth.",
+          "whyItMatters": "True religion isn't compartmentalized. We can't claim spiritual devotion while withholding our material resources. Allah asks for our prayers and our possessions, our time and our treasure.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+          "title_urdu": "عبادت کا امتزاج",
+          "coreInsight_urdu": "نماز اور قربانی مل کر مکمل عبادت کی نمائندگی کرتے ہیں - روحانی (نماز) اور جسمانی/مادی (قربانی)۔ اسلام روح اور جسم دونوں کو شامل کرتے ہوئے جامع عقیدت کا مطالبہ کرتا ہے، عبادت اور دولت۔",
+          "whyItMatters_urdu": "حقیقی مذہب تقسیم شدہ نہیں ہے۔ ہم روحانی عقیدت کا دعویٰ نہیں کر سکتے جبکہ اپنے مادی وسائل کو روک رہے ہیں۔ اللہ ہماری نمازوں اور ہماری املاک، ہمارے وقت اور ہمارے خزانے کا مطالبہ کرتا ہے۔",
+          "title_ar": "مزيج العبادة",
+          "coreInsight_ar": "الصلاة والتضحية معًا تمثل العبادة الكاملة - الروحية (الصلاة) والمادية/الجسدية (التضحية). يطالب الإسلام بالتفاني الشامل الذي يشرك الروح والجسد، العبادة والثروة.",
+          "whyItMatters_ar": "الدين الحقيقي غير مجزأ. لا يمكننا ادعاء التفاني الروحي مع حجب مواردنا المادية. يطلب الله صلواتنا وممتلكاتنا، وقتنا وكنوزنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions emphasize the importance of this verse in establishing proper worship. All schools of Islamic jurisprudence derive rulings about prayer and sacrifice from this verse and related hadith. There is consensus that 'fasalli' refers to the ritual prayer, though scholars differ on whether it specifically means Eid prayer or includes all prayers. Regarding sacrifice, Sunni schools have different rulings on whether Eid sacrifice is obligatory or strongly recommended, with the Hanafi school considering it wajib (obligatory) for those who can afford it, while Shafi'i and Maliki schools consider it sunnah muakkadah (emphasized sunnah). Shia jurisprudence, following the Imams' teachings, considers the Eid al-Adha sacrifice obligatory for those performing Hajj and recommended for others. The method of sacrifice has minor differences, with Shia practice requiring specific attention to the direction of slaughter and recitation of Allah's name. Both traditions agree that a portion of the sacrifice must go to the poor. Regarding prayer, the fundamental structure is agreed upon across traditions, though there are differences in details like arm position, recitation practices, and additional recommended prayers. All scholars agree this verse emphasizes sincerity and directing worship to Allah alone. The temporal connection between prayer and sacrifice is universally recognized, with Eid prayer immediately followed by sacrifice. Both traditions see this verse as establishing the principle that divine blessings require grateful worship in response.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اس آیت کی اہمیت پر زور دیتی ہیں درست عبادت قائم کرنے میں۔ فقہ کے تمام مکاتب اس آیت اور متعلقہ احادیث سے نماز اور قربانی کے بارے میں احکام اخذ کرتے ہیں۔ اس بات پر اتفاق ہے کہ 'فَصَلِّ' رسمی نماز سے متعلق ہے، اگرچہ علماء اس پر اختلاف کرتے ہیں کہ آیا یہ خاص طور پر عید کی نماز کا مطلب ہے یا تمام نمازیں شامل ہیں۔ قربانی کے حوالے سے، سنی مکاتب میں مختلف احکام ہیں کہ آیا عید کی قربانی واجب ہے یا سختی سے تاکید شدہ، حنفی مکتب اسے ان لوگوں کے لیے واجب سمجھتا ہے جو برداشت کر سکتے ہیں، جبکہ شافعی اور مالکی مکاتب اسے سنت مؤکدہ سمجھتے ہیں۔ شیعہ فقہ، اماموں کی تعلیمات کی پیروی کرتے ہوئے، عید الاضحیٰ کی قربانی کو حج کرنے والوں کے لیے واجب اور دوسروں کے لیے مستحب سمجھتی ہے۔ قربانی کے طریقے میں معمولی فرق ہیں، شیعہ عمل میں ذبح کی سمت اور اللہ کے نام کی تلاوت پر خاص توجہ کی ضرورت ہوتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ قربانی کا ایک حصہ غریبوں کو جانا چاہیے۔ نماز کے حوالے سے، بنیادی ڈھانچے پر اتفاق ہے، اگرچہ تفصیلات میں فرق ہیں جیسے بازو کی پوزیشن، تلاوت کے طریقے، اور اضافی مستحب نمازیں۔ تمام علماء اس بات پر متفق ہیں کہ یہ آیت اخلاص اور عبادت کو صرف اللہ کی طرف کرنے پر زور دیتی ہے۔ نماز اور قربانی کے درمیان وقتی تعلق عالمی طور پر تسلیم شدہ ہے، عید کی نماز کے فوراً بعد قربانی کی جاتی ہے۔ دونوں روایات اس آیت کو اس اصول کے قیام کے طور پر دیکھتی ہیں کہ الہی نعمتوں کے جواب میں شکر گزار عبادت کی ضرورت ہے۔",
+    "layer4_ar": "يُعلي كلٌّ من التراثين الشيعي والسني من شأن هذه الآية في إرساء أحكام العبادة الصحيحة. وتستمد جميع مذاهب الفقه الإسلامي أحكام الصلاة والأضحية من هذه الآية وما ورد في السنة من أحاديث. وثمة إجماع على أن \"فصلِّ\" تُشير إلى الصلاة المفروضة وإن اختلف العلماء في كونها صلاة العيد تحديداً أم تشمل سائر الصلوات. أما في النحر فالمذاهب السنية متباينة في أحكام الأضحية؛ إذ يرى الحنفية وجوبها على المستطيع، في حين يعدها الشافعية والمالكية سنة مؤكدة. ويعتبر الفقه الشيعي تبعاً لتعاليم الأئمة أضحية الحج واجبة على الحاج ومستحبة لسواه. وثمة فروق يسيرة في طريقة الذبح، إذ يستلزم الفقه الشيعي الاعتناء بجهة الذبح والإتيان بالتسمية الكاملة. ويتفق كلا التراثين على وجوب توزيع قدر من الأضحية على الفقراء. وفيما يخص الصلاة فالهيكل الأساسي متفق عليه في المذاهب جميعاً، وإن اختلفت التفاصيل في وضع اليدين وكيفية القراءة والصلوات التطوعية المستحبة. ويجمع العلماء على تأكيد الآية الإخلاصَ وإفراد العبادة لله وحده. وتُسلَّم بالاتفاق الصلةُ الزمنية بين الصلاة والنحر، إذ تعقب صلاة العيد الأضحية مباشرة. ويرى كلا التراثين أن الآية تُؤصِّل لمبدأ أن النعم الإلهية تستوجب شكراً يتجلى في العبادة الصادقة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "108:3:your-enemy",
+          "title": "Your Enemy",
+          "icon": "exclamationmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "'Shani'aka' (شَانِئَكَ) refers to those who intensely hate you, your message, and everything you represent. The term emphasizes deep-seated enmity, not casual disagreement.",
+          "whyItMatters": "Recognizing that opposition to truth comes from hatred, not reason, helps us understand why some people reject clear guidance. We shouldn't take their rejection personally - it's about them, not us.",
+          "position": "topLeft",
+          "arabicHighlight": "شَانِئَكَ",
+          "title_urdu": "تمہارا دشمن",
+          "coreInsight_urdu": "'شانئک' ان لوگوں کا حوالہ دیتا ہے جو تم سے، تمہارے پیغام سے، اور جو کچھ تم نمائندگی کرتے ہو اس سے شدید نفرت کرتے ہیں۔ اصطلاح گہری دشمنی پر زور دیتی ہے، نہ کہ عام اختلاف۔",
+          "whyItMatters_urdu": "یہ تسلیم کرنا کہ سچائی کی مخالفت نفرت سے آتی ہے، دلیل سے نہیں، ہمیں سمجھنے میں مدد کرتا ہے کہ کچھ لوگ واضح رہنمائی کو کیوں مسترد کرتے ہیں۔ ہمیں ان کی مسترد کو ذاتی طور پر نہیں لینا چاہیے - یہ ان کے بارے میں ہے، ہمارے بارے میں نہیں۔",
+          "title_ar": "عدوك",
+          "coreInsight_ar": "'شَانِئَكَ' يشير إلى أولئك الذين يكرهونك بشدة، ورسالتك، وكل ما تمثله. يؤكد المصطلح على العداوة العميقة، وليس الخلاف العارض.",
+          "whyItMatters_ar": "إن إدراك أن المعارضة للحق تأتي من الكراهية، وليس العقل، يساعدنا على فهم سبب رفض بعض الناس للإرشاد الواضح. لا يجب أن نأخذ رفضهم بشكل شخصي - إنه عنهم، وليس عنا."
+        },
+        {
+          "id": "108:3:he-is",
+          "title": "He Is",
+          "icon": "arrow.turn.up.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "'Huwa' (هُوَ) - the emphatic pronoun 'he is' - intensifies the statement. Not you, but HE, your enemy, is the one who will be cut off. The emphasis reverses their accusation back onto them.",
+          "whyItMatters": "Allah defends His faithful servants. When people attack us for doing right, Allah Himself answers on our behalf, turning their slander back upon them. We don't need to defend ourselves - He does it.",
+          "position": "topRight",
+          "arabicHighlight": "هُوَ ٱلْأَبْتَرُ",
+          "title_urdu": "وہ ہے",
+          "coreInsight_urdu": "'ہوَ' - زوردار ضمیر 'وہ ہے' - بیان کو تیز کرتا ہے۔ تم نہیں، بلکہ وہ، تمہارا دشمن، وہ ہے جو کاٹ دیا جائے گا۔ زور ان کے الزام کو واپس ان پر پلٹ دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ اپنے وفادار بندوں کا دفاع کرتا ہے۔ جب لوگ صحیح کام کرنے کے لیے ہم پر حملہ کرتے ہیں، تو اللہ خود ہماری جانب سے جواب دیتا ہے، ان کی تہمت کو واپس ان پر پلٹ دیتا ہے۔ ہمیں اپنا دفاع کرنے کی ضرورت نہیں ہے - وہ کرتا ہے۔",
+          "title_ar": "هو",
+          "coreInsight_ar": "'هُوَ' - الضمير التوكيدي 'هو' - يكثف البيان. ليس أنت، بل هو، عدوك، هو الذي سيُقطع. يعكس التوكيد اتهامهم عليهم.",
+          "whyItMatters_ar": "يدافع الله عن عباده المخلصين. عندما يهاجمنا الناس لفعل الصواب، يجيب الله نفسه نيابة عنا، مقلبًا افتراءهم عليهم. لا نحتاج للدفاع عن أنفسنا - هو يفعل ذلك."
+        },
+        {
+          "id": "108:3:the-cut-off",
+          "title": "The Cut-Off",
+          "icon": "scissors",
+          "colorHex": "#E8B86D",
+          "coreInsight": "'Al-Abtar' (ٱلْأَبْتَرُ) means cut off - having no legacy, no remembrance, no lasting impact. The enemies called the Prophet this because he had no surviving sons. Allah reverses it: they are the truly cut off.",
+          "whyItMatters": "True legacy isn't biological descendants but spiritual impact. The Prophet's enemies are forgotten while he is remembered by billions. What matters is the legacy of faith and righteousness, not bloodlines.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْأَبْتَرُ",
+          "title_urdu": "کٹا ہوا",
+          "coreInsight_urdu": "'الابتر' کا مطلب کٹا ہوا ہے - کوئی میراث نہیں، کوئی یاد نہیں، کوئی دائمی اثر نہیں۔ دشمنوں نے نبی کو یہ کہا کیونکہ ان کے کوئی زندہ بیٹے نہیں تھے۔ اللہ اسے الٹ دیتا ہے: وہ حقیقت میں کٹے ہوئے ہیں۔",
+          "whyItMatters_urdu": "حقیقی میراث حیاتیاتی اولاد نہیں بلکہ روحانی اثر ہے۔ نبی کے دشمن بھلا دیے گئے جبکہ انہیں اربوں لوگ یاد رکھتے ہیں۔ جو اہم ہے وہ ایمان اور نیکی کی میراث ہے، نہ کہ خاندانی نسب۔",
+          "title_ar": "الأبتر",
+          "coreInsight_ar": "'ٱلْأَبْتَرُ' يعني المقطوع - لا إرث، لا ذكرى، لا تأثير دائم. دعا الأعداء النبي بهذا لأنه لم يكن له أبناء على قيد الحياة. يعكس الله ذلك: هم المقطوعون حقًا.",
+          "whyItMatters_ar": "الإرث الحقيقي ليس الأحفاد البيولوجيين بل التأثير الروحي. نُسي أعداء النبي بينما يتذكره المليارات. ما يهم هو إرث الإيمان والصلاح، وليس السلالات."
+        },
+        {
+          "id": "108:3:divine-justice",
+          "title": "Divine Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "This verse demonstrates divine justice - those who mock believers for apparent worldly losses will find themselves truly bereft in the Hereafter, while believers enjoy eternal honor and legacy.",
+          "whyItMatters": "Never judge by temporary appearances. What seems like loss in this world can be gain in the next, and what seems like success here can be complete failure there. Trust Allah's ultimate justice.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+          "title_urdu": "الہی انصاف",
+          "coreInsight_urdu": "یہ آیت الہی انصاف کا مظاہرہ کرتی ہے - جو لوگ مومنین کا ظاہری دنیاوی نقصانات کے لیے مذاق اڑاتے ہیں وہ خود کو آخرت میں حقیقت میں محروم پائیں گے، جبکہ مومن ابدی عزت اور میراث سے لطف اندوز ہوں گے۔",
+          "whyItMatters_urdu": "کبھی بھی عارضی ظاہری شکل سے فیصلہ نہ کریں۔ جو اس دنیا میں نقصان لگتا ہے وہ اگلی میں فائدہ ہو سکتا ہے، اور جو یہاں کامیابی لگتی ہے وہ وہاں مکمل ناکامی ہو سکتی ہے۔ اللہ کے حتمی انصاف پر بھروسہ کریں۔",
+          "title_ar": "العدالة الإلهية",
+          "coreInsight_ar": "تظهر هذه الآية العدالة الإلهية - أولئك الذين يسخرون من المؤمنين بسبب الخسائر الدنيوية الظاهرة سيجدون أنفسهم محرومين حقًا في الآخرة، بينما يستمتع المؤمنون بالشرف والإرث الأبدي.",
+          "whyItMatters_ar": "لا تحكم أبدًا بالمظاهر المؤقتة. ما يبدو خسارة في هذا العالم يمكن أن يكون ربحًا في الآخر، وما يبدو نجاحًا هنا يمكن أن يكون فشلاً تامًا هناك. ثق بعدالة الله النهائية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic meaning of this verse as a reversal of insults against the Prophet. Classical Sunni tafsir by Ibn Kathir, Tabari, and Qurtubi identify several individuals who mocked the Prophet for lacking sons, particularly As ibn Wa'il and Uqbah ibn Abi Mu'ayt. They document how these individuals died in disgrace and their lineages either died out or became insignificant. There is universal agreement that the verse proved prophetically accurate, as the Prophet's influence grew while his enemies' legacies perished. Sunni commentators emphasize that the Prophet's message itself is his enduring legacy, with the ummah as his spiritual progeny. They note that being 'abtar' applies to all enemies of Islam throughout history. The major difference lies in Shia emphasis on the Ahlul Bayt as the primary manifestation of the Prophet's abundance and the primary target of the enmity mentioned. Shia scholars connect this verse to historical conflicts over succession and the persecution of the Prophet's family, seeing opposition to the Imams as the continuation of the enmity referenced here. Some Sunni scholars like Fakhr al-Din al-Razi acknowledge that the Prophet's descendants through Fatimah spread worldwide while his enemies' families indeed became 'abtar'. Both traditions use this verse to provide comfort to believers facing opposition, though Shia interpretation particularly emphasizes loyalty to the Ahlul Bayt as the criterion of genuine connection to the Prophet. All scholars agree this verse demonstrates divine protection of the Prophet's honor and the ultimate triumph of truth over falsehood.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی معنی پر متفق ہیں بطور نبی کریم کے خلاف توہینوں کا الٹ پھیر۔ ابن کثیر، طبری، اور قرطبی جیسی کلاسیکی سنی تفسیر متعدد افراد کی شناخت کرتی ہے جنہوں نے نبی کریم کو بیٹوں کی کمی پر طعنہ دیا، خاص طور پر عاص بن وائل اور عقبہ بن ابی معیط۔ وہ درج کرتے ہیں کہ کیسے یہ افراد رسوائی میں مرے اور ان کی نسلیں یا تو ختم ہو گئیں یا غیر اہم ہو گئیں۔ اس بات پر عالمگیر اتفاق ہے کہ آیت نبوی طور پر درست ثابت ہوئی، کیونکہ نبی کریم کا اثر بڑھا جبکہ آپ کے دشمنوں کی میراثیں ختم ہو گئیں۔ سنی مفسرین تاکید کرتے ہیں کہ نبی کریم کا پیغام خود آپ کی دیرپا میراث ہے، امت کے ساتھ بطور آپ کی روحانی اولاد۔ وہ نوٹ کرتے ہیں کہ 'ابتر' ہونا تاریخ بھر میں اسلام کے تمام دشمنوں پر لاگو ہوتا ہے۔ بڑا فرق شیعہ تاکید میں ہے اہل بیت پر بطور نبی کریم کی وفور کا بنیادی مظہر اور یہاں ذکر شدہ دشمنی کا بنیادی ہدف۔ شیعہ علماء اس آیت کو جانشینی پر تاریخی تنازعات اور نبی کریم کے خاندان کے ظلم سے جوڑتے ہیں، اماموں کی مخالفت کو یہاں ذکر شدہ دشمنی کا تسلسل دیکھتے ہوئے۔ فخر الدین رازی جیسے کچھ سنی علماء تسلیم کرتے ہیں کہ نبی کریم کی اولاد فاطمہ کے ذریعے دنیا بھر میں پھیل گئی جبکہ آپ کے دشمنوں کے خاندان واقعی 'ابتر' ہو گئے۔ دونوں روایات اس آیت کو مخالفت کا سامنا کرنے والے مومنین کو تسلی فراہم کرنے کے لیے استعمال کرتی ہیں، اگرچہ شیعہ تفسیر خاص طور پر اہل بیت سے وفاداری کو نبی کریم سے حقیقی تعلق کے معیار کے طور پر اجاگر کرتی ہے۔ تمام علماء اس بات پر متفق ہیں کہ یہ آیت نبی کریم کی عزت کے الہی تحفظ اور سچائی کی جھوٹ پر حتمی فتح کا مظاہرہ کرتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الأساسي للآية بوصفها انقلاباً للإهانة الموجَّهة إلى النبي صلى الله عليه وآله وسلم. ويُحدِّد تفسير ابن كثير والطبري والقرطبي من علماء السنة الكلاسيكيين أشخاصاً بعينهم ممن سخروا من النبي بسبب افتقاده البنين ويتصدرهم العاص بن وائل وعقبة بن أبي معيط. ويُوثِّقون كيف مات هؤلاء في خزي وانقطعت ذرياتهم أو ضاعت في غياهب النسيان. وثمة إجماع على أن الآية أثبتت صحة نبوءتها تاريخياً، إذ ترامى أثر النبي بينما هلك إرث أعدائه. ويُؤكِّد المعلِّقون السنة أن رسالة النبي نفسها هي إرثه الدائم بالأمة ذريته الروحية. وأن انطباق \"الأبتر\" يشمل كل أعداء الإسلام عبر التاريخ. ويكمن الاختلاف الجوهري في تأكيد الشيعة على أهل البيت عليهم السلام باعتبارهم المظهر الأول لوفرة النبي والهدف الأول للعداء المذكور في الآية، إذ يربط علماء الشيعة هذه الآية بالنزاعات التاريخية حول الخلافة واضطهاد آل النبي، رائين في معارضة الأئمة امتداداً للعداء المُشار إليه. وقد أقر بعض علماء السنة كفخر الدين الرازي بأن ذرية النبي من فاطمة انتشرت في أرجاء المعمورة بينما صار أعداؤه أبتر حقاً. ويستعمل كلا التراثين هذه الآية سنداً للمؤمنين في مواجهة العداء، وإن كان التفسير الشيعي يُشدِّد بصفة خاصة على أن الوفاء لأهل البيت هو معيار الارتباط الحق بالنبي. ويتفق الجميع على أن الآية تُجلِّي الحماية الإلهية لشرف النبي وانتصار الحق على الباطل."
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:1:universal-glorification",
+          "title": "Universal Glorification",
+          "icon": "sparkles",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "All creation in the heavens and earth continuously glorifies Allah, demonstrating the inherent submission of every particle to divine order.",
+          "whyItMatters": "Understanding this universal tasbih transforms our perspective - we're not isolated worshippers but participants in creation's eternal symphony of praise.",
+          "position": "topLeft",
+          "arabicHighlight": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "کائنات کی تسبیح",
+          "coreInsight_urdu": "آسمانوں اور زمین میں موجود ہر چیز مسلسل اللہ کی تسبیح کرتی ہے، جو تخلیق کے ہر ذرے کی الہی نظام کے سامنے فطری تسلیم کا مظاہرہ ہے۔",
+          "whyItMatters_urdu": "اس عالمگیر تسبیح کو سمجھنا ہمارے نقطہ نظر کو بدل دیتا ہے - ہم تنہا عبادت گزار نہیں بلکہ کائنات کی ابدی حمد کی سمفنی میں شریک ہیں۔",
+          "title_ar": "التسبيح الكوني",
+          "coreInsight_ar": "كل ما في السماوات والأرض يسبح لله باستمرار، مما يدل على الخضوع الفطري لكل ذرة للنظام الإلهي.",
+          "whyItMatters_ar": "فهم هذا التسبيح الشامل يحول منظورنا - لسنا عابدين منعزلين بل مشاركين في سيمفونية الكون الأبدية للتسبيح."
+        },
+        {
+          "id": "61:1:divine-attributes",
+          "title": "Might & Wisdom",
+          "icon": "crown.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah combines Al-Aziz (the Exalted in Might) with Al-Hakim (the Wise), showing that divine power is never arbitrary but always purposeful.",
+          "whyItMatters": "When facing trials, knowing Allah's might is paired with wisdom brings peace - difficulties aren't random but serve His perfect plan.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          "title_urdu": "قدرت اور حکمت",
+          "coreInsight_urdu": "اللہ العزیز (صاحب عزت) کو الحکیم (حکمت والا) کے ساتھ ملاتا ہے، یہ ظاہر کرتا ہے کہ الہی طاقت کبھی من مانی نہیں بلکہ ہمیشہ مقصد کے ساتھ ہے۔",
+          "whyItMatters_urdu": "آزمائشوں کا سامنا کرتے وقت، یہ جاننا کہ اللہ کی قدرت حکمت کے ساتھ ہے، سکون لاتا ہے - مشکلات بے ترتیب نہیں بلکہ اس کے کامل منصوبے کی خدمت کرتی ہیں۔",
+          "title_ar": "العزة والحكمة",
+          "coreInsight_ar": "يجمع الله بين العزيز والحكيم، مما يدل على أن القوة الإلهية ليست تعسفية أبدًا بل دائمًا هادفة.",
+          "whyItMatters_ar": "عند مواجهة المحن، معرفة أن عزة الله مقترنة بالحكمة تجلب السلام - الصعوبات ليست عشوائية بل تخدم خطته الكاملة."
+        },
+        {
+          "id": "61:1:cosmic-submission",
+          "title": "Cosmic Submission",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The entire universe operates in perfect submission to Allah's will, with every element fulfilling its designated purpose in the divine order.",
+          "whyItMatters": "Recognizing creation's inherent obedience inspires us to align our conscious choices with the natural harmony that governs existence.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
+          "title_urdu": "کائناتی تسلیم",
+          "coreInsight_urdu": "پوری کائنات اللہ کی مرضی کے مکمل تسلیم میں کام کرتی ہے، ہر عنصر الہی نظام میں اپنے مقرر کردہ مقصد کو پورا کرتا ہے۔",
+          "whyItMatters_urdu": "تخلیق کی فطری فرمانبرداری کو پہچاننا ہمیں اپنے شعوری انتخاب کو فطری ہم آہنگی کے ساتھ ہم آہنگ کرنے کی ترغیب دیتا ہے۔",
+          "title_ar": "الخضوع الكوني",
+          "coreInsight_ar": "الكون بأكمله يعمل في خضوع تام لإرادة الله، مع كل عنصر يحقق غرضه المحدد في النظام الإلهي.",
+          "whyItMatters_ar": "إدراك الطاعة الفطرية للخلق يلهمنا لمواءمة خياراتنا الواعية مع الانسجام الطبيعي الذي يحكم الوجود."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental meaning of this verse: universal glorification of Allah and affirmation of His might and wisdom. Fakhr al-Din al-Razi in his tafsir discusses how the verse establishes divine attributes, while Tabatabai adds the ontological dimension of existential glorification. Sunni scholars like Ibn Kathir emphasize that this glorification occurs in ways beyond human comprehension, a view shared by Shia exegetes. A key difference emerges in application: Shia scholars connect these divine attributes more explicitly to the concept of divine justice (adl) and the necessity of divinely appointed leadership to manifest Allah's wisdom on earth. Sunni interpretations focus more on individual submission to Allah's will through the revealed law. Both traditions agree that recognizing these attributes should produce humility and commitment to righteous struggle. The comparative study reveals that the theological foundation is shared, while its implications for religious authority and community leadership show traditional differences between the schools.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت کے بنیادی معنی پر متفق ہیں: اللہ کی عالمگیر تسبیح اور اس کی طاقت و حکمت کی تصدیق۔ فخر الدین الرازی تفسیر میں الٰہی صفات کے بارے میں بات کرتے ہیں جبکہ طباطبائی وجودی تسبیح کے تصور کو شامل کرتے ہیں۔ ابن کثیر اور دیگر سنی علما اس بات پر تاکید دیتے ہیں کہ یہ تسبیح ایسے انداز میں ہوتی ہے جو انسانی سمجھ سے بالاتر ہے۔ شیعہ اور سنی دونوں اس نکتے میں فرق ہے کہ شیعہ علما ان صفات کو مزید صریح طور پر الٰہی عدل اور زمین پر حکمت کے ظہور کے لیے الہام شدہ قیادت کی ضرورت سے منسلک کرتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على المعنى الجوهري لهذه الآية الكريمة، وهو التسبيح الكوني الشامل لله تعالى، وإثبات صفتَي القوة والحكمة له سبحانه. ويُناقش فخر الدين الرازي في تفسيره كيف تُثبت الآية الصفات الإلهية، فيما يُضيف الطباطبائي البُعد الوجودي للتسبيح التكويني. ويُؤكِّد علماء السنة كابن كثير أن هذا التسبيح يجري بأساليب تتخطى الإدراك البشري، وهو رأي يُشاركهم فيه المفسرون الشيعة. ويبرز فارق دلالي في التطبيق؛ إذ يربط علماء الشيعة هذه الصفات الإلهية ربطاً أوضح بمفهوم العدل الإلهي ومبدأ ضرورة وجود قيادة إلهية التعيين تُجسِّد حكمة الله على الأرض. في حين تتمحور التفسيرات السنية أكثر حول الاستسلام الفردي لإرادة الله من خلال التشريع المنزَّل. ويُجمع الفريقان على أن الإقرار بهذه الصفات ينبغي أن يُولِّد التواضع والانقياد والالتزام بالجهاد في سبيل الحق. ويكشف البحث المقارن أن الأرضية العقدية مُشتركة بين المذهبَين، بينما تبدو الفوارق في التطبيق المتعلق بالسلطة الدينية وقيادة المجتمع على النحو الذي جرت عليه التقاليد الراسخة في كل مذهب."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:2:words-actions-gap",
+          "title": "Words vs Actions",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah directly confronts believers about the dangerous disconnect between what they profess and what they practice, highlighting hypocrisy as a spiritual disease.",
+          "whyItMatters": "Authentic faith requires alignment between speech and behavior - empty words without corresponding actions undermine personal integrity and community trust.",
+          "position": "topLeft",
+          "arabicHighlight": "لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+          "title_urdu": "قول اور عمل",
+          "coreInsight_urdu": "اللہ براہ راست مومنوں سے ان کے اقرار اور عمل کے درمیان خطرناک فاصلے کے بارے میں سوال کرتا ہے، منافقت کو روحانی بیماری کے طور پر اجاگر کرتا ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان کے لیے قول اور عمل میں ہم آہنگی ضروری ہے - متعلقہ اعمال کے بغیر خالی الفاظ ذاتی دیانت اور اجتماعی اعتماد کو کمزور کرتے ہیں۔",
+          "title_ar": "الأقوال والأفعال",
+          "coreInsight_ar": "يواجه الله المؤمنين مباشرة حول الانفصال الخطير بين ما يعلنون وما يمارسون، مسلطًا الضوء على النفاق كمرض روحي.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب التوافق بين الكلام والسلوك - الكلمات الفارغة دون أفعال مقابلة تقوض النزاهة الشخصية والثقة المجتمعية."
+        },
+        {
+          "id": "61:2:accountability-call",
+          "title": "Divine Accountability",
+          "icon": "scale.3d",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The rhetorical question 'Why do you say what you do not do?' establishes that believers will be held accountable not just for actions but for inconsistency.",
+          "whyItMatters": "This verse creates urgency for self-examination - we must regularly audit our promises, commitments, and declarations against our actual conduct.",
+          "position": "topRight",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "الہی جوابدہی",
+          "coreInsight_urdu": "بیانیہ سوال 'تم کیوں کہتے ہو جو نہیں کرتے؟' قائم کرتا ہے کہ مومنوں سے صرف اعمال کے لیے نہیں بلکہ عدم مطابقت کے لیے بھی جواب طلب کیا جائے گا۔",
+          "whyItMatters_urdu": "یہ آیت خود احتسابی کے لیے فوریت پیدا کرتی ہے - ہمیں باقاعدگی سے اپنے وعدوں، عہدوں اور اعلانات کا اپنے حقیقی طرز عمل کے خلاف جائزہ لینا چاہیے۔",
+          "title_ar": "المساءلة الإلهية",
+          "coreInsight_ar": "السؤال البلاغي 'لم تقولون ما لا تفعلون؟' يؤسس أن المؤمنين سيُحاسبون ليس فقط على الأفعال بل على عدم الاتساق.",
+          "whyItMatters_ar": "هذه الآية تخلق إلحاحًا للفحص الذاتي - يجب أن نراجع بانتظام وعودنا والتزاماتنا وتصريحاتنا مقابل سلوكنا الفعلي."
+        },
+        {
+          "id": "61:2:community-integrity",
+          "title": "Community Trust",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Addressing believers collectively emphasizes that hypocrisy damages not just individual faith but erodes the moral foundation of the entire Muslim community.",
+          "whyItMatters": "Personal integrity directly impacts collective strength - when believers fail to honor their words, the ummah loses credibility and internal cohesion.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "اجتماعی اعتماد",
+          "coreInsight_urdu": "مومنوں کو اجتماعی طور پر خطاب کرنا اس بات پر زور دیتا ہے کہ منافقت نہ صرف انفرادی ایمان کو نقصان پہنچاتی ہے بلکہ پوری مسلم کمیونٹی کی اخلاقی بنیاد کو کمزور کرتی ہے۔",
+          "whyItMatters_urdu": "ذاتی دیانتداری براہ راست اجتماعی طاقت کو متاثر کرتی ہے - جب مومنین اپنے الفاظ کی تعظیم نہیں کرتے تو امت ساکھ اور اندرونی ہم آہنگی کھو دیتی ہے۔",
+          "title_ar": "ثقة المجتمع",
+          "coreInsight_ar": "مخاطبة المؤمنين جماعيًا تؤكد أن النفاق لا يضر الإيمان الفردي فقط بل يقوض الأساس الأخلاقي للمجتمع الإسلامي بأكمله.",
+          "whyItMatters_ar": "النزاهة الشخصية تؤثر مباشرة على القوة الجماعية - عندما يفشل المؤمنون في الوفاء بكلماتهم، تفقد الأمة المصداقية والتماسك الداخلي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes agree that this verse severely criticizes the gap between verbal profession and action. Ibn Kathir and Qurtubi cite similar historical contexts to Shia sources regarding early Muslims who promised participation in jihad but failed to fulfill their commitments. Tabari's interpretation aligns with Tabatabai in seeing this as addressing a specific incident that yields a universal principle. A subtle difference appears in emphasis: Shia scholars tend to connect this more explicitly to the concept of nifaq (hypocrisy) as a spiritual disease requiring purification through following the Ahlul Bayt's example. Sunni interpretations focus more on individual accountability before Allah. Both traditions cite prophetic hadith warning against saying what one does not do. The verse's universal message about integrity transcends sectarian boundaries, though Shia scholarship emphasizes that perfect embodiment of word and deed is found in the Ma'sumin (Infallibles) who provide the model for believers. This comparative lens shows essential unity in moral teaching despite differences in exemplary models.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین لفظی اقرار اور عملی کردار میں شدید تنقید پر متفق ہیں۔ ابن کثیر اور قرطبی شیعہ ذرائع کی طرح ہی تاریخی سیاق درج کرتے ہیں۔ طبری کی تفسیر طباطبائی کے ساتھ مماثل ہے۔ دونوں روایتوں میں نبوی احادیث موجود ہیں جو اس کام کرنے سے خطرناک کے بارے میں انتباہ دیتی ہیں۔ تاہم، ایک لطیف فرق ہے تاکید میں: شیعہ علما اسے زیادہ واضح طور پر روحانی بیماری سے منسلک کرتے ہیں جس کے لیے معصومین کی پیروی ضروری ہے۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على أن هذه الآية توجِّه نقداً حاداً للهوَّة القائمة بين الإقرار اللفظي والعمل الفعلي. ويستشهد ابن كثير والقرطبي بسياقات تاريخية تتوافق مع المصادر الشيعية فيما يخص بعض المسلمين الأوائل الذين وعدوا بالمشاركة في الجهاد ثم أخفقوا في الوفاء بتلك الوعود. ويتفق تفسير الطبري مع الطباطبائي في النظر إلى هذا على أنه حادثة بعينها تُفضي إلى مبدأ كوني شامل. وثمة فارق دقيق في التأكيد؛ إذ يميل علماء الشيعة إلى ربط هذا ربطاً أوضح بمفهوم النفاق بوصفه مرضاً روحياً يستوجب التطهر والعلاج من خلال الاقتداء بنهج أهل البيت عليهم السلام. بينما تُركِّز التفسيرات السنية على المساءلة الفردية أمام الله. وتستشهد كلتا المدرستَين بأحاديث نبوية تُحذِّر من قول ما لا يُفعَل. والرسالة الكونية للآية في الدعوة إلى الصدق والنزاهة تتجاوز الحدود المذهبية، غير أن الفكر الشيعي يُشدِّد على أن التجسيد الكامل لتطابق القول والعمل إنما يتحقق في المعصومين الذين يُمثِّلون النموذج الأمثل للمؤمنين. ويكشف هذا المنظور المقارن عن وحدة جوهرية في التعليم الأخلاقي على الرغم من الفوارق في النماذج المُحتذى بها."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:3:divine-hatred",
+          "title": "Divine Displeasure",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The intensity of Allah's displeasure toward hypocrisy is captured in 'maqtan' - a profound hatred that emphasizes the gravity of saying what one doesn't do.",
+          "whyItMatters": "Understanding the severity of Allah's view on inconsistency motivates genuine transformation rather than superficial compliance with religious teachings.",
+          "position": "topLeft",
+          "arabicHighlight": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ",
+          "title_urdu": "الہی ناراضگی",
+          "coreInsight_urdu": "منافقت کے تئیں اللہ کی ناراضگی کی شدت 'مقتاً' میں پکڑی گئی ہے - ایک گہری نفرت جو یہ کہنے کی سنگینی پر زور دیتی ہے جو کوئی نہیں کرتا۔",
+          "whyItMatters_urdu": "عدم مطابقت پر اللہ کے نقطہ نظر کی شدت کو سمجھنا مذہبی تعلیمات کی سطحی تعمیل کے بجائے حقیقی تبدیلی کی ترغیب دیتا ہے۔",
+          "title_ar": "السخط الإلهي",
+          "coreInsight_ar": "شدة سخط الله على النفاق محصورة في 'مقتًا' - كراهية عميقة تؤكد خطورة قول ما لا يفعله المرء.",
+          "whyItMatters_ar": "فهم شدة نظرة الله للتناقض يحفز التحول الحقيقي بدلاً من الامتثال السطحي للتعاليم الدينية."
+        },
+        {
+          "id": "61:3:hypocrisy-weight",
+          "title": "Gravity of Hypocrisy",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'kabura' (great/immense) amplifies the magnitude of this sin, placing verbal inconsistency among the most serious spiritual failures.",
+          "whyItMatters": "Recognizing hypocrisy as a major sin, not a minor character flaw, demands urgent attention to aligning our declarations with our deeds.",
+          "position": "topRight",
+          "arabicHighlight": "أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+          "title_urdu": "منافقت کی سنگینی",
+          "coreInsight_urdu": "لفظ 'کبر' (عظیم) اس گناہ کی شدت کو بڑھاتا ہے، زبانی عدم مطابقت کو سب سے سنگین روحانی ناکامیوں میں رکھتا ہے۔",
+          "whyItMatters_urdu": "منافقت کو ایک بڑے گناہ کے طور پر پہچاننا، نہ کہ ایک معمولی کردار کی خامی، ہمارے اعلانات کو ہمارے اعمال کے ساتھ ہم آہنگ کرنے کے لیے فوری توجہ کا تقاضا کرتا ہے۔",
+          "title_ar": "خطورة النفاق",
+          "coreInsight_ar": "كلمة 'كبر' (عظيم) تضخم حجم هذا الذنب، واضعة عدم الاتساق اللفظي بين أخطر الإخفاقات الروحية.",
+          "whyItMatters_ar": "إدراك النفاق كذنب كبير، وليس عيبًا طفيفًا في الشخصية، يتطلب اهتمامًا عاجلاً بمواءمة تصريحاتنا مع أفعالنا."
+        },
+        {
+          "id": "61:3:spiritual-integrity",
+          "title": "Spiritual Integrity",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "True faith demands congruence between inner conviction, outward speech, and physical action - creating a unified spiritual identity.",
+          "whyItMatters": "Building this integrity protects against moral fragmentation, where compartmentalized beliefs lead to cognitive dissonance and spiritual weakness.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَقْتًا عِندَ ٱللَّهِ",
+          "title_urdu": "روحانی دیانت",
+          "coreInsight_urdu": "حقیقی ایمان اندرونی یقین، ظاہری گفتگو، اور جسمانی عمل کے درمیان مطابقت کا تقاضا کرتا ہے - ایک متحد روحانی شناخت بناتا ہے۔",
+          "whyItMatters_urdu": "اس دیانت کو بنانا اخلاقی تقسیم کے خلاف حفاظت کرتا ہے، جہاں تقسیم شدہ عقائد علمی تضاد اور روحانی کمزوری کا باعث بنتے ہیں۔",
+          "title_ar": "النزاهة الروحية",
+          "coreInsight_ar": "الإيمان الحقيقي يتطلب التطابق بين القناعة الداخلية والكلام الخارجي والعمل الجسدي - خلق هوية روحية موحدة.",
+          "whyItMatters_ar": "بناء هذه النزاهة يحمي من التفتت الأخلاقي، حيث تؤدي المعتقدات المجزأة إلى التنافر المعرفي والضعف الروحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators recognize the severity of this verse. Qurtubi, like Tabatabai, emphasizes that 'maqt' represents an intense form of divine displeasure. Razi discusses the grammatical structure that emphasizes the magnitude of this hatred. Ibn Kathir cites hadith about the gravity of saying what one does not do. The consensus across traditions is clear: this behavior is among the most serious spiritual diseases. A nuanced difference appears in remedy: Shia scholarship emphasizes purification through following the Ahlul Bayt's example and the guidance of the living Imam who embodies perfect alignment of word and deed. Sunni approaches focus more on individual repentance and commitment to the Prophetic sunnah. Both traditions cite the hadith where the Prophet said that a person who says what they do not do will have it written as testimony against them on the Day of Judgment. The verse's universal moral teaching transcends sectarian differences while the paths to embodying that teaching reflect each tradition's distinctive emphases on authority and spiritual guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں لفظی اقرار اور عملی کردار میں اس شدید فرق کو تسلیم کرتے ہیں۔ ابن کثیر اور قرطبی طباطبائی جیسے شیعہ ذرائع سے ملتی جلتی تاریخی سیاق بیان کرتے ہیں۔ طبری کی تفسیر طباطبائی سے موافقت رکھتی ہے۔ اتفاق کے ساتھ روایتیں یہ انتباہ دیتی ہیں کہ ایسا کردار الٹاہی عدالت کے روز اپنے خلاف شہادت لکھایا جائے گا۔ شیعہ اور سنی دونوں روایتیں اس شدید انتباہ کو تسلیم کرتی ہیں، اگرچہ شیعہ علما اسے معصومین کی پیروی کے ذریعے صفائی کے ساتھ زیادہ براہ راست طور پر منسلک کرتے ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على خطورة هذه الآية وجلالة موضوعها. ويُشدِّد القرطبي، كالطباطبائي تماماً، على أن «المقت» يُمثِّل صورة بالغة الحدة من السخط الإلهي. ويُناقش الرازي البنية النحوية التي تُؤكِّد فداحة هذا البغض وعظم شأنه. ويستشهد ابن كثير بأحاديث نبوية في خطورة قول ما لا يُفعَل. والإجماع عبر المذاهب واضح جليٌّ: هذا السلوك من أشد الأمراض الروحية خطراً. وثمة فارق دقيق في العلاج؛ إذ يُشدِّد الفكر الشيعي على التطهر من خلال الاقتداء بمثال أهل البيت عليهم السلام والاهتداء بهدي الإمام الحي الذي يُجسِّد التطابق الكامل بين القول والعمل. بينما يُركِّز النهج السني أكثر على التوبة الفردية والالتزام بالسنة النبوية. وتستشهد كلتا المدرستَين بالحديث الذي قال فيه النبي صلى الله عليه وآله وسلم إن مَن يقول ما لا يفعل يُكتَب ذلك شهادةً عليه يوم القيامة. والتعليم الأخلاقي الكوني للآية يتجاوز الفوارق المذهبية، بينما تعكس سبل تجسيد هذا التعليم التأكيدات المميزة لكل مذهب في مسائل السلطة الدينية والإرشاد الروحي."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:4:unified-struggle",
+          "title": "Unified Struggle",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah loves those who fight in organized ranks like a solid structure, emphasizing that effective struggle requires discipline, unity, and coordination.",
+          "whyItMatters": "Individual heroics matter less than collective strength - success in Allah's cause depends on believers working as a cohesive, disciplined force.",
+          "position": "topLeft",
+          "arabicHighlight": "صَفًّۭا كَأَنَّهُم بُنْيَٰنٌۭ مَّرْصُوصٌۭ",
+          "title_urdu": "متحد جدوجہد",
+          "coreInsight_urdu": "اللہ ان لوگوں سے محبت کرتا ہے جو منظم صفوں میں ایک مضبوط ڈھانچے کی طرح لڑتے ہیں، اس بات پر زور دیتا ہے کہ مؤثر جدوجہد کے لیے نظم و ضبط، اتحاد اور ہم آہنگی کی ضرورت ہے۔",
+          "whyItMatters_urdu": "انفرادی بہادری اجتماعی طاقت سے کم اہمیت رکھتی ہے - اللہ کی راہ میں کامیابی مومنوں کے مربوط، منظم قوت کے طور پر کام کرنے پر منحصر ہے۔",
+          "title_ar": "الكفاح الموحد",
+          "coreInsight_ar": "يحب الله الذين يقاتلون في صفوف منظمة كبنيان مرصوص، مؤكدًا أن الكفاح الفعال يتطلب الانضباط والوحدة والتنسيق.",
+          "whyItMatters_ar": "البطولات الفردية أقل أهمية من القوة الجماعية - النجاح في سبيل الله يعتمد على المؤمنين العاملين كقوة متماسكة ومنضبطة."
+        },
+        {
+          "id": "61:4:divine-love",
+          "title": "Earning Allah's Love",
+          "icon": "heart.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The phrase 'Indeed, Allah loves' reveals a pathway to divine favor - organized, disciplined effort in His cause attracts His special mercy and support.",
+          "whyItMatters": "Knowing specific actions earn Allah's love motivates strategic, coordinated community efforts rather than scattered individual initiatives.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ",
+          "title_urdu": "اللہ کی محبت حاصل کرنا",
+          "coreInsight_urdu": "جملہ 'بے شک اللہ محبت کرتا ہے' الہی فضل کی راہ ظاہر کرتا ہے - اس کی راہ میں منظم، منضبط کوشش اس کی خاص رحمت اور حمایت کو راغب کرتی ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ مخصوص اعمال اللہ کی محبت کماتے ہیں، بکھری ہوئی انفرادی کوششوں کے بجائے حکمت عملی، مربوط اجتماعی کوششوں کی ترغیب دیتا ہے۔",
+          "title_ar": "كسب محبة الله",
+          "coreInsight_ar": "عبارة 'إن الله يحب' يكشف طريقًا للفضل الإلهي - الجهد المنظم والمنضبط في سبيله يجذب رحمته ودعمه الخاص.",
+          "whyItMatters_ar": "معرفة أن أعمالًا محددة تكسب محبة الله تحفز الجهود المجتمعية الاستراتيجية المنسقة بدلاً من المبادرات الفردية المتفرقة."
+        },
+        {
+          "id": "61:4:firm-structure",
+          "title": "Solid Foundation",
+          "icon": "building.2.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The metaphor of 'bunyan marsus' (joined structure) illustrates believers as interconnected bricks, where each person's strength supports the whole edifice.",
+          "whyItMatters": "This vision challenges individualism - our faith journeys are interdependent, requiring mutual support, accountability, and shared commitment to community goals.",
+          "position": "bottomRight",
+          "arabicHighlight": "بُنْيَٰنٌۭ مَّرْصُوصٌۭ",
+          "title_urdu": "مضبوط بنیاد",
+          "coreInsight_urdu": "'بنیان مرصوص' (جڑی ہوئی تعمیر) کا استعارہ مومنوں کو باہم مربوط اینٹوں کے طور پر ظاہر کرتا ہے، جہاں ہر شخص کی طاقت پوری عمارت کو سہارا دیتی ہے۔",
+          "whyItMatters_urdu": "یہ نقطہ نظر انفرادیت کو چیلنج کرتا ہے - ہمارے ایمانی سفر باہمی طور پر منحصر ہیں، جن کے لیے باہمی مدد، جوابدہی، اور اجتماعی اہداف کے لیے مشترکہ عزم کی ضرورت ہے۔",
+          "title_ar": "الأساس المتين",
+          "coreInsight_ar": "استعارة 'بنيان مرصوص' توضح المؤمنين كطوب متصل، حيث قوة كل شخص تدعم البناء بأكمله.",
+          "whyItMatters_ar": "هذه الرؤية تتحدى الفردانية - رحلات إيماننا مترابطة، تتطلب الدعم المتبادل والمساءلة والالتزام المشترك بالأهداف المجتمعية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni exegetes celebrate this verse's emphasis on unity and organized effort. Ibn Kathir and Qurtubi emphasize similar points about disciplined ranks in battle. Tabari discusses the solid structure metaphor in comparable terms to Tabrisi. The hadith literature across traditions praises those who maintain ranks in battle. A significant difference emerges in application to religious authority: Shia interpretation explicitly connects the solid structure metaphor to the necessity of following the Imam, who serves as the foundation ensuring the structure's integrity. Sunni interpretations emphasize obedience to established Muslim leadership more generally. Both traditions agree that individual believers must subordinate personal desires to collective good when engaged in righteous struggle. The metaphor of the solid structure has been applied by both Sunni and Shia scholars to community organization, though Shia thought more explicitly sees the Imam as essential to maintaining that structural integrity. The universal message about unity, discipline, and collective action transcends sectarian boundaries even as each tradition understands legitimate leadership differently.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین اتحاد اور منظم کوشش پر اس زور کو جشن دیتے ہیں۔ ابن کثیر اور قرطبی جنگ میں منظم صفوں کے بارے میں ملتے جلتے نکات دیتے ہیں۔ دونوں روایتیں صفوں میں مومنین کے منظم رہنے کی تعریف کرتی ہیں۔ شیعہ تفسیر اس تمثیل کو مزید واضح طور پر امام کے دل سے جوڑتا ہے جو ڈھانچے کی سالمیت کو یقینی بناتا ہے۔ سنی تفسیریں عام اسلامی قیادت سے تعاون پر زور دیتی ہیں۔ دونوں روایتیں ہم متفق ہیں کہ انفرادی مومنین کو اجتماعی بھلائی سے اپنی خواہشات کو کم کرنا چاہیے۔",
+    "layer4_ar": "يحتفي مفسرو الشيعة والسنة على حد سواء بما تُبرزه هذه الآية من التأكيد على الوحدة والعمل المنظَّم. ويُشدِّد ابن كثير والقرطبي على نقاط متماثلة تتعلق بالصفوف المنضبطة في المعركة. ويتناول الطبري استعارة البنيان المرصوص بمفردات تتقارب مع ما كتبه الطبرسي. وأدب الحديث النبوي في مختلف التقاليد يُثني على مَن يحافظون على صفوفهم في ميدان المعركة. ويبرز فارق جوهري في التطبيق المتعلق بالسلطة الدينية؛ إذ يربط التفسير الشيعي صراحةً استعارةَ البنيان المرصوص بضرورة اتباع الإمام الذي يُمثِّل الأساس الضامن لسلامة البنيان وتماسكه. بينما تُشدِّد التفسيرات السنية على الطاعة للقيادة الإسلامية المعتمَدة بصورة أعم. وتتفق كلتا المدرستَين على أن المؤمنين الأفراد يجب أن يُخضعوا رغباتهم الشخصية للصالح الجماعي حين ينخرطون في الكفاح من أجل الحق. وقد طبَّق علماء السنة والشيعة كليهم استعارة البنيان المرصوص على تنظيم المجتمع، غير أن الفكر الشيعي يرى بشكل أوضح أن الإمام ضرورة لا بديل عنها في الحفاظ على سلامة ذلك البنيان وتماسكه. والرسالة الكونية للآية في الوحدة والانضباط والعمل الجماعي تتجاوز الحدود المذهبية حتى وإن تباينت كل مدرسة في فهمها للقيادة الشرعية."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:5:prophetic-persecution",
+          "title": "Prophet's Struggle",
+          "icon": "figure.walk",
+          "colorHex": "#E57373",
+          "coreInsight": "Moses' lament 'Why do you harm me when you know I am Allah's messenger?' reveals the painful reality that even prophets faced rejection from their own people.",
+          "whyItMatters": "This historical example comforts modern believers facing opposition - if prophets endured communal resistance, our struggles for truth are part of divine tradition.",
+          "position": "topLeft",
+          "arabicHighlight": "يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ",
+          "title_urdu": "نبی کی جدوجہد",
+          "coreInsight_urdu": "موسیٰ کی فریاد 'تم مجھے کیوں تکلیف دیتے ہو جب تمہیں معلوم ہے کہ میں اللہ کا رسول ہوں؟' اس دردناک حقیقت کو ظاہر کرتی ہے کہ یہاں تک کہ انبیاء کو اپنے ہی لوگوں سے انکار کا سامنا کرنا پڑا۔",
+          "whyItMatters_urdu": "یہ تاریخی مثال مخالفت کا سامنا کرنے والے جدید مومنوں کو تسلی دیتی ہے - اگر انبیاء نے اجتماعی مزاحمت کو برداشت کیا تو حق کے لیے ہماری جدوجہد الہی روایت کا حصہ ہے۔",
+          "title_ar": "نضال النبي",
+          "coreInsight_ar": "نداء موسى 'يا قوم لم تؤذونني وقد تعلمون أني رسول الله' يكشف الواقع المؤلم أن حتى الأنبياء واجهوا الرفض من قومهم.",
+          "whyItMatters_ar": "هذا المثال التاريخي يعزي المؤمنين المعاصرين الذين يواجهون المعارضة - إذا تحمل الأنبياء المقاومة المجتمعية، فإن صراعاتنا من أجل الحق جزء من التقليد الإلهي."
+        },
+        {
+          "id": "61:5:spiritual-deviation",
+          "title": "Heart Deviation",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse establishes a cause-effect relationship: 'When they deviated, Allah caused their hearts to deviate' - persistent rejection leads to spiritual blindness.",
+          "whyItMatters": "This warning shows that repeated defiance hardens hearts - we must respond to guidance quickly before our capacity for truth becomes compromised.",
+          "position": "topRight",
+          "arabicHighlight": "فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ",
+          "title_urdu": "دل کا انحراف",
+          "coreInsight_urdu": "آیت ایک سبب و نتیجہ کا تعلق قائم کرتی ہے: 'جب انہوں نے انحراف کیا تو اللہ نے ان کے دلوں کو منحرف کر دیا' - مسلسل انکار روحانی اندھے پن کا باعث بنتا ہے۔",
+          "whyItMatters_urdu": "یہ انتباہ ظاہر کرتا ہے کہ بار بار نافرمانی دلوں کو سخت کر دیتی ہے - ہمیں ہدایت کا فوری جواب دینا چاہیے قبل اس کے کہ ہماری حق کی صلاحیت سمجھوتہ ہو جائے۔",
+          "title_ar": "انحراف القلب",
+          "coreInsight_ar": "تؤسس الآية علاقة سببية: 'فلما زاغوا أزاغ الله قلوبهم' - الرفض المستمر يؤدي إلى العمى الروحي.",
+          "whyItMatters_ar": "هذا التحذير يُظهر أن التحدي المتكرر يُقسي القلوب - يجب أن نستجيب للهداية بسرعة قبل أن تتعرض قدرتنا على الحق للخطر."
+        },
+        {
+          "id": "61:5:divine-justice",
+          "title": "Divine Guidance Law",
+          "icon": "scale.3d",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The principle 'Allah does not guide the defiantly disobedient' reveals that divine guidance is offered but requires human receptivity to be effective.",
+          "whyItMatters": "Understanding this two-way dynamic empowers us - we're not passive recipients but active participants whose choices determine our spiritual trajectory.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+          "title_urdu": "الہی ہدایت کا قانون",
+          "coreInsight_urdu": "اصول 'اللہ نافرمان لوگوں کو ہدایت نہیں دیتا' ظاہر کرتا ہے کہ الہی ہدایت پیش کی جاتی ہے لیکن مؤثر ہونے کے لیے انسانی قبولیت کی ضرورت ہوتی ہے۔",
+          "whyItMatters_urdu": "اس دو طرفہ حرکیات کو سمجھنا ہمیں با اختیار بناتا ہے - ہم غیر فعال وصول کنندگان نہیں بلکہ فعال شرکاء ہیں جن کے انتخاب ہماری روحانی سمت کا تعین کرتے ہیں۔",
+          "title_ar": "قانون الهداية الإلهية",
+          "coreInsight_ar": "المبدأ 'الله لا يهدي القوم الفاسقين' يكشف أن الهداية الإلهية تُقدم لكن تتطلب القبول البشري لتكون فعالة.",
+          "whyItMatters_ar": "فهم هذه الديناميكية ثنائية الاتجاه يمكّننا - لسنا متلقين سلبيين بل مشاركين نشطين تحدد خياراتهم مسارنا الروحي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the basic narrative and its lesson about the consequences of opposing prophets. Ibn Kathir and Tabari recount similar stories of the Children of Israel's mistreatment of Musa. Qurtubi, like Tabatabai, emphasizes the principle that Allah's causing hearts to deviate is a response to prior human deviation, not arbitrary divine action. Both traditions affirm divine justice in this matter. A significant difference emerges in contemporary application: Shia scholarship explicitly draws parallels to the treatment of the Ahlul Bayt and warns against repeating the Children of Israel's error by opposing the Imam. Sunni interpretations focus more on the general principle of respecting religious authority. Both traditions see this verse as explaining why some people remain in disbelief despite clear signs. The theological consensus affirms that persistent opposition to manifest truth creates spiritual consequences that make subsequent guidance inaccessible. The verse serves across traditions as both historical lesson and contemporary warning about the spiritual dangers of opposing Allah's messengers.",
+    "layer4_urdu": "شیعہ اور سنی دونوں اس آیت کے بنیادی اردو اور پیغام کے بارے میں متفق ہیں۔ ابن کثیر اور طبری شیعہ ذرائع کی طرح ہی بنی اسرائیل کے واقعات کا حساب دیتے ہیں۔ قرطبی طباطبائی کی طرح یہ نکتہ بیان کرتے ہیں کہ اللہ کے دلوں کو بھٹکانا انسانی بھٹکاوٹ کے جواب میں ہے۔ دونوں روایتیں اللہ کی عدالت کی تصدیق کرتی ہیں۔ لیکن شیعہ اور سنی تفسیروں میں اہم فرق آیتی تعلیمات میں ہے: شیعہ علما نے بنی اسرائیل کے ساتھ موسیٰ کے رویہ اور امام کے ساتھ حالیہ رویہ کے متوازی رکھتے ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على السردية الأساسية ودرسها في عواقب معارضة الأنبياء عليهم السلام. ويروي ابن كثير والطبري قصصاً متشابهة عن سوء معاملة بني إسرائيل لموسى عليه السلام. ويُشدِّد القرطبي، كالطباطبائي، على مبدأ أن إزاغة الله للقلوب هي استجابة لانحراف بشري سابق، لا فعل إلهي اعتباطي. وتُقرِّ كلتا المدرستَين بالعدل الإلهي في هذه المسألة. ويبرز فارق دلالي في التطبيق المعاصر؛ إذ يرسم الفكر الشيعي صراحةً أوجه التوازي مع معاملة أهل البيت، ويُحذِّر من تكرار خطأ بني إسرائيل بمعارضة الإمام. بينما تُركِّز التفسيرات السنية أكثر على المبدأ العام في احترام السلطة الدينية. وتنظر كلتا المدرستَين إلى هذه الآية باعتبارها تفسيراً لبقاء بعض الناس في الضلالة على الرغم من الآيات الجلية الواضحة. ويُقرِّر الإجماع العقدي أن الإصرار على معارضة الحق الجليِّ يُنشئ عواقب روحية تجعل الهداية اللاحقة بعيدة المنال. وتؤدي الآية في كلا التقليدَين دور الدرس التاريخي والتحذير المعاصر معاً من المخاطر الروحية المترتبة على معارضة رسل الله ومبعوثيه."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:6:prophetic-continuity",
+          "title": "Prophetic Chain",
+          "icon": "link",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Jesus confirms the Torah and announces Ahmad (Muhammad), establishing the unbroken chain of divine revelation where each prophet validates predecessors and heralds successors.",
+          "whyItMatters": "This continuity proves Islam isn't a separate religion but the culmination of God's unified message, demanding respect for all prophets equally.",
+          "position": "topLeft",
+          "arabicHighlight": "مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى",
+          "title_urdu": "نبوت کا سلسلہ",
+          "coreInsight_urdu": "عیسیٰ توریت کی تصدیق کرتے ہیں اور احمد (محمد) کی بشارت دیتے ہیں، الہی وحی کے نہ ٹوٹنے والے سلسلے کو قائم کرتے ہیں جہاں ہر نبی پیشروؤں کی تصدیق کرتا ہے اور جانشینوں کی خبر دیتا ہے۔",
+          "whyItMatters_urdu": "یہ تسلسل ثابت کرتا ہے کہ اسلام ایک الگ مذہب نہیں بلکہ خدا کے متحد پیغام کی تکمیل ہے، تمام انبیاء کے لیے یکساں احترام کا تقاضا کرتا ہے۔",
+          "title_ar": "سلسلة النبوة",
+          "coreInsight_ar": "يصدق عيسى التوراة ويبشر بأحمد (محمد)، مؤسسًا السلسلة غير المنقطعة للوحي الإلهي حيث كل نبي يصدق الأسلاف ويبشر بالخلفاء.",
+          "whyItMatters_ar": "هذا الاستمرار يثبت أن الإسلام ليس دينًا منفصلاً بل تتويج لرسالة الله الموحدة، يتطلب احترام جميع الأنبياء بالتساوي."
+        },
+        {
+          "id": "61:6:ahmad-prophecy",
+          "title": "Name 'Ahmad'",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Jesus specifically names the final prophet as 'Ahmad' (the most praised one), a name sharing the same root as Muhammad, confirming prophetic identity through linguistic precision.",
+          "whyItMatters": "This explicit mention challenges those who claim Islam lacks biblical foundation, providing Quranic evidence of Jesus foretelling Muhammad's arrival.",
+          "position": "topRight",
+          "arabicHighlight": "ٱسْمُهُۥٓ أَحْمَدُ",
+          "title_urdu": "نام 'احمد'",
+          "coreInsight_urdu": "عیسیٰ خاص طور پر آخری نبی کا نام 'احمد' (سب سے زیادہ قابل تعریف) رکھتے ہیں، ایک نام جو محمد کے ساتھ ایک ہی جڑ کا اشتراک کرتا ہے، لسانی درستگی کے ذریعے نبوی شناخت کی تصدیق کرتا ہے۔",
+          "whyItMatters_urdu": "یہ واضح ذکر ان لوگوں کو چیلنج کرتا ہے جو دعویٰ کرتے ہیں کہ اسلام کی بائبل کی بنیاد نہیں ہے، عیسیٰ کی طرف سے محمد کی آمد کی پیشین گوئی کا قرآنی ثبوت فراہم کرتا ہے۔",
+          "title_ar": "اسم 'أحمد'",
+          "coreInsight_ar": "يسمي عيسى النبي الأخير تحديدًا 'أحمد' (الأكثر حمدًا)، اسم يشترك في نفس الجذر مع محمد، مؤكدًا الهوية النبوية من خلال الدقة اللغوية.",
+          "whyItMatters_ar": "هذا الذكر الصريح يتحدى أولئك الذين يدعون أن الإسلام يفتقر إلى الأساس الكتابي، مقدمًا دليلاً قرآنيًا على نبوءة عيسى بمجيء محمد."
+        },
+        {
+          "id": "61:6:rejection-pattern",
+          "title": "Rejection Pattern",
+          "icon": "xmark.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Despite clear evidence, people dismissed the truth as 'obvious magic,' revealing the human tendency to rationalize rejection when truth conflicts with desires.",
+          "whyItMatters": "Recognizing this pattern in history helps us avoid the same mistake - when truth challenges our comfort, we must resist the urge to dismiss it as deception.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَلَمَّا جَآءَهُم بِٱلْبَيِّنَٰتِ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ",
+          "title_urdu": "انکار کا انداز",
+          "coreInsight_urdu": "واضح ثبوت کے باوجود، لوگوں نے حق کو 'واضح جادو' کہہ کر مسترد کر دیا، انسانی رجحان کو ظاہر کرتا ہے کہ جب حق خواہشات سے ٹکراتا ہے تو انکار کو معقول بنایا جائے۔",
+          "whyItMatters_urdu": "تاریخ میں اس انداز کو پہچاننا ہمیں اسی غلطی سے بچنے میں مدد کرتا ہے - جب حق ہمارے آرام کو چیلنج کرتا ہے تو ہمیں اسے فریب کہہ کر مسترد کرنے کے جذبے کا مقابلہ کرنا چاہیے۔",
+          "title_ar": "نمط الرفض",
+          "coreInsight_ar": "على الرغم من الأدلة الواضحة، رفض الناس الحق كـ'سحر واضح'، كاشفًا الميل البشري لتبرير الرفض عندما تتعارض الحقيقة مع الرغبات.",
+          "whyItMatters_ar": "إدراك هذا النمط في التاريخ يساعدنا على تجنب نفس الخطأ - عندما تتحدى الحقيقة راحتنا، يجب أن نقاوم إغراء رفضها كخداع."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that Ahmad refers to Prophet Muhammad and that previous scriptures contained prophecies about him. Ibn Kathir discusses the various names of the Prophet including Ahmad. Sunni and Shia sources alike cite the hadith where the Prophet lists his names. Historical Sunni scholars like Ibn Taymiyyah wrote extensively about prophecies of Muhammad in earlier scriptures. The consensus affirms that Isa announced the coming prophet. Shia scholarship particularly emphasizes this verse as proof of the prophetic office being divinely designated and announced, which they extend to the Imamate as similarly designated. Both traditions see this verse as validation of Muhammad's prophethood and criticism of Jewish and Christian communities who rejected him despite prior knowledge. Some difference exists in emphasis: Shia exegesis more explicitly draws parallels between rejection of Ahmad despite Isa's testimony and rejection of the Ahlul Bayt despite the Prophet's testimony. The comparative study shows essential unity in affirming Muhammad's prophetic status while showing distinctive Shia emphasis on continuing divine designation through the Imamate.",
+    "layer4_urdu": "شیعہ اور سنی علما احمد سے نبی محمد ﷺ کے لیے ہمدردی رکھتے ہیں۔ ابن کثیر نبی کی مختلف ناموں کے بارے میں بات کرتے ہیں۔ سنی اور شیعہ ذرائع ہدایت دیتے ہیں۔ تاریخی سنی علما جیسے ابن تیمیہ محمد کے نبوت کے بارے میں پچھلی کتابوں میں بہت سی چیزیں لکھی ہیں۔ اتفاق سے عیسیٰ نے آنے والے نبی کا اعلان کیا۔ شیعہ علم خاص طور پر اس آیت پر زور دیتے ہیں کہ نبوت الٹاہی طور پر معین شدہ اور اعلان شدہ ہے، جسے وہ اسی طرح امامت میں بھی دیکھتے ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن أحمد يُشير إلى النبي محمد صلى الله عليه وآله وسلم، وعلى أن الكتب السابقة تضمَّنت بشارات بقدومه. ويُناقش ابن كثير الأسماء المتعددة للنبي ومنها أحمد. ويستشهد كلا الفريقين بالحديث الذي يُعدِّد فيه النبي أسماءه. وقد كتب علماء السنة الكبار كابن تيمية بإسهاب عن بشارات الكتب السابقة بمحمد صلى الله عليه وآله وسلم. ويُجمع الفريقان على أن عيسى عليه السلام بشَّر بالنبي الآتي. ويُولي الفكر الشيعي خاصةً هذه الآية أهمية إضافية كدليل على أن المنصب النبوي يتم تعيينه من قِبَل الله والإعلان عنه مسبقاً، وهو مبدأ يمتد عندهم ليشمل الإمامة بالمثل. وينظر الفريقان إلى هذه الآية باعتبارها تأكيداً لنبوة محمد صلى الله عليه وآله وسلم ونقداً للجماعات اليهودية والنصرانية التي رفضته رغم علمها بالكتاب. وثمة فارق في التأكيد؛ إذ يرسم التفسير الشيعي بصورة أكثر صراحة أوجه التوازي بين رفض أحمد رغم شهادة عيسى ورفض أهل البيت رغم شهادة النبي. ويكشف البحث المقارن عن وحدة جوهرية في إثبات نبوة محمد صلى الله عليه وآله وسلم مع إبراز التأكيد الشيعي المميَّز على استمرار التعيين الإلهي عبر الإمامة."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:7:fabrication-gravity",
+          "title": "Fabricating Lies",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse declares inventing falsehoods about Allah as the ultimate injustice, especially when simultaneously being invited to the truth of Islam.",
+          "whyItMatters": "This establishes a hierarchy of wrongs - distorting divine truth while having access to correct guidance represents willful, inexcusable oppression.",
+          "position": "topLeft",
+          "arabicHighlight": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ",
+          "title_urdu": "جھوٹ گھڑنا",
+          "coreInsight_urdu": "آیت اللہ کے بارے میں جھوٹ گھڑنے کو حتمی ظلم قرار دیتی ہے، خاص طور پر جب بیک وقت اسلام کی حق کی دعوت دی جا رہی ہو۔",
+          "whyItMatters_urdu": "یہ غلطیوں کا درجہ بندی قائم کرتا ہے - صحیح رہنمائی تک رسائی رکھتے ہوئے الہی حق کو مسخ کرنا جان بوجھ کر، ناقابل معافی ظلم کی نمائندگی کرتا ہے۔",
+          "title_ar": "افتراء الكذب",
+          "coreInsight_ar": "تعلن الآية اختراع الأكاذيب عن الله كأقصى ظلم، خاصة عند الدعوة في نفس الوقت إلى حقيقة الإسلام.",
+          "whyItMatters_ar": "هذا يُنشئ تسلسلاً هرميًا للأخطاء - تشويه الحقيقة الإلهية مع الوصول إلى التوجيه الصحيح يمثل ظلمًا مقصودًا لا يُغتفر."
+        },
+        {
+          "id": "61:7:invitation-responsibility",
+          "title": "Active Invitation",
+          "icon": "hand.raised.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The phrase 'while he is being invited to Islam' emphasizes that rejection becomes graver when truth is actively presented, not merely available.",
+          "whyItMatters": "This distinguishes between ignorance and defiance - those who receive clear invitations to truth bear greater accountability for their response.",
+          "position": "topRight",
+          "arabicHighlight": "وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَٰمِ",
+          "title_urdu": "فعال دعوت",
+          "coreInsight_urdu": "جملہ 'جبکہ اسے اسلام کی دعوت دی جا رہی ہے' اس بات پر زور دیتا ہے کہ جب حق فعال طور پر پیش کیا جاتا ہے تو انکار زیادہ سنگین ہو جاتا ہے، نہ کہ محض دستیاب ہو۔",
+          "whyItMatters_urdu": "یہ جہالت اور نافرمانی کے درمیان فرق کرتا ہے - جو لوگ حق کی واضح دعوت حاصل کرتے ہیں وہ اپنے جواب کے لیے زیادہ جوابدہ ہیں۔",
+          "title_ar": "الدعوة النشطة",
+          "coreInsight_ar": "عبارة 'وهو يُدعى إلى الإسلام' تؤكد أن الرفض يصبح أخطر عندما تُقدم الحقيقة بنشاط، وليس فقط متاحة.",
+          "whyItMatters_ar": "هذا يميز بين الجهل والتحدي - أولئك الذين يتلقون دعوات واضحة للحقيقة يتحملون مساءلة أكبر عن استجابتهم."
+        },
+        {
+          "id": "61:7:guidance-withdrawal",
+          "title": "Lost Guidance",
+          "icon": "location.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah's refusal to guide the wrongdoers illustrates that persistent injustice toward truth eventually results in spiritual disqualification from divine assistance.",
+          "whyItMatters": "This serves as urgent warning - there's a point of no return where hearts become sealed, making immediate response to truth critically important.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+          "title_urdu": "کھوئی ہوئی ہدایت",
+          "coreInsight_urdu": "ظالموں کو ہدایت دینے سے اللہ کا انکار واضح کرتا ہے کہ حق کے خلاف مسلسل ظلم بالآخر الہی مدد سے روحانی نااہلی کا نتیجہ ہے۔",
+          "whyItMatters_urdu": "یہ فوری انتباہ کے طور پر کام کرتا ہے - ایک نقطہ لاوا پسی ہے جہاں دل مہر بند ہو جاتے ہیں، حق کے فوری جواب کو انتہائی اہم بناتا ہے۔",
+          "title_ar": "فقدان الهداية",
+          "coreInsight_ar": "رفض الله هداية الظالمين يوضح أن الظلم المستمر تجاه الحقيقة يؤدي في النهاية إلى عدم الأهلية الروحية للمساعدة الإلهية.",
+          "whyItMatters_ar": "هذا يعمل كتحذير عاجل - هناك نقطة لا رجعة فيها حيث تُختم القلوب، مما يجعل الاستجابة الفورية للحقيقة ذات أهمية حاسمة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree that fabricating lies about Allah represents extreme injustice. Qurtubi, like Tabatabai, emphasizes that this corruption of the source of guidance is worse than other forms of wrongdoing. Ibn Kathir discusses how this verse condemns those who attribute false doctrines to Allah. Both traditions developed hadith sciences specifically to combat fabrication of prophetic sayings. Sunni scholars like Bukhari and Muslim dedicated their lives to authenticating hadith, paralleling Shia efforts by scholars like Kulayni and Saduq. A nuanced difference appears in authority: Shia scholarship sees the Imams as essential guarantors against religious fabrication, providing authoritative interpretation that prevents distortion. Sunni approaches emphasize scholarly consensus and methodology without a single authoritative interpreter. Both traditions condemn religious fabrication but differ on how to definitively guard against it. The verse's universal condemnation of lying about Allah transcends sectarian boundaries, though each tradition has developed distinctive mechanisms for preserving authentic Islam from the fabricators this verse condemns.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اللہ کے خلاف جھوٹ بنانے کو بہت شدید نقصان سمجھتے ہیں۔ قرطبی، طباطبائی کی طرح، اس بات پر زور دیتے ہیں کہ رہنمائی کے منبع میں یہ خرابی دوسری ظلمتوں سے بدتر ہے۔ ابن کثیر اس آیت کے بارے میں بات کرتے ہیں جو اللہ کو مختلف نظریات سے بچاتے ہیں۔ دونوں روایتیں روایت کی سائنس تیار کرنے میں مختص رہی ہیں۔ بخاری اور مسلم جیسے سنی علما نے تمام زندگی احادیث کی توثیق کے لیے وقف کی، شیعہ کولینی اور صدوق جیسے علما کے ساتھ متوازی۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن افتراء الكذب على الله يُمثِّل ظلماً بالغاً. ويُشدِّد القرطبي كالطباطبائي على أن هذا الإفساد لمصدر الهداية أشد خطورة من غيره من أوجه الظلم. ويُناقش ابن كثير كيف تُدين هذه الآية من ينسبون إلى الله عقائد مكذوبة. وكلتا المدرستَين طوَّرتا علوم الحديث تحديداً لمكافحة الوضع والاختلاق في الأحاديث النبوية؛ فكما جاهد علماء السنة كالبخاري ومسلم في تمحيص الروايات وتصحيحها، قابل ذلك جهود علماء الشيعة كالكليني والصدوق. وثمة فارق دقيق في مسألة السلطة؛ إذ يرى الفكر الشيعي في الأئمة ضامنين أساسيين ضد التلفيق الديني يُقدِّمون التفسير الموثوق الذي يحول دون التحريف. في حين تُشدِّد المناهج السنية على الإجماع العلمي والمنهجية دون مفسِّر واحد موثوق. وكلا الفريقين يُدين التلفيق الديني لكنهما يتباينان في آلية التحصُّن منه على وجه القطع. وإدانة الآية الكونية للكذب على الله تتجاوز الحدود المذهبية، وإن طوَّرت كل مدرسة آلياتها المميَّزة لصون الإسلام الأصيل من المُلفِّقين الذين تُدينهم هذه الآية."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:8:extinguishing-light",
+          "title": "Futile Opposition",
+          "icon": "wind",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The metaphor of trying to blow out Allah's light with mouths captures the absurdity of opposing divine truth through mere human effort and rhetoric.",
+          "whyItMatters": "This imagery reassures believers that despite seemingly powerful opposition, truth's ultimate triumph is guaranteed by divine will, not human strength.",
+          "position": "topLeft",
+          "arabicHighlight": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ",
+          "title_urdu": "بیکار مخالفت",
+          "coreInsight_urdu": "منہ سے اللہ کی روشنی بجھانے کی کوشش کا استعارہ محض انسانی کوشش اور بیان بازی کے ذریعے الہی حق کی مخالفت کی بیہودگی کو پکڑتا ہے۔",
+          "whyItMatters_urdu": "یہ تصویر مومنوں کو یقین دلاتی ہے کہ بظاہر طاقتور مخالفت کے باوجود، حق کی حتمی فتح الہی مرضی سے، نہ کہ انسانی طاقت سے ضمانت شدہ ہے۔",
+          "title_ar": "المعارضة العبثية",
+          "coreInsight_ar": "استعارة محاولة إطفاء نور الله بالأفواه تلتقط سخافة معارضة الحق الإلهي من خلال الجهد البشري والبلاغة فقط.",
+          "whyItMatters_ar": "هذه الصورة تطمئن المؤمنين أنه رغم المعارضة القوية ظاهريًا، فإن انتصار الحق النهائي مضمون بالإرادة الإلهية، وليس بالقوة البشرية."
+        },
+        {
+          "id": "61:8:divine-completion",
+          "title": "Light's Perfection",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah's promise to 'perfect His light' indicates that Islam's message will reach completion and global visibility regardless of opposition.",
+          "whyItMatters": "This divine guarantee transforms how we view setbacks - temporary obstacles don't threaten the mission's success, which rests in Allah's hands.",
+          "position": "topRight",
+          "arabicHighlight": "ٱللَّهُ مُتِمُّ نُورِهِۦ",
+          "title_urdu": "روشنی کی تکمیل",
+          "coreInsight_urdu": "اللہ کا 'اپنی روشنی کو مکمل کرنے' کا وعدہ ظاہر کرتا ہے کہ اسلام کا پیغام مخالفت سے قطع نظر تکمیل اور عالمی مرئیت تک پہنچے گا۔",
+          "whyItMatters_urdu": "یہ الہی ضمانت ہمارے ناکامیوں کو دیکھنے کے طریقے کو تبدیل کرتی ہے - عارضی رکاوٹیں مشن کی کامیابی کو خطرے میں نہیں ڈالتیں، جو اللہ کے ہاتھوں میں ہے۔",
+          "title_ar": "كمال النور",
+          "coreInsight_ar": "وعد الله بـ'إتمام نوره' يشير إلى أن رسالة الإسلام ستصل إلى الاكتمال والرؤية العالمية بغض النظر عن المعارضة.",
+          "whyItMatters_ar": "هذا الضمان الإلهي يحول كيفية رؤيتنا للنكسات - العقبات المؤقتة لا تهدد نجاح المهمة، التي تستقر في يد الله."
+        },
+        {
+          "id": "61:8:disbeliever-frustration",
+          "title": "Opposition's Futility",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'although the disbelievers dislike it' acknowledges opposition exists but emphasizes its powerlessness to alter the destined outcome.",
+          "whyItMatters": "Knowing that resistance, however intense, cannot prevent truth's spread helps believers maintain composure and confidence during trials.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+          "title_urdu": "مخالفت کی بیکاری",
+          "coreInsight_urdu": "جملہ 'اگرچہ کافر اسے ناپسند کرتے ہیں' مخالفت کے وجود کو تسلیم کرتا ہے لیکن مقدر نتیجے کو تبدیل کرنے کی اس کی بے بسی پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ مزاحمت، چاہے کتنی ہی شدید ہو، حق کی تشہیر کو روک نہیں سکتی، آزمائشوں کے دوران مومنوں کو سکون اور اعتماد برقرار رکھنے میں مدد کرتی ہے۔",
+          "title_ar": "عبثية المعارضة",
+          "coreInsight_ar": "عبارة 'ولو كره الكافرون' يعترف بوجود المعارضة لكن يؤكد على عجزها عن تغيير النتيجة المقدرة.",
+          "whyItMatters_ar": "معرفة أن المقاومة، مهما كانت شديدة، لا يمكن أن تمنع انتشار الحق يساعد المؤمنين على الحفاظ على الهدوء والثقة أثناء المحن."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the basic metaphor and promise: opponents try to suppress Islam but Allah ensures its continuation and triumph. Ibn Kathir and Tabari discuss similar meanings of the light metaphor. Sunni scholars see this verse as fulfilled through Islam's historical spread and persistence despite persecution. Shia interpretation adds eschatological dimension: the perfection of light specifically includes the Mahdi's appearance and global governance. Sunni exegesis generally understands perfection of light as Islam's completion and spread, already substantially fulfilled. Both traditions cite this verse for encouragement during difficult times. The universal message about truth's ultimate triumph transcends sectarian boundaries, while specific interpretation of what constitutes the light's perfection differs. Both schools agree that human opposition to divine will is futile, providing believers confidence in truth's eventual victory. The comparative study reveals shared optimism about Islam's future grounded in divine promise, with Shia scholarship emphasizing a specific future culmination under the Mahdi's leadership as the ultimate perfection this verse promises.",
+    "layer4_urdu": "شیعہ اور سنی دونوں اسی بنیادی تمثیل اور وعدے پر متفق ہیں: مخالفین حق کو دبانے کی کوشش کرتے ہیں لیکن اللہ اس کا غلبہ یقینی کرتے ہیں۔ ابن کثیر اور طبری روشنی کی تمثیل کے ملتے جلتے معانی دیتے ہیں۔ سنی علما اسلام کی اہمیت پر تاکید دیتے ہیں۔ دونوں روایتیں اس آیت کو ہدایت کے دور میں حوصلہ بڑھانے کے لیے حوالہ دیتے ہیں۔ اہم فرق یہ ہے کہ شیعہ علما اس آیت کو مہدی کے ظہور اور عالمی حکومت سے براہ راست منسلک کرتے ہیں۔ سنی تفسیریں مختلف ہیں، کچھ اسے اسلام کی تاریخی پھیلاؤ میں مکمل ہوا دیکھتے ہیں، دوسری مستقبل کی بہتری کی توقع رکھتے ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على المعنى الأساسي للاستعارة والوعد الوارد فيها: يسعى المعارضون إلى إخماد الإسلام لكن الله يكفل استمراره وانتصاره. ويتناول ابن كثير والطبري معاني استعارة النور بصورة متقاربة. ويرى علماء السنة أن هذه الآية قد تحققت جزئياً في الانتشار التاريخي للإسلام وصموده رغم الاضطهاد. أما التفسير الشيعي فيُضيف بُعداً غيبياً؛ إذ يشمل إتمام النور ظهور المهدي وحكمه العالمي. ويفهم التفسير السني لإتمام النور بوجه عام أنه اكتمال الإسلام وانتشاره، وقد تحقق منه قدر وافر. ويستشهد الفريقان بهذه الآية للتشجيع والثبات في الأوقات العصيبة. والرسالة الكونية عن الانتصار الأخير للحق تتجاوز الحدود المذهبية، في حين يتباين الفريقان في التفسير المحدد لمعنى إتمام النور وما يتضمنه. وكلا الفريقين يُقرُّ بأن المعارضة البشرية للإرادة الإلهية صنيع عبثي لا طائل منه، مما يمنح المؤمنين الثقة بانتصار الحق في نهاية المطاف. ويكشف البحث المقارن عن تفاؤل مشترك حول مستقبل الإسلام مستند إلى الوعد الإلهي، مع تميُّز الفكر الشيعي بالتأكيد على خاتمة مستقبلية محددة تحت قيادة المهدي باعتبارها الكمال الأخير الذي تعد به هذه الآية."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:9:prophetic-mission",
+          "title": "Divine Mission",
+          "icon": "paperplane.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah sent His Messenger with two essential components: guidance (huda) for personal transformation and the religion of truth (din al-haqq) for societal order.",
+          "whyItMatters": "This dual purpose shows Islam addresses both individual spirituality and collective governance, refusing to separate personal faith from public life.",
+          "position": "topLeft",
+          "arabicHighlight": "أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ",
+          "title_urdu": "الہی مشن",
+          "coreInsight_urdu": "اللہ نے اپنے رسول کو دو لازمی اجزاء کے ساتھ بھیجا: ذاتی تبدیلی کے لیے ہدایت اور معاشرتی نظم کے لیے دین حق۔",
+          "whyItMatters_urdu": "یہ دوہرا مقصد ظاہر کرتا ہے کہ اسلام انفرادی روحانیت اور اجتماعی حکمرانی دونوں کو حل کرتا ہے، ذاتی ایمان کو عوامی زندگی سے الگ کرنے سے انکار کرتا ہے۔",
+          "title_ar": "المهمة الإلهية",
+          "coreInsight_ar": "أرسل الله رسوله بعنصرين أساسيين: الهدى للتحول الشخصي ودين الحق للنظام الاجتماعي.",
+          "whyItMatters_ar": "هذا الغرض المزدوج يُظهر أن الإسلام يعالج الروحانية الفردية والحكم الجماعي، رافضًا فصل الإيمان الشخصي عن الحياة العامة."
+        },
+        {
+          "id": "61:9:universal-prevalence",
+          "title": "Global Dominance",
+          "icon": "globe.americas.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'to manifest it over all religion' prophesies Islam's eventual superiority - not through force but through the compelling power of truth.",
+          "whyItMatters": "This promise sustains believers during marginalization, affirming that current weakness doesn't reflect final reality - truth will ultimately prevail.",
+          "position": "topRight",
+          "arabicHighlight": "لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ",
+          "title_urdu": "عالمی غلبہ",
+          "coreInsight_urdu": "جملہ 'اسے تمام ادیان پر غالب کرنے کے لیے' اسلام کی حتمی برتری کی پیشین گوئی کرتا ہے - طاقت کے ذریعے نہیں بلکہ حق کی مجبور کرنے والی قوت کے ذریعے۔",
+          "whyItMatters_urdu": "یہ وعدہ پسماندگی کے دوران مومنوں کو برقرار رکھتا ہے، تصدیق کرتا ہے کہ موجودہ کمزوری حتمی حقیقت کی عکاسی نہیں کرتی - حق بالآخر غالب آئے گا۔",
+          "title_ar": "الهيمنة العالمية",
+          "coreInsight_ar": "عبارة 'ليظهره على الدين كله' يتنبأ بتفوق الإسلام النهائي - ليس بالقوة بل بالقوة المقنعة للحق.",
+          "whyItMatters_ar": "هذا الوعد يدعم المؤمنين أثناء التهميش، مؤكدًا أن الضعف الحالي لا يعكس الواقع النهائي - الحق سينتصر في النهاية."
+        },
+        {
+          "id": "61:9:opposition-acknowledgment",
+          "title": "Polytheist Resistance",
+          "icon": "figure.stand",
+          "colorHex": "#E57373",
+          "coreInsight": "Acknowledging that polytheists dislike Islam's triumph validates believers' experiences of opposition while assuring them of victory despite resistance.",
+          "whyItMatters": "This realistic acknowledgment prevents disillusionment - struggle is expected, not a sign of failure, and persistence will be rewarded with success.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+          "title_urdu": "مشرکین کی مزاحمت",
+          "coreInsight_urdu": "یہ تسلیم کرنا کہ مشرکین اسلام کی فتح کو ناپسند کرتے ہیں مومنوں کے مخالفت کے تجربات کی تصدیق کرتا ہے جبکہ انہیں مزاحمت کے باوجود فتح کا یقین دلاتا ہے۔",
+          "whyItMatters_urdu": "یہ حقیقت پسندانہ تسلیم مایوسی کو روکتا ہے - جدوجہد متوقع ہے، ناکامی کی علامت نہیں، اور ثابت قدمی کامیابی سے نوازی جائے گی۔",
+          "title_ar": "مقاومة المشركين",
+          "coreInsight_ar": "الاعتراف بأن المشركين يكرهون انتصار الإسلام يصدق تجارب المؤمنين في المعارضة بينما يؤكد لهم النصر رغم المقاومة.",
+          "whyItMatters_ar": "هذا الاعتراف الواقعي يمنع خيبة الأمل - الكفاح متوقع، وليس علامة على الفشل، والمثابرة ستُكافأ بالنجاح."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on Islam's universal mission and ultimate triumph. Ibn Kathir and Qurtubi discuss similar meanings of manifestation over all religions. Tabari emphasizes Islam's superiority. Both traditions cite this verse as proof of Islam's finality and completeness. A significant difference exists in eschatological interpretation: Shia scholarship strongly emphasizes this verse's fulfillment through the Mahdi's global governance, citing explicit hadith connecting this verse to his appearance. Sunni interpretations vary, with some seeing substantial fulfillment in Islamic history's expansion, others expecting future fulfillment, and some viewing it as metaphorical intellectual superiority. Both schools agree Islam will ultimately prevail, but differ on what that means and when it occurs. The verse provides common ground in affirming Islam's truth and destiny while allowing different understandings of the mechanism and timeline of its manifestation. The comparative study reveals shared conviction in Islam's ultimate victory rooted in divine promise, with Shia thought explicitly connecting this to Mahdi's future role.",
+    "layer4_urdu": "شیعہ اور سنی دونوں مفسرین تجاری تمثیل اور اس کے نفسیاتی اثر کی تعریف کرتے ہیں۔ ابن کثیر اس بات پر بحث کرتے ہیں کہ یہ آیت انسانی فطرت کے منافع کے حصول کو کیسے سنبھالتا ہے۔ قرطبی، طباطبائی کی طرح، اس بات پر زور دیتے ہیں کہ تجاری فریم ورک مذہبی فرض کو پرکشش بناتا ہے۔ دونوں روایتیں اسی بنیادی تعارف پر متفق ہیں۔ اہم فرق یہ ہے کہ شیعہ علما اس تمثیل کو الہام شدہ رہنمائی کی ضرورت کے ساتھ جوڑتے ہیں جو تجارت کو صحیح سمت میں لے جائے۔ سنی نقطہ نظر عام اسلامی قیادت پر زور دیتے ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على الرسالة الكونية للإسلام وانتصاره الأخير الحتمي. ويتناول ابن كثير والقرطبي معاني الإظهار على الدين كله بمفردات متقاربة. ويُشدِّد الطبري على علوِّ الإسلام. وكلا التقليدَين يستشهد بهذه الآية دليلاً على خاتمية الإسلام وكماله. وثمة فارق جوهري في التأويل الغيبي؛ إذ يُشدِّد الفكر الشيعي تشديداً بالغاً على تحقق هذه الآية عبر الحكم العالمي للمهدي، مستشهداً بأحاديث صريحة تربط الآية بظهوره. بينما تتباين التفسيرات السنية بين من يرى أن التوسع التاريخي للإسلام حقق منها الكثير، ومن يتوقع اكتمالاً مستقبلياً، ومن يراها في العلو الفكري المجازي. ويتفق الفريقان على أن الإسلام سيسود في نهاية المطاف، لكنهما يتباينان في المعنى الدقيق لذلك وتوقيته. وتُوفِّر الآية أرضية مشتركة للتأكيد على حقيقة الإسلام ومصيره المحتوم مع إتاحة تأويلات مختلفة لآلية تحقق ذلك وإطاره الزمني. ويكشف البحث المقارن عن قناعة مشتركة براسخة بانتصار الإسلام مستندة إلى الوعد الإلهي، مع تميُّز الفكر الشيعي بربط هذا الانتصار صراحةً بدور المهدي في المستقبل."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:10:profitable-transaction",
+          "title": "Spiritual Commerce",
+          "icon": "bag.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah frames faith and struggle as 'tijara' (transaction), transforming religious duty into an intelligent investment with guaranteed divine returns.",
+          "whyItMatters": "This commercial metaphor makes spirituality practical and rational - faith isn't blind sentiment but a wise exchange offering eternal profit.",
+          "position": "topLeft",
+          "arabicHighlight": "تِجَٰرَةٍۢ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍۢ",
+          "title_urdu": "روحانی تجارت",
+          "coreInsight_urdu": "اللہ ایمان اور جدوجہد کو 'تجارت' کے طور پر پیش کرتا ہے، مذہبی فرض کو ضمانت شدہ الہی منافع کے ساتھ ایک ذہین سرمایہ کاری میں تبدیل کرتا ہے۔",
+          "whyItMatters_urdu": "یہ تجارتی استعارہ روحانیت کو عملی اور عقلی بناتا ہے - ایمان اندھا جذبہ نہیں بلکہ ایک دانشمندانہ تبادلہ ہے جو ابدی منافع پیش کرتا ہے۔",
+          "title_ar": "التجارة الروحية",
+          "coreInsight_ar": "يُصوّر الله الإيمان والكفاح كـ'تجارة'، محولاً الواجب الديني إلى استثمار ذكي بعوائد إلهية مضمونة.",
+          "whyItMatters_ar": "هذا الاستعارة التجارية تجعل الروحانية عملية وعقلانية - الإيمان ليس شعورًا أعمى بل تبادلاً حكيمًا يقدم ربحًا أبديًا."
+        },
+        {
+          "id": "61:10:salvation-offer",
+          "title": "Escape from Torment",
+          "icon": "shield.lefthalf.filled",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The question 'Shall I guide you?' positions Allah as a caring mentor offering rescue from painful punishment, not a distant authority imposing demands.",
+          "whyItMatters": "This tender approach reveals divine mercy - Allah initiates guidance seeking our benefit, framing commandments as protective care rather than arbitrary rules.",
+          "position": "topRight",
+          "arabicHighlight": "هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍۢ",
+          "title_urdu": "عذاب سے نجات",
+          "coreInsight_urdu": "سوال 'کیا میں تمہیں بتاؤں؟' اللہ کو ایک محبت کرنے والے رہنما کے طور پر پیش کرتا ہے جو دردناک سزا سے بچاؤ پیش کرتا ہے، نہ کہ مطالبات عائد کرنے والی دور کی اتھارٹی۔",
+          "whyItMatters_urdu": "یہ نرم انداز الہی رحمت کو ظاہر کرتا ہے - اللہ ہماری بھلائی کے لیے ہدایت شروع کرتا ہے، احکام کو من مانی قوانین کی بجائے حفاظتی دیکھ بھال کے طور پر پیش کرتا ہے۔",
+          "title_ar": "النجاة من العذاب",
+          "coreInsight_ar": "السؤال 'هل أدلكم؟' يضع الله كمرشد مهتم يقدم الإنقاذ من العذاب الأليم، وليس سلطة بعيدة تفرض المطالب.",
+          "whyItMatters_ar": "هذا النهج الرقيق يكشف الرحمة الإلهية - الله يبدأ الهداية سعيًا لمنفعتنا، مؤطرًا الأوامر كرعاية وقائية بدلاً من قواعد تعسفية."
+        },
+        {
+          "id": "61:10:believers-address",
+          "title": "Faithful Audience",
+          "icon": "person.3.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Addressing those who already believe shows that even committed Muslims need ongoing guidance toward deeper faith and more sacrificial action.",
+          "whyItMatters": "Faith isn't a static achievement but a dynamic journey - professing belief is just the beginning, requiring continuous growth and increasing commitment.",
+          "position": "bottomRight",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+          "title_urdu": "مومن سامعین",
+          "coreInsight_urdu": "ان لوگوں کو خطاب کرنا جو پہلے سے ایمان لا چکے ہیں ظاہر کرتا ہے کہ یہاں تک کہ پختہ مسلمانوں کو بھی گہرے ایمان اور زیادہ قربانی والے عمل کی طرف جاری رہنمائی کی ضرورت ہے۔",
+          "whyItMatters_urdu": "ایمان ایک جامد کامیابی نہیں بلکہ ایک متحرک سفر ہے - عقیدے کا اظہار صرف آغاز ہے، مسلسل ترقی اور بڑھتی ہوئی عزم کی ضرورت ہے۔",
+          "title_ar": "الجمهور المؤمن",
+          "coreInsight_ar": "مخاطبة من آمنوا بالفعل تُظهر أن حتى المسلمين الملتزمين يحتاجون إلى إرشاد مستمر نحو إيمان أعمق وعمل أكثر تضحية.",
+          "whyItMatters_ar": "الإيمان ليس إنجازًا ثابتًا بل رحلة ديناميكية - الإعلان عن الإيمان مجرد بداية، تتطلب نموًا مستمرًا والتزامًا متزايدًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators appreciate the commercial metaphor and its psychological effectiveness. Ibn Kathir discusses how this verse appeals to human nature's desire for beneficial exchanges. Qurtubi, like Tabatabai, emphasizes that framing faith as a transaction makes religious obligation attractive rather than burdensome. Both traditions cite similar hadith about this verse's reference to jihad and broader spiritual commitment. The consensus affirms that Allah promises salvation in exchange for sincere faith and struggle. No significant sectarian difference exists in basic interpretation. Both schools use this verse to motivate believers by presenting religion as beneficial investment. The commercial framework transcends cultural boundaries, making this verse effective across societies and time periods. The comparative study shows complete unity in appreciating this verse's rhetorical strategy and spiritual message. Both Sunni and Shia exegetes recognize that Allah's use of transactional language addresses human psychology effectively while teaching profound spiritual truths about the relationship between effort and reward, investment and return in religious life.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت کے بنیادی جامع ایمان اور جہاد کی نداء پر متفق ہیں۔ ابن کثیر ایمان سے پہلے جہاد کی ترتیب کے اہم ہونے کے بارے میں بحث کرتے ہیں، طباطبائی کی طرح۔ قرطبی جہاد کی مختلف شکلوں پر بحث کرتے ہیں۔ روایتیں تمام روایتوں میں مال اور جان سے جہاد کی تعریف کرتی ہیں۔ دونوں دل اور عمل کے حالات تک محدود نہیں ہیں۔ لطیف فرق ہے امامت میں: شیعہ تفسیر الہام شدہ امام کے حق میں ایمان کو شامل سمجھتے ہیں۔ سنی نہج نبی پر تنہا ایمان پر زور دیتے ہیں۔ دونوں روایتیں عالمگیر معنی اور قوتیں فاضل کرتے ہیں۔",
+    "layer4_ar": "يُقدِّر مفسرو الشيعة والسنة على حد سواء الاستعارة التجارية وفاعليتها النفسية البالغة الأثر. ويتناول ابن كثير كيف تُخاطب هذه الآية الرغبة الفطرية في الإنسان لإبرام الصفقات النافعة. ويُشدِّد القرطبي كالطباطبائي على أن تأطير الإيمان كتجارة يجعل الفريضة الدينية جاذبة لا مُثقِلة. ويستشهد كلا الفريقين بأحاديث متشابهة حول إشارة هذه الآية إلى الجهاد والالتزام الروحي الأشمل. ويُقرُّ الإجماع بأن الله يعد بالنجاة في مقابل الإيمان الصادق والجهاد الحقيقي. ولا يوجد فارق مذهبي جوهري في التفسير الأساسي لهذه الآية. وكلتا المدرستَين توظِّف هذه الآية لتحفيز المؤمنين بتقديم الدين استثماراً رابحاً لا عبئاً مُحبِطاً. والإطار التجاري يتخطى الحواجز الثقافية، فيجعل هذه الآية فاعلة في كل مجتمع وعبر كل حقبة. ويكشف البحث المقارن عن تناغم كامل في تقدير الاستراتيجية الخطابية لهذه الآية والرسالة الروحية العميقة التي تحملها. وكلا التفسيرَين السني والشيعي يُقرَّان بأن توظيف الله للغة المعاملات يُخاطب علم نفس الإنسان بفاعلية عالية، في الوقت الذي يُعلِّم فيه حقائق روحية عميقة عن العلاقة بين الجهد والجزاء، والاستثمار والعائد في الحياة الدينية."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:11:dual-belief-action",
+          "title": "Belief & Struggle",
+          "icon": "arrow.triangle.2.circlepath",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The profitable transaction requires two inseparable elements: believing in Allah and His Messenger, then actively striving with wealth and lives in His cause.",
+          "whyItMatters": "This integration refutes the false dichotomy between faith and works - authentic belief naturally manifests in sacrificial action for divine purposes.",
+          "position": "topLeft",
+          "arabicHighlight": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ",
+          "title_urdu": "ایمان اور جدوجہد",
+          "coreInsight_urdu": "منافع بخش لین دین دو ناقابل تقسیم عناصر کا تقاضا کرتی ہے: اللہ اور اس کے رسول پر ایمان لانا، پھر اس کی راہ میں دولت اور زندگیوں کے ساتھ فعال طور پر جدوجہد کرنا۔",
+          "whyItMatters_urdu": "یہ انضمام ایمان اور اعمال کے درمیان جھوٹی دوہری تقسیم کی تردید کرتا ہے - حقیقی عقیدہ قدرتی طور پر الہی مقاصد کے لیے قربانی والے عمل میں ظاہر ہوتا ہے۔",
+          "title_ar": "الإيمان والكفاح",
+          "coreInsight_ar": "الصفقة المربحة تتطلب عنصرين لا ينفصلان: الإيمان بالله ورسوله، ثم السعي النشط بالثروة والأرواح في سبيله.",
+          "whyItMatters_ar": "هذا التكامل يدحض الثنائية الخاطئة بين الإيمان والأعمال - الإيمان الحقيقي يتجلى بشكل طبيعي في العمل التضحوي للأغراض الإلهية."
+        },
+        {
+          "id": "61:11:wealth-sacrifice",
+          "title": "Financial Jihad",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Mentioning wealth before lives emphasizes that material sacrifice often precedes physical risk, testing our attachment to comfort and possessions.",
+          "whyItMatters": "This ordering reveals a spiritual hierarchy - we must first prove willingness to sacrifice money before being entrusted with more demanding tests.",
+          "position": "topRight",
+          "arabicHighlight": "بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ",
+          "title_urdu": "مالی جہاد",
+          "coreInsight_urdu": "جانوں سے پہلے دولت کا ذکر اس بات پر زور دیتا ہے کہ مادی قربانی اکثر جسمانی خطرے سے پہلے ہوتی ہے، آرام اور املاک سے ہماری وابستگی کا امتحان لیتی ہے۔",
+          "whyItMatters_urdu": "یہ ترتیب ایک روحانی درجہ بندی کو ظاہر کرتی ہے - ہمیں پہلے پیسے کی قربانی دینے کی رضامندی ثابت کرنی چاہیے قبل اس کے کہ زیادہ مطالبہ کرنے والے امتحانات کے ساتھ اعتماد کیا جائے۔",
+          "title_ar": "الجهاد المالي",
+          "coreInsight_ar": "ذكر الثروة قبل الأرواح يؤكد أن التضحية المادية غالبًا ما تسبق المخاطر الجسدية، اختبار تعلقنا بالراحة والممتلكات.",
+          "whyItMatters_ar": "هذا الترتيب يكشف تسلسلاً هرميًا روحيًا - يجب أن نثبت أولاً الاستعداد للتضحية بالمال قبل أن يُعهد إلينا باختبارات أكثر تطلبًا."
+        },
+        {
+          "id": "61:11:ultimate-benefit",
+          "title": "True Advantage",
+          "icon": "star.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'that is best for you if you should know' implies that many fail to recognize where their true benefit lies, mistaking worldly comfort for genuine advantage.",
+          "whyItMatters": "Spiritual knowledge transforms values - what appears as loss (sacrifice) is actually gain, while apparent gain (material accumulation) may be true loss.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+          "title_urdu": "حقیقی فائدہ",
+          "coreInsight_urdu": "جملہ 'یہ تمہارے لیے بہتر ہے اگر تم جانو' اشارہ کرتا ہے کہ بہت سے لوگ یہ پہچاننے میں ناکام ہوتے ہیں کہ ان کا حقیقی فائدہ کہاں ہے، دنیاوی آرام کو حقیقی فائدے سے غلط سمجھتے ہیں۔",
+          "whyItMatters_urdu": "روحانی علم اقدار کو تبدیل کر دیتا ہے - جو نقصان (قربانی) کے طور پر ظاہر ہوتا ہے وہ دراصل فائدہ ہے، جبکہ ظاہری فائدہ (مادی جمع) حقیقی نقصان ہو سکتا ہے۔",
+          "title_ar": "الميزة الحقيقية",
+          "coreInsight_ar": "عبارة 'ذلكم خير لكم إن كنتم تعلمون' يشير إلى أن كثيرين يفشلون في إدراك أين تكمن فائدتهم الحقيقية، مخطئين الراحة الدنيوية للميزة الحقيقية.",
+          "whyItMatters_ar": "المعرفة الروحية تحول القيم - ما يظهر كخسارة (تضحية) هو في الواقع ربح، بينما الربح الظاهر (التراكم المادي) قد يكون خسارة حقيقية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on this verse's essential call to comprehensive faith and struggle. Ibn Kathir discusses the ordering of faith before jihad, similar to Tabatabai. Qurtubi emphasizes jihad's various forms beyond warfare. The hadith literature across traditions praises those who strive with wealth and lives. A subtle difference exists in Imamate: Shia interpretation sees acceptance of divinely appointed Imams as part of believing in the messenger, while Sunni understanding focuses on the Prophet alone. Both traditions emphasize comprehensive commitment beyond verbal profession. The call to jihad with wealth addresses all believers, not just warriors; everyone can contribute financially. The call to jihad with life applies both literally to those in combat and metaphorically to dedicating one's existence to Islam. Both Sunni and Shia scholars use this verse to call believers beyond minimal compliance to maximal commitment. The comparative study reveals essential unity in Islam's call for total dedication of believer's resources and life to divine cause, with sectarian differences appearing primarily in understanding authoritative guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس بات کے بارے میں متفق ہیں کہ تمام مخلوقات اللہ کے ملکانہ حق میں ہیں۔ ابن کثیر اور قرطبی اسی اصول کو دیکھتے ہیں۔ دونوں روایتیں اس سے نکالتی ہیں کہ انسانوں کو اللہ کی خوشنودی کے لیے دینا چاہیے۔ ہدایت تمام علما سے ملتا ہے۔ دونوں معتقد ہیں کہ مخلوقات اللہ کی فیاضی ہیں۔ کوئی شدید فرق نہیں ہے تعارف میں، اگرچہ شیعہ علما اللہ کی ہدایت کو الہام شدہ امام کے ذریعے حاصل کرتے ہیں۔ سنی نقطہ نظر عام اسلامی رہنمائی دیکھتے ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على الدعوة الجوهرية التي تحملها هذه الآية إلى الإيمان الشامل والسعي الحقيقي. ويتناول ابن كثير تقديم الإيمان على الجهاد في ترتيب الآية بصورة تتقارب مع منهج الطباطبائي. ويُشدِّد القرطبي على أشكال الجهاد المتعددة التي تتخطى ميدان الحرب. وأدب الحديث في كلا التقليدَين يُثني على من يجاهد بماله ونفسه ثناءً بليغاً. وثمة فارق دقيق في مسألة الإمامة؛ إذ يرى التفسير الشيعي أن قبول الأئمة المعيَّنين إلهياً جزء من الإيمان بالرسول، بينما يُركِّز الفهم السني على النبي وحده دون تمييز مَن بعده. وكلا التقليدَين يُؤكِّد الالتزام الشامل الذي يتجاوز الإقرار اللفظي المجرد. والدعوة إلى الجهاد بالمال تُخاطب جميع المؤمنين لا المقاتلين وحدهم، فكل إنسان يستطيع أن يُسهم مالياً في رفع راية الحق. والدعوة إلى الجهاد بالنفس تنطبق حرفياً على الذين يقاتلون في ميادين الشهادة، وتنطبق تجازاً على كل من يُكرِّس وجوده لخدمة الإسلام. ويوظِّف علماء السنة والشيعة هذه الآية للدعوة إلى الانتقال من الامتثال الأدنى إلى الالتزام الأقصى. ويكشف البحث المقارن عن وحدة جوهرية في دعوة الإسلام لتكريس موارد المؤمن وحياته لقضية الله، فيما تظهر الفوارق المذهبية أساساً في فهم طبيعة الهداية الشرعية المعتبرة."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:12:sin-forgiveness",
+          "title": "Complete Forgiveness",
+          "icon": "eraser.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The first divine return on investment is comprehensive forgiveness of sins, wiping the slate clean for those who believe and strive in Allah's cause.",
+          "whyItMatters": "This promise liberates from past guilt - sincere commitment to jihad (struggle) offers a fresh start, removing barriers between servant and Lord.",
+          "position": "topLeft",
+          "arabicHighlight": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ",
+          "title_urdu": "مکمل معافی",
+          "coreInsight_urdu": "سرمایہ کاری پر پہلا الہی منافع گناہوں کی جامع معافی ہے، ان لوگوں کے لیے تختی صاف کر دیتی ہے جو اللہ کی راہ میں ایمان لاتے اور جدوجہد کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ وعدہ ماضی کے جرم سے آزاد کرتا ہے - جہاد (جدوجہد) کے لیے مخلصانہ عزم ایک نیا آغاز پیش کرتا ہے، بندے اور رب کے درمیان رکاوٹوں کو ہٹاتا ہے۔",
+          "title_ar": "المغفرة الكاملة",
+          "coreInsight_ar": "العائد الإلهي الأول على الاستثمار هو المغفرة الشاملة للذنوب، مسح السجل نظيفًا لمن يؤمنون ويجاهدون في سبيل الله.",
+          "whyItMatters_ar": "هذا الوعد يحرر من الذنب الماضي - الالتزام الصادق بالجهاد يقدم بداية جديدة، إزالة الحواجز بين العبد والرب."
+        },
+        {
+          "id": "61:12:paradise-rivers",
+          "title": "Gardens & Rivers",
+          "icon": "drop.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The imagery of gardens with flowing rivers beneath represents eternal tranquility, abundance, and beauty as reward for temporal struggle and sacrifice.",
+          "whyItMatters": "This vivid description makes paradise tangible and desirable, motivating believers to exchange temporary pleasures for permanent bliss.",
+          "position": "topRight",
+          "arabicHighlight": "جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ",
+          "title_urdu": "جنتیں اور ندیاں",
+          "coreInsight_urdu": "نیچے سے بہتی ہوئی ندیوں والی جنتوں کی تصویر عارضی جدوجہد اور قربانی کے بدلے میں ابدی سکون، کثرت اور خوبصورتی کی نمائندگی کرتی ہے۔",
+          "whyItMatters_urdu": "یہ واضح تفصیل جنت کو قابل لمس اور مطلوب بناتی ہے، مومنوں کو عارضی لذتوں کو مستقل نعمتوں کے لیے تبدیل کرنے کی ترغیب دیتی ہے۔",
+          "title_ar": "الجنات والأنهار",
+          "coreInsight_ar": "صورة الجنات بالأنهار الجارية من تحتها تمثل الهدوء الأبدي والوفرة والجمال كمكافأة للكفاح والتضحية المؤقتة.",
+          "whyItMatters_ar": "هذا الوصف الحي يجعل الجنة ملموسة ومرغوبة، محفزًا المؤمنين لتبديل الملذات المؤقتة بالنعيم الدائم."
+        },
+        {
+          "id": "61:12:pleasant-dwellings",
+          "title": "Eternal Residence",
+          "icon": "house.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Pleasant dwellings in Gardens of Perpetual Residence (Jannat 'Adn) emphasize permanence - unlike worldly homes that decay, these abodes endure forever.",
+          "whyItMatters": "This contrast between temporary earthly housing and eternal paradise homes reframes how we invest resources and energy in this life.",
+          "position": "bottomLeft",
+          "arabicHighlight": "مَسَٰكِنَ طَيِّبَةًۭ فِى جَنَّٰتِ عَدْنٍۢ",
+          "title_urdu": "ابدی رہائش",
+          "coreInsight_urdu": "ہمیشہ رہنے والی جنتوں (جنت عدن) میں خوشگوار مکانات مستقل مزاجی پر زور دیتے ہیں - دنیاوی گھروں کے برعکس جو زوال پذیر ہوتے ہیں، یہ مکانات ہمیشہ کے لیے باقی رہتے ہیں۔",
+          "whyItMatters_urdu": "عارضی زمینی رہائش اور ابدی جنت کے گھروں کے درمیان یہ تضاد اس بات کو دوبارہ بیان کرتا ہے کہ ہم اس زندگی میں وسائل اور توانائی کیسے لگاتے ہیں۔",
+          "title_ar": "الإقامة الأبدية",
+          "coreInsight_ar": "المساكن الطيبة في جنات عدن تؤكد على الدوام - على عكس المنازل الدنيوية التي تتحلل، هذه المساكن تدوم إلى الأبد.",
+          "whyItMatters_ar": "هذا التباين بين السكن الأرضي المؤقت ومنازل الجنة الأبدية يعيد صياغة كيف نستثمر الموارد والطاقة في هذه الحياة."
+        },
+        {
+          "id": "61:12:supreme-achievement",
+          "title": "Greatest Success",
+          "icon": "trophy.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Declaring this 'the great attainment' establishes ultimate success as spiritual, not material - true winning means gaining Allah's pleasure and eternal reward.",
+          "whyItMatters": "This redefinition of success challenges worldly metrics, urging believers to measure achievement by divine standards rather than social status or wealth.",
+          "position": "bottomRight",
+          "arabicHighlight": "ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+          "title_urdu": "عظیم ترین کامیابی",
+          "coreInsight_urdu": "اسے 'عظیم کامیابی' قرار دینا حتمی کامیابی کو روحانی، نہ کہ مادی قائم کرتا ہے - حقیقی جیت کا مطلب اللہ کی رضا اور ابدی اجر حاصل کرنا ہے۔",
+          "whyItMatters_urdu": "کامیابی کی یہ نئی تعریف دنیاوی پیمانوں کو چیلنج کرتی ہے، مومنوں سے کہتی ہے کہ وہ سماجی حیثیت یا دولت کی بجائے الہی معیارات کے مطابق کامیابی کی پیمائش کریں۔",
+          "title_ar": "النجاح الأعظم",
+          "coreInsight_ar": "إعلان هذا 'الفوز العظيم' يؤسس النجاح النهائي كروحي، وليس مادي - الفوز الحقيقي يعني كسب رضا الله والمكافأة الأبدية.",
+          "whyItMatters_ar": "هذا التعريف الجديد للنجاح يتحدى المقاييس الدنيوية، يحث المؤمنين على قياس الإنجاز بالمعايير الإلهية بدلاً من المكانة الاجتماعية أو الثروة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the literal reality of paradise and its rewards. Ibn Kathir describes the gardens similarly to Tabrisi. Qurtubi discusses the levels of paradise comparably to Shia sources. Both traditions affirm that paradise combines spiritual and sensory rewards. The hadith literature across traditions describes paradise in similar terms. Both schools emphasize that entry requires faith and righteous action, not faith alone or action without faith. A subtle difference exists in emphasis: Shia sources particularly highlight proximity to the Ahlul Bayt as paradise's special reward, while Sunni sources focus more on proximity to the Prophet without particular emphasis on his family. Both traditions use these verses to motivate believers toward sacrifice and commitment. The promise of forgiveness addresses human weakness and need for divine mercy, acknowledged across traditions. The comparative study reveals essential unity in Islamic eschatology's promise of eternal reward for faith and struggle, with minor differences in emphasis regarding the special status of the Prophet's family in paradise.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما جنت کی حقیقی موجودگی پر متفق ہیں۔ ابن کثیر طبرسی کی طرح جنت کو ایسے انداز میں بیان کرتے ہیں۔ قرطبی جنت کی سطحوں کے بارے میں بحث کرتے ہیں۔ روایتیں تمام روایتوں میں جنت کو لفظی اور حسی طریقے سے بیان کرتی ہیں۔ دونوں علما متفق ہیں کہ داخلگی میں ایمان اور نیک عمل دونوں ضروری ہیں۔ لطیف فرق موجود ہے: شیعہ ذرائع خاص طور پر جنت میں اہل بیت کے قریب ہونے کو خاص انعام کے طور پر اجاگر کرتے ہیں۔ سنی ذرائع بنی پر خاص تاکید کے بغیر جنت کے بارے میں بات کرتے ہیں۔ دونوں روایتیں لفظی اور روحانی انعام کے بارے میں یقین رکھتی ہیں۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على الحقيقة الواقعية للجنة ومكافآتها. ويصف ابن كثير الجنات بصورة تتقارب مع وصف الطبرسي لها. ويتناول القرطبي درجات الجنة بما يتقارب من المصادر الشيعية. وكلا التقليدَين يُقرَّان بأن الجنة تجمع بين الثواب الروحي والتجربة الحسية معاً. وأدب الحديث في التقليدَين يصف الجنة بأوصاف متماثلة. وكلتا المدرستَين تُشدِّد على أن الدخول يستلزم إيماناً وعملاً صالحاً، لا إيماناً بلا عمل ولا عملاً بلا إيمان. وثمة فارق دقيق في التأكيد: المصادر الشيعية تُبرز القرب من أهل البيت بوصفه ثواباً خاصاً في الجنة، بينما المصادر السنية تُركِّز على القرب من النبي دون تمييز خاص لأهل بيته. وكلا التقليدَين يوظِّف هذه الآيات لتحفيز المؤمنين على الفداء والالتزام. والتأكيد على المغفرة يُعالج ضعف الإنسان وحاجته الماسة للرحمة الإلهية، وهو اعتراف مُقرٌّ به في كلا التقليدَين. ويكشف البحث المقارن عن وحدة جوهرية في الوعد الإسلامي بالجزاء الأبدي لقاء الإيمان والسعي، مع فوارق طفيفة في التأكيد على المكانة الخاصة لآل النبي في الجنة."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:13:worldly-victory",
+          "title": "Worldly Success",
+          "icon": "flag.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Beyond eternal rewards, Allah promises another favor believers love - victory and imminent conquest in this world, satisfying both spiritual and temporal aspirations.",
+          "whyItMatters": "This dual reward system shows Islam doesn't demand choosing between dunya and akhira - righteous struggle yields success in both realms simultaneously.",
+          "position": "topLeft",
+          "arabicHighlight": "وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ",
+          "title_urdu": "دنیاوی کامیابی",
+          "coreInsight_urdu": "ابدی اجر سے آگے، اللہ ایک اور فضل کا وعدہ کرتا ہے جسے مومنین محبوب رکھتے ہیں - اس دنیا میں فتح اور قریبی فتح، روحانی اور عارضی دونوں امنگوں کو پورا کرتا ہے۔",
+          "whyItMatters_urdu": "یہ دوہرا اجر کا نظام ظاہر کرتا ہے کہ اسلام دنیا اور آخرت کے درمیان انتخاب کا مطالبہ نہیں کرتا - نیک جدوجہد دونوں شعبوں میں بیک وقت کامیابی پیدا کرتی ہے۔",
+          "title_ar": "النجاح الدنيوي",
+          "coreInsight_ar": "بالإضافة إلى المكافآت الأبدية، يعد الله بنعمة أخرى يحبها المؤمنون - النصر والفتح الوشيك في هذا العالم، محققًا التطلعات الروحية والزمنية معًا.",
+          "whyItMatters_ar": "نظام المكافأة المزدوج هذا يُظهر أن الإسلام لا يطلب الاختيار بين الدنيا والآخرة - الكفاح الصالح يحقق النجاح في كلا المجالين في وقت واحد."
+        },
+        {
+          "id": "61:13:divine-support",
+          "title": "Allah's Victory",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Victory is attributed to Allah, not human strategy or strength, reminding believers that success ultimately depends on divine support, not superior resources.",
+          "whyItMatters": "This keeps believers humble in victory and hopeful in defeat - outcomes rest in Allah's hands, so we focus on righteous effort regardless of apparent odds.",
+          "position": "topRight",
+          "arabicHighlight": "نَصْرٌۭ مِّنَ ٱللَّهِ",
+          "title_urdu": "اللہ کی فتح",
+          "coreInsight_urdu": "فتح کو اللہ سے منسوب کیا گیا ہے، نہ کہ انسانی حکمت عملی یا طاقت سے، مومنوں کو یاد دلاتا ہے کہ کامیابی بالآخر الہی مدد پر منحصر ہے، نہ کہ اعلیٰ وسائل پر۔",
+          "whyItMatters_urdu": "یہ مومنوں کو فتح میں عاجز اور شکست میں امید مند رکھتا ہے - نتائج اللہ کے ہاتھوں میں ہیں، لہذا ہم ظاہری مشکلات سے قطع نظر نیک کوشش پر توجہ مرکوز کرتے ہیں۔",
+          "title_ar": "نصر الله",
+          "coreInsight_ar": "يُنسب النصر إلى الله، وليس إلى الاستراتيجية أو القوة البشرية، مذكرًا المؤمنين أن النجاح يعتمد في النهاية على الدعم الإلهي، وليس الموارد المتفوقة.",
+          "whyItMatters_ar": "هذا يبقي المؤمنين متواضعين في النصر ومتفائلين في الهزيمة - النتائج في يد الله، لذا نركز على الجهد الصالح بغض النظر عن الاحتمالات الظاهرة."
+        },
+        {
+          "id": "61:13:imminent-conquest",
+          "title": "Near Victory",
+          "icon": "clock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The promise of 'imminent conquest' provides hope during struggle, assuring believers that relief is close and victory is approaching, not distant.",
+          "whyItMatters": "This temporal proximity energizes perseverance - knowing breakthrough is near helps believers endure current hardships without losing motivation or hope.",
+          "position": "bottomLeft",
+          "arabicHighlight": "فَتْحٌۭ قَرِيبٌۭ",
+          "title_urdu": "قریبی فتح",
+          "coreInsight_urdu": "'قریبی فتح' کا وعدہ جدوجہد کے دوران امید فراہم کرتا ہے، مومنوں کو یقین دلاتا ہے کہ راحت قریب ہے اور فتح قریب آ رہی ہے، دور نہیں۔",
+          "whyItMatters_urdu": "یہ عارضی قربت ثابت قدمی کو توانائی دیتی ہے - یہ جاننا کہ کامیابی قریب ہے مومنوں کو حوصلہ یا امید کھوئے بغیر موجودہ مشکلات برداشت کرنے میں مدد کرتا ہے۔",
+          "title_ar": "الفتح القريب",
+          "coreInsight_ar": "وعد 'الفتح القريب' يوفر الأمل أثناء الكفاح، مؤكدًا للمؤمنين أن الراحة قريبة والنصر يقترب، وليس بعيدًا.",
+          "whyItMatters_ar": "هذا القرب الزمني ينشط المثابرة - معرفة أن الاختراق قريب يساعد المؤمنين على تحمل المصاعب الحالية دون فقدان الحافز أو الأمل."
+        },
+        {
+          "id": "61:13:good-tidings",
+          "title": "Prophetic Message",
+          "icon": "envelope.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The command to 'give good tidings to believers' makes sharing hope a prophetic duty - leaders must actively encourage and uplift their communities.",
+          "whyItMatters": "This establishes encouragement as religious obligation - believers should spread optimism and hope, countering despair with promises of divine support.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+          "title_urdu": "نبوی پیغام",
+          "coreInsight_urdu": "'مومنوں کو خوشخبری دینے' کا حکم امید کی تقسیم کو نبوی فرض بناتا ہے - رہنماؤں کو فعال طور پر اپنی کمیونٹیز کی حوصلہ افزائی اور بلند کرنا چاہیے۔",
+          "whyItMatters_urdu": "یہ حوصلہ افزائی کو مذہبی ذمہ داری قائم کرتا ہے - مومنوں کو امید اور خوش فہمی پھیلانی چاہیے، الہی مدد کے وعدوں کے ساتھ مایوسی کا مقابلہ کرتے ہوئے۔",
+          "title_ar": "الرسالة النبوية",
+          "coreInsight_ar": "الأمر بـ'بشر المؤمنين' يجعل مشاركة الأمل واجبًا نبويًا - يجب على القادة تشجيع ورفع معنويات مجتمعاتهم بنشاط.",
+          "whyItMatters_ar": "هذا يُنشئ التشجيع كواجب ديني - يجب على المؤمنين نشر التفاؤل والأمل، مواجهة اليأس بوعود الدعم الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree that this verse promises worldly success alongside otherworldly reward. Ibn Kathir identifies the imminent conquest as referring to conquest of Mecca or later victories. Tabari discusses similar interpretations to Shia sources regarding specific historical events. Both traditions emphasize that victory comes from Allah, not human power alone. A significant difference exists in eschatological application: Shia scholarship strongly connects this verse to the Mahdi's future global victory, while most Sunni interpretations see it as substantially fulfilled in early Islamic conquests, though some Sunni eschatology includes future victories before the end times. Both schools use this verse to encourage believers that their struggles will succeed. The command to give good tidings is universally accepted as establishing hope as religious duty. The comparative study reveals shared understanding that Islam promises both eternal and temporal success, with differences in specific identification of the promised conquest. Both traditions agree that believers should work expecting divine support and tangible results, making this verse's message of hope universal across Islamic schools.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت میں دنیاوی اور ابدی کامیابی دونوں کے وعدے پر متفق ہیں۔ ابن کثیر فوری فتح یا بعد میں آنے والی کامیابی کے بارے میں بحث کرتے ہیں۔ طبری نے ملتے جلتے تاریخی سیاق کو دیکھا۔ دونوں روایتیں الٹاہی حمایت کو ظاہر کرتی ہیں۔ ایک اہم فرق یہ ہے کہ شیعہ علما اس آیت کو مہدی کی مستقبل کی فتح سے براہ راست جوڑتے ہیں۔ سنی تفسیریں مختلف ہیں، بعض اسے تاریخی فتح میں واقع دیکھتے ہیں۔ دونوں روایتیں اللہ کے وعدے میں یقین رکھتے ہیں کہ مومنین کامیاب ہوں گے، حالاں کہ نقطوں میں شناخت مختلف ہو سکتی ہے۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على أن هذه الآية تعد بالنجاح الدنيوي إلى جانب الجزاء الأخروي. ويُحدِّد ابن كثير الفتح القريب بفتح مكة المكرمة أو الانتصارات اللاحقة عليه. ويتناول الطبري تأويلات تتقارب مع المصادر الشيعية في شأن أحداث تاريخية بعينها. وكلا التقليدَين يُشدِّد على أن النصر يأتي من الله لا من القوة البشرية المجردة. وثمة فارق جوهري في التأويل الغيبي؛ إذ يربط الفكر الشيعي هذه الآية ربطاً وثيقاً بالنصر العالمي المستقبلي للإمام المهدي، بينما تتباين التفسيرات السنية بين من يرى أنه تحقق في توسع الإسلام التاريخي المبكر ومن ينتظر اكتمالاً مستقبلياً ومن يؤوله مجازياً. وكلتا المدرستَين توظِّف هذه الآية لتشجيع المؤمنين على ثقة بأن نضالاتهم ستُؤتي ثمرتها. والأمر ببشارة المؤمنين مقبول إجماعاً بوصفه تثبيتاً للأمل واجباً دينياً. ويكشف البحث المقارن عن فهم مشترك بأن الإسلام يعد بالنجاح الأبدي والدنيوي معاً، مع تباين في التحديد الدقيق للفتح الموعود. ويتفق التقليدان على أن المؤمنين يجب أن يعملوا متوقِّعين التأييد الإلهي والثمرات الملموسة، مما يجعل رسالة الأمل في هذه الآية كونية تتجاوز الحدود المذهبية."
+  },
+  "14": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "61:14:helpers-of-allah",
+          "title": "Allah's Supporters",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The call to 'be supporters of Allah' establishes believers as divine auxiliaries, actively working to establish His religion and defend His cause.",
+          "whyItMatters": "This honored role transforms believers from passive worshippers to active agents of divine will, bearing responsibility for truth's manifestation in the world.",
+          "position": "topLeft",
+          "arabicHighlight": "كُونُوٓا۟ أَنصَارَ ٱللَّهِ",
+          "title_urdu": "اللہ کے مددگار",
+          "coreInsight_urdu": "'اللہ کے مددگار بنو' کی دعوت مومنوں کو الہی معاونین کے طور پر قائم کرتی ہے، اس کے دین کو قائم کرنے اور اس کے مقصد کا دفاع کرنے کے لیے فعال طور پر کام کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ معزز کردار مومنوں کو غیر فعال عبادت گزاروں سے الہی مرضی کے فعال ایجنٹوں میں تبدیل کرتا ہے، دنیا میں حق کے اظہار کی ذمہ داری اٹھاتے ہیں۔",
+          "title_ar": "أنصار الله",
+          "coreInsight_ar": "الدعوة لـ'كونوا أنصار الله' تؤسس المؤمنين كمساعدين إلهيين، يعملون بنشاط لإقامة دينه والدفاع عن قضيته.",
+          "whyItMatters_ar": "هذا الدور المكرم يحول المؤمنين من عابدين سلبيين إلى وكلاء نشطين للإرادة الإلهية، يتحملون مسؤولية إظهار الحق في العالم."
+        },
+        {
+          "id": "61:14:prophetic-example",
+          "title": "Jesus' Model",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Jesus' question to the disciples 'Who are my supporters for Allah?' provides a timeless model of prophets seeking committed helpers to advance divine missions.",
+          "whyItMatters": "This pattern shows every divine movement needs dedicated supporters - prophets can't succeed alone, requiring communities willing to sacrifice for truth.",
+          "position": "topRight",
+          "arabicHighlight": "كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ",
+          "title_urdu": "عیسیٰ کا نمونہ",
+          "coreInsight_urdu": "حواریوں سے عیسیٰ کا سوال 'اللہ کی طرف میرے مددگار کون ہیں؟' انبیاء کا الہی مشنوں کو آگے بڑھانے کے لیے پرعزم مددگاروں کی تلاش کا لازوال نمونہ فراہم کرتا ہے۔",
+          "whyItMatters_urdu": "یہ نمونہ ظاہر کرتا ہے کہ ہر الہی تحریک کو وقف شدہ حامیوں کی ضرورت ہے - انبیاء اکیلے کامیاب نہیں ہو سکتے، حق کے لیے قربانی دینے کو تیار کمیونٹیز کی ضرورت ہے۔",
+          "title_ar": "نموذج عيسى",
+          "coreInsight_ar": "سؤال عيسى للحواريين 'من أنصاري إلى الله؟' يوفر نموذجًا خالدًا للأنبياء الذين يسعون لمساعدين ملتزمين للنهوض بالمهام الإلهية.",
+          "whyItMatters_ar": "هذا النمط يُظهر أن كل حركة إلهية تحتاج إلى مؤيدين مخلصين - لا يمكن للأنبياء النجاح بمفردهم، يحتاجون إلى مجتمعات على استعداد للتضحية من أجل الحق."
+        },
+        {
+          "id": "61:14:disciples-response",
+          "title": "Committed Response",
+          "icon": "hand.raised.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The disciples' immediate declaration 'We are supporters of Allah' exemplifies the ideal response - swift, enthusiastic commitment without hesitation or negotiation.",
+          "whyItMatters": "This wholehearted acceptance models how believers should respond to divine calls - with immediate allegiance rather than calculated self-interest.",
+          "position": "bottomLeft",
+          "arabicHighlight": "قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ",
+          "title_urdu": "پرعزم جواب",
+          "coreInsight_urdu": "حواریوں کا فوری اعلان 'ہم اللہ کے مددگار ہیں' مثالی جواب کی مثال ہے - تیز، پرجوش عزم بغیر کسی ہچکچاہٹ یا گفت و شنید کے۔",
+          "whyItMatters_urdu": "یہ دل سے قبولیت نمونہ بناتی ہے کہ مومنوں کو الہی پکاروں کا جواب کیسے دینا چاہیے - حساب شدہ ذاتی مفاد کی بجائے فوری وفاداری کے ساتھ۔",
+          "title_ar": "الاستجابة الملتزمة",
+          "coreInsight_ar": "إعلان الحواريين الفوري 'نحن أنصار الله' يجسد الاستجابة المثالية - الالتزام السريع والحماسي دون تردد أو تفاوض.",
+          "whyItMatters_ar": "هذا القبول الصادق يُنمذج كيف يجب على المؤمنين الاستجابة للدعوات الإلهية - بالولاء الفوري بدلاً من المصلحة الذاتية المحسوبة."
+        },
+        {
+          "id": "61:14:divine-empowerment",
+          "title": "Promised Victory",
+          "icon": "crown.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah's support for believers against their enemies resulted in dominance, proving that divine assistance guarantees ultimate triumph for those who stand firm.",
+          "whyItMatters": "This historical pattern assures modern believers that commitment to truth, despite initial weakness, will culminate in victory through divine intervention.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ",
+          "title_urdu": "وعدہ شدہ فتح",
+          "coreInsight_urdu": "مومنوں کے لیے ان کے دشمنوں کے خلاف اللہ کی مدد غلبے کا نتیجہ ہوئی، ثابت کرتی ہے کہ الہی مدد ان لوگوں کے لیے حتمی فتح کی ضمانت دیتی ہے جو ثابت قدم رہتے ہیں۔",
+          "whyItMatters_urdu": "یہ تاریخی نمونہ جدید مومنوں کو یقین دلاتا ہے کہ حق کے ساتھ عزم، ابتدائی کمزوری کے باوجود، الہی مداخلت کے ذریعے فتح میں بدلے گا۔",
+          "title_ar": "النصر الموعود",
+          "coreInsight_ar": "دعم الله للمؤمنين ضد أعدائهم أدى إلى الهيمنة، مثبتًا أن المساعدة الإلهية تضمن الانتصار النهائي لمن يثبتون.",
+          "whyItMatters_ar": "هذا النمط التاريخي يطمئن المؤمنين المعاصرين أن الالتزام بالحق، رغم الضعف الأولي، سيبلغ ذروته في النصر من خلال التدخل الإلهي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni commentators agree on the essential meaning of being helpers of Allah and the example of Isa's disciples. Ibn Kathir discusses the disciples' commitment similarly to Tabrisi. Qurtubi emphasizes that the division among Children of Israel provides a warning for Muslims. Both traditions honor those who supported the Prophet as his 'Ansar.' A significant difference exists in contemporary application: Shia scholarship explicitly connects being helpers of Allah with following the Imam and supporting the Ahlul Bayt, seeing opposition to them as parallel to the Israelites who disbelieved in Isa. Sunni interpretations focus more on general support for Islamic causes without particular emphasis on Imamate. Both traditions agree that divine support comes to committed believers over their enemies. The promise of dominance is interpreted similarly across traditions, though Shia thought particularly applies it to the future dominance of believers under the Mahdi. The comparative study reveals shared emphasis on active commitment to truth and promise of divine support, with differences emerging in understanding what constitutes the legitimate cause to support, Shia thought explicitly centering this on following the rightful Imam.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما الٹاہی مقصد میں حق کی حمایت کے جوہری معنی پر متفق ہیں۔ ابن کثیر عیسیٰ کے شاگردوں کی وفاداری کو طبرسی کی طرح ہی بیان کرتے ہیں۔ قرطبی بنی اسرائیل میں تقسیم کے بارے میں بحث کرتے ہیں۔ دونوں روایتیں نبی کے 'انصار' کے درجات کو سم کرتی ہیں۔ ایک اہم فرق موجود ہے: شیعہ علما 'انصار' ہونے کو الہام شدہ امام کی پیروی کے ساتھ جوڑتے ہیں، جبکہ سنی تفسیریں عام اسلامی مقصد کی حمایت پر زور دیتی ہیں۔ دونوں روایتیں الٹاہی حمایت کے وعدے پر متفق ہیں۔ مقارن مطالعہ یہ ظاہر کرتا ہے کہ الٹاہی حق کی حمایت میں عہد کا پیغام سب سے زیادہ ہے۔",
+    "layer4_ar": "يتفق مفسرو الشيعة والسنة على الدلالة الجوهرية لكون المرء نصيراً لله ونموذج حواريِّي عيسى الكرام. ويتناول ابن كثير التزام الحواريِّين بصورة تتقارب مع منهج الطبرسي في ذلك. ويُشدِّد القرطبي على أن انقسام بني إسرائيل يُقدِّم تحذيراً بالغ الأثر للمسلمين. وكلا التقليدَين يُكرِّمان الذين نصروا النبي ويُطلقان عليهم لقب «الأنصار». وثمة فارق بارز في التطبيق المعاصر؛ إذ يربط الفكر الشيعي صراحةً كونَ المرء نصيراً لله باتِّباع الإمام ودعم أهل البيت، ويرى في معارضتهم مقابلاً لما صنعه بنو إسرائيل حين كذَّبوا عيسى ونبذوا دعوته. بينما تُركِّز التفسيرات السنية أكثر على دعم القضايا الإسلامية عموماً دون تمييز خاص للإمامة. ويتفق التقليدان على أن التأييد الإلهي يأتي للمؤمنين الملتزمين على أعدائهم. ووعد الغلبة يُؤوَّل بصورة متشابهة في كلا التقليدَين وإن كان الفكر الشيعي يُطبِّقه بصفة خاصة على الغلبة المستقبلية للمؤمنين في عهد الإمام المهدي. ويكشف البحث المقارن عن تأكيد مشترك على الالتزام الفاعل بالحق والوعد بالتأييد الإلهي، مع بروز الفوارق في تحديد ما يُشكِّل القضية الشرعية الواجب نصرتها؛ إذ يُمحور الفكر الشيعي هذا صراحةً حول اتِّباع الإمام الحق المعيَّن من قِبَل الله."
+  }
+}

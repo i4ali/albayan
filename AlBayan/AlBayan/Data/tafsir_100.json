@@ -1,0 +1,693 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:1:racing-horses",
+          "title": "Racing Horses",
+          "icon": "bolt.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The oath 'by the racing horses' (al-'adiyat) establishes vivid imagery of war horses charging into battle, their panting breath symbolizing intense exertion and determination.",
+          "whyItMatters": "This powerful opening uses the spectacle of cavalry warfare to capture attention, setting the stage for profound lessons about human nature and accountability.",
+          "position": "topLeft",
+          "arabicHighlight": "وَٱلْعَٰدِيَٰتِ",
+          "title_urdu": "دوڑتے گھوڑے",
+          "coreInsight_urdu": "قسم 'دوڑتے گھوڑوں کی' (العادیات) جنگی گھوڑوں کی واضح تصویر قائم کرتی ہے جو جنگ میں دوڑ رہے ہیں، ان کی ہانپتی سانسیں شدید کوشش اور عزم کی علامت ہیں۔",
+          "whyItMatters_urdu": "یہ طاقتور آغاز گھڑسوار جنگ کے منظر کا استعمال کرتے ہوئے توجہ حاصل کرتا ہے، انسانی فطرت اور جوابدہی کے گہرے اسباق کی بنیاد رکھتا ہے۔",
+          "title_ar": "الخيول العادية",
+          "coreInsight_ar": "القسم 'بالخيول العادية' (العاديات) يضع صورة حية لخيول الحرب المندفعة في المعركة، وأنفاسها اللاهثة ترمز إلى الجهد الشديد والتصميم.",
+          "whyItMatters_ar": "هذه البداية القوية تستخدم مشهد حرب الفرسان لجذب الانتباه، مما يمهد لدروس عميقة حول الطبيعة البشرية والمساءلة."
+        },
+        {
+          "id": "100:1:panting-breath",
+          "title": "Intense Exertion",
+          "icon": "wind",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'dabhan' (panting) describes the heavy breathing of horses at full gallop, emphasizing the totality of effort required in the struggle for truth.",
+          "whyItMatters": "Just as these horses give their all in battle, believers must exert maximum effort in their spiritual jihad against ego and worldly attachments.",
+          "position": "topRight",
+          "arabicHighlight": "ضَبْحًۭا",
+          "title_urdu": "شدید محنت",
+          "coreInsight_urdu": "لفظ 'ضبحا' (ہانپنا) پوری رفتار سے دوڑتے گھوڑوں کی بھاری سانس لینے کو بیان کرتا ہے، حق کی جدوجہد میں مطلوبہ مکمل کوشش پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "جیسے یہ گھوڑے جنگ میں اپنا سب کچھ دیتے ہیں، مومنین کو اپنی روحانی جہاد میں نفس اور دنیاوی لگاؤ کے خلاف زیادہ سے زیادہ کوشش کرنی چاہیے۔",
+          "title_ar": "الجهد الشديد",
+          "coreInsight_ar": "كلمة 'ضبحا' (اللهاث) تصف التنفس الثقيل للخيول في العدو الكامل، مع التأكيد على مجموع الجهد المطلوب في النضال من أجل الحق.",
+          "whyItMatters_ar": "تماما كما تبذل هذه الخيول كل شيء في المعركة، يجب على المؤمنين بذل أقصى جهد في جهادهم الروحي ضد الأنا والتعلقات الدنيوية."
+        },
+        {
+          "id": "100:1:divine-oath",
+          "title": "Sacred Oath",
+          "icon": "sparkles",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Allah swearing by His creation draws attention to the extraordinary nature of what follows, emphasizing the gravity of the moral lesson about human ingratitude.",
+          "whyItMatters": "When Allah takes an oath, it signals that the following message is of utmost importance for human guidance and spiritual awakening.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+          "title_urdu": "مقدس قسم",
+          "coreInsight_urdu": "اللہ کا اپنی مخلوق کی قسم کھانا آنے والی چیز کی غیر معمولی نوعیت کی طرف توجہ دلاتا ہے، انسانی ناشکری کے اخلاقی سبق کی اہمیت پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "جب اللہ قسم کھاتا ہے، یہ اشارہ کرتا ہے کہ آنے والا پیغام انسانی رہنمائی اور روحانی بیداری کے لیے انتہائی اہمیت کا حامل ہے۔",
+          "title_ar": "القسم المقدس",
+          "coreInsight_ar": "قسم الله بخلقه يلفت الانتباه إلى الطبيعة الاستثنائية لما يلي، مع التأكيد على خطورة الدرس الأخلاقي حول جحود الإنسان.",
+          "whyItMatters_ar": "عندما يقسم الله، فإنه يشير إلى أن الرسالة التالية ذات أهمية قصوى للتوجيه البشري واليقظة الروحية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the powerful imagery and oath structure opening this surah, though they differ on specific interpretations. Sunni commentators like Ibn Kathir and al-Qurtubi generally interpret these verses as referring to war horses in battle, specifically linking them to military expeditions during the Prophet's time. Al-Tabari provides multiple interpretations, including horses in battle and camels during Hajj. The Shia tradition, particularly through Imam Ali's authoritative teaching, emphasizes the Hajj interpretation, seeing the rushing pilgrims as the primary meaning. However, both traditions acknowledge that the verses can be understood on multiple levels simultaneously. Both schools agree that the oath structure serves to emphasize human ingratitude mentioned later in the surah. Scholars from both traditions recognize that divine oaths in the Quran always point to profound truths worthy of deep reflection and that the imagery chosen contains layers of meaning accessible to different audiences and contexts.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس سورہ کی ابتدائی طاقتور منظرکشی اور قسم کی ساخت پر متفق ہیں، حالانکہ وہ مخصوص تشریحات میں مختلف ہیں۔ ابن کثیر اور قرطبی جیسے سنی مفسرین عموماً ان آیات کو جنگ میں جنگی گھوڑوں سے متعلق سمجھتے ہیں، خاص طور پر انہیں نبی کریم صلی اللہ علیہ وآلہ وسلم کے زمانے کی فوجی مہمات سے جوڑتے ہیں۔ طبری نے متعدد تشریحات فراہم کی ہیں، جن میں جنگ میں گھوڑے اور حج میں اونٹ شامل ہیں۔ شیعہ روایت، خاص طور پر امام علی علیہ السلام کی مستند تعلیم کے ذریعے، حج کی تشریح پر زور دیتی ہے، جلدی کرتے حاجیوں کو بنیادی معنی کے طور پر دیکھتے ہوئے۔ تاہم دونوں روایات تسلیم کرتی ہیں کہ آیات کو بیک وقت متعدد سطحوں پر سمجھا جا سکتا ہے۔ دونوں مکاتب اس بات پر متفق ہیں کہ قسم کی ساخت انسانی ناشکری پر زور دینے کے لیے کام کرتی ہے جس کا ذکر سورہ میں بعد میں آتا ہے۔ دونوں روایات کے علماء تسلیم کرتے ہیں کہ قرآن میں الہی قسمیں ہمیشہ گہری سچائیوں کی طرف اشارہ کرتی ہیں جو گہرے غور و فکر کے قابل ہیں اور منتخب کردہ منظرکشی میں معنی کی تہیں ہیں جو مختلف سامعین اور سیاق و سباق کے لیے قابلِ رسائی ہیں۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على قوة الصور التصويرية وبنية القسم في مستهل هذه السورة، وإن تباينوا في التفاصيل. فالمفسرون السنيون كابن كثير والقرطبي يُوجِّهون الآيات توجيهاً حربياً في الغالب، ويربطونها بالغزوات في صدر الإسلام. ويذكر الطبري تفسيرات متعددة تشمل الخيل في المعارك والإبل في مناسك الحج. أما التراث الشيعي، ولا سيما من خلال تفسير الإمام علي عليه السلام الذي يُمثِّل حجة وسلطة تفسيرية راسخة، فيُرجِّح تأويل الحج ويعتبر الهروع في المشاعر المقدسة هو المعنى الأساسي. بيد أن كلا التراثين يُقرَّان بإمكان حمل الآيات على معانٍ متعددة في آنٍ واحد. وكلاهما يتفق على أن بنية القسم تُوظَّف لإبراز جحود الإنسان المذكور لاحقاً في السورة. ويُدرك علماء كلا المدرستين أن الأقسام الإلهية في القرآن تُنبِّه دائماً إلى حقائق عميقة تستحق التأمل والتدبر، وأن الصور المختارة تنطوي على طبقات من المعاني تتيح تأويلات متنوعة تلائم مختلف الجمهور والسياقات."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:2:striking-sparks",
+          "title": "Striking Sparks",
+          "icon": "flame.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The image of horses' hooves striking stones and producing sparks (al-muriyat qadhan) symbolizes the fierce intensity of battle and the transformative power of struggle.",
+          "whyItMatters": "This vivid imagery reminds us that moments of friction and challenge in life can ignite spiritual illumination and profound change.",
+          "position": "topLeft",
+          "arabicHighlight": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+          "title_urdu": "چنگاریاں نکالنا",
+          "coreInsight_urdu": "گھوڑوں کے کھروں کا پتھروں سے ٹکرانا اور چنگاریاں پیدا کرنا (الموریات قدحا) جنگ کی شدید تیزی اور جدوجہد کی تبدیلی کی طاقت کی علامت ہے۔",
+          "whyItMatters_urdu": "یہ واضح تصویر ہمیں یاد دلاتی ہے کہ زندگی میں رگڑ اور چیلنج کے لمحات روحانی روشنی اور گہری تبدیلی کو جلا سکتے ہیں۔",
+          "title_ar": "إشعال الشرر",
+          "coreInsight_ar": "صورة حوافر الخيول التي تضرب الحجارة وتنتج الشرر (الموريات قدحا) ترمز إلى الشدة الشرسة للمعركة والقوة التحويلية للنضال.",
+          "whyItMatters_ar": "هذه الصورة الحية تذكرنا أن لحظات الاحتكاك والتحدي في الحياة يمكن أن تشعل التنوير الروحي والتغيير العميق."
+        },
+        {
+          "id": "100:2:friction-growth",
+          "title": "Growth Through Challenge",
+          "icon": "arrow.up.forward",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The sparks produced by friction represent how resistance and hardship, when faced with determination, can generate light and progress rather than destruction.",
+          "whyItMatters": "Our spiritual development often requires friction with our lower desires - this struggle, when properly directed, produces the light of wisdom and self-mastery.",
+          "position": "topRight",
+          "arabicHighlight": "قَدْحًۭا",
+          "title_urdu": "چیلنج سے ترقی",
+          "coreInsight_urdu": "رگڑ سے پیدا ہونے والی چنگاریاں اس بات کی نمائندگی کرتی ہیں کہ کیسے مزاحمت اور مشکلات، جب عزم کے ساتھ سامنا کیا جائے، تباہی کے بجائے روشنی اور ترقی پیدا کر سکتی ہیں۔",
+          "whyItMatters_urdu": "ہماری روحانی ترقی اکثر ہماری نچلی خواہشات کے ساتھ رگڑ کی ضرورت ہوتی ہے - یہ جدوجہد، جب صحیح طریقے سے ہدایت کی جائے، حکمت اور خود پر قابو کی روشنی پیدا کرتی ہے۔",
+          "title_ar": "النمو من خلال التحدي",
+          "coreInsight_ar": "الشرر الناتج عن الاحتكاك يمثل كيف يمكن للمقاومة والمشقة، عند مواجهتها بالتصميم، أن تولد النور والتقدم بدلا من الدمار.",
+          "whyItMatters_ar": "غالبا ما يتطلب تطورنا الروحي احتكاكا مع رغباتنا الدنيا - هذا الصراع، عندما يوجه بشكل صحيح، ينتج نور الحكمة وإتقان الذات."
+        },
+        {
+          "id": "100:2:night-raid",
+          "title": "Preparation for Action",
+          "icon": "moon.stars.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The context suggests these sparks occur during a night raid, symbolizing that spiritual preparation often happens in darkness before the dawn of victory.",
+          "whyItMatters": "Our most transformative spiritual work happens in the hidden hours of struggle, unseen by others but witnessed by Allah.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْمُورِيَٰتِ",
+          "title_urdu": "عمل کی تیاری",
+          "coreInsight_urdu": "سیاق و سباق بتاتا ہے کہ یہ چنگاریاں رات کے چھاپے کے دوران پیدا ہوتی ہیں، علامت ہے کہ روحانی تیاری اکثر فتح کی صبح سے پہلے اندھیرے میں ہوتی ہے۔",
+          "whyItMatters_urdu": "ہمارا سب سے زیادہ تبدیلی والا روحانی کام جدوجہد کے چھپے ہوئے گھنٹوں میں ہوتا ہے، دوسروں سے پوشیدہ لیکن اللہ کے دیکھتے ہوئے۔",
+          "title_ar": "الاستعداد للعمل",
+          "coreInsight_ar": "السياق يشير إلى أن هذا الشرر يحدث أثناء غارة ليلية، مما يرمز إلى أن الإعداد الروحي غالبا ما يحدث في الظلام قبل فجر النصر.",
+          "whyItMatters_ar": "يحدث عملنا الروحي الأكثر تحويلا في ساعات النضال الخفية، غير مرئي للآخرين ولكن يشهده الله."
+        }
+      ]
+    },
+    "layer4": "Scholarly consensus across Islamic schools recognizes the powerful imagery of sparks struck by galloping horses, though interpretations vary in emphasis. Sunni scholars like al-Razi and al-Qurtubi focus primarily on the military context, seeing these verses as describing nighttime raids where sparks from horseshoes would be particularly visible and dramatic. They connect this to specific battles and expeditions during early Islamic history. Shia exegetes, while acknowledging the military possibility, emphasize broader spiritual meanings and the Hajj interpretation provided by Imam Ali. Both traditions agree that the imagery serves to illustrate human effort and struggle, though they differ on whether the primary context is warfare or pilgrimage. Ibn Kathir notes that the sparks indicate the intensity and speed of the action, a point echoed in Shia commentaries. Both schools recognize that these oaths build toward the central message about human ingratitude. Scholars from both traditions acknowledge that Quranic imagery often operates on multiple levels simultaneously, allowing for both literal and metaphorical understanding. The difference lies primarily in which interpretation is considered primary versus secondary.",
+    "layer4_urdu": "اسلامی مکاتب میں علمی اتفاق رائے سرپٹ دوڑتے گھوڑوں کی طرف سے نکلنے والی چنگاریوں کی طاقتور منظرکشی کو تسلیم کرتا ہے، حالانکہ تشریحات زور میں مختلف ہیں۔ رازی اور قرطبی جیسے سنی علماء بنیادی طور پر فوجی سیاق و سباق پر توجہ مرکوز کرتے ہیں، ان آیات کو رات کے چھاپوں کی تصویر کشی کے طور پر دیکھتے ہوئے جہاں نعلوں سے نکلنے والی چنگاریاں خاص طور پر نظر آنے والی اور ڈرامائی ہوں گی۔ وہ اسے ابتدائی اسلامی تاریخ کی مخصوص جنگوں اور مہمات سے جوڑتے ہیں۔ شیعہ مفسرین، فوجی امکان کو تسلیم کرتے ہوئے، وسیع تر روحانی معانی اور امام علی علیہ السلام کی فراہم کردہ حج کی تشریح پر زور دیتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ منظرکشی انسانی کوشش اور جدوجہد کو واضح کرنے کے لیے کام کرتی ہے، حالانکہ وہ اس بات میں مختلف ہیں کہ آیا بنیادی سیاق و سباق جنگ ہے یا حج۔ ابن کثیر نوٹ کرتے ہیں کہ چنگاریاں عمل کی شدت اور رفتار کی نشاندہی کرتی ہیں، ایک نکتہ جو شیعہ تفاسیر میں بھی دہرایا گیا ہے۔ دونوں مکاتب تسلیم کرتے ہیں کہ یہ قسمیں انسانی ناشکری کے بارے میں مرکزی پیغام کی تعمیر کرتی ہیں۔ دونوں روایات کے علماء تسلیم کرتے ہیں کہ قرآنی منظرکشی اکثر بیک وقت متعدد سطحوں پر کام کرتی ہے، لفظی اور تمثیلی دونوں فہم کی اجازت دیتی ہے۔ فرق بنیادی طور پر اس میں ہے کہ کون سی تشریح بنیادی اور کون سی ثانوی سمجھی جاتی ہے۔",
+    "layer4_ar": "يتفق العلماء على قوة صورة الشرر الذي تقدحه الخيل الجامحة وإن تفاوتوا في التأكيدات. ويرى المفسرون السنيون كالرازي والقرطبي أن الآيات تُصوِّر غارات بالليل تبرز فيها ومضات الحوافر على الحجارة في جلاء درامي، ويربطونها بوقائع حربية في الإسلام المبكر. أما المفسرون الشيعة فيُقرُّون بهذا الاحتمال مع الإبراز للمعاني الروحية الأشمل وتأويل الحج الذي أرساه الإمام علي عليه السلام. ويتفق كلا التراثين على أن الصورة تُجسِّد الجهد الإنساني والنضال. غير أنهما يختلفان في ما إذا كان السياق الأساسي حربياً أم دينياً. ويلحظ ابن كثير أن الشرر يُعبِّر عن شدة الحركة وسرعتها، وهي ملاحظة يصدى لها التفسير الشيعي. ويتفق كلا التراثين على أن هذه الأقسام تتصاعد نحو الرسالة المركزية المتعلقة بجحود الإنسان. ويُقرُّ علماء المدرستين بأن الصور القرآنية كثيراً ما تعمل على مستويات متوازية، مما يُتيح الجمع بين الفهم الحرفي والمجازي، والفارق يكمن في أيهما يُعدُّ أصلياً وأيهما فرعياً."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:3:dawn-raid",
+          "title": "Dawn Attack",
+          "icon": "sunrise.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The charging at dawn (al-mughirat subhan) represents the strategic moment when darkness gives way to light, symbolizing the triumph of truth over falsehood.",
+          "whyItMatters": "Dawn is the time of renewal and victory - our spiritual breakthroughs often come after the darkest moments of struggle and patience.",
+          "position": "topLeft",
+          "arabicHighlight": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+          "title_urdu": "صبح کا حملہ",
+          "coreInsight_urdu": "صبح کے وقت حملہ کرنا (المغیرات صبحا) اس اسٹریٹجک لمحے کی نمائندگی کرتا ہے جب اندھیرا روشنی کو راستہ دیتا ہے، باطل پر حق کی فتح کی علامت۔",
+          "whyItMatters_urdu": "صبح تجدید اور فتح کا وقت ہے - ہماری روحانی کامیابیاں اکثر جدوجہد اور صبر کے سب سے تاریک لمحات کے بعد آتی ہیں۔",
+          "title_ar": "هجوم الفجر",
+          "coreInsight_ar": "الهجوم عند الفجر (المغيرات صبحا) يمثل اللحظة الاستراتيجية عندما يفسح الظلام المجال للنور، مما يرمز إلى انتصار الحق على الباطل.",
+          "whyItMatters_ar": "الفجر هو وقت التجديد والنصر - غالبا ما تأتي اختراقاتنا الروحية بعد أحلك لحظات النضال والصبر."
+        },
+        {
+          "id": "100:3:strategic-timing",
+          "title": "Divine Timing",
+          "icon": "clock.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The emphasis on dawn timing teaches that success requires not just effort but wisdom in choosing the right moment for action.",
+          "whyItMatters": "In our spiritual lives, we must learn to recognize divine timing - knowing when to act with force and when to wait with patience.",
+          "position": "topRight",
+          "arabicHighlight": "صُبْحًۭا",
+          "title_urdu": "الہی وقت",
+          "coreInsight_urdu": "صبح کے وقت پر زور سکھاتا ہے کہ کامیابی کے لیے نہ صرف کوشش بلکہ عمل کے لیے صحیح لمحے کے انتخاب میں حکمت کی ضرورت ہے۔",
+          "whyItMatters_urdu": "ہماری روحانی زندگیوں میں، ہمیں الہی وقت کو پہچاننا سیکھنا چاہیے - جاننا کہ کب طاقت کے ساتھ عمل کرنا ہے اور کب صبر کے ساتھ انتظار کرنا ہے۔",
+          "title_ar": "التوقيت الإلهي",
+          "coreInsight_ar": "التركيز على توقيت الفجر يعلم أن النجاح يتطلب ليس فقط الجهد ولكن الحكمة في اختيار اللحظة المناسبة للعمل.",
+          "whyItMatters_ar": "في حياتنا الروحية، يجب أن نتعلم التعرف على التوقيت الإلهي - معرفة متى نتصرف بقوة ومتى ننتظر بصبر."
+        },
+        {
+          "id": "100:3:light-truth",
+          "title": "Emergence of Truth",
+          "icon": "sun.max.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Just as dawn inevitably follows night, truth ultimately prevails over falsehood - this is a divine promise embedded in the natural order.",
+          "whyItMatters": "When facing oppression or injustice, believers can take comfort that just as dawn breaks without fail, Allah's justice will ultimately manifest.",
+          "position": "bottomRight",
+          "arabicHighlight": "ٱلْمُغِيرَٰتِ",
+          "title_urdu": "حق کا ظہور",
+          "coreInsight_urdu": "جیسے صبح لازمی طور پر رات کے بعد آتی ہے، حق بالآخر باطل پر غالب آتا ہے - یہ قدرتی ترتیب میں سرایت شدہ الہی وعدہ ہے۔",
+          "whyItMatters_urdu": "ظلم یا ناانصافی کا سامنا کرتے وقت، مومنین تسلی لے سکتے ہیں کہ جیسے صبح بلا ناغہ ہوتی ہے، اللہ کا انصاف بالآخر ظاہر ہوگا۔",
+          "title_ar": "ظهور الحق",
+          "coreInsight_ar": "تماما كما يتبع الفجر الليل حتما، فإن الحق ينتصر في النهاية على الباطل - هذا وعد إلهي مضمن في النظام الطبيعي.",
+          "whyItMatters_ar": "عند مواجهة الظلم أو الظلم، يمكن للمؤمنين أن يأخذوا العزاء في أنه تماما كما يطلع الفجر بدون فشل، ستتجلى عدالة الله في النهاية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni traditions recognize the significance of dawn in Islamic spirituality and in these verses specifically. Sunni scholars like al-Tabari and Ibn Kathir interpret these verses primarily as describing military raids conducted at dawn, a common practice in early Islamic warfare. They cite specific expeditions where Muslim forces attacked at dawn, achieving strategic advantage. Al-Qurtubi emphasizes the element of surprise and the military effectiveness of dawn operations. Shia exegetes, while acknowledging this interpretation, emphasize the spiritual dimensions and the Hajj context provided by Imam Ali. Both traditions agree on the symbolic power of dawn as a time of transition and new beginning. Scholars from both schools note that dawn holds special status in Islamic practice, being the time for Fajr prayer and recommended for Quranic recitation and supplication. The interpretive difference lies mainly in whether the primary reference is military or devotional, though both acknowledge the verses operate on multiple levels. Both traditions use these verses to encourage believers toward early rising, spiritual discipline, and decisive action in pursuing righteousness. The consensus is that dawn represents opportunity and blessing that should not be wasted.",
+    "layer4_urdu": "شیعہ اور سنی دونوں روایات اسلامی روحانیت میں اور خاص طور پر ان آیات میں فجر کی اہمیت کو تسلیم کرتی ہیں۔ طبری اور ابن کثیر جیسے سنی علماء ان آیات کو بنیادی طور پر فجر کے وقت کیے جانے والے فوجی چھاپوں کی تصویر کشی کے طور پر سمجھتے ہیں، جو ابتدائی اسلامی جنگی حکمت عملی میں ایک عام عمل تھا۔ وہ مخصوص مہمات کا حوالہ دیتے ہیں جہاں مسلم افواج نے فجر کے وقت حملہ کیا، اسٹریٹجک فائدہ حاصل کرتے ہوئے۔ قرطبی حیرانی کے عنصر اور فجر کے آپریشنز کی فوجی تاثیر پر زور دیتے ہیں۔ شیعہ مفسرین، اس تشریح کو تسلیم کرتے ہوئے، روحانی جہتوں اور امام علی علیہ السلام کی فراہم کردہ حج کے سیاق و سباق پر زور دیتے ہیں۔ دونوں روایات فجر کی علامتی طاقت پر متفق ہیں بطور منتقلی اور نئی ابتدا کے وقت۔ دونوں مکاتب کے علماء نوٹ کرتے ہیں کہ فجر اسلامی عمل میں خاص مقام رکھتی ہے، نماز فجر کا وقت ہونے اور قرآنی تلاوت اور دعا کے لیے تجویز کردہ۔ تشریحی فرق بنیادی طور پر اس میں ہے کہ آیا بنیادی حوالہ فوجی ہے یا عبادت کا، حالانکہ دونوں تسلیم کرتے ہیں کہ آیات متعدد سطحوں پر کام کرتی ہیں۔ دونوں روایات ان آیات کو مومنین کو جلد اٹھنے، روحانی نظم و ضبط اور راستبازی کی پیروی میں فیصلہ کن عمل کی طرف حوصلہ دینے کے لیے استعمال کرتی ہیں۔ اتفاق رائے یہ ہے کہ فجر موقع اور برکت کی نمائندگی کرتی ہے جسے ضائع نہیں کرنا چاہیے۔",
+    "layer4_ar": "يتفق كلا التراثين الشيعي والسني على أهمية الفجر في الروحانية الإسلامية وفي هذه الآية على وجه الخصوص. ويُفسِّر علماء السنة كالطبري وابن كثير هذه الآيات أساساً على أنها تُصوِّر غارات فجرية كانت معهودة في الحروب الإسلامية المبكرة، ويستشهدون بغزوات بعينها. ويُركِّز القرطبي على عنصر المباغتة والفاعلية التكتيكية لعمليات الفجر. أما المفسرون الشيعة فيُقرُّون بهذا التأويل مع إبراز الأبعاد الروحية وسياق الحج الذي أرساه الإمام علي عليه السلام. ويتفق كلا التراثين على الدلالة الرمزية للفجر بوصفه زمن عبور وبداية جديدة. ويُلاحظ علماء المدرستين أن للفجر مكانة خاصة في الممارسة الإسلامية باعتباره وقت صلاة الفجر والقراءة والدعاء المأثورين. والفارق التأويلي يتمحور حول ما إذا كان المرجع الأساسي عسكرياً أم دينياً، مع اتفاق الجميع على أن الآيات تعمل على مستويات متعددة. وكلا التراثين يستعملان الآيات لحث المؤمنين على البكور والانضباط الروحي والإقدام الحاسم في طلب الخير. والإجماع قائم على أن الفجر يحمل فرصة وبركة لا ينبغي إضاعتهما."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:4:raising-dust",
+          "title": "Dust Clouds",
+          "icon": "cloud.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The image of horses stirring up dust clouds (fa-atharna bihi naq'an) symbolizes the overwhelming impact of righteous action and the dramatic transformation it brings.",
+          "whyItMatters": "When believers act with conviction in Allah's cause, their efforts create ripple effects that transform entire communities, much like dust clouds that obscure and then settle to reveal new terrain.",
+          "position": "topLeft",
+          "arabicHighlight": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+          "title_urdu": "گرد کے بادل",
+          "coreInsight_urdu": "گھوڑوں کا گرد کے بادل اٹھانا (فاثرن بہ نقعا) نیک عمل کے زبردست اثر اور اس کی لائی گئی ڈرامائی تبدیلی کی علامت ہے۔",
+          "whyItMatters_urdu": "جب مومنین اللہ کے مقصد میں یقین کے ساتھ عمل کرتے ہیں، ان کی کوششیں ایسے اثرات پیدا کرتی ہیں جو پوری برادریوں کو بدل دیتے ہیں، بالکل گرد کے بادلوں کی طرح جو چھپاتے ہیں اور پھر نئے خطے کو ظاہر کرنے کے لیے بیٹھ جاتے ہیں۔",
+          "title_ar": "سحب الغبار",
+          "coreInsight_ar": "صورة الخيول التي تثير سحب الغبار (فأثرن به نقعا) ترمز إلى التأثير الساحق للعمل الصالح والتحول الدراماتيكي الذي يجلبه.",
+          "whyItMatters_ar": "عندما يتصرف المؤمنون بقناعة في قضية الله، فإن جهودهم تخلق تأثيرات مضاعفة تحول مجتمعات بأكملها، مثل سحب الغبار التي تحجب ثم تستقر لتكشف عن تضاريس جديدة."
+        },
+        {
+          "id": "100:4:chaos-order",
+          "title": "Chaos Before Order",
+          "icon": "tornado",
+          "colorHex": "#E57373",
+          "coreInsight": "The dust represents the necessary disruption that precedes lasting change - transformation requires breaking old patterns before establishing new ones.",
+          "whyItMatters": "In our personal spiritual journey, we must accept that growth involves temporary chaos and discomfort as we shed old habits and embrace new ways of being.",
+          "position": "topRight",
+          "arabicHighlight": "نَقْعًۭا",
+          "title_urdu": "ترتیب سے پہلے افراتفری",
+          "coreInsight_urdu": "گرد اس ضروری رکاوٹ کی نمائندگی کرتی ہے جو مستقل تبدیلی سے پہلے ہوتی ہے - تبدیلی نئے نمونے قائم کرنے سے پہلے پرانے نمونوں کو توڑنے کی ضرورت ہے۔",
+          "whyItMatters_urdu": "ہمارے ذاتی روحانی سفر میں، ہمیں قبول کرنا چاہیے کہ ترقی عارضی افراتفری اور تکلیف شامل ہے جب ہم پرانی عادتیں چھوڑتے ہیں اور ہونے کے نئے طریقے اپناتے ہیں۔",
+          "title_ar": "الفوضى قبل النظام",
+          "coreInsight_ar": "الغبار يمثل الاضطراب الضروري الذي يسبق التغيير الدائم - التحول يتطلب كسر الأنماط القديمة قبل إنشاء أنماط جديدة.",
+          "whyItMatters_ar": "في رحلتنا الروحية الشخصية، يجب أن نقبل أن النمو ينطوي على فوضى وعدم راحة مؤقتين بينما نتخلص من العادات القديمة ونتبنى طرقا جديدة للوجود."
+        },
+        {
+          "id": "100:4:collective-power",
+          "title": "United Force",
+          "icon": "person.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The pronoun 'bihi' (thereby/with it) emphasizes collective action - it's not individual horses but their unified movement that creates such powerful impact.",
+          "whyItMatters": "True change in society requires unity and coordinated effort among believers, not isolated individual actions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "بِهِۦ",
+          "title_urdu": "متحدہ قوت",
+          "coreInsight_urdu": "ضمیر 'بہ' (اس کے ساتھ) اجتماعی عمل پر زور دیتا ہے - یہ انفرادی گھوڑے نہیں بلکہ ان کی متحدہ حرکت ہے جو اتنا طاقتور اثر پیدا کرتی ہے۔",
+          "whyItMatters_urdu": "معاشرے میں حقیقی تبدیلی مومنین کے درمیان اتحاد اور مربوط کوشش کی ضرورت ہے، الگ تھلگ انفرادی اعمال کی نہیں۔",
+          "title_ar": "القوة المتحدة",
+          "coreInsight_ar": "الضمير 'به' (بذلك/معه) يؤكد على العمل الجماعي - ليس الخيول الفردية ولكن حركتها الموحدة هي التي تخلق مثل هذا التأثير القوي.",
+          "whyItMatters_ar": "التغيير الحقيقي في المجتمع يتطلب الوحدة والجهد المنسق بين المؤمنين، وليس الإجراءات الفردية المعزولة."
+        }
+      ]
+    },
+    "layer4": "Scholarly interpretations across Islamic schools agree on the vivid imagery of dust clouds but differ slightly in application. Sunni exegetes like Ibn Kathir and al-Tabari emphasize the military context, describing how cavalry raids would create massive dust clouds visible from great distances, creating psychological impact on enemies and announcing the approach of forces. Al-Qurtubi notes that this demonstrates the power and organization of the charging forces. Shia scholars, while acknowledging this interpretation, emphasize the spiritual symbolism and the Hajj context where thousands of pilgrims create clouds of dust as they move between sacred sites. Both traditions use this imagery to illustrate the public nature of Islamic practice and the social dimensions of faith. Scholars from both schools agree that faith should produce observable effects in the world, not remaining purely private or theoretical. The dust cloud serves as evidence of action, whether military, devotional, or metaphorical spiritual striving. Both traditions teach that the effort described in these verses should characterize the believer's approach to worship and righteousness. The interpretive emphasis differs but the moral lesson remains consistent across schools.",
+    "layer4_urdu": "اسلامی مکاتب میں علمی تشریحات گرد کے بادلوں کی واضح منظرکشی پر متفق ہیں لیکن اطلاق میں تھوڑا مختلف ہیں۔ ابن کثیر اور طبری جیسے سنی مفسرین فوجی سیاق و سباق پر زور دیتے ہیں، بیان کرتے ہوئے کہ کیسے فوجی چھاپے بڑے پیمانے پر گرد کے بادل پیدا کریں گے جو بڑی دوری سے نظر آئیں گے، دشمنوں پر نفسیاتی اثر ڈالتے ہوئے اور افواج کے قریب آنے کا اعلان کرتے ہوئے۔ قرطبی نوٹ کرتے ہیں کہ یہ دوڑتی قوتوں کی طاقت اور تنظیم کو ظاہر کرتا ہے۔ شیعہ علماء، اس تشریح کو تسلیم کرتے ہوئے، روحانی علامت اور حج کے سیاق و سباق پر زور دیتے ہیں جہاں ہزاروں حاجی مقدس مقامات کے درمیان حرکت کرتے ہوئے گرد کے بادل پیدا کرتے ہیں۔ دونوں روایات اس منظرکشی کو اسلامی عمل کی عوامی نوعیت اور ایمان کی سماجی جہتوں کو واضح کرنے کے لیے استعمال کرتی ہیں۔ دونوں مکاتب کے علماء متفق ہیں کہ ایمان دنیا میں قابلِ مشاہدہ اثرات پیدا کرنا چاہیے، خالصتاً نجی یا نظریاتی نہیں رہنا چاہیے۔ گرد کا بادل عمل کے ثبوت کے طور پر کام کرتا ہے، چاہے فوجی ہو، عبادت کا ہو، یا تمثیلی روحانی جدوجہد کا۔ دونوں روایات سکھاتی ہیں کہ ان آیات میں بیان کردہ کوشش مومن کی عبادت اور راستبازی کے نقطہ نظر کی خصوصیت ہونی چاہیے۔ تشریحی زور مختلف ہے لیکن اخلاقی سبق مکاتب میں مستقل رہتا ہے۔",
+    "layer4_ar": "تتفق المذاهب التفسيرية عبر المدارس الإسلامية على الصورة الحية لغيوم الغبار وإن تباينت قليلاً في التطبيق. ويُركِّز المفسرون السنيون كابن كثير والطبري على السياق العسكري، إذ يصفون كيف كانت غارات الخيل تُثير سحباً هائلة من الغبار مرئية من مسافات بعيدة مُحدِثةً أثراً نفسياً على الأعداء. ويُلاحظ القرطبي أن هذا يدل على قوة القوات الجامحة وتنظيمها. أما العلماء الشيعة فيُقرُّون بهذا التأويل مع التشديد على الرمزية الروحية وسياق الحج حيث يُثير الحجاج بالآلاف سحباً من الغبار متنقلين بين المشاعر. ويستخدم كلا التراثين هذه الصورة لتوضيح الطابع العام للممارسة الإسلامية والأبعاد الاجتماعية للإيمان. ويتفق علماء كلا المدرستين على أن الإيمان ينبغي أن يُنتج آثاراً ملموسة في العالم لا أن يظل مجرد نزعة داخلية أو نظرية. وسحابة الغبار شاهد على العمل سواء أكان عسكرياً أم عبادياً أم جهاداً روحياً مجازياً. وكلا التراثين يُعلِّم أن الجهد الموصوف في هذه الآيات ينبغي أن يسم مقاربة المؤمن للعبادة والخير. والتأكيد التأويلي يتباين لكن الدرس الأخلاقي يبقى متسقاً عبر المدارس."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:5:penetrating-center",
+          "title": "Penetrating Deep",
+          "icon": "arrow.down.to.line",
+          "colorHex": "#E57373",
+          "coreInsight": "The phrase 'arriving in the center collectively' (fa-wasatna bihi jam'an) describes the cavalry penetrating the enemy's heart, symbolizing total commitment and decisive action.",
+          "whyItMatters": "Half-hearted efforts achieve little - spiritual transformation requires fully committing to the struggle against our lower selves, penetrating to the core of our issues.",
+          "position": "topLeft",
+          "arabicHighlight": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+          "title_urdu": "گہرائی میں داخل ہونا",
+          "coreInsight_urdu": "جملہ 'اجتماعی طور پر مرکز میں پہنچنا' (فوسطن بہ جمعا) فوج کا دشمن کے دل میں داخل ہونے کو بیان کرتا ہے، مکمل وابستگی اور فیصلہ کن عمل کی علامت۔",
+          "whyItMatters_urdu": "نیم دلانہ کوششیں بہت کم حاصل کرتی ہیں - روحانی تبدیلی ہماری نچلی خودی کے خلاف جدوجہد میں مکمل طور پر وابستہ ہونے کی ضرورت ہے، ہمارے مسائل کی جڑ تک پہنچنا۔",
+          "title_ar": "الاختراق العميق",
+          "coreInsight_ar": "عبارة 'الوصول إلى المركز بشكل جماعي' (فوسطن به جمعا) يصف الفرسان وهم يخترقون قلب العدو، مما يرمز إلى الالتزام الكامل والعمل الحاسم.",
+          "whyItMatters_ar": "الجهود نصف القلبية تحقق القليل - التحول الروحي يتطلب الالتزام الكامل بالنضال ضد أنفسنا الدنيا، واختراق جوهر قضايانا."
+        },
+        {
+          "id": "100:5:collective-unity",
+          "title": "Unity in Action",
+          "icon": "link.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'jam'an' (collectively/as a group) emphasizes synchronized movement and shared purpose - victory comes through unity, not division.",
+          "whyItMatters": "The Muslim ummah achieves its highest potential when moving together with one heart toward common goals, following the example of the Ahlul Bayt's united front.",
+          "position": "topRight",
+          "arabicHighlight": "جَمْعًا",
+          "title_urdu": "عمل میں اتحاد",
+          "coreInsight_urdu": "لفظ 'جمعا' (اجتماعی طور پر/گروپ کے طور پر) ہم آہنگ حرکت اور مشترکہ مقصد پر زور دیتا ہے - فتح تقسیم سے نہیں، اتحاد سے آتی ہے۔",
+          "whyItMatters_urdu": "مسلم امت اپنی بلند ترین صلاحیت حاصل کرتی ہے جب ایک دل کے ساتھ مشترکہ اہداف کی طرف چلتی ہے، اہل بیت کے متحدہ محاذ کی مثال پر چلتے ہوئے۔",
+          "title_ar": "الوحدة في العمل",
+          "coreInsight_ar": "كلمة 'جمعا' (بشكل جماعي/كمجموعة) تؤكد على الحركة المتزامنة والهدف المشترك - النصر يأتي من خلال الوحدة، وليس الانقسام.",
+          "whyItMatters_ar": "تحقق الأمة الإسلامية إمكاناتها الأعلى عندما تتحرك معا بقلب واحد نحو أهداف مشتركة، متبعة مثال الجبهة الموحدة لأهل البيت."
+        },
+        {
+          "id": "100:5:climactic-moment",
+          "title": "Decisive Moment",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse marks the climax of the oath sequence - after panting, sparking, charging at dawn, and raising dust, comes the decisive penetration that determines victory.",
+          "whyItMatters": "Our spiritual struggles build through preparation and effort toward decisive moments where transformation becomes irreversible - we must recognize and seize these pivotal opportunities.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَسَطْنَ",
+          "title_urdu": "فیصلہ کن لمحہ",
+          "coreInsight_urdu": "یہ آیت قسم کی ترتیب کے عروج کو نشان زد کرتی ہے - ہانپنے، چنگاریاں نکالنے، صبح حملہ کرنے، اور گرد اٹھانے کے بعد، فیصلہ کن داخلہ آتا ہے جو فتح کا تعین کرتا ہے۔",
+          "whyItMatters_urdu": "ہماری روحانی جدوجہد تیاری اور کوشش کے ذریعے فیصلہ کن لمحات کی طرف بڑھتی ہے جہاں تبدیلی ناقابل واپسی ہو جاتی ہے - ہمیں ان اہم مواقع کو پہچاننا اور پکڑنا چاہیے۔",
+          "title_ar": "اللحظة الحاسمة",
+          "coreInsight_ar": "تمثل هذه الآية ذروة تسلسل القسم - بعد اللهاث والشرر والهجوم عند الفجر وإثارة الغبار، يأتي الاختراق الحاسم الذي يحدد النصر.",
+          "whyItMatters_ar": "تتقدم صراعاتنا الروحية من خلال الإعداد والجهد نحو لحظات حاسمة حيث يصبح التحول لا رجعة فيه - يجب أن نتعرف على هذه الفرص المحورية ونستغلها."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars recognize this verse as completing the oath sequence describing intense, purposeful action. Sunni exegetes like al-Tabari and Ibn Kathir interpret this as describing cavalry penetrating enemy lines in battle, reaching the heart of opposing forces. They cite various military expeditions where Muslim forces demonstrated such coordination and courage. Al-Razi emphasizes the strategic and tactical excellence suggested by this imagery. Shia scholars, following Imam Ali's interpretation, see this as pilgrims arriving collectively at sacred sites during Hajj, with the center representing the spiritual core of the pilgrimage experience. Both traditions agree that the verse illustrates purposeful, coordinated effort that achieves its objective. Scholars from both schools use this verse to teach about the importance of community, cooperation, and persistence in pursuing goals. Both traditions emphasize that faith requires moving beyond surface-level practice to reach deeper understanding and transformation. The interpretive difference lies in whether the primary context is military or devotional, but both acknowledge the verse operates symbolically to teach spiritual lessons. The moral teaching about dedication, courage, and collective effort remains consistent across interpretative traditions.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کو شدید، مقصدی عمل کی تصویر کشی کرنے والی قسم کی ترتیب کی تکمیل کے طور پر تسلیم کرتے ہیں۔ طبری اور ابن کثیر جیسے سنی مفسرین اسے جنگ میں دشمن کی صفوں میں گھسنے والی فوجی قوت کی تصویر کشی کے طور پر سمجھتے ہیں، مخالف قوتوں کے دل تک پہنچتے ہوئے۔ وہ مختلف فوجی مہمات کا حوالہ دیتے ہیں جہاں مسلم افواج نے ایسی ہم آہنگی اور حوصلہ ظاہر کیا۔ رازی اس منظرکشی کی تجویز کردہ اسٹریٹجک اور تکنیکی مہارت پر زور دیتے ہیں۔ شیعہ علماء، امام علی علیہ السلام کی تشریح کی پیروی کرتے ہوئے، اسے حج کے دوران مقدس مقامات پر اجتماعی طور پر پہنچنے والے حاجیوں کے طور پر دیکھتے ہیں، جہاں مرکز حج کے تجربے کے روحانی مرکز کی نمائندگی کرتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ آیت مقصدی، مربوط کوشش کو واضح کرتی ہے جو اپنے مقصد کو حاصل کرتی ہے۔ دونوں مکاتب کے علماء اس آیت کو برادری، تعاون اور مقاصد کی پیروی میں استقامت کی اہمیت کے بارے میں سکھانے کے لیے استعمال کرتے ہیں۔ دونوں روایات اس بات پر زور دیتی ہیں کہ ایمان کو سطحی عمل سے آگے بڑھ کر گہری فہم اور تبدیلی تک پہنچنا چاہیے۔ تشریحی فرق اس میں ہے کہ آیا بنیادی سیاق و سباق فوجی ہے یا عبادت کا، لیکن دونوں تسلیم کرتے ہیں کہ آیت روحانی سبق سکھانے کے لیے علامتی طور پر کام کرتی ہے۔ لگن، حوصلے اور اجتماعی کوشش کے بارے میں اخلاقی تعلیم تشریحی روایات میں مستقل رہتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على أن هذه الآية تُتوِّج سلسلة الأقسام الواصفة لعمل مقصود وادق، وإن تباينوا في التفاصيل. ويُفسِّر الطبري وابن كثير الآية على أنها تُصوِّر الخيل وهي تخترق صفوف الأعداء في المعارك، بالغةً قلب القوات المنافسة. ويستشهدان بغزوات متنوعة أبدت فيها القوات الإسلامية هذا التنسيق والإقدام. ويُشدِّد الرازي على التميز الاستراتيجي والتكتيكي الذي تُوحي به هذه الصورة. أما علماء الشيعة فمستندين إلى تفسير الإمام علي عليه السلام يرون في الآية وصفاً للحجاج وهم يصلون جماعةً إلى المشاعر المقدسة، إذ يمثل المركز لُبَّ تجربة الحج الروحية. ويتفق كلا التراثين على أن الآية تُجسِّد السعي الهادف المنسَّق الذي يبلغ مداه. ويستخدم علماء كلا المدرستين الآية تعليماً في أهمية الجماعة والتعاون والمثابرة في بلوغ الغايات. ويُشدِّد كلا التراثين على أن الإيمان يستوجب التجاوز عن التدين السطحي لبلوغ الفهم العميق والتحول الحقيقي. والفارق التأويلي في ما إذا كان السياق الأساسي حربياً أم عبادياً، مع اتفاق الجميع على أن الآية تُجسِّد دروساً روحية في التفاني والشجاعة والعمل الجمعي، تظل راسخة عبر التراثين."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:6:human-ingratitude",
+          "title": "Deep Ingratitude",
+          "icon": "heart.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "After the powerful imagery of war horses, the surah pivots to its central message: 'Indeed mankind is ungrateful to his Lord' (inna al-insana li-rabbihi la-kanud) - humans persistently fail to acknowledge Allah's endless favors.",
+          "whyItMatters": "This verse confronts us with an uncomfortable truth about human nature - despite countless blessings, we naturally drift toward forgetfulness and ingratitude unless we actively cultivate thankfulness.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+          "title_urdu": "گہری ناشکری",
+          "coreInsight_urdu": "جنگی گھوڑوں کی طاقتور تصویر کے بعد، سورہ اپنے مرکزی پیغام کی طرف موڑتی ہے: 'بیشک انسان اپنے رب کا ناشکرا ہے' (ان الانسان لربہ لکنود) - انسان مسلسل اللہ کے لامتناہی احسانات کو تسلیم کرنے میں ناکام رہتا ہے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں انسانی فطرت کے بارے میں ایک تکلیف دہ سچائی سے روبرو کراتی ہے - بے شمار نعمتوں کے باوجود، ہم قدرتی طور پر فراموشی اور ناشکری کی طرف بڑھتے ہیں جب تک کہ ہم فعال طور پر شکرگزاری کو فروغ نہ دیں۔",
+          "title_ar": "الجحود العميق",
+          "coreInsight_ar": "بعد الصورة القوية لخيول الحرب، تتحول السورة إلى رسالتها المركزية: 'إن الإنسان لربه لكنود' - البشر يفشلون باستمرار في الاعتراف بنعم الله اللامتناهية.",
+          "whyItMatters_ar": "تواجهنا هذه الآية بحقيقة غير مريحة حول الطبيعة البشرية - على الرغم من النعم التي لا تعد ولا تحصى، فإننا ننجرف بشكل طبيعي نحو النسيان والجحود ما لم نزرع الامتنان بنشاط."
+        },
+        {
+          "id": "100:6:kanud-meaning",
+          "title": "Complete Denial",
+          "icon": "eye.slash.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'kanud' is stronger than mere ungratefulness - it means one who withholds good, denies blessings, and focuses exclusively on hardships while ignoring countless favors.",
+          "whyItMatters": "This term describes how we often obsess over what we lack while blind to the abundance already granted, creating a mindset of scarcity despite living in Allah's ocean of generosity.",
+          "position": "topRight",
+          "arabicHighlight": "لَكَنُودٌۭ",
+          "title_urdu": "مکمل انکار",
+          "coreInsight_urdu": "لفظ 'کنود' محض ناشکری سے زیادہ مضبوط ہے - اس کا مطلب ہے وہ جو بھلائی روکتا ہے، نعمتوں کا انکار کرتا ہے، اور خصوصی طور پر مشکلات پر توجہ مرکوز کرتا ہے جبکہ بے شمار احسانات کو نظر انداز کرتا ہے۔",
+          "whyItMatters_urdu": "یہ اصطلاح بیان کرتی ہے کہ ہم اکثر اس چیز پر کیسے جنون میں پڑ جاتے ہیں جو ہمارے پاس نہیں ہے جبکہ پہلے سے دی گئی کثرت سے اندھے ہیں، اللہ کی سخاوت کے سمندر میں رہنے کے باوجود کمی کی ذہنیت پیدا کرتے ہیں۔",
+          "title_ar": "الإنكار الكامل",
+          "coreInsight_ar": "كلمة 'كنود' أقوى من مجرد جحود - تعني الذي يحجب الخير، وينكر النعم، ويركز حصريا على المصاعب بينما يتجاهل النعم التي لا تعد ولا تحصى.",
+          "whyItMatters_ar": "يصف هذا المصطلح كيف نهوس غالبا بما نفتقده بينما نكون عمياء عن الوفرة الممنوحة بالفعل، مما يخلق عقلية الندرة على الرغم من العيش في محيط كرم الله."
+        },
+        {
+          "id": "100:6:contrast-horses",
+          "title": "Noble Contrast",
+          "icon": "arrow.left.arrow.right",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The surah deliberately contrasts noble war horses—who give their all faithfully—with ungrateful humans who receive infinitely more yet remain unthankful.",
+          "whyItMatters": "Even animals serve their purpose with complete dedication, yet humans blessed with reason and revelation often fail to fulfill their covenant with their Creator.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْإِنسَٰنَ",
+          "title_urdu": "شریف فرق",
+          "coreInsight_urdu": "سورہ جان بوجھ کر شریف جنگی گھوڑوں کا موازنہ کرتی ہے - جو وفاداری سے اپنا سب کچھ دیتے ہیں - ناشکرے انسانوں کے ساتھ جو لامحدود زیادہ حاصل کرتے ہیں پھر بھی ناشکرے رہتے ہیں۔",
+          "whyItMatters_urdu": "یہاں تک کہ جانور مکمل لگن کے ساتھ اپنے مقصد کی خدمت کرتے ہیں، پھر بھی انسان عقل اور وحی سے نوازے گئے اکثر اپنے خالق کے ساتھ اپنے عہد کو پورا کرنے میں ناکام رہتے ہیں۔",
+          "title_ar": "التناقض النبيل",
+          "coreInsight_ar": "السورة تتعمد التباين بين خيول الحرب النبيلة - التي تعطي كل شيء بأمانة - مع البشر الجاحدين الذين يتلقون أكثر بكثير ومع ذلك يظلون غير شاكرين.",
+          "whyItMatters_ar": "حتى الحيوانات تخدم غرضها بتفان كامل، ومع ذلك فإن البشر المباركين بالعقل والوحي غالبا ما يفشلون في الوفاء بعهدهم مع خالقهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the central message of human ingratitude, though they emphasize different dimensions. Sunni exegetes like Ibn Kathir explain 'kanud' as describing someone who counts misfortunes but forgets blessings, constantly complaining rather than thanking. Al-Qurtubi emphasizes that this ingratitude manifests in disobeying the divine commands despite benefiting from divine provision. Al-Razi discusses the philosophical dimension, noting that human reason itself should lead to gratitude, as every faculty and blessing clearly points to a generous Creator. Shia scholars echo these interpretations while emphasizing the Ahlul Bayt's teachings on gratitude as a comprehensive spiritual practice. Both traditions cite prophetic hadith about gratitude and its importance. Scholars from both schools use this verse to exhort believers toward conscious cultivation of gratitude through prayer, especially mentioning specific blessings in supplication. Both traditions teach that gratitude is not just feeling but action, using blessings according to divine will. The interpretive consensus is strong regarding the vice of ingratitude and the virtue of its opposite, making this verse a point of unity across Islamic schools in moral and spiritual teaching.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء انسانی ناشکری کے مرکزی پیغام پر متفق ہیں، حالانکہ وہ مختلف جہتوں پر زور دیتے ہیں۔ ابن کثیر جیسے سنی مفسرین 'کنود' کو اس شخص کی تصویر کشی کے طور پر بیان کرتے ہیں جو مصیبتوں کو گنتا ہے لیکن نعمتوں کو بھول جاتا ہے، مسلسل شکایت کرتا ہے بجائے شکر ادا کرنے کے۔ قرطبی اس بات پر زور دیتے ہیں کہ یہ ناشکری الہی رزق سے فائدہ اٹھانے کے باوجود الہی احکام کی نافرمانی میں ظاہر ہوتی ہے۔ رازی فلسفیانہ جہت پر بحث کرتے ہیں، نوٹ کرتے ہوئے کہ انسانی عقل خود شکرگزاری کی طرف لے جانی چاہیے، کیونکہ ہر صلاحیت اور نعمت واضح طور پر ایک سخی خالق کی طرف اشارہ کرتی ہے۔ شیعہ علماء ان تشریحات کو دہراتے ہیں جبکہ شکرگزاری پر اہل بیت کی تعلیمات پر زور دیتے ہیں بطور جامع روحانی عمل۔ دونوں روایات شکرگزاری اور اس کی اہمیت کے بارے میں نبوی احادیث کا حوالہ دیتی ہیں۔ دونوں مکاتب کے علماء اس آیت کو مومنین کو نماز کے ذریعے شکرگزاری کی شعوری تربیت کی طرف حوصلہ دینے کے لیے استعمال کرتے ہیں، خاص طور پر دعا میں مخصوص نعمتوں کا ذکر کرتے ہوئے۔ دونوں روایات سکھاتی ہیں کہ شکرگزاری صرف احساس نہیں بلکہ عمل ہے، نعمتوں کو الہی مرضی کے مطابق استعمال کرنا۔ ناشکری کی برائی اور اس کی ضد کی نیکی کے بارے میں تشریحی اتفاق رائے مضبوط ہے، اس آیت کو اخلاقی اور روحانی تعلیم میں اسلامی مکاتب میں اتحاد کا نقطہ بناتے ہوئے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على الرسالة المركزية للآية المتعلقة بكفران الإنسان وإن تباينوا في الجوانب التي يُركِّزون عليها. فيُبيِّن ابن كثير في تفسيره أن «الكَنود» هو من يعدُّ المصائب وينسى النعم، فلا يكفُّ عن الشكوى بدلاً من الحمد والثناء. ويُشدِّد القرطبي على أن هذا الكفران يتجلى في عصيان الأوامر الربانية على الرغم من الانتفاع بالرزق الإلهي. ويستعرض الرازي البُعد الفلسفي مُلاحِظاً أن العقل الإنساني ذاته كان ينبغي أن يهدي إلى الشكر لأن كل ملكة ونعمة تُشير صراحةً إلى خالق كريم. ويصدى العلماء الشيعة لهذه التفسيرات مع إبراز تعاليم أهل البيت عليهم السلام في الشكر بوصفه ممارسةً روحية شاملة. ويستشهد كلا التراثين بأحاديث نبوية في شأن الشكر وأهميته. ويستخدم علماء كلا المدرستين هذه الآية لحث المؤمنين على الزراعة الواعية للامتنان من خلال الدعاء والتسمية الصريحة للنعم المُحمَد عليها. ويُعلِّم كلا التراثين أن الشكر ليس شعوراً بل عمل، فهو توظيف النعم وفق المشيئة الإلهية. والإجماع التفسيري قوي في ذمِّ الكفران وتمجيد نقيضه مما يجعل هذه الآية نقطة التقاء بين المذاهب في التعليم الأخلاقي والروحي."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:7:self-witness",
+          "title": "Self-Testimony",
+          "icon": "person.fill.checkmark",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The verse 'And indeed, he is to that a witness' (wa-innahu 'ala dhalika la-shahid) means humans themselves testify to their own ingratitude through their choices and priorities.",
+          "whyItMatters": "Our actions speak louder than words - how we spend our time, wealth, and energy reveals our true relationship with Allah's blessings, often exposing ingratitude we verbally deny.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+          "title_urdu": "خود گواہی",
+          "coreInsight_urdu": "آیت 'اور بیشک وہ اس پر گواہ ہے' (وانہ علی ذلک لشہید) کا مطلب ہے کہ انسان خود اپنی ناشکری کی گواہی دیتے ہیں اپنے انتخاب اور ترجیحات کے ذریعے۔",
+          "whyItMatters_urdu": "ہمارے اعمال الفاظ سے زیادہ زور سے بولتے ہیں - ہم اپنا وقت، دولت، اور توانائی کیسے خرچ کرتے ہیں، اللہ کی نعمتوں کے ساتھ ہمارے حقیقی تعلق کو ظاہر کرتا ہے، اکثر ناشکری کو بے نقاب کرتا ہے جسے ہم زبانی طور پر انکار کرتے ہیں۔",
+          "title_ar": "الشهادة الذاتية",
+          "coreInsight_ar": "الآية 'وإنه على ذلك لشهيد' تعني أن البشر أنفسهم يشهدون على جحودهم من خلال خياراتهم وأولوياتهم.",
+          "whyItMatters_ar": "أفعالنا تتحدث بصوت أعلى من الكلمات - كيف نقضي وقتنا وثروتنا وطاقتنا يكشف علاقتنا الحقيقية مع نعم الله، وغالبا ما يفضح الجحود الذي ننكره شفهيا."
+        },
+        {
+          "id": "100:7:conscious-knowledge",
+          "title": "Aware Ingratitude",
+          "icon": "brain.head.profile",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Humans don't forget blessings out of ignorance but consciously choose to overlook them - we witness our own ingratitude with full awareness.",
+          "whyItMatters": "This makes our ungratefulness even more serious - it's not innocent forgetfulness but deliberate neglect, requiring conscious effort to correct through regular remembrance and shukr.",
+          "position": "topRight",
+          "arabicHighlight": "شَهِيدٌۭ",
+          "title_urdu": "باشعور ناشکری",
+          "coreInsight_urdu": "انسان نعمتوں کو جہالت سے نہیں بھولتے بلکہ شعوری طور پر انہیں نظر انداز کرنے کا انتخاب کرتے ہیں - ہم مکمل آگاہی کے ساتھ اپنی ناشکری کے گواہ ہیں۔",
+          "whyItMatters_urdu": "یہ ہماری ناشکری کو اور بھی سنگین بناتا ہے - یہ معصوم فراموشی نہیں بلکہ جان بوجھ کر نظر انداز کرنا ہے، باقاعدہ یاد اور شکر کے ذریعے درست کرنے کے لیے شعوری کوشش کی ضرورت ہے۔",
+          "title_ar": "الجحود الواعي",
+          "coreInsight_ar": "البشر لا ينسون النعم عن جهل بل يختارون عن وعي تجاهلها - نشهد على جحودنا بوعي كامل.",
+          "whyItMatters_ar": "هذا يجعل جحودنا أكثر خطورة - إنه ليس نسيانا بريئا بل إهمال متعمد، يتطلب جهدا واعيا للتصحيح من خلال الذكر المنتظم والشكر."
+        },
+        {
+          "id": "100:7:double-emphasis",
+          "title": "Emphatic Truth",
+          "icon": "exclamationmark.2",
+          "colorHex": "#E57373",
+          "coreInsight": "The double emphasis with 'inna' and 'la' (indeed... surely) stresses the certainty and severity of this self-witnessed ingratitude.",
+          "whyItMatters": "Allah doesn't need to prove our ingratitude - our own behavior provides undeniable evidence, making self-examination and sincere repentance essential.",
+          "position": "bottomRight",
+          "arabicHighlight": "وَإِنَّ",
+          "title_urdu": "زوردار سچائی",
+          "coreInsight_urdu": "دوہرا زور 'ان' اور 'ل' (بیشک... یقینا) کے ساتھ اس خود گواہی شدہ ناشکری کی یقینی اور سنگینی پر زور دیتا ہے۔",
+          "whyItMatters_urdu": "اللہ کو ہماری ناشکری ثابت کرنے کی ضرورت نہیں - ہمارا اپنا رویہ ناقابل تردید ثبوت فراہم کرتا ہے، خود جانچ اور مخلص توبہ کو ضروری بناتا ہے۔",
+          "title_ar": "الحقيقة المؤكدة",
+          "coreInsight_ar": "التأكيد المزدوج مع 'إن' و'ل' (إن... لـ) يؤكد على اليقين وخطورة هذا الجحود المشهود ذاتيا.",
+          "whyItMatters_ar": "الله لا يحتاج لإثبات جحودنا - سلوكنا نفسه يوفر دليلا لا يمكن إنكاره، مما يجعل الفحص الذاتي والتوبة الصادقة ضروريين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as affirming human self-awareness and accountability. Sunni exegetes like Ibn Kathir explain that humans witness their own ingratitude through their actions and attitudes, recognizing when they fail in thankfulness. Al-Tabari notes that this witness can be understood both as the person's current awareness and as future testimony on Judgment Day when limbs and consciousness will testify. Al-Qurtubi emphasizes that humans cannot claim ignorance as an excuse when their own conscience and behavior demonstrate knowledge. Shia scholars echo these interpretations, adding emphasis on the tradition of muhasabah, self-accounting, taught by the Ahlul Bayt. Both traditions cite hadith about the importance of self-examination and preparing for the Day of Judgment by holding oneself accountable in this world. Scholars from both schools agree that the verse establishes an internal standard of judgment, not merely external rules, as humans possess innate moral awareness. Both traditions use this verse to encourage believers toward honest self-assessment and spiritual improvement. The interpretive consensus is strong, affirming human moral agency, self-awareness, and accountability as fundamental Quranic teachings applicable across all contexts and eras.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تشریح انسانی خود آگاہی اور احتساب کی تصدیق کے طور پر کرتے ہیں۔ ابن کثیر جیسے سنی مفسرین بیان کرتے ہیں کہ انسان اپنے اعمال اور رویوں کے ذریعے اپنی ناشکری کے گواہ ہیں، یہ پہچانتے ہوئے کہ وہ کب شکرگزاری میں ناکام ہوتے ہیں۔ طبری نوٹ کرتے ہیں کہ اس گواہ کو دونوں طریقوں سے سمجھا جا سکتا ہے، شخص کی موجودہ آگاہی اور قیامت کے دن کی مستقبل کی گواہی جب اعضاء اور شعور گواہی دیں گے۔ قرطبی اس بات پر زور دیتے ہیں کہ انسان لاعلمی کو بہانے کے طور پر استعمال نہیں کر سکتے جب ان کا اپنا ضمیر اور رویہ علم کا مظاہرہ کرتا ہے۔ شیعہ علماء ان تشریحات کو دہراتے ہیں، محاسبہ کی روایت پر زور کا اضافہ کرتے ہوئے، خود احتسابی، جو اہل بیت نے سکھائی۔ دونوں روایات خود احتسابی کی اہمیت اور اس دنیا میں اپنے آپ کو احتساب میں رکھ کر قیامت کی تیاری کے بارے میں احادیث کا حوالہ دیتی ہیں۔ دونوں مکاتب کے علماء متفق ہیں کہ آیت فیصلے کا ایک اندرونی معیار قائم کرتی ہے، نہ صرف بیرونی قوانین، کیونکہ انسان فطری اخلاقی آگاہی رکھتے ہیں۔ دونوں روایات اس آیت کو مومنین کو ایماندار خود تشخیص اور روحانی بہتری کی طرف حوصلہ دینے کے لیے استعمال کرتی ہیں۔ تشریحی اتفاق رائے مضبوط ہے، انسانی اخلاقی ایجنسی، خود آگاہی اور احتساب کی بنیادی قرآنی تعلیمات کے طور پر تصدیق کرتے ہوئے جو تمام سیاق و سباق اور ادوار میں قابلِ اطلاق ہیں۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية تأكيداً للوعي الذاتي الإنساني والمسؤولية. فيُبيِّن ابن كثير أن الإنسان يشهد على كفرانه من خلال أفعاله ومواقفه وإدراكه لتقصيره في الشكر. ويُلاحظ الطبري أن هذه الشهادة تحمل بُعدَيْن: الوعي الآني للشخص في الدنيا والشهادة المستقبلية يوم تشهد الجوارح والعقول. ويُشدِّد القرطبي على أن الإنسان لا يستطيع الاحتجاج بالجهل حين يشهد ضميره وسلوكه على معرفته. ويصدى علماء الشيعة لهذه التفسيرات مع الإضافة في تقليد المحاسبة الذي علَّمه أهل البيت عليهم السلام. ويستشهد كلا التراثين بأحاديث عن أهمية المحاسبة الذاتية والتهيؤ ليوم الحساب بمحاسبة النفس في الدنيا. ويتفق علماء كلا المدرستين على أن الآية تُرسِّخ معياراً داخلياً للحكم لا مجرد قواعد خارجية، إذ يمتلك الإنسان وعياً أخلاقياً فطرياً. ويستخدم كلا التراثين هذه الآية لحث المؤمنين على التقييم الذاتي الصادق والتطور الروحي. والإجماع التفسيري قوي في تأكيد الإرادة الأخلاقية الإنسانية والوعي الذاتي والمسؤولية بوصفها تعاليم قرآنية جوهرية صالحة لكل سياق وعصر."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:8:love-of-wealth",
+          "title": "Intense Materialism",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The verse 'And indeed he is, in love of wealth, intense' (wa-innahu li-hubbi al-khayri la-shadid) exposes how attachment to material gain drives human ingratitude.",
+          "whyItMatters": "When wealth becomes our primary love, gratitude to Allah diminishes - we credit ourselves for earnings and obsess over accumulation, forgetting the true Source of all provision.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+          "title_urdu": "شدید مادیت",
+          "coreInsight_urdu": "آیت 'اور بیشک وہ مال کی محبت میں سخت ہے' (وانہ لحب الخیر لشدید) ظاہر کرتی ہے کہ کیسے مادی فائدے کی لگاؤ انسانی ناشکری کو چلاتی ہے۔",
+          "whyItMatters_urdu": "جب دولت ہماری بنیادی محبت بن جاتی ہے، اللہ کے لیے شکرگزاری کم ہو جاتی ہے - ہم کمائی کا سہرا خود کو دیتے ہیں اور جمع کرنے پر جنون میں پڑ جاتے ہیں، تمام رزق کے حقیقی ذریعہ کو بھول جاتے ہیں۔",
+          "title_ar": "المادية الشديدة",
+          "coreInsight_ar": "الآية 'وإنه لحب الخير لشديد' تكشف كيف يدفع التعلق بالمكاسب المادية جحود الإنسان.",
+          "whyItMatters_ar": "عندما تصبح الثروة حبنا الأساسي، يتضاءل الامتنان لله - نعطي الفضل لأنفسنا على الكسب ونهوس بالتجميع، متناسين المصدر الحقيقي لكل رزق."
+        },
+        {
+          "id": "100:8:khayr-meaning",
+          "title": "Wealth as 'Good'",
+          "icon": "banknote.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The word 'al-khayr' literally means 'the good' but here refers to wealth, revealing how humans equate material prosperity with goodness itself.",
+          "whyItMatters": "This linguistic choice exposes our distorted values - we've redefined 'good' to mean wealth rather than righteousness, virtue, or spiritual growth.",
+          "position": "topRight",
+          "arabicHighlight": "ٱلْخَيْرِ",
+          "title_urdu": "دولت بطور 'بھلائی'",
+          "coreInsight_urdu": "لفظ 'الخیر' لفظی طور پر 'بھلائی' کا مطلب ہے لیکن یہاں دولت کا حوالہ دیتا ہے، ظاہر کرتا ہے کہ کیسے انسان مادی خوشحالی کو خود بھلائی کے برابر سمجھتے ہیں۔",
+          "whyItMatters_urdu": "یہ لسانی انتخاب ہماری بگڑی ہوئی اقدار کو بے نقاب کرتا ہے - ہم نے 'بھلائی' کو نیکی، فضیلت، یا روحانی ترقی کے بجائے دولت کے معنی میں دوبارہ تعریف کیا ہے۔",
+          "title_ar": "الثروة كـ'خير'",
+          "coreInsight_ar": "كلمة 'الخير' تعني حرفيا 'الخير' لكنها هنا تشير إلى الثروة، مما يكشف كيف يساوي البشر الرخاء المادي بالخير نفسه.",
+          "whyItMatters_ar": "هذا الاختيار اللغوي يكشف قيمنا المشوهة - أعدنا تعريف 'الخير' ليعني الثروة بدلا من البر أو الفضيلة أو النمو الروحي."
+        },
+        {
+          "id": "100:8:shadid-intensity",
+          "title": "Overwhelming Passion",
+          "icon": "flame.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'shadid' (intense/severe) describes an overwhelming, consuming passion for wealth that dominates the heart and drives behavior.",
+          "whyItMatters": "This intensity of material desire crowds out spiritual aspirations - when love of wealth is 'shadid', love of Allah becomes weak, creating a spiritual imbalance that leads to ruin.",
+          "position": "bottomLeft",
+          "arabicHighlight": "لَشَدِيدٌ",
+          "title_urdu": "زبردست جذبہ",
+          "coreInsight_urdu": "لفظ 'شدید' (شدید/سخت) دولت کے لیے ایک زبردست، استعمال کرنے والا جذبہ بیان کرتا ہے جو دل پر حاوی ہوتا ہے اور رویے کو چلاتا ہے۔",
+          "whyItMatters_urdu": "مادی خواہش کی یہ شدت روحانی خواہشات کو باہر نکال دیتی ہے - جب دولت کی محبت 'شدید' ہو، اللہ کی محبت کمزور ہو جاتی ہے، ایک روحانی عدم توازن پیدا کرتے ہوئے جو بربادی کی طرف لے جاتا ہے۔",
+          "title_ar": "الشغف الطاغي",
+          "coreInsight_ar": "كلمة 'شديد' (شديد/قوي) تصف شغفا طاغيا ومستهلكا للثروة يسيطر على القلب ويدفع السلوك.",
+          "whyItMatters_ar": "هذه الشدة من الرغبة المادية تزاحم التطلعات الروحية - عندما يكون حب الثروة 'شديدا'، يصبح حب الله ضعيفا، مما يخلق اختلالا روحيا يؤدي إلى الخراب."
+        },
+        {
+          "id": "100:8:root-cause",
+          "title": "Root of Ingratitude",
+          "icon": "arrow.down.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "This verse reveals the psychological root of human ingratitude - excessive love of material wealth blinds us to spiritual blessings and divine generosity.",
+          "whyItMatters": "To cure ingratitude, we must address its source: redirecting our intense love from perishable wealth to the eternal relationship with Allah and service to His creation.",
+          "position": "bottomRight",
+          "arabicHighlight": "لِحُبِّ",
+          "title_urdu": "ناشکری کی جڑ",
+          "coreInsight_urdu": "یہ آیت انسانی ناشکری کی نفسیاتی جڑ کو ظاہر کرتی ہے - مادی دولت کی ضرورت سے زیادہ محبت ہمیں روحانی نعمتوں اور الہی سخاوت سے اندھا کر دیتی ہے۔",
+          "whyItMatters_urdu": "ناشکری کا علاج کرنے کے لیے، ہمیں اس کے ذریعہ سے نمٹنا ہوگا: ہماری شدید محبت کو فانی دولت سے اللہ کے ساتھ ابدی تعلق اور اس کی مخلوق کی خدمت کی طرف موڑنا۔",
+          "title_ar": "جذر الجحود",
+          "coreInsight_ar": "تكشف هذه الآية الجذر النفسي لجحود الإنسان - الحب المفرط للثروة المادية يعمينا عن النعم الروحية والكرم الإلهي.",
+          "whyItMatters_ar": "لعلاج الجحود، يجب أن نعالج مصدره: إعادة توجيه حبنا الشديد من الثروة الفانية إلى العلاقة الأبدية مع الله وخدمة خلقه."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the critique of excessive materialism in this verse. Sunni exegetes like Ibn Kathir explain that intense love of wealth prevents people from spending in charity, fulfilling obligations, and maintaining proper relationship with Allah. Al-Qurtubi notes that the verse condemns not wealth itself but the heart's excessive attachment to it. Al-Razi discusses how love of wealth can dominate consciousness, driving behavior in harmful directions. Prophetic hadith cited in both traditions warn that love of worldly possessions is a disease and that the most dangerous thing feared for the Muslim community is worldly temptation. Shia scholars emphasize the Ahlul Bayt's teachings on contentment and simple living as antidotes to materialism. Both traditions teach that wealth should be acquired lawfully and spent in accordance with divine commands, including mandatory charity and voluntary generosity. Scholars from both schools use this verse to critique materialistic cultures and to call believers toward balanced relationship with worldly possessions, using them without being enslaved by them. The interpretive consensus is strong regarding the spiritual danger of excessive attachment to wealth, making this verse a foundation for Islamic economic ethics across schools.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت میں ضرورت سے زیادہ مادیت پرستی کی تنقید پر متفق ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ دولت سے شدید محبت لوگوں کو صدقہ میں خرچ کرنے، فرائض ادا کرنے اور اللہ کے ساتھ مناسب تعلق برقرار رکھنے سے روکتی ہے۔ القرطبی نوٹ کرتے ہیں کہ آیت خود دولت کی نہیں بلکہ دل کے اس سے ضرورت سے زیادہ لگاؤ کی مذمت کرتی ہے۔ الرازی اس بات پر بحث کرتے ہیں کہ کس طرح دولت کی محبت شعور پر حاوی ہو سکتی ہے، رویے کو نقصان دہ سمتوں میں چلاتی ہے۔ نبوی احادیث جو دونوں روایات میں نقل کی گئی ہیں متنبہ کرتی ہیں کہ دنیوی اثاثوں کی محبت ایک بیماری ہے اور مسلم امت کے لیے سب سے زیادہ خطرناک چیز جس کا خوف ہے وہ دنیوی فتنہ ہے۔ شیعہ علما مادیت پرستی کے علاج کے طور پر اہل بیت کی قناعت اور سادہ زندگی کی تعلیمات پر زور دیتے ہیں۔ دونوں روایات سکھاتی ہیں کہ دولت جائز طریقے سے حاصل کی جائے اور الہی احکامات کے مطابق خرچ کی جائے، بشمول لازمی صدقہ اور رضاکارانہ سخاوت۔ دونوں مکاتب فکر کے علما اس آیت کو استعمال کرتے ہیں مادیت پسند ثقافتوں کی تنقید کے لیے اور مومنین کو دنیوی اثاثوں کے ساتھ متوازن تعلق کی طرف بلانے کے لیے، انہیں استعمال کرتے ہوئے لیکن ان کے غلام بنے بغیر۔ دولت سے ضرورت سے زیادہ لگاؤ کے روحانی خطرے کے بارے میں تشریحی اتفاق رائے مضبوط ہے، اس آیت کو تمام مکاتب فکر میں اسلامی معاشی اخلاقیات کی بنیاد بناتی ہے۔",
+    "layer4_ar": "يتفق علماء الشيعة والسنة على نقد الآية للمادية المفرطة. فيُبيِّن ابن كثير أن الحب الشديد للمال يحول دون الإنفاق في الصدقة وأداء الواجبات وصون العلاقة الصحيحة مع الله. ويُلاحظ القرطبي أن الآية تذمُّ هيمنة المال على القلب لا المال ذاته. ويستعرض الرازي كيف يستطيع حب المال أن يسيطر على الوعي ويوجِّه السلوك في مسارات ضارة. والأحاديث النبوية المُستشهَد بها في كلا التراثين تُحذِّر من أن حب الدنيا داء وأن أخطر ما يُخشى على الأمة هو فتنة المال. ويُشدِّد علماء الشيعة على تعاليم أهل البيت عليهم السلام في القناعة والزهد تريُّقاً للمادية. ويُعلِّم كلا التراثين أن المال يُكتسَب بالحلال ويُنفَق وفق الأوامر الإلهية بما فيها الزكاة الواجبة والكرم التطوعي. ويستخدم علماء كلا المدرستين هذه الآية لانتقاد الثقافات المادية والدعوة إلى علاقة متوازنة مع الممتلكات الدنيوية توظيفاً لها دون عبودية لها. والإجماع التفسيري قوي في التحذير من الخطر الروحي للتعلق المفرط بالمال مما يجعل الآية أساساً للأخلاقيات الاقتصادية الإسلامية عبر المذاهب."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:9:resurrection-warning",
+          "title": "Grave Awakening",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The rhetorical question 'Does he not know when the contents of the graves are scattered' (a-fa-la ya'lamu idha bu'thira ma fi al-qubur) jolts the reader with resurrection's inevitability.",
+          "whyItMatters": "Our material obsessions seem rational only when we forget death - remembering that graves will be emptied and bodies resurrected radically reorients our priorities.",
+          "position": "topLeft",
+          "arabicHighlight": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+          "title_urdu": "قبر کی بیداری",
+          "coreInsight_urdu": "بلاغی سوال 'کیا وہ نہیں جانتا جب قبروں میں جو کچھ ہے اکھاڑا جائے گا' (افلا یعلم اذا بعثر ما فی القبور) قارئ کو قیامت کی ناگزیریت سے جھنجھوڑتا ہے۔",
+          "whyItMatters_urdu": "ہماری مادی جنون صرف تب عقلی لگتی ہیں جب ہم موت کو بھول جاتے ہیں - یاد کرنا کہ قبریں خالی کی جائیں گی اور جسموں کو اٹھایا جائے گا بنیادی طور پر ہماری ترجیحات کو دوبارہ مرتب کرتا ہے۔",
+          "title_ar": "صحوة القبر",
+          "coreInsight_ar": "السؤال البلاغي 'أفلا يعلم إذا بعثر ما في القبور' يهز القارئ بحتمية البعث.",
+          "whyItMatters_ar": "تبدو هواجسنا المادية عقلانية فقط عندما ننسى الموت - تذكر أن القبور ستفرغ والأجساد ستبعث يعيد توجيه أولوياتنا جذريا."
+        },
+        {
+          "id": "100:9:bu-thira-scattering",
+          "title": "Violent Upheaval",
+          "icon": "tornado",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The word 'bu'thira' (scattered/overturned) suggests violent disruption - graves won't gently open but will be explosively emptied as earth releases its dead.",
+          "whyItMatters": "The Day of Judgment won't be subtle or gradual but a dramatic cosmic upheaval that leaves no room for denial or delay - preparation must happen now.",
+          "position": "topRight",
+          "arabicHighlight": "بُعْثِرَ",
+          "title_urdu": "پرتشدد ہنگامہ",
+          "coreInsight_urdu": "لفظ 'بعثر' (بکھرا/الٹا) پرتشدد رکاوٹ تجویز کرتا ہے - قبریں نرمی سے نہیں کھلیں گی بلکہ دھماکے سے خالی کی جائیں گی جب زمین اپنے مردے چھوڑے گی۔",
+          "whyItMatters_urdu": "قیامت کا دن لطیف یا بتدریج نہیں ہوگا بلکہ ایک ڈرامائی کائناتی ہنگامہ ہوگا جو انکار یا تاخیر کے لیے کوئی جگہ نہیں چھوڑتا - تیاری ابھی ہونی چاہیے۔",
+          "title_ar": "الاضطراب العنيف",
+          "coreInsight_ar": "كلمة 'بُعثر' (مبعثر/مقلوب) توحي باضطراب عنيف - القبور لن تنفتح بلطف بل ستفرغ بشكل انفجاري عندما تطلق الأرض موتاها.",
+          "whyItMatters_ar": "يوم القيامة لن يكون خفيا أو تدريجيا بل اضطرابا كونيا دراماتيكيا لا يترك مجالا للإنكار أو التأخير - يجب أن يحدث الاستعداد الآن."
+        },
+        {
+          "id": "100:9:does-he-not-know",
+          "title": "Rhetorical Challenge",
+          "icon": "questionmark.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The rhetorical 'Does he not know' (a-fa-la ya'lamu) is both a question and an accusation - everyone knows about resurrection, yet we live as if death is the end.",
+          "whyItMatters": "The problem isn't ignorance but willful forgetfulness - we suppress awareness of accountability to justify our worldly obsessions.",
+          "position": "bottomLeft",
+          "arabicHighlight": "أَفَلَا يَعْلَمُ",
+          "title_urdu": "بلاغی چیلنج",
+          "coreInsight_urdu": "بلاغی 'کیا وہ نہیں جانتا' (افلا یعلم) سوال اور الزام دونوں ہے - ہر کوئی قیامت کے بارے میں جانتا ہے، پھر بھی ہم اس طرح جیتے ہیں جیسے موت آخر ہے۔",
+          "whyItMatters_urdu": "مسئلہ جہالت نہیں بلکہ ارادی فراموشی ہے - ہم اپنی دنیاوی جنون کو جواز دینے کے لیے جوابدہی کی بیداری کو دبا دیتے ہیں۔",
+          "title_ar": "التحدي البلاغي",
+          "coreInsight_ar": "البلاغي 'أفلا يعلم' هو سؤال واتهام في آن واحد - الجميع يعرف عن البعث، ومع ذلك نعيش كما لو أن الموت هو النهاية.",
+          "whyItMatters_ar": "المشكلة ليست الجهل بل النسيان المتعمد - نكبت الوعي بالمساءلة لتبرير هواجسنا الدنيوية."
+        },
+        {
+          "id": "100:9:transition-point",
+          "title": "Pivotal Transition",
+          "icon": "arrow.triangle.turn.up.right.circle.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "This verse marks a dramatic shift from describing human ingratitude to presenting the solution: awareness of ultimate accountability.",
+          "whyItMatters": "Remembering death and resurrection is the most effective cure for materialism and ingratitude - when we truly internalize our return to Allah, priorities naturally realign.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِذَا",
+          "title_urdu": "اہم منتقلی",
+          "coreInsight_urdu": "یہ آیت انسانی ناشکری کی تفصیل سے حل پیش کرنے کی طرف ایک ڈرامائی تبدیلی کی نشاندہی کرتی ہے: حتمی جوابدہی کی آگاہی۔",
+          "whyItMatters_urdu": "موت اور قیامت کو یاد کرنا مادیت اور ناشکری کا سب سے مؤثر علاج ہے - جب ہم واقعی اللہ کی طرف اپنی واپسی کو اندرونی بناتے ہیں، ترجیحات قدرتی طور پر دوبارہ ترتیب دیتی ہیں۔",
+          "title_ar": "الانتقال المحوري",
+          "coreInsight_ar": "تمثل هذه الآية تحولا دراماتيكيا من وصف جحود الإنسان إلى تقديم الحل: الوعي بالمساءلة النهائية.",
+          "whyItMatters_ar": "تذكر الموت والبعث هو العلاج الأكثر فعالية للمادية والجحود - عندما نستوعب حقا عودتنا إلى الله، تتم إعادة ترتيب الأولويات بشكل طبيعي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize the importance of this verse's eschatological reminder. Sunni exegetes like Ibn Kathir explain the imagery of graves being overturned as describing the dramatic resurrection when all dead will emerge to stand before Allah. Al-Tabari provides linguistic analysis of 'buthira' emphasizing violent overturning, stressing resurrection's inescapable reality. Al-Qurtubi notes that this reminder serves as cure for worldly attachment and ingratitude mentioned earlier. Both traditions cite abundant prophetic hadith about remembering death and preparing for afterlife. Shia scholars emphasize the Ahlul Bayt's teachings on consciousness of death and resurrection as essential spiritual practice. Both schools teach that belief in resurrection is fundamental article of faith and that this belief should actively influence behavior and priorities. Scholars from both traditions use this verse to encourage believers toward ethical living, generosity, and spiritual development. Both emphasize that the question format engages readers personally, requiring self-examination about whether resurrection awareness actually influences one's life. The interpretive consensus is strong regarding resurrection's reality and its importance as motivation for righteous living, making this verse a point of unity in Islamic eschatological and ethical teaching.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت کی اخروی یاددہانی کی اہمیت پر زور دیتے ہیں۔ سنی مفسرین جیسے ابن کثیر قبروں کے الٹ دیے جانے کی منظرکشی کی وضاحت اس ڈرامائی قیامت کے طور پر کرتے ہیں جب تمام مردے اللہ کے سامنے کھڑے ہونے کے لیے نکلیں گے۔ الطبری 'بُعثِرَ' کا لسانی تجزیہ فراہم کرتے ہیں پرتشدد الٹ پلٹ پر زور دیتے ہوئے، قیامت کی ناقابل فرار حقیقت پر زور دیتے ہوئے۔ القرطبی نوٹ کرتے ہیں کہ یہ یاددہانی پہلے ذکر کردہ دنیوی لگاؤ اور ناشکری کے علاج کے طور پر کام کرتی ہے۔ دونوں روایات موت کو یاد رکھنے اور آخرت کی تیاری کے بارے میں وافر نبوی احادیث نقل کرتی ہیں۔ شیعہ علما موت اور قیامت کے شعور پر اہل بیت کی تعلیمات کو ضروری روحانی عمل کے طور پر زور دیتے ہیں۔ دونوں مکتبہ فکر سکھاتے ہیں کہ قیامت پر ایمان ایمان کا بنیادی رکن ہے اور یہ ایمان فعال طور پر رویے اور ترجیحات کو متاثر کرنا چاہیے۔ دونوں روایات کے علما اس آیت کو اخلاقی زندگی، سخاوت اور روحانی ترقی کی طرف حوصلہ افزائی کے لیے استعمال کرتے ہیں۔ دونوں زور دیتے ہیں کہ سوالیہ انداز قارئین کو ذاتی طور پر مشغول کرتا ہے، خود جائزہ کی ضرورت ہے کہ کیا قیامت کی آگاہی واقعی کسی کی زندگی کو متاثر کرتی ہے۔ قیامت کی حقیقت اور راستباز زندگی کے لیے حوصلہ افزائی کے طور پر اس کی اہمیت کے بارے میں تشریحی اتفاق رائے مضبوط ہے، اس آیت کو اسلامی اخروی اور اخلاقی تعلیم میں اتحاد کا نقطہ بناتی ہے۔",
+    "layer4_ar": "يُشدِّد علماء الشيعة والسنة على أهمية التذكير الإسخاتولوجي في هذه الآية. فيُبيِّن ابن كثير أن صورة نبش القبور تصف البعث المهيب حين يُحشَر جميع الموتى للوقوف بين يدي الله. ويُقدِّم الطبري تحليلاً لغوياً لفعل «بُثِّرَ» مُركِّزاً على معنى القلب العنيف ومُؤكِّداً حتمية البعث وعدم مناصه. ويُلاحظ القرطبي أن هذا التذكير دواء للتعلق بالدنيا والكفران المذكورَيْن قبله. ويستشهد كلا التراثين بأحاديث وفيرة عن ذكر الموت والتهيؤ للآخرة. ويُشدِّد علماء الشيعة على تعاليم أهل البيت عليهم السلام في الوعي بالموت والبعث ممارسةً روحية لا غنى عنها. ويُعلِّم كلا المدرستين أن الإيمان بالبعث ركن من أركان الإيمان وأن هذا الاعتقاد ينبغي أن يؤثِّر فعلياً في السلوك والأولويات. ويستخدم علماء كلا التراثين الآية لحث المؤمنين على العيش الأخلاقي والكرم والنمو الروحي. ويُشدِّد كلاهما على أن صيغة الاستفهام تُخاطب القارئ شخصياً مطالِبةً إياه بالتأمل هل يؤثِّر وعيه بالقيامة في حياته فعلاً. والإجماع التفسيري قوي في تأكيد حقيقة البعث وأهميته دافعاً للاستقامة مما يجعل الآية نقطة توافق في التعليم الإسخاتولوجي والأخلاقي الإسلامي."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:10:hearts-exposed",
+          "title": "Hidden Revealed",
+          "icon": "eye.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The verse 'And that within the breasts is obtained' (wa-hussila ma fi al-sudur) means all secret thoughts, intentions, and hidden motives will be extracted and exposed.",
+          "whyItMatters": "We can deceive others and ourselves now, but on Judgment Day, the contents of our hearts—every hidden greed, jealousy, and selfish motive—will be laid bare before Allah and all creation.",
+          "position": "topLeft",
+          "arabicHighlight": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+          "title_urdu": "چھپا ہوا ظاہر",
+          "coreInsight_urdu": "آیت 'اور جو کچھ سینوں میں ہے حاصل کیا جائے گا' (وحصل ما فی الصدور) کا مطلب ہے کہ تمام خفیہ خیالات، نیتیں، اور چھپی ہوئی محرکات نکالے اور بے نقاب کیے جائیں گے۔",
+          "whyItMatters_urdu": "ہم اب دوسروں اور خود کو دھوکہ دے سکتے ہیں، لیکن قیامت کے دن، ہمارے دلوں کے مواد - ہر چھپی ہوئی لالچ، حسد، اور خودغرض محرک - اللہ اور تمام مخلوق کے سامنے ننگا کیا جائے گا۔",
+          "title_ar": "المخفي المكشوف",
+          "coreInsight_ar": "الآية 'وحصل ما في الصدور' تعني أن جميع الأفكار السرية والنوايا والدوافع الخفية سيتم استخراجها وكشفها.",
+          "whyItMatters_ar": "يمكننا خداع الآخرين وأنفسنا الآن، لكن في يوم القيامة، سيتم كشف محتويات قلوبنا - كل جشع مخفي وحسد ودافع أناني - أمام الله وجميع الخلق."
+        },
+        {
+          "id": "100:10:hussila-extraction",
+          "title": "Complete Extraction",
+          "icon": "arrow.up.doc.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The word 'hussila' (obtained/extracted) implies thorough collection and purification - like separating pure gold from ore, truth will be separated from pretense.",
+          "whyItMatters": "Nothing will be overlooked or forgotten - every thought we tried to hide, every intention we masked with pious appearance, will be meticulously extracted and evaluated.",
+          "position": "topRight",
+          "arabicHighlight": "حُصِّلَ",
+          "title_urdu": "مکمل نکالنا",
+          "coreInsight_urdu": "لفظ 'حصل' (حاصل/نکالا گیا) مکمل جمع اور صفائی کا مطلب ہے - جیسے خالص سونے کو ایسک سے الگ کرنا، حقیقت کو دکھاوے سے الگ کیا جائے گا۔",
+          "whyItMatters_urdu": "کچھ بھی نظر انداز یا بھولا نہیں جائے گا - ہر خیال جسے ہم نے چھپانے کی کوشش کی، ہر نیت جسے ہم نے پرہیزگار ظاہر سے ڈھانپا، باریک بینی سے نکالا اور جانچا جائے گا۔",
+          "title_ar": "الاستخراج الكامل",
+          "coreInsight_ar": "كلمة 'حُصّل' (تم الحصول عليه/استخرج) تعني الجمع الشامل والتنقية - مثل فصل الذهب الخالص من الخام، سيتم فصل الحقيقة عن التظاهر.",
+          "whyItMatters_ar": "لن يتم تجاهل أو نسيان أي شيء - كل فكرة حاولنا إخفاءها، كل نية قمنا بإخفائها بمظهر تقي، سيتم استخراجها وتقييمها بدقة."
+        },
+        {
+          "id": "100:10:sudur-chests",
+          "title": "Seat of Intention",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'sudur' (chests/breasts) refers to the heart as the seat of intentions, beliefs, and true character—not just the physical organ but the spiritual core.",
+          "whyItMatters": "Allah judges not by appearances or claims but by what truly resides in the heart - our sincere intentions, hidden prejudices, and authentic love or lack thereof.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلصُّدُورِ",
+          "title_urdu": "نیت کی جگہ",
+          "coreInsight_urdu": "لفظ 'صدور' (سینے/چھاتیاں) دل کو نیتوں، عقائد، اور حقیقی کردار کی جگہ کے طور پر حوالہ دیتا ہے - نہ صرف جسمانی عضو بلکہ روحانی مرکز۔",
+          "whyItMatters_urdu": "اللہ ظاہر یا دعووں سے نہیں بلکہ اس سے فیصلہ کرتا ہے جو واقعی دل میں رہتا ہے - ہماری مخلص نیتیں، چھپے ہوئے تعصبات، اور حقیقی محبت یا اس کی کمی۔",
+          "title_ar": "مقر النية",
+          "coreInsight_ar": "كلمة 'الصدور' (الصدور/الأثداء) تشير إلى القلب كمقر للنوايا والمعتقدات والشخصية الحقيقية - ليس فقط العضو الجسدي بل الجوهر الروحي.",
+          "whyItMatters_ar": "الله يحكم ليس بالمظاهر أو الادعاءات بل بما يقيم حقا في القلب - نوايانا الصادقة، والتحيزات الخفية، والحب الحقيقي أو عدمه."
+        },
+        {
+          "id": "100:10:parallel-structure",
+          "title": "Perfect Parallel",
+          "icon": "equal.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "This verse parallels the previous one: just as graves (external) are overturned, hearts (internal) are opened - complete exposure of both body and soul.",
+          "whyItMatters": "Resurrection involves total accountability - not just for our actions but for the thoughts and feelings that motivated them, ensuring perfect justice.",
+          "position": "bottomRight",
+          "arabicHighlight": "مَا فِى",
+          "title_urdu": "کامل متوازی",
+          "coreInsight_urdu": "یہ آیت پچھلی کے ساتھ متوازی ہے: جیسے قبریں (بیرونی) الٹی جاتی ہیں، دل (اندرونی) کھولے جاتے ہیں - جسم اور روح دونوں کا مکمل بے نقاب ہونا۔",
+          "whyItMatters_urdu": "قیامت مکمل جوابدہی شامل ہے - نہ صرف ہمارے اعمال کے لیے بلکہ ان خیالات اور احساسات کے لیے جنہوں نے انہیں حوصلہ دیا، کامل انصاف کو یقینی بناتے ہوئے۔",
+          "title_ar": "التوازي الكامل",
+          "coreInsight_ar": "توازي هذه الآية السابقة: تماما كما يتم قلب القبور (الخارجية)، يتم فتح القلوب (الداخلية) - كشف كامل للجسد والروح.",
+          "whyItMatters_ar": "البعث ينطوي على مساءلة كاملة - ليس فقط لأعمالنا بل للأفكار والمشاعر التي حفزتها، مما يضمن العدالة الكاملة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars emphasize the importance of this verse regarding intentions and heart states. Sunni exegetes like Ibn Kathir explain that the bringing forth of hearts' contents means exposing all secret thoughts, intentions, and hidden matters that people concealed in worldly life. Al-Tabari notes that this includes beliefs, doubts, sincerity or hypocrisy in worship, and all inner states. Al-Qurtubi emphasizes that this makes divine judgment completely just, as it examines full reality rather than appearance. Both traditions cite the famous hadith that actions are judged by intentions, making inner state crucial to deeds' value. Prophetic traditions in both schools warn against riya, showing off in religious practice, because it corrupts the intention. Shia scholars emphasize the Ahlul Bayt's teachings on ikhlas and heart purification as essential spiritual practice. Both traditions teach that cultivating sincerity and pure intention is fundamental to authentic Islam. Scholars from both schools use this verse to encourage believers toward honesty, integrity, and alignment between inner and outer life. The interpretive consensus is strong regarding the importance of intentions and the comprehensive nature of divine judgment that examines hearts as well as actions. This verse provides foundation for Islamic spiritual psychology across schools.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما نیتوں اور دلوں کی حالتوں کے بارے میں اس آیت کی اہمیت پر زور دیتے ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ دلوں کے مواد کو سامنے لانے کا مطلب ہے تمام خفیہ خیالات، ارادوں اور پوشیدہ معاملات کو بے نقاب کرنا جو لوگوں نے دنیوی زندگی میں چھپائے۔ الطبری نوٹ کرتے ہیں کہ اس میں عقائد، شکوک، عبادت میں اخلاص یا منافقت، اور تمام اندرونی حالتیں شامل ہیں۔ القرطبی زور دیتے ہیں کہ یہ الہی عدالت کو مکمل طور پر منصفانہ بناتا ہے، کیونکہ یہ ظاہر کی بجائے مکمل حقیقت کو جانچتی ہے۔ دونوں روایات اس مشہور حدیث کو نقل کرتی ہیں کہ اعمال کا فیصلہ نیتوں سے ہوتا ہے، اندرونی حالت کو اعمال کی قدر کے لیے اہم بناتی ہے۔ دونوں مکاتب فکر میں نبوی روایات ریا، مذہبی عمل میں دکھاوے کے خلاف متنبہ کرتی ہیں، کیونکہ یہ نیت کو خراب کرتا ہے۔ شیعہ علما اخلاص اور دل کی پاکیزگی پر اہل بیت کی تعلیمات کو ضروری روحانی عمل کے طور پر زور دیتے ہیں۔ دونوں روایات سکھاتی ہیں کہ اخلاص اور خالص نیت کو فروغ دینا مستند اسلام کے لیے بنیادی ہے۔ دونوں مکاتب فکر کے علما اس آیت کو دیانتداری، دیانت اور اندرونی اور بیرونی زندگی کے درمیان ہم آہنگی کی طرف حوصلہ افزائی کے لیے استعمال کرتے ہیں۔ نیتوں کی اہمیت اور الہی عدالت کی جامع نوعیت کے بارے میں تشریحی اتفاق رائے مضبوط ہے جو دلوں کے ساتھ ساتھ اعمال کو بھی جانچتی ہے۔ یہ آیت تمام مکاتب فکر میں اسلامی روحانی نفسیات کی بنیاد فراہم کرتی ہے۔",
+    "layer4_ar": "يُشدِّد علماء الشيعة والسنة على أهمية هذه الآية في شأن النيات والأحوال القلبية. فيُبيِّن ابن كثير أن استخراج ما في الصدور يعني كشف الأفكار السرية والنيات والأمور المكتومة التي أخفاها الناس في الدنيا. ويُلاحظ الطبري أن هذا يشمل المعتقدات والشكوك والإخلاص أو النفاق في العبادة وسائر الأحوال الباطنة. ويُشدِّد القرطبي على أن هذا يجعل القضاء الإلهي كاملاً تاماً لأنه يُقيِّم الحقيقة الكاملة لا الظاهر وحده. ويستشهد كلا التراثين بالحديث الشريف المشهور «إنما الأعمال بالنيات» الذي يجعل الحال الداخلية عماداً لقيمة الأعمال. وأحاديث كلا المدرستين تُحذِّر من الرياء لأنه يُفسِد النية. ويُشدِّد علماء الشيعة على تعاليم أهل البيت عليهم السلام في الإخلاص وتزكية القلب ممارسةً روحية لا غنى عنها. ويُعلِّم كلا التراثين أن تنمية الإخلاص والنية الصادقة أصل في الإسلام الحق. ويستخدم علماء كلا المدرستين الآية لحث المؤمنين على الصدق والنزاهة وتوحيد الباطن والظاهر. والإجماع التفسيري قوي في أهمية النيات والشمولية الكاملة للقضاء الإلهي الذي يُحاسِب القلوب كما يُحاسِب الأعمال."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "100:11:full-awareness",
+          "title": "Complete Knowledge",
+          "icon": "brain.head.profile",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The closing verse 'Indeed, their Lord with them, that Day, is [fully] Acquainted' (inna rabbahum bihim yawma-idhin la-khabir) emphasizes Allah's total, intimate knowledge of every detail.",
+          "whyItMatters": "Allah's judgment won't rely on witnesses or evidence gathering - He already possesses complete, perfect knowledge of every thought, action, and circumstance of our lives.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+          "title_urdu": "مکمل علم",
+          "coreInsight_urdu": "اختتامی آیت 'بیشک ان کا رب اس دن ان سے پوری طرح باخبر ہے' (ان ربہم بہم یومئذ لخبیر) ہر تفصیل کے اللہ کے مکمل، قریبی علم پر زور دیتی ہے۔",
+          "whyItMatters_urdu": "اللہ کا فیصلہ گواہوں یا ثبوت جمع کرنے پر انحصار نہیں کرے گا - اس کے پاس پہلے سے ہماری زندگیوں کے ہر خیال، عمل، اور حالات کا مکمل، کامل علم ہے۔",
+          "title_ar": "المعرفة الكاملة",
+          "coreInsight_ar": "الآية الختامية 'إن ربهم بهم يومئذ لخبير' تؤكد على معرفة الله الكاملة والحميمة بكل التفاصيل.",
+          "whyItMatters_ar": "حكم الله لن يعتمد على الشهود أو جمع الأدلة - لديه بالفعل معرفة كاملة ومثالية بكل فكرة وعمل وظرف في حياتنا."
+        },
+        {
+          "id": "100:11:khabir-expert",
+          "title": "Divine Expertise",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The word 'khabir' means not just aware but expertly knowledgeable - Allah knows the why behind our actions, not just the what, understanding context and struggle.",
+          "whyItMatters": "Allah's judgment is perfectly calibrated because He knows our struggles, temptations, capacity, and circumstances - there will be no injustice or misunderstanding.",
+          "position": "topRight",
+          "arabicHighlight": "لَّخَبِيرٌۢ",
+          "title_urdu": "الہی مہارت",
+          "coreInsight_urdu": "لفظ 'خبیر' کا مطلب صرف باخبر نہیں بلکہ ماہرانہ علم ہے - اللہ ہمارے اعمال کے پیچھے کی وجہ جانتا ہے، نہ صرف کیا، سیاق و سباق اور جدوجہد کو سمجھتے ہوئے۔",
+          "whyItMatters_urdu": "اللہ کا فیصلہ بالکل کیلیبریٹ ہے کیونکہ وہ ہماری جدوجہد، آزمائشوں، صلاحیت، اور حالات جانتا ہے - کوئی ناانصافی یا غلط فہمی نہیں ہوگی۔",
+          "title_ar": "الخبرة الإلهية",
+          "coreInsight_ar": "كلمة 'خبير' تعني ليس فقط على علم بل خبير بمعرفة - الله يعرف لماذا وراء أعمالنا، وليس فقط ماذا، مع فهم السياق والنضال.",
+          "whyItMatters_ar": "حكم الله معاير تماما لأنه يعرف صراعاتنا وإغراءاتنا وقدرتنا وظروفنا - لن يكون هناك ظلم أو سوء فهم."
+        },
+        {
+          "id": "100:11:that-day",
+          "title": "Day of Truth",
+          "icon": "sun.max.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The phrase 'that Day' (yawma-idhin) points to the Day of Judgment as the ultimate moment of truth when all pretenses collapse and reality becomes undeniable.",
+          "whyItMatters": "Life's ambiguities and injustices are temporary - 'that Day' will bring perfect clarity where truth prevails absolutely and every soul receives exact justice.",
+          "position": "bottomLeft",
+          "arabicHighlight": "يَوْمَئِذٍۢ",
+          "title_urdu": "سچائی کا دن",
+          "coreInsight_urdu": "جملہ 'اس دن' (یومئذ) قیامت کے دن کی طرف اشارہ کرتا ہے جیسے سچائی کے حتمی لمحے جب تمام دکھاوے ڈھیر ہو جاتے ہیں اور حقیقت ناقابل تردید ہو جاتی ہے۔",
+          "whyItMatters_urdu": "زندگی کی ابہامات اور ناانصافیاں عارضی ہیں - 'اس دن' کامل وضاحت لائے گا جہاں حق مکمل طور پر غالب آتا ہے اور ہر روح کو درست انصاف ملتا ہے۔",
+          "title_ar": "يوم الحقيقة",
+          "coreInsight_ar": "عبارة 'يومئذ' (ذلك اليوم) تشير إلى يوم القيامة كلحظة الحقيقة النهائية عندما تنهار جميع التظاهرات وتصبح الحقيقة لا يمكن إنكارها.",
+          "whyItMatters_ar": "الغموض والظلم في الحياة مؤقتة - 'ذلك اليوم' سيجلب وضوحا مثاليا حيث ينتصر الحق تماما وتتلقى كل نفس العدالة الدقيقة."
+        },
+        {
+          "id": "100:11:rabbahum-their-lord",
+          "title": "Personal Lordship",
+          "icon": "person.badge.shield.checkmark.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The phrase 'their Lord' (rabbahum) emphasizes intimate personal relationship - the One judging is not a distant stranger but our own Rabb who nurtured and sustained us.",
+          "whyItMatters": "Allah's judgment comes from love and justice combined - He judges as the One who created us, knows our potential, and desires our ultimate success and purification.",
+          "position": "bottomRight",
+          "arabicHighlight": "رَبَّهُم",
+          "title_urdu": "ذاتی ربوبیت",
+          "coreInsight_urdu": "جملہ 'ان کا رب' (ربہم) قریبی ذاتی تعلق پر زور دیتا ہے - فیصلہ کرنے والا دور کا اجنبی نہیں بلکہ ہمارا اپنا رب ہے جس نے ہماری پرورش اور کفالت کی۔",
+          "whyItMatters_urdu": "اللہ کا فیصلہ محبت اور انصاف کے امتزاج سے آتا ہے - وہ فیصلہ کرتا ہے اس کے طور پر جس نے ہمیں پیدا کیا، ہماری صلاحیت جانتا ہے، اور ہماری حتمی کامیابی اور پاکیزگی چاہتا ہے۔",
+          "title_ar": "الربوبية الشخصية",
+          "coreInsight_ar": "عبارة 'ربهم' يؤكد على العلاقة الشخصية الحميمة - الذي يحكم ليس غريبا بعيدا بل ربنا الخاص الذي رعانا واستدامنا.",
+          "whyItMatters_ar": "حكم الله يأتي من الحب والعدالة معا - يحكم كالذي خلقنا، ويعرف إمكاناتنا، ويرغب في نجاحنا النهائي وتنقيتنا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars interpret this verse as affirming Allah's complete knowledge and its manifestation in just judgment. Sunni exegetes like Ibn Kathir explain that Allah being 'khabir' means He is thoroughly acquainted with His servants' conditions, knowing all deeds, intentions, and circumstances. Al-Tabari emphasizes that this knowledge will be manifest in perfectly appropriate recompense, rewarding good and punishing evil according to complete understanding. Al-Qurtubi notes that this verse provides both warning to wrongdoers and comfort to righteous, as divine knowledge ensures justice. Both traditions cite numerous Quranic verses and prophetic hadith affirming Allah's comprehensive knowledge and its role in judgment. Shia scholars emphasize the Ahlul Bayt's teachings on consciousness of divine observation as essential spiritual practice. Both schools teach that awareness of divine knowledge should influence behavior in all circumstances, public and private. Scholars from both traditions use this verse to encourage believers toward sincerity, righteousness, and trust in divine justice. The interpretive consensus is strong regarding Allah's perfect knowledge and its central role in Judgment Day accountability. This verse serves as powerful conclusion to the surah, bringing the argument full circle from oaths describing dedicated effort to indictment of ingratitude to reminder of resurrection and accountability before the all-knowing Lord.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علما اس آیت کی تشریح اللہ کے مکمل علم اور منصفانہ عدالت میں اس کے ظہور کی تصدیق کے طور پر کرتے ہیں۔ سنی مفسرین جیسے ابن کثیر وضاحت کرتے ہیں کہ اللہ کا 'خبیر' ہونے کا مطلب ہے کہ وہ اپنے بندوں کے حالات سے مکمل طور پر واقف ہے، تمام اعمال، ارادوں اور حالات کو جانتے ہوئے۔ الطبری زور دیتے ہیں کہ یہ علم بالکل مناسب جزا و سزا میں ظاہر ہوگا، نیکی کو انعام دیتے ہوئے اور برائی کو مکمل سمجھ کے مطابق سزا دیتے ہوئے۔ القرطبی نوٹ کرتے ہیں کہ یہ آیت غلط کاروں کے لیے خبرداری اور راستبازوں کے لیے تسلی دونوں فراہم کرتی ہے، کیونکہ الہی علم انصاف کو یقینی بناتا ہے۔ دونوں روایات متعدد قرآنی آیات اور نبوی احادیث نقل کرتی ہیں جو اللہ کے جامع علم اور عدالت میں اس کے کردار کی تصدیق کرتی ہیں۔ شیعہ علما الہی مشاہدہ کے شعور پر اہل بیت کی تعلیمات کو ضروری روحانی عمل کے طور پر زور دیتے ہیں۔ دونوں مکاتب فکر سکھاتے ہیں کہ الہی علم کی آگاہی تمام حالات میں رویے کو متاثر کرنی چاہیے، عوامی اور نجی۔ دونوں روایات کے علما اس آیت کو اخلاص، راستبازی اور الہی عدل پر اعتماد کی طرف حوصلہ افزائی کے لیے استعمال کرتے ہیں۔ اللہ کے کامل علم اور قیامت کی جوابدہی میں اس کے مرکزی کردار کے بارے میں تشریحی اتفاق رائے مضبوط ہے۔ یہ آیت سورہ کے لیے طاقتور نتیجہ کے طور پر کام کرتی ہے، دلیل کو مکمل دائرے میں لاتے ہوئے اختصاصی کوشش بیان کرنے والی قسموں سے ناشکری کے الزام سے قیامت کی یاددہانی تک اور تمام جاننے والے رب کے سامنے جوابدہی تک۔",
+    "layer4_ar": "يُفسِّر علماء الشيعة والسنة هذه الآية تأكيداً للعلم الإلهي الشامل وتجليِّه في القضاء العادل. فيُبيِّن ابن كثير أن كون الله «خبيراً» يعني إحاطته التامة بأحوال عباده علماً دقيقاً يشمل جميع الأعمال والنيات والظروف. ويُشدِّد الطبري على أن هذا العلم سيتجلى في جزاء مُتناسِب تام يكافئ الخير ويُجازي الشر وفق إحاطة كاملة. ويُلاحظ القرطبي أن في هذا بُشرى للصالحين وتحذيراً للظالمين إذ يضمن العلم الإلهي تمام العدالة. ويستشهد كلا التراثين بآيات قرآنية كثيرة وأحاديث نبوية في تأكيد علم الله الشامل ودوره في القضاء. ويُشدِّد علماء الشيعة على تعاليم أهل البيت عليهم السلام في استحضار الرقابة الإلهية ممارسةً روحية جوهرية. ويُعلِّم كلا المدرستين أن الوعي بعلم الله ينبغي أن يؤثِّر في السلوك في جميع الأحوال الظاهرة والخفية. ويستخدم علماء كلا التراثين الآية لحث المؤمنين على الإخلاص والاستقامة والثقة في عدالة الله. والإجماع التفسيري قوي في شأن كمال علم الله ودوره المركزي في مسؤولية يوم القيامة. وتختم الآية السورة ختاماً بليغاً آخذاً بالقارئ دورةً كاملة من أقسام الجهد المتوقِّد إلى إدانة الكفران إلى التذكير بالبعث حتى المُثُول بين يدي الرب العليم الخبير."
+  }
+}

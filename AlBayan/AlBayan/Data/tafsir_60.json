@@ -1,0 +1,823 @@
+{
+  "1": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:1:loyalty-test",
+          "title": "Loyalty to Allah",
+          "icon": "heart.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Believers are warned against taking enemies of Allah as allies, as this contradicts the very foundation of faith and submission to the One God.",
+          "whyItMatters": "True faith requires aligning our loyalties with Allah's guidance, not with those who reject the truth, even if they are close to us emotionally or socially.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ",
+          "title_urdu": "اللہ سے وفاداری",
+          "coreInsight_urdu": "مومنوں کو خبردار کیا گیا ہے کہ وہ اللہ کے دشمنوں کو دوست نہ بنائیں، کیونکہ یہ ایمان اور ایک خدا کے سامنے سر تسلیم خم کرنے کی بنیاد سے متصادم ہے۔",
+          "whyItMatters_urdu": "حقیقی ایمان کا تقاضا ہے کہ ہم اپنی وفاداریوں کو اللہ کی رہنمائی کے ساتھ ہم آہنگ کریں، ان لوگوں کے ساتھ نہیں جو حق کو مسترد کرتے ہیں، چاہے وہ جذباتی یا سماجی طور پر ہمارے قریب ہی کیوں نہ ہوں۔",
+          "title_ar": "الولاء لله",
+          "coreInsight_ar": "يُحذّر المؤمنون من اتخاذ أعداء الله أولياء، لأن ذلك يتناقض مع أساس الإيمان والاستسلام للإله الواحد.",
+          "whyItMatters_ar": "الإيمان الحقيقي يتطلب مواءمة ولاءاتنا مع هداية الله، وليس مع أولئك الذين يرفضون الحق، حتى لو كانوا قريبين منا عاطفيًا أو اجتماعيًا."
+        },
+        {
+          "id": "60:1:hidden-affection",
+          "title": "Secret Allegiances",
+          "icon": "eye.slash.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah knows what believers conceal and reveal, including secret affections toward those who oppose the truth - nothing is hidden from His sight.",
+          "whyItMatters": "Our inner feelings and hidden loyalties matter to Allah just as much as our outward actions; hypocrisy in allegiance leads to spiritual deviation.",
+          "position": "topRight",
+          "arabicHighlight": "تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ",
+          "title_urdu": "خفیہ وابستگی",
+          "coreInsight_urdu": "اللہ جانتا ہے کہ مومن کیا چھپاتے ہیں اور کیا ظاہر کرتے ہیں، بشمول ان لوگوں کے لیے خفیہ محبتیں جو حق کی مخالفت کرتے ہیں - کچھ بھی اس کی نظر سے پوشیدہ نہیں۔",
+          "whyItMatters_urdu": "ہمارے اندرونی جذبات اور پوشیدہ وفاداریاں اللہ کے لیے اتنی ہی اہم ہیں جتنی ہمارے ظاہری اعمال؛ وفاداری میں منافقت روحانی انحراف کی طرف لے جاتی ہے۔",
+          "title_ar": "الولاءات السرية",
+          "coreInsight_ar": "الله يعلم ما يخفي المؤمنون وما يُظهرون، بما في ذلك المودة السرية تجاه أولئك الذين يعارضون الحق - لا شيء مخفي عن بصره.",
+          "whyItMatters_ar": "مشاعرنا الداخلية وولاءاتنا المخفية تهم الله بقدر ما تهمه أفعالنا الظاهرة؛ النفاق في الولاء يؤدي إلى الانحراف الروحي."
+        },
+        {
+          "id": "60:1:exile-context",
+          "title": "Migration Sacrifice",
+          "icon": "arrow.forward",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The believers left their homes for jihad in Allah's path and seeking His pleasure - befriending those who expelled them contradicts this sacrifice.",
+          "whyItMatters": "When we make sacrifices for faith, we must guard against compromising those sacrifices through misplaced allegiances that undermine our original purpose.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِن كُنتُمْ خَرَجْتُمْ جِهَٰدًۭا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى",
+          "title_urdu": "ہجرت کی قربانی",
+          "coreInsight_urdu": "مومنوں نے اللہ کی راہ میں جہاد اور اس کی رضا کی تلاش کے لیے اپنے گھر چھوڑ دیے - ان لوگوں سے دوستی کرنا جنہوں نے انہیں نکالا اس قربانی سے متصادم ہے۔",
+          "whyItMatters_urdu": "جب ہم ایمان کے لیے قربانیاں دیتے ہیں، تو ہمیں غلط وابستگیوں کے ذریعے ان قربانیوں سے سمجھوتہ کرنے سے بچنا چاہیے جو ہمارے اصل مقصد کو کمزور کر دیتی ہیں۔",
+          "title_ar": "تضحية الهجرة",
+          "coreInsight_ar": "ترك المؤمنون ديارهم للجهاد في سبيل الله وطلبًا لرضاه - مصادقة أولئك الذين طردوهم تتناقض مع هذه التضحية.",
+          "whyItMatters_ar": "عندما نقدم تضحيات من أجل الإيمان، يجب أن نحذر من المساومة على تلك التضحيات من خلال ولاءات في غير محلها تقوض هدفنا الأصلي."
+        },
+        {
+          "id": "60:1:straying-path",
+          "title": "Lost Direction",
+          "icon": "road.lanes",
+          "colorHex": "#E57373",
+          "coreInsight": "Taking enemies as allies causes one to stray from the straight path - it's a deviation from soundness in judgment and spiritual direction.",
+          "whyItMatters": "The path to Allah is clear and straight; misplaced loyalties create confusion and lead us away from the balanced middle way of Islam.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+          "title_urdu": "گمراہ سمت",
+          "coreInsight_urdu": "دشمنوں کو دوست بنانا انسان کو سیدھے راستے سے بھٹکا دیتا ہے - یہ فیصلے میں درستگی اور روحانی سمت سے انحراف ہے۔",
+          "whyItMatters_urdu": "اللہ کی طرف راستہ واضح اور سیدھا ہے؛ غلط وفاداریاں الجھن پیدا کرتی ہیں اور ہمیں اسلام کے متوازن درمیانی راستے سے دور لے جاتی ہیں۔",
+          "title_ar": "الاتجاه الضائع",
+          "coreInsight_ar": "اتخاذ الأعداء أولياء يجعل المرء يضل عن الصراط المستقيم - إنه انحراف عن سلامة الحكم والاتجاه الروحي.",
+          "whyItMatters_ar": "الطريق إلى الله واضح ومستقيم؛ الولاءات في غير محلها تخلق الارتباك وتبعدنا عن الطريق الوسطى المتوازنة للإسلام."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the historical context of this verse relating to Hatib's letter to the Quraysh. However, there are nuanced differences in interpretation. Sunni exegetes like Ibn Kathir emphasize the incident as a lesson about the primacy of Muslim security over personal interests, while Shia scholars like Tabatabai additionally emphasize the theological principle of walaya. Sunni commentators such as Qurtubi focus on the legal implications regarding espionage and betrayal of the Muslim community, with most concluding that Hatib's previous service at Badr saved him from punishment. Shia scholars while acknowledging this, emphasize the verse's broader theological meaning about spiritual allegiance to Allah and His appointed guides. Both traditions agree that the prohibition does not prevent normal humanitarian interactions with non-Muslims who are not active enemies. Fakhr al-Din al-Razi discusses the epistemological aspect of Allah's knowledge mentioned in the verse, a point echoed in Shia philosophy. The consensus among both schools is that faith requires clear prioritization of divine commands over personal attachments, though Shia exegesis connects this more explicitly to the doctrine of Imamah.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے تاریخی پس منظر پر متفق ہیں جو حاطب کے قریش کو لکھے خط سے متعلق ہے۔ تاہم تفسیر میں کچھ لطیف اختلافات پائے جاتے ہیں۔ ابن کثیر جیسے سنی مفسرین اس واقعہ کو ذاتی مفادات پر مسلم سلامتی کی فوقیت کے سبق کے طور پر پیش کرتے ہیں جبکہ طباطبائی جیسے شیعہ علماء ولایت کے الہیاتی اصول پر بھی خصوصی توجہ دیتے ہیں۔ قرطبی جیسے سنی مفسرین جاسوسی اور مسلم معاشرے سے غداری کے قانونی مضمرات پر توجہ مرکوز کرتے ہیں اور اکثر اس نتیجے پر پہنچتے ہیں کہ بدر میں حاطب کی پیشگی خدمات نے انہیں سزا سے بچا لیا۔ شیعہ علماء اس کے اعتراف کے ساتھ ساتھ اللہ اور اس کے مقرر رہنماؤں کے ساتھ روحانی وابستگی کے بارے میں آیت کے وسیع تر الہیاتی مفہوم پر بھی زور دیتے ہیں۔ دونوں روایات متفق ہیں کہ یہ ممانعت غیر مسلموں کے ساتھ معمول کے انسانی تعاملات کو نہیں روکتی۔ فخر الدین رازی نے آیت میں مذکور الٰہی علم کے معرفتی پہلو پر گفتگو کی ہے جس کی بازگشت شیعہ فلسفے میں بھی ملتی ہے۔ دونوں مکاتب فکر کا اتفاق ہے کہ ایمان کے لیے ذاتی تعلقات پر الٰہی احکام کو واضح ترجیح دینا ضروری ہے اگرچہ شیعہ تفسیر اسے امامت کے عقیدے سے زیادہ براہِ راست جوڑتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على السياق التاريخي للآية المتعلِّق برسالة حاطب إلى قريش. غير أن ثمة فوارق دقيقة في التأويل: فعلماء السنة كابن كثير يُبرزون الحادثة بوصفها درساً في تقديم أمن المسلمين على المصلحة الشخصية، في حين يُضيف علماء الشيعة كالطباطبائي بُعداً عقدياً يتعلَّق بمبدأ الولاية. ويتناول القرطبي التبعات الفقهية المتعلِّقة بالتجسُّس والخيانة وأمن المجتمع المسلم، مُستخلِصاً أن سوابق حاطب في بدر أجارته من العقوبة. ويُقرُّ علماء الشيعة بهذا، مع إيلائهم عنايةً أكبر للمعنى العقدي الأشمل المتعلِّق بالولاء الروحي لله ومن اصطفاهم. ويتَّفق الفريقان على أن النهي لا يمنع التعاملات الإنسانية المعتادة مع غير المسلمين ممن لا يُعادون الإسلام. ويُناقش الفخر الرازي الجانب المعرفي في علم الله المذكور في الآية، وهو جانب تتناوله الفلسفة الشيعية بإسهاب. والموقف الجامع عند كلا المدرستين أن الإيمان يستوجب تقديم الأوامر الإلهية على كل ارتباط شخصي، وإن كان التفسير الشيعي يصل هذا المبدأ صراحةً بعقيدة الإمامة."
+  },
+  "2": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:2:enemy-nature",
+          "title": "True Hostility",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "If given the chance, disbelievers would show their true hostility - extending harm through actions and words, proving they are genuine enemies.",
+          "whyItMatters": "Naive trust in those fundamentally opposed to faith is dangerous; wisdom requires recognizing real threats even when current circumstances seem peaceful.",
+          "position": "topLeft",
+          "arabicHighlight": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءًۭ وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ",
+          "title_urdu": "حقیقی دشمنی",
+          "coreInsight_urdu": "اگر موقع ملے تو کافر اپنی حقیقی دشمنی ظاہر کریں گے - اعمال اور الفاظ کے ذریعے نقصان پہنچاتے ہوئے، ثابت کرتے ہوئے کہ وہ حقیقی دشمن ہیں۔",
+          "whyItMatters_urdu": "ایمان کی بنیادی مخالفت کرنے والوں پر بھولے پن سے اعتماد خطرناک ہے؛ حکمت کا تقاضا ہے کہ حقیقی خطرات کو پہچانا جائے یہاں تک کہ جب موجودہ حالات پرامن نظر آئیں۔",
+          "title_ar": "العداوة الحقيقية",
+          "coreInsight_ar": "إذا أُتيحت لهم الفرصة، سيُظهر الكافرون عداوتهم الحقيقية - ممدين الضرر من خلال الأفعال والأقوال، مثبتين أنهم أعداء حقيقيون.",
+          "whyItMatters_ar": "الثقة الساذجة في أولئك المعارضين أساسًا للإيمان خطيرة؛ الحكمة تتطلب التعرف على التهديدات الحقيقية حتى عندما تبدو الظروف الحالية سلمية."
+        },
+        {
+          "id": "60:2:hands-tongues",
+          "title": "Dual Assault",
+          "icon": "hand.raised.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The mention of both hands and tongues indicates comprehensive hostility - physical harm and verbal abuse working together against believers.",
+          "whyItMatters": "Opposition to faith manifests in multiple forms; we must be prepared for both material and psychological attacks from those who reject the truth.",
+          "position": "topRight",
+          "arabicHighlight": "أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ",
+          "title_urdu": "دوہرا حملہ",
+          "coreInsight_urdu": "ہاتھوں اور زبانوں دونوں کا ذکر جامع دشمنی کی نشاندہی کرتا ہے - جسمانی نقصان اور زبانی بدسلوکی مومنوں کے خلاف مل کر کام کرتی ہیں۔",
+          "whyItMatters_urdu": "ایمان کی مخالفت متعدد شکلوں میں ظاہر ہوتی ہے؛ ہمیں حق کو مسترد کرنے والوں کی طرف سے مادی اور نفسیاتی حملوں دونوں کے لیے تیار رہنا چاہیے۔",
+          "title_ar": "الهجوم المزدوج",
+          "coreInsight_ar": "ذكر الأيدي والألسنة يشير إلى عداء شامل - الضرر الجسدي والإساءة اللفظية يعملان معًا ضد المؤمنين.",
+          "whyItMatters_ar": "المعارضة للإيمان تتجلى في أشكال متعددة؛ يجب أن نكون مستعدين للهجمات المادية والنفسية من أولئك الذين يرفضون الحق."
+        },
+        {
+          "id": "60:2:desire-disbelief",
+          "title": "Wish for Apostasy",
+          "icon": "heart.slash.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The ultimate goal of Allah's enemies is not just political dominance but to make believers abandon their faith and disbelieve.",
+          "whyItMatters": "Understanding that opposition aims at our core beliefs helps us recognize spiritual warfare and protect our faith from subtle erosion.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+          "title_urdu": "ارتداد کی خواہش",
+          "coreInsight_urdu": "اللہ کے دشمنوں کا حتمی مقصد صرف سیاسی غلبہ نہیں بلکہ مومنوں کو اپنے ایمان سے دستبردار ہونے اور کفر کرنے پر مجبور کرنا ہے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ مخالفت کا مقصد ہمارے بنیادی عقائد ہیں، ہمیں روحانی جنگ کو پہچانے اور اپنے ایمان کو لطیف کٹاؤ سے محفوظ رکھنے میں مدد کرتا ہے۔",
+          "title_ar": "رغبة في الردة",
+          "coreInsight_ar": "الهدف النهائي لأعداء الله ليس الهيمنة السياسية فحسب، بل جعل المؤمنين يتخلون عن إيمانهم ويكفرون.",
+          "whyItMatters_ar": "فهم أن المعارضة تستهدف معتقداتنا الأساسية يساعدنا على التعرف على الحرب الروحية وحماية إيماننا من التآكل الخفي."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse as warning against trusting hostile enemies. Sunni exegetes like Tabari emphasize the historical context of Quraysh persecution and the practical wisdom of not trusting those who have demonstrated hostility. Ibn Kathir focuses on the observable behavior of enemies and the need for community security. Shia scholars share these concerns but additionally emphasize the spiritual dimension of protecting faith from corrupting influences. Qurtubi discusses the legal implications for Muslim governance in dealing with hostile forces, a discussion echoed in Shia jurisprudence. Both traditions agree that the verse does not promote hatred but rather wise caution and realistic assessment of enmity. Fakhr al-Din al-Razi explores the psychological dimension of how prolonged exposure to hostile attitudes can affect one's faith, a point developed further in Shia spiritual writings. The phrase about wishing believers to disbelieve is understood by both schools as revealing the ultimate incompatibility between committed faith and active enmity toward religion. The consensus is that while individual redemption is always possible, strategic caution is necessary when dealing with those who have demonstrated persistent hostility toward Islam and Muslims.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں کہ یہ دشمن کافروں پر اعتماد کرنے سے خبردار کرتی ہے۔ طبری جیسے سنی مفسرین قریش کے مظالم کے تاریخی پس منظر اور ان لوگوں پر اعتماد نہ کرنے کی عملی حکمت پر زور دیتے ہیں جنہوں نے دشمنی ثابت کی ہو۔ ابن کثیر دشمنوں کے قابل مشاہدہ رویے اور معاشرتی سلامتی کی ضرورت پر توجہ مرکوز کرتے ہیں۔ شیعہ علماء ان خدشات کو شریک کرتے ہیں لیکن اضافی طور پر ایمان کو فاسد اثرات سے بچانے کے روحانی پہلو پر بھی زور دیتے ہیں۔ قرطبی اسلامی حکمرانی میں دشمن قوتوں سے نمٹنے کے قانونی مضمرات پر گفتگو کرتے ہیں جس کی بازگشت شیعہ فقہ میں بھی ملتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت نفرت کو فروغ نہیں دیتی بلکہ دانشمندانہ احتیاط اور دشمنی کے حقیقت پسندانہ جائزے کی تعلیم دیتی ہے۔ فخر الدین رازی نے اس نفسیاتی پہلو کا جائزہ لیا ہے کہ دشمنی کے رویوں کے طویل عرصے تک سامنے رہنے سے انسان کے ایمان پر کیا اثر پڑ سکتا ہے اسے شیعہ روحانی تحریروں میں مزید ترقی دی گئی ہے۔ دونوں مکاتب فکر متفق ہیں کہ دشمنوں کی خواہش کہ مومن کافر ہو جائیں دین کے خلاف پختہ دشمنی اور مستقل ایمان کے درمیان بنیادی عدم مطابقت کو آشکار کرتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الجوهري لهذه الآية بوصفها تحذيراً من الثقة بالأعداء المتربِّصين. ويُركِّز علماء السنة كالطبري على السياق التاريخي لاضطهاد قريش والحكمة العملية في عدم التعوُّل على من أثبت عدواءه. ويُركِّز ابن كثير على السلوك الظاهر للأعداء وضرورة أمن الأمة. ويُشارك علماء الشيعة هذه المخاوف مع إيلاء عناية أكبر للبُعد الروحي المتعلِّق بصون الإيمان من المؤثِّرات المُفسِدة. ويتناول القرطبي التبعات الفقهية للتعامل مع القوى المعادية في السياسة الإسلامية، وهو نقاش يتوازى مع اجتهادات الفقه الشيعي. ويتَّفق الفريقان على أن الآية لا تدعو إلى الكراهية بل إلى الحيطة المبنيَّة على التقدير الواقعي للعداء. ويُحلِّل الفخر الرازي الأبعاد النفسية لأثر التعرُّض المطوَّل للمواقف المعادية في الإيمان، وهو جانبٌ تتناوله الكتابات الروحية الشيعية بعمق أكبر. والتوافق قائمٌ بين المدرستين على أن الآية تدعو إلى الحيطة الرشيدة لا إلى العزلة، وأن صون الإيمان غايةٌ قائمة بذاتها تستحق الجهد والمثابرة."
+  },
+  "3": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:3:family-bonds-break",
+          "title": "Severed Ties",
+          "icon": "link.circle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "On the Day of Resurrection, family relationships and children will provide no benefit - Allah will judge between people regardless of worldly connections.",
+          "whyItMatters": "While we honor family in this life, ultimate success depends on our relationship with Allah, not our lineage or descendants.",
+          "position": "topLeft",
+          "arabicHighlight": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ ۚ يَوْمَ ٱلْقِيَٰمَةِ",
+          "title_urdu": "ٹوٹے ہوئے رشتے",
+          "coreInsight_urdu": "قیامت کے دن، خاندانی رشتے اور بچے کوئی فائدہ نہیں دیں گے - اللہ لوگوں کے درمیان دنیاوی تعلقات سے قطع نظر فیصلہ کرے گا۔",
+          "whyItMatters_urdu": "اگرچہ ہم اس زندگی میں خاندان کا احترام کرتے ہیں، حتمی کامیابی کا انحصار اللہ کے ساتھ ہمارے تعلق پر ہے، نہ کہ ہمارے نسب یا اولاد پر۔",
+          "title_ar": "الروابط المقطوعة",
+          "coreInsight_ar": "في يوم القيامة، لن توفر العلاقات العائلية والأولاد أي فائدة - سيحكم الله بين الناس بغض النظر عن الروابط الدنيوية.",
+          "whyItMatters_ar": "بينما نحترم العائلة في هذه الحياة، يعتمد النجاح النهائي على علاقتنا مع الله، وليس على نسبنا أو نسلنا."
+        },
+        {
+          "id": "60:3:divine-separation",
+          "title": "Final Judgment",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah will separate people based on their deeds and faith, not their family affiliations - each soul stands alone before divine justice.",
+          "whyItMatters": "This verse reminds us to prioritize our personal accountability to Allah over relying on family connections for salvation.",
+          "position": "topRight",
+          "arabicHighlight": "يَفْصِلُ بَيْنَكُمْ",
+          "title_urdu": "حتمی فیصلہ",
+          "coreInsight_urdu": "اللہ لوگوں کو ان کے اعمال اور ایمان کی بنیاد پر الگ کرے گا، نہ کہ ان کی خاندانی وابستگی کی بنیاد پر - ہر روح الہی انصاف کے سامنے اکیلی کھڑی ہے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں یاد دلاتی ہے کہ نجات کے لیے خاندانی تعلقات پر انحصار کرنے کی بجائے اللہ کے سامنے اپنی ذاتی جوابدہی کو ترجیح دیں۔",
+          "title_ar": "الحكم النهائي",
+          "coreInsight_ar": "سيفصل الله الناس بناءً على أعمالهم وإيمانهم، وليس على انتماءاتهم العائلية - كل روح تقف وحدها أمام العدالة الإلهية.",
+          "whyItMatters_ar": "تذكرنا هذه الآية بإعطاء الأولوية لمساءلتنا الشخصية أمام الله على الاعتماد على الروابط العائلية للخلاص."
+        },
+        {
+          "id": "60:3:divine-sight",
+          "title": "All-Seeing Lord",
+          "icon": "eye.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah sees all that we do - nothing escapes His observation, making accountability on Judgment Day perfectly just and comprehensive.",
+          "whyItMatters": "Knowing that Allah sees everything should guide our choices in this life, especially when deciding between family loyalty and divine obedience.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+          "title_urdu": "سب کچھ دیکھنے والا رب",
+          "coreInsight_urdu": "اللہ سب کچھ دیکھتا ہے جو ہم کرتے ہیں - کچھ بھی اس کی نظر سے نہیں بچتا، قیامت کے دن جوابدہی کو بالکل منصفانہ اور جامع بناتا ہے۔",
+          "whyItMatters_urdu": "یہ جاننا کہ اللہ سب کچھ دیکھتا ہے ہماری زندگی میں ہمارے انتخاب کی رہنمائی کرنا چاہیے، خاص طور پر جب خاندانی وفاداری اور الہی فرمانبرداری کے درمیان فیصلہ کرتے وقت۔",
+          "title_ar": "الرب المبصر",
+          "coreInsight_ar": "الله يرى كل ما نفعله - لا شيء يفلت من مراقبته، مما يجعل المساءلة في يوم القيامة عادلة وشاملة تمامًا.",
+          "whyItMatters_ar": "معرفة أن الله يرى كل شيء يجب أن توجه اختياراتنا في هذه الحياة، خاصة عند الاختيار بين الولاء العائلي والطاعة الإلهية."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental message of this verse regarding the Day of Judgment. Sunni exegetes like Ibn Kathir emphasize that worldly relationships will provide no intercession or benefit unless accompanied by faith and righteous deeds. Tabari discusses how this verse provides consolation to believers who face family opposition for their faith, assuring them that divine justice will prevail. Shia scholars share this interpretation while particularly emphasizing the concept of intercession through Ahlul Bayt, teaching that spiritual connection to the pure family of the Prophet is the relationship that benefits in the hereafter. Qurtubi explores the legal implications regarding family obligations in Islamic law, noting that fulfilling family duties is commanded but never at the expense of core religious principles, a view shared across both schools. Fakhr al-Din al-Razi discusses the theological implications of divine judgment, emphasizing Allah's perfect justice and knowledge. Both traditions agree that the verse establishes the principle of individual accountability while acknowledging that righteous families may be reunited in Paradise. The consensus is that while Islam honors family relationships and commands maintaining family ties, ultimate loyalty belongs to Allah, and family should never become an obstacle to faith or righteous living.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء قیامت کے روز کے بارے میں اس آیت کے بنیادی پیغام پر متفق ہیں۔ ابن کثیر جیسے سنی مفسرین اس بات پر زور دیتے ہیں کہ دنیاوی رشتے ایمان اور نیک اعمال کے بغیر کوئی شفاعت یا فائدہ نہیں دیں گے۔ طبری اس بات پر گفتگو کرتے ہیں کہ یہ آیت ان مومنوں کو تسلی دیتی ہے جنہیں اپنے ایمان کی وجہ سے خاندانی مخالفت کا سامنا ہے اور انہیں یقین دلاتی ہے کہ الٰہی عدل غالب رہے گا۔ شیعہ علماء اس تفسیر کو شریک کرتے ہیں جبکہ نبی کے پاک خاندان کے ذریعے شفاعت کے تصور پر خصوصی زور دیتے ہیں اور تعلیم دیتے ہیں کہ یہی وہ رشتہ ہے جو آخرت میں کام آتا ہے۔ قرطبی اسلامی قانون میں خاندانی ذمہ داریوں کے قانونی مضمرات کا جائزہ لیتے ہیں اور نوٹ کرتے ہیں کہ خاندانی فرائض ادا کرنا حکم ہے لیکن کبھی دینی اصولوں کی قیمت پر نہیں اور یہ نقطہ نظر دونوں مکاتب میں مشترک ہے۔ فخر الدین رازی الٰہی فیصلے کے الہیاتی مضمرات پر گفتگو کرتے ہیں اور اللہ کے کامل عدل اور علم پر زور دیتے ہیں۔ دونوں روایات اس بات پر متفق ہیں کہ آیت انفرادی جوابدہی کے اصول کو قائم کرتی ہے جبکہ اس بات کو بھی تسلیم کرتی ہے کہ نیک خاندان جنت میں ایک ساتھ ہو سکتے ہیں اور اتفاقِ رائے ہے کہ اسلام خاندانی رشتوں کو عزت دیتا ہے لیکن حتمی وفاداری اللہ کے ساتھ ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على الرسالة الجوهرية للآية المتعلِّقة بيوم الجزاء. ويُؤكِّد علماء السنة كابن كثير أن العلاقات الدنيوية لن تُقدِّم شفاعةً ولا نفعاً ما لم تصحبها الإيمان والعمل الصالح. ويتناول الطبري كيف تُعزِّي هذه الآية المؤمنين الذين يواجهون معارضةً أسريةً من أجل إيمانهم، مُطمئنةً إياهم أن العدالة الإلهية ستُقام. ويُشارك علماء الشيعة هذا التفسير مع التأكيد الخاص على مفهوم الشفاعة عبر أهل البيت، إذ إن الصلة الروحية بالأسرة النبوية الطاهرة هي الرابطة التي تنفع في الآخرة. ويُناقش القرطبي التبعات الفقهية المتعلِّقة بالواجبات الأسرية في الشريعة، مُقرِّراً أن أداء هذه الواجبات مأمورٌ به لكن لا على حساب الأسس الدينية، وهو موقفٌ مشترك بين المدرستين. ويتناول الفخر الرازي الأبعاد العقدية لحكم الله، مُؤكِّداً عدله التام وعلمه الشامل. ويتَّفق الفريقان على أن الآية تُكرِّس مبدأ المسؤولية الفردية، مُقرِّرةً أن الأسر الصالحة قد تتلاقى في الجنة، وأن الولاء المطلق لله وحده هو الحقيقة الجامعة."
+  },
+  "4": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:4:ibrahim-example",
+          "title": "Abraham's Model",
+          "icon": "star.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Prophet Ibrahim and his followers provide an excellent example of declaring complete disassociation from idolatry and maintaining enmity until faith in One God is accepted.",
+          "whyItMatters": "Following the prophetic example means being willing to break with our people when they persist in rejecting truth and worshiping false deities.",
+          "position": "topLeft",
+          "arabicHighlight": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ",
+          "title_urdu": "ابراہیم کا نمونہ",
+          "coreInsight_urdu": "نبی ابراہیم اور ان کے پیروکار بت پرستی سے مکمل علیحدگی کا اعلان کرنے اور ایک خدا پر ایمان قبول ہونے تک دشمنی برقرار رکھنے کی بہترین مثال فراہم کرتے ہیں۔",
+          "whyItMatters_urdu": "نبوی مثال کی پیروی کا مطلب ہے اپنے لوگوں سے الگ ہونے کے لیے تیار رہنا جب وہ حق کو مسترد کرنے اور جھوٹے معبودوں کی عبادت میں برقرار رہیں۔",
+          "title_ar": "نموذج إبراهيم",
+          "coreInsight_ar": "يقدم النبي إبراهيم وأتباعه مثالاً ممتازًا للإعلان عن التبرؤ التام من الشرك والحفاظ على العداوة حتى يُقبل الإيمان بإله واحد.",
+          "whyItMatters_ar": "اتباع المثال النبوي يعني الاستعداد للانفصال عن قومنا عندما يستمرون في رفض الحق وعبادة الآلهة الكاذبة."
+        },
+        {
+          "id": "60:4:disavowal-declaration",
+          "title": "Clear Rejection",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Ibrahim declared total rejection of his people and their idols, establishing clear boundaries between monotheism and polytheism with no compromise.",
+          "whyItMatters": "True tawhid requires explicit rejection of shirk; we cannot maintain ambiguous positions on fundamental matters of faith and worship.",
+          "position": "topRight",
+          "arabicHighlight": "إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ",
+          "title_urdu": "واضح انکار",
+          "coreInsight_urdu": "ابراہیم نے اپنے لوگوں اور ان کے بتوں کی مکمل تردید کا اعلان کیا، توحید اور شرک کے درمیان واضح حدود قائم کرتے ہوئے کسی سمجھوتے کے بغیر۔",
+          "whyItMatters_urdu": "حقیقی توحید شرک کی واضح تردید کا تقاضا کرتی ہے؛ ہم ایمان اور عبادت کے بنیادی معاملات پر مبہم مقامات برقرار نہیں رکھ سکتے۔",
+          "title_ar": "الرفض الواضح",
+          "coreInsight_ar": "أعلن إبراهيم الرفض التام لقومه وأصنامهم، مؤسسًا حدودًا واضحة بين التوحيد والشرك بدون تسوية.",
+          "whyItMatters_ar": "التوحيد الحقيقي يتطلب رفضًا صريحًا للشرك؛ لا يمكننا الحفاظ على مواقف غامضة بشأن المسائل الأساسية للإيمان والعبادة."
+        },
+        {
+          "id": "60:4:trust-return",
+          "title": "Reliance on Allah",
+          "icon": "heart.circle.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After declaring separation, Ibrahim and his followers affirmed complete reliance on Allah, return to Him in repentance, and acknowledgment that all return to Him.",
+          "whyItMatters": "Disassociating from falsehood must be accompanied by positive attachment to Allah through trust, repentance, and recognition of ultimate return.",
+          "position": "bottomLeft",
+          "arabicHighlight": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+          "title_urdu": "اللہ پر بھروسہ",
+          "coreInsight_urdu": "علیحدگی کا اعلان کرنے کے بعد، ابراہیم اور ان کے پیروکاروں نے اللہ پر مکمل بھروسہ، توبہ میں اس کی طرف واپسی، اور اس بات کی تصدیق کی کہ سب اس کی طرف لوٹیں گے۔",
+          "whyItMatters_urdu": "باطل سے علیحدگی کے ساتھ اعتماد، توبہ، اور حتمی واپسی کی پہچان کے ذریعے اللہ کے ساتھ مثبت منسلکیت ہونی چاہیے۔",
+          "title_ar": "التوكل على الله",
+          "coreInsight_ar": "بعد إعلان الانفصال، أكد إبراهيم وأتباعه الاعتماد الكامل على الله، والعودة إليه بالتوبة، والاعتراف بأن الجميع يعودون إليه.",
+          "whyItMatters_ar": "يجب أن يصحب التبرؤ من الباطل تعلق إيجابي بالله من خلال الثقة والتوبة والاعتراف بالعودة النهائية."
+        },
+        {
+          "id": "60:4:exception-father",
+          "title": "Ibrahim's Exception",
+          "icon": "person.fill.questionmark",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The exception noted is Ibrahim's promise to seek forgiveness for his father - a promise later discontinued when his father's rejection became final.",
+          "whyItMatters": "Even prophets navigate the tension between family bonds and faith; Ibrahim's example shows the limits of supporting those who persist in disbelief.",
+          "position": "bottomRight",
+          "arabicHighlight": "إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ",
+          "title_urdu": "ابراہیم کی استثنا",
+          "coreInsight_urdu": "جو استثنا نوٹ کی گئی وہ ابراہیم کا اپنے والد کے لیے بخشش مانگنے کا وعدہ ہے - ایک وعدہ جو بعد میں منقطع ہو گیا جب ان کے والد کا انکار حتمی ہو گیا۔",
+          "whyItMatters_urdu": "یہاں تک کہ انبیاء بھی خاندانی بندھنوں اور ایمان کے درمیان تناؤ سے نمٹتے ہیں؛ ابراہیم کی مثال ان لوگوں کی حمایت کی حدود کو ظاہر کرتی ہے جو کفر میں برقرار رہتے ہیں۔",
+          "title_ar": "استثناء إبراهيم",
+          "coreInsight_ar": "الاستثناء المذكور هو وعد إبراهيم بطلب المغفرة لأبيه - وعد توقف لاحقًا عندما أصبح رفض أبيه نهائيًا.",
+          "whyItMatters_ar": "حتى الأنبياء يتعاملون مع التوتر بين الروابط العائلية والإيمان؛ مثال إبراهيم يظهر حدود دعم أولئك الذين يستمرون في الكفر."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars regard Ibrahim as the father of monotheistic faith and an exemplar for believers. Sunni exegetes like Ibn Kathir provide detailed narratives of Ibrahim's confrontation with his people and his father, emphasizing his courage and commitment to tawhid. Tabari discusses the theological significance of Ibrahim's disassociation from polytheism as establishing the principle that faith requires clear distinction from unbelief. Shia scholars share these interpretations while additionally connecting Ibrahim's legacy specifically to the line of Prophethood culminating in Muhammad and the Imams of Ahlul Bayt. Qurtubi explores the legal implications of the exception regarding Ibrahim's father, with both schools agreeing that Muslims should not pray for forgiveness for deceased polytheists. Fakhr al-Din al-Razi discusses the philosophical aspects of Ibrahim's argument against polytheism, a discussion echoed in Shia theological writings. Both traditions emphasize that the required disassociation is from false beliefs and practices, not from humanitarian engagement with people. The consensus is that Ibrahim's example teaches firmness in monotheism, courage in faith, and complete reliance on Allah while maintaining human compassion within proper bounds. Both schools use this verse to support the principle that ultimate loyalty belongs to Allah above all worldly relationships.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء ابراہیم کو توحیدی ایمان کا باپ اور مومنوں کے لیے نمونہ مانتے ہیں۔ ابن کثیر جیسے سنی مفسرین ابراہیم کی اپنی قوم اور والد کے ساتھ مواجہت کی تفصیلی روایات فراہم کرتے ہیں اور ان کی شجاعت اور توحید کے ساتھ وابستگی پر زور دیتے ہیں۔ طبری شرک سے ابراہیم کی برائت کی الہیاتی اہمیت پر گفتگو کرتے ہیں اور یہ اصول قائم کرتے ہیں کہ ایمان کے لیے کفر سے واضح امتیاز ضروری ہے۔ شیعہ علماء ان تفسیروں کو شریک کرتے ہیں جبکہ ابراہیم کی میراث کو خاص طور پر نبوت کے اس سلسلے سے جوڑتے ہیں جو محمد صلی اللہ علیہ وآلہ وسلم اور اہلِ بیت کے آئمہ پر ختم ہوتا ہے۔ قرطبی ابراہیم کے والد کے بارے میں استثنا کے قانونی مضمرات کا جائزہ لیتے ہیں اور دونوں مکاتب فکر اس بات پر متفق ہیں کہ مسلمان مرے ہوئے مشرکین کے لیے بخشش کی دعا نہیں کر سکتے۔ فخر الدین رازی شرک کے خلاف ابراہیم کے دلیل کے فلسفیانہ پہلوؤں کا جائزہ لیتے ہیں جس کی بازگشت شیعہ الہیاتی تحریروں میں ملتی ہے۔ دونوں روایات اس بات پر زور دیتے ہیں کہ مطلوبہ برائت غلط عقائد اور طریقوں سے ہے لوگوں کے ساتھ انسانی مشغولیت سے نہیں اور اتفاقِ رائے ہے کہ ابراہیم کی مثال توحید میں پختگی، ایمان میں شجاعت اور اللہ پر مکمل توکل کی تعلیم دیتی ہے جبکہ مناسب حدود میں انسانی ہمدردی کو برقرار رکھا جائے۔",
+    "layer4_ar": "يعتبر علماء الشيعة والسنة إبراهيم عليه السلام أبا الإيمان التوحيدي وأسوةً للمؤمنين. ويُقدِّم علماء السنة كابن كثير روايات مفصَّلة عن مواجهة إبراهيم لقومه وأبيه، مُبرِزين شجاعته وإخلاصه للتوحيد. ويتناول الطبري دلالة انفصال إبراهيم عن الشرك من الناحية العقدية بوصفه تأسيساً لمبدأ الفصل الضروري بين الإيمان والكفر. ويُشارك علماء الشيعة هذه التفسيرات مع ربط إرث إبراهيم صراحةً بخطِّ النبوَّة المنتهي بمحمد صلى الله عليه وآله وسلم وأئمة أهل البيت. ويتناول القرطبي التبعات الفقهية للاستثناء المتعلِّق بأبي إبراهيم، ويتَّفق الفريقان على أنه لا يجوز للمسلمين الاستغفار للمشركين بعد وفاتهم. ويتناول الفخر الرازي الأبعاد الفلسفية في حجج إبراهيم ضد الشرك بحثاً يتوازى مع الكتابات العقدية الشيعية. ويُؤكِّد الفريقان أن البراءة المطلوبة تنصبُّ على العقائد والممارسات الباطلة لا على التعامل الإنساني الراقي مع الناس. والتوافق قائمٌ على أن نموذج إبراهيم يُعلِّم الثبات في التوحيد والشجاعة في الإيمان والتوكُّل الكامل على الله مع صون الرحمة الإنسانية في حدودها المشروعة."
+  },
+  "5": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:5:trial-prevention",
+          "title": "Protected from Tests",
+          "icon": "shield.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "The believers prayed not to be made a trial or temptation for the disbelievers - asking Allah to protect them from defeat that would validate falsehood.",
+          "whyItMatters": "Our success or failure can influence others' faith; we ask Allah to prevent our downfall from becoming a reason for others to reject truth.",
+          "position": "topLeft",
+          "arabicHighlight": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟",
+          "title_urdu": "آزمائشوں سے محفوظ",
+          "coreInsight_urdu": "مومنوں نے دعا کی کہ وہ کافروں کے لیے آزمائش یا فتنہ نہ بنائے جائیں - اللہ سے کہا کہ انہیں اس شکست سے بچائے جو باطل کی تصدیق کرے۔",
+          "whyItMatters_urdu": "ہماری کامیابی یا ناکامی دوسروں کے ایمان کو متاثر کر سکتی ہے؛ ہم اللہ سے کہتے ہیں کہ ہمارے زوال کو دوسروں کے لیے حق کو مسترد کرنے کی وجہ بننے سے روکے۔",
+          "title_ar": "محميون من الفتن",
+          "coreInsight_ar": "صلى المؤمنون ألا يُجعلوا فتنة أو إغراء للكافرين - طالبين من الله حمايتهم من الهزيمة التي تصادق على الباطل.",
+          "whyItMatters_ar": "نجاحنا أو فشلنا يمكن أن يؤثر على إيمان الآخرين؛ نطلب من الله منع سقوطنا من أن يصبح سببًا للآخرين لرفض الحق."
+        },
+        {
+          "id": "60:5:forgiveness-plea",
+          "title": "Seeking Forgiveness",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Along with protection from being a trial, believers immediately ask for forgiveness - recognizing their own shortcomings despite their faith.",
+          "whyItMatters": "Even when taking principled stands, believers maintain humility and awareness of their need for Allah's forgiveness and mercy.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱغْفِرْ لَنَا رَبَّنَآ",
+          "title_urdu": "بخشش کی طلب",
+          "coreInsight_urdu": "آزمائش بننے سے تحفظ کے ساتھ، مومن فوری طور پر بخشش مانگتے ہیں - اپنے ایمان کے باوجود اپنی کوتاہیوں کو تسلیم کرتے ہوئے۔",
+          "whyItMatters_urdu": "یہاں تک کہ اصولی موقف اختیار کرتے وقت بھی، مومن عاجزی اور اللہ کی بخشش اور رحمت کی ضرورت کے بارے میں آگاہی برقرار رکھتے ہیں۔",
+          "title_ar": "طلب المغفرة",
+          "coreInsight_ar": "إلى جانب الحماية من أن يكونوا فتنة، يطلب المؤمنون على الفور المغفرة - معترفين بأوجه قصورهم رغم إيمانهم.",
+          "whyItMatters_ar": "حتى عند اتخاذ مواقف مبدئية، يحافظ المؤمنون على التواضع والوعي بحاجتهم لمغفرة الله ورحمته."
+        },
+        {
+          "id": "60:5:mighty-wise",
+          "title": "Divine Attributes",
+          "icon": "crown.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The prayer concludes by affirming Allah as the Exalted in Might and the Wise - combining power to grant victory with wisdom in His decisions.",
+          "whyItMatters": "Understanding that Allah is both powerful and wise gives us confidence that He will protect and guide us in the best manner.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          "title_urdu": "الہی صفات",
+          "coreInsight_urdu": "دعا اللہ کو عزت والا اور حکیم کے طور پر تسلیم کرتے ہوئے ختم ہوتی ہے - فتح دینے کی طاقت کو اپنے فیصلوں میں حکمت کے ساتھ ملاتے ہوئے۔",
+          "whyItMatters_urdu": "یہ سمجھنا کہ اللہ طاقتور اور حکیم دونوں ہے ہمیں اعتماد دیتا ہے کہ وہ بہترین طریقے سے ہماری حفاظت اور رہنمائی کرے گا۔",
+          "title_ar": "الصفات الإلهية",
+          "coreInsight_ar": "تختتم الدعاء بتأكيد أن الله العزيز الحكيم - جامعًا بين القوة لمنح النصر والحكمة في قراراته.",
+          "whyItMatters_ar": "فهم أن الله قوي وحكيم يعطينا الثقة بأنه سيحمينا ويرشدنا بأفضل طريقة."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars appreciate this supplication as a model of humble faith and concern for others. Sunni exegetes like Ibn Kathir explain the various ways believers might become a fitnah for disbelievers, including through defeat that seems to vindicate falsehood or through persecution that tests faith. Tabari emphasizes the believers' concern for the disbelievers' spiritual state, not wanting them to be further led astray by misinterpreting events. Shia scholars share these interpretations while additionally emphasizing the concept that believers should live in such a way that their example attracts others to truth rather than repelling them. Qurtubi discusses the theological implications of seeking forgiveness alongside seeking protection, with both schools teaching that righteousness does not eliminate the need for divine mercy. Fakhr al-Din al-Razi explores the divine attributes of Might and Wisdom mentioned in the verse, discussing how they complement each other, a discussion echoed in Shia theological writings. Both traditions agree that this supplication teaches believers to care about their witness to faith, to seek constant forgiveness, and to trust in Allah's perfect combination of power and wisdom. The consensus is that believers should be concerned not only with their own salvation but with how their lives and circumstances affect others' perception of truth.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس دعا کی تعریف ایک ایسے نمونے کے طور پر کرتے ہیں جو عاجزانہ ایمان اور دوسروں کی فکر کا اظہار ہے۔ ابن کثیر جیسے سنی مفسرین ان مختلف طریقوں کی وضاحت کرتے ہیں جن سے مومن کافروں کے لیے فتنہ بن سکتے ہیں جن میں شکست بھی شامل ہے جو باطل کو درست دکھائے یا وہ ظلم جو ایمان کو آزماتا ہو۔ طبری مومنوں کی اس فکر پر زور دیتے ہیں کہ وہ دشمنوں کی روحانی حالت کے بارے میں بھی سوچتے ہیں اور نہیں چاہتے کہ وہ واقعات کی غلط تعبیر سے مزید گمراہ ہوں۔ شیعہ علماء ان تفسیروں کو شریک کرتے ہیں جبکہ اضافی طور پر اس اصول پر زور دیتے ہیں کہ مومنوں کو اس طرح جینا چاہیے کہ ان کی مثال دوسروں کو حق کی طرف راغب کرے نہ کہ دور کرے۔ قرطبی حفاظت مانگنے کے ساتھ ساتھ بخشش مانگنے کے الہیاتی مضمرات پر گفتگو کرتے ہیں اور دونوں مکاتب فکر یہ تعلیم دیتے ہیں کہ نیکی الٰہی رحمت کی ضرورت کو ختم نہیں کرتی۔ فخر الدین رازی آیت میں مذکور الٰہی صفات قدرت اور حکمت کی کھوج کرتے ہیں اور اس بات پر گفتگو کرتے ہیں کہ وہ ایک دوسرے کی تکمیل کیسے کرتی ہیں جس کی بازگشت شیعہ الہیاتی تحریروں میں ملتی ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ دعا مومنوں کو اپنی ایمان کی گواہی کی فکر کرنے، مستقل بخشش مانگنے اور اللہ کے کامل مجموعہ قدرت اور حکمت پر اعتماد کرنے کی تعلیم دیتی ہے۔",
+    "layer4_ar": "يُقدِّر علماء الشيعة والسنة هذا الدعاء بوصفه نموذجاً للإيمان المتواضع والاهتمام الصادق بالآخرين. ويُفسِّر علماء السنة كابن كثير الطرق المتعدِّدة التي قد يكون فيها المؤمنون فتنةً للكافرين، كالهزيمة التي تبدو تصديقاً للباطل أو الاضطهاد الذي يُمتحن به الإيمان. ويُؤكِّد الطبري اهتمام المؤمنين بالحال الروحية للكافرين إذ لا يريدون لهم مزيد الضلال بسوء تأويل الأحداث. ويُشارك علماء الشيعة هذه التفسيرات مع التأكيد الإضافي على مبدأ أن يعيش المؤمنون بأسلوبٍ يجذب الآخرين إلى الحق لا ينفِّرهم منه. ويتناول القرطبي التبعات العقدية للجمع بين طلب الحماية وطلب المغفرة، ويتَّفق الفريقان على أن الصلاح لا يُلغي الحاجة إلى الرحمة الإلهية. ويُناقش الفخر الرازي صفتي القدرة والحكمة الإلهيتين، مبيِّناً كيف تتكاملان، وهو نقاشٌ يتوازى مع الكتابات العقدية الشيعية. ويتَّفق الفريقان على أن الآية تُعلِّم المؤمنين الاهتمام بشهادتهم للحق، ومداومة طلب المغفرة، والثقة بجمع الله بين القدرة والحكمة. والتوافق قائمٌ على أن على المؤمنين الاهتمام لا بخلاصهم وحسب بل بأثر حياتهم وأحوالهم على نظرة الآخرين إلى الحق والإسلام."
+  },
+  "6": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:6:excellent-pattern",
+          "title": "Prophetic Example",
+          "icon": "star.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The prophets and righteous believers provide an excellent pattern for those who hope in Allah and the Last Day - a model of principled faith.",
+          "whyItMatters": "Following prophetic examples is not optional but essential for those who truly believe in accountability and seek success in the Hereafter.",
+          "position": "topLeft",
+          "arabicHighlight": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ",
+          "title_urdu": "نبوی مثال",
+          "coreInsight_urdu": "انبیاء اور نیک مومن ان لوگوں کے لیے بہترین نمونہ فراہم کرتے ہیں جو اللہ اور آخرت کے دن کی امید رکھتے ہیں - اصولی ایمان کا ماڈل۔",
+          "whyItMatters_urdu": "نبوی مثالوں کی پیروی اختیاری نہیں بلکہ ان لوگوں کے لیے ضروری ہے جو واقعی جوابدہی پر یقین رکھتے ہیں اور آخرت میں کامیابی چاہتے ہیں۔",
+          "title_ar": "المثال النبوي",
+          "coreInsight_ar": "يقدم الأنبياء والمؤمنون الصالحون نمطًا ممتازًا لمن يرجو الله واليوم الآخر - نموذج من الإيمان المبدئي.",
+          "whyItMatters_ar": "اتباع الأمثلة النبوية ليس اختياريًا بل ضروري لأولئك الذين يؤمنون حقًا بالمساءلة ويسعون للنجاح في الآخرة."
+        },
+        {
+          "id": "60:6:allah-self-sufficient",
+          "title": "Independent Lord",
+          "icon": "infinity.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is completely self-sufficient and free of all needs - whoever turns away from His guidance harms only themselves, not Allah.",
+          "whyItMatters": "Allah's independence means our worship benefits us, not Him; rejecting His path only leads to our own loss and regret.",
+          "position": "topRight",
+          "arabicHighlight": "وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ",
+          "title_urdu": "خود مختار رب",
+          "coreInsight_urdu": "اللہ مکمل طور پر خود کفیل ہے اور تمام ضرورتوں سے آزاد ہے - جو بھی اس کی رہنمائی سے منہ موڑتا ہے صرف خود کو نقصان پہنچاتا ہے، اللہ کو نہیں۔",
+          "whyItMatters_urdu": "اللہ کی خود کفالت کا مطلب ہے کہ ہماری عبادت ہمیں فائدہ پہنچاتی ہے، اسے نہیں؛ اس کے راستے کو مسترد کرنا صرف ہمارے اپنے نقصان اور افسوس کی طرف لے جاتا ہے۔",
+          "title_ar": "الرب المستقل",
+          "coreInsight_ar": "الله مكتفٍ تمامًا بذاته وخالٍ من جميع الحاجات - من يتولى عن هداه يضر نفسه فقط، وليس الله.",
+          "whyItMatters_ar": "استقلالية الله تعني أن عبادتنا تنفعنا، وليس هو؛ رفض طريقه يؤدي فقط إلى خسارتنا وندمنا."
+        },
+        {
+          "id": "60:6:praiseworthy",
+          "title": "Worthy of Praise",
+          "icon": "hands.clap.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah is praiseworthy in all circumstances - His attributes and actions deserve gratitude regardless of whether people acknowledge them.",
+          "whyItMatters": "Allah's inherent worthiness of praise is independent of our recognition; we should praise Him not to benefit Him but because He truly deserves it.",
+          "position": "bottomLeft",
+          "arabicHighlight": "ٱلْحَمِيدُ",
+          "title_urdu": "تعریف کے لائق",
+          "coreInsight_urdu": "اللہ ہر حالت میں قابل تعریف ہے - اس کی صفات اور اعمال شکر کے مستحق ہیں قطع نظر اس سے کہ لوگ انہیں تسلیم کریں یا نہیں۔",
+          "whyItMatters_urdu": "اللہ کی تعریف کی لائقیت ہماری پہچان سے آزاد ہے؛ ہمیں اس کی تعریف اسے فائدہ پہنچانے کے لیے نہیں بلکہ اس لیے کرنی چاہیے کہ وہ واقعی اس کا مستحق ہے۔",
+          "title_ar": "المستحق للحمد",
+          "coreInsight_ar": "الله محمود في جميع الظروف - صفاته وأفعاله تستحق الشكر بغض النظر عما إذا كان الناس يعترفون بها.",
+          "whyItMatters_ar": "استحقاق الله الجوهري للحمد مستقل عن اعترافنا؛ يجب أن نحمده ليس لفائدته بل لأنه يستحق ذلك حقًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental message of this verse regarding Ibrahim as an exemplar and the importance of faith in the Last Day. Sunni exegetes like Ibn Kathir emphasize that hope in Allah and the Last Day distinguishes true believers from those oriented purely toward worldly concerns. Tabari discusses how this verse provides encouragement to believers and warning to those who reject guidance. Shia scholars share these interpretations while particularly emphasizing the continuation of Ibrahim's legacy through the Prophet Muhammad and Ahlul Bayt. Qurtubi explores the theological implications of Allah being described as Self-Sufficient and Praiseworthy, with both schools teaching that these attributes establish the proper relationship between Creator and creation: worship as grateful response to unneeded divine generosity. Fakhr al-Din al-Razi discusses the philosophical aspects of divine self-sufficiency, emphasizing that Allah's perfection is independent of creation, a concept central to both Sunni and Shia theology. Both traditions emphasize that the verse combats both arrogance in believers and despair about those who reject faith. The consensus is that Ibrahim's example is particularly relevant for those who prioritize eternal over temporal concerns, that Allah's self-sufficiency means faith benefits the believer rather than God, and that those who turn away harm only themselves.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کے بنیادی پیغام پر متفق ہیں کہ حضرت ابراہیم علیہ السلام ایک نمونہ ہیں اور یوم آخرت پر ایمان رکھنا ضروری ہے۔ سنی مفسرین، جیسے ابن کثیر رحمۃ اللہ علیہ، اس بات پر زور دیتے ہیں کہ اللہ اور آخرت پر امید رکھنا ان مومنوں کو ممتاز کرتا ہے جن کے فیصلے خالص دنیاوی خیالات کی بجائے ایمان پر مبنی ہوتے ہیں۔ طبری رحمۃ اللہ علیہ نے بتایا کہ یہ آیت مومنوں کے لیے حوصلہ افزائی اور رہنمائی رد کرنے والوں کے لیے تنبیہ فراہم کرتی ہے۔ شیعہ علماء ان تفسیروں کو قبول کرتے ہیں اور خاص طور پر اس بات پر زور دیتے ہیں کہ حضرت ابراہیم علیہ السلام کا سلسلہ حضرت محمد صلی اللہ علیہ وآلہ وسلم اور اہل بیت علیہم السلام کے اماموں تک جاری رہا۔ قرطبی رحمۃ اللہ علیہ نے الہی صفات غنی اور حمید کے الہیاتی مفاہیم پر بحث کی، اور دونوں مکاتب اس بات پر متفق ہیں کہ یہ صفات خالق اور مخلوق کے درمیان صحیح تعلق کو قائم کرتی ہیں: عبادت اللہ تعالیٰ کی بے نیاز سخاوت کا شکرانہ ہے نہ کہ کسی الہی ضرورت کی تکمیل۔ فخر الدین رازی رحمۃ اللہ علیہ نے الہی اکتفا کے فلسفیانہ پہلوؤں پر بحث کی، اس بات پر زور دیتے ہوئے کہ اللہ کا کمال مخلوق سے آزاد ہے، یہ ایک تصور ہے جو سنی اور شیعہ دونوں الہیات میں مرکزی حیثیت رکھتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ یہ آیت ایمانداروں میں تکبر اور مایوسی دونوں سے مقابلہ کرتی ہے۔ اجماع یہ ہے کہ حضرت ابراہیم علیہ السلام کا نمونہ ان لوگوں کے لیے خاص طور پر متعلقہ ہے جو دنیاوی مصالح پر ابدی کو ترجیح دیتے ہیں، کہ اللہ کی غنا کا مطلب یہ ہے کہ ایمان مومن کو فائدہ دیتا ہے نہ کہ خدا کو، اور جو منہ موڑتے ہیں وہ صرف اپنا نقصان کرتے ہیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على الرسالة الجوهرية لهذه الآية في التأكيد على أسوة إبراهيم عليه السلام وعلى أن الله غنيٌّ حميدٌ لا تنقصه طاعة ولا تضرُّه معصية. ويُؤكِّد ابن كثير أن الرجاء في الله واليوم الآخر هو معيار التمييز بين من يهتدي حقاً بأسوة إبراهيم عليه السلام ومن يبقى أسير الحسابات الدنيوية. ويناقش الطبري أثر هذه الآية في تثبيت المؤمنين وتحذير المُعرضين. ويتَّفق العلماء الشيعة مع هذه المعاني ويُضيفون إليها التأكيد على أن إرث إبراهيم عليه السلام متواصل في النبي محمد صلى الله عليه وآله وسلم وأهل بيته عليهم السلام. ويتناول القرطبي الأبعاد العقدية في وصف الله بالغني الحميد فيُؤكِّد أن الغنى الإلهي المطلق يستوجب كون العبادة شكراً وحباً لا قضاءَ دَيْنٍ أو دفعَ ضرر، وهو مبدأٌ مشترك بين المذهبين. ويُقدِّم الفخر الرازي نقاشاً فلسفياً في معنى الغني الحميد يتقاطع نتائجه مع ما يؤكِّده الطباطبائي في كمال الذات الإلهية. ويتَّفق التقليدان على أن الآية تُعالج كلاً من الغرور الروحي والإحباط الروحي: فالمؤمن المُخلص لا يتوهَّم أن الله يحتاجه، والمُقصِّر لا يعتذر بأن الله لا يحتاج إلى طاعته. والمحصِّلة العملية لكلا التقليدين واحدة: الإيمان والالتزام لمصلحة الإنسان ذاته ولاستحقاق الجزاء العادل في اليوم الآخر."
+  },
+  "7": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:7:hope-reconciliation",
+          "title": "Future Reconciliation",
+          "icon": "heart.text.square.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah may bring affection and reconciliation between believers and those who were once enemies - divine power can transform enmity into friendship.",
+          "whyItMatters": "Even in the midst of conflict, we maintain hope in Allah's ability to change hearts and create peace where animosity once existed.",
+          "position": "topLeft",
+          "arabicHighlight": "عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةًۭ",
+          "title_urdu": "مستقبل کی مفاہمت",
+          "coreInsight_urdu": "اللہ مومنوں اور ان لوگوں کے درمیان محبت اور مفاہمت پیدا کر سکتا ہے جو کبھی دشمن تھے - الہی طاقت دشمنی کو دوستی میں بدل سکتی ہے۔",
+          "whyItMatters_urdu": "تنازع کے دوران بھی، ہم اللہ کی دلوں کو بدلنے اور امن پیدا کرنے کی صلاحیت میں امید برقرار رکھتے ہیں جہاں کبھی دشمنی موجود تھی۔",
+          "title_ar": "المصالحة المستقبلية",
+          "coreInsight_ar": "قد يجعل الله المودة والمصالحة بين المؤمنين وأولئك الذين كانوا أعداء - القوة الإلهية يمكن أن تحول العداوة إلى صداقة.",
+          "whyItMatters_ar": "حتى في خضم الصراع، نحافظ على الأمل في قدرة الله على تغيير القلوب وخلق السلام حيث كانت العداوة موجودة."
+        },
+        {
+          "id": "60:7:divine-power",
+          "title": "Allah's Capability",
+          "icon": "bolt.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Allah is fully capable of transforming any situation - no enmity is too deep, no heart too hardened for divine intervention to change.",
+          "whyItMatters": "This verse reminds us never to despair about seemingly impossible reconciliations; Allah's power transcends human limitations.",
+          "position": "topRight",
+          "arabicHighlight": "وَٱللَّهُ قَدِيرٌۭ",
+          "title_urdu": "اللہ کی قدرت",
+          "coreInsight_urdu": "اللہ کسی بھی صورتحال کو بدلنے کی مکمل صلاحیت رکھتا ہے - کوئی دشمنی اتنی گہری نہیں، کوئی دل اتنا سخت نہیں کہ الہی مداخلت اسے نہ بدل سکے۔",
+          "whyItMatters_urdu": "یہ آیت ہمیں یاد دلاتی ہے کہ بظاہر ناممکن مفاہمتوں کے بارے میں کبھی مایوس نہ ہوں؛ اللہ کی طاقت انسانی حدود سے بالاتر ہے۔",
+          "title_ar": "قدرة الله",
+          "coreInsight_ar": "الله قادر تمامًا على تحويل أي موقف - لا عداوة عميقة جدًا، ولا قلب قاسٍ جدًا على التدخل الإلهي لتغييره.",
+          "whyItMatters_ar": "تذكرنا هذه الآية بعدم اليأس أبدًا من المصالحات التي تبدو مستحيلة؛ قوة الله تتجاوز القيود البشرية."
+        },
+        {
+          "id": "60:7:forgiving-merciful",
+          "title": "Divine Forgiveness",
+          "icon": "heart.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah is Forgiving and Merciful - His capacity for pardon extends to former enemies who sincerely turn to Him in faith.",
+          "whyItMatters": "The door of repentance and reconciliation remains open; Allah's mercy can embrace even those who once fought against believers.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+          "title_urdu": "الہی بخشش",
+          "coreInsight_urdu": "اللہ بخشنے والا اور رحم کرنے والا ہے - اس کی معافی کی صلاحیت سابق دشمنوں تک پھیلی ہوئی ہے جو خلوص کے ساتھ ایمان میں اس کی طرف رجوع کرتے ہیں۔",
+          "whyItMatters_urdu": "توبہ اور مفاہمت کا دروازہ کھلا رہتا ہے؛ اللہ کی رحمت ان لوگوں کو بھی شامل کر سکتی ہے جنہوں نے کبھی مومنوں کے خلاف جنگ کی۔",
+          "title_ar": "المغفرة الإلهية",
+          "coreInsight_ar": "الله غفور رحيم - قدرته على العفو تمتد إلى الأعداء السابقين الذين يتوبون إليه بصدق في الإيمان.",
+          "whyItMatters_ar": "باب التوبة والمصالحة يبقى مفتوحًا؛ رحمة الله يمكن أن تشمل حتى أولئك الذين حاربوا المؤمنين."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the interpretation of this verse as offering hope for reconciliation with former enemies through divine grace. Sunni exegetes like Ibn Kathir provide detailed accounts of how this verse was fulfilled when many Quraysh leaders embraced Islam after the conquest of Makkah. Tabari emphasizes the historical fulfillment through marriages between Muslims and converts from former enemy families, creating bonds of affection. Shia scholars share these historical accounts while additionally emphasizing the principle's application in later Islamic history, including reconciliation after conflicts during the early Islamic period. Qurtubi discusses the legal implications for how Muslims should treat former enemies who embrace Islam, with both schools agreeing they should be welcomed and treated as full brothers in faith. Fakhr al-Din al-Razi explores the theological aspects of divine power to transform hearts, a concept emphasized equally in Shia theology. Both traditions emphasize that this verse balances the earlier warnings about maintaining boundaries with realistic hope for positive change. The consensus is that believers should combine principled opposition to wrong with openness to sincere repentance and change, should trust in Allah's power to transform seemingly impossible situations, and should imitate divine attributes of mercy and forgiveness while maintaining justice and truth.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر پر متفق ہیں کہ یہ الہی فضل کے ذریعے سابق دشمنوں سے مصالحت کی امید دیتی ہے۔ سنی مفسرین جیسے ابن کثیر رحمۃ اللہ علیہ نے تفصیلی روایات بیان کی ہیں کہ یہ آیت کیسے پوری ہوئی جب فتحِ مکہ کے بعد بہت سے قریشی سرداروں نے اسلام قبول کیا۔ طبری رحمۃ اللہ علیہ نے اس تاریخی تکمیل پر زور دیا جو سابق دشمن خاندانوں سے نکاح کے ذریعے محبت کے رشتوں کے قیام سے ہوئی۔ شیعہ علماء ان تاریخی واقعات کو تسلیم کرتے ہیں اور ساتھ ہی اس اصول کا اطلاق بعد کی اسلامی تاریخ پر بھی کرتے ہیں، بشمول ابتدائی اسلامی دور کے تنازعات کے بعد مصالحت کے۔ قرطبی رحمۃ اللہ علیہ نے اسلام قبول کرنے والے سابق دشمنوں کے ساتھ مسلمانوں کے برتاؤ کے قانونی مفاہیم بیان کیے، اور دونوں مکاتب اس بات پر متفق ہیں کہ انہیں مکمل برادرانہ معاملہ ملنا چاہیے۔ فخر الدین رازی رحمۃ اللہ علیہ نے دلوں کو بدلنے کی الہی قدرت کے الہیاتی پہلوؤں پر بحث کی، یہ ایک تصور ہے جو شیعہ الہیات میں بھی یکساں اہمیت رکھتا ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ یہ آیت پہلے کی وارننگز کو حدود برقرار رکھتے ہوئے حقیقی مثبت تبدیلی کی امید کے ساتھ متوازن کرتی ہے۔ اجماع یہ ہے کہ مومنوں کو غلط کاموں کی اصولی مخالفت کے ساتھ ساتھ سچی توبہ اور تبدیلی کے لیے کھلا ہونا چاہیے، اللہ کی قدرت پر بھروسہ رکھنا چاہیے، اور الہی رحمت و مغفرت کی صفات کو اپنانا چاہیے جبکہ انصاف اور حق کو برقرار رکھنا چاہیے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على تفسير هذه الآية بوصفها بشارةً بإمكانية المصالحة مع الأعداء السابقين بتوفيق إلهي. ويُقدِّم ابن كثير روايات تاريخية مفصَّلة عن تحقُّق هذه الآية في إسلام قادة قريش إثر الفتح. ويُبرز الطبري الوفاء التاريخي للآية من خلال المصاهرات التي نشأت بين المسلمين والمُسلمين حديثاً من أسر كانت معادية. ويتَّفق العلماء الشيعة مع هذه الروايات ويُضيفون إليها التطبيق المبدئي في سياق التاريخ الإسلامي اللاحق، بما فيه أحداث صدر الإسلام. ويناقش القرطبي الأحكام الفقهية المتعلِّقة بمعاملة الأعداء السابقين الذين اعتنقوا الإسلام، وكلا المذهبين يتَّفقان على أنهم يُستقبلون ويُعامَلون بوصفهم إخوةً في الإيمان لا يستثنيهم أي تحفُّظ. ويتناول الفخر الرازي الجانب العقدي في قدرة الله على تحويل القلوب، وهو مفهومٌ محوري في العقيدتين الشيعية والسنية معاً. ويتَّفق التقليدان على أن الآية تُوازن بين التحذيرات السابقة وبين رجاء حقيقي قائل بإمكانية التحوُّل. والخلاصة المشتركة: أن يجمع المؤمنون بين معارضة الظلم وانفتاحهم على التوبة الصادقة، وأن يثقوا بقدرة الله على صنع الحلول التي تعجز قدرة الإنسان عن تصوُّرها، وأن يُحاكوا الصفات الإلهية في المغفرة والرحمة مع الحفاظ على الحق والعدل."
+  },
+  "8": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:8:peaceful-coexistence",
+          "title": "Justice with Non-Combatants",
+          "icon": "person.2.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "Allah permits righteous and just treatment toward those who neither fight believers for their faith nor expel them from their homes.",
+          "whyItMatters": "Islam distinguishes between active enemies and peaceful non-Muslims; we are commanded to be just and kind to those who coexist peacefully.",
+          "position": "topLeft",
+          "arabicHighlight": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ",
+          "title_urdu": "پرامن بقائے باہمی",
+          "coreInsight_urdu": "اللہ ان لوگوں کے ساتھ نیک اور منصفانہ سلوک کی اجازت دیتا ہے جو نہ تو مومنوں سے ان کے ایمان کی وجہ سے لڑتے ہیں اور نہ ہی انہیں ان کے گھروں سے نکالتے ہیں۔",
+          "whyItMatters_urdu": "اسلام فعال دشمنوں اور پرامن غیر مسلموں میں فرق کرتا ہے؛ ہمیں ان لوگوں کے ساتھ منصف اور مہربان ہونے کا حکم دیا گیا ہے جو پرامن طور پر ساتھ رہتے ہیں۔",
+          "title_ar": "التعايش السلمي",
+          "coreInsight_ar": "يسمح الله بالمعاملة الصالحة والعادلة تجاه أولئك الذين لا يقاتلون المؤمنين بسبب دينهم ولا يخرجونهم من ديارهم.",
+          "whyItMatters_ar": "يميز الإسلام بين الأعداء النشطين وغير المسلمين المسالمين؛ نُؤمر بأن نكون عادلين ولطفاء مع أولئك الذين يتعايشون بسلام."
+        },
+        {
+          "id": "60:8:birr-concept",
+          "title": "Righteousness (Birr)",
+          "icon": "hand.thumbsup.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The term 'birr' (righteousness) is used for treatment of peaceful non-Muslims - the same word used for honoring parents, indicating high ethical standards.",
+          "whyItMatters": "Islam's ethical framework extends beyond Muslims; treating others righteously is a form of worship that pleases Allah.",
+          "position": "topRight",
+          "arabicHighlight": "أَن تَبَرُّوهُمْ",
+          "title_urdu": "نیکی (بر)",
+          "coreInsight_urdu": "لفظ 'بر' (نیکی) پرامن غیر مسلموں کے ساتھ سلوک کے لیے استعمال کیا گیا ہے - وہی لفظ جو والدین کے احترام کے لیے استعمال ہوتا ہے، اعلی اخلاقی معیارات کی نشاندہی کرتا ہے۔",
+          "whyItMatters_urdu": "اسلام کا اخلاقی فریم ورک مسلمانوں سے آگے پھیلا ہوا ہے؛ دوسروں کے ساتھ نیک سلوک عبادت کی ایک شکل ہے جو اللہ کو خوش کرتی ہے۔",
+          "title_ar": "الصلاح (البر)",
+          "coreInsight_ar": "يُستخدم مصطلح 'البر' (الصلاح) لمعاملة غير المسلمين المسالمين - نفس الكلمة المستخدمة لتكريم الوالدين، مما يشير إلى معايير أخلاقية عالية.",
+          "whyItMatters_ar": "الإطار الأخلاقي للإسلام يمتد إلى ما وراء المسلمين؛ معاملة الآخرين بالصلاح شكل من أشكال العبادة التي ترضي الله."
+        },
+        {
+          "id": "60:8:allah-loves-just",
+          "title": "Divine Love for Justice",
+          "icon": "scale.3d",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Allah loves those who act justly - fairness and equity are beloved qualities that earn divine pleasure regardless of who receives the justice.",
+          "whyItMatters": "Pursuing justice is not just a legal obligation but a means to gain Allah's love; fair treatment of all people is spiritually rewarding.",
+          "position": "bottomLeft",
+          "arabicHighlight": "إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+          "title_urdu": "انصاف سے الہی محبت",
+          "coreInsight_urdu": "اللہ ان لوگوں سے محبت کرتا ہے جو انصاف کرتے ہیں - منصفانہ اور برابری محبوب خصوصیات ہیں جو الہی خوشنودی حاصل کرتی ہیں قطع نظر اس سے کہ انصاف کس کو ملتا ہے۔",
+          "whyItMatters_urdu": "انصاف کا تعاقب صرف قانونی ذمہ داری نہیں بلکہ اللہ کی محبت حاصل کرنے کا ایک ذریعہ ہے؛ تمام لوگوں کے ساتھ منصفانہ سلوک روحانی طور پر فائدہ مند ہے۔",
+          "title_ar": "الحب الإلهي للعدل",
+          "coreInsight_ar": "الله يحب الذين يتصرفون بعدل - الإنصاف والمساواة صفات محبوبة تكسب الرضا الإلهي بغض النظر عمن يتلقى العدل.",
+          "whyItMatters_ar": "السعي للعدل ليس مجرد التزام قانوني بل وسيلة لكسب حب الله؛ المعاملة العادلة لجميع الناس مجزية روحيًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree strongly on the interpretation of this verse as establishing the Islamic framework for coexistence with peaceful non-Muslims. Sunni exegetes like Ibn Kathir emphasize that this verse clarifies the distinction between peaceful non-Muslims, who should be treated with kindness and justice, and hostile enemies addressed in earlier verses. Tabari provides historical examples of the Prophet's kind treatment of non-Muslim neighbors and fair dealings with non-Muslim tribes that maintained peace with Muslims. Shia scholars share these interpretations and examples while additionally emphasizing Imam Ali's implementation of complete justice during his caliphate. Qurtubi discusses the legal implications, with both schools agreeing that justice toward non-Muslims in legal, economic, and social spheres is obligatory. Fakhr al-Din al-Razi explores the ethical philosophy underlying this verse, emphasizing that justice as a divine attribute should be reflected in human behavior, a principle equally emphasized in Shia ethics. Both traditions agree that birr toward peaceful non-Muslims includes maintaining family ties, helping neighbors, honest business, and charitable action. The consensus is that Islam establishes a clear framework: opposition to persecution and oppression combined with kindness and justice toward peaceful coexistence, making justice and good character the basis for all human relations.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء پرامن غیر مسلمانوں کے ساتھ اسلامی تعلقات کے ڈھانچے کے طور پر اس آیت کی تفسیر پر بہت زیادہ متفق ہیں۔ سنی مفسرین جیسے ابن کثیر رحمۃ اللہ علیہ نے اس بات پر زور دیا کہ یہ آیت اس امتیاز کو واضح کرتی ہے کہ پرامن غیر مسلمانوں کے ساتھ مہربانی اور انصاف ہونا چاہیے، اور پہلے کی آیات میں مخاطب دشمن کے ساتھ نہیں۔ طبری رحمۃ اللہ علیہ نے نبی صلی اللہ علیہ وآلہ وسلم کے غیر مسلم پڑوسیوں کے ساتھ مہربان برتاؤ اور مسلمانوں کے ساتھ امن برقرار رکھنے والے غیر مسلم قبائل کے ساتھ منصفانہ معاملات کی تاریخی مثالیں پیش کیں۔ شیعہ علماء ان تفسیروں اور مثالوں کو قبول کرتے ہیں اور ساتھ ہی اپنی خلافت کے دوران حضرت علی علیہ السلام کے مکمل انصاف کے نفاذ پر بھی زور دیتے ہیں۔ قرطبی رحمۃ اللہ علیہ نے قانونی مفاہیم بیان کیے اور دونوں مکاتب اس بات پر متفق ہیں کہ غیر مسلمانوں کے ساتھ قانونی، معاشی اور سماجی شعبوں میں انصاف لازمی ہے۔ فخر الدین رازی رحمۃ اللہ علیہ نے اس آیت کی بنیادی اخلاقی فلسفی کا جائزہ لیا، اس بات پر زور دیتے ہوئے کہ بطور الہی صفت انصاف انسانی رویے میں جھلکنا چاہیے، یہ اصول شیعہ اخلاقیات میں بھی یکساں اہمیت رکھتا ہے۔ دونوں روایات اس بات پر متفق ہیں کہ بِرّ کا مطلب خاندانی رشتے برقرار رکھنا، پڑوسیوں کی مدد کرنا، ایماندار کاروبار اور خیراتی عمل ہے۔ اجماع یہ ہے کہ اسلام ایک واضح ڈھانچہ قائم کرتا ہے: ظلم اور جبر کی مخالفت مہربانی اور انصاف کے ساتھ پرامن بقائے باہمی کے لیے، انصاف اور اچھے کردار کو تمام انسانی تعلقات کی بنیاد بناتے ہوئے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة اتِّفاقاً راسخاً على تفسير هذه الآية بوصفها تأسيساً للإطار الإسلامي في معاملة غير المسلمين المسالمين. ويُؤكِّد ابن كثير أن الآية تُبيِّن الفصل الدقيق بين غير المسلمين المسالمين الذين يستحقون البرَّ والقسط، وبين الأعداء الفاعلين الذين نهت عنهم الآيات السابقة. ويُقدِّم الطبري أمثلة تاريخية على إحسان النبي صلى الله عليه وآله وسلم في معاملة جيرانه غير المسلمين وعدله مع القبائل التي أبرمت معه معاهدات السلام. ويتَّفق العلماء الشيعة مع هذه التفسيرات والأمثلة ويُضيفون إليها الاستشهاد بتطبيق الإمام علي عليه السلام للعدل الشامل في عهد حكمه. ويناقش القرطبي الأحكام الفقهية المستنبطة من الآية، وكلا المذهبين يتَّفقان على وجوب العدل نحو غير المسلمين في المجالات القانونية والاقتصادية والاجتماعية. ويستكشف الفخر الرازي الفلسفة الأخلاقية الكامنة في الآية مُؤكِّداً أن العدل صفةٌ إلهية ينبغي أن تنعكس في السلوك الإنساني، وهو مبدأ يحظى بالاهتمام ذاته في الأخلاق الشيعية. ويتَّفق التقليدان على أن البرَّ نحو غير المسلمين المسالمين يشمل صلة الأرحام والمساعدة في الحاجة والتعامل بأمانة والعمل الخيري المشترك. والخلاصة التي يُجمع عليها الفريقان: أن الإسلام يُرسِّخ إطاراً واضحاً قائماً على معارضة الاضطهاد من جهة والبرِّ والعدل في سياق التعايش السلمي من جهة أخرى."
+  },
+  "9": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:9:active-hostility",
+          "title": "Prohibition of Alliance",
+          "icon": "hand.raised.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Allah forbids taking as allies those who actively fight believers for their religion, expel them from homes, and support such expulsion.",
+          "whyItMatters": "The prohibition is specific to active aggressors, not all non-Muslims; we must discern between peaceful coexistence and active hostility.",
+          "position": "topLeft",
+          "arabicHighlight": "إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَٰرِكُمْ وَظَٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ",
+          "title_urdu": "اتحاد کی ممانعت",
+          "coreInsight_urdu": "اللہ ان لوگوں کو دوست بنانے سے منع کرتا ہے جو فعال طور پر مومنوں سے ان کے مذہب کی وجہ سے لڑتے ہیں، انہیں گھروں سے نکالتے ہیں، اور اس طرح کے اخراج کی حمایت کرتے ہیں۔",
+          "whyItMatters_urdu": "یہ ممانعت فعال جارحوں کے لیے مخصوص ہے، تمام غیر مسلموں کے لیے نہیں؛ ہمیں پرامن بقائے باہمی اور فعال دشمنی کے درمیان فرق کرنا چاہیے۔",
+          "title_ar": "تحريم التحالف",
+          "coreInsight_ar": "يحرم الله اتخاذ أولئك الذين يقاتلون المؤمنين بسبب دينهم ويخرجونهم من ديارهم ويدعمون هذا الإخراج أولياء.",
+          "whyItMatters_ar": "التحريم خاص بالمعتدين النشطين، وليس جميع غير المسلمين؛ يجب أن نميز بين التعايش السلمي والعداء النشط."
+        },
+        {
+          "id": "60:9:three-criteria",
+          "title": "Triple Aggression",
+          "icon": "exclamationmark.3.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Three specific hostile actions are mentioned: fighting for religion, physical expulsion, and supporting expulsion - a comprehensive description of active enmity.",
+          "whyItMatters": "Understanding these criteria helps us apply divine guidance appropriately, neither being naive about threats nor unjust toward the innocent.",
+          "position": "topRight",
+          "arabicHighlight": "قَٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَٰرِكُمْ وَظَٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ",
+          "title_urdu": "تین گنا جارحیت",
+          "coreInsight_urdu": "تین مخصوص دشمنانہ اعمال کا ذکر ہے: مذہب کی وجہ سے لڑنا، جسمانی اخراج، اور اخراج کی حمایت کرنا - فعال دشمنی کی جامع وضاحت۔",
+          "whyItMatters_urdu": "ان معیارات کو سمجھنا ہمیں الہی رہنمائی کو مناسب طریقے سے لاگو کرنے میں مدد کرتا ہے، نہ تو خطرات کے بارے میں بھولے پن میں رہتے ہوئے اور نہ ہی بے گناہوں کے ساتھ ناانصافی کرتے ہوئے۔",
+          "title_ar": "العدوان الثلاثي",
+          "coreInsight_ar": "يُذكر ثلاثة أفعال عدائية محددة: القتال بسبب الدين، والطرد الجسدي، ودعم الطرد - وصف شامل للعداء النشط.",
+          "whyItMatters_ar": "فهم هذه المعايير يساعدنا على تطبيق التوجيه الإلهي بشكل مناسب، دون أن نكون ساذجين بشأن التهديدات ولا ظالمين تجاه الأبرياء."
+        },
+        {
+          "id": "60:9:wrongdoers-label",
+          "title": "Definition of Injustice",
+          "icon": "xmark.shield.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Those who take active aggressors as allies are labeled wrongdoers - befriending oppressors makes one complicit in their oppression.",
+          "whyItMatters": "Moral responsibility extends to our associations; aligning with oppressors, even passively, participates in their injustice.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَمَن يَتَوَلَّهُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+          "title_urdu": "ظلم کی تعریف",
+          "coreInsight_urdu": "جو لوگ فعال جارحوں کو دوست بناتے ہیں انہیں ظالم کہا جاتا ہے - ظالموں سے دوستی کرنا انسان کو ان کے ظلم میں شریک بنا دیتا ہے۔",
+          "whyItMatters_urdu": "اخلاقی ذمہ داری ہمارے تعلقات تک پھیلی ہوئی ہے؛ ظالموں کے ساتھ صف بندی کرنا، یہاں تک کہ غیر فعال طور پر بھی، ان کی ناانصافی میں شرکت ہے۔",
+          "title_ar": "تعريف الظلم",
+          "coreInsight_ar": "أولئك الذين يتخذون المعتدين النشطين أولياء يُصنفون كظالمين - مصادقة الظالمين تجعل المرء متواطئًا في ظلمهم.",
+          "whyItMatters_ar": "المسؤولية الأخلاقية تمتد إلى ارتباطاتنا؛ الانحياز للظالمين، حتى بشكل سلبي، يشارك في ظلمهم."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the fundamental interpretation of this verse as forbidding alliance with active persecutors of Muslims. Sunni exegetes like Ibn Kathir emphasize the three characteristics of those forbidden as allies: fighting Muslims for their religion, expelling them, and supporting expulsion. Tabari discusses how these characteristics applied to the Quraysh who persecuted early Muslims, and how the verse's principle extends to all times and contexts. Shia scholars share these interpretations while particularly emphasizing the principle's application to opposing oppressive rulers throughout Islamic history. Qurtubi discusses the legal implications of what constitutes wrongful alliance, with both schools agreeing that strategic political or military alliance with active persecutors of Muslims is forbidden. Fakhr al-Din al-Razi explores the ethical philosophy of why supporting oppression is itself oppression, a principle emphasized equally in Shia ethics. Both traditions emphasize that this verse does not forbid all relations with non-Muslims but specifically forbids close alliance with active persecutors. The consensus is that Muslims must distinguish between peaceful coexistence with diverse peoples and inappropriate alliance with those who actively persecute the Muslim community, that supporting oppression even indirectly is wrongdoing, and that community security and principled opposition to persecution justify this clear boundary.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں کہ یہ مسلمانوں کے فعال ظالموں کے ساتھ اتحاد کو ممنوع قرار دیتی ہے۔ سنی مفسرین جیسے ابن کثیر رحمۃ اللہ علیہ نے ان تین خصوصیات پر زور دیا جن کے حاملین کو حلیف بنانا ممنوع ہے: دین کی وجہ سے مسلمانوں سے لڑنے والے، انہیں گھروں سے نکالنے والے، اور اخراج کی مدد کرنے والے۔ طبری رحمۃ اللہ علیہ نے بتایا کہ یہ خصوصیات قریش کے ابتدائی مسلمانوں کے ظلم پر کیسے لاگو ہوئیں اور آیت کا اصول تمام ادوار اور سیاق و سباق تک کیسے پھیلا ہوا ہے۔ شیعہ علماء ان تفسیروں میں شریک ہیں اور خاص طور پر پوری اسلامی تاریخ میں ظالم حکمرانوں کی مخالفت کے اصول پر بھی زور دیتے ہیں۔ قرطبی رحمۃ اللہ علیہ نے ناجائز اتحاد کی تعریف کے قانونی مفاہیم پر بحث کی، اور دونوں مکاتب اس بات پر متفق ہیں کہ مسلمانوں کے فعال ظالموں کے ساتھ حکمت عملی سیاسی یا فوجی اتحاد ممنوع ہے۔ فخر الدین رازی رحمۃ اللہ علیہ نے اس اخلاقی فلسفی کا جائزہ لیا کہ ظلم کی حمایت خود ظلم کیوں ہے، یہ اصول شیعہ اخلاقیات میں بھی یکساں اہمیت رکھتا ہے۔ دونوں روایات اس بات پر زور دیتی ہیں کہ یہ آیت تمام غیر مسلمانوں کے ساتھ تعلق کو ممنوع نہیں کرتی بلکہ خاص طور پر مسلمانوں کے فعال ظالموں کے ساتھ قریبی اتحاد کو ممنوع قرار دیتی ہے۔ اجماع یہ ہے کہ مسلمانوں کو متنوع لوگوں کے ساتھ پرامن بقائے باہمی اور مسلم برادری کو فعال طور پر ستانے والوں کے ساتھ نامناسب اتحاد کے درمیان امتیاز کرنا چاہیے، کہ ظلم میں بالواسطہ شرکت بھی خود ظلم ہے، اور کہ برادری کی سلامتی اور ظلم کی اصولی مخالفت اس واضح حد کو جائز ٹھہراتی ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الجوهري لهذه الآية بوصفها نهياً عن موالاة من يُضطهد المسلمين بفاعلية. ويُؤكِّد ابن كثير الصفات الثلاث لمن يُنهى عن موالاتهم: المقاتلة بسبب الدين، والإخراج من الديار، والإعانة على الإخراج. ويُبيِّن الطبري كيف انطبقت هذه الصفات تاريخياً على قريش التي اضطهدت المسلمين الأوائل، وكيف يمتدُّ مبدأ الآية ليشمل كل زمان ومكان. ويتَّفق العلماء الشيعة مع هذه التفسيرات ويُبرزون بصفة خاصة انطباق المبدأ على معارضة الحكَّام المستبدِّين عبر التاريخ الإسلامي. ويتناول القرطبي الأحكام الفقهية للتحالف غير الجائز، وكلا المذهبين يتَّفقان على أن التحالف السياسي أو العسكري الاستراتيجي مع من يضطهدون المسلمين محرَّم. ويستكشف الفخر الرازي الفلسفة الأخلاقية التي تجعل دعم الظلم ظلماً بذاته، وهو مبدأٌ يحظى بالتأكيد ذاته في الأخلاق الشيعية. ويتَّفق التقليدان على أن الآية لا تنهى عن سائر العلاقات مع غير المسلمين بل تختصُّ بالنهي عن الموالاة الوثيقة للمضطهِدين الفاعلين. والخلاصة المشتركة بين الفريقين: أن يُفرِّق المسلمون بين التعايش السلمي مع التنوُّع البشري وبين الانحياز المحرَّم لمن يضطهدون المجتمع المسلم، وأن الإسهام في الظلم ولو بصورة غير مباشرة من خلال التحالف غير الملائم هو بدوره ظلمٌ يُوجب المساءلة الإلهية."
+  },
+  "10": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:10:examination-women",
+          "title": "Testing Faith",
+          "icon": "checkmark.seal.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Believing women who migrate must be examined for the sincerity of their faith - Allah knows their true belief, but practical verification is required.",
+          "whyItMatters": "The community has responsibility to verify sincere conversions while acknowledging that ultimate knowledge of hearts belongs to Allah alone.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍۢ فَٱمْتَحِنُوهُنَّ ۖ ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ",
+          "title_urdu": "ایمان کی جانچ",
+          "coreInsight_urdu": "ہجرت کرنے والی مومن خواتین کے ایمان کی خلوصیت کی جانچ کی جانی چاہیے - اللہ ان کے حقیقی ایمان کو جانتا ہے، لیکن عملی تصدیق ضروری ہے۔",
+          "whyItMatters_urdu": "معاشرہ کی ذمہ داری ہے کہ وہ مخلصانہ تبدیلیوں کی تصدیق کرے جبکہ یہ تسلیم کرے کہ دلوں کا حتمی علم صرف اللہ سے تعلق رکھتا ہے۔",
+          "title_ar": "اختبار الإيمان",
+          "coreInsight_ar": "يجب فحص النساء المؤمنات المهاجرات لصدق إيمانهن - الله يعلم إيمانهن الحقيقي، لكن التحقق العملي مطلوب.",
+          "whyItMatters_ar": "المجتمع مسؤول عن التحقق من التحولات الصادقة مع الاعتراف بأن المعرفة النهائية بالقلوب لله وحده."
+        },
+        {
+          "id": "60:10:marriage-prohibition",
+          "title": "Prohibited Marriages",
+          "icon": "person.2.slash.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Believing women are not lawful for disbelieving men, nor are disbelieving men lawful for them - faith creates fundamental incompatibility in marriage.",
+          "whyItMatters": "Marriage in Islam requires shared fundamental values; the spiritual divide between faith and disbelief is too significant for a harmonious marital bond.",
+          "position": "topRight",
+          "arabicHighlight": "لَا هُنَّ حِلٌّۭ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ",
+          "title_urdu": "ممنوعہ شادیاں",
+          "coreInsight_urdu": "مومن خواتین کافر مردوں کے لیے حلال نہیں ہیں، اور نہ ہی کافر مرد ان کے لیے حلال ہیں - ایمان شادی میں بنیادی عدم مطابقت پیدا کرتا ہے۔",
+          "whyItMatters_urdu": "اسلام میں شادی مشترکہ بنیادی اقدار کی ضرورت رکھتی ہے؛ ایمان اور کفر کے درمیان روحانی تقسیم ایک ہم آہنگ ازدواجی بندھن کے لیے بہت اہم ہے۔",
+          "title_ar": "الزواجات المحرمة",
+          "coreInsight_ar": "المؤمنات لا يحللن للكافرين، ولا الكافرون يحلون لهن - الإيمان يخلق عدم توافق أساسي في الزواج.",
+          "whyItMatters_ar": "الزواج في الإسلام يتطلب قيمًا أساسية مشتركة؛ الانقسام الروحي بين الإيمان والكفر كبير جدًا لرابطة زوجية منسجمة."
+        },
+        {
+          "id": "60:10:financial-settlement",
+          "title": "Equitable Compensation",
+          "icon": "dollarsign.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "When believing women migrate, their former husbands should receive back what they spent on the marriage, ensuring financial fairness despite religious separation.",
+          "whyItMatters": "Islam maintains justice even in separation; financial rights are preserved regardless of religious differences, showing Islam's comprehensive equity.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَءَاتُوهُم مَّآ أَنفَقُوا۟",
+          "title_urdu": "منصفانہ معاوضہ",
+          "coreInsight_urdu": "جب مومن خواتین ہجرت کریں، تو ان کے سابق شوہروں کو وہ واپس ملنا چاہیے جو انہوں نے شادی پر خرچ کیا، مذہبی علیحدگی کے باوجود مالی انصاف کو یقینی بناتے ہوئے۔",
+          "whyItMatters_urdu": "اسلام علیحدگی میں بھی انصاف برقرار رکھتا ہے؛ مذہبی اختلافات سے قطع نظر مالی حقوق محفوظ ہیں، اسلام کی جامع مساوات کو ظاہر کرتے ہوئے۔",
+          "title_ar": "التعويض العادل",
+          "coreInsight_ar": "عندما تهاجر النساء المؤمنات، يجب أن يتلقى أزواجهن السابقون ما أنفقوه على الزواج، مما يضمن العدالة المالية رغم الانفصال الديني.",
+          "whyItMatters_ar": "الإسلام يحافظ على العدل حتى في الانفصال؛ الحقوق المالية محفوظة بغض النظر عن الاختلافات الدينية، مما يظهر الإنصاف الشامل للإسلام."
+        },
+        {
+          "id": "60:10:divine-judgment",
+          "title": "Allah's Ruling",
+          "icon": "doc.text.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "These regulations are Allah's judgment between believers and disbelievers - divine wisdom provides practical solutions for complex social situations.",
+          "whyItMatters": "Islamic law addresses real-life complications with wisdom and justice, showing that divine guidance is both spiritual and practically applicable.",
+          "position": "bottomRight",
+          "arabicHighlight": "ذَٰلِكُمْ حُكْمُ ٱللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+          "title_urdu": "اللہ کا فیصلہ",
+          "coreInsight_urdu": "یہ ضوابط مومنوں اور کافروں کے درمیان اللہ کا فیصلہ ہیں - الہی حکمت پیچیدہ سماجی حالات کے لیے عملی حل فراہم کرتی ہے۔",
+          "whyItMatters_urdu": "اسلامی قانون حقیقی زندگی کی پیچیدگیوں کو حکمت اور انصاف کے ساتھ حل کرتا ہے، ظاہر کرتا ہے کہ الہی رہنمائی روحانی اور عملی طور پر قابل اطلاق دونوں ہے۔",
+          "title_ar": "حكم الله",
+          "coreInsight_ar": "هذه التشريعات هي حكم الله بين المؤمنين والكافرين - الحكمة الإلهية توفر حلولاً عملية للمواقف الاجتماعية المعقدة.",
+          "whyItMatters_ar": "الشريعة الإسلامية تعالج التعقيدات الواقعية بحكمة وعدل، مما يظهر أن التوجيه الإلهي روحي وعملي على حد سواء."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse regarding the examination of emigrant women and the prohibition of marriage between Muslim women and non-Muslim men. Sunni exegetes like Ibn Kathir provide detailed accounts of how this verse was revealed in the context of the Treaty of Hudaybiyyah and specific cases of women who emigrated. Tabari discusses the various opinions about how the examination was conducted, with most scholars agreeing it involved questioning about faith and intentions. Shia scholars share these historical accounts while emphasizing the verse's ongoing legal principles. Both schools agree absolutely that Muslim women cannot marry non-Muslim men, though they differ on whether Muslim men can marry women from People of the Book, with most Shia scholars prohibiting this as well. Qurtubi discusses the legal implications of the verse in detail, including rules about dowries and ending previous marriages. Fakhr al-Din al-Razi explores why the rule differs for men and women, with explanations centering on household authority and children's upbringing. Both traditions emphasize the verse's demonstration of Islamic justice in requiring return of dowries even to enemies. The consensus is that faith compatibility is essential in Islamic marriage, that women's religious freedom must be protected, and that Islamic law maintains justice even toward adversaries.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں جو ہجرت کرنے والی مومن خواتین کے امتحان اور مسلمان عورتوں کے غیر مسلم مردوں سے نکاح کی ممانعت سے متعلق ہے۔ سنی مفسرین جیسے ابن کثیر رحمۃ اللہ علیہ نے تفصیلی روایات بیان کی ہیں کہ یہ آیت صلحِ حدیبیہ کے سیاق میں کیسے نازل ہوئی اور ہجرت کرنے والی خواتین کے مخصوص واقعات میں۔ طبری رحمۃ اللہ علیہ نے اس بارے میں مختلف روایات بیان کیں کہ امتحان کیسے کیا گیا، زیادہ تر علماء اس بات پر متفق ہیں کہ اس میں ایمان اور نیتوں کے بارے میں سوال کرنا شامل تھا۔ شیعہ علماء ان تاریخی روایات میں شریک ہیں اور ساتھ ہی آیت کے جاری قانونی اصولوں پر بھی زور دیتے ہیں۔ دونوں مکاتب اس بات پر قطعی متفق ہیں کہ مسلمان عورتیں غیر مسلم مردوں سے نکاح نہیں کر سکتیں، البتہ اس سوال پر اختلاف ہے کہ مسلمان مرد اہلِ کتاب عورتوں سے نکاح کر سکتے ہیں یا نہیں، اور اکثر شیعہ علماء اسے بھی ممنوع قرار دیتے ہیں۔ قرطبی رحمۃ اللہ علیہ نے آیت کی قانونی تفصیلات پر بحث کی، بشمول مہر اور سابقہ نکاحوں کو ختم کرنے کے اصول۔ فخر الدین رازی رحمۃ اللہ علیہ نے یہ جائزہ لیا کہ مردوں اور عورتوں کے لیے قانون مختلف کیوں ہے، گھریلو اتھارٹی اور بچوں کی پرورش پر مرکوز وضاحتوں کے ساتھ۔ دونوں روایات نے آیت کا یہ مظاہرہ نوٹ کیا کہ دشمنوں کو بھی مہر واپس کرنا انصاف کو یقینی بناتا ہے۔ اجماع یہ ہے کہ اسلامی نکاح کے لیے ایمانی موافقت ضروری ہے، عورتوں کی مذہبی آزادی کا تحفظ ہونا چاہیے، اور اسلامی قانون مخالفوں کے ساتھ بھی انصاف برقرار رکھتا ہے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الجوهري لهذه الآية المتعلِّق بامتحان النساء المهاجرات وبتحريم زواج المرأة المسلمة من الرجل غير المسلم. ويُقدِّم ابن كثير روايات تاريخية مفصَّلة عن نزول الآية في سياق صلح الحديبية وعن الحالات المحدَّدة للنساء اللواتي هاجرن. ويتناول الطبري آراء العلماء في كيفية إجراء الامتحان، وأغلبهم يتَّفق على أنه تضمَّن التساؤل عن الدين والنيَّة. ويتَّفق العلماء الشيعة مع هذه الروايات التاريخية ويُؤكِّدون المبادئ الفقهية الدائمة المستنبطة منها. ويتَّفق المذهبان اتِّفاقاً قاطعاً على أن المرأة المسلمة لا يجوز لها الزواج من الرجل غير المسلم، وإن تباينا في مسألة زواج الرجل المسلم من المرأة الكتابية إذ يُحرِّمه أغلب علماء الشيعة أيضاً. ويناقش القرطبي الأحكام الفقهية المستنبطة من الآية تفصيلاً، بما فيها قواعد المهور وإنهاء الزيجات السابقة. ويستكشف الفخر الرازي وجه الفرق في الحكم بين الرجل والمرأة محتجَّاً بسلطة الزوج على البيت وأثر ذلك في تنشئة الأبناء. ويتَّفق التقليدان على أن الآية تُجسِّد العدالة الإسلامية في الأمر بردِّ المهور حتى للأعداء. والخلاصة المشتركة: أن التوافق الديني أساسٌ جوهري في الزواج الإسلامي لا يُساوَم عليه، وأن حرية المرأة الدينية يجب أن تُصان، وأن الشريعة الإسلامية تلتزم بالعدل حتى في مواجهة الخصوم."
+  },
+  "11": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:11:reciprocal-loss",
+          "title": "Mutual Compensation",
+          "icon": "arrow.left.arrow.right.circle.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "If Muslim wives go to disbelievers, the Muslim community should compensate those whose wives left from their gains, maintaining financial balance.",
+          "whyItMatters": "This reciprocal system ensures no individual bears unfair financial loss due to religious migration, demonstrating Islam's concern for individual welfare.",
+          "position": "topLeft",
+          "arabicHighlight": "وَإِن فَاتَكُمْ شَىْءٌۭ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟",
+          "title_urdu": "باہمی معاوضہ",
+          "coreInsight_urdu": "اگر مسلمان بیویاں کافروں کے پاس چلی جائیں، تو مسلم معاشرے کو ان لوگوں کو معاوضہ دینا چاہیے جن کی بیویاں چلی گئیں، مالی توازن برقرار رکھتے ہوئے۔",
+          "whyItMatters_urdu": "یہ باہمی نظام یقینی بناتا ہے کہ کوئی فرد مذہبی ہجرت کی وجہ سے غیر منصفانہ مالی نقصان نہ اٹھائے، اسلام کی انفرادی فلاح کی فکر کو ظاہر کرتے ہوئے۔",
+          "title_ar": "التعويض المتبادل",
+          "coreInsight_ar": "إذا ذهبت الزوجات المسلمات إلى الكافرين، يجب على المجتمع الإسلامي تعويض أولئك الذين ذهبت زوجاتهم من مكاسبهم، للحفاظ على التوازن المالي.",
+          "whyItMatters_ar": "هذا النظام المتبادل يضمن عدم تحمل أي فرد خسارة مالية غير عادلة بسبب الهجرة الدينية، مما يظهر اهتمام الإسلام برفاهية الفرد."
+        },
+        {
+          "id": "60:11:community-solidarity",
+          "title": "Collective Support",
+          "icon": "person.3.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "The community collectively bears the burden of individual losses, showing that believers form a mutually supportive social network.",
+          "whyItMatters": "Islamic society is built on solidarity; personal hardships caused by faith commitments are shared responsibilities of the entire community.",
+          "position": "topRight",
+          "arabicHighlight": "فَعَاقَبْتُمْ",
+          "title_urdu": "اجتماعی حمایت",
+          "coreInsight_urdu": "معاشرہ اجتماعی طور پر انفرادی نقصانات کا بوجھ اٹھاتا ہے، ظاہر کرتا ہے کہ مومن باہمی معاونت کا سماجی نیٹ ورک بناتے ہیں۔",
+          "whyItMatters_urdu": "اسلامی معاشرہ یکجہتی پر بنایا گیا ہے؛ ایمانی وابستگیوں کی وجہ سے ذاتی مشکلات پوری کمیونٹی کی مشترکہ ذمہ داریاں ہیں۔",
+          "title_ar": "الدعم الجماعي",
+          "coreInsight_ar": "يتحمل المجتمع بشكل جماعي عبء الخسائر الفردية، مما يظهر أن المؤمنين يشكلون شبكة اجتماعية متبادلة الدعم.",
+          "whyItMatters_ar": "المجتمع الإسلامي مبني على التضامن؛ المصاعب الشخصية الناجمة عن التزامات الإيمان مسؤوليات مشتركة للمجتمع بأكمله."
+        },
+        {
+          "id": "60:11:taqwa-reminder",
+          "title": "Consciousness of Allah",
+          "icon": "eye.trianglebadge.exclamationmark.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Believers are reminded to fear Allah in whom they believe - maintaining consciousness of divine oversight in all transactions and relationships.",
+          "whyItMatters": "Taqwa should guide our financial dealings and social interactions, ensuring we uphold justice and fairness because we know Allah watches.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+          "title_urdu": "اللہ کا شعور",
+          "coreInsight_urdu": "مومنوں کو اللہ سے ڈرنے کی یاد دلائی جاتی ہے جس پر وہ ایمان رکھتے ہیں - تمام لین دین اور تعلقات میں الہی نگرانی کا شعور برقرار رکھتے ہوئے۔",
+          "whyItMatters_urdu": "تقویٰ کو ہمارے مالی لین دین اور سماجی تعاملات کی رہنمائی کرنی چاہیے، یقینی بناتے ہوئے کہ ہم انصاف اور منصفانہ برتاؤ کو برقرار رکھیں کیونکہ ہم جانتے ہیں کہ اللہ دیکھ رہا ہے۔",
+          "title_ar": "وعي الله",
+          "coreInsight_ar": "يُذكّر المؤمنون بتقوى الله الذي يؤمنون به - الحفاظ على الوعي بالرقابة الإلهية في جميع المعاملات والعلاقات.",
+          "whyItMatters_ar": "يجب أن توجه التقوى معاملاتنا المالية وتفاعلاتنا الاجتماعية، مما يضمن التزامنا بالعدل والإنصاف لأننا نعلم أن الله يراقب."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the interpretation of this verse as establishing a compensation system for Muslim men who lost wives to apostasy or defection. Sunni exegetes like Ibn Kathir explain the historical context in detail, noting how this verse provided practical solution to the situation created by the Treaty of Hudaybiyyah and women's movements between Makkah and Madinah. Tabari provides various narrations about how this system was implemented, with most accounts indicating dowries received from Makkah were used to compensate Muslims whose wives had defected. Shia scholars share these historical accounts while emphasizing the broader principle of community responsibility for individuals' welfare. Qurtubi discusses the legal details of how compensation should be calculated and distributed, with both schools agreeing it should be equivalent to what was lost. Fakhr al-Din al-Razi explores the ethical philosophy underlying this provision, emphasizing justice and mutual support, principles equally emphasized in Shia social ethics. Both traditions note that the verse's concluding command to fear Allah indicates that financial matters require ethical conduct and divine consciousness. The consensus is that this verse demonstrates Islamic concern for justice in complex situations, establishes community responsibility for supporting members who face losses in upholding Islamic principles, and emphasizes that even practical financial matters must be guided by God-consciousness and integrity.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر پر متفق ہیں کہ یہ ان مسلمان مردوں کے لیے معاوضے کا نظام قائم کرتی ہے جن کی بیویاں ارتداد یا کفار کی طرف منتقل ہو گئی ہوں۔ ابن کثیر جیسے سنی مفسرین نے تاریخی سیاق کو تفصیل سے بیان کیا ہے اور بتایا ہے کہ یہ آیت صلح حدیبیہ اور مکہ و مدینہ کے درمیان عورتوں کی نقل و حرکت کے نتیجے میں پیدا ہونے والی صورتحال کا عملی حل پیش کرتی ہے۔ طبری نے اس نظام کے نفاذ کے متعلق مختلف روایات بیان کی ہیں اور اکثر روایات میں یہ ہے کہ مکہ سے وصول ہونے والے مہر سے ان مسلمانوں کو معاوضہ دیا جاتا جن کی بیویاں کفار کی طرف چلی گئی ہوتی تھیں۔ شیعہ علماء ان تاریخی روایات کو بیان کرتے ہوئے اجتماعی فلاح و بہبود کے وسیع تر اصول پر زور دیتے ہیں۔ قرطبی نے تعویض کے حساب و کتاب اور تقسیم کی قانونی تفصیلات پر بحث کی ہے، اور دونوں مکاتب اس بات پر متفق ہیں کہ یہ نقصان کے برابر ہونا چاہیے۔ فخر الدین رازی نے اس حکم کی اخلاقی فلسفہ کا جائزہ لیا ہے جس میں عدل اور باہمی تعاون پر زور دیا گیا ہے، یہ وہ اصول ہیں جن پر شیعہ سماجی اخلاق میں بھی یکساں زور دیا گیا ہے۔ دونوں روایات نوٹ کرتی ہیں کہ آیت کے آخر میں اللہ کا تقویٰ اختیار کرنے کا حکم اس بات کی دلیل ہے کہ مالی معاملات کے لیے اخلاقی طرز عمل اور الہی شعور ضروری ہے۔ دونوں مکاتب کا اتفاق ہے کہ یہ آیت پیچیدہ حالات میں اسلام کی عدل سے فکرمندی کو ظاہر کرتی ہے اور اس بات پر زور دیتی ہے کہ عملی مالی معاملات بھی خدا خوفی اور دیانتداری سے رہنمائی پانے چاہئیں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الجوهري لهذه الآية بوصفها نظاماً تعويضياً للمسلمين الذين خسروا زوجاتهم في سياق أحكام الهجرة. ويُفيض ابن كثير في سرد السياق التاريخي، موضِّحاً كيف نشأت هذه المسألة من وضع خاص بصلح الحديبية وتبادل النساء بين مكة والمدينة. ويتناول الطبري آراءً متعددة في تفصيل هذا النظام، وأغلبها يتَّفق على أن المهور المُستلَمة من الكافرين تُوجَّه لتعويض المسلمين المتضرِّرين. ويُشارك علماء الشيعة في هذه الروايات التاريخية مع إبراز المبدأ الأعمق للمسؤولية المجتمعية. ويُناقش القرطبي التفاصيل الفقهية لكيفية احتساب التعويض وتوزيعه، ويتَّفق كلا المذهبين على أنه ينبغي أن يكون مساوياً للمفقود. ويُفيض الفخر الرازي في تناول الفلسفة الأخلاقية الكامنة وراء هذا الحكم، مُبرِزاً العدالة والتضامن الاجتماعي وهما قيمتان تلتقي عندهما المدرستان. ويتَّفق الفريقان على أن الأمر بتقوى الله في الخاتمة يُؤكِّد وجوب إقامة العدل في المعاملات المالية، وأن الآية تُجسِّد الطابع الشامل للشريعة الإسلامية التي تُعالج الواقع المعقَّد بحلول عملية مُنضبطة بالقيم الأخلاقية الرفيعة."
+  },
+  "12": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:12:womens-pledge",
+          "title": "Bay'ah of Women",
+          "icon": "hand.raised.fingers.spread.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "Believing women pledged allegiance to the Prophet with specific commitments: no shirk, theft, adultery, infanticide, slander, or disobedience in righteousness.",
+          "whyItMatters": "This pledge establishes the foundational ethical commitments for Muslim women, covering theology, property rights, sexual ethics, life protection, and truthfulness.",
+          "position": "topLeft",
+          "arabicHighlight": "إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ",
+          "title_urdu": "خواتین کی بیعت",
+          "coreInsight_urdu": "مومن خواتین نے نبی سے مخصوص وعدوں کے ساتھ بیعت کی: نہ شرک، نہ چوری، نہ زنا، نہ بچوں کا قتل، نہ بہتان، نہ نیکی میں نافرمانی۔",
+          "whyItMatters_urdu": "یہ بیعت مسلمان خواتین کے لیے بنیادی اخلاقی وعدوں کو قائم کرتی ہے، الہیات، املاک کے حقوق، جنسی اخلاقیات، زندگی کی حفاظت، اور سچائی کا احاطہ کرتی ہے۔",
+          "title_ar": "بيعة النساء",
+          "coreInsight_ar": "بايعت النساء المؤمنات النبي بالتزامات محددة: لا شرك، لا سرقة، لا زنا، لا قتل أطفال، لا بهتان، ولا عصيان في المعروف.",
+          "whyItMatters_ar": "هذه البيعة تؤسس الالتزامات الأخلاقية الأساسية للمرأة المسلمة، تشمل اللاهوت وحقوق الملكية والأخلاق الجنسية وحماية الحياة والصدق."
+        },
+        {
+          "id": "60:12:six-prohibitions",
+          "title": "Ethical Framework",
+          "icon": "list.bullet.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "The six prohibitions cover theological purity, economic justice, sexual morality, sanctity of life, truthfulness, and general obedience in good.",
+          "whyItMatters": "These comprehensive commitments show Islam's holistic approach to ethics, addressing spiritual, social, economic, and moral dimensions of life.",
+          "position": "topRight",
+          "arabicHighlight": "لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَٰنٍۢ",
+          "title_urdu": "اخلاقی فریم ورک",
+          "coreInsight_urdu": "چھ ممانعتیں الہیاتی پاکیزگی، اقتصادی انصاف، جنسی اخلاقیات، زندگی کی حرمت، سچائی، اور نیکی میں عام فرمانبرداری کا احاطہ کرتی ہیں۔",
+          "whyItMatters_urdu": "یہ جامع وعدے اسلام کے اخلاقیات کے مجموعی نقطہ نظر کو ظاہر کرتے ہیں، زندگی کے روحانی، سماجی، اقتصادی، اور اخلاقی جہتوں سے نمٹتے ہوئے۔",
+          "title_ar": "الإطار الأخلاقي",
+          "coreInsight_ar": "المحرمات الستة تغطي النقاء اللاهوتي، والعدالة الاقتصادية، والأخلاق الجنسية، وقدسية الحياة، والصدق، والطاعة العامة في الخير.",
+          "whyItMatters_ar": "هذه الالتزامات الشاملة تظهر النهج الشمولي للإسلام في الأخلاق، معالجة الأبعاد الروحية والاجتماعية والاقتصادية والأخلاقية للحياة."
+        },
+        {
+          "id": "60:12:invented-slander",
+          "title": "Protecting Honor",
+          "icon": "bubble.left.and.exclamationmark.bubble.right.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "The prohibition against fabricated slander between hands and feet refers to falsely attributing children to husbands or denying legitimate paternity.",
+          "whyItMatters": "Protecting lineage and honor through truthfulness is so important that it's specifically mentioned in this foundational pledge of faith.",
+          "position": "bottomLeft",
+          "arabicHighlight": "وَلَا يَأْتِينَ بِبُهْتَٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ",
+          "title_urdu": "عزت کی حفاظت",
+          "coreInsight_urdu": "ہاتھوں اور پاؤں کے درمیان من گھڑت بہتان کی ممانعت جھوٹا بچوں کو شوہروں سے منسوب کرنے یا جائز نسب کا انکار کرنے کی طرف اشارہ کرتی ہے۔",
+          "whyItMatters_urdu": "سچائی کے ذریعے نسب اور عزت کی حفاظت اتنی اہم ہے کہ اسے ایمان کے اس بنیادی عہد میں خاص طور پر ذکر کیا گیا ہے۔",
+          "title_ar": "حماية الشرف",
+          "coreInsight_ar": "التحريم ضد البهتان المختلق بين الأيدي والأرجل يشير إلى نسبة الأطفال زورًا للأزواج أو إنكار النسب الشرعي.",
+          "whyItMatters_ar": "حماية النسب والشرف من خلال الصدق مهمة لدرجة أنها مذكورة تحديدًا في هذا العهد الأساسي للإيمان."
+        },
+        {
+          "id": "60:12:prophetic-forgiveness",
+          "title": "Seeking Pardon",
+          "icon": "hands.sparkles.fill",
+          "colorHex": "#7BC47F",
+          "coreInsight": "After accepting the pledge, the Prophet is instructed to seek Allah's forgiveness for the women - combining commitment with divine mercy.",
+          "whyItMatters": "Even sincere pledges are accompanied by seeking forgiveness, showing that perfection is impossible but divine mercy is always available.",
+          "position": "bottomRight",
+          "arabicHighlight": "فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+          "title_urdu": "معافی کی طلب",
+          "coreInsight_urdu": "بیعت قبول کرنے کے بعد، نبی کو ہدایت کی جاتی ہے کہ وہ خواتین کے لیے اللہ سے بخشش مانگیں - وعدے کو الہی رحمت کے ساتھ ملاتے ہوئے۔",
+          "whyItMatters_urdu": "یہاں تک کہ مخلصانہ وعدوں کے ساتھ بخشش مانگنا ہوتا ہے، ظاہر کرتا ہے کہ کمال ناممکن ہے لیکن الہی رحمت ہمیشہ دستیاب ہے۔",
+          "title_ar": "طلب العفو",
+          "coreInsight_ar": "بعد قبول البيعة، يُؤمر النبي بطلب مغفرة الله للنساء - جامعًا بين الالتزام والرحمة الإلهية.",
+          "whyItMatters_ar": "حتى البيعات الصادقة تُصاحب بطلب المغفرة، مما يظهر أن الكمال مستحيل لكن الرحمة الإلهية متاحة دائمًا."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the basic interpretation of this verse as describing the women's pledge of allegiance to the Prophet. Sunni exegetes like Ibn Kathir provide detailed historical accounts of this pledge after the conquest of Makkah, describing how women came to pledge allegiance and the Prophet's method of accepting it. Tabari discusses each element of the pledge in detail, explaining the practices being prohibited. Shia scholars share these interpretations while particularly emphasizing that obedience to the Prophet extends to obedience to Ahlul Bayt as the righteous guides after him. Qurtubi discusses the legal implications of each prohibition, with both schools agreeing on their fundamental importance in Islamic ethics. Both traditions note that the phrase 'in what is right' establishes that obedience to leadership is bounded by righteousness, not absolute. Fakhr al-Din al-Razi explores the wisdom in each prohibition, discussing how they establish social and spiritual health. The narrations about how the Prophet conducted this pledge differ slightly between traditions, but all agree on its verbal nature and respectful conduct. Both schools emphasize that the instruction to seek forgiveness demonstrates ongoing need for divine mercy regardless of righteousness. The consensus is that this verse establishes core ethical commitments of faith, demonstrates the importance of public pledge to Islamic values, and teaches that even sincere commitment should be accompanied by humility and seeking divine forgiveness.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی بنیادی تفسیر پر متفق ہیں کہ یہ نبی صلی اللہ علیہ وآلہ وسلم سے عورتوں کی بیعت کو بیان کرتی ہے۔ ابن کثیر جیسے سنی مفسرین نے فتح مکہ کے بعد اس بیعت کے تاریخی واقعات کو تفصیل سے بیان کیا ہے اور بتایا ہے کہ عورتیں کیسے بیعت کرنے آئیں اور نبی صلی اللہ علیہ وآلہ وسلم نے انہیں کیسے قبول فرمایا۔ طبری نے بیعت کے ہر عنصر کو تفصیل سے بحث کیا ہے اور ان رسوم کو واضح کیا جنہیں ممنوع کیا گیا تھا۔ شیعہ علماء نے ان تفاسیر کو بیان کرتے ہوئے خاص طور پر اس بات پر زور دیا ہے کہ نبی صلی اللہ علیہ وآلہ وسلم کی اطاعت ان کے بعد اہل بیت علیہم السلام کی اطاعت تک ممتد ہے۔ قرطبی نے ہر ممانعت کے قانونی مضمرات پر تفصیلی بحث کی ہے اور دونوں مکاتب اسلامی اخلاقیات میں ان کی بنیادی اہمیت پر متفق ہیں۔ دونوں روایات نوٹ کرتی ہیں کہ ''معروف میں'' کا فقرہ یہ ظاہر کرتا ہے کہ قیادت کی اطاعت راستبازی کے اندر محدود ہے، مطلق نہیں۔ فخر الدین رازی نے ہر ممانعت کی حکمت کو بحث کیا ہے اور ظاہر کیا ہے کہ یہ کیسے سماجی اور روحانی صحت قائم کرتی ہیں۔ نبی صلی اللہ علیہ وآلہ وسلم نے یہ بیعت کس طرح لی اس پر روایات میں دونوں روایتوں کے درمیان معمولی فرق ہے، لیکن تمام اس کی زبانی نوعیت اور باوقار طرز عمل پر متفق ہیں۔ دونوں مکاتب کا اتفاق ہے کہ یہ آیت ایمان کے بنیادی اخلاقی عہدوں کو قائم کرتی ہے، اسلامی اقدار پر عوامی بیعت کی اہمیت کو ظاہر کرتی ہے، اور یہ سکھاتی ہے کہ خلوص دل کے ساتھ کی گئی بیعت بھی الہی مغفرت کی طلب کے ساتھ ہونی چاہیے۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على التفسير الأساسي لهذه الآية بوصفها وصفاً للبيعة التي أخذها النبيُّ من النساء في مكة. ويُفيض ابن كثير في الروايات التاريخية عن أسلوب أخذ البيعة وأحوال النساء اللواتي أتين مبايِعاتٍ. ويُفصِّل الطبري كل بندٍ من بنود البيعة في ضوء الممارسات الجاهلية التي جاءت الآية تحريماً صريحاً لها. ويُشارك علماء الشيعة في هذه الروايات التاريخية مع إبراز خاص لامتداد طاعة النبيِّ إلى الأئمة عليهم السلام من بعده، وهو بُعدٌ لا يرد بالصراحة ذاتها في التفسيرات السنية. ويُناقش القرطبي الأثر القانوني لكل نهي، ويتَّفق المذهبان على الأهمية الجوهرية لهذه الالتزامات في البناء الأخلاقي للإسلام. ويُنبِّه الفريقان إلى أن قيد «في معروف» يرسم حدوداً للطاعة، إذ لا طاعة لمخلوق في معصية الخالق. ويستعرض الفخر الرازي الحكمة الكامنة في كل نهي مُبيِّناً الأبعاد الاجتماعية والروحية لكل منها. ويؤكِّد الفريقان أن الأمر باستغفار النبيِّ للمبايِعات درسٌ بليغ في التواضع والاستمداد الدائم من رحمة الله بصرف النظر عن مستوى الصلاح المُحقَّق. والخلاصة التي يتَّفق عليها التقليدان أن هذه الآية ترسم الإطار الأخلاقي الأساسي للمؤمنة في كل عصر ومصر."
+  },
+  "13": {
+    "quickOverview": {
+      "concepts": [
+        {
+          "id": "60:13:divine-anger",
+          "title": "Angered by Allah",
+          "icon": "exclamationmark.triangle.fill",
+          "colorHex": "#E57373",
+          "coreInsight": "Believers are forbidden from allying with people who have earned Allah's anger - those whose persistent rejection has led to divine displeasure.",
+          "whyItMatters": "Aligning ourselves with those under divine wrath risks sharing their spiritual state; we must be conscious of Allah's judgment in choosing companions.",
+          "position": "topLeft",
+          "arabicHighlight": "لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ",
+          "title_urdu": "اللہ کا غضب",
+          "coreInsight_urdu": "مومنوں کو ان لوگوں سے اتحاد کرنے سے منع کیا گیا ہے جنہوں نے اللہ کا غضب کمایا ہے - وہ جن کی مسلسل تردید نے الہی ناراضگی کی طرف رہنمائی کی۔",
+          "whyItMatters_urdu": "الہی غضب میں رہنے والوں کے ساتھ صف بندی کرنا ان کی روحانی حالت کو بانٹنے کا خطرہ ہے؛ ہمیں ساتھیوں کے انتخاب میں اللہ کے فیصلے سے آگاہ ہونا چاہیے۔",
+          "title_ar": "غضب الله",
+          "coreInsight_ar": "يُمنع المؤمنون من التحالف مع قوم غضب الله عليهم - أولئك الذين أدى رفضهم المستمر إلى السخط الإلهي.",
+          "whyItMatters_ar": "التحالف مع أولئك الواقعين تحت الغضب الإلهي يخاطر بمشاركة حالتهم الروحية؛ يجب أن نكون واعين لحكم الله في اختيار الرفقاء."
+        },
+        {
+          "id": "60:13:despair-hereafter",
+          "title": "Lost Hope",
+          "icon": "heart.slash.circle.fill",
+          "colorHex": "#9B8FBF",
+          "coreInsight": "Those who anger Allah have despaired of the Hereafter, having lost all hope of reward or success in the afterlife due to their rejection.",
+          "whyItMatters": "Despair of the Hereafter is a spiritual death; when people lose hope in divine justice and eternal life, they have nothing left to guide them toward good.",
+          "position": "topRight",
+          "arabicHighlight": "قَدْ يَئِسُوا۟ مِنَ ٱلْءَاخِرَةِ",
+          "title_urdu": "کھوئی ہوئی امید",
+          "coreInsight_urdu": "جنہوں نے اللہ کو ناراض کیا ہے وہ آخرت سے مایوس ہو گئے ہیں، اپنی تردید کی وجہ سے آخرت میں اجر یا کامیابی کی تمام امید کھو بیٹھے ہیں۔",
+          "whyItMatters_urdu": "آخرت سے مایوسی روحانی موت ہے؛ جب لوگ الہی انصاف اور ابدی زندگی میں امید کھو دیتے ہیں، تو ان کے پاس نیکی کی طرف رہنمائی کے لیے کچھ نہیں بچتا۔",
+          "title_ar": "الأمل المفقود",
+          "coreInsight_ar": "أولئك الذين أغضبوا الله قد يئسوا من الآخرة، بعد أن فقدوا كل أمل في الأجر أو النجاح في الآخرة بسبب رفضهم.",
+          "whyItMatters_ar": "اليأس من الآخرة موت روحي؛ عندما يفقد الناس الأمل في العدالة الإلهية والحياة الأبدية، لا يبقى لهم ما يرشدهم نحو الخير."
+        },
+        {
+          "id": "60:13:grave-comparison",
+          "title": "Death's Finality",
+          "icon": "moon.stars.fill",
+          "colorHex": "#64B5F6",
+          "coreInsight": "Their despair of the Hereafter is compared to disbelievers' despair of meeting the dead again - complete hopelessness about resurrection and reunion.",
+          "whyItMatters": "Just as the faithless see death as absolute end, those who anger Allah have spiritually died by losing connection to eternal hope and divine promise.",
+          "position": "bottomLeft",
+          "arabicHighlight": "كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَٰبِ ٱلْقُبُورِ",
+          "title_urdu": "موت کی حتمیت",
+          "coreInsight_urdu": "ان کی آخرت سے مایوسی کا موازنہ کافروں کی مردوں سے دوبارہ ملنے کی مایوسی سے کیا گیا ہے - قیامت اور دوبارہ ملاپ کے بارے میں مکمل مایوسی۔",
+          "whyItMatters_urdu": "جس طرح بے ایمان موت کو مطلق انجام سمجھتے ہیں، جنہوں نے اللہ کو ناراض کیا ہے وہ ابدی امید اور الہی وعدے سے تعلق کھو کر روحانی طور پر مر چکے ہیں۔",
+          "title_ar": "نهائية الموت",
+          "coreInsight_ar": "يُقارن يأسهم من الآخرة بيأس الكافرين من لقاء الموتى مرة أخرى - يأس تام من البعث واللقاء.",
+          "whyItMatters_ar": "كما يرى غير المؤمنين الموت نهاية مطلقة، فإن أولئك الذين أغضبوا الله قد ماتوا روحيًا بفقدان الارتباط بالأمل الأبدي والوعد الإلهي."
+        },
+        {
+          "id": "60:13:surah-conclusion",
+          "title": "Final Warning",
+          "icon": "bell.fill",
+          "colorHex": "#E8B86D",
+          "coreInsight": "The surah concludes by emphasizing the spiritual danger of befriending those who have lost faith in divine justice and eternal accountability.",
+          "whyItMatters": "This final verse reminds us that our associations shape our spiritual state; we must surround ourselves with those who maintain hope in Allah's promise.",
+          "position": "bottomRight",
+          "arabicHighlight": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ",
+          "title_urdu": "آخری تنبیہ",
+          "coreInsight_urdu": "سورہ کا اختتام ان لوگوں سے دوستی کرنے کے روحانی خطرے پر زور دیتے ہوئے ہوتا ہے جنہوں نے الہی انصاف اور ابدی جوابدہی میں ایمان کھو دیا ہے۔",
+          "whyItMatters_urdu": "یہ آخری آیت ہمیں یاد دلاتی ہے کہ ہمارے تعلقات ہماری روحانی حالت کو تشکیل دیتے ہیں؛ ہمیں اپنے آپ کو ان لوگوں سے گھیرنا چاہیے جو اللہ کے وعدے میں امید برقرار رکھتے ہیں۔",
+          "title_ar": "التحذير النهائي",
+          "coreInsight_ar": "تختتم السورة بالتأكيد على الخطر الروحي لمصادقة أولئك الذين فقدوا الإيمان بالعدالة الإلهية والمساءلة الأبدية.",
+          "whyItMatters_ar": "تذكرنا هذه الآية الأخيرة بأن ارتباطاتنا تشكل حالتنا الروحية؛ يجب أن نحيط أنفسنا بأولئك الذين يحافظون على الأمل في وعد الله."
+        }
+      ]
+    },
+    "layer4": "Both Shia and Sunni scholars agree on the interpretation of this verse as warning against alliance with those who have rejected faith and despaired of the Hereafter. Sunni exegetes like Ibn Kathir discuss various opinions about the specific identity of 'people with whom Allah has become angry,' with many suggesting the Jews who violated treaties, though recognizing the principle applies broadly. Tabari emphasizes that despair of the Hereafter is characteristic of those who deny resurrection and eternal life. Shia scholars share these interpretations while emphasizing the verse's universal principle rather than specific group identification. Qurtubi discusses what constitutes divine anger and how it relates to persistent rejection of guidance, with both schools agreeing it results from deliberate rebellion against clear truth. Fakhr al-Din al-Razi explores the philosophical implications of belief or disbelief in the Hereafter for ethical behavior and meaning in life. Both traditions emphasize that this verse concludes the Surah by reinforcing its central message about maintaining appropriate boundaries and allegiances. The consensus is that believers should avoid close alliance with those fundamentally opposed to spiritual values and divine guidance, that faith in the Hereafter is essential to maintaining righteous living, and that one's closest associations should be with those who share commitment to eternal truth and divine accountability. Both schools teach that this verse, concluding the Surah, reinforces the importance of clear Islamic identity and loyalty to divine guidance.",
+    "layer4_urdu": "شیعہ اور سنی دونوں علماء اس آیت کی تفسیر پر متفق ہیں کہ یہ ان لوگوں سے اتحاد کے خلاف خبردار کرتی ہے جنہوں نے ایمان کو رد کر دیا ہے اور آخرت سے مایوس ہیں۔ ابن کثیر جیسے سنی مفسرین نے ''جن پر اللہ نے غضب کیا'' کی مخصوص شناخت کے بارے میں مختلف آراء بیان کی ہیں، بہت سے لوگوں نے معاہدات توڑنے والے یہودیوں کا ذکر کیا ہے، تاہم وہ تسلیم کرتے ہیں کہ یہ اصول وسیع تر ہے۔ طبری نے اس بات پر زور دیا ہے کہ آخرت سے مایوسی ان لوگوں کی خصوصیت ہے جو قیامت اور ابدی زندگی سے انکار کرتے ہیں۔ شیعہ علماء نے ان تفاسیر کو مشترک کرتے ہوئے کسی مخصوص گروہ کی شناخت کے بجائے آیت کے عالمگیر اصول پر زور دیا ہے۔ قرطبی نے الہی غضب کی ماہیت اور رہنمائی کے مسلسل رد سے اس کے تعلق کو بحث کیا ہے اور دونوں مکاتب اس بات پر متفق ہیں کہ یہ جان بوجھ کر واضح حق کی بغاوت سے ہوتا ہے۔ فخر الدین رازی نے آخرت پر ایمان یا انکار کے اخلاقی رویے اور زندگی کے معنی کے لیے فلسفیانہ مضمرات کو بیان کیا ہے۔ دونوں روایات نے اس بات پر زور دیا ہے کہ یہ آیت سورہ کو اس کے مرکزی پیغام کو تقویت دیتے ہوئے ختم کرتی ہے: مناسب حدود اور وفاداریاں برقرار رکھنا۔ دونوں مکاتب کا اتفاق ہے کہ مومنین کو ان لوگوں سے قریبی اتحاد سے بچنا چاہیے جو روحانی اقدار اور الہی رہنمائی کی بنیادی مخالفت رکھتے ہوں، کہ آخرت پر ایمان راستبازانہ زندگی کے لیے ضروری ہے، اور کہ اپنے قریبی تعلقات ان لوگوں کے ساتھ ہونے چاہئیں جو ابدی حق اور الہی جوابدہی پر یکسو ہوں۔",
+    "layer4_ar": "يتَّفق علماء الشيعة والسنة على أن هذه الآية الخاتمة تُحذِّر من الموالاة مع من كذَّبوا بالله واليوم الآخر، وتختم السورة بربط محكم بموضوع افتتاحها. ويُناقش ابن كثير وغيره من المفسِّرين السنة اختلاف العلماء في تحديد القوم المقصودين، مُرجِّحين أنهم يهود المدينة ممن نقضوا العهود، مع الإقرار بشمولية المبدأ لكل من ينطبق عليه الوصف. ويُشارك علماء الشيعة في هذا الاستعراض التاريخي مع ميلٍ واضح إلى تطبيق الآية تطبيقاً مبدئياً أشمل لا يقتصر على فئة بعينها. ويُناقش القرطبي دلالة غضب الله وعلاقته بإسقاط الهداية، ويتَّفق المذهبان على أنه نتيجةٌ للرفض المتعمَّد المتراكم لا تعسُّفٌ إلهي ابتدائي. ويستعرض الفخر الرازي الأبعاد الفلسفية للإيمان والكفر بالآخرة وأثرهما على بناء المنظومة القيمية وتوجيه السلوك الإنساني. ويتَّفق الفريقان على أن الآية تُتوِّج رسالة السورة بخاتمةٍ متسقة: ضرورة الوضوح في الهوية والانتماء، وأن أمتن الروابط الإنسانية هي تلك المبنية على الإيمان المشترك بالله واليوم الآخر والمسؤولية الأبدية. والتطبيقات العملية لهذا المبدأ تلتقي بين التقليدين: الحفاظ على هويةٍ إيمانية راسخة مع الانخراط البنَّاء في الشأن العام دون ذوبان روحي."
+  }
+}
