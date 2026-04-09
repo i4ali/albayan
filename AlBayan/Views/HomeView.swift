@@ -87,7 +87,8 @@ struct HomeView: View {
             .padding(.top, 60)
             .padding(.bottom, 20)
             .background {
-                if themeManager.selectedTheme != .warmInviting {
+                // Light themes (warmInviting, modernLight) use a flat header — no glass/gradient overlay
+                if themeManager.selectedTheme != .warmInviting && themeManager.selectedTheme != .modernLight {
                     Rectangle()
                         .fill(themeManager.glassEffect)
                         .overlay(
