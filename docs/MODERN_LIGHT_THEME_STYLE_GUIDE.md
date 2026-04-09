@@ -4,7 +4,7 @@
 
 This document ensures UI consistency for the "Modern Light" theme across all screens.
 
-**Theme Philosophy:** Refined minimalist light — serenity through breathable white space. Cool-neutral off-white backgrounds, pure white floating cards, a single muted-blue accent, and soft multi-pastel ambience. Modern Light is the clarity-first counterpart to `modernDark` and sits alongside `warmInviting` as a second light option with a distinctly less-warm, more-minimalist personality.
+**Theme Philosophy:** Refined earthy minimalism — serenity through breathable white space and warm terracotta accents. Cool off-white backgrounds, pure white floating cards, a single warm terracotta accent, and soft multi-pastel ambience. Modern Light sits alongside `warmInviting` as a second light option with a distinctly more-minimal, more-contemporary personality — Moleskine/Kinfolk/Muji rather than lavender sanctuary. The name "Modern Light" is retained for architectural continuity, but the feel is earthy minimalist rather than tech-minimalist.
 
 ---
 
@@ -28,10 +28,10 @@ This document ensures UI consistency for the "Modern Light" theme across all scr
 ### Primary Accent
 | Purpose | Hex | RGB | Usage |
 |---------|-----|-----|-------|
-| Steel Blue | `#5B9DD9` | `(0.357, 0.616, 0.851)` | Primary accent, buttons, selection |
-| Deep Steel Blue | `#4280B8` | `(0.259, 0.502, 0.722)` | Gradient end, button shadow tint |
+| Warm Terracotta | `#B86E5C` | `(0.722, 0.431, 0.361)` | Primary accent, buttons, selection |
+| Deep Terracotta | `#9A5A4B` | `(0.604, 0.353, 0.294)` | Gradient end, button shadow tint |
 
-> **Note:** An earlier iteration used `#90BCE1` (muted "baby" blue) as the primary accent. It read as washed-out and tentative against the off-white background. The current steel blue gives the theme the confident, refined presence the "minimalist" direction needs without tipping into corporate navy. The muted `#90BCE1` still appears in the theme — but only as the **Quizzes** category pastel in progress rings, where it sits harmoniously alongside sage/rose/amber in the pastel family (see §1 supporting pastels).
+> **Note:** This theme went through two blue iterations (`#90BCE1` muted baby blue, then `#5B9DD9` steel blue) before settling on terracotta. Both blues read as cold and clinical against the off-white background and never quite clicked. Terracotta shifts the personality from "cool-neutral tech minimal" to "warm earthy minimal" — Moleskine/Kinfolk/Muji energy rather than iOS/Linear. The name "Modern Light" is retained for architectural continuity, but the personality is now earthy minimalist rather than tech minimalist.
 
 ### Supporting Pastels — Ambient + Category Use
 These pastels appear as (a) `floatingOrbColors` background ambience in Modern Light, AND (b) category-specific colors for progress rings, stat card icons, and ring legend across ALL themes. They are NOT used as primary buttons, selected states, or interactive accents — muted blue owns those roles.
@@ -55,11 +55,11 @@ These pastels appear as (a) `floatingOrbColors` background ambience in Modern Li
 ### Gradients
 
 ```swift
-// Steel blue gradient (primary buttons, highlights, surah number badges)
+// Warm terracotta gradient (primary buttons, highlights, surah number badges)
 LinearGradient(
     colors: [
-        Color(red: 0.357, green: 0.616, blue: 0.851),  // #5B9DD9
-        Color(red: 0.259, green: 0.502, blue: 0.722)   // #4280B8
+        Color(red: 0.722, green: 0.431, blue: 0.361),  // #B86E5C
+        Color(red: 0.604, green: 0.353, blue: 0.294)   // #9A5A4B
     ],
     startPoint: .topLeading,
     endPoint: .bottomTrailing
@@ -148,10 +148,10 @@ enum WarmRadius {
 .shadow(color: Color.black.opacity(0.05), radius: 20, x: 0, y: 4)
 ```
 
-### Button Shadow (blue-tinted)
+### Button Shadow (terracotta-tinted)
 ```swift
 .shadow(
-    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.25),
+    color: Color(red: 0.722, green: 0.431, blue: 0.361).opacity(0.25),
     radius: 8,
     x: 0,
     y: 4
@@ -161,15 +161,15 @@ enum WarmRadius {
 ### Badge Shadow
 ```swift
 .shadow(
-    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.3),
+    color: Color(red: 0.722, green: 0.431, blue: 0.361).opacity(0.3),
     radius: 8
 )
 ```
 
-### Stat Card Shadow (blue-tinted)
+### Stat Card Shadow (terracotta-tinted)
 ```swift
 .shadow(
-    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.12),
+    color: Color(red: 0.722, green: 0.431, blue: 0.361).opacity(0.12),
     radius: 12,
     x: 0,
     y: 4
@@ -320,11 +320,11 @@ Identical to existing themes:
 |--------|-------------|-------------|------------|
 | Primary BG | Soft lavender `#F8F5FF` | Off-white `#F8F9FB` | Dark slate `#0F172A` |
 | Primary text | Warm charcoal `#2D2520` | True charcoal `#1A1A1A` | White |
-| Primary accent | Peaceful purple `#9B8FBF` | Steel blue `#5B9DD9` | Indigo `#6366F1` |
+| Primary accent | Peaceful purple `#9B8FBF` | Warm terracotta `#B86E5C` | Indigo `#6366F1` |
 | Secondary accent | Sunset orange `#E89A6F` | — (ambient pastels only) | Pink `#EC4899` |
 | Shadow opacity | `0.04` | `0.05` | (glass blur) |
 | Text undertone | Brown-warm | Cool-neutral | Cool-dark |
-| Overall feel | Lavender sanctuary | Breathable minimalism | Vibrant glassmorphism |
+| Overall feel | Lavender sanctuary | Earthy minimalism | Vibrant glassmorphism |
 
 ---
 

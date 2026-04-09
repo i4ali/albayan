@@ -12,9 +12,9 @@ Add a fourth theme variant, `modernLight`, positioned as the cool-neutral minima
 
 ## 2. Philosophy & Positioning
 
-**Tagline:** "Refined minimalist light — serenity through breathable white space."
+**Tagline:** "Refined earthy minimalism — serenity through breathable white space and warm terracotta accents."
 
-Where `warmInviting` offers a lavender sanctuary feel and `modernDark` offers indigo-pink tech vibrancy, Modern Light offers cool-neutral breathability: off-white backgrounds, pure white cards, a single muted blue accent, and subtle multi-pastel ambience. It is the "tech-modern" light option for users who want clarity over warmth.
+Where `warmInviting` offers a lavender sanctuary feel and `modernDark` offers indigo-pink tech vibrancy, Modern Light offers earthy breathability: off-white backgrounds, pure white cards, a single warm terracotta accent, and subtle multi-pastel ambience. It is the "earthy minimalist" light option for users who want warmth over purple or tech clarity — Moleskine/Kinfolk/Muji rather than lavender sanctuary or iOS clinical.
 
 ### Distinguishing Traits vs. `warmInviting`
 
@@ -22,10 +22,10 @@ Where `warmInviting` offers a lavender sanctuary feel and `modernDark` offers in
 |---|---|---|
 | Primary background | Soft lavender `#F8F5FF` | Off-white cool `#F8F9FB` |
 | Primary text | Warm charcoal `#2D2520` | True charcoal `#1A1A1A` |
-| Primary accent | Peaceful purple `#9B8FBF` | Muted blue `#90BCE1` |
+| Primary accent | Peaceful purple `#9B8FBF` | Warm terracotta `#B86E5C` |
 | Card shadow opacity | `0.04` | `0.05` |
 | Floating orbs | Purple / orange / green | Sage / amber / rose |
-| Overall feel | Lavender sanctuary | Breathable minimalism |
+| Overall feel | Lavender sanctuary | Earthy minimalism |
 
 ## 3. Color Palette
 
@@ -49,10 +49,10 @@ Where `warmInviting` offers a lavender sanctuary feel and `modernDark` offers in
 
 | Purpose | Hex | RGB |
 |---|---|---|
-| Steel Blue (accent) | `#5B9DD9` | `(0.357, 0.616, 0.851)` |
-| Deep Steel Blue (gradient end) | `#4280B8` | `(0.259, 0.502, 0.722)` |
+| Warm Terracotta (accent) | `#B86E5C` | `(0.722, 0.431, 0.361)` |
+| Deep Terracotta (gradient end) | `#9A5A4B` | `(0.604, 0.353, 0.294)` |
 
-> **Post-QA adjustment (2026-04-09):** The initial design used `#90BCE1` (muted baby blue) but it read as washed-out against the off-white background during visual QA. Deepened to `#5B9DD9` / `#4280B8` for more confident presence. The original `#90BCE1` is retained as the Quizzes category pastel in progress rings, where it sits alongside sage/rose/amber in the pastel family.
+> **Post-QA adjustments (2026-04-09):** This theme went through three accent iterations. Initial `#90BCE1` (muted baby blue) read washed-out. Second iteration `#5B9DD9` (steel blue) was more confident but still too cold/clinical against off-white. Final choice: `#B86E5C` warm terracotta — shifts personality from "cool-neutral tech minimal" to "warm earthy minimal" (Moleskine/Kinfolk/Muji). The name "Modern Light" is retained but the feel is now earthy rather than tech. The original `#90BCE1` is retained as the Quizzes category pastel in progress rings.
 
 ### Supporting Pastels (ambient use only, `floatingOrbColors`)
 
@@ -91,9 +91,9 @@ Every switch case in `AlBayan/Services/ThemeManager.swift` needs a `.modernLight
 | `primaryText` | `Color(red: 0.102, green: 0.102, blue: 0.102)` |
 | `secondaryText` | `Color(red: 0.459, green: 0.459, blue: 0.459)` |
 | `tertiaryText` | `Color(red: 0.659, green: 0.659, blue: 0.659)` |
-| `accentColor` | `Color(red: 0.357, green: 0.616, blue: 0.851)` |
-| `accentGradient` | Linear, `#5B9DD9 → #4280B8`, topLeading → bottomTrailing |
-| `purpleGradient` | Same as `accentGradient` (legacy name — steel blue gradient) |
+| `accentColor` | `Color(red: 0.722, green: 0.431, blue: 0.361)` |
+| `accentGradient` | Linear, `#B86E5C → #9A5A4B`, topLeading → bottomTrailing |
+| `purpleGradient` | Same as `accentGradient` (legacy name — terracotta gradient) |
 | `glassEffect` | `.ultraThin` |
 | `strokeColor` | `Color(red: 0.102, green: 0.102, blue: 0.102).opacity(0.08)` |
 | `floatingOrbColors` | `[sage@0.08, amber@0.07, rose@0.06]` |
