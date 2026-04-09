@@ -49,8 +49,10 @@ Where `warmInviting` offers a lavender sanctuary feel and `modernDark` offers in
 
 | Purpose | Hex | RGB |
 |---|---|---|
-| Muted Blue (accent) | `#90BCE1` | `(0.565, 0.737, 0.882)` |
-| Deep Muted Blue (gradient end) | `#6FA3CE` | `(0.435, 0.639, 0.808)` |
+| Steel Blue (accent) | `#5B9DD9` | `(0.357, 0.616, 0.851)` |
+| Deep Steel Blue (gradient end) | `#4280B8` | `(0.259, 0.502, 0.722)` |
+
+> **Post-QA adjustment (2026-04-09):** The initial design used `#90BCE1` (muted baby blue) but it read as washed-out against the off-white background during visual QA. Deepened to `#5B9DD9` / `#4280B8` for more confident presence. The original `#90BCE1` is retained as the Quizzes category pastel in progress rings, where it sits alongside sage/rose/amber in the pastel family.
 
 ### Supporting Pastels (ambient use only, `floatingOrbColors`)
 
@@ -89,9 +91,9 @@ Every switch case in `AlBayan/Services/ThemeManager.swift` needs a `.modernLight
 | `primaryText` | `Color(red: 0.102, green: 0.102, blue: 0.102)` |
 | `secondaryText` | `Color(red: 0.459, green: 0.459, blue: 0.459)` |
 | `tertiaryText` | `Color(red: 0.659, green: 0.659, blue: 0.659)` |
-| `accentColor` | `Color(red: 0.565, green: 0.737, blue: 0.882)` |
-| `accentGradient` | Linear, `#90BCE1 → #6FA3CE`, topLeading → bottomTrailing |
-| `purpleGradient` | Same as `accentGradient` (legacy name — blue pastel gradient) |
+| `accentColor` | `Color(red: 0.357, green: 0.616, blue: 0.851)` |
+| `accentGradient` | Linear, `#5B9DD9 → #4280B8`, topLeading → bottomTrailing |
+| `purpleGradient` | Same as `accentGradient` (legacy name — steel blue gradient) |
 | `glassEffect` | `.ultraThin` |
 | `strokeColor` | `Color(red: 0.102, green: 0.102, blue: 0.102).opacity(0.08)` |
 | `floatingOrbColors` | `[sage@0.08, amber@0.07, rose@0.06]` |

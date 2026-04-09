@@ -496,7 +496,7 @@ struct ModernSurahCard: View {
             )
         case .modernLight:
             return LinearGradient(
-                colors: [Color(red: 0.565, green: 0.737, blue: 0.882), Color(red: 0.435, green: 0.639, blue: 0.808)],
+                colors: [Color(red: 0.357, green: 0.616, blue: 0.851), Color(red: 0.259, green: 0.502, blue: 0.722)],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
             )
@@ -512,7 +512,7 @@ struct ModernSurahCard: View {
         case .modernDark:
             return Color(red: 0.35, green: 0.40, blue: 0.75).opacity(0.4)
         case .modernLight:
-            return Color(red: 0.565, green: 0.737, blue: 0.882).opacity(0.3)
+            return Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.3)
         }
     }
 

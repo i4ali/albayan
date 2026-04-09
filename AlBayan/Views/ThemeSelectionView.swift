@@ -204,7 +204,7 @@ struct ThemePreviewCard: View {
         case .warmInviting:
             return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF
         case .modernLight:
-            return Color(red: 0.565, green: 0.737, blue: 0.882) // #90BCE1
+            return Color(red: 0.357, green: 0.616, blue: 0.851) // #5B9DD9
         case .royalAmethyst:
             return Color(red: 0.88, green: 0.70, blue: 0.50)
         case .modernDark:

@@ -179,8 +179,8 @@ class ThemeManager: ObservableObject {
         case .modernLight:
             return LinearGradient(
                 colors: [
-                    Color(red: 0.565, green: 0.737, blue: 0.882), // #90BCE1 - Muted blue
-                    Color(red: 0.435, green: 0.639, blue: 0.808)  // #6FA3CE - Deep muted blue
+                    Color(red: 0.357, green: 0.616, blue: 0.851), // #5B9DD9 - Steel blue
+                    Color(red: 0.259, green: 0.502, blue: 0.722)  // #4280B8 - Deep steel blue
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
@@ -211,7 +211,7 @@ class ThemeManager: ObservableObject {
         case .warmInviting:
             return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF - peaceful purple
         case .modernLight:
-            return Color(red: 0.565, green: 0.737, blue: 0.882) // #90BCE1 - Muted blue
+            return Color(red: 0.357, green: 0.616, blue: 0.851) // #5B9DD9 - Steel blue
         case .royalAmethyst:
             return Color(red: 0.88, green: 0.70, blue: 0.50) // #e0b37f - warm golden rose
         case .modernDark:
@@ -233,8 +233,8 @@ class ThemeManager: ObservableObject {
         case .modernLight:
             return LinearGradient(
                 colors: [
-                    Color(red: 0.565, green: 0.737, blue: 0.882), // #90BCE1
-                    Color(red: 0.435, green: 0.639, blue: 0.808)  // #6FA3CE
+                    Color(red: 0.357, green: 0.616, blue: 0.851), // #5B9DD9
+                    Color(red: 0.259, green: 0.502, blue: 0.722)  // #4280B8
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing

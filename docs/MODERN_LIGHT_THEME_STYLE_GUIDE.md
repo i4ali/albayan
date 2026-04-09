@@ -28,8 +28,10 @@ This document ensures UI consistency for the "Modern Light" theme across all scr
 ### Primary Accent
 | Purpose | Hex | RGB | Usage |
 |---------|-----|-----|-------|
-| Muted Blue | `#90BCE1` | `(0.565, 0.737, 0.882)` | Primary accent, buttons, selection |
-| Deep Muted Blue | `#6FA3CE` | `(0.435, 0.639, 0.808)` | Gradient end, button shadow tint |
+| Steel Blue | `#5B9DD9` | `(0.357, 0.616, 0.851)` | Primary accent, buttons, selection |
+| Deep Steel Blue | `#4280B8` | `(0.259, 0.502, 0.722)` | Gradient end, button shadow tint |
+
+> **Note:** An earlier iteration used `#90BCE1` (muted "baby" blue) as the primary accent. It read as washed-out and tentative against the off-white background. The current steel blue gives the theme the confident, refined presence the "minimalist" direction needs without tipping into corporate navy. The muted `#90BCE1` still appears in the theme — but only as the **Quizzes** category pastel in progress rings, where it sits harmoniously alongside sage/rose/amber in the pastel family (see §1 supporting pastels).
 
 ### Supporting Pastels — Ambient + Category Use
 These pastels appear as (a) `floatingOrbColors` background ambience in Modern Light, AND (b) category-specific colors for progress rings, stat card icons, and ring legend across ALL themes. They are NOT used as primary buttons, selected states, or interactive accents — muted blue owns those roles.
@@ -53,11 +55,11 @@ These pastels appear as (a) `floatingOrbColors` background ambience in Modern Li
 ### Gradients
 
 ```swift
-// Muted blue gradient (primary buttons, highlights, surah number badges)
+// Steel blue gradient (primary buttons, highlights, surah number badges)
 LinearGradient(
     colors: [
-        Color(red: 0.565, green: 0.737, blue: 0.882),  // #90BCE1
-        Color(red: 0.435, green: 0.639, blue: 0.808)   // #6FA3CE
+        Color(red: 0.357, green: 0.616, blue: 0.851),  // #5B9DD9
+        Color(red: 0.259, green: 0.502, blue: 0.722)   // #4280B8
     ],
     startPoint: .topLeading,
     endPoint: .bottomTrailing
@@ -149,7 +151,7 @@ enum WarmRadius {
 ### Button Shadow (blue-tinted)
 ```swift
 .shadow(
-    color: Color(red: 0.565, green: 0.737, blue: 0.882).opacity(0.25),
+    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.25),
     radius: 8,
     x: 0,
     y: 4
@@ -159,7 +161,7 @@ enum WarmRadius {
 ### Badge Shadow
 ```swift
 .shadow(
-    color: Color(red: 0.565, green: 0.737, blue: 0.882).opacity(0.3),
+    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.3),
     radius: 8
 )
 ```
@@ -167,7 +169,7 @@ enum WarmRadius {
 ### Stat Card Shadow (blue-tinted)
 ```swift
 .shadow(
-    color: Color(red: 0.565, green: 0.737, blue: 0.882).opacity(0.12),
+    color: Color(red: 0.357, green: 0.616, blue: 0.851).opacity(0.12),
     radius: 12,
     x: 0,
     y: 4
@@ -318,7 +320,7 @@ Identical to existing themes:
 |--------|-------------|-------------|------------|
 | Primary BG | Soft lavender `#F8F5FF` | Off-white `#F8F9FB` | Dark slate `#0F172A` |
 | Primary text | Warm charcoal `#2D2520` | True charcoal `#1A1A1A` | White |
-| Primary accent | Peaceful purple `#9B8FBF` | Muted blue `#90BCE1` | Indigo `#6366F1` |
+| Primary accent | Peaceful purple `#9B8FBF` | Steel blue `#5B9DD9` | Indigo `#6366F1` |
 | Secondary accent | Sunset orange `#E89A6F` | — (ambient pastels only) | Pink `#EC4899` |
 | Shadow opacity | `0.04` | `0.05` | (glass blur) |
 | Text undertone | Brown-warm | Cool-neutral | Cool-dark |
