@@ -266,6 +266,12 @@ struct ThemeCard: View {
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
             )
+        case .modernLight:
+            return LinearGradient(
+                colors: [Color(red: 0.973, green: 0.976, blue: 0.984), Color(red: 1.0, green: 1.0, blue: 1.0)],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            )
         case .royalAmethyst:
             return LinearGradient(
                 colors: [Color(red: 0.4, green: 0.2, blue: 0.6), Color(red: 0.3, green: 0.15, blue: 0.5)],
