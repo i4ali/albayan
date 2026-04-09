@@ -79,7 +79,7 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .modernDark, .royalAmethyst:
             return .dark
-        case .warmInviting:
+        case .warmInviting, .modernLight:
             return .light
         }
     }
@@ -89,6 +89,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.973, green: 0.961, blue: 1.0) // #F8F5FF - Soft Lavender
+        case .modernLight:
+            return Color(red: 0.973, green: 0.976, blue: 0.984) // #F8F9FB - Off-white cool
         case .royalAmethyst:
             return Color(red: 0.25, green: 0.14, blue: 0.26) // #3f2342 - rich purple-burgundy
         case .modernDark:
@@ -100,6 +102,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.987, green: 0.969, blue: 0.980) // #FBFBFA - middle blend
+        case .modernLight:
+            return Color(red: 1.0, green: 1.0, blue: 1.0) // #FFFFFF - Pure white cards
         case .royalAmethyst:
             return Color(red: 0.40, green: 0.27, blue: 0.36) // #66455c - mauve-rose purple
         case .modernDark:
@@ -111,6 +115,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 1.0, green: 0.976, blue: 0.961) // #FFF9F5 - Warm White
+        case .modernLight:
+            return Color(red: 0.945, green: 0.953, blue: 0.969) // #F1F3F7 - Accent areas
         case .royalAmethyst:
             return Color(red: 0.51, green: 0.35, blue: 0.44) // #825970 - warm mauve
         case .modernDark:
@@ -123,6 +129,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.176, green: 0.145, blue: 0.125) // #2D2520 - warm charcoal
+        case .modernLight:
+            return Color(red: 0.102, green: 0.102, blue: 0.102) // #1A1A1A - Charcoal
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70) // #fae8b3 - bright champagne gold
         case .modernDark:
@@ -134,6 +142,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.42, green: 0.365, blue: 0.329) // #6B5D54 - soft gray
+        case .modernLight:
+            return Color(red: 0.459, green: 0.459, blue: 0.459) // #757575 - Medium grey
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.85) // softer bright gold
         case .modernDark:
@@ -145,6 +155,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.69, green: 0.64, blue: 0.6) // #B0A399 - light gray
+        case .modernLight:
+            return Color(red: 0.659, green: 0.659, blue: 0.659) // #A8A8A8 - Light grey
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.72) // lighter bright gold
         case .modernDark:
@@ -160,6 +172,15 @@ class ThemeManager: ObservableObject {
                 colors: [
                     Color(red: 0.91, green: 0.604, blue: 0.435), // #E89A6F - sunset orange
                     Color(red: 0.847, green: 0.541, blue: 0.373)  // #D88A5F - deeper orange
+                ],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            )
+        case .modernLight:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.565, green: 0.737, blue: 0.882), // #90BCE1 - Muted blue
+                    Color(red: 0.435, green: 0.639, blue: 0.808)  // #6FA3CE - Deep muted blue
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
@@ -189,6 +210,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF - peaceful purple
+        case .modernLight:
+            return Color(red: 0.565, green: 0.737, blue: 0.882) // #90BCE1 - Muted blue
         case .royalAmethyst:
             return Color(red: 0.88, green: 0.70, blue: 0.50) // #e0b37f - warm golden rose
         case .modernDark:
@@ -203,6 +226,15 @@ class ThemeManager: ObservableObject {
                 colors: [
                     Color(red: 0.608, green: 0.561, blue: 0.749), // #9B8FBF - peaceful purple
                     Color(red: 0.545, green: 0.498, blue: 0.659)  // #8B7FA8 - deeper purple
+                ],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            )
+        case .modernLight:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.565, green: 0.737, blue: 0.882), // #90BCE1
+                    Color(red: 0.435, green: 0.639, blue: 0.808)  // #6FA3CE
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
@@ -224,6 +256,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return .ultraThin // Very subtle for warm sanctuary feel
+        case .modernLight:
+            return .ultraThin // Frosted minimalist glass for nav bar
         case .royalAmethyst:
             return .ultraThinMaterial // Dark material for royal amethyst
         case .modernDark:
@@ -235,6 +269,8 @@ class ThemeManager: ObservableObject {
         switch selectedTheme {
         case .warmInviting:
             return Color(red: 0.176, green: 0.145, blue: 0.125).opacity(0.1) // Very subtle warm charcoal
+        case .modernLight:
+            return Color(red: 0.102, green: 0.102, blue: 0.102).opacity(0.08) // Subtle charcoal hairline
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.15) // Bright gold stroke
         case .modernDark:
@@ -250,6 +286,12 @@ class ThemeManager: ObservableObject {
                 Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.06), // Peaceful purple (subtle)
                 Color(red: 0.91, green: 0.604, blue: 0.435).opacity(0.05),  // Sunset orange (very subtle)
                 Color(red: 0.498, green: 0.722, blue: 0.604).opacity(0.04)  // Serene green (barely visible)
+            ]
+        case .modernLight:
+            return [
+                Color(red: 0.537, green: 0.788, blue: 0.706).opacity(0.08), // #89C9B4 Sage
+                Color(red: 0.922, green: 0.753, blue: 0.471).opacity(0.07), // #EBC078 Amber
+                Color(red: 0.851, green: 0.584, blue: 0.631).opacity(0.06)  // #D995A1 Rose
             ]
         case .royalAmethyst:
             return [
