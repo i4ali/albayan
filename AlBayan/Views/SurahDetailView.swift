@@ -450,7 +450,7 @@ struct ModernSurahHeader: View {
                             } else {
                                 RoundedRectangle(cornerRadius: 20)
                                     .fill(themeManager.purpleGradient)
-                                    .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 8)
+                                    .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
                             }
                         }
                     }
@@ -740,7 +740,7 @@ struct ModernVerseCard: View {
                                 .font(.system(size: 16, weight: .semibold))
                                 .foregroundColor(.white)
                         )
-                        .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 8)
+                        .shadow(color: themeManager.accentColor.opacity(0.4), radius: 8)
                 }
 
                 Spacer()
@@ -953,14 +953,9 @@ struct ModernVerseCard: View {
                 .foregroundColor(verse.tafsir != nil ? themeManager.primaryText : themeManager.tertiaryText)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
-                .background(
-                    RoundedRectangle(cornerRadius: 12)
-                        .fill(themeManager.glassEffect)
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 12)
-                                .stroke(themeManager.strokeColor, lineWidth: 1)
-                        )
-                )
+                .background {
+                    splitButtonBackground
+                }
             }
             .opacity(verse.tafsir != nil ? 1.0 : 0.5)
             .disabled(verse.tafsir == nil)
@@ -982,15 +977,29 @@ struct ModernVerseCard: View {
                 .foregroundColor(themeManager.primaryText)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
-                .background(
-                    RoundedRectangle(cornerRadius: 12)
-                        .fill(themeManager.glassEffect)
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 12)
-                                .stroke(themeManager.strokeColor, lineWidth: 1)
-                        )
-                )
+                .background {
+                    splitButtonBackground
+                }
             }
+        }
+    }
+
+    @ViewBuilder
+    private var splitButtonBackground: some View {
+        if themeManager.selectedTheme == .modernLight {
+            RoundedRectangle(cornerRadius: 12)
+                .fill(themeManager.secondaryBackground)
+                .overlay(
+                    RoundedRectangle(cornerRadius: 12)
+                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                )
+        } else {
+            RoundedRectangle(cornerRadius: 12)
+                .fill(themeManager.glassEffect)
+                .overlay(
+                    RoundedRectangle(cornerRadius: 12)
+                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                )
         }
     }
 }
