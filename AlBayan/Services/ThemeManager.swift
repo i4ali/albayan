@@ -9,6 +9,7 @@ import SwiftUI
 
 enum ThemeVariant: String, CaseIterable {
     case warmInviting = "warmInviting"
+    case modernLight = "modernLight"
     case royalAmethyst = "royalAmethyst"
     case modernDark = "modernDark"
 
@@ -16,6 +17,8 @@ enum ThemeVariant: String, CaseIterable {
         switch self {
         case .warmInviting:
             return "Warm & Inviting"
+        case .modernLight:
+            return "Modern Light"
         case .royalAmethyst:
             return "Royal Amethyst"
         case .modernDark:
@@ -27,6 +30,8 @@ enum ThemeVariant: String, CaseIterable {
         switch self {
         case .warmInviting:
             return "Sanctuary-like warm design"
+        case .modernLight:
+            return "Refined minimalist light design"
         case .royalAmethyst:
             return "Luxurious purple with gold accents"
         case .modernDark:
