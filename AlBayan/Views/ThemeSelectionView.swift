@@ -164,6 +164,8 @@ struct ThemePreviewCard: View {
         switch theme {
         case .warmInviting:
             return Color(red: 0.97, green: 0.96, blue: 1.0) // #F8F5FF
+        case .modernLight:
+            return Color(red: 0.973, green: 0.976, blue: 0.984) // #F8F9FB
         case .royalAmethyst:
             return Color(red: 0.25, green: 0.14, blue: 0.26)
         case .modernDark:
@@ -175,6 +177,8 @@ struct ThemePreviewCard: View {
         switch theme {
         case .warmInviting:
             return Color(red: 0.176, green: 0.145, blue: 0.125) // #2D2520
+        case .modernLight:
+            return Color(red: 0.102, green: 0.102, blue: 0.102) // #1A1A1A
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70)
         case .modernDark:
@@ -186,6 +190,8 @@ struct ThemePreviewCard: View {
         switch theme {
         case .warmInviting:
             return Color(red: 0.42, green: 0.365, blue: 0.329) // #6B5D54
+        case .modernLight:
+            return Color(red: 0.459, green: 0.459, blue: 0.459) // #757575
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.85)
         case .modernDark:
@@ -197,6 +203,8 @@ struct ThemePreviewCard: View {
         switch theme {
         case .warmInviting:
             return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF
+        case .modernLight:
+            return Color(red: 0.565, green: 0.737, blue: 0.882) // #90BCE1
         case .royalAmethyst:
             return Color(red: 0.88, green: 0.70, blue: 0.50)
         case .modernDark:
@@ -208,6 +216,8 @@ struct ThemePreviewCard: View {
         switch theme {
         case .warmInviting:
             return Color(red: 0.176, green: 0.145, blue: 0.125).opacity(0.1)
+        case .modernLight:
+            return Color(red: 0.102, green: 0.102, blue: 0.102).opacity(0.08)
         case .royalAmethyst:
             return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.15)
         case .modernDark:
