@@ -43,7 +43,7 @@ struct MainTabView: View {
                     Label {
                         Text("Progress")
                     } icon: {
-                        Image(systemName: "circle.circle")
+                        Image(systemName: "chart.pie.fill")
                     }
                 }
                 .tag(2)
