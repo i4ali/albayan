@@ -14,27 +14,28 @@ struct ProgressRingsStack: View {
     let ramadanProgress: Double    // Ramadan days / 30
     let showRamadanRing: Bool
 
-    // Fixed vibrant colors (Apple Watch style)
+    // Refined pastel category colors (matches Modern Light style guide)
+    // Quran = Sage, Surahs = Dusty Rose, Quizzes = Muted Blue, Ramadan = Soft Amber
     private let quranGradient = LinearGradient(
-        colors: [Color(hex: "FF2D55"), Color(hex: "FF6B6B")],
+        colors: [Color(hex: "89C9B4"), Color(hex: "6FB89E")],
         startPoint: .topLeading,
         endPoint: .bottomTrailing
     )
 
     private let surahGradient = LinearGradient(
-        colors: [Color(hex: "30D158"), Color(hex: "34C759")],
+        colors: [Color(hex: "D995A1"), Color(hex: "C87A89")],
         startPoint: .topLeading,
         endPoint: .bottomTrailing
     )
 
     private let quizGradient = LinearGradient(
-        colors: [Color(hex: "0A84FF"), Color(hex: "5AC8FA")],
+        colors: [Color(hex: "90BCE1"), Color(hex: "6FA3CE")],
         startPoint: .topLeading,
         endPoint: .bottomTrailing
     )
 
     private let ramadanGradient = LinearGradient(
-        colors: [Color(hex: "FFD60A"), Color(hex: "FFCC00")],
+        colors: [Color(hex: "EBC078"), Color(hex: "D9A85C")],
         startPoint: .topLeading,
         endPoint: .bottomTrailing
     )
@@ -49,7 +50,7 @@ struct ProgressRingsStack: View {
                 gradient: quranGradient,
                 lineWidth: 20,
                 size: 240,
-                shadowColor: Color(hex: "FF2D55")
+                shadowColor: Color(hex: "89C9B4")
             )
 
             // Middle ring - Surah Completion (180pt, 18pt width)
@@ -58,7 +59,7 @@ struct ProgressRingsStack: View {
                 gradient: surahGradient,
                 lineWidth: 18,
                 size: 180,
-                shadowColor: Color(hex: "30D158")
+                shadowColor: Color(hex: "D995A1")
             )
 
             // Inner ring - Quiz Progress (120pt, 16pt width)
@@ -67,7 +68,7 @@ struct ProgressRingsStack: View {
                 gradient: quizGradient,
                 lineWidth: 16,
                 size: 120,
-                shadowColor: Color(hex: "0A84FF")
+                shadowColor: Color(hex: "90BCE1")
             )
 
             // Innermost ring - Ramadan (60pt, 14pt width) - Seasonal only
@@ -77,7 +78,7 @@ struct ProgressRingsStack: View {
                     gradient: ramadanGradient,
                     lineWidth: 14,
                     size: 60,
-                    shadowColor: Color(hex: "FFD60A")
+                    shadowColor: Color(hex: "EBC078")
                 )
             }
 
@@ -104,12 +105,12 @@ struct RingLegend: View {
 
     var body: some View {
         HStack(spacing: 16) {
-            LegendItem(color: Color(hex: "FF2D55"), label: "Quran")
-            LegendItem(color: Color(hex: "30D158"), label: "Surahs")
-            LegendItem(color: Color(hex: "0A84FF"), label: "Quizzes")
+            LegendItem(color: Color(hex: "89C9B4"), label: "Quran")
+            LegendItem(color: Color(hex: "D995A1"), label: "Surahs")
+            LegendItem(color: Color(hex: "90BCE1"), label: "Quizzes")
 
             if showRamadanRing {
-                LegendItem(color: Color(hex: "FFD60A"), label: "Ramadan")
+                LegendItem(color: Color(hex: "EBC078"), label: "Ramadan")
             }
         }
     }
