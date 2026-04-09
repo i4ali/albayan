@@ -31,14 +31,24 @@ This document ensures UI consistency for the "Modern Light" theme across all scr
 | Muted Blue | `#90BCE1` | `(0.565, 0.737, 0.882)` | Primary accent, buttons, selection |
 | Deep Muted Blue | `#6FA3CE` | `(0.435, 0.639, 0.808)` | Gradient end, button shadow tint |
 
-### Supporting Pastels — Ambient Only
-These pastels appear ONLY as `floatingOrbColors` background ambience. They are not used as call-to-action colors, button tints, or progress ring strokes. Keep them visually subtle.
+### Supporting Pastels — Ambient + Category Use
+These pastels appear as (a) `floatingOrbColors` background ambience in Modern Light, AND (b) category-specific colors for progress rings, stat card icons, and ring legend across ALL themes. They are NOT used as primary buttons, selected states, or interactive accents — muted blue owns those roles.
 
-| Purpose | Hex | RGB | Ambient Opacity |
-|---------|-----|-----|-----------------|
-| Sage Green | `#89C9B4` | `(0.537, 0.788, 0.706)` | `0.08` |
-| Soft Amber | `#EBC078` | `(0.922, 0.753, 0.471)` | `0.07` |
-| Dusty Rose | `#D995A1` | `(0.851, 0.584, 0.631)` | `0.06` |
+| Purpose | Hex | RGB | Ambient Opacity | Category Mapping |
+|---------|-----|-----|-----------------|------------------|
+| Sage Green | `#89C9B4` | `(0.537, 0.788, 0.706)` | `0.08` | **Quran** (reading progress) |
+| Dusty Rose | `#D995A1` | `(0.851, 0.584, 0.631)` | `0.06` | **Surahs** (completion progress) |
+| Muted Blue | `#90BCE1` | `(0.565, 0.737, 0.882)` | n/a (primary accent) | **Quizzes** (quiz progress) |
+| Soft Amber | `#EBC078` | `(0.922, 0.753, 0.471)` | `0.07` | **Ramadan** (seasonal progress) |
+
+**Deeper companions (for gradient ends):**
+
+| Pastel | Deeper Hex | Used For |
+|--------|------------|----------|
+| Sage | `#6FB89E` | Quran ring gradient end |
+| Rose | `#C87A89` | Surah ring gradient end |
+| Muted Blue | `#6FA3CE` | Quiz ring gradient end + primary accent gradient end |
+| Amber | `#D9A85C` | Ramadan ring gradient end |
 
 ### Gradients
 
@@ -318,20 +328,52 @@ Identical to existing themes:
 
 ## 11. Pastel Usage Rules (IMPORTANT)
 
-Sage, amber, and rose pastels appear **only** as background `floatingOrbColors` in Modern Light. They must NOT be used as:
+The supporting pastels (sage, rose, blue, amber) have **two legitimate roles**:
 
-- Button backgrounds
-- Progress ring strokes
-- Icon tints
-- Selection highlights
-- Text colors
-- Border colors
+1. **Ambient background decoration** (Modern Light only) — via `floatingOrbColors` at 6–8% opacity. Subtle shimmer, never competing with content.
+2. **Category indicators** (all themes) — progress rings, stat card icons, and ring legend dots tied to fixed content categories (Quran, Surahs, Quizzes, Ramadan). These live in `ProgressRingsStack.swift` and `ProgressRingsView.swift` and intentionally bypass `ThemeManager` so categories read consistently regardless of theme.
 
-If a future screen needs a category-specific pastel (e.g. Ramadan section), the pattern is to add a `categoryAccent(for:)` helper on `ThemeManager` — NOT to hard-code pastels in view code. That helper does not exist yet; adding it is out of scope for the initial Modern Light implementation.
+**Pastels must NOT be used as:**
+- Primary call-to-action buttons (muted blue owns this)
+- Selection highlights (muted blue)
+- Navigation active states (muted blue)
+- Text colors (charcoal + grey scale)
+- Border colors on generic containers (use `strokeColor`)
+- Shadow colors on non-category elements (use `accentColor` with opacity)
+
+If a future screen needs a new category pastel (e.g. "Dua", "Hadith"), either extend the `ProgressRingsStack` category set or add a dedicated `categoryAccent(for:)` helper on `ThemeManager`. Do NOT hardcode new pastels in random view files.
 
 ---
 
-## 12. Checklist for New Screens (Modern Light Mode)
+## 12. Light-Theme-Specific Rendering Rules
+
+Because Modern Light uses a pure off-white aesthetic, certain SwiftUI `Material` effects (`.ultraThin`, `.thin`) render as a dirty translucent overlay that reads darker than expected. Prefer **solid color fills** over Material for these elements on Modern Light:
+
+- **Split buttons** (e.g. Gems / In-Depth in Surah Detail) — use `themeManager.secondaryBackground` + `strokeColor` border instead of `glassEffect`. Pattern:
+  ```swift
+  @ViewBuilder
+  private var splitButtonBackground: some View {
+      if themeManager.selectedTheme == .modernLight {
+          RoundedRectangle(cornerRadius: 12)
+              .fill(themeManager.secondaryBackground)
+              .overlay(RoundedRectangle(cornerRadius: 12).stroke(themeManager.strokeColor, lineWidth: 1))
+      } else {
+          RoundedRectangle(cornerRadius: 12)
+              .fill(themeManager.glassEffect)
+              .overlay(RoundedRectangle(cornerRadius: 12).stroke(themeManager.strokeColor, lineWidth: 1))
+      }
+  }
+  ```
+
+- **Home header** — uses a flat background on both `warmInviting` and `modernLight`; skip the glass overlay entirely for light themes. See `HomeView.swift` lines ~89-110.
+
+Navigation bar / tab bar still use `themeManager.glassEffect` because system chrome is drawn by UIKit which handles Material correctly in both modes.
+
+## 13. Shadow Rules
+
+**Never hardcode shadow colors.** Always derive from `themeManager.accentColor` (or the primary/secondary/tertiary text colors) with an opacity modifier. Hardcoded indigo shadows from the `modernDark` era (`Color(red: 0.39, green: 0.4, blue: 0.95)`) render as a purple halo on Modern Light — always use `themeManager.accentColor.opacity(0.3)` or similar instead.
+
+## 14. Checklist for New Screens (Modern Light Mode)
 
 - [ ] Use `themeManager.primaryBackground` for screen background
 - [ ] Apply `.rounded` design to all fonts
@@ -341,5 +383,7 @@ If a future screen needs a category-specific pastel (e.g. Ramadan section), the 
 - [ ] Standard 24pt horizontal padding
 - [ ] Consistent spacing using `WarmSpacing` enum
 - [ ] Muted blue (`themeManager.accentColor`) for ALL primary actions and selection states
-- [ ] No hard-coded pastels in view code — pastels live only in `floatingOrbColors`
+- [ ] Category pastels used only in `ProgressRings*` files, following the §1 mapping
+- [ ] Split-button patterns use solid fill, not `glassEffect` (see §12)
+- [ ] Shadow colors derived from `themeManager.accentColor`, never hardcoded (see §13)
 - [ ] Navigation uses glassmorphism via `themeManager.glassEffect` (`.ultraThin`)
