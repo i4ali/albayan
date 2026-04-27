@@ -15,11 +15,9 @@ struct SettingsView: View {
     @StateObject private var audioManager = AudioManager.shared
     @StateObject private var voiceManager = TTSVoiceManager.shared
     @Environment(\.presentationMode) var presentationMode
-    @State private var showingAuthentication = false
     @State private var showingClearDataAlert = false
     @State private var clearDataMessage = ""
     @State private var showingTimePickerSheet = false
-    @State private var showingSyncStatus = false
     @State private var showingResetProgressAlert = false
     @State private var showingReciterSelection = false
     @State private var showingTTSVoiceSelection = false
@@ -241,40 +239,6 @@ struct SettingsView: View {
                                 }
                             }
 
-                            // Account Section
-                            SettingsSection(title: "Account") {
-                                VStack(spacing: 12) {
-                                    if bookmarkManager.isAuthenticated {
-                                        SettingsRow(
-                                            icon: "person.circle.fill",
-                                            title: "Account",
-                                            subtitle: "Signed in",
-                                            iconColor: .green
-                                        ) {
-                                            // Could navigate to account details
-                                        }
-
-                                        SettingsRow(
-                                            icon: "icloud.fill",
-                                            title: "Sync Status",
-                                            subtitle: bookmarkManager.isSyncing ? "Syncing..." : (bookmarkManager.isAuthenticated ? "Cloud sync enabled" : "Not signed in"),
-                                            iconColor: bookmarkManager.isAuthenticated ? .blue : .orange
-                                        ) {
-                                            showingSyncStatus = true
-                                        }
-                                    } else {
-                                        SettingsRow(
-                                            icon: "person.badge.plus",
-                                            title: "Sign In",
-                                            subtitle: "Enable cloud sync for bookmarks",
-                                            iconColor: .blue
-                                        ) {
-                                            showingAuthentication = true
-                                        }
-                                    }
-                                }
-                            }
-                            
                             // Audio Section
                             SettingsSection(title: "Audio") {
                                 VStack(spacing: 12) {
@@ -365,10 +329,6 @@ struct SettingsView: View {
             }
         }
         .navigationBarHidden(true)
-        .sheet(isPresented: $showingAuthentication) {
-            // You can replace this with your actual AuthenticationView
-            Text("Authentication View")
-        }
         .sheet(isPresented: $showingTimePickerSheet) {
             TimePickerSheet(
                 selectedTime: Binding(
@@ -377,9 +337,6 @@ struct SettingsView: View {
                 ),
                 isPresented: $showingTimePickerSheet
             )
-        }
-        .sheet(isPresented: $showingSyncStatus) {
-            SyncStatusDetailView()
         }
         .sheet(isPresented: $showingReciterSelection) {
             ReciterSelectionView()
@@ -640,253 +597,6 @@ struct TimePickerSheet: View {
                         isPresented = false
                     }
                     .foregroundColor(.blue)
-                }
-            }
-        }
-    }
-}
-
-// MARK: - Sync Status Detail View
-
-struct SyncStatusDetailView: View {
-    @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var bookmarkManager = BookmarkManager.shared
-    @Environment(\.dismiss) private var dismiss
-    @State private var isSyncing = false
-    @State private var syncMessage = ""
-    @State private var showingSyncMessage = false
-
-    var body: some View {
-        NavigationView {
-            ZStack {
-                themeManager.primaryBackground
-                    .ignoresSafeArea()
-
-                ScrollView {
-                    VStack(spacing: 24) {
-                        // Connection Status Card
-                        VStack(alignment: .leading, spacing: 16) {
-                            HStack {
-                                Image(systemName: bookmarkManager.isAuthenticated ? "checkmark.circle.fill" : "xmark.circle.fill")
-                                    .font(.system(size: 48))
-                                    .foregroundColor(bookmarkManager.isAuthenticated ? .green : .orange)
-
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text("Connection Status")
-                                        .font(.system(size: 18, weight: .bold))
-                                        .foregroundColor(themeManager.primaryText)
-
-                                    Text(bookmarkManager.isAuthenticated ? "Connected to Cloud" : "Not Signed In")
-                                        .font(.system(size: 14, weight: .medium))
-                                        .foregroundColor(themeManager.secondaryText)
-                                }
-
-                                Spacer()
-                            }
-
-                            if bookmarkManager.isAuthenticated {
-                                Divider()
-                                    .background(themeManager.strokeColor)
-
-                                // Bookmark Count
-                                HStack {
-                                    Image(systemName: "heart.fill")
-                                        .foregroundColor(.pink)
-                                    Text("Bookmarks Synced")
-                                        .font(.system(size: 14, weight: .medium))
-                                        .foregroundColor(themeManager.secondaryText)
-                                    Spacer()
-                                    Text("\(bookmarkManager.bookmarks.count)")
-                                        .font(.system(size: 16, weight: .bold))
-                                        .foregroundColor(themeManager.primaryText)
-                                }
-
-                                // Last Sync Time
-                                HStack {
-                                    Image(systemName: "clock.fill")
-                                        .foregroundColor(.blue)
-                                    Text("Last Sync")
-                                        .font(.system(size: 14, weight: .medium))
-                                        .foregroundColor(themeManager.secondaryText)
-                                    Spacer()
-                                    Text(formatLastSyncTime())
-                                        .font(.system(size: 14, weight: .semibold))
-                                        .foregroundColor(themeManager.primaryText)
-                                }
-                            }
-                        }
-                        .padding(20)
-                        .background(
-                            RoundedRectangle(cornerRadius: 16)
-                                .fill(themeManager.glassEffect)
-                                .overlay(
-                                    RoundedRectangle(cornerRadius: 16)
-                                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                                )
-                        )
-
-                        // Actions
-                        if bookmarkManager.isAuthenticated {
-                            VStack(spacing: 12) {
-                                // Manual Sync Button
-                                Button(action: {
-                                    performManualSync()
-                                }) {
-                                    HStack {
-                                        if isSyncing {
-                                            ProgressView()
-                                                .scaleEffect(0.9)
-                                                .tint(.white)
-                                        } else {
-                                            Image(systemName: "arrow.triangle.2.circlepath")
-                                                .font(.system(size: 16, weight: .semibold))
-                                        }
-
-                                        Text(isSyncing ? "Syncing..." : "Sync Now")
-                                            .font(.system(size: 16, weight: .semibold))
-                                    }
-                                    .foregroundColor(.white)
-                                    .frame(maxWidth: .infinity)
-                                    .padding(.vertical, 16)
-                                    .background(
-                                        RoundedRectangle(cornerRadius: 12)
-                                            .fill(Color.blue)
-                                    )
-                                }
-                                .disabled(isSyncing || bookmarkManager.isSyncing)
-
-                                // Info Text
-                                Text("Bookmarks are automatically synced when you add, edit, or delete them. Use manual sync if you want to force an update.")
-                                    .font(.system(size: 13, weight: .medium))
-                                    .foregroundColor(themeManager.tertiaryText)
-                                    .multilineTextAlignment(.center)
-                                    .padding(.horizontal, 16)
-                            }
-                            .padding(.horizontal, 20)
-                        } else {
-                            VStack(spacing: 16) {
-                                Text("Sign in to enable cloud sync and access your bookmarks across all your devices.")
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
-                                    .multilineTextAlignment(.center)
-                                    .padding(.horizontal, 32)
-
-                                Button(action: {
-                                    dismiss()
-                                    // Trigger authentication screen
-                                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                                        NotificationCenter.default.post(name: .showAuthentication, object: nil)
-                                    }
-                                }) {
-                                    HStack {
-                                        Image(systemName: "person.badge.plus")
-                                            .font(.system(size: 16, weight: .semibold))
-                                        Text("Sign In")
-                                            .font(.system(size: 16, weight: .semibold))
-                                    }
-                                    .foregroundColor(.white)
-                                    .frame(maxWidth: .infinity)
-                                    .padding(.vertical, 16)
-                                    .background(
-                                        RoundedRectangle(cornerRadius: 12)
-                                            .fill(Color.blue)
-                                    )
-                                }
-                                .padding(.horizontal, 20)
-                            }
-                        }
-
-                        // Sync Message
-                        if showingSyncMessage {
-                            HStack {
-                                Image(systemName: syncMessage.contains("success") ? "checkmark.circle.fill" : "exclamationmark.triangle.fill")
-                                    .foregroundColor(syncMessage.contains("success") ? .green : .red)
-                                Text(syncMessage)
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.primaryText)
-                            }
-                            .padding(16)
-                            .background(
-                                RoundedRectangle(cornerRadius: 12)
-                                    .fill(themeManager.glassEffect)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 12)
-                                            .stroke(themeManager.strokeColor, lineWidth: 1)
-                                    )
-                            )
-                            .padding(.horizontal, 20)
-                            .transition(.move(edge: .top).combined(with: .opacity))
-                        }
-
-                        Spacer()
-                    }
-                    .padding(.top, 20)
-                }
-            }
-            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
-            .toolbarBackground(.visible, for: .navigationBar)
-            .navigationTitle("Sync Status")
-            .navigationBarTitleDisplayMode(.inline)
-            .toolbar {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    Button("Done") {
-                        dismiss()
-                    }
-                    .foregroundColor(.blue)
-                }
-            }
-        }
-    }
-
-    private func formatLastSyncTime() -> String {
-        // Get the most recent bookmark's updatedAt time as a proxy for last sync
-        guard let mostRecent = bookmarkManager.bookmarks.max(by: { $0.updatedAt < $1.updatedAt }) else {
-            return "Never"
-        }
-
-        let now = Date()
-        let interval = now.timeIntervalSince(mostRecent.updatedAt)
-
-        if interval < 60 {
-            return "Just now"
-        } else if interval < 3600 {
-            let minutes = Int(interval / 60)
-            return "\(minutes) minute\(minutes == 1 ? "" : "s") ago"
-        } else if interval < 86400 {
-            let hours = Int(interval / 3600)
-            return "\(hours) hour\(hours == 1 ? "" : "s") ago"
-        } else {
-            let days = Int(interval / 86400)
-            return "\(days) day\(days == 1 ? "" : "s") ago"
-        }
-    }
-
-    private func performManualSync() {
-        isSyncing = true
-        syncMessage = ""
-        showingSyncMessage = false
-
-        Task {
-            do {
-                await bookmarkManager.forceSyncWithSupabase()
-
-                await MainActor.run {
-                    isSyncing = false
-                    syncMessage = "Sync completed successfully"
-                    showingSyncMessage = true
-
-                    // Hide message after 3 seconds
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
-                        withAnimation {
-                            showingSyncMessage = false
-                        }
-                    }
-                }
-            } catch {
-                await MainActor.run {
-                    isSyncing = false
-                    syncMessage = "Sync failed: \(error.localizedDescription)"
-                    showingSyncMessage = true
                 }
             }
         }

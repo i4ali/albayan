@@ -8,7 +8,6 @@
 import SwiftUI
 
 extension Notification.Name {
-    static let showAuthentication = Notification.Name("showAuthentication")
     static let navigateToVerse = Notification.Name("NavigateToVerse")
 }
 
@@ -176,7 +175,6 @@ struct SurahListView: View {
     @StateObject private var bookmarkManager = BookmarkManager.shared
     @StateObject private var progressManager = ProgressManager.shared
     @State private var searchText = ""
-    @State private var showingAuthentication = false
     @State private var showingSettings = false
     @State private var showingNotifications = false
     @State private var selectedSurahForDeepLink: SurahWithTafsir?
@@ -284,17 +282,11 @@ struct SurahListView: View {
                     .animation(.spring(response: 0.5, dampingFraction: 0.8), value: bookmarkManager.syncStatus)
             }
         }
-        .fullScreenCover(isPresented: $showingAuthentication) {
-            AuthenticationView()
-        }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
         }
         .sheet(isPresented: $showingNotifications) {
             NotificationsView()
-        }
-        .onReceive(NotificationCenter.default.publisher(for: .showAuthentication)) { _ in
-            showingAuthentication = true
         }
         .onReceive(NotificationCenter.default.publisher(for: .init("showSettings"))) { _ in
             showingSettings = true
@@ -308,7 +300,6 @@ struct SurahListView: View {
 
             // Dismiss any open sheets first
             showingSettings = false
-            showingAuthentication = false
 
             // Find the surah data and navigate after a brief delay to allow sheets to dismiss
             if let surahData = dataManager.availableSurahs.first(where: { $0.surah.number == surah }) {
@@ -465,59 +456,13 @@ struct ModernSurahCard: View {
     }
 }
 
-struct AuthenticationStatusButton: View {
-    @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var supabaseService = SupabaseService.shared
-    @State private var showingProfile = false
-
-    var body: some View {
-        Button(action: {
-            showingProfile = true
-        }) {
-            // Always show avatar (user initials or guest "U")
-            Circle()
-                .fill(themeManager.accentGradient)
-                .frame(width: 40, height: 40)
-                .overlay(
-                    Text(getUserInitials())
-                        .font(.system(size: 16, weight: .semibold))
-                        .foregroundColor(.white)
-                )
-                .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 8)
-        }
-        .buttonStyle(PlainButtonStyle())
-        .sheet(isPresented: $showingProfile) {
-            ProfileMenuView()
-        }
-    }
-    
-    private func getUserInitials() -> String {
-        // Use current user email if online, otherwise fall back to cached email
-        let email = supabaseService.currentUser?.email ?? supabaseService.cachedUserEmail
-        if let email = email {
-            let components = email.components(separatedBy: "@")
-            if let username = components.first {
-                let initials = String(username.prefix(2)).uppercased()
-                return initials
-            }
-        }
-        return "U"
-    }
-}
-
 struct ProfileMenuView: View {
     @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var supabaseService = SupabaseService.shared
-    @StateObject private var bookmarkManager = BookmarkManager.shared
-    @StateObject private var progressManager = ProgressManager.shared
-    @StateObject private var audioManager = AudioManager.shared
     @StateObject private var premiumManager = PremiumManager.shared
     @StateObject private var purchaseManager = PurchaseManager.shared
     @Environment(\.dismiss) private var dismiss
-    @State private var showingSignOutAlert = false
-    @State private var showingAccountDeletion = false
     @State private var showingPaywall = false
-    
+
     var body: some View {
         NavigationView {
             ZStack {
@@ -532,14 +477,14 @@ struct ProfileMenuView: View {
                             .fill(themeManager.accentGradient)
                             .frame(width: 80, height: 80)
                             .overlay(
-                                Text(getUserInitials())
+                                Text("U")
                                     .font(.system(size: 32, weight: .semibold))
                                     .foregroundColor(.white)
                             )
                             .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
-                        
+
                         VStack(spacing: 4) {
-                            Text(getUserEmail())
+                            Text("Guest User")
                                 .font(.system(size: 18, weight: .semibold))
                                 .foregroundColor(themeManager.primaryText)
 
@@ -548,24 +493,9 @@ struct ProfileMenuView: View {
                                 .foregroundColor(premiumManager.isPremium ? .green : .orange)
                         }
                     }
-                    
+
                     // Menu options
                     VStack(spacing: 16) {
-                        // Sign In (for guest users)
-                        if !supabaseService.isAuthenticated {
-                            ProfileMenuItem(
-                                icon: "person.circle",
-                                title: "Sign In",
-                                subtitle: "Sync bookmarks across devices",
-                                action: {
-                                    dismiss()
-                                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
-                                        NotificationCenter.default.post(name: .showAuthentication, object: nil)
-                                    }
-                                }
-                            )
-                        }
-
                         // Upgrade to Premium (for non-premium users)
                         if !premiumManager.isPremium {
                             ProfileMenuItem(
@@ -602,41 +532,8 @@ struct ProfileMenuView: View {
                                 }
                             }
                         )
-
-                        // Sync Status (only for authenticated users)
-                        if supabaseService.isAuthenticated {
-                            ProfileMenuItem(
-                                icon: "arrow.triangle.2.circlepath",
-                                title: "Sync Status",
-                                subtitle: bookmarkManager.isAuthenticated ? "Connected" : "Offline",
-                                action: {
-                                    Task {
-                                        await bookmarkManager.forceSyncWithSupabase()
-                                    }
-                                }
-                            )
-                        }
-
-                        // Sign Out (only for authenticated users)
-                        if supabaseService.isAuthenticated {
-                            ProfileMenuItem(
-                                icon: "rectangle.portrait.and.arrow.right",
-                                title: "Sign Out",
-                                subtitle: "Switch to guest mode",
-                                isDestructive: true,
-                                action: { showingSignOutAlert = true }
-                            )
-
-                            ProfileMenuItem(
-                                icon: "trash.fill",
-                                title: "Delete Account",
-                                subtitle: "Permanently remove account and data",
-                                isDestructive: true,
-                                action: { showingAccountDeletion = true }
-                            )
-                        }
                     }
-                    
+
                     Spacer()
                 }
                 .padding(.horizontal, 20)
@@ -656,48 +553,9 @@ struct ProfileMenuView: View {
             }
         }
         .preferredColorScheme(themeManager.colorScheme)
-        .alert("Sign Out", isPresented: $showingSignOutAlert) {
-            Button("Cancel", role: .cancel) {}
-            Button("Sign Out", role: .destructive) {
-                Task {
-                    await bookmarkManager.signOutAndClearRemoteData()
-                    await progressManager.signOutAndClearRemoteData()
-                    await MainActor.run {
-                        dismiss()
-                        // Trigger authentication screen after sign out
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
-                            NotificationCenter.default.post(name: .showAuthentication, object: nil)
-                        }
-                    }
-                }
-            }
-        } message: {
-            Text("Your bookmarks will remain on this device, but you'll need to sign in again to sync across devices.")
-        }
-        .sheet(isPresented: $showingAccountDeletion) {
-            AccountDeletionView()
-        }
         .fullScreenCover(isPresented: $showingPaywall) {
             PaywallView()
         }
-    }
-    
-    private func getUserInitials() -> String {
-        // Use current user email if online, otherwise fall back to cached email
-        let email = supabaseService.currentUser?.email ?? supabaseService.cachedUserEmail
-        if let email = email {
-            let components = email.components(separatedBy: "@")
-            if let username = components.first {
-                let initials = String(username.prefix(2)).uppercased()
-                return initials
-            }
-        }
-        return "U"
-    }
-    
-    private func getUserEmail() -> String {
-        // Use current user email if online, otherwise fall back to cached email
-        return supabaseService.currentUser?.email ?? supabaseService.cachedUserEmail ?? "Guest User"
     }
 }
 
@@ -1013,7 +871,6 @@ struct AudioSettingCard<Content: View>: View {
 
 struct ProfileAvatar: View {
     @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var supabaseService = SupabaseService.shared
     @State private var showingProfile = false
 
     var body: some View {
@@ -1024,7 +881,7 @@ struct ProfileAvatar: View {
                 .fill(themeManager.accentGradient)
                 .frame(width: 44, height: 44)
                 .overlay(
-                    Text(getUserInitials())
+                    Text("U")
                         .font(.system(size: 16, weight: .bold))
                         .foregroundColor(.white)
                 )
@@ -1037,19 +894,6 @@ struct ProfileAvatar: View {
         .sheet(isPresented: $showingProfile) {
             ProfileMenuView()
         }
-    }
-
-    private func getUserInitials() -> String {
-        // Use current user email if online, otherwise fall back to cached email
-        let email = supabaseService.currentUser?.email ?? supabaseService.cachedUserEmail
-        if let email = email {
-            let components = email.components(separatedBy: "@")
-            if let username = components.first {
-                let initials = String(username.prefix(2)).uppercased()
-                return initials
-            }
-        }
-        return "U"
     }
 }
 

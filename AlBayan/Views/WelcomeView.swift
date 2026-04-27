@@ -9,9 +9,7 @@ import SwiftUI
 
 struct WelcomeView: View {
     @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var supabaseService = SupabaseService.shared
     @Environment(\.dismiss) private var dismiss
-    @State private var showingAuthentication = false
     @State private var isAnimating = false
     
     var body: some View {
@@ -119,7 +117,7 @@ struct WelcomeView: View {
                     
                     // Access options
                     VStack(spacing: 20) {
-                        // Continue as Guest button (primary)
+                        // Continue button (primary)
                         Button(action: {
                             markWelcomeAsShown()
                             dismiss()
@@ -127,7 +125,7 @@ struct WelcomeView: View {
                             HStack {
                                 Image(systemName: "book.closed")
                                     .font(.system(size: 18, weight: .semibold))
-                                Text("Continue as Guest")
+                                Text("Get Started")
                                     .font(.system(size: 18, weight: .semibold))
                             }
                             .foregroundColor(.white)
@@ -139,65 +137,6 @@ struct WelcomeView: View {
                             )
                             .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
                         }
-                        
-                        // Sign up button
-                        Button(action: {
-                            showingAuthentication = true
-                        }) {
-                            HStack {
-                                Image(systemName: "person.badge.plus")
-                                    .font(.system(size: 18, weight: .semibold))
-                                Text("Create Account")
-                                    .font(.system(size: 18, weight: .semibold))
-                            }
-                            .foregroundColor(themeManager.primaryText)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background(
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.glassEffect)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 16)
-                                            .stroke(themeManager.strokeColor, lineWidth: 1.5)
-                                    )
-                            )
-                        }
-                        
-                        // Sign in button
-                        Button(action: {
-                            showingAuthentication = true
-                        }) {
-                            HStack {
-                                Image(systemName: "person.circle")
-                                    .font(.system(size: 18, weight: .semibold))
-                                Text("Sign In")
-                                    .font(.system(size: 18, weight: .semibold))
-                            }
-                            .foregroundColor(themeManager.primaryText)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background(
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.glassEffect)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 16)
-                                            .stroke(themeManager.strokeColor, lineWidth: 1.5)
-                                    )
-                            )
-                        }
-                        
-                        // Note about account benefits (optional)
-                        VStack(spacing: 8) {
-                            Text("Account Benefits")
-                                .font(.system(size: 14, weight: .semibold))
-                                .foregroundColor(themeManager.primaryText)
-                            
-                            Text("Create an account to sync your bookmarks across devices and access additional features.")
-                                .font(.system(size: 12, weight: .medium))
-                                .foregroundColor(themeManager.secondaryText)
-                                .multilineTextAlignment(.center)
-                        }
-                        .padding(.top, 8)
                     }
                     .padding(.horizontal, 24)
                     
@@ -209,16 +148,6 @@ struct WelcomeView: View {
         .preferredColorScheme(themeManager.colorScheme)
         .onAppear {
             isAnimating = true
-        }
-        .fullScreenCover(isPresented: $showingAuthentication) {
-            AuthenticationView()
-                .onDisappear {
-                    // If user completed authentication, dismiss welcome screen
-                    if supabaseService.isAuthenticated {
-                        markWelcomeAsShown()
-                        dismiss()
-                    }
-                }
         }
     }
     

@@ -13,7 +13,6 @@ struct HomeView: View {
     @StateObject private var bookmarkManager = BookmarkManager.shared
     @StateObject private var progressManager = ProgressManager.shared
     @State private var searchText = ""
-    @State private var showingAuthentication = false
     @State private var showingSettings = false
     @State private var showingNotifications = false
     @State private var selectedSurahForDeepLink: SurahWithTafsir?
@@ -118,17 +117,11 @@ struct HomeView: View {
                     .animation(.spring(response: 0.5, dampingFraction: 0.8), value: bookmarkManager.syncStatus)
             }
         }
-        .fullScreenCover(isPresented: $showingAuthentication) {
-            AuthenticationView()
-        }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
         }
         .sheet(isPresented: $showingNotifications) {
             NotificationsView()
-        }
-        .onReceive(NotificationCenter.default.publisher(for: .showAuthentication)) { _ in
-            showingAuthentication = true
         }
         .onReceive(NotificationCenter.default.publisher(for: .init("showSettings"))) { _ in
             showingSettings = true
@@ -142,7 +135,6 @@ struct HomeView: View {
 
             // Dismiss any open sheets first
             showingSettings = false
-            showingAuthentication = false
 
             // Find the surah data and navigate after a brief delay to allow sheets to dismiss
             if let surahData = dataManager.availableSurahs.first(where: { $0.surah.number == surah }) {

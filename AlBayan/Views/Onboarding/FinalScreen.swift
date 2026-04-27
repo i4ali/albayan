@@ -9,9 +9,7 @@ import SwiftUI
 
 struct FinalScreen: View {
     @StateObject private var themeManager = ThemeManager.shared
-    @StateObject private var supabaseService = SupabaseService.shared
     let onComplete: () -> Void
-    @State private var showingAuthentication = false
     @State private var isVisible = false
 
     var body: some View {
@@ -36,14 +34,13 @@ struct FinalScreen: View {
                             .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
                     }
 
-                    // Account buttons
+                    // Get started button
                     VStack(spacing: 16) {
-                        // Continue as Guest (primary)
                         Button(action: onComplete) {
                             HStack {
                                 Image(systemName: "book.closed")
                                     .font(.system(size: 18, weight: .semibold))
-                                Text("Continue as Guest")
+                                Text("Get Started")
                                     .font(.system(size: 18, weight: .semibold))
                             }
                             .foregroundColor(.white)
@@ -55,65 +52,6 @@ struct FinalScreen: View {
                             )
                             .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
                         }
-
-                        // Sign Up
-                        Button(action: {
-                            showingAuthentication = true
-                        }) {
-                            HStack {
-                                Image(systemName: "person.badge.plus")
-                                    .font(.system(size: 18, weight: .semibold))
-                                Text("Create Account")
-                                    .font(.system(size: 18, weight: .semibold))
-                            }
-                            .foregroundColor(themeManager.primaryText)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background(
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.glassEffect)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 16)
-                                            .stroke(themeManager.strokeColor, lineWidth: 1.5)
-                                    )
-                            )
-                        }
-
-                        // Sign In
-                        Button(action: {
-                            showingAuthentication = true
-                        }) {
-                            HStack {
-                                Image(systemName: "person.circle")
-                                    .font(.system(size: 18, weight: .semibold))
-                                Text("Sign In")
-                                    .font(.system(size: 18, weight: .semibold))
-                            }
-                            .foregroundColor(themeManager.primaryText)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background(
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.glassEffect)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 16)
-                                            .stroke(themeManager.strokeColor, lineWidth: 1.5)
-                                    )
-                            )
-                        }
-
-                        // Account benefits note
-                        VStack(spacing: 8) {
-                            Text("Account Benefits")
-                                .font(.system(size: 14, weight: .semibold))
-                                .foregroundColor(themeManager.primaryText)
-
-                            Text("Sync bookmarks across devices and save your reading progress")
-                                .font(.system(size: 12, weight: .medium))
-                                .foregroundColor(themeManager.secondaryText)
-                                .multilineTextAlignment(.center)
-                        }
-                        .padding(.top, 8)
                     }
                     .padding(.horizontal, 24)
                     .opacity(isVisible ? 1 : 0)
@@ -127,14 +65,6 @@ struct FinalScreen: View {
         .background(themeManager.primaryBackground)
         .onAppear {
             isVisible = true
-        }
-        .fullScreenCover(isPresented: $showingAuthentication) {
-            AuthenticationView()
-                .onDisappear {
-                    if supabaseService.isAuthenticated {
-                        onComplete()
-                    }
-                }
         }
     }
 }

@@ -6,12 +6,10 @@
 //
 
 import SwiftUI
-import Supabase
 import UserNotifications
 
 @main
 struct AlBayanApp: App {
-    @StateObject private var supabaseService = SupabaseService.shared
     @StateObject private var notificationManager = NotificationManager.shared
 
     init() {
@@ -29,14 +27,8 @@ struct AlBayanApp: App {
     }
     
     private func handleDeepLink(_ url: URL) {
-        // Handle Supabase authentication callback
-        if url.scheme == "albayan" && url.host == "auth" {
-            Task {
-                await handleAuthCallback(url)
-            }
-        }
         // Handle verse deep link from notifications
-        else if url.scheme == "albayan" && url.host == "verse" {
+        if url.scheme == "albayan" && url.host == "verse" {
             handleVerseDeepLink(url)
         }
     }
@@ -72,18 +64,6 @@ struct AlBayanApp: App {
         )
     }
     
-    private func handleAuthCallback(_ url: URL) async {
-        do {
-            // Extract the URL components for Supabase auth
-            let session = try await supabaseService.getClient().auth.session(from: url)
-
-            // The session should now be updated automatically
-            print("✅ Successfully handled auth callback - User: \(session.user.id)")
-
-        } catch {
-            print("❌ Failed to handle auth callback: \(error)")
-        }
-    }
 }
 
 // MARK: - Notification Delegate

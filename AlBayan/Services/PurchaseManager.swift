@@ -78,11 +78,8 @@ class PurchaseManager: ObservableObject {
                 // Verify the transaction
                 let transaction = try checkVerified(verification)
 
-                // Update premium status in Supabase
-                await syncPremiumStatusToSupabase()
-
-                // Update UI
-                await PremiumManager.shared.checkPremiumStatus()
+                // Update premium status
+                await PremiumManager.shared.refreshFromStoreKit()
 
                 // Finish the transaction
                 await transaction.finish()
@@ -124,11 +121,8 @@ class PurchaseManager: ObservableObject {
             let hasPremium = await verifyPurchase()
 
             if hasPremium {
-                // Sync to Supabase
-                await syncPremiumStatusToSupabase()
-
-                // Update UI
-                await PremiumManager.shared.checkPremiumStatus()
+                // Update premium status
+                await PremiumManager.shared.refreshFromStoreKit()
 
                 purchaseSuccess = true
                 print("✅ Purchases restored successfully!")
@@ -187,8 +181,7 @@ class PurchaseManager: ObservableObject {
                     let transaction = try self.checkVerified(result)
 
                     // Update premium status
-                    await self.syncPremiumStatusToSupabase()
-                    await PremiumManager.shared.checkPremiumStatus()
+                    await PremiumManager.shared.refreshFromStoreKit()
 
                     // Finish the transaction
                     await transaction.finish()
@@ -198,19 +191,6 @@ class PurchaseManager: ObservableObject {
                     print("❌ Transaction update failed: \(error)")
                 }
             }
-        }
-    }
-
-    private func syncPremiumStatusToSupabase() async {
-        print("🔄 PurchaseManager: Starting premium status sync to Supabase")
-        do {
-            try await SupabaseService.shared.updateUserPremiumStatus(isPremium: true)
-            print("✅ PurchaseManager: Premium status synced to Supabase successfully")
-        } catch {
-            print("❌ PurchaseManager: Failed to sync premium status to Supabase")
-            print("❌ PurchaseManager: Error: \(error)")
-            print("❌ PurchaseManager: Error description: \(error.localizedDescription)")
-            // Don't throw - we still want the local premium status to work
         }
     }
 
