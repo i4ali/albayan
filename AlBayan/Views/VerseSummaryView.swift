@@ -244,14 +244,7 @@ struct VerseSummaryView: View {
     }
 
     private var backgroundView: some View {
-        LinearGradient(
-            colors: [
-                themeManager.primaryBackground,
-                themeManager.secondaryBackground
-            ],
-            startPoint: .top,
-            endPoint: .bottom
-        )
+        themeManager.primaryBackground
         .ignoresSafeArea()
     }
 }

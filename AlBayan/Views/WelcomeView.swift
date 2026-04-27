@@ -17,15 +17,7 @@ struct WelcomeView: View {
     var body: some View {
         ZStack {
             // Background gradient with floating orbs
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground,
-                    themeManager.tertiaryBackground
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
+            themeManager.primaryBackground
             .ignoresSafeArea()
             
             // Floating gradient orbs
@@ -106,20 +98,20 @@ struct WelcomeView: View {
                             
                             FeatureRow(
                                 icon: "📚",
-                                title: "Classical Shia Commentary",
-                                description: "Tabatabai, Tabrisi, and traditional scholars"
+                                title: "Classical Sunni Commentary",
+                                description: "Tabari, Ibn Kathir, Qurtubi, and the salaf"
                             )
-                            
+
                             FeatureRow(
                                 icon: "🌍",
                                 title: "Contemporary Insights",
                                 description: "Modern perspectives and scientific analysis"
                             )
-                            
+
                             FeatureRow(
-                                icon: "⭐",
-                                title: "Ahlul Bayt Wisdom",
-                                description: "Hadith from the 14 Infallibles"
+                                icon: "⚖️",
+                                title: "Comparative Analysis",
+                                description: "Balanced Sunni and Shia scholarly perspectives"
                             )
                         }
                         .padding(.horizontal, 20)

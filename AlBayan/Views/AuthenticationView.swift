@@ -24,15 +24,7 @@ struct AuthenticationView: View {
     var body: some View {
         ZStack {
             // Background gradient
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground,
-                    themeManager.tertiaryBackground
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
+            themeManager.primaryBackground
             .ignoresSafeArea()
             
             // Floating gradient orbs
@@ -207,7 +199,7 @@ struct AuthenticationView: View {
                         .padding(.vertical, 16)
                         .background(
                             RoundedRectangle(cornerRadius: 12)
-                                .fill(themeManager.glassEffect.opacity(0.5))
+                                .fill(themeManager.glassEffect)
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 12)
                                         .stroke(themeManager.strokeColor.opacity(0.5), lineWidth: 1)

@@ -178,14 +178,7 @@ struct GeometricPatternBackground: View {
     var body: some View {
         ZStack {
             // Subtle gradient
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground
-                ],
-                startPoint: .top,
-                endPoint: .bottom
-            )
+            themeManager.primaryBackground
 
             // Very subtle geometric pattern overlay
             Canvas { context, size in

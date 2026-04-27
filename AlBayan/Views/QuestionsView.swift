@@ -46,7 +46,7 @@ struct QuestionsView: View {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
                                 Text("Questions & Answers")
-                                    .font(.system(size: themeManager.selectedTheme == .warmInviting ? 34 : 32, weight: .bold, design: themeManager.selectedTheme == .warmInviting ? .rounded : .default))
+                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
                                     .foregroundColor(themeManager.primaryText)
 
                                 Text("Find Quranic guidance for life's questions")
@@ -61,7 +61,7 @@ struct QuestionsView: View {
                     .padding(.top, 20)
                     .padding(.bottom, 12)
                     .background {
-                        if themeManager.selectedTheme != .warmInviting {
+                        if !themeManager.useWarmLayout {
                             Rectangle()
                                 .fill(themeManager.glassEffect)
                                 .overlay(
@@ -93,7 +93,7 @@ struct QuestionsView: View {
                     .padding(.horizontal, 16)
                     .padding(.vertical, 12)
                     .background {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 12)
                                 .fill(Color(red: 0.95, green: 0.95, blue: 0.95))
                         } else {
@@ -255,7 +255,7 @@ struct QuestionCardView: View {
         }
         .padding(20)
         .background {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 20)
                     .fill(Color(red: 1.0, green: 1.0, blue: 1.0).opacity(1.0))
                     .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -311,7 +311,7 @@ struct CategoryChip: View {
                         .fill(themeManager.accentGradient)
                         .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
                 } else {
-                    if themeManager.selectedTheme == .warmInviting {
+                    if themeManager.useWarmLayout {
                         Capsule()
                             .fill(Color(red: 0.95, green: 0.95, blue: 0.95))
                     } else {

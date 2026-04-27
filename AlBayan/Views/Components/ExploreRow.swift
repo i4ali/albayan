@@ -21,10 +21,10 @@ struct ExploreRow: View {
                 // Icon
                 Image(systemName: icon)
                     .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(themeManager.selectedTheme == .warmInviting ? .white : themeManager.accentColor)
+                    .foregroundColor(themeManager.useWarmLayout ? .white : themeManager.accentColor)
                     .frame(width: 44, height: 44)
                     .background {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             Circle()
                                 .fill(themeManager.accentGradient)
                                 .shadow(color: themeManager.accentColor.opacity(0.3), radius: 6)
@@ -53,7 +53,7 @@ struct ExploreRow: View {
                 Spacer()
 
                 // Chevron
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     Text(">")
                         .font(.system(size: 16, weight: .medium))
                         .foregroundColor(themeManager.tertiaryText)
@@ -66,7 +66,7 @@ struct ExploreRow: View {
             .padding(.horizontal, 16)
             .padding(.vertical, 16)
             .background(
-                themeManager.selectedTheme == .warmInviting
+                themeManager.useWarmLayout
                     ? AnyShapeStyle(Color.white)
                     : AnyShapeStyle(themeManager.glassEffect)
             )

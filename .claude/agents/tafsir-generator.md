@@ -1,18 +1,22 @@
 ---
 name: tafsir-generator
 description: Generate 3-layer Sunni tafsir commentary for Quranic verses. Use when asked to generate tafsir for a surah or verse range.
-tools: Read, Write, WebSearch, Glob, Bash
+tools: Read, Write, WebSearch, Glob
 model: sonnet
 hooks:
   PreToolUse:
     - matcher: Write
       hooks:
         - type: command
-          command: "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/protect-critical-files.py"
+          command: "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/tafsir-generator-write-guard.py"
     - matcher: Edit
       hooks:
         - type: command
-          command: "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/protect-critical-files.py"
+          command: "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/tafsir-generator-write-guard.py"
+    - matcher: Bash
+      hooks:
+        - type: command
+          command: "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/tafsir-generator-write-guard.py"
   PostToolUse:
     - matcher: Write
       hooks:
@@ -31,17 +35,19 @@ Parse the user's request for:
 
 ## Workflow
 
-1. **Ensure output directory exists**: Run `mkdir -p new_tafsir` to create the directory if needed
-
-2. **Read verse data** using the Read tool on `AlBayan/AlBayan/Data/quran_data.json`
+1. **Read verse data** using the Read tool on `AlBayan/AlBayan/Data/quran_data.json`
    - Access: `data.verses["{surah}"]["{verse}"]`
    - Fields: `arabicText`, `translation`
+   - This file is READ-ONLY to you. You cannot modify any file under `AlBayan/AlBayan/Data/`.
 
-3. **For EACH verse** in the range:
+2. **For EACH verse** in the range:
    - Use **WebSearch once** to gather authentic Sunni tafsir sources (Ibn Kathir, Tabari, Qurtubi, Razi, sunnah.com, islamqa.info)
    - Generate all **3 layers** (150-300 words each)
 
-4. **Write output** to `new_tafsir/tafsir_{surah}_v{start}-{end}.json`
+3. **Write output** to `new_tafsir/tafsir_{surah}_v{start}-{end}.json`
+   - The Write tool creates parent directories automatically.
+   - **You can only write inside `new_tafsir/`.** Any Write or Edit to a path outside that directory will be rejected by the pre-tool guard.
+   - You do **not** have the Bash tool. Do not attempt to spawn shell commands, copy files, or invoke external interpreters.
 
 ## Layer Definitions
 
@@ -72,6 +78,7 @@ Parse the user's request for:
 
 ### Content Requirements
 
+- **ONLY generate layer1, layer2, layer3** — do NOT generate layer4 or any other layers
 - Verse keys as **strings** ("1", "2", etc.)
 - Each layer: **150-300 words** of flowing prose
 - **NO bullet points** or markdown formatting in content

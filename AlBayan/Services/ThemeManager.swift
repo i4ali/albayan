@@ -2,40 +2,30 @@
 //  ThemeManager.swift
 //  AlBayan
 //
-//  Theme management for multiple app themes
+//  Theme state + palette resolver. Views consume colors/gradients exclusively
+//  through `ThemeManager.shared.<getter>`, so adding a new theme only requires
+//  a new `ThemeVariant` case + its color mapping here.
 //
 
 import SwiftUI
 
-enum ThemeVariant: String, CaseIterable {
+enum ThemeVariant: String, CaseIterable, Identifiable {
     case warmInviting = "warmInviting"
-    case modernLight = "modernLight"
-    case royalAmethyst = "royalAmethyst"
-    case modernDark = "modernDark"
+    case rosewater    = "rosewater"
+
+    var id: String { rawValue }
 
     var displayName: String {
         switch self {
-        case .warmInviting:
-            return "Warm & Inviting"
-        case .modernLight:
-            return "Modern Light"
-        case .royalAmethyst:
-            return "Royal Amethyst"
-        case .modernDark:
-            return "Modern Dark"
+        case .warmInviting: return "Warm & Inviting"
+        case .rosewater:    return "Rosewater"
         }
     }
 
     var description: String {
         switch self {
-        case .warmInviting:
-            return "Sanctuary-like warm design"
-        case .modernLight:
-            return "Refined minimalist light design"
-        case .royalAmethyst:
-            return "Luxurious purple with gold accents"
-        case .modernDark:
-            return "Dark glassmorphism design"
+        case .warmInviting: return "Sanctuary-like warm design"
+        case .rosewater:    return "Soft dusty-rose blush palette"
         }
     }
 }
@@ -43,267 +33,229 @@ enum ThemeVariant: String, CaseIterable {
 @MainActor
 class ThemeManager: ObservableObject {
     static let shared = ThemeManager()
-    
+
+    private static let storageKey = "selectedTheme"
+
     @Published var selectedTheme: ThemeVariant {
         didSet {
-            UserDefaults.standard.set(selectedTheme.rawValue, forKey: "selectedTheme")
+            UserDefaults.standard.set(selectedTheme.rawValue, forKey: Self.storageKey)
         }
     }
-    
-    // Backward compatibility for isDarkMode
-    var isDarkMode: Bool {
-        selectedTheme == .modernDark || selectedTheme == .royalAmethyst
-    }
+
+    var isDarkMode: Bool { false }
 
     private init() {
-        // Check for existing theme preference, default to warmInviting
-        if let savedTheme = UserDefaults.standard.string(forKey: "selectedTheme"),
-           let theme = ThemeVariant(rawValue: savedTheme) {
-            self.selectedTheme = theme
+        if let raw = UserDefaults.standard.string(forKey: Self.storageKey),
+           let stored = ThemeVariant(rawValue: raw) {
+            self.selectedTheme = stored
         } else {
-            // Default to warmInviting for new users or removed themes
             self.selectedTheme = .warmInviting
-            UserDefaults.standard.removeObject(forKey: "isDarkMode")
         }
     }
-    
-    func setTheme(_ theme: ThemeVariant) {
-        withAnimation(.easeInOut(duration: 0.5)) {
-            selectedTheme = theme
-        }
-    }
-    
-    // MARK: - Color Schemes
 
-    var colorScheme: ColorScheme {
+    func setTheme(_ theme: ThemeVariant) {
+        selectedTheme = theme
+    }
+
+    // MARK: - Color Scheme
+
+    var colorScheme: ColorScheme { .light }
+
+    /// Whether this theme uses the "warm" visual layout (rounded pill buttons, card-muted back chip,
+    /// SF Pro Rounded type scale, centered hero card with large Arabic title).
+    /// Both `warmInviting` and `rosewater` share this structure; only their color tokens differ.
+    var useWarmLayout: Bool {
         switch selectedTheme {
-        case .modernDark, .royalAmethyst:
-            return .dark
-        case .warmInviting, .modernLight:
-            return .light
+        case .warmInviting, .rosewater:
+            return true
         }
     }
-    
-    // Background colors
+
+    // MARK: - Backgrounds
+
     var primaryBackground: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.973, green: 0.961, blue: 1.0) // #F8F5FF - Soft Lavender
-        case .modernLight:
-            return Color(red: 0.973, green: 0.976, blue: 0.984) // #F8F9FB - Off-white cool
-        case .royalAmethyst:
-            return Color(red: 0.25, green: 0.14, blue: 0.26) // #3f2342 - rich purple-burgundy
-        case .modernDark:
-            return Color(red: 0.06, green: 0.09, blue: 0.16) // #0f172a
+            return Color(red: 0.973, green: 0.961, blue: 1.0)   // #F8F5FF Soft Lavender
+        case .rosewater:
+            return Color(red: 0.992, green: 0.953, blue: 0.949) // #FDF3F2 Blush
         }
     }
 
     var secondaryBackground: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.987, green: 0.969, blue: 0.980) // #FBFBFA - middle blend
-        case .modernLight:
-            return Color(red: 1.0, green: 1.0, blue: 1.0) // #FFFFFF - Pure white cards
-        case .royalAmethyst:
-            return Color(red: 0.40, green: 0.27, blue: 0.36) // #66455c - mauve-rose purple
-        case .modernDark:
-            return Color(red: 0.12, green: 0.16, blue: 0.23) // #1e293b
+            return Color(red: 0.987, green: 0.969, blue: 0.980) // #FBF8FA
+        case .rosewater:
+            return Color(red: 1.000, green: 0.988, blue: 0.988) // #FFFCFC warm-tinted white
         }
     }
 
     var tertiaryBackground: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 1.0, green: 0.976, blue: 0.961) // #FFF9F5 - Warm White
-        case .modernLight:
-            return Color(red: 0.945, green: 0.953, blue: 0.969) // #F1F3F7 - Accent areas
-        case .royalAmethyst:
-            return Color(red: 0.51, green: 0.35, blue: 0.44) // #825970 - warm mauve
-        case .modernDark:
-            return Color(red: 0.2, green: 0.25, blue: 0.33)  // #334155
+            return Color(red: 1.0, green: 0.976, blue: 0.961)   // #FFF9F5 Warm White
+        case .rosewater:
+            return Color(red: 0.969, green: 0.902, blue: 0.894) // #F7E6E4 card-muted
         }
     }
-    
-    // Text colors
+
+    // MARK: - Text
+
     var primaryText: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.176, green: 0.145, blue: 0.125) // #2D2520 - warm charcoal
-        case .modernLight:
-            return Color(red: 0.102, green: 0.102, blue: 0.102) // #1A1A1A - Charcoal
-        case .royalAmethyst:
-            return Color(red: 0.98, green: 0.91, blue: 0.70) // #fae8b3 - bright champagne gold
-        case .modernDark:
-            return .white
+            return Color(red: 0.176, green: 0.145, blue: 0.125) // #2D2520
+        case .rosewater:
+            return Color(red: 0.227, green: 0.165, blue: 0.165) // #3A2A2A
         }
     }
 
     var secondaryText: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.42, green: 0.365, blue: 0.329) // #6B5D54 - soft gray
-        case .modernLight:
-            return Color(red: 0.459, green: 0.459, blue: 0.459) // #757575 - Medium grey
-        case .royalAmethyst:
-            return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.85) // softer bright gold
-        case .modernDark:
-            return .white.opacity(0.7)
+            return Color(red: 0.42, green: 0.365, blue: 0.329)  // #6B5D54
+        case .rosewater:
+            return Color(red: 0.486, green: 0.369, blue: 0.361) // #7C5E5C
         }
     }
 
     var tertiaryText: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.69, green: 0.64, blue: 0.6) // #B0A399 - light gray
-        case .modernLight:
-            return Color(red: 0.659, green: 0.659, blue: 0.659) // #A8A8A8 - Light grey
-        case .royalAmethyst:
-            return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.72) // lighter bright gold
-        case .modernDark:
-            return .white.opacity(0.6)
-        }
-    }
-    
-    // Theme-appropriate gradients
-    var accentGradient: LinearGradient {
-        switch selectedTheme {
-        case .warmInviting:
-            return LinearGradient(
-                colors: [
-                    Color(red: 0.91, green: 0.604, blue: 0.435), // #E89A6F - sunset orange
-                    Color(red: 0.847, green: 0.541, blue: 0.373)  // #D88A5F - deeper orange
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-        case .modernLight:
-            return LinearGradient(
-                colors: [
-                    Color(red: 0.722, green: 0.431, blue: 0.361), // #B86E5C - Warm terracotta
-                    Color(red: 0.604, green: 0.353, blue: 0.294)  // #9A5A4B - Deep terracotta
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-        case .royalAmethyst:
-            return LinearGradient(
-                colors: [
-                    Color(red: 0.65, green: 0.38, blue: 0.58), // Vibrant mauve-purple
-                    Color(red: 0.87, green: 0.52, blue: 0.48)  // Warm rose-gold
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-        case .modernDark:
-            return LinearGradient(
-                colors: [
-                    Color(red: 0.39, green: 0.4, blue: 0.95),  // #6366f1
-                    Color(red: 0.93, green: 0.28, blue: 0.6)   // #ec4899
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
+            return Color(red: 0.69, green: 0.64, blue: 0.6)     // #B0A399
+        case .rosewater:
+            return Color(red: 0.761, green: 0.663, blue: 0.655) // #C2A9A7
         }
     }
 
+    /// Card surface (pure white in Warm, warm-tinted white in Rosewater).
+    var cardBackground: Color {
+        switch selectedTheme {
+        case .warmInviting:
+            return Color.white
+        case .rosewater:
+            return Color(red: 1.000, green: 0.988, blue: 0.988) // #FFFCFC
+        }
+    }
+
+    // MARK: - Accents
+
+    /// Primary accent color (text-safe). Peaceful purple (Warm) / Dusty Rose purple (Rosewater).
     var accentColor: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF - peaceful purple
-        case .modernLight:
-            return Color(red: 0.722, green: 0.431, blue: 0.361) // #B86E5C - Warm terracotta
-        case .royalAmethyst:
-            return Color(red: 0.88, green: 0.70, blue: 0.50) // #e0b37f - warm golden rose
-        case .modernDark:
-            return Color(red: 0.39, green: 0.4, blue: 0.95)
+            return Color(red: 0.608, green: 0.561, blue: 0.749) // #9B8FBF
+        case .rosewater:
+            return Color(red: 0.663, green: 0.549, blue: 0.710) // #A98CB5
         }
     }
 
+    /// Deep variant of the primary accent (gradient endpoint / pressed states).
+    var accentColorDark: Color {
+        switch selectedTheme {
+        case .warmInviting:
+            return Color(red: 0.545, green: 0.498, blue: 0.659) // #8B7FA8
+        case .rosewater:
+            return Color(red: 0.576, green: 0.471, blue: 0.631) // #9378A1
+        }
+    }
+
+    /// Secondary accent color. Sunset orange (Warm) / Rose clay (Rosewater).
+    var accentSecondary: Color {
+        switch selectedTheme {
+        case .warmInviting:
+            return Color(red: 0.91, green: 0.604, blue: 0.435)  // #E89A6F
+        case .rosewater:
+            return Color(red: 0.847, green: 0.514, blue: 0.502) // #D88380
+        }
+    }
+
+    /// Deep variant of the secondary accent.
+    var accentSecondaryDark: Color {
+        switch selectedTheme {
+        case .warmInviting:
+            return Color(red: 0.847, green: 0.541, blue: 0.373) // #D88A5F
+        case .rosewater:
+            return Color(red: 0.749, green: 0.420, blue: 0.408) // #BF6B68
+        }
+    }
+
+    /// Primary accent gradient (purple family).
     var purpleGradient: LinearGradient {
         switch selectedTheme {
         case .warmInviting:
             return LinearGradient(
                 colors: [
-                    Color(red: 0.608, green: 0.561, blue: 0.749), // #9B8FBF - peaceful purple
-                    Color(red: 0.545, green: 0.498, blue: 0.659)  // #8B7FA8 - deeper purple
+                    Color(red: 0.608, green: 0.561, blue: 0.749), // #9B8FBF
+                    Color(red: 0.545, green: 0.498, blue: 0.659)  // #8B7FA8
                 ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
+                startPoint: .topLeading, endPoint: .bottomTrailing
             )
-        case .modernLight:
+        case .rosewater:
             return LinearGradient(
                 colors: [
-                    Color(red: 0.722, green: 0.431, blue: 0.361), // #B86E5C
-                    Color(red: 0.604, green: 0.353, blue: 0.294)  // #9A5A4B
+                    Color(red: 0.663, green: 0.549, blue: 0.710), // #A98CB5
+                    Color(red: 0.576, green: 0.471, blue: 0.631)  // #9378A1
                 ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-        case .royalAmethyst, .modernDark:
-            return LinearGradient(
-                colors: [
-                    Color(red: 0.39, green: 0.4, blue: 0.95),  // #6366f1
-                    Color(red: 0.55, green: 0.36, blue: 0.96)  // #8b5cf6
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
+                startPoint: .topLeading, endPoint: .bottomTrailing
             )
         }
     }
-    
-    // Material effects
-    var glassEffect: Material {
+
+    /// Secondary accent gradient (orange family in Warm / rose-clay in Rosewater).
+    var accentGradient: LinearGradient {
         switch selectedTheme {
         case .warmInviting:
-            return .ultraThin // Very subtle for warm sanctuary feel
-        case .modernLight:
-            return .ultraThin // Frosted minimalist glass for nav bar
-        case .royalAmethyst:
-            return .ultraThinMaterial // Dark material for royal amethyst
-        case .modernDark:
-            return .ultraThinMaterial
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.91, green: 0.604, blue: 0.435),  // #E89A6F
+                    Color(red: 0.847, green: 0.541, blue: 0.373)  // #D88A5F
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing
+            )
+        case .rosewater:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.847, green: 0.514, blue: 0.502), // #D88380 rose clay
+                    Color(red: 0.749, green: 0.420, blue: 0.408)  // #BF6B68
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing
+            )
         }
     }
+
+    // MARK: - Material / Stroke
+
+    /// Card-surface fill used in `.fill(themeManager.glassEffect)` call sites.
+    /// Was `.ultraThin` Material, which renders as generic grayish translucency and fights
+    /// the theme's primaryBackground (produced a visible gray strip when used on headers).
+    /// The Warm/Rosewater design handoffs both specify solid card surfaces, so this returns
+    /// a solid, theme-tinted card color.
+    var glassEffect: Color { cardBackground }
 
     var strokeColor: Color {
         switch selectedTheme {
         case .warmInviting:
-            return Color(red: 0.176, green: 0.145, blue: 0.125).opacity(0.1) // Very subtle warm charcoal
-        case .modernLight:
-            return Color(red: 0.102, green: 0.102, blue: 0.102).opacity(0.08) // Subtle charcoal hairline
-        case .royalAmethyst:
-            return Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.15) // Bright gold stroke
-        case .modernDark:
-            return .white.opacity(0.1)
+            return Color(red: 0.176, green: 0.145, blue: 0.125).opacity(0.1)
+        case .rosewater:
+            return Color(red: 120/255, green: 60/255, blue: 60/255).opacity(0.10)
         }
     }
-    
-    // Floating orb colors for background
+
     var floatingOrbColors: [Color] {
         switch selectedTheme {
         case .warmInviting:
             return [
-                Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.06), // Peaceful purple (subtle)
-                Color(red: 0.91, green: 0.604, blue: 0.435).opacity(0.05),  // Sunset orange (very subtle)
-                Color(red: 0.498, green: 0.722, blue: 0.604).opacity(0.04)  // Serene green (barely visible)
+                Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.06),
+                Color(red: 0.91,  green: 0.604, blue: 0.435).opacity(0.05),
+                Color(red: 0.498, green: 0.722, blue: 0.604).opacity(0.04)
             ]
-        case .modernLight:
+        case .rosewater:
             return [
-                Color(red: 0.537, green: 0.788, blue: 0.706).opacity(0.08), // #89C9B4 Sage
-                Color(red: 0.922, green: 0.753, blue: 0.471).opacity(0.07), // #EBC078 Amber
-                Color(red: 0.851, green: 0.584, blue: 0.631).opacity(0.06)  // #D995A1 Rose
-            ]
-        case .royalAmethyst:
-            return [
-                Color(red: 0.65, green: 0.38, blue: 0.58).opacity(0.01), // Vibrant mauve-purple (reduced)
-                Color(red: 0.87, green: 0.52, blue: 0.48).opacity(0.01), // Warm rose-gold (reduced)
-                Color(red: 0.98, green: 0.91, blue: 0.70).opacity(0.01)  // Bright champagne gold (reduced)
-            ]
-        case .modernDark:
-            return [
-                Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3),  // #6366f1
-                Color(red: 0.93, green: 0.28, blue: 0.6).opacity(0.3),  // #ec4899
-                Color(red: 0.55, green: 0.36, blue: 0.96).opacity(0.3)  // #8b5cf6
+                Color(red: 0.663, green: 0.549, blue: 0.710).opacity(0.06), // dusty rose purple
+                Color(red: 0.847, green: 0.514, blue: 0.502).opacity(0.05), // rose clay
+                Color(red: 0.624, green: 0.725, blue: 0.596).opacity(0.04)  // sage
             ]
         }
     }

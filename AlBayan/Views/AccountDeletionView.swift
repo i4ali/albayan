@@ -24,14 +24,7 @@ struct AccountDeletionView: View {
         NavigationView {
             ZStack {
                 // Background
-                LinearGradient(
-                    colors: [
-                        themeManager.primaryBackground,
-                        themeManager.secondaryBackground
-                    ],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                themeManager.primaryBackground
                 .ignoresSafeArea()
                 
                 ScrollView {
@@ -183,6 +176,8 @@ struct AccountDeletionView: View {
                     .padding(.top, 20)
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Delete Account")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {

@@ -380,8 +380,7 @@ struct QuizView: View {
         case 1: return ("🏛️", "Foundation", .blue)
         case 2: return ("📚", "Classical", .purple)
         case 3: return ("🌍", "Contemporary", .green)
-        case 4: return ("⭐", "Ahlul Bayt", .orange)
-        case 5: return ("⚖️", "Comparative", .red)
+        case 4: return ("⚖️", "Comparative", .indigo)
         default: return ("📖", "General", .gray)
         }
     }

@@ -29,7 +29,7 @@ struct FastingVersesView: View {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
                                 Text("Fasting in the Quran")
-                                    .font(.system(size: themeManager.selectedTheme == .warmInviting ? 34 : 32, weight: .bold, design: themeManager.selectedTheme == .warmInviting ? .rounded : .default))
+                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
                                     .foregroundColor(themeManager.primaryText)
 
                                 Text("Verses about fasting and Ramadan")
@@ -44,7 +44,7 @@ struct FastingVersesView: View {
                     .padding(.top, 20)
                     .padding(.bottom, 16)
                     .background {
-                        if themeManager.selectedTheme != .warmInviting {
+                        if !themeManager.useWarmLayout {
                             Rectangle()
                                 .fill(themeManager.glassEffect)
                         }
@@ -183,7 +183,7 @@ struct FastingCategoryCard: View {
             }
             .padding(20)
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 20)
                         .fill(Color.white)
                         .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)

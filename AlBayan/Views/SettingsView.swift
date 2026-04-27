@@ -15,7 +15,6 @@ struct SettingsView: View {
     @StateObject private var audioManager = AudioManager.shared
     @StateObject private var voiceManager = TTSVoiceManager.shared
     @Environment(\.presentationMode) var presentationMode
-    @State private var showingThemeSelection = false
     @State private var showingAuthentication = false
     @State private var showingClearDataAlert = false
     @State private var clearDataMessage = ""
@@ -67,19 +66,21 @@ struct SettingsView: View {
                     // Settings content
                     ScrollView {
                         VStack(spacing: 24) {
-                            // Appearance Section
-                            SettingsSection(title: "Appearance") {
+                            // Theme Section
+                            SettingsSection(title: "Theme") {
                                 VStack(spacing: 12) {
-                                    // Theme selection
-                                    SettingsRow(
-                                        icon: "paintbrush.fill",
-                                        title: "Theme",
-                                        subtitle: themeManager.selectedTheme.displayName,
-                                        iconColor: .purple
-                                    ) {
-                                        showingThemeSelection = true
+                                    ForEach(ThemeVariant.allCases) { variant in
+                                        ThemePickerTile(
+                                            variant: variant,
+                                            isSelected: themeManager.selectedTheme == variant
+                                        ) {
+                                            withAnimation(.easeInOut(duration: 0.5)) {
+                                                themeManager.setTheme(variant)
+                                            }
+                                        }
                                     }
                                 }
+                                .padding(12)
                             }
 
                             // Daily Verse Notifications Section
@@ -364,9 +365,6 @@ struct SettingsView: View {
             }
         }
         .navigationBarHidden(true)
-        .sheet(isPresented: $showingThemeSelection) {
-            ThemeSelectionView()
-        }
         .sheet(isPresented: $showingAuthentication) {
             // You can replace this with your actual AuthenticationView
             Text("Authentication View")
@@ -632,6 +630,8 @@ struct TimePickerSheet: View {
                     Spacer()
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Notification Time")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
@@ -823,6 +823,8 @@ struct SyncStatusDetailView: View {
                     .padding(.top, 20)
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Sync Status")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
@@ -893,4 +895,101 @@ struct SyncStatusDetailView: View {
 
 #Preview {
     SettingsView()
+}
+
+// MARK: - Theme Picker Tile
+
+struct ThemePickerTile: View {
+    let variant: ThemeVariant
+    let isSelected: Bool
+    let action: () -> Void
+    @StateObject private var themeManager = ThemeManager.shared
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 14) {
+                // Preview swatch: bg + two accent dots
+                ZStack {
+                    RoundedRectangle(cornerRadius: 10, style: .continuous)
+                        .fill(previewBackground)
+                        .frame(width: 56, height: 40)
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 10, style: .continuous)
+                                .stroke(themeManager.strokeColor.opacity(0.6), lineWidth: 1)
+                        )
+
+                    HStack(spacing: 6) {
+                        Circle().fill(previewPurpleGradient).frame(width: 14, height: 14)
+                        Circle().fill(previewAccentGradient).frame(width: 14, height: 14)
+                    }
+                }
+
+                VStack(alignment: .leading, spacing: 2) {
+                    Text(variant.displayName)
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundColor(themeManager.primaryText)
+                    Text(variant.description)
+                        .font(.system(size: 13, weight: .regular))
+                        .foregroundColor(themeManager.secondaryText)
+                }
+
+                Spacer()
+
+                Image(systemName: isSelected ? "checkmark.circle.fill" : "circle")
+                    .font(.system(size: 22, weight: .semibold))
+                    .foregroundColor(isSelected ? themeManager.accentColor : themeManager.tertiaryText)
+            }
+            .padding(.vertical, 8)
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+    }
+
+    // Previews resolve to the *variant's* own palette, regardless of which theme is active,
+    // so the user sees what each theme looks like.
+
+    private var previewBackground: Color {
+        switch variant {
+        case .warmInviting: return Color(red: 0.973, green: 0.961, blue: 1.0)
+        case .rosewater:    return Color(red: 0.992, green: 0.953, blue: 0.949)
+        }
+    }
+
+    private var previewPurpleGradient: LinearGradient {
+        switch variant {
+        case .warmInviting:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.608, green: 0.561, blue: 0.749),
+                    Color(red: 0.545, green: 0.498, blue: 0.659)
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
+        case .rosewater:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.663, green: 0.549, blue: 0.710),
+                    Color(red: 0.576, green: 0.471, blue: 0.631)
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
+        }
+    }
+
+    private var previewAccentGradient: LinearGradient {
+        switch variant {
+        case .warmInviting:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.91, green: 0.604, blue: 0.435),
+                    Color(red: 0.847, green: 0.541, blue: 0.373)
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
+        case .rosewater:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.847, green: 0.514, blue: 0.502),
+                    Color(red: 0.749, green: 0.420, blue: 0.408)
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
+        }
+    }
 }

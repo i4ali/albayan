@@ -39,17 +39,9 @@ struct SurahDetailView: View {
 
     var body: some View {
         ZStack {
-            // Adaptive gradient background
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground,
-                    themeManager.tertiaryBackground
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-            .ignoresSafeArea()
+            // Flat theme background (matches Rosewater / Warm design handoff — uniform blush / lavender)
+            themeManager.primaryBackground
+                .ignoresSafeArea()
             
             VStack(spacing: 0) {
                 // Modern header
@@ -187,7 +179,7 @@ struct GoToVerseSheet: View {
             VStack(spacing: 24) {
                 // Header
                 VStack(spacing: 8) {
-                    if themeManager.selectedTheme == .warmInviting {
+                    if themeManager.useWarmLayout {
                         Text("🔍")
                             .font(.system(size: 40))
                     } else {
@@ -216,7 +208,7 @@ struct GoToVerseSheet: View {
                         .padding(.horizontal, 20)
                         .background {
                             RoundedRectangle(cornerRadius: 12)
-                                .fill(themeManager.selectedTheme == .warmInviting ? AnyShapeStyle(Color.white) : AnyShapeStyle(themeManager.glassEffect))
+                                .fill(themeManager.useWarmLayout ? AnyShapeStyle(Color.white) : AnyShapeStyle(themeManager.glassEffect))
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 12)
                                         .stroke(themeManager.strokeColor, lineWidth: 1)
@@ -241,7 +233,7 @@ struct GoToVerseSheet: View {
                 // Go button
                 Button(action: submitVerse) {
                     HStack(spacing: 8) {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             Text("→")
                                 .font(.system(size: 18))
                         } else {
@@ -255,11 +247,11 @@ struct GoToVerseSheet: View {
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 16)
                     .background {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 24)
                                 .fill(
                                     LinearGradient(
-                                        colors: [Color(red: 0.91, green: 0.604, blue: 0.435), Color(red: 0.847, green: 0.541, blue: 0.373)],
+                                        colors: [themeManager.accentSecondary, themeManager.accentSecondaryDark],
                                         startPoint: .leading,
                                         endPoint: .trailing
                                     )
@@ -276,11 +268,9 @@ struct GoToVerseSheet: View {
 
                 Spacer()
             }
-            .background(
-                themeManager.selectedTheme == .warmInviting
-                    ? Color(red: 0.98, green: 0.965, blue: 0.945)
-                    : themeManager.primaryBackground
-            )
+            .background(themeManager.primaryBackground)
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
@@ -328,17 +318,17 @@ struct ModernSurahHeader: View {
     var body: some View {
         VStack(spacing: 16) {
             // Navigation (different for warm theme)
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 // Warm theme: Simple back button
                 HStack {
                     Button(action: onBack) {
                         Text("←")
                             .font(.system(size: 20))
-                            .foregroundColor(Color(red: 0.176, green: 0.145, blue: 0.125))
+                            .foregroundColor(themeManager.primaryText)
                             .frame(width: 40, height: 40)
                             .background(
-                                RoundedRectangle(cornerRadius: 12)
-                                    .fill(Color.black.opacity(0.1))
+                                RoundedRectangle(cornerRadius: 10, style: .continuous)
+                                    .fill(themeManager.tertiaryBackground)
                             )
                     }
                     Spacer()
@@ -374,20 +364,20 @@ struct ModernSurahHeader: View {
             }
 
             // Surah info card
-            VStack(spacing: themeManager.selectedTheme == .warmInviting ? 16 : 12) {
+            VStack(spacing: themeManager.useWarmLayout ? 16 : 12) {
                 Text(surah.arabicName)
-                    .font(.system(size: themeManager.selectedTheme == .warmInviting ? 32 : 28, weight: .medium))
+                    .font(.system(size: themeManager.useWarmLayout ? 32 : 28, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .multilineTextAlignment(.center)
 
                 Text(surah.englishNameTranslation)
-                    .font(.system(size: themeManager.selectedTheme == .warmInviting ? 18 : 16, weight: .medium))
+                    .font(.system(size: themeManager.useWarmLayout ? 18 : 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .italic()
 
                 HStack(spacing: 20) {
                     HStack(spacing: 6) {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             Text("📖")
                                 .font(.system(size: 14))
                         } else {
@@ -397,10 +387,10 @@ struct ModernSurahHeader: View {
                         Text("\(surah.versesCount) verses")
                             .font(.system(size: 14, weight: .medium))
                     }
-                    .foregroundColor(themeManager.selectedTheme == .warmInviting ? Color(red: 0.608, green: 0.561, blue: 0.749) : themeManager.tertiaryText)
+                    .foregroundColor(themeManager.useWarmLayout ? themeManager.accentColor : themeManager.tertiaryText)
 
                     HStack(spacing: 6) {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             Text("📍")
                                 .font(.system(size: 14))
                         } else {
@@ -410,7 +400,7 @@ struct ModernSurahHeader: View {
                         Text(surah.revelationType)
                             .font(.system(size: 14, weight: .medium))
                     }
-                    .foregroundColor(themeManager.selectedTheme == .warmInviting ? Color(red: 0.608, green: 0.561, blue: 0.749) : themeManager.tertiaryText)
+                    .foregroundColor(themeManager.useWarmLayout ? themeManager.accentColor : themeManager.tertiaryText)
                 }
 
                 // Action buttons
@@ -422,7 +412,7 @@ struct ModernSurahHeader: View {
                         }
                     }) {
                         HStack(spacing: 8) {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 Text("▶")
                                     .font(.system(size: 16))
                             } else {
@@ -430,23 +420,23 @@ struct ModernSurahHeader: View {
                                     .font(.system(size: 16, weight: .semibold))
                             }
                             Text("Play")
-                                .font(.system(size: themeManager.selectedTheme == .warmInviting ? 17 : 16, weight: .semibold))
+                                .font(.system(size: themeManager.useWarmLayout ? 17 : 16, weight: .semibold))
                                 .fixedSize()
                         }
                         .foregroundColor(.white)
-                        .padding(.horizontal, themeManager.selectedTheme == .warmInviting ? 24 : 16)
-                        .padding(.vertical, themeManager.selectedTheme == .warmInviting ? 14 : 10)
+                        .padding(.horizontal, themeManager.useWarmLayout ? 24 : 16)
+                        .padding(.vertical, themeManager.useWarmLayout ? 14 : 10)
                         .background {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 RoundedRectangle(cornerRadius: 24)
                                     .fill(
                                         LinearGradient(
-                                            colors: [Color(red: 0.91, green: 0.604, blue: 0.435), Color(red: 0.847, green: 0.541, blue: 0.373)],
+                                            colors: [themeManager.accentSecondary, themeManager.accentSecondaryDark],
                                             startPoint: .leading,
                                             endPoint: .trailing
                                         )
                                     )
-                                    .shadow(color: Color(red: 0.91, green: 0.604, blue: 0.435).opacity(0.3), radius: 12)
+                                    .shadow(color: themeManager.accentSecondary.opacity(0.3), radius: 12)
                             } else {
                                 RoundedRectangle(cornerRadius: 20)
                                     .fill(themeManager.purpleGradient)
@@ -458,7 +448,7 @@ struct ModernSurahHeader: View {
                     // Go to Verse button (icon-only for compact fit)
                     Button(action: onGoToVerse) {
                         Group {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 Text("🔍")
                                     .font(.system(size: 18))
                             } else {
@@ -467,18 +457,18 @@ struct ModernSurahHeader: View {
                             }
                         }
                         .foregroundColor(.white)
-                        .frame(width: themeManager.selectedTheme == .warmInviting ? 48 : 44, height: themeManager.selectedTheme == .warmInviting ? 48 : 44)
+                        .frame(width: themeManager.useWarmLayout ? 48 : 44, height: themeManager.useWarmLayout ? 48 : 44)
                         .background {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 Circle()
                                     .fill(
                                         LinearGradient(
-                                            colors: [Color(red: 0.608, green: 0.561, blue: 0.749), Color(red: 0.518, green: 0.471, blue: 0.659)],
+                                            colors: [themeManager.accentColor, themeManager.accentColorDark],
                                             startPoint: .leading,
                                             endPoint: .trailing
                                         )
                                     )
-                                    .shadow(color: Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.3), radius: 12)
+                                    .shadow(color: themeManager.accentColor.opacity(0.3), radius: 12)
                             } else {
                                 Circle()
                                     .fill(themeManager.accentGradient)
@@ -494,14 +484,14 @@ struct ModernSurahHeader: View {
                                 Image(systemName: "brain.head.profile")
                                     .font(.system(size: 16, weight: .semibold))
                                 Text("Quiz")
-                                    .font(.system(size: themeManager.selectedTheme == .warmInviting ? 17 : 16, weight: .semibold))
+                                    .font(.system(size: themeManager.useWarmLayout ? 17 : 16, weight: .semibold))
                                     .fixedSize()
                             }
                             .foregroundColor(.white)
-                            .padding(.horizontal, themeManager.selectedTheme == .warmInviting ? 24 : 16)
-                            .padding(.vertical, themeManager.selectedTheme == .warmInviting ? 14 : 10)
+                            .padding(.horizontal, themeManager.useWarmLayout ? 24 : 16)
+                            .padding(.vertical, themeManager.useWarmLayout ? 14 : 10)
                             .background {
-                                if themeManager.selectedTheme == .warmInviting {
+                                if themeManager.useWarmLayout {
                                     RoundedRectangle(cornerRadius: 24)
                                         .fill(themeManager.accentGradient)
                                         .shadow(color: themeManager.accentColor.opacity(0.3), radius: 12)
@@ -516,9 +506,9 @@ struct ModernSurahHeader: View {
                 }
                 .padding(.top, 8)
             }
-            .padding(themeManager.selectedTheme == .warmInviting ? 28 : 20)
+            .padding(themeManager.useWarmLayout ? 28 : 20)
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 24)
                         .fill(Color.white)
                         .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 6)
@@ -545,11 +535,11 @@ struct ModernSurahHeader: View {
                 }
             }
         }
-        .padding(.horizontal, themeManager.selectedTheme == .warmInviting ? 24 : 20)
-        .padding(.top, themeManager.selectedTheme == .warmInviting ? 20 : 60)
-        .padding(.bottom, themeManager.selectedTheme == .warmInviting ? 24 : 20)
+        .padding(.horizontal, themeManager.useWarmLayout ? 24 : 20)
+        .padding(.top, themeManager.useWarmLayout ? 20 : 60)
+        .padding(.bottom, themeManager.useWarmLayout ? 24 : 20)
         .background {
-            if themeManager.selectedTheme != .warmInviting {
+            if !themeManager.useWarmLayout {
                 Rectangle()
                     .fill(themeManager.glassEffect)
             }
@@ -656,7 +646,7 @@ struct ModernVerseCard: View {
 
     private var verseReadCheckbox: some View {
         Button(action: toggleVerseRead) {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 warmThemeCheckbox
             } else {
                 modernThemeCheckbox
@@ -671,13 +661,13 @@ struct ModernVerseCard: View {
         return ZStack {
             RoundedRectangle(cornerRadius: 6)
                 .strokeBorder(
-                    isRead ? Color.green : Color(red: 0.608, green: 0.561, blue: 0.749),
+                    isRead ? Color.green : themeManager.accentColor,
                     lineWidth: 2
                 )
                 .frame(width: 24, height: 24)
                 .background(
                     RoundedRectangle(cornerRadius: 6)
-                        .fill(isRead ? Color.green.opacity(0.2) : Color.white)
+                        .fill(isRead ? Color.green.opacity(0.2) : themeManager.cardBackground)
                 )
 
             if isRead {
@@ -716,19 +706,19 @@ struct ModernVerseCard: View {
     }
 
     var body: some View {
-        VStack(alignment: .leading, spacing: themeManager.selectedTheme == .warmInviting ? 20 : 16) {
+        VStack(alignment: .leading, spacing: themeManager.useWarmLayout ? 20 : 16) {
             // Verse number and actions
             HStack {
                 // Verse number circle
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     // Warm theme: Circle with purple border only
                     Circle()
-                        .strokeBorder(Color(red: 0.608, green: 0.561, blue: 0.749), lineWidth: 2)
+                        .strokeBorder(themeManager.accentColor, lineWidth: 2)
                         .frame(width: 36, height: 36)
                         .overlay(
                             Text("\(verse.number)")
                                 .font(.system(size: 16, weight: .semibold))
-                                .foregroundColor(Color(red: 0.608, green: 0.561, blue: 0.749))
+                                .foregroundColor(themeManager.accentColor)
                         )
                 } else {
                     // Other themes: Filled circle
@@ -752,15 +742,15 @@ struct ModernVerseCard: View {
                             await audioManager.playVerse(verse, in: surah)
                         }
                     }) {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             // Warm theme: Circular button with light purple background
                             Text(isCurrentlyPlaying ? "⏸" : "▶")
                                 .font(.system(size: 18))
-                                .foregroundColor(Color(red: 0.608, green: 0.561, blue: 0.749))
+                                .foregroundColor(themeManager.accentColor)
                                 .frame(width: 36, height: 36)
                                 .background(
                                     Circle()
-                                        .fill(Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.1))
+                                        .fill(themeManager.accentColor.opacity(0.1))
                                 )
                         } else {
                             // Other themes: Original style
@@ -783,15 +773,15 @@ struct ModernVerseCard: View {
 
                     // Bookmark button
                     Button(action: toggleBookmark) {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             // Warm theme: Circular button with light orange background
                             Text(isBookmarked ? "♥" : "♡")
                                 .font(.system(size: 18))
-                                .foregroundColor(Color(red: 0.91, green: 0.604, blue: 0.435))
+                                .foregroundColor(themeManager.accentSecondary)
                                 .frame(width: 36, height: 36)
                                 .background(
                                     Circle()
-                                        .fill(Color(red: 0.91, green: 0.604, blue: 0.435).opacity(0.1))
+                                        .fill(themeManager.accentSecondary.opacity(0.1))
                                 )
                         } else {
                             // Other themes: Original style
@@ -829,11 +819,11 @@ struct ModernVerseCard: View {
 
             // Arabic text
             Text(verse.arabicText)
-                .font(.system(size: themeManager.selectedTheme == .warmInviting ? 26 : 24, weight: .medium))
+                .font(.system(size: themeManager.useWarmLayout ? 26 : 24, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.trailing)
                 .frame(maxWidth: .infinity, alignment: .trailing)
-                .lineSpacing(themeManager.selectedTheme == .warmInviting ? 26 : 8)  // line-height: 2 = lineSpacing equals font size
+                .lineSpacing(themeManager.useWarmLayout ? 26 : 8)  // line-height: 2 = lineSpacing equals font size
 
             // English translation
             Text(verse.translation)
@@ -843,15 +833,15 @@ struct ModernVerseCard: View {
 
             // Commentary buttons (theme-adaptive for all themes)
             // Split button design: Summary (left) + Full Commentary (right)
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 warmInvitingSplitButtons
             } else {
                 modernSplitButtons
             }
         }
-        .padding(themeManager.selectedTheme == .warmInviting ? 24 : 24)
+        .padding(themeManager.useWarmLayout ? 24 : 24)
         .background {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 20)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -898,12 +888,12 @@ struct ModernVerseCard: View {
                     Text("Gems")
                         .font(.system(size: 15, weight: .semibold))
                 }
-                .foregroundColor(Color(red: 0.91, green: 0.604, blue: 0.435))
+                .foregroundColor(themeManager.accentSecondary)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
                 .background(
                     RoundedRectangle(cornerRadius: 12)
-                        .fill(Color(red: 0.91, green: 0.604, blue: 0.435).opacity(0.1))
+                        .fill(themeManager.accentSecondary.opacity(0.1))
                 )
             }
             .opacity(verse.tafsir != nil ? 1.0 : 0.5)
@@ -923,12 +913,12 @@ struct ModernVerseCard: View {
                     Text("In-Depth")
                         .font(.system(size: 15, weight: .semibold))
                 }
-                .foregroundColor(Color(red: 0.608, green: 0.561, blue: 0.749))
+                .foregroundColor(themeManager.accentColor)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
                 .background(
                     RoundedRectangle(cornerRadius: 12)
-                        .fill(Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.1))
+                        .fill(themeManager.accentColor.opacity(0.1))
                 )
             }
         }
@@ -986,21 +976,12 @@ struct ModernVerseCard: View {
 
     @ViewBuilder
     private var splitButtonBackground: some View {
-        if themeManager.selectedTheme == .modernLight {
-            RoundedRectangle(cornerRadius: 12)
-                .fill(themeManager.secondaryBackground)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 12)
-                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                )
-        } else {
-            RoundedRectangle(cornerRadius: 12)
-                .fill(themeManager.glassEffect)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 12)
-                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                )
-        }
+        RoundedRectangle(cornerRadius: 12)
+            .fill(themeManager.glassEffect)
+            .overlay(
+                RoundedRectangle(cornerRadius: 12)
+                    .stroke(themeManager.strokeColor, lineWidth: 1)
+            )
     }
 }
 
@@ -1015,17 +996,9 @@ struct ModernTafsirDetailView: View {
     
     var body: some View {
         ZStack {
-            // Adaptive gradient background
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground,
-                    themeManager.tertiaryBackground
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
-            .ignoresSafeArea()
+            // Flat theme background (matches Rosewater / Warm design handoff — uniform blush / lavender)
+            themeManager.primaryBackground
+                .ignoresSafeArea()
             
             VStack(spacing: 0) {
                 // Header with verse info
@@ -1072,10 +1045,7 @@ struct ModernTafsirDetailView: View {
                 .padding(.horizontal, 20)
                 .padding(.top, 60)
                 .padding(.bottom, 20)
-                .background(
-                    Rectangle()
-                        .fill(themeManager.glassEffect)
-                )
+                .background(themeManager.primaryBackground)
                 
                 // Layer selector tabs
                 ModernTafsirTabs(selectedLayer: $selectedLayer, surah: surah) { layer in
@@ -1127,10 +1097,7 @@ struct ModernTafsirTabs: View {
             .padding(.horizontal, 20)
         }
         .padding(.vertical, 12)
-        .background(
-            Rectangle()
-                .fill(themeManager.glassEffect)
-        )
+        .background(themeManager.primaryBackground)
         .fullScreenCover(isPresented: $showingPaywall) {
             PaywallView()
         }
@@ -1218,17 +1185,15 @@ struct ModernTafsirTabs: View {
         case .foundation: return "🏛️"
         case .classical: return "📚"
         case .contemporary: return "🌍"
-        case .ahlulBayt: return "⭐"
         case .comparative: return "⚖️"
         }
     }
-    
+
     private func layerShortTitle(for layer: TafsirLayer) -> String {
         switch layer {
         case .foundation: return "Foundation"
         case .classical: return "Classical"
         case .contemporary: return "Modern"
-        case .ahlulBayt: return "Ahlul Bayt"
         case .comparative: return "Comparative"
         }
     }
@@ -1305,11 +1270,10 @@ struct ModernTafsirContent: View {
         case .foundation: return "🏛️"
         case .classical: return "📚"
         case .contemporary: return "🌍"
-        case .ahlulBayt: return "⭐"
         case .comparative: return "⚖️"
         }
     }
-    
+
     private func layerGradient(for layer: TafsirLayer) -> LinearGradient {
         switch layer {
         case .foundation:
@@ -1318,19 +1282,16 @@ struct ModernTafsirContent: View {
             return LinearGradient(colors: [Color.green, Color.teal], startPoint: .topLeading, endPoint: .bottomTrailing)
         case .contemporary:
             return LinearGradient(colors: [Color.orange, Color.yellow], startPoint: .topLeading, endPoint: .bottomTrailing)
-        case .ahlulBayt:
-            return LinearGradient(colors: [Color.purple, Color.pink], startPoint: .topLeading, endPoint: .bottomTrailing)
         case .comparative:
             return LinearGradient(colors: [Color.indigo, Color.teal], startPoint: .topLeading, endPoint: .bottomTrailing)
         }
     }
-    
+
     private func layerShadowColor(for layer: TafsirLayer) -> Color {
         switch layer {
         case .foundation: return .blue.opacity(0.3)
         case .classical: return .green.opacity(0.3)
         case .contemporary: return .orange.opacity(0.3)
-        case .ahlulBayt: return .purple.opacity(0.3)
         case .comparative: return .indigo.opacity(0.3)
         }
     }
@@ -1456,6 +1417,7 @@ struct TafsirDetailView: View {
     let surah: Surah
     @State private var selectedLayer: TafsirLayer = .foundation
     @Environment(\.dismiss) private var dismiss
+    @StateObject private var themeManager = ThemeManager.shared
     
     var body: some View {
         NavigationView {
@@ -1505,6 +1467,8 @@ struct TafsirDetailView: View {
                     }
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Tafsir")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {

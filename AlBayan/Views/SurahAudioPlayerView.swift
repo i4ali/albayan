@@ -237,17 +237,9 @@ struct FullScreenAudioPlayerView: View {
         NavigationView {
             ZStack {
                 // Background
-                LinearGradient(
-                    colors: [
-                        themeManager.primaryBackground,
-                        themeManager.secondaryBackground,
-                        themeManager.tertiaryBackground
-                    ],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                themeManager.primaryBackground
                 .ignoresSafeArea()
-                
+
                 VStack(spacing: 32) {
                     if let currentPlayback = audioManager.currentPlayback {
                         // Large album art placeholder
@@ -390,6 +382,8 @@ struct FullScreenAudioPlayerView: View {
                 .padding(.horizontal, 24)
                 .padding(.top, 20)
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Now Playing")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
@@ -423,16 +417,9 @@ struct ReciterSelectionView: View {
         NavigationView {
             ZStack {
                 // Background
-                LinearGradient(
-                    colors: [
-                        themeManager.primaryBackground,
-                        themeManager.secondaryBackground
-                    ],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                themeManager.primaryBackground
                 .ignoresSafeArea()
-                
+
                 ScrollView {
                     LazyVGrid(columns: Array(repeating: GridItem(.flexible(), spacing: 16), count: 2), spacing: 16) {
                         ForEach(Reciter.popularReciters) { reciter in
@@ -449,6 +436,8 @@ struct ReciterSelectionView: View {
                     .padding(.top, 20)
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Select Reciter")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {

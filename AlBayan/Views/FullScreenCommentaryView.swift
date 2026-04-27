@@ -65,15 +65,7 @@ struct FullScreenCommentaryView: View {
     private var readingBackground: some View {
         ZStack {
             // Base gradient background matching main app
-            LinearGradient(
-                colors: [
-                    themeManager.primaryBackground,
-                    themeManager.secondaryBackground,
-                    themeManager.tertiaryBackground
-                ],
-                startPoint: .topLeading,
-                endPoint: .bottomTrailing
-            )
+            themeManager.primaryBackground
             
             // Floating gradient orbs (with reduced opacity for reading comfort)
             RadialGradient(
@@ -113,11 +105,11 @@ struct FullScreenCommentaryView: View {
         HStack {
             // Close button
             Button(action: { dismiss() }) {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     // Warm theme: × symbol in white circle
                     Text("×")
                         .font(.system(size: 24, weight: .semibold))
-                        .foregroundColor(Color(red: 0.42, green: 0.365, blue: 0.329))
+                        .foregroundColor(themeManager.secondaryText)
                         .frame(width: 40, height: 40)
                         .background(
                             Circle()
@@ -159,14 +151,14 @@ struct FullScreenCommentaryView: View {
             languageToggle
         }
         .padding(.horizontal, 24)
-        .padding(.top, themeManager.selectedTheme == .warmInviting ? 20 : 16)
+        .padding(.top, themeManager.useWarmLayout ? 20 : 16)
         .padding(.bottom, 20)
         .background {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 LinearGradient(
                     colors: [
-                        Color(red: 0.97, green: 0.96, blue: 1.0),
-                        Color(red: 0.97, green: 0.96, blue: 1.0).opacity(0.5)
+                        themeManager.primaryBackground,
+                        themeManager.primaryBackground.opacity(0.5)
                     ],
                     startPoint: .top,
                     endPoint: .bottom
@@ -183,7 +175,7 @@ struct FullScreenCommentaryView: View {
             HStack(spacing: 4) {
                 Text(languageManager.selectedLanguage.displayName)
                     .font(.system(size: 14, weight: .medium))
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     Text("🌐")
                         .font(.system(size: 14))
                 } else {
@@ -191,13 +183,13 @@ struct FullScreenCommentaryView: View {
                         .font(.system(size: 12))
                 }
             }
-            .foregroundColor(themeManager.selectedTheme == .warmInviting ? Color(red: 0.608, green: 0.561, blue: 0.749) : themeManager.primaryText)
+            .foregroundColor(themeManager.useWarmLayout ? themeManager.accentColor : themeManager.primaryText)
             .padding(.horizontal, 12)
-            .padding(.vertical, themeManager.selectedTheme == .warmInviting ? 8 : 6)
+            .padding(.vertical, themeManager.useWarmLayout ? 8 : 6)
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 20)
-                        .fill(Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.1))
+                        .fill(themeManager.accentColor.opacity(0.1))
                 } else {
                     RoundedRectangle(cornerRadius: 16)
                         .fill(themeManager.secondaryBackground.opacity(0.8))
@@ -220,14 +212,14 @@ struct FullScreenCommentaryView: View {
                 tafsirReader.speak(text: tafsirText, language: languageManager.selectedLanguage)
             }
         }) {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 Text(tafsirReader.isPlaying ? "⏸" : "🔊")
                     .font(.system(size: 20))
-                    .foregroundColor(Color(red: 0.608, green: 0.561, blue: 0.749))
+                    .foregroundColor(themeManager.accentColor)
                     .frame(width: 44, height: 44)
                     .background(
                         Circle()
-                            .fill(Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.1))
+                            .fill(themeManager.accentColor.opacity(0.1))
                     )
             } else {
                 Image(systemName: tafsirReader.isPlaying ? "pause.fill" : "speaker.wave.2.fill")
@@ -284,7 +276,7 @@ struct FullScreenCommentaryView: View {
                 }
             }
         }) {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 // Warm theme: Larger tabs with specific styling
                 VStack(spacing: 6) {
                     Text(layerIcon(for: layer))
@@ -299,23 +291,17 @@ struct FullScreenCommentaryView: View {
                         .multilineTextAlignment(.center)
                         .lineLimit(1)
                 }
-                .foregroundColor(isActive ? .white : Color(red: 0.176, green: 0.145, blue: 0.125))
+                .foregroundColor(isActive ? .white : themeManager.primaryText)
                 .frame(width: 130, height: 95)
                 .padding(12)
                 .background {
                     if isActive {
                         RoundedRectangle(cornerRadius: 20)
-                            .fill(
-                                LinearGradient(
-                                    colors: [Color(red: 0.608, green: 0.561, blue: 0.749), Color(red: 0.545, green: 0.498, blue: 0.659)],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
-                                )
-                            )
-                            .shadow(color: Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.3), radius: 12)
+                            .fill(themeManager.purpleGradient)
+                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 12)
                     } else {
                         RoundedRectangle(cornerRadius: 20)
-                            .fill(Color.white)
+                            .fill(themeManager.cardBackground)
                             .shadow(color: Color.black.opacity(0.04), radius: 12)
                     }
                 }
@@ -438,9 +424,9 @@ struct FullScreenCommentaryView: View {
             }
             
             // Divider matching mockup
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 Rectangle()
-                    .fill(Color(red: 0.608, green: 0.561, blue: 0.749).opacity(0.2)) // #9B8FBF with 0.2 opacity
+                    .fill(themeManager.accentColor.opacity(0.2))
                     .frame(height: 1)
                     .frame(maxWidth: .infinity)
             } else {
@@ -472,10 +458,10 @@ struct FullScreenCommentaryView: View {
                     HighlightedText(
                         text: trimmedParagraph,
                         highlightRange: paragraphHighlightRange,
-                        font: .system(size: themeManager.selectedTheme == .warmInviting ? 17 : 18, weight: .regular, design: .serif),
+                        font: .system(size: themeManager.useWarmLayout ? 17 : 18, weight: .regular, design: .serif),
                         textColor: themeManager.primaryText,
                         highlightColor: .yellow.opacity(0.4),
-                        lineSpacing: themeManager.selectedTheme == .warmInviting ? 6 : 8
+                        lineSpacing: themeManager.useWarmLayout ? 6 : 8
                     )
                         .multilineTextAlignment(languageManager.selectedLanguage.isRTL ? .trailing : .leading)
                         .frame(maxWidth: .infinity, alignment: languageManager.selectedLanguage.isRTL ? .trailing : .leading)
@@ -484,7 +470,7 @@ struct FullScreenCommentaryView: View {
                         .padding(.horizontal, 20)
                         .padding(.vertical, 16)
                         .background {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 // Warm theme: Purple gradient background matching summary view
                                 RoundedRectangle(cornerRadius: 24)
                                     .fill(themeManager.glassEffect)
@@ -638,17 +624,15 @@ struct FullScreenCommentaryView: View {
         case .foundation: return "🏛️"
         case .classical: return "📚"
         case .contemporary: return "🌍"
-        case .ahlulBayt: return "⭐"
         case .comparative: return "⚖️"
         }
     }
-    
+
     private func layerShortTitle(for layer: TafsirLayer) -> String {
         switch layer {
         case .foundation: return "Foundation"
         case .classical: return "Classical"
         case .contemporary: return "Modern"
-        case .ahlulBayt: return "Ahlul Bayt"
         case .comparative: return "Comparative"
         }
     }
@@ -658,7 +642,6 @@ struct FullScreenCommentaryView: View {
         case .foundation: return "Simple & Clear"
         case .classical: return "Traditional Scholars"
         case .contemporary: return "Contemporary Insights"
-        case .ahlulBayt: return "From the 14 Infallibles"
         case .comparative: return "Balanced Analysis"
         }
     }
@@ -671,19 +654,16 @@ struct FullScreenCommentaryView: View {
             return LinearGradient(colors: [.green, .mint], startPoint: .topLeading, endPoint: .bottomTrailing)
         case .contemporary:
             return LinearGradient(colors: [.orange, .yellow], startPoint: .topLeading, endPoint: .bottomTrailing)
-        case .ahlulBayt:
-            return LinearGradient(colors: [.purple, .pink], startPoint: .topLeading, endPoint: .bottomTrailing)
         case .comparative:
             return LinearGradient(colors: [.indigo, .teal], startPoint: .topLeading, endPoint: .bottomTrailing)
         }
     }
-    
+
     private func layerShadowColor(for layer: TafsirLayer) -> Color {
         switch layer {
         case .foundation: return .blue.opacity(0.3)
         case .classical: return .green.opacity(0.3)
         case .contemporary: return .orange.opacity(0.3)
-        case .ahlulBayt: return .purple.opacity(0.3)
         case .comparative: return .indigo.opacity(0.3)
         }
     }

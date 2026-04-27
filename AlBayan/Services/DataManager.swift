@@ -188,10 +188,8 @@ class DataManager: ObservableObject {
             rawText = tafsir.layer2
         case .contemporary:
             rawText = tafsir.layer3
-        case .ahlulBayt:
-            rawText = tafsir.layer4
         case .comparative:
-            rawText = tafsir.layer5
+            rawText = tafsir.layer4
         }
         
         guard let rawText = rawText else {

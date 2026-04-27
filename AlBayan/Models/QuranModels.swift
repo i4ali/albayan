@@ -253,14 +253,10 @@ struct TafsirVerse: Codable {
         case (.contemporary, .urdu): return layer3_urdu ?? layer3
         case (.contemporary, .arabic): return layer3_ar ?? layer3
         case (.contemporary, .french): return layer3_fr ?? layer3
-        case (.ahlulBayt, .english): return layer4
-        case (.ahlulBayt, .urdu): return layer4_urdu ?? layer4
-        case (.ahlulBayt, .arabic): return layer4_ar ?? layer4
-        case (.ahlulBayt, .french): return layer4_fr ?? layer4
-        case (.comparative, .english): return layer5 ?? ""
-        case (.comparative, .urdu): return layer5_urdu ?? layer5 ?? ""
-        case (.comparative, .arabic): return layer5_ar ?? layer5 ?? ""
-        case (.comparative, .french): return layer5_fr ?? layer5 ?? ""
+        case (.comparative, .english): return layer4
+        case (.comparative, .urdu): return layer4_urdu ?? layer4
+        case (.comparative, .arabic): return layer4_ar ?? layer4
+        case (.comparative, .french): return layer4_fr ?? layer4
         }
     }
 
@@ -279,14 +275,10 @@ struct TafsirVerse: Codable {
         case (.contemporary, .urdu): return layer3_urdu != nil
         case (.contemporary, .arabic): return layer3_ar != nil
         case (.contemporary, .french): return layer3_fr != nil
-        case (.ahlulBayt, .english): return true
-        case (.ahlulBayt, .urdu): return layer4_urdu != nil
-        case (.ahlulBayt, .arabic): return layer4_ar != nil
-        case (.ahlulBayt, .french): return layer4_fr != nil
-        case (.comparative, .english): return layer5 != nil
-        case (.comparative, .urdu): return layer5_urdu != nil
-        case (.comparative, .arabic): return layer5_ar != nil
-        case (.comparative, .french): return layer5_fr != nil
+        case (.comparative, .english): return true
+        case (.comparative, .urdu): return layer4_urdu != nil
+        case (.comparative, .arabic): return layer4_ar != nil
+        case (.comparative, .french): return layer4_fr != nil
         }
     }
 
@@ -549,36 +541,31 @@ enum TafsirLayer: String, CaseIterable {
     case foundation = "layer1"
     case classical = "layer2"
     case contemporary = "layer3"
-    case ahlulBayt = "layer4"
-    case comparative = "layer5"
-    
+    case comparative = "layer4"
+
     var title: String {
         switch self {
         case .foundation:
             return "Foundation"
         case .classical:
-            return "Classical Shia"
+            return "Classical Sunni"
         case .contemporary:
             return "Contemporary"
-        case .ahlulBayt:
-            return "Ahlul Bayt"
         case .comparative:
             return "Comparative"
         }
     }
-    
+
     var description: String {
         switch self {
         case .foundation:
             return "Simple explanations, historical context, contemporary relevance"
         case .classical:
-            return "Tabatabai, Tabrisi, traditional scholarly consensus"
+            return "Tabari, Ibn Kathir, Qurtubi — classical Sunni consensus"
         case .contemporary:
             return "Modern scholars, scientific insights, social justice themes"
-        case .ahlulBayt:
-            return "Hadith from Imams, theological concepts, spiritual guidance"
         case .comparative:
-            return "Shia vs Sunni scholarly perspectives"
+            return "Balanced Sunni and Shia scholarly perspectives"
         }
     }
 

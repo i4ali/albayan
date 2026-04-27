@@ -46,66 +46,32 @@ struct HomeView: View {
                             .foregroundColor(themeManager.secondaryText)
 
                         Text("The Holy Quran")
-                            .font(.system(size: themeManager.selectedTheme == .warmInviting ? 34 : 32, weight: .bold, design: themeManager.selectedTheme == .warmInviting ? .rounded : .default))
+                            .font(.system(size: 34, weight: .bold, design: .rounded))
                             .foregroundColor(themeManager.primaryText)
                     }
 
                     Spacer()
                 }
 
-                // Search bar with glassmorphism
+                // Search bar
                 HStack {
-                    if themeManager.selectedTheme == .warmInviting {
-                        Text("\u{1F50D}")
-                            .font(.system(size: 20))
-                    } else {
-                        Image(systemName: "magnifyingglass")
-                            .foregroundColor(themeManager.tertiaryText)
-                    }
+                    Text("\u{1F50D}")
+                        .font(.system(size: 20))
 
                     TextField("Search surahs...", text: $searchText)
                         .textFieldStyle(PlainTextFieldStyle())
                         .foregroundColor(themeManager.primaryText)
                 }
-                .padding(themeManager.selectedTheme == .warmInviting ? 16 : 12)
+                .padding(16)
                 .background {
-                    if themeManager.selectedTheme == .warmInviting {
-                        RoundedRectangle(cornerRadius: 16)
-                            .fill(Color(red: 1.0, green: 1.0, blue: 1.0).opacity(1.0))
-                            .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
-                    } else {
-                        RoundedRectangle(cornerRadius: 12)
-                            .fill(themeManager.glassEffect)
-                            .overlay(
-                                RoundedRectangle(cornerRadius: 12)
-                                    .stroke(themeManager.strokeColor, lineWidth: 1)
-                            )
-                    }
+                    RoundedRectangle(cornerRadius: 16)
+                        .fill(Color(red: 1.0, green: 1.0, blue: 1.0).opacity(1.0))
+                        .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
                 }
             }
             .padding(.horizontal, 20)
             .padding(.top, 60)
             .padding(.bottom, 20)
-            .background {
-                // Light themes (warmInviting, modernLight) use a flat header — no glass/gradient overlay
-                if themeManager.selectedTheme != .warmInviting && themeManager.selectedTheme != .modernLight {
-                    Rectangle()
-                        .fill(themeManager.glassEffect)
-                        .overlay(
-                            Rectangle()
-                                .fill(
-                                    LinearGradient(
-                                        colors: [
-                                            Color.clear,
-                                            themeManager.isDarkMode ? Color.white.opacity(0.05) : Color.black.opacity(0.05)
-                                        ],
-                                        startPoint: .top,
-                                        endPoint: .bottom
-                                    )
-                                )
-                        )
-                }
-            }
 
             // Surah list
             ScrollView {

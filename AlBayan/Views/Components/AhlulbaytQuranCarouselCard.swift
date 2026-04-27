@@ -65,7 +65,7 @@ struct AhlulbaytQuranCarouselCard: View {
         .padding(.vertical, 16)
         .frame(height: 145)
         .background {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)

@@ -19,14 +19,7 @@ struct TTSVoicePickerView: View {
         NavigationView {
             ZStack {
                 // Background
-                LinearGradient(
-                    colors: [
-                        themeManager.primaryBackground,
-                        themeManager.secondaryBackground
-                    ],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                themeManager.primaryBackground
                 .ignoresSafeArea()
 
                 if voiceManager.voicesForLanguage(language).isEmpty {
@@ -66,6 +59,8 @@ struct TTSVoicePickerView: View {
                     }
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("\(language.displayName) Voices")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {

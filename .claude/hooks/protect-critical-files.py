@@ -37,6 +37,15 @@ PROTECTED_DIR = "AlBayan/AlBayan/Data"
 # Project root (for resolving absolute paths)
 PROJECT_ROOT = Path(__file__).parent.parent.parent.resolve()
 
+# Scripting runtimes and their inline code flags
+SCRIPT_RUNTIMES = {
+    "python": "-c", "python3": "-c",
+    "python3.9": "-c", "python3.10": "-c", "python3.11": "-c",
+    "python3.12": "-c", "python3.13": "-c",
+    "node": "-e", "npx": "-e", "bun": "-e",
+    "ruby": "-e", "perl": "-e",
+}
+
 
 def log(message: str):
     """Append a timestamped message to the log file."""
@@ -208,45 +217,57 @@ def is_dangerous_git_restore(args: list) -> tuple[bool, str]:
     return False, ""
 
 
-def is_dangerous_python_script(args: list) -> tuple[bool, str]:
+def contains_protected_reference(text: str) -> bool:
+    """Check if text contains references to protected paths (ignoring comment lines)."""
+    protected_patterns = [
+        PROTECTED_DIR,  # AlBayan/AlBayan/Data
+        PROTECTED_DIR.replace("/", "\\"),  # Windows paths
+        f"/{PROTECTED_DIR}/",  # Absolute path fragment
+        "/AlBayan/Data/",  # Partial path
+        "AlBayan/Data/",  # Relative
+    ]
+    for pattern in protected_patterns:
+        if pattern in text:
+            for line in text.split("\n"):
+                if pattern in line:
+                    stripped = line.strip()
+                    if stripped.startswith("#") or stripped.startswith("//"):
+                        continue
+                    return True
+    return False
+
+
+def is_dangerous_script(args: list, runtime: str, inline_flag: str) -> tuple[bool, str]:
     """
-    Check if a Python script references protected paths in its source code.
-    This catches scripts that have hardcoded paths to protected files.
+    Check if a script command references protected paths in its source code.
+    Works for any scripting runtime (python, node, ruby, perl, etc.).
     Returns (is_dangerous, reason).
     """
-    # Skip flags to find the script file
     script_path = None
-    for arg in args:
-        # Skip python flags
+    script_extensions = (".py", ".js", ".mjs", ".cjs", ".ts", ".rb", ".pl", ".sh")
+
+    for i, arg in enumerate(args):
         if arg.startswith("-"):
-            # -c means inline code follows, check it directly
-            if arg == "-c":
-                continue
+            # Check for inline code flag (e.g., python -c "code" or node -e "code")
+            if arg == inline_flag and i + 1 < len(args):
+                code = args[i + 1]
+                if contains_protected_reference(code):
+                    return True, f"inline {runtime} code references protected path"
             continue
-        # Skip if it's the code after -c
-        if args and "-c" in args:
-            c_idx = args.index("-c")
-            if args.index(arg) == c_idx + 1:
-                # This is inline code, check it for protected paths
-                code = arg
-                if PROTECTED_DIR in code or PROTECTED_FILE in code:
-                    return True, f"inline Python code references protected path"
-                if "/Data/" in code and "tafsir" in code.lower():
-                    return True, f"inline Python code references Data/tafsir files"
-                continue
-        # This should be the script path
-        if arg.endswith(".py"):
-            script_path = arg
-            break
-        # Could also be a script without .py extension
-        if not arg.startswith("-") and "/" in arg:
+
+        # Check if previous arg was the inline flag (already handled above, skip the code arg)
+        if i > 0 and args[i - 1] == inline_flag:
+            continue
+
+        # This should be a script path
+        if arg.endswith(script_extensions) or ("/" in arg and not arg.startswith("-")):
             script_path = arg
             break
 
     if not script_path:
         return False, ""
 
-    # Resolve the script path
+    # Resolve and read the script file
     try:
         path = Path(script_path)
         if not path.is_absolute():
@@ -255,36 +276,20 @@ def is_dangerous_python_script(args: list) -> tuple[bool, str]:
         if not path.exists():
             return False, ""
 
-        # Read the script content
         content = path.read_text(encoding="utf-8")
 
-        # Check for references to protected directory (various forms)
-        protected_patterns = [
-            PROTECTED_DIR,  # AlBayan/AlBayan/Data
-            PROTECTED_DIR.replace("/", "\\"),  # Windows paths
-            f"/{PROTECTED_DIR}/",  # Absolute path fragment
-            "/AlBayan/Data/",  # Partial path
-            "AlBayan/Data/",  # Relative
-        ]
-
-        for pattern in protected_patterns:
-            if pattern in content:
-                # Find the line for context
-                for i, line in enumerate(content.split("\n"), 1):
-                    if pattern in line and not line.strip().startswith("#"):
-                        return True, f"Python script '{script_path}' references protected path at line {i}"
-                return True, f"Python script '{script_path}' references protected path '{pattern}'"
-
-        # Also check for the protected file
-        if PROTECTED_FILE in content:
+        if contains_protected_reference(content):
+            # Find the specific line for context
             for i, line in enumerate(content.split("\n"), 1):
-                if PROTECTED_FILE in line and not line.strip().startswith("#"):
-                    return True, f"Python script '{script_path}' references protected file at line {i}"
-            return True, f"Python script '{script_path}' references protected file '{PROTECTED_FILE}'"
+                stripped = line.strip()
+                if stripped.startswith("#") or stripped.startswith("//"):
+                    continue
+                if any(p in line for p in [PROTECTED_DIR, "/AlBayan/Data/", "AlBayan/Data/"]):
+                    return True, f"{runtime} script '{script_path}' references protected path at line {i}"
+            return True, f"{runtime} script '{script_path}' references protected path"
 
     except Exception as e:
-        log(f"Error reading Python script {script_path}: {e}")
-        return False, ""
+        log(f"Error reading {runtime} script {script_path}: {e}")
 
     return False, ""
 
@@ -386,9 +391,10 @@ def analyze_command(command: str) -> tuple[bool, str]:
                 if is_dangerous:
                     return True, f"git restore would discard changes to {target}"
 
-            # Check Python scripts for references to protected paths
-            if cmd in ["python3", "python", "python3.9", "python3.10", "python3.11", "python3.12", "python3.13"]:
-                is_dangerous, reason = is_dangerous_python_script(args[1:])
+            # Check scripting runtimes for references to protected paths
+            if cmd in SCRIPT_RUNTIMES:
+                inline_flag = SCRIPT_RUNTIMES[cmd]
+                is_dangerous, reason = is_dangerous_script(args[1:], cmd, inline_flag)
                 if is_dangerous:
                     return True, reason
 

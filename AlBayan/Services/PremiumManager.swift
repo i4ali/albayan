@@ -119,7 +119,7 @@ class PremiumManager: ObservableObject {
             switch layer {
             case .foundation, .classical:
                 return true  // Always free for Surah 1
-            case .contemporary, .ahlulBayt, .comparative:
+            case .contemporary, .comparative:
                 return isPremium  // Require premium for Surah 1
             }
         }

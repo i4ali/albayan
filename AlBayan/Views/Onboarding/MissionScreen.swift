@@ -75,7 +75,7 @@ struct MissionScreen: View {
                         .offset(y: isVisible ? 0 : 20)
                         .animation(Animation.easeOut(duration: 0.8).delay(0.8), value: isVisible)
 
-                    Text("Through authentic Shia scholarship, connecting you with the Quran and the wisdom of the Ahlul Bayt")
+                    Text("Through authentic classical and contemporary Sunni scholarship, with balanced comparative perspectives")
                         .font(.system(size: 18, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .multilineTextAlignment(.center)

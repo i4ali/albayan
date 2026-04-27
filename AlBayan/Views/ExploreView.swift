@@ -63,13 +63,6 @@ enum ExploreSection: CaseIterable {
                     title: "Prophetic Stories",
                     subtitle: "Accounts of the messengers",
                     destination: .propheticStories
-                ),
-                ExploreItem(
-                    id: "ahlulbaytQuran",
-                    icon: "star.fill",
-                    title: "Ahl al-Bayt in Quran",
-                    subtitle: "Verses honoring the family",
-                    destination: .ahlulbaytQuran
                 )
             ]
         }
@@ -90,7 +83,6 @@ enum ExploreDestination {
     case questions
     case fasting
     case propheticStories
-    case ahlulbaytQuran
 }
 
 // MARK: - View
@@ -102,7 +94,6 @@ struct ExploreView: View {
     @State private var showQuestions = false
     @State private var showFasting = false
     @State private var showPropheticStories = false
-    @State private var showAhlulbaytQuran = false
 
     var body: some View {
         ScrollView {
@@ -110,7 +101,7 @@ struct ExploreView: View {
                 // Header
                 VStack(alignment: .leading, spacing: 8) {
                     Text("Explore")
-                        .font(.system(size: themeManager.selectedTheme == .warmInviting ? 34 : 32, weight: .bold, design: themeManager.selectedTheme == .warmInviting ? .rounded : .default))
+                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
                         .foregroundColor(themeManager.primaryText)
 
                     Text("Discover Quranic wisdom")
@@ -145,9 +136,6 @@ struct ExploreView: View {
         .fullScreenCover(isPresented: $showPropheticStories) {
             PropheticStoriesView()
         }
-        .fullScreenCover(isPresented: $showAhlulbaytQuran) {
-            AhlulbaytQuranView()
-        }
     }
 
     @ViewBuilder
@@ -175,7 +163,7 @@ struct ExploreView: View {
                 }
             }
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 16)
                         .fill(Color.white)
                         .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -197,17 +185,15 @@ struct ExploreView: View {
         // Use emoji for warmInviting theme, SF Symbols text for others
         switch item.destination {
         case .lifeMoments:
-            return themeManager.selectedTheme == .warmInviting ? "heart.fill" : "heart.fill"
+            return themeManager.useWarmLayout ? "heart.fill" : "heart.fill"
         case .propheticParallels:
-            return themeManager.selectedTheme == .warmInviting ? "person.2.wave.2.fill" : "person.2.wave.2.fill"
+            return themeManager.useWarmLayout ? "person.2.wave.2.fill" : "person.2.wave.2.fill"
         case .questions:
-            return themeManager.selectedTheme == .warmInviting ? "questionmark.circle" : "questionmark.circle"
+            return themeManager.useWarmLayout ? "questionmark.circle" : "questionmark.circle"
         case .fasting:
-            return themeManager.selectedTheme == .warmInviting ? "moon.fill" : "moon.fill"
+            return themeManager.useWarmLayout ? "moon.fill" : "moon.fill"
         case .propheticStories:
-            return themeManager.selectedTheme == .warmInviting ? "book" : "book"
-        case .ahlulbaytQuran:
-            return themeManager.selectedTheme == .warmInviting ? "star.fill" : "star.fill"
+            return themeManager.useWarmLayout ? "book" : "book"
         }
     }
 
@@ -223,8 +209,6 @@ struct ExploreView: View {
             showFasting = true
         case .propheticStories:
             showPropheticStories = true
-        case .ahlulbaytQuran:
-            showAhlulbaytQuran = true
         }
     }
 }

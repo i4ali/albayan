@@ -70,7 +70,7 @@ struct AhlulbaytEntryDetailView: View {
                     }
                     .padding(24)
                     .background {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 24)
                                 .fill(Color.white)
                                 .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -116,7 +116,7 @@ struct AhlulbaytEntryDetailView: View {
                         }
                         .padding(20)
                         .background {
-                            if themeManager.selectedTheme == .warmInviting {
+                            if themeManager.useWarmLayout {
                                 RoundedRectangle(cornerRadius: 20)
                                     .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                             } else {
@@ -184,7 +184,7 @@ struct AhlulbaytEntryDetailView: View {
                     }
                     .padding(20)
                     .background {
-                        if themeManager.selectedTheme == .warmInviting {
+                        if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                         } else {
@@ -358,7 +358,7 @@ struct AhlulbaytVerseCard: View {
             .frame(maxWidth: .infinity, alignment: .leading)
             .padding(20)
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     Rectangle()
                         .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                 } else {
@@ -395,7 +395,7 @@ struct AhlulbaytVerseCard: View {
             .padding(20)
         }
         .background {
-            if themeManager.selectedTheme == .warmInviting {
+            if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -448,7 +448,7 @@ struct RelatedEntryCard: View {
             }
             .padding(16)
             .background {
-                if themeManager.selectedTheme == .warmInviting {
+                if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 16)
                         .fill(Color.white)
                         .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)

@@ -290,17 +290,16 @@ struct PaywallLayersHero: View {
 
     private let layers: [(emoji: String, title: String, tagline: String, color: Color)] = [
         ("🏛️", "Foundation", "Historical context & basics", .blue),
-        ("📚", "Classical Shia", "Tabatabai & Tabrisi", .purple),
+        ("📚", "Classical Sunni", "Tabari, Ibn Kathir, Qurtubi", .purple),
         ("🌍", "Contemporary", "Modern perspectives", .green),
-        ("⭐", "Ahlul Bayt", "Wisdom of the Infallibles", .orange),
-        ("⚖️", "Comparative", "Shia & Sunni analysis", .indigo)
+        ("⚖️", "Comparative", "Sunni & Shia analysis", .indigo)
     ]
 
     var body: some View {
         VStack(spacing: 16) {
             // Header
             VStack(spacing: 8) {
-                Text("5 Layers of Wisdom")
+                Text("4 Layers of Wisdom")
                     .font(.system(size: 28, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
@@ -310,9 +309,8 @@ struct PaywallLayersHero: View {
                     .multilineTextAlignment(.center)
             }
 
-            // Layer cards grid
+            // Layer cards grid (2x2)
             VStack(spacing: 10) {
-                // First row: 2 cards
                 HStack(spacing: 10) {
                     PaywallLayerCard(
                         emoji: layers[0].emoji,
@@ -328,7 +326,6 @@ struct PaywallLayersHero: View {
                     )
                 }
 
-                // Second row: 3 cards
                 HStack(spacing: 10) {
                     PaywallLayerCard(
                         emoji: layers[2].emoji,
@@ -341,12 +338,6 @@ struct PaywallLayersHero: View {
                         title: layers[3].title,
                         tagline: layers[3].tagline,
                         color: layers[3].color
-                    )
-                    PaywallLayerCard(
-                        emoji: layers[4].emoji,
-                        title: layers[4].title,
-                        tagline: layers[4].tagline,
-                        color: layers[4].color
                     )
                 }
             }

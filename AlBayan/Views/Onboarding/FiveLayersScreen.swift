@@ -14,17 +14,16 @@ struct FiveLayersScreen: View {
 
     private let layers: [(layer: TafsirLayer, emoji: String, title: String, description: String)] = [
         (.foundation, "🏛️", "Foundation", "Simple explanations and historical context"),
-        (.classical, "📚", "Classical Shia", "Tabatabai, Tabrisi, traditional scholars"),
+        (.classical, "📚", "Classical Sunni", "Tabari, Ibn Kathir, Qurtubi"),
         (.contemporary, "🌍", "Contemporary", "Modern perspectives and scientific analysis"),
-        (.ahlulBayt, "⭐", "Ahlul Bayt", "Hadith from the 14 Infallibles"),
-        (.comparative, "⚖️", "Comparative", "Balanced Shia and Sunni scholarly analysis")
+        (.comparative, "⚖️", "Comparative", "Balanced Sunni and Shia scholarly analysis")
     ]
 
     var body: some View {
         VStack(spacing: 0) {
             // Header
             VStack(spacing: 16) {
-                Text("5 Layers of Wisdom")
+                Text("4 Layers of Wisdom")
                     .font(.system(size: 32, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
@@ -180,13 +179,11 @@ struct LayerCard: View {
         case .foundation:
             return "Perfect for beginners. Clear explanations of verses with historical context and basic Islamic principles."
         case .classical:
-            return "Dive deep into traditional Shia scholarship with insights from Allamah Tabatabai's Al-Mizan and Sheikh Tabrisi's Majma al-Bayan."
+            return "Dive deep into classical Sunni scholarship with insights from Tabari's Jami al-Bayan, Ibn Kathir's Tafsir al-Quran al-Azim, and al-Qurtubi."
         case .contemporary:
             return "Modern Islamic scholars provide fresh perspectives, addressing contemporary issues and scientific connections."
-        case .ahlulBayt:
-            return "Authentic narrations and spiritual wisdom from the Prophet and the 14 Infallibles (peace be upon them)."
         case .comparative:
-            return "Unique to AlBayan: Balanced analysis comparing Shia and Sunni scholarly interpretations with academic integrity."
+            return "Unique to AlBayan: Balanced analysis comparing Sunni and Shia scholarly interpretations with academic integrity."
         }
     }
 }
@@ -200,8 +197,6 @@ extension TafsirLayer {
             return Color.purple
         case .contemporary:
             return Color.green
-        case .ahlulBayt:
-            return Color.orange
         case .comparative:
             return Color.indigo
         }

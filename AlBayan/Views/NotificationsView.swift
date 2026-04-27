@@ -57,14 +57,7 @@ struct NotificationsView: View {
         NavigationView {
             ZStack {
                 // Background
-                LinearGradient(
-                    colors: [
-                        themeManager.primaryBackground,
-                        themeManager.secondaryBackground
-                    ],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                themeManager.primaryBackground
                 .ignoresSafeArea()
 
                 if notifications.isEmpty {
@@ -117,6 +110,8 @@ struct NotificationsView: View {
                     }
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Notifications")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {

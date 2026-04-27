@@ -67,6 +67,8 @@ struct TafsirSourcesView: View {
                     .padding(.bottom, 40)
                 }
             }
+            .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
+            .toolbarBackground(.visible, for: .navigationBar)
             .navigationTitle("Tafsir Sources")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
