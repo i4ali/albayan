@@ -65,7 +65,7 @@ struct WelcomeView: View {
                             }
                             .frame(height: 100)
                             
-                            Text("ثقلين")
+                            Text("البيان")
                                 .font(.system(size: 64, weight: .light, design: .default))
                                 .foregroundColor(themeManager.primaryText)
                                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.6), radius: 25)
@@ -78,7 +78,7 @@ struct WelcomeView: View {
                                 .foregroundColor(themeManager.primaryText)
                                 .multilineTextAlignment(.center)
                             
-                            Text("Discover the profound depths of the Quran through AI-powered Shia commentary with four layers of scholarly wisdom.")
+                            Text("Discover the profound depths of the Quran through AI-powered Sunni commentary with four layers of scholarly wisdom.")
                                 .font(.system(size: 18, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                                 .multilineTextAlignment(.center)

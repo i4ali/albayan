@@ -60,7 +60,7 @@ struct PaywallView: View {
                         // Featured: Quick Gems
                         PaywallQuickGemsFeature()
 
-                        // Hero: 5 Layers of Wisdom
+                        // Hero: 4 Layers of Wisdom
                         PaywallLayersHero()
 
                         // Progress/Streak Teaser
@@ -283,7 +283,7 @@ struct PremiumBenefitRow: View {
     }
 }
 
-// MARK: - Hero 5-Layers Section
+// MARK: - Hero 4-Layers Section
 
 struct PaywallLayersHero: View {
     @StateObject private var themeManager = ThemeManager.shared

@@ -2,7 +2,7 @@
 //  HadithScreen.swift
 //  AlBayan
 //
-//  Onboarding Screen 1: Hadith of AlBayan
+//  Onboarding Screen 1: The Prophet's Bequest (hadith from Muwatta Malik)
 //
 
 import SwiftUI
@@ -24,7 +24,7 @@ struct HadithScreen: View {
 
                 VStack(spacing: 40) {
                     // Title with glow
-                    Text("Hadith of AlBayan")
+                    Text("The Prophet's Bequest")
                         .font(.system(size: 20, weight: .semibold))
                         .foregroundColor(themeManager.secondaryText)
                         .overlay(
@@ -43,7 +43,7 @@ struct HadithScreen: View {
                                 .blendMode(.overlay)
                             }
                             .mask(
-                                Text("Hadith of AlBayan")
+                                Text("The Prophet's Bequest")
                                     .font(.system(size: 20, weight: .semibold))
                             )
                         )
@@ -63,7 +63,7 @@ struct HadithScreen: View {
                         .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
 
                     // Arabic Hadith
-                    Text("إني تارك فيكم الثقلين:\nكتاب الله وعترتي أهل بيتي،\nما إن تمسكتم بهما\nلن تضلوا بعدي أبداً")
+                    Text("تركتُ فيكم أمرين\nلن تضلوا ما تمسكتم بهما:\nكتابَ الله\nوسنةَ نبيه")
                         .font(.system(size: 26, weight: .medium, design: .serif))
                         .foregroundColor(themeManager.primaryText)
                         .multilineTextAlignment(.center)
@@ -83,23 +83,23 @@ struct HadithScreen: View {
 
                     // English Translation
                     VStack(spacing: 12) {
-                        Text("\"I am leaving among you two weighty things:")
+                        Text("\"I have left among you two matters")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("the Book of Allah and my progeny,")
+                        Text("you will never go astray")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("the people of my household.")
+                        Text("as long as you hold fast to them:")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("As long as you hold fast to them,")
+                        Text("the Book of Allah")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("you shall never go astray.\"")
+                        Text("and the Sunnah of His Prophet.\"")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                     }

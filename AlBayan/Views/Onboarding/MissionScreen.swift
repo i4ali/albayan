@@ -34,7 +34,7 @@ struct MissionScreen: View {
                     }
 
                     // App icon representation with shimmer
-                    Text("ثقلين")
+                    Text("البيان")
                         .font(.system(size: 48, weight: .light, design: .default))
                         .foregroundColor(themeManager.primaryText)
                         .overlay(
@@ -53,7 +53,7 @@ struct MissionScreen: View {
                                 .blendMode(.overlay)
                             }
                             .mask(
-                                Text("ثقلين")
+                                Text("البيان")
                                     .font(.system(size: 48, weight: .light, design: .default))
                             )
                         )
@@ -97,7 +97,7 @@ struct MissionScreen: View {
 
                     HighlightRow(
                         icon: "sparkles",
-                        text: "5 layers of authentic Shia commentary",
+                        text: "4 layers of authentic Sunni commentary",
                         isVisible: isVisible,
                         delay: 1.6
                     )

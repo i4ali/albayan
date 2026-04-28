@@ -1,13 +1,13 @@
 //
-//  FiveLayersScreen.swift
+//  LayersScreen.swift
 //  AlBayan
 //
-//  Onboarding Screen 3: Five Layers of Wisdom
+//  Onboarding Screen 3: Four Layers of Wisdom
 //
 
 import SwiftUI
 
-struct FiveLayersScreen: View {
+struct LayersScreen: View {
     @StateObject private var themeManager = ThemeManager.shared
     @State private var isVisible = false
     @State private var selectedLayer: TafsirLayer?
@@ -204,5 +204,5 @@ extension TafsirLayer {
 }
 
 #Preview {
-    FiveLayersScreen()
+    LayersScreen()
 }

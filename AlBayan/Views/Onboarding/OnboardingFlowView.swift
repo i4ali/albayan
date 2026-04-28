@@ -32,8 +32,8 @@ struct OnboardingFlowView: View {
                 MissionScreen()
                     .tag(1)
 
-                // Screen 3: Five Layers
-                FiveLayersScreen()
+                // Screen 3: Four Layers
+                LayersScreen()
                     .tag(2)
 
                 // Screen 4: Quick Gems

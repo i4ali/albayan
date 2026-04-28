@@ -207,28 +207,24 @@ struct TafsirVerse: Codable {
     let layer2: String
     let layer3: String
     let layer4: String
-    let layer5: String?
 
     // Urdu content (optional for backward compatibility)
     let layer1_urdu: String?
     let layer2_urdu: String?
     let layer3_urdu: String?
     let layer4_urdu: String?
-    let layer5_urdu: String?
 
     // Arabic content (optional)
     let layer1_ar: String?
     let layer2_ar: String?
     let layer3_ar: String?
     let layer4_ar: String?
-    let layer5_ar: String?
 
     // French content (optional)
     let layer1_fr: String?
     let layer2_fr: String?
     let layer3_fr: String?
     let layer4_fr: String?
-    let layer5_fr: String?
 
     // Short versions for Overview feature (optional)
     let layer2short: String?

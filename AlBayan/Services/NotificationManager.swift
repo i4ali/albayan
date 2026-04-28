@@ -180,7 +180,7 @@ class NotificationManager: ObservableObject {
             }
         }
 
-        body += "\n\n📚 Tap to explore the 5-layer tafsir"
+        body += "\n\n📚 Tap to explore the 4-layer tafsir"
 
         content.body = body
 
