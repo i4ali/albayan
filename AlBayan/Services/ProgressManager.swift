@@ -2,164 +2,125 @@
 //  ProgressManager.swift
 //  AlBayan
 //
-//  Service for managing reading progress, streaks, and badges (local-only persistence).
+//  SwiftData-backed reading progress, streaks, and badges with CloudKit sync.
 //
 
 import Foundation
+import SwiftData
 import Combine
 
 @MainActor
-class ProgressManager: ObservableObject {
+final class ProgressManager: ObservableObject {
     static let shared = ProgressManager()
 
     // MARK: - Published Properties
 
     @Published var verseProgress: [VerseProgress] = []
-    @Published var streak: ReadingStreak = ReadingStreak()
+    @Published var streak: ReadingStreak = ReadingStreak()  // placeholder; replaced after bind()
     @Published var badges: [BadgeAward] = []
     @Published var stats: ProgressStats = ProgressStats()
     @Published var preferences: ProgressPreferences = ProgressPreferences()
     @Published var pendingBadge: BadgeAward? = nil // For showing badge celebration
-    @Published var isSyncing = false
-    @Published var syncStatus: String?
-    @Published var errorMessage: String?
-    @Published var isAuthenticated = false
-    @Published var hasConflict: Bool = false
-    @Published var conflictMessage: String?
 
-    // MARK: - UserDefaults Keys
-
-    private let verseProgressKey = "verseProgress"
-    private let streakKey = "readingStreak"
-    private let badgesKey = "badgeAwards"
-    private let statsKey = "progressStats"
-    private let preferencesKey = "progressPreferences"
+    private var modelContext: ModelContext!
+    private var hasBound = false
 
     // MARK: - Initialization
 
-    private init() {
-        loadProgress()
-    }
+    private init() {}
 
-    // MARK: - Data Persistence
-
-    func loadProgress() {
-        // Load verse progress
-        if let data = UserDefaults.standard.data(forKey: verseProgressKey),
-           let decoded = try? JSONDecoder().decode([VerseProgress].self, from: data) {
-            self.verseProgress = decoded
-        }
-
-        // Load streak
-        if let data = UserDefaults.standard.data(forKey: streakKey),
-           let decoded = try? JSONDecoder().decode(ReadingStreak.self, from: data) {
-            self.streak = decoded
-        }
-
-        // Load badges
-        if let data = UserDefaults.standard.data(forKey: badgesKey),
-           let decoded = try? JSONDecoder().decode([BadgeAward].self, from: data) {
-            self.badges = decoded
-        }
-
-        // Load stats
-        if let data = UserDefaults.standard.data(forKey: statsKey),
-           let decoded = try? JSONDecoder().decode(ProgressStats.self, from: data) {
-            self.stats = decoded
-        }
-
-        // Load preferences
-        if let data = UserDefaults.standard.data(forKey: preferencesKey),
-           let decoded = try? JSONDecoder().decode(ProgressPreferences.self, from: data) {
-            self.preferences = decoded
-        }
+    /// Called once at app launch from AlBayanApp before any UI accesses the manager.
+    /// Idempotent — guarded so a `.task` re-fire doesn't double-register the remote-change observer.
+    func bind(to context: ModelContext) {
+        guard !hasBound else { return }
+        hasBound = true
+        self.modelContext = context
+        ensureSingletons()
+        refresh()
+        observeRemoteChanges()
 
         // Update today's verse count and streak on load
         updateTodayVersesCount()
         updateStreakOnLoad()
+
+        print("📊 ProgressManager: \(verseProgress.count) verses, \(badges.count) badges, streak=\(streak.currentStreak)")
     }
 
-    private func saveProgress() {
-        // Save verse progress
-        if let encoded = try? JSONEncoder().encode(verseProgress) {
-            UserDefaults.standard.set(encoded, forKey: verseProgressKey)
-        }
+    // MARK: - Refresh / singletons
 
-        // Save streak
-        if let encoded = try? JSONEncoder().encode(streak) {
-            UserDefaults.standard.set(encoded, forKey: streakKey)
-        }
-
-        // Save badges
-        if let encoded = try? JSONEncoder().encode(badges) {
-            UserDefaults.standard.set(encoded, forKey: badgesKey)
-        }
-
-        // Save stats
-        if let encoded = try? JSONEncoder().encode(stats) {
-            UserDefaults.standard.set(encoded, forKey: statsKey)
-        }
-
-        // Save preferences
-        if let encoded = try? JSONEncoder().encode(preferences) {
-            UserDefaults.standard.set(encoded, forKey: preferencesKey)
+    private func refresh() {
+        guard modelContext != nil else { return }
+        do {
+            verseProgress = try modelContext.fetch(FetchDescriptor<VerseProgress>())
+            badges = try modelContext.fetch(FetchDescriptor<BadgeAward>())
+            if let s = try modelContext.fetch(FetchDescriptor<ReadingStreak>()).first { streak = s }
+            if let st = try modelContext.fetch(FetchDescriptor<ProgressStats>()).first { stats = st }
+            if let p = try modelContext.fetch(FetchDescriptor<ProgressPreferences>()).first { preferences = p }
+        } catch {
+            print("⚠️ ProgressManager refresh failed: \(error)")
         }
     }
 
-    private func clearAllLocalData() {
-        verseProgress = []
-        streak = ReadingStreak()
-        badges = []
-        stats = ProgressStats()
-        preferences = ProgressPreferences()
+    private func ensureSingletons() {
+        guard modelContext != nil else { return }
+        consolidate(ReadingStreak.self) { ReadingStreak() }
+        consolidate(ProgressStats.self) { ProgressStats() }
+        consolidate(ProgressPreferences.self) { ProgressPreferences() }
+        try? modelContext.save()
+    }
 
-        // Clear sync status
-        syncStatus = nil
-        errorMessage = nil
-        hasConflict = false
-        conflictMessage = nil
+    private func consolidate<T: PersistentModel>(_ type: T.Type, factory: () -> T) {
+        do {
+            let existing = try modelContext.fetch(FetchDescriptor<T>())
+            if existing.isEmpty {
+                modelContext.insert(factory())
+            } else if existing.count > 1 {
+                // Keep first, delete rest. (For ReadingStreak/ProgressStats/Preferences,
+                // a more sophisticated "keep latest updatedAt" can be added later if needed.)
+                for instance in existing.dropFirst() { modelContext.delete(instance) }
+            }
+        } catch {
+            print("⚠️ consolidate(\(type)) failed: \(error)")
+        }
+    }
 
-        // Remove from UserDefaults
-        UserDefaults.standard.removeObject(forKey: verseProgressKey)
-        UserDefaults.standard.removeObject(forKey: streakKey)
-        UserDefaults.standard.removeObject(forKey: badgesKey)
-        UserDefaults.standard.removeObject(forKey: statsKey)
-        UserDefaults.standard.removeObject(forKey: preferencesKey)
+    private func observeRemoteChanges() {
+        NotificationCenter.default.addObserver(
+            forName: .NSPersistentStoreRemoteChange,
+            object: nil,
+            queue: .main
+        ) { [weak self] _ in
+            Task { @MainActor in self?.refresh() }
+        }
+    }
 
-        print("🗑️ ProgressManager: Cleared all local progress data")
+    private func save() {
+        try? modelContext.save()
     }
 
     // MARK: - Verse Progress Tracking
 
     @discardableResult
     func markVerseAsRead(surahNumber: Int, verseNumber: Int) -> Bool {
-        // Validation
-        guard surahNumber > 0 && surahNumber <= 114 else {
-            errorMessage = "Invalid surah number"
-            return false
-        }
+        guard surahNumber > 0 && surahNumber <= 114 else { return false }
 
         let verseKey = "\(surahNumber):\(verseNumber)"
 
         // Check if already marked
         var isNewRead = false
-        if let existingIndex = verseProgress.firstIndex(where: { $0.verseKey == verseKey }) {
+        if let existing = verseProgress.first(where: { $0.verseKey == verseKey }) {
             // Update existing
-            var updated = verseProgress[existingIndex]
-            updated = VerseProgress(
-                id: updated.id,
-                surahNumber: surahNumber,
-                verseNumber: verseNumber,
-                readDate: Date(),
-                isRead: true
-            )
-            verseProgress[existingIndex] = updated
+            existing.surahNumber = surahNumber
+            existing.verseNumber = verseNumber
+            existing.readDate = Date()
+            existing.isRead = true
         } else {
             // Add new
             let progress = VerseProgress(
                 surahNumber: surahNumber,
                 verseNumber: verseNumber
             )
+            modelContext.insert(progress)
             verseProgress.append(progress)
             isNewRead = true
         }
@@ -168,6 +129,7 @@ class ProgressManager: ObservableObject {
         stats.totalVersesRead = verseProgress.filter { $0.isRead }.count
         updateTodayVersesCount()
         stats.lastReadDate = Date()
+        stats.lastUpdated = Date()
 
         // Award sawab for verse reading (10 sawab per verse, based on hadith)
         if isNewRead {
@@ -182,7 +144,8 @@ class ProgressManager: ObservableObject {
         checkSurahCompletion(surahNumber: surahNumber)
 
         // Save changes
-        saveProgress()
+        save()
+        refresh()
 
         print("✅ ProgressManager: Marked verse \(verseKey) as read")
         return true
@@ -190,30 +153,28 @@ class ProgressManager: ObservableObject {
 
     @discardableResult
     func unmarkVerseAsRead(surahNumber: Int, verseNumber: Int) -> Bool {
-        // Validation
-        guard surahNumber > 0 && surahNumber <= 114 else {
-            errorMessage = "Invalid surah number"
-            return false
-        }
+        guard surahNumber > 0 && surahNumber <= 114 else { return false }
 
         let verseKey = "\(surahNumber):\(verseNumber)"
 
-        if let index = verseProgress.firstIndex(where: { $0.verseKey == verseKey }) {
-            verseProgress.remove(at: index)
+        if let existing = verseProgress.first(where: { $0.verseKey == verseKey }) {
+            modelContext.delete(existing)
 
-            // Update stats
+            // Update stats (re-fetch will refresh array; recompute eagerly)
+            verseProgress.removeAll { $0.verseKey == verseKey }
             stats.totalVersesRead = verseProgress.filter { $0.isRead }.count
             updateTodayVersesCount()
 
             // Deduct sawab for unmarking verse
             stats.totalSawab = max(0, stats.totalSawab - 10)
+            stats.lastUpdated = Date()
 
-            saveProgress()
+            save()
+            refresh()
 
             print("✅ ProgressManager: Unmarked verse \(verseKey)")
             return true
         } else {
-            errorMessage = "Verse not found in progress"
             return false
         }
     }
@@ -234,7 +195,8 @@ class ProgressManager: ObservableObject {
     func addSawab(_ amount: Int, reason: String) {
         guard amount > 0 else { return }
         stats.totalSawab += amount
-        saveProgress()
+        stats.lastUpdated = Date()
+        save()
         print("✨ ProgressManager: +\(amount) sawab earned (\(reason))! Total: \(stats.totalSawab)")
     }
 
@@ -267,6 +229,7 @@ class ProgressManager: ObservableObject {
                 arabicName: surah.arabicName,
                 badgeType: .surahCompletion
             )
+            modelContext.insert(badge)
             badges.append(badge)
             stats.totalSurahsCompleted += 1
 
@@ -283,7 +246,8 @@ class ProgressManager: ObservableObject {
             // Check milestone badges
             checkMilestoneBadges()
 
-            saveProgress()
+            stats.lastUpdated = Date()
+            save()
 
             print("🎉 ProgressManager: Surah \(surahNumber) completed! Badge awarded.")
         }
@@ -310,6 +274,7 @@ class ProgressManager: ObservableObject {
                         arabicName: milestone.type.subtitle,
                         badgeType: milestone.type
                     )
+                    modelContext.insert(badge)
                     badges.append(badge)
 
                     // Award sawab for milestone badge
@@ -349,7 +314,9 @@ class ProgressManager: ObservableObject {
         stats.currentStreak = streak.currentStreak
         stats.longestStreak = streak.longestStreak
 
-        saveProgress()
+        streak.updatedAt = Date()
+        stats.lastUpdated = Date()
+        save()
     }
 
     private func updateStreak() {
@@ -392,6 +359,7 @@ class ProgressManager: ObservableObject {
         }
 
         streak.lastReadDate = now
+        streak.updatedAt = Date()
 
         // Update stats
         stats.currentStreak = streak.currentStreak
@@ -416,6 +384,7 @@ class ProgressManager: ObservableObject {
                         arabicName: milestone.type.subtitle,
                         badgeType: milestone.type
                     )
+                    modelContext.insert(badge)
                     badges.append(badge)
 
                     // Award sawab for streak badge
@@ -533,6 +502,7 @@ class ProgressManager: ObservableObject {
             arabicName: "بطل رمضان",
             badgeType: .ramadanCompletion
         )
+        modelContext.insert(badge)
         badges.append(badge)
 
         // Award sawab bonus
@@ -543,7 +513,8 @@ class ProgressManager: ObservableObject {
             pendingBadge = badge
         }
 
-        saveProgress()
+        stats.lastUpdated = Date()
+        save()
 
         print("ProgressManager: Ramadan Champion badge awarded for year \(year)")
     }
@@ -551,22 +522,47 @@ class ProgressManager: ObservableObject {
     // MARK: - Preferences
 
     func updatePreferences(_ newPreferences: ProgressPreferences) {
-        self.preferences = newPreferences
-        saveProgress()
+        // newPreferences may be the same instance as self.preferences (call sites that
+        // do `var p = manager.preferences; p.x = y; manager.updatePreferences(p)` are
+        // really mutating-in-place under @Model class semantics). Either way, persist.
+        if newPreferences !== preferences {
+            preferences.notificationsEnabled = newPreferences.notificationsEnabled
+            preferences.celebrationsEnabled = newPreferences.celebrationsEnabled
+            preferences.showStreakInHeader = newPreferences.showStreakInHeader
+        }
+        preferences.updatedAt = Date()
+        save()
     }
 
     // MARK: - Reset Progress
 
     func resetProgress() async {
-        // Clear local data
+        guard modelContext != nil else { return }
+
+        // Delete every fetched VerseProgress and BadgeAward
+        for vp in verseProgress { modelContext.delete(vp) }
+        for badge in badges { modelContext.delete(badge) }
+
+        // Delete singleton instances
+        if let s = try? modelContext.fetch(FetchDescriptor<ReadingStreak>()).first {
+            modelContext.delete(s)
+        }
+        if let st = try? modelContext.fetch(FetchDescriptor<ProgressStats>()).first {
+            modelContext.delete(st)
+        }
+        // Keep ProgressPreferences (user's settings shouldn't reset on progress reset)
+
+        // Clear local arrays
         verseProgress.removeAll()
-        streak = ReadingStreak()
         badges.removeAll()
-        stats = ProgressStats()
         pendingBadge = nil
 
-        saveProgress()
+        save()
 
-        print("🔄 ProgressManager: Progress reset (local)")
+        // Re-create singletons (streak/stats); preferences is kept.
+        ensureSingletons()
+        refresh()
+
+        print("🔄 ProgressManager: Progress reset (local + cloud)")
     }
 }

@@ -5,6 +5,7 @@
 //  Created by Imran Ali on 8/1/25.
 //
 
+import SwiftData
 import SwiftUI
 import UserNotifications
 
@@ -12,18 +13,37 @@ import UserNotifications
 struct AlBayanApp: App {
     @StateObject private var notificationManager = NotificationManager.shared
 
+    let container: ModelContainer = {
+        let schema = Schema([
+            Bookmark.self, BookmarkCollection.self, UserBookmarkPreferences.self,
+            VerseProgress.self, ReadingStreak.self, BadgeAward.self,
+            ProgressStats.self, ProgressPreferences.self,
+        ])
+        let config = ModelConfiguration(
+            schema: schema,
+            isStoredInMemoryOnly: false,
+            cloudKitDatabase: .private("iCloud.MAHR.Partner.AlBayan")
+        )
+        return try! ModelContainer(for: schema, configurations: [config])
+    }()
+
     init() {
         // Set up notification delegate
         UNUserNotificationCenter.current().delegate = NotificationDelegate.shared
     }
-    
+
     var body: some Scene {
         WindowGroup {
             ContentView()
                 .onOpenURL { url in
                     handleDeepLink(url)
                 }
+                .task {
+                    BookmarkManager.shared.bind(to: container.mainContext)
+                    ProgressManager.shared.bind(to: container.mainContext)
+                }
         }
+        .modelContainer(container)
     }
     
     private func handleDeepLink(_ url: URL) {

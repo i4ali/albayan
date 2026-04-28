@@ -62,7 +62,7 @@ struct ContentView: View {
     }
     
     private func checkFirstLaunch() {
-        // Only show welcome screen on first launch, not for authentication
+        // Only show welcome screen on first launch
         let hasShownWelcome = UserDefaults.standard.bool(forKey: "hasShownWelcome")
         
         if !hasShownWelcome {
@@ -275,13 +275,6 @@ struct SurahListView: View {
             }
             
         }
-        .overlay(alignment: .bottom) {
-            if let syncStatus = bookmarkManager.syncStatus {
-                SyncStatusToast(message: syncStatus)
-                    .transition(.move(edge: .bottom).combined(with: .opacity))
-                    .animation(.spring(response: 0.5, dampingFraction: 0.8), value: bookmarkManager.syncStatus)
-            }
-        }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
         }
@@ -483,15 +476,9 @@ struct ProfileMenuView: View {
                             )
                             .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
 
-                        VStack(spacing: 4) {
-                            Text("Guest User")
-                                .font(.system(size: 18, weight: .semibold))
-                                .foregroundColor(themeManager.primaryText)
-
-                            Text(premiumManager.isPremium ? "Premium Member" : "Free Tier")
-                                .font(.system(size: 14, weight: .semibold))
-                                .foregroundColor(premiumManager.isPremium ? .green : .orange)
-                        }
+                        Text(premiumManager.isPremium ? "Premium Member" : "Free Tier")
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundColor(premiumManager.isPremium ? .green : .orange)
                     }
 
                     // Menu options
@@ -611,46 +598,6 @@ struct ProfileMenuItem: View {
             )
         }
         .buttonStyle(PlainButtonStyle())
-    }
-}
-
-struct SyncStatusToast: View {
-    let message: String
-    @StateObject private var themeManager = ThemeManager.shared
-    
-    var body: some View {
-        HStack(spacing: 12) {
-            if message.contains("Syncing") {
-                ProgressView()
-                    .scaleEffect(0.8)
-                    .tint(.white)
-            } else if message.contains("completed") {
-                Image(systemName: "checkmark.circle.fill")
-                    .foregroundColor(.green)
-            } else if message.contains("failed") {
-                Image(systemName: "exclamationmark.triangle.fill")
-                    .foregroundColor(.red)
-            } else {
-                Image(systemName: "cloud.fill")
-                    .foregroundColor(.blue)
-            }
-            
-            Text(message)
-                .font(.system(size: 14, weight: .medium))
-                .foregroundColor(.white)
-        }
-        .padding(.horizontal, 16)
-        .padding(.vertical, 12)
-        .background(
-            RoundedRectangle(cornerRadius: 25)
-                .fill(.ultraThinMaterial)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 25)
-                        .fill(Color.black.opacity(0.3))
-                )
-        )
-        .padding(.horizontal, 20)
-        .padding(.bottom, 100) // Above tab bar
     }
 }
 

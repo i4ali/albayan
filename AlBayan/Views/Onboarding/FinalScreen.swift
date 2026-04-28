@@ -2,7 +2,7 @@
 //  FinalScreen.swift
 //  AlBayan
 //
-//  Onboarding Screen 10: Account Setup
+//  Onboarding Screen 10: Final Screen
 //
 
 import SwiftUI
@@ -27,7 +27,7 @@ struct FinalScreen: View {
                             .offset(y: isVisible ? 0 : -20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
-                        Text("Choose how you'd like to start")
+                        Text("Tap below to begin")
                             .font(.system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)

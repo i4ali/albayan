@@ -110,13 +110,6 @@ struct HomeView: View {
             }
 
         }
-        .overlay(alignment: .bottom) {
-            if let syncStatus = bookmarkManager.syncStatus {
-                SyncStatusToast(message: syncStatus)
-                    .transition(.move(edge: .bottom).combined(with: .opacity))
-                    .animation(.spring(response: 0.5, dampingFraction: 0.8), value: bookmarkManager.syncStatus)
-            }
-        }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
         }

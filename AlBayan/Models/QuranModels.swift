@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import SwiftData
 
 // MARK: - Quran Data Models
 
@@ -396,40 +397,36 @@ struct VerseWithTafsir: Identifiable {
 
 // MARK: - Bookmark Models
 
-struct Bookmark: Codable, Identifiable {
-    let id: UUID
-    let userId: String
-    let surahNumber: Int
-    let verseNumber: Int
-    let surahName: String
-    let verseText: String
-    let verseTranslation: String
-    let notes: String?
-    let tags: [String]
-    let createdAt: Date
-    let updatedAt: Date
-    let syncStatus: BookmarkSyncStatus
-    
-    var verseReference: String {
-        return "\(surahNumber):\(verseNumber)"
-    }
-    
+@Model
+final class Bookmark {
+    var id: UUID = UUID()
+    var surahNumber: Int = 0
+    var verseNumber: Int = 0
+    var surahName: String = ""
+    var verseText: String = ""
+    var verseTranslation: String = ""
+    var notes: String? = nil
+    var tags: [String] = []
+    var createdAt: Date = Date()
+    var updatedAt: Date = Date()
+    var collection: BookmarkCollection? = nil
+
+    var verseReference: String { "\(surahNumber):\(verseNumber)" }
+
     init(
         id: UUID = UUID(),
-        userId: String,
-        surahNumber: Int,
-        verseNumber: Int,
-        surahName: String,
-        verseText: String,
-        verseTranslation: String,
+        surahNumber: Int = 0,
+        verseNumber: Int = 0,
+        surahName: String = "",
+        verseText: String = "",
+        verseTranslation: String = "",
         notes: String? = nil,
         tags: [String] = [],
         createdAt: Date = Date(),
         updatedAt: Date = Date(),
-        syncStatus: BookmarkSyncStatus = .synced
+        collection: BookmarkCollection? = nil
     ) {
         self.id = id
-        self.userId = userId
         self.surahNumber = surahNumber
         self.verseNumber = verseNumber
         self.surahName = surahName
@@ -439,68 +436,53 @@ struct Bookmark: Codable, Identifiable {
         self.tags = tags
         self.createdAt = createdAt
         self.updatedAt = updatedAt
-        self.syncStatus = syncStatus
+        self.collection = collection
     }
 }
 
-enum BookmarkSyncStatus: String, Codable {
-    case synced = "synced"
-    case pendingSync = "pending_sync"
-    case pendingDelete = "pending_delete"
-    case conflict = "conflict"
-}
+@Model
+final class BookmarkCollection {
+    var id: UUID = UUID()
+    var name: String = ""
+    var descriptionText: String? = nil  // renamed from `description` to avoid Identifiable.description collision
+    var createdAt: Date = Date()
+    var updatedAt: Date = Date()
+    @Relationship(deleteRule: .nullify, inverse: \Bookmark.collection) var bookmarks: [Bookmark]? = nil
 
-struct BookmarkCollection: Codable, Identifiable {
-    let id: UUID
-    let userId: String
-    let name: String
-    let description: String?
-    let bookmarkIds: [UUID]
-    let createdAt: Date
-    let updatedAt: Date
-    
     init(
         id: UUID = UUID(),
-        userId: String,
-        name: String,
-        description: String? = nil,
-        bookmarkIds: [UUID] = [],
+        name: String = "",
+        descriptionText: String? = nil,
         createdAt: Date = Date(),
         updatedAt: Date = Date()
     ) {
         self.id = id
-        self.userId = userId
         self.name = name
-        self.description = description
-        self.bookmarkIds = bookmarkIds
+        self.descriptionText = descriptionText
         self.createdAt = createdAt
         self.updatedAt = updatedAt
     }
 }
 
-struct UserBookmarkPreferences: Codable {
-    let userId: String
-    let isPremium: Bool
-    let bookmarkLimit: Int
-    let defaultTags: [String]
-    let sortOrder: BookmarkSortOrder
-    let groupBy: BookmarkGroupBy
-    
-    init(
-        userId: String,
-        isPremium: Bool = false,
-        bookmarkLimit: Int = 10,
-        defaultTags: [String] = [],
-        sortOrder: BookmarkSortOrder = .dateDescending,
-        groupBy: BookmarkGroupBy = .none
-    ) {
-        self.userId = userId
-        self.isPremium = isPremium
-        self.bookmarkLimit = 10 // Standard limit for all users
-        self.defaultTags = defaultTags
-        self.sortOrder = sortOrder
-        self.groupBy = groupBy
+@Model
+final class UserBookmarkPreferences {
+    var id: UUID = UUID()
+    var bookmarkLimit: Int = 10
+    var defaultTags: [String] = []
+    var sortOrderRaw: String = BookmarkSortOrder.dateDescending.rawValue
+    var groupByRaw: String = BookmarkGroupBy.none.rawValue
+
+    var sortOrder: BookmarkSortOrder {
+        get { BookmarkSortOrder(rawValue: sortOrderRaw) ?? .dateDescending }
+        set { sortOrderRaw = newValue.rawValue }
     }
+
+    var groupBy: BookmarkGroupBy {
+        get { BookmarkGroupBy(rawValue: groupByRaw) ?? .none }
+        set { groupByRaw = newValue.rawValue }
+    }
+
+    init() {}
 }
 
 enum BookmarkSortOrder: String, Codable, CaseIterable {
@@ -666,12 +648,13 @@ struct NotificationPreferences: Codable {
 
 // MARK: - Progress Tracking Models
 
-struct VerseProgress: Codable, Identifiable {
-    let id: UUID
-    let surahNumber: Int
-    let verseNumber: Int
-    let readDate: Date
-    let isRead: Bool
+@Model
+final class VerseProgress {
+    var id: UUID = UUID()
+    var surahNumber: Int = 0
+    var verseNumber: Int = 0
+    var readDate: Date = Date()
+    var isRead: Bool = true
 
     var verseKey: String {
         return "\(surahNumber):\(verseNumber)"
@@ -679,8 +662,8 @@ struct VerseProgress: Codable, Identifiable {
 
     init(
         id: UUID = UUID(),
-        surahNumber: Int,
-        verseNumber: Int,
+        surahNumber: Int = 0,
+        verseNumber: Int = 0,
         readDate: Date = Date(),
         isRead: Bool = true
     ) {
@@ -692,38 +675,51 @@ struct VerseProgress: Codable, Identifiable {
     }
 }
 
-struct ReadingStreak: Codable {
-    var currentStreak: Int
-    var longestStreak: Int
-    var lastReadDate: Date?
-    var streakStartDate: Date?
+@Model
+final class ReadingStreak {
+    var id: UUID = UUID()
+    var currentStreak: Int = 0
+    var longestStreak: Int = 0
+    var lastReadDate: Date? = nil
+    var streakStartDate: Date? = nil
+    var updatedAt: Date = Date()
 
     init(
+        id: UUID = UUID(),
         currentStreak: Int = 0,
         longestStreak: Int = 0,
         lastReadDate: Date? = nil,
-        streakStartDate: Date? = nil
+        streakStartDate: Date? = nil,
+        updatedAt: Date = Date()
     ) {
+        self.id = id
         self.currentStreak = currentStreak
         self.longestStreak = longestStreak
         self.lastReadDate = lastReadDate
         self.streakStartDate = streakStartDate
+        self.updatedAt = updatedAt
     }
 }
 
-struct BadgeAward: Codable, Identifiable {
-    let id: UUID
-    let surahNumber: Int
-    let surahName: String
-    let arabicName: String
-    let awardedDate: Date
-    let badgeType: BadgeType
+@Model
+final class BadgeAward {
+    var id: UUID = UUID()
+    var surahNumber: Int = 0
+    var surahName: String = ""
+    var arabicName: String = ""
+    var awardedDate: Date = Date()
+    var badgeTypeRaw: String = BadgeType.surahCompletion.rawValue
+
+    var badgeType: BadgeType {
+        get { BadgeType(rawValue: badgeTypeRaw) ?? .surahCompletion }
+        set { badgeTypeRaw = newValue.rawValue }
+    }
 
     init(
         id: UUID = UUID(),
-        surahNumber: Int,
-        surahName: String,
-        arabicName: String,
+        surahNumber: Int = 0,
+        surahName: String = "",
+        arabicName: String = "",
         awardedDate: Date = Date(),
         badgeType: BadgeType = .surahCompletion
     ) {
@@ -732,7 +728,7 @@ struct BadgeAward: Codable, Identifiable {
         self.surahName = surahName
         self.arabicName = arabicName
         self.awardedDate = awardedDate
-        self.badgeType = badgeType
+        self.badgeTypeRaw = badgeType.rawValue
     }
 }
 
@@ -856,17 +852,21 @@ enum BadgeType: String, Codable {
     }
 }
 
-struct ProgressStats: Codable {
-    var totalVersesRead: Int
-    var totalSurahsCompleted: Int
-    var currentStreak: Int
-    var longestStreak: Int
-    var versesReadToday: Int
-    var lastReadDate: Date?
-    var startDate: Date
-    var totalSawab: Int  // Total sawab (spiritual rewards) earned
+@Model
+final class ProgressStats {
+    var id: UUID = UUID()
+    var totalVersesRead: Int = 0
+    var totalSurahsCompleted: Int = 0
+    var currentStreak: Int = 0
+    var longestStreak: Int = 0
+    var versesReadToday: Int = 0
+    var lastReadDate: Date? = nil
+    var startDate: Date = Date()
+    var totalSawab: Int = 0  // Total sawab (spiritual rewards) earned
+    var lastUpdated: Date = Date()
 
     init(
+        id: UUID = UUID(),
         totalVersesRead: Int = 0,
         totalSurahsCompleted: Int = 0,
         currentStreak: Int = 0,
@@ -874,8 +874,10 @@ struct ProgressStats: Codable {
         versesReadToday: Int = 0,
         lastReadDate: Date? = nil,
         startDate: Date = Date(),
-        totalSawab: Int = 0
+        totalSawab: Int = 0,
+        lastUpdated: Date = Date()
     ) {
+        self.id = id
         self.totalVersesRead = totalVersesRead
         self.totalSurahsCompleted = totalSurahsCompleted
         self.currentStreak = currentStreak
@@ -884,22 +886,30 @@ struct ProgressStats: Codable {
         self.lastReadDate = lastReadDate
         self.startDate = startDate
         self.totalSawab = totalSawab
+        self.lastUpdated = lastUpdated
     }
 }
 
-struct ProgressPreferences: Codable {
-    var notificationsEnabled: Bool
-    var celebrationsEnabled: Bool
-    var showStreakInHeader: Bool
+@Model
+final class ProgressPreferences {
+    var id: UUID = UUID()
+    var notificationsEnabled: Bool = true
+    var celebrationsEnabled: Bool = true
+    var showStreakInHeader: Bool = true
+    var updatedAt: Date = Date()
 
     init(
+        id: UUID = UUID(),
         notificationsEnabled: Bool = true,
         celebrationsEnabled: Bool = true,
-        showStreakInHeader: Bool = true
+        showStreakInHeader: Bool = true,
+        updatedAt: Date = Date()
     ) {
+        self.id = id
         self.notificationsEnabled = notificationsEnabled
         self.celebrationsEnabled = celebrationsEnabled
         self.showStreakInHeader = showStreakInHeader
+        self.updatedAt = updatedAt
     }
 }
 

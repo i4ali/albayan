@@ -7,10 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD656B6C2FA06FBF004B6D5C /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = CD656B6B2FA06FBF004B6D5C /* Configuration.storekit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		73E0BC0F2E3D3AB900E517DE /* AlBayan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlBayan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD656B6B2FA06FBF004B6D5C /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -48,6 +50,7 @@
 		73E0BC062E3D3AB900E517DE = {
 			isa = PBXGroup;
 			children = (
+				CD656B6B2FA06FBF004B6D5C /* Configuration.storekit */,
 				73E0BC112E3D3AB900E517DE /* AlBayan */,
 				73E0BC102E3D3AB900E517DE /* Products */,
 			);
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD656B6C2FA06FBF004B6D5C /* Configuration.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,7 +354,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
 	};
 	rootObject = 73E0BC072E3D3AB900E517DE /* Project object */;
 }

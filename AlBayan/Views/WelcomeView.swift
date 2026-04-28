@@ -2,7 +2,7 @@
 //  WelcomeView.swift
 //  AlBayan
 //
-//  Beautiful first launch welcome screen with authentication options
+//  Beautiful first launch welcome screen
 //
 
 import SwiftUI

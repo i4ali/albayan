@@ -18,20 +18,9 @@ class PremiumManager: ObservableObject {
     @Published var isPremium: Bool = false
 
     private let productID = "com.albayan.premium.tafsir"
-    private var updatesTask: Task<Void, Never>?
 
     init() {
         Task { await refreshFromStoreKit() }
-        updatesTask = Task { [weak self] in
-            for await result in Transaction.updates {
-                guard case .verified = result else { continue }
-                await self?.refreshFromStoreKit()
-            }
-        }
-    }
-
-    deinit {
-        updatesTask?.cancel()
     }
 
     /// Re-derive `isPremium` from the current StoreKit entitlement set.

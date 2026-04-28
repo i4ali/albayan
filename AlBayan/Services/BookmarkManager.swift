@@ -2,135 +2,99 @@
 //  BookmarkManager.swift
 //  AlBayan
 //
-//  Manages bookmarks with local-only persistence (UserDefaults).
+//  SwiftData-backed bookmark management with CloudKit sync.
 //
 
 import Foundation
-import UIKit
-import Combine
+import SwiftData
 
 @MainActor
-class BookmarkManager: ObservableObject {
+final class BookmarkManager: ObservableObject {
     static let shared = BookmarkManager()
 
     @Published var bookmarks: [Bookmark] = []
-    @Published var preferences: UserBookmarkPreferences?
     @Published var collections: [BookmarkCollection] = []
-    @Published var isLoading = false
-    @Published var isSyncing = false
-    @Published var errorMessage: String?
-    @Published var syncStatus: String?
-    @Published var isAuthenticated = false
+    @Published var preferences: UserBookmarkPreferences?
+    @Published var isLoading: Bool = false
 
-    private let localStorageKey = "AlBayanBookmarks"
-    private let preferencesKey = "AlBayanBookmarkPreferences"
-    private let collectionsKey = "AlBayanBookmarkCollections"
-    private let pendingDeletesKey = "AlBayanPendingDeletes"
+    private var modelContext: ModelContext!
+    private var hasBound = false
 
-    private var pendingDeletes: Set<UUID> = []
+    private init() {}
 
-    private var currentUserId: String {
-        return UIDevice.current.identifierForVendor?.uuidString ?? "guest"
+    /// Called once at app launch from AlBayanApp before any UI accesses the manager.
+    /// Idempotent — guarded so a `.task` re-fire doesn't double-register the remote-change observer.
+    func bind(to context: ModelContext) {
+        guard !hasBound else { return }
+        hasBound = true
+        self.modelContext = context
+        ensurePreferences()
+        refresh()
+        observeRemoteChanges()
+        print("📚 BookmarkManager: \(bookmarks.count) bookmarks, \(collections.count) collections, prefs=\(preferences != nil)")
     }
 
-    private init() {
-        loadLocalBookmarks()
-        loadLocalPreferences()
-        loadLocalCollections()
-        loadPendingDeletes()
-    }
+    // MARK: - Refresh from store
 
-    // MARK: - Local Storage
-
-    private func loadLocalBookmarks() {
-        guard let data = UserDefaults.standard.data(forKey: localStorageKey),
-              let decoded = try? JSONDecoder().decode([Bookmark].self, from: data) else {
-            print("💾 No local bookmarks found")
-            return
+    private func refresh() {
+        guard modelContext != nil else { return }
+        do {
+            bookmarks = try modelContext.fetch(FetchDescriptor<Bookmark>(sortBy: [SortDescriptor(\.createdAt, order: .reverse)]))
+            collections = try modelContext.fetch(FetchDescriptor<BookmarkCollection>())
+            preferences = try modelContext.fetch(FetchDescriptor<UserBookmarkPreferences>()).first
+        } catch {
+            print("⚠️ BookmarkManager refresh failed: \(error)")
         }
-
-        bookmarks = decoded
-        print("💾 Loaded \(bookmarks.count) bookmarks from local storage")
     }
 
-    private func saveLocalBookmarks() {
-        guard let encoded = try? JSONEncoder().encode(bookmarks) else {
-            print("❌ Failed to encode bookmarks")
-            return
+    private func ensurePreferences() {
+        guard modelContext != nil else { return }
+        do {
+            let existing = try modelContext.fetch(FetchDescriptor<UserBookmarkPreferences>())
+            if existing.isEmpty {
+                let prefs = UserBookmarkPreferences()
+                modelContext.insert(prefs)
+                try? modelContext.save()
+            } else if existing.count > 1 {
+                // Singleton race: keep the first, delete the rest
+                for prefs in existing.dropFirst() { modelContext.delete(prefs) }
+                try? modelContext.save()
+            }
+        } catch {
+            print("⚠️ ensurePreferences failed: \(error)")
         }
-
-        UserDefaults.standard.set(encoded, forKey: localStorageKey)
-        print("💾 Saved \(bookmarks.count) bookmarks to local storage")
     }
 
-    private func loadLocalPreferences() {
-        guard let data = UserDefaults.standard.data(forKey: preferencesKey),
-              let decoded = try? JSONDecoder().decode(UserBookmarkPreferences.self, from: data) else {
-            // Create default preferences
-            preferences = UserBookmarkPreferences(userId: currentUserId)
-            saveLocalPreferences()
-            return
+    private func observeRemoteChanges() {
+        // Refresh on remote sync events
+        NotificationCenter.default.addObserver(
+            forName: .NSPersistentStoreRemoteChange,
+            object: nil,
+            queue: .main
+        ) { [weak self] _ in
+            Task { @MainActor in self?.refresh() }
         }
-
-        preferences = decoded
-        print("💾 Loaded bookmark preferences from local storage")
     }
 
-    private func saveLocalPreferences() {
-        guard let prefs = preferences,
-              let encoded = try? JSONEncoder().encode(prefs) else {
-            print("❌ Failed to encode preferences")
-            return
-        }
+    // MARK: - Bookmark mutations
 
-        UserDefaults.standard.set(encoded, forKey: preferencesKey)
-        print("💾 Saved bookmark preferences to local storage")
+    var bookmarkLimit: Int { preferences?.bookmarkLimit ?? 10 }
+
+    func isAlreadyBookmarked(surahNumber: Int, verseNumber: Int) -> Bool {
+        bookmarks.contains { $0.surahNumber == surahNumber && $0.verseNumber == verseNumber }
     }
 
-    private func loadLocalCollections() {
-        guard let data = UserDefaults.standard.data(forKey: collectionsKey),
-              let decoded = try? JSONDecoder().decode([BookmarkCollection].self, from: data) else {
-            print("💾 No local bookmark collections found")
-            return
-        }
-
-        collections = decoded
-        print("💾 Loaded \(collections.count) bookmark collections from local storage")
+    /// View-side compatibility helper.
+    func isBookmarked(surahNumber: Int, verseNumber: Int) -> Bool {
+        isAlreadyBookmarked(surahNumber: surahNumber, verseNumber: verseNumber)
     }
 
-    private func saveLocalCollections() {
-        guard let encoded = try? JSONEncoder().encode(collections) else {
-            print("❌ Failed to encode collections")
-            return
-        }
-
-        UserDefaults.standard.set(encoded, forKey: collectionsKey)
-        print("💾 Saved \(collections.count) bookmark collections to local storage")
+    /// View-side compatibility helper.
+    func getBookmark(surahNumber: Int, verseNumber: Int) -> Bookmark? {
+        bookmarks.first { $0.surahNumber == surahNumber && $0.verseNumber == verseNumber }
     }
 
-    private func loadPendingDeletes() {
-        guard let data = UserDefaults.standard.data(forKey: pendingDeletesKey),
-              let decoded = try? JSONDecoder().decode(Set<UUID>.self, from: data) else {
-            print("💾 No pending deletes found")
-            return
-        }
-
-        pendingDeletes = decoded
-        print("💾 Loaded \(pendingDeletes.count) pending deletes from local storage")
-    }
-
-    private func savePendingDeletes() {
-        guard let encoded = try? JSONEncoder().encode(pendingDeletes) else {
-            print("❌ Failed to encode pending deletes")
-            return
-        }
-
-        UserDefaults.standard.set(encoded, forKey: pendingDeletesKey)
-        print("💾 Saved \(pendingDeletes.count) pending deletes to local storage")
-    }
-
-    // MARK: - Bookmark Management
-
+    @discardableResult
     func addBookmark(
         surahNumber: Int,
         verseNumber: Int,
@@ -140,102 +104,64 @@ class BookmarkManager: ObservableObject {
         notes: String? = nil,
         tags: [String] = []
     ) -> Bool {
-        // Check if bookmark already exists
-        if bookmarks.contains(where: { $0.surahNumber == surahNumber && $0.verseNumber == verseNumber }) {
-            errorMessage = "This verse is already bookmarked"
-            return false
-        }
-
-        // Check bookmark limit - 10 bookmarks for all users
-        let bookmarkLimit = 10
-
-        if bookmarks.count >= bookmarkLimit {
-            errorMessage = "You've reached your bookmark limit (\(bookmarkLimit) bookmarks)."
-            return false
-        }
-
+        guard !isAlreadyBookmarked(surahNumber: surahNumber, verseNumber: verseNumber) else { return false }
+        guard bookmarks.count < bookmarkLimit else { return false }
         let bookmark = Bookmark(
-            userId: currentUserId,
-            surahNumber: surahNumber,
-            verseNumber: verseNumber,
-            surahName: surahName,
-            verseText: verseText,
-            verseTranslation: verseTranslation,
-            notes: notes,
-            tags: tags,
-            syncStatus: .pendingSync
+            surahNumber: surahNumber, verseNumber: verseNumber,
+            surahName: surahName, verseText: verseText, verseTranslation: verseTranslation,
+            notes: notes, tags: tags
         )
-
-        bookmarks.append(bookmark)
-        saveLocalBookmarks()
-
-        print("✅ Added bookmark for \(surahName) \(verseNumber)")
+        modelContext.insert(bookmark)
+        try? modelContext.save()
+        refresh()
         return true
     }
 
+    func updateBookmark(_ bookmark: Bookmark, notes: String? = nil, tags: [String]? = nil) {
+        if let notes = notes { bookmark.notes = notes }
+        if let tags = tags { bookmark.tags = tags }
+        bookmark.updatedAt = Date()
+        try? modelContext.save()
+        refresh()
+    }
+
+    /// View-side compatibility helper (id-based update).
+    func updateBookmark(id: UUID, notes: String? = nil, tags: [String]? = nil) {
+        guard let bookmark = bookmarks.first(where: { $0.id == id }) else { return }
+        updateBookmark(bookmark, notes: notes, tags: tags)
+    }
+
+    func deleteBookmark(_ bookmark: Bookmark) {
+        modelContext.delete(bookmark)
+        try? modelContext.save()
+        refresh()
+    }
+
+    /// View-side compatibility helper (id-based delete).
     func removeBookmark(id: UUID) {
-        guard let index = bookmarks.firstIndex(where: { $0.id == id }) else {
-            return
-        }
-
-        bookmarks.remove(at: index)
-        saveLocalBookmarks()
-
-        print("🗑️ Removed bookmark from local storage")
+        guard let bookmark = bookmarks.first(where: { $0.id == id }) else { return }
+        deleteBookmark(bookmark)
     }
 
-    func updateBookmark(
-        id: UUID,
-        notes: String? = nil,
-        tags: [String]? = nil
+    func toggleBookmark(
+        surahNumber: Int, verseNumber: Int,
+        surahName: String, verseText: String, verseTranslation: String
     ) {
-        guard let index = bookmarks.firstIndex(where: { $0.id == id }) else {
-            return
-        }
-
-        let existingBookmark = bookmarks[index]
-        bookmarks[index] = Bookmark(
-            id: existingBookmark.id,
-            userId: existingBookmark.userId,
-            surahNumber: existingBookmark.surahNumber,
-            verseNumber: existingBookmark.verseNumber,
-            surahName: existingBookmark.surahName,
-            verseText: existingBookmark.verseText,
-            verseTranslation: existingBookmark.verseTranslation,
-            notes: notes ?? existingBookmark.notes,
-            tags: tags ?? existingBookmark.tags,
-            createdAt: existingBookmark.createdAt,
-            updatedAt: Date(),
-            syncStatus: .pendingSync
-        )
-
-        saveLocalBookmarks()
-
-        print("✏️ Updated bookmark")
-    }
-
-    func isBookmarked(surahNumber: Int, verseNumber: Int) -> Bool {
-        return bookmarks.contains { bookmark in
-            bookmark.surahNumber == surahNumber &&
-            bookmark.verseNumber == verseNumber
+        if let existing = bookmarks.first(where: { $0.surahNumber == surahNumber && $0.verseNumber == verseNumber }) {
+            deleteBookmark(existing)
+        } else {
+            addBookmark(
+                surahNumber: surahNumber, verseNumber: verseNumber,
+                surahName: surahName, verseText: verseText, verseTranslation: verseTranslation
+            )
         }
     }
 
-    func getBookmark(surahNumber: Int, verseNumber: Int) -> Bookmark? {
-        return bookmarks.first { bookmark in
-            bookmark.surahNumber == surahNumber &&
-            bookmark.verseNumber == verseNumber
-        }
-    }
-
-    // MARK: - Sorting and Filtering
+    // MARK: - Sorting and filtering (view-side compatibility)
 
     func getSortedBookmarks() -> [Bookmark] {
-        guard let prefs = preferences else {
-            return bookmarks.sorted { $0.createdAt > $1.createdAt }
-        }
-
-        switch prefs.sortOrder {
+        let order = preferences?.sortOrder ?? .dateDescending
+        switch order {
         case .dateAscending:
             return bookmarks.sorted { $0.createdAt < $1.createdAt }
         case .dateDescending:
@@ -253,42 +179,68 @@ class BookmarkManager: ObservableObject {
     }
 
     func getBookmarksByTag(_ tag: String) -> [Bookmark] {
-        return getSortedBookmarks().filter { $0.tags.contains(tag) }
+        getSortedBookmarks().filter { $0.tags.contains(tag) }
     }
 
     func getAllTags() -> [String] {
-        let allTags = Set(bookmarks.flatMap { $0.tags })
-        return Array(allTags).sorted()
+        Array(Set(bookmarks.flatMap { $0.tags })).sorted()
     }
 
+    // MARK: - Collections
 
-    // MARK: - Debug & Reset Methods
+    @discardableResult
+    func createCollection(name: String, descriptionText: String? = nil) -> BookmarkCollection {
+        let collection = BookmarkCollection(name: name, descriptionText: descriptionText)
+        modelContext.insert(collection)
+        try? modelContext.save()
+        refresh()
+        return collection
+    }
 
+    func renameCollection(_ collection: BookmarkCollection, to newName: String) {
+        collection.name = newName
+        collection.updatedAt = Date()
+        try? modelContext.save()
+        refresh()
+    }
+
+    func deleteCollection(_ collection: BookmarkCollection) {
+        modelContext.delete(collection)
+        try? modelContext.save()
+        refresh()
+    }
+
+    func addBookmarkToCollection(_ bookmark: Bookmark, collection: BookmarkCollection) {
+        bookmark.collection = collection
+        bookmark.updatedAt = Date()
+        try? modelContext.save()
+        refresh()
+    }
+
+    func removeBookmarkFromCollection(_ bookmark: Bookmark) {
+        bookmark.collection = nil
+        bookmark.updatedAt = Date()
+        try? modelContext.save()
+        refresh()
+    }
+
+    // MARK: - Debug & Reset
+
+    #if DEBUG
+    /// DEBUG-only: wipe all SwiftData-backed bookmark data. Used by SettingsView's
+    /// "clear all local data" dev affordance. Does NOT touch CloudKit on its own —
+    /// SwiftData will propagate the deletes through normal sync.
     func clearAllLocalData() {
-        // Clear all local bookmarks
-        bookmarks.removeAll()
-
-        // Clear all local collections
-        collections.removeAll()
-
-        // Reset preferences
-        preferences = UserBookmarkPreferences(userId: currentUserId)
-
-        // Clear pending deletes
-        pendingDeletes.removeAll()
-
-        // Remove from UserDefaults
-        UserDefaults.standard.removeObject(forKey: localStorageKey)
-        UserDefaults.standard.removeObject(forKey: preferencesKey)
-        UserDefaults.standard.removeObject(forKey: collectionsKey)
-        UserDefaults.standard.removeObject(forKey: pendingDeletesKey)
-
-        // Clear error state
-        errorMessage = nil
-        syncStatus = nil
-
-        print("🧹 BookmarkManager: Cleared all local data")
+        guard modelContext != nil else { return }
+        for bookmark in bookmarks { modelContext.delete(bookmark) }
+        for collection in collections { modelContext.delete(collection) }
+        if let prefs = preferences { modelContext.delete(prefs) }
+        try? modelContext.save()
+        ensurePreferences()
+        refresh()
+        print("🧹 BookmarkManager: cleared all SwiftData bookmark data")
     }
+    #endif
 }
 
 // MARK: - Errors
