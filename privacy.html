@@ -40,11 +40,12 @@
 </p>
 
 <p>
-  <strong>Summary:</strong> AlBayan does not collect, store, or transmit any
-  personally identifiable information. We do not use analytics, advertising,
-  tracking, or third-party data brokers. All your reading progress, bookmarks,
-  preferences, and settings are stored locally on your device and never sent
-  anywhere.
+  <strong>Summary:</strong> AlBayan does not collect any personal information for
+  itself or share data with third-party trackers, analytics services, or advertisers.
+  Some of your data &mdash; bookmarks, reading progress, streaks, and badges &mdash;
+  is synced across your devices using Apple&rsquo;s iCloud (CloudKit) under your
+  own iCloud account; that data goes only to your private iCloud, not to us, and
+  we cannot access it.
 </p>
 
 <h2>1. Information we do not collect</h2>
@@ -55,20 +56,42 @@
   <li>We do not track you across other apps or websites and do not use the App Tracking Transparency framework.</li>
 </ul>
 
-<h2>2. Information stored locally on your device</h2>
-<p>The App stores the following data only on your device, using Apple&rsquo;s standard <code>UserDefaults</code> and the local file system. This data is never transmitted to us:</p>
+<h2>2. Information stored on your device</h2>
+<p>The following data is stored only on your device, using Apple&rsquo;s standard <code>UserDefaults</code> and the local file system. This data is never transmitted to us:</p>
 <ul>
-  <li>Bookmarks and saved verses</li>
-  <li>Reading progress (which surahs and verses you have read)</li>
-  <li>Quiz scores and progress</li>
   <li>Audio playback preferences (selected reciter, playback speed, repeat mode)</li>
   <li>Theme and language preferences</li>
   <li>Notification preferences and locally-scheduled reminder times</li>
   <li>Cached audio files used for offline recitation playback</li>
+  <li>Quiz scores and progress</li>
 </ul>
 <p>You can erase this data at any time by deleting the App from your device.</p>
 
-<h2>3. Location</h2>
+<h2>3. Information synced via your iCloud (CloudKit)</h2>
+<p>
+  To make your experience seamless across iPhone and iPad, the App uses
+  Apple&rsquo;s CloudKit framework to sync the following data through your
+  personal iCloud account, in your <em>private</em> CloudKit database:
+</p>
+<ul>
+  <li>Bookmarks and saved verses</li>
+  <li>Reading progress (which surahs and verses you have read)</li>
+  <li>Reading streaks</li>
+  <li>Earned badges</li>
+  <li>Reading-related preferences (e.g. streak header visibility, celebration toggles)</li>
+</ul>
+<p>
+  Important things to know about iCloud sync:
+</p>
+<ul>
+  <li>This data is stored in <strong>your</strong> iCloud account, not on our servers. We do not have access to it; only your Apple ID does.</li>
+  <li>Apple secures iCloud data in transit and at rest. See the <a href="https://www.apple.com/legal/privacy/" rel="noopener">Apple Privacy Policy</a>.</li>
+  <li>Sync only occurs if you are signed into iCloud on your device and have iCloud enabled for AlBayan.</li>
+  <li>You can disable this sync at any time in iOS Settings &rsaquo; [Your Name] &rsaquo; iCloud &rsaquo; <em>Apps Using iCloud</em> &rsaquo; AlBayan. With iCloud disabled, your data remains local-only on each device.</li>
+  <li>You can permanently delete this data from your iCloud at any time using iOS Settings &rsaquo; [Your Name] &rsaquo; iCloud &rsaquo; Manage Account Storage &rsaquo; AlBayan.</li>
+</ul>
+
+<h2>4. Location</h2>
 <p>
   If you enable prayer-time features, the App may request access to your device&rsquo;s
   current location (When In Use). Location is used <em>solely on your device</em> to
@@ -78,7 +101,7 @@
   iOS Settings &rsaquo; Privacy &amp; Security &rsaquo; Location Services.
 </p>
 
-<h2>4. Third-party audio sources</h2>
+<h2>5. Third-party audio sources</h2>
 <p>The App streams Qur&rsquo;an recitation audio from public third-party content delivery networks:</p>
 <ul>
   <li><a href="https://mp3quran.net/eng" rel="noopener">mp3quran.net</a> &ndash; recitations by Mishary Rashid Alafasy, Abdurrahmaan As-Sudais, Saad Al-Ghamadi, Ahmed Al-Ajamy, Maher Al-Muaiqly, and Yasser Ad-Dussary.</li>
@@ -91,7 +114,7 @@
   third parties; please consult their respective terms.
 </p>
 
-<h2>5. Purchases and subscriptions</h2>
+<h2>6. Purchases and subscriptions</h2>
 <p>
   Premium features are sold via Apple&rsquo;s in-app purchase system (StoreKit).
   All payment information is handled by Apple under the
@@ -101,7 +124,7 @@
   whether premium features should be unlocked.
 </p>
 
-<h2>6. Notifications</h2>
+<h2>7. Notifications</h2>
 <p>
   The App uses Apple&rsquo;s local notification framework
   (<code>UNUserNotificationCenter</code>) to schedule reminders on your device.
@@ -110,7 +133,7 @@
   scheduled and delivered entirely on your device.
 </p>
 
-<h2>7. Children&rsquo;s privacy</h2>
+<h2>8. Children&rsquo;s privacy</h2>
 <p>
   The App is suitable for all ages. Because the App does not collect any personal
   information from any user, it does not collect any personal information from
@@ -118,30 +141,36 @@
   through any channel, please contact us so we can investigate.
 </p>
 
-<h2>8. Data retention and deletion</h2>
+<h2>9. Data retention and deletion</h2>
 <p>
   Because we do not collect or store any personal data on our servers, there is no
-  server-side data retention. All on-device data described in Section 2 can be
-  removed by deleting the App or clearing app data through iOS Settings &rsaquo; General &rsaquo; iPhone Storage.
+  server-side data retention. On-device data described in Section 2 can be removed
+  by deleting the App or clearing app data through iOS Settings &rsaquo; General
+  &rsaquo; iPhone Storage. iCloud-synced data described in Section 3 lives in your
+  iCloud account and persists there until you remove it; see Section 3 for the
+  steps to disable sync or delete the data from iCloud.
 </p>
 
-<h2>9. Your rights</h2>
+<h2>10. Your rights</h2>
 <p>
   Depending on your jurisdiction (including the GDPR in the EU/EEA, UK GDPR,
   CCPA/CPRA in California, and similar laws), you may have rights regarding your
-  personal information. Because we do not collect or process any personal information,
-  these rights have nothing to apply to in our case. If you have any concern, you
+  personal information. Because we do not collect or process any personal information
+  ourselves, these rights typically have little to apply to in our case. The
+  iCloud-synced data described in Section 3 is held in your own iCloud account
+  under Apple&rsquo;s data processing terms; for any rights regarding that data
+  please refer to Apple&rsquo;s privacy practices. If you have any concern, you
   may contact us at the address below.
 </p>
 
-<h2>10. Changes to this policy</h2>
+<h2>11. Changes to this policy</h2>
 <p>
   We may update this policy from time to time. The &ldquo;Effective&rdquo; date at
   the top of this page reflects the most recent revision. Continued use of the App
   after a change indicates your acceptance of the updated policy.
 </p>
 
-<h2>11. Contact</h2>
+<h2>12. Contact</h2>
 <p>
   Questions about this policy or the App&rsquo;s privacy practices can be sent to:
   <br>
