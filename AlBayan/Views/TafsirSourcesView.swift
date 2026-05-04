@@ -20,7 +20,7 @@ struct TafsirSourcesView: View {
                 ScrollView {
                     VStack(alignment: .leading, spacing: 24) {
                         // Introduction
-                        Text("The commentary in this app draws from classical and contemporary Sunni scholarship. Below are the primary sources referenced for each layer.")
+                        Text("The commentary in this app is grounded in classical and contemporary Sunni scholarship, with a comparative layer that surfaces Shia perspectives alongside the Sunni position. Below are the primary sources referenced for each layer.")
                             .font(.system(size: 15, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                             .padding(.horizontal, 20)
@@ -61,6 +61,19 @@ struct TafsirSourcesView: View {
                                 SourceItem(title: "Al-Tafsir al-Munir", subtitle: "Wahbah al-Zuhayli"),
                                 SourceItem(title: "Ibn Uthaymeen", subtitle: "Contemporary Sunni scholar"),
                                 SourceItem(title: "Muhammad al-Sha'rawi", subtitle: "Contemporary Sunni scholar")
+                            ]
+                        )
+
+                        // Layer 4 - Comparative
+                        SourceSection(
+                            icon: "scale.3d",
+                            title: "Comparative",
+                            iconColor: .indigo,
+                            sources: [
+                                SourceItem(title: "Sunni Position", subtitle: "Drawn from the Layer 2 and Layer 3 sources above"),
+                                SourceItem(title: "Al-Mizan fi Tafsir al-Quran", subtitle: "Allama Muhammad Husayn al-Tabatabai (Shia perspective)"),
+                                SourceItem(title: "Majma al-Bayan", subtitle: "Al-Tabrisi (Shia perspective)"),
+                                SourceItem(title: "Editorial framing", subtitle: "Sunni position presented first; Shia perspective surfaced for comparison only")
                             ]
                         )
                     }

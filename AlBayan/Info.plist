@@ -8,7 +8,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>albayan.auth</string>
+			<string>MAHR.Partner.AlBayan.deeplink</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>albayan</string>

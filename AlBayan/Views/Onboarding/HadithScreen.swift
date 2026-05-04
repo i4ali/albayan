@@ -2,7 +2,7 @@
 //  HadithScreen.swift
 //  AlBayan
 //
-//  Onboarding Screen 1: The Prophet's Bequest (hadith from Muwatta Malik)
+//  Onboarding Screen 1: The Best Guidance (Sahih Muslim 867 / Sahih al-Bukhari 7277).
 //
 
 import SwiftUI
@@ -24,7 +24,7 @@ struct HadithScreen: View {
 
                 VStack(spacing: 40) {
                     // Title with glow
-                    Text("The Prophet's Bequest")
+                    Text("The Best Guidance")
                         .font(.system(size: 20, weight: .semibold))
                         .foregroundColor(themeManager.secondaryText)
                         .overlay(
@@ -43,7 +43,7 @@ struct HadithScreen: View {
                                 .blendMode(.overlay)
                             }
                             .mask(
-                                Text("The Prophet's Bequest")
+                                Text("The Best Guidance")
                                     .font(.system(size: 20, weight: .semibold))
                             )
                         )
@@ -63,7 +63,7 @@ struct HadithScreen: View {
                         .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
 
                     // Arabic Hadith
-                    Text("تركتُ فيكم أمرين\nلن تضلوا ما تمسكتم بهما:\nكتابَ الله\nوسنةَ نبيه")
+                    Text("خيرُ الحديثِ\nكتابُ الله\nوخيرُ الهدْيِ\nهدْيُ محمدٍ ﷺ")
                         .font(.system(size: 26, weight: .medium, design: .serif))
                         .foregroundColor(themeManager.primaryText)
                         .multilineTextAlignment(.center)
@@ -83,23 +83,19 @@ struct HadithScreen: View {
 
                     // English Translation
                     VStack(spacing: 12) {
-                        Text("\"I have left among you two matters")
+                        Text("\"The best speech")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("you will never go astray")
+                        Text("is the Book of Allah,")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("as long as you hold fast to them:")
+                        Text("and the best guidance")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("the Book of Allah")
-                            .font(.system(size: 18, weight: .medium))
-                            .foregroundColor(themeManager.primaryText)
-
-                        Text("and the Sunnah of His Prophet.\"")
+                        Text("is the guidance of Muhammad ﷺ.\"")
                             .font(.system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                     }

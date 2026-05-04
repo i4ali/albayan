@@ -112,7 +112,7 @@ struct LoadingView: View {
                 .foregroundColor(themeManager.primaryText)
                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.5), radius: 30)
             
-            Text("Experience the Quran like never before\nwith AI-powered Sunni commentary")
+            Text("Experience the Quran like never before\nwith AI-powered scholarly commentary")
                 .font(.system(size: 18, weight: .light))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)

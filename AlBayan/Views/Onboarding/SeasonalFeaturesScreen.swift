@@ -109,7 +109,7 @@ struct SeasonalFeaturesScreen: View {
                     badge: "Seasonal",
                     badgeColor: .purple,
                     features: [
-                        ("hands.sparkles.fill", "Daily duas from Mafatih al-Jinan"),
+                        ("hands.sparkles.fill", "Daily duas from Hisn al-Muslim and the Sunnah"),
                         ("book.pages.fill", "Curated Quranic verses with tafsir"),
                         ("heart.text.square.fill", "Reflections and spiritual guidance"),
                         ("checkmark.circle.fill", "Track your 30-day progress")
@@ -126,7 +126,7 @@ struct SeasonalFeaturesScreen: View {
                     badge: "Future",
                     badgeColor: .blue,
                     features: [
-                        ("drop.fill", "Muharram commemorations & Ashura"),
+                        ("calendar", "Sacred month of Muharram & Ashura fasting"),
                         ("mountain.2.fill", "Dhul-Hijjah & Hajj season"),
                         ("sparkles", "Rajab & Sha'ban preparations"),
                         ("star.fill", "Special nights & occasions")

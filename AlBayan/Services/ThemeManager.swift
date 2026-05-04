@@ -49,7 +49,7 @@ class ThemeManager: ObservableObject {
            let stored = ThemeVariant(rawValue: raw) {
             self.selectedTheme = stored
         } else {
-            self.selectedTheme = .warmInviting
+            self.selectedTheme = .rosewater
         }
     }
 

@@ -10,14 +10,14 @@
         "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
         "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik",
         "english": "O Allah, help me to remember You, be grateful to You, and worship You in the best manner.",
-        "source": "Mafatih al-Jinan"
+        "source": "Sunan Abi Dawud, Sunan al-Nasa'i (sahih, from Mu'adh ibn Jabal RA)"
       },
       "verses": [
         {
           "id": "r1v1",
           "surahNumber": 14,
           "verseNumber": 7,
-          "relevanceNote": "If you are grateful, I will surely increase you - the promise of abundance through gratitude."
+          "relevanceNote": "If you are grateful, I will surely increase you — the promise of abundance through gratitude."
         },
         {
           "id": "r1v2",
@@ -36,10 +36,10 @@
       "themeArabic": "الإخلاص",
       "icon": "sparkles",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْ عَمَلِي كُلَّهُ صَالِحًا وَاجْعَلْهُ لِوَجْهِكَ خَالِصًا",
-        "transliteration": "Allahumma-j'al 'amali kullahu salihan wa-j'alhu li-wajhika khalisan",
-        "english": "O Allah, make all my deeds righteous and make them purely for Your sake.",
-        "source": "Imam Ali (AS)"
+        "arabic": "اللَّهُمَّ اجْعَلْ عَمَلِي كُلَّهُ صَالِحًا، وَاجْعَلْهُ لِوَجْهِكَ خَالِصًا، وَلَا تَجْعَلْ لِأَحَدٍ فِيهِ شَيْئًا",
+        "transliteration": "Allahumma-j'al 'amali kullahu salihan, wa-j'alhu li-wajhika khalisan, wa la taj'al li-ahadin fihi shay'an",
+        "english": "O Allah, make all my deeds righteous, make them sincerely for Your sake, and let no one have any share in them.",
+        "source": "Sunan al-Tirmidhi (from Umar ibn al-Khattab RA)"
       },
       "verses": [
         {
@@ -68,7 +68,7 @@
         "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ",
         "transliteration": "Rabbi-ghfir li wa tub 'alayya innaka Anta-t-Tawwab-ur-Rahim",
         "english": "My Lord, forgive me and accept my repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
-        "source": "Sahifa Sajjadiya"
+        "source": "Sunan Abi Dawud, Sunan al-Tirmidhi (sahih, from Ibn Umar RA — the Prophet ﷺ would say this 100 times in a sitting)"
       },
       "verses": [
         {
@@ -81,7 +81,7 @@
           "id": "r3v2",
           "surahNumber": 66,
           "verseNumber": 8,
-          "relevanceNote": "Turn to Allah in sincere repentance - your Lord may remove your misdeeds."
+          "relevanceNote": "Turn to Allah in sincere repentance — your Lord may remove your misdeeds."
         }
       ],
       "tafsirFocus": "Learn about tawbah nasuh (sincere repentance) and Allah's infinite mercy.",
@@ -94,17 +94,17 @@
       "themeArabic": "الرَّحمة",
       "icon": "hands.sparkles.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ ارْحَمْنِي بِرَحْمَتِكَ الْوَاسِعَةِ وَاغْفِرْ لِي ذُنُوبِي",
-        "transliteration": "Allahumma-rhamni bi-rahmatika-l-wasi'ah wa-ghfir li dhunubi",
-        "english": "O Allah, have mercy on me with Your vast mercy and forgive my sins.",
-        "source": "Mafatih al-Jinan"
+        "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi' lana min amrina rashada",
+        "english": "Our Lord, grant us mercy from Yourself and prepare for us right guidance in our affair.",
+        "source": "Quran 18:10"
       },
       "verses": [
         {
           "id": "r4v1",
           "surahNumber": 7,
           "verseNumber": 156,
-          "relevanceNote": "My mercy encompasses all things - Allah's mercy is infinite."
+          "relevanceNote": "My mercy encompasses all things — Allah's mercy is infinite."
         },
         {
           "id": "r4v2",
@@ -139,7 +139,7 @@
           "id": "r5v2",
           "surahNumber": 39,
           "verseNumber": 10,
-          "relevanceNote": "The patient will be given their reward without account - unlimited reward for sabr."
+          "relevanceNote": "The patient will be given their reward without account — unlimited reward for sabr."
         }
       ],
       "tafsirFocus": "Learn about the three types of sabr and how fasting trains us in patience.",
@@ -162,7 +162,7 @@
           "id": "r6v1",
           "surahNumber": 65,
           "verseNumber": 3,
-          "relevanceNote": "Whoever relies upon Allah - He is sufficient for him."
+          "relevanceNote": "Whoever relies upon Allah — He is sufficient for him."
         },
         {
           "id": "r6v2",
@@ -181,10 +181,10 @@
       "themeArabic": "المغفرة",
       "icon": "hand.raised.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
-        "transliteration": "Allahumma innaka 'afuwwun tuhibb-ul-'afwa fa'fu 'anni",
-        "english": "O Allah, You are Forgiving and love forgiveness, so forgive me.",
-        "source": "Dua for Laylatul Qadr - Mafatih al-Jinan"
+        "arabic": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ",
+        "transliteration": "Astaghfirullah-alladhi la ilaha illa Huwa-l-Hayya-l-Qayyuma wa atubu ilayh",
+        "english": "I seek forgiveness from Allah, there is no god but He, the Living, the Self-Subsisting, and I repent to Him.",
+        "source": "Sunan Abi Dawud, Sunan al-Tirmidhi (sahih — whoever says it three times has their sins forgiven, even if they fled from battle)"
       },
       "verses": [
         {
@@ -197,7 +197,7 @@
           "id": "r7v2",
           "surahNumber": 42,
           "verseNumber": 40,
-          "relevanceNote": "The reward of an evil is an evil like it, but whoever pardons and makes reconciliation - his reward is from Allah."
+          "relevanceNote": "The reward of an evil is an evil like it, but whoever pardons and makes reconciliation — his reward is from Allah."
         }
       ],
       "tafsirFocus": "Learn about 'afw (pardoning) vs. maghfirah (forgiveness) and their spiritual benefits.",
@@ -210,10 +210,10 @@
       "themeArabic": "التَّواضُع",
       "icon": "person.fill.questionmark",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْنِي فِي عَيْنِي صَغِيرًا وَفِي أَعْيُنِ النَّاسِ كَبِيرًا",
-        "transliteration": "Allahumma-j'alni fi 'ayni saghiran wa fi a'yun-in-nasi kabiran",
-        "english": "O Allah, make me small in my own eyes and great in the eyes of people.",
-        "source": "Imam Ali (AS)"
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+        "transliteration": "Allahumma inni a'udhu bika an ushrika bika wa ana a'lam, wa astaghfiruka lima la a'lam",
+        "english": "O Allah, I seek refuge in You from associating partners with You knowingly, and I seek Your forgiveness for what I do not know.",
+        "source": "Musnad Ahmad (sahih, from Abu Musa al-Ash'ari RA)"
       },
       "verses": [
         {
@@ -239,10 +239,10 @@
       "themeArabic": "الصَّدقة",
       "icon": "gift.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْ يَدِي يَدًا عُلْيَا وَلَا تَجْعَلْهَا يَدًا سُفْلَى",
-        "transliteration": "Allahumma-j'al yadi yadan 'ulya wa la taj'alha yadan sufla",
-        "english": "O Allah, make my hand an upper hand (giving) and not a lower hand (receiving).",
-        "source": "Hadith - Al-Kafi"
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْبُخْلِ",
+        "transliteration": "Allahumma inni a'udhu bika min al-'ajzi wal-kasali, wal-jubni wal-bukhli",
+        "english": "O Allah, I seek refuge in You from incapacity, laziness, cowardice, and miserliness.",
+        "source": "Sahih al-Bukhari, Sahih Muslim (from Anas ibn Malik RA)"
       },
       "verses": [
         {
@@ -255,11 +255,11 @@
           "id": "r9v2",
           "surahNumber": 57,
           "verseNumber": 18,
-          "relevanceNote": "Those who give charity - it will be multiplied for them, and they will have a noble reward."
+          "relevanceNote": "Those who give charity — it will be multiplied for them, and they will have a noble reward."
         }
       ],
       "tafsirFocus": "Learn about the spiritual purification that comes through giving.",
-      "reflection": "The Prophet was most generous in Ramadan. What can you give today - time, money, or kindness?"
+      "reflection": "The Prophet ﷺ was most generous in Ramadan. What can you give today — time, money, or kindness?"
     },
     {
       "id": "day10",
@@ -278,7 +278,7 @@
           "id": "r10v1",
           "surahNumber": 96,
           "verseNumber": 1,
-          "relevanceNote": "Read in the name of your Lord who created - the first revelation emphasizing knowledge."
+          "relevanceNote": "Read in the name of your Lord who created — the first revelation emphasizing knowledge."
         },
         {
           "id": "r10v2",
@@ -297,10 +297,10 @@
       "themeArabic": "الأُخُوَّة",
       "icon": "person.2.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْمَعْ بَيْنَ قُلُوبِ الْمُؤْمِنِينَ وَأَلِّفْ بَيْنَهُمْ",
-        "transliteration": "Allahumma-jma' bayna qulub-il-mu'minina wa allif baynahum",
-        "english": "O Allah, unite the hearts of the believers and bring harmony between them.",
-        "source": "Mafatih al-Jinan"
+        "arabic": "اللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا، وَأَصْلِحْ ذَاتَ بَيْنِنَا، وَاهْدِنَا سُبُلَ السَّلَامِ",
+        "transliteration": "Allahumma allif bayna qulubina, wa aslih dhata bayinina, wa-hdina subul-as-salam",
+        "english": "O Allah, unite our hearts, reconcile our affairs, and guide us to the paths of peace.",
+        "source": "Sunan Abi Dawud (sahih)"
       },
       "verses": [
         {
@@ -326,17 +326,17 @@
       "themeArabic": "القناعة",
       "icon": "heart.circle.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ قَنِّعْنِي بِمَا رَزَقْتَنِي وَبَارِكْ لِي فِيهِ",
-        "transliteration": "Allahumma qanni'ni bima razaqtani wa barik li fih",
-        "english": "O Allah, make me content with what You have provided me and bless me in it.",
-        "source": "Imam Sajjad (AS)"
+        "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "transliteration": "Allahumma-kfini bi-halalika 'an haramika, wa-aghnini bi-fadlika 'amman siwak",
+        "english": "O Allah, suffice me with what You have made lawful instead of what You have forbidden, and enrich me with Your bounty so I am free of need from any besides You.",
+        "source": "Sunan al-Tirmidhi (hasan, from Ali ibn Abi Talib RA)"
       },
       "verses": [
         {
           "id": "r12v1",
           "surahNumber": 16,
           "verseNumber": 97,
-          "relevanceNote": "Whoever does righteousness - We will surely cause him to live a good life."
+          "relevanceNote": "Whoever does righteousness — We will surely cause him to live a good life."
         },
         {
           "id": "r12v2",
@@ -355,10 +355,10 @@
       "themeArabic": "ضبط النَّفس",
       "icon": "brain.head.profile",
       "dua": {
-        "arabic": "اللَّهُمَّ أَعِنِّي عَلَى نَفْسِي بِمَا تُعِينُ بِهِ الصَّالِحِينَ",
-        "transliteration": "Allahumma a'inni 'ala nafsi bima tu'inu bih-is-salihin",
-        "english": "O Allah, help me against my self with what You help the righteous.",
-        "source": "Imam Ali (AS)"
+        "arabic": "اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا، وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا، أَنْتَ وَلِيُّهَا وَمَوْلَاهَا",
+        "transliteration": "Allahumma ati nafsi taqwaha, wa zakkiha anta khayru man zakkaha, anta waliyyuha wa mawlaha",
+        "english": "O Allah, grant my soul its piety and purify it; You are the best to purify it. You are its Guardian and Master.",
+        "source": "Sahih Muslim (from Zayd ibn Arqam RA)"
       },
       "verses": [
         {
@@ -384,10 +384,10 @@
       "themeArabic": "الصِّدق",
       "icon": "checkmark.seal.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّادِقِينَ فِي أَقْوَالِي وَأَفْعَالِي",
-        "transliteration": "Allahumma-j'alni min-as-sadiqina fi aqwali wa af'ali",
-        "english": "O Allah, make me among the truthful in my words and deeds.",
-        "source": "Mafatih al-Jinan"
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ قَلْبًا سَلِيمًا، وَلِسَانًا صَادِقًا",
+        "transliteration": "Allahumma inni as'aluka qalban saliman, wa lisanan sadiqan",
+        "english": "O Allah, I ask You for a sound heart and a truthful tongue.",
+        "source": "Sunan al-Tirmidhi, Sunan al-Nasa'i (hasan, from Shaddad ibn Aws RA)"
       },
       "verses": [
         {
@@ -400,7 +400,7 @@
           "id": "r14v2",
           "surahNumber": 33,
           "verseNumber": 35,
-          "relevanceNote": "The truthful men and truthful women - Allah has prepared for them forgiveness and great reward."
+          "relevanceNote": "The truthful men and truthful women — Allah has prepared for them forgiveness and great reward."
         }
       ],
       "tafsirFocus": "Explore sidq (truthfulness) as a foundation of righteous character.",
@@ -413,10 +413,10 @@
       "themeArabic": "الشَّفقة",
       "icon": "heart.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ ارْزُقْنِي قَلْبًا رَحِيمًا وَعَيْنًا دَامِعَةً مِنْ خَشْيَتِكَ",
-        "transliteration": "Allahumma-rzuqni qalban rahiman wa 'aynan dami'atan min khashyatik",
-        "english": "O Allah, grant me a compassionate heart and eyes that tear from awe of You.",
-        "source": "Sahifa Sajjadiya"
+        "arabic": "أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الْغَافِرِينَ",
+        "transliteration": "Anta waliyyuna fa-ghfir lana wa-rhamna wa anta khayru-l-ghafirin",
+        "english": "You are our Protector, so forgive us and have mercy upon us; You are the best of forgivers.",
+        "source": "Quran 7:155"
       },
       "verses": [
         {
@@ -429,10 +429,10 @@
           "id": "r15v2",
           "surahNumber": 48,
           "verseNumber": 29,
-          "relevanceNote": "Merciful among themselves - describing the companions of the Prophet."
+          "relevanceNote": "Merciful among themselves — describing the Companions of the Prophet ﷺ."
         }
       ],
-      "tafsirFocus": "Learn about rahma (compassion) as a defining quality of believers.",
+      "tafsirFocus": "Learn about rahma (compassion) as a defining quality of believers. The Prophet ﷺ said: 'Those who show mercy will be shown mercy by the Most Merciful.' (Abu Dawud, Tirmidhi)",
       "reflection": "Hunger during fasting connects us to the poor. Let compassion move you to action."
     },
     {
@@ -452,13 +452,13 @@
           "id": "r16v1",
           "surahNumber": 25,
           "verseNumber": 74,
-          "relevanceNote": "And make us leaders for the righteous - prayer for righteous families."
+          "relevanceNote": "And make us leaders for the righteous — prayer for righteous families."
         },
         {
           "id": "r16v2",
           "surahNumber": 46,
           "verseNumber": 15,
-          "relevanceNote": "We have enjoined upon man goodness to his parents - honoring family bonds."
+          "relevanceNote": "We have enjoined upon man goodness to his parents — honoring family bonds."
         }
       ],
       "tafsirFocus": "Explore the Quranic emphasis on family bonds and responsibilities.",
@@ -471,10 +471,10 @@
       "themeArabic": "ذكرى بدر",
       "icon": "flag.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ انْصُرْنَا كَمَا نَصَرْتَ الْمُؤْمِنِينَ فِي بَدْرٍ",
-        "transliteration": "Allahumma-nsurna kama nasarta-l-mu'minina fi Badr",
-        "english": "O Allah, grant us victory as You granted victory to the believers at Badr.",
-        "source": "Historic supplication"
+        "arabic": "اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي، اللَّهُمَّ إِنْ تَهْلِكْ هَذِهِ الْعِصَابَةُ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدْ فِي الْأَرْضِ",
+        "transliteration": "Allahumma anjiz li ma wa'adtani, Allahumma in tahlik hadhihi-l-'isabatu min ahli-l-Islam la tu'bad fi-l-ard",
+        "english": "O Allah, fulfill what You have promised me. O Allah, if this small band of Muslims is destroyed, You will not be worshipped on earth.",
+        "source": "Sahih Muslim (the Prophet ﷺ's du'a at Badr, narrated by Umar ibn al-Khattab RA)"
       },
       "verses": [
         {
@@ -487,11 +487,11 @@
           "id": "r17v2",
           "surahNumber": 8,
           "verseNumber": 17,
-          "relevanceNote": "You did not kill them, but Allah killed them - divine support at Badr."
+          "relevanceNote": "You did not kill them, but Allah killed them — divine support at Badr."
         }
       ],
-      "tafsirFocus": "Study the Battle of Badr (17th Ramadan) and its spiritual lessons.",
-      "reflection": "The believers at Badr were few but victorious. What battles do you face with faith?"
+      "tafsirFocus": "Study the Battle of Badr (17th Ramadan, 2 AH) and its spiritual lessons. The Prophet ﷺ raised his hands in du'a until his cloak fell from his shoulders.",
+      "reflection": "The believers at Badr were few but victorious through tawakkul. What battles do you face with faith?"
     },
     {
       "id": "day18",
@@ -500,10 +500,10 @@
       "themeArabic": "الكَرَم",
       "icon": "hand.raised.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْكُرَمَاءِ الَّذِينَ يُنْفِقُونَ فِي سَبِيلِكَ",
-        "transliteration": "Allahumma-j'alni min-al-kurama' alladhina yunfiquna fi sabilik",
-        "english": "O Allah, make me among the generous who spend in Your way.",
-        "source": "Imam Sajjad (AS)"
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ ﷺ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ ﷺ",
+        "transliteration": "Allahumma inni as'aluka min khayri ma sa'alaka minhu Nabiyyuka Muhammadun ﷺ, wa a'udhu bika min sharri ma-sta'adha minhu Nabiyyuka Muhammadun ﷺ",
+        "english": "O Allah, I ask You for the best of what Your Prophet Muhammad ﷺ asked of You, and I seek refuge in You from the worst of what Your Prophet Muhammad ﷺ sought refuge from.",
+        "source": "Sunan al-Tirmidhi (hasan)"
       },
       "verses": [
         {
@@ -519,43 +519,43 @@
           "relevanceNote": "Never will you attain righteousness until you spend from that which you love."
         }
       ],
-      "tafsirFocus": "Learn about infaq (spending in Allah's way) and its spiritual rewards.",
-      "reflection": "The Prophet was like a generous wind in Ramadan. Give something valuable today."
+      "tafsirFocus": "Ibn Abbas RA said the Prophet ﷺ was 'more generous than the blowing wind' in Ramadan (Bukhari, Muslim). Learn about infaq and its spiritual rewards.",
+      "reflection": "The Prophet ﷺ was like a generous wind in Ramadan. Give something valuable today."
     },
     {
       "id": "day19",
       "dayNumber": 19,
-      "theme": "Night of Qadr",
-      "themeArabic": "ليلة القدر",
-      "icon": "moon.stars.fill",
+      "theme": "The Quran",
+      "themeArabic": "القرآن",
+      "icon": "text.book.closed.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنْ تَجْعَلَنِي مِنْ أَهْلِ لَيْلَةِ الْقَدْرِ",
-        "transliteration": "Allahumma inni as'aluka an taj'alani min ahli laylat-il-qadr",
-        "english": "O Allah, I ask You to make me among the people of Laylatul Qadr.",
-        "source": "Mafatih al-Jinan"
+        "arabic": "اللَّهُمَّ ارْحَمْنِي بِالْقُرْآنِ، وَاجْعَلْهُ لِي إِمَامًا وَنُورًا وَهُدًى وَرَحْمَةً، اللَّهُمَّ ذَكِّرْنِي مِنْهُ مَا نَسِيتُ، وَعَلِّمْنِي مِنْهُ مَا جَهِلْتُ",
+        "transliteration": "Allahumma-rhamni bil-Qur'an, wa-j'alhu li imaman wa nuran wa hudan wa rahmah. Allahumma dhakkirni minhu ma nasitu, wa 'allimni minhu ma jahiltu",
+        "english": "O Allah, have mercy on me through the Quran. Make it for me a guide, a light, guidance, and mercy. O Allah, remind me of what I have forgotten of it and teach me what I am ignorant of.",
+        "source": "Du'a after recitation, reported in Hisn al-Muslim and other Sunni du'a compilations"
       },
       "verses": [
         {
           "id": "r19v1",
-          "surahNumber": 97,
-          "verseNumber": 1,
-          "relevanceNote": "Indeed, We sent it down during the Night of Decree."
+          "surahNumber": 2,
+          "verseNumber": 185,
+          "relevanceNote": "The month of Ramadan in which was revealed the Quran — guidance for people."
         },
         {
           "id": "r19v2",
-          "surahNumber": 97,
-          "verseNumber": 3,
-          "relevanceNote": "The Night of Decree is better than a thousand months."
+          "surahNumber": 17,
+          "verseNumber": 9,
+          "relevanceNote": "Indeed this Quran guides to that which is most upright."
         },
         {
           "id": "r19v3",
-          "surahNumber": 44,
-          "verseNumber": 4,
-          "relevanceNote": "On that night is made distinct every precise matter."
+          "surahNumber": 4,
+          "verseNumber": 82,
+          "relevanceNote": "Then do they not reflect upon the Quran? If it had been from any other than Allah, they would have found in it much contradiction."
         }
       ],
-      "tafsirFocus": "Study Surah Al-Qadr and the significance of the Night of Power.",
-      "reflection": "Tonight could be Laylatul Qadr. Spend it in worship, supplication, and reflection."
+      "tafsirFocus": "Ramadan and the Quran share an inseparable bond — Jibreel ﷺ would review the entire Quran with the Prophet ﷺ each Ramadan (Bukhari). Return to the Book this month with depth, not just speed.",
+      "reflection": "How much of the Quran have you read this Ramadan? Set a goal — even one juz' a day — to engage deeply with Allah's words."
     },
     {
       "id": "day20",
@@ -574,7 +574,7 @@
           "id": "r20v1",
           "surahNumber": 2,
           "verseNumber": 186,
-          "relevanceNote": "When My servants ask about Me - indeed I am near. I respond to the supplicant when he calls."
+          "relevanceNote": "When My servants ask about Me — indeed I am near. I respond to the supplicant when he calls."
         },
         {
           "id": "r20v2",
@@ -583,37 +583,37 @@
           "relevanceNote": "Call upon Me; I will respond to you."
         }
       ],
-      "tafsirFocus": "Learn about the etiquette and conditions of accepted supplication.",
-      "reflection": "Allah is especially close to the fasting person. What is your most heartfelt dua?"
+      "tafsirFocus": "Learn about the etiquette and conditions of accepted supplication. The Prophet ﷺ said the du'a of the fasting person is not turned back (Tirmidhi, Ibn Majah).",
+      "reflection": "Allah is especially close to the fasting person. What is your most heartfelt du'a?"
     },
     {
       "id": "day21",
       "dayNumber": 21,
-      "theme": "Martyrdom of Imam Ali",
-      "themeArabic": "شهادة الإمام علي",
-      "icon": "star.fill",
+      "theme": "Last Ten Nights",
+      "themeArabic": "العَشْر الأواخر",
+      "icon": "moon.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ صَلِّ عَلَى أَمِيرِ الْمُؤْمِنِينَ عَلِيِّ بْنِ أَبِي طَالِبٍ",
-        "transliteration": "Allahumma salli 'ala Amir-il-Mu'minina 'Ali ibn Abi Talib",
-        "english": "O Allah, send blessings upon the Commander of the Faithful, Ali ibn Abi Talib.",
-        "source": "Memorial prayer"
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
+        "transliteration": "Allahumma inni as'aluka-l-jannata wa ma qarraba ilayha min qawlin aw 'amal, wa a'udhu bika min an-nari wa ma qarraba ilayha min qawlin aw 'amal",
+        "english": "O Allah, I ask You for Paradise and whatever brings me near to it of word and deed, and I seek refuge in You from the Fire and whatever brings me near to it of word and deed.",
+        "source": "Sunan Ibn Majah (sahih, from 'A'ishah RA)"
       },
       "verses": [
         {
           "id": "r21v1",
-          "surahNumber": 5,
-          "verseNumber": 55,
-          "relevanceNote": "Your ally is only Allah, His Messenger, and those who believe who establish prayer and give zakah while bowing."
+          "surahNumber": 2,
+          "verseNumber": 187,
+          "relevanceNote": "Do not approach them while you are in retreat (i'tikaf) in the mosques — the Quranic foundation of i'tikaf."
         },
         {
           "id": "r21v2",
-          "surahNumber": 2,
-          "verseNumber": 207,
-          "relevanceNote": "Among people is he who sells himself seeking the pleasure of Allah - about Imam Ali."
+          "surahNumber": 73,
+          "verseNumber": 6,
+          "relevanceNote": "Indeed, the rising at night is more effective for concurrence and more suitable for words."
         }
       ],
-      "tafsirFocus": "Reflect on Imam Ali's life, sacrifice, and final advice during Ramadan.",
-      "reflection": "Imam Ali was struck on 19th Ramadan and passed on 21st. Honor his legacy through justice and knowledge."
+      "tafsirFocus": "'A'ishah RA said: 'When the last ten nights began, the Prophet ﷺ would tighten his waist-belt, stay awake at night, and wake his family.' (Bukhari, Muslim) The Sunnah of i'tikaf — secluding oneself in the mosque for worship — peaks in these nights.",
+      "reflection": "Even if you cannot perform full i'tikaf, dedicate extra time tonight: stand in qiyam, recite Quran, make du'a. The reward of these nights is unmatched."
     },
     {
       "id": "day22",
@@ -625,20 +625,20 @@
         "arabic": "اللَّهُمَّ ثَبِّتْنِي عَلَى دِينِكَ وَلَا تُزِغْ قَلْبِي بَعْدَ إِذْ هَدَيْتَنِي",
         "transliteration": "Allahumma thabbitni 'ala dinik wa la tuzigh qalbi ba'da idh hadaytani",
         "english": "O Allah, keep me firm upon Your religion and do not let my heart deviate after You have guided me.",
-        "source": "Quran 3:8"
+        "source": "Based on Quran 3:8"
       },
       "verses": [
         {
           "id": "r22v1",
           "surahNumber": 41,
           "verseNumber": 30,
-          "relevanceNote": "Those who said 'Our Lord is Allah' then remained steadfast - angels descend upon them."
+          "relevanceNote": "Those who said 'Our Lord is Allah' then remained steadfast — angels descend upon them."
         },
         {
           "id": "r22v2",
           "surahNumber": 46,
           "verseNumber": 13,
-          "relevanceNote": "Indeed, those who said 'Our Lord is Allah' and then remained steadfast - no fear or grief for them."
+          "relevanceNote": "Indeed, those who said 'Our Lord is Allah' and then remained steadfast — no fear or grief for them."
         }
       ],
       "tafsirFocus": "Study istiqamah (steadfastness) and how to maintain it after Ramadan.",
@@ -651,10 +651,10 @@
       "themeArabic": "ليلة القدر",
       "icon": "moon.stars.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
-        "transliteration": "Allahumma innaka 'afuwwun karimun tuhibb-ul-'afwa fa'fu 'anni",
-        "english": "O Allah, You are Pardoning and Generous, You love to pardon, so pardon me.",
-        "source": "Dua for Laylatul Qadr - Mafatih al-Jinan"
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلَانِيَتَهُ وَسِرَّهُ",
+        "transliteration": "Allahumma-ghfir li dhanbi kullahu, diqqahu wa jillahu, wa awwalahu wa akhirahu, wa 'alaniyatahu wa sirrah",
+        "english": "O Allah, forgive me all my sins — small and great, first and last, open and secret.",
+        "source": "Sahih Muslim (from Abu Hurairah RA)"
       },
       "verses": [
         {
@@ -670,8 +670,8 @@
           "relevanceNote": "Peace it is until the emergence of dawn."
         }
       ],
-      "tafsirFocus": "The 23rd night is particularly emphasized for Laylatul Qadr. Maximize worship.",
-      "reflection": "This is likely the Night of Qadr. Seek it with full devotion and sincere repentance."
+      "tafsirFocus": "The Prophet ﷺ said: 'Seek Laylat al-Qadr in the odd nights of the last ten of Ramadan.' (Bukhari, Muslim) The 23rd is one such odd night — pursue it with full devotion.",
+      "reflection": "Whoever stands in Laylat al-Qadr with faith and seeking reward, his previous sins are forgiven (Bukhari, Muslim). Don't let this night pass without sincere worship."
     },
     {
       "id": "day24",
@@ -680,10 +680,10 @@
       "themeArabic": "الرَّجاء",
       "icon": "sunrise.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ لَا تَقْطَعْ رَجَائِي مِنْ رَحْمَتِكَ وَلَا تُؤْيِسْنِي مِنْ فَضْلِكَ",
-        "transliteration": "Allahumma la taqta' raja'i min rahmatik wa la tu'yisni min fadlik",
-        "english": "O Allah, do not cut off my hope from Your mercy and do not make me despair of Your grace.",
-        "source": "Sahifa Sajjadiya"
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+        "transliteration": "Allahumma inni as'aluka-l-'afwa wal-'afiyata fi-d-dunya wal-akhirah",
+        "english": "O Allah, I ask You for pardon and well-being in this world and the next.",
+        "source": "Sunan Ibn Majah (sahih, from 'Abdullah ibn 'Umar RA)"
       },
       "verses": [
         {
@@ -738,10 +738,10 @@
       "themeArabic": "التَّفكُّر",
       "icon": "brain",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَفَكِّرِينَ فِي آيَاتِكَ وَخَلْقِكَ",
-        "transliteration": "Allahumma-j'alni min-al-mutafakkirina fi ayatika wa khalqik",
-        "english": "O Allah, make me among those who reflect upon Your signs and creation.",
-        "source": "Mafatih al-Jinan"
+        "arabic": "رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+        "transliteration": "Rabbana ma khalaqta hadha batila, subhanaka faqina 'adhab-an-nar",
+        "english": "Our Lord, You did not create this in vain. Glory be to You; protect us from the punishment of the Fire.",
+        "source": "Quran 3:191"
       },
       "verses": [
         {
@@ -767,27 +767,33 @@
       "themeArabic": "ليلة القدر",
       "icon": "moon.stars.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اكْتُبْنِي فِي هَذِهِ اللَّيْلَةِ مِنَ السُّعَدَاءِ وَلَا تَكْتُبْنِي مِنَ الْأَشْقِيَاءِ",
-        "transliteration": "Allahumma-ktubni fi hadhihi-l-laylati min-as-su'ada' wa la taktubni min-al-ashqiya'",
-        "english": "O Allah, write me on this night among the fortunate and do not write me among the wretched.",
-        "source": "Dua for Laylatul Qadr"
+        "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+        "transliteration": "Allahumma innaka 'afuwwun karimun tuhibb-ul-'afwa fa'fu 'anni",
+        "english": "O Allah, You are Pardoning and Generous, You love to pardon, so pardon me.",
+        "source": "Sunan al-Tirmidhi, Sunan Ibn Majah, Musnad Ahmad (sahih, from 'A'ishah RA — the du'a the Prophet ﷺ taught her for Laylat al-Qadr)"
       },
       "verses": [
         {
           "id": "r27v1",
           "surahNumber": 2,
           "verseNumber": 185,
-          "relevanceNote": "The month of Ramadan in which was revealed the Quran - guidance for people."
+          "relevanceNote": "The month of Ramadan in which was revealed the Quran — guidance for people."
         },
         {
           "id": "r27v2",
-          "surahNumber": 44,
+          "surahNumber": 97,
+          "verseNumber": 1,
+          "relevanceNote": "Indeed, We sent it down during the Night of Decree."
+        },
+        {
+          "id": "r27v3",
+          "surahNumber": 97,
           "verseNumber": 3,
-          "relevanceNote": "Indeed, We sent it down during a blessed night. Indeed, We were to warn."
+          "relevanceNote": "The Night of Decree is better than a thousand months."
         }
       ],
-      "tafsirFocus": "The 27th night is widely believed to be Laylatul Qadr. Give it your all.",
-      "reflection": "Destiny is decreed tonight. What do you want written for your coming year?"
+      "tafsirFocus": "Many Companions and scholars (including Ubayy ibn Ka'b RA) considered the 27th night the most likely Laylat al-Qadr (Sahih Muslim). Pour yourself into worship — its reward is greater than 1,000 months (~83 years).",
+      "reflection": "'A'ishah RA asked the Prophet ﷺ what to say if she found Laylat al-Qadr; he taught her this du'a. Make it your refrain throughout the night."
     },
     {
       "id": "day28",
@@ -796,17 +802,17 @@
       "themeArabic": "الشُّكر",
       "icon": "hands.sparkles.fill",
       "dua": {
-        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بَلَّغَنَا شَهْرَ رَمَضَانَ وَوَفَّقَنَا لِصِيَامِهِ وَقِيَامِهِ",
-        "transliteration": "Alhamdulillah-illadhi ballaghana shahra Ramadan wa waffaqana li-siyamihi wa qiyamih",
-        "english": "Praise be to Allah who allowed us to reach Ramadan and enabled us to fast and pray in it.",
-        "source": "Traditional"
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+        "transliteration": "Allahumma inni as'aluka 'ilman nafi'an, wa rizqan tayyiban, wa 'amalan mutaqabbalan",
+        "english": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds.",
+        "source": "Sunan Ibn Majah (sahih, from Umm Salamah RA)"
       },
       "verses": [
         {
           "id": "r28v1",
           "surahNumber": 31,
           "verseNumber": 12,
-          "relevanceNote": "Whoever is grateful - his gratitude is only for himself. And whoever is ungrateful - Allah is Free of need."
+          "relevanceNote": "Whoever is grateful — his gratitude is only for himself. And whoever is ungrateful — Allah is Free of need."
         },
         {
           "id": "r28v2",
@@ -815,8 +821,8 @@
           "relevanceNote": "And He gave you from all you asked of Him. If you should count the favor of Allah, you could not enumerate them."
         }
       ],
-      "tafsirFocus": "Gratitude for completing most of Ramadan - appreciate this blessing.",
-      "reflection": "As Ramadan nears its end, what are you most grateful for this month?"
+      "tafsirFocus": "Gratitude for completing most of Ramadan — and asking that the deeds offered in it be accepted.",
+      "reflection": "As Ramadan nears its end, what are you most grateful for this month? Ask Allah to accept every act of worship offered."
     },
     {
       "id": "day29",
@@ -825,10 +831,10 @@
       "themeArabic": "الوَحدة",
       "icon": "globe.americas.fill",
       "dua": {
-        "arabic": "اللَّهُمَّ اجْمَعْ كَلِمَةَ الْمُسْلِمِينَ وَأَلِّفْ بَيْنَ قُلُوبِهِمْ",
-        "transliteration": "Allahumma-jma' kalimat-al-muslimina wa allif bayna qulubihim",
-        "english": "O Allah, unite the word of the Muslims and bring their hearts together.",
-        "source": "Dua for the Ummah"
+        "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ، وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا",
+        "transliteration": "Rabbana-ghfir lana wa li-ikhwanina-lladhina sabaquna bi-l-iman, wa la taj'al fi qulubina ghillan li-lladhina amanu",
+        "english": "Our Lord, forgive us and our brothers who preceded us in faith, and place no rancor in our hearts toward those who have believed.",
+        "source": "Quran 59:10"
       },
       "verses": [
         {
@@ -844,7 +850,7 @@
           "relevanceNote": "And indeed this, your religion, is one religion, and I am your Lord, so fear Me."
         }
       ],
-      "tafsirFocus": "Reflect on the ummah's unity and our collective responsibility.",
+      "tafsirFocus": "Reflect on the ummah's unity and our collective responsibility. The Prophet ﷺ likened the believers to a single body — when one limb suffers, the whole body responds (Bukhari, Muslim).",
       "reflection": "Ramadan unites Muslims worldwide in fasting. Pray for the entire ummah today."
     },
     {
@@ -856,8 +862,8 @@
       "dua": {
         "arabic": "اللَّهُمَّ تَقَبَّلْ مِنَّا صِيَامَنَا وَقِيَامَنَا وَاجْعَلْنَا مِنَ الْعُتَقَاءِ مِنَ النَّارِ",
         "transliteration": "Allahumma taqabbal minna siyamana wa qiyamana wa-j'alna min-al-'utaqa' min-an-nar",
-        "english": "O Allah, accept from us our fasting and prayers, and make us among those freed from the Fire.",
-        "source": "Eid preparation dua"
+        "english": "O Allah, accept from us our fasting and our standing in prayer, and make us among those freed from the Fire.",
+        "source": "Traditional du'a at the conclusion of Ramadan, drawn from the Sunnah of seeking acceptance"
       },
       "verses": [
         {
@@ -873,8 +879,8 @@
           "relevanceNote": "Their meat and blood do not reach Allah, but what reaches Him is piety from you."
         }
       ],
-      "tafsirFocus": "The purpose of fasting - to complete the count and glorify Allah.",
-      "reflection": "Ramadan ends, but its lessons continue. How will you carry forward what you've learned?"
+      "tafsirFocus": "The purpose of fasting — to complete the count, glorify Allah for His guidance, and emerge with strengthened taqwa.",
+      "reflection": "Ramadan ends, but its lessons continue. How will you carry forward what you've learned into the rest of the year?"
     }
   ]
 }
