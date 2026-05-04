@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 2,
-      "question": "In verse 2 of Surah An-Naba, what does the term 'naba' (the great news) signify according to the Foundation Layer?",
+      "question": "What does the Quran call the resurrection and Day of Judgment in this surah, and why is that title significant?",
       "options": [
-        "Mere gossip or casual information",
-        "A profound, transformative announcement of cosmic truth",
-        "Political announcements from tribal leaders",
-        "Historical records of past events"
+        "A) Al-Naba al-Kabir, because it is older than any other news",
+        "B) Al-Naba al-Azim, because it is the most consequential announcement ever made to humanity",
+        "C) Al-Khabar al-Azim, because it requires scholarly verification before acceptance",
+        "D) Al-Naba al-Mubin, because it is clearly visible to all observers"
       ],
-      "correctAnswer": "A profound, transformative announcement of cosmic truth",
-      "explanation": "The term 'naba' signifies a profound, transformative announcement—not mere gossip, but a cosmic truth reshaping human understanding. It refers to the central message of the Quran and the core of Islamic belief, particularly resurrection and divine accountability."
+      "correctAnswer": "B",
+      "explanation": "The surah names the resurrection 'al-Naba al-Azim' — the Great News. The word 'naba' signals news that transforms situations and demands a decisive response, while 'azim' amplifies its cosmic weight. Sayyid Qutb noted in Fi Zilal al-Quran that this is the only piece of news truly deserving the title 'great,' because its implications are total, encompassing the final destiny of every human soul."
     },
     {
       "id": "78_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the Foundation Layer, the term 'mihadan' (resting place) in verse 6 derives from the root 'mahd', meaning a cradle or prepared bed, symbolizing comfort, stability, and nurturing care.",
+      "verseNumber": 3,
+      "question": "True or false: The Quran says the Meccans were merely ignorant of the resurrection rather than actively disputing it.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. The term 'mihadan' derives from the root 'mahd', meaning a cradle or prepared bed—a symbol of comfort, stability, and nurturing care. It illustrates Allah's deliberate design of the earth as a secure, habitable environment for humanity."
+      "correctAnswer": "false",
+      "explanation": "Verse 3 uses the word 'mukhtalifoon,' meaning those in active, persistent disagreement. The Quraysh did not passively ignore the resurrection — they debated and contested it with heated argument. The tafsir clarifies this was not neutral scholarly difference but denial rooted in rejection of a divinely revealed truth. Ibn Uthaymeen warned that Muslims must hold firm when surrounding culture similarly disputes the reality of the hereafter."
     },
     {
       "id": "78_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to classical Shia exegesis, what additional dimension does 'the great news' (an-naba' al-azim) include beyond resurrection?",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "What metaphor does the Quran use for the mountains in this surah, and what physical function does it describe?",
       "options": [
-        "Only the Quran's revelation",
-        "The multilayered dimensions integrating eschatology with Wilayah and Imamah",
-        "Historical accounts of prophets",
-        "Rules for daily prayers"
+        "A) Walls, to separate peoples from one another",
+        "B) Shields, to protect the earth from heat falling from the sun",
+        "C) Pegs or stakes driven into the ground to anchor and stabilize the earth",
+        "D) Pillars holding up the sky above the surface of the earth"
       ],
-      "correctAnswer": "The multilayered dimensions integrating eschatology with Wilayah and Imamah",
-      "explanation": "While Sunni commentaries often limit this 'great news' to the Day of Resurrection or the Qur'an's revelation, Shia scholars emphasize its multilayered dimensions, integrating eschatology with the reality of Wilayah (divine guardianship) and Imamah."
+      "correctAnswer": "C",
+      "explanation": "Verse 7 calls the mountains 'awtad' — pegs or stakes — the kind hammered deep into the ground to secure a tent. This image was immediately familiar to the Arab nomadic audience. Ibn Kathir in his Tafsir al-Quran al-Azim connects this verse with parallel passages in Surahs 16 and 21, all describing mountains as having been placed to prevent the earth from shaking with its inhabitants."
     },
     {
       "id": "78_4",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 17,
-      "question": "In classical Shia exegesis, 'yawm al-fasl' (Day of Separation) is interpreted solely as a chronological event without deeper theological significance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Classical Shia exegetes interpret 'yawm al-fasl' (Day of Separation) as the culmination of God's justice with profound theological weight, emphasizing divine predestination (qadar) balanced with human accountability, not merely as a chronological event."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "What Arabic word does verse 11 use for livelihood or sustenance, and what does it tell us about how the day is designed?",
+      "options": [
+        "A) Rizq, indicating that provision falls from the sky like rain",
+        "B) Ma'ash, rooted in the word for 'living,' indicating the day is purposefully designed for movement, labor, and earning provision",
+        "C) Ni'mah, indicating that the day is a general blessing with no particular purpose",
+        "D) Fadl, indicating that the day is extra time beyond what is needed for rest"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The word 'ma'ash' comes from the root 'aysha' meaning to live or subsist. Imam Tabari in Jami al-Bayan records that Ibn Abbas and Mujahid understood this to mean the day was made bright so people could move freely, engage in commerce, and labor. Imam Qurtubi notes that 'jaalna' — We made — asserts intentional divine creation, not mere coincidence, refuting any naturalistic reading of the day-night cycle."
     },
     {
       "id": "78_5",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarim Shirazi interpret the earth as a 'resting place' in modern context?",
-      "options": [
-        "Only as physical geological stability",
-        "As an invitation to reflect on humanity's custodianship of creation requiring ethical stewardship",
-        "As proof against scientific cosmology",
-        "As encouragement for agricultural development only"
-      ],
-      "correctAnswer": "As an invitation to reflect on humanity's custodianship of creation requiring ethical stewardship",
-      "explanation": "Contemporary scholars frame the verse as an invitation to reflect on humanity's custodianship of creation. The term 'mihadan' (resting place) implies both physical stability and spiritual purpose—a divine gift requiring ethical stewardship, connecting to modern environmental responsibility."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "True or false: In verse 13, the sun is described as a 'sirajan wahhajan,' meaning a blazing lamp, and the tafsir identifies this as one of the signs of divine power that demonstrates Allah's ability to resurrect the dead.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The phrase 'sirajan wahhajan' — a blazing lamp — is unanimously identified by classical scholars as referring to the sun. Wahbah al-Zuhayli in Al-Tafsir al-Munir situates this verse within the surah's apologetic aim: a Creator who sustains so blazing a lamp in the heavens is certainly capable of re-creating life on the Day of Judgment, directly countering the Meccans' denial of resurrection."
     },
     {
       "id": "78_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 10,
-      "question": "According to contemporary Shia scholarship, what additional dimension does the metaphor of night as 'clothing' represent beyond physical rest?",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "What grammatical point about the verb 'yatasaaloon' did Imam Tabari highlight in his commentary on the surah's opening verse?",
       "options": [
-        "Only darkness for sleeping",
-        "Divine mercy enveloping creation and offering space for reflection and spiritual intimacy",
-        "A warning against nighttime activities",
-        "The importance of wearing proper clothing"
+        "A) It is in the passive voice, suggesting the Quraysh were being questioned by angels about their beliefs",
+        "B) It is a Form VI verb indicating reciprocal mutual questioning — they were asking each other in heated debate",
+        "C) It is a command form urging believers to inquire about the resurrection with sincerity",
+        "D) It is a past tense verb indicating the Meccans' questioning had already permanently ended"
       ],
-      "correctAnswer": "Divine mercy enveloping creation and offering space for reflection and spiritual intimacy",
-      "explanation": "Scholars like Ayatollah Jawadi Amuli emphasize the verse's metaphysical dimension: night's 'clothing' symbolizes divine mercy enveloping creation, offering rest and reflection—a cosmic rhythm aligning with Quranic references to night prayer and spiritual intimacy with the Divine."
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in Jami al-Bayan notes that 'yatasaaloon' is a Form VI verb (the tafa'ala pattern) conveying reciprocal action — they were asking each other mutually, not one-sidedly. Ibn Kathir further explains that this Form VI construction functions as a literary device of suspension ('tashwiq') that builds anticipation, alerting the listener that something of immense magnitude is about to be declared."
     },
     {
       "id": "78_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to Imam Ja'far al-Sadiq (as) in Tafsir al-Qummi, what does 'the great news' fundamentally refer to?",
-      "options": [
-        "The revelation of the Quran only",
-        "The Wilayah of Amir al-Mu'minin Ali (as), the greatest matter between heaven and earth",
-        "The conquest of Mecca",
-        "The establishment of Islamic law"
-      ],
-      "correctAnswer": "The Wilayah of Amir al-Mu'minin Ali (as), the greatest matter between heaven and earth",
-      "explanation": "Imam Ja'far al-Sadiq (as) states in Tafsir al-Qummi: 'The great news is the Wilayah of Amir al-Mu'minin Ali (as), for it is the greatest matter between heaven and earth.' This establishes the profound connection between divine revelation and Imamah."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 17,
+      "question": "True or false: Ibn Kathir described verse 17 — 'Indeed, the Day of Decision is an appointed time' — as the surah's turning point, where the argument from creation concludes and the eschatological section begins.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explicitly identifies this verse as the surah's turning point: after Allah has demonstrated His power through the signs of creation, it becomes unreasonable for the listener to deny the coming Day. Imam Qurtubi adds that the term 'miqat' (appointed time) carries a theological precision confirming the Day of Judgment as a fixed article of creed that every Muslim must affirm without doubt."
     },
     {
       "id": "78_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 31,
-      "question": "According to Imam Ali (as), 'mafaz' (attainment) in verse 31 refers only to worldly success and material prosperity.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The Ahlul Bayt taught that 'attainment' (mafaz) transcends worldly success, pointing to the soul's liberation from the shackles of ignorance and its ascent toward divine proximity, not merely material prosperity."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 21,
+      "question": "What does the word 'mirsad' convey about Hell in verse 21, according to the classical scholars' grammatical analysis?",
+      "options": [
+        "A) That Hell is a place of mild, temporary correction intended to reform its inhabitants",
+        "B) That Hell is a passive holding area simply waiting to be filled on the Last Day",
+        "C) That Hell is actively positioned like a vigilant ambush, lying in permanent readiness to seize every transgressor",
+        "D) That Hell functions as a mirror reflecting the sins of its inhabitants back at them"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records that 'mirsad' is an intensive noun form (mif'al) indicating extreme vigilance and readiness — Hell is stationed like a watchtower or ambush set for transgressors. Ibn Kathir notes the verse's past tense 'kanat' (has been) underscores eternal preparedness. Imam Qurtubi adds that this stationed readiness ensures that no transgressor can escape their appointed reckoning, testifying to the impeccable administration of divine justice."
     },
     {
       "id": "78_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "What is the key difference in how Shia and Sunni traditions interpret the deeper meaning of night as 'clothing' in verse 10?",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "Wahbah al-Zuhayli used verse 27 — 'they did not expect any reckoning' — to make a point about modern civilization. What was his argument?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia tafsir links it to the Imams' role in unveiling and protecting divine mysteries, while Sunni focuses on Prophetic tradition",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars see it as only literal darkness"
+        "A) That modern science has resolved the question of resurrection and proven it physically impossible",
+        "B) That the ancient denial of hisab was spiritually unique to paganism and cannot be found in the modern world",
+        "C) That modern materialist philosophy is a continuation of the same ancient denial, substituting scientific naturalism for tribal paganism but arriving at the same conclusion: no accountability after death",
+        "D) That secular governments are permissible in Islam because they do not force religion on citizens"
       ],
-      "correctAnswer": "Shia tafsir links it to the Imams' role in unveiling and protecting divine mysteries, while Sunni focuses on Prophetic tradition",
-      "explanation": "Divergences emerge in theological elaborations: Shia tafsir often connects night's 'veiling' function to the Imams' role in unveiling and protecting divine mysteries (reflected in sayings like Imam Ali's 'I am the night's secret'), while Sunni commentaries prioritize Prophetic tradition (hadith) on night prayer without this Imamic dimension."
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir argued that the denial of accountability described in verse 27 is not merely a historical phenomenon. Modern materialism, though it replaces tribal paganism with scientific naturalism, arrives at the same conclusion: no life or accountability after death. Sayyid Qutb similarly saw this as the verse's living contemporary relevance, while Ibn Uthaymeen stressed that every Muslim must cultivate daily certainty in the reckoning as a preventive medicine for spiritual disease."
     },
     {
       "id": "78_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 31,
+      "question": "True or false: Sayyid Qutb argued in Fi Zilal al-Quran that taqwa is a quality formed only at the moment of judgment, not during one's life in this world.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb argued precisely the opposite: taqwa is the quality that distinguishes the two groups throughout every moment of life in this world, not at the moment of judgment. Those who cultivated taqwa in the unseen — acting righteously even when no human eye watched — are precisely those who receive the 'mafaza.' Wahbah al-Zuhayli similarly described taqwa as a comprehensive consciousness of Allah shaping every action and intention over the course of a lifetime."
+    },
+    {
+      "id": "78_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 21,
-      "question": "According to both Shia (Tabatabai) and Sunni (Tabari) scholars, what does 'lying in wait' (mirsadan) indicate about Hell in verse 21?",
+      "layer": 3,
+      "verseNumber": 36,
+      "question": "How did Muhammad al-Sha'rawi apply the phrase 'ata'an hisaban' — a gift fully sufficient — to the psychology of believers in his commentary?",
       "options": [
-        "Hell is a temporary state that will eventually end",
-        "Hell's perpetual readiness to receive those who reject divine guidance",
-        "Hell is merely a metaphorical concept with no reality",
-        "Only disbelievers from Mecca will enter Hell"
+        "A) He argued that the phrase means believers need not perform good deeds at all, since the gift is unconditional",
+        "B) He argued that it addresses the deep human fear of not being 'good enough,' assuring the believer that Allah's generosity always exceeds their deeds",
+        "C) He argued that only scholarly knowledge of fiqh determines the sufficiency of one's deeds",
+        "D) He argued that the phrase restricts Paradise to those who performed the five pillars without any personal failings"
       ],
-      "correctAnswer": "Hell's perpetual readiness to receive those who reject divine guidance",
-      "explanation": "Both Shia and Sunni exegetical traditions converge in affirming the reality of Hell as an eternal abode prepared for disbelievers and transgressors. Classical commentators, including Tabari (Sunni) and Tabatabai (Shia), emphasize that 'lying in wait' (mirsadan) underscores Hell's perpetual readiness to receive those who reject divine guidance."
+      "correctAnswer": "B",
+      "explanation": "Sheikh Muhammad al-Sha'rawi highlighted that the phrase 'ata'an hisaban' — a calculated, sufficient gift — directly addresses the anxiety of the believer who fears their deeds are inadequate. The verse assures that Allah's generosity surpasses every effort: the gift is always sufficient for those who turn to Him with sincerity. Sayyid Qutb reinforced this by observing that 'ata'an' frames Paradise not as a transactional wage but as the gift of a generous, loving Lord."
+    },
+    {
+      "id": "78_12",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 40,
+      "question": "What exegetical point did Ibn Kathir make about the disbeliever's wish to be 'dust' in the surah's final verse, and how did Imam Qurtubi connect it to the surah's opening?",
+      "options": [
+        "A) Ibn Kathir said the wish reflects humility; Qurtubi connected it to the surah's praise of humble believers",
+        "B) Ibn Kathir said the wish echoes animals becoming dust after their reckoning, making the disbeliever wish for that same non-accountability; Qurtubi noted the arc from the opening question about disputed news to this final cry closes with rhetorical power",
+        "C) Ibn Kathir said the wish is metaphorical for desiring a second life; Qurtubi linked it to the surah's call for repentance",
+        "D) Ibn Kathir said the wish reflects sorrow over earthly loss; Qurtubi saw it as unrelated to the surah's opening theme"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records that animals, after their resurrection and settling of accounts among themselves, are turned to dust. The disbeliever witnesses this and wishes he had been an animal — facing no moral reckoning. Ibn Kathir calls this among the most severe expressions of eternal regret in the entire Quran. Imam Qurtubi notes that the surah opened asking 'about what do they dispute?' regarding the Great News, and now closes with the very denier confronting that news face to face and crying out in despair."
     }
   ]
 }

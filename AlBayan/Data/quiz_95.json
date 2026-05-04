@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the Foundation Layer, what do the fig and olive in Surah At-Tin symbolize?",
+      "question": "In the opening oath of Surah At-Tin, what immediate purpose does swearing by the fig and the olive serve in Arabic rhetorical tradition?",
       "options": [
-        "Only physical fruits with nutritional value",
-        "Symbols of lands blessed by revelation and sacred geography",
-        "Agricultural practices of ancient Arabia",
-        "Trade commodities of Mecca"
+        "It marks the surah as belonging to the early Madinan period",
+        "It draws the listener's attention to the gravity of what follows",
+        "It establishes a legal ruling concerning agricultural produce",
+        "It commands the reader to fast from these specific fruits"
       ],
-      "correctAnswer": "Symbols of lands blessed by revelation and sacred geography",
-      "explanation": "Scholars like Allamah Tabatabai note that At-Tin (the fig) and Az-Zaytun (the olive) are not merely fruits but symbols of lands blessed by revelation. Many classical commentators link these to regions associated with prophets: the fig is connected to Damascus (where Prophet Yahya preached) and the olive to Jerusalem (linked to Prophet Isa), though some traditions also associate them with Kufa and Medina, centers of Islamic guidance tied to the Ahlul Bayt."
+      "correctAnswer": "B",
+      "explanation": "Layer 1 explains that in Arabic rhetoric an oath is used to draw attention to the gravity of what follows, and Allah swears by things that carry profound significance. The fig and olive signal that a tremendous truth about human nature is about to be unveiled."
     },
     {
       "id": "95_2",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 4,
-      "question": "In Tafsir al-Mizan, what does Allama Tabatabai say the phrase 'ahsan taqwim' (best of stature) encompasses?",
-      "options": [
-        "Only physical anatomical perfection",
-        "Both physical and metaphysical perfection, including spiritual capacity",
-        "Intellectual abilities alone",
-        "Social status in society"
-      ],
-      "correctAnswer": "Both physical and metaphysical perfection, including spiritual capacity",
-      "explanation": "Allama Tabatabai elucidates that the phrase 'ahsan taqwim' (best of stature) encompasses both the physical and metaphysical perfection of humanity. This 'stature' is not merely anatomical but signifies humanity's unique preparedness to bear the 'trust' (amana) of moral and theological responsibility, a concept central to Shia anthropology."
+      "verseNumber": 1,
+      "question": "True or false: Imam al-Tabari records that some early commentators, including Hasan al-Basri, Mujahid, and Ikrimah, held that al-tin and al-zaytun simply refer to the literal edible fruits known by these names.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Jami al-Bayan, Tabari notes that Hasan al-Basri, Ikrimah, Ata ibn Abi Rabah, Jabir ibn Zayd, Mujahid, and Ibrahim al-Nakhai held the oath refers to the two literal fruits, since this is the most natural meaning in Arabic."
     },
     {
       "id": "95_3",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 5,
-      "question": "According to contemporary scholar Ayatollah Nasir Makarem Shirazi, the 'lowest of the low' (95:5) refers only to physical decline and has no connection to spiritual or societal degradation.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Nasir Makarem Shirazi, in his Tafsir Nemuneh, emphasizes that the verse contrasts humanity's divine potential with its capacity for self-degradation when detached from ethical and spiritual purpose. Modern scholars extend this analysis, framing the 'lowest' state as a collapse into materialism, ecological exploitation, or systemic oppression—conditions reflecting a global crisis of meaning."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "According to Ibn Kathir, what is the significance of the word 'sinin' in the phrase 'Tur Sinin'?",
+      "options": [
+        "It is the name of a tribe that lived near the mountain",
+        "It refers to a specific type of stone found at Sinai",
+        "It is a Semitic word meaning blessed or good",
+        "It denotes the number of years Musa spent on the mountain"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir notes that sinin is a Semitic word meaning blessed or good. Some scholars treated it as a proper name while others as a descriptive adjective, yielding the meaning 'the blessed mountain' where Allah spoke to Musa."
     },
     {
       "id": "95_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching in Tafsir al-Qummi, what do the fig and olive symbolize in the Ahlul Bayt tradition?",
-      "options": [
-        "The Prophet's homeland and migration route",
-        "Imam Hasan and Imam Husayn as twin lights of guidance",
-        "Ancient prophets Noah and Abraham",
-        "The Kaaba and the Prophet's Mosque"
-      ],
-      "correctAnswer": "Imam Hasan and Imam Husayn as twin lights of guidance",
-      "explanation": "Imam Ja'far al-Sadiq (peace be upon him) taught that the fig symbolizes Imam Hasan (peace be upon him) and the olive represents Imam Husayn (peace be upon him), as narrated in Tafsir al-Qummi. These two blessed trees allude to the twin lights of guidance emerging from the Prophetic lineage, embodying the perfection of human creation mentioned later in the Surah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: The phrase 'al-balad al-amin' in verse three is unanimously identified by the classical Sunni scholars as referring to the city of Madinah.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Tabari, Ibn Kathir, and Qurtubi all record complete scholarly consensus that al-balad al-amin refers to Makkah al-Mukarramah, the city of security and the site of the Kaaba, not Madinah."
     },
     {
       "id": "95_5",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What does the Arabic phrase 'ahsani taqwim' in verse four convey about the human being?",
+      "options": [
+        "That humans are the strongest creatures physically",
+        "That humans were created in the best and most balanced stature",
+        "That humans will always remain in a state of perfection",
+        "That humans were the first creation Allah brought into existence"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Layer 1 explains that taqwim comes from the root q-w-m (to make upright and fittingly proportioned). The verse affirms that the human being is the most perfectly constituted of created beings in body, intellect, moral capacity, and spiritual receptivity."
+    },
+    {
+      "id": "95_6",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Sunni scholars (Tabari, Ibn Kathir) and Shia scholars (Tabatabai, Tabrisi) agree that the fig and olive symbolize sacred lands associated with prophetic history.",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Ibn Uthaymeen and other contemporary Sunni scholars stress that the pairing of iman with amal salih in verse six means that neither belief alone nor deeds alone is sufficient.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Classical scholars across traditions, including Tabari (Sunni) and Tabrisi (Shia), acknowledge the fig and olive as symbols of sacred lands or divine blessings. Many agree these refer to locations associated with prophetic history: Tabari and Al-Mizan (Tabatabai) both cite Jerusalem (Mount Zion) and its olive groves, while Ibn Kathir and Majma al-Bayan (Tabrisi) link them to Damascus and Mount Sinai, reflecting a shared reverence for Abrahamic holy sites."
+      "explanation": "Ibn Uthaymeen stressed that the combination implies neither is optional: a person cannot claim faith while persistently neglecting righteous action, nor substitute charitable deeds for genuine conviction of the heart. Wahbah al-Zuhayli echoes this as the accessible path of salvation."
+    },
+    {
+      "id": "95_7",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "Ibn Kathir cites a hadith reported on the authority of Abu Hurayra recommending what response when a reciter reaches 'alaysa Allahu bi-ahkami al-hakimin' at the end of the surah?",
+      "options": [
+        "Silence and prostration of recitation (sajdat al-tilawah)",
+        "Saying 'Subhan Allah' three times",
+        "Saying 'Bala wa ana ala dhalika min al-shahidin'",
+        "Repeating the entire surah from the beginning"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir cites the hadith narrated through Ahmad, Tirmidhi, Abu Dawud and others on the authority of Abu Hurayra that the Prophet instructed the reciter to say 'Bala wa ana ala dhalika min al-shahidin' (Yes indeed, and I am among those who bear witness to it)."
     }
   ]
 }

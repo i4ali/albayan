@@ -6,135 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to the tafsir, what does Allah challenge in Surah Al-Ankabut verse 2?",
+      "question": "What does the rhetorical question in verse 2 — 'Do people think they will be left to say we believe without being tested?' — communicate to the early Muslim community in Mecca?",
       "options": [
-        "Whether people pray five times a day",
-        "Whether people think declaring faith is enough without facing trials",
-        "Whether people give charity regularly",
-        "Whether people fast during Ramadan"
+        "A) That faith is a purely private matter requiring no outward demonstration",
+        "B) That trials are not punishments but the very nature of meaningful faith, which must be proven through lived experience",
+        "C) That only spiritually weak believers face severe trials",
+        "D) That the Meccan persecutions were a temporary exception and not a recurring divine pattern"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse challenges the misconception that merely declaring 'We believe' with one's tongue will suffice without being tested through life's trials. True belief requires proving sincerity through action and perseverance."
+      "explanation": "The tafsir of verse 2 explains that fitna (trial) is not divine punishment but a fundamental law of existence for believers. Faith is not merely a verbal declaration but a reality that must be proven through lived experience — a truth that directly addressed early Muslims being tortured in Mecca for their profession of Islam."
     },
     {
       "id": "29_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 41,
-      "question": "According to the tafsir, the spider's web parable in verse 41 symbolizes the strength and reliability of worldly protections.",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: Ibn Kathir records a hadith in which the Prophet stated that the people who face the most severe trials are the prophets, then those nearest to them in piety, with the degree of trial proportionate to the strength of one's faith.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The spider's web parable symbolizes the fragility and weakness of seeking protection from false powers. While a spider's web appears delicately crafted, it is fundamentally fragile and unable to withstand even a breeze, representing the futility of relying on anything besides Allah."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites this hadith from Tirmidhi and Ibn Majah on the authority of Musab ibn Sad from his father. The Prophet taught that prophets face the hardest trials, then those next to them in religion, with the severity of trial scaling with the firmness of one's faith — establishing verse 2 as a sunna of Allah toward all believers."
     },
     {
       "id": "29_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Allamah Tabatabai in Al-Mizan, what does the term 'yuftanun' (derived from 'fatana') signify?",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, describes the double emphatic construction in verse 3 — 'He will surely make evident the truthful and He will surely make evident the liars' — as serving what function for the community of believers?",
       "options": [
-        "To reward with blessings",
-        "To refine gold by fire - spiritual purification",
-        "To punish the wicked",
-        "To abandon faith"
+        "A) It warns that Allah will publicly expose private sins before the Day of Judgment",
+        "B) It indicates divine testing is relevant only to the first Meccan generation of Muslims",
+        "C) It guarantees that no one can indefinitely maintain false faith under sustained testing, serving as a natural purification and clarification of the believers' ranks",
+        "D) It promises that sincere Muslims will be exempted from all worldly hardship"
       ],
-      "correctAnswer": "B",
-      "explanation": "The key term 'yuftanun' derives from the root 'fatana', meaning to refine gold by fire. Trials are thus framed not as punishment but as spiritual purification, as Imam Ali taught: 'Faith is tested like gold is tested by fire.'"
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran observes that the double emphatic verbs signal a guaranteed outcome: no one can permanently sustain a false appearance of faith under real testing. This functions as a continuous purification that strengthens and clarifies the community of believers in every generation."
     },
     {
       "id": "29_4",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 41,
-      "question": "According to Shia exegesis, the spider's web metaphor only refers to physical idol worship in pre-Islamic Arabia.",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "True or false: Verse 8 of Surah Al-Ankabut commands believing children to obey their parents in all matters, including demands to abandon Islamic monotheism.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Tabatabai explains that the verse critiques not merely polytheism but any form of shirk in tawhid al-uloohiyyah (oneness of worship). This includes seeking guidance or protection outside the framework of Allah and His appointed representatives, the Ahl al-Bayt."
+      "explanation": "Verse 8 commands beautiful, wholehearted kindness toward parents in all permissible affairs, but sets an absolute limit: a believing child must not obey parents who strive to make them commit shirk. Imam Qurtubi notes this verse is a primary proof-text for the rule that there is no obedience to any created being in disobedience to the Creator."
     },
     {
       "id": "29_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 41,
-      "question": "According to contemporary scholar Ayatollah Naser Makarem Shirazi, what do modern 'idols' include?",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "Imam Tabari records in Jami al-Bayan that verse 8 was revealed in connection with which companion, whose mother threatened to starve herself to pressure him into abandoning Islam?",
       "options": [
-        "Only physical statues",
-        "Materialism, hyper-capitalism, and authoritarian regimes",
-        "Only religious icons",
-        "Traditional cultural symbols"
+        "A) Bilal ibn Rabah",
+        "B) Ammar ibn Yasir",
+        "C) Saad ibn Abi Waqqas",
+        "D) Khabbab ibn al-Arat"
       ],
-      "correctAnswer": "B",
-      "explanation": "Ayatollah Shirazi emphasizes that the verse critiques any reliance on systems or ideologies divorced from divine principles. Modern scholars expand this to address today's 'idols' of materialism, hyper-capitalism, or authoritarian regimes that promise security but collapse under crisis."
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records in Jami al-Bayan, confirmed by Ibn Kathir citing Sahih Muslim, that the verse was revealed concerning Saad ibn Abi Waqqas — one of the ten companions promised Paradise — whose mother Hamna threatened to fast to death upon learning of his conversion. Saad held firm to his faith while continuing to care for her."
     },
     {
       "id": "29_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "How do contemporary Shia scholars interpret Prophet Ibrahim's hijrah (migration) in verse 26?",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "What is the primary reason Surah Al-Ankabut specifies that Prophet Nuh preached to his people for 950 years before the flood?",
       "options": [
-        "Only as a historical event of no modern relevance",
-        "As a metaphor for leaving oppressive systems to seek divine purpose",
-        "As a journey for economic prosperity",
-        "As abandoning all worldly responsibilities"
+        "A) To prove that pre-Flood humanity possessed a different calendar system",
+        "B) To establish a legal precedent limiting all subsequent prophetic missions to under a thousand years",
+        "C) To encourage the Prophet Muhammad and early Muslims that perseverance over very long periods is a genuine prophetic virtue, and their decade of Meccan hardship was bearable in comparison",
+        "D) To show that divine punishment is reliably delayed by approximately nine centuries"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Sayyid Kamal al-Haydari interpret Ibrahim's hijrah as a timeless metaphor for leaving oppressive systems - whether ideological, political, or environmental - to seek alignment with divine purpose, including a call to ethical and intellectual migration from complacency to conscious action."
+      "correctAnswer": "C",
+      "explanation": "The tafsir of verse 14 explains that citing Nuh's 950-year mission was a direct message to early Muslims enduring roughly a decade of persecution in Mecca. If Nuh could persevere for nearly a millennium with little response, the early Muslim community's trials could be borne with patient trust in Allah's ultimate vindication."
     },
     {
       "id": "29_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to Imam Ja'far al-Sadiq (AS), what does the spider's web symbolize in relation to Wilayah?",
-      "options": [
-        "The strength of material attachments",
-        "The fragility of worldly attachments and false beliefs divorced from divine guardianship",
-        "The beauty of earthly possessions",
-        "The permanence of worldly success"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (AS) explains that the spider's web symbolizes the fragility of worldly attachments and false beliefs spun by those who reject divine Wilayah (guardianship). Hearts disconnected from the Imams' guidance lack spiritual resilience."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "True or false: Imam al-Qurtubi connects the 950-year duration of Nuh's mission to the theological principle that Allah does not destroy a people until He has given them every possible opportunity for repentance.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Qurtubi in Al-Jami li-Ahkam al-Quran explains the extended mission as a demonstration of divine mercy: Allah provides maximum opportunity for repentance before punishment arrives. The flood was the just consequence after centuries of rejection, not an arbitrary act, which is why the verse specifies that it seized them 'while they were wrongdoers.'"
     },
     {
       "id": "29_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to the Ahlul Bayt, trials are divine mercies meant to elevate the soul and distinguish true believers from those with superficial faith.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Ahlul Bayt taught that trials are divine mercies meant to elevate the soul, distinguishing true believers from those whose faith is superficial. Imam Ali (AS) states: 'The believer is tried in proportion to his faith, for faith is like a tree that grows only through rainfall of hardships.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 15,
+      "question": "Wahbah al-Zuhayli notes in Al-Tafsir al-Munir that the description of Nuh's ark as 'a sign for the worlds' (ayatan lil-aalameen) communicates which dimension of the Quranic narrative?",
+      "options": [
+        "A) The story of Nuh is a tribal Arab memory with no wider relevance",
+        "B) The ark's construction represents the height of pre-Islamic engineering",
+        "C) The story of Nuh is a universal inheritance relevant to every age, because the human choice between faith and rejection recurs in every generation",
+        "D) The sign refers exclusively to physical remains of the ark still visible on a mountain"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir highlights 'lil-aalameen' as signaling the universal communicative dimension of the narrative. Nuh's story is not a limited tribal memory but a sign that transcends time, since the fundamental human choice between faith and rejection is repeated in every age and civilization."
     },
     {
       "id": "29_9",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 1,
       "verseNumber": 41,
-      "question": "What is a key difference between Shia and Sunni interpretations of the spider's web parable?",
+      "question": "Verse 41 gives Surah Al-Ankabut its name. What makes the spider's web the Quran's chosen image for those who take protectors besides Allah?",
       "options": [
-        "Sunni scholars completely reject the parable",
-        "Shia scholars view it only as referring to ancient idolatry",
-        "Shia exegetes extend the metaphor to include opposing the divinely appointed Imams, while Sunni commentators focus on general shirk and idolatry",
-        "There is no difference between the two traditions"
+        "A) A spider's web is difficult to see, symbolizing hidden shirk",
+        "B) A spider's web is the weakest of all structures — easily destroyed in an instant — showing that any system of protection built on other than Allah offers no real shelter",
+        "C) The spider is considered sacred in Arabian tradition, making the comparison all the more striking",
+        "D) A spider's web traps enemies, symbolizing how false deities entrap their worshippers"
       ],
-      "correctAnswer": "C",
-      "explanation": "Shia commentators extend the 'false allies' metaphor to include political and spiritual misguidance opposing the divinely appointed Imams, reflecting the Shia emphasis on Wilayah. Sunni commentators like Ibn Kathir focus more broadly on warning against shirk and idolatry prevalent in pre-Islamic Arabia."
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 41 explains that despite its elaborate appearance, a spider's web is 'awhan al-buyut' (the weakest of houses) — a single breath of wind or human hand destroys it instantly. This captures the fundamental frailty of any protection, provision, or security sought from other than Allah, however sophisticated it may appear."
     },
     {
       "id": "29_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "Both Shia and Sunni scholars agree on which core theme regarding Prophet Ibrahim's migration in verse 26?",
+      "layer": 2,
+      "verseNumber": 41,
+      "question": "Ibn Kathir highlights the phrase 'if only they knew' at the end of verse 41. What does this closing phrase reveal about the nature of shirk according to his analysis?",
       "options": [
-        "That migration was a sign of weakness",
-        "That hijrah represents complete reliance on divine wisdom and supporting truth amid societal corruption",
-        "That Ibrahim was fleeing from responsibility",
-        "That Lut disagreed with Ibrahim's decision"
+        "A) It suggests the polytheists were genuinely uncertain whether their idols had power",
+        "B) It implies the polytheists' error was rooted in ignorance rather than informed choice — had they truly understood reality, they could not have chosen such a fragile foundation",
+        "C) It indicates that knowledge of the spider's biology is required to understand the parable",
+        "D) It shows that Allah withheld guidance from the polytheists as a form of punishment"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Shia and Sunni exegetes converge on the core themes of prophetic solidarity and migration as an act of devotion. They emphasize Lut's unwavering faith in Ibrahim's mission and Abraham's declaration of migration as a paradigm of complete reliance on divine wisdom."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim interprets 'law kanu ya'lamun' (if only they knew) as indicating that the polytheists' error was rooted in ignorance rather than conscious choice. Had they genuinely understood the nature of reality and of Allah's power, they could not have willingly chosen such a structurally frail foundation for their lives."
+    },
+    {
+      "id": "29_11",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 41,
+      "question": "True or false: Sheikh Muhammad al-Sha'rawi observed that the spider's web parable also points to the deceptive appearance of false security — the web looks complete and purposeful from a distance, just as false beliefs can appear coherent until tested by the realities of life and death.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Muhammad al-Sha'rawi drew attention to this dimension of the parable: from a distance a spider's web appears purposefully structured and complete, just as false belief systems can appear internally coherent and comprehensive — until subjected to the actual weight of mortality, meaning, and divine accountability."
+    },
+    {
+      "id": "29_12",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 45,
+      "question": "Verse 45 uses the word 'aqim' (establish) for prayer rather than simply 'pray.' What does the tafsir explain about why this word choice matters for understanding how prayer prevents immorality?",
+      "options": [
+        "A) 'Aqim' restricts the command to the five obligatory prayers only, excluding all other forms of devotion",
+        "B) The word signals that prayer can be satisfied by a brief mental intention without physical postures",
+        "C) 'Aqim' implies prayer that is upright, complete, and performed with presence of heart — a living practice, not a hurried ritual — because only such prayer carries the preventive power over the soul described in the verse",
+        "D) The term was chosen for poetic rhythm rather than for any theological significance"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The tafsir of verse 45 explains that 'aqim' (establish) deliberately signals prayer that is properly rooted, regular, and spiritually attentive. Wahbah al-Zuhayli in Al-Tafsir al-Munir stresses that this is the kind of prayer that is transformative rather than merely ritual — and it is this quality of prayer that produces the character change described as preventing fahsha and munkar."
+    },
+    {
+      "id": "29_13",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 45,
+      "question": "True or false: Ibn Kathir cites a report attributed to Ibn Masud stating that whoever's prayer does not command him toward good and forbid him from evil has a prayer that only increases his distance from Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records this statement in his tafsir of verse 45, reinforcing that the ethical transformation described in the verse is not automatic. A prayer that produces no moral improvement indicates a deficiency in the prayer's quality or sincerity — the outer form exists but the animating reality is absent."
+    },
+    {
+      "id": "29_14",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 65,
+      "question": "Sayyid Qutb calls verse 65 — where polytheists call sincerely on Allah alone during a storm at sea, then return to shirk on dry land — an example of what phenomenon?",
+      "options": [
+        "A) Proof that polytheists secretly believed in Islam and would have accepted it under better conditions",
+        "B) 'Crisis monotheism' — the universal human tendency to discover genuine religious sincerity only at the edge of death, while forgetting Allah in times of ease",
+        "C) Evidence that sea voyages were spiritually purifying experiences in Arabian culture",
+        "D) A demonstration that sincere du'a during danger automatically leads to permanent faith"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran uses verse 65 to describe 'crisis monotheism' — the recurring human pattern of discovering sincerity only at mortal extremity while abandoning it in comfort. He notes this is not limited to seventh-century polytheists but appears in every culture and age, and he challenges every reader to examine whether their own worship is reserved for crisis moments."
+    },
+    {
+      "id": "29_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 69,
+      "question": "The closing verse of Surah Al-Ankabut promises that 'those who strive for Us, We will surely guide them to Our ways.' How does Ibn Kathir interpret the scope of 'those who strive for Us' (jahadu fina)?",
+      "options": [
+        "A) The striving refers exclusively to armed defensive struggle in protection of the Muslim community",
+        "B) It applies only to scholars and jurists engaged in formal religious study",
+        "C) It encompasses every sincere effort made for Allah's pleasure — personal purification, seeking knowledge, worship, resisting one's lower impulses, and patient endurance of trials",
+        "D) The verse promises guidance exclusively to those who fulfill all five pillars without any deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim is explicit that the striving in verse 69 is not limited to armed struggle but covers the full range of sincere efforts made for Allah's pleasure. He records that Imam Ahmad ibn Hanbal and the scholars of the Salaf viewed sincerity (ikhlas) as the key that unlocks the divine guidance promised in this verse."
     }
   ]
 }

@@ -5,266 +5,236 @@
       "id": "27_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 18,
-      "question": "In verse 27:18, what warning did the ant give to its community when Prophet Sulayman's army approached?",
+      "verseNumber": 1,
+      "question": "The opening verse of Surah An-Naml pairs two apparently contrasting qualities to describe the Quran. What are those two qualities and why is their pairing theologically significant?",
       "options": [
-        "To prepare for war against the army",
-        "To enter their dwellings to avoid being crushed",
-        "To offer gifts to Prophet Sulayman",
-        "To flee to another valley"
+        "A. Guidance and warning — because believers need both hope and fear to remain on the straight path",
+        "B. Mystery and clarity — the muqattaat letters humble the intellect while 'kitab mubeen' reassures the heart that divine guidance is genuinely accessible to every believer",
+        "C. Arabic and universal — because the Quran speaks to all humanity in a single revealed language",
+        "D. Historical and prophetic — because it records past events as evidence for future promises"
       ],
       "correctAnswer": "B",
-      "explanation": "The ant warned its community to enter their dwellings so they would not be crushed unknowingly by Sulayman's forces, showing the ant's wisdom and care for its community."
+      "explanation": "Wahbah al-Zuhayli notes in Al-Tafsir al-Munir that the pairing is deliberate: the mysterious opening letters (Ta-Sin) humble human intellect, while 'kitab mubeen' reassures the believer that guidance is accessible and not the exclusive domain of an elite. The juxtaposition of mystery and clarity is itself a pedagogical device inviting engaged humility."
     },
     {
       "id": "27_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 13,
-      "question": "According to the tafsir, Pharaoh rejected Musa's miracles because he genuinely could not understand them.",
+      "verseNumber": 9,
+      "question": "When Allah addressed Moses at the burning bush in verse 9, the two names 'Al-Aziz' and 'Al-Hakim' were deliberately chosen to prepare him psychologically for his mission — the first giving him certainty about the undefeatable power backing him, and the second assuring him that his sending was part of a wise and purposeful plan.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Pharaoh's rejection was not from ignorance but from arrogance and his attachment to power. His denial stemmed from moral failure rather than genuine doubt."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explains that Al-Aziz assured Moses that the One sending him could not be overpowered, making Pharaoh's might irrelevant, while Al-Hakim assured him the mission rested on perfect divine wisdom rather than arbitrary command. Muhammad al-Sha'rawi observed that this pairing appears across the Quran precisely where both authority and wise purpose need to be affirmed together."
     },
     {
       "id": "27_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 23,
-      "question": "How did the hoopoe describe Queen Bilqis's rule to Prophet Sulayman?",
+      "layer": 2,
+      "verseNumber": 10,
+      "question": "Classical scholars noted an apparent difference between Surah An-Naml's use of 'jann' for Moses's transformed staff and other Quranic passages using 'thu'ban'. How did Ibn Kathir and al-Tabari reconcile this difference?",
       "options": [
-        "She was a weak ruler with no authority",
-        "She was a woman who ruled her people and had a great throne",
-        "She was a tyrant who oppressed her people",
-        "She had already converted to monotheism"
+        "A. One account is metaphorical and one is literal, referring to two separate events in Moses's prophetic career",
+        "B. The creature was enormous in body but moved with the rapid darting motion of a small snake, making both descriptions simultaneously accurate from different perspectives",
+        "C. 'Jann' and 'thu'ban' are synonyms in classical Arabic and were used interchangeably without meaningful distinction",
+        "D. The two accounts describe separate miracles granted to Moses at different points before his confrontation with Pharaoh"
       ],
       "correctAnswer": "B",
-      "explanation": "The hoopoe described Bilqis as a capable ruler with political authority, material wealth, and a great throne, highlighting her exceptional sovereignty."
+      "explanation": "Al-Tabari records that Ibn Abbas, Mujahid, and others held the creature was large in size yet moved with the speed and agility of a small serpent. Ibn Kathir affirms this reconciliation in his tafsir, demonstrating that both Quranic terms describe the same miracle accurately — 'thu'ban' describing its size and 'jann' describing its motion."
     },
     {
       "id": "27_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 19,
-      "question": "What was Prophet Sulayman's reaction when he heard the ant's warning to its community?",
-      "options": [
-        "He became angry at the ant",
-        "He smiled and then prayed to Allah in gratitude",
-        "He ignored the ant completely",
-        "He ordered his army to stop immediately"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sulayman smiled in amusement and wonder at Allah's design, then turned to gratitude and supplication, showing his humility despite his immense power."
+      "verseNumber": 15,
+      "question": "When Allah bestowed knowledge upon David and Solomon, their immediate response was to claim personal superiority over all other human beings.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 15 records their response as 'Praise be to Allah who has preferred us above many of His believing servants' — a model of gratitude and humility, not pride. Imam al-Qurtubi draws the lesson that shukr al-nima (gratitude for blessings) is an obligation, and both prophet-kings modeled it perfectly by making praise of Allah their immediate and spontaneous response."
     },
     {
       "id": "27_5",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 13,
-      "question": "According to Tabrisi in Majma al-Bayan, Musa's miracles (like the staff-serpent and radiant hand) were ambiguous and left room for doubt.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Tabrisi emphasizes that Musa's signs were mubsirat (clear/visible) and left no room for doubt. Their dismissal as 'obvious magic' was an act of deliberate falsehood rooted in arrogance."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 16,
+      "question": "What did Wahbah al-Zuhayli observe in Al-Tafsir al-Munir about the Quran's depiction of Sulayman being taught 'mantiqa al-tayr' — the speech of birds?",
+      "options": [
+        "A. He dismissed the literal reading as a pre-modern folk tradition and preferred an entirely allegorical interpretation about wisdom and leadership",
+        "B. He argued that modern ornithology proves birds have no meaningful communication, making the verse purely symbolic",
+        "C. He noted that the Quran's characterization of animal communication as purposeful 'qawl' (speech) anticipates what modern ethology has confirmed about the information-rich nature of non-human communication",
+        "D. He concluded that only the Prophet Muhammad, and not Solomon, was given the miraculous ability to understand animals"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir observed that the Quran's treatment of bird speech as genuine purposeful qawl aligns with modern scientific understanding that animal communication systems convey real information. Rather than being a pre-scientific claim, the Quranic account finds resonance in contemporary ethology's confirmation of complex non-human communication."
     },
     {
       "id": "27_6",
       "type": "multipleChoice",
-      "layer": 2,
+      "layer": 1,
       "verseNumber": 18,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the ant's speech demonstrate about creation?",
+      "question": "When the ant warned her colony about Solomon's approaching army, she added the phrase 'while they do not perceive it.' What moral principle did Muhammad al-Sha'rawi find embedded in this charitable excuse?",
       "options": [
-        "That ants are more intelligent than humans",
-        "That creation, even in its smallest forms, operates under divine guidance",
-        "That animals should rule over humans",
-        "That Prophet Sulayman's kingdom was too large"
+        "A. That collective punishment is unjust even when harm is technically unavoidable given the size of the army",
+        "B. That small creatures are wiser than large armies and prophets should heed their counsel",
+        "C. Husn al-dhann — giving others the benefit of the doubt by assuming ignorance rather than malice — a principle the Quran presents through the instinctive speech of a tiny creature as a model for human community ethics",
+        "D. That the ant was warning her colony to prepare an armed defence against the approaching forces"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai highlights that the ant's speech demonstrates God's universal wisdom - creation, even in its smallest manifestations, operates under divine guidance."
+      "correctAnswer": "C",
+      "explanation": "Muhammad al-Sha'rawi highlighted in his tafsir commentary that 'they do not perceive' is the ant's generous charitable interpretation of the army — she attributes no malice, only unawareness. He read this as the Quran embedding the principle of husn al-dhann even in instinctive creature speech, showing how deep this ethic runs through divine teaching."
     },
     {
       "id": "27_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 29,
-      "question": "What term did Queen Bilqis use to describe Prophet Sulayman's letter, according to classical Shia exegesis?",
-      "options": [
-        "A threatening message",
-        "Kitab karim (noble letter)",
-        "A royal decree",
-        "A war declaration"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Bilqis described the letter as 'kitab karim' (noble letter), which Tabatabai interprets as a symbol of divine wisdom and the inherent nobility of prophetic communication."
+      "verseNumber": 19,
+      "question": "According to Ibn Kathir, Solomon's prayer in verse 19 — 'My Lord, enable me to be grateful for Your favor' — demonstrates that even at the height of his kingdom Solomon understood gratitude to be something requiring divine enablement rather than a natural achievement of human willpower.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir connects Solomon's prayer to the Quran's broader pattern of prophet-kings seeking Allah's help even in acts of worship and gratitude. He notes the verb 'awzi'ni' (inspire me, enable me) signals that Solomon recognized shukr itself as dependent on Allah's tawfiq, contrasting sharply with Pharaoh's arrogance in claiming independent self-sufficiency."
     },
     {
       "id": "27_8",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 14,
-      "question": "According to Al-Mizan, the rejection of divine signs despite inner certainty is described as zulm (injustice) and uluww (haughtiness).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai explains that those who rejected divine signs despite possessing inner conviction did so due to zulm (injustice) and uluww (haughtiness), not from genuine doubt."
+      "verseNumber": 20,
+      "question": "According to Ibn Kathir, drawing on a narration from Ibn Abbas, why did Solomon notice the absence of the hoopoe so immediately among his vast forces of men, jinn, and birds?",
+      "options": [
+        "A. The hoopoe was the largest and most prominent bird in Solomon's army and its absence was visually obvious",
+        "B. The hoopoe held a unique strategic function as a water-finder, able to detect underground water sources, making its absence operationally critical in arid terrain",
+        "C. Solomon conducted a ceremonial daily roll-call of every creature in his army as a matter of royal protocol",
+        "D. Another senior bird in the army formally reported the hoopoe missing through the established chain of command"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records the widely transmitted narration from Ibn Abbas that the hoopoe could see water beneath the earth's surface as if through transparent glass. Solomon's armies depended on the hoopoe to locate underground water when traversing waterless terrain. This is why the absence of one small bird was immediately critical and noticed — it was an indispensable strategic asset, not merely one soldier among many."
     },
     {
       "id": "27_9",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 24,
-      "question": "According to contemporary scholars like Ayatollah Makarim Shirazi, what modern phenomenon does the sun worship in verse 27:24 parallel?",
-      "options": [
-        "Scientific advancement",
-        "Religious diversity",
-        "Materialism, hyper-consumerism, and scientism",
-        "Environmental protection"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars interpret sun worship as a timeless caution against idolizing transient forces, whether literal or modern substitutes like materialism, hyper-consumerism, or scientism."
+      "verseNumber": 21,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran argues that the conditional exception in verse 21 — 'unless he brings a clear authorization' — establishes that in a prophetically governed community, no member, however small, can be condemned without an opportunity to present a valid justification.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb observes that the Quran zooms from the cosmic breadth of Solomon's kingdom down to the single absent bird, demonstrating that divine governance accounts for every creature. The conditional 'unless he brings a clear reason' models just authority: firm in accountability but grounded in due process and fairness before any punishment is executed."
     },
     {
       "id": "27_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 18,
-      "question": "Modern scientific studies on ant communication have validated the Quranic depiction of their societal complexity and community awareness.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Studies on ant communication, such as pheromone signals and collective problem-solving, align with the Quranic view of creation as inherently purposeful and support ecological ethics."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "Upon hearing the hoopoe's report about the Queen of Sheba and her sun-worshipping people, what was Solomon's response, and what Islamic governance principle does verse 27 illustrate?",
+      "options": [
+        "A. He immediately mobilized his armies to confront the sun-worshippers, demonstrating the decisive authority of a prophet-king",
+        "B. He rewarded the hoopoe generously and deployed it as a long-term intelligence agent",
+        "C. He said 'We will see whether you have told the truth or are one of the liars,' choosing to verify before acting — modeling the principle of tathabbut (verification before action)",
+        "D. He dismissed the report as fantastical and returned the hoopoe to regular patrol duties"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Qurtubi draws the fiqh principle that a ruler must verify reports before acting, especially when the consequences are major. Wahbah al-Zuhayli connects this directly to the Quranic command in Surah al-Hujurat to verify news before acting upon it, identifying Solomon's response as the Quranic archetype for the principle of tathabbut in governance and jurisprudence."
     },
     {
       "id": "27_11",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 34,
-      "question": "How do contemporary Shia scholars interpret Queen Bilqis's warning about kings entering cities and ruining them?",
+      "verseNumber": 28,
+      "question": "Sayyid Qutb saw a revealing contrast between the option Solomon's power would have allowed and his actual choice in verse 28. What did this contrast disclose about the Quranic model of engaging with non-Muslim peoples?",
       "options": [
-        "As outdated historical commentary",
-        "As a critique of authoritarian power structures and systemic oppression",
-        "As support for monarchical systems",
-        "As irrelevant to modern politics"
+        "A. It showed that military force is the preferred first option in Islam when dealing with peoples who have not accepted monotheism",
+        "B. It demonstrated that prophetic wisdom prioritizes invitation and dialogue before any resort to force — sending a single letter rather than an overwhelming army as the first point of contact",
+        "C. It proved that small diplomatic messengers like birds are inherently more persuasive than human ambassadors in negotiations with foreign rulers",
+        "D. It revealed that Solomon was uncertain of his military superiority and used correspondence as a cautious contingency"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Makarim Shirazi interpret this as a timeless critique of authoritarian power structures and their corrosive impact on societies, relevant to modern issues of systemic oppression."
+      "explanation": "Sayyid Qutb writes with admiration that Solomon — commanding armies of humans, jinn, birds, and wind — chose a letter carried by a single bird as his opening contact with a foreign civilization. Qutb reads this as the Quran's model of Islamic international relations: communication and invitation before force, standing in contrast to empires that led with conquest. Ibn Kathir notes this foreshadows the Prophet Muhammad's own practice of sending letters to Heraclius and Khusraw before any military engagement."
     },
     {
       "id": "27_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 19,
-      "question": "According to contemporary scholarship, Prophet Sulayman's dua in verse 27:19 offers what lesson for modern leaders?",
-      "options": [
-        "To accumulate more power and wealth",
-        "To ignore the small and insignificant",
-        "To balance power with piety and transform privilege into service",
-        "To avoid consultation with advisors"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars emphasize that Sulayman's prayer models the balance of power and piety, challenging leaders to transform privilege into service rather than domination."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 44,
+      "question": "When Bilqis finally declared her faith in verse 44, she simply stated 'I believe' without any acknowledgment of her prior spiritual error.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 44 records her full declaration: 'My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.' Imam al-Qurtubi analyzes this as a complete act of faith containing three elements: acknowledgment of past error, present submission, and identification with the community of believers. He notes that genuine conversion in the Quranic framework always involves honest recognition of prior wrongdoing, not merely a positive profession."
     },
     {
       "id": "27_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 18,
-      "question": "According to Imam Jafar al-Sadiq (as) in Tafsir al-Qummi, what does the ant represent spiritually?",
+      "layer": 2,
+      "verseNumber": 45,
+      "question": "Imam al-Qurtubi identified a specific narrative function for verse 45 being placed immediately after the story of Bilqis's conversion. What is that function?",
       "options": [
-        "A mindless creature following instinct",
-        "The humble believer who warns others to seek refuge in the Imams' guidance",
-        "A symbol of worldly attachment",
-        "An example of disobedience to divine authority"
+        "A. It introduces a chronological clarification showing that Salih preceded Solomon historically",
+        "B. It serves as a structural hinge contrasting successful guidance — the foreign queen who embraced truth — with tragic rejection — the Thamud who had a prophet from their own people yet split into conflict, illuminating by contrast what determines a community's response to divine guidance",
+        "C. It shifts the surah from narrative to legal passages about the punishment of idolaters",
+        "D. It establishes a genealogical link between the people of Sheba and the ancient tribe of Thamud"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam al-Sadiq explains that the ant represents the humble believer who warns others to enter the sanctuary of the Imams' guidance, protecting them from spiritual destruction."
+      "explanation": "Al-Qurtubi describes this verse as a narrative hinge between contrasting stories. Sayyid Qutb calls it a characteristic Quranic technique: juxtaposing successful and failed guidance to illuminate, by contrast, the moral and spiritual conditions behind each outcome. Bilqis, a foreigner to faith, embraced it after honest inquiry; Thamud had a prophet from their own tribe yet fell into bitter division — the same divine call producing radically different responses."
     },
     {
       "id": "27_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 19,
-      "question": "According to the Ahlul Bayt's teachings, gratitude (shukr) is merely verbal thanks that does not require aligning actions with divine will.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "The Ahlul Bayt teach that true gratitude arises from recognizing Allah's blessings through divine guidance and requires aligning one's entire existence with Allah's will through righteous action."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 50,
+      "question": "Verse 50 records that the nine conspirators 'planned a plan, and We planned a plan, while they perceived not.' What lesson did Ibn Uthaymeen draw from the phrase 'while they perceived not'?",
+      "options": [
+        "A. That evil people are always physically impaired and literally cannot see the consequences approaching them",
+        "B. That divine counter-plans are deliberately kept completely secret so that human beings have no opportunity to resist them",
+        "C. That confidence in the success of an evil scheme is itself a sign of having been abandoned by divine guidance — those whom Allah has left to stray cannot perceive the counter-plan being prepared against them",
+        "D. That Solomon's response was so swift that the conspirators simply had no time to observe the approaching punishment"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Uthaymeen observed in his commentary that 'while they perceived not' carries a double warning: it describes the plotters' blindness to Allah's response in that moment, and it teaches that confident obliviousness to divine counter-action is the distinguishing mark of those whom Allah has left to stray. Their certainty in the success of their plan was not shrewdness but the very symptom of spiritual abandonment."
     },
     {
       "id": "27_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 24,
-      "question": "According to Imam Sadiq (as), what does the 'sun' that people worshipped represent beyond literal idolatry?",
-      "options": [
-        "Only physical sun worship",
-        "Any 'false light' that distracts from the Pure Light (nur) of the Imams",
-        "Scientific enlightenment",
-        "Seasonal celebrations"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Sadiq explains that the 'sun' represents any metaphorical false light that distracts from the Pure Light (nur) of the Imams, who are the true guides to Tawhid."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 56,
+      "question": "The people of Lot used the phrase 'people who keep themselves pure' as a genuine compliment when demanding the expulsion of Lot's household from their city.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir explains that 'yatatahharun' (keep themselves pure) was spoken sarcastically — the people of Lot had inverted their moral categories so completely that they wielded purity as a taunt and a justification for exile. Al-Tabari records that the construction 'ma kana jawabahum illa' (their answer was nothing except) emphasizes this mockery was the entirety of their response — they could not refute Lot's message intellectually and resorted to social coercion."
     },
     {
       "id": "27_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 34,
-      "question": "According to Lady Fatimah (as), the Imamah is described as 'the pole of the Quran's orbit' in the teachings of the Ahlul Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Lady Fatimah proclaimed that 'The Imamah is the pole of the Quran's orbit' (Bihar al-Anwar), emphasizing that true honor lies in submission to the Imam's spiritual authority."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 60,
+      "question": "Verse 60 opens a series of five consecutive rhetorical questions (verses 60-64) about divine sovereignty over creation, known as the 'amman verses.' According to Ibn Kathir, what classical Arabic device is the Quran deploying in these questions?",
+      "options": [
+        "A. Tashbih — comparing Allah's creative power to familiar natural forces so the concept is easier to grasp",
+        "B. Al-istifham al-inkari — rhetorical negation-questions that do not seek information but compel the listener to acknowledge what their own innate fitrah already recognizes as true",
+        "C. Iltifat — a deliberate grammatical shift between persons to heighten dramatic impact on the audience",
+        "D. Qasam — taking a sworn oath by natural phenomena to establish the certainty of resurrection"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir identifies these as al-istifham al-inkari — rhetorical questions expecting an obvious answer already known to the listener. He connects this to the fitrah: even the Quraysh polytheists implicitly acknowledged Allah as creator, as confirmed in verse 63 of the same surah. The questions do not introduce new data; they compel the listener to confront what their own nature already recognizes, making continued denial self-contradictory."
     },
     {
       "id": "27_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 18,
-      "question": "What is a key difference between Shia and Sunni interpretations of the 'valley of ants' narrative?",
+      "layer": 3,
+      "verseNumber": 66,
+      "question": "Verse 66 describes the disbelievers' rejection of the Hereafter through three escalating stages: arrested knowledge, then doubt, then complete blindness. Which contemporary Sunni scholar mapped this triple structure onto the modern philosophical progression from agnosticism through skepticism to outright denial of the transcendent?",
       "options": [
-        "Sunni scholars deny the miracle occurred",
-        "Shia exegesis sees symbolic allusions to the Ahl al-Bayt's role as 'living signs'",
-        "Sunni scholars emphasize Imamate in this verse",
-        "There is no difference between the interpretations"
+        "A. Ibn Uthaymeen, in his recorded eschatology lessons",
+        "B. Wahbah al-Zuhayli in Al-Tafsir al-Munir, identifying the verse's structure as exposing the epistemological failure of materialist worldviews that categorically deny any reality beyond the physical",
+        "C. Mufti Muhammad Shafi in his Ma'arif al-Quran",
+        "D. Abdul Rahman al-Saadi in his Taysir al-Karim al-Rahman"
       ],
       "correctAnswer": "B",
-      "explanation": "While Sunni interpretations focus on prophetic contexts, Shia exegesis often sees in such verses allusions to the Ahl al-Bayt's status as living 'signs' and guides."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir specifically maps the Quran's three-stage structure onto the modern philosophical progression from agnosticism to skepticism to outright denial, seeing in this ancient verse a precise diagnosis of the trajectory of materialist thought. He presents this as both a Quranic warning and a spiritual diagnostic tool that long preceded the formal naming of these philosophical categories."
     },
     {
       "id": "27_18",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 23,
-      "question": "Both Shia and Sunni scholars agree that the Quran's depiction of Queen Bilqis neither condemns nor endorses female rulership per se.",
+      "layer": 2,
+      "verseNumber": 67,
+      "question": "Fakhr al-Din al-Razi argued in Mafatih al-Ghayb that the disbelievers' question in verse 67 — 'When we have become dust, will we be brought out again?' — actually undermines itself, because granting that Allah created life from dust the first time already proves He can recreate it.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "While Sunni scholars often contextualize with certain hadiths, Shia scholars like Tabatabai focus on the Quran's neutral descriptive tone, and both agree the verse highlights justice and receptivity to truth over gender."
-    },
-    {
-      "id": "27_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 14,
-      "question": "How do Shia and Sunni exegetes differ in their theological application of verse 27:14 about rejecting clear signs?",
-      "options": [
-        "Sunni scholars deny the verse's authenticity",
-        "Shia scholars focus on individual moral responsibility while Sunni scholars emphasize Imamate",
-        "Shia scholars connect the verse to rejection of Imams while Sunni scholars focus on individual moral accountability",
-        "Both interpret the verse identically"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shia exegetes contextualize rejection of clear signs within the doctrine of wilayah and rejection of Imams, while Sunni scholars like al-Razi focus on individual moral responsibility and psychological aspects."
-    },
-    {
-      "id": "27_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 28,
-      "question": "What shared ethical message do both Shia and Sunni traditions derive from Sulayman's letter to Queen Bilqis?",
-      "options": [
-        "That force is the best method of conversion",
-        "That inviting truth through reasoned engagement reflects Islam's universal call to guidance",
-        "That diplomacy is weakness",
-        "That prophets should avoid communicating with non-believers"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both traditions uphold the verse's core message of inviting truth through reasoned engagement, reflecting Islam's universal call to guidance, though they differ in theological emphases."
+      "explanation": "Al-Razi observes in Mafatih al-Ghayb that the disbelievers' objection is self-refuting: they accept that Allah created life from dust originally — a fact the Quran itself affirms repeatedly — yet claim He cannot do so again. The resurrection is therefore not a greater miracle than the original creation; it is a repetition of what Allah already accomplished, closing the rational gap the disbelievers believed they had found in the argument."
     }
   ]
 }

@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Falaq's opening verse, what does the term 'falaq' (daybreak) symbolize according to the Foundation Layer?",
+      "question": "What does the Arabic word 'falaq' literally refer to in the opening verse of this surah?",
       "options": [
-        "Only the physical phenomenon of sunrise",
-        "The splitting of darkness by light and Allah's power to dispel harm",
-        "A reference to the moon phases",
-        "The Prophet's daily prayer times"
+        "The setting of the sun at dusk",
+        "The breaking or splitting of the dawn",
+        "The midpoint of the night",
+        "The brightness of the full moon"
       ],
-      "correctAnswer": "The splitting of darkness by light and Allah's power to dispel harm",
-      "explanation": "The term 'falaq' refers to the splitting of darkness by light at daybreak, symbolizing hope, clarity, and Allah's power to dispel harm. Just as dawn inevitably follows night, divine aid follows sincere supplication."
+      "correctAnswer": "B",
+      "explanation": "The word 'falaq' comes from the root meaning to split or cleave, and it refers to the moment dawn breaks through darkness. Allah is described as Rabb al-Falaq, the Lord of that moment when night is torn apart by light."
     },
     {
       "id": "113_2",
       "type": "trueFalse",
-      "layer": 2,
+      "layer": 1,
       "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, 'falaq' is interpreted only as the physical dawn with no metaphysical significance.",
+      "question": "True or false: Surah Al-Falaq and Surah Al-Nas together are known as the Mu'awwidhatayn, the two surahs of seeking refuge that the Prophet regularly recited before sleep and after each prayer.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Tabrisi emphasizes deeper connotations, linking 'falaq' to the 'splitting' or 'manifestation' of hidden realities. Allah's lordship over al-falaq signifies His absolute authority over all emergent phenomena, from physical dawn to the unfolding of existential truths."
+      "correctAnswer": "true",
+      "explanation": "The tafsir notes that Al-Falaq and Al-Nas form the Mu'awwidhatayn, which the Prophet recited before sleeping, after each prayer, and especially during illness, as established in authentic Sunni hadith collections."
     },
     {
       "id": "113_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret the 'darkness when it settles' in verse 3?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "According to the famous hadith cited by Ibn Kathir in both Bukhari and Muslim, who cast the spell on the Prophet that occasioned the revelation of the Mu'awwidhatayn?",
       "options": [
-        "Only as the literal dangers of nighttime",
-        "As systemic oppression, mental health crises, and erosion of ethical frameworks",
-        "As a reference to solar eclipses",
-        "As punishment for past sins"
+        "Abu Lahab from the Quraysh",
+        "Umayya ibn Khalaf",
+        "Labid ibn al-Asam from Bani Zurayq",
+        "Musaylima the false prophet"
       ],
-      "correctAnswer": "As systemic oppression, mental health crises, and erosion of ethical frameworks",
-      "explanation": "Ayatollah Nasir Makarem Shirazi notes that 'ghasiq' (darkness) symbolizes not only nocturnal dangers but modern existential threats: systemic oppression, mental health crises, or the erosion of ethical frameworks in a hyperconnected world."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records that Labid ibn al-Asam, a man from Bani Zurayq with ties to the Jewish community of Medina, tied eleven knots in a cord placed in the well of Dharwan. Each knot was loosened as a verse of the Mu'awwidhatayn was recited."
     },
     {
       "id": "113_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Jafar al-Sadiq's teaching about 'the blowers in knots' in verse 4, what do these represent?",
-      "options": [
-        "Only physical practitioners of ancient sorcery",
-        "Those who manipulate unseen forces to sow discord, doubt, and spiritual decay through whispers and dark intentions",
-        "Sailors who tie nautical knots",
-        "Weavers of traditional textiles"
-      ],
-      "correctAnswer": "Those who manipulate unseen forces to sow discord, doubt, and spiritual decay through whispers and dark intentions",
-      "explanation": "Imam Jafar al-Sadiq explains that 'the blowers in knots' symbolize those who manipulate unseen forces to sow discord, doubt, and spiritual decay through whispers (waswas) and dark intentions. The 'knots' represent the binding traps of envy, black magic, and ideological deviations."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "True or false: The phrase 'min sharri ma khalaq' means that Allah's creation is itself inherently evil and must be feared.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir is explicit that the verse does not say creation is evil. Rather, it asks for refuge from the evil that can emerge from within creation, preserving the orthodox Sunni position that Allah's creation is fundamentally good while harm can arise through created beings."
     },
     {
       "id": "113_5",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "What is the mainstream interpretation of 'ghasiq idha waqab' in classical Sunni tafsir, traced to Ibn Abbas?",
+      "options": [
+        "The whispering of Shaytan during prayer",
+        "The intense darkness of night when it fully settles in",
+        "A specific demon mentioned in pre-Islamic poetry",
+        "The cold winds of winter"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari and Ibn Kathir record that the dominant view, attributed to Ibn Abbas and the early Tabi'in, is that 'ghasiq' refers to the intense darkness of night and 'waqab' to its settling in completely. Qurtubi adds that 'waqab' conveys penetrating into every corner."
+    },
+    {
+      "id": "113_6",
       "type": "trueFalse",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 5,
-      "question": "According to both Sunni (al-Tabari) and Shia (Tabrisi, Tabatabai) classical scholars, envy (hasad) in verse 5 is understood as a vice that disrupts both cosmic and social harmony.",
+      "question": "True or false: Sayyid Qutb in Fi Zilal al-Quran argues that ending the surah with refuge from the envier highlights envy as one of the most persistent and intimate harms in human community life.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Both traditions emphasize that hasad arises when one resents divine blessings bestowed upon others, reflecting a rebellion against God's distributive wisdom. Tabrisi notes this aligns with the theological principle that all blessings are manifestations of God's will, and envy constitutes a rejection of this cosmic order."
+      "explanation": "Both Wahbah al-Zuhayli and Sayyid Qutb observe that the surah moves from broad harms to the most intimate spiritual threat — human envy. Al-Zuhayli notes that envy destroys friendships, families, and communities, often invisibly."
+    },
+    {
+      "id": "113_7",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 4,
+      "question": "How does Wahbah al-Zuhayli explain Islam's balanced position on sihr (magic) as taught by this surah?",
+      "options": [
+        "Magic is dismissed as superstition with no real effect",
+        "Believers should counter magic with stronger magic of their own",
+        "Magic is real but the remedy is turning to Allah through His revealed words, without obsession or constant fear",
+        "Only certain prophets and saints are protected from sihr"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli teaches in Al-Tafsir al-Munir that Islam neither dismisses the reality of sihr nor allows it to become an obsession. The verse affirms that magic is real and harmful, but its remedy is simple and powerful — direct refuge in Allah through Quranic recitation."
     }
   ]
 }

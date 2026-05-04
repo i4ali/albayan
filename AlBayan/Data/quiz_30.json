@@ -6,135 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 2,
-      "question": "What historical event does the verse 'The Byzantines have been defeated' (ghulibat ar-Rum) refer to?",
+      "question": "When Surah Ar-Rum was revealed, the Meccan pagans mocked the early Muslims by celebrating the Persian victory over the Byzantines. Why did this event matter to them religiously?",
       "options": [
-        "The defeat of Rome by Greece",
-        "The Byzantine Empire's defeat by the Persian Sassanids around 614-615 CE",
-        "The fall of Constantinople",
-        "A battle between Arab tribes"
+        "A. They wanted trade routes through Persia to stay open for Qurayshi merchants",
+        "B. The fire-worshipping Persians were pagans like themselves, while the Byzantines were People of the Book like the Muslims",
+        "C. They feared that Byzantine expansion would threaten the Ka'bah in Mecca",
+        "D. They hoped to form a military alliance with the Persian Empire against the Muslims"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse refers to a pivotal moment in 7th-century history when the Christian Byzantine Empire suffered a crushing defeat by the Zoroastrian Persian Sassanids around 614-615 CE."
+      "explanation": "Ibn Kathir records from Ibn Abbas that the Quraysh pagans celebrated because the Persians, who worshipped fire as they worshipped idols, had defeated the Byzantines, who as People of the Book were aligned religiously with the Muslims. They taunted the believers that just as the fire-worshippers defeated the scripture-followers, the pagans would overcome the Muslims too."
     },
     {
       "id": "30_2",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 22,
-      "question": "According to the tafsir, the diversity of human languages and skin colors mentioned in verse 22 is considered a divine gift and intentional variety, not an accident.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The term 'ikhtilaf' (differences/diversity) highlights intentional variety as a divine gift, not an accident. These differences in culture, speech, and appearance are woven into the fabric of existence by Allah's wisdom."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "The phrase 'fi adna al-ard' in verse 3 carries a dual meaning that classical and contemporary scholars both recognize. Which pairing is correct?",
+      "options": [
+        "A. 'Most fertile land' and 'most densely populated land'",
+        "B. 'Nearest land' to Arabia and 'lowest land' in elevation",
+        "C. 'Most ancient land' and 'most strategically defended land'",
+        "D. 'Richest land' and 'most contested land' in the ancient world"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari explains that classical scholars understood 'adna al-ard' primarily as 'the nearest land,' meaning the Syria-Palestine region closest to Arabia. Wahbah al-Zuhayli in Al-Tafsir al-Munir also highlights the elevational meaning, noting that the Dead Sea region is the lowest point of dry land on Earth at roughly 430 meters below sea level — a geographic fact unknown to seventh-century Arabs yet encoded in the Quran's word choice."
     },
     {
       "id": "30_3",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the Byzantine defeat and subsequent victory represent in terms of divine law?",
-      "options": [
-        "A random historical occurrence",
-        "Manifestations of divine 'sunna' (cosmic law) showing Allah's sovereignty over temporal power",
-        "Proof that military strength always prevails",
-        "Evidence that Christians are superior"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that such historical events are manifestations of divine 'sunna' (cosmic law), wherein worldly shifts reflect Allah's sovereignty over temporal power structures."
+      "verseNumber": 4,
+      "question": "True or false: Ibn Kathir records through Tirmidhi that the Prophet instructed Abu Bakr to extend his wager with Ubayy ibn Khalaf to cover the full range of the Arabic word 'bid'' (three to nine years), and the Byzantine victory came approximately seven to eight years later.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir reports this narration through Tirmidhi, who graded it hasan gharib. When Abu Bakr announced the prophecy and wagered on it, the Prophet told him to increase the stakes and to extend the timeframe to cover the maximum possible range of 'bid'' since the word encompasses any number from three to nine. The decisive Byzantine victory at the Battle of Nineveh came in 627 CE, falling squarely within the predicted window."
     },
     {
       "id": "30_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 22,
-      "question": "According to Tabrisi in Majma al-Bayan, who are the 'knowledgeable' (al-'alimin) referenced in the verse about signs in creation?",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "Verse 5 closes the Roman prophecy passage by pairing two divine names: Al-Aziz (the All-Powerful) and Al-Rahim (the Merciful). What do scholars say this pairing teaches about how Allah exercises power?",
       "options": [
-        "University professors",
-        "Those illumined by the teachings of the Ahlul Bayt",
-        "Only the companions of the Prophet",
-        "Ancient Greek philosophers"
+        "A. Power belongs to Allah in war and mercy belongs to Him in peace — two separate modes",
+        "B. Al-Aziz applies to disbelievers who are punished and Al-Rahim applies only to believers who are saved",
+        "C. Allah's power is never raw force divorced from care; every expression of His might is simultaneously an expression of mercy and purposeful wisdom",
+        "D. The names indicate that the Byzantine victory was an act of power while the Muslim victory at Badr was an act of mercy"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi cites traditions from Imam Jafar al-Sadiq highlighting that the 'knowledgeable' (al-'alimin) referenced in the verse are those illumined by the teachings of the Ahlul Bayt."
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that this pairing reveals the God who governs empires and orchestrates civilizational rise and fall does so not out of indifference or caprice but out of a mercy so vast that even the most dramatic upheaval is an expression of divine care for creation. Muhammad al-Sha'rawi observed that these five opening verses together present a complete Islamic philosophy of history."
     },
     {
       "id": "30_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi teach that empires rise and fall based solely on military and economic power, not moral alignment with divine principles.",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "True or false: Imam Tabari and Ibn Kathir both held that the time references across verses 17 and 18 together cover all five daily prayers, with 'tumsun' covering Maghrib and Isha, 'tusbihun' covering Fajr, 'ashiyyan' covering Asr, and 'tuzhirun' covering Dhuhr.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Ayatollah Nasir Makarem Shirazi in Tafsir Nemuneh highlights that empires rise and fall based on moral alignment with divine principles, not merely military or economic power."
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari records this interpretation from Abu al-Aliyah, Mujahid, and scholars of the Tabi'un generation and adopts it as the agreed scholarly position. Ibn Kathir affirms it and notes that it demonstrates the five daily prayers are not a later addition but are explicitly embedded in the Quranic text itself, making the command to glorify Allah at these times inseparable from the obligation of formal prayer."
     },
     {
       "id": "30_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 22,
-      "question": "What does the verse about diversity of languages and colors call Muslims to do in the modern world, according to contemporary scholars?",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "Verse 21 says Allah placed two qualities between spouses: mawadda and rahma. How do scholars classically distinguish these two qualities?",
       "options": [
-        "Isolate from other cultures",
-        "Defend marginalized languages, confront systemic racism, and build bridges across divides",
-        "Focus only on Arabic language preservation",
-        "Ignore cultural differences"
+        "A. Mawadda means financial provision and rahma means physical protection — the husband's two main duties",
+        "B. Mawadda is the active love of attraction and companionship that fills the early years of marriage, while rahma is the enduring compassionate tenderness that sustains the bond when youthful passion has matured into deep mutual care",
+        "C. Mawadda applies to the wife's obedience and rahma applies to the husband's patience with her faults",
+        "D. Mawadda means the wedding ceremony and rahma means the ongoing legal contract of marriage"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse is a call to action: to defend marginalized languages, confront systemic racism, and build bridges across divides. As Ayatollah Sayyid Fadhel Milani observes, 'Unity in diversity is not a modern ideal—it is a divine blueprint for human flourishing.'"
+      "explanation": "Ibn Kathir draws this precise distinction: mawadda is the vibrant love of attraction and companionship, while rahma is the protective compassion and mercy a spouse extends — particularly powerful in old age when physical attraction fades but the depth of shared life deepens. Fakhr al-Din al-Razi notes that the verse ends with 'signs' in the plural because within the single institution of marriage lie many distinct divine gifts, each a sign in its own right."
     },
     {
       "id": "30_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to Imam Jaafar al-Sadiq, what do worldly victories and defeats reflect?",
-      "options": [
-        "Random chance and luck",
-        "Human military strategy alone",
-        "Humanity's alignment with the eternal axis of Wilayah (divine guardianship)",
-        "The power of wealth"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Jaafar al-Sadiq taught that worldly victories and defeats are but fleeting reflections of humanity's alignment with the eternal axis of Wilayah (divine guardianship)."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 21,
+      "question": "True or false: Wahbah al-Zuhayli argues in Al-Tafsir al-Munir that the collapse of families in modern societies can be traced to neglecting the Quranic values of mawadda and rahma prescribed in verse 21.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli draws this application directly from verse 21, stating that when homes are built on mawadda and rahma the entire society benefits since the family is civilization's foundational unit. He notes that contemporary family breakdown reflects the neglect of precisely these two Quranic values. Sheikh Ibn Uthaymeen similarly emphasized that spouses are obligated to actively cultivate both love and mercy, as these qualities — though divinely placed — require nurturing through kindness, patience, and gratitude."
     },
     {
       "id": "30_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 22,
-      "question": "According to Imam Ali in Nahj al-Balagha, 'The creation of the heavens and earth is a greater proof than the heavens and earth themselves.'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (peace be upon him) states in Nahj al-Balagha: 'The creation of the heavens and earth is a greater proof than the heavens and earth themselves.' Here, the tangible world is a gateway to spiritual truths."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "In his tafsir of verse 23, why does Ibn Kathir describe sleep as containing embedded divine wisdom rather than being merely a biological necessity?",
+      "options": [
+        "A. Because the soul travels to paradise during deep sleep, according to authentic hadith",
+        "B. Because if left to themselves, humans would push through fatigue and damage their health; sleep is a divinely designed compulsion that protects them against their own tendency toward excess",
+        "C. Because the quality of a person's dreams indicates their spiritual rank before Allah",
+        "D. Because sleep was considered the closest earthly experience to death and was therefore a form of worship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir makes this precise argument: the compulsory nature of sleep reveals divine wisdom. Without it humans would overwork themselves to the point of harm. Imam Tabari adds that the verse encompasses both nighttime sleep and the daytime nap (qailula), both practiced and recommended by the Prophet. Al-Qurtubi notes that the Prophet's supplication upon waking — thanking Allah for returning the soul — shows the companions understood sleep as a small daily death and revival pointing toward resurrection."
     },
     {
       "id": "30_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni scholars regarding the interpretation of the disconnected letters (Alif Lam Meem) in Surah Ar-Rum?",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "The 'fitrah verse' declares that every human is born on a natural disposition toward Allah and that 'there is no change to the creation of Allah.' According to the Prophet's hadith cited by Ibn Kathir, what is the main factor that overrides this innate fitrah?",
       "options": [
-        "Sunni scholars reject them entirely",
-        "Shia exegetes explore symbolic dimensions through the lens of Imamah, while Sunni scholars primarily treat them as rhetorical devices",
-        "Both interpret them identically",
-        "Shia scholars ignore them"
+        "A. Poverty and hardship in early childhood",
+        "B. Reading books that promote atheism or polytheism",
+        "C. The influence of parents who raise children in a different religion — 'every child is born on the fitrah but their parents make them Jewish, Christian, or Zoroastrian'",
+        "D. The corruption of political leaders who impose false beliefs on society"
       ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentaries often contextualize the verse within the framework of divine guidance through the Imams, while Sunni scholars like Al-Razi and Ibn Kathir typically limit analysis to the letters' function as a rhetorical device, emphasizing their unknowability except to God."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records the famous hadith narrated in Sahih Bukhari (1358) and Sahih Muslim (2658) with the Prophet's words: 'Every child is born on the fitrah, and then their parents make them Jewish, Christian, or Zoroastrian — just as an animal gives birth to a complete offspring.' This does not destroy the fitrah but covers it. Imam Tabari records the majority scholarly view that fitrah refers to the innate recognition of and submission to the One God."
     },
     {
       "id": "30_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 30,
+      "question": "True or false: Sayyid Qutb describes the fitrah as the meeting point between the human soul and divine reality — a point of contact that no worldly conditioning can permanently erase — and reads Islam's invitation as a call to return to one's truest self rather than to adopt a new identity.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Fi Zilal al-Quran, Qutb writes one of his most celebrated passages on verse 30, describing the fitrah precisely in these terms. He sees the Quran's deepest call not as demanding that people adopt a foreign religion but that they shed the false layers imposed by ignorance and recover their authentic inner truth. Sheikh Ibn Uthaymeen affirmed that the fitrah hadith and this verse together are Islam's strongest response to the claim that religious belief is merely cultural conditioning."
+    },
+    {
+      "id": "30_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 22,
-      "question": "How do both Shia and Sunni traditions ultimately view the verse about diversity of languages and colors?",
+      "layer": 2,
+      "verseNumber": 33,
+      "question": "Verse 33 observes that people call upon Allah sincerely when harm strikes them at sea but revert to associating partners when He relieves them. How does Imam Qurtubi use this behavioral pattern to explain the purpose of Islamic worship?",
       "options": [
-        "As unimportant",
-        "As a call to recognize divine unity through the tapestry of creation",
-        "As proof of human superiority over nature",
-        "As only relevant to ancient times"
+        "A. He argues it proves that all non-Muslims secretly believe in Allah and are therefore not to be fought",
+        "B. He identifies a 'disease of forgetfulness' in spiritual life and argues that the full structure of Islamic practice — five daily prayers, fasting, charity, regular remembrance — is designed to interrupt the human drift from Allah during times of comfort",
+        "C. He concludes that sea travel is spiritually dangerous for believers and should be legally restricted",
+        "D. He uses it to argue that crisis-based repentance is invalid since it is motivated by fear rather than love"
       ],
       "correctAnswer": "B",
-      "explanation": "Both traditions ultimately uphold the verse as a call to recognize divine unity through the tapestry of creation, with both Al-Tabari (Sunni) and Al-Tusi (Shia) emphasizing that such variations reflect Allah's deliberate design."
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran names this tendency the 'illness of forgetfulness': humans constitutionally remember Allah vividly in extremity and drift in comfort. He argues that the entire structure of Islamic worship — prayer five times daily, fasting, charity, dhikr — is divinely designed to interrupt this drift and maintain conscious awareness of Allah across all of life's conditions, not only during crisis."
+    },
+    {
+      "id": "30_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 41,
+      "question": "Verse 41 states that 'corruption has appeared on land and sea by what human hands have earned.' How do contemporary Sunni scholars apply this verse to modern environmental and social crises?",
+      "options": [
+        "A. They limit its application to pre-Islamic Arabia since that was the verse's historical context",
+        "B. They use it primarily to condemn ocean-based industries such as fishing and shipping",
+        "C. They interpret fasad as encompassing moral corruption, social injustice, political oppression, and ecological degradation, and increasingly cite it in discussions of climate change and environmental destruction",
+        "D. They argue the verse applies only to the physical corruption of food and water sources, not to broader social problems"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir stresses that fasad covers all dimensions of disruption. Sayyid Qutb places human spiritual failure at the center of all worldly disorder, arguing every form of corruption traces back to humanity's departure from divine guidance. Contemporary scholars note with remarkable relevance that the Quran identified a direct link between human moral conduct and environmental harm fourteen centuries before modern environmental science reached similar conclusions."
+    },
+    {
+      "id": "30_13",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "True or false: Verse 41 of Surah Ar-Rum says that Allah causes people to taste the full weight of what their hands have earned so that they may return to righteousness.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse specifically uses the word 'ba'da' — meaning 'some' or 'a portion' — not the full weight. Both Ibn Kathir and Imam Qurtubi highlight this word as theologically significant: it reflects divine mercy, since full and immediate retribution would leave no one standing on earth. The partial experience of consequences serves as an educational mercy and an invitation to repentance, not as comprehensive punishment proportional to the wrongdoing."
+    },
+    {
+      "id": "30_14",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 42,
+      "question": "Verse 42 commands observing the fate of past civilizations and notes 'most of them were polytheists.' What does Ibn Kathir identify as the root cause connecting the destruction of nations like Ad, Thamud, and Pharaoh's Egypt?",
+      "options": [
+        "A. Persistent famine and drought that weakened these nations until they collapsed",
+        "B. The failure to build strong central political institutions capable of resisting external enemies",
+        "C. Polytheism and oppression: abandoning tawhid produced the moral corruption and injustice that led inevitably to civilizational collapse",
+        "D. Their refusal to trade fairly with neighboring peoples, which led to economic and then military ruin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explains that the phrase 'kana aktharuhum mushrikeen' — most of them were polytheists — identifies the root cause of destroyed civilizations in the Quran's account: shirk produces moral corruption and injustice which in turn produce collapse. Imam Qurtubi notes that travel and historical reflection are religious duties because they reveal the divine pattern (sunnat Allah) of how Allah deals with communities that persist in shirk and oppression, a pattern the Quran presents as consistent and universal."
+    },
+    {
+      "id": "30_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 24,
+      "question": "Verse 24 presents lightning as simultaneously evoking fear and hope. Which scholar develops this dual emotional response into a model for the believer's relationship with Allah, arguing that exclusive fear produces despair while exclusive hope produces complacency?",
+      "options": [
+        "A. Imam Tabari, who argues in Jami al-Bayan that fear is the higher spiritual station and hope belongs only to advanced scholars",
+        "B. Wahbah al-Zuhayli in Al-Tafsir al-Munir, who explains the believer's worship must be grounded in both reverential fear and hopeful aspiration together to produce spiritual maturity",
+        "C. Ibn Kathir, who teaches that hope is a later spiritual development that only comes after years of fear-based worship",
+        "D. Sayyid Qutb in Fi Zilal al-Quran, who argues that hope in Allah's mercy must always be suppressed to prevent complacency among ordinary believers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir reflects on the spiritual wisdom in lightning's fear-hope duality, observing that the believer's relationship with Allah should mirror this balance: reverential fear (khashya) and hopeful aspiration (raja) combined. He states explicitly that exclusive fear produces despair and exclusive hope can produce complacency, while their proper balance produces the spiritually active and mature believer that Islamic worship aims to cultivate."
     }
   ]
 }

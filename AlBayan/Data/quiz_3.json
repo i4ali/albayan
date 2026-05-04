@@ -5,201 +5,341 @@
       "id": "3_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 33,
-      "question": "In verse 33, which families does Allah declare He chose 'over the worlds'?",
-      "options": ["Adam, Noah, family of Abraham, and family of Imran", "Adam, Moses, family of David, and family of Jesus", "Noah, Abraham, Moses, and Muhammad", "Family of Noah, family of Moses, family of David, and family of Aaron"],
-      "correctAnswer": "A",
-      "explanation": "In Surah Aal-i-Imran verse 33, Allah declares His divine selection: 'Indeed, Allah chose Adam and Noah and the family of Abraham and the family of Imran over the worlds.' This choosing (istafa) signifies a special spiritual distinction for guiding humanity toward truth."
+      "verseNumber": 1,
+      "question": "The opening letters 'Alif Lam Meem' at the start of Surah Al-Imran are known by what Arabic term?",
+      "options": [
+        "A) Al-Ayat al-Muhkamat",
+        "B) Al-Huruf al-Muqattaat",
+        "C) Al-Asma al-Husna",
+        "D) Al-Ayat al-Mutashabihat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "These are called the huruf muqattaat, the disconnected letters. They appear at the opening of twenty-nine surahs, and their precise meaning is considered by the majority of scholars — including Ibn Kathir and Imam al-Tabari — to be known only to Allah."
     },
     {
       "id": "3_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 51,
-      "question": "In verse 51, Prophet Isa (Jesus) declared that Allah is both his Lord and the Lord of his followers, and called them to the straight path.",
+      "verseNumber": 1,
+      "question": "The opening letters of Surah Al-Imran demonstrate the Quran's miraculous nature precisely because they are drawn from the very letters Arabs used daily, yet no human or group could produce anything like the scripture that follows.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "In Surah Aal-i-Imran verse 51, Prophet Isa (Jesus) addresses his followers with a clear statement of divine unity (Tawhid), affirming that Allah is his Lord and their Lord, and calling them to follow the straight path."
+      "explanation": "This is precisely how the classical scholars understood the huruf muqattaat: a challenge issued in the Arabs' own linguistic medium. Sayyid Qutb described these letters as 'the building blocks of human speech' yet what follows them is beyond human construction — the Quran is inimitable despite being composed of ordinary letters."
     },
     {
       "id": "3_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 121,
-      "question": "Verse 121 refers to which significant battle where the Prophet positioned believers at their stations?",
-      "options": ["Battle of Badr", "Battle of Uhud", "Battle of Khandaq", "Battle of Hunayn"],
-      "correctAnswer": "B",
-      "explanation": "Verse 121 takes us to a pivotal moment before the Battle of Uhud, where Prophet Muhammad demonstrated both leadership and trust in Allah. The phrase 'you left your family in the morning' highlights his early dawn departure to strategically position the believers at their battle stations."
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "According to Ibn Kathir, which two divine names in verse 2 are considered by hadith scholars to be connected to the Ism al-Azam, the Greatest Name of Allah?",
+      "options": [
+        "A) Al-Rahman and Al-Rahim",
+        "B) Al-Aziz and Al-Hakim",
+        "C) Al-Hayy and Al-Qayyum",
+        "D) Al-Ghafur and Al-Wadud"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records a hadith in which the Prophet heard a man supplicating using Al-Hayy and Al-Qayyum and said: 'You have called upon Allah by His greatest name.' Al-Hayy denotes eternal divine life while Al-Qayyum means Allah is self-subsistent and sustains all of creation."
     },
     {
       "id": "3_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 122,
-      "question": "In verse 122, what happened when 'two parties among you were about to lose courage'?",
-      "options": ["They fled from the battlefield", "Allah became their ally and protector", "The Prophet rebuked them publicly", "They were replaced by other fighters"],
-      "correctAnswer": "B",
-      "explanation": "In verse 122, Allah reminds believers of when two groups (Banu Salma and Banu Haritha) momentarily faltered due to fear during Uhud, but Allah became their Waliy (protector, ally), granting them strength to regroup. This reinforces the principle of tawakkul (trust in God)."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "Wahbah al-Zuhayli argued that the placement of verse 2 — with the names Al-Hayy and Al-Qayyum — immediately after the mysterious opening letters serves no deliberate theological purpose.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Zuhayli states explicitly in Al-Tafsir al-Munir that after drawing attention to the miraculous Quran through Alif Lam Meem, Allah immediately directs the reader to the most essential truth — His own nature and absolute oneness. The placement is intentional and serves a clear theological purpose."
     },
     {
       "id": "3_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 33,
-      "question": "According to Allamah Tabatabai in Al-Mizan, what does the divine 'choosing' (istifa) in verse 33 signify?",
-      "options": ["Political authority over nations", "Ontological and spiritual distinction encompassing both prophethood and guardianship (wilayah)", "Worldly wealth and social status", "Military power and territorial expansion"],
-      "correctAnswer": "B",
-      "explanation": "In Al-Mizan, Allamah Tabatabai elucidates that the divine 'choosing' (istifa) signifies ontological and spiritual distinction bestowed by Allah, encompassing both prophetic missions (nubuwwah) and divinely ordained guardianship (wilayah). This transcends temporal or worldly superiority."
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "When verse 3 states the Quran was revealed 'confirming what was before it,' the Quran affirms the original divine content of which two earlier scriptures?",
+      "options": [
+        "A) Only the Torah revealed to Moses",
+        "B) The Psalms of David and the Torah of Moses",
+        "C) Both the Torah revealed to Moses and the Gospel revealed to Jesus",
+        "D) The scrolls of Abraham and the Torah alone"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The verse explicitly names both the Torah (Tawrah) revealed to Moses and the Injil (Gospel) revealed to Jesus. Islamic teaching affirms the original divine content of both while recognizing that human alteration entered their transmitted texts over centuries, as Imam al-Tabari and Ibn Kathir both explain."
     },
     {
       "id": "3_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 34,
-      "question": "According to classical Shia scholars, verse 34 ('Descendants, some of them from others') refers only to biological succession, not spiritual inheritance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Classical Shia scholars interpret verse 34 as a profound allusion to divinely ordained continuity of prophetic and Imamic guidance. Tabatabai emphasizes this is not merely biological succession but a chain of spiritual inheritance (irth nabawi), where knowledge, wisdom, and wilayah are transmitted through a sanctified genealogical framework."
+      "verseNumber": 7,
+      "question": "Imam al-Tabari documented a significant scholarly disagreement about verse 7. What was the central debate among the Salaf?",
+      "options": [
+        "A) Whether the mutashabihat verses should be recited aloud in prayer",
+        "B) Whether the grammatical stop falls after 'except Allah' alone, or whether the sentence continues so that those firm in knowledge also possess interpretive understanding",
+        "C) Whether muhkam verses could ever be abrogated by later revelation",
+        "D) Whether non-Arabs could attain the rank of the rasikhoona fi al-ilm"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Tabari explained that one group of the Salaf held that even the rasikhoona do not know the ultimate interpretation of the most deeply ambiguous categories (such as the disconnected letters), while another group read the sentence as continuing so that the firmly grounded in knowledge also possess interpretive understanding. Tabari himself preferred the first position for the most ambiguous categories."
     },
     {
       "id": "3_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 121,
-      "question": "What does Sheikh Tabrisi in Majma al-Bayan say about the phrase 'to post believers at their stations' in verse 121?",
-      "options": ["It refers to assigning prayer positions in the mosque", "It reflects the Prophet's divinely guided wisdom in preparing the community for trials", "It describes the arrangement of scholars in teaching circles", "It indicates the organization of trade caravans"],
-      "correctAnswer": "B",
-      "explanation": "Sheikh Tabrisi in Majma al-Bayan highlights that 'to post the believers at their stations' (tubawwi' al-mu'minina maqaida lil-qital) reflects the Prophet's divinely guided wisdom in preparing the community for trials, resonant with the Shia emphasis on divinely appointed leadership (imamate)."
+      "verseNumber": 7,
+      "question": "Ibn Kathir records a hadith from Aisha, preserved in both Sahih al-Bukhari and Sahih Muslim, in which the Prophet warned that those who pursue the mutashabihat seeking discord are among the very people Allah warned about in verse 7.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites this hadith from Aisha in which the Prophet said: 'If you see those who follow the mutashabihat, know that they are the ones Allah has warned about, so beware of them.' This became a foundational principle of Sunni Quranic hermeneutics: the muhkamat verses are the yardstick by which all ambiguous verses must be understood."
     },
     {
       "id": "3_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 122,
-      "question": "According to Tabatabai's interpretation of verse 122, how does divine intervention manifest?",
-      "options": ["Through miraculous alteration of external circumstances", "Through the fortification of hearts, operating through human agency guided by spiritual readiness", "Through sending angels to physically fight", "Through immediate removal of all difficulties"],
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "The supplication in verse 8 — 'Our Lord, do not let our hearts deviate after You have guided us' — uses the same Arabic root as the word for spiritual 'deviation' in verse 7. What is the significance of this linguistic connection?",
+      "options": [
+        "A) It indicates that Arabic grammar is uniform throughout the Quran",
+        "B) It teaches that even those firmly grounded in knowledge must beg Allah for protection from the very spiritual disease described in the previous verse",
+        "C) It suggests that all believers will inevitably experience deviation at some point",
+        "D) It implies that verse 8 was revealed before verse 7 in historical sequence"
+      ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that divine intervention manifests not through miraculous alterations of circumstance but through the fortification of hearts, aligning with the Shia theological principle that divine support (tawfiq) operates through human agency guided by spiritual readiness."
+      "explanation": "The Arabic 'la tuzigh qulubana' uses the same root as 'zaygh' (deviation) from verse 7. Allah immediately teaches the antidote after describing the disease: even the most grounded scholars must constantly petition Him for protection of the heart. As Imam al-Qurtubi noted, Allah taught the believers the cure directly after describing the illness."
     },
     {
       "id": "3_9",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 33,
-      "question": "How do contemporary Shia scholars like Ayatollah Makarem Shirazi interpret the 'choosing' of families in verse 33?",
-      "options": ["As emphasizing hereditary privilege based on bloodline alone", "As emphasizing moral and spiritual excellence rather than hereditary privilege", "As limited only to ancient times with no modern relevance", "As a political endorsement of specific dynasties"],
-      "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret verse 33 as emphasizing not hereditary privilege but moral and spiritual excellence. This aligns with the Shia emphasis on 'ismah (divinely guided infallibility) of the Prophets and Imams, whose leadership transcends time and culture."
+      "verseNumber": 8,
+      "question": "Wahbah al-Zuhayli noted that the supplication in verse 8 uses 'our hearts' rather than 'my heart,' reflecting the Islamic understanding that spiritual life is nurtured within a community of believers who pray for one another.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli highlights this communal dimension in Al-Tafsir al-Munir. He also notes that the prayer follows the discussion of Quranic interpretation to teach that scholarship without humility and divine support is vulnerable to the very errors it seeks to avoid — making tawadu (humility) inseparable from genuine learning."
     },
     {
       "id": "3_10",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 34,
-      "question": "Modern scientific research showing that all humans share 99.9% of their genetic code parallels the Quranic emphasis on shared lineage in verse 34.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern genetics reveals that all humans share 99.9% of their genetic code, underscoring the verse's literal truth about human interconnectedness. This scientific insight aligns with theological teachings on universal kinship and challenges divisive constructs like racism or nationalism."
+      "verseNumber": 38,
+      "question": "Sayyid Qutb observed in Fi Zilal al-Quran that Zakariya's supplication in verse 38 demonstrated an elevated level of aspiration. What distinguished Zakariya's request from mere personal desire for a child?",
+      "options": [
+        "A) He asked for wealth to support the child he hoped for",
+        "B) He used standard diplomatic language expected of a prophet",
+        "C) He asked specifically for 'dhurriyyatan tayyibah' — good offspring to continue righteousness and guidance, not mere biological continuation",
+        "D) He warned that he would stop his worship if the request was denied"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran emphasized that Zakariya did not simply desire a child for personal fulfillment but asked for 'dhurriyyatan tayyibah' — the perpetuation of goodness and divine guidance in the world. Qutb described this as the elevated level of a believer's ambition: not worldly continuation but the continuation of righteousness."
     },
     {
       "id": "3_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 121,
-      "question": "What modern social-psychological concept do contemporary scholars connect to verse 121's emphasis on unity and preparedness?",
-      "options": ["Individual therapy", "Collective efficacy", "Social isolation", "Personal achievement"],
+      "layer": 2,
+      "verseNumber": 38,
+      "question": "Al-Qurtubi derived a legal recommendation from verse 38 specifically about the phrase 'dhurriyyatan tayyibah' in Zakariya's prayer. What was his conclusion?",
+      "options": [
+        "A) Muslims should only supplicate inside the mosque when asking for children",
+        "B) 'Good offspring' is one of the most comprehensive supplication phrases, covering goodness in religion, character, and conduct for one's descendants",
+        "C) Muslims should only pray for a specific number of children at a time",
+        "D) Muslims should abstain from marriage after reaching sixty years of age"
+      ],
       "correctAnswer": "B",
-      "explanation": "The scientific concept of 'collective efficacy' - where communities leverage shared trust and coordination to achieve goals - resonates with verse 121, offering a social-psychological lens to understand its emphasis on unity and preparedness in facing challenges."
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran classified 'dhurriyyatan tayyibah' as one of the most comprehensive supplication phrases because it encompasses goodness in religion, character, and conduct for one's children and descendants. He derived from this verse the recommendation that all Muslims include this phrase in their supplications."
     },
     {
       "id": "3_12",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 122,
-      "question": "According to contemporary scholars, the reassurance in verse 122 that 'Allah was their ally' highlights divine support through human solidarity, not in isolation.",
+      "layer": 1,
+      "verseNumber": 39,
+      "question": "In verse 39 the angels announced four qualities Yahya would possess: confirming a word from Allah, being a leader (sayyid), being self-restrained (hasur), and being a prophet from among the righteous.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Scholar Dr. Liyakat Takim notes that verse 122's reassurance - 'Allah was their ally' - highlights divine support through human solidarity, not in isolation. It invites believers to view unity as an active, spiritual resistance against hopelessness."
+      "explanation": "The verse grants Yahya precisely these four qualities. 'Musaddiqan bi-kalimatin min Allah' refers to his confirming Isa ibn Maryam. 'Sayyidan' means a master in virtue and knowledge. 'Hasuran' indicates voluntary self-restraint. 'Nabiyyan min al-saliheen' identifies him as a righteous prophet. The angelic announcement came while Zakariya was absorbed in prayer."
     },
     {
       "id": "3_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 33,
-      "question": "According to the teachings of the Ahlul Bayt, what does verse 33 map out?",
-      "options": ["The political history of Arab tribes", "The golden lineage of wilayah (divine guardianship) culminating in the Muhammadan Light", "Trade routes between ancient civilizations", "Agricultural practices of ancient peoples"],
+      "layer": 2,
+      "verseNumber": 39,
+      "question": "Classical Sunni scholars debated the meaning of 'hasur' as applied to Yahya in verse 39. What was the dominant scholarly position among Ibn Kathir and the Sunni commentators?",
+      "options": [
+        "A) Yahya was physically unable to marry due to an illness",
+        "B) 'Hasur' refers to voluntary and pious self-restraint — an ascetic discipline of taqwa, not any physical deficiency",
+        "C) Yahya had sworn a formal celibacy oath that Muslims are encouraged to imitate",
+        "D) The term simply means Yahya was extremely wealthy and chose not to spend on luxuries"
+      ],
       "correctAnswer": "B",
-      "explanation": "In the radiant vision of the Ahlul Bayt, verse 33 maps the golden lineage of wilayah (divine guardianship) culminating in the Muhammadan Light. Imam Ali al-Ridha taught that Allah's choice crowns those whose inner essence was forged in pure submission."
+      "explanation": "Ibn Kathir was explicit in clarifying that 'hasur' does not mean physical inability but that Yahya voluntarily and piously restrained himself through taqwa. This is a virtue of ascetic discipline. The Sunni scholars were unanimous that it was a praiseworthy quality, not a deficiency of any kind."
     },
     {
       "id": "3_14",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 34,
-      "question": "According to Imam Ja'far al-Sadiq's teaching, what do the 'stations' of believers in battle symbolize?",
-      "options": ["Military ranks based on experience", "The duty of the Imams to guide humanity toward their spiritual station through truth and justice", "Economic positions in society", "Geographic locations of settlements"],
+      "layer": 1,
+      "verseNumber": 59,
+      "question": "Verse 59 refutes the Christian argument that Jesus's miraculous birth proves his divinity. What analogical argument does Allah use in this verse?",
+      "options": [
+        "A) Jesus is compared to the Prophet Muhammad, who was also born in extraordinary circumstances",
+        "B) Jesus is compared to Adam, who was created from dust with no father and no mother, yet no one claims divinity for Adam",
+        "C) Jesus is compared to the angels, who also exist without human parents",
+        "D) Jesus is compared to the Quran itself, which has no human author"
+      ],
       "correctAnswer": "B",
-      "explanation": "In Tafsir al-Qummi, Imam Jafar al-Sadiq explains that the Prophet's act of 'posting believers at their stations' symbolizes the duty of the Imams to guide humanity toward their maqam (spiritual station) through truth and justice."
+      "explanation": "Allah uses the case of Adam as a decisive rational argument: if the absence of a human father proved divinity, Adam would be an even stronger candidate since he had neither father nor mother. Ibn Kathir calls this a decisive qiyas against the Christian argument. Imam Razi in Mafatih al-Ghayb described it as a 'burhan qati' — a decisive proof that dismantles the philosophical foundation of the doctrine of incarnation."
     },
     {
       "id": "3_15",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 121,
-      "question": "Lady Fatimah declared that 'Allah made obedience to us the system for the Ummah and our leadership a protection against disunity.'",
+      "layer": 3,
+      "verseNumber": 59,
+      "question": "Sayyid Qutb argued that verse 59 reflects the Quranic method of addressing religious controversy through mere assertion rather than through reasoned argument drawn from shared knowledge.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Lady Fatimah (peace be upon her) stated in her famous sermon: 'Allah made obedience to us the system for the Ummah and our leadership a protection against disunity.' This teaching emphasizes that following the Imam's command - whether in war or worship - unifies the community under divine light."
+      "correctAnswer": "false",
+      "explanation": "Qutb states the opposite in Fi Zilal al-Quran: this verse 'reflects the Quranic method of addressing religious controversy not through mere assertion but through reasoned argument drawn from shared knowledge.' He emphasizes that the Quran here invites Christians to reason clearly about what the miraculous birth of Jesus actually proves, elevating the discourse above polemics."
     },
     {
       "id": "3_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 122,
-      "question": "According to Imam Ali, what is 'the strongest' among Allah's ropes?",
-      "options": ["Wealth and material possessions", "Political alliances with powerful nations", "Trust in Him and reliance upon Him", "Large numbers of followers"],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali (peace be upon him) taught: 'The ropes of Allah are numerous, and the strongest of them is trust in Him and reliance upon Him.' This emphasizes that true courage lies not in human calculation but in surrendering to Allah's wisdom."
+      "layer": 2,
+      "verseNumber": 96,
+      "question": "Which authenticated hadith did Ibn Kathir and al-Tabari use to confirm that the Kaaba in Makkah was the first house of worship built on earth?",
+      "options": [
+        "A) A hadith of Umar ibn al-Khattab recorded in Sunan Abu Dawud",
+        "B) A hadith of Abu Dharr in Sahih al-Bukhari and Sahih Muslim, where the Prophet stated the Masjid al-Haram was first, followed by Masjid al-Aqsa forty years later",
+        "C) A hadith of Ibn Abbas recorded exclusively in the Musnad of Imam Ahmad",
+        "D) A hadith of Aisha in Sahih Muslim about the sequence of divine creation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Both Ibn Kathir and Imam al-Tabari draw on Abu Dharr's hadith in Sahih al-Bukhari and Sahih Muslim, in which Abu Dharr asked the Prophet which mosque was built first and the Prophet replied 'Al-Masjid al-Haram,' with Al-Masjid al-Aqsa built forty years later. This is the primary textual proof for the Kaaba's distinction as the oldest house of worship."
     },
     {
       "id": "3_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 33,
-      "question": "On what point do both Shia and Sunni scholars converge regarding verse 33?",
-      "options": ["Divine selection denotes Allah's preferential choice based on spiritual merit, not mere biological descent", "The verse refers only to political leadership", "The chosen families had no obligations attached to their status", "The verse is purely metaphorical with no historical significance"],
-      "correctAnswer": "A",
-      "explanation": "Both Shia and Sunni scholars converge on core principles: divine selection (istifa) denotes Allah's preferential choice of certain individuals and families for prophetic missions based on spiritual merit. This shared understanding underscores the Quranic theme of divine favor tied to righteousness rather than mere biological descent."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 96,
+      "question": "Verse 96 describes the Kaaba using the name 'Bakkah' and declares it the first house of worship established for all of humanity, not only for one nation or tribe.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari records that 'Bakkah' is an interchangeable name for Makkah. The verse describes this house as 'mubarak' (blessed) and 'hudan lil-alamin' (guidance for all the worlds), establishing that its divine designation as a sanctuary is universal and predates every other house of worship on earth."
     },
     {
       "id": "3_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 33,
-      "question": "Shia scholars interpret the 'family of Abraham' as explicitly encompassing the Prophet Muhammad and his Ahl al-Bayt, while Sunni scholars interpret 'family' primarily as biological progeny or righteous followers.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Key divergences emerge in defining the scope of 'family' (aal). Sunni commentators like Qurtubi interpret aal primarily as biological progeny or righteous followers. Shia scholars like Tabatabai emphasize the term's connotations of spiritual inheritance, linking it explicitly to the Imamate and the Ahl al-Bayt."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 132,
+      "question": "Sayyid Qutb connected verse 132 — 'Obey Allah and the Messenger that you may obtain mercy' — to a specific historical context in Surah Al-Imran. What was this context?",
+      "options": [
+        "A) The migration to Abyssinia and the early persecutions in Makkah",
+        "B) The dispute with the Christian delegation from Najran",
+        "C) The aftermath of defeat at Uhud, when some Muslims were tempted to question divine wisdom or prophetic leadership",
+        "D) The expulsion of Banu Qaynuqa from Madinah"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran notes that this verse spoke directly to a generation of early Muslims tested by defeat at Uhud who might have questioned prophetic leadership. The Quran calls them back to the simplest and most powerful principle: obey, and mercy will follow. Qutb argued this message is equally vital for contemporary Muslims facing ideological challenges to religious authority."
     },
     {
       "id": "3_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 121,
-      "question": "What theological framework do Shia interpretations emphasize regarding the Prophet 'posting' believers in verse 121?",
-      "options": ["Democratic election of leaders", "Divine designation and the doctrine of Imamate", "Tribal customs of ancient Arabia", "Economic distribution of resources"],
-      "correctAnswer": "B",
-      "explanation": "Shia interpretations frequently highlight the Prophet's role in 'posting' (tubawwi'u) believers - a term Tusi's At-Tibyan and Qummi's Tafsir associate with divinely guided appointments, subtly reinforcing the Shia doctrine of Imamate as inherently tied to divine designation rather than human selection."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 153,
+      "question": "During the Battle of Uhud, the Prophet Muhammad held his ground and continued calling to his fleeing companions from behind, while Ibn Kathir records that only a small group including Abu Bakr, Umar, Ali, and Talha remained near him.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records that the Prophet was at the rear — calling 'O servants of Allah, come to me!' — while many companions fled in panic up Mount Uhud. The phrase 'fi ukhrakum' (from behind you) in the verse confirms the Prophet held his position. Ibn Kathir names Abu Bakr, Umar, Ali, Talha, and a few others as those who remained close."
     },
     {
       "id": "3_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 122,
-      "question": "What do both Shia and Sunni traditions maintain about verse 122's relevance?",
-      "options": ["It is only relevant to the specific historical event", "It is relevant to ethical warfare and spiritual consequences of disobedience", "It has no contemporary application", "It applies only to military leaders"],
+      "layer": 3,
+      "verseNumber": 153,
+      "question": "Wahbah al-Zuhayli explained the 'grief upon grief' sent upon the believers at Uhud as serving what purpose according to divine wisdom?",
+      "options": [
+        "A) It was purely punitive with no further benefit for the community",
+        "B) It was a sign that Allah had temporarily withdrawn His support from the Muslims",
+        "C) It was pedagogical — it broke down overconfidence and built genuine spiritual strength through tested, enduring faith",
+        "D) It proved that the Companions had committed an unforgivable sin at Uhud"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir explains the grief was not vindictive punishment but pedagogical: it broke down arrogance and overconfidence that early victories had potentially fostered. He argues that a community tested through failure which maintained faith and rebuilt is genuinely strong, unlike a community that has only ever known success."
+    },
+    {
+      "id": "3_21",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 154,
+      "question": "Verse 154 describes two contrasting groups among the believers in the aftermath of Uhud. What distinguished them?",
+      "options": [
+        "A) One group fought bravely while the other refused to fight at all",
+        "B) One group received the tranquility of drowsiness from Allah, while another harbored doubts about Allah reflecting thoughts of the Age of Ignorance (jahiliyyah)",
+        "C) One group returned to Madinah quickly while the other remained at Uhud to bury the martyrs",
+        "D) One group believed the Prophet had been killed while the other correctly knew he was alive"
+      ],
       "correctAnswer": "B",
-      "explanation": "Both Shia and Sunni traditions maintain the verse's relevance to ethical warfare and the spiritual consequences of disobedience, demonstrating shared ethical foundations amid differing doctrinal priorities regarding leadership and divine designation."
+      "explanation": "The verse describes how Allah sent down security in the form of drowsiness upon one group of sincere believers. A second group harbored thoughts of 'zann al-jahiliyyah' — doubts about divine control reminiscent of pre-Islamic thinking. Allah then declares: 'Say, indeed all matters belong to Allah,' settling any doubt about divine sovereignty."
+    },
+    {
+      "id": "3_22",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 190,
+      "question": "Ibn Kathir records a hadith from Ibn Abbas — preserved in both Sahih al-Bukhari and Sahih Muslim — in which the Prophet recited the final verses of Surah Al-Imran after waking for the night prayer, having first looked up at the sky.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records in his Tafsir that Ibn Abbas narrated the Prophet woke in the house of his aunt Maymuna, looked at the sky, then recited the concluding verses of Surah Al-Imran beginning with verse 190. This established a Sunnah connection between tafakkur — reflection on the creation of the heavens — and the act of night worship."
+    },
+    {
+      "id": "3_23",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 190,
+      "question": "Ibn Uthaymeen made an important teaching about verse 190 and who qualifies as 'uli al-albab' (people of deep understanding). What did he emphasize?",
+      "options": [
+        "A) 'Uli al-albab' refers exclusively to formally trained Islamic scholars with ijazah",
+        "B) The signs in this verse are available to every believer regardless of education — the believer who watches the sunset reflectively is engaging in the tafakkur Allah calls for",
+        "C) 'Uli al-albab' is exclusively a title for the Companions of the Prophet",
+        "D) Contemplation of the natural world is only a supplementary optional act with no formal religious standing"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen emphasized that the signs of verse 190 are available to every human being regardless of educational level. The believer who watches the sunset or observes the stars with a grateful and reflective heart is engaging in the tafakkur that Allah calls for. This, as he taught, makes the entire observable universe a mosque for the reflective mind — democratizing spiritual inquiry."
+    },
+    {
+      "id": "3_24",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 199,
+      "question": "Ibn Kathir identifies two specific historical figures that verse 199 is most commonly linked to by classical scholars. Who are they?",
+      "options": [
+        "A) Heraclius the Byzantine emperor and a rabbi of Banu Qaynuqa",
+        "B) Abdullah ibn Salam, a Jewish rabbi who accepted Islam, and the Negus (Ashama) of Abyssinia who sheltered the early Muslim emigrants",
+        "C) Waraqah ibn Nawfal and the Christian monk Bahira",
+        "D) Two unnamed Christian scholars from the Najran delegation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that verse 199 was linked by classical scholars to Abdullah ibn Salam, a Jewish rabbi who embraced Islam, and to the Negus (Ashama ibn Abjar) of Abyssinia. The Prophet prayed the funeral prayer in absentia for the Negus, calling him a righteous man who had believed in his heart while protecting the early Muslim emigrants."
+    },
+    {
+      "id": "3_25",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 200,
+      "question": "The final verse of Surah Al-Imran contains four imperative commands: persevere individually (isbiru), compete in patience (sabiru), remain stationed in vigilance (rabitu), and maintain God-consciousness (ittaqu Allah), all leading to the promise of success (falah).",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 200 contains precisely these four commands in ascending intensity. 'Isbiru' is individual endurance, 'sabiru' means competing with others in steadfastness, 'rabitu' is vigilant stationing at one's post, and 'ittaqu Allah' is the overarching God-consciousness. Al-Qurtubi identified these as covering the full spectrum of a believer's response to adversity."
+    },
+    {
+      "id": "3_26",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 200,
+      "question": "Imam Tabari records that Ibn Abbas and other companions interpreted 'rabitu' in verse 200 as referring to a specific act of worship. What was this interpretation, and which hadith supported it?",
+      "options": [
+        "A) Performing Hajj annually; supported by a hadith on its expiation of sins",
+        "B) Fasting on Mondays and Thursdays; supported by the Prophet's personal practice",
+        "C) Awaiting the next prayer after completing one; supported by a Sahih Muslim hadith where the Prophet said 'that is the ribat, that is the ribat'",
+        "D) Reciting Surah Al-Imran every morning; supported by a hadith in the Musnad of Imam Ahmad"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Tabari records that Ibn Abbas, Sahl ibn Hanif, and Muhammad ibn Ka'b al-Qurazi all interpreted 'rabitu' as awaiting the next prayer after completing one. This is anchored in the Sahih Muslim hadith in which the Prophet said: 'Performing proper ablution despite difficulty, taking many steps to the mosque, and awaiting the next prayer after prayer — that is the ribat, that is the ribat.'"
     }
   ]
 }

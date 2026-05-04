@@ -6,270 +6,285 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the word 'aflaha' (success) in verse 1 signify according to the tafsir?",
+      "question": "The opening word 'aflaha' in 'Qad aflaha al-mu'minun' is in the past tense. What does this grammatical choice convey about the believers' success?",
       "options": [
-        "Material wealth and power",
-        "Political victory over enemies",
-        "Lasting spiritual triumph through alignment with divine principles",
-        "Social status in society"
+        "A. The believers succeeded only in the past, not in the present",
+        "B. Success is divinely guaranteed and already settled for those who embody these qualities",
+        "C. The verse was revealed after the believers had already entered Paradise",
+        "D. Past-tense verbs in the Quran always refer to completed historical events only"
       ],
-      "correctAnswer": "C",
-      "explanation": "The word 'aflaha' derives from 'falaha', meaning to thrive or attain lasting victory rooted in spiritual cultivation rather than transient material gains."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that the particle 'qad' combined with the past-tense verb conveys absolute certainty, as if the success of believers is an accomplished fact in the knowledge of Allah. Sayyid Qutb similarly notes in Fi Zilal al-Quran that this grammatical choice establishes success as already decided for those who embody the qualities that follow."
     },
     {
       "id": "23_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 2,
-      "question": "According to the tafsir, 'khushu' (humility in prayer) refers only to physical stillness during prayer.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir records a hadith in which the Prophet said that ten verses were revealed to him in one night, and whoever establishes them will enter Paradise, referring to the first ten verses of Surah Al-Muminun.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Khushu is described as a blend of awe, stillness, and full mental presence before the Divine, involving the heart's connection to Allah, not merely physical stillness."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites this hadith on the authority of Uqbah ibn Amir, found in Sahih Muslim and the Musnad of Imam Ahmad, confirming the extraordinary spiritual weight of the opening verses of this surah."
     },
     {
       "id": "23_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 12,
-      "question": "According to verse 12, from what was humanity created?",
+      "verseNumber": 2,
+      "question": "What does the word 'khushu' primarily describe when applied to prayer in verse 2?",
       "options": [
-        "Pure water",
-        "Fire and light",
-        "An extract of clay (sulalatin min tin)",
-        "Air and dust"
+        "A. Praying the longest possible duration in each unit of prayer",
+        "B. A deep inner state of humility and reverent presence before Allah",
+        "C. Performing all five prayers in congregation at the mosque",
+        "D. Reciting lengthy surahs during each prayer"
       ],
-      "correctAnswer": "C",
-      "explanation": "The verse describes human creation from 'sulalatin min tin' - a refined essence or distilled substance extracted from clay."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that 'khushu' derives from the root kh-sh-a and describes a deep state of humility, reverence, and inner stillness in the presence of Allah. Ibn Mas'ud stated: 'When the heart has khushu, the limbs become still,' showing it is an inner quality first and foremost."
     },
     {
       "id": "23_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 11,
-      "question": "What is al-Firdaus according to verse 11?",
-      "options": [
-        "A garden on Earth",
-        "The highest paradise where believers dwell eternally",
-        "A river in heaven",
-        "The first level of paradise"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Al-Firdaus is described as the highest paradise, the ultimate reward for believers who embody the qualities mentioned earlier in the surah."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Wahbah al-Zuhayli argues in Al-Tafsir al-Munir that the three dimensions of khushu are khushu of the heart, khushu of the limbs, and khushu of the tongue expressed through measured recitation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli devotes considerable space in Al-Tafsir al-Munir to distinguishing these three dimensions of khushu, noting that the heart's humility is the essence, the limbs' stillness is the outward expression, and the tongue's measured recitation is its verbal form."
     },
     {
       "id": "23_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, what does the term 'mu'minun' (believers) specifically denote?",
+      "verseNumber": 3,
+      "question": "What did the Companion Qatadah say the word 'laghw' means in verse 3?",
       "options": [
-        "Those who merely claim to be Muslim",
-        "Those whose belief is perfected through submission to divine authority (wilayah)",
-        "Only those who pray five times daily",
-        "Anyone who recites the shahada"
+        "A. Sinful sexual conduct",
+        "B. Excessive eating and drinking",
+        "C. Everything that displeases Allah",
+        "D. Idle speech during communal worship"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai explains that 'mu'minun' denotes those whose belief (iman) is perfected through unwavering submission to divine authority (wilayah) and adherence to the guidance of the Ahlul Bayt."
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records in Jami al-Bayan that Qatadah, the prominent Tabi'i, defined laghw as everything that displeases Allah. Other early scholars said it means falsehood or foul language, and Tabari synthesizes these to encompass all idle, meaningless, and sinful speech or action with no benefit for one's deen or dunya."
     },
     {
       "id": "23_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to classical Shia exegesis, khushu (humility in prayer) is an active annihilation of ego (fana') before Allah's majesty.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical Shia exegetes describe khushu as not passive reverence but an active annihilation of ego before Allah's majesty, reflecting the principle that prayer is a microcosm of tawhid."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "The word 'zakah' in verse 4 carries dual meanings. Which pair best captures both meanings as explained in the tafsir?",
+      "options": [
+        "A. Prayer and fasting",
+        "B. Purification of the soul and obligatory almsgiving",
+        "C. Gratitude and pilgrimage",
+        "D. Charity and ritual sacrifice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that 'zakat' derives from the root z-k-w, meaning to grow pure, and carries both the meaning of soul purification and the obligatory financial almsgiving that is the third pillar of Islam. Ibn Kathir notes the root conveys growth, purification, and blessing simultaneously, and Mujahid and Qatadah understood it as tazkiyat al-nafs."
     },
     {
       "id": "23_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 11,
-      "question": "According to Tabatabai, what does 'inheritance' of al-Firdaus signify in Shia theology?",
-      "options": [
-        "Material inheritance from ancestors",
-        "A divinely ordained transfer of spiritual sovereignty to purified believers",
-        "Legal property rights",
-        "Political power"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai elucidates that 'inheritance' here transcends material connotations, signifying a divinely ordained transfer of spiritual sovereignty to the purified believers."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "True or false: Verse 9's instruction to guard the prayers creates a literary frame with verse 2, because the opening and closing of the list of believers' qualities both focus on prayer.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir notes this deliberate literary frame: salah opens the portrait of the believer in verse 2 with khushu in prayer and closes it in verse 9 with consistent guarding of all prayers, signaling that prayer is both the foundation and the crown of the believer's character."
     },
     {
       "id": "23_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 26,
-      "question": "What does Prophet Noah's plea for 'nusrah' (support) in verse 26 represent according to Shia exegesis?",
+      "verseNumber": 8,
+      "question": "Ibn Kathir cites the well-known hadith from Sahih Bukhari and Muslim about the three signs of the hypocrite. Which of the following is NOT one of those three signs?",
       "options": [
-        "A personal request for wealth",
-        "A manifestation that rejection of divine guidance necessitates divine intervention",
-        "A request for military assistance",
-        "A plea for more followers"
+        "A. When he speaks, he lies",
+        "B. When he makes a promise, he breaks it",
+        "C. When he is entrusted with something, he betrays it",
+        "D. When he prays, he prays showing off"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that Noah's call for nusrah arises from his recognition of divine truth, and its rejection by disbelievers necessitates divine intervention."
+      "correctAnswer": "D",
+      "explanation": "Ibn Kathir presents the three signs from the Sahihayn as: lying when speaking, breaking promises, and betraying trusts. He frames these as the negative mirror image of verse 8's praise of believers who are faithful to their amanat and ahd. Praying showing off is not part of this particular hadith."
     },
     {
       "id": "23_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary Shia scholars like Ayatollah Makarem Shirazi, what does 'success' in verse 1 ultimately mean?",
+      "verseNumber": 10,
+      "question": "Which contemporary scholar described verses 1 through 10 of this surah as presenting a 'complete alternative civilization built on faith rather than material power'?",
       "options": [
-        "Individual piety only",
-        "Harmonizing faith with ethical engagement in society",
-        "Accumulating wealth",
-        "Political power"
+        "A. Wahbah al-Zuhayli",
+        "B. Ibn Uthaymeen",
+        "C. Sayyid Qutb",
+        "D. Muhammad al-Sha'rawi"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary Shia thinkers emphasize that 'success' transcends individual piety; it's a call to harmonize faith with ethical engagement in society."
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb opens his commentary on this surah in Fi Zilal al-Quran with the observation that verse 1 presents a complete alternative civilization built on faith rather than material power, arguing that the Quran was establishing a new consciousness — a paradigm shift in how human beings evaluate themselves and their societies."
     },
     {
       "id": "23_10",
       "type": "trueFalse",
-      "layer": 3,
+      "layer": 2,
       "verseNumber": 11,
-      "question": "According to contemporary scholar Dr. Mohammad Ali Shomali, Firdaus represents escapism from worldly problems.",
+      "question": "True or false: According to Ibn Kathir, the Prophet instructed believers to ask specifically for al-Firdaws when asking Allah for Paradise, because it is the highest part of Paradise and above it is the Throne of the Most Merciful.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Dr. Shomali notes that Firdaus represents not escapism but the perfection of justice we're tasked to approximate now."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites the hadith from Abu Hurayra recorded in Sahih al-Bukhari: 'If you ask Allah for Paradise, then ask Him for al-Firdaws, for it is the middle of Paradise and the highest part, and above it is the Throne of the Most Merciful, and from it the rivers of Paradise spring forth.'"
     },
     {
       "id": "23_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 56,
-      "question": "How does verse 56 challenge modern materialism according to contemporary scholars?",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "Verse 12 says humans were created from 'sulalah min tin.' What does the word 'sulalah' specifically mean?",
       "options": [
-        "It encourages accumulation of wealth",
-        "It critiques the illusion that rapid material success equals divine favor",
-        "It promotes consumerism",
-        "It has no relevance to modern issues"
+        "A. A large quantity of clay poured into a mold",
+        "B. An extracted essence or refined portion drawn from something",
+        "C. The dried dust left after rain evaporates from the earth",
+        "D. The mixture of water and soil found in riverbeds"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Jawadi Amoli emphasize that this verse critiques the illusion that rapid material success equates to divine favor."
+      "explanation": "The tafsir explains that 'sulalah' means an extracted essence — the finest part drawn out of something. Fakhr al-Din al-Razi in Mafatih al-Ghayb notes that this word indicates selection and refinement, implying that the creation of the human body involved divine precision, not crude assembly."
     },
     {
       "id": "23_12",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 18,
-      "question": "What ecological message does verse 18 (about water) convey according to contemporary interpretation?",
-      "options": [
-        "Water is unlimited and can be wasted",
-        "Climate action is not a religious duty",
-        "Water is a sacred trust requiring stewardship and environmental consciousness",
-        "Water has no spiritual significance"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary interpretation frames water as a sacred trust, with the verse calling for environmental consciousness and sustainable stewardship of resources."
+      "verseNumber": 12,
+      "question": "True or false: Wahbah al-Zuhayli uses verse 12 to argue that the Quranic description of humanity as an extract ultimately tracing to clay makes racial and national distinctions spiritually weightless.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir notes that since all humanity shares a single material origin in clay, distinctions of race and national origin carry no ultimate weight — a point he connects to Surah Al-Hujurat's affirmation that the most honored in Allah's sight are those with the greatest taqwa, not the noblest lineage."
     },
     {
       "id": "23_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq, who are the 'successful believers' mentioned in verse 1?",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "The phrase 'khalqan akhar' in verse 14 marks a transformative moment in embryonic development. What does classical Sunni scholarship identify this 'another creation' as?",
       "options": [
-        "Those with the most wealth",
-        "Those who anchor their faith in the love of Ali and his descendants",
-        "Those who hold political power",
-        "Those with the largest families"
+        "A. The moment the embryo first develops a heartbeat",
+        "B. The moment the skull and spine fully form",
+        "C. The moment Allah breathes the soul into the developing fetus",
+        "D. The moment of implantation in the womb"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq explains, 'The successful ones are those who anchor their faith in the love of Ali and his descendants, for they are the Ark of Salvation.'"
+      "correctAnswer": "C",
+      "explanation": "Classical Sunni scholarship identifies 'khalqan akhar' as ensoulment — when Allah breathes His spirit into the fetus, transforming biological matter into a full human being. Ibn Kathir connects this to the hadith of Ibn Masud in Sahih Bukhari and Muslim about the angel who breathes the soul into the child at 120 days."
     },
     {
       "id": "23_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Lady Fatimah (AS), the keys to Firdaus include a tongue moist with Allah's remembrance, a purified heart through love for the Awliya, and hands raised in service to creation.",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "True or false: Verse 15 announces death immediately after describing the wonder of human creation in verse 14, and this placement is deliberate — it prevents believers from becoming lost in wonder at birth without remembering the reality of death.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Lady Fatimah taught that 'The keys to Firdaus's gates are found in three: the tongue moist with Allah's remembrance, the heart purified through love for His Awliya, and the hands raised in service to His creation.'"
+      "explanation": "The tafsir explains that this placement keeps human consciousness honest and awake. Sayyid Qutb writes in Fi Zilal al-Quran that the surah inserts the reality of death like a sudden interruption, which is the Quran's method of preventing spiritual heedlessness. The Prophet encouraged remembrance of death as a heart-purifying practice."
     },
     {
       "id": "23_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 26,
-      "question": "According to Imam Ali, what becomes the believer's 'ark of salvation' when facing rejection?",
+      "layer": 3,
+      "verseNumber": 16,
+      "question": "Ibn Uthaymeen emphasized what particular quality that belief in resurrection must have in a Muslim's heart, beyond being a theoretical doctrine?",
       "options": [
-        "Material wealth",
-        "Political alliances",
-        "Connection to Allah through wilayah (divine guardianship)",
-        "Military strength"
+        "A. It should motivate believers to memorize the entire Quran",
+        "B. It should be active and operational, transforming how one prays, deals with others, and makes moral choices",
+        "C. It should lead believers to perform Hajj as frequently as possible",
+        "D. It should cause believers to withdraw from worldly affairs and focus only on worship"
       ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali taught that when firmly grasping the rope of Allah, the waves of trials cannot drown the believer - the connection to Allah through wilayah becomes their ark of salvation."
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen stressed in his recorded lessons that belief in resurrection must be active and operational in a Muslim's heart, not merely theoretical. The verse's direct second-person address — 'you will be resurrected' — makes the promise personal and immediate rather than abstract."
     },
     {
       "id": "23_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 56,
-      "question": "According to Imam Jafar al-Sadiq, when Allah loves a servant, He grants them worldly ease while keeping their hearts blind to the hereafter.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Imam al-Sadiq taught the opposite: 'When Allah loves a servant, He immerses them in the trials of this world... But when He dislikes a servant, He grants them worldly ease while their hearts remain blind to the hereafter.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "What does Imam al-Tabari say distinguishes Prophet Nuh's mission as particularly significant in the chain of prophets?",
+      "options": [
+        "A. He was the only prophet to perform a miracle witnessed by all of humanity",
+        "B. He was the first messenger sent after idolatry appeared among humans",
+        "C. He received the most extensive written scripture of any pre-Quranic prophet",
+        "D. He was the only prophet whose community was saved without exception"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records in Jami al-Bayan that Nuh was the first messenger sent to a people who had committed shirk. Before Nuh, mankind followed the natural monotheism of the fitrah for ten generations after Adam, until people began worshipping idols including Wadd, Suwa, Yaghuth, Ya'uq, and Nasr, as mentioned in Surah Nuh."
     },
     {
       "id": "23_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a shared point between Sunni and Shia exegesis regarding verse 1?",
-      "options": [
-        "They disagree on everything",
-        "Both agree that falah (success) encompasses worldly prosperity and eternal salvation, contingent upon sincere faith",
-        "Only Sunni scholars accept the verse",
-        "Only Shia scholars interpret it"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both Sunni and Shia exegetes broadly concur that falah (success) encompasses both worldly prosperity and eternal salvation, contingent upon sincere faith and righteous action."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "True or false: The closing clause of verse 18 — 'We are able to take it away' — is interpreted in the tafsir as a reminder that water is a continuous divine gift rather than a self-sustaining resource, encouraging gratitude and responsible stewardship.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains that this clause is not a threat but a clarification. Ibn Kathir treats it as an implicit reminder of human dependence. Wahbah al-Zuhayli uses it to derive an obligation of environmental stewardship, noting that contemporary Islamic scholars cite this verse when discussing the prohibition on wasting water even in ritual ablution."
     },
     {
       "id": "23_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 11,
-      "question": "Both Sunni and Shia traditions agree that eternal abode in Firdaus is contingent upon faith (iman) and righteous deeds (amal salih).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "All traditions stress that eternal abode is contingent upon faith (iman) and righteous deeds (amal salih), with both Tabrisi and Razi noting the verse's connection to preceding verses outlining moral virtues."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 35,
+      "question": "Sayyid Qutb connects the chiefs' denial of resurrection in verse 35 to what he calls the 'ideology of the powerful.' What does he mean by this phrase?",
+      "options": [
+        "A. Wealthy people are always more educated and therefore more skeptical of religion",
+        "B. Those who benefit from the current social order have a stake in there being no final accountability",
+        "C. Powerful nations historically suppressed religious texts to maintain political control",
+        "D. Wealth gives people access to philosophical arguments that undermine faith"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qutb in Fi Zilal al-Quran argues that the chiefs who denied resurrection had an existential interest in there being no Day of Judgment, because the justice they denied others in this world will be demanded of them in the next. He presents their theological denial as a rationalization of their moral failures."
     },
     {
       "id": "23_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "How does Shia exegesis extend Prophet Noah's struggle differently from Sunni interpretation?",
-      "options": [
-        "Shia sources reject Noah's prophethood",
-        "Shia sources link Noah's experience to the cosmic struggle between haqq and batil and the trials of the Ahlul Bayt",
-        "There is no difference between the traditions",
-        "Sunni sources emphasize the cosmic dimension more"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia sources extend Noah's story to a metaphysical principle, linking his experience to the cosmic struggle between truth (haqq) and falsehood (batil), often contextualized within the narrative of the Ahlul Bayt's trials."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 36,
+      "question": "True or false: According to Imam al-Tabari, the Arabic exclamation 'hayhata hayhata' was a recognized classical Arabic expression used to dismiss something as utterly far-fetched and beyond all possibility.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari records in Jami al-Bayan that 'hayhata hayhata' was well known in classical Arabic as an expression of extreme remoteness and impossibility, citing multiple chains from Companions and their successors confirming that Arabs used this phrase to dismiss things as absolutely beyond reach."
     },
     {
       "id": "23_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 56,
-      "question": "What do both Sunni and Shia commentators agree about divine blessings in verse 56?",
+      "layer": 1,
+      "verseNumber": 100,
+      "question": "What is the barzakh described in verse 100, and why does Allah say 'Kalla!' (No!) to the dying person's request?",
       "options": [
-        "They always indicate divine approval",
-        "They may serve as a trial rather than an endorsement of the recipient's spiritual state",
-        "They should be rejected by believers",
-        "They are only for disbelievers"
+        "A. The barzakh is the final judgment hall, and 'Kalla' means the verdict cannot be appealed",
+        "B. The barzakh is the intermediate realm between death and resurrection, and 'Kalla' is an absolute refusal because the test of life has concluded",
+        "C. The barzakh is the narrow bridge over Hell, and 'Kalla' means the person cannot flee across it",
+        "D. The barzakh is the record of deeds, and 'Kalla' means those deeds cannot be altered"
       ],
       "correctAnswer": "B",
-      "explanation": "Both traditions converge on the core theme that divine blessings may serve as a trial rather than an endorsement of the recipient's spiritual state."
+      "explanation": "The tafsir explains that 'barzakh' means a barrier between two things, here referring to the intermediate realm where the soul exists after death. Ibn Kathir notes that 'kalla' is used in the Quran exclusively in contexts of firm refusal, and Mujahid defined barzakh as 'a barrier between this world and the Hereafter.'"
+    },
+    {
+      "id": "23_21",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 105,
+      "question": "In the Hereafter scene of verse 105, what question does Allah confront the disbelievers with to establish their complete accountability?",
+      "options": [
+        "A. 'Did you not witness My signs in the heavens and earth?'",
+        "B. 'Were not My verses recited to you, and you used to deny them?'",
+        "C. 'Did I not warn you that the Day of Judgment would come?'",
+        "D. 'Were you not given wealth and time to reflect?'"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 105 records the divine question: 'Were not My verses recited to you, and you used to deny them?' This establishes the completeness of the proof against them. Al-Qurtubi notes the full chain of divine mercy implied: messengers sent, books revealed, intellect and senses given — leaving them with no argument on the Day of Judgment."
+    },
+    {
+      "id": "23_22",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 106,
+      "question": "True or false: In their confession recorded in verse 106, the people in Hell say 'Our Lord, our wretchedness overcame us and we were a people astray,' acknowledging personal responsibility rather than blaming fate or external circumstances.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir highlights that this confession reveals the Islamic principle of personal responsibility — they acknowledge their own misguidance rather than claiming victimhood of fate. Ibn Kathir connects it back to verse 105, noting that their admission confirms they cannot claim ignorance: the verses were recited to them and they habitually denied them."
     }
   ]
 }

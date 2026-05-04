@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir of Surah Al-Mulk, what does the term 'Tabarak' (Blessed) signify about Allah?",
+      "question": "The opening word 'Tabaraka' is used exclusively for Allah throughout the Quran. What does its root 'baraka' convey about Allah's nature according to the tafsir?",
       "options": [
-        "His physical presence in the world",
-        "Transcendence beyond human comprehension",
-        "His need for worship",
-        "His creation of angels"
+        "A. His power to punish those who disobey",
+        "B. His role as the sole creator of the physical universe",
+        "C. The abundance, permanence, and elevation of blessing that originates from Him",
+        "D. His distance and transcendence from all created things"
       ],
-      "correctAnswer": "B",
-      "explanation": "The term Tabarak (Blessed) signifies transcendence beyond human comprehension, affirming that all true nobility and perfection belong solely to Allah."
+      "correctAnswer": "C",
+      "explanation": "The layer 1 tafsir explains that 'Tabaraka' derives from 'baraka' meaning abundance, permanence, and elevation of blessing, conveying a superlative sense that Allah is the supreme source of all blessing whose goodness never diminishes. Wahbah al-Zuhayli in Al-Tafsir al-Munir notes this word has no equivalent in any human language for expressing transcendent and self-sustaining greatness."
     },
     {
       "id": "67_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 2,
-      "question": "According to verse 2 of Al-Mulk, Allah created death and life to test which of us is best in deed.",
+      "verseNumber": 1,
+      "question": "True or false: The phrase 'biyadihi al-mulk' in verse 1 establishes that sovereignty over all creation belongs exclusively to Allah, and an authentic hadith preserved by Imam Ahmad reports the Prophet saying this surah will intercede for its reciter until he is forgiven.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Allah states that He created death and life to test you as to which of you is best in deed. The phrase 'ahsan amalan' (best in deed) emphasizes quality over quantity."
+      "explanation": "The layer 1 tafsir confirms that 'biyadihi al-mulk' establishes complete ownership and governance of all creation belongs exclusively to Allah. It also records the authentic hadith narrated by Abu Hurayra and preserved in Imam Ahmad's Musnad: the Prophet said this surah of thirty verses will intercede for its reciter until he is forgiven."
     },
     {
       "id": "67_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabrisi in Majma al-Bayan, the phrase 'in whose hand is dominion' relates to which theological principle?",
+      "verseNumber": 2,
+      "question": "Ibn Kathir records the statement of Fudalah ibn Ubayd explaining what qualifies as 'best in deed' in verse 2. What were the two essential criteria he identified?",
       "options": [
-        "Tawhid al-af'ali (Oneness of Divine Acts)",
-        "Tawhid al-asma (Oneness of Names)",
-        "Tawhid al-sifat (Oneness of Attributes)",
-        "Tawhid al-dhati (Oneness of Essence)"
+        "A. Most frequent performance and most costly sacrifice",
+        "B. Most publicly witnessed and most widely praised by fellow Muslims",
+        "C. Most sincere toward Allah and most correct according to the Prophet's example",
+        "D. Most physically demanding and most long-lasting in worldly impact"
       ],
-      "correctAnswer": "A",
-      "explanation": "Tabrisi links the verse to the theological principle of tawhid al-af'ali (Oneness of Divine Acts), stressing that all cosmic and existential governance (tadbir) flows from Allah's singular authority."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records the statement of Fudalah ibn Ubayd that the best deed is that which is most sincere toward Allah and most correct according to the example of the Prophet. This dual criterion means neither good intention without proper method nor proper method without sincere intention is sufficient on its own."
     },
     {
       "id": "67_4",
       "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 2,
-      "question": "In Al-Mizan, Tabatabai explains that the Arabic text places 'death' before 'life' to signify death's primacy as a state preceding temporal existence.",
+      "verseNumber": 3,
+      "question": "True or false: Fakhr al-Din al-Razi uses verse 3 as a basis for a natural theology argument, holding that the harmony and consistency of the cosmos demands a Creator of infinite perfection, since chance processes could not produce a system without any discordance.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Tabatabai notes the inversion in the verse's phrasing - 'death and life' rather than 'life and death' - arguing that this linguistic choice signifies death's primacy as a pre-existing state preceding the temporal life granted to humanity."
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb develops the rational dimension of verse 3 extensively, presenting it as one of the Quran's arguments from natural theology: the harmony and consistency of the cosmos demand a rational Creator of infinite perfection, since chance processes could not produce a system free of any discordance. This is recorded in the layer 2 tafsir for verse 3."
     },
     {
       "id": "67_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 21,
-      "question": "According to contemporary scholar Dr. Reza Shah-Kazemi, what does verse 21's challenge about divine provision expose?",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "Ibn Kathir records Qatadah's statement that stars serve three distinct purposes. Which option correctly lists all three?",
       "options": [
-        "The importance of agriculture",
-        "Humanity's 'arrogance of ownership' through ecological exploitation",
-        "The need for more technology",
-        "The abundance of natural resources"
+        "A. Adornment for the heaven, signs for measuring prayer times, and markers of the seasons",
+        "B. Adornment for the heaven, missiles against the devils, and signs by which travelers navigate on land and sea",
+        "C. Sources of heat for the earth, instruments for measuring time, and evidence of Allah's power for disbelievers",
+        "D. Missiles against the devils, signs of the Hour's approach, and indicators of rainfall"
       ],
       "correctAnswer": "B",
-      "explanation": "Dr. Reza Shah-Kazemi notes that the verse exposes humanity's 'arrogance of ownership,' where ecological exploitation and hoarding wealth reflect the 'insolence and aversion' described in the Quran."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records directly from Qatadah that Allah created the stars for three purposes: as adornment for the heaven, as missiles against the devils, and as signs by which travelers navigate on land and sea. Ibn Kathir also clarifies it is not the large fixed stars themselves but flames or meteors derived from them that strike devils attempting to ascend to the heavens."
     },
     {
       "id": "67_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 12,
-      "question": "How does Ayatollah Naser Makarem Shirazi interpret 'fearing the Lord unseen' in contemporary context?",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "Verse 7 describes Hell producing a 'shahiq' when the disbelievers are thrown into it, while also being described as 'tafur.' What do these two Arabic terms mean?",
       "options": [
-        "As fear of punishment only",
-        "As mere ritual observance",
-        "As conscious ethical living that shapes moral choices even when societal structures fail",
-        "As avoiding public sins only"
+        "A. Shahiq means silent and dark; tafur means vast and deep",
+        "B. Shahiq means a roaring gasping sound; tafur means boiling and raging",
+        "C. Shahiq means the cries of its inhabitants; tafur means filled to capacity",
+        "D. Shahiq means blazing brightly; tafur means slow and consuming"
       ],
-      "correctAnswer": "C",
-      "explanation": "Ayatollah Shirazi emphasizes that 'fearing the Lord unseen' reflects a profound awareness of divine justice that shapes moral choices even when societal structures fail, transcending mere ritual."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'shahiq' describes the roaring, gasping sound of a creature in extreme distress, like the heaving breath of a donkey braying, while 'tafur' means boiling, raging, seething in a constant state of violent intensity that never subsides. The Quran uses this multi-sensory description to make the unseen reality of Hell vivid and urgent."
     },
     {
       "id": "67_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq (AS), what does the 'hand' mentioned in verse 1 refer to?",
-      "options": [
-        "Allah's physical hand",
-        "The power of angels",
-        "The authority (Wilayah) of Imam Ali and the Imams from his progeny",
-        "The prophets before Muhammad (PBUH)"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ja'far al-Sadiq illuminates: 'The hand mentioned here refers to the authority (Wilayah) of the Commander of the Faithful [Ali] and the Imams from his progeny, for they are Allah's proof upon creation.'"
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "True or false: In verse 8 the keepers of Hell ask arriving groups 'did no warner come to you?' and this question establishes that divine justice requires prior warning before punishment, a principle Imam Qurtubi connects to the broader Quranic teaching that Allah does not punish any people without first sending them a messenger.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Qurtubi in al-Jami li-Ahkam al-Quran discusses this question as establishing that divine warning is a precondition for divine punishment, connecting it to the broader Quranic principle that Allah does not punish any people without first sending them a messenger. The question creates a formal moment of accountability where the condemned themselves acknowledge the justice of their condemnation."
     },
     {
       "id": "67_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 21,
-      "question": "According to Imam Ja'far al-Sadiq (AS), true 'rizq' (sustenance) includes spiritual nourishment through the Wilayah of the Ahlul Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ja'far al-Sadiq explains that true rizq encompasses not just material needs but spiritual nourishment through the Wilayah of the Ahlul Bayt: 'Our love is the sustenance of hearts; whoever is deprived of it perishes.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 10,
+      "question": "Wahbah al-Zuhayli draws an important theological conclusion from verse 10, where the condemned admit 'had we but listened or reasoned.' What principle does he derive?",
+      "options": [
+        "A. The verse proves that reason is inferior to revelation and should not be used independently",
+        "B. The verse implicitly refutes determinism, since the condemned acknowledge their own faculties could have changed their fate",
+        "C. The verse shows that only hearing the Quran recited aloud counts as genuine listening",
+        "D. The verse teaches that reason is a burden that increases accountability rather than reducing it"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir draws out the theological point that this verse implicitly refutes determinism: if the condemned acknowledge that using their own hearing and reason would have changed their fate, then their damnation was not predetermined but was the consequence of choices they made with the faculties Allah gave them. He calls this one of the Quran's clearest affirmations of human moral responsibility."
     },
     {
       "id": "67_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 11,
-      "question": "What is a key difference between Shia and Sunni interpretations of the admission of sin in verse 11?",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "What does the word 'dhaloolan' mean in verse 15 where Allah says He made the earth 'dhaloolan' for humanity?",
       "options": [
-        "Sunni scholars reject the concept of divine justice",
-        "Shia exegetes connect the verse to consequences of rejecting Wilayah of the Ahlul Bayt",
-        "There is no difference between the traditions",
-        "Shia scholars focus only on predestination"
+        "A. Vast and expansive, so that it cannot be fully known",
+        "B. Tame and tractable, made gentle and manageable like an animal that has been made cooperative",
+        "C. Temporary and transient, reminding humanity not to become attached to it",
+        "D. Fruitful and productive, ensuring that it yields provision without human effort"
       ],
       "correctAnswer": "B",
-      "explanation": "While both traditions agree on divine justice and human accountability, Shia exegetes like Al-Qummi and Tusi connect the verse to the consequences of rejecting Wilayah (allegiance to the Ahlul Bayt), whereas Sunni scholars focus on individual accountability without this intermediary role."
+      "explanation": "The layer 1 tafsir explains that 'dhaloolan' is the word used in Arabic for an animal that has been made gentle and easy to work with, compliant to its rider. Allah has made this vast, potentially hostile planet into something manageable and livable. Ibn Kathir records from Ibn Abbas that it means the earth has been made accommodating and cooperative for human beings by divine will."
     },
     {
       "id": "67_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 19,
+      "question": "True or false: In Fi Zilal al-Quran, Sayyid Qutb argues that verse 19's description of birds being held aloft by 'Al-Rahman' rather than by any mechanical description of physics communicates that the universe was created by a personal, caring Lord rather than an indifferent cosmic force.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran explicitly makes this argument, writing that 'a sovereign who adorns creation for the delight of those He created is not an indifferent cosmic force but a personal, caring Lord.' He connects the use of Al-Rahman for the sustaining of birds to the surah's broader theme of a sovereign whose ongoing mercy is the real engine behind what appears to be impersonal physical processes."
+    },
+    {
+      "id": "67_11",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 2,
       "verseNumber": 21,
-      "question": "According to comparative tafsir, how do both Sunni and Shia scholars interpret Allah's sovereignty over provision (rizq)?",
+      "question": "Imam Tabari records that the word 'lajju' in verse 21 carries a specific sense in classical Arabic. What does it mean in the context 'they persisted in lajju'?",
       "options": [
-        "They disagree on all aspects",
-        "Both affirm Allah's absolute sovereignty and condemn human ingratitude (kufr al-ni'ma)",
-        "Only Shia scholars address this topic",
-        "Neither tradition addresses material provision"
+        "A. Gradual, reluctant withdrawal from the truth over many years",
+        "B. A single catastrophic act of rebellion against divine command",
+        "C. Pressing forward stubbornly against reason or logic, with willful determination",
+        "D. Silent, passive indifference to the warnings of the prophets"
       ],
-      "correctAnswer": "B",
-      "explanation": "Both Sunni and Shia commentators agree that the verse affirms Allah's absolute sovereignty over sustenance (rizq), condemning human ingratitude (kufr al-ni'ma) and spiritual arrogance, while their emphases differ on aspects like divine intermediaries."
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari in Jami al-Bayan records that 'lajju' in classical Arabic carries the sense of pressing forward stubbornly against resistance or logic. Paired with 'utuww' (arrogance) and 'nufur' (active aversion and flight from truth), the verse paints a precise psychological portrait: not simply ignorant, but stubbornly, arrogantly, actively fleeing from an obvious truth despite complete dependency on divine provision."
+    },
+    {
+      "id": "67_12",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "The final verse of Surah Al-Mulk asks who could bring flowing water if it sank into the earth. What is the significance of choosing water for the surah's closing challenge?",
+      "options": [
+        "A. Water is a theological symbol for the Quran itself, so the verse is really asking who can replace divine revelation",
+        "B. Water was the most pressing environmental concern for the Meccan community at the time of revelation",
+        "C. Water is the most immediate, undeniable precondition of biological life, making divine sovereignty over it the most concrete and universally undeniable argument",
+        "D. Water appears in the opening verse as part of divine sovereignty, creating an exact verbal parallel that closes the surah"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The layer 1 tafsir explains that water was chosen because it is 'not a theological abstraction but the most immediate, undeniable precondition of biological life.' Every person regardless of philosophy is entirely dependent on water for survival, making the question 'who could bring you flowing water?' the surah's most devastating and irrefutable argument for complete human dependence on divine provision. Imam Qurtubi observes that this provides perfect structural closure, beginning with Allah's hand holding sovereignty and ending with flowing water equally in that same hand."
     }
   ]
 }

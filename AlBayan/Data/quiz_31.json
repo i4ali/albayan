@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 12,
-      "question": "According to the tafsir, what is established as the foundation of wisdom (hikmah) in Luqman's story?",
+      "question": "When Allah granted Luqman wisdom, what was the very first instruction that accompanied that gift?",
       "options": [
-        "Intellectual knowledge",
-        "Gratitude (shukr) to Allah",
-        "Physical strength",
-        "Wealth and status"
+        "A) Establish the daily prayers",
+        "B) Be grateful to Allah",
+        "C) Teach your son about tawhid",
+        "D) Avoid idle speech and amusement"
       ],
       "correctAnswer": "B",
-      "explanation": "The command 'Be grateful to Allah' (anishkur lillah) establishes gratitude (shukr) as the foundation of wisdom. Luqman's wisdom wasn't mere intellect but divinely inspired knowledge applied ethically."
+      "explanation": "Verse 12 records that Luqman was given hikmah and immediately commanded 'Be grateful to Allah.' The tafsir notes a profound connection: a truly wise person recognizes that every blessing comes from Allah alone, and this recognition — when it moves from mind to heart to action — is genuine gratitude."
     },
     {
       "id": "31_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 13,
-      "question": "In verse 31:13, Luqman describes shirk (associating partners with Allah) as 'zulmun azim' meaning 'a tremendous injustice'.",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "True or false: The scholarly consensus among classical Sunni scholars, including Ibn Kathir and Imam al-Tabari, is that Luqman was a prophet.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Luqman counsels his son by declaring 'la tushrik billah' (do not associate partners with Allah), identifying shirk as 'zulmun azim' (a tremendous injustice), emphasizing the foundational Islamic principle of tawhid."
+      "correctAnswer": "false",
+      "explanation": "The majority of the Salaf, including Ibn Abbas and Saeed ibn al-Musayyib, held that Luqman was not a prophet but a righteous man — originally of Nubian or Ethiopian origin — whom Allah distinguished with wisdom. Ibn Kathir affirms this as the scholarly consensus in Tafsir al-Quran al-Azim."
     },
     {
       "id": "31_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 14,
-      "question": "According to classical Shia exegetes, what does the phrase 'wahnan ala wahnin' (weakness upon weakness) in verse 31:14 describe?",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "Luqman describes associating partners with Allah as 'zulm azeem.' What does the word 'zulm' primarily mean in Arabic?",
       "options": [
-        "The child's spiritual struggles",
-        "The father's financial burden",
-        "The mother's physical and emotional sacrifices during pregnancy and nursing",
-        "The difficulty of following religious laws"
+        "A) Disobedience to parents",
+        "B) Injustice — placing something where it does not belong",
+        "C) A grave sin requiring a specific expiation",
+        "D) Ingratitude toward one's benefactor"
       ],
-      "correctAnswer": "C",
-      "explanation": "In Surah Luqman 31:14, Allah establishes parental rights as divinely ordained, with 'wahnan ala wahnin' poetically capturing the mother's unparalleled physical and emotional sacrifices during pregnancy and early childhood."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that zulm means injustice — specifically, placing something where it does not belong. Worshipping anything other than the Creator is the ultimate misplacement: directing to a created thing the reverence that belongs solely to the One who brought it into existence. Fakhr al-Din al-Razi notes that shirk is uniquely self-defeating since the very beings worshipped derive their power entirely from Allah."
     },
     {
       "id": "31_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 16,
-      "question": "What does the 'mustard seed' metaphor in verse 31:16 illustrate according to Tabatabai in Al-Mizan?",
-      "options": [
-        "The importance of small acts of charity",
-        "That no deed, regardless of how minute or hidden, escapes Allah's all-encompassing knowledge",
-        "The growth of faith from small beginnings",
-        "The insignificance of worldly matters"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The mustard seed metaphor illustrates that no deed, regardless of its minute scale or concealment, escapes Allah's omniscience. Even an atom's weight hidden in a rock, heavens, or earth will be brought forth by Allah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "True or false: The phrase 'min azm al-umur' at the end of verse 17 means that prayer, enjoining good, forbidding evil, and patience are optional acts of distinction rather than weighty obligations.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran confirms that 'azm al-umur' refers to matters of supreme importance that require firm resolve — these are among the weightiest obligations entrusted to believers, not optional extras. Luqman's inclusion of patience immediately after shows his awareness that moral engagement invites opposition."
     },
     {
       "id": "31_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 17,
-      "question": "According to contemporary Shia scholars, what are the four essential pillars Luqman advises his son in verse 31:17?",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "Which prominent Companion did Ibn Kathir cite as interpreting 'lahw al-hadith' specifically as singing — and reportedly gave this answer three times for emphasis?",
       "options": [
-        "Fasting, charity, pilgrimage, and jihad",
-        "Prayer, enjoining good, forbidding evil, and patience",
-        "Reading, writing, teaching, and learning",
-        "Wealth, health, family, and community"
+        "A) Abu Bakr al-Siddiq",
+        "B) Umar ibn al-Khattab",
+        "C) Ibn Masud",
+        "D) Abu Hurairah"
       ],
-      "correctAnswer": "B",
-      "explanation": "In verse 31:17, Luqman imparts four essential injunctions: establishing prayer (iqamat al-salat), enjoining good (amr bil-ma'ruf), forbidding evil (nahi anil-munkar), and steadfastness/patience (sabr) in adversity."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records that when Ibn Masud was asked about the meaning of 'lahw al-hadith,' he replied emphatically three times that it refers to singing. Ibn Abbas, Jabir ibn Abd Allah, Mujahid, and Ikrimah shared similar interpretations. Imam Tabari concludes the verse encompasses all speech or amusement that diverts a person from Allah's path."
     },
     {
       "id": "31_6",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Contemporary scholars view the Quran's 'wisdom' (hikmah) as static knowledge that cannot be applied to modern challenges like climate change or AI ethics.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Contemporary scholars emphasize that the Quran's wisdom is not static but a dynamic force. Shia educators use verses like 31:2 to bridge theology with modern challenges, from AI ethics to social equity, reinforcing the Quran's role as a living, adaptive guide."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "Which Companion did Ibn Kathir report as the occasion of revelation (sabab al-nuzul) for verse 15, after his mother threatened to starve herself to pressure him into renouncing Islam?",
+      "options": [
+        "A) Bilal ibn Rabah",
+        "B) Saad ibn Abi Waqqas",
+        "C) Ammar ibn Yasir",
+        "D) Khabbab ibn al-Aratt"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir references a narration recorded by al-Tabarani in which Saad ibn Abi Waqqas stated these verses concerned his situation. His mother swore to neither eat nor drink until he renounced the faith; Saad refused, and the verse was revealed vindicating his position: refuse shirk, yet accompany parents with kindness."
     },
     {
       "id": "31_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 12,
-      "question": "According to Ahlul Bayt teachings, who are described as the 'speaking Quran' (Quran natiq) and the interpreters of Quranic wisdom?",
-      "options": [
-        "All Muslim scholars",
-        "The Ahlul Bayt (the Prophet's purified progeny)",
-        "The Companions of the Prophet",
-        "The angels"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (p) said, 'The Quran is the guide, but it does not speak. It needs an interpreter, and the interpreters are the Ahlul Bayt.' The Ahlul Bayt are the 'speaking Quran' (Quran natiq) tasked with preserving and explicating divine guidance."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "True or false: Imam al-Tabari reports that verse 27 — about trees as pens and oceans as ink — may have been revealed in response to a challenge from Jewish scholars who argued a verse about human knowledge contradicted the Quran's claims.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari records a reported context (sabab al-nuzul) in which Jewish scholars in Madinah cited a verse about limited human knowledge as a challenge. This verse was revealed to affirm that even all revealed knowledge combined is a negligible fraction of Allah's infinite knowledge. Ibn Kathir cross-references a parallel image in Surah al-Kahf (18:109)."
     },
     {
       "id": "31_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to hadith from Imam Ja'far al-Sadiq (AS), what do the letters Alif, Lam, Meem at the opening of Surah Luqman symbolize?",
+      "layer": 3,
+      "verseNumber": 17,
+      "question": "Wahbah al-Zuhayli explains why Luqman places prayer before enjoining good and forbidding evil in verse 17. What is that reason according to Al-Tafsir al-Munir?",
       "options": [
-        "Heaven, Earth, and the Sea",
-        "Past, Present, and Future",
-        "Allah, Gabriel (Jibrail), and Muhammad (SAWS)",
-        "Knowledge, Wisdom, and Power"
+        "A) Prayer is the easiest command and should precede harder ones",
+        "B) Prayer is the spiritual root that powers the moral courage needed for da'wah and social engagement",
+        "C) Prayer takes priority because it is the only purely individual obligation in the list",
+        "D) Prayer was the first pillar revealed, so it comes first in all counsel"
       ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ja'far al-Sadiq (AS) states: 'Alif is Allah, Lam is Gabriel, and Meem is Muhammad (SAWS)' (Tafsir al-Qummi). These letters symbolize the unbreakable covenant between Allah, His Messenger, and the divine chain of guidance."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explains that a Muslim who has not established his relationship with Allah through prayer cannot sustain the moral courage needed for commanding good and forbidding evil. Prayer is the spiritual root system; da'wah is the branches; and patience is what allows the whole tree to withstand the storms of adversity."
     },
     {
       "id": "31_9",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 15,
-      "question": "Both Shia and Sunni scholars agree that obedience to parents must be maintained even when parents command their children to commit shirk (associating partners with Allah).",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Verse 31:15 establishes that while parents deserve respect, their authority has limits. Both traditions agree that one must not obey parents in matters of shirk, though compassionate relations should be maintained. The phrase 'do not obey them' underscores the absolute priority of divine commandments."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 34,
+      "question": "Which of the following is NOT among the five categories of exclusive divine knowledge ('mafatih al-ghayb') enumerated in verse 34?",
+      "options": [
+        "A) The precise time of the Day of Judgment",
+        "B) What any soul will earn tomorrow",
+        "C) The names of those destined for Paradise",
+        "D) The land in which any soul will die"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The five categories in verse 34 are: knowledge of the Hour, the sending of rain, what is in the wombs, what a soul will earn tomorrow, and the land in which any soul will die. A hadith recorded in both Sahih Bukhari and Sahih Muslim confirms all five through the Prophet's own words."
     },
     {
       "id": "31_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 34,
+      "question": "True or false: Wahbah al-Zuhayli argues that modern medical ultrasound technology has effectively superseded the Quranic assertion that knowledge of what is in the womb belongs exclusively to Allah.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Zuhayli clarifies that these five categories refer to their complete, certain dimensions which remain with Allah alone. An ultrasound reveals biological data; Allah's knowledge encompasses the soul, its destiny, its faith, and every dimension of its existence — infinitely beyond what any technology can access. Probabilistic approximation is not divine certainty."
+    },
+    {
+      "id": "31_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 18,
-      "question": "What behavior does verse 31:18 prohibit, which both Sunni and Shia exegetes interpret as rooted in arrogance?",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "Sayyid Qutb observed a specific pedagogical reason why Luqman begins his counsel with the prohibition of shirk rather than with ritual practice. What is that reason according to Fi Zilal al-Quran?",
       "options": [
-        "Speaking loudly in the mosque",
-        "Turning one's cheek in contempt toward people and walking with pride",
-        "Eating in excess",
-        "Neglecting prayer times"
+        "A) Shirk is the easiest concept for children to grasp and should be addressed first",
+        "B) Correct theology must precede correct practice, because actions derive their spiritual validity from the worldview behind them",
+        "C) The Arab audience of Mecca was primarily guilty of shirk, making it the most urgent rebuke",
+        "D) Ritual commands can only be given after a formal declaration of faith"
       ],
       "correctAnswer": "B",
-      "explanation": "Verse 31:18 prohibits 'turning your cheek in contempt toward people' and 'walking through the earth exultantly.' Both traditions interpret this as rejecting disdainful behavior rooted in pride, which fractures social unity and violates human dignity."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that the Quran's pedagogical order here is deliberate: correct theology must precede correct practice because actions derive their spiritual validity from the intention and worldview behind them. A prayer offered from a confused theology is not the same as one offered from clarity of tawhid."
+    },
+    {
+      "id": "31_12",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 16,
+      "question": "In verse 16, Luqman tells his son that even a mustard-seed's weight of deed hidden in a rock will be brought forth by Allah. Which pair of divine names closes this verse?",
+      "options": [
+        "A) Al-Alim (All-Knowing) and Al-Qadir (All-Powerful)",
+        "B) Al-Haqq (The Truth) and Al-Mubin (The Clear)",
+        "C) Al-Latif (Subtle) and Al-Khabir (All-Aware)",
+        "D) Al-Sami (All-Hearing) and Al-Basir (All-Seeing)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The verse closes with Al-Latif (subtle, reaching hidden places) and Al-Khabir (acquainted with all details). These names, discussed in the layer 1 and layer 2 tafsir, affirm that Allah's awareness penetrates the smallest and most concealed realities — the theological foundation for the taqwa Luqman seeks to build in his son."
     }
   ]
 }

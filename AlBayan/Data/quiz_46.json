@@ -5,136 +5,161 @@
       "id": "46_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 15,
-      "question": "According to the tafsir, what is the total period mentioned for a mother's pregnancy and weaning of her child?",
+      "verseNumber": 3,
+      "question": "Verse 3 declares that the heavens and earth were created 'in truth' and 'for a specified term.' What does the phrase 'specified term' primarily refer to, according to the tafsir?",
       "options": [
-        "24 months",
-        "30 months",
-        "36 months",
-        "40 months"
+        "A. The lifespan of the Prophet Muhammad, peace be upon him",
+        "B. The Day of Resurrection, when this cosmic order reaches its divinely ordained conclusion",
+        "C. The period between the first and last prophets",
+        "D. The rotation cycle of the heavens around the earth"
       ],
       "correctAnswer": "B",
-      "explanation": "The Quran mentions that a mother carries her child and weans him over a period of thirty months, highlighting the immense sacrifice of motherhood."
+      "explanation": "Imam al-Tabari notes that 'the specified term' refers to the Day of Resurrection, the divinely fixed point when creation reaches its conclusion and accountability begins. The verse pairs purposeful creation with an inevitable end, refuting both nihilism and the belief that this world is eternal."
     },
     {
       "id": "46_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 21,
-      "question": "The term 'Al-Ahqaf' in the surah's name refers to the curved sand dunes where the people of 'Aad lived.",
+      "verseNumber": 9,
+      "question": "True or false: In verse 9, the Prophet declares himself to be a new and unprecedented type of messenger unlike all who came before him.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Al-Ahqaf literally means 'the curved sand dunes' and refers to the desert region in southern Arabia where the ancient people of 'Aad resided before their destruction."
+      "correctAnswer": "false",
+      "explanation": "The opposite is true. The Prophet is commanded to say he is not something new or unprecedented among the messengers, explicitly placing himself within the long, established line of prophets. He states he follows only what is revealed to him and that his role is that of a plain warner, not a sovereign over unseen outcomes."
     },
     {
       "id": "46_3",
       "type": "multipleChoice",
-      "layer": 2,
+      "layer": 1,
       "verseNumber": 15,
-      "question": "According to Tabatabai's Al-Mizan, what age represents spiritual maturity when a person should pray for guidance?",
+      "question": "Verse 15 states that the total period of a child's bearing and weaning is thirty months. Classical jurists combined this with verse 2:233 to derive which important ruling?",
       "options": [
-        "Age 30",
-        "Age 35",
-        "Age 40",
-        "Age 50"
+        "A. The maximum period of breastfeeding is thirty months",
+        "B. The minimum viable period of pregnancy is six months",
+        "C. A mother must breastfeed for exactly thirty months without exception",
+        "D. A child's custody transfers to the father at thirty months"
       ],
-      "correctAnswer": "C",
-      "explanation": "Tabatabai emphasizes that age forty represents the peak of spiritual maturity, when a person should offer the prayer mentioned in the verse asking Allah for guidance and righteous offspring."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi explains in Al-Jami li-Ahkam al-Quran that since verse 2:233 sets the maximum nursing period at twenty-four months, subtracting that from the thirty months in verse 15 yields a minimum pregnancy period of six months. This ruling was established by leading Companions and applied in early Islamic jurisprudence to protect women from unjust accusations."
     },
     {
       "id": "46_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 21,
-      "question": "According to classical Shia exegesis, who was the prophet sent to warn the people of 'Aad?",
-      "options": [
-        "Prophet Salih",
-        "Prophet Shuayb",
-        "Prophet Hud",
-        "Prophet Lut"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Prophet Hud was sent to the people of 'Aad in Al-Ahqaf, warning them to abandon idol worship and turn to Allah before facing divine punishment."
+      "verseNumber": 4,
+      "question": "True or false: Ibn Kathir explained that the triple challenge of verse 4 — show what the idols created, whether they shared in creating the heavens, and produce any scripture or transmitted knowledge supporting idol worship — was designed to expose that idol worship had no rational, theological, or textual foundation whatsoever.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir identifies three possible foundations for any religious claim: empirical observation, theological authority, and transmitted knowledge. Verse 4 challenges the polytheists on all three fronts simultaneously. He notes that since the Meccans already admitted Allah alone created the heavens and earth, the challenge to show what their idols created was itself a devastating exposure of their inconsistency."
     },
     {
       "id": "46_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 15,
-      "question": "Contemporary scholars highlight that the verse about parental kindness emphasizes which aspect of a mother's sacrifice?",
+      "layer": 2,
+      "verseNumber": 10,
+      "question": "Classical scholars debated whether the 'witness from the Children of Israel' in verse 10 refers specifically to the scholar Abdullah ibn Salam. What was Imam al-Tabari's preferred view on this question?",
       "options": [
-        "Financial contribution only",
-        "Physical hardship during pregnancy and nursing",
-        "Educational responsibilities",
-        "Social status in the family"
+        "A. He confirmed it refers to Abdullah ibn Salam based on hadith narrated by Sa'd ibn Abi Waqqas",
+        "B. He preferred the view that the verse refers generally to a type of righteous Israelite scholar, since the surah is Meccan and predates Abdullah's conversion in Medina",
+        "C. He held that the verse refers to the Prophet Moses himself",
+        "D. He argued that the identity of the witness is irrelevant to the verse's theological argument"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars emphasize that the verse specifically highlights the physical hardship mothers endure during pregnancy and the nursing period, underscoring why kindness to parents, especially mothers, is so strongly commanded."
+      "explanation": "Al-Tabari presents the positions of scholars such as Ikrimah, Al-Shabi, and Masruq who held that the specific identification with Abdullah ibn Salam cannot be correct because Surah Al-Ahqaf is Meccan, revealed before the Prophet's migration to Medina where Abdullah lived. Tabari therefore preferred the interpretation that the verse describes a general type of sincere Israelite scholar who recognised the Quran's truth through knowledge of prior scripture."
     },
     {
       "id": "46_6",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 20,
-      "question": "According to contemporary interpretation, the verse about the Day of Judgment warns that those who exhausted their pleasures in worldly life will face humiliation.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary scholars explain that this verse warns those who prioritized worldly pleasures over spiritual preparation will face humiliation on the Day of Judgment, serving as a reminder of divine accountability."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "When the people of Ad saw the punishment approaching as a large dark cloud, what did they say, and what was the divine response?",
+      "options": [
+        "A. They said 'this is a punishment from our Lord' and repented; Allah then withdrew the wind",
+        "B. They said 'this is a cloud bringing us rain'; Allah declared it was the very punishment they had been impatient to receive",
+        "C. They fell silent in fear; Allah then sent Hud to warn them one final time",
+        "D. They said 'our Lord has answered us'; the rain then came and flooded their valleys"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 24 describes one of the Quran's most dramatic ironies: after years of drought, the people of Ad celebrated the approaching storm cloud saying 'This will bring us rain.' Allah immediately corrected them: 'No, it is what you were seeking to hasten — a wind in which is a painful punishment.' Ibn Kathir notes their final conscious experience was one of false hope, which classical scholars saw as itself part of the divine retribution."
     },
     {
       "id": "46_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 15,
-      "question": "According to Ahlul Bayt traditions, what should a person do upon reaching maturity at age forty?",
-      "options": [
-        "Focus solely on worldly success",
-        "Pray for guidance, gratitude, and righteous offspring",
-        "Retire from religious obligations",
-        "Cease all worldly activities"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Ahlul Bayt teachings emphasize that upon reaching forty, one should offer the prayer mentioned in the verse, expressing gratitude for blessings, seeking guidance to do righteous deeds, and praying for righteous offspring."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 25,
+      "question": "True or false: After the wind destroyed the people of Ad, verse 25 describes their empty dwellings as the only things remaining, symbolising that the works of arrogance outlast their makers only as ruins and warnings.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 25 states that the wind, acting by command of its Lord, destroyed everything, leaving only the shells of their dwellings standing. Fakhr al-Din al-Razi notes the rhetorical power of this ending: the home is the ultimate symbol of human civilisation and continuity, and when only the empty shells remain, the total nature of the erasure becomes vivid — a permanent warning to future generations."
     },
     {
       "id": "46_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 22,
-      "question": "According to Ahlul Bayt teachings, how did the people of 'Aad respond to Prophet Hud's message?",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "How did Imam al-Qurtubi characterise Prophet Hud's declaration in verse 23, 'I see you are a people given to ignorance'?",
       "options": [
-        "They immediately accepted his guidance",
-        "They asked for time to consider",
-        "They challenged him with skepticism and demanded he bring the punishment",
-        "They remained silent"
+        "A. As a personal insult that went beyond the bounds of prophetic conduct",
+        "B. As a form of bara'ah — a truthful diagnosis and a clear prophetic line drawn between divine truth and those who wilfully reject it",
+        "C. As a sign that Hud had given up hope and was about to abandon his mission",
+        "D. As a rhetorical tactic intended to shame them into reconsidering"
       ],
-      "correctAnswer": "C",
-      "explanation": "The Ahlul Bayt traditions describe how the people of 'Aad arrogantly challenged Prophet Hud, demanding he bring upon them the punishment he warned about, showing their disbelief and rejection of divine guidance."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran describes Hud's statement as a form of bara'ah — prophetic dissociation from a wilfully corrupt worldview — constituting an honest assessment rather than a personal attack. Fakhr al-Din al-Razi adds that classical Arabic distinguished between simple ignorance and 'compound ignorance' (being ignorant while believing oneself knowledgeable), and the people of Ad exemplified the latter, making Hud's characterisation precisely accurate."
     },
     {
       "id": "46_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 19,
-      "question": "Both Shia and Sunni scholars agree that verse 19 about 'degrees according to deeds' emphasizes which principle?",
+      "layer": 3,
+      "verseNumber": 29,
+      "question": "Contemporary scholar Sayyid Qutb read the episode of the jinn listening at the valley of Nakhla as a moment of divine consolation. What was the specific context that made this consolation so profound?",
       "options": [
-        "That all believers receive equal rewards",
-        "That divine justice assigns rewards and punishments based on one's actions",
-        "That ancestry determines one's spiritual rank",
-        "That wealth determines one's status in the afterlife"
+        "A. The Prophet had just returned from the successful conquest of a nearby tribe",
+        "B. The Prophet had endured the painful rejection at Taif and was returning at the lowest point of his prophetic career when the jinn came to listen",
+        "C. The Prophet was preparing for the migration to Medina and needed reassurance",
+        "D. The Prophet had been challenged by a prominent Jewish scholar and was uncertain of the response"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Shia and Sunni traditions agree that this verse establishes the principle of divine justice, where each person will receive recompense proportional to their deeds, with neither excess nor deficiency."
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb writes that the Prophet had experienced the most painful rejection of his prophetic career at Taif — humiliated and driven out. On the return journey, at the lowest point, Allah arranged an audience from another world to receive his recitation with total attentiveness and immediate conviction. Qutb writes: 'The message is never lost; if one people rejects it, another receives it.'"
     },
     {
       "id": "46_10",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 23,
-      "question": "Shia and Sunni scholars both emphasize that Prophet Hud's response to the disbelievers demonstrated that knowledge of divine punishment's timing belongs only to Allah.",
+      "layer": 2,
+      "verseNumber": 30,
+      "question": "True or false: The jinn described the Quran as confirming what came before it because, according to Ibn Kathir, the Quran validates the original truths conveyed through Moses — monotheism, moral accountability, and prophetic guidance — even if the current human texts of the Torah had undergone alteration.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions agree that when the people of 'Aad demanded to know when the punishment would come, Prophet Hud's response affirmed that such knowledge belongs solely to Allah, highlighting the limits of human knowledge compared to divine omniscience."
+      "explanation": "Ibn Kathir explains that 'confirming what came before it' does not mean uncritical agreement with the Torah as it stood in the Prophet's time, since that text had been subject to human alteration. Rather, it means the Quran confirms the original truths delivered by Moses: monotheism, divine law, moral accountability, and the promise of a final messenger. This is what the jinn recognised upon hearing the Quran."
+    },
+    {
+      "id": "46_11",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 15,
+      "question": "Sayyid Qutb, commenting on the mother's 'hardship' (kurh) during both pregnancy and delivery in verse 15, made which observation about the nature of that hardship?",
+      "options": [
+        "A. That it proves women are naturally stronger than men and require less spiritual support",
+        "B. That Quranic language 'kurhan' carries within it the entire emotional weight of a mother's love — that her suffering is not experienced as a burden but as an expression of the most profound human generosity, which obligates the child to respond with ihsan",
+        "C. That the hardship is primarily financial and the father must therefore compensate with increased support",
+        "D. That the mother's suffering is mentioned to encourage fathers to play an equal role in childcare"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb writes with deep sensitivity that 'kurhan' carries within it the entire emotional weight of a mother's love. Her suffering is not experienced as a burden but as an expression of the most profound human generosity — and it is precisely this self-giving that obligates the child to respond with the highest form of goodness, the ihsan commanded at the verse's opening."
+    },
+    {
+      "id": "46_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 35,
+      "question": "The final verse commands the Prophet to be patient like the 'Messengers of Resolve.' Ibn Uthaymeen extended this command beyond its immediate prophetic context to which broader category of believers?",
+      "options": [
+        "A. Specifically to Muslim rulers who face political opposition",
+        "B. Every Muslim caller to Islam and every believer experiencing hardship, directing them to draw from the reservoir of prophetic patience rather than personal endurance alone",
+        "C. Only to scholars engaged in academic debates with secular philosophers",
+        "D. Exclusively to Muslims living as minorities in non-Muslim countries"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sheikh Ibn Uthaymeen taught that the command to prophetic patience in verse 35 is a model for every Muslim da'i and every person of faith facing hardship. They are to connect themselves to the unbroken chain of resolute messengers — Noah, Ibrahim, Moses, Jesus, and Muhammad — drawing from that spiritual reservoir rather than relying on personal endurance alone, understanding that their trials are dwarfed by prophetic precedent."
     }
   ]
 }

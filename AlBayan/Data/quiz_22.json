@@ -3,268 +3,238 @@
   "questions": [
     {
       "id": "22_1",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the term 'zalzala' (convulsion) in verse 1 symbolize?",
-      "options": [
-        "A minor earthquake",
-        "Physical and spiritual destabilization when the natural order collapses",
-        "A simple tremor before prayer",
-        "The movement of pilgrims during Hajj"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The choice of 'zalzala' (earthquake) evokes imagery of cosmic disruption, symbolizing both physical and spiritual destabilization when the natural order collapses under divine command."
+      "question": "The opening verse of Surah Al-Hajj describes the zalzalah of the Hour as a cosmic event of tremendous magnitude that will affect all of humanity.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 1 describes the zalzalah (convulsion) of the Hour as 'shay'un azim' — a tremendous thing — using the universal address 'O mankind' to signal that this event encompasses all of humanity without exception."
     },
     {
       "id": "22_2",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 26,
-      "question": "Prophet Ibrahim was commanded to both reject shirk and purify the Kaaba for worshippers.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Allah instructs Ibrahim with two core principles: first, to reject all forms of shirk (associating partners with God), and second, to purify the House physically and spiritually for worshippers."
+      "verseNumber": 2,
+      "question": "What vivid scene does verse 2 use to illustrate the overwhelming terror of the Day of Judgment?",
+      "options": [
+        "Mountains crumbling into dust while seas dry up",
+        "People staggering as though drunk though they have not consumed anything",
+        "The sun rising from the west as stars fall from the sky",
+        "Angels descending in visible form to all of humanity simultaneously"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 2 describes nursing mothers abandoning their infants, pregnant women losing their pregnancies, and people appearing intoxicated yet sober — 'wa ma hum bi-sukara' — conveying the complete psychological overwhelm of that Day."
     },
     {
       "id": "22_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 27,
-      "question": "What does the phrase 'on every lean camel' in verse 27 symbolize?",
+      "verseNumber": 5,
+      "question": "Which sequence of embryonic stages does verse 5 list as evidence for the reality of resurrection?",
       "options": [
-        "The wealth of pilgrims",
-        "The physical and economic sacrifices pilgrims historically made",
-        "The speed of travel to Mecca",
-        "The type of animal required for sacrifice"
+        "Nutfah, then alaqah, then mudghah, then birth as an infant",
+        "Alaqah, then nutfah, then mudghah, then bone",
+        "Mudghah, then alaqah, then dust, then bone",
+        "Nutfah, then mudghah, then alaqah, then spirit"
       ],
-      "correctAnswer": "B",
-      "explanation": "The phrase 'rijalan' (on foot) and 'ala kulli damir' (on every lean camel) highlights the physical and economic sacrifices pilgrims historically made, journeying from remote areas."
+      "correctAnswer": "A",
+      "explanation": "Verse 5 traces human development from dust (turab), then nutfah (sperm-drop), then alaqah (clinging clot), then mudghah (lump of flesh — both formed and unformed), then birth as an infant. The God who accomplished this journey can also restore life after death."
     },
     {
       "id": "22_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 32,
-      "question": "What does the term 'sha'a'ir Allah' (symbols of Allah) encompass according to the tafsir?",
-      "options": [
-        "Only the Kaaba",
-        "The Quran alone",
-        "The rituals of Hajj, the Kaaba, sacrificial animals, and acts of worship tied to sacred spaces",
-        "Only the five daily prayers"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The term 'sha'a'ir' encompasses the visible rites and symbols established by Allah, such as the rituals of Hajj, the Kaaba, the sacrificial animals (hady), and other acts of worship tied to sacred spaces and times."
+      "verseNumber": 11,
+      "question": "The person described in verse 11 as worshipping Allah 'on an edge' is someone whose faith becomes stronger and more deeply rooted when hardship strikes.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 11 describes a person whose faith collapses under trial: if good comes they are content, but if fitna strikes he turns on his face, abandoning Islam — the Quran calls this the manifest loss of both worlds."
     },
     {
       "id": "22_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, what does the 'convulsion of the Hour' symbolize in Shia eschatology?",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "When Allah commanded Ibrahim to proclaim Hajj to all people, verse 27 describes pilgrims responding by coming in what manner?",
       "options": [
-        "A natural disaster only",
-        "Societal and spiritual upheavals preceding the reappearance of Imam Mahdi",
-        "The end of all religions",
-        "A metaphor for sleep"
+        "Only by sea and during the officially appointed months of the year",
+        "On foot and on lean camels from every distant mountain pass",
+        "In large organized groups led by appointed guides from every nation",
+        "Only during the sacred months by the permission of the ruling authority"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia commentators like Tabatabai interpret the 'zalzala' as symbolizing societal and spiritual upheavals preceding the reappearance of Imam Mahdi, whom Shia tradition holds as the eschatological restorer of divine justice."
+      "explanation": "Verse 27 promises that pilgrims will come 'rijalan' (on foot) and on every lean camel, arriving from 'kulli fajjin amiq' — every deep mountain pass — in response to Ibrahim's proclamation, fulfilling Allah's promise across all generations."
     },
     {
       "id": "22_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 11,
-      "question": "According to classical Shia exegesis, worshipping Allah 'on an edge' refers to faith that is contingent on worldly circumstances rather than rooted conviction.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Allama Tabatabai unpacks the 'edge' as symbolic of spiritual instability, likening such believers to one standing precariously at a cliff's brink, their faith contingent on circumstance rather than rooted conviction."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 39,
+      "question": "What reason does verse 39 explicitly state for granting the believers permission to fight?",
+      "options": [
+        "To establish Islamic governance over all territories",
+        "To avenge the deaths of Muslims in Mecca",
+        "Because they were wronged",
+        "Because their enemies had broken a formal peace treaty"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 39 states 'udhina li-alladhina yuqataluna bi-annahum zulimu' — permission is given to those who are fought because they were wronged. The justification is explicitly defensive and rooted in injustice suffered."
     },
     {
       "id": "22_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 26,
-      "question": "According to Tabrisi in Majma al-Bayan, what does 'purify My House' signify in Shia thought?",
-      "options": [
-        "Physical cleaning only",
-        "Both literal and symbolic mandate requiring expulsion of moral and ideological impurities",
-        "Removing animals from the Kaaba",
-        "Painting the Kaaba white"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The directive to 'purify My House' is understood in Shia thought as both a literal and symbolic mandate, requiring the expulsion of moral and ideological impurities."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 73,
+      "question": "The fly parable of verse 73 argues that all false gods combined could not create a single fly, and if a fly snatched something from them they would be powerless to retrieve it.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 73 states that if all those called upon besides Allah gathered together they could not create a fly, and that fly could snatch from them and they could not recover it — exposing both the inability to create and the inability to act, rendering worship of such entities irrational."
     },
     {
       "id": "22_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 41,
-      "question": "According to Tabatabai, what four sacred obligations must be fulfilled for legitimate authority according to verse 41?",
+      "verseNumber": 5,
+      "question": "Which hadith source did Ibn Kathir cite in his commentary on verse 5 to support the Quranic account of the stages of fetal development?",
       "options": [
-        "Fasting, charity, pilgrimage, faith",
-        "Establishing prayer, distributing zakat, enjoining good, and forbidding evil",
-        "Building mosques, teaching Quran, fasting, and fighting",
-        "Marriage, charity, fasting, and jihad"
+        "A hadith in Sahih al-Bukhari and Sahih Muslim narrated by Ibn Masud describing 40-day stages",
+        "A report attributed to Imam al-Shafi'i in his al-Umm describing the soul's arrival",
+        "A narration from Hasan al-Basri stating the stages were figurative descriptions",
+        "A medical treatise cited by Imam al-Tabari as conforming to Quranic language"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai elucidates that temporal authority (tamkin) is contingent upon fulfilling four sacred obligations: establishing prayer, distributing zakat, enjoining good (amr bil-ma'ruf), and forbidding evil (nahy anil-munkar)."
+      "correctAnswer": "A",
+      "explanation": "Ibn Kathir cited the famous hadith recorded in Sahih al-Bukhari and Sahih Muslim from Ibn Masud, in which the Prophet described the nutfah remaining forty days, then becoming an alaqah for forty days, then a mudghah — after which the angel breathes the soul into the fetus."
     },
     {
       "id": "22_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How does contemporary scholar Ayatollah Makarem Shirazi interpret the concept of 'taqwa' in verse 1?",
-      "options": [
-        "Just fear of punishment",
-        "An awakened ethical awareness aligning human actions with cosmic responsibility",
-        "Avoiding all social interactions",
-        "Only performing ritual prayers"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi emphasize that 'taqwa' here isn't mere fear but an awakened ethical awareness—a call to align human actions with cosmic responsibility."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 39,
+      "question": "Classical scholars including Imam al-Tabari and Ibn Kathir agree that verse 39 of Surah Al-Hajj is the first Quranic verse ever revealed granting permission for armed conflict.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari records reports from Ibn Abbas, Urwah ibn al-Zubayr, Qatadah, and others affirming this. Ibn Kathir in Tafsir al-Quran al-Azim also confirms this position, noting the passive 'udhina' (permission was given) as indicating divine authorization at the highest level."
     },
     {
       "id": "22_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 31,
-      "question": "According to contemporary Shia scholars, the warning against shirk in verse 31 can apply to modern idolatries like consumerism and nationalism.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary Shia scholars interpret this verse as a timeless warning against the fragmentation of human purpose. Today, this resonates as a critique of modern idolatries—consumerism, nationalism, or the cult of individualism."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 30,
+      "question": "In his commentary on verse 30, Ibn Kathir cited a hadith in which the Prophet paired false speech with which other major sin?",
+      "options": [
+        "Murder and theft from an orphan",
+        "Associating partners with Allah",
+        "Breaking family ties and consuming usurious interest",
+        "Abandoning the prayer and withholding zakat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records a hadith from Sahih al-Bukhari and Sahih Muslim in which the Prophet declared the greatest sins include associating partners with Allah and disobeying parents, then added: 'And false speech and false testimony' — repeating it so insistently that the companions wished he would stop, illuminating verse 30's pairing of idol worship and false speech."
     },
     {
       "id": "22_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 41,
-      "question": "How do contemporary scholars connect the verse's call to 'give zakat' with modern economics?",
-      "options": [
-        "Zakat is outdated and should be replaced",
-        "Zakat can address systemic inequality when integrated into progressive fiscal policies",
-        "Zakat should only be given to family members",
-        "Zakat is only relevant for agricultural societies"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Scholars like Dr. Mahmoud Vaezi highlight zakat's potential to address systemic inequality when integrated into progressive fiscal policies, framing zakat as both a spiritual duty and a tool for sustainable development."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 73,
+      "question": "According to a narration from Ibn Abbas preserved by Imam al-Tabari, in the fly parable of verse 73 the 'seeker' refers to the fly trying to escape from the idol.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Abbas stated 'the seeker is the idol and the sought is the fly' — meaning the idol would be seeking to reclaim what the fly snatched, yet cannot. This is the dominant reading recorded by al-Tabari and preferred by Ibn Kathir as most consistent with the context."
     },
     {
       "id": "22_12",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "The Kaaba's cubic form has been connected by scholars to the symmetry found in crystalline structures, symbolizing balance and harmony.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern physics offers a metaphor: the Kaaba's cubic form mirrors the symmetry found in crystalline structures or celestial orbits, symbolizing balance and harmony."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "Imam al-Tabari in Jami al-Bayan records whose opinion that the earthquake of verse 1 refers to the tremor occurring at the actual onset of the Day of Judgment itself?",
+      "options": [
+        "Hasan al-Basri and Qatadah",
+        "Ibn Abbas and Alqamah",
+        "Mujahid and Said ibn Jubayr",
+        "Ibn Umar and Abu Hurayrah"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Tabari records the view of Ibn Abbas and Alqamah that the zalzalah is the actual tremor of the Day of Judgment's arrival. He also records the view of Qatadah that it is a sign occurring before the Hour is established, but the Ibn Abbas and Alqamah view is the one Ibn Kathir also follows."
     },
     {
       "id": "22_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to the teachings of the Ahlul Bayt, what is 'taqwa' as described by Imam Ali in Nahj al-Balagha?",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran described Ibrahim's proclamation of Hajj in verse 27 as demonstrating which principle?",
       "options": [
-        "A heavy burden that weighs down the believer",
-        "The mount that carries its rider to safety on the Day of Great Terror",
-        "A form of punishment",
-        "Optional for believers"
+        "That Hajj was first practiced by the angels before being given to humanity",
+        "That a single divine command delivered through one man generated the greatest annual human gathering in recorded history",
+        "That Hajj attendance is only spiritually valid for those who travel by difficult means",
+        "That the call to pilgrimage was restricted to the Arabian peninsula until Islam's spread"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (as) elucidates in Nahj al-Balagha: 'Taqwa is the mount that carries its rider to safety on the Day of Great Terror.'"
+      "explanation": "Sayyid Qutb noted in Fi Zilal al-Quran that this single command to a lone prophet in a barren valley has generated, across fourteen centuries, the greatest annual gathering of human beings in history — growing rather than diminishing with time as a testament to divine power."
     },
     {
       "id": "22_14",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Imam Jafar al-Sadiq, what happens to believers who face trials with faith?",
+      "layer": 3,
+      "verseNumber": 40,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir described the inclusion of monasteries, churches, and synagogues alongside mosques in verse 40 as establishing which principle?",
       "options": [
-        "They become weaker",
-        "They are like gold: the fire does not diminish them but only purifies them",
-        "They lose their faith",
-        "They should avoid all hardships"
+        "That all religions are equally valid paths to salvation according to Islam",
+        "That Islam's defensive mission is universal in its commitment to preserving conditions for the worship of the One God",
+        "That Muslim rulers must financially subsidize non-Muslim religious institutions",
+        "That Islamic jurisprudence treats all houses of worship as legally equivalent to the mosque"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (as) taught, 'Believers are like gold: the fire does not diminish them but only purifies them' (al-Kafi)."
+      "explanation": "Al-Zuhayli notes in Al-Tafsir al-Munir that the explicit inclusion of sawami' (monasteries), biya' (churches), and salawat (synagogues) alongside mosques demonstrates that Islam's defensive purpose is not sectarian but universal — protecting wherever Allah's name is abundantly mentioned."
     },
     {
       "id": "22_15",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 26,
-      "question": "According to Lady Fatimah (as), the sanctity of the Kaaba mirrors the sanctity of Muhammad's household.",
+      "layer": 3,
+      "verseNumber": 75,
+      "question": "Muhammad al-Sha'rawi observed that verse 75 concludes with the divine names 'All-Hearing' and 'All-Seeing' to reassure believers that no sincere turning toward truth goes unnoticed by Allah.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Lady Fatimah (as) illuminates this in her famous sermon: 'The Kaaba's sanctity mirrors the sanctity of Muhammad's household. As you circle the House of Stone, circle the House of Revelation with your loyalty.'"
+      "explanation": "Muhammad al-Sha'rawi noted the beauty of closing a passage about false worship with the affirmation that Allah both hears and sees everything — no sincere effort to follow the prophetic path escapes divine awareness, and no act of rejecting His messengers goes unseen."
     },
     {
       "id": "22_16",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to the Ahlul Bayt teachings, what is the relationship between worship and justice?",
-      "options": [
-        "They are completely separate concepts",
-        "Justice of one hour is better than worship of sixty years",
-        "Worship is always superior to justice",
-        "Justice is only for rulers"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (as) taught that 'The justice of one hour is better than worship of sixty years' – preparing our souls for the Supreme Judge's scale."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 32,
+      "question": "According to Fakhr al-Din al-Razi in Mafatih al-Ghayb, the sha'air Allah (divine symbols) function only as a mirror reflecting the believer's existing inner piety outward.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Razi argued in Mafatih al-Ghayb that the sha'air function as two-way signs: they reflect the believer's inner state outwardly, but they also strengthen and deepen taqwa through regular performance — making them both an educational and devotional institution, not merely a passive reflection."
     },
     {
       "id": "22_17",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 11,
-      "question": "What is a key difference between Shia and Sunni interpretations of verse 11 regarding faith instability?",
+      "question": "Muhammad al-Sha'rawi described verse 11's warning about conditional, fair-weather faith as actually being a form of divine mercy. Why?",
       "options": [
-        "Only Sunni scholars discuss this verse",
-        "Shia exegetes link steadfastness to allegiance to the Ahl al-Bayt, while Sunni interpretations focus on individual perseverance",
-        "Only Shia scholars believe in testing of faith",
-        "Both traditions reject the metaphor of the edge"
+        "Because it promises worldly prosperity to those who remain firm through difficulty",
+        "Because it educates believers about the nature of true faith before they are tested so they can fortify themselves in advance",
+        "Because it assures that no trial will ever exceed what a believer can bear",
+        "Because it guarantees that trials are always a sign of special divine love"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia readings often connect steadfastness to communal allegiance to the Ahl al-Bayt, reinforcing the socio-political dimensions of faith, while Sunni discourses stress individual perseverance through tribulations."
+      "explanation": "Muhammad al-Sha'rawi observed that Allah is educating believers about the nature of true faith before it is tested, so they can fortify themselves in advance. The verse is thus a mercy: a warning delivered before the event rather than a rebuke delivered after failure."
     },
     {
       "id": "22_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "Both Shia and Sunni traditions agree that the Kaaba serves as a locus of tawhid and worship, though they differ on some theological emphases.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions uphold the verse's central message: the Kaaba's enduring symbolism as a locus of tawhid and worship, though Shia exegesis often integrates Imamology while Sunni prioritizes historical continuity."
-    },
-    {
-      "id": "22_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 41,
-      "question": "How do Shia and Sunni scholars differ in their interpretation of verse 41's requirements for righteous governance?",
+      "layer": 3,
+      "verseNumber": 39,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran noted that the timing of the permission to fight granted in verse 39 teaches believers what lesson about Islam's approach to conflict?",
       "options": [
-        "Only Sunni scholars discuss governance",
-        "Shia scholars link it to divinely appointed Imamate while Sunni scholars apply it to any righteous ruler",
-        "Only Shia scholars believe in prayer",
-        "There are no differences between the traditions"
+        "That defensive warfare is the highest form of worship and must be prepared for at all times",
+        "That the Quran's approach is characterized by extreme reluctance and patience, with permission only coming after all other avenues were exhausted",
+        "That armed resistance should begin at the first sign of oppression without awaiting divine permission",
+        "That the permission was purely a political strategy to consolidate the Muslim state in Medina"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia exegetes frame the verse as prescriptive for divinely appointed leadership linked to the Imamate, while Sunni commentators emphasize the verse's applicability to any righteous ruler, focusing on practical governance."
-    },
-    {
-      "id": "22_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "According to the comparative analysis, both Shia and Sunni traditions agree that the Day of Judgment's terror emphasizes divine justice and the need for spiritual preparedness.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions converge on the verse's core message: a universal call to taqwa (God-consciousness) and the awe-inspiring nature of the Day of Judgment, emphasizing divine justice and spiritual preparedness."
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that the permission came after thirteen years of persecution in Mecca, demonstrating that Islam's approach to conflict is characterized by extreme reluctance and patience — permission arrived only when all other avenues had been exhausted."
     }
   ]
 }

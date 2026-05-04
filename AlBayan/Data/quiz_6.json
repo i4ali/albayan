@@ -6,270 +6,340 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does Allah's creation of both 'light and darkness' in verse 1 establish?",
+      "question": "Surah Al-Anam opens with 'Alhamdulillah' after mentioning two acts of creation. What are those two acts?",
       "options": [
-        "That darkness is evil and light is good",
-        "That Allah is the sole Creator of all cosmic phenomena, refuting dualistic beliefs",
-        "That light came before darkness in creation",
-        "That humans should avoid darkness"
+        "A. The sun and the moon",
+        "B. The heavens and the earth, and darkness and light",
+        "C. Angels and jinn",
+        "D. Water and fire"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse establishes Allah as the sole Creator of all cosmic phenomena, directly refuting dualistic beliefs like Zoroastrianism that attributed light and darkness to separate deities."
+      "explanation": "Verse 1 declares that Allah created the heavens and the earth and established darkness and light. Ibn Kathir notes that 'zulumaat' (darknesses) is plural to indicate many forms of darkness — night, falsehood, ignorance — while 'nur' (light) is singular, reflecting that truth is one and unified."
     },
     {
       "id": "6_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 76,
-      "question": "When Prophet Ibrahim observed a star setting, he rejected it as a deity because transient objects cannot hold divine power.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or False: According to Ibn Kathir, the Quraysh polytheists denied that Allah was the Creator of the heavens and earth, which is why they committed shirk.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "When the star faded at dawn, Ibrahim rejected it, declaring 'I do not love those that disappear' (la uhibbul afilin), using logic to reject transient objects as deities since impermanence is incompatible with the Eternal Creator."
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir emphasizes that the Quraysh actually admitted Allah created the cosmos, yet still committed shirk by worshipping idols alongside Him. This made their disbelief more blameworthy, since they could not plead ignorance of the Creator."
     },
     {
       "id": "6_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 101,
-      "question": "What argument does verse 101 use to refute the notion that Allah could have a son?",
+      "verseNumber": 2,
+      "question": "Verse 2 says Allah created human beings from clay and then mentions two 'terms.' What does the classical Sunni interpretation identify these two terms as?",
       "options": [
-        "Allah forbids children",
-        "Procreation requires a partner, and Allah has no companion (sahiba)",
-        "Sons are only for humans",
-        "Allah created everything including Himself"
+        "A. The period of childhood and the period of adulthood",
+        "B. The lifespan of this world and the lifespan of paradise",
+        "C. The individual's appointed time of death and the Day of Resurrection",
+        "D. The age of the Prophet and the age of the Quran"
       ],
-      "correctAnswer": "B",
-      "explanation": "The verse poses a rhetorical question: How could Allah have a son when He has no sahiba (spouse)? Procreation requires a counterpart, something incompatible with Allah's limitless, singular nature."
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records from Ibn Abbas that the first 'ajal' refers to each individual's fixed time of death, while the second 'ajal musamman' is the Day of Resurrection — the appointed time known precisely to Allah for the gathering and judgment of all creation."
     },
     {
       "id": "6_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 151,
-      "question": "Which of the following is NOT one of the ethical prohibitions mentioned in verse 151?",
-      "options": [
-        "Associating partners with Allah (shirk)",
-        "Killing children due to poverty",
-        "Eating pork",
-        "Approaching shameful deeds (fawahish)"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Verse 151 prohibits shirk, commands kindness to parents, forbids killing children from poverty, forbids shameful deeds (apparent or hidden), and forbids unlawful killing. Dietary laws like pork are addressed elsewhere."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or False: Wahbah al-Zuhayli argues that the Quranic account of human creation from clay is actually confirmed by modern science, since the elements of the human body are the same elements found in the soil.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir connects the Quranic account of human creation from clay to scientific findings about the biochemical composition of the human body. Ibn Uthaymeen similarly noted that reflecting on one's origin in clay should demolish pride and cultivate profound humility before Allah."
     },
     {
       "id": "6_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 75,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does 'malakut' (kingdom) in verse 75 refer to?",
+      "verseNumber": 3,
+      "question": "Classical Sunni scholars debated the meaning of 'Allah is in the heavens and in the earth' in verse 3. What was the dominant interpretation recorded by Tabari from the Companions?",
       "options": [
-        "The physical universe (mulk)",
-        "The metaphysical reality governing creation, beyond the material realm",
-        "The political kingdom of Ibrahim",
-        "The stars and celestial bodies"
+        "A. Allah is physically located inside the sky above",
+        "B. Allah is the one true God worshipped by the inhabitants of the heavens and earth",
+        "C. Allah visits the earth every night during the last third",
+        "D. The heavens and earth together constitute the throne of Allah"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that malakut transcends the physical universe (mulk), referring to the metaphysical reality governing creation - a realm of divine sovereignty accessible only through spiritual insight."
+      "explanation": "Imam Tabari explains that the verse means Allah is the sole deity worshipped by the inhabitants of the heavens and the earth. This reading avoids any implication of spatial containment, since Allah is beyond space and direction. Ibn Kathir confirms this interpretation from the companion tradition."
     },
     {
       "id": "6_6",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 76,
-      "question": "According to classical Shia exegesis, Ibrahim's statement 'This is my lord' about the star was a genuine moment of personal doubt.",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "True or False: According to the tafsir of verse 4, the disbelievers of Mecca turned away from signs because they genuinely lacked access to evidence for Allah's existence.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Shia commentators emphasize that Ibrahim's declarations represented a pedagogical method (burhan al-tadhadd - proof by contradiction) to dismantle polytheistic logic, not personal doubt. Prophets possess inherent certainty (isma)."
+      "explanation": "The tafsir of verse 4 makes clear that the disbelievers' rejection was not due to a lack of signs but was a deliberate, willful turning away. The word 'mu'ridun' conveys active aversion, not passive ignorance. Ibn Kathir notes their rejection was born of arrogance and attachment to ancestral customs."
     },
     {
       "id": "6_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 101,
-      "question": "What does the term 'Badi' (Originator) in verse 101 signify according to Shia theology?",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "Sayyid Qutb, reflecting on verse 6 about destroyed civilizations, describes the Quran's invitation to study history as what kind of activity?",
       "options": [
-        "Allah created from pre-existing matter",
-        "Allah creates uniquely without any precedent, from nothingness (ex nihilo)",
-        "Allah follows patterns established by earlier creators",
-        "Allah delegates creation to angels"
+        "A. A scientific experiment to be tested in laboratories",
+        "B. The contemplation of history as revelation",
+        "C. A legal argument before a court of scholars",
+        "D. A form of storytelling designed for children"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai elucidates that Badi' denotes creation ex nihilo - Allah brings existence from nothingness without pre-existing matter or causal dependency, establishing His absolute self-sufficiency."
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb presents verse 6 as one of the Quran's most vivid invitations to what he calls 'the contemplation of history as revelation,' arguing that the rise and fall of civilizations follows divine laws embedded in the moral fabric of societies."
     },
     {
       "id": "6_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 126,
-      "question": "According to Shia exegesis, how is the 'straight path' (sirat mustaqim) in verse 126 connected to the Ahlul Bayt?",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "In verse 7, Allah presents a hypothetical: even if a physical written book had descended from the sky and the disbelievers touched it with their own hands, what would they still say?",
       "options": [
-        "It is unrelated to the Ahlul Bayt",
-        "The straight path is linked to their Wilayah (guardianship) as per Hadith al-AlBayan",
-        "The Ahlul Bayt created the straight path",
-        "The straight path leads away from the Ahlul Bayt"
+        "A. We need more time to study it carefully",
+        "B. This is obvious magic",
+        "C. We accept this as the truth from Allah",
+        "D. Send it to our scholars and priests first"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical Shia exegetes cite Hadith al-AlBayan to link the straight path to the Wilayah of the Imams, viewing the Quran and Prophet's progeny as inseparable guides for navigating the path to Allah."
+      "explanation": "Verse 7 states they would call even a tangible, hand-touchable scripture 'sihr mubin' — obvious magic. Ibn Kathir records that the Meccans had a ready dismissal for any miracle: they would attribute it to sorcery. This verse establishes that the problem is hardness of heart rooted in arrogance, not a lack of evidence."
     },
     {
       "id": "6_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 76,
-      "question": "How do contemporary scholars relate Ibrahim's rejection of the setting star to modern issues?",
-      "options": [
-        "It has no modern relevance",
-        "It critiques materialistic and consumerist 'idols' that distract from lasting values",
-        "It encourages star worship",
-        "It only applies to ancient polytheism"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Makarem Shirazi frame Ibrahim's rejection of 'those that disappear' as critiquing modern 'idols' including consumerism, exploitation, and superficial trends that eclipse enduring ethical principles."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "True or False: According to Imam al-Qurtubi, the reason Allah withheld an angelic messenger from the Quraysh was to preserve human agency, since sending an angel with an ultimatum would have collapsed the space for free and sincere conviction.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran notes this verse proves the wisdom of graduated divine communication: sending an angel in the manner demanded would eliminate the space for genuine faith, since 'la yunzarun' — they would receive no further respite — the moment overwhelming proof appeared."
     },
     {
       "id": "6_10",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 101,
-      "question": "The concept of a 'beginningless Originator' in verse 101 aligns with scientific cosmological theories like the Big Bang.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary scholars note that the concept of Allah as Badi' (Originator without precedent) resonates with cosmological theories like the Big Bang, which posits a singular, uncaused event pointing to a transcendent First Cause."
+      "verseNumber": 9,
+      "question": "What lesson does Wahbah al-Zuhayli draw from verse 9 about Allah's choice to send human rather than angelic messengers?",
+      "options": [
+        "A. That the Prophet's message is intended only for the Arab people",
+        "B. That angels are superior to prophets in all spiritual respects",
+        "C. That a human prophet demonstrates the highest moral standards are achievable within human nature, closing the excuse of 'we cannot do what an angel does'",
+        "D. That miracles are the only valid proof of prophethood in any era"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir explains that Allah sent human prophets precisely because an angelic messenger would create an unbridgeable gap — 'we cannot do what he does' — whereas a human prophet demonstrates that the highest moral and spiritual qualities are achievable by human beings in their actual condition."
     },
     {
       "id": "6_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 151,
-      "question": "How does the prohibition against 'hidden immoralities' (fawahish ma batan) apply to digital ethics today?",
-      "options": [
-        "It only applies to physical acts",
-        "It addresses cyber exploitation, data privacy breaches, and online harms",
-        "It encourages hiding sins online",
-        "It has no digital application"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Scholars like Mohsen Kadivar highlight how the prohibition against hidden transgressions applies to modern digital spaces, addressing cyber exploitation, privacy breaches, and algorithmic bias."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "True or False: Verse 10 consoles the Prophet by stating that every messenger before him was also mocked, and that those who mocked them were eventually 'enveloped' by the very thing they ridiculed.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir of verse 10 explains that 'haqa' — to be enveloped or surrounded — describes how the punishment the Meccans denied and ridiculed closed in around them completely. Ibn Kathir cites the Battle of Badr, in which the very leaders who had mocked the Prophet were slain, as the historical fulfillment of this verse."
     },
     {
       "id": "6_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 126,
-      "question": "According to contemporary interpretation, what does the 'straight path' mirror in the natural world?",
+      "layer": 2,
+      "verseNumber": 74,
+      "question": "Classical Sunni scholars debated the identity of Ibrahim's father named in verse 74. What is the majority position of Tabari and Ibn Kathir on the name 'Azar'?",
       "options": [
-        "Random chaos",
-        "Natural laws and ecological equilibrium governing the universe",
-        "Human-made highways",
-        "Astronomical orbits only"
+        "A. Azar was Ibrahim's uncle, not his biological father, to protect prophetic lineage",
+        "B. Azar was a title of honor given by the Babylonian priests",
+        "C. Azar is the father's proper name as established directly by the Quranic text, to be preferred over extra-Quranic historical sources",
+        "D. Azar was the name of the tribe or clan Ibrahim belonged to"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars see the 'straight path' as mirroring natural laws governing the universe, including principles of equilibrium in ecosystems, reflecting the harmony between divine guidance and cosmic order."
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari in Jami al-Bayan accepts Azar as the actual name of Ibrahim's father, citing Companions and Successors. Ibn Kathir also records this as the correct position, noting the Quran names him directly without any qualifier suggesting a title or alternative name, and the Quranic text takes precedence."
     },
     {
       "id": "6_13",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 76,
-      "question": "Imam Jafar al-Sadiq taught that the Ahlul Bayt are 'the stars of hearts that never fade,' contrasting with the transient celestial stars Ibrahim observed.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Lady Fatimah (AS) affirmed that 'the Imams are the stars of hearts that never fade,' and Imam Sadiq explained that true guidance lies in the eternal Wilayah of the Ahlul Bayt, unlike the setting celestial stars."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 75,
+      "question": "What was the stated divine purpose in showing Ibrahim the 'malakut of the heavens and the earth' in verse 75?",
+      "options": [
+        "A. So he could become a political ruler over his people",
+        "B. So he would be among those possessing yaqin — deep certainty of faith",
+        "C. So he could accurately record the movements of celestial bodies",
+        "D. So he could debate the astronomers of Babylon on their own terms"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 75 states the purpose as 'wa li-yakuna min al-muqinin,' meaning so that Ibrahim would be among those with certainty. The tafsir describes this as a special spiritual illumination, lifting veils of ordinary perception so that he could see the signs of Allah's oneness in the cosmic order with absolute clarity."
     },
     {
       "id": "6_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 101,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, why can Allah not be described by 'how'?",
-      "options": [
-        "Because humans lack intelligence",
-        "Because He is the Creator of 'how' itself",
-        "Because descriptions are forbidden",
-        "Because language cannot express anything"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) states in Nahj al-Balagha: 'He cannot be described by how, for He is the Creator of how' - meaning Allah's essence transcends human conceptualization including worldly relationships like parenthood."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 76,
+      "question": "True or False: Imam Tabari, citing Ibn Abbas, Qatada, and al-Suddi, holds that when Ibrahim said 'This is my Lord' upon seeing the star in verse 76, he was sincerely proclaiming his belief in the star's divinity.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Tabari records that Ibn Abbas, Qatada, and al-Suddi all held that Ibrahim was not expressing sincere belief but was deliberately mimicking the creed of his star-worshipping community as a rhetorical strategy — a method the scholars called ilzam al-khasm (binding the opponent with their own premises) — in order to demolish their beliefs through internal logic."
     },
     {
       "id": "6_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 126,
-      "question": "According to the teachings of the Ahlul Bayt, what does true 'remembrance' (yadhakkarun) involve beyond recitation?",
+      "layer": 3,
+      "verseNumber": 76,
+      "question": "Which contemporary Sunni scholar described Ibrahim's rejection of the star as an example of 'the fitrah working at its most acute,' showing his soul simultaneously entertained and discarded the hypothesis of the star's lordship with intellectual honesty?",
       "options": [
-        "Memorizing the Quran only",
-        "Recognizing the divine light within the Ahlul Bayt and anchoring to their teachings",
-        "Remembering historical events",
-        "Reciting without understanding"
+        "A. Wahbah al-Zuhayli",
+        "B. Ibn Uthaymeen",
+        "C. Sayyid Qutb",
+        "D. Muhammad al-Sha'rawi"
       ],
-      "correctAnswer": "B",
-      "explanation": "True remembrance transcends mere recitation - it demands recognizing the divine light within the Ahlul Bayt and anchoring one's soul to their teachings, as the Imams are the living interpretation of revelation."
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran reflects that Ibrahim's soul was utterly pure and undistorted by cultural conditioning, so when he observed the star, his fitrah (innate nature) simultaneously entertained and then discarded the hypothesis of its lordship with intellectual honesty — representing the natural human conscience at its most acute."
     },
     {
       "id": "6_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 151,
-      "question": "According to Imam Muhammad al-Baqir, the 'hidden sin' mentioned in verse 151 includes what the heart conceals of envy and arrogance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Muhammad al-Baqir (AS) explained: 'The apparent sin is what your limbs commit; the hidden is what your heart conceals of envy and arrogance.' Spiritual development requires purifying both realms."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 53,
+      "question": "Verse 53 records the Quraysh nobles asking, 'Is it these whom Allah has favored from among us?' referring to the poor believers. What was the mistaken assumption behind this question?",
+      "options": [
+        "A. That the poor believers must have learned secret knowledge from foreign priests",
+        "B. That divine favor must align with worldly privilege, wealth, and social rank",
+        "C. That the Prophet was lying about his revelation to gain political power",
+        "D. That the early Muslims had bribed the Prophet for special status"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Quraysh nobles assumed divine favor must align with worldly privilege. Allah refutes this with the rhetorical question 'Is not Allah most knowing of those who are grateful?' drawing a sharp contrast between gratitude — which Allah values — and worldly arrogance, which the wealthy nobles mistook for divine approval."
     },
     {
       "id": "6_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 76,
-      "question": "What is a key difference between Shia and Sunni interpretation of Ibrahim's words 'This is my lord' in verse 76?",
-      "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia emphasize prophetic infallibility (isma) making it a pedagogical strategy, while Sunni focus on rhetorical engagement",
-        "Both traditions interpret it identically",
-        "Shia believe Ibrahim genuinely worshipped stars"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia sources stress isma (infallibility), interpreting Ibrahim's words as dialectical method, while Sunni commentators like Razi frame it as a rhetorical device to engage polytheists - both rejecting literal worship."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 53,
+      "question": "True or False: Fakhr al-Din al-Razi analyzed verse 53 and concluded that divine favor is bestowed based on gratitude and sincere faith, not on lineage, wealth, or tribal prestige.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi in Mafatih al-Ghayb analyzes the theological implication that divine favor — the 'mann' of Allah — is bestowed based on gratitude and sincere faith, not on lineage, wealth, or tribal prestige. He notes this principle fundamentally reorders all human hierarchies, making the divine standard entirely different from the worldly one."
     },
     {
       "id": "6_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 101,
-      "question": "On what do both Shia and Sunni exegetes converge regarding verse 101?",
+      "layer": 3,
+      "verseNumber": 54,
+      "question": "Ibn Uthaymeen taught that the door of repentance described in verse 54 remains open until two specific events. What are those two events?",
       "options": [
-        "They disagree on everything",
-        "Both affirm Allah's absolute oneness and refute anthropomorphic attributions of progeny",
-        "Only Sunni scholars accept the verse",
-        "Both believe Allah has offspring metaphorically"
+        "A. Until the age of forty, or until one commits a major sin",
+        "B. Until the sun rises from the west, or until the soul reaches the throat at death",
+        "C. Until the end of the month of Ramadan each year",
+        "D. Until a person performs Hajj, or until they die outside the holy lands"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Shia (Tabatabai, Tabrisi) and Sunni (Tabari, Razi) exegetes converge on affirming Allah's absolute oneness (tawhid) and refuting anthropomorphic or familial attributions, despite different hermeneutical emphases."
+      "explanation": "Ibn Uthaymeen commented extensively on the doctrine of tawbah derived from verse 54, emphasizing that the door of repentance remains open until the sun rises from the west — one of the major signs of the Hour — or until the soul reaches the throat at the point of death. This gives direct hope to Muslims struggling with guilt over past sins."
     },
     {
       "id": "6_19",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 126,
-      "question": "Both Shia and Sunni traditions view verse 126's call to 'remembrance' as supporting contemplative faith, though they differ on the role of the Ahlul Bayt in that guidance.",
+      "layer": 1,
+      "verseNumber": 139,
+      "question": "True or False: The pre-Islamic Arab custom condemned in verse 139 reserved the living offspring of consecrated animals for men only, while allowing both men and women to share equally in the offspring if it was born dead.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions uphold the verse's call to contemplative faith and Quranic guidance. The divergence is that Shia tie the 'straight path' to Wilayah of the Ahlul Bayt, while Sunni emphasize Quran and Sunnah through scholarly consensus."
+      "explanation": "Verse 139 exposes a deeply unjust custom: the living, healthy offspring was declared exclusively for males, while women were excluded. Only if the offspring was born dead were both males and females allowed to share equally. The Quran uses this logical inconsistency to prove the restriction was never divinely ordained — it was invented human tradition."
     },
     {
       "id": "6_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 151,
-      "question": "How do Shia and Sunni scholars differ on the concept of 'lawful killing' (bil-haqq) mentioned in verse 151?",
+      "layer": 2,
+      "verseNumber": 141,
+      "question": "Regarding 'give its due right on the day of its harvest' in verse 141, what was the dominant view among the Salaf as recorded by Imam Tabari from Said ibn Jubayr and Mujahid?",
       "options": [
-        "Both agree completely on all details",
-        "Shia tie it to the Imam's authority while Sunni anchor it in state-administered justice under caliphal governance",
-        "Sunni reject the verse",
-        "Shia believe all killing is forbidden"
+        "A. It referred exclusively to the fully legislated Medinan rates of agricultural zakah",
+        "B. It referred to a charitable giving of handfuls directly to the poor gathered at the field at harvest time, before formal zakah rates were legislated",
+        "C. It referred to giving one-quarter of all produce to the mosque treasury",
+        "D. It referred to the annual tax owed to the Muslim ruler of Medina"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia sources like Tusi's At-Tibyan tie 'legal right' (al-haqq) to the Imam's authority in capital cases, whereas Sunni scholars like Qurtubi anchor this in state-administered qisas under caliphal governance."
+      "explanation": "Said ibn Jubayr and Mujahid, as recorded by Tabari, held this referred to handfuls given directly to the poor present at the field at harvest time. Ibn Kathir reconciles the Makki origin of this verse with Medinan zakah by noting the initial principle of giving at harvest was established in Makkah before the specific rates were later legislated."
+    },
+    {
+      "id": "6_21",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 155,
+      "question": "Wahbah al-Zuhayli identifies three pillars of a proper relationship with the Quran in verse 155. Which of the following is NOT one of those three pillars?",
+      "options": [
+        "A. Recognition of the Quran's divine origin as a blessed book",
+        "B. Active following of its guidance in one's life",
+        "C. Complete memorization of the Quran by heart",
+        "D. The inner quality of taqwa accompanying that following"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir identifies the three pillars from verse 155 as: recognition of the Quran's divine and blessed origin, active following of its guidance (the command 'fattabiuhu'), and the inner quality of taqwa that makes that following genuine and acceptable. Memorization is praiseworthy but is not identified as one of these three pillars."
+    },
+    {
+      "id": "6_22",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 160,
+      "question": "True or False: Verse 160 establishes that good deeds receive exactly their equivalent in reward, while evil deeds are punished with ten times their equivalent.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 160 establishes the reverse: whoever brings a good deed receives ten times its equivalent in reward, while whoever brings an evil deed receives only its exact equivalent in punishment. Ibn Kathir cites the hadith from Sahih Bukhari and Sahih Muslim confirming that the tenfold reward is the guaranteed minimum for good deeds."
+    },
+    {
+      "id": "6_23",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 160,
+      "question": "Fakhr al-Din al-Razi analyzed verse 160 and identified a theological distinction underlying its asymmetry between reward and punishment. What was that distinction?",
+      "options": [
+        "A. Rich people receive more reward because they can give more charity",
+        "B. Divine reward is 'fadl' (grace) exceeding merit, while divine punishment is 'adl' (justice) never exceeding the sin",
+        "C. Good deeds performed in congregation receive the tenfold reward while individual deeds do not",
+        "D. Evil deeds committed in ignorance receive no punishment at all under any circumstances"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb identifies the theological dimension: divine reward is fadl (grace) — the good deed is multiplied beyond its merit — while divine punishment is adl (justice) — the evil deed is punished with only its precise equivalent. This asymmetry is itself an act of divine mercy, as the absence of multiplication for evil is a gift."
+    },
+    {
+      "id": "6_24",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 161,
+      "question": "Verse 161 instructs the Prophet to say he has been guided to a 'sirat mustaqim' (straight path). How does the verse identify and describe that path?",
+      "options": [
+        "A. The path of the scholars and the path of the warriors of Islam",
+        "B. A 'din qayyim' (upright religion) following the 'millat Ibrahim hanif' — the way of Abraham the pure monotheist",
+        "C. Exclusively the path of Moses and the earlier prophets of the Torah",
+        "D. A path defined equally by the Quran and the recorded sayings of the Companions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 161 identifies the straight path as a 'din qayyim' — an upright, correct, and enduring religion — and further specifies it as the 'millat Ibrahim hanif,' the way of Abraham who turned sincerely away from all false religions toward pure monotheism. The verse directly counters the Meccan claim to follow Abraham while practicing idolatry."
+    },
+    {
+      "id": "6_25",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 162,
+      "question": "True or False: In Fi Zilal al-Quran, Sayyid Qutb argued that the declaration of verse 162 — 'My prayer, sacrifice, living, and dying are for Allah' — is a spiritual burden that restricts the believer's freedom.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Qutb argues the exact opposite: this declaration of total surrender is a liberation, freeing the believer from servitude to wealth, power, fear, and social approval. Sheikh Muhammad al-Sha'rawi similarly noted the verse encapsulates 'ikhlas' (sincerity) and makes the believer whole by anchoring every sphere of life in a single unified purpose."
+    },
+    {
+      "id": "6_26",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 163,
+      "question": "Imam Tabari and Ibn Kathir explain that the Prophet's declaration 'I am the first of the Muslims' in verse 163 refers to which specific sense of primacy?",
+      "options": [
+        "A. He was the very first human being chronologically ever to submit to Allah",
+        "B. He was the eldest among the Companions of Medina",
+        "C. He was the first among his own nation and generation to fully surrender to Allah without reservation",
+        "D. He was the first person ever to perform the prayer facing the Kaaba"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari records that this statement refers to the Prophet's primacy among his own ummah — meaning he was the first among the Arabs of his generation to fully surrender to Allah without reservation. Ibn Kathir notes this is explicitly distinguished from any claim to chronological precedence over earlier prophets such as Ibrahim or Musa."
     }
   ]
 }

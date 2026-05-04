@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'tabbat' in the opening verse of Surah Al-Masad mean?",
+      "question": "Who was Abu Lahab in relation to the Prophet Muhammad, and what does his nickname mean?",
       "options": [
-        "To prosper and succeed",
-        "To perish or to be cut off",
-        "To become wealthy",
-        "To speak loudly"
+        "His cousin, meaning 'father of nobility'",
+        "His paternal uncle, meaning 'father of flame'",
+        "His maternal uncle, meaning 'father of fire-stones'",
+        "A distant tribal elder, meaning 'father of war'"
       ],
-      "correctAnswer": "To perish or to be cut off",
-      "explanation": "The term 'tabbat' derives from 'taba', meaning 'to perish' or 'to be cut off,' emphasizing total spiritual and worldly failure. The repetition of 'wa tabb' (and ruined is he) underscores the certainty of Abu Lahab's downfall, both in this life and the Hereafter."
+      "correctAnswer": "B",
+      "explanation": "Abu Lahab's real name was Abd al-Uzza ibn Abd al-Muttalib. He was the Prophet's paternal uncle, and his kunyah 'Abu Lahab' (father of flame) was earned either from the reddish brightness of his face or, as the scholars suggest, as a divine foreshadowing of his fiery end."
     },
     {
       "id": "111_2",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to classical Shia exegesis, the term 'kasab' (what he gained) in verse 2 refers exclusively to Abu Lahab's material wealth and possessions.",
+      "layer": 1,
+      "verseNumber": 1,
+      "question": "True or false: The asbab al-nuzul of Surah Al-Masad, recorded by Imam al-Bukhari through Ibn Abbas, ties the revelation to the day the Prophet climbed Mount Safa to warn the Quraysh, and Abu Lahab shouted back, 'May you perish! Is this why you gathered us?'",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. In classical Shia exegesis, 'kasab' encompasses not only material wealth but also his children, followers, and worldly achievements. Scholars like Allama Tabatabai interpret it as all that Abu Lahab amassed—power, progeny, and social status—all of which became worthless in the face of divine judgment."
+      "correctAnswer": "true",
+      "explanation": "Imam al-Bukhari's narration through Ibn Abbas records exactly this incident at Mount Safa. Abu Lahab's contemptuous outburst was met almost immediately by the revelation of this surah, declaring his ruin in his own words back upon him."
     },
     {
       "id": "111_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "How do contemporary Shia scholars like Sayyid Kamal al-Haydari interpret the 'blazing flame' mentioned in verse 3?",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "According to Imam al-Tabari and the classical commentators, what are the two complementary meanings of 'wama kasab' (and what he gained) in verse 2?",
       "options": [
-        "Only as physical punishment in the afterlife",
-        "As both spiritual torment and ethical consequences of opposing justice",
-        "As a metaphor for political defeat",
-        "As symbolic of financial loss"
+        "His prayers and his fasts",
+        "His armies and his territory",
+        "His material acquisitions, and (per al-Dahhak) specifically his children",
+        "His poetry and his oratory"
       ],
-      "correctAnswer": "As both spiritual torment and ethical consequences of opposing justice",
-      "explanation": "Scholars like Sayyid Kamal al-Haydari emphasize that the verse's condemnation of Abu Lahab—a figure who opposed Islam's message of justice and mercy—serves as an enduring ethical resonance. The 'blazing flame' represents both spiritual torment and the ethical consequences of actively opposing divine truth."
+      "correctAnswer": "C",
+      "explanation": "Tabari records both readings: the majority of the Salaf understood 'kasab' as worldly acquisitions (wealth, property, influence), while al-Dahhak and others held it refers specifically to his children, supported by a hadith in Sunan Abu Dawud that 'a man's child is among his earnings.' Imam al-Qurtubi reconciled the two as complementary."
     },
     {
       "id": "111_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 4, what does the 'firewood' carried by Umm Jamil symbolize?",
-      "options": [
-        "Actual wood for cooking",
-        "The fuel of malice and slander",
-        "Building materials for her house",
-        "Offerings for idols"
-      ],
-      "correctAnswer": "The fuel of malice and slander",
-      "explanation": "Imam Ja'far al-Sadiq (as) explains in Tafsir al-Qummi that her 'firewood' symbolizes the fuel of malice, slander, and harm she actively carried to damage the Prophet's mission. This spiritual interpretation reveals how her actions became the very material that would kindle her own punishment."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "True or false: Ibn Kathir highlights that the deliberate wordplay between Abu Lahab's kunyah and the 'naran dhata lahab' (fire of blazing flame) he will enter is regarded by classical scholars as a sign of the Quran's divine authorship.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir notes in Tafsir al-Quran al-Azim that Allah named this man by the kunyah containing 'lahab' and then condemned him to a fire described by the same word. The classical scholars saw this precise linguistic foresight as evidence no human composer could have constructed."
     },
     {
       "id": "111_5",
-      "type": "trueFalse",
-      "layer": 5,
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Who was 'his wife' mentioned in verse 4, and what were her two main forms of opposition to the Prophet?",
+      "options": [
+        "Hind bint Utba; she funded armies and composed war poetry",
+        "Umm Jamil (Arwa bint Harb); she scattered thorny branches on the Prophet's path and spread slander against him",
+        "Fatima bint Khattab; she organized boycotts and refused to greet Muslims",
+        "Asma bint Marwan; she led public demonstrations and burned Muslim homes"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Abu Lahab's wife was Arwa bint Harb, known as Umm Jamil and the sister of Abu Sufyan. The tafsir explains 'hammala-tal-hatab' on two complementary levels: literally she scattered thorny branches at night on the Prophet's paths, and figuratively she 'carried wood' to fuel the fires of slander and discord against him."
+    },
+    {
+      "id": "111_6",
+      "type": "multipleChoice",
+      "layer": 3,
       "verseNumber": 5,
-      "question": "Both Shia and Sunni exegetical traditions agree that the 'rope of twisted fiber' in verse 5 refers to Umm Jamil's punishment in the Hereafter.",
+      "question": "How does Sayyid Qutb in Fi Zilal al-Quran describe the symbolism of the rope of palm fiber around Umm Jamil's neck in the final verse?",
+      "options": [
+        "A neutral image of bondage common in Arab punishment",
+        "A complete and precise inversion: the jewellery and pride of her worldly status are replaced with a rough collar of palm fiber in the Hereafter",
+        "A purely metaphorical statement with no bearing on the next life",
+        "A symbol of her tribal honour preserved even in punishment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb reflects that the woman who adorned herself with the finest jewellery and used her status as an instrument of pride and persecution will be adorned in the Hereafter with a collar of rough palm fiber. The reversal is total and precise, illustrating the broader Quranic principle that the Hereafter inverts the misused gifts of this world."
+    },
+    {
+      "id": "111_7",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Wahbah al-Zuhayli and Ibn Uthaymeen teach that this surah proves wealth is inherently evil, and that any believer who possesses material resources will share Abu Lahab's fate.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Both Shia and Sunni traditions converge on the interpretation that the 'rope of twisted fiber' around Umm Jamil's neck symbolizes her punishment in the Hereafter. Classical sources like Tabari (Sunni) and Tabrisi (Shia) in Majma al-Bayan describe this as a vivid depiction of the spiritual and eschatological consequences for her vehement opposition to Prophet Muhammad."
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir is explicit that Islam does not condemn wealth in itself, the Quran praises those who spend in the way of Allah. The lesson, as Ibn Uthaymeen taught, is that one's standing before Allah depends on taqwa and sincere faith, not on net worth, and that wealth used to oppose truth becomes a liability."
     }
   ]
 }

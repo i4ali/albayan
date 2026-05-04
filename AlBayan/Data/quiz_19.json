@@ -5,266 +5,241 @@
       "id": "19_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 8,
-      "question": "In Surah Maryam, what does Prophet Zakariya's question 'How shall I have a son?' reflect?",
+      "verseNumber": 1,
+      "question": "Surah Maryam's opening letters (Kaf Ha Ya Ain Sad) are among the huruf muqattaat. Which historically significant event involved the recitation of this surah's opening verses before a non-Muslim audience?",
       "options": [
-        "Doubt in Allah's power",
-        "Awe and humility before Allah's miracle",
-        "Rejection of the divine promise",
-        "A request to change the decree"
+        "A) The Prophet recited them during the Battle of Badr to inspire his companions",
+        "B) Jafar ibn Abi Talib recited them before the Christian king Negus of Abyssinia, moving him and his clergy to tears",
+        "C) Umar ibn al-Khattab recited them at the conquest of Jerusalem",
+        "D) They were the first verses ever revealed to the Prophet in the Cave of Hira"
       ],
       "correctAnswer": "B",
-      "explanation": "Zakariya's question reflects awe and deep humility before Allah, not doubt. His inquiry arose from sincere wonder at how the miracle would unfold given his old age and his wife's barrenness."
+      "explanation": "The tafsir records that when the early Muslims migrated to Abyssinia around 615 CE, Jafar ibn Abi Talib stood before the Christian king Negus and recited the opening verses of Surah Maryam. Its majestic depiction of Mary and Jesus moved the king and his clergy to tears, making this the Quran's first formal introduction to a non-Arab audience."
     },
     {
       "id": "19_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 9,
-      "question": "According to the tafsir, the phrase 'I created you before, while you were nothing' reminds humanity of their complete dependence on Allah as Creator.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir maintained that the precise meaning of the disconnected letters opening Surah Maryam is fully known and was transmitted by the Companions.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The verse reminds believers that our existence itself is a divine gift. Allah's reminder that He created Zakariya from nothing humbles human pride and emphasizes total dependence on the Creator."
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir followed the position that these letters belong to the mutashabihat — ambiguous passages whose ultimate meaning Allah has reserved for Himself. Their presence serves the function of demonstrating the Quran's inimitability: the Arabs who mastered the very letters used daily could produce nothing comparable to this Book."
     },
     {
       "id": "19_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 21,
-      "question": "What are the two purposes mentioned for Prophet Isa's miraculous birth in Surah Maryam?",
+      "layer": 3,
+      "verseNumber": 1,
+      "question": "Wahbah al-Zuhayli points out that the five-letter combination opening Surah Maryam is unique in the entire Quran. What theological significance does he draw from this uniqueness?",
       "options": [
-        "To establish a new religion and kingdom",
-        "To be a sign (ayah) and a mercy (rahmah) for humanity",
-        "To punish the disbelievers and reward the faithful",
-        "To replace previous prophets and their messages"
+        "A) It proves the surah was the very first chapter revealed in Mecca",
+        "B) It signals that this is the only surah named after a woman, carrying a uniquely sensitive theological message about Mary and Jesus addressed initially to a Christian audience",
+        "C) It indicates the letters encode the names of the five pillars of Islam",
+        "D) It shows that longer letter sequences always introduce shorter surahs"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse explains that Isa was made a sign (ayah) proving Allah's creative power, and a mercy (rahmah) for humanity through his prophetic mission of divine compassion and guidance."
+      "explanation": "Al-Zuhayli observes in Al-Tafsir al-Munir that this combination of five letters found nowhere else in the Quran underscores that Surah Maryam is itself unique: the only surah named after a woman, carrying one of the Quran's most theologically sensitive messages about Mary and Jesus, originally addressed to a Christian audience."
     },
     {
       "id": "19_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 14,
-      "question": "What two key qualities does Allah praise in Prophet Yahya in Surah Maryam?",
-      "options": [
-        "Wealth and political power",
-        "Devotion to parents and rejection of arrogance",
-        "Military strength and diplomatic skills",
-        "Scholarly knowledge and teaching ability"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allah praises Yahya for his devotion to his parents (birr al-walidayn) and his rejection of tyranny and arrogance. The verse highlights that true strength lies in humility and fulfilling relational duties."
+      "verseNumber": 3,
+      "question": "True or false: Zakariyya's prayer described in verse 3 was made in a loud public gathering so his congregation could witness his supplication.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse explicitly states his call was 'nida'an khafiyyan' — a hidden, private call made in the quiet of solitude. Classical scholars explain that he did not announce his petition before the people at the temple. He retreated into privacy and poured out his heart to Allah alone, which the tafsir identifies as an expression of the highest sincerity."
     },
     {
       "id": "19_5",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 8,
-      "question": "According to Allama Tabatabai in Al-Mizan, Zakariya's question about having a son reflected a sincere quest for understanding the 'how' of Allah's decree, not doubt in divine power.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai emphasizes that Zakariya's inquiry does not stem from doubt in divine power but reflects a sincere quest to understand how Allah's decree would manifest given the natural impossibilities."
+      "verseNumber": 4,
+      "question": "In verse 4, Zakariyya tells Allah his bones have grown feeble and his head 'has blazed with gray hair.' Why does Ibn Kathir consider the specific mention of bones significant in this supplication?",
+      "options": [
+        "A) Because bones represent wealth, so their weakening signals Zakariyya had become impoverished",
+        "B) Because bones are the structural foundation of the body, and their weakening implies every other faculty has already declined, positioning Zakariyya as entirely dependent before Allah",
+        "C) Because weak bones were a miraculous sign granted exclusively to the prophets of the Children of Israel",
+        "D) Because it indicated Zakariyya was well over a hundred years old, beyond any known human lifespan"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that bones are cited specifically because they are the strongest part of the body — its structural foundation. If even they have become soft and frail, every other faculty has already weakened. Zakariyya thus presents himself as a completely dependent servant before a completely capable Lord, strengthening the supplication's appeal to divine mercy."
     },
     {
       "id": "19_6",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 9,
-      "question": "What Shia theological concept does Allah's statement 'I created you before, while you were nothing' affirm according to classical exegesis?",
+      "layer": 3,
+      "verseNumber": 4,
+      "question": "Sayyid Qutb describes Zakariyya's supplication in verse 4 as 'a masterclass in the art of supplication.' What quality does he especially praise?",
       "options": [
-        "Divine hierarchy",
-        "Creation ex nihilo (ibda' - creation without precedent)",
-        "Cyclical creation",
-        "Material evolution"
+        "A) The use of formal legal language to place Allah under a binding obligation",
+        "B) The brevity of the request, showing that true prayer must never be lengthy",
+        "C) The language of intimacy and transparency, appealing not to personal merit but to Allah's own consistent history of responding to him",
+        "D) The invocation of twelve divine names before stating the need"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai notes that this phrase negates any preexisting material for creation, affirming ibda' (creation without precedent) as a divine prerogative, showing that Allah's acts transcend causal chains."
+      "correctAnswer": "C",
+      "explanation": "Qutb writes in Fi Zilal al-Quran that Zakariyya opens his heart rather than presenting a formal petition. His words 'I have never been left in distress in my supplication to You' do not claim personal righteousness but recall Allah's consistent character of mercy — the supplication of a believer who has built relational trust with Allah over a lifetime."
     },
     {
       "id": "19_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 13,
-      "question": "According to Shia exegesis, what does the term 'hanan' (affection) granted to Yahya signify?",
-      "options": [
-        "Simple emotional sentiment",
-        "A divinely-sourced love enabling transmission of divine truths",
-        "Human compassion learned through experience",
-        "A temporary blessing for his mission"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai interprets 'hanan min ladunna' (affection from Us) as divine rahma and spiritual proximity granted exclusively to those appointed for guiding humanity - a profound, divinely-sourced love."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "True or false: When verse 12 commands Yahya to 'take the Book with strength,' the 'hukm' (wisdom/judgment) granted to him as a child refers to prophetic wisdom and understanding of divine law, not political authority.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir and Imam al-Tabari both explain that 'al-hukm' granted to Yahya while still a child refers to wisdom, sound judgment, and comprehensive understanding of divine law — prophetic gifts bestowed by Allah independent of natural development or age, fitting the surah's broader theme of miracles transcending ordinary limits."
     },
     {
       "id": "19_8",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 41,
-      "question": "According to classical Shia exegesis, Ibrahim's title 'siddeeq' (truthful) signifies a metaphysical station of certitude attained through unwavering submission to Allah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai interprets 'siddeeq' as denoting a perfected state of truthfulness that permeates Ibrahim's being, speech, and actions, reflecting his absolute alignment with divine reality (haqq)."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "Verse 13 describes three gifts given to Yahya: hanan, zaka, and taqwa. What does the Arabic word 'hanan' specifically convey according to the tafsir?",
+      "options": [
+        "A) Strict discipline and severity in enforcing religious rulings",
+        "B) Deep, tender compassionate love for people — a warmth comparable to a mother's affection for her child",
+        "C) Exceptional physical endurance in prolonged fasting",
+        "D) Knowledge of all previous scriptures memorized from birth"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that 'hanan' is one of the most tender words in Arabic, conveying warmth of compassion like that of a mother for her child. Ibn Abbas, Qatadah, and al-Dahhak all understood it as divine mercy and deep affection placed in Yahya, making him genuinely warm and emotionally present to those around him rather than a stern or distant figure."
     },
     {
       "id": "19_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 8,
-      "question": "How do contemporary Shia scholars like Ayatollah Makarem Shirazi interpret Zakariya's dialogue with Allah for modern believers?",
+      "verseNumber": 13,
+      "question": "Sayyid Qutb argues that verse 13's portrait of Yahya represents a rare integration that Islamic civilization suffers when it is absent. What integration does he mean?",
       "options": [
-        "As a model of rejection and doubt",
-        "As irrelevant to modern life",
-        "As a timeless example of faith balancing rational inquiry with trust in divine wisdom",
-        "As a historical curiosity only"
+        "A) The integration of Arabic and non-Arabic scholarly traditions",
+        "B) The integration of scholarship with warmth of heart — avoiding the split between cold scholars without mercy and emotional warmth without intellectual and moral rigor",
+        "C) The integration of political and religious leadership in one person",
+        "D) The integration of Meccan and Medinan styles of Quranic revelation"
       ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars frame Zakariya's question as a dialogue between human limitation and divine possibility, teaching believers to reconcile faith with rationality in an age of scientific inquiry."
+      "correctAnswer": "B",
+      "explanation": "Qutb writes in Fi Zilal al-Quran that Yahya is one of history's rarest combinations: the scholar who is also warm-hearted, the pure soul who is also emotionally present to others. He argues that Islamic civilization suffers when these are separated — producing cold scholars without mercy or emotional warmth without intellectual and moral rigor. Yahya's character embodies their integration."
     },
     {
       "id": "19_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 21,
-      "question": "Contemporary scholars note that Maryam's story challenges patriarchal norms by centering a woman's spiritual agency.",
+      "layer": 1,
+      "verseNumber": 16,
+      "question": "True or false: Maryam is mentioned by name more times in the Quran than she is in the New Testament.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Scholars like Dr. Zainab Alwani highlight how Maryam's story centers a woman's spiritual agency, linking this to contemporary struggles for gender justice in Muslim communities."
+      "explanation": "Sheikh Ibn Uthaymeen notes this fact when commenting on Surah Maryam, observing that the repeated Quranic honor given to Maryam demonstrates that Islam never demeaned or sidelined women of taqwa. Surah Maryam remains the only chapter in the Quran named after a woman."
     },
     {
       "id": "19_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 41,
-      "question": "According to contemporary interpretation, Ibrahim's rejection of idolatry serves as a call to dismantle what modern equivalents?",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "When Maryam sought refuge in Allah using the name al-Rahman upon seeing the angel, Ibn Kathir records a particular effect this had on Jibril. What was it?",
       "options": [
-        "Only physical statues",
-        "Ancient temples and shrines",
-        "Modern 'idols' like materialism, systemic oppression, and dogmatic extremism",
-        "All forms of art and sculpture"
+        "A) The angel immediately disappeared and the encounter ended",
+        "B) Jibril drew back and his full divine awe became manifest, because al-Rahman is the name most deeply rooted in human fitra",
+        "C) Maryam fell into a deep sleep and received a dream about her future son",
+        "D) A curtain of light descended between them, preventing the angel from speaking"
       ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars reinterpret Ibrahim's rejection of idolatry as a call to dismantle modern 'idols' of materialism, systemic oppression, and dogmatic extremism."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir cites the report that when Jibril heard Maryam invoke al-Rahman, he drew back and his full divine awe became manifest. Ibn Kathir notes that al-Rahman is the name most deeply rooted in the human fitra, so any person with genuine taqwa would respond with immediate restraint upon hearing it — including the angel himself."
     },
     {
       "id": "19_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 14,
-      "question": "How does the verse about Yahya's kindness to parents apply to contemporary society according to modern scholars?",
+      "layer": 1,
+      "verseNumber": 26,
+      "question": "In verse 26, Maryam is told to vow a 'fast' to the Most Merciful before returning to her people. How did the overwhelming consensus of classical scholars understand this fast?",
       "options": [
-        "It has no modern application",
-        "It addresses systemic elder care and intergenerational solidarity",
-        "It only applies to religious leaders",
-        "It suggests abandoning elderly parents to institutions"
+        "A) A fast from food and water lasting forty days, matching the fasts of earlier prophets",
+        "B) A fast of silence — refraining from speech — rather than abstinence from food, since she had just been commanded to eat and drink",
+        "C) A fast requiring her to remain in seclusion for three more days before returning",
+        "D) A symbolic fast meaning she should give her food to the poor before speaking to anyone"
       ],
       "correctAnswer": "B",
-      "explanation": "Scholars note that neglect of the elderly in individualistic societies contradicts Islamic ethics, urging communities to integrate traditional family values with modern support structures like accessible healthcare."
+      "explanation": "Imam Tabari records that Ibn Abbas, Anas ibn Malik, Ad-Dahhak, Qatadah, and As-Suddi all explained the vow as a fast of silence, not from food. Since Allah had just commanded Maryam to eat and drink, the fast could only mean refraining from speech. The divine strategy was to let the infant Jesus speak on her behalf rather than have her attempt a verbal defense."
     },
     {
       "id": "19_13",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to Ahlul Bayt teachings, what does Allah's response 'It is easy for Me' reveal about the primordial creation?",
-      "options": [
-        "Creation was accidental",
-        "Only physical creation matters",
-        "The creation of the Muhammadan Light from which all good derives",
-        "Allah has limitations but chose to act"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ja'far al-Sadiq taught that 'Allah first created the light of your Prophet, then from it derived all good things,' revealing that primordial creation encompasses the spiritual reality of the Fourteen Luminaries."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 26,
+      "question": "True or false: Wahbah al-Zuhayli holds that a vow of silence as a form of worship remains a recommended practice in the Shariah of the Prophet Muhammad.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Zuhayli clarifies in Al-Tafsir al-Munir that the vow of silence as a form of worship was abrogated in the Shariah of Muhammad, based on an established hadith in which the Prophet explicitly forbade vows of absolute silence as an act of worship. The instruction in this verse was specific to Maryam's unique circumstances."
     },
     {
       "id": "19_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 14,
-      "question": "According to Imam Sadiq (AS), 'The pleasure of the Lord lies in the pleasure of parents, His wrath in their wrath.'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "This hadith from Al-Kafi emphasizes that parental obedience becomes an extension of following the Imam's luminous path, and reflects the cosmic significance of filial duty in Shia spirituality."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 30,
+      "question": "The infant Jesus declared from the cradle: 'I am the servant of Allah' (verse 30). How does Ibn Kathir connect this declaration to later theological disputes?",
+      "options": [
+        "A) He argues it was directed at the Jewish community who denied Jesus's prophethood",
+        "B) He notes it pre-emptively refutes claims of Jesus's divinity, since a divine being would not receive commandments to pray and give zakah",
+        "C) He uses it to establish that all prophets spoke miraculously as infants",
+        "D) He interprets it as Jesus renouncing any connection to the family of Maryam"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir's Tafsir al-Quran al-Azim notes that Jesus's first words established his status as a servant and prophet, not a deity. His receipt of commandments to pray and give zakah presupposes a servant's relationship with a higher Lord, making his own first declaration a pre-emptive refutation of the later Christian doctrine of divine sonship."
     },
     {
       "id": "19_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 21,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, how should we understand Allah's 'difficulty' and 'ease'?",
-      "options": [
-        "Allah experiences difficulty like humans",
-        "Some things are harder for Allah than others",
-        "Allah's 'difficulty' and 'ease' are equal in His power, not conditioned by means",
-        "Allah only does easy things"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali explains: 'Allah's difficulty and ease are equal in His power, for He is not conditioned by means nor confined by limitations.' This manifests the principle that divine wisdom operates beyond human expectations."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "True or false: Ibrahim opened his dialogue with his idolatrous father in verse 42 with sharp, accusatory condemnation of idol worship.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir emphasizes that Ibrahim opened with 'ya abati' (O my dear father), an endearing form in classical Arabic expressing profound affection. He opened with love before posing a logical question about the powerlessness of idols. The Quran presents this as a lesson in the ethics of communication: even when confronting serious theological error, the first word must be one of connection and respect."
     },
     {
       "id": "19_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to the 6th Imam (AS), 'The Siddiq is the threshold of wilayah' - meaning truthfulness is the foundation for attaining nearness to Allah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ja'far al-Sadiq taught that truthfulness in intention, action, and submission is the foundation for attaining nearness to Allah, making it the threshold to wilayah (divine guardianship)."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 42,
+      "question": "Muhammad al-Sha'rawi observed that Ibrahim's question 'Why?' (lima) to his father is one of the most powerful tools in dialogue. Why?",
+      "options": [
+        "A) Because it forces the questioner to reveal their own ignorance publicly",
+        "B) Because it requires the other person to examine and articulate their own reasons, and when those reasons are rooted in blind tradition the question itself becomes the beginning of awakening",
+        "C) Because it is derived from the divine name al-Alim and therefore carries prophetic blessing when used",
+        "D) Because questions are always more legally binding than statements under Islamic jurisprudence"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sheikh Muhammad al-Sha'rawi noted in his tafsir that the question 'Why?' forces the other person to examine and articulate their own reasons. When those reasons rest on blind tradition rather than genuine reflection, the question itself initiates an awakening. Contemporary Muslim educators draw on this verse in da'wah training as a model combining emotional intelligence with intellectual clarity."
     },
     {
       "id": "19_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 8,
-      "question": "On what do both Shia and Sunni exegetes agree regarding Zakariya's question in verse 8?",
+      "layer": 1,
+      "verseNumber": 65,
+      "question": "Verse 65 closes with the rhetorical question: 'Do you know of any equal to Him?' What is the primary function of this question within the verse's argument?",
       "options": [
-        "That Zakariya doubted Allah's power",
-        "That the question was rhetorical expressing awe, not doubt",
-        "That prophets are allowed to reject divine decrees",
-        "That the verse is metaphorical only"
+        "A) It invites listeners to propose alternative divine names that might also be valid",
+        "B) It is a rhetorical negation: since no equal can be named, exclusive and patient worship of Allah follows as a necessary and logical conclusion",
+        "C) It tests whether the listener has memorized all ninety-nine names of Allah",
+        "D) It challenges disbelievers to a formal theological debate before an arbitrator"
       ],
       "correctAnswer": "B",
-      "explanation": "Al-Tabari (Sunni) and Al-Tabrisi (Shia) both emphasize that Zakariya's rhetorical question was an expression of awe rather than doubt, underscoring human limitation contrasted with God's ability to transcend natural laws."
+      "explanation": "Ibn Kathir records from Ibn Abbas, Mujahid, Qatadah, and Ibn Jurayj that the question is a rhetorical negation affirming Allah has no equal and no rival. Ibn Uthaymeen described it as the Quran's invitation to tawhid in its most intellectually compelling form: if the listener cannot name a single equal, the conclusion of exclusive and patient worship follows necessarily."
     },
     {
       "id": "19_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 21,
-      "question": "How do Shia and Sunni interpretations differ in contextualizing Isa as a 'sign' in Surah Maryam?",
+      "layer": 2,
+      "verseNumber": 90,
+      "question": "Verse 90 describes the heavens, earth, and mountains almost collapsing at the claim that the Most Merciful has taken a son. What reason does Ibn Kathir cite — via Ibn Abbas — for why creation responds this way?",
       "options": [
-        "Sunni scholars reject the miraculous birth",
-        "Shia scholars deny Isa's prophethood",
-        "Shia exegesis connects it to the Ahl al-Bayt's theological status, while Sunni focuses on historical-literary analysis",
-        "Both traditions interpret it identically"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shia exegetes like Al-Qummi extend the symbolism to divine guidance through chosen figures, connecting to the Ahl al-Bayt, while Sunni commentators like Ibn Kathir emphasize the miracle's evidential role for Maryam's chastity."
-    },
-    {
-      "id": "19_19",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 13,
-      "question": "Both Shia and Sunni traditions interpret Prophet Yahya's 'zakat' (purity) as encompassing both spiritual refinement and ritual cleanliness.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Ibn Kathir and Al-Tabrisi similarly emphasize Yahya's moral integrity, linking his purity (zakat) to both spiritual refinement and ritual cleanliness, a point echoed in both traditions."
-    },
-    {
-      "id": "19_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 41,
-      "question": "What is a key distinction between Shia and Sunni interpretations of Ibrahim's title 'siddeeq'?",
-      "options": [
-        "Sunni scholars reject the term entirely",
-        "Shia exegesis links it to prophetic infallibility (ismah) and the Imamate, while Sunni focuses on historical-moral exemplarity",
-        "Both traditions avoid discussing Ibrahim",
-        "Shia scholars consider Ibrahim less important than Sunni do"
+        "A) The mountains were created specifically to collapse as a warning sign whenever false theology is spoken aloud",
+        "B) All creatures except humans and jinn are frightened by associating partners with Allah, and creation almost ceases to exist before shirk due to Allah's immense greatness",
+        "C) The physical destruction is literal and will only occur on the Day of Judgment when this verse is recited",
+        "D) The reaction of creation is a metaphor solely for the distress felt by believing humans who hear the claim"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia commentaries often contextualize Ibrahim's truthfulness within the framework of ismah (infallibility) and the Imamate's inheritance, while Sunni scholars focus on his historical mission and moral exemplarity without extending to ontological infallibility."
+      "explanation": "Ibn Kathir records through Ibn Jarir al-Tabari from Ibn Abbas: 'Verily the heavens, the earth, the mountains and all creatures — except humans and jinn — are frightened by the associating of partners with Allah; creation almost ceases existing before shirk due to His greatness.' The near-collapse arises from creation's glorification and esteem for Allah when it hears this claim from the Children of Adam."
     }
   ]
 }

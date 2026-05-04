@@ -3,268 +3,183 @@
   "questions": [
     {
       "id": "56_1",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What does the term 'Al-Waqi'ah' (The Inevitable Event) in verse 1 refer to?",
-      "options": [
-        "The birth of Prophet Muhammad",
-        "The Day of Judgment",
-        "The revelation of the Quran",
-        "The migration to Medina"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Al-Waqi'ah refers to the Day of Judgment, emphasizing its absolute certainty. The repetition in 'waqa'atil-waqi'ah' linguistically underscores the unstoppable nature of this divine promise."
+      "verseNumber": 7,
+      "question": "On the Day of Judgment, according to Surah Al-Waqiah, humanity will be divided into three distinct groups.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 7 states 'wa kuntum azwajan thalatha' — you will be in three groups. The surah identifies them as the Foremost (al-Sabiqun), the Companions of the Right Hand (Ashab al-Maimanah), and the Companions of the Left Hand (Ashab al-Mash'ama)."
     },
     {
       "id": "56_2",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 2,
-      "question": "According to verse 2, when the Day of Judgment occurs, its reality will be undeniable and universally acknowledged.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Verse 2 declares 'There is, at its occurrence, no denial' - asserting that when this cosmic event unfolds, its reality will be undeniable and universally acknowledged."
+      "verseNumber": 11,
+      "question": "What title does Surah Al-Waqiah give to the Foremost (al-Sabiqun) in verse 11?",
+      "options": ["Ashab al-Jannah (Companions of Paradise)", "Al-Muqarrabun (Those Brought Near to Allah)", "Ashab al-Maimanah (Companions of the Right)", "Al-Muttaqun (The God-Fearing)"],
+      "correctAnswer": "B",
+      "explanation": "Verses 10-11 declare 'wa al-sabiqun al-sabiqun, ula'ika al-muqarrabun' — the Foremost are precisely those brought nearest to Allah. Ibn Kathir identifies this as the highest of the three ranks described in the surah."
     },
     {
       "id": "56_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 5,
-      "question": "What does the Arabic term 'bussat' (crumbling) describe about the mountains on the Day of Judgment?",
-      "options": [
-        "They will become higher",
-        "They will be reduced to dust and completely disintegrate",
-        "They will turn to gold",
-        "They will split in half"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The term 'bussat' from the root 'ba-sa-sa' means to scatter, crush, or reduce to particles. Mountains, symbols of permanence, will be rendered like dust, demonstrating Allah's absolute power over creation."
+      "verseNumber": 8,
+      "question": "The rhetorical question 'What are the Companions of the Right Hand?' in verse 8 is directed at which group?",
+      "options": ["The Foremost (al-Sabiqun)", "The disbelievers on the Left Hand", "The Companions of the Right Hand (Ashab al-Maimanah)", "The angels carrying the Throne"],
+      "correctAnswer": "C",
+      "explanation": "Verse 8 asks 'wa ma ashab al-maimanah?' — the question is about the Companions of the Right Hand. The rhetorical form conveys the greatness and honor of this group, a device recognized across classical tafsir to signal a subject of supreme importance."
     },
     {
       "id": "56_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 11,
-      "question": "Who are the 'al-muqarrabun' (those brought near) mentioned in verse 11?",
-      "options": [
-        "The angels",
-        "Those granted the highest rank of nearness to Allah through devotion and righteousness",
-        "The prophets only",
-        "Those who performed Hajj"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Al-muqarrabun are those granted the highest rank of nearness to Allah, distinguished by unwavering devotion and spiritual excellence. This nearness is achieved through purity of intention, righteous deeds, and divine love."
+      "verseNumber": 13,
+      "question": "According to verses 13-14, the Foremost rank in Paradise will include a large company from the earlier generations but only a few from the later generations.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 13 states 'thullatun min al-awwalin' (a large group from the former peoples) and verse 14 says 'wa qalilun min al-akhirin' (a few from the later peoples). Ibn Kathir records that the Companions were saddened when they heard this distinction about the Foremost rank."
     },
     {
       "id": "56_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what does the violent shaking of the earth (rujjat) symbolize?",
-      "options": [
-        "A minor earthquake",
-        "The collapse of worldly illusions, compelling humanity to confront eternal truths",
-        "The creation of new mountains",
-        "The formation of oceans"
-      ],
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "What three forms of torment are described for the Companions of the Left Hand in verses 41-43?",
+      "options": ["Darkness, chains, and silence", "Scorching wind, boiling water, and shadow of black smoke", "Hunger, thirst, and endless regret", "Fire, ice, and bitter food"],
       "correctAnswer": "B",
-      "explanation": "Tabrisi interprets the violent tremors as symbolizing the collapse of worldly illusions, compelling humanity to confront eternal truths. It represents both the literal dismantling of terrestrial order and metaphysical transformation."
+      "explanation": "Verses 41-43 describe the punishment as 'fi samum wa hamim' (scorching wind and scalding water) 'wa zill min yahmum' (and a shadow of black smoke). These three elements make up the torment prepared for the Companions of the Left."
     },
     {
       "id": "56_6",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 10,
-      "question": "According to classical Shia exegesis, the 'Sabiqun' (the foremost ones) are identified exclusively as the infallible Imams and their most devoted followers.",
+      "layer": 1,
+      "verseNumber": 57,
+      "question": "In verse 57, Allah uses the act of creating human beings as a logical argument for the possibility of resurrection after death.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "In Shia tradition, the Sabiqun are identified as the infallible Imams and their most devoted followers. Their priority lies in ontological proximity to Allah, achieved through unwavering submission and spiritual excellence."
+      "explanation": "Verse 57 states 'Nahnu khalaqnakum falawla tusaddiqun' — We created you, so why do you not believe? The tafsir explains that initial creation from nothing is offered as the clearest proof that restoring life after death is well within Allah's power."
     },
     {
       "id": "56_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 26,
-      "question": "What does the dual repetition of 'salam' (peace, peace) in verse 26 signify according to Tabrisi?",
-      "options": [
-        "A simple greeting",
-        "Two dimensions: peace from Allah and mutual peace among Paradise's inhabitants",
-        "A pause in recitation",
-        "A grammatical emphasis only"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi notes that this dual invocation reflects two dimensions: peace from Allah and mutual peace among the inhabitants of Paradise, a concept rooted in the Quranic principle of 'Dar al-Salam' (the Abode of Peace)."
+      "layer": 1,
+      "verseNumber": 85,
+      "question": "At the moment of death, when the soul reaches the throat, who does Allah say is nearer to the dying person than those watching by the bedside?",
+      "options": ["The angel of death", "The deceased's righteous deeds", "Allah Himself", "The prophets interceding"],
+      "correctAnswer": "C",
+      "explanation": "Verse 85 states 'wa nahnu aqrabu ilayhi minkum' — We (Allah) are nearer to him than you. This refers to the moment 'idha balaghat al-hulqum' (when the soul reaches the throat), emphasizing Allah's complete awareness and closeness at the time of death."
     },
     {
       "id": "56_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 41,
-      "question": "According to Allama Tabatabai, what does the 'left' symbolize for the 'companions of the left'?",
-      "options": [
-        "Physical direction only",
-        "Spiritual misalignment and alienation from divine guardianship (wilayah)",
-        "Political opposition",
-        "A geographical location"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai frames the 'left' as representing spiritual misalignment and adherence to falsehood, alienation from the wilayah (divine guardianship) of the Imams. This reflects the Shia view that orientation toward divine guidance determines one's eternal station."
+      "verseNumber": 8,
+      "question": "Classical scholars describe the rhetorical question 'ma ashab al-maimanah?' in verse 8 as an example of which literary device used to convey the greatness of a subject?",
+      "options": ["Tashbih (simile)", "Iltifat (shift of address)", "Ta'zim (magnification through rhetorical questioning)", "Istifham inkari (question of denial)"],
+      "correctAnswer": "C",
+      "explanation": "The form 'ma X?' in Arabic is a device of ta'zim — it magnifies the subject by implying its description is beyond ordinary words. Al-Tabari and Ibn Kathir both recognize this rhetorical pattern across the Quran as a signal of supreme importance for what follows."
     },
     {
       "id": "56_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 5,
-      "question": "Contemporary Shia scholars like Dr. Mohammad Shomali connect the imagery of mountains crumbling to modern scientific understandings of geological processes and tectonic shifts.",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "Ibn Kathir records a hadith stating that the Companions of the Prophet were saddened when verse 14 revealed that only a few from the later generations would attain the rank of the Foremost.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Modern scholars like Dr. Mohammad Shomali connect this imagery to current scientific understandings of tectonic shifts and erosion, noting how the Quran's depiction aligns with geological processes that reshape Earth over millennia."
+      "explanation": "Ibn Kathir cites a hadith narrated via Tirmidhi in which the Companions felt grief upon hearing 'qalilun min al-akhirin' (a few from the later peoples) regarding the Foremost rank. The Prophet then reassured them about the honor of this smaller number."
     },
     {
       "id": "56_10",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 11,
-      "question": "How do contemporary scholars like Ayatollah Makarem Shirazi interpret 'nearness to Allah' in the context of modern society?",
-      "options": [
-        "As purely a mystical state achieved through isolation",
-        "As both spiritual proximity and ethical responsibility to address societal inequities",
-        "As attending more religious ceremonies",
-        "As acquiring more religious knowledge only"
-      ],
+      "layer": 2,
+      "verseNumber": 19,
+      "question": "Verse 19 states that the drinks of Paradise will cause 'la yusadda'una anha wa la yunzifun.' What do classical scholars say these two phrases mean?",
+      "options": ["No hunger and no thirst", "No headache and no intoxication", "No boredom and no end to the drink", "No sin and no regret"],
       "correctAnswer": "B",
-      "explanation": "Ayatollah Makarem Shirazi emphasizes that nearness to Allah isn't merely a mystical state but a call to embody divine attributes - justice, mercy, and wisdom - in daily life, addressing societal inequities and environmental crises as acts of worship."
+      "explanation": "Al-Tabari and Ibn Kathir explain 'la yusadda'una' as 'they will not get a headache from it' and 'la yunzifun' as 'they will not become intoxicated or lose their reason.' Unlike worldly wine, the drink of Paradise brings pleasure with no harmful effect."
     },
     {
       "id": "56_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 42,
-      "question": "How do contemporary scholars like Dr. Mohammad Ali Shomali interpret 'samoom' (scorching fire) in relation to modern issues?",
-      "options": [
-        "As ancient mythology",
-        "As literal fire only",
-        "As the suffocating heatwaves from global warming - a divine warning against environmental exploitation",
-        "As industrial pollution only"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Dr. Shomali connects the term 'samoom' to today's climate emergency, interpreting it as the suffocating heatwaves from global warming and 'hameem' as polluted waters harming vulnerable communities - a divine warning against environmental exploitation."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 46,
+      "question": "According to Ibn Abbas, Mujahid, and Qatadah as reported by al-Tabari, the phrase 'al-hinth al-azim' (the great sin) in verse 46 refers specifically to shirk (associating partners with Allah).",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Tabari reports that Ibn Abbas, Mujahid, and Qatadah all interpreted 'al-hinth al-azim' as shirk — the gravest of all sins. The verse describes the people of the Left Hand as those who persisted in this great sin throughout their lives."
     },
     {
       "id": "56_12",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "The concept of 'salam' (peace) in Surah Al-Waqi'ah has parallels in other religious traditions such as the Hebrew 'shalom' and Sanskrit 'shanti'.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The universalism of 'salam' mirrors Hebrew 'shalom' and Sanskrit 'shanti', offering a bridge for interfaith dialogue. Scholars highlight these parallels as opportunities for multicultural solidarity in addressing shared global challenges."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 64,
+      "question": "Verses 63-65 present the agricultural sign: humans plant seeds, but what does the Quran say would happen if Allah so willed, and what does this prove?",
+      "options": ["The crops would grow twice as large, proving Allah's generosity", "The crops would turn to debris (hutam), proving that actual growth belongs to Allah alone", "The rain would stop, proving Allah controls weather", "The harvest would be stolen, proving this world is a test"],
+      "correctAnswer": "B",
+      "explanation": "Verse 65 states 'law nasha'u la-ja'alnahu hutaman' — if We willed, We could make it debris. Al-Tabari and Ibn Kathir explain that while humans sow, Allah alone causes germination and growth, and this divine power over crops supports the argument for resurrection."
     },
     {
       "id": "56_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (as) in Tafsir al-Qummi, what does the 'Occurrence' (Al-Waqi'ah) also refer to?",
-      "options": [
-        "Only physical earthquakes",
-        "The rising of Imam Mahdi (aj), when all veils between temporal reality and eternal truth will be lifted",
-        "The migration of Muslims",
-        "The Battle of Badr"
-      ],
-      "correctAnswer": "B",
-      "explanation": "In Tafsir al-Qummi, Imam Jafar al-Sadiq (as) reveals this 'Occurrence' as also referring to the rising of Imam Mahdi (aj), when all veils between temporal reality and eternal truth (Haqq) will be lifted."
+      "layer": 3,
+      "verseNumber": 24,
+      "question": "The phrase 'jaza'an bima kanu ya'malun' in verse 24 uses the Arabic verb form 'kanu ya'malun.' What significance do contemporary scholars find in this verb form?",
+      "options": ["It indicates deeds done in secret", "It refers only to the deeds of prophets and martyrs", "It is the past-continuous form, indicating habitually and consistently performed righteous deeds", "It implies deeds recorded by the left-hand angels only"],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli notes that 'kanu ya'malun' is the past-continuous construction in Arabic, meaning 'they used to habitually do.' The reward of the Foremost is thus tied not to a single act but to a sustained lifetime pattern of righteous conduct."
     },
     {
       "id": "56_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Jafar al-Sadiq (as), what causes the true spiritual 'convulsion' described when the earth is shaken?",
-      "options": [
-        "Physical tectonic plates",
-        "Hearts that reject the light of the Imams - the weight of unrecognized wilayah",
-        "Natural disasters",
-        "Human engineering"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (as) explained that 'When the earth is shaken, it is shaken by the weight of unrecognized wilayah. The true convulsion occurs in hearts that reject the light of the Imams.'"
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 73,
+      "question": "Contemporary scholars explain that the fire sign in verse 73 serves a dual purpose: as a reminder (tadhkira) of the Fire of Hell and as a practical provision (mata') for travelers and those who need it.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 73 states fire was made 'tadhkiratan wa mata'an lil-muqwin' — a reminder and a provision for travelers. Wahbah al-Zuhayli explains that earthly fire simultaneously reminds believers of the Hellfire and serves as a real worldly benefit, reflecting the Quran's integration of the spiritual and the practical."
     },
     {
       "id": "56_15",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 26,
-      "question": "According to Imam Jafar al-Sadiq (as), the first 'salam' in Paradise is from Allah, and the second 'salam' is from the Ahlul Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq (as) states in Tafsir al-Burhan: 'The first salam is from Allah, and the second salam is from us, the People of the House. Paradise speaks only through our love, for we are its tongue and its meaning.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 30,
+      "question": "In describing the environment of the Companions of the Right Hand, which triad of blessings does Wahbah al-Zuhayli highlight in his commentary on verses 28-32?",
+      "options": ["Gold thrones, immortal youths, and rivers of honey", "Silk garments, cool breezes, and fruit orchards", "Extended shade, flowing water, and abundant fruit", "Lofty mansions, flowing wine, and pure spouses"],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir draws attention to 'zill mamdud' (extended shade), 'maa maskub' (flowing water), and 'kathirat al-fakiha' (abundant fruit) in verses 30-32 as the foundational comforts of Paradise — addressing shelter, thirst, and nourishment together."
     },
     {
       "id": "56_16",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Imam Ali (as), how does one achieve the station of al-Muqarrabun (those brought near)?",
-      "options": [
-        "Through wealth and status",
-        "Through isolation from society",
-        "Through recognition and adherence to the Imams, who are the 'gate of Allah's mercy'",
-        "Through political power"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali (as) explains: 'None draw close to Allah except through us, the gate of His mercy' (Bihar al-Anwar). The Muqarrabun embody tawhid in action, seeing the Imam's guidance as the mirror of Allah's will."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Sayyid Qutb reads the phrase 'khafidah rafi'ah' in verse 3 as describing both a physical cosmic upheaval and a simultaneous moral reversal of fortunes on the Day of Judgment.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb interprets 'khafidah rafi'ah' (lowering and raising) as operating on two levels: the physical collapse of the world's order and the moral inversion whereby the powerful are humbled and the humble are exalted, both occurring in a single divine moment."
     },
     {
       "id": "56_17",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Sunni and Shia scholars agree that 'Al-Waqi'ah' (The Occurrence) refers to the Day of Judgment, though they differ on theological elaborations.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions agree that Al-Waqi'ah refers to the inevitable advent of the Day of Judgment. However, Shia sources often expand interpretations to include the manifestation of Imam al-Mahdi, while Sunni commentators focus more on Allah's absolute power."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 91,
+      "question": "When a Companion of the Right Hand dies, what greeting does verse 91 indicate awaits them?",
+      "options": ["'Udkhul al-janna bi-rahmatillah' (Enter Paradise by Allah's mercy)", "'Salamun laka min ashab al-yamin' (Peace be upon you from the Companions of the Right)", "'Anta min al-muqarrabin' (You are among those brought near)", "'Jaza'ukum al-janna' (Your reward is Paradise)"],
+      "correctAnswer": "B",
+      "explanation": "Verse 91 states 'fa-salamun laka min ashab al-yamin' — peace be upon you from the Companions of the Right Hand. Ibn Uthaymeen explains that this is a word of honor and reassurance given to the dying believer of this rank, contrasting sharply with the fate of the deniers described in the verses that follow."
     },
     {
       "id": "56_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 11,
-      "question": "What is a key difference between Shia and Sunni interpretations of 'al-muqarrabun' (those brought near)?",
-      "options": [
-        "There are no differences",
-        "Shia sources link it to the Ahl al-Bayt as perfected embodiments of nearness, while Sunni sources emphasize individual piety alone",
-        "Sunni sources reject the concept entirely",
-        "Shia sources interpret it as only referring to prophets"
-      ],
+      "layer": 3,
+      "verseNumber": 96,
+      "question": "The surah closes in verse 96 with 'fa-sabbih bi-smi rabbik al-azim.' Which earlier verse does this closing command directly mirror, creating a structural symmetry in the surah?",
+      "options": ["Verse 57", "Verse 74", "Verse 83", "Verse 68"],
       "correctAnswer": "B",
-      "explanation": "Sunni authorities emphasize individual piety as the sole criterion, while Shia sources link al-muqarrabun to the Prophet's household (Ahl al-Bayt) as perfected embodiments of nearness. Tabatabai's Al-Mizan argues the Imams represent both the means and ultimate exemplars of this station."
-    },
-    {
-      "id": "56_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 41,
-      "question": "How do Shia interpretations of 'companions of the left' differ from Sunni interpretations?",
-      "options": [
-        "They are identical",
-        "Shia sources include rejection of wilayah (allegiance to Ahl al-Bayt) as a cause, while Sunni sources focus on neglecting obligatory acts",
-        "Sunni sources are more severe",
-        "Shia sources reject the verse"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni commentators like Razi and Ibn Kathir focus on individual accountability for neglecting obligatory acts. Shia sources like Tabatabai extend this to include rejection of wilayah (allegiance to the Ahl al-Bayt), framing it as spiritual 'left' aligned with opposition to divinely appointed leadership."
-    },
-    {
-      "id": "56_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "Both Shia and Sunni traditions agree that the repetition of 'salam' (peace, peace) in Paradise signifies the totality of divine security, though they differ on the theological emphasis.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both Al-Tabari (Sunni) and Al-Tabrisi (Shia) emphasize that the dual repetition of 'salam' signifies the totality of divine security. However, Shia sources often extend this to include cosmic recognition of wilayah, while Sunni sources focus on Allah's mercy toward obedient believers."
+      "explanation": "Verse 74 contains the identical command 'fa-sabbih bi-smi rabbik al-azim' after the cosmic signs section. Sayyid Qutb and Wahbah al-Zuhayli both note this deliberate repetition as a structural bracket — the call to glorify Allah frames the cosmic proofs and the surah's entire closing, reinforcing its thematic unity."
     }
   ]
 }

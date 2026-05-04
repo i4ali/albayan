@@ -6,135 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the Arabic letter 'Qaf' at the beginning of Surah Qaf belong to?",
+      "question": "Why did the Prophet Muhammad recite Surah Qaf regularly every Friday from the pulpit?",
       "options": [
-        "The names of Allah",
-        "The huruf muqatta'at (disconnected letters)",
-        "The names of prophets",
-        "The types of prayers"
+        "A. Because it is the shortest surah and easy to memorize",
+        "B. To keep the community constantly revisiting its themes of resurrection, accountability, and divine power",
+        "C. Because it was the first surah revealed in Mecca",
+        "D. To honor the letter Qaf as one of the names of Allah"
       ],
       "correctAnswer": "B",
-      "explanation": "The opening letter 'Qaf' is one of the huruf muqatta'at (disconnected letters) found at the start of several Quranic chapters, whose precise meaning remains known only to Allah."
+      "explanation": "The tafsir notes that the Prophet recited Surah Qaf every Friday in his khutba to ensure the community continually revisited its foundational themes of resurrection and accountability. Ibn Kathir cites the hadith from Sahih Muslim narrated by Umm Hisham al-Ansariyya confirming this practice."
     },
     {
       "id": "50_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the tafsir, the phrase 'no rifts' (furuj) in verse 6 refers to the flawless cosmic order of the heavens, free from contradictions or weaknesses.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "Imam Tabari held a firm and definitive opinion that the letter Qaf at the opening of this surah refers to a mountain that surrounds the earth.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The heavens are described as flawlessly designed, free from furuj (rifts or weaknesses), a term implying both physical perfection and symbolic harmony in Allah's creation."
+      "correctAnswer": "false",
+      "explanation": "Tabari recorded multiple scholarly positions on the letter Qaf, including the mountain interpretation, but he himself preferred the view that these disconnected letters are among the matters whose knowledge belongs to Allah alone. Ibn Kathir in Tafsir al-Quran al-Azim affirmed the same position of scholarly humility before these mysteries."
     },
     {
       "id": "50_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what do the disconnected letters like 'Qaf' represent?",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "What was the core reason the Meccan disbelievers rejected the Prophet's message according to verse 2?",
       "options": [
-        "Scientific formulas",
-        "Divine mysteries (asrar ilahiyya) whose full comprehension transcends human intellect",
-        "Historical dates",
-        "Names of ancient cities"
+        "A. They found his arguments logically flawed and demanded further signs",
+        "B. They were astonished that a warner came from among themselves, a human they already knew",
+        "C. They objected that the message contained no new moral teachings",
+        "D. They rejected it because the message was delivered in an unfamiliar dialect"
       ],
       "correctAnswer": "B",
-      "explanation": "Shaykh Tabrisi notes that such letters represent divine mysteries (asrar ilahiyya) whose full comprehension transcends human intellect, reserved for the Prophet and the purified Ahlul Bayt."
+      "explanation": "The tafsir explains that the disbelievers marveled that the warner was 'from among themselves' (minhum) — an ordinary man they knew personally. Their rejection was rooted in arrogance and social pride rather than intellectual objection. The phrase 'this is a strange thing' was their dismissal based on the familiarity of a human being claiming divine selection."
     },
     {
       "id": "50_4",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 16,
-      "question": "What does Allama Tabatabai in Al-Mizan emphasize about Allah's 'closeness' being nearer than the jugular vein?",
+      "verseNumber": 2,
+      "question": "Fakhr al-Din al-Razi noted that verse 2 uses 'mundhir' (warner) rather than 'mubashir' (bringer of glad tidings). What reason did he give for this choice?",
       "options": [
-        "It refers to physical proximity",
-        "It denotes Allah's absolute knowledge and sovereignty over human consciousness",
-        "It means Allah is inside the human body",
-        "It suggests humans can see Allah"
+        "A. Because the Prophet had not yet been given permission to announce Paradise",
+        "B. Because the dominant theme being introduced is accountability and resurrection, which calls first for a warning",
+        "C. Because the disbelievers specifically requested a warner rather than a bringer of good news",
+        "D. Because 'mubashir' was a term reserved exclusively for angels in Quranic usage"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that divine closeness transcends spatial or physical nearness, instead denoting Allah's absolute knowledge and sovereignty over the innermost dimensions of the human self (nafs)."
+      "explanation": "In Mafatih al-Ghayb, Fakhr al-Din al-Razi observes that the Quran's selection of 'mundhir' reflects the context of Surah Qaf: the dominant theme introduced is accountability and resurrection, subjects that naturally call for a warning before a promise of reward."
     },
     {
       "id": "50_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "Contemporary scholars connect the verse about contemplating the heavens to modern scientific discoveries about the universe's expansion and cosmic balance.",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "The disbelievers' declaration 'that is a far return' in verse 3 was a sincere expression of intellectual doubt about the mechanics of resurrection.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern commentaries highlight how the verse's emphasis on the sky's flawless structure resonates with discoveries about the universe's expansion, dark matter, and the delicate balance sustaining galaxies."
+      "correctAnswer": "false",
+      "explanation": "According to the tafsir, 'that is a far return' was an expression of mockery and disbelief, not genuine inquiry. The Quran records their words not to validate them but to invite every reader to confront the question seriously. Their stance was reactive and driven by pride rather than honest investigation."
     },
     {
       "id": "50_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 17,
-      "question": "According to contemporary Shia scholarship, how do the 'two receivers' (recording angels) relate to modern life?",
+      "verseNumber": 4,
+      "question": "Wahbah al-Zuhayli noted that modern forensic science illustrates the Quranic claim in verse 4. What does that verse assert?",
       "options": [
-        "They are obsolete concepts",
-        "They parallel digital surveillance, reminding Muslims their actions are always recorded",
-        "They only apply to prophets",
-        "They refer to the sun and moon"
+        "A. That the Quran contains scientific details that were unknown until the modern era",
+        "B. That Allah's knowledge of what the earth takes from every human body makes resurrection entirely possible",
+        "C. That the angels record deeds using methods resembling forensic analysis",
+        "D. That the Preserved Tablet functions like a comprehensive genetic database"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars connect this to the ethical challenges of online transparency, urging Muslims to see their digital footprints as extensions of the angels' scrolls in an era of digital surveillance."
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli argues that if humans with limited forensic tools can reconstruct so much from microscopic bone fragments, this glimpse of human knowledge illustrates the divine knowledge verse 4 describes: Allah knows precisely what the earth diminishes of every person, making the materialist objection to resurrection collapse."
     },
     {
       "id": "50_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (AS), what does 'Qaf' symbolize besides the Glorious Quran?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "In verse 6 Allah invites humanity to observe the sky and notice it has no 'furuj.' What does this word mean, and what does it support?",
       "options": [
-        "The mountain of Qaf only",
-        "Qa'im Al Muhammad (the Rising One from the Family of Muhammad)",
-        "The letter itself has no significance",
-        "A type of prayer"
+        "A. The sky has no permanent clouds, proving Allah alone controls weather patterns",
+        "B. The sky has no rifts or cracks, demonstrating seamless divine craftsmanship that supports the case for resurrection",
+        "C. The sky has no visible boundary, proving the cosmos is infinite by divine will",
+        "D. The sky has no audible sound, proving Allah's creation operates without disturbance"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq taught that 'Qaf' symbolizes Qur'anun Majeed (the Glorious Quran) and Qa'im Al Muhammad (the Rising One from the Family of Muhammad), revealing the Quran's connection to the Ahlul Bayt."
+      "explanation": "The tafsir explains that 'furuj' means rifts, cracks, or fissures. The verse argues that if Allah built and sustains the vast heavens without any defect, He is more than capable of raising the dead. Imam al-Qurtubi notes this as an argument (dalil) for omnipotence drawn from visible creation."
     },
     {
       "id": "50_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 16,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, Allah 'is with everything, not by physical nearness, and He is beyond everything, not by separation.'",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "Imam al-Qurtubi held that verse 6's call to look at the sky contains an implicit command to engage in deep contemplation (tadabbur) of creation, and that such reflection is among the highest acts of intellectual worship.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) teaches in Nahj al-Balagha: 'He is with everything, not by [physical] nearness, and He is beyond everything, not by separation,' explaining how Allah's closeness transcends spatial limits."
+      "explanation": "In Al-Jami li-Ahkam al-Quran, Imam al-Qurtubi notes that the interrogative 'Have they not looked?' carries an implicit command to engage in tadabbur, and he affirms that contemplation of creation is among the highest acts of intellectual worship because it leads the mind to recognize the power and majesty of the Creator."
     },
     {
       "id": "50_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "What is a key difference between Shia and Sunni interpretations of the heavens' perfection in verse 6?",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "What was the main scholarly disagreement about the 'companions of the well' (Ashab al-Rass) mentioned in verse 12?",
       "options": [
-        "Both reject the verse as metaphorical",
-        "Shia exegesis often links cosmic perfection to the doctrine of Imamah, while Sunni scholars focus on empirical observation",
-        "Sunni scholars focus on Imamah more",
-        "There are no differences"
+        "A. Whether they lived before or after the people of Noah",
+        "B. Whether their prophet was Hud or Shu'ayb",
+        "C. Their precise historical identity, with some identifying them as a remnant of Thamud and others as a distinct community",
+        "D. Whether the well was a physical landmark or a metaphor for spiritual decline"
       ],
-      "correctAnswer": "B",
-      "explanation": "Shia tafsir often links contemplation of cosmic unity to recognition of the Imams' ontological role in cosmic harmony, while Sunni scholars like Ibn Kathir emphasize empirical observation as a faith-building exercise."
+      "correctAnswer": "C",
+      "explanation": "As recorded by Imam Tabari in Jami al-Bayan, classical scholars differed on who the Ashab al-Rass were. Some held they were a surviving remnant of Thamud; others, including Qatada, identified them as a distinct Arab community who threw their prophet into an actual well. Ibn Kathir acknowledged this uncertainty while affirming that the theological lesson is identical regardless of their specific identity."
     },
     {
       "id": "50_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "Sayyid Qutb argued in Fi Zilal al-Quran that the rapid listing of destroyed nations such as Ad, Pharaoh, and the brothers of Lut is purely a history lesson with no direct relevance to later generations.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb explicitly argues the opposite: the enumeration of destroyed nations is a confrontation with cosmic reality, not history for academic interest. He describes it as revealing the permanent operating law of the universe — that arrogance and rejection of divine guidance lead to ruin — and applies this to every age including the modern world."
+    },
+    {
+      "id": "50_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "According to comparative tafsir, how do Shia sources interpret 'another deity' (ilah akhar) in verse 26 beyond overt idolatry?",
+      "layer": 1,
+      "verseNumber": 16,
+      "question": "What spiritual quality does verse 16's declaration 'We are closer to him than his jugular vein' aim to cultivate in the believer?",
       "options": [
-        "Only as physical idols",
-        "As including rejection of wilayah (allegiance to divinely appointed leadership)",
-        "As a reference to other prophets",
-        "As having no broader meaning"
+        "A. Asceticism, prompting withdrawal from worldly concerns",
+        "B. Muraqabah, the constant consciousness that Allah witnesses every thought, intention, and movement",
+        "C. Isolation in worship and avoidance of all social interaction",
+        "D. Gratitude, since the verse focuses on Allah's closeness as a sign of His generosity"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia sources like al-Qummi's tafsir interpret 'another deity' as including rejection of wilayah (allegiance to divinely appointed leadership), linking tawhid to recognition of Imamah."
+      "explanation": "The tafsir explains that the image of the jugular vein conveys an intimacy beyond anything physical, and its practical lesson is muraqabah — the awareness that Allah witnesses every thought and intention. This awareness should inspire not fear alone but a sense of being accompanied and accountable at every moment, transforming the believer's private life and inner sincerity."
+    },
+    {
+      "id": "50_12",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 17,
+      "question": "What mercy embedded in the system of the two recording angels did Imam Tabari record from scholars of the early generations regarding verse 17?",
+      "options": [
+        "A. The right angel records only good deeds and bad deeds are never written at all",
+        "B. The right angel may hold the recording of a sin for a period to allow repentance before it is permanently entered",
+        "C. Both angels rest on Fridays so deeds on that day are not recorded",
+        "D. The angels only begin recording after a person reaches the age of forty"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In Jami al-Bayan, Imam Tabari cites narrations from scholars of the Salaf indicating that when a person commits a sin, the angel of the right may hold the recording — some reports say for six or seven hours — to allow the person to repent before the act is permanently entered. This highlights the divine mercy woven into the system of angelic accountability."
+    },
+    {
+      "id": "50_13",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "Verse 18 of Surah Qaf teaches that only sinful or harmful words are recorded by the watching angel, while mundane statements are excluded from the record.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir is explicit that verse 18 covers every word without exception. Imam Tabari records in Jami al-Bayan that the scholarly consensus interprets 'ma yalfizu min qawlin' as any utterance at all, including purely mundane statements, with judgment accounting for the varying nature and impact of each word."
+    },
+    {
+      "id": "50_14",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 33,
+      "question": "Sheikh Muhammad al-Sharawi offered a distinctive insight on why verse 33 describes fearing 'al-Rahman' (the Most Merciful) rather than a more fearsome divine name. What was his point?",
+      "options": [
+        "A. That fear and mercy are contradictory, so the verse must be read as purely metaphorical",
+        "B. That fearing al-Rahman means one fears being deprived of His mercy, a deeper awareness than merely fearing punishment",
+        "C. That al-Rahman is used here because the verse was addressed specifically to the women of Mecca",
+        "D. That al-Rahman is the easiest divine name for ordinary people to understand and relate to"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In his tafsir commentary, Sheikh Muhammad al-Sharawi pointed out that the deliberate choice of the name al-Rahman signals that the person who truly understands Allah's mercy fears being deprived of it far more than they fear punishment alone. The greatest possible loss is losing closeness to the One who is infinitely generous and merciful, making this the highest form of taqwa described in verse 33."
+    },
+    {
+      "id": "50_15",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 45,
+      "question": "The closing verse of Surah Qaf commands the Prophet to 'remind with the Quran whoever fears My warning.' What principle about Islamic guidance does this teach?",
+      "options": [
+        "A. That the Quran should only be recited to scholars and the religiously trained",
+        "B. That political authority must be established before the Quran can serve as a reminder",
+        "C. That the Quran itself is the sufficient instrument of guidance, offered through invitation rather than compulsion, to those with receptive hearts",
+        "D. That warnings of divine punishment are more effective than promises of reward in guiding people"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The tafsir explains that this final verse closes on three interlocking notes: Allah is fully aware of what deniers say, the Prophet is not a compeller (jabbar), and the Quran is the tool of reminder for those who fear divine accountability. True faith cannot be forced but must come through invitation and receptivity. Al-Qurtubi connects this to the broader Quranic principle 'there is no compulsion in religion' (2:256)."
     }
   ]
 }

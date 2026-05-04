@@ -5,136 +5,196 @@
       "id": "44_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 10,
-      "question": "According to the tafsir, what does the term 'dukhan' (smoke) in verse 10 refer to?",
+      "verseNumber": 3,
+      "question": "What is the 'blessed night' (laylah mubarakah) referred to in verse 3, and how do the majority of classical scholars identify it?",
       "options": [
-        "Only a future eschatological sign",
-        "A dense, unmistakable smoke enveloping the sky, linked both to historical famine and eschatological signs",
-        "Just a metaphor for confusion",
-        "Only air pollution in modern times"
+        "A) The night of the fifteenth of Sha'ban, as held by a minority opinion traced to Ibn Abbas",
+        "B) Laylat al-Qadr in Ramadan, consistent with Surah Al-Qadr and Surah Al-Baqarah identifying that month as when the Quran was revealed",
+        "C) The first night of the Islamic New Year, which marks the start of divine decrees",
+        "D) The night of the Prophet's birth, because all blessings descend on that date"
       ],
       "correctAnswer": "B",
-      "explanation": "The term dukhan refers to a dense, unmistakable smoke enveloping the sky. Shia scholars like Allamah Tabatabai explain it as both a historical warning (linked to the severe famine in Mecca during the Prophet's time) and an eschatological sign."
+      "explanation": "Imam al-Tabari and Ibn Kathir both identify the blessed night as Laylat al-Qadr in Ramadan, using the Quran's own testimony in Surah Al-Qadr (97:1) and Surah Al-Baqarah (2:185) as the governing interpretation. Ibn Kathir calls this the position of the jumhur (scholarly majority) and regards the Sha'ban view as weak."
     },
     {
       "id": "44_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 17,
-      "question": "In Surah Ad-Dukhaan verse 17, the 'noble messenger' (rasoolun kareem) sent to Pharaoh's people refers to Prophet Musa (Moses).",
+      "verseNumber": 4,
+      "question": "True or false: According to verse 4, the annual distinction of wise decrees on Laylat al-Qadr means Allah is learning something new or revising His plan each year.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The 'noble messenger' in verse 17 refers to Prophet Musa (Moses), whose moral excellence and dignified mission contrasted sharply with Pharaoh's tyranny."
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir explains that what occurs on Laylat al-Qadr is not Allah gaining new knowledge but rather the transfer of His eternal knowledge into the temporal order of angelic administration. This 'annual decree' (al-qadar al-hawli) does not imply any change in divine knowledge; it reflects the eternal plan being enacted in time. Imam al-Qurtubi similarly affirms that the Salaf understood the angels to receive the year's appointed matters on this night."
     },
     {
       "id": "44_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 10,
-      "question": "According to Sheikh Tabrisi in Majma al-Bayan, the 'smoke' (dukhan) in verse 10 has two primary perspectives. What are they?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "Verse 6 describes the entire act of the Quran's revelation as 'rahmatam min rabbika' — a mercy from your Lord. What does this framing tell us about the nature of Quranic guidance?",
       "options": [
-        "Literal and metaphorical",
-        "Historical and eschatological",
-        "Physical and emotional",
-        "Individual and collective"
+        "A) That the Quran is primarily a legal code obligating believers, and mercy is a secondary theme",
+        "B) That the Quran descended not from necessity but from divine generosity — it is a gift of compassion first, and a code second",
+        "C) That divine mercy in this verse refers only to the Prophet personally and not to his community",
+        "D) That the word 'rahmatam' indicates the Quran is optional guidance rather than a binding obligation"
       ],
       "correctAnswer": "B",
-      "explanation": "Sheikh Tabrisi outlines two primary perspectives: historical (linked to a severe famine in Mecca during the Prophet's time as divine punishment for the Quraysh's rejection) and eschatological (a sign preceding the Day of Judgment)."
+      "explanation": "Wahbah al-Zuhayli notes in Al-Tafsir al-Munir that 'rahmatam' is in the accusative as a purpose clause, meaning mercy was the very reason and goal behind sending the Quran down. Sayyid Qutb writes in Fi Zilal al-Quran that this positions the Quran as a mercy first — Allah's love for humanity, not His authority alone, drove the revelation. Muhammad al-Sha'rawi adds that the Quran is not a burden to be endured but an expression of divine care."
     },
     {
       "id": "44_4",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 16,
-      "question": "What does 'al-batshah al-kubra' (the greatest assault) in verse 16 signify according to classical Shia exegesis?",
+      "verseNumber": 3,
+      "question": "Imam al-Tabari gave clear preference to the Laylat al-Qadr interpretation over the Sha'ban view on what methodological ground?",
       "options": [
-        "A minor punishment for small sins",
-        "A worldly military victory",
-        "An unparalleled act of divine punishment on the Day of Judgment",
-        "A natural disaster"
+        "A) He found the Sha'ban narration's chain of transmission to be fabricated",
+        "B) He relied on the principle that the Quran is its own best interpreter, and Surah Al-Qadr and Surah Al-Baqarah explicitly identify Ramadan as the month of the Quran's revelation",
+        "C) He prioritized the opinion of Umar ibn al-Khattab, who is recorded as having ruled on this question definitively",
+        "D) He based his preference on a dream narration reportedly seen by multiple Companions simultaneously"
       ],
-      "correctAnswer": "C",
-      "explanation": "In classical Shia exegesis, 'al-batshah al-kubra' is understood as a profound articulation of divine justice and eschatological reckoning - an unparalleled divine punishment that surpasses all worldly consequences."
+      "correctAnswer": "B",
+      "explanation": "Tabari applied the hermeneutical principle that the Quran interprets itself. Since Surah Al-Qadr (97:1) declares the Quran was sent down on the Night of Power, and Surah Al-Baqarah (2:185) places the Quran's revelation in Ramadan, these passages govern the interpretation of the 'blessed night' in Ad-Dukhan. Ibn Kathir, agreeing with Tabari, held that the Sha'ban view conflicted with these Quranic witnesses."
     },
     {
       "id": "44_5",
       "type": "trueFalse",
-      "layer": 3,
+      "layer": 1,
       "verseNumber": 10,
-      "question": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi connect the 'visible smoke' to modern environmental crises and climate change.",
+      "question": "True or false: The surah takes its name 'Ad-Dukhan' (The Smoke) from verse 10, and Ibn Kathir favors the interpretation that this smoke refers to a future eschatological event rather than a past historical famine.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Modern scholars like Sayyid Kamal al-Haydari emphasize the smoke's metaphorical resonance with today's environmental crises, framing it as a warning against ecological collapse caused by human greed and negligence."
+      "explanation": "The surah is named after the word 'dukhan' (smoke) in verse 10. Ibn Kathir favors the eschatological reading, citing the hadith narrated by Abu Hurayra in Sahih Muslim listing the dukhan among the ten major signs of the Day of Judgment. He acknowledges the narration from Ibn Masud linking it to the Quraysh famine but argues it conflicts with this prophetic hadith. Imam al-Qurtubi agrees, noting the word 'mubin' (visible, clear) describes something that cannot be escaped — characteristic of a cosmic end-time sign."
     },
     {
       "id": "44_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 17,
-      "question": "How do contemporary Shia scholars interpret the 'test' (fitna) of Pharaoh's people in relation to modern times?",
+      "layer": 2,
+      "verseNumber": 16,
+      "question": "The Companion Abdullah ibn Masud held a distinctive view about 'the greatest blow' (al-batshat al-kubra) in verse 16. What was his position?",
       "options": [
-        "As irrelevant to modern society",
-        "As a metaphor only for personal spiritual struggles",
-        "As a timeless call to challenge systemic oppression and injustice",
-        "As a warning only about ancient tyranny"
+        "A) He identified it with the destruction of Pharaoh's army at the Red Sea, linking it to the Moses narrative of the same surah",
+        "B) He held that all five signs mentioned in the preceding passage had been fulfilled during his own lifetime and identified the batsha kubra with the Battle of Badr",
+        "C) He refused to interpret the verse and declared its meaning known only to Allah",
+        "D) He identified it with the Day of Judgment exclusively, rejecting any historical application"
       ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi interpret the 'test' as a timeless metaphor for systemic oppression and the human responsibility to confront it, extending to modern struggles for justice."
+      "correctAnswer": "B",
+      "explanation": "Ibn Masud's position — that the batsha kubra referred to the Battle of Badr — was transmitted through sound chains recorded by Imam Ahmad, al-Bukhari, al-Tirmidhi, and Ibn Jarir al-Tabari. Ibn Kathir acknowledges this view while also presenting the alternative that the word 'kubra' (greatest) points to the Day of Resurrection as something incomparably more severe. Wahbah al-Zuhayli suggests both readings are compatible as layered fulfillments."
     },
     {
       "id": "44_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 10,
-      "question": "According to the teachings of the Ahlul Bayt, what does the 'visible smoke' symbolize on a spiritual level?",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "When Moses identified himself to Pharaoh as a 'trustworthy messenger' (rasul amin) in verse 18, what was the significance of establishing his trustworthiness before issuing his demand?",
       "options": [
-        "Material wealth and prosperity",
-        "The fog of misguidance that engulfs hearts when truth is rejected",
-        "A celebration of worldly success",
-        "The rise of new scientific discoveries"
+        "A) It was a formal diplomatic protocol required by Egyptian court etiquette of the time",
+        "B) Tyrants habitually dismiss prophetic calls as motivated by ambition, so Moses pre-empted Pharaoh's likely objections by establishing his moral credentials first",
+        "C) Moses was unsure of his authority and sought Pharaoh's acknowledgment to legitimize his mission",
+        "D) The credential was directed at the Israelite slaves rather than Pharaoh, reassuring them that Moses was genuine"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq taught that this 'visible smoke' manifests as a spiritual metaphor for the fog of misguidance that engulfs hearts detached from the light of Wilayah (divine guardianship)."
+      "explanation": "Imam al-Razi, commenting on the rhetorical structure of Moses' speech in verse 18, observes that the messenger states his demand before identifying himself — a sign of prophetic confidence — and then immediately asserts his trustworthiness because tyrants habitually ascribe prophetic calls to personal ambition. Imam al-Qurtubi similarly notes this pre-empted Pharaoh's predictable objections. Muhammad al-Sha'rawi adds that 'amin' (trustworthy) is the non-negotiable foundation of prophetic credibility."
     },
     {
       "id": "44_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 17,
-      "question": "According to Imam Ali al-Ridha (as), the 'servants of Allah' in verse 18 symbolically represent the purified followers of the Imams who have liberated their hearts through submission to divine guidance.",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "True or false: Sayyid Qutb, in Fi Zilal al-Quran, argues that Moses' calm authority before Pharaoh unsettled corrupt power precisely because genuine moral authority cannot be purchased or silenced into submission.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Ali al-Ridha taught that 'the servants of Allah' symbolically represent the purified followers of the Imams - those who have liberated their hearts from Pharaoh-like arrogance through submission to divine guidance."
+      "explanation": "Sayyid Qutb draws a sharp psychological contrast between Moses' calm authority and Pharaoh's coercive power, arguing in Fi Zilal al-Quran that authentic moral authority is inherently destabilizing for corrupt power structures because it is immune to financial inducement or intimidation. Wahbah al-Zuhayli similarly frames Moses' mission as a Quranic template for speaking truth to political power, noting that the liberation of enslaved peoples is presented as a divine demand, not optional charity."
     },
     {
       "id": "44_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "What is a key difference between Shia and Sunni interpretations of the 'visible smoke' in verse 10?",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "What specific explanation did Ibn Abbas give for the meaning of 'the heaven and earth wept not for them' in verse 29?",
       "options": [
-        "Sunni scholars reject any meaning for the verse",
-        "Shia exegetes connect the smoke more explicitly to tribulations preceding the Mahdi's reappearance",
-        "Sunni scholars emphasize the Mahdi connection more",
-        "There is no difference between the traditions"
+        "A) That the verse is a poetic device meaning their death went unnoticed by history",
+        "B) That every believer has a gate in the heaven through which deeds ascend and which weeps when the believer dies, but Pharaoh's people had no ascending deeds and no places of worship, so neither heaven nor earth mourned them",
+        "C) That weeping refers to rainfall, and since no rain fell on Egypt on the day of punishment, creation was unmoved",
+        "D) That the heavens actively celebrated the death of the wicked rather than mourning them"
       ],
       "correctAnswer": "B",
-      "explanation": "While both traditions agree on its eschatological significance, Shia exegetes like Qummi and Tusi connect the smoke more explicitly to the tribulations preceding the Mahdi's reappearance, reflecting Shia emphasis on the Imam's role in eschatological deliverance."
+      "explanation": "Imam al-Tabari records through the chain of Said ibn Jubayr that Ibn Abbas explained in detail: a believer has a gate in the heaven through which provision descends and good deeds ascend, and the places on earth where the believer prayed weep at their absence. Pharaoh's people had neither ascending deeds nor places of worship, so nothing in creation mourned their passing. Ibn Kathir affirms this as the correct interpretation. Sayyid Qutb connects this verse to the idea that Pharaoh's civilization, despite its architectural grandeur, left no spiritual trace worthy of cosmic mourning."
     },
     {
       "id": "44_10",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "True or false: Verse 41's teaching that no close companion will avail another on the Day of Judgment was so absolute that the Prophet Muhammad warned his own daughter Fatimah that he could not help her before Allah without good deeds.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites the hadith in Sahih al-Bukhari in which the Prophet warned his daughter Fatimah, his aunt Safiyyah, and his cousin Abbas that he could not avail them before Allah if they came without deeds. This prophetic application of the verse confirms its absolute scope. The phrase 'nor shall they be helped' in the same verse further extends the negation to every form of collective social protection and group solidarity."
+    },
+    {
+      "id": "44_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 16,
-      "question": "How do Sunni and Shia scholars differ in their interpretation of 'the greatest assault' (al-batshah al-kubra) in verse 16?",
+      "layer": 1,
+      "verseNumber": 35,
+      "question": "The Meccan pagans stated in verse 35 that 'there is nothing but our first death.' What grammatical irony did classical scholars detect in their own phrasing?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia sources occasionally link it to specific historical injustices like the persecution of Imam Husayn at Karbala",
-        "Sunni scholars emphasize Karbala more than Shia",
-        "Both traditions interpret it exactly the same way"
+        "A) They used the past tense when describing their ongoing state of denial, revealing spiritual confusion about time",
+        "B) They called their death 'the first,' which logically implies there could be a second — their very phrasing inadvertently gestures at the resurrection they denied",
+        "C) They used the plural 'deaths' while claiming only one death, contradicting themselves in a single sentence",
+        "D) They employed an oath formula that presupposed the existence of a God they were simultaneously denying"
       ],
       "correctAnswer": "B",
-      "explanation": "While Sunni works generally limit the verse to past communities or the Final Day, Shia sources like Qummi's tafsir and Tusi's At-Tibyan occasionally link the 'assault' to specific historical injustices, such as the persecution of Imam Husayn at Karbala."
+      "explanation": "Ibn Kathir notes the logical self-contradiction: by calling their death 'the first' (al-ula), the Meccans used a word that necessarily implies a subsequent possibility — the very resurrection they sought to deny. He records that Salaf commentators preserved this verse to refute Meccan materialism, not to honor it. Sayyid Qutb adds that denying the afterlife severs the moral thread connecting human action to divine accountability, producing the core spiritual failure this surah addresses."
+    },
+    {
+      "id": "44_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 9,
+      "question": "True or false: Wahbah al-Zuhayli's grammatical analysis of verse 9 reveals that 'fi shakkin' (in doubt) uses the preposition 'fi' to indicate being submerged or enclosed in doubt as a default state, not merely encountering uncertainty.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli highlights in Al-Tafsir al-Munir that the preposition 'fi' means being enclosed or surrounded — doubt is not a fleeting brush with uncertainty but the person's settled, surrounding condition. This distinguishes the denial of the willful rejector from the honest seeker. Sheikh Ibn Uthaymeen extended the warning to Muslims themselves, cautioning against reciting the Quran without reflection or performing prayers without presence of heart — a version of being 'in doubt, playing.'"
+    },
+    {
+      "id": "44_13",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 45,
+      "question": "Classical scholars offered several interpretations of 'al-muhl' in verse 45. What quality did all of them agree upon?",
+      "options": [
+        "A) That al-muhl is a mild deterrent meant to symbolize temporary regret rather than physical torment",
+        "B) That al-muhl — whether identified as molten metal, boiling tar, superheated pus, or oil dregs — is a substance of extreme heat and heavy consistency that causes maximum suffering when it enters the body",
+        "C) That al-muhl is purely metaphorical and refers to the psychological pain of shame rather than any physical substance",
+        "D) That al-muhl is identical to the scalding water (hamim) mentioned elsewhere, making it a duplicate image with no independent meaning"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records interpretations from Ibn Abbas (dregs of oil; molten metal), Ibn Masud (molten copper of the earth), and Mujahid (thick sediment of heated oil). Ibn Kathir surveys these narrations and concludes they all agree on the essential quality: extreme heat and viscous, heavy consistency producing maximum suffering. He also notes the doubled simile — Zaqqum compared to al-muhl, and al-muhl described as 'boiling like scalding water' — layering images of intensity to convey a torment beyond ordinary experience."
+    },
+    {
+      "id": "44_14",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 49,
+      "question": "Verse 49 addresses a condemned person in Hell with 'Taste! Indeed, you are the honored, the noble!' What does Ibn Uthaymeen identify as the practical lesson for living believers in this divine irony?",
+      "options": [
+        "A) That Muslims should avoid using titles of honor entirely, since all titles are forbidden in Islamic etiquette",
+        "B) That true nobility is never self-proclaimed but is conferred by Allah based on one's relationship with Him, and genuine honor lies in taqwa rather than worldly status",
+        "C) That the verse is directed only at pre-Islamic Arab tribal leaders and has no relevance to contemporary society",
+        "D) That divine sarcasm in the Quran is exclusively rhetorical and should not be read as communicating doctrinal content about the afterlife"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen, commenting on such verses, reminded his students that true nobility is never self-proclaimed but conferred by Allah based on one's relationship with Him — as Surah Al-Hujurat states, the most noble is the most righteous. Muhammad al-Sha'rawi noted the verse is a mercy disguised as condemnation for the living: by seeing the fate of the arrogant through Quranic narrative, the believer can audit their own spiritual state and uproot pride. Ibn Kathir traces the specific address to leaders like Abu Jahl who claimed to be al-aziz al-karim in Mecca."
+    },
+    {
+      "id": "44_15",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 55,
+      "question": "True or false: According to Sayyid Qutb's commentary on verse 55, the image of believers calling for every kind of fruit in complete security (amineen) in Paradise represents the abolition of the scarcity mindset that has defined human experience in this world.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that human beings in this world live in constant anxiety about provision — harvest, money, health. In Paradise, all of that anxiety is dissolved. The fruit does not merely represent gustatory pleasure but the abolition of scarcity itself. Imam al-Qurtubi notes the verse ends on 'amineen,' tying back to the 'maqam amin' (secure station) of verse 51, so the entire Paradise passage is bookended by the concept of security as the foundational quality of the believers' eternal abode."
     }
   ]
 }

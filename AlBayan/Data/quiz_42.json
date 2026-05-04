@@ -5,136 +5,201 @@
       "id": "42_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir, what do the disconnected letters 'Ha Meem' at the opening of Surah Ash-Shura represent?",
+      "verseNumber": 3,
+      "question": "Verse 3 declares that revelation was sent to the Prophet Muhammad in the same way it was sent to all prophets before him. What is the core theological teaching of this statement?",
       "options": [
-        "Simple alphabet letters with no meaning",
-        "A profound reminder of the Quran's divine origin and inimitability",
-        "The names of early Muslims",
-        "A form of poetry common in pre-Islamic Arabia"
+        "A. Islam replaced all previous religions and shares nothing with them",
+        "B. Islam is the completion of an unbroken chain of divine guidance given to every prophet",
+        "C. Only the Prophet Muhammad received authentic revelation from Allah",
+        "D. Previous prophets received a superior form of revelation to that of Muhammad"
       ],
       "correctAnswer": "B",
-      "explanation": "In Shia tafsir, these huruf al-muqatta'at (disjointed letters) are understood as a profound reminder of the Quran's divine origin and inimitability (i'jaz), challenging those who doubted its revelation."
+      "explanation": "The phrase 'Thus has He revealed to you and to those before you' establishes that Islam is not a new religion but the culmination of the same divine tradition given to Noah, Moses, Jesus, and all prophets before Muhammad. Ibn Kathir notes this verse was a direct comfort to the Prophet, affirming his mission by situating it within the universal pattern of prophethood."
     },
     {
       "id": "42_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 38,
-      "question": "According to the tafsir, the concept of 'shura' (consultation) in verse 38 operates within the framework of divine guidance, complementing the leadership of the Ahlul Bayt.",
+      "verseNumber": 5,
+      "question": "True or false: According to verse 5 of Surah Ash-Shura, the angels seek forgiveness specifically for the prophets only, not for ordinary believers on earth.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Shia tafsir emphasizes that shura operates within the framework of divine guidance, complementing—not replacing—the leadership of the Ahlul Bayt. Imam Ali (AS) upheld consultation while stressing that ultimate truth flows from Quranic principles and the Prophet's household."
+      "correctAnswer": "false",
+      "explanation": "The verse states the angels 'ask forgiveness for those on earth.' The majority scholarly position recorded by Imam al-Tabari in Jami al-Bayan identifies 'those on earth' as the believers, consistent with Surah Ghafir (40:7) where angels explicitly pray for those who believe. This verse is a powerful source of hope for all sincere Muslims, not prophets alone."
     },
     {
       "id": "42_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 23,
-      "question": "In verse 23, what does the term 'al-qurba' (kinship) specifically refer to according to Shia exegetes like Allama Tabatabai?",
+      "verseNumber": 13,
+      "question": "Which five prophets does verse 13 name together as those to whom the same essential religion was ordained, forming the group classical scholars call the Ulu al-Azm?",
       "options": [
-        "All Muslims in general",
-        "The Prophet's companions only",
-        "The Ahlul Bayt—specifically Fatima, Ali, Hasan, and Husayn",
-        "All of humanity"
+        "A. Adam, Idris, Ibrahim, Ismail, and Ishaq",
+        "B. Noah, Muhammad, Ibrahim, Moses, and Jesus",
+        "C. Yunus, Yusuf, Dawud, Sulayman, and Zakariyya",
+        "D. Ibrahim, Ismail, Ishaq, Yaqub, and Yusuf"
       ],
-      "correctAnswer": "C",
-      "explanation": "Classical commentators such as Allama Tabatabai in Al-Mizan and Sheikh Tabrisi in Majma al-Bayan emphasize that 'al-qurba' refers explicitly to the Ahlul Bayt—the Prophet's family—specifically Fatima, Ali, Hasan, and Husayn (peace be upon them)."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim identifies these five as the Ulu al-Azm, the prophets of firm resolve, citing the Hadith in Sahih al-Bukhari: 'We prophets are brothers; our religion is one, though our mothers are different.' Imam al-Tabari in Jami al-Bayan explains that the fundamental core of belief was always the same across all five missions, while specific legal codes varied."
     },
     {
       "id": "42_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 38,
-      "question": "According to Tabrisi in Majma al-Bayan, what is the relationship between consultation (shura) and divine authority?",
-      "options": [
-        "Shura replaces the need for divine leadership",
-        "Shura is only for secular matters with no religious basis",
-        "Shura must align with the Quran and Sunnah as interpreted by the Ahlul Bayt",
-        "Shura is prohibited in Islamic governance"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Tabrisi clarifies that shura (consultation) operates within the bounds of divine law, not as a secular democratic principle. Consultation must align with the Quran and Sunnah as interpreted by the Ahlul Bayt, affirming that ultimate authority resides in the Imams."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "True or false: The Arabic word 'shara'a' used in verse 13 — meaning 'He ordained' — shares its root with the word 'shari'a,' the divinely legislated way of life.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "As the layer 1 tafsir explains, 'shara'a' comes from the same root as 'shari'a,' which originally means a path leading to water and by extension the divinely prescribed way of life. Wahbah al-Zuhayli elaborates in Al-Tafsir al-Munir that 'din' is the unchanging core shared by all prophets, while 'shari'a' denotes the contextually adapted legal codes that differed across prophetic eras."
     },
     {
       "id": "42_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 51,
-      "question": "Contemporary scholars draw parallels between the 'veil' (hijab) mentioned in verse 51 regarding divine communication and human cognitive limitations studied in modern neuroscience.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern thinkers like Dr. Shabbir Akhtar draw parallels between the verse's 'veil' (hijab) and contemporary neuroscience, suggesting that human cognitive limitations necessitate symbolic or mediated divine communication."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "Imam al-Tabari and Ibn Kathir explain that the religious divisions condemned in verse 14 arose from 'baghy bayna hum.' What does this phrase mean and what does it identify as the true cause of religious fragmentation?",
+      "options": [
+        "A. Sincere scholarly disagreement arising from legitimate differences in interpretation",
+        "B. Jealous animosity and transgressive ambition among leaders of religious communities",
+        "C. Ignorance of the scripture's true meaning by later generations",
+        "D. The natural diversity of languages and cultures across different peoples"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explains that divisions were driven by personal envy and rivalry over leadership and status, which then took on theological clothing. Imam al-Qurtubi draws the legal lesson that divisions arising from 'baghy' (envy and ego) are sinful, whereas differences from sincere ijtihad within proper methodology are permissible — a distinction the verse itself demands."
     },
     {
       "id": "42_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 23,
-      "question": "According to contemporary scholar Dr. Liyakat Takim, how should 'kinship' (qurba) in verse 23 be understood in modern contexts?",
+      "layer": 1,
+      "verseNumber": 28,
+      "question": "Verse 28 describes Allah sending rain after people have despaired. What practical spiritual lesson does the tafsir draw from the phrase 'after they have despaired'?",
       "options": [
-        "Strictly as blood relations only",
-        "As extending to solidarity with marginalized communities",
-        "As only relevant to historical figures",
-        "As purely a metaphorical concept with no practical application"
+        "A. That Muslims must never pray for rain but instead seek scientific solutions to drought",
+        "B. That despair itself is a form of disbelief that permanently bars a person from divine mercy",
+        "C. That divine relief often arrives precisely when human hope has run out, teaching reliance on Allah",
+        "D. That rain is a sign exclusively for the Arab people and has no spiritual meaning elsewhere"
       ],
-      "correctAnswer": "B",
-      "explanation": "Modern thinkers like Dr. Liyakat Takim extend the interpretation of 'kinship,' arguing that it transcends blood ties and urges solidarity with marginalized communities—a response to global inequity and identity-driven conflicts."
+      "correctAnswer": "C",
+      "explanation": "The tafsir explains that specifying 'after they have despaired' teaches tawakkul: what appears to human eyes as hopeless delay is, from the divine perspective, precisely calibrated mercy arriving at the right moment. Ibn Kathir records the narration of Umar ibn al-Khattab, who recited this verse with calm confidence during a drought, demonstrating how deeply the Companions relied on this divine promise."
     },
     {
       "id": "42_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 23,
-      "question": "According to Imam Jafar al-Sadiq (AS) in Tafsir al-Qummi, what does 'recognizing our wilayah' in relation to verse 23 accomplish?",
-      "options": [
-        "It has no effect on one's deeds",
-        "It only benefits the Imams themselves",
-        "Through it Allah multiplies every virtue",
-        "It replaces the need for prayer"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The Sixth Imam, Jafar al-Sadiq (as), explained: 'The good deed mentioned here refers to recognizing our wilayah, for through it Allah multiplies every virtue' (Tafsir al-Qummi)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 36,
+      "question": "True or false: Verse 36 of Surah Ash-Shura teaches that all worldly provision is temporary enjoyment, while what Allah holds in store is both better in quality and more lasting in duration.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The verse declares 'Whatever thing you have been given is only the enjoyment of the worldly life, but what is with Allah is better and more lasting.' Ibn Kathir cites the Hadith in Sahih al-Bukhari comparing this world to the Hereafter as a drop of water compared to an ocean, and notes that the superior reward belongs specifically to those who believe and place their trust in their Lord."
     },
     {
       "id": "42_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 52,
-      "question": "According to Imam Muhammad al-Baqir (AS), the 'spirit from His command' in verse 52 refers to the light of wilayah embodied in the Prophet and inherited by the Imams.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Muhammad al-Baqir (as) explains that the 'spirit from His command' refers not only to the Quran but to the living light of wilayah (divine guardianship) embodied in the Prophet and his purified progeny, which Allah placed in the Prophet and made inheritance in the Imams after him."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 38,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, makes a significant observation about the position of the shura principle in verse 38. Between which two acts of worship is it placed?",
+      "options": [
+        "A. Between fasting and pilgrimage",
+        "B. Between prayer (salah) and charitable spending (infaq)",
+        "C. Between remembrance of Allah and seeking forgiveness",
+        "D. Between belief in the unseen and reliance on Allah"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb observes in Fi Zilal al-Quran that shura is positioned between salah, the most personal act of worship, and infaq, charitable spending which is the most social act of worship. This placement, he argues, signals that consultation is itself an act of worship rather than merely a procedural tool, transforming collective decision-making into a spiritual and moral obligation."
     },
     {
       "id": "42_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 38,
-      "question": "What is a key difference between Shia and Sunni interpretations of shura (consultation) in verse 38?",
+      "layer": 1,
+      "verseNumber": 40,
+      "question": "Verse 40 uses the word 'sayyi'a' (evil) for both the initial wrong done to a person and the proportional response they may make. Why does Ibn Kathir say the Quran makes this striking linguistic choice?",
       "options": [
-        "Sunni scholars reject consultation entirely",
-        "Shia scholars reject any form of consultation",
-        "Sunni scholars frame it as a broad governing principle, while Shia limit its application to matters not addressed by the Quran or Ahlul Bayt teachings",
-        "Both traditions interpret shura identically"
+        "A. To show that all retaliation is sinful and Muslims are obligated to always forgive",
+        "B. To rhetorically elevate forgiveness — if both acts are called evil, yet one earns divine reward, forgiveness is unmistakably the higher path",
+        "C. To indicate that the victim who retaliates commits a worse sin than the original aggressor",
+        "D. To classify proportional self-defense as one of the major sins"
       ],
-      "correctAnswer": "C",
-      "explanation": "Sunni exegetes like Al-Razi frame consultation as a broad governing principle integral to political leadership. In contrast, Shia commentaries contextualize shura within the framework of divinely guided leadership, limiting its application to matters not explicitly addressed by the Quran or the teachings of the Ahl al-Bayt."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains in Tafsir al-Quran al-Azim that calling both acts 'sayyi'a' is not a moral equivalence between aggressor and defender, but a rhetorical elevation of forgiveness: since both are labeled evil, yet one earns a direct reward from Allah, forgiveness is made unmistakably superior. Imam al-Razi adds in Mafatih al-Ghayb that forgiveness with reconciliation builds something new — harmony and goodwill — that mere justice cannot."
     },
     {
       "id": "42_10",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 40,
+      "question": "True or false: According to verse 40, the Quran requires that forgiveness always be paired with sincere reconciliation (islah) — not merely the withholding of retaliation — for its reward to be with Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The verse specifies 'whoever forgives and makes reconciliation (afa wa aslaha), his reward is with Allah.' Imam al-Tabari in Jami al-Bayan identifies the condition of islah (reconciliation) as essential: forgiveness without an effort toward reconciliation may not achieve the social and moral purpose that forgiveness is meant to serve. Imam al-Razi notes this phrase signals a direct divine contract, bypassing human intermediaries."
+    },
+    {
+      "id": "42_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 23,
-      "question": "How do Sunni and Shia scholars differ in their interpretation of 'mawaddata fil-qurba' (love for kin) in verse 23?",
+      "layer": 3,
+      "verseNumber": 48,
+      "question": "Verse 48 states the Prophet was not sent as a guardian (hafiz) over people — only as a conveyor of the message. How does Wahbah al-Zuhayli connect this limit to a broader principle in Al-Tafsir al-Munir?",
       "options": [
-        "Sunni scholars emphasize it more than Shia scholars",
-        "Sunni scholars often interpret it as respecting extended relatives generally, while Shia sources frame it as inseparable from adherence to the Imams' authority",
-        "Both traditions reject this verse as inauthentic",
-        "There is no difference in interpretation"
+        "A. It shows that the Prophet failed in his mission because most Arabs rejected him",
+        "B. It establishes that the Prophet's role was pure tabligh, and that the Quran affirms non-compulsion as a permanent Islamic principle",
+        "C. It means Muslims today have no responsibility to share the message of Islam with others",
+        "D. It proves that da'wah (calling to Islam) is optional and not a religious duty"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni scholars like Razi often interpret the verse as a general exhortation to respect the Prophet's extended relatives without linking it to specific leadership claims. In contrast, Shia sources like Qummi's tafsir frame this love as inseparable from adherence to the Imams' authority, viewing it as a doctrinal obligation tied to salvation."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir emphasizes that this verse draws a clear boundary between the prophetic task of tabligh (clear conveyance) and the divine prerogative of guiding hearts. Ibn Uthaymeen similarly noted that the Prophet was not sent as a policeman over people's beliefs, grounding Islamic da'wah ethics in sincere presentation of truth while leaving the ultimate judgment of hearts with Allah."
+    },
+    {
+      "id": "42_12",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 51,
+      "question": "Ibn Kathir and Imam al-Tabari identify three modes through which Allah communicates with human beings, as enumerated in verse 51. Which option correctly lists all three modes?",
+      "options": [
+        "A. Direct face-to-face speech, holy books only, and angelic visions",
+        "B. Direct inspiration (wahy) into the heart, speech from behind a veil, and revelation through an angelic messenger",
+        "C. The Torah, the Psalms, and the Quran",
+        "D. Through natural signs, through human conscience alone, and through the Friday sermon"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari in Jami al-Bayan records all three: wahy, direct inspiration cast into the heart; speech from behind a veil as with Prophet Moses on Mount Tur; and revelation through an angelic messenger — primarily Angel Jibril. Ibn Kathir stresses the verse categorically negates any direct face-to-face speech between Allah and a human being in this worldly life, grounding the authentication of prophetic revelation in these defined channels."
+    },
+    {
+      "id": "42_13",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 17,
+      "question": "True or false: Wahbah al-Zuhayli argues in Al-Tafsir al-Munir that Allah sending down both the Book and the Mizan (Balance) in verse 17 represents a complete framework for human civilization, pairing spiritual guidance with the principle of justice.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir explains that the dual gift of al-Kitab and al-Mizan represents a complete civilizational framework: revelation guides the soul and sets the moral compass while the principle of justice governs relations between people, institutions, and nations. He notes this verse implicitly critiques any system that claims justice while abandoning divine guidance, or any religion that prioritizes ritual over equity."
+    },
+    {
+      "id": "42_14",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 53,
+      "question": "The final verse of Surah Ash-Shura closes with 'Unquestionably, to Allah do all matters return.' How does the layer 1 tafsir describe the function of this closing statement for the believer?",
+      "options": [
+        "A. It proves that only Muslims will be resurrected on the Day of Judgment",
+        "B. It anchors the straight path in divine ownership, providing both comfort and warning — all affairs are resolved by the All-Just",
+        "C. It means human choices have no consequence since everything returns to Allah anyway",
+        "D. It limits divine judgment to the matters of worship and leaves worldly disputes to human courts alone"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains this verse is simultaneously a comfort and a warning: comfort for the believer who is patient, knowing affairs are resolved by the All-Wise and All-Just, and a warning for those who stray, since there is no final escape. Ibn Kathir notes that Tabari records narrations connecting 'to Allah all matters return' to the Day of Judgment when Allah will declare: 'Where are the kings? Where are the tyrants?' — underscoring the absolute finality of divine sovereignty."
+    },
+    {
+      "id": "42_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "Muhammad al-Sha'rawi reflected on the command 'be not divided therein' in verse 13 as a standing indictment of which problem in the Muslim world?",
+      "options": [
+        "A. The failure to memorize the Quran in Arabic",
+        "B. Sectarianism and tribalism, which he argued is a binding religious obligation to overcome",
+        "C. The adoption of modern science by Muslim scholars",
+        "D. The use of non-Arabic languages in Friday sermons"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Muhammad al-Sha'rawi reflected that 'wa la tatafarraqu fihi' — be not divided therein — is a standing indictment of sectarianism and tribalism in the Muslim world. He argued that the command to unity in religion is not merely an aspiration but a binding religious obligation that the Muslim community must actively and ceaselessly pursue. Sayyid Qutb similarly calls this verse the Quran's most comprehensive statement on prophetic history and a demolition of any claim that Islam is a novel religion."
     }
   ]
 }

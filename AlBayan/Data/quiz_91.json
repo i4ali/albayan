@@ -6,105 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Ash-Shams' opening verse, what does the sun's 'duha' (brightness) symbolize according to the Foundation Layer?",
+      "question": "What does the Arabic word 'duha' refer to in the opening oath of Surah Ash-Shams?",
       "options": [
-        "Only physical light from the celestial body",
-        "Both physical light and spiritual illumination, reflecting the balance between material and metaphysical truths",
-        "The brightness of gold and worldly treasures",
-        "The heat that causes droughts"
+        "The sun at its zenith at midday",
+        "The forenoon, when the sun's light is most vivid after rising",
+        "The first appearance of dawn before sunrise",
+        "The reddening of the sky at sunset"
       ],
-      "correctAnswer": "Both physical light and spiritual illumination, reflecting the balance between material and metaphysical truths",
-      "explanation": "The term duha (brightness) refers not only to the sun's radiant peak but also to clarity and guidance, themes echoed in Shia teachings about the Ahlul Bayt as beacons of divine light in times of spiritual darkness. The sun symbolizes both physical light and spiritual illumination, reflecting the balance between material and metaphysical truths central to Islamic thought."
+      "correctAnswer": "B",
+      "explanation": "Duha refers specifically to the forenoon, the period after sunrise when the sun's light is most vivid and invigorating. The Prophet, peace be upon him, regularly performed the Duha prayer during this time, connecting worship to the rhythm of creation."
     },
     {
       "id": "91_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the Foundation Layer, the term 'tahaaha' (spread it) in verse 6 refers only to the earth's physical formation, with no connection to Allah's ongoing sustenance of it.",
+      "verseNumber": 1,
+      "question": "True or false: Surah Ash-Shams contains the densest concentration of oaths in the entire Quran, with eleven consecutive oaths before reaching its main point.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The term tahaaha refers not only to the physical formation of the earth but also to Allah's ongoing sustenance of it, enabling ecosystems, agriculture, and human civilization to thrive. Environmental stewardship becomes an act of worship—preserving resources, combating pollution, and living sustainably align with the Quranic vision of harmonious coexistence."
+      "correctAnswer": "true",
+      "explanation": "The surah opens with eleven solemn oaths, the most dense concentration of oaths in the entire Quran, all building toward a single profound declaration about the human soul's purification."
     },
     {
       "id": "91_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia commentators like Shaykh Tabrisi and Allama Tabatabai, what deeper purpose do Allah's oaths by celestial phenomena serve?",
+      "verseNumber": 2,
+      "question": "How did Imam al-Tabari and the early scholars understand the verb 'tala' (follows) in the oath about the moon following the sun?",
       "options": [
-        "They are merely poetic expressions with no specific purpose",
-        "They direct human intellect toward contemplating Allah's signs in creation, illuminating the path to spiritual and intellectual awakening",
-        "They are warnings about astronomical disasters",
-        "They promote the study of astronomy as the highest science"
+        "The moon eclipses the sun in a regular cycle",
+        "The moon follows the sun in its course across the sky",
+        "The moon recites Allah's praise after the sun does",
+        "The moon will replace the sun on the Day of Judgment"
       ],
-      "correctAnswer": "They direct human intellect toward contemplating Allah's signs in creation, illuminating the path to spiritual and intellectual awakening",
-      "explanation": "Both Shaykh Tabrisi in Majma al-Bayan and Allama Tabatabai in Al-Mizan emphasise that such oaths in the Quran serve to direct human intellect toward contemplating Allah's signs (ayat) in creation, thereby illuminating the path to spiritual and intellectual awakening. The sun's duha (brightness) is interpreted as a symbol of the divine light guiding creation, resonating with the Shia theological principle of nur al-hidaya (the light of guidance) manifest through the Ahl al-Bayt."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari in Jami al-Bayan records that the early scholars were unified in understanding 'tala' as the moon's following the sun in its course across the sky, drawing attention to the precision of celestial movement as evidence of divine control."
     },
     {
       "id": "91_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "In Al-Tabrisi's interpretation of verse 6, how is the earth's 'spreading' connected to the concept of Wilayah?",
-      "options": [
-        "The earth's spreading has no spiritual significance",
-        "Allah established the Ahl al-Bayt as spiritual 'levelers' of guidance, mirroring how He physically leveled the earth for material life",
-        "The spreading refers only to geological plate tectonics",
-        "Wilayah is unrelated to creation and natural phenomena"
-      ],
-      "correctAnswer": "Allah established the Ahl al-Bayt as spiritual 'levelers' of guidance, mirroring how He physically leveled the earth for material life",
-      "explanation": "Al-Tabrisi argues that just as Allah physically leveled the earth for material life, He established the Ahl al-Bayt as the spiritual 'levelers' of guidance, ensuring the continuity of divine truth. This duality—physical and metaphysical—underscores the Shia principle of walayah, where the Imams' authority mirrors the cosmic order sustained by Allah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "True or false: According to verse 8, Allah inspired the human soul with knowledge of only its righteousness (taqwa), leaving knowledge of wickedness to be learned from outside teachers.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse states that Allah inspired (alhama) the soul with knowledge of both its wickedness (fujur) and its righteousness (taqwa). Both are given simultaneously, providing innate moral awareness that establishes human accountability."
     },
     {
       "id": "91_5",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholars like Sheikh Jaffer H. Jaffer, the verse about the sun should be interpreted as promoting renewable energy ethics and solar technology adoption.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Sheikh Jaffer H. Jaffer, in his 2021 work Quran and Cosmos, links the verse to renewable energy ethics, urging Muslim communities to adopt solar technology as both an environmental duty and a fulfillment of Quranic stewardship. The sun's nuclear fusion process, which sustains life on Earth, is framed as a manifestation of divine rahma (mercy)."
+      "verseNumber": 9,
+      "question": "How does Sayyid Qutb in Fi Zilal al-Quran characterize the word 'falah' used in verse 9?",
+      "options": [
+        "A purely military term for victory over enemies",
+        "A legal term referring to inheritance rights",
+        "A rich agricultural metaphor of plowing and bringing forth growth",
+        "A poetic term unique to pre-Islamic Arabia"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb writes that 'falah' is a rich agricultural metaphor — the falah is the one who plows, cultivates, and brings forth growth. The purified soul is not a sterile perfection but a living, growing, producing thing."
     },
     {
       "id": "91_6",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "How do contemporary Shia scholars like Ayatollah Naser Makarem Shirazi connect verse 6 to modern environmental concerns?",
-      "options": [
-        "They reject scientific cosmology entirely",
-        "They interpret the 'spreading' as humanity's role as stewards (khalifa), obliging sustainable engagement with Earth's ecosystems",
-        "They view the earth only as a commodity for exploitation",
-        "They believe environmental issues are unrelated to Quranic teachings"
-      ],
-      "correctAnswer": "They interpret the 'spreading' as humanity's role as stewards (khalifa), obliging sustainable engagement with Earth's ecosystems",
-      "explanation": "Modern thinkers, including Dr. Mohammad Ali Shomali, connect this verse to environmental ethics, arguing that humanity's role as stewards (khalifa) obliges sustainable engagement with Earth's ecosystems. The 'spreading' of the earth becomes a metaphor for equitable resource distribution, challenging contemporary issues like climate injustice and exploitative capitalism."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 10,
+      "question": "True or false: Imam al-Qurtubi noted that verse 10 uses the active verb 'dassaha' (suppressed it) rather than 'did not purify it,' indicating that moral failure is an active suppression of the soul rather than mere passive neglect.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qurtubi observed that the Quran does not say 'he failed who did not purify' but rather 'he failed who suppressed it.' The active verb dassaha indicates moral failure as a sustained, willful suppression of what Allah implanted within the soul."
     },
     {
       "id": "91_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 1, what does the sun symbolize in terms of divine guidance?",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "According to verse 11 and its tafsir, what was the underlying cause of Thamud's denial of their prophet?",
       "options": [
-        "Only the physical star that provides heat",
-        "The Messenger of Allah, with its brightness representing the light of Wilayah emanating from the Imams",
-        "Ancient sun worship practices",
-        "The calendar system for Islamic months"
+        "Their lack of access to clear evidence",
+        "Their poverty and desperate material conditions",
+        "Their taghwa (transgression) and accumulated moral corruption",
+        "Confusion between competing prophets"
       ],
-      "correctAnswer": "The Messenger of Allah, with its brightness representing the light of Wilayah emanating from the Imams",
-      "explanation": "Imam Ja'far al-Sadiq taught that the sun is the Messenger of Allah, and its brightness is the light of Wilayah (divine guardianship) emanating from the Imams. This metaphor aligns with the Shia understanding that just as the sun illuminates the physical world, the spiritual 'sun' of the Prophet and Imams illuminates the hearts of believers, dispelling ignorance and sin."
+      "correctAnswer": "C",
+      "explanation": "The verse uses the word 'taghwa,' meaning excessive rebellion and overstepping moral limits. As Imam al-Tabari records from Mujahid and Qatadah, Thamud denied their prophet because of the transgression that had overtaken them collectively as a community."
     },
     {
       "id": "91_8",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "Whom did Ibn Kathir identify as the 'most wretched' (ashqa) of Thamud who hamstrung the she-camel?",
+      "options": [
+        "Abu Righal, a sorcerer of the tribe",
+        "Qudar ibn Salif, a powerful and feared man among his people",
+        "Qabil, the chief of the assembly",
+        "Salif ibn Asad, a hired assassin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir identifies the killer as Qudar ibn Salif, a man who was mighty, respected, and of noble lineage within his tribe, citing Imam Ahmad's Musnad. Qudar did not act alone but received the collective pledge of support from the people of Thamud."
+    },
+    {
+      "id": "91_9",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "Both Sunni and Shia commentators agree that verse 6's core meaning affirms Allah's creative power, though they differ in whether to emphasize literal geological interpretation or metaphysical symbolism.",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "True or false: Wahbah al-Zuhayli explains that the phrase 'naqat Allah' (the she-camel of Allah) is an example of idafa tashrif (attribution of honor), elevating the camel's status to that of a divine sign whose violation is an act against Allah Himself.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Neither tradition disputes the verse's core meaning—Allah's creative power manifested in shaping the earth—but their focal points reflect broader methodological variations. Sunni exegesis often prioritizes Allah's transcendence and accessible textual proofs, while Shia interpretations frequently integrate Imamology and esoteric layering. Both traditions ultimately uphold the verse as affirming Allah's sovereignty."
+      "explanation": "The expression 'she-camel of Allah' uses the possessive attribution to Allah, known as idafa tashrif, which elevates the she-camel's status to that of a divine sign. This same legal principle appears throughout Islamic law in attributions like 'mosque of Allah' and 'house of Allah.'"
     }
   ]
 }

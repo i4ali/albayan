@@ -6,110 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What is the primary purpose of the 'iddah (waiting period) mentioned in verse 1 of Surah At-Talaaq?",
+      "question": "What specific rule does verse 1 establish about when a husband may pronounce divorce?",
       "options": [
-        "To punish the divorced woman",
-        "To confirm pregnancy, prevent hasty separations, and create space for potential reconciliation",
-        "To allow the husband to remarry immediately",
-        "To determine the woman's financial status"
+        "A) He may pronounce it at any time, including during the wife's menstrual period",
+        "B) He must pronounce it at the start of a period of purity in which no intercourse has occurred, so the iddah can begin and be counted accurately",
+        "C) He must wait until the iddah has already ended before pronouncing divorce",
+        "D) He may pronounce it only after consulting a judge"
       ],
-      "correctAnswer": "To confirm pregnancy, prevent hasty separations, and create space for potential reconciliation",
-      "explanation": "The 'iddah (from 'adada, \"to count\") refers to the three menstrual cycles women observe post-divorce (or until childbirth for pregnant women), serving both practical and ethical purposes. It allows time to confirm pregnancy, prevents hasty separations, and creates space for potential reconciliation—a theme underscored by the verse's closing hope that \"Allah may bring about a new matter\" through patience."
+      "correctAnswer": "B",
+      "explanation": "The verse commands that divorce be initiated at the beginning of a clean period (tuhr) in which no intercourse has taken place, so the three-month waiting period can commence clearly and be counted accurately. This ruling was revealed in direct response to the incident of Ibn Umar, who divorced his wife during her menstrual period and was firmly corrected by the Prophet, as recorded by Imam al-Bukhari and Muslim."
     },
     {
       "id": "65_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 7,
-      "question": "According to verse 7, Allah burdens every soul beyond what it has been given to test their limits.",
+      "verseNumber": 1,
+      "question": "True or false: According to verse 1, a divorced wife has the right to remain in the marital home throughout the iddah, and the husband is forbidden from expelling her.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The phrase \"la yukallifu Allahu nafsan illa ma ataha\" (Allah does not burden any soul beyond what He has given it) emphasizes proportionality in religious obligations – a recurring Quranic theme affirming that divine justice accounts for human limitations."
+      "correctAnswer": "true",
+      "explanation": "Verse 1 establishes three protective housing rulings: the wife must not be expelled from the marital home, she must not leave voluntarily, and the only exception is if she commits a clear immorality. Sheikh Ibn Uthaymeen specifically warned that the widespread cultural practice of immediately sending the wife to her family's home upon divorce violates this explicit Quranic command."
     },
     {
       "id": "65_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shia scholars like Imam Jafar al-Sadiq, when should divorce pronouncements occur during the wife's cycle?",
+      "verseNumber": 2,
+      "question": "Which classical scholar preserved a narration that Ali ibn Abi Talib said a man should have two just witnesses when divorcing or taking back his wife, presenting this as a direct Quranic obligation?",
       "options": [
-        "During menstruation for clarity",
-        "At any time regardless of her cycle",
-        "Specifically during the purity period (tuhr) when marital relations are permissible",
-        "Only after the third menstrual cycle"
+        "A) Imam al-Tabari, in his discussion of the phrase 'retain them according to acceptable terms'",
+        "B) Ibn Kathir, in his Tafsir al-Quran al-Azim, citing narrations attributed to Ali and Ibn Abbas",
+        "C) Fakhr al-Din al-Razi, in his analysis of the surah's rhetorical structure in Mafatih al-Ghayb",
+        "D) Imam al-Suyuti, in his Tafsir al-Jalalayn"
       ],
-      "correctAnswer": "Specifically during the purity period (tuhr) when marital relations are permissible",
-      "explanation": "The directive to divorce women \"for their waiting period\" (li-'iddatihinna) is interpreted by Shia scholars as requiring divorce pronouncements to occur specifically during a wife's purity period (tuhr) when marital relations are permissible, a position rooted in Imam Jafar al-Sadiq's exegesis. This temporal restriction prevents impulsive divorces during menstruation—a state considered unfit for such grave decisions."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir gives great weight to the stipulation of two just witnesses in verse 2, citing the view attributed to Ali ibn Abi Talib that 'if a man divorces or returns his wife, he should have two just men as witnesses, as Allah commands.' Ibn Kathir treats this as a binding Quranic obligation backed by Companion authority."
     },
     {
       "id": "65_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "What does Allamah Tabatabai emphasize about the phrase \"establishing testimony for Allah\" in verse 2?",
-      "options": [
-        "It is merely a legal formality with no deeper meaning",
-        "It transcends legal formalism and signifies internalizing divine presence in human transactions",
-        "It only applies to court proceedings",
-        "It is a symbolic gesture without practical implications"
-      ],
-      "correctAnswer": "It transcends legal formalism and signifies internalizing divine presence in human transactions",
-      "explanation": "Tabatabai elucidates that \"establishing testimony for Allah\" transcends mere legal formalism; it signifies internalizing divine presence in human transactions, transforming mundane acts into worship through intentionality (niyya)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: The promise in verse 3 that Allah will provide 'from where one does not reckon' means a person of taqwa may abandon worldly effort and simply wait for provision to arrive.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb explicitly distinguishes tawakkul from fatalism, explaining it means taking all necessary worldly steps while anchoring the heart in certainty that outcomes belong to Allah alone. Sheikh Ibn Uthaymeen similarly notes that the Prophet ploughed fields, conducted trade, and fought battles — tawakkul is an inner orientation, not a substitute for action."
     },
     {
       "id": "65_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "Contemporary scholars like Dr. Ziba Mir-Hosseini connect verse 6's housing provision requirement to modern debates on economic abuse and patriarchal norms that leave divorced women homeless.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Modern scholars like Dr. Ziba Mir-Hosseini connect this to today's debates on economic abuse, noting how the Quran's injunction to \"lodge them from where you dwell\" challenges patriarchal norms that often leave divorced women homeless or financially stranded."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Verse 4 specifies different iddah rulings for different categories of women. What is the waiting period for a pregnant divorced woman?",
+      "options": [
+        "A) Three months, identical to the rule for post-menopausal women",
+        "B) Four months and ten days",
+        "C) Until the child is born, regardless of how much time remains in the pregnancy",
+        "D) One full year from the date of divorce"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 4 states that for pregnant women the iddah extends until they give birth, making childbirth — not the passage of months — the event that terminates the waiting period. Ibn Kathir records that Ubayy ibn Ka'b asked the Prophet about the iddah for women who do not menstruate, and this very verse was revealed in direct response."
     },
     {
       "id": "65_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 3,
-      "question": "How do contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret tawakkul (reliance on God) in verse 3?",
+      "verseNumber": 6,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran singles out verse 6's prohibition on harming divorced wives through oppressive living conditions. What does he say this prohibition reveals about the nature of Islamic law?",
       "options": [
-        "As complete passivity and waiting for divine intervention",
-        "As an active partnership with divine will, aligning human effort with trust in Allah",
-        "As abandoning all worldly responsibilities",
-        "As solely relying on other people for help"
+        "A) That housing disputes must be resolved by a community elder before any divorce can proceed",
+        "B) That using economic and domestic power to torment a vulnerable person is not merely a legal offence but a violation of the divine moral order itself",
+        "C) That the wife forfeits housing rights if she was the one who requested the divorce",
+        "D) That the husband's housing obligation automatically ends on the first day of the iddah"
       ],
-      "correctAnswer": "As an active partnership with divine will, aligning human effort with trust in Allah",
-      "explanation": "Ayatollah Naser Makarem Shirazi emphasizes that tawakkul (reliance on God) isn't passive resignation but an active partnership with divine will—aligning human effort with trust in Allah's unseen networks of provision."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb writes that the prohibition on harming women to make their lives difficult is a moral declaration, not merely a legal restriction — using economic and domestic power to torment a vulnerable person violates the divine order. He observes that when a marriage breaks down, divine law intervenes precisely at the point of greatest vulnerability for the woman and any unborn child."
     },
     {
       "id": "65_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 12,
-      "question": "According to Imam Jafar as-Sadiq's teaching in Bihar al-Anwar, what do the \"seven earths\" in verse 12 symbolize?",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "How did the scholars of the Salaf, as recorded by Imam al-Tabari, understand the word 'atat' used to describe the defiant communities in verse 8?",
       "options": [
-        "Seven continents of the physical world",
-        "Seven layers of geological strata",
-        "The seven Imams from the progeny of Ali and Fatimah, as foundations through which Allah's command descends",
-        "Seven historical civilizations"
+        "A) As accidental ignorance, implying those communities simply had not received clear guidance",
+        "B) As wilful, insolent defiance of commands that were clearly known — distinguishing it from ignorant error",
+        "C) As military rebellion against prophets only, not as violations of family or social law",
+        "D) As gradual religious drift caused by poverty and hardship"
       ],
-      "correctAnswer": "The seven Imams from the progeny of Ali and Fatimah, as foundations through which Allah's command descends",
-      "explanation": "Imam Jafar as-Sadiq states in Bihar al-Anwar: \"The seven earths are the seven Imams from the progeny of Ali and Fatimah, for they are the foundations through which Allah's command descends to creation.\" This reveals that just as the heavens are sustained by divine order, the earths—symbolizing the Imams—are channels of wilayah (divine authority) and custodians of sacred knowledge."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records the view of the early scholars that 'atw' (the root of 'atat') signifies open, wilful defiance rather than ignorant error. This distinction matters because ignorance may be answered with guidance, but deliberate arrogance meets with severe accounting and punishment — which is precisely the fate described for those communities in verse 8."
     },
     {
       "id": "65_8",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "True or false: Ibn Kathir interprets the phrase 'they tasted the evil consequence of their conduct' in verse 9 as meaning that divine punishment was an arbitrary imposition unconnected to what those communities had chosen to do.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir treats verse 9 as a statement of moral causation: the Arabic 'wabala amriha' conveys that the destruction was the direct, inevitable result of the communities' own chosen defiance, not an arbitrary external event. Using the image of 'tasting,' the Quran communicates that punishment is as immediate and personal as a physical sensation, not a distant or disconnected consequence."
+    },
+    {
+      "id": "65_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Sunni and Shia interpretations of \"clear immorality\" (fahisha mubayyina) in verse 1?",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir describes a key architectural feature of Surah At-Talaq that illuminates the contrast between the fate of believers and disbelievers. What is that feature?",
       "options": [
-        "Both traditions interpret it identically with no differences",
-        "Sunni commentators often interpret it broadly as disobedience, while Shia sources restrict it to major sexual offenses",
-        "Shia scholars interpret it more broadly than Sunni scholars",
-        "Neither tradition discusses this concept"
+        "A) The surah opens and closes with an identical verse about taqwa, creating a perfect ring structure",
+        "B) The movement from minutely detailed family law in verses 1-7 to the eternal reward of Paradise in verse 11 shows that obedience in private life is the path from darkness into divine light",
+        "C) Verse 11 lists the specific punishments awaiting those who violated the divorce rulings of verse 1",
+        "D) The surah uses the same Arabic root for both the darknesses of disobedience and the punishment of past nations"
       ],
-      "correctAnswer": "Sunni commentators often interpret it broadly as disobedience, while Shia sources restrict it to major sexual offenses",
-      "explanation": "Sunni commentators like Tabari and Razi often interpret immorality broadly as disobedience or moral transgressions, reflecting Hanafi and Shafi'i juristic tendencies to prioritize household stability. Shia sources like Tusi's At-Tibyan and Qummi's tafsir, grounded in Imami jurisprudence, typically restrict this to major sexual offenses, emphasizing women's rights against arbitrary expulsion."
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli describes the surah's movement from the most practical legislative detail — housing standards, iddah timing, financial proportionality — to the eternal promise of gardens beneath which rivers flow as a masterpiece of Quranic literary architecture. Those who follow divine commands in family life are precisely the believers whom the Messenger leads 'from darknesses into the light,' with Allah perfecting their provision forever, in contrast to those who defy His commands and end in total loss."
     }
   ]
 }

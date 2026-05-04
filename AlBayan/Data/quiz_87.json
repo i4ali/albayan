@@ -6,110 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the command 'sabbih' (exalt or glorify) in verse 1 fundamentally signify according to the Foundation Layer?",
+      "question": "When verse 1 of Surah Al-Ala was revealed, the Prophet connected it directly to the physical act of prostration in prayer. What instruction did he give his companions?",
       "options": [
-        "Verbal praise only",
-        "Purifying Allah from all limitations, imperfections, or associations",
-        "Physical worship rituals exclusively",
-        "Memorizing divine names"
+        "A) Recite this surah before every adhan to begin each prayer with glorification",
+        "B) Put this in your sujud, giving rise to the phrase 'Subhana Rabbi al-Ala' in every prostration",
+        "C) Memorize the whole surah before any other Meccan chapter",
+        "D) Recite it only during the Eid prayer as a communal act of glorification"
       ],
-      "correctAnswer": "Purifying Allah from all limitations, imperfections, or associations",
-      "explanation": "The command 'sabbih' (exalt or glorify) derives from tasbih, which signifies purifying Allah from all limitations, imperfections, or associations. It is not merely verbal praise but an entire orientation of the heart and actions toward acknowledging Allah's perfection."
+      "correctAnswer": "B",
+      "explanation": "The tafsir records that when this verse was revealed the Prophet said to his companions 'Put this in your sujud,' which is why Muslims recite 'Subhana Rabbi al-Ala' — Glory be to my Lord, the Most High — in every prostration of their prayer. This hadith is collected in the Musnad of Ahmad and Sunan Abu Dawud, and Ibn Abbas is reported to have immediately uttered that phrase upon hearing the verse."
     },
     {
       "id": "87_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to the Foundation Layer, the term 'fasawwa' (proportioned) in verse 2 refers only to physical symmetry in creation.",
+      "question": "True or false: In verse 2, the pairing of 'khalaqa' (created) and 'sawwa' (proportioned) describes a two-stage process in which Allah first creates imperfect things and then returns to repair them.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. The term 'fasawwa' (proportioned) refers to Allah's meticulous design, granting every aspect of creation balance, purpose, and harmony. This 'proportioning' extends to spiritual and cosmic order, not merely physical symmetry."
+      "explanation": "According to the tafsir, the conjunction 'fa' between the two verbs indicates that proportioning is intrinsic to creation itself, not a later correction. Ibn Kathir and Qurtubi both affirm that Allah's creation is never random or flawed — every creature is fashioned with limbs, instincts, and faculties precisely suited to its purpose from the very act of creation."
     },
     {
       "id": "87_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allamah Tabatabai in Tafsir al-Mizan, what does the verse's command to 'exalt' represent?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What anxiety of the Prophet does verse 6 ('We will make you recite, and you will not forget') directly address, and what does it establish about the source of Quranic preservation?",
       "options": [
-        "Only a verbal command for daily prayers",
-        "An ontological requirement recognizing Allah's absolute supremacy beyond human conceptualization",
-        "A historical instruction specific to the Prophet's time",
-        "A metaphorical expression with no practical application"
+        "A) The Prophet feared the companions would forget the Quran after his death, so Allah promised to preserve it in their hearts collectively",
+        "B) The Prophet was anxiously repeating Gabriel's words mid-transmission out of fear of losing a syllable, and the verse establishes that preservation is entirely Allah's own responsibility",
+        "C) The Prophet struggled to recite publicly due to stage fright, and the verse promised him eloquence",
+        "D) Some companions accused the Prophet of improvising verses, and the verse cleared him of that charge"
       ],
-      "correctAnswer": "An ontological requirement recognizing Allah's absolute supremacy beyond human conceptualization",
-      "explanation": "Tabatabai elucidates that the imperative 'sabbih isma rabbika al-a'la' is not merely verbal but ontological, requiring recognition of Allah's absolute supremacy (uluww) over creation's contingencies. This aligns with Shia theology's rigorous emphasis on tawhid al-asma wa al-sifat."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that in the early days of revelation the Prophet would repeat Gabriel's words before the angel had finished, fearing loss of even a syllable. Allah responds by promising that Quranic retention is under divine management, directly paralleling Surah Al-Qiyamah (75:16-17): 'Do not move your tongue hastily to memorize it — indeed, upon Us is its collection and its recitation.' Ibn Kathir calls this promise one of the Quranic proofs that the Prophet was a faithful recipient, not the author, of the text."
     },
     {
       "id": "87_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "How do classical Shia commentators like Tabatabai and Tabrisi interpret the relationship between 'taqdir' (destining) and 'hidaya' (guidance) in verse 3?",
-      "options": [
-        "As separate, unrelated divine actions",
-        "As contradictory concepts that conflict with free will",
-        "As interplay between divine predestination and guidance within cosmic order and human agency",
-        "As exclusively referring to prophetic guidance only"
-      ],
-      "correctAnswer": "As interplay between divine predestination and guidance within cosmic order and human agency",
-      "explanation": "Classical commentators like Allama Tabatabai in Al-Mizan and Sheikh Tabrisi in Majma al-Bayan emphasize the interplay between divine predestination (taqdir) and guidance (hidaya), framing these concepts within the Shia understanding of cosmic order and human agency."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "True or false: According to the classical scholars, the word 'tazakka' in verse 14 ('Indeed, he has succeeded who purifies himself') carries a single, narrow meaning referring only to paying Zakat al-Fitr.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Classical scholars including Ibn Kathir, Tabari, and Hasan al-Basri held that 'tazakka' encompasses multiple dimensions: purification of the heart from shirk, moral purification through righteous deeds, and charitable giving including Zakat al-Fitr. Umar ibn Abd al-Aziz did invoke this verse in his Eid sermon in connection with Zakat al-Fitr, but the scholarly consensus treats the term as comprehensive across all these meanings."
     },
     {
       "id": "87_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Contemporary Shia scholars like Ayatollah Nasir Makarim Shirazi connect verse 2's concept of 'taswiya' (perfect proportioning) with modern scientific insights on cosmic fine-tuning.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Contemporary Shia scholars like Ayatollah Nasir Makarim Shirazi emphasize taswiya (perfect proportioning) as a divine blueprint manifest in cosmic order, often paired with scientific insights on cosmic fine-tuning, highlighting the precision of natural laws from DNA's molecular symmetry to planetary orbits."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "How did Imam al-Tabari and Ibn Kathir understand the scope of 'fa-hada' (guided) in verse 3 — does divine guidance apply only to human beings?",
+      "options": [
+        "A) Yes, guidance in this verse applies exclusively to human beings through the Quran and prophets",
+        "B) No, guidance encompasses all of creation: animals through instinct, natural phenomena through their inbuilt responses to Allah's command, and human beings through rational faculty and revelation",
+        "C) It applies only to the angels who guide the rest of creation on Allah's behalf",
+        "D) It refers to guidance of the planets and stars in their orbits, not to living creatures"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tabari records companion reports understanding 'hada' as the guidance given to all living creatures through their instincts and capacities. Ibn Kathir synthesizes these views: Allah guided animals through instinct to graze, breed, and survive, and guided human beings through rational faculty and prophetic revelation. Sayyid Qutb in Fi Zilal al-Quran extends this further, observing that the entire universe moves under divine guidance, making the cosmos a testament to divine will."
     },
     {
       "id": "87_6",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 14,
-      "question": "According to the teachings of the Ahlul Bayt, what does 'tazkiyah' (purification) in verse 14 require for true success?",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "What is the most authoritative Sunni explanation, as recorded by Imam al-Tabari and endorsed by Ibn Kathir, for the exception 'except what Allah wills' in verse 7?",
       "options": [
-        "Only ritual ablution and physical cleanliness",
-        "Purification of the soul through divine guidance and unwavering connection to the Imamah",
-        "Accumulation of wealth for charitable purposes",
-        "Isolation from society for spiritual retreat"
+        "A) The Prophet could choose to forget personal memories but was protected from forgetting any divine command",
+        "B) It refers to abrogated verses that Allah willed to remove from both memory and practice, pointing to the Quranic category of naskh",
+        "C) It is a purely rhetorical device that acknowledges divine sovereignty with no practical meaning",
+        "D) It refers to verses that were revealed privately and were never meant to be part of the public Quran"
       ],
-      "correctAnswer": "Purification of the soul through divine guidance and unwavering connection to the Imamah",
-      "explanation": "Imam Ali taught, 'Purify your souls through obedience to Allah, for only the purified soul attains eternal triumph.' The verse unveils a profound truth: true success lies in the purification of the soul through divine guidance and unwavering connection to the Imamah."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari concluded that this exception refers to abrogated verses whose removal Allah decreed. Ibn Kathir supports this by citing a hadith in Bukhari in which the Prophet and his companions collectively forgot an entire surah that had formerly been recited — a divinely facilitated forgetting of abrogated material. Qurtubi adds a fiqh dimension, noting that this verse is a Quranic proof for the category of naskh al-tilawa (abrogation of recitation)."
     },
     {
       "id": "87_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "In Imam Ali's teaching from Nahj al-Balagha about verse 2, what does the 'proportioning' (taswiya) signify beyond physical perfection?",
-      "options": [
-        "Only mathematical precision in nature",
-        "The cosmic balance between divine mercy and justice",
-        "Architectural design principles",
-        "Agricultural planning methods"
-      ],
-      "correctAnswer": "The cosmic balance between divine mercy and justice",
-      "explanation": "Imam Ali teaches in Nahj al-Balagha: 'He created with equilibrium, measured with justice, and arranged with purpose.' This 'proportioning' (taswiya) signifies the cosmic balance between divine mercy and justice, not merely physical perfection."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "True or false: According to Ibn Kathir and Tabari, the description 'he will neither die therein nor live' in verse 13 means that the inhabitants of Hell will eventually die, bringing their punishment to an end.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Both Ibn Kathir and Tabari — citing Ibn Abbas and Ibn Masud — explain that this verse describes the permanent condition of Hell's inhabitants: they cannot die so the agony cannot end, and they do not truly live so there is no vitality or hope. Ibn Kathir cites the authenticated hadith in Sahih Muslim in which Death itself is slaughtered between Paradise and Hell, after which both states are announced as permanent and eternal."
     },
     {
       "id": "87_8",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 14,
-      "question": "What is a key difference between Shia and Sunni interpretations of 'tazkiyah' (purification) in verse 14?",
+      "layer": 3,
+      "verseNumber": 17,
+      "question": "How does Fakhr al-Din al-Razi in Mafatih al-Ghayb argue philosophically that the Hereafter is rationally superior to this world, using the two descriptions in verse 17?",
       "options": [
-        "Sunni scholars reject the concept of purification entirely",
-        "Shia interpretations often integrate remembrance of the Ahl al-Bayt as the perfected expression of tasbih, while Sunni traditions focus on individual adherence without explicit Imamic mediation",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars limit purification to ritual practices only"
+        "A) He argues that 'better' is a subjective preference that cannot be proven, while 'more lasting' is the only objective ground for preferring the Hereafter",
+        "B) He reasons that even if the dunya and akhira offered identical pleasures, the infinite duration of the akhira versus the finite duration of the dunya makes rational preference for the akhira self-evident to any correctly reasoning mind",
+        "C) He limits the argument to believers only, insisting that non-believers cannot appreciate the verse's logic",
+        "D) He argues that the Hereafter's superiority is a matter of blind faith that should not be subjected to rational analysis"
       ],
-      "correctAnswer": "Shia interpretations often integrate remembrance of the Ahl al-Bayt as the perfected expression of tasbih, while Sunni traditions focus on individual adherence without explicit Imamic mediation",
-      "explanation": "Both traditions agree on the importance of spiritual purification, but Shia interpretations often integrate remembrance of the Ahl al-Bayt into acts of worship, viewing their example as the perfected expression of tasbih. Sunni traditions focus more on individual adherence to Quranic and Prophetic models without explicit Imamic mediation."
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb structures his commentary around the argument from quality (khayrun) and the argument from duration (abqa). He reasons that the dunya's duration is so negligible relative to the akhira's infinity that the Hereafter's superiority is logically inescapable. Wahbah al-Zuhayli in Al-Tafsir al-Munir reinforces this, noting that an object inferior in both quality and duration cannot be rationally preferred over one that surpasses it in both dimensions."
+    },
+    {
+      "id": "87_9",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 19,
+      "question": "Ibn Ashur in Al-Tahrir wa al-Tanwir describes the closing of Surah Al-Ala by naming Ibrahim and Musa as a specific type of argument. What kind of argument is it, and why is the hadith of Abu Dharr significant here?",
+      "options": [
+        "A) It is an argument from miracles, proving that Ibrahim and Musa performed the same signs as the Prophet Muhammad",
+        "B) It is an argument by prophetic consensus, showing the surah's themes are attested across all major prophetic missions; the hadith of Abu Dharr describes the content of Ibrahim's scrolls using language strikingly parallel to verses 14-17 of the surah itself",
+        "C) It is an argument from tradition, showing that earlier communities recited Surah Al-Ala in their prayers just as Muslims do",
+        "D) It is an argument from authority, proving that the Torah and the scrolls of Ibrahim are still in their original uncorrupted form and confirm the Quran word for word"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Ashur calls this closing a form of 'argument by prophetic consensus' (ihtijaj bil-tawatur al-nabawi). The hadith of Abu Dharr, recorded in the Musnad of Ahmad and Ibn Hibban, describes the content of Ibrahim's scrolls as including language about purifying oneself and not letting love of this world distract from the next — language strikingly parallel to verses 14-17 of this very surah. Sayyid Qutb in Fi Zilal al-Quran reads the ending as an invitation to all of humanity to a message that every prophet has delivered."
     }
   ]
 }

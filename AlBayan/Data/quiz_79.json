@@ -6,160 +6,195 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'naaza'a' (النَّازِعَاتِ) literally mean in the opening verse of Surah An-Nazi'at?",
+      "question": "The opening oath 'By those who extract with violence' in verse 1 refers most prominently to which beings, according to the overwhelming consensus of the Companions?",
       "options": [
-        "To gently whisper",
-        "To pull out or remove forcefully",
-        "To descend slowly",
-        "To gather together"
+        "A. Stars that set below the horizon",
+        "B. The souls of disbelievers being extracted at death",
+        "C. Angels who pull out the souls of the wicked with force and severity",
+        "D. Ships crossing the ocean"
       ],
-      "correctAnswer": "To pull out or remove forcefully",
-      "explanation": "The term naaza'a derives from the root n-z-'a, meaning to pull out or remove forcefully, reflecting the angels' decisive role in separating the soul from the body. The addition of gharqan intensifies this imagery, suggesting a profound, all-encompassing action."
+      "correctAnswer": "C",
+      "explanation": "Ibn Abbas, Ibn Masud, and other Companions unanimously identified 'an-nazi'at' as angels of death who extract the souls of disbelievers with great force — like tearing thorns through wet wool — as recorded by Imam Tabari in Jami al-Bayan and affirmed by Ibn Kathir in Tafsir al-Quran al-Azim."
     },
     {
       "id": "79_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to the Foundation Layer, the 'ease' mentioned in verse 2 refers only to the physical act of death, with no spiritual significance.",
+      "question": "True or false: The angels described in verse 2 as 'those who remove with ease' treat the souls of believers gently at death, deliberately contrasting with the harsh extraction of the wicked described in verse 1.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The 'ease' of removal reflects the soul's readiness to transition from worldly confines to the embrace of its Lord—a state cultivated through lifelong devotion. The verse invites reflection on trust in Allah's wisdom during life's transitions, inspiring resilience in personal trials and ethical consistency."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir quotes Ibn Abbas saying these angels remove believers' souls with ease 'as when the knot is untied from a rope.' The first two verses deliberately establish a dual nature of death: painful for the sinful and peaceful for the righteous, a pairing that both Tabari and Ibn Kathir treat as structurally intentional."
     },
     {
       "id": "79_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabrisi in Majma al-Bayan, what does the 'violent extraction' (gharq) in verse 1 specifically symbolize?",
+      "verseNumber": 3,
+      "question": "Which best captures the classical Sunni scholarly interpretation of the oath 'by those who glide as if swimming' in verse 3?",
       "options": [
-        "The general power of angels",
-        "The struggle and anguish experienced by disbelievers during death",
-        "Natural disasters and calamities",
-        "The resurrection process itself"
+        "A. Fish in the ocean, signifying life in this world",
+        "B. Angels gliding swiftly through the heavens executing divine commands, with a minority view proposing stars in their orbits",
+        "C. Ships navigating the seas exclusively",
+        "D. Human souls swimming through the afterlife"
       ],
-      "correctAnswer": "The struggle and anguish experienced by disbelievers during death",
-      "explanation": "Tabrisi notes that the 'violent extraction' (gharq) signifies the profound struggle and anguish experienced by disbelievers during death, symbolizing their alienation from divine mercy. This contrasts with the gentle extraction of righteous souls, reflecting Shia emphasis on divine justice ('adl)."
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari records Ibn Abbas, Masruq, Abu Salih, and al-Suddi all identifying 'as-sabihat' as angels gliding through the heavens. Ibn Kathir affirms this and notes a minority view about stars, while Imam Qurtubi confirms the angelic interpretation as primary. The Arabic root 'sabaha' describes effortless, graceful movement through a medium."
     },
     {
       "id": "79_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 25,
-      "question": "In Allama Tabatabai's interpretation in Al-Mizan, what do the 'last and first' transgressions of Pharaoh mentioned in verse 25 represent?",
-      "options": [
-        "Two separate historical events",
-        "His initial oppression of the Israelites and his ultimate claim to divinity",
-        "Minor and major sins",
-        "His early and late life"
-      ],
-      "correctAnswer": "His initial oppression of the Israelites and his ultimate claim to divinity",
-      "explanation": "Tabatabai interprets the duality as encapsulating Pharaoh's compounded tyranny: his initial oppression of the Israelites (the 'first' transgression) and his ultimate blasphemous claim to divinity ('I am your supreme lord' - 79:24), representing the 'last' transgression."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "True or false: The 'Rajifa' mentioned in verse 6 refers to the second blast of the Trumpet that will resurrect the dead for judgment.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The Rajifa is the first blast of the Trumpet, which causes a violent, catastrophic shaking that kills all living creation. Ibn Abbas, Mujahid, and Hasan al-Basri confirmed that the Rajifa is the first blast, while the Radifa in verse 7 is the second blast that raises the dead, as recorded in detail by Imam Tabari."
     },
     {
       "id": "79_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "Contemporary Shia scholar Dr. Mohammad Ali Shomali extends the metaphor of 'violent extraction' in verse 1 to include dismantling oppressive systems and extracting truth from ignorance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Dr. Shomali frames the 'violent extraction' as a metaphor for dismantling oppressive systems or extracting truth from ignorance, aligning with Imam Ali's teachings on justice as a transformative force: 'Remove the rust of arrogance from your hearts through the intensity of truth.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "Imam al-Razi observed a wisdom behind the two-blast structure of verses 6 and 7. What familiar Islamic practice did he compare it to?",
+      "options": [
+        "A. The two prostrations in each unit of prayer",
+        "B. The Adhan followed by the Iqama",
+        "C. The two testimonies of the Shahada",
+        "D. The two Eid prayers of the year"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb noted that the two-blast structure mirrors the Call to Prayer followed by the Iqama — a familiar pattern that makes the cosmic reality of resurrection comprehensible through lived Muslim experience. The first call announces; the second call mobilizes."
     },
     {
       "id": "79_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 30,
-      "question": "How do contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret the 'spreading of the earth' (daha) in verse 30?",
+      "verseNumber": 8,
+      "question": "Sayyid Qutb's commentary on verse 8 — 'Hearts, on that Day, will be trembling' — highlights which significant literary technique the Quran uses here?",
       "options": [
-        "As a purely geological description",
-        "As both physical expansion and purposeful preparation, aligning with modern cosmology",
-        "As a metaphor for agricultural development",
-        "As a reference to tectonic plate movement"
+        "A. Moving from an external cosmic event to the internal human reality, showing the Day affects body and soul",
+        "B. Repeating the same image to create a poetic rhythm",
+        "C. Translating an Arabic term into a universally understood concept",
+        "D. Listing the categories of people who will be saved"
       ],
-      "correctAnswer": "As both physical expansion and purposeful preparation, aligning with modern cosmology",
-      "explanation": "Ayatollah Shirazi emphasizes that daha (spread) implies both physical expansion and purposeful preparation, aligning with modern cosmology's understanding of Earth's formation as a gradual process calibrated for life, bridging divine design and scientific inquiry."
+      "correctAnswer": "A",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran highlights how the Quran transitions from the shattering of the universe (verses 6-7) to the trembling of the human heart (verse 8), showing that the Day will penetrate the innermost core of every human being. Wahbah al-Zuhayli affirms this movement from the external to the internal as a sophisticated Quranic pedagogical technique."
     },
     {
       "id": "79_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq in Tafsir al-Qummi, what does the 'violent extraction' in verse 1 refer to regarding spiritual states?",
-      "options": [
-        "The extraction of physical wealth from the earth",
-        "The angels extracting souls entrenched in spiritual heedlessness and rebellion against Divine Wilayah",
-        "The removal of impurities from the heart",
-        "The separation of good from evil deeds"
-      ],
-      "correctAnswer": "The angels extracting souls entrenched in spiritual heedlessness and rebellion against Divine Wilayah",
-      "explanation": "Imam Ja'far al-Sadiq explains that 'those who extract violently' refers to angels entrusted with extracting the souls of those entrenched in spiritual heedlessness and rebellion against Divine Wilayah. Their violent extraction symbolizes the painful separation of the soul from its attachment to worldly illusions and false lordship."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "True or false: The question posed by the disbelievers in verse 10, 'Shall we really be restored to our former state?', was a sincere theological inquiry about the mechanics of resurrection.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Classical scholars, including Imam Tabari quoting Ibn Abbas and Mujahid, clarified that this was sarcastic mockery, not genuine inquiry. The Quraysh treated physical resurrection as laughably impossible and used this rhetorical question to dismiss the Prophet's message. Ibn Kathir notes the Quran preserves their words to expose the foolishness of their arrogance."
     },
     {
       "id": "79_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to Lady Fatimah al-Zahra's teaching in Bihar al-Anwar, true believers are described as 'those whose souls are loosened from the knots of worldly attachment.'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Lady Fatimah al-Zahra taught that true believers are 'those whose souls are loosened from the knots of worldly attachment,' as recorded in Bihar al-Anwar. This 'removal' signifies spiritual liberation achieved by detaching from illusions through constant dhikr and obedience to the Imams."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "When Allah commanded Moses in verse 17 to 'Go to Pharaoh — indeed, he has transgressed,' what does the Arabic word 'tagha' comprehensively describe about Pharaoh?",
+      "options": [
+        "A. Only his military campaigns against neighboring kingdoms",
+        "B. His transgression encompassing rejection of Allah, oppression of the Israelites, and his claim to divinity",
+        "C. His refusal to pay tribute to neighboring rulers",
+        "D. His jealousy toward Moses after witnessing the miracles"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that 'tagha' is a comprehensive indictment: Pharaoh's claim to godhood, his oppression of the Israelites, his rejection of earlier warnings, and his corruption of the Egyptian state all fall under this single word. Imam Tabari adds that 'taghyan' designates rulers who exceed divine limits and exploit their power against the helpless."
     },
     {
       "id": "79_9",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 40,
-      "question": "According to Imam Ali in Nahj al-Balagha, what does 'fearing the position of one's Lord' represent?",
-      "options": [
-        "Simple dread of punishment",
-        "Profound awareness of divine accountability rooted in ma'rifah (divine recognition)",
-        "Fear of physical death",
-        "Anxiety about worldly consequences"
-      ],
-      "correctAnswer": "Profound awareness of divine accountability rooted in ma'rifah (divine recognition)",
-      "explanation": "Imam Ali taught that 'fearing the position of one's Lord' is not mere dread but a profound awareness of divine accountability rooted in ma'rifah (divine recognition). He states in Nahj al-Balagha: 'The one who truly fears his Lord stands perpetually at the threshold of His presence, knowing every breath is witnessed.'"
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "True or false: In verse 18, Moses was instructed to begin his address to Pharaoh with a threatening ultimatum rather than a gentle invitation.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Allah instructed Moses to ask Pharaoh 'Would you be willing to purify yourself?' — an invitation of hope, not a threat. Ibn Kathir and Tabari both record that the interrogative form 'hal laka ila' is an extremely gentle and courteous mode of address, further confirmed by Surah Ta Ha (20:44) commanding Moses and Aaron to speak with gentle speech."
     },
     {
       "id": "79_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "What is the key hermeneutical difference between Sunni and Shia interpretations of the skeptics' question in verse 10?",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "What did Ibn Kathir identify as the most likely candidate for 'the greatest sign' shown to Pharaoh in verse 20?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Sunni exegesis focuses on literal resurrection while Shia readings integrate spiritual rebirth and the primordial covenant",
-        "Both traditions interpret it identically",
-        "Shia scholars deny bodily resurrection"
+        "A. Moses parting the Red Sea before Pharaoh's army",
+        "B. The ten plagues afflicting Egypt simultaneously",
+        "C. Moses' staff transforming into a serpent that devoured the magicians' fabrications",
+        "D. A voice calling from the heavens during Pharaoh's council"
       ],
-      "correctAnswer": "Sunni exegesis focuses on literal resurrection while Shia readings integrate spiritual rebirth and the primordial covenant",
-      "explanation": "Al-Tabari (Sunni) and Al-Tusi (Shia) contextualize the verse within the Quraysh's rejection of resurrection. However, Shia interpretations, drawing from Imam Ali's teachings, often extend this to include humanity's primordial covenant with Allah (Quran 7:172), reflecting their emphasis on spiritual dimensions alongside physical resurrection."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim identifies the staff-turned-serpent as 'al-ayat al-kubra' because it was a publicly witnessed, empirically undeniable event that directly overwhelmed Pharaoh's best sorcerers. Wahbah al-Zuhayli concurs that this was consistent with the Quran's approach of providing outwardly verifiable evidence for prophethood."
     },
     {
       "id": "79_11",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 20,
-      "question": "Both Sunni scholars (Tabari, Ibn Kathir) and Shia scholars (Tabatabai) agree that the 'greatest sign' in verse 20 refers to Prophet Musa's miracles, particularly the transformation of his staff into a serpent.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Both Shia and Sunni scholars broadly concur that the 'greatest sign' shown by Prophet Musa to Pharaoh refers to his miracles, particularly the transformation of his staff into a serpent (al-ʿaṣā) and the radiant hand (yad al-bayḍāʾ), as noted by Tabari, Ibn Kathir, and Tabatabai. These events are universally understood as divine validations of Musa's prophethood."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 24,
+      "question": "Ibn Kathir reports that Pharaoh's declaration 'I am your lord, most high' in verse 24 was not a spontaneous statement. What background does he provide?",
+      "options": [
+        "A. It was his first public claim and shocked even his own court",
+        "B. It was the culmination of a gradual claim beginning forty years earlier with 'I know of no god for you other than myself'",
+        "C. It was coerced from him by his advisors to motivate the army",
+        "D. It was a scripted line performed only at religious festivals"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir, quoting Ibn Abbas, reports that Pharaoh had declared forty years earlier in Surah Al-Qasas (28:38) 'I do not know of any god for you other than myself.' The declaration in verse 24 represents the peak of his escalating blasphemy. Imam Razi further notes that 'al-a'la' is the superlative form — Pharaoh claimed not merely to be a lord among lords but the highest lord of all."
     },
     {
       "id": "79_12",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 25,
+      "question": "True or false: The word 'nakal' in verse 25, describing Pharaoh's punishment, refers to a purely private consequence intended only for Pharaoh himself.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam Qurtubi explains that 'nakal' specifically denotes a punishment designed to be witnessed and remembered by others — a divine pedagogical act intended to instruct all of humanity through the generations. Wahbah al-Zuhayli connects this to the jurisprudential concept of deterrence in Islamic law, where certain penalties protect society by warning future offenders."
+    },
+    {
+      "id": "79_13",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 45,
-      "question": "According to both Sunni (Tabari) and Shia (Tabatabai) commentators, what is the primary role of Prophet Muhammad as described in verse 45?",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "How does verse 27 — 'Are you a more difficult creation, or is the heaven? He constructed it' — function as an argument for resurrection?",
       "options": [
-        "A judge who enforces divine law",
-        "A warner (mundhir) specifically addressing those spiritually receptive to the message",
-        "A king who rules over believers",
-        "A teacher of worldly knowledge"
+        "A. It claims humans were created after the heavens and are therefore superior beings",
+        "B. It argues that if Allah created the vastly greater heavens, recreating the comparatively small human body poses no challenge to His power",
+        "C. It suggests the heavens will collapse before resurrection occurs",
+        "D. It establishes that resurrection will happen in the sky rather than on earth"
       ],
-      "correctAnswer": "A warner (mundhir) specifically addressing those spiritually receptive to the message",
-      "explanation": "Classical commentators across traditions, including Tabari (Sunni) and Tabatabai (Shia), agree that the verse affirms Prophet Muhammad's role as a divine warner (mundhir) specifically addressing those spiritually receptive ('those who fear it'), emphasizing human free will and the Prophet's role as a guide rather than a coercive authority."
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb identifies this as a proof by analogy: the one capable of the greater act is certainly capable of the lesser. Sheikh Ibn Uthaymeen noted that this verse invites believers to intellectual engagement with creation, as the scale of the cosmos amplifies the irrationality of doubting resurrection. Sayyid Qutb described it as calm, unassailable logic."
+    },
+    {
+      "id": "79_14",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 42,
+      "question": "True or false: The Quran responded to the disbelievers' question about the Hour's timing in verse 42 by having the Prophet provide the exact date of its arrival.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The Quran does not answer the question with a date. Imam Tabari records from Ibn Abbas that the timing of the Hour is among the five exclusive knowledges belonging to Allah alone, confirmed in Surah Luqman (31:34). Ibn Kathir cites the famous hadith of Jibreel in Sahih al-Bukhari where the Prophet himself stated that the one being asked knows no more about the Hour than the questioner."
+    },
+    {
+      "id": "79_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 45,
+      "question": "Verse 45 states 'You are only a warner for those who fear it.' What does this restriction on the Prophet's role teach those engaged in calling others to Islam today?",
+      "options": [
+        "A. That only scholars have the authority to warn others",
+        "B. That the caller's responsibility ends with sincere delivery of the message, and forcing belief is not part of the prophetic function",
+        "C. That warnings should only be given in private settings",
+        "D. That the message must always be accompanied by proof of miracles"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen emphasized that verse 45 is a comfort for those engaged in calling to truth today: the result is not in the caller's hands. Al-Qurtubi derived a principle that effective address reaches those whose hearts are inclined toward accountability. Wahbah al-Zuhayli notes the word 'innama' confirms the Prophet's duty was faithful delivery, not compelled acceptance, exonerating him from responsibility for those who reject the warning."
     }
   ]
 }

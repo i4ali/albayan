@@ -6,135 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what incident does verse 1 of Surah At-Tahrim refer to?",
+      "question": "What was the occasion of revelation most widely accepted by classical Sunni scholars for the opening verse of Surah At-Tahrim?",
       "options": [
-        "The Prophet's decision to fast for a month",
-        "The Prophet's temporary abstention from honey to please his wives",
-        "The Prophet's migration to Medina",
-        "The Prophet's rejection of idols"
+        "A. The Prophet issued a general ruling forbidding sweets for the community",
+        "B. The Prophet prohibited honey upon himself after Aisha and Hafsa conspired to make him think it had an unpleasant smell",
+        "C. The Prophet swore an oath to avoid visiting one of his wives for a month",
+        "D. A companion declared a lawful food forbidden and the Prophet corrected him"
       ],
       "correctAnswer": "B",
-      "explanation": "According to Allamah Tabatabai in Al-Mizan, the verse refers to an incident where the Prophet temporarily abstained from consuming honey - a permissible (halal) act - to avoid friction in his household."
+      "explanation": "According to the account recorded in Sahih Bukhari on the authority of Aisha, Aisha and Hafsa conspired to tell the Prophet they could detect an unpleasant odour after he drank honey at Zaynab bint Jahsh's home. The Prophet, out of his wish to please his household, swore off honey, and Allah corrected him with this verse. Both Ibn Kathir and Imam Tabari affirm this as the most authenticated account."
     },
     {
       "id": "66_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 2,
-      "question": "According to the tafsir, Islam permits the dissolution of oaths through sincere repentance and expiation (kaffarah).",
+      "verseNumber": 1,
+      "question": "True or false: The tafsir of verse 1 establishes that a Muslim may declare a lawful thing forbidden for himself to keep household peace, and this carries no religious consequence.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The verse underscores that if an oath unintentionally harms oneself or others, Islam permits its dissolution through sincere repentance and expiation (kaffarah), as detailed in Surah Al-Ma'idah (5:89)."
+      "correctAnswer": "false",
+      "explanation": "The verse establishes the foundational Islamic principle that no believer, not even a prophet, may declare a lawful thing forbidden to please others. The key phrase 'why do you prohibit what Allah has made lawful for you' makes this explicit, and the following verse specifies that such an oath-based prohibition requires expiation (kaffarah)."
     },
     {
       "id": "66_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shia classical exegetes, what was the Prophet's self-prohibition (tahrim) in verse 1?",
+      "verseNumber": 3,
+      "question": "When the Prophet addressed the wife who had revealed his secret and she asked who had informed him, what did he reply — and which divine names did his answer invoke?",
       "options": [
-        "A sin that required repentance",
-        "A strategic choice influenced by domestic considerations, not a sin",
-        "A commandment from Allah",
-        "A requirement of prophethood"
+        "A. 'Another wife told me' — invoking no divine name",
+        "B. 'The archangel Jibril told me in a vision' — invoking al-Amin",
+        "C. 'The All-Knowing, the Acquainted informed me' — invoking al-Alim and al-Khabir",
+        "D. 'Allah showed it to me in a dream' — invoking al-Sami and al-Basir"
       ],
-      "correctAnswer": "B",
-      "explanation": "Allama Tabatabai in Al-Mizan clarifies that the Prophet's self-prohibition was not an act of sin but a strategic choice influenced by domestic considerations, while affirming his infallibility (ismah)."
+      "correctAnswer": "C",
+      "explanation": "The verse records the Prophet's reply as 'the All-Knowing, the Acquainted informed me,' invoking al-Alim and al-Khabir. Imam Tabari in Jami al-Bayan explains that al-Alim refers to Allah's comprehensive knowledge of all things, while al-Khabir refers specifically to His deep knowledge of the internal and hidden dimensions of affairs."
     },
     {
       "id": "66_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "In Shia exegesis, who does 'salih al-mu'minin' (the righteous of the believers) in verse 4 specifically refer to?",
-      "options": [
-        "The general Muslim community",
-        "All the Prophet's companions",
-        "Imam Ali ibn Abi Talib (AS)",
-        "The angels"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The phrase 'righteous of the believers' (salih al-mu'minin) is unanimously interpreted by Shia scholars as referring explicitly to Imam Ali ibn Abi Talib (AS), underscoring his preeminent status as the Prophet's divinely appointed successor."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: After learning a wife had disclosed his secret, the Prophet revealed every detail of what he knew in order to fully address the wrong done.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir highlights that the Prophet 'made known part and passed over part' — deliberately choosing not to expose every detail. Ibn Kathir holds this up as a model of prophetic wisdom: the goal of correction is repair, not retaliation, and revealing only what is necessary to achieve that goal is an Islamic ethic of proportionality in addressing marital grievances."
     },
     {
       "id": "66_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "Contemporary scholars connect verse 3 about the disclosure of secrets to modern issues like data breaches and social media indiscretion.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Scholar Sayyid Ahmad Rezavi connects verse 3 to contemporary issues like data breaches and social media indiscretion, noting how violating confidences can fracture personal and societal bonds."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "What does Imam Tabari say about the phrase 'saghat qulubuakuma' (your hearts have inclined) in verse 4?",
+      "options": [
+        "A. It means the two wives had completely abandoned their faith",
+        "B. It refers to a physical illness that affected their hearts",
+        "C. It means a spiritual bending or leaning away from the straight path, not a complete departure from faith",
+        "D. It is a metaphor for their love for worldly life over the Prophet"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari in Jami al-Bayan explains that the root 's-gh-w' means a bending or leaning, indicating a spiritual deflection from the straight path rather than a complete departure from faith. He notes that classical scholars including Ibn Abbas understood this inclination as the two wives conspiring against the Prophet's domestic happiness."
     },
     {
       "id": "66_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 10,
-      "question": "According to contemporary Shia scholars, what does the story of Noah and Lot's wives in verse 10 teach about spiritual accountability?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What does the command 'protect yourselves and your families from the Fire' in verse 6 require of believers beyond their own individual piety?",
       "options": [
-        "Family connections guarantee salvation",
-        "Proximity to righteousness alone cannot save anyone - salvation depends on individual choices",
-        "Marriage to a prophet ensures entry to Paradise",
-        "Women have no spiritual accountability"
+        "A. Performing additional personal acts of worship on behalf of the family",
+        "B. Making financial provision so the family can attend Islamic school",
+        "C. Active, ongoing teaching, guidance, and moral correction of all those under one's guardianship",
+        "D. Ensuring family members memorise the Quran before any other obligation"
       ],
-      "correctAnswer": "B",
-      "explanation": "The verse illustrates that proximity to righteousness, even through marriage to prophets, does not guarantee salvation. Ayatollah Makarem Shirazi emphasizes that personal spiritual accountability cannot be avoided through family ties."
+      "correctAnswer": "C",
+      "explanation": "Imam Qurtubi in Al-Jami li-Ahkam al-Quran derived from this verse that a father who neglects his children's religious education is sinful, because he has abandoned his guardianship. Ibn Kathir connects the command to the principle of enjoining good and forbidding evil (amr bil-maruf wa nahy an al-munkar) operating at the family level, and he cites the hadith: 'Each of you is a shepherd and each of you is responsible for his flock.'"
     },
     {
       "id": "66_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to the Ahlul Bayt teachings, what does verse 4 establish about divine authority?",
-      "options": [
-        "Only angels support the Prophet",
-        "A cosmic hierarchy of Wilayah with Allah, Gabriel, the Imam, and angels",
-        "The Prophet needed no support",
-        "Human support is more important than divine support"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The verse illustrates the cosmic hierarchy of Wilayah - Allah, Gabriel, Imam Ali, and the angels form an unbroken chain of divine authority supporting the Prophet."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Sayyid Qutb argued in Fi Zilal al-Quran that verse 6 makes the home the first and most fundamental school of Islam, even before mosques, universities, or states.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that the family is the first and most fundamental school of Islam: before mosques, universities, and states, the home is where faith is transmitted or lost across generations. He sees the command to protect families from the Fire as entrusting parents with an immense prophetic-like responsibility."
     },
     {
       "id": "66_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Imam Ali (AS), 'The most exalted houses are the hearts of the believers, wherein Allah resides through love and recognition (ma'rifah).'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) states, 'The most exalted houses are the hearts of the believers, wherein Allah resides through love and recognition (ma'rifah)' (Bihar al-Anwar), connecting Asiya's prayer for a house in Paradise to spiritual meaning."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "How did the companion Umar ibn al-Khattab define 'tawbatan nasuha' (sincere repentance), as recorded by Ibn Kathir?",
+      "options": [
+        "A. To weep over past sins and fast for three days as a mark of remorse",
+        "B. To repent from a sin and never return to it, just as milk never returns to the udder",
+        "C. To confess the sin openly to the community and seek their pardon",
+        "D. To give charity equal in value to the benefit obtained from the sin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records the definition of Umar ibn al-Khattab: 'to repent from a sin, then never return to it, just as milk never returns to the udder.' Ibn Kathir adds that 'nasuha' derives from the same root as 'nasihah' (sincere advice), suggesting that true repentance is a form of sincere counsel one gives to one's own soul."
     },
     {
       "id": "66_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "What is a key difference between Shia and Sunni interpretations of the 'betrayal' (khiyana) of the prophets' wives in verse 10?",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "Wahbah al-Zuhayli noted that when Allah uses 'asa' (perhaps) before the promise of forgiveness in verse 8, it does not express doubt. What purpose does he say it serves?",
       "options": [
-        "Sunni scholars see it as physical betrayal, Shia as emotional",
-        "Shia scholars often expand it to include spiritual betrayal - failing to recognize the prophets' Wilayah",
-        "Sunni scholars interpret it symbolically, Shia literally",
-        "There is no difference in interpretation"
+        "A. It indicates that forgiveness is conditional on performing an additional specific act of worship",
+        "B. It encourages ongoing striving and prevents spiritual complacency, while carrying the weight of near-certainty",
+        "C. It signals that forgiveness is only available for minor sins, not major ones",
+        "D. It is a rhetorical device with no distinct theological meaning"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia commentaries, particularly Tafsir al-Qummi and Al-Mizan, frequently expand 'betrayal' to include spiritual betrayal - failure to recognize the prophets' divine station (wilayah) and uphold their teachings."
-    },
-    {
-      "id": "66_10",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "According to comparative tafsir, how do Sunni and Shia scholars differ in interpreting 'salih al-mu'minin' in verse 4?",
-      "options": [
-        "Sunnis interpret it as specific individuals, Shia as general believers",
-        "Sunnis often see it as a general reference to pious companions, while Shia specify it as Imam Ali",
-        "Both traditions agree it refers to Prophet Muhammad",
-        "Neither tradition has an interpretation for this phrase"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni exegetes like Qurtubi and Razi interpret 'the righteous of the believers' as a general reference to pious companions, while Shia sources, particularly Al-Qummi and Tusi, specify this phrase as denoting Imam Ali."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explains that when Allah uses 'asa,' it carries the weight of near-certainty — unlike a human who says 'perhaps' from genuine doubt, Allah uses it to encourage striving and prevent the believer from becoming complacent about repentance, not to cast doubt on His own will to forgive."
     }
   ]
 }

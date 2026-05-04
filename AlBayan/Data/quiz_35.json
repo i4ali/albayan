@@ -6,135 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the title 'Fatir' (Originator) signify about Allah's creative power?",
+      "question": "What does the opening divine title 'Fatir' mean, according to the understanding Ibn Abbas reached from observing everyday Arabic speech?",
       "options": [
-        "His ability to reshape existing matter",
-        "His unique power to bring the universe into existence from nothingness",
-        "His role as a designer of pre-existing materials",
-        "His partnership with angels in creation"
+        "A) The One who fashions creation according to a prior model",
+        "B) The Originator who initiated creation without any prior precedent",
+        "C) The One who distributes provision and mercy to all creatures",
+        "D) The Sustainer who maintains the existing order of the universe"
       ],
       "correctAnswer": "B",
-      "explanation": "The title Fatir (Originator) signifies Allah's unique power to bring the universe into existence from nothingness, distinct from human acts of shaping pre-existing matter."
+      "explanation": "Imam al-Tabari records in Jami al-Bayan that Ibn Abbas grasped the meaning of 'Fatir' when he heard an Arab disputant say 'ana fatartuha' — I was the first to dig this well. From this he understood that Allah is the One who originated creation from nothing, with no prior example or model to follow."
     },
     {
       "id": "35_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 1,
-      "question": "According to classical Shia commentators, the varying numbers of wings on angels (two, three, or four) are meant to be understood as literal bird-like appendages.",
+      "question": "True or false: Ibn Kathir explains that the Quran's mention of angels having wings in pairs of two, three, or four is an exhaustive limit on the number of wings any angel may possess.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Classical Shia commentators like Allamah Tabatabai explain that wings symbolize angels' capacity to swiftly execute Allah's commands across spiritual and physical realms, not literal bird-like appendages. The varying numbers reflect their diverse ranks and functions."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim clarifies that the numbers two, three, and four are examples, not limits. He cites the hadith in Sahih al-Bukhari in which the Prophet described seeing Jibril with six hundred wings filling the horizon. The verse's own closing phrase — 'He increases in creation what He wills' — confirms the list is illustrative, not exhaustive."
     },
     {
       "id": "35_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 28,
-      "question": "According to verse 35:28, who are the ones who truly fear Allah among His servants?",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "What does verse 2 establish about the mercy Allah opens for people, and what practical response does it call believers to adopt?",
       "options": [
-        "Those who perform the most rituals",
-        "Those who have knowledge (al-ulama)",
-        "Those who possess the most wealth",
-        "Those who live the longest lives"
+        "A) That mercy requires human intermediaries to be received, calling believers to seek those intermediaries",
+        "B) That no power can hold back what Allah opens or release what He withholds, calling believers to tawakkul — reliance on Allah alone",
+        "C) That mercy is equally distributed to all people, calling believers to stop asking for more than their share",
+        "D) That angels hold keys to mercy and must be petitioned through specific supplications"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse states 'Only those fear Allah, from among His servants, who have knowledge (al-ulama).' Tabatabai explains this refers not to superficial learning but to recognition of Allah's unity (tawhid) and the existential dependence of all creation upon Him."
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran identifies this verse as a definitive demolition of shirk through intermediaries: since only Allah holds the keys to every blessing, seeking fulfillment from false sources is theologically incoherent. The correct response is tawakkul — complete reliance on Allah alone."
     },
     {
       "id": "35_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Sheikh Tabrisi in Majma al-Bayan, what does the term 'Fatir' denote about Allah's creation?",
-      "options": [
-        "Creation through natural evolution",
-        "Origination ex nihilo (from nothing)",
-        "Creation through intermediary beings",
-        "Continuous reformation of existing matter"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sheikh Tabrisi in Majma al-Bayan emphasizes that the term 'Fatir' denotes origination ex nihilo, reflecting Allah's absolute sovereignty over the heavens and earth."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Ibn Uthaymeen taught that the pairing of Al-Aziz and Al-Hakim at the end of verse 2 means that divine decrees in both giving and withholding should be accepted with trust, because might without wisdom would be tyranny.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen emphasized that Al-Aziz (the Mighty) without Al-Hakim (the Wise) would be tyranny, and wisdom without power would be impotence. Because Allah possesses both perfectly, every divine decision — whether a mercy granted or withheld — is simultaneously all-powerful and perfectly wise, and deserves complete trust from the believer."
     },
     {
       "id": "35_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 28,
-      "question": "Contemporary Shia scholars connect the diversity of colors in creation (verse 35:28) to modern discussions about biodiversity and environmental stewardship.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Ayatollah Nasir Makarim Shirazi notes that the verse's reference to varied colors in creation underscores Allah's intentional design, inviting reflection on biodiversity as a sign of His creative power. Modern scientific insights into genetic variation resonate with this verse's emphasis on purposeful diversity."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "Which classical scholar explicitly connected the image of rain reviving dead land in verse 9 to a hadith about the physical reconstitution of human bodies on the Day of Resurrection?",
+      "options": [
+        "A) Imam al-Tabari, citing a report from Mujahid about the wind cycle",
+        "B) Imam al-Qurtubi, deriving a legal principle about divine provision",
+        "C) Ibn Kathir, citing a hadith in Sahih al-Bukhari about a bone at the base of the spine that survives death",
+        "D) Fakhr al-Din al-Razi, through a philosophical argument about causation and divine will"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim links verse 9 directly to a hadith in Sahih al-Bukhari in which the Prophet described how the human body will be reconstituted from a remaining bone at the base of the spine — just as rain reconstitutes dead earth into living vegetation — showing that the same divine power governs both processes."
     },
     {
       "id": "35_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 5,
-      "question": "According to contemporary scholars, what does the 'Deceiver' (al-gharur) in verse 35:5 represent in modern times?",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "Verse 10 teaches that all honor belongs to Allah and that the path to it runs through two paired elements. What are those two elements?",
       "options": [
-        "Only supernatural evil forces",
-        "Ancient idols and statues",
-        "Consumerism, digital distractions, and systemic exploitation",
-        "Natural disasters and calamities"
+        "A) Wealth and social status acquired through honest effort",
+        "B) Memorizing the Quran and performing the Hajj pilgrimage",
+        "C) Good speech ascending to Allah, elevated by righteous deeds",
+        "D) Tribal lineage and a reputation for generous hospitality"
       ],
       "correctAnswer": "C",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi emphasize that the Deceiver manifests today through consumerism, moral relativism, digital distractions, and systemic exploitation that divert humanity from divine truth."
+      "explanation": "Verse 10 identifies al-kalim al-tayyib — good speech such as dhikr, Quran recitation, and sincere supplication — as ascending to Allah, carried upward by righteous deeds. Imam al-Tabari records that Ibn Abbas understood the good words to be the remembrance of Allah, which must be paired with corresponding action to reach divine acceptance."
     },
     {
       "id": "35_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 28,
-      "question": "According to Imam Jafar al-Sadiq (AS), who are the 'knowledgeable' (ulama) referenced in verse 35:28?",
-      "options": [
-        "Those with university degrees",
-        "Those who acknowledge the Imam of their time",
-        "Those who memorize the most hadith",
-        "Those who fast the most days"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) explains: 'The knowledgeable are those who acknowledge the Imam of their time. For how can one fear Allah while ignorant of His Proof (Hujjah)?' (Bihar al-Anwar)"
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "True or false: Verse 11 states that every person's lifespan — whether extended or shortened — is recorded in a divine register, and closes by affirming that tracking all of this presents no difficulty for Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 11 explicitly states that every lifespan, whether prolonged or reduced, is written in a book — understood by classical scholars as the Preserved Tablet. The closing phrase 'that is easy for Allah' assures the believer that Allah's comprehensive administration of every human life, from conception to death, involves no strain or limitation whatsoever on His part."
     },
     {
       "id": "35_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to Imam Muhammad al-Baqir (AS), the 'mercy' that Allah releases in verse 35:2 refers to the Imam of the age.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Muhammad al-Baqir (AS) explains in Al-Kafi: 'The mercy Allah releases refers to the Imam of the age; whoever recognizes him receives boundless grace, and whoever rejects him is deprived.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "Which prophetic hadith, recorded in both Sahih al-Bukhari and Sahih Muslim, provides direct commentary on verse 18's principle that no one's merit can substitute for another's accountability?",
+      "options": [
+        "A) The Prophet's statement that a martyr's family members are automatically admitted to paradise through the martyr's intercession",
+        "B) The Prophet's telling his daughter Fatima, his aunt Safiyya, and his cousin Abbas that he could not avail them before Allah unless they worked righteous deeds themselves",
+        "C) The Prophet's affirmation that a parent's sincere prayers fully compensate for a child's neglect of religious duties",
+        "D) The Prophet's description of how a righteous person's accumulated reward is transferred to the most needy among their relatives"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites the hadith in both Sahih al-Bukhari and Sahih Muslim in which the Prophet told his own daughter Fatima, his aunt Safiyya, and his cousin Abbas that he could not avail them before Allah unless they themselves worked righteous deeds — serving as the most direct prophetic commentary on verse 18's declaration that no soul bears another's burden."
     },
     {
       "id": "35_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 28,
-      "question": "What is a key difference between Shia and Sunni interpretations of 'those with knowledge' in verse 35:28?",
+      "layer": 3,
+      "verseNumber": 19,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran describes the blind and the seeing in verse 19 as inhabiting two entirely different modes of human existence. What is the core distinction he draws?",
       "options": [
-        "Sunni scholars reject the concept entirely",
-        "Shia scholars deny the importance of knowledge",
-        "Sunni scholars emphasize acquired knowledge through Quranic study, while Shia sources prioritize divinely bestowed knowledge through the Imams",
-        "Both traditions interpret it identically"
+        "A) The believer is more educated while the disbeliever lacks access to religious instruction",
+        "B) The believer moves through creation reading divine signs and deepening certainty, while the disbeliever sees only material processes stripped of meaning and divine address",
+        "C) The believer performs more acts of ritual worship while the disbeliever neglects prayer and fasting",
+        "D) The believer has memorized scripture while the disbeliever relies on personal opinion"
       ],
-      "correctAnswer": "C",
-      "explanation": "Sunni commentators like Razi and Tabari emphasize knowledge acquired through Quranic study and rational inquiry, while Shia sources like Tabatabai and Qummi prioritize divinely bestowed knowledge, associating the verse with the infallible Imams who embody both exoteric and esoteric understanding."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that the believer with iman moves through the same universe as the disbeliever but continuously reads it as a book of divine signs, enriching certainty and gratitude with every observation, while the one without iman sees only material processes — two entirely different orientations of human existence toward the world."
     },
     {
       "id": "35_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "How do Sunni and Shia exegetes differ in interpreting the angels' wings mentioned in verse 35:1?",
+      "layer": 2,
+      "verseNumber": 28,
+      "question": "How did the Companion Ibn Masud interpret the meaning of 'knowledge' in verse 28's declaration that only those with knowledge truly fear Allah?",
       "options": [
-        "Sunni scholars reject the existence of angels",
-        "Shia scholars deny angels have any symbolic meaning",
-        "Sunni commentators focus on literal descriptions citing hadith, while Shia exegetes prioritize symbolic readings of spiritual faculties",
-        "Both traditions interpret the wings identically"
+        "A) Knowledge means mastery of Arabic grammar and the formal sciences of hadith transmission",
+        "B) Knowledge means the total volume of religious narrations and legal rulings a scholar has memorized",
+        "C) Knowledge is not merely the quantity of narrations one possesses but rather fear of Allah itself",
+        "D) Knowledge refers strictly to understanding the outward rulings of Islamic jurisprudence"
       ],
       "correctAnswer": "C",
-      "explanation": "Sunni commentators like Al-Qurtubi and Al-Razi focus on literal descriptions, citing hadith to assert physical attributes. In contrast, Shia exegetes like Al-Tabatabai prioritize symbolic readings, interpreting wings as metaphors for angels' spiritual faculties or their roles in conveying divine grace."
+      "explanation": "Ibn Kathir records that Ibn Masud said: 'Knowledge is not merely the quantity of narrations you possess; knowledge is fear of Allah.' This companion-interpretation reads verse 28's 'ulama' as those whose learning has produced genuine khashya (reverential awe), prioritizing the spiritual fruit of knowledge over its mere accumulation."
+    },
+    {
+      "id": "35_11",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 28,
+      "question": "True or false: Wahbah al-Zuhayli argued that verse 28's pairing of 'Exalted in Might' with 'Most Forgiving' as the closing divine names characterizes genuine Islamic scholarship as holding both realities simultaneously — awe before Allah's power and hope in His forgiveness.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explains that the names Al-Aziz and Al-Ghafur at the close of verse 28 are deliberately paired: the true scholar lives with both the awe warranted by Allah's absolute might and the hope warranted by His expansive forgiveness. This balanced dual awareness is what characterizes authentic Islamic scholarship rather than one-sided fear or complacency."
+    },
+    {
+      "id": "35_12",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 32,
+      "question": "Verse 32 divides the Muslim community — described as inheritors of the Quran — into three distinct categories. Which option correctly identifies all three?",
+      "options": [
+        "A) The scholars, the worshippers, and the ordinary laypeople",
+        "B) Those who wrong their own souls, the moderate, and those who race ahead in good deeds by Allah's permission",
+        "C) The sincere believers, the hypocrites, and those who follow Islam only outwardly",
+        "D) Those who memorize the Quran, those who teach it, and those who act upon it"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 32 names the zalim li nafsihi (one who wrongs his own soul by neglecting obligations or committing sins), the muqtasid (the moderate who fulfills basic obligations), and the sabiq bil khayrat (one who races ahead in good deeds by Allah's permission). Importantly, all three categories are described as chosen servants and heirs of the Quran, reflecting the breadth of divine mercy toward the entire believing community."
+    },
+    {
+      "id": "35_13",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 32,
+      "question": "True or false: Ibn Kathir held that the category of the zalim li nafsihi — the one who wrongs his own soul — in verse 32 refers to a hypocrite or disbeliever rather than a sinning Muslim who maintains tawhid.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim argues explicitly, drawing on multiple chains of narration, that the zalim li nafsihi is a believing Muslim who commits sins while maintaining tawhid — not a hypocrite or disbeliever. He and Imam al-Tabari both agree that all three categories refer to the ummah of Muhammad, with even the struggling sinner counted among the chosen heirs of the Quran."
+    },
+    {
+      "id": "35_14",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 34,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran reflects on the grammatical form of 'removed' in the paradise-dwellers' praise — 'Allah who has removed from us all grief.' What does he draw from this choice of words?",
+      "options": [
+        "A) That grief in paradise simply fades away gradually through the pleasures of the garden",
+        "B) That the removal of grief is attributed actively to Allah as an intentional personal act of care, like a host removing something unpleasant from an honored guest",
+        "C) That believers in paradise must ask repeatedly before grief is taken from them",
+        "D) That the phrase is purely metaphorical and should not be taken as describing a real emotional experience"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb and Fakhr al-Din al-Razi both note that the inhabitants of paradise say 'He removed from us the grief' rather than 'the grief left us' — actively attributing the removal to Allah as a deliberate act of divine care and honor. Al-Razi in Mafatih al-Ghayb describes it as Allah acting like a host who personally removes every discomfort from the presence of a cherished guest."
+    },
+    {
+      "id": "35_15",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 35,
+      "question": "Verse 35 describes paradise as granted 'min fadlihi' — out of Allah's bounty. What does this phrase teach about the theological basis on which paradise is received?",
+      "options": [
+        "A) Paradise is a precise wage calculated from the exact total of each person's righteous deeds",
+        "B) Paradise is granted through divine bounty and grace, not as a wage that deeds alone purchase",
+        "C) Paradise is inherited automatically by the family members of martyrs and prophets",
+        "D) Paradise is available only to those who have performed a minimum number of voluntary prayers beyond the obligatory ones"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran notes that the phrase 'min fadlihi' establishes paradise as ultimately a gift of divine bounty and mercy, a position affirmed across all four Sunni schools of law. Deeds serve as means of eligibility, but the infinite reward of paradise far exceeds anything human effort alone could earn — it flows from Allah's generosity, as the earlier verse confirms with Al-Ghafur (the Forgiving) and Al-Shakur (the Appreciative)."
     }
   ]
 }

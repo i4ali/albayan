@@ -5,266 +5,241 @@
       "id": "40_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What are the opening letters 'Ha Meem' at the beginning of Surah Ghafir called?",
+      "verseNumber": 3,
+      "question": "Surah Ghafir takes its name from its opening verse, which describes Allah with five attributes. Which pairing best captures the first two attributes named in verse 3?",
       "options": [
-        "Ayat al-Kursi",
-        "Huroof Muqatta'at (disjointed letters)",
-        "Bismillah",
-        "Tashahhud"
+        "A. The All-Hearing and the All-Seeing",
+        "B. The Forgiver of sin and the Acceptor of repentance",
+        "C. The All-Mighty and the All-Knowing",
+        "D. The Lord of the Throne and the Possessor of mercy"
       ],
       "correctAnswer": "B",
-      "explanation": "The letters 'Ha Meem' belong to the category of Huroof Muqatta'at - mysterious disjointed letters appearing at the start of 29 Quranic chapters."
+      "explanation": "Verse 3 opens with 'Ghafir al-Dhanb' (Forgiver of sin) and 'Qabil al-Tawb' (Acceptor of repentance), which give the surah its primary name. Together they assure the believer that both past sins and future return to Allah fall within the scope of divine mercy."
     },
     {
       "id": "40_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir, Surah Ghafir was revealed in Mecca during intense opposition to the Prophet's message.",
+      "verseNumber": 7,
+      "question": "True or false: According to verse 7, the angels who bear the Throne of Allah pray for the forgiveness of all human beings without any condition.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Historically, Surah Ghafir was revealed in Mecca during intense opposition to Prophet Muhammad's message."
+      "correctAnswer": "false",
+      "explanation": "The throne-bearing angels pray specifically for 'those who repent and follow Your way.' Their intercession is conditional on sincere repentance and adherence to the path of Allah, not extended indiscriminately to all people."
     },
     {
       "id": "40_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 3,
-      "question": "According to verse 3, what four divine attributes does Allah describe Himself with?",
+      "verseNumber": 28,
+      "question": "The believing man from Pharaoh's household had hidden his faith before stepping forward to defend Musa. What rhetorical strategy did he use when addressing the court?",
       "options": [
-        "Creator, Sustainer, Judge, King",
-        "Forgiver of sin, Acceptor of repentance, Severe in punishment, Owner of abundance",
-        "All-Seeing, All-Hearing, All-Knowing, All-Powerful",
-        "Merciful, Compassionate, Forgiving, Loving"
+        "A. He immediately declared his own faith to challenge Pharaoh head-on",
+        "B. He appealed only to religious scripture to establish Musa's innocence",
+        "C. He presented a logical dilemma: if Musa is lying the harm falls on him alone, but if he is truthful the court faces divine punishment",
+        "D. He threatened the court with imminent military retribution from Allah"
       ],
-      "correctAnswer": "B",
-      "explanation": "Verse 3 describes Allah as Ghafir al-dhanb (Forgiver of sin), Qabil al-tawb (Acceptor of Repentance), Shadid al-iqab (Severe in Punishment), and Dhi al-Tawl (Owner of Abundance)."
+      "correctAnswer": "C",
+      "explanation": "The believing man used a disjunctive logical argument that appealed to the court's own self-interest rather than making a direct religious claim. This calibrated approach, noted in the tafsir, avoided direct confrontation while forcing the audience to weigh the rational consequences of executing an innocent man."
     },
     {
       "id": "40_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 28,
-      "question": "Who is the courageous figure mentioned in verse 28 who defended Prophet Musa against Pharaoh?",
-      "options": [
-        "Prophet Ibrahim",
-        "An angel sent by Allah",
-        "A hidden believer from Pharaoh's family who concealed his faith",
-        "Prophet Harun"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The verse describes a mu'min (believer) from Pharaoh's family who concealed his faith (yaktumu imanahu) out of necessity, yet boldly defended Prophet Musa."
+      "verseNumber": 60,
+      "question": "True or false: In verse 60, Allah both commands believers to call upon Him with a promise of response, and identifies arrogance as the attitude that prevents people from making dua.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 60 declares 'Call upon Me, I shall respond to you,' then immediately warns that those too arrogant to worship Allah will enter Hell humiliated. Arrogance makes people feel self-sufficient, cutting them off from the most direct channel of connection with their Creator."
     },
     {
       "id": "40_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegesis, what do the letters 'Ha' and 'Meem' symbolize according to Tafsir al-Qummi?",
+      "layer": 1,
+      "verseNumber": 64,
+      "question": "Verse 64 enumerates four gifts Allah has bestowed on humanity. Which of the following is NOT among those four gifts listed in this verse?",
       "options": [
-        "Heaven and Earth",
-        "The eternal light of Prophet Muhammad and the luminous essence of Imam Ali",
-        "The beginning and end of time",
-        "Day and Night"
+        "A. Making the earth a stable place of settlement",
+        "B. Forming the sky as a protective canopy",
+        "C. Sending down rain in measured amounts",
+        "D. Providing good and wholesome provisions"
       ],
-      "correctAnswer": "B",
-      "explanation": "In Tafsir al-Qummi, 'Ha' symbolizes the eternal light of Prophet Muhammad (PBUH), while 'Meem' represents the luminous essence of Imam Ali (AS)."
+      "correctAnswer": "C",
+      "explanation": "Verse 64 lists four gifts: a stable earth, a sky as a canopy, the perfecting of human forms, and provision of good things. Rain is mentioned as a sign in other Quranic passages but is not among the four gifts enumerated in this particular verse."
     },
     {
       "id": "40_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "According to the Shia theological principle, Allah's mercy precedes His wrath, as stated in the Hadith Qudsi: 'My mercy overcomes My anger.'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "This duality reflects the Quranic principle that Allah's mercy precedes His wrath (Hadith Qudsi: 'My mercy overcomes My anger'), yet His punishment remains an inescapable reality for the arrogantly disobedient."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 61,
+      "question": "Verse 61 highlights two cosmic gifts and then makes an observation about most people. Which answer correctly captures both elements?",
+      "options": [
+        "A. The sun and moon; most people worship them instead of Allah",
+        "B. The night for rest and the illuminated day for sight; most people are not grateful",
+        "C. The mountains and seas; most people take them for granted without reflection",
+        "D. The stars and winds; most people use them for navigation but forget Allah"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 61 singles out the night as a gift for rest and the day — described as 'mubsiran' (illuminating, enabling sight) — as a gift for activity, then closes with the observation that most people do not give thanks. The verse invites believers to consciously recognize these ordinary yet profound daily gifts."
     },
     {
       "id": "40_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 28,
-      "question": "What is the name given to the believer from Pharaoh's household according to Tabrisi in Majma al-Bayan?",
+      "layer": 1,
+      "verseNumber": 67,
+      "question": "Verse 67 traces the human journey from dust through multiple embryonic stages to old age, ending with the phrase 'perhaps you will use reason.' What is the primary Quranic purpose of listing these stages?",
       "options": [
-        "Musa",
-        "Hizkil (Hazqil)",
-        "Haman",
-        "Qarun"
+        "A. To provide a medical curriculum for the early Muslim community",
+        "B. To invite reflection on one's own creation as evidence of Allah's power, particularly as an argument for the possibility of resurrection",
+        "C. To warn believers that physical weakness in old age should prompt increased worship",
+        "D. To compare the human lifespan favorably with that of previous longer-lived civilizations"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical Shia exegetes, such as Tabrisi in Majma al-Bayan, identify this figure as Hizkil (Hazqil), though alternative names are also suggested."
+      "explanation": "The passage from dust to old age is presented as a call to tafakkur (reflection). The closing phrase 'perhaps you will use reason' is a direct invitation to conclude that the Creator who orchestrates such intricate development is fully capable of bringing people back to life after death."
     },
     {
       "id": "40_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 44,
-      "question": "According to Tabatabai in Al-Mizan, what does the phrase 'I entrust my affair to Allah' (ufawwidhu amri ila Allah) reflect in Shia thought?",
+      "verseNumber": 3,
+      "question": "Ibn Kathir draws a careful distinction between the first two attributes in verse 3. What difference did he identify between 'Forgiver of sin' and 'Acceptor of repentance'?",
       "options": [
-        "Passive resignation to fate",
-        "The Shia ethos of surrendering all matters to divine authority, mirroring the doctrine of wilayah",
-        "A request for material wealth",
-        "An invocation for political power"
+        "A. Forgiving sin applies to major sins while accepting repentance applies to minor ones",
+        "B. Forgiving sin covers sins already committed, while accepting repentance keeps the door open for the servant to turn back from future wrongs",
+        "C. Forgiving sin refers to this world while accepting repentance refers to the Hereafter",
+        "D. The two phrases are synonymous and Ibn Kathir treated them as a single divine attribute"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai interprets this as the quintessential Shia ethos of surrendering all matters - particularly governance and judgment - to divine authority, a principle mirrored in the doctrine of wilayah (divine guardianship)."
+      "explanation": "Ibn Kathir explains that 'Ghafir al-Dhanb' covers the sins a servant has already accumulated, while 'Qabil al-Tawb' keeps the door of repentance perpetually open going forward. Together they provide comprehensive divine coverage of the human condition across past and future."
     },
     {
       "id": "40_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 4,
-      "question": "According to contemporary scholar Dr. Mohammad Ali Shomali, the 'dispute over Allah's signs' in verse 4 can be linked to today's intellectual clashes between secular materialism and faith-based worldviews.",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "True or false: Imam al-Tabari records that the throne-bearing angels are currently four in number and will become eight on the Day of Judgment, a detail confirmed by another Quranic surah.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Modern scholars like Dr. Mohammad Ali Shomali link the 'dispute over Allah's signs' to today's intellectual clashes between secular materialism and faith-based worldviews."
+      "explanation": "Al-Tabari compiles narrations that the throne-bearing angels are currently four. Ibn Kathir confirms this and notes they will be eight on the Day of Judgment, citing Surah al-Haqqa (69:17), which describes eight angels bearing the Throne on that day."
     },
     {
       "id": "40_10",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "How do contemporary Shia thinkers like Ayatollah Jawadi Amoli describe the letters 'Ha Meem'?",
+      "layer": 2,
+      "verseNumber": 60,
+      "question": "Ibn Kathir cites a prophetic hadith to establish the fundamental nature of dua. What did that hadith, graded Hasan Sahih by Tirmidhi and used as the exegetical basis for verse 60, declare?",
       "options": [
-        "Simple alphabetical letters",
-        "Divine 'cosmic codes' inviting reflection on harmony between Quranic wisdom and the universe's mysteries",
-        "Abbreviations for surah names",
-        "Historical references to ancient tribes"
+        "A. 'Dua is the weapon of the believer and the pillar of religion'",
+        "B. 'Al-du'a huwa al-ibada' — Supplication is worship",
+        "C. 'The best supplication is praise of Allah before making any request'",
+        "D. 'Dua at the time of hardship is answered before dua in ease'"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary Shia thinkers like Ayatollah Jawadi Amoli emphasize these letters as divine 'cosmic codes,' inviting reflection on the harmony between Quranic wisdom and the universe's mysteries."
+      "explanation": "Ibn Kathir records the hadith of al-Nu'man ibn Bashir, reported in the Sunan of Abu Dawud, Tirmidhi, Nasa'i, and Ibn Majah: 'Al-du'a huwa al-ibada' (Supplication is worship), with the Prophet then reciting verse 60 as its Quranic evidence. Tirmidhi graded it Hasan Sahih."
     },
     {
       "id": "40_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 28,
-      "question": "According to contemporary interpretations, what modern figures does the believer from Pharaoh's family parallel?",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "Classical scholars used a specific Quranic term to describe Pharaoh's claim in verse 29 that 'I show you only what I see and I guide you only to the right path.' Which term did they apply?",
       "options": [
-        "Political leaders",
-        "Whistleblowers who risk their safety to expose injustice",
-        "Military generals",
-        "Wealthy businessmen"
+        "A. Istidrij — the gradual drawing of the heedless toward destruction through apparent blessings",
+        "B. Taghut — a power that substitutes itself for Allah's authority and presents its own will as divine guidance",
+        "C. Nifaq — hypocrisy concealed beneath a religious surface",
+        "D. Istihzaa — mockery of divine revelation"
       ],
       "correctAnswer": "B",
-      "explanation": "Scholars like Dr. Liyakat Takim note parallels between this narrative and modern whistleblowers who risk their safety to expose injustice."
+      "explanation": "Classical scholars identified Pharaoh's claim to be the sole guide of his people as an example of taghut: a worldly power that positions itself as the ultimate arbiter of truth and demands the totalizing loyalty Islam reserves for Allah alone. Ibn Kathir described this statement as 'among the most audacious falsehoods recorded in the Quran.'"
     },
     {
       "id": "40_12",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 44,
-      "question": "According to neuroscientific research cited by contemporary scholars, trusting a higher power correlates with reduced anxiety in adversity.",
+      "layer": 2,
+      "verseNumber": 57,
+      "question": "True or false: Verse 57 argues that the creation of the heavens and earth is greater than the creation of human beings, and therefore those who accept creation but doubt resurrection are reasoning inconsistently.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Neuroscientific research on resilience, such as studies by Dr. Lisa Miller on spirituality and mental health, shows that trusting a higher power correlates with reduced anxiety in adversity."
+      "explanation": "Verse 57 states directly that the creation of the heavens and earth is greater than the creation of people. Ibn Kathir uses this logic to argue that doubting resurrection while accepting original creation is inconsistent: the Creator who constructed a cosmos can certainly restore individual human beings after death."
     },
     {
       "id": "40_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (AS), what are the letters 'Ha Meem' described as?",
+      "layer": 3,
+      "verseNumber": 28,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran described the believing man from Pharaoh's household as representing a recurring universal type. How did Qutb characterize him?",
       "options": [
-        "Simple recitation letters",
-        "Keys to the unseen and portals to divine secrets tied to Wilayah",
-        "Names of angels",
-        "References to prophets"
+        "A. A spy placed by Allah inside oppressive regimes to gather information for the believers",
+        "B. A conscience that Allah places within every oppressive system, one that cannot be entirely suppressed by surrounding corruption",
+        "C. A scholar whose concealment of faith was only justified because he belonged to Pharaoh's family",
+        "D. A cautionary example of someone who waited too long before standing for the truth"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) taught that these letters are 'keys to the unseen' and portals to divine secrets tied to the reality of Wilayah (divine guardianship)."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that this believer represents the insider who ultimately refuses to be complicit in grave injustice — a conscience Allah places in every corrupt system. His emergence at the critical moment is, for Qutb, the natural result of genuine faith finally compelling outward action."
     },
     {
       "id": "40_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, how does Allah's name 'Ghafir al-Dhanb' (Forgiver of Sin) manifest?",
-      "options": [
-        "Through punishment of sinners",
-        "Through His infinite mercy which 'covers sins like the night covers the day'",
-        "Through natural disasters",
-        "Through human judgment"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) taught that Allah's name 'Ghafir al-Dhanb' manifests through His infinite mercy, which 'covers sins like the night covers the day' (Nahj al-Balagha, Sermon 82)."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 56,
+      "question": "True or false: Wahbah al-Zuhayli observed in Al-Tafsir al-Munir that verse 56's description of arrogant disputation without evidence anticipates what modern social science calls motivated reasoning.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli notes that verse 56's portrait of ego-driven argumentation with no legitimate proof (sultan) anticipates the contemporary behavioral science concept of motivated reasoning: marshaling arguments not to find truth but to defend a pre-existing emotional commitment to one's own superiority."
     },
     {
       "id": "40_15",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 28,
-      "question": "According to Imam Sadiq (AS), 'signs of Allah' (ayatullah) encompass both Quranic revelations and the Imams as living embodiments of divine guidance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Sixth Imam explains that 'signs of Allah' encompass both the Quranic revelations and the living embodiments of divine guidance - the Imams from the Prophet's progeny. He taught: 'We are the Walking Qurans, the Speaking Signs.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 60,
+      "question": "Wahbah al-Zuhayli identifies the same spiritual disease connecting verse 56 and verse 60 into a single thematic frame. What is that shared disease?",
+      "options": [
+        "A. Disbelief in the Day of Judgment, which produces both argumentation and abandonment of prayer",
+        "B. Arrogance, which drives people to dispute Allah's signs in verse 56 and to abandon calling upon Him in verse 60",
+        "C. Love of wealth, which makes people value worldly gain over sincere worship",
+        "D. Heedlessness, which gradually dulls awareness of Allah's presence in daily life"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir traces arrogance as the shared root: kibr causes disputation of clear divine signs without proof (verse 56) and causes people to feel too self-sufficient to bow before Allah in supplication (verse 60). Both forms of kibr lead to the same spiritual destruction."
     },
     {
       "id": "40_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 44,
-      "question": "According to Imam Sadiq (AS) in Al-Kafi, what happens when a believer sincerely entrusts their matters to Allah?",
+      "layer": 3,
+      "verseNumber": 64,
+      "question": "Sayyid Qutb used the phrase 'ahsana suwarakum' (He perfected your forms) in verse 64 to make a specific point about human design. What did he argue?",
       "options": [
-        "Nothing changes",
-        "They receive immediate wealth",
-        "Allah opens paths they could never imagine",
-        "They become invisible to enemies"
+        "A. The human form is proof that Darwinian evolution cannot be correct without divine guidance",
+        "B. The phrase refers exclusively to the spiritual beauty of the soul rather than the physical body",
+        "C. The human body is a masterwork of biological engineering whose integrated systems of sight, hearing, and cognition no human technology has yet replicated",
+        "D. Human beauty varies, so the verse means Allah perfects each person's form relative to their own individual potential"
       ],
       "correctAnswer": "C",
-      "explanation": "Imam Sadiq (AS) explained: 'When a believer sincerely entrusts their matters to Allah, He opens paths they could never imagine' (Al-Kafi)."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes with characteristic passion about this phrase, urging readers to look at their own hand and contemplate the precision required to design it. He argues that the human body's integrated systems of sight, hearing, cognition, and motor function constitute a masterwork that no human engineering has yet matched."
     },
     {
       "id": "40_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "How do Shia and Sunni scholars differ in their interpretation of the 'Ha Meem' letters?",
-      "options": [
-        "Sunni scholars believe they have clear meanings while Shia reject them",
-        "Sunni exegetes often view them as rhetorical devices or divine secrets, while Shia link them to esoteric knowledge accessible through Ahl al-Bayt",
-        "Both interpret them exactly the same way",
-        "Neither tradition discusses these letters"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni commentators generally restrict interpretation to rhetorical devices or divine secrets, while Shia exegetes often link 'Ha Mim' to esoteric knowledge accessible through the Ahl al-Bayt."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 55,
+      "question": "True or false: Sayyid Qutb argued in Fi Zilal al-Quran that the four commands in verse 55 are pedagogically ordered, with patience coming first because it is the foundation upon which the other three depend.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Fi Zilal al-Quran, Qutb emphasizes that the sequence in verse 55 is deliberate: patience is the foundation, trust in Allah's certain promise provides the rationale for enduring, seeking forgiveness brings ongoing spiritual renewal, and morning and evening glorification sustains the connection with Allah that makes all of this possible."
     },
     {
       "id": "40_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 3,
-      "question": "Both Shia and Sunni traditions agree that Allah's mercy is inseparable from justice, offering believers both solace and moral accountability.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions unite in affirming the verse's core message: divine mercy is inseparable from justice, offering believers both solace and moral accountability."
-    },
-    {
-      "id": "40_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 28,
-      "question": "What principle do both Shia and Sunni scholars praise regarding the believer from Pharaoh's household?",
+      "layer": 3,
+      "verseNumber": 68,
+      "question": "Sheikh Ibn Uthaymeen, teaching on tawhid al-rububiyyah in the context of verse 68, argued that a specific logical conclusion must follow from acknowledging Allah's exclusive control over life and death. What was that conclusion?",
       "options": [
-        "His wealth and status",
-        "His moral courage and defense of truth through rational argumentation",
-        "His political connections",
-        "His military strength"
+        "A. Muslims should avoid medical treatment and trust Allah alone for healing",
+        "B. Acknowledging that Allah alone gives life and causes death should logically lead a person to direct all worship to Him alone",
+        "C. Belief in resurrection is sufficient for salvation even without consistent daily worship",
+        "D. Fear of death is prohibited for the believer because life and death are entirely in Allah's hands"
       ],
       "correctAnswer": "B",
-      "explanation": "Both traditions unanimously praise the unnamed believer as a model of moral courage, highlighting his defense of Prophet Musa against tyranny through rational argumentation."
-    },
-    {
-      "id": "40_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 44,
-      "question": "Shia interpretations of verse 44 often read it through the lens of Imam Ali's trials or the suffering of the Ahl al-Bayt, while Sunni readings focus more on individual piety within communal consensus.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Shia commentaries often read the verse through the lens of Imam Ali's trials or the suffering of the Ahl al-Bayt, while Sunni interpretations prioritize individual piety within communal consensus."
+      "explanation": "Ibn Uthaymeen taught that the Meccan polytheists verbally acknowledged divine sovereignty yet refused the logical conclusion it demands. Genuinely internalizing that Allah alone holds life and death must lead the rational person to worship Him alone — the very move the idolaters refused to make despite their own implicit concession."
     }
   ]
 }

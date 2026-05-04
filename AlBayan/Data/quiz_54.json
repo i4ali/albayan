@@ -6,130 +6,195 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what event does 'inshaqqa al-qamar' (splitting of the moon) refer to in verse 1?",
+      "question": "What two momentous realities does the opening verse of Surah Al-Qamar announce simultaneously?",
       "options": [
-        "A metaphor for the end of time",
-        "A miraculous sign granted to Prophet Muhammad when Meccans demanded proof of his prophethood",
-        "A lunar eclipse witnessed by the Arabs",
-        "A natural geological phenomenon on the moon"
+        "A) The sending of the Prophet and the revelation of the Quran",
+        "B) The nearness of the Day of Judgment and the splitting of the moon",
+        "C) The destruction of the Quraysh and the victory of the believers",
+        "D) The creation of the heavens and the earth"
       ],
       "correctAnswer": "B",
-      "explanation": "The splitting of the moon refers to a miraculous sign granted to Prophet Muhammad (PBUH) when Meccan disbelievers demanded proof of his prophethood. Historical narrations describe how the Prophet raised his hand, causing the moon to split into two distinct halves before reuniting."
+      "explanation": "Verse 1 declares both 'iqtarabat al-saah' (the Hour has drawn near) and 'inshaqqa al-qamar' (the moon has been split). The splitting was a physical miracle witnessed by the Quraysh, confirmed by narrations from Ibn Masud and Anas ibn Malik recorded in Sahih Bukhari and Sahih Muslim."
     },
     {
       "id": "54_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 1,
-      "question": "The term 'sa'a' (the Hour) in verse 1 serves as a timeless reminder of life's fleeting nature rather than a fixed timeline.",
+      "question": "True or false: Ibn Kathir considered the hadith reports on the splitting of the moon to be mutawatir, meaning they were transmitted through so many independent chains that their collective fabrication is inconceivable.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The term 'sa'a' (the Hour) underscores the inevitability of the Day of Judgment, with its 'nearness' serving as a timeless reminder of life's fleeting nature rather than a fixed timeline."
+      "explanation": "Ibn Kathir states in Tafsir al-Quran al-Azim that both he and Imam al-Tahawi regarded these reports as mutawatir. The narrations come from Ibn Abbas, Abdullah ibn Masud, and Anas ibn Malik, among others. Tabari further notes that the perfect-tense verb 'inshaqqa' removes any ambiguity that the event was still in the future."
     },
     {
       "id": "54_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, what theological frameworks does he use to situate the moon-splitting verse?",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "When the Quraysh witnessed the splitting of the moon, what was their response according to verse 2?",
       "options": [
-        "Tawhid and Risalah only",
-        "Nubuwwah (prophethood) and Imamah (divine leadership)",
-        "Adl and Ma'ad exclusively",
-        "Fiqh and Akhlaq"
+        "A) They immediately accepted Islam and believed in the Prophet",
+        "B) They turned away and dismissed it as persistent magic",
+        "C) They sent a delegation to the Prophet to negotiate",
+        "D) They demanded a second miracle before they would believe"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai in Al-Mizan situates the verse within the framework of nubuwwah (prophethood) and imamah (divine leadership), highlighting that such miracles manifest through the wilayah (guardianship) bestowed upon Allah's chosen servants."
+      "explanation": "Verse 2 records that when they see a sign they turn away and say 'sihr mustamirr' — persistent or passing magic. Imam al-Qurtubi notes that the Quraysh even sent delegations to distant caravans to verify whether others had seen the moon split, and when confirmed, still refused to believe — demonstrating willful rejection rather than honest doubt."
     },
     {
       "id": "54_4",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Shia commentary, the Quran's accessibility is inseparable from the hermeneutic authority of the Ahl al-Bayt.",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: According to Surah Al-Qamar verse 3, the Quraysh denied the Prophet's message primarily because they lacked sufficient evidence.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Shia tradition links the Quran's 'ease' to the doctrine of Imamah, as the Ahlul Bayt are regarded as living miracles and enduring signs of divine guidance. Their rejection, like the rejection of prophetic miracles, exposes a spiritual blindness."
+      "correctAnswer": "false",
+      "explanation": "Verse 3 identifies the root cause as 'ittaba'u ahwaahum' — following their own desires. Ibn Kathir establishes a direct causal link between the enslavement to desire and the denial of the Prophet. Their rejection was not intellectual doubt but a refusal to abandon worldly power, social hierarchy, and inherited customs — a choice of desire over truth."
     },
     {
       "id": "54_5",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 17,
-      "question": "According to contemporary scholar Ayatollah Jawadi Amoli, how should we understand the 'nearness' of the Hour mentioned in Surah Al-Qamar?",
+      "verseNumber": 5,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran notes that 'balighat al-hikmah' in verse 5 is a nominal sentence. What significance does he draw from this grammatical choice?",
       "options": [
-        "As a precise prediction of the end of the world",
-        "As a timeless call to moral awakening, not merely a linear prophecy",
-        "As a reference only to past events",
-        "As applicable only to the time of the Prophet"
+        "A) It shows the wisdom was temporary and has since been superseded by later revelation",
+        "B) It lends the quality of a permanent, established truth — wisdom that enduringly is in its fully perfected form",
+        "C) It indicates the wisdom was restricted to the Prophet's companions only",
+        "D) It implies the wisdom requires a specialist to unlock its meaning"
       ],
       "correctAnswer": "B",
-      "explanation": "Ayatollah Jawadi Amoli emphasizes the verse's eschatological urgency, framing the 'nearness' of the Hour not merely as a linear prophecy but as a timeless call to moral awakening."
+      "explanation": "Sayyid Qutb observes in Fi Zilal al-Quran that the nominal sentence form grants 'balighat al-hikmah' the quality of a permanent, established truth — not wisdom that merely arrived at a moment, but wisdom that permanently is. Wahbah al-Zuhayli adds that because this perfected wisdom already exists, the caller to Islam need not add to it or apologize for it, only present it with clarity."
     },
     {
       "id": "54_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 32,
-      "question": "What does contemporary Shia scholarship emphasize about digital access to the Quran in relation to verse 32 ('We have made the Quran easy for remembrance')?",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "Ibn Kathir and Imam al-Tabari both comment on the phrase 'sailing under Our eyes' in verse 14. What does this phrase express about Allah's care for Nuh's ark?",
       "options": [
-        "Digital tools are prohibited for Quranic study",
-        "Digital tools democratize access, but the real test lies in cultivating intentional engagement",
-        "Digital tools replace the need for traditional scholarship",
-        "Digital tools are irrelevant to understanding the Quran"
+        "A) It proves Allah has physical eyes identical in structure to human eyes",
+        "B) It is a purely poetic metaphor with no theological content",
+        "C) It expresses complete divine supervision and active protective care over the ark's journey",
+        "D) It refers to the eyes of the angels guarding the ark rather than Allah directly"
       ],
-      "correctAnswer": "B",
-      "explanation": "Scholars note how digital tools from Quran apps to online lectures democratize access, yet the real test lies in cultivating intentional engagement amid today's distractions of consumerism and information overload."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari explains that 'bi-a'yunina' means 'under the observation of' and conveys complete divine supervision. Fakhr al-Din al-Razi in Mafatih al-Ghayb uses this verse to elaborate on the divine attribute al-Basir, arguing Allah's sight is actively protective. Ibn Kathir notes that the Sunni creedal position affirms divine attributes as real without comparing them to created attributes."
     },
     {
       "id": "54_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, what does the 'moon' represent spiritually in the context of verse 1?",
-      "options": [
-        "The physical celestial body only",
-        "The luminous guidance of the Prophet and his purified progeny",
-        "A symbol of the passage of time",
-        "The phases of human life"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) states that the 'moon' represents the luminous guidance of the Prophet and his purified progeny, whose light is fragmented only by those who reject their authority."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "True or false: The refrain 'We have made the Quran easy for remembrance, so is there any who will be mindful?' appears exactly four times in Surah Al-Qamar.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The refrain 'wa laqad yassarna al-Quran lil-dhikr, fa-hal min muddakir' occurs in verses 17, 22, 32, and 40. Ibn Uthaymeen noted that this fourfold repetition is itself a sign — Allah insistently calls humanity to reflection, revealing both divine mercy in the repeated invitation and the human tendency toward heedlessness that makes the repeated call necessary."
     },
     {
       "id": "54_8",
-      "type": "trueFalse",
-      "layer": 4,
+      "type": "multipleChoice",
+      "layer": 2,
       "verseNumber": 17,
-      "question": "According to Imam Jafar al-Sadiq (AS), the Quran's treasures are unveiled only to those who hold the rope of the Ahlul Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq (AS) states: 'The Quran is a spring that never dries. Whoever seeks guidance through it will be guided, but its treasures are unveiled only by the one who holds the rope of the Ahlul Bayt.'"
+      "question": "Imam al-Tabari records two primary meanings for 'lil-dhikr' in the Quran-ease refrain. Which pair correctly represents both scholarly interpretations?",
+      "options": [
+        "A) Easy to translate and easy to debate",
+        "B) Easy to memorize and retain in the heart, and easy to understand its meanings and derive lessons",
+        "C) Easy for scholars and easy for children independently",
+        "D) Easy in Arabic and easy in every human language"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tabari records that Mujahid and Qatadah — two of the most authoritative Tabi'in commentators — understood 'lil-dhikr' as ease of memorization, while another interpretation holds it means ease of understanding and lesson-extraction. Tabari considers both valid and complementary. Ibn Kathir adds that the Quran's seven ahruf (modes of recitation) further contributed to its accessibility."
     },
     {
       "id": "54_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations of the moon-splitting verse according to comparative analysis?",
+      "layer": 1,
+      "verseNumber": 19,
+      "question": "The punishment sent upon the people of Ad in verse 19 is called 'a howling wind on a day of unrelenting misfortune.' How long did this wind last according to classical tafsir drawing on Surah al-Haqqah?",
       "options": [
-        "Sunni scholars deny the miracle occurred",
-        "Shia scholars reject the literal interpretation",
-        "Shia scholars extend interpretation to eschatological and ontological dimensions linked to Imamology, while Sunni scholars focus primarily on proof of prophethood",
-        "There are no differences between the two traditions"
+        "A) A single morning ending at noon",
+        "B) Three days and three nights",
+        "C) Seven nights and eight days continuously",
+        "D) Forty days corresponding to their years of denial"
       ],
       "correctAnswer": "C",
-      "explanation": "Sunni commentators primarily frame the miracle as proof of prophethood (nubuwwa), while Shia scholars often extend the interpretation to eschatological and ontological dimensions. Tabatabai links the 'nearing Hour' to the cosmic role of the Ahl al-Bayt."
+      "explanation": "Imam al-Tabari records a narration from Abdullah ibn Umar in Sahih al-Bukhari, and Surah al-Haqqah (69:7) specifies seven nights and eight days. Tabari explains 'sarsar' as combining extreme cold and violent sound. Wahbah al-Zuhayli notes the wind bore characteristics supernaturally amplified beyond ordinary meteorological events, consistent with its divine origin."
     },
     {
       "id": "54_10",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 17,
-      "question": "Both Shia and Sunni traditions share a unified view that the Quran is an inexhaustible source of guidance, despite having different approaches to interpretive authority.",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "True or false: Sayyid Qutb in Fi Zilal al-Quran treats the story of the people of Ad as relevant only to ancient Arabian history, with no application to powerful modern civilizations.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb draws an explicit parallel between the people of Ad and modern nations that have accumulated immense technological and material power while abandoning the worship of Allah. He argues the Ad narrative is a template for any civilization — ancient or modern — that mistakes power for permanence. Wahbah al-Zuhayli similarly states no civilization, regardless of its achievements, is exempt from divine accountability."
+    },
+    {
+      "id": "54_11",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "What dual purpose did the she-camel of Thamud serve according to Ibn Kathir and Tabari's commentary on verse 27?",
+      "options": [
+        "A) She was a gift from a neighboring tribe and a source of food for the poor",
+        "B) She was a miracle confirming Salih's prophethood and simultaneously a divine trial revealing Thamud's true character",
+        "C) She was a warning sent only after Thamud had already committed their major sin",
+        "D) She was an ordinary camel elevated to miraculous status by Salih's prayer"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir and Tabari describe the she-camel as miraculously emerging from rock — both a sign proving Salih's prophethood and a 'fitnah' (trial), the word used in verse 27 itself. The water-sharing arrangement Allah prescribed was a test of genuine submission, and her slaughter became the full crystallization of Thamud's rejection of divine authority."
+    },
+    {
+      "id": "54_12",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 37,
+      "question": "True or false: When the people of Lot besieged his house demanding his guests, Allah obliterated their eyesight as an immediate punishment and a foretaste of the total destruction that arrived at dawn the next morning.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions share a unifying vision of the Quran as an inexhaustible source of guidance, inviting continual engagement across generations. Differences emerge in theological emphases regarding the role of the Imams versus individual scholarly engagement."
+      "explanation": "Verse 37 uses 'tamasna a'yunahum' — We effaced their eyes completely. Ibn Kathir records that the angel Jibril struck the crowd causing total blindness. Al-Qurtubi notes this was simultaneously punishment and a final warning before the morning destruction described in verse 38 as 'adhabun mustaqqir' — a permanent, settled punishment from which there was no escape."
+    },
+    {
+      "id": "54_13",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 45,
+      "question": "What makes the prophecy in verse 45 — 'Soon their assembly will be defeated and will turn their backs in flight' — a distinctive proof of the Quran's divine origin?",
+      "options": [
+        "A) It was revealed in Medina after Badr, confirming what had already occurred",
+        "B) It was revealed in Mecca when Muslims were few and persecuted, foretelling a specific military victory that seemed impossible by any human calculation",
+        "C) It refers to a defeat of the Persians rather than the Quraysh",
+        "D) It was a conditional prophecy that depended on the Muslims reaching a minimum number of fighters"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir lists verse 45 among the Quran's fulfilled prophecies. Ibn Kathir records from Sahih Bukhari that Umar ibn al-Khattab said he puzzled over which assembly was meant when this Meccan verse was revealed — understanding came at Badr when the Prophet recited it as the numerically superior Quraysh were routed. Such precise advance prediction could only come from divine knowledge."
+    },
+    {
+      "id": "54_14",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 54,
+      "question": "Verse 54 promises gardens and rivers to the mutaqin. According to the tafsir, what makes 'jannatin wa nahr' — 'gardens and rivers' — linguistically significant in Arabic?",
+      "options": [
+        "A) The definite article is used, referring to specific named gardens already known to the Arabs",
+        "B) Both words are in the indefinite form, which classical scholars understand as magnification — gardens and rivers beyond anything that can be specifically named or imagined",
+        "C) The plural form indicates exactly seven gardens corresponding to the seven heavens",
+        "D) The singular 'nahr' (river) indicates a single large river shared by all believers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir notes that 'jannatin wa nahr' uses the indefinite form, which classical scholars including al-Zamakhshari identify as expressing magnification — gardens and rivers beyond specific naming or imagining. Imam al-Tabari emphasizes that the verse opens with 'inna' (verily), making this a solemn divine promise. Al-Qurtubi notes that pairing this paradise description with the surah's preceding warnings follows the Quran's consistent method of balancing threat with glad tidings."
+    },
+    {
+      "id": "54_15",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 55,
+      "question": "True or false: The closing verse of Surah Al-Qamar describes the mutaqin seated 'near a Sovereign, Perfect in Ability,' and contemporary Sunni scholars identify proximity to Allah as the supreme blessing of Paradise — surpassing even its material pleasures.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 55 concludes the surah with 'fi maq'adi sidqin, inda malikin muqtadir' — in a seat of honor, near a Sovereign Perfect in Ability. The layer 3 tafsir draws on Ibn Uthaymeen and Sayyid Qutb, both of whom identify divine proximity as the ultimate reward, with the gardens and rivers of verse 54 forming the setting for this supreme spiritual closeness. Ibn Uthaymeen taught that this verse should be a source of profound optimism through every worldly trial."
     }
   ]
 }

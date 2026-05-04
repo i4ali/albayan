@@ -5,136 +5,121 @@
       "id": "49_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What does the phrase 'la tuqaddimoo bayna yaday Allah wa rasoolihi' (do not put yourselves before Allah and His Messenger) warn against?",
+      "verseNumber": 2,
+      "question": "Why does verse 2 warn that raising one's voice above the Prophet's voice might nullify one's deeds?",
       "options": [
-        "Speaking quietly in the Prophet's presence",
-        "Acting independently of divine guidance or the Prophet's authority",
-        "Traveling without permission",
-        "Eating before prayers"
+        "A. Because loud speech is a form of verbal abuse in Arabic culture",
+        "B. Because spiritual harm can occur without the believer even realizing it, as the phrase 'while you perceive not' indicates",
+        "C. Because the Prophet was elderly and loud voices caused him physical pain",
+        "D. Because raised voices invalidate ritual acts performed that day"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse warns against acting independently of divine guidance or the Prophet's authority - whether through hasty decisions, personal opinions overriding revelation, or speaking over him."
+      "explanation": "Fakhr al-Din al-Razi explains that the phrase 'while you perceive not' refers to the most dangerous category of spiritual loss, where a person's deeds are being undermined by sin or disrespect and they remain completely unaware of the damage being done to their standing before Allah."
     },
     {
       "id": "49_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 2,
-      "question": "According to verse 49:2, raising one's voice above the Prophet's could cause one's deeds to become void (tahbata).",
+      "question": "True or false: Al-Tabari and Ibn Kathir both record that verse 2 was revealed after Abu Bakr and Umar raised their voices in the Prophet's presence during a dispute over who should lead the Bani Tamim delegation.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The verse explicitly warns that deeds could 'tahbata' (become void), underscoring the spiritual gravity of disrespecting the Prophet through improper conduct."
+      "explanation": "Al-Tabari records that al-Bukhari authenticated the narration of Ibn Abi Mulaykah confirming this occasion of revelation. Ibn Kathir adds that after the verse was revealed, Umar spoke so quietly before the Prophet that he sometimes had to ask Umar to repeat himself."
     },
     {
       "id": "49_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Tafsir al-Mizan, what Shia theological principle does verse 49:1 align with?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What event prompted the revelation of verse 6, which commands believers to verify news brought by an unreliable person before acting?",
       "options": [
-        "Adl (Justice)",
-        "Ismah (Infallibility) - the Prophet and Ahlul Bayt possess safeguarded knowledge",
-        "Qiyamah (Resurrection)",
-        "Tawhid (Monotheism)"
+        "A. A group of hypocrites in Medina spread false reports about the Prophet's family",
+        "B. Walid ibn Uqba falsely reported to the Prophet that the Banu al-Mustaliq tribe had refused to pay zakat and intended violence",
+        "C. A merchant from Mecca brought false trade news to deceive the believers",
+        "D. Two tribes in Medina sent conflicting reports about a boundary dispute"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that this verse aligns with the Shia theological principle of ismah (infallibility), affirming that the Prophet and the Ahlul Bayt alone possess safeguarded knowledge to interpret and implement divine law without error."
+      "explanation": "The tafsir records that the Prophet sent Walid ibn Uqba to collect zakat from the Banu al-Mustaliq. He turned back without reaching them and falsely reported their hostility. The tribe's chief Harith ibn Dirar then arrived with a delegation to confirm their loyalty, after which this verse descended as a divine correction and permanent ruling."
     },
     {
       "id": "49_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 14,
-      "question": "What is the key distinction made in verse 49:14 between 'Islam' and 'Iman' according to classical Shia exegesis?",
-      "options": [
-        "Islam requires more prayer than Iman",
-        "Islam is outward submission while Iman is genuine inner faith rooted in the heart",
-        "Iman is only for scholars while Islam is for everyone",
-        "There is no distinction between them"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Classical Shia exegesis distinguishes between Islam (outward submission) and Iman (genuine faith rooted in the heart). The verse addresses Bedouins who declared faith verbally without internalizing true belief."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Ibn Uthaymeen applied the principle of verification from verse 6 to the modern media landscape, teaching that sharing unverified news is itself a form of moral complicity in whatever harm results.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen's recorded lessons on the surah apply the principle of tabayyun directly to the proliferation of news through social media, television, and online platforms. He instructs Muslims that sharing unverified news is a form of moral complicity in whatever harm results from its spread."
     },
     {
       "id": "49_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 13,
-      "question": "How do contemporary scholars like Ayatollah Shirazi interpret the Quranic call to 'know one another' (li ta'arafu) in verse 49:13?",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "How did Imam al-Qurtubi derive the treatment of defeated rebels from verse 9?",
       "options": [
-        "As a command to memorize genealogies",
-        "As an ethical imperative for intercultural dialogue and mutual respect in a globalized world",
-        "As a requirement to learn different languages",
-        "As permission to travel freely"
+        "A. The victorious party may permanently confiscate the rebels' property as a deterrent",
+        "B. The defeated rebels must be imprisoned until they formally renounce their position",
+        "C. The wounded among the defeated are not to be killed and their property is not to be permanently confiscated, since the goal is return to justice",
+        "D. The transgressing group loses its status as believers permanently"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars interpret 'knowing one another' as an ethical imperative for intercultural dialogue and mutual respect, especially relevant in our globalized world with its challenges of xenophobia and identity politics."
+      "correctAnswer": "C",
+      "explanation": "Al-Qurtubi in al-Jami li-Ahkam al-Quran develops a fiqh framework from verse 9: rebels are not to be pursued after defeat, the wounded among them are not to be killed, and their property is not to be permanently confiscated. All of this is derived from the verse's insistence on justice and its aim of returning the transgressing group rather than punishing them permanently."
     },
     {
       "id": "49_6",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Modern scholars connect the Quranic teaching about not raising voices (49:2) to neuroscientific research showing that raised voices trigger defensive neural responses that hinder constructive dialogue.",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "True or false: The Arabic word innama in verse 10, 'The believers are but brothers,' carries a force of exclusivity, signalling that brotherhood in faith is the most essential description of every believer.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Contemporary scholarship validates this Quranic wisdom through neuroscientific insights showing that raised voices trigger defensive neural responses, hindering constructive dialogue - emphasizing the timeless relevance of the verse."
+      "explanation": "The tafsir explains that innama signals exclusivity and restriction, as if to say the truest and most essential description of believers is their single brotherhood. Sayyid Qutb in Fi Zilal al-Quran observes that this word declares that faith, not nationality, ethnicity, wealth, or social rank, is the most defining reality about believers."
     },
     {
       "id": "49_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 13,
-      "question": "According to Imam Ali (AS), what does verse 49:13 about peoples and tribes ultimately teach?",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "When Mujahid and other early exegetes explained the image of eating a dead brother's flesh in verse 12, what did the word 'dead' specifically signify?",
       "options": [
-        "Some tribes are superior to others",
-        "People are divided into two types: your brother in faith or your equal in humanity",
-        "Tribal allegiance should come before religion",
-        "Only certain nationalities can achieve nobility"
+        "A. That backbiting is only forbidden regarding deceased persons, since the living can defend themselves",
+        "B. That the person spoken about in their absence cannot defend themselves, just as a corpse cannot protest being desecrated",
+        "C. That the sin of backbiting only applies to speaking ill of those who later die without reconciliation",
+        "D. That this verse applies only to speaking ill of martyrs and scholars who have passed away"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) taught in Nahj al-Balagha that 'People are two types: either your brother in faith or your equal in humanity' - reflecting the unity of Tawhid that transcends tribal divisions."
+      "explanation": "Ibn Kathir records that Mujahid and others among the early exegetes understood the image of a dead brother's flesh as indicating that the victim of backbiting cannot defend himself in his absence, just as a corpse cannot protest being desecrated. This is why the Quran chose the image of a dead rather than a living person."
     },
     {
       "id": "49_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 5,
-      "question": "What did Imam Ja'far al-Sadiq (AS) explain about the 'exit' (khuruj) mentioned in verse 49:5?",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "What did Sayyid Qutb say this verse accomplishes with respect to historical systems of racial and social hierarchy?",
       "options": [
-        "It refers only to physically leaving a room",
-        "The true exit they awaited was not merely physical presence but the manifestation of the Prophet's luminous guidance",
-        "It refers to the Prophet leaving Medina",
-        "It means the end of revelation"
+        "A. It acknowledges that ethnic diversity naturally produces some hierarchy and provides guidelines for managing it fairly",
+        "B. It dismantles at a single stroke every system of racial superiority, national chauvinism, class distinction, and colour prejudice that human history has ever produced",
+        "C. It limits its critique to pre-Islamic Arabian tribalism while permitting modern national identities",
+        "D. It permits ethnic diversity provided it does not affect marriage or inheritance laws"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (AS) explained that 'the true exit they awaited was not merely the Prophet's physical presence, but the manifestation of his luminous guidance. Had they cultivated patience, they would have received illumination from his very essence.'"
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that this verse 'dismantles at a single stroke every system of racial superiority, national chauvinism, class distinction, and colour prejudice that human history has ever produced.' He adds that the Muslim community must be the first to embody this principle before carrying it as a message to the world."
     },
     {
       "id": "49_9",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 13,
-      "question": "Both Shia and Sunni scholars agree that verse 49:13 rejects tribal and racial superiority, establishing that true nobility derives solely from taqwa (God-consciousness).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni scholarly traditions converge on the verse's rejection of tribal or racial superiority, stressing that nobility derives solely from taqwa (God-consciousness) - a principle reinforced by Prophet Muhammad's Farewell Sermon in both traditions."
-    },
-    {
-      "id": "49_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 18,
-      "question": "What is a key difference between Sunni and Shia interpretations regarding knowledge of the unseen (ghayb) in verse 49:18?",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "What is the key distinction that verse 14 draws between 'islam' and 'iman' when addressing the Bedouins who claimed full faith?",
       "options": [
-        "Sunni scholars believe humans can know the unseen",
-        "Shia scholars reject Allah's knowledge of the unseen",
-        "Shia scholars contextualize this within Imamah, noting the Ahlul Bayt have limited access to unseen knowledge by Allah's permission, while Sunni scholars reserve this strictly for Allah alone",
-        "Both traditions have identical interpretations"
+        "A. Islam refers to the five pillars and iman to the six articles of belief, and both are required simultaneously from the moment of conversion",
+        "B. Islam refers to outward submission and compliance, while iman is the deeper settled conviction and love of the heart that genuine faith requires",
+        "C. Islam is the correct term for non-Arab converts and iman is reserved for those born into Muslim families",
+        "D. Islam refers to private devotion and iman to its public expression in society"
       ],
-      "correctAnswer": "C",
-      "explanation": "Sunni scholars strictly reserve knowledge of the unseen for Allah alone, while Shia scholars, while affirming Allah's exclusivity, contextualize this within Imamah - the Ahlul Bayt, as divinely appointed guides, possess limited access to the unseen through Allah's will."
+      "correctAnswer": "B",
+      "explanation": "The Bedouins had submitted outwardly and were valid Muslims in the legal sense, but Allah corrected their claim to full iman. As Ibn Kathir explains citing the Hadith of Jibril in Sahih Muslim, iman designates a higher and more interior reality than formal submission: the settled conviction and love of the heart that transforms outward compliance into genuine faith."
     }
   ]
 }

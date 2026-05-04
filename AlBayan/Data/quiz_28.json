@@ -5,271 +5,241 @@
       "id": "28_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What category do the opening letters 'Ta-Seen-Meem' of Surah Al-Qasas belong to?",
+      "verseNumber": 7,
+      "question": "What two reassurances did Allah give the mother of Moses alongside the command to cast her infant into the river?",
       "options": [
-        "Standard Arabic greetings",
-        "Huruf muqatta'at (disconnected letters)",
-        "Names of prophets",
-        "Names of angels"
+        "A) 'Be patient and be grateful'",
+        "B) 'Do not fear and do not grieve'",
+        "C) 'Trust your people and obey your elders'",
+        "D) 'Fast and pray until he returns'"
       ],
       "correctAnswer": "B",
-      "explanation": "Ta-Seen-Meem belongs to the huruf muqatta'at - mysterious disconnected letters that appear at the start of 29 Quranic chapters, reminding humanity of the limits of human knowledge."
+      "explanation": "Verse 7 records Allah's words to Moses's mother: 'Do not fear and do not grieve.' These two prohibitions directly addressed her emotional state. The verse then adds the extraordinary promise that Moses would be returned to her and made one of the messengers, combining immediate comfort with a long-range divine guarantee."
     },
     {
       "id": "28_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the tafsir, Pharaoh's fear stemmed from a prophecy that a child from the oppressed class would overthrow him.",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "True or false: Classical Sunni scholars such as Ibn Abbas and Mujahid held that the inspiration Moses's mother received was full prophetic revelation, making her a prophetess.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Pharaoh feared losing power due to a prophecy about a child from the oppressed class overthrowing him, which led to his genocidal decree against Israelite male infants."
+      "correctAnswer": "false",
+      "explanation": "The majority view among the Salaf, including Ibn Abbas and Mujahid as recorded by Imam Tabari, is that what Moses's mother received was 'ilham,' a divine suggestion placed in the heart, distinct from the prophetic wahy given to messengers. She was not a prophetess; Allah simply guided her heart in a critical moment of danger."
     },
     {
       "id": "28_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 7,
-      "question": "What type of divine communication did Musa's mother receive according to Shia tafsir?",
+      "verseNumber": 4,
+      "question": "Pharaoh maintained control by dividing his subjects into factions and targeting one group with particular brutality. What specific oppression did he direct against the Children of Israel?",
       "options": [
-        "Prophetic revelation (wahy)",
-        "Non-prophetic inspiration (ilham)",
-        "A dream from an angel",
-        "A verbal message from Musa"
+        "A) Confiscating their wealth and banning their religious practices",
+        "B) Slaughtering their sons and keeping their women alive",
+        "C) Exiling their elders and destroying their places of assembly",
+        "D) Forcing them to convert to the Egyptian religion"
       ],
       "correctAnswer": "B",
-      "explanation": "According to Shia tafsir by scholars like Allama Tabatabai, Musa's mother received ilham - a non-prophetic form of divine communication given to righteous believers."
+      "explanation": "Verse 4 describes Pharaoh 'slaughtering their sons and keeping their women alive.' Ibn Kathir explains this policy arose from a prophecy that a boy from the Israelites would overthrow Pharaoh's rule. The Quran declares Pharaoh 'of the corrupters' for this atrocity, using the Arabic word for animal slaughter to emphasize the dehumanizing brutality of his policy."
     },
     {
       "id": "28_4",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 76,
-      "question": "What happened to Qarun according to verse 28:81?",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "How did Imam Tabari and Ibn Kathir understand the fulfillment of 'making them leaders (a'imma)' in verse 5?",
       "options": [
-        "He was struck by lightning",
-        "He drowned in a flood",
-        "The earth swallowed him and his home",
-        "He was exiled from Egypt"
+        "A) It referred to the appointment of twelve divinely designated successors after Moses",
+        "B) It was fulfilled through Moses and Aaron as prophetic leaders and the Israelites' eventual entry into the Holy Land",
+        "C) It referred exclusively to kings chosen by popular vote among the Israelites",
+        "D) It was a metaphor meaning the Israelites would become the world's wealthiest traders"
       ],
-      "correctAnswer": "C",
-      "explanation": "Allah caused the earth to swallow Qarun and his home as divine punishment for his arrogance and rejection of Prophet Musa's guidance."
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari records narrations from companions and successors indicating that 'making them leaders' was fulfilled in Moses and Aaron emerging as prophetic guides and in the Israelites' eventual inheritance of the land. Ibn Kathir affirms this reading, connecting it to the complete reversal of their condition from enslaved people to inheritors."
     },
     {
       "id": "28_5",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what do the disconnected letters symbolize?",
-      "options": [
-        "Mathematical formulas",
-        "The transcendence of divine speech beyond conventional linguistics",
-        "Names of previous prophets",
-        "Dates of revelation"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi notes that such letters challenge human intellect, emphasizing the Quran's inimitable nature while symbolizing the transcendence of divine speech beyond conventional linguistics."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "True or false: The Quran states that Pharaoh's household deliberately and knowingly picked up Moses as part of a plan to raise him and then expose him as their enemy.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 8 uses the 'lam al-aqiba,' the particle of consequence rather than intention, indicating that their picking up Moses resulted in him becoming their enemy but was not their purpose. Imam Tabari and Ibn Kathir both explain this grammatical point. The verse adds 'they perceived not,' confirming that the household had no awareness of the divine plan unfolding before them."
     },
     {
       "id": "28_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "Shia exegetes link the phrase 'establish them in the land' to the eventual moral authority of the Ahlul Bayt, reflecting the doctrine of Imamah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Shia scholars like Al-Tabatabai interpret 'establish them in the land' as a typological promise of the Ahlul Bayt's eventual moral authority, reflecting the Shia doctrine of Imamah as a continuation of divine guidance."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 9,
+      "question": "Wahbah al-Zuhayli, in Al-Tafsir al-Munir, drew what lesson from Asiyah's role in saving Moses for believers who are close to powerful people?",
+      "options": [
+        "A) Proximity to power is always spiritually dangerous and should be avoided",
+        "B) Positions near power should be used to protect the vulnerable, not for personal gain",
+        "C) Women in Islamic tradition are only permitted to counsel their immediate family members",
+        "D) The story shows that political involvement is discouraged for people of faith"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir observed that Asiyah used her position near Pharaoh not for personal enrichment but to protect an innocent, defenseless child. Al-Zuhayli notes her example demonstrates that faith and moral courage can exist even within the household of the world's most notorious tyrant, modeling the Islamic virtue of speaking truth to power."
     },
     {
       "id": "28_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 76,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the term 'bagha' (transgression) in Qarun's story represent?",
+      "layer": 1,
+      "verseNumber": 23,
+      "question": "When Moses arrived at the well of Madyan and saw the two women holding back their flock, what did he do first?",
       "options": [
-        "Physical illness",
-        "Broader moral failure and spiritual corruption",
-        "Military defeat",
-        "Family disputes"
+        "A) He immediately watered their flock without speaking to them",
+        "B) He asked the other male shepherds to make way for the women",
+        "C) He approached the women and asked them about their situation",
+        "D) He reported their difficulty to the city elder on their behalf"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai notes that Qarun's 'tyranny' (bagha) over his people reflects a broader moral failure: his wealth became a tool for oppression rather than a means to uphold justice."
+      "correctAnswer": "C",
+      "explanation": "Verse 23 records that Moses approached the women and asked 'ma khatbukuma' — 'What troubles you?' Before acting, he sought to understand their situation. The tafsir highlights this as prophetic character: noticing those who are overlooked, then asking with genuine care rather than acting on assumptions before understanding the full picture."
     },
     {
       "id": "28_8",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 77,
-      "question": "What does the phrase 'do not forget your share of the world' reject according to Tabrisi?",
-      "options": [
-        "Charity and almsgiving",
-        "Monastic asceticism",
-        "Family relationships",
-        "Business transactions"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi in Majma al-Bayan explicates this phrase as a rejection of monastic asceticism, affirming the permissibility of lawful enjoyment within the framework of moderation."
+      "verseNumber": 23,
+      "question": "True or false: Imam Tabari definitively identifies the father of the two women at the well of Madyan as the Prophet Shuayb, making this the established scholarly consensus without qualification.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam Tabari acknowledges the popular tradition identifying the elder as the Prophet Shuayb but explicitly refrains from a definitive ruling, following what he calls the well-known opinion pending stronger evidence. Ibn Kathir similarly notes that while tradition commonly identifies him as Shuayb, no authenticated hadith confirms this with certainty, so it remains the prevailing but not conclusively established view."
     },
     {
       "id": "28_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 6,
-      "question": "According to contemporary scholars, what modern challenges does the verse about Pharaoh and Haman's 'fear' parallel?",
+      "verseNumber": 26,
+      "question": "The daughter of Shuayb recommended Moses for employment by citing two qualities she observed. Wahbah al-Zuhayli argued these two qualities form a foundational Islamic principle for which field?",
       "options": [
-        "Agricultural problems",
-        "Digital censorship and militarized crackdowns by autocrats",
-        "Educational reforms",
-        "Medical advancements"
+        "A) Islamic inheritance law and estate management",
+        "B) Islamic labor ethics and the appointment of public officeholders",
+        "C) Islamic rules for inter-tribal alliances and diplomacy",
+        "D) Islamic dietary regulations and business partnerships"
       ],
       "correctAnswer": "B",
-      "explanation": "Modern thinkers like Dr. Mohammad Ali Shomali connect the verse's warning to today's socio-political realities, where autocrats suppress dissent through digital censorship to militarized crackdowns."
+      "explanation": "The daughter cited 'qawi' (strength, competence) and 'amin' (trustworthiness, integrity). Wahbah al-Zuhayli in Al-Tafsir al-Munir argues that Islamic law demands both qualities in anyone appointed to public office, religious leadership, or positions of social trust. He uses this verse to establish that neglecting either quality corrupts institutions, making it a timeless charter for employment and governance."
     },
     {
       "id": "28_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 76,
-      "question": "Ayatollah Naser Makarem Shirazi interprets the 'keys' to Qarun's treasures as symbolic of systemic greed in modern financial systems.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary scholars contextualize the 'keys' metaphor as symbolic of systemic greed: just as Qarun's treasures paralyzed his society, today's exploitative financial systems burden marginalized communities."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "Imam Qurtubi derived an important ruling of Islamic jurisprudence from the marriage arrangement in verse 27. Which ruling did he draw?",
+      "options": [
+        "A) A marriage cannot be finalized without the payment of gold or silver as mahr",
+        "B) Service labor can constitute valid mahr in a marriage contract",
+        "C) The husband is required to serve the wife's family for a minimum of one year",
+        "D) Marriage contracts that involve deferred obligations are automatically void"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Qurtubi in Al-Jami li-Ahkam al-Quran derives from verse 27 that service can constitute a valid mahr. The elder offered his daughter's hand in exchange for eight years of Moses's labor. Qurtubi also notes this permits mahr to be a deferred or ongoing obligation rather than an immediate cash payment, making this Quranic episode a key precedent in Islamic marriage jurisprudence."
     },
     {
       "id": "28_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 77,
-      "question": "What does 'fasad' (corruption) in the verse represent according to contemporary interpretation?",
-      "options": [
-        "Only financial crimes",
-        "Any act disrupting societal harmony, from environmental harm to dishonesty",
-        "Only political corruption",
-        "Only religious deviations"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The tafsir explains that fasad transcends mere financial exploitation; it includes any act disrupting societal harmony, from environmental harm to dishonesty."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 76,
+      "question": "True or false: Qarun was an outsider and an enemy of the Children of Israel who used foreign wealth to oppress them.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 76 explicitly states that Qarun was 'from among the people of Moses,' meaning he was from the Children of Israel themselves. His betrayal was therefore from within. The tafsir notes that his treasures were so vast their keys required a group of strong men to carry, and he used this wealth to oppress his own community, making his sin a compounded act of ingratitude and injustice."
     },
     {
       "id": "28_12",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 81,
-      "question": "Contemporary scholars draw parallels between Qarun's sudden destruction and modern natural phenomena like sinkholes or climate disasters.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Scholars like Dr. Mohammad Ali Shomali draw parallels between Qarun's sudden demise and modern phenomena like sinkholes or climate disasters, underscoring humanity's fragility despite technological advancement."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 77,
+      "question": "The wise members of Qarun's community offered him four principles for righteous use of wealth in verse 77. Which of the following is NOT one of those four principles?",
+      "options": [
+        "A) Seek through your wealth the home of the Hereafter",
+        "B) Do not neglect your lawful share of this life",
+        "C) Give away your entire wealth immediately as a sign of gratitude",
+        "D) Do good to others as Allah has done good to you"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 77 contains four instructions: seek the Hereafter through wealth, preserve your lawful worldly portion, do good as Allah has done good to you, and do not seek corruption in the land. Total renunciation of wealth is not among them. As Ibn Kathir affirms, Islam does not demand extreme asceticism; lawful enjoyment of Allah's provisions is permitted so long as the Hereafter remains the believer's ultimate aim."
     },
     {
       "id": "28_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Tafsir al-Qummi, what does the letter 'Ta' in Ta-Seen-Meem symbolize?",
+      "layer": 2,
+      "verseNumber": 78,
+      "question": "What was the theological root of Qarun's destruction, according to Fakhr al-Din al-Razi in Mafatih al-Ghayb?",
       "options": [
-        "Tahira (the Pure Ones)",
-        "Tawbah (repentance)",
-        "Tawhid (monotheism)",
-        "Taqwa (piety)"
+        "A) His refusal to pay the obligatory charity on his wealth",
+        "B) His claim that his wealth came from his own knowledge and skill, denying Allah as the true Provider",
+        "C) His public mockery of Moses during a religious ceremony",
+        "D) His signing of a treaty with Pharaoh against the Children of Israel"
       ],
-      "correctAnswer": "A",
-      "explanation": "In Tafsir al-Qummi, it is narrated that 'Ta' symbolizes Tahira (the Pure Ones), 'Seen' signifies Siraj (the Lamp of Guidance), and 'Meem' denotes Muhammad."
+      "correctAnswer": "B",
+      "explanation": "Verse 78 records Qarun saying 'I was given it only because of knowledge I have.' Fakhr al-Din al-Razi in Mafatih al-Ghayb identifies attributing one's gifts entirely to personal ability as a form of ingratitude that denies Allah as the ultimate Provider. The Quran immediately counters by pointing out that far more powerful civilizations before him were destroyed, proving that personal capability offers no protection from divine judgment."
     },
     {
       "id": "28_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 6,
-      "question": "According to Imam Ja'far al-Sadiq in Tafsir al-Qummi, who does verse 28:6 refer to?",
-      "options": [
-        "Only the Israelites historically",
-        "The followers of the Imams from the Progeny of Muhammad",
-        "Only the companions of the Prophet",
-        "Non-Muslims seeking guidance"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq states in Tafsir al-Qummi: 'This verse is about the followers of the Imams from the Progeny of Muhammad. Though they face trials like the Israelites under Pharaoh, Allah will establish their cause.'"
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 81,
+      "question": "True or false: Wahbah al-Zuhayli, in Al-Tafsir al-Munir, argues that the punishment of Qarun extends as a warning to modern corporations and individuals who accumulate wealth through exploitation, environmental harm, or oppression of workers.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explicitly extends the lesson of Qarun's destruction to the contemporary world, arguing that any individual or institution that builds wealth through exploitation, tax evasion, environmental destruction, or abuse of laborers falls under the same Quranic indictment. This reflects his understanding that divine accountability operates in both this world and the next."
     },
     {
       "id": "28_15",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 76,
-      "question": "Imam Sadiq taught that 'The love of this world is the root of every sin.'",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Sadiq (as) taught, 'The love of this world is the root of every sin,' highlighting how Qarun's attachment to wealth severed his connection to Prophet Musa's guidance."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 82,
+      "question": "After witnessing Qarun's destruction, those who had envied him expressed a profound realization. Which scholar drew from this scene the lesson that Allah's withholding of wealth from a person can itself be a form of divine mercy?",
+      "options": [
+        "A) Sayyid Qutb",
+        "B) Wahbah al-Zuhayli",
+        "C) Muhammad al-Sha'rawi",
+        "D) Ibn Uthaymeen"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ibn Uthaymeen highlighted in his lectures that the people's statement in verse 82 — 'Had Allah not favored us, He would have caused it to swallow us' — teaches that being denied certain forms of wealth can be a divine protection. He emphasized that Allah expands and restricts provision according to wisdom, and that true gratitude includes thanking Allah for what He withholds as much as for what He bestows."
     },
     {
       "id": "28_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 81,
-      "question": "According to Imam Ali in Nahj al-Balagha, what is the world compared to?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "What did Fakhr al-Din al-Razi observe about the phrase 'bil-haqq' (in truth) in verse 3, which opens the story of Moses and Pharaoh?",
       "options": [
-        "A garden to be cultivated",
-        "A bridge to cross over, not build upon",
-        "A treasure to be hoarded",
-        "A home to settle in"
+        "A) It is a legal term indicating the story carries binding obligations for all Muslim rulers",
+        "B) It means the story is narrated with accuracy and for a righteous purpose, distinguishing it from distorted prior scriptures and from idle storytelling",
+        "C) It signals that the story is a parable rather than a historical account",
+        "D) It is a grammatical particle used to introduce poetry in classical Arabic"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (as) taught, 'The world is a bridge - cross over it, but do not build upon it,' emphasizing that attachment to material wealth severs one from divine reality."
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb observes that 'bil-haqq' carries the dual meaning of being accurately narrated and being told for a righteous purpose. It distinguishes the Quranic account from corrupted versions in earlier scriptures and from entertainment-driven storytelling. Ibn Kathir similarly uses this phrase to establish the Quran as the authoritative and truthful account of Moses and Pharaoh."
     },
     {
       "id": "28_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations of the disconnected letters?",
-      "options": [
-        "Sunni scholars reject them entirely",
-        "Shia interpretations often incorporate esoteric dimensions linked to the Ahlul Bayt's inherited knowledge",
-        "Only Sunni scholars accept their divine origin",
-        "There are no differences between the two traditions"
-      ],
-      "correctAnswer": "B",
-      "explanation": "While both traditions acknowledge the divine mystery, Shia scholars frequently incorporate esoteric dimensions, with Tabrisi's Majma al-Bayan citing traditions linking such letters to secrets accessible through the Ahlul Bayt's inherited knowledge."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 88,
+      "question": "True or false: The closing verse of Surah Al-Qasas commands believers to call upon Allah alongside other deities as intermediaries, before affirming that everything perishes except Him.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 88 opens with a prohibition: 'Do not call upon another deity alongside Allah.' It then delivers an affirmation of pure monotheism, 'There is no deity except Him,' followed by the declaration that everything will perish except His Face. The verse is an absolute command for exclusive devotion to Allah, not permission for any form of associating partners with Him."
     },
     {
       "id": "28_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 76,
-      "question": "Both Shia and Sunni scholars interpret Qarun's story as a cautionary tale against arrogance and materialism.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions concur that Qarun's downfall stemmed from his pride in wealth and rejection of moral counsel, serving as a universal warning against worldly attachment and ingratitude."
-    },
-    {
-      "id": "28_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 81,
-      "question": "How do Shia commentaries uniquely frame Qarun's transgression compared to Sunni interpretations?",
+      "layer": 3,
+      "verseNumber": 88,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, described the final verse of Surah Al-Qasas as the theological seal of the entire surah's narrative. Which of the following best captures his concluding insight?",
       "options": [
-        "As merely individual moral failure",
-        "As rejection of prophetic authority and divinely appointed leadership",
-        "As a business dispute",
-        "As a family conflict"
+        "A) The verse proves that political power will eventually return to the righteous through patient waiting",
+        "B) Pharaoh perished, Qarun perished, and Qurayshi arrogance would perish, while the word of Allah endures — making the verse the answer to the whole surah",
+        "C) The verse is primarily a legal declaration that all earthly contracts and agreements become void after death",
+        "D) The verse shows that the Prophet Muhammad's mission was specific to Arabia and not a universal message"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia commentaries often frame his transgression as a rejection of prophetic authority, aligning his rebellion with broader theological themes of opposing divinely appointed leadership, while Sunni scholars focus more on individual moral failure."
-    },
-    {
-      "id": "28_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "What theological foundation underlies the different Shia and Sunni interpretations of verse 28:6?",
-      "options": [
-        "Disagreement about the Arabic language",
-        "Shia emphasis on walaya (spiritual guardianship) vs Sunni focus on historical-prophetic context",
-        "Different views on prayer times",
-        "Disagreement about Pharaoh's identity"
-      ],
-      "correctAnswer": "B",
-      "explanation": "These differences stem from distinct epistemological frameworks: Sunni exegesis prioritizes textual and linguistic analysis, while Shia interpretations integrate the concept of walaya (spiritual guardianship) as a lens for unlocking Quranic subtleties."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran saw verse 88 as the theological completion of the surah's entire story arc: Pharaoh was destroyed, Qarun was swallowed by the earth, and the pride of Quraysh would likewise be undone. Only the word of Allah brought by the Prophet belongs to what does not perish. This makes 'everything perishes except His Face' the perfect culmination of a surah about the fate of worldly power and divine permanence."
     }
   ]
 }

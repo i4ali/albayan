@@ -6,260 +6,345 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to Surah An-Nisa verse 1, what is the origin of all humanity?",
+      "question": "Verse 1 addresses all mankind as originating from a single soul. What is the Arabic term used for this single soul, and who does it refer to according to Imam al-Tabari?",
       "options": [
-        "Multiple independent souls",
-        "A single soul (nafs wahida)",
-        "Different tribes and nations",
-        "Angels and humans combined"
+        "A) Nafs lawwamah, referring to the soul on the Day of Judgment",
+        "B) Nafs wahidah, referring to Adam, the first human being",
+        "C) Nafs mutmainnah, referring to a purified spiritual state",
+        "D) Nafs ammara, referring to the collective of all the prophets"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse establishes that Allah created humanity from a single soul (nafs wahida), from which He created its mate, affirming the fundamental unity and equality of all human beings."
+      "explanation": "The phrase 'nafs wahidah' (one soul) refers to Adam, from whom Hawwa was created and from whom all humanity descends. Imam al-Tabari confirms in Jami al-Bayan that Hawwa was created from Adam's rib, making the verse a declaration of the shared origin and fundamental equality of all human beings."
     },
     {
       "id": "4_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 4,
-      "question": "According to the tafsir, the mahr (bridal gift) is a non-negotiable right of women in Islam, not merely a cultural formality.",
+      "verseNumber": 2,
+      "question": "True or false: Verse 2 of Surah An-Nisa describes the act of a guardian substituting his own inferior property for an orphan's superior property as an 'enormously great sin' (huban kabiran).",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The verse establishes mahr as a sacred obligation and a woman's legal and moral right, countering trends of undervaluing mahr or treating it as a symbolic ritual."
+      "explanation": "Verse 2 uses the phrase 'huban kabiran' (an enormously great sin) to condemn guardians who take an orphan's good property and replace it with their own inferior possessions. Ibn Kathir lists misappropriating orphan wealth among the 'sab al-mubiqat,' the seven destructive sins."
     },
     {
       "id": "4_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 34,
-      "question": "What does the term 'qawwamun' in verse 34 imply according to the tafsir?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "What is the specific asbab al-nuzul most cited by classical scholars for the verse permitting up to four marriages?",
       "options": [
-        "Absolute male superiority",
-        "A functional responsibility to provide and protect",
-        "Religious authority only",
-        "Political leadership"
+        "A) Umar ibn al-Khattab asked the Prophet to clarify the maximum number of wives",
+        "B) Aisha reported that guardians in Medina were exploiting orphan girls in their care and marrying them unjustly",
+        "C) A large number of men in Medina had no women to marry following the losses of battle",
+        "D) A Companion wished to divorce all his wives and the verse was sent to limit this"
       ],
       "correctAnswer": "B",
-      "explanation": "The term qawwamun implies that men carry the duty to provide financially and ensure the well-being of their families - a functional responsibility conditioned on ethical conduct, not blanket superiority."
+      "explanation": "Aisha reported that this verse was revealed about guardians who held orphan girls under their authority, were attracted to their wealth and beauty, and sought to marry them while offering an unfair mahr. Fakhr al-Din al-Razi also notes that the conditional justice here covers material provisions, even though full emotional equity may be beyond human capacity."
     },
     {
       "id": "4_4",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 59,
-      "question": "According to verse 59, what should believers do when disputes arise?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Ibn Kathir cites Ibn Abbas, Mujahid, and Qatadah when interpreting the word 'nihlah' in the command to give women their mahr. What meaning did these scholars assign to 'nihlah'?",
       "options": [
-        "Follow their personal opinions",
-        "Consult community elders only",
-        "Return the matter to Allah and the Messenger",
-        "Ignore the disagreement"
+        "A) A loan to be repaid later by the wife's family",
+        "B) A shared fund distributed among the husband's relatives",
+        "C) A freely-given obligatory gift belonging exclusively to the wife",
+        "D) A symbolic token with no fixed monetary value required"
       ],
       "correctAnswer": "C",
-      "explanation": "The verse instructs believers to resolve disagreements by returning disputed matters to Allah and the Messenger, which Shia scholars interpret as referring to the Quran and the teachings of the Prophet and Imams."
+      "explanation": "Ibn Kathir records that Ibn Abbas, Mujahid, and Qatadah all interpreted 'nihlah' as a freely given yet obligatory gift that becomes the wife's exclusive property. The mahr is hers alone to keep, spend, or waive as she chooses, and no one else may claim it."
     },
     {
       "id": "4_5",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "According to Shia scholars, polygamy in Islam is conditionally permitted but strongly discouraged due to the difficulty of achieving true justice between co-wives.",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "True or false: A historical account from the caliphate of Umar ibn al-Khattab shows that a woman successfully challenged Umar's attempt to cap mahr amounts by citing verse 4 of Surah An-Nisa.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Shia authorities including Tusi and Qummi emphasize comprehensive emotional and spiritual equity, citing Imam Ali's assertion that perfect justice between co-wives is humanly unattainable, leading many Shia jurists to strongly discourage polygamy except under exceptional circumstances."
+      "explanation": "When Umar attempted to limit mahr amounts from the pulpit, a woman stood and cited this verse, which commands giving women their dowries freely without restriction. Umar immediately acknowledged her correction and retracted his position, illustrating how verse 4 was understood from the earliest period as an unrestricted right of women."
     },
     {
       "id": "4_6",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 4,
-      "question": "According to Tabatabai in Al-Mizan, what does the mahr symbolize?",
+      "verseNumber": 7,
+      "question": "Imam al-Tabari's commentary on verse 7 references the daughters of Aws ibn Thabit. What was the significance of that incident in relation to this verse?",
       "options": [
-        "A simple financial transaction",
-        "Both material provision and spiritual responsibility",
-        "A gift to the bride's family",
-        "A social status symbol"
+        "A) The daughters were given too large a share and the wider community objected",
+        "B) The daughters were excluded from inheriting because pre-Islamic custom denied women shares, prompting the verse to establish their right",
+        "C) The daughters chose to give up their inheritance voluntarily and the verse confirmed this was permissible",
+        "D) The daughters' share was doubled as a reward for their father's service in battle"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai underscores that the mahr symbolizes both material provision and spiritual responsibility, reflecting the ontological dignity of women within the divine covenant of marriage."
+      "explanation": "Tabari records that when Aws ibn Thabit died, his male relatives took all the property citing the pre-Islamic custom that only those who fight in battle may inherit. Verse 7 was then revealed establishing that women have a 'nasiban mafrudan' (obligatory prescribed share) from the inheritance of both parents and relatives."
     },
     {
       "id": "4_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 34,
-      "question": "According to classical Shia exegesis, what does 'qiwama' (guardianship) arise from?",
-      "options": [
-        "Intrinsic male superiority",
-        "Cultural traditions",
-        "Socioeconomic obligations",
-        "Physical strength"
-      ],
-      "correctAnswer": "C",
-      "explanation": "As Tabatabai elucidates in Al-Mizan, qiwama arises from socioeconomic obligations, not intrinsic superiority, reflecting a divinely ordained division of roles to ensure familial stability."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "True or false: Wahbah al-Zuhayli describes the science of inheritance law derived from the inheritance verses of Surah An-Nisa as 'half of all knowledge.'",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir quotes the prophetic statement that Fara'id (inheritance law) constitutes half of all useful knowledge, and contemporary scholars al-Saadi and Qutb both emphasize that the inheritance system represents a divine programme designed to protect family structure and distribute wealth across generations."
     },
     {
       "id": "4_8",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 59,
-      "question": "According to Shia exegesis, 'uli al-amr' (those in authority) in verse 59 refers exclusively to the Twelve Imams from the Ahl al-Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical Shia exegetes like Allama Tabatabai and Sheikh Tabrisi emphasize that uli al-amr refers exclusively to the divinely appointed Imams from the Ahl al-Bayt, beginning with Imam Ali and continuing through the Twelve Imams."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "Verse 11 opens with 'yusikumu Allah' and closes with 'faridatan min Allah.' What is the combined significance of these two phrases?",
+      "options": [
+        "A) They indicate that inheritance rules are recommended guidelines that communities may adapt",
+        "B) They doubly frame the inheritance shares as direct divine commands, not human legal recommendations",
+        "C) They signal that only scholars of high rank may apply these rules",
+        "D) They indicate that the rules apply only to the specific context of early Medina"
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Yusikumu Allah' (Allah commands you) at the opening and 'faridatan min Allah' (a duty from Allah) at the close form a double emphasis establishing that the inheritance shares are obligatory divine ordinances. The Prophet's statement about the wife of Sa'd ibn al-Rabi, recorded in the hadith, confirmed the verse's immediate practical application."
     },
     {
       "id": "4_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "According to contemporary scholars, what do psychological studies confirm about polygamous families?",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "What does the term 'kalala' in verse 12 refer to in classical Islamic inheritance law?",
       "options": [
-        "They are always harmonious",
-        "Equitable emotional and material care is exceptionally challenging",
-        "Children thrive better in them",
-        "They have no modern relevance"
+        "A) A bequest made during terminal illness that may later be contested",
+        "B) A person who dies leaving neither parents nor children as heirs",
+        "C) An orphan who reaches adulthood without a guardian having been appointed",
+        "D) A widow who remarries before her waiting period ends"
       ],
       "correctAnswer": "B",
-      "explanation": "Modern psychology and sociology studies confirm that equitable emotional and material care in polygamous families is exceptionally challenging, aligning with the Quranic warning about the difficulty of maintaining justice."
+      "explanation": "Kalala refers to a deceased person who leaves neither parents nor children as heirs, only more distant relatives such as siblings. Umar ibn al-Khattab expressed in multiple hadith that he found this definition to be one of the most difficult rulings in all of Fiqh, even after several inquiries of the Prophet."
     },
     {
       "id": "4_10",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 34,
-      "question": "How do contemporary Shia scholars like Ayatollah Sistani interpret the 'striking' mentioned in verse 34?",
-      "options": [
-        "As a command to physically discipline",
-        "As unrestricted permission",
-        "As symbolically restricted to a light, non-injurious gesture",
-        "As no longer applicable"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Ayatollah Sistani's rulings clarify that 'striking' is symbolically restricted to a light, non-injurious gesture, permissible only if it prevents greater harm, though many jurists today discourage it entirely, favoring mediation."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "True or false: Fakhr al-Din al-Razi interpreted 'tilka hududullah' in verse 13 as divine limits that function as barriers protecting what is permitted from encroachment by what is forbidden.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi in Mafatih al-Ghayb explains 'hududullah' as divinely set boundaries that protect the permissible space from being violated, making transgression a spiritual and legal wrong. The verse also promises 'fawz azim' (great success, meaning Paradise) to those who observe these limits."
     },
     {
       "id": "4_11",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 4,
-      "question": "According to contemporary scholars, the verse about mahr speaks to modern crises like ensuring refugee women retain their matrimonial rights.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Globally, verse 4:4 speaks to crises like economic inequality and displacement, ensuring refugee women retain matrimonial rights despite unstable circumstances, and critiques the commodification of marriage in consumerist societies."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 19,
+      "question": "Verse 19 prohibits inheriting women against their will. What specific pre-Islamic practice does the classical tafsir identify as being abolished by this verse?",
+      "options": [
+        "A) Forcing widows to remain unmarried for life as a form of mourning",
+        "B) Throwing a cloak over a widow to claim the right to marry her or prevent her from remarrying without compensation",
+        "C) Auctioning orphaned girls to the highest-bidding guardian in the tribe",
+        "D) Requiring women to seek their father's tribe's permission before any marriage"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli records that in pre-Islamic Arabia a man could throw his cloak over a recently widowed woman, claiming the right to marry her himself or to prevent her from remarrying until she paid him to release her. Verse 19 abolished this practice and commanded husbands to live with their wives 'bil-marouf' (in kindness), also noting that disliked marriages may conceal hidden good."
     },
     {
       "id": "4_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 59,
-      "question": "According to Ayatollah Kamal al-Haydari, what does 'those in authority' extend to in modern contexts?",
-      "options": [
-        "Only historical Imams",
-        "Political rulers exclusively",
-        "Ethical, spiritual, and intellectual leadership",
-        "Family heads only"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary Shia scholars like Ayatollah Kamal al-Haydari emphasize that 'those in authority' extends beyond historical Imamate to encompass ethical, spiritual, and intellectual leadership in modern contexts."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 21,
+      "question": "True or false: The phrase 'mithaq ghaliz' (solemn and weighty covenant) used in verse 21 for the marriage contract is the same phrase the Quran uses for the covenant Allah took from the prophets.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Classical scholars note that 'mithaq ghaliz' appears in the Quran to describe both the covenant with the prophets and the marriage contract, elevating the marital bond to a level of sacred gravity comparable to prophetic commitments. Verse 21 also establishes that consummation of marriage entitles the wife to the full mahr."
     },
     {
       "id": "4_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Ali (as), what characterizes the most blessed marriage?",
+      "layer": 3,
+      "verseNumber": 29,
+      "question": "Wahbah al-Zuhayli extends verse 29's prohibition on consuming wealth 'bil-batil' (through falsehood) to modern financial contexts. Which practices does he classify as forms of batil under this verse?",
       "options": [
-        "The most expensive mahr",
-        "The one that bears the lightest burden",
-        "The largest wedding celebration",
-        "The highest social status"
+        "A) Lawful profit-sharing partnerships and equity investments",
+        "B) Zakat collection and redistribution by the state",
+        "C) Gharar (excessive uncertainty) and maysir (gambling) in financial transactions",
+        "D) Inheritance disputes brought before a court of law"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (as) counseled that 'The most blessed marriage is that which bears the lightest burden,' emphasizing that mahr must never become a chain of worldly obligation, but rather a symbol of sincere commitment."
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir extends the prohibition on 'batil' transactions to include gharar (excessive uncertainty) and maysir (gambling), both of which exploit wealth without fair exchange. He applies this to modern derivative instruments and speculative financial products that lack real productive backing."
     },
     {
       "id": "4_14",
-      "type": "trueFalse",
-      "layer": 4,
+      "type": "multipleChoice",
+      "layer": 1,
       "verseNumber": 34,
-      "question": "According to Imam Sadiq (as), the 'strike' mentioned in verse 34 should be lighter than a miswak twig - merely a symbolic reminder.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Sadiq (as) taught that 'The strike mentioned is lighter than a miswak twig - it is but a symbolic reminder of Allah's displeasure with discord,' and the Imams repeatedly prohibited harmful discipline."
+      "question": "Verse 34 establishes 'qiwama,' granting men guardianship over women. According to the tafsir, to what specific obligation is this guardianship explicitly tied?",
+      "options": [
+        "A) Men's innate intellectual superiority confirmed by biology",
+        "B) Men's financial obligation to provide nafaqah (maintenance) and mahr (dower)",
+        "C) Men's role as community leaders in political and military affairs",
+        "D) Men's greater capacity for physical labor and outdoor work"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir consistently links qiwama to men's financial obligations, specifically nafaqah (maintenance) and mahr (dower). Sayyid Qutb in Fi Zilal al-Quran emphasizes that qiwama is a functional stewardship conditioned on financial responsibility, not an inherent hierarchical privilege."
     },
     {
       "id": "4_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 59,
-      "question": "According to Imam Ja'far al-Sadiq (as), what are the Imams referred to as in the Quran?",
-      "options": [
-        "The guides of the community",
-        "The firm rope of Allah",
-        "The scholars of Islam",
-        "The protectors of faith"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (as) states in Tafsir al-Qummi: 'We are those in authority whom Allah has commanded His creation to obey, and we are the firm rope of Allah mentioned in the Quran.'"
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 34,
+      "question": "True or false: Sayyid Qutb argues in Fi Zilal al-Quran that qiwama in verse 34 represents an unconditional hierarchical privilege with no practical obligations attached to it.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Qutb explicitly argues the opposite: qiwama is a functional stewardship, not unconditional privilege, and it is conditioned on the man fulfilling his financial responsibilities. Wahbah al-Zuhayli adds that the prophetic statement 'the best of you are the best to their wives' contextualizes the verse within a framework of mutual ethical responsibility."
     },
     {
       "id": "4_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "Lady Fatimah (as) requested her mahr to be 'the intercession of my Ummah on Judgment Day,' transforming a material right into spiritual investment.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "When Lady Fatimah requested her father Prophet Muhammad (pbuh) to make her mahr 'the intercession of my Ummah on Judgment Day,' she transformed a material right into an eternal spiritual investment."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 36,
+      "question": "Ibn Kathir records a statement attributed to Jibril about the rights of neighbors, which he connects to verse 36's command of ihsan (excellence) toward neighbors. What did Jibril reportedly keep emphasizing?",
+      "options": [
+        "A) That neighbors must be invited to all major family celebrations and events",
+        "B) That the rights of the neighbor were so great that the Prophet thought the neighbor might eventually be made an heir",
+        "C) That Muslim neighbors take precedence over non-Muslim neighbors in all disputed matters",
+        "D) That neighbors are only those sharing a wall, not those on the same street"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that Jibril kept emphasizing the rights of the neighbor so insistently that the Prophet began to think the neighbor might eventually be made an heir. Wahbah al-Zuhayli describes verse 36 as a comprehensive 'social constitution' listing ihsan owed to parents, relatives, orphans, the poor, near and distant neighbors, traveling companions, and those under one's authority."
     },
     {
       "id": "4_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 3,
-      "question": "What is a key methodological difference between Shia and Sunni interpretation of the justice requirement for polygamy?",
-      "options": [
-        "Sunni scholars reject polygamy entirely",
-        "Shia scholars accept only material fairness",
-        "Shia emphasize comprehensive emotional and spiritual equity while Sunni fiqh generally permits it with material fairness",
-        "Both traditions have identical views"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shia authorities emphasize comprehensive emotional and spiritual equity, citing Imam Ali's assertion about unattainability of perfect justice, while Sunni fiqh traditions generally permit polygamy with material fairness maintained."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 80,
+      "question": "True or false: Verse 80 establishes that obeying the Messenger of Allah is equivalent to obeying Allah, grounding the legislative authority of the Sunnah directly in the Quran.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 80 states 'whoever obeys the Messenger has obeyed Allah.' Ibn Kathir uses this to establish the Sunnah's binding legislative authority, and Ibn Uthaymeen explicitly notes that this verse refutes Quran-only movements that reject hadith, since the Quran itself commands obedience to the Messenger alongside obedience to Allah."
     },
     {
       "id": "4_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 34,
-      "question": "Both Shia and Sunni scholars agree that verse 34 prohibits unjust persecution of wives who reconcile and reform.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions emphasize the verse's final warning against unjust persecution of wives who reform, upholding the verse's core message of preserving marital harmony and divine accountability."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 92,
+      "question": "Verse 92 prescribes a kaffarah for the accidental killing of a fellow Muslim. What is the prescribed alternative expiation for one who cannot free a believing slave?",
+      "options": [
+        "A) Feeding sixty poor people for one month",
+        "B) Fasting for two consecutive months",
+        "C) Performing an extra pilgrimage to Makkah",
+        "D) Donating the entirety of one's wealth to the deceased's family"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 92 prescribes freeing a believing slave (raqabah mu'minah) and paying diyah (blood money) to the family. The alternative for one unable to free a slave is fasting two consecutive months. Ibn Uthaymeen describes this kaffarah as spiritual healing for the soul of the one who caused the accidental death, not merely a legal penalty."
     },
     {
       "id": "4_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 59,
-      "question": "How do Sunni scholars like Al-Qurtubi and Al-Razi identify 'uli al-amr' differently from Shia scholars?",
+      "layer": 3,
+      "verseNumber": 93,
+      "question": "Verse 93 lists five divine responses to the intentional killing of a believer. What specific modern relevance does Ibn Uthaymeen draw from this verse?",
       "options": [
-        "They reject the concept entirely",
-        "They identify it broadly as political rulers, military commanders, or religious scholars",
-        "They limit it to prophets only",
-        "They have the same interpretation as Shia"
+        "A) That it permits vigilante justice by communities when courts fail to act",
+        "B) That it refutes extremist groups who invoke religious justifications for killing Muslims",
+        "C) That the death penalty is the sole religiously valid response to any murder",
+        "D) That the verse applies only to wars conducted between Muslim states"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni scholars like Al-Qurtubi and Al-Razi offer broader interpretations, identifying uli al-amr as political rulers, military commanders, or religious scholars whose obedience is conditional upon their adherence to Islamic law."
+      "explanation": "Ibn Uthaymeen emphasizes that verse 93's five-fold divine response to intentional killing of a believer — including jahannam, divine anger (ghadiba Allahu alayhi), divine curse (la'anahu), and great punishment — directly refutes extremist groups that claim religious justification for killing Muslims. The majority Sunni position, upheld by Tabari, is that repentance remains open even after this grave sin."
     },
     {
       "id": "4_20",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 145,
+      "question": "Verse 145 assigns hypocrites a specific location in the Hereafter. Where does it place them?",
+      "options": [
+        "A) In the highest levels of Paradise as reward for their outward Islamic practice",
+        "B) On the bridge between Paradise and Hell where they await a final judgment",
+        "C) In the lowest depths of the Fire (al-darek al-asfal), lower even than open disbelievers",
+        "D) In a neutral realm outside of both Paradise and Hell"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 145 states that the hypocrites will be in 'al-darek al-asfal' (the lowest depths of the Fire). Sayyid Qutb in Fi Zilal al-Quran explains this severe punishment reflects the uniquely destructive nature of hypocrisy, which compounds disbelief with deception and internal betrayal of the Muslim community."
+    },
+    {
+      "id": "4_21",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 145,
+      "question": "Ibn Kathir records a specific statement from the companion Ibn Mas'ud about the punishment of hypocrites based on verse 145. What did Ibn Mas'ud report?",
+      "options": [
+        "A) They will be placed alongside open polytheists and share the same punishment",
+        "B) They will be placed in coffins of fire that are closed and sealed around them in the lowest depth",
+        "C) They will be shown the rewards of believers but denied them eternally",
+        "D) They will be given one final opportunity to repent at the gates of Hell"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records Ibn Mas'ud's statement that the hypocrites will be placed in sealed coffins of fire at the very bottom of Hell. Imam al-Qurtubi uses this verse to refute the idea that outward conformity to Islamic practice is sufficient for salvation, emphasizing that the heart's sincerity is the decisive factor in divine judgment."
+    },
+    {
+      "id": "4_22",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 35,
-      "question": "Both Shia and Sunni traditions agree that verse 4:35 prescribes family arbitration as a framework for resolving marital discord.",
+      "layer": 3,
+      "verseNumber": 145,
+      "question": "True or false: Ibn Uthaymeen taught that minor hypocrisy, such as showing off in deeds and breaking promises, can gradually harden into the major hypocrisy of verse 145 if it is left unaddressed and unrepented.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "In Surah An-Nisaa 4:35, Allah prescribes a framework for resolving marital discord through arbitration, a directive rooted in principles of justice and communal responsibility, agreed upon by both Shia and Sunni exegetes."
+      "explanation": "Ibn Uthaymeen warned contemporary audiences that minor hypocrisy — characterized by the Prophet as showing off in deeds, laziness in worship, and breaking promises — can progressively harden into the major hypocrisy condemned in verse 145. He emphasized seeking regular refuge in Allah from hypocrisy in all its forms."
+    },
+    {
+      "id": "4_23",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 157,
+      "question": "What does verse 157 categorically deny regarding Jesus?",
+      "options": [
+        "A) That Jesus was a prophet sent to the Children of Israel",
+        "B) That Jesus performed any miracles during his ministry in Jerusalem",
+        "C) That Jesus was killed or crucified, stating it was made to appear so to those who claimed to do it",
+        "D) That Jesus will descend again before the Day of Judgment"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 157 states clearly 'they did not kill him, nor did they crucify him, but it was made to appear so (shubbiha lahum),' closing with the emphatic 'wa ma qataloohu yaqeenan' (they certainly did not kill him). This is a definitive article of Islamic faith distinguishing Muslim theology from Christian atonement doctrine."
+    },
+    {
+      "id": "4_24",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 159,
+      "question": "Imam al-Tabari and Ibn Kathir discuss two interpretations of the pronoun in 'qabla mawtihi' (before his death) in verse 159. Which interpretation does Ibn Kathir prefer, and what evidence does he cite?",
+      "options": [
+        "A) That it refers to each individual member of the People of the Book at their personal death, based on the general principle of death-bed recognitions",
+        "B) That it refers to the death of Jesus after his second descent to earth at the end of times, citing the hadith of Abu Hurairah in Sahih al-Bukhari and Sahih Muslim",
+        "C) That it refers metaphorically to the death of the Jewish nation as a political community",
+        "D) That both interpretations are equally valid and the verse deliberately preserves this ambiguity"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir endorses the interpretation that the pronoun refers to Jesus himself, meaning before Jesus dies after his return at the end of times. He cites the hadith of Abu Hurairah in Sahih al-Bukhari and Sahih Muslim about Jesus's descent, and notes that Abu Hurairah repeated three times 'the death of Isa' to clarify that the pronoun refers to the Messiah. Ibn Uthaymeen affirms that belief in Jesus's descent is obligatory for Ahl al-Sunnah."
+    },
+    {
+      "id": "4_25",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 159,
+      "question": "True or false: Sayyid Qutb interprets Jesus being appointed as a 'witness' over the People of the Scripture on the Day of Resurrection as a form of divine justice in which the very figure whose message was distorted becomes the final arbiter of accountability for those distortions.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qutb in Fi Zilal al-Quran describes the appointment of Jesus as a witness over the People of the Scripture on the Day of Resurrection as a precise act of divine justice: the one whose message was most severely distorted will himself testify about what his followers truly believed and practiced concerning him, making divine accountability complete."
+    },
+    {
+      "id": "4_26",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 156,
+      "question": "Wahbah al-Zuhayli notes that the Quran's defence of Mary's purity in verse 156 offers a notable point of common ground in Muslim-Christian dialogue. What does he identify as unique about the Quran's treatment of Mary among world scriptures?",
+      "options": [
+        "A) The Quran is the only scripture that discusses Mary's genealogy in detail",
+        "B) The Quran dedicates an entire surah to her name and repeatedly affirms her virtue, making it a scripture that explicitly defends her honour",
+        "C) The Quran is the only scripture that grants Mary prophetic status",
+        "D) The Quran uniquely allows Mary to be venerated but not in the manner of Christian saints"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir observes that the Quran's explicit defence of Mary is unique among world scriptures, as the Quran dedicates an entire surah (Maryam) to her name and repeatedly affirms her virtue. Ibn Uthaymeen adds that protecting honour (hifz al-ird) is one of the five essential objectives of the Shariah, and that false accusation (qadhf) carries a fixed legal penalty in Islamic law, grounded in Quranic passages like this one."
     }
   ]
 }

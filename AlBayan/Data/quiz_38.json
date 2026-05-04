@@ -6,265 +6,235 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the term 'Dhi al-Dhikr' in Surah Saad verse 1 signify?",
+      "question": "The opening of Surah Sad pairs the mysterious letter with an oath. What does Allah swear by in the very first verse?",
       "options": [
-        "The possessor of punishment",
-        "The possessor of profound remembrance",
-        "The possessor of knowledge",
-        "The possessor of power"
+        "A) The Prophet Muhammad",
+        "B) The Quran possessing dhikr (reminder)",
+        "C) The heavens and the earth",
+        "D) The Day of Judgment"
       ],
       "correctAnswer": "B",
-      "explanation": "The phrase 'Dhi al-Dhikr' carries layered meaning: 'Dhikr' signifies both 'reminder' and the Quran itself, which revives spiritual awareness. The Quran is described as the possessor of profound remembrance."
+      "explanation": "Allah swears by 'the Quran possessing dhikr,' affirming the Book's role as a perpetual reminder. Ibn Kathir notes that this oath establishes the Quran's supreme rank, and it links to the Prophet's hadith in Bukhari and Muslim that the best people are those who learn the Quran and teach it."
     },
     {
       "id": "38_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 17,
-      "question": "Prophet Dawud (David) is described in Surah Saad as 'awwab', meaning one who constantly turns back to Allah in repentance.",
+      "verseNumber": 2,
+      "question": "True or false: According to the tafsir of verse 2, the disbelievers of Makkah rejected the Quran primarily because they lacked sufficient evidence of its divine origin.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The title 'awwab' (one who constantly turns back to Allah) highlights Dawud's habit of sincere repentance and returning to divine connection even amid worldly responsibilities."
+      "correctAnswer": "false",
+      "explanation": "The tafsir is explicit that the disbelievers were trapped in 'izza (pride) and shiqaq (dissension), not a lack of proof. Imam Qurtubi states that rejection of truth is almost always a moral failure of arrogance. Muhammad al-Shaarawi observed that Allah diagnoses their condition rather than condemning them outright, leaving open the possibility of cure through humility."
     },
     {
       "id": "38_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 17,
-      "question": "What does the term 'dha al-ayd' attributed to Prophet Dawud in verse 17 signify?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Ibn Kathir records a specific historical occasion connected to the early verses of Surah Sad involving the Quraysh and Abu Talib. What was it?",
       "options": [
-        "Possessor of wealth",
-        "Possessor of armies",
-        "Possessor of strength (both physical and spiritual)",
-        "Possessor of followers"
+        "A) The Quraysh invited the Prophet to a peace treaty at the Kaaba",
+        "B) A delegation of Quraysh leaders went to Abu Talib to pressure him into withdrawing his protection of the Prophet",
+        "C) Abu Talib himself converted to Islam after hearing the opening verses",
+        "D) The Quraysh offered the Prophet wealth and leadership to stop preaching"
       ],
-      "correctAnswer": "C",
-      "explanation": "The term 'dha al-ayd' signifies both physical power and spiritual fortitude, reflecting Dawud's dual role as a warrior-king and a profoundly devoted worshipper."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that leaders including Abu Jahl went to Abu Talib, alarmed by the growing number of converts, demanding he withdraw his protection of the Prophet. They accused the Prophet of being a liar disrupting their social order, framing their objection in social and economic terms rather than theological ones."
     },
     {
       "id": "38_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 30,
-      "question": "What title does Allah give to Prophet Sulayman in Surah Saad verse 30?",
-      "options": [
-        "The Wise King",
-        "An excellent servant (ni'ma al-abd)",
-        "The Greatest Prophet",
-        "The Ruler of Jinn"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allah praises Sulayman as 'ni'ma al-abd' meaning 'an excellent servant', who was also 'awwab' - one who constantly turns back to Allah in repentance, gratitude, and devotion."
+      "verseNumber": 3,
+      "question": "True or false: The phrase 'lata hina manas' in verse 3, describing destroyed nations who cried out at the moment of punishment, means their cries were heard but could not remove all of the punishment.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The phrase means 'there was no time of escape' at all. Imam Tabari records that the cries were made in despair, not sincere repentance, and so were not accepted. Ibn Kathir connects this to the Quranic principle that faith before punishment descends is valid, but frantic cries at the moment of destruction are not."
     },
     {
       "id": "38_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Shia classical exegetes, what do 'izzah' (pride) and 'shiqaq' (dissension) in verse 2 represent?",
+      "layer": 3,
+      "verseNumber": 5,
+      "question": "Wahbah al-Zuhayli identifies an important practical reason why the Quraysh reacted with such organized hostility to the call of monotheism in verse 5. What was it?",
       "options": [
-        "Positive traits of believers",
-        "Existential conditions rooted in rejection of wilayah (divine guardianship)",
-        "Political strategies of the Prophet",
-        "Attributes of the angels"
+        "A) Fear that the Quran would replace Arabic poetry as the cultural standard of Arabia",
+        "B) Their economic and political investment in Makkah's polytheistic pilgrimage economy",
+        "C) Belief that abandoning the gods would cause drought and famine in Makkah",
+        "D) Concern that monotheism would invite Roman military intervention"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical Shia commentators emphasize that pride and dissension are not merely moral failings but existential conditions rooted in the rejection of wilayah (divine guardianship)."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir draws out the economic and political dimensions encoded in verse 5: the Kaaba housed 360 idols and Makkah's status as Arabia's religious center depended on maintaining the pantheon. Monotheism was an existential threat to the Makkan elite's wealth and influence, which explains why resistance was so fierce and organized."
     },
     {
       "id": "38_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 18,
-      "question": "According to Shia tafsir, the mountains' tasbih (glorification) with Prophet Dawud symbolizes the entire universe's inherent submission to Allah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The mountains' tasbih is symbolic of the entire universe's inherent submission to Allah, aligning with the Quranic principle that all beings, animate or inanimate, acknowledge His perfection in their own way."
+      "verseNumber": 17,
+      "question": "What two qualities does the Quran highlight when introducing Prophet Dawud in verse 17 as a model of patience for the Prophet Muhammad?",
+      "options": [
+        "A) His vast wealth and his military victories",
+        "B) His possession of strength (dhal-ayd) and his constant return to Allah (awwab)",
+        "C) His knowledge of the Psalms and his large family",
+        "D) His patience with his enemies and his ability to speak with animals"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 17 describes Dawud as 'dhal-ayd' (possessor of strength) and 'awwab' (one who constantly returns to Allah). Imam Tabari explains that 'awwab' denotes someone who returns to Allah continuously through repentance, praise, and turning to Him in all affairs — a defining characteristic shared by both Dawud and Sulayman in this surah."
     },
     {
       "id": "38_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 30,
-      "question": "According to Tabatabai in Al-Mizan, what does the term 'awwab' in relation to Sulayman denote?",
-      "options": [
-        "Mere occasional repentance",
-        "Constant return to Allah through self-accountability and spiritual vigilance",
-        "Rejection of worldly pleasures",
-        "Physical strength in battle"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The term 'awwab' denotes not mere repentance but a constant return to Allah through self-accountability (muhasaba) and spiritual vigilance, reflecting Solomon's alignment with the station of ismah (infallibility)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "True or false: The tafsir presents the mountains joining Dawud in glorifying Allah at 'al-ashi' and 'al-ishraq' in verse 18 as a real and audible miracle, not a mere metaphor.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The majority view of classical scholars, including Ibn Kathir, holds that the mountains' tasbih was literally real and audible. Imam Tabari records in Jami al-Bayan that the mountains were subjected by divine command to actually magnify Allah's praises alongside Dawud at the specified times — a true divine miracle, not a poetic expression."
     },
     {
       "id": "38_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 72,
-      "question": "What does the breathing of Allah's soul (ruh) into Adam signify according to classical Shia exegesis?",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "When Dawud judged the case of the two litigants in verse 24, what did he realize almost immediately, prompting him to fall into prostration?",
       "options": [
-        "Adam becoming equal to Allah",
-        "Adam gaining immortality",
-        "The conferral of a sacred spirit elevating humanity to vicegerency (khilafa)",
-        "Adam becoming an angel"
+        "A) That one of the litigants was a jinn in disguise testing him",
+        "B) That the encounter was a divine test and he had judged before fully hearing both parties",
+        "C) That he had mistakenly applied a rule from the Torah instead of direct revelation",
+        "D) That Allah was about to remove the kingdom from him as a punishment"
       ],
-      "correctAnswer": "C",
-      "explanation": "The act of 'breathing' the divine soul into Adam signifies the conferral of a sacred, created spirit that elevates humanity to a unique station of vicegerency (khilafa)."
+      "correctAnswer": "B",
+      "explanation": "The tafsir states that Dawud recognized the situation as a divine test — he had judged after hearing only one party. This procedural lapse, however minor by human standards, was significant for a prophet-king whose justice was meant to be exemplary. His response was immediate: sincere prostration and repentance. Imam Qurtubi derives from this verse the legal principle that a judge errs by ruling without hearing both sides."
     },
     {
       "id": "38_9",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 17,
-      "question": "Contemporary scholars link Dawud's trait of being 'awwab' to modern psychological concepts like resilience and neuroplasticity.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Dr. Ali Reza's research on 'Spiritual Grit' links repetitive repentance to neuroplasticity, arguing that habitual self-correction rewires the brain toward patience and adaptability."
+      "verseNumber": 25,
+      "question": "Sayyid Qutb's reflection on verse 25, which records Allah's forgiveness of Dawud and the promise of 'nearness' (zulfa), presents tawbah as doing what to the repentant person's spiritual rank?",
+      "options": [
+        "A) It restores the servant to exactly the state they were in before the lapse",
+        "B) It removes the record of sin but leaves the servant's rank unchanged",
+        "C) It not only forgives but propels the repentant soul toward a higher level of divine intimacy than before",
+        "D) It grants forgiveness only after an extended period of compensatory good deeds"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that divine forgiveness is 'not merely an erasure but a renewal and an elevation.' Allah did not simply remove Dawud's lapse — He affirmed His closeness and promised a beautiful destination. Qutb argues that sincere repentance does not merely restore the status quo but propels the soul toward higher divine intimacy."
     },
     {
       "id": "38_10",
-      "type": "multipleChoice",
-      "layer": 3,
+      "type": "trueFalse",
+      "layer": 2,
       "verseNumber": 30,
-      "question": "According to contemporary Shia scholarship, what does Sulayman's governance model offer for modern times?",
-      "options": [
-        "A model for military conquest",
-        "A template for addressing climate change and geopolitical fragmentation",
-        "A guide for accumulating wealth",
-        "A framework for isolationism"
-      ],
-      "correctAnswer": "B",
-      "explanation": "His legendary governance - balancing ecological sensitivity, economic justice, and diplomacy - offers a template for addressing climate change and geopolitical fragmentation."
+      "question": "True or false: Imam Qurtubi notes in his tafsir that verse 30, which calls Sulayman a gift given to Dawud, teaches that receiving a righteous and wise child is among the greatest blessings Allah can grant a parent.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qurtubi in Al-Jami li-Ahkam al-Quran draws this lesson explicitly from the verse's framing of Sulayman as a divine gift to Dawud. He connects it to the spiritual principle that the righteous example and faith a parent transmits to their children is among the most enduring of their deeds."
     },
     {
       "id": "38_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 72,
-      "question": "How do contemporary scholars interpret the 'breathing of divine spirit' in relation to modern challenges?",
+      "layer": 1,
+      "verseNumber": 31,
+      "question": "The display of the noble horses before Sulayman in verse 31 takes place at 'al-ashiyy' — the late afternoon. Why does the tafsir consider the timing significant?",
       "options": [
-        "As irrelevant to modern life",
-        "As a caution against reducing humans to mere data or machines in the age of AI",
-        "As support for technological dominance",
-        "As permission for environmental exploitation"
+        "A) It was the time designated for receiving foreign ambassadors in Solomon's court",
+        "B) The late afternoon coincided with the time of the Asr prayer, making Sulayman's distraction spiritually consequential",
+        "C) It was the only time the horses could be displayed safely due to the heat of the day",
+        "D) The late afternoon was when Sulayman customarily reviewed military dispatches"
       ],
       "correctAnswer": "B",
-      "explanation": "In an era of AI and transhumanism, scholars like Dr. Mahdi Mehrizi caution against reducing humans to mere data or machines, stressing that the 'divine breath' underscores irreplicable spiritual agency."
+      "explanation": "Classical scholars unanimously identified 'al-ashiyy' as coinciding with the Asr prayer time. Ibn Kathir explains that Sulayman became so absorbed in reviewing the horses — an act permissible and encouraged for military readiness — that the prayer time passed. This was not deliberate neglect but an inadvertent distraction, illustrating the thin line between legitimate worldly engagement and distraction from Allah's remembrance."
     },
     {
       "id": "38_12",
       "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 69,
-      "question": "The verse about the Prophet's lack of knowledge of the 'exalted assembly' aligns with modern scientific humility about the limits of observable reality.",
+      "verseNumber": 34,
+      "question": "True or false: Wahbah al-Zuhayli and Ibn Kathir both recommend adopting the detailed Israelite narratives about what the 'jasad' on Sulayman's throne in verse 34 was, since they provide the richest understanding of the trial.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "This aligns with modern scientific humility, where disciplines like quantum physics acknowledge the limits of observable reality, mirroring the verse's theme of unseen cosmic dimensions beyond human perception."
+      "correctAnswer": "false",
+      "explanation": "Both Ibn Kathir and Wahbah al-Zuhayli caution against relying on the Isra'iliyyat stories that attempt to identify the 'jasad.' Ibn Kathir states explicitly that such reports cannot be confirmed from any authentic hadith and should be neither affirmed nor denied. Wahbah al-Zuhayli concludes that the most sound approach is to affirm the trial as stated without specifying its precise nature beyond what the Quran says."
     },
     {
       "id": "38_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 17,
-      "question": "According to Imam Ali (AS), what are the two kinds of patience?",
+      "layer": 2,
+      "verseNumber": 35,
+      "question": "Imam Tabari records that scholars of the Salaf considered Sulayman's bold prayer for an unprecedented kingdom in verse 35 to be praiseworthy. What reason did they give?",
       "options": [
-        "Patience in wealth and patience in poverty",
-        "Patience in adversity and patience in avoiding disobedience",
-        "Patience in prayer and patience in fasting",
-        "Patience in victory and patience in defeat"
+        "A) Because asking for great things demonstrates supreme confidence in oneself",
+        "B) Because the kingdom was intended as a vehicle for Allah's worship, spreading tawhid and establishing divine justice",
+        "C) Because Sulayman was a prophet and prophets are permitted to ask for whatever they wish",
+        "D) Because the prayer showed that worldly ambition is always acceptable when accompanied by a request for forgiveness"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) said, 'Patience is of two kinds: patience in adversity and patience in avoiding disobedience. The latter is superior.'"
+      "explanation": "Imam Tabari records in Jami al-Bayan that the Salaf considered Sulayman's prayer valid and praiseworthy because he used his kingdom in service of Allah's religion — subduing disbelief, spreading tawhid, and demonstrating divine power through his miraculous authority over jinn and winds. The kingdom's ultimate purpose was worship and the establishment of justice."
     },
     {
       "id": "38_14",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 30,
-      "question": "According to Imam Sadiq (AS), what does being 'awwab' mean in practice?",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "The tafsir describes Ayyub's supplication in verse 41 as a model of how to call upon Allah in hardship. Which of the following best captures what makes it exemplary?",
       "options": [
-        "Praying once a year",
-        "Returning from negligence to vigilance seven times daily",
-        "Giving charity monthly",
-        "Fasting occasionally"
+        "A) He demanded immediate relief and reminded Allah of his years of patient worship",
+        "B) He suppressed his suffering entirely and made no request, relying only on patience",
+        "C) He asked the angels to intercede on his behalf before making his own supplication",
+        "D) He called out simply — 'harm has touched me' — combining honest acknowledgment of need with complete trust in Allah"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Sadiq (AS) states, 'The awwab is one who returns from negligence to vigilance seven times daily' (Bihar al-Anwar)."
+      "correctAnswer": "D",
+      "explanation": "Ibn Uthaymeen highlights that Ayyub's supplication is 'one of the most beautifully restrained prayers in the Quran.' He did not rage, demand, or remind Allah of his merits but simply presented his condition with honesty and trust. The tafsir frames this as the correct Islamic posture in hardship: direct, humble, and confident in divine mercy."
     },
     {
       "id": "38_15",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 72,
-      "question": "According to Ahlul Bayt teachings, the angels prostrated to Adam because they recognized the light of Wilayah (divine guardianship) within him.",
+      "layer": 3,
+      "verseNumber": 42,
+      "question": "True or false: According to Sayyid Qutb's commentary on verse 42, Allah's command to Ayyub to strike the ground was entirely passive — Allah could have healed him without requiring any action.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Jafar as-Sadiq (AS) explains that when Allah breathed His 'created soul' into Adam, it carried within it the luminous essence of Muhammad and his purified progeny. The angels were bowing to the divine light of Wilayah embedded within humanity's father."
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran specifically emphasizes that Allah engaged Ayyub actively, asking him to participate in his own healing through striking the ground. This preserved Ayyub's dignity and agency. Ibn Uthaymeen draws from this the principle that du'a must be combined with action, reflecting the complete Islamic approach to hardship."
     },
     {
       "id": "38_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ali (AS), what does the letter 'Saad' symbolize in the opening verse?",
+      "layer": 1,
+      "verseNumber": 74,
+      "question": "Verse 74 states that Iblis 'was arrogant and became one of the disbelievers.' What does the tafsir identify as the inner disease that caused his eternal ruin?",
       "options": [
-        "The beginning of time",
-        "The wilayah (divine guardianship) of Imam Ali",
-        "The creation of the universe",
-        "The end of prophethood"
+        "A) His ignorance — he genuinely did not understand that Adam deserved honor",
+        "B) His arrogance (kibr) — he placed his own judgment above the command of Allah",
+        "C) His envy — he was jealous of Adam's closeness to the angels",
+        "D) His despair — he believed that his mistake could never be forgiven"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (AS) elucidates that 'Saad' symbolizes the wilayah of Imam Ali (AS), the gate to Qur'anic wisdom."
+      "explanation": "The tafsir is clear that Iblis understood the command but refused out of arrogance, considering himself too superior to comply. Fakhr al-Din al-Razi points out that Iblis used his own reasoning to override a divine command and wrongly assumed material composition determined worth. Imam Qurtubi cites the hadith in Sahih Muslim where the Prophet defined kibr as 'rejecting truth and looking down on people.'"
     },
     {
       "id": "38_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 17,
-      "question": "What is a key theological difference between Shia and Sunni interpretation of Dawud's trials?",
+      "layer": 2,
+      "verseNumber": 75,
+      "question": "The phrase 'what I created with My two hands' in verse 75 is a matter of Sunni theological discussion. What is the position affirmed by Ibn Kathir and Ibn Taymiyya?",
       "options": [
-        "Both traditions view them identically",
-        "Shia scholars reject the story entirely",
-        "Shia interpret trials as tests of leadership, while Sunni may see them as tests of repentance for minor errors",
-        "Sunni scholars reject Dawud as a prophet"
+        "A) The phrase is purely metaphorical and must be re-interpreted as 'divine power' to avoid anthropomorphism",
+        "B) The phrase is affirmed as a real divine attribute, as stated, without analogy to created hands — affirming with sanctification",
+        "C) The phrase is a scribal variant and does not appear in the most authentic manuscripts",
+        "D) The phrase means Allah took physical clay in His hands to shape Adam the way a craftsman would"
       ],
-      "correctAnswer": "C",
-      "explanation": "Shia commentaries reject any attribution of sin to prophets, interpreting David's 'turning back' as heightened spiritual vigilance rather than rectifying moral failure. Sunni scholars may interpret his trials as tests of repentance."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir and the Sunni Athari tradition, as recorded in the tafsir, adopt the position of affirming with sanctification: accepting what Allah has said of Himself while maintaining absolute divine transcendence guided by Surah al-Shura verse 11 that 'nothing is like Allah.' The attribute is real, affirmed as stated, but without any comparison to created hands."
     },
     {
       "id": "38_18",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 72,
-      "question": "Both Shia and Sunni scholars agree that the angels' prostration to Adam was an act of obedience to Allah, not worship of Adam.",
+      "layer": 3,
+      "verseNumber": 43,
+      "question": "True or false: After Ayyub's patience and healing, verse 43 records that Allah restored his family and additionally gave him a like number alongside them, describing the whole restoration as 'mercy from Us' rather than as Ayyub's reward for merit.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Classical commentators universally agree that the prostration command demonstrates Adam's divinely ordained superiority, though strictly as an act of reverence (ta'zim) rather than worship ('ibada)."
-    },
-    {
-      "id": "38_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What do both Shia and Sunni exegetes agree upon regarding the disconnected letter 'Saad'?",
-      "options": [
-        "It has no meaning",
-        "It is a divine secret whose full meaning is reserved for Allah's knowledge",
-        "It refers to Prophet Muhammad only",
-        "It is a scribal error"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The mysterious disconnected letter Saad is universally acknowledged as a divine secret (sirr ilahi), with both Shia and Sunni traditions citing sources that defer its full meaning to God's knowledge."
-    },
-    {
-      "id": "38_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 30,
-      "question": "Both Shia and Sunni traditions use Sulayman's example to encourage believers toward piety and self-reflection.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions reinforce Sulayman's model of devotion, encouraging believers toward piety and self-reflection, demonstrating how shared scriptural foundations inspire complementary spiritual insights."
+      "explanation": "The tafsir of verse 43 confirms that Allah granted Ayyub 'his family and a like number with them' — doubling his blessings. The phrase 'rahmatan minna' (mercy from Us) emphasizes that restoration came purely from divine grace, not from Ayyub's earned merit. Wahbah al-Zuhayli situates this within the broader Quranic pattern of divine responses to prophetic du'a that exceed all expectation."
     }
   ]
 }

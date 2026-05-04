@@ -6,136 +6,155 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In the opening verse of Surah Al-Fajr, what does the term 'fajr' (dawn) primarily symbolize according to the Foundation Layer?",
+      "question": "Surah Al-Fajr opens with the divine oath 'By the dawn.' What does the Arabic root of 'al-fajr' literally convey?",
       "options": [
-        "Only the physical break of day",
-        "The breaking of dawn as a spiritual metaphor for enlightenment and resurrection",
-        "A specific historical event",
-        "The time for morning prayers exclusively"
+        "The slow setting of the sun on the horizon",
+        "The bursting open or splitting of light across the darkness",
+        "The complete silence of the desert at midnight",
+        "The gradual cooling of the air before sunrise"
       ],
-      "correctAnswer": "The breaking of dawn as a spiritual metaphor for enlightenment and resurrection",
-      "explanation": "In Shia tafsir, scholars like Allamah Tabatabai and Shaykh Makarim Shirazi explain that Allah's oaths in the Quran serve to highlight realities central to human guidance. The term 'fajr' refers literally to the breaking of dawn, but also serves as a profound spiritual metaphor for enlightenment and the daily reminder of resurrection."
+      "correctAnswer": "B",
+      "explanation": "Layer 1 explains that the root of 'fajr' conveys the sense of something bursting open, describing the precise moment when the first thread of light splits the darkness of night. The dawn itself becomes a sign of Allah's power over creation."
     },
     {
       "id": "89_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 6,
-      "question": "The tribe of 'Aad mentioned in verse 6 was destroyed despite their towering physical strength and architectural marvels because they grew arrogant and rejected divine guidance.",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: According to Imam al-Tabari and Ibn Kathir, the strongest interpretation of 'ten nights' in verse 2 is that they refer to the first ten nights of Dhul Hijjah, supported by a hadith of Ibn Abbas in Sahih Bukhari.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. The ancient tribe of 'Aad, who inhabited the desert regions of modern-day Yemen and Oman, were known for their towering physical strength and architectural marvels. They grew arrogant, rejecting the warnings of Prophet Hud, and were consequently destroyed by a devastating storm as divine punishment."
+      "explanation": "Tabari, after weighing chains of narration, gave decisive preference to the first ten nights of Dhul Hijjah, citing the hadith of Ibn Abbas in Sahih Bukhari. Ibn Kathir concurs unequivocally in Tafsir al-Quran al-Azim."
     },
     {
       "id": "89_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegesis by Allama Tabatabai and Sheikh Tabrisi, how is the oath 'By the dawn' understood?",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "What is one of the most widely cited interpretations of 'al-shaf' wa al-watr' (the even and the odd) in verse 3?",
       "options": [
-        "As a simple poetic device with no deeper meaning",
-        "Through multilayered theological and cosmological lenses emphasizing profound symbolism",
-        "Only as a reference to the time for prayer",
-        "As a historical reference to the Prophet's migration"
+        "The even is the moon and the odd is the sun",
+        "The even is the day of Arafah and the odd is the day of Eid",
+        "The even is the day of Eid al-Adha and the odd is the day of Arafah",
+        "The even refers to angels and the odd refers to jinn"
       ],
-      "correctAnswer": "Through multilayered theological and cosmological lenses emphasizing profound symbolism",
-      "explanation": "Both Allama Tabatabai in Al-Mizan and Sheikh Tabrisi in Majma al-Bayan emphasize that Allah's oath by 'al-Fajr' serves to draw attention to the profound symbolism embedded in this natural phenomenon, understanding it through multilayered theological and cosmological lenses rather than as a mere poetic device."
+      "correctAnswer": "C",
+      "explanation": "The most widely cited and hadith-supported interpretation, grounded in a narration from Ibn Abbas and confirmed by Imam Qurtubi, holds that al-watr refers to the 9th of Dhul Hijjah (Arafah) and al-shaf' refers to the 10th (Eid al-Adha)."
     },
     {
       "id": "89_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 11,
-      "question": "In classical Shia exegesis, who do Tabrisi and Tabatabai identify as the archetypal adversaries referenced in verse 11's mention of 'those who oppressed in the lands'?",
-      "options": [
-        "Only contemporary political figures",
-        "Pharaoh, Nimrod, and the tyrants of 'Ad and Thamud",
-        "Natural disasters and calamities",
-        "Ordinary sinners without positions of power"
-      ],
-      "correctAnswer": "Pharaoh, Nimrod, and the tyrants of 'Ad and Thamud",
-      "explanation": "Both Tabrisi in Majma al-Bayan and Tabatabai in Al-Mizan identify these oppressors as archetypal adversaries of divine guidance, including Pharaoh, Nimrod, and the tyrants of the ancient tribes of 'Ad and Thamud, who disrupted divine order through systemic corruption."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "True or false: The Arabic word 'hijr' in verse 5 ('an oath sufficient for one of hijr') is rooted in the meaning of restraint, and from this root comes the concept of intellect because it restrains a person from irrational conduct.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explains that 'hijr' literally means 'to prevent' or 'to restrain,' and 'dhi hijr' means a person of sound mind whose intellect prevents them from acting irrationally. The verse links intellectual integrity to spiritual perception."
     },
     {
       "id": "89_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How do contemporary scholars like Ayatollah Nasir Makarem Shirazi interpret the opening verse about dawn in relation to modern scientific understanding?",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "How does the tafsir describe the people of 'Iram, possessors of lofty pillars' (verse 7) in connection with the people of Aad?",
       "options": [
-        "They reject scientific explanations entirely",
-        "They frame dawn as a daily reminder of resurrection aligning with scientific insights on cyclical renewal",
-        "They focus only on astronomical calculations",
-        "They dismiss the verse as outdated metaphor"
+        "They were a tribe of nomads with no permanent settlements",
+        "They were known for their towering architecture and were destroyed by a devastating wind",
+        "They were a peaceful merchant people who voluntarily accepted Hud's message",
+        "They were a coastal seafaring civilization unrelated to Aad"
       ],
-      "correctAnswer": "They frame dawn as a daily reminder of resurrection aligning with scientific insights on cyclical renewal",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes the verse's connection to divine order in natural phenomena, framing dawn as a daily reminder of resurrection (Qiyamah) and the cyclical renewal of hope, which aligns with scientific understanding of natural cycles and renewal."
+      "correctAnswer": "B",
+      "explanation": "Tabari and Ibn Kathir describe Aad as a powerful Arabian civilization known for towering architecture (Iram of the lofty pillars) and material prosperity, eventually destroyed by a devastating wind for rejecting Prophet Hud and persisting in arrogance."
     },
     {
       "id": "89_6",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 11,
-      "question": "According to contemporary Shia scholarship, verse 11's reference to oppressors applies only to ancient tyrants and has no relevance to modern systemic injustice or ecological ethics.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Naser Makarem Shirazi in Tafsir Nemuneh contextualizes the 'oppressors' as not merely ancient tyrants like Pharaoh or Thamud, but as any power structure violating divine limits, including modern systemic injustice and ecological exploitation. Contemporary scholars increasingly interpret this verse through lenses of systemic injustice and ecological ethics."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "What distinguishing achievement of the people of Thamud is mentioned in verse 9 ('who carved the rocks in the valley')?",
+      "options": [
+        "They built the first ocean-going ships",
+        "They cut their homes directly out of rocky mountains in the valley",
+        "They invented a written alphabet still in use today",
+        "They constructed the first planned irrigation networks"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Layer 1 explains that Thamud literally cut their homes out of the rocky mountains of the valley. The ruins at Madain Salih, with their rock-cut tombs carved into sandstone, remain as a tangible legacy. Yet their mastery of stone could not save them when they defied Prophet Salih."
     },
     {
       "id": "89_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to the teachings of Imam Ali (peace be upon him), what does 'the dawn' signify beyond the physical break of day?",
-      "options": [
-        "Only the time for morning prayer",
-        "The physical break of day and the spiritual emergence of divine light from darkness",
-        "A specific historical battle",
-        "The end of the night watch"
-      ],
-      "correctAnswer": "The physical break of day and the spiritual emergence of divine light from darkness",
-      "explanation": "Imam Ali (peace be upon him) taught that every Quranic oath contains layers of wisdom, and 'the dawn' signifies both the physical break of day and the spiritual emergence of divine light from darkness, representing the manifestation of divine guidance through the Ahlul Bayt."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 14,
+      "question": "True or false: Fakhr al-Din al-Razi, in line with Ashari theology, classifies 'bi-al-mirsad' in verse 14 as a metaphor for Allah's complete knowledge and inevitable recompense, rejecting any implication of spatial location for Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi in Mafatih al-Ghayb firmly classifies 'bi-al-mirsad' as a metaphor (isti'arah) for Allah's encompassing knowledge and inevitable recompense, not an attribution of spatial location, consistent with the Ashari and Maturidi consensus that Allah is beyond place and direction."
     },
     {
       "id": "89_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 17,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 17, what deeper meaning does 'honoring the orphan' carry?",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "Verse 15 critiques a fundamental human error. What mistaken conclusion does the human make when Allah grants him honor and comfort?",
       "options": [
-        "Only providing material support to orphaned children",
-        "A profound reference to abandoning the divine guardianship (Wilayah) of the Imams after the Prophet's passing",
-        "Building orphanages exclusively",
-        "Adopting orphans into one's family"
+        "That his good fortune was earned by his ancestors",
+        "That his Lord has honored him, treating a divine test as a personal reward",
+        "That he should immediately give all his wealth to the poor",
+        "That his bounty is a curse in disguise"
       ],
-      "correctAnswer": "A profound reference to abandoning the divine guardianship (Wilayah) of the Imams after the Prophet's passing",
-      "explanation": "Imam Ja'far al-Sadiq (peace be upon him) taught that this verse condemns those who 'failed to honor the orphan of Muhammad's family'—a profound reference to abandoning the divine guardianship (Wilayah) of the Imams after the Prophet's (peace be upon him) passing, revealing layers of meaning beyond surface-level neglect."
+      "correctAnswer": "B",
+      "explanation": "The verb 'ibtala' means to test, not simply to gift. The human wrongly says 'My Lord has honored me,' confusing a test with a reward. Ibn Kathir notes this is a profound misunderstanding - Allah provides to believer and unbeliever alike, and provision is not a measure of moral standing."
     },
     {
       "id": "89_9",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 14,
-      "question": "Both Shia and Sunni exegetical traditions agree that verse 14's declaration 'your Lord is in observation' underscores divine justice and accountability.",
+      "layer": 2,
+      "verseNumber": 19,
+      "question": "True or false: Imam al-Tabari and al-Qurtubi explain that verse 19's condemnation of 'devouring inheritance' refers to the pre-Islamic Arabian practice of giving inheritance only to adult male warriors and excluding women, children, and the disabled.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Both traditions universally affirm Allah's omnipresence and omniscience as central to this verse, agreeing that it underscores divine justice and accountability. Al-Tabari (Sunni) and Al-Tabrisi (Shia) both emphasize this verse as reflecting God's role as the ultimate adjudicator and His unwavering vigilance over creation."
+      "explanation": "Qurtubi, drawing on Tabari's transmissions, details how the Arabs of the Jahiliyya gave inheritance rights only to adult male warriors, entirely excluding women, children, and the disabled. Ibn Kathir adds that the verse also covers the active consumption of orphans' wealth by guardians."
     },
     {
       "id": "89_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 27,
-      "question": "What is the core convergence between Shia and Sunni interpretations of the 'reassured soul' (an-nafs al-mutma'innah) in verse 27?",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "According to Sayyid Qutb and Wahbah al-Zuhayli, what is the deeper purpose of verse 20's diagnosis 'and you love wealth with immense love'?",
       "options": [
-        "Both reject the concept of spiritual reassurance",
-        "Both recognize it as referencing the spiritually perfected believer welcomed into divine proximity",
-        "They have completely opposite interpretations with no common ground",
-        "Both limit it to a physical state rather than spiritual"
+        "To prohibit Muslims from earning any wealth at all",
+        "To identify the spiritual root cause of neglecting orphans, the poor, and rightful heirs",
+        "To praise those who accumulate wealth through trade",
+        "To teach that poverty is itself a sign of divine favor"
       ],
-      "correctAnswer": "Both recognize it as referencing the spiritually perfected believer welcomed into divine proximity",
-      "explanation": "Classical commentators universally recognize the 'reassured soul' (al-nafs al-mutma'innah) as referencing the spiritually perfected believer welcomed into divine proximity. Tabari (Sunni) and Tusi (Shia) both emphasize this as an eschatological address to those who have attained unshakable certainty and spiritual fulfillment."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb sees this verse as capturing the foundational crisis of a society that has made wealth its god. Wahbah al-Zuhayli frames it as establishing 'itidal' (moderation): Islam does not prohibit possession, but excessive love of wealth is the underlying cause of the social crimes condemned in verses 17-19."
+    },
+    {
+      "id": "89_11",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "Ibn Kathir cites a narration from Ibn Abbas that verse 27 ('O reassured soul') was connected to which Companion when revealed?",
+      "options": [
+        "Umar ibn al-Khattab",
+        "Abu Bakr al-Siddiq",
+        "Uthman ibn Affan",
+        "Bilal ibn Rabah"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Abbas, as reported by Ibn Kathir, narrated that this verse was revealed while Abu Bakr al-Siddiq was sitting with the Prophet, who said, 'This will be said to you.' His soul, nourished by unshakeable certainty, embodied the nafs al-mutmainnah."
+    },
+    {
+      "id": "89_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 28,
+      "question": "True or false: In verse 28's pairing 'radiyatan mardiyyah,' the active participle 'radiyatan' describes the soul's own contentment with Allah, while the passive participle 'mardiyyah' describes Allah's pleasure with the soul.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explains that 'radiyatan' is an active participle - the soul is the agent of its own pleasure with its Lord - while 'mardiyyah' is a passive participle indicating the soul receives Allah's approval. Ibn Uthaymeen notes that this rida is the highest spiritual station of the believer."
     }
   ]
 }

@@ -6,135 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the 'star' (najm) in verse 1 symbolize in Shia tradition?",
+      "question": "What is the primary rhetorical purpose of Allah swearing by the descending star at the opening of Surah An-Najm?",
       "options": [
-        "Only the physical stars in the sky",
-        "The Prophet Muhammad and the Ahlul Bayt as spiritual guides",
-        "A specific constellation used for navigation",
-        "The angels in heaven"
+        "A. To describe the scientific nature of stellar motion to the Arabs",
+        "B. To arrest attention and affirm the absolute truthfulness of the Prophet's mission",
+        "C. To warn the Arabs about the imminent destruction of their pagan idols",
+        "D. To introduce the story of the Night Journey to Jerusalem"
       ],
       "correctAnswer": "B",
-      "explanation": "In Shia tradition, the 'star' symbolizes both the Prophet Muhammad whose spiritual light descends to illuminate the path of truth, and the Ahlul Bayt as spiritual 'stars' guiding believers through darkness."
+      "explanation": "The divine oath by the descending star functions as a serious prelude to a momentous declaration, as Ibn Kathir explains. The surah was revealed when the Quraysh challenged the Prophet's integrity, and this oath was Allah's direct response, drawing immediate rhetorical weight from the Arabs' deep familiarity with stars as navigational and cultural markers."
     },
     {
       "id": "53_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 2,
-      "question": "Verse 2 ('Your companion has not strayed, nor has he erred') affirms the Prophet Muhammad's infallibility (ismah) in receiving and conveying divine guidance.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Imam al-Tabari's preferred view in Jami al-Bayan is that 'al-najm' in the opening oath refers specifically to the Pleiades, based on classical Arabic convention.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The dual negation 'ma dalla... wa ma ghawa' comprehensively rejects both intentional deviation and unintentional mistakes, affirming the Prophet's purity in both intention and execution of his mission - a core belief in Shia theology."
+      "explanation": "Tabari records that Ibn Abbas, Mujahid, and Sufyan al-Thawri all identified the star as the Pleiades, and Tabari himself preferred this interpretation, noting that when Arabs used the unqualified word 'al-najm' they conventionally meant the Pleiades. A minority view held it referred to Venus, while Abu Ubayda understood it generically for all stars at dawn."
     },
     {
       "id": "53_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 9,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does 'two bow lengths or nearer' (qaba qawsayn) symbolize?",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "The angel who taught the Prophet is described in verse 5 as 'shadid al-quwa,' meaning mighty in power. Whom does the overwhelming consensus of classical scholars identify as this figure?",
       "options": [
-        "A physical measurement of distance",
-        "The Prophet's complete spiritual annihilation (fana) in divine presence",
-        "The distance between Mecca and Medina",
-        "The length of the Prophet's prayer mat"
+        "A. Israfil, the angel appointed to blow the trumpet on the Day of Judgment",
+        "B. Mikail, the angel responsible for rain and sustenance",
+        "C. Jibreel, the Angel of Revelation",
+        "D. The angel of death, Malak al-Mawt"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai explains that 'two bow lengths' metaphorically represents the Prophet's complete annihilation (fana) in divine presence, where his existential reality became wholly subsumed by divine light (nur)."
+      "correctAnswer": "C",
+      "explanation": "Al-Tabari records the near-unanimous view of the Companions and Tabi'een — including Ibn Masud, Aisha, Abu Hurayra, and Qatada — that 'the one of mighty power' refers to Jibreel. Ibn Kathir confirms this consensus and cites Aisha's account in Sahih al-Bukhari of the first encounter in the cave of Hira, where Jibreel's embrace demonstrated his overwhelming physical power."
     },
     {
       "id": "53_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegesis, what does the 'descending star' literally reference?",
-      "options": [
-        "Only the morning star",
-        "Either the Pleiades constellation or the gradual revelation of Quranic verses",
-        "A meteor shower",
-        "The sun setting in the west"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi's Majma al-Bayan notes that the 'descending star' references either the Pleiades constellation (known to pre-Islamic Arabs) or the gradual revelation of Quranic verses, akin to stars illuminating spiritual darkness."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "True or false: Verse 11 of Surah An-Najm uses the word 'fuad' (heart) rather than 'ayn' (eye) to establish that the Prophet's perception of what he saw was genuine, not confusion or fabrication.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The verse states 'the heart did not lie about what he saw,' deliberately invoking 'fuad' — the innermost faculty of perception — rather than just the physical eye. As al-Qurtubi explains, attributing the vision to the heart rather than ordinary sight indicates a special mode of perception beyond sensory experience, affirming its truthfulness at the deepest level of the Prophet's consciousness."
     },
     {
       "id": "53_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 9,
-      "question": "Contemporary Shia scholars draw parallels between the verse's imagery of transcendent closeness and quantum physics' concept of non-locality.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern thinkers draw parallels with quantum physics' concept of non-locality, where particles remain connected beyond physical distance, mirroring the verse's imagery of transcendent closeness to the Divine."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "Verse 13 references 'a second descent' in which the Prophet saw Jibreel again. According to Ibn Kathir, where did this second vision occur?",
+      "options": [
+        "A. In a dream vision during the Prophet's illness shortly before the Hijra to Medina",
+        "B. In the cave of Hira at the very beginning of prophethood",
+        "C. At Sidrat al-Muntaha during the Night Journey and Ascension",
+        "D. Near the well of Zamzam during one of the early years of the Meccan mission"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir is unequivocal, citing hadith from Sahih Muslim and Sahih Bukhari, that this second vision occurred during the Miraj at Sidrat al-Muntaha. He records from Ibn Masud that the Prophet saw Jibreel in his true form on exactly two occasions: once near the horizon at the beginning of revelation, and once during the ascension at the Lote Tree of the Furthest Boundary."
     },
     {
       "id": "53_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 19,
-      "question": "According to contemporary scholars like Ayatollah Mohammad Ali Shomali, what might modern 'idols' referenced by verse 19 include?",
+      "verseNumber": 18,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran describes verse 18 as the structural 'pivot point' of the surah. Why does he give it that description?",
       "options": [
-        "Only physical statues",
-        "Consumerism, nationalism, or unchecked technological dominance",
-        "Only religious icons",
-        "Ancient artifacts in museums"
+        "A. Because it contains the longest single sentence in the surah",
+        "B. Because it seals the Miraj narrative and then the surah immediately shifts to challenge the pagan idols, creating a devastating rhetorical contrast",
+        "C. Because it is the verse where the angel Jibreel is named explicitly for the first time",
+        "D. Because it marks the midpoint of the surah's 62 verses"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars emphasize that verse 19's critique isn't merely historical but invites critical reflection on modern 'idols' such as consumerism, nationalism, or unchecked technological dominance that distort humanity's connection to divine purpose."
+      "explanation": "Qutb notes the literary brilliance of this structural transition: the Prophet has just witnessed the greatest signs of the Real, and then Allah immediately confronts the audience about their lifeless idols. Placing the sublime realities of the Miraj next to al-Lat and al-Uzza creates a devastating contrast that exposes the absurdity of polytheism without requiring extended argument."
     },
     {
       "id": "53_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 18,
-      "question": "According to Imam Jafar al-Sadiq, what did the 'greatest signs' that the Prophet witnessed include?",
+      "layer": 2,
+      "verseNumber": 19,
+      "question": "Ibn Kathir records an important historical detail about the origin of al-Lat based on a narration from Ibn Abbas. What was al-Lat originally?",
       "options": [
-        "Only physical wonders of nature",
-        "The luminous realities of the Ahlul Bayt as manifestations of Allah's guidance",
-        "The construction of the Kaaba",
-        "The battles of early Islam"
+        "A. A meteor that fell near Taif and was venerated as a celestial sign from the heavens",
+        "B. A carved statue of a moon goddess brought to Arabia from Babylon via trading caravans",
+        "C. A man who mixed a flour-based drink for pilgrims, whose grave was venerated after his death until it became an idol",
+        "D. A sacred spring near the Kaabah that dried up and was replaced with a stone image"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam al-Sadiq explains in Tafsir al-Qummi that the 'greatest signs' included the Prophet's vision of the Ahlul Bayt's luminous realities, who are manifestations of Allah's perfect guidance."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir cites Ibn Abbas that al-Lat was originally a man who used to mix sawiq (a flour-based drink) for pilgrims near the Kaabah, and after his death the people of Taif began to venerate his grave until it evolved into an idol. Al-Qurtubi notes that the specific naming of all three idols — al-Lat, al-Uzza, and Manat — was strategic, targeting the central pillars of Arabian polytheism by name."
     },
     {
       "id": "53_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to Imam Jafar al-Sadiq, the 'two bow-lengths' symbolizes the perfect harmony between divine will and human submission embodied in the Prophet and Imam Ali.",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "True or false: Both Ibn Uthaymeen and Wahbah al-Zuhayli affirm that the so-called 'Gharaniq' (Satanic Verses) story associated with verses 19-20 is rejected by Sunni scholarship on hadith-criticism and doctrinal grounds.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq explains in Tafsir al-Qummi that 'two bow-lengths' symbolizes the perfect harmony between divine will and human submission embodied in the Prophet and Imam Ali, whose souls were 'twin arcs in the bow of Allah's command.'"
+      "explanation": "Al-Zuhayli follows the mainstream Sunni position that the Gharaniq story is rejected on both hadith-criticism grounds and because it contradicts the Quranic principle of divine protection of revelation from corruption. Ibn Uthaymeen similarly classified it as fabricated in the view of scholars of hadith and theology, affirming that verses 19-20 form an unambiguous condemnation of the three idols consistent with the Quran's absolute rejection of polytheism."
     },
     {
       "id": "53_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 8,
-      "question": "What is a key difference between Shia and Sunni interpretations of verse 8 ('Then he approached and descended')?",
+      "layer": 1,
+      "verseNumber": 38,
+      "question": "Verse 38 declares that 'no bearer of burdens shall bear the burden of another.' What specific false arrangement in the narrative context of this surah does this verse directly refute?",
       "options": [
-        "Sunni scholars reject the Mi'raj entirely",
-        "Shia interpretations link the verse to the Imams' inherited wisdom, while Sunni readings focus on the Prophet's singular experience",
-        "There is no difference between the traditions",
-        "Shia scholars interpret it literally while Sunni scholars interpret it metaphorically"
+        "A. The tribal custom of a chieftain paying blood money on behalf of his entire clan",
+        "B. Walid ibn Mughirah's arrangement with a pagan companion who offered to carry his afterlife punishment in exchange for payment",
+        "C. The polytheist belief that al-Lat and al-Uzza would collectively absorb the sins of their worshippers",
+        "D. The practice of wealthy Meccans paying others to perform rituals at the Kaabah on their behalf"
       ],
       "correctAnswer": "B",
-      "explanation": "While both traditions view the verse as affirming prophethood, Shia interpretations often extend its implications to the Imams' inherited wisdom through the doctrine of walayah, whereas Sunni readings focus on the Prophet's singular revelatory experience."
+      "explanation": "As Ibn Kathir explains, this verse responds directly to Walid ibn Mughirah, who was dissuaded from faith by a companion who offered to bear his punishment in the afterlife for payment. Allah's decree is absolute: no one will carry another's burden on the Day of Judgment. Al-Razi adds that divine mercy operates through forgiveness and intercession, not the transfer of sins between souls."
     },
     {
       "id": "53_10",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 39,
+      "question": "True or false: Verse 39 ('there is nothing for a human being except what he strives for') means that a person is entirely on their own before Allah with no possibility of benefit from the prayers or charity that others perform on their behalf.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Qurtubi carefully explains that this verse establishes personal accountability without negating all benefit from others entirely. He clarifies that a person who initiates a good or bad practice is accountable for their own causal role in it. The Sunni scholarly tradition affirms that supplication and charity performed on behalf of the deceased can benefit them through Allah's mercy, while the foundational principle of individual accountability for one's own deeds remains intact."
+    },
+    {
+      "id": "53_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 19,
-      "question": "How do Shia sources like Tusi respond to the 'Satanic Verses' narrative regarding verse 19?",
+      "layer": 2,
+      "verseNumber": 43,
+      "question": "Verse 43 declares that Allah causes both laughter and weeping. Which hadith does Ibn Kathir cite in connection with this verse to establish the spiritual value of weeping from fear of Allah?",
       "options": [
-        "They accept it as historically accurate",
-        "They categorically dismiss it, citing the doctrine of prophetic infallibility (ismah)",
-        "They consider it partially true",
-        "They do not address it at all"
+        "A. The hadith recorded by Imam Muslim that whoever weeps on Friday will have their sins forgiven for the week",
+        "B. The hadith collected by Imam al-Tirmidhi that the eyes which weep from fear of Allah will not be touched by the fire of Hell",
+        "C. The hadith in Sahih al-Bukhari that the Prophet wept every night until his beard was wet",
+        "D. The hadith in Sunan Abu Dawud that the Prophet forbade laughing in the mosque"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia sources like Tusi (At-Tibyan) and Qummi categorically dismiss the 'Satanic Verses' narrative, citing the doctrine of ismah (prophetic infallibility) as incompatible with such accounts."
+      "explanation": "Ibn Kathir connects verse 43 to the hadith collected by Imam al-Tirmidhi in which the Prophet mentioned that the eyes which weep from the fear of Allah will not be touched by the fire of Hell. He notes this verse is part of a series affirming Allah's comprehensive control over all dimensions of created existence, including the most intimate — the emotions of the individual heart."
+    },
+    {
+      "id": "53_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 46,
+      "question": "How does Wahbah al-Zuhayli in Al-Tafsir al-Munir engage with modern biology when commenting on verse 46 ('from a sperm-drop when it is emitted')?",
+      "options": [
+        "A. He argues that modern genetics contradicts the Quranic account and must be reinterpreted allegorically",
+        "B. He notes that the Quran's attribution of sex determination to the nutfah aligns with the modern finding that sex is determined at fertilisation by the chromosomal composition of the sperm",
+        "C. He rejects all scientific commentary as inappropriate for Quranic tafsir",
+        "D. He argues that 'nutfah' refers to the egg cell rather than the sperm, based on modern embryology"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli notes that the Quran's precision in attributing sex determination to the nutfah stage aligns with the modern biological understanding that the sex of a child is determined at fertilisation by the chromosomal composition of the sperm cell, not the egg. This was unknown to seventh-century Arabs, making the Quranic statement a significant intellectual point that contemporary Muslims can reflect on with gratitude."
+    },
+    {
+      "id": "53_13",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 56,
+      "question": "True or false: Ibn Uthaymeen taught that verse 56, which describes the Prophet as a warner in the tradition of the former warners, should inspire humility in believers because belonging to the community of the last prophet is a responsibility rather than merely a privilege.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen observed that this verse, connecting Muhammad to the long chain of prophetic warners, should inspire humility in the believer. He stressed that Muslims today are called to see themselves as stewards of the final divine warning, with the obligation to carry and convey that message faithfully rather than simply taking pride in affiliation with the seal of the prophets."
+    },
+    {
+      "id": "53_14",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 57,
+      "question": "Why does verse 57 use the Arabic past tense 'azifat' (it has drawn near) to describe the Day of Judgment, a future event?",
+      "options": [
+        "A. Arabic grammarians classified this as a stylistic irregularity unique to this verse",
+        "B. It indicates the Day of Judgment already occurred spiritually for those who died before the Prophet",
+        "C. It is a well-recognised Quranic rhetorical device that presents a certain future event as an accomplished fact from the divine perspective",
+        "D. It signals that the Hour began to approach only from the moment the Prophet was born"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explains this as a recognised rhetorical feature of Quranic Arabic: Allah speaks of future events whose occurrence is absolutely certain as already accomplished. He cites the authentic hadith in which the Prophet said 'I and the Hour have been sent like these two,' pointing to his index and middle fingers side by side, reinforcing the nearness that the surah conveys throughout its closing verses."
+    },
+    {
+      "id": "53_15",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 62,
+      "question": "Verse 62 closes Surah An-Najm with the command to prostrate and worship Allah. What historically remarkable event accompanied the very first public recitation of this surah, as recorded in Sahih al-Bukhari and Sahih Muslim?",
+      "options": [
+        "A. The Quraysh leaders fled the mosque in anger and renewed their persecution of the Muslims",
+        "B. Only the believing Muslims prostrated while the polytheists who were present refused",
+        "C. The entire assembly present at the Kaabah — both Muslims and polytheists — fell in prostration together",
+        "D. The Prophet himself wept and did not prostrate, waiting for Jibreel to confirm the command"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records from Bukhari and Muslim that when the Prophet recited Surah An-Najm and reached verse 62, the entire gathering fell in prostration — including polytheists. Even Walid ibn al-Mughirah, a prominent opponent of Islam, pressed his forehead to a handful of dust when he could not fully prostrate, such was the overwhelming power of the moment. Ibn Uthaymeen cited this as evidence that Quranic recitation with proper presence penetrates even the most hardened hearts."
     }
   ]
 }

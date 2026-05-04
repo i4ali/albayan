@@ -6,110 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'al-adiyat' (the racers) in verse 1 refer to according to classical Shia commentators like Allamah Tabatabai?",
+      "question": "What does the Arabic word 'dabh' in the opening verse of Surah Al-Adiyat describe?",
       "options": [
-        "Angels descending from heaven",
-        "Warhorses galloping in battle with hooves striking sparks",
-        "Prophets racing to deliver divine messages",
-        "Stars moving across the night sky"
+        "The thunder of distant clouds",
+        "The heavy panting and snorting of horses at full gallop",
+        "The clatter of swords in battle",
+        "The footsteps of pilgrims rushing to Arafat"
       ],
-      "correctAnswer": "Warhorses galloping in battle with hooves striking sparks",
-      "explanation": "Allamah Tabatabai in Tafsir al-Mizan explains that al-adiyat (the racers) refers to warhorses galloping in battle, their hooves striking sparks and their breath heaving (dabhan – the panting sound from nostrils). Beyond the literal, this symbolizes the restless energy of human souls driven by worldly impulses."
+      "correctAnswer": "B",
+      "explanation": "Layer 1 explains that 'dabh' is the heavy breathing and snorting of a horse pushed to its full speed, a sound the Arabs of the Prophet's time recognized immediately and which is uniquely associated with horses charging in battle."
     },
     {
       "id": "100_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 2,
-      "question": "The phrase 'al-muriyat qadhan' (the producers of sparks when striking) in verse 2 refers to warhorses whose hooves strike stones to create sparks during battle.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Imam Tabari and the majority of classical Sunni scholars held that 'al-adiyat' refers to war-horses charging in jihad rather than camels of pilgrims.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Allah swears by al-muriyat qadhan—'the producers of sparks when striking'—a vivid image of warhorses galloping into battle, their hooves striking stones to create sparks. This verse symbolizes the intensity and urgency of striving in Allah's path."
+      "explanation": "Tabari, Ibn Kathir, and the majority of classical scholars of the Salaf adhered to the war-horse interpretation, citing Ibn Abbas, Qatadah, Mujahid, and Ikrimah, and noting that 'dabh' is a sound uniquely associated with horses, not camels."
     },
     {
       "id": "100_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 3,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what do 'al-mughirat subh' (the chargers at dawn) in verse 3 represent?",
+      "verseNumber": 2,
+      "question": "Why did Tabari and Ibn Kathir argue that the war-horse interpretation fits verse two ('al-muriyat qadha') better than the camel interpretation?",
       "options": [
-        "Merchants traveling at dawn for trade",
-        "Warhorses deployed in early morning raids, evoking imagery of valor and divine purpose",
-        "Birds flying at sunrise",
-        "Pilgrims journeying to Mecca"
+        "Because camels move faster than horses on rocky ground",
+        "Because camels were more common in Mecca than horses",
+        "Because camel hooves do not typically produce sparks the way iron-shod horse hooves do",
+        "Because the verse mentions weapons that only cavalry carried"
       ],
-      "correctAnswer": "Warhorses deployed in early morning raids, evoking imagery of valor and divine purpose",
-      "explanation": "Shaykh Tabrisi in Majma al-Bayan interprets these 'chargers' as warhorses deployed in early morning raids, evoking imagery of valor and divine purpose. Tabrisi emphasizes their role as instruments of divine justice in the context of legitimate defensive struggle."
+      "correctAnswer": "C",
+      "explanation": "Layer 2 records that classical scholars who took 'al-adiyat' as camels struggled to explain this verse, since camel hooves do not produce sparks as iron-shod horse hooves do — a point Tabari and Ibn Kathir used to support the war-horse reading as linguistically and contextually superior."
     },
     {
       "id": "100_4",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 4,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi reinterpret the 'stirring up dust' metaphor in verse 4?",
-      "options": [
-        "As literal desert sandstorms with no symbolic meaning",
-        "As forces of social disruption, revolution, and collective transformation",
-        "As agricultural activities during harvest season",
-        "As construction projects in modern cities"
-      ],
-      "correctAnswer": "As forces of social disruption, revolution, and collective transformation",
-      "explanation": "Modern thinkers like Ayatollah Nasir Makarem Shirazi emphasize the verse's layered symbolism: the charging horses of classical tafsir are reimagined as forces of social disruption, revolution, and movements that 'stir up' established norms to usher in justice and divine order."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: The word 'subha' in verse three indicates that the cavalry charge takes place at midday when visibility is greatest.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Layer 1 explains that 'subha' means at dawn or in the early morning. The dawn raid was the most feared and effective military strategy in ancient Arabian warfare because of the element of surprise and the disorienting half-light of early morning."
     },
     {
       "id": "100_5",
       "type": "multipleChoice",
-      "layer": 4,
+      "layer": 1,
       "verseNumber": 6,
-      "question": "According to the Ahlul Bayt's teaching, what does the term 'kanood' (ungrateful) in verse 6 truly signify?",
+      "question": "How did al-Hasan al-Basri famously define the word 'kanud' in verse six?",
       "options": [
-        "Simply forgetting to say 'thank you' to others",
-        "Spiritual blindness that denies Allah's blessings by rejecting His guidance and chosen representatives",
-        "Being late for prayers occasionally",
-        "Not giving charity to the poor"
+        "One who never prays at night",
+        "One who counts his calamities and forgets his blessings",
+        "One who refuses to fight in battle",
+        "One who hides his wealth from the poor"
       ],
-      "correctAnswer": "Spiritual blindness that denies Allah's blessings by rejecting His guidance and chosen representatives",
-      "explanation": "The Ahlul Bayt taught that 'kanood' (ungrateful) refers not merely to failing to say 'thank you,' but to a spiritual blindness that denies Allah's countless blessings by rejecting His guidance and His chosen representatives—a profound form of ingratitude that severs the soul from divine truth."
+      "correctAnswer": "B",
+      "explanation": "Al-Hasan al-Basri's definition of 'kanud' as 'the one who counts his calamities and forgets his blessings' is preserved in both Tabari's Jami al-Bayan and Ibn Kathir's tafsir as a particularly insightful elaboration on the nature of human ingratitude."
     },
     {
       "id": "100_6",
       "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 5,
-      "question": "According to contemporary scholars like Ayatollah Jawadi Amuli, verse 5 ('Arriving thereby in the center collectively') emphasizes the Quranic principle of wasatiyyah (balance) and calls for communities to unite in purpose while maintaining ethical equilibrium.",
+      "verseNumber": 8,
+      "question": "True or false: Sayyid Qutb argued that modern consumer culture institutionalises the very disease of intense love of wealth (hubb al-khayr) that the Quran diagnoses in verse eight.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Scholars like Ayatollah Jawadi Amuli and Dr. Reza Shah-Kazemi emphasize the verse's resonance with the Quranic principle of wasatiyyah (balance), urging communities to unite in purpose while maintaining ethical equilibrium. The 'center' symbolizes both a physical and metaphysical pivot for collective harmony."
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb argued that modern industrialised societies have elevated the acquisition of wealth and material comfort to a supreme life-goal, effectively institutionalising the love of khayr that verse eight identifies as the root of ingratitude."
     },
     {
       "id": "100_7",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 8,
-      "question": "On what core ethical critique do both Sunni (Al-Tabari) and Shia (Al-Tabrisi) exegetes converge in interpreting verse 8?",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "According to the majority Sunni reading recorded by Tabari and Ibn Kathir, who is the 'witness' (shahid) referred to in verse seven?",
       "options": [
-        "The importance of physical exercise and health",
-        "The condemnation of humanity's excessive love for material wealth (al-khayr) that distracts from spiritual priorities",
-        "The obligation to perform five daily prayers",
-        "The virtue of memorizing the entire Quran"
+        "The angels who record human deeds",
+        "The Prophet Muhammad on the Day of Judgment",
+        "The human being himself, who knows his own ingratitude",
+        "The earth, which will testify on Judgment Day"
       ],
-      "correctAnswer": "The condemnation of humanity's excessive love for material wealth (al-khayr) that distracts from spiritual priorities",
-      "explanation": "Both Al-Tabari (Sunni) and Al-Tabrisi (Shia) emphasize that verse 8 condemns humanity's intense love for material wealth (al-khayr), which distracts from spiritual priorities. Ibn Kathir and Al-Tusi similarly contextualize this within Quranic warnings against greed, showing convergence across both traditions."
+      "correctAnswer": "C",
+      "explanation": "Tabari and Ibn Kathir lean toward the reading that mankind is the witness against himself — he knows his own ingratitude and cannot claim ignorance. Ibn Kathir reinforces this with the parallel verse Al-Qiyamah 75:14: 'Rather, man will be a witness against himself.'"
     },
     {
       "id": "100_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 10,
-      "question": "According to Allama Tabatabai's Al-Mizan, what does the phrase 'wa hussila ma fi al-sudur' (that within the breasts is obtained) in verse 10 refer to?",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "What does the Arabic verb 'bu'thira' in verse nine convey about the resurrection of the dead?",
       "options": [
-        "Medical knowledge about human anatomy",
-        "The Day of Resurrection when innermost secrets and intentions of human hearts will be laid bare",
-        "Physical treasures hidden in chest containers",
-        "Scientific discoveries about the heart"
+        "A gentle, gradual emergence from the graves",
+        "A violent overturning and scattering of what is in the graves",
+        "A silent rising of souls without bodies",
+        "The sealing shut of all graves forever"
       ],
-      "correctAnswer": "The Day of Resurrection when innermost secrets and intentions of human hearts will be laid bare",
-      "explanation": "Allama Tabatabai elucidates that this verse underscores the ontological reality of divine accountability, wherein every concealed intention, belief, and moral state within the human soul will be manifested on the Day of Resurrection. The phrase refers to the complete unveiling of hearts' contents before Allah."
+      "correctAnswer": "B",
+      "explanation": "Layer 1 and Tabari's analysis explain that 'bu'thira' comes from the root meaning to scatter, overturn, or scatter violently. The graves do not merely open but are scattered and overturned, signaling the comprehensive and irreversible nature of the resurrection."
+    },
+    {
+      "id": "100_9",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "True or false: Wahbah al-Zuhayli explained that the divine name al-Khabir in the closing verse signals that Allah's judgment is not a mechanical weighing of recorded deeds but a comprehensive understanding of circumstances, intentions, and sincere efforts.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli reflects that al-Khabir signals divine justice tempered with intimate knowledge — Allah judges with full awareness of struggles, intentions, and every hidden act of gratitude or repentance, producing in the believer both accountability and trust."
     }
   ]
 }

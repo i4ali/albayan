@@ -6,200 +6,290 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'uqud' (contracts) in verse 1 encompass according to the tafsir?",
-      "options": ["Only business transactions", "Societal agreements, marital bonds, business dealings, and the covenant of recognizing Allah's lordship", "Only religious rituals", "Military alliances between tribes"],
-      "correctAnswer": "B",
-      "explanation": "The term 'uqud' (contracts) is expansive, including societal agreements, marital bonds, business dealings, and the primal covenant of recognizing Allah's lordship. This reflects the comprehensive nature of commitments in Islamic ethics."
+      "question": "The opening command of Surah Al-Maidah, 'fulfill all contracts,' uses the Arabic word uqud. What does the tafsir say this word encompasses?",
+      "options": [
+        "Only commercial business contracts between Muslim merchants",
+        "Only the covenant between a person and Allah as described in the Quran",
+        "Every binding agreement: the covenant with Allah, agreements between people, and all social and commercial contracts",
+        "Exclusively the tribal peace treaties made during the early Medinan period"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records that Ibn Abbas held uqud refers to divine covenants, but the majority position endorsed by Tabari himself is that the term is general, covering every category of covenant and contract — with Allah, between people, and in social and commercial life."
     },
     {
       "id": "5_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 3,
-      "question": "According to the tafsir, verse 3's declaration 'Today I have perfected your religion' is linked by Shia scholars to the event of Ghadir Khumm.",
+      "verseNumber": 1,
+      "question": "Verse 1 of Al-Maidah permits hunting while a person is in the state of ihram for Hajj or Umrah.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Many Shia scholars cite traditions from the Ahlul Bayt linking this verse's revelation to the event of Ghadir Khumm, where the Prophet publicly affirmed Imam Ali's leadership, marking the completion of divine guidance through the establishment of Wilayah."
+      "correctAnswer": "false",
+      "explanation": "The verse explicitly forbids it: 'other than those hunting while you are in a state of ihram.' According to hadith in Sahih Bukhari and Sahih Muslim, a muhrim who kills game owes a compensatory sacrifice, making hunting during ihram clearly prohibited."
     },
     {
       "id": "5_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 31,
-      "question": "In the story of Qabil (Cain) and Habil (Abel), what creature did Allah send to teach Qabil how to bury his brother?",
-      "options": ["A dove", "A crow", "An eagle", "A fox"],
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "Ibn Kathir explains that the verse prohibiting violation of sha'air Allah was partly revealed in relation to a specific historical situation. What was that situation?",
+      "options": [
+        "A group of Muslim traders were attacked in Makkah during the pilgrimage season",
+        "Some Muslims considered attacking polytheists traveling to Makkah for pilgrimage — the same people who had blocked Muslims from the Sacred Mosque",
+        "The Prophet forbade Muslims from trading with pilgrims arriving from non-Muslim tribes",
+        "Certain companions were found hunting within the boundaries of the Sacred Mosque"
+      ],
       "correctAnswer": "B",
-      "explanation": "Allah sent a crow (ghurab) to demonstrate burying the dead. Watching the crow scratch the earth to cover another crow's corpse, Qabil learned how to bury his brother, illustrating that even the lowest creatures can teach humans lessons when they heed divine signs."
+      "explanation": "Ibn Kathir records that this verse was revealed partly in relation to polytheists traveling to Makkah for pilgrimage whom some Muslims considered attacking, since those same people had blocked Muslims from the Sacred Mosque. The verse prohibited this, affirming universal protection for the pilgrimage season."
     },
     {
       "id": "5_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 67,
-      "question": "What does the Arabic term 'balligh' in verse 67 command the Prophet to do?",
-      "options": ["To pray more frequently", "To announce or deliver a divine message", "To migrate to Medina", "To declare war on disbelievers"],
-      "correctAnswer": "B",
-      "explanation": "The Arabic term 'balligh' is an urgent imperative meaning 'announce' or 'deliver,' emphasizing the Prophet's responsibility to convey Allah's message without hesitation. This verse is linked to the declaration at Ghadir Khumm."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "Sayyid Qutb described the Quranic command not to let enmity drive one to injustice as one of the highest moral achievements in human civilization.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb calls this instruction one of the highest moral achievements in human civilization, arguing that it transcends tribal and national psychology by demanding Muslims maintain justice even toward enemies who actively harmed them."
     },
     {
       "id": "5_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, what does 'fulfilling contracts' align with in Shia theology?",
-      "options": ["The concept of jihad", "The principle of Wilayah (divine guardianship)", "The practice of fasting", "The pillar of Hajj"],
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "On which occasion do Sunni classical scholars most widely report that the verse of perfection — 'Today I have perfected your religion' — was revealed?",
+      "options": [
+        "The night of the Prophet's migration from Makkah to Madinah",
+        "The Day of Arafah during the Farewell Pilgrimage, which fell on a Friday",
+        "The day of the conquest of Makkah when the Prophet entered the Sacred Mosque",
+        "The day of the Battle of Badr"
+      ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that fulfilling covenants aligns with upholding the divine order entrusted to the Ahl al-Bayt. This reflects the Shia emphasis on Wilayah, as preserving sacred ordinances is inseparable from allegiance to the divinely appointed Imams."
+      "explanation": "Ibn Kathir records that Umar ibn al-Khattab confirmed this verse was revealed on the Day of Arafah, a Friday, while the Prophet stood at that sacred place during the Farewell Pilgrimage. A Jewish scholar's comment that this day would have been celebrated as a festival prompted Umar's reply."
     },
     {
       "id": "5_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 32,
-      "question": "Classical Shia exegetes interpret 'saving a life' in verse 32 as limited only to physical preservation.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "As cited from Imam Jafar al-Sadiq, 'saving a life' extends beyond physical preservation to include guiding souls toward recognition of the Imams' spiritual authority, thereby granting existential vitality to the community's faith."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Wahbah al-Zuhayli noted in Al-Tafsir al-Munir that the wisdom behind dietary prohibitions such as carrion and blood has been confirmed by which modern field?",
+      "options": [
+        "Ancient Greek medical texts later incorporated into Islamic jurisprudence",
+        "Modern microbiology and medicine, which confirm dead animals and blood are vectors for dangerous pathogens",
+        "Economic studies showing that trading in these items destabilizes food markets",
+        "Comparative religion research showing all Abrahamic faiths share identical restrictions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir notes that modern microbiology and medicine confirm carrion and blood are vectors for dangerous pathogens, and that the prohibition of swine's flesh is supported by research on parasites such as Trichinella spiralis — welcome additional benefits beyond the spiritual purpose."
     },
     {
       "id": "5_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 67,
-      "question": "In classical Shia exegesis, which specific event is verse 67 understood to refer to?",
-      "options": ["The Battle of Badr", "The Treaty of Hudaybiyyah", "The proclamation of Imam Ali's guardianship at Ghadir Khumm", "The conquest of Mecca"],
-      "correctAnswer": "C",
-      "explanation": "Classical Shia exegetes understand verse 67 as referring to the proclamation of Imam Ali's guardianship (walaya) at Ghadir Khumm. Tabatabai asserts that the command to 'announce' refers specifically to Ali ibn Abi Talib's succession."
+      "verseNumber": 3,
+      "question": "Imam al-Qurtubi derived from the emergency concession in verse 3 the fiqhi principle that necessity makes the prohibited permissible, strictly limited to the extent of preserving life.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Al-Jami li-Ahkam al-Quran, Imam al-Qurtubi extensively analyzed the phrase 'whoever is forced by severe hunger without inclining to sin,' establishing the principle al-darura tubih al-mahzurat — necessity makes the prohibited permissible — but limited strictly to preserving life without willful sin."
     },
     {
       "id": "5_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 113,
-      "question": "What does Tabatabai in Al-Mizan say the disciples' deeper objective was when requesting the heavenly table?",
-      "options": ["To test Prophet Isa's power", "To obtain food for their journey", "Spiritual certainty (yaqin) through divine signs", "To share the food with the poor"],
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "Verse 5 permits Muslim men to marry chaste women from the People of the Book under specific conditions. Which condition is explicitly mentioned in the verse itself?",
+      "options": [
+        "The woman must study Islamic jurisprudence for one year before the marriage",
+        "The local Muslim community must give collective approval to the marriage",
+        "The husband must provide the mahr and the marriage must be one of chastity, not illicit relations",
+        "The couple must reside in a Muslim-majority country"
+      ],
       "correctAnswer": "C",
-      "explanation": "Tabatabai explains that while the disciples ostensibly sought nourishment, their deeper objective was spiritual certainty (yaqin) through divine signs, as expressed through 'let our hearts be reassured' (tathma'inna qulubuna)."
+      "explanation": "The verse explicitly conditions the permission on providing due compensation (mahr) and on the union being one of chastity — not fornication or the taking of secret lovers. Al-Qurtubi notes scholars unanimously restrict the permission to free, chaste women of the People of the Book."
     },
     {
       "id": "5_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "According to contemporary Shia scholars, how does the prohibition against hunting during ihram relate to modern issues?",
-      "options": ["It has no modern relevance", "It extends metaphorically to addressing the ecological crisis and environmental stewardship", "It only applies to pilgrims in Mecca", "It relates to dietary restrictions only"],
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "Imam Tabari's Jami al-Bayan documents a classical scholarly debate about the word 'arjulakum' (your feet) in the wudu verse. What was the nature of that debate?",
+      "options": [
+        "Whether feet had to be washed in running water or if still water was sufficient",
+        "Whether the word's grammatical case ending indicated washing or wiping, resolved by the Sunni majority in favour of washing the feet",
+        "Whether the obligation to wash feet applied only to men or also to women",
+        "Whether the ankle bones were to be included in or excluded from the washing"
+      ],
       "correctAnswer": "B",
-      "explanation": "The prohibition against hunting during ihram extends metaphorically to humanity's current ecological crisis. Just as pilgrims must refrain from harming life in a sacred state, climate change demands global restraint from exploiting Earth's resources."
+      "explanation": "Tabari records the linguistic debate over whether 'arjulakum' carries a case ending suggesting washing or wiping. The Sunni scholarly majority resolved this in favour of washing the feet, consistent with the hadith in Sahih Bukhari from Abu Hurayrah that prayer is invalid without valid wudu."
     },
     {
       "id": "5_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 46,
-      "question": "Contemporary Shia scholars see the concept of prophetic succession (wisayat al-anbiya) in verse 46 as mirroring the belief in Imamah.",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "According to the tafsir of verse 6, the permission to perform tayammum with clean earth when water is unavailable was preceded by a real incident involving the Companion Aisha and a lost necklace during a journey.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Contemporary scholars like Sayyid Kamal al-Haydari emphasize that the succession of prophets mirrors the Shia belief in Imamah, where each Imam spiritually continues the prophetic mission, adapting transcendent principles to changing contexts."
+      "explanation": "The most frequently cited sabab al-nuzul for the tayammum portion of verse 6 involves Aisha, whose necklace was lost during a journey, causing the caravan to halt in a waterless place. This incident prompted the revelation permitting dry ablution, recorded in both Sahih Bukhari and Sahih Muslim."
     },
     {
       "id": "5_11",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 67,
-      "question": "How do contemporary scholars reinterpret the command to 'announce what has been revealed' in verse 67?",
-      "options": ["As only applicable to the Prophet's time", "As a mandate for Muslims to vocalize truth in an era of misinformation and ethical apathy", "As referring only to reciting the Quran", "As a command to spread Arabic language"],
+      "verseNumber": 6,
+      "question": "Sayyid Qutb reflected on the closing phrase of the wudu verse, 'that you may be grateful.' What spiritual significance did he draw from this phrase?",
+      "options": [
+        "It shows gratitude is an obligatory condition for the validity of wudu",
+        "The entire framework of purification is designed to awaken in the believer a consciousness of divine blessing with every prayer",
+        "It confirms that Allah will reward each act of wudu with a specific blessing in the Hereafter",
+        "It establishes that cleanliness is the highest virtue in Islam"
+      ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Dr. Liyakat Takim reinterpret this command as a mandate for Muslims to vocalize truth in an era of misinformation, political repression, and ethical apathy, connecting it to modern activism and moral courage."
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb argues that 'la'allakum tashkurun' shows the purification framework is designed to awaken consciousness of divine blessing with every prayer, making wudu an act of worship and gratitude — not mere hygiene — that links the body's preparation to internal renewal of intention."
     },
     {
       "id": "5_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 113,
-      "question": "What does the heavenly table (ma'ida) symbolize according to contemporary interpretations regarding global issues?",
-      "options": ["Luxury and wealth", "Equitable resource distribution and combating food insecurity", "Political power", "Religious exclusivity"],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars interpret the 'table from heaven' as a metaphor for equitable resource distribution. As 800 million face food insecurity, the ma'ida becomes a call for addressing global hunger and ecological stewardship."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "Fakhr al-Din al-Razi interpreted the instruction 'enter through the gate' in verse 23 as a principle that one must exhaust all available practical means before placing reliance on Allah for the outcome.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi in Mafatih al-Ghayb explains that 'enter through the gate' teaches a principle formalised in Islamic jurisprudence: one must take all practical means (asbab) first. He states there is no genuine tawakkul without exhausting proper means, and that action and tawakkul are inseparable for the believer."
     },
     {
       "id": "5_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq, what is the greatest covenant mentioned in verse 1?",
-      "options": ["The covenant of marriage", "The covenant of business agreements", "The covenant of Wilayah", "The covenant of prayer"],
-      "correctAnswer": "C",
-      "explanation": "Imam Ja'far al-Sadiq stated: 'The greatest covenant is the covenant of wilayah. Whoever violates it has violated the covenant of Allah and His Messenger.' This establishes Wilayah as the most fundamental covenant in Islam."
+      "layer": 1,
+      "verseNumber": 29,
+      "question": "In the Cain and Abel story, what did Abel mean when he told Cain 'I want you to obtain my sin and your sin'?",
+      "options": [
+        "He was cursing Cain and demanding divine retribution",
+        "By refusing to retaliate, Abel ensured Cain would bear the full burden of unjust murder alone, rather than Abel sharing guilt through a counter-killing",
+        "He was admitting a previous personal sin and asking Cain to bear responsibility for it",
+        "He was explaining a Torah ruling that transferred guilt between brothers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir and Imam Tabari explain that Abel was not expressing vindictiveness. By not retaliating, he allowed Cain to bear the undivided, full guilt of unjust murder. Had Abel killed Cain defensively, he would have shared that guilt; by surrendering, Cain alone carries the complete burden."
     },
     {
       "id": "5_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 31,
-      "question": "According to Imam Ali, Allah does not send reminders to guide His creation.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Imam Ali (AS) states: 'Allah does not abandon His creation to chaos; He sends reminders in the seen and unseen.' The crow sent to Qabil is an example of divine guidance reaching creation even in dark moments."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "Ibn Kathir cites a hadith from Sahih al-Bukhari and Sahih Muslim narrated by Ibn Masud that links Cain's murder to all subsequent unjust killings. What does that hadith say?",
+      "options": [
+        "That the one who starts a bad practice bears the sin of all who follow it, narrated by Abu Hurayrah",
+        "That no soul is wrongfully killed except that Cain bears a share of that sin, because he was the first to establish murder in the world",
+        "That murder is the sin that most pollutes the earth, narrated by Umar ibn al-Khattab",
+        "That major sins committed by earlier nations transfer their weight to Muslims who imitate them"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explicitly references the hadith from Ibn Masud in Sahih al-Bukhari and Sahih Muslim: the Prophet said no soul is wrongfully killed except that Cain (the first son of Adam) bears a share of that sin, because he was the one who first established the practice of murder in the world."
     },
     {
       "id": "5_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 67,
-      "question": "According to Imam Jafar al-Sadiq cited in Tafsir al-Qummi, what would have happened if the Prophet had not announced what was revealed about Ali's position?",
-      "options": ["Nothing significant", "His prophethood would have been incomplete", "He would have been punished", "The Quran would not have been revealed"],
+      "layer": 3,
+      "verseNumber": 30,
+      "question": "Sayyid Qutb described verse 30's phrase 'his soul permitted to him the murder' as which of the following?",
+      "options": [
+        "Evidence that free will does not exist and humans are compelled by their nature",
+        "A masterpiece of psychological and moral narration showing that sin is rarely a single decision but the end product of a soul slowly groomed by unchecked desires",
+        "A description of Cain being spiritually possessed, which overrode his will",
+        "An illustration of how peer pressure in a corrupt society drives individuals to violence"
+      ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq stated: 'Had the Messenger delayed in announcing what Allah revealed to him about Ali's position, his prophethood would have been incomplete.' This crystallizes the inseparable link between prophethood and Imamah."
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb calls verse 30 a masterpiece of psychological and moral narration. He argues the Quran shows that sin is rarely a single dramatic decision but the end product of a soul gradually groomed by unchecked desires — which is why Islam places such emphasis on tawbah and active discipline of the nafs."
     },
     {
       "id": "5_16",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 113,
-      "question": "According to Imam Jafar al-Sadiq, what role do the Imams play regarding witnessing?",
-      "options": ["They are ordinary witnesses", "They are the witnesses over creation, gateways to Allah, and guides to His pleasure", "They only witness legal contracts", "They have no special witnessing role"],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq explains: 'We are the witnesses over creation, the gateways to Allah, and the guides to His pleasure.' This reflects the Shia concept of Shahadah through active submission to divine guardians."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 31,
+      "question": "Narrations recorded by Imam Tabari from Ibn Abbas and Ibn Masud state that Cain buried Abel immediately upon seeing a dead bird on the ground.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Tabari records from Ibn Abbas and Ibn Masud that Cain carried his brother's body on his back for an extended time, bewildered about what to do, until Allah sent a crow. Only after watching the crow scratch the earth to bury another dead crow did Cain learn the practice of burial and cry out in remorse."
     },
     {
       "id": "5_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 3,
-      "question": "What is the key divergence between Shia and Sunni scholars in interpreting 'Today I have perfected your religion' in verse 3?",
-      "options": ["Shia scholars link it to dietary laws while Sunni scholars link it to Hajj", "Shia scholars connect it to the establishment of Imam Ali's guardianship at Ghadir Khumm, while Sunni scholars interpret it as the culmination of Quranic legislation", "Both traditions interpret it identically", "Sunni scholars link it to Imamah while Shia reject this interpretation"],
+      "layer": 1,
+      "verseNumber": 32,
+      "question": "Verse 32, immediately following the Cain and Abel story, establishes a universal principle about human life. Which statement best captures both sides of that principle?",
+      "options": [
+        "The state must execute murderers and reward those who prevent crime",
+        "Killing one innocent person is as if killing all of humanity, and saving one life is as if saving all of humanity",
+        "Only blood relatives of the victim have standing to seek retribution or offer pardon",
+        "Witnesses to a murder who do not intervene share equally in the guilt of the killer"
+      ],
       "correctAnswer": "B",
-      "explanation": "Shia commentators like Tabatabai tie this phrase to the establishment of Wilayah at Ghadir Khumm. Sunni exegetes like Tabari interpret 'perfection' as the culmination of Quranic legislation, with Ibn Kathir stressing finality of Prophethood rather than succession."
+      "explanation": "Verse 32, decreed for the Children of Israel and understood as a universal principle, establishes the infinite weight of each human life in both directions: unjust killing of one person equals killing all of humanity, while saving one person equals saving all of humanity, affirming the sacred status of every human soul."
     },
     {
       "id": "5_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 31,
-      "question": "Both Shia and Sunni scholars agree that the verse about Qabil and the crow teaches about divine mercy in guiding humanity toward moral responsibility.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions universally interpret the verse as illustrating divine mercy in guiding humanity toward moral responsibility, the gravity of sin, and the necessity of dignified burial. Al-Tabari (Sunni) and Al-Tabrisi (Shia) concur on this interpretation."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 110,
+      "question": "Wahbah al-Zuhayli argued in Al-Tafsir al-Munir that the miracles of each prophet were calibrated to challenge the dominant expertise of their era. What does he say about Jesus's miracles specifically?",
+      "options": [
+        "They were identical to Moses's miracles to show the unity of prophetic mission",
+        "They were primarily literary miracles to challenge the poetry of the time",
+        "They were medical in nature — healing the blind, lepers, and raising the dead — because healing arts were highly valued in Jesus's era",
+        "They were political miracles designed to challenge the authority of Roman rule"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli observes in Al-Tafsir al-Munir that miracles were calibrated to the dominant expertise of each age: Moses overcame Egyptian mastery of magic, Muhammad's miracle was the inimitable Quran in an age of Arabic eloquence, and Jesus's miracles were medical because healing arts were most valued and contested in his time."
     },
     {
       "id": "5_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 67,
-      "question": "How do Sunni scholars like Ibn Kathir generally interpret verse 67's 'revelation' compared to Shia scholars?",
-      "options": ["Both interpret it as referring to Imam Ali", "Sunni scholars interpret it as encompassing all Islamic teachings, while Shia scholars specify it as the mandate to appoint Ali as successor", "Sunni scholars interpret it as dietary laws", "Both interpret it as referring to the Quran only"],
-      "correctAnswer": "B",
-      "explanation": "Sunni sources generally interpret the 'revelation' as encompassing the entirety of Islamic teachings, while Shia exegetes like al-Qummi and Tusi argue for a specific referent: the divine mandate to appoint Ali as successor."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 114,
+      "question": "Ibn Kathir explains that Jesus's use of the word 'Eid' in his prayer for the heavenly table comes from an Arabic root meaning 'to return,' indicating a day people return to repeatedly in commemoration.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explains that the word 'Eid' derives from the root 'awada' meaning to return, suggesting a recurring day of commemoration. He links this to the early Islamic usage of the term for Eid al-Fitr and Eid al-Adha, noting that Tabari records how some Christian communities preserved a corrupted echo of this original event."
     },
     {
       "id": "5_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 113,
-      "question": "What do both Shia and Sunni scholars agree upon regarding the disciples' request for the heavenly table?",
-      "options": ["It was a sign of disbelief", "Both agree the disciples sought divine confirmation of Jesus' truthfulness through a miracle granted as a sign of mercy", "Only Shia scholars accept the historical account", "The table was never actually sent down"],
+      "layer": 1,
+      "verseNumber": 116,
+      "question": "On the Day of Judgment in verse 116, Allah asks Jesus whether he commanded people to worship him and his mother as two gods. What is the opening of Jesus's response?",
+      "options": [
+        "He remains silent and defers entirely to Allah without offering a reply",
+        "He begins with 'Subhanaka' (Exalted are You!) and states it was not for him to say what he had no right to say",
+        "He asks Allah to forgive his followers for misunderstanding his message",
+        "He confirms he said it but explains it was a metaphor misunderstood by later generations"
+      ],
       "correctAnswer": "B",
-      "explanation": "Both traditions broadly agree on the narrative framework: the disciples sought divine confirmation of Jesus' truthfulness through a miracle, which God granted as a sign of mercy. Both also agree on the link between physical nourishment and spiritual certainty."
+      "explanation": "Jesus opens his response in verse 116 with 'Subhanaka' — a declaration of divine transcendence — and states it was not for him to say that to which he had no right. Wahbah al-Zuhayli notes this demolishes any claim to divinity, as Jesus firmly places himself in the station of servitude rather than lordship."
+    },
+    {
+      "id": "5_21",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 118,
+      "question": "Ibn Kathir cites a hadith from Sahih Muslim and Sahih Bukhari in which the Prophet recited verse 118 alongside the similar prayer of Prophet Ibrahim. What did the Prophet do upon reciting these two verses?",
+      "options": [
+        "He commanded his companions to memorise them as the greatest supplications in the Quran",
+        "He raised his hands in supplication and wept for his ummah, demonstrating prophetic concern and humility before Allah's judgment",
+        "He declared a day of fasting to mourn the corruption of earlier communities",
+        "He recited them as part of a special night prayer reserved for times of communal difficulty"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records a hadith in Sahih Muslim and Sahih Bukhari where the Prophet recited verse 118 alongside Ibrahim's prayer (14:36), then raised his hands in supplication and wept for his ummah — a profound moment illustrating that prophets submit entirely to Allah's judgment regarding their communities."
+    },
+    {
+      "id": "5_22",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 115,
+      "question": "The majority position among classical Sunni scholars — including Ibn Kathir, Tabari, and al-Qurtubi — is that the heavenly table (al-maidah) actually descended in response to Jesus's prayer.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir, Tabari, and al-Qurtubi all maintain that the table did descend, based on the apparent meaning of Allah's direct promise in verse 115 ('Indeed, I will send it down to you'). Tabari records from Abdullah ibn Amr that those who disbelieved after witnessing it will receive the most severe punishment on the Day of Resurrection."
     }
   ]
 }

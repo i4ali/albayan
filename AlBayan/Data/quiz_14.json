@@ -6,275 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the plural 'darknesses' (zulumat) signify in the opening verse of Surah Ibrahim?",
+      "question": "The opening verse of Surah Ibrahim describes the Quran as being revealed for one supreme purpose. What is that purpose?",
       "options": [
-        "Physical darkness before sunrise",
-        "Layers of spiritual ignorance, idolatry, and moral corruption",
-        "The absence of moonlight",
-        "Political divisions among tribes"
+        "A. To recite and memorize for spiritual reward",
+        "B. To bring mankind out of darknesses into the light by Allah's permission",
+        "C. To establish the detailed laws of prayer and fasting",
+        "D. To warn disbelievers of punishment exclusively"
       ],
       "correctAnswer": "B",
-      "explanation": "The plural 'zulumat' (darknesses) signifies layers of spiritual ignorance, idolatry, and moral corruption prevalent in pre-Islamic Arabia, while 'nur' (light) symbolizes the clarity of divine guidance through Tawhid (monotheism) and Quranic ethics."
+      "explanation": "Imam Tabari in Jami al-Bayan explains that the Quran was sent down to lead humanity from the plural 'darknesses' (zulumaat) of misguidance into the singular 'light' (nur) of faith and tawhid. The use of the plural for darkness and singular for light is intentional: error takes many forms while truth is one and unified."
     },
     {
       "id": "14_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 8,
-      "question": "According to the tafsir, Prophet Musa's declaration in verse 8 teaches that Allah's perfection is diminished when humans reject faith.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir connects verse 1 of Surah Ibrahim with Surah al-Hadid (57:9) to demonstrate that leading people from darkness to light is a consistent divine mission across all revealed scriptures and messengers.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The verse teaches the opposite: Allah's majesty and perfection remain untouched by human acceptance or rejection. His essence transcends creation's flaws - our faith does not enrich Him, nor does disbelief diminish His glory."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim draws a deliberate parallel between this verse and Surah al-Hadid (57:9), demonstrating that the mission of bringing people from darkness into light is a unified theme running through all prophetic revelations and is not unique to the Quran alone."
     },
     {
       "id": "14_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 24,
-      "question": "In the parable of the 'good tree' (shajarah tayyibah), what does the 'good word' (kalimah tayyibah) represent?",
+      "layer": 3,
+      "verseNumber": 1,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran reflects on the symbolism of 'darknesses' (plural) versus 'light' (singular) in verse 1. What does he argue about the plural form of darkness?",
       "options": [
-        "Any pleasant conversation",
-        "The declaration of faith (shahadah), Quranic message, or truth rooted in divine guidance",
-        "Poetic verses from pre-Islamic Arabia",
-        "Scientific discoveries"
+        "A. It refers to different times of day when darkness occurs",
+        "B. Misguidance takes countless forms such as materialism, nationalism, and atheism, while the truth of tawhid is singular and unified",
+        "C. It indicates that multiple prophets brought different messages",
+        "D. It represents the many sins that must be avoided before guidance arrives"
       ],
       "correctAnswer": "B",
-      "explanation": "The 'good word' (kalimah tayyibah) is understood as the declaration of faith (shahadah), the Quranic message, or any truth rooted in divine guidance, likened to a firmly rooted tree with branches reaching the sky."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that the plural 'darknesses' versus singular 'light' is a universal truth: misguidance takes countless forms including materialism, nationalism, tribalism, and atheism, while the truth of tawhid is one and unified. He frames the entire mission of Islam as a liberation movement freeing human beings from multiple tyrannies into the freedom of submission to Allah alone."
     },
     {
       "id": "14_4",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 37,
-      "question": "In Prophet Ibrahim's prayer (verse 37), what was his PRIMARY concern when settling his family in the barren valley of Mecca?",
+      "verseNumber": 5,
+      "question": "When Moses was commanded to remind his people of the 'Days of Allah' (ayyam Allah) in verse 5, what were they being asked to remember?",
       "options": [
-        "Finding water sources",
-        "Building houses for them",
-        "That they establish prayer (yuqimussalah)",
-        "Creating trade opportunities"
+        "A. The calendar of festivals established by Moses",
+        "B. The days on which the Torah was specifically revealed",
+        "C. Historic events of divine intervention, including both Allah's blessings and punishments upon past nations",
+        "D. The days of Moses's miraculous signs before Pharaoh only"
       ],
       "correctAnswer": "C",
-      "explanation": "Ibrahim's primary concern was not material comfort but that they 'yuqimussalah' (establish prayer), grounding their lives in worship and divine connection before asking Allah for provision."
+      "explanation": "Imam Tabari records that the Companion Ubayy ibn Ka'b understood 'ayyam Allah' as the blessings of Allah, while Mujahid interpreted them as the days when Allah afflicted past nations with punishment. Tabari concluded both meanings are valid and complementary, covering all memorable moments of divine intervention in history."
     },
     {
       "id": "14_5",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the transition from plural 'darknesses' to singular 'light' in verse 1 reflect?",
-      "options": [
-        "A grammatical error in translation",
-        "The Quran's role as a harmonizing force dissolving contradictions through transcendent truth",
-        "The difference between day and night",
-        "Multiple prophets versus one God"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai explains that this transition from multiplicity to unity reflects the Quran's role as a harmonizing force, dissolving contradictions of human speculation through transcendent truth."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "True or false: The closing phrase of verse 5, 'for every patient and grateful person' (li-kulli sabbar shakur), indicates that the signs of Allah in history are perceived only by those who combine patience in hardship with gratitude in blessing.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir notes that 'sabbar' and 'shakur' are intensive Arabic forms indicating habitual practice, not occasional states. He explains that patience removes the distortion of impatience and self-centeredness, while gratitude removes the blindness of ingratitude, making both qualities necessary to fully perceive divine signs."
     },
     {
       "id": "14_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 24,
-      "question": "According to Shia exegesis, the 'good tree' metaphor represents the Ahlul Bayt and the doctrine of Wilayah (divine guardianship).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "In Al-Mizan, Tabatabai interprets the 'good word' as the enduring truth of tawhid embodied through the Ahlul Bayt, whose spiritual authority forms the axis of creation. The tree's firm roots symbolize the unshakeable foundation of wilayah."
+      "verseNumber": 7,
+      "question": "How does Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran describe the grammatical force of the divine promise 'I will surely increase you' in verse 7?",
+      "options": [
+        "A. It is a conditional statement that may or may not apply depending on circumstances",
+        "B. It uses the lam of oath and the nun of emphasis, making it one of the strongest forms of promise in Arabic rhetoric",
+        "C. It is an encouragement without a binding divine commitment",
+        "D. It refers only to increase in the Hereafter and not in this life"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran analyzes the clause 'la-azidannakum' and notes that the doubled emphasis through the lam of oath and the nun of emphasis makes this one of the strongest forms of promise in Arabic rhetoric, affirming the absolute certainty of the reward for gratitude."
     },
     {
       "id": "14_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 8,
-      "question": "What two inseparable divine qualities are emphasized in the phrase 'Allah is Ghaniyyun Hameed' according to classical Shia commentators?",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "Ibn Uthaymeen taught that genuine gratitude (shukr) toward Allah involves three inseparable components. Which answer correctly identifies all three?",
       "options": [
-        "Power and mercy",
-        "Knowledge and wisdom",
-        "Absolute self-sufficiency (ghina) and praiseworthiness (hamd)",
-        "Justice and forgiveness"
+        "A. Verbal praise, physical prostration, and financial giving",
+        "B. The heart acknowledging the blessing, the tongue praising Allah, and the limbs using the blessing in obedience to Allah",
+        "C. Regular fasting, establishing prayer, and giving charity",
+        "D. Recognizing the blessing, sharing it with others, and thanking the immediate provider"
       ],
-      "correctAnswer": "C",
-      "explanation": "Classical commentators like Tabatabai and Tabrisi emphasize that this phrase underscores two inseparable divine qualities: absolute self-sufficiency (ghina) and praiseworthiness (hamd), affirming that Allah needs nothing from creation."
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen in his commentary on verse 7 specified that true shukr requires: the heart to acknowledge the blessing and its divine origin, the tongue to articulate praise to Allah, and the limbs to use the blessing in obedience rather than disobedience. He warned that verbal thanks unaccompanied by the correct use of blessings constitutes incomplete shukr."
     },
     {
       "id": "14_8",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 26,
-      "question": "According to Shia exegesis, what does the 'evil tree' (shajarah khabithah) that is uprooted represent?",
-      "options": [
-        "Trees killed by drought",
-        "False beliefs, corrupt doctrines, or systems opposing divine guidance",
-        "Agricultural failures",
-        "Non-fruit bearing trees"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The 'bad word' (kalimah khabithah) represents false beliefs, corrupt doctrines, or harmful speech antithetical to divine truth. Classical scholars note this includes ideological systems opposed to the Prophetic mission and the wilayah of the Ahlul Bayt."
+      "verseNumber": 11,
+      "question": "True or false: The messengers' acknowledgment in verse 11 that they are 'only men like you' was a retreat under pressure, admitting they had no special authority from Allah.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim clarifies that the messengers' confirmation of their humanity was theological precision, not a concession. Using the restrictive particle 'illa' they admitted shared humanity, but immediately introduced the crucial distinction: 'Allah confers His grace upon whom He wills' (walakinna Allaha yamunnu), making prophethood a divine gift entirely beyond human earning or demand."
     },
     {
       "id": "14_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholars like Ayatollah Makarem Shirazi, what do the 'darknesses' in verse 1 represent in modern context?",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "What does the 'good word' (kalimah tayyibah) represent in the parable of verse 24, according to the overwhelming consensus of classical and modern scholars?",
       "options": [
-        "Lack of electricity",
-        "Political tyranny, intellectual stagnation, and moral decay",
-        "Weather phenomena",
-        "Astronomical events"
+        "A. Any kind and polite speech in daily life",
+        "B. The declaration of faith, La ilaha illallah (there is no god but Allah)",
+        "C. The recitation of the Quran during formal prayer",
+        "D. The advice scholars give to their students"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary thinkers emphasize that this verse isn't merely about personal salvation but a call to dismantle layered injustices: political tyranny, intellectual stagnation, and moral decay - the multifaceted crises humanity faces today."
+      "explanation": "The tafsir of verse 24 records that the overwhelming consensus of classical scholars identifies the 'kalimah tayyibah' as the declaration of faith, La ilaha illallah. This is supported by narrations from Ibn Abbas and Ibn Masud reported by both Imam Tabari and Ibn Kathir."
     },
     {
       "id": "14_10",
-      "type": "trueFalse",
-      "layer": 3,
+      "type": "multipleChoice",
+      "layer": 2,
       "verseNumber": 24,
-      "question": "The 'good tree' metaphor aligns with ecological insights about deep-rooted trees preventing soil erosion, symbolizing societal resilience.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Scientifically, the metaphor aligns with ecological insights: deep-rooted trees prevent soil erosion (symbolizing societal resilience), while their canopies support biodiversity (mirroring inclusive communities)."
+      "question": "Which specific tree did the Prophet, peace be upon him, identify as the tree in the parable of verse 24, as recorded in Sahih al-Bukhari and Sahih Muslim?",
+      "options": [
+        "A. The olive tree",
+        "B. The fig tree",
+        "C. The date palm",
+        "D. The cedar tree"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites the sound hadith from Sahih al-Bukhari and Sahih Muslim in which the Prophet identified the tree of this parable as the date palm (nakhl). Ibn Kathir also notes that Ibn Umar later said he had actually thought of the date palm himself but felt shy to speak in the presence of senior companions."
     },
     {
       "id": "14_11",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 9,
-      "question": "According to contemporary interpretation, what does the rejection of prophets by past nations parallel in today's world?",
-      "options": [
-        "Sports rivalries",
-        "Post-truth culture, misinformation, and dismissing experts",
-        "Fashion trends",
-        "Technological preferences"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Modern thinkers connect verse 9 to today's 'post-truth' culture, where misinformation and ideological polarization lead societies to metaphorically 'put their hands over their mouths' - suppressing facts or dismissing experts."
+      "verseNumber": 26,
+      "question": "True or false: According to Imam al-Qurtubi in his tafsir of verse 26, the 'bad tree' was likely never rooted to begin with, indicating that false beliefs never genuinely take root in the natural human disposition (fitrah), even when outwardly professed.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran discusses whether the tree described as 'uprooted from the surface of the earth' was never rooted or was torn out, and leans toward the former: false beliefs never genuinely embed in the fitrah of mankind. Fakhr al-Din al-Razi adds that truth has ontological permanence because it corresponds to reality, while falsehood is inherently self-undermining."
     },
     {
       "id": "14_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 37,
-      "question": "How does the tafsir connect Prophet Ibrahim's prayer about the barren valley to modern challenges?",
+      "layer": 1,
+      "verseNumber": 35,
+      "question": "Ibrahim's supplication in verse 35 contains two distinct requests. Which option correctly identifies both?",
       "options": [
-        "It discusses ancient agricultural techniques",
-        "It parallels migration crises, environmental resilience, and community building in harsh circumstances",
-        "It only addresses historical Meccan geography",
-        "It focuses on architectural design"
+        "A. He asks for wealth for his descendants and victory over their enemies",
+        "B. He asks for Makkah to be made a city of security, and for himself and his sons to be kept away from worshipping idols",
+        "C. He asks for rain in the barren valley and long life for his family",
+        "D. He asks for prophethood to continue in his lineage and for the Kaaba to be built immediately"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse speaks to migration crises and displacement; like Hajar and Ismail, modern refugees often rebuild communities in harsh environments, relying on faith and solidarity. It also relates to environmental resilience and innovation."
+      "explanation": "The tafsir of verse 35 explains that Ibrahim's prayer has two parts: a request for Makkah to be made a place of peace ('ijal hadha al-balada aminan'), and a deeply personal request for himself and his sons to be kept from idol worship. The second request is spiritually profound — a prophet who had already broken idols and survived fire still sought ongoing divine protection, teaching that no one is so secure in faith as to not need Allah's constant help."
     },
     {
       "id": "14_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, what does the Quran serve as?",
+      "layer": 3,
+      "verseNumber": 37,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran describes Ibrahim's decision to settle his family in a barren valley as revealing the soul of prophethood. What key insight does Qutb draw from this event?",
       "options": [
-        "A historical document only",
-        "A guidance that illuminates the heart, as lamps illuminate houses",
-        "A book of poetry",
-        "A collection of laws only"
+        "A. That prophets were tested with material poverty to prove their sincerity",
+        "B. That prophetic vision sees not what is, but what Allah can make of a situation, rooted in complete trust",
+        "C. That physical geography is entirely irrelevant to spiritual outcomes",
+        "D. That Ibrahim acted against practical wisdom and was miraculously rescued afterward"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) taught that 'the Quran is a guidance that illuminates the heart, as lamps illuminate houses,' emphasizing how this divine light manifests through conscious submission to its teachings."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran reflects that Ibrahim could not have imagined on a human level what the barren valley would become, yet his trust in Allah was complete. Qutb describes this as the nature of prophetic vision: seeing not what is, but what Allah can make of a situation — a once-desolate valley now draws millions of pilgrims annually as a direct answer to Ibrahim's prayer."
     },
     {
       "id": "14_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 24,
-      "question": "Imam Jafar al-Sadiq (AS) identified the 'good tree' as the Ahlul Bayt themselves, with roots in Prophet Muhammad and branches in the Imams.",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "True or false: Classical scholars interpreted the phrase 'bi-idhni rabbihim' (by the permission of their Lord) in the description of the believers entering Paradise in verse 23 as affirming that entry into Paradise is an act of divine grace, not a mechanical reward for deeds alone.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq (AS) explained: 'We are the Tree of Prophethood, the place where the divine message descends. Our roots are the Prophet Muhammad, and our branches are the Imams who stretch into the heavens of Allah's mercy.'"
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explains that scholars of the salaf understood 'bi-idhni rabbihim' as affirming that admission to Paradise is an act of divine grace. He cites the hadith in which the Prophet, peace be upon him, said that no one enters Paradise by virtue of their deeds alone without Allah's mercy, supporting the Sunni Ashari theological position that mercy and grace are indispensable."
     },
     {
       "id": "14_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to Imam Ali (AS), what is the root cause of disbelievers' defiance when they 'returned their hands to their mouths'?",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir draws a key distinction in his commentary on verse 18, which likens the deeds of disbelievers to ashes scattered by wind. What is that distinction?",
       "options": [
-        "Physical illness",
-        "Poverty and hunger",
-        "Clinging to ego and tribal pride (jahiliyya)",
-        "Lack of education"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali (AS) identifies the root of the disbelievers' defiance: clinging to ego and tribal pride, combining 'the disease of jahiliyya (ignorance) and the arrogance of tribalism,' symbolized by silencing truth."
-    },
-    {
-      "id": "14_16",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 37,
-      "question": "According to Imam Jafar Sadiq (AS), what does the 'uncultivated valley' represent spiritually?",
-      "options": [
-        "Fertile agricultural land",
-        "Hearts devoid of true guidance until the Tree of Imamate blossoms within them",
-        "A marketplace for trade",
-        "A physical desert only"
+        "A. Between deeds performed in secret versus those performed publicly",
+        "B. Between deeds that produce worldly benefit and those that carry ultimate eschatological weight, which requires faith",
+        "C. Between deeds motivated by love and those motivated by fear of punishment",
+        "D. Between collective acts of a community and individual acts of worship"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar Sadiq (AS) revealed: 'The uncultivated valley represents hearts devoid of true guidance until the Tree of Imamate blossoms within them' (Bihar al-Anwar)."
-    },
-    {
-      "id": "14_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What do both Shia and Sunni scholars AGREE upon regarding verse 1?",
-      "options": [
-        "Only Shia interpretation is correct",
-        "The Quran's divine origin and its role in guiding humanity from darkness to light",
-        "Only Sunni interpretation is correct",
-        "The verse has no significant meaning"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both traditions affirm that the verse underscores Prophet Muhammad's mission to transmit revelation, with 'darknesses' symbolizing pre-Islamic polytheism and 'light' representing monotheism."
-    },
-    {
-      "id": "14_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 24,
-      "question": "According to comparative analysis, Sunni scholars primarily identify the 'good tree' with the shahada and Quran, while Shia scholars extend it to include the Ahlul Bayt's lineage.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Sunni commentators like Al-Razi and Ibn Kathir predominantly identify the 'good word' with the shahada or Quran. Shia sources, particularly Al-Mizan, extend this to encompass the doctrine of wilayah, interpreting the tree as the Ahlul Bayt's lineage."
-    },
-    {
-      "id": "14_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "How do Shia and Sunni interpretations DIFFER regarding the 'evil word/tree' in verse 26?",
-      "options": [
-        "They have no differences",
-        "Shia links it to opponents of Imam Ali's leadership, while Sunni interprets it broadly as shirk (polytheism)",
-        "Sunni scholars reject the verse entirely",
-        "Only Shia scholars discuss this verse"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentaries often link this to theological deviations challenging the Ahlul Bayt's authority, while Sunni scholars like Razi interpret it more broadly as rejecting shirk (polytheism) or hypocrisy."
-    },
-    {
-      "id": "14_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 37,
-      "question": "What is a key area of SCHOLARLY CONSENSUS regarding Prophet Ibrahim's prayer in verse 37?",
-      "options": [
-        "The verse has no significance",
-        "Mecca's sanctity, universality of Ibrahim's legacy, and the link between worship and sustenance",
-        "Only the Shia interpretation is valid",
-        "The verse was added later"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Scholarly consensus exists on Mecca's sanctity, the universality of Ibrahim's legacy, and the link between worship and sustenance. Both traditions uphold the verse's core themes of divine trust and human gratitude."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir distinguishes between deeds that have worldly benefit, which disbelievers may achieve, and deeds that carry ultimate eschatological weight, which require the foundation of faith. He notes that the verse's concluding phrase 'extreme error' (dalal ba'id) describes not a small mistake but a complete departure from the right path."
     }
   ]
 }

@@ -6,270 +6,300 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What are the 'Ta-Sin-Mim' letters at the beginning of Surah Ash-Shu'ara called?",
-      "options": [
-        "Prayer words",
-        "Huruf al-Muqatta'at (disconnected letters)",
-        "Names of angels",
-        "Ancient Arabic greetings"
-      ],
+      "question": "The opening letters Ta-Sin-Meem that begin Surah Ash-Shuara belong to a category known as what?",
+      "options": ["Ayat al-Ahkam, verses of legal rulings", "Muqattaat, disconnected letters whose precise meaning only Allah knows", "Ayat al-Sajda, verses requiring prostration", "Al-Mufassal, the detailed shorter surahs"],
       "correctAnswer": "B",
-      "explanation": "The letters Ta-Sin-Mim are known as Huruf al-Muqatta'at (disconnected letters), mysterious letter combinations that appear at the beginning of certain surahs, signifying the miraculous nature of the Quran."
+      "explanation": "These are the Muqattaat, mysterious opening letters found at the beginning of twenty-nine surahs. The scholarly consensus across all major Sunni schools is that their precise meaning is known only to Allah, a fact Ibn Kathir confirms explicitly in his tafsir."
     },
     {
       "id": "26_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 69,
-      "question": "Surah Ash-Shu'ara contains the story of Prophet Ibrahim questioning his father and people about their worship of idols.",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: Imam al-Tabari argued in his Jami al-Bayan that the phrase 'Al-Kitab al-Mubeen' in verse 2 means the Quran is clear in its language and purpose, and that this clarity refutes those who claimed divine guidance must be mysterious or incomprehensible.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Verses 69-104 narrate Prophet Ibrahim's story, beginning with Allah's command to 'recite to them the news of Abraham' and his famous question to his father and people: 'What do you worship?'"
+      "explanation": "Tabari explicitly states that the description 'clear book' refutes those who claim religious guidance must be mysterious. Ibn Kathir reinforces this, noting that a book described by its author as clear carries an implicit promise of intelligibility."
     },
     {
       "id": "26_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 105,
-      "question": "According to Surah Ash-Shu'ara, what did the people of Nuh accuse him of?",
-      "options": [
-        "Being wealthy",
-        "Denying the messengers",
-        "Speaking foreign languages",
-        "Practicing magic"
-      ],
+      "verseNumber": 3,
+      "question": "In verse 3, Allah addresses the Prophet's grief over his people's refusal to believe. Which description best captures what classical Sunni scholars say this verse reveals about the Prophet's character?",
+      "options": ["That the Prophet was angry and sought punishment for the Quraysh", "That the Prophet's compassion for his people was so intense he was consuming himself with grief over their disbelief", "That the Prophet doubted his own message after repeated rejection", "That the Prophet was planning to leave Makkah permanently"],
       "correctAnswer": "B",
-      "explanation": "Verse 105 states 'The people of Noah denied the messengers,' highlighting the recurring pattern of prophetic rejection throughout history."
+      "explanation": "The word used conveys the vivid meaning of one who perishes from anguish. Wahbah al-Zuhayli notes that Allah's address to the Prophet here is simultaneously a comfort and a gentle reminder that the outcome of guidance belongs to Allah alone, not to the messenger's personal effort."
     },
     {
       "id": "26_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 176,
-      "question": "Who were the 'Ashab al-Aykah' (Companions of the Thicket) mentioned in Surah Ash-Shu'ara?",
-      "options": [
-        "Followers of Prophet Musa",
-        "The people to whom Prophet Shu'ayb was sent",
-        "Companions of Prophet Muhammad",
-        "Angels in Paradise"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Ashab al-Aykah (Companions of the Thicket) were the people of Madyan to whom Prophet Shu'ayb was sent, known for their fraudulent trade practices and economic corruption."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 4,
+      "question": "True or false: Sayyid Qutb argued in Fi Zilal al-Quran that Allah's deliberate withholding of coercive signs in verse 4 is itself the supreme sign of His wisdom, because a God who forced all creation into visible submission would not be allowing humanity the dignity of moral agency.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qutb writes that Allah's choice not to send overwhelming signs is an act of divine wisdom and mercy. Wahbah al-Zuhayli similarly explains that the existence of disbelief in the world is not evidence of divine weakness but of divine choice to honor human freedom."
     },
     {
       "id": "26_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 68,
-      "question": "According to classical Shia tafsir, what do the Divine names 'Al-Aziz' and 'Al-Rahim' represent when paired together?",
-      "options": [
-        "Only punishment and wrath",
-        "Balance between divine power/justice and mercy/compassion",
-        "Creation and destruction",
-        "Knowledge and wisdom only"
-      ],
+      "verseNumber": 6,
+      "question": "Imam al-Tabari explained that verse 6's warning to those who 'have already denied' connects denial to what certain outcome?",
+      "options": ["The immediate withdrawal of all miracles from mankind", "The eventual arrival of the news confirming everything they mocked, as a logical and temporal result", "The loss of Arabic as the language of revelation", "The appointment of a new prophet to replace the one they rejected"],
       "correctAnswer": "B",
-      "explanation": "Classical scholars like Tabatabai explain that Al-Aziz (The Mighty) and Al-Rahim (The Merciful) together represent the perfect balance of divine attributes—power tempered with compassion, justice balanced with mercy."
+      "explanation": "Tabari notes that the particle 'fa' connecting verse 6 signals a logical and temporal result: because they denied, a reckoning follows as night follows day. Imam al-Qurtubi adds that this pattern of mockery followed by vindication is a consistent sunna of Allah across all prophetic history."
     },
     {
       "id": "26_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 70,
-      "question": "According to Tabrisi in Majma al-Bayan, Ibrahim's questioning of idol worship was a rhetorical strategy to expose the irrationality of shirk (polytheism).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabrisi explains that Ibrahim's question 'What do you worship?' was a deliberate rhetorical approach to make the idol-worshippers confront the logical absurdity of worshipping man-made objects that cannot hear, see, or benefit anyone."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "When Moses expressed fear in verse 12 that Pharaoh's people would deny him, what specific Arabic word did he use, and what does it mean beyond simple disbelief?",
+      "options": ["'Yakfurun,' meaning they will cover over the truth", "'Yukadhdhibun,' meaning they will brand him a liar and publicly discredit him", "'Yashkurun,' meaning they will be ungrateful for his mission", "'Yakhshun,' meaning they will be afraid of his signs"],
+      "correctAnswer": "B",
+      "explanation": "Moses used 'yukadhdhibun' from the root kadhaba, which means to accuse someone of lying and publicly discredit them. He feared not merely that they would disbelieve, but that they would strip him of credibility before his mission could take root, as Ibn Kathir records."
     },
     {
       "id": "26_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 106,
-      "question": "According to classical Shia exegesis, what quality did Prophet Nuh emphasize when calling his people?",
-      "options": [
-        "Worldly success",
-        "Taqwa (God-consciousness)",
-        "Military strength",
-        "Tribal loyalty"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Classical commentators emphasize that Nuh called his people to taqwa (God-consciousness and piety), urging them to be mindful of Allah and obey His messenger."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "True or false: In verse 13, Moses requested that his brother Aaron be appointed as a partner in his mission because Aaron was known for his eloquence, and Moses acknowledged his own speech impediment as a genuine limitation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Classical scholars including Imam Tabari record that Moses had a speech impediment from childhood and Aaron was known for eloquence. This is confirmed in the parallel account in Surah Taha where Moses explicitly asks for his tongue to be loosened."
     },
     {
       "id": "26_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 177,
-      "question": "What specific sin were the Ashab al-Aykah condemned for according to classical tafsir?",
-      "options": [
-        "Disbelief only",
-        "Fraudulent business practices and cheating in measures",
-        "Worshipping the sun",
-        "Abandoning prayer"
-      ],
+      "verseNumber": 14,
+      "question": "According to Ibn Kathir's account, why did Moses refer to a past 'sin' in verse 14 when addressing Pharaoh, and what had actually happened?",
+      "options": ["Moses had stolen from Pharaoh's treasury as a child", "Moses had accidentally killed an Egyptian man while defending an Israelite, giving Pharaoh grounds to discredit him", "Moses had insulted Pharaoh's gods in a public ceremony", "Moses had destroyed one of Pharaoh's monuments during his time in the palace"],
       "correctAnswer": "B",
-      "explanation": "Classical scholars highlight that Shu'ayb's people were specifically condemned for economic corruption—giving short measure, cheating in weights, and defrauding people in commercial transactions."
+      "explanation": "Ibn Kathir provides a detailed account from Surah Qasas: Moses struck an Egyptian who was beating an Israelite, killing him unintentionally. This past act gave Pharaoh a legal pretext to execute Moses before he could deliver his message, which is why Moses feared for his life."
     },
     {
       "id": "26_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 69,
-      "question": "How do contemporary scholars interpret Ibrahim's intellectual approach to confronting idolatry?",
-      "options": [
-        "As outdated methodology",
-        "As a model for rational discourse and critical thinking in faith",
-        "As applicable only to ancient times",
-        "As purely emotional appeal"
-      ],
+      "verseNumber": 20,
+      "question": "Sayyid Qutb observed that Moses's statement in verse 20 — 'I did it then, while I was of those who were astray' — models a form of courage that comes from what source?",
+      "options": ["Moses's confidence in his superior oratorical skills compared to Pharaoh's advisors", "The certainty of divine backing, which meant Moses had no need to construct a sophisticated legal defense", "Moses's knowledge that Pharaoh's witnesses had died and could not testify against him", "The political support Moses had secured from within Pharaoh's own court"],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Makarem Shirazi view Ibrahim's questioning approach as a timeless model for using reason and critical thinking to establish faith, showing that Islam encourages intellectual inquiry."
+      "explanation": "Qutb writes that Moses's transparent acknowledgment of his past came not from social confidence but from certainty of divine backing. His authority did not derive from Pharaoh's recognition, so he could afford complete honesty. Wahbah al-Zuhayli adds that this models how authenticity is more powerful than defensiveness."
     },
     {
       "id": "26_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 104,
-      "question": "The refrain 'Indeed, your Lord is the All-Mighty, the All-Merciful' appears multiple times in Surah Ash-Shu'ara, serving as a structural device emphasizing divine attributes.",
+      "layer": 1,
+      "verseNumber": 22,
+      "question": "True or false: In verse 22, Moses dismantled Pharaoh's claim of having done him a favor by pointing out that the only reason Moses ended up in Pharaoh's household was because Pharaoh's own oppressive system had enslaved the Children of Israel and forced his mother to desperate measures.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "This powerful refrain appears repeatedly throughout the surah after each prophetic narrative, serving as both a literary device and a theological reminder of Allah's perfect balance of power and mercy."
+      "explanation": "This is the core argument of verse 22. Ibn Kathir explains that Moses showed the logical contradiction in Pharaoh's position: the supposed favor is inseparable from the enormous injustice that created the need for it. Qurtubi derived from this verse that gratitude to a benefactor cannot morally obligate someone to remain silent about systemic oppression."
     },
     {
       "id": "26_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 177,
-      "question": "What contemporary lesson do modern scholars derive from the story of Ashab al-Aykah?",
-      "options": [
-        "Environmental protection only",
-        "The importance of economic justice and ethical commerce",
-        "The value of agriculture",
-        "The need for isolation from society"
-      ],
+      "layer": 1,
+      "verseNumber": 34,
+      "question": "When Pharaoh called Moses 'a learned magician' in verse 34 rather than simply dismissing him, what did this reveal according to the tafsir?",
+      "options": ["That Pharaoh genuinely believed Moses had trained in Egyptian magical arts", "That Pharaoh's inner terror was concealed behind confident authority, as he could no longer simply call Moses mad once the signs appeared", "That the Egyptian priesthood had officially classified Moses's miracles as a form of advanced sorcery", "That Pharaoh respected Moses and was considering converting privately"],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars emphasize that the story teaches timeless principles of economic ethics—fair dealing, honest weights and measures, and the social responsibility inherent in commercial transactions."
+      "explanation": "Ibn Kathir observes the irony: Pharaoh had previously called Moses a madman, but once the signs appeared he could not maintain that dismissal. By promoting Moses to 'master sorcerer,' Pharaoh revealed his confusion and inner terror, which he struggled to hide behind a facade of authority."
     },
     {
       "id": "26_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 105,
-      "question": "According to contemporary tafsir, what does Prophet Nuh's 950-year mission demonstrate?",
-      "options": [
-        "The futility of preaching",
-        "Patience, perseverance, and unwavering commitment to divine mission",
-        "That prophets lived longer in ancient times",
-        "The importance of giving up on stubborn people"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars highlight Nuh's extraordinary patience and perseverance over 950 years as an exemplary model of steadfastness in calling to truth despite persistent rejection."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 36,
+      "question": "True or false: Imam Tabari explained that Pharaoh's advisors recommended delaying action against Moses and gathering magicians as a calculated strategy to buy time and assemble a superior counter-force, which itself revealed their desperation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari notes that 'arjih' (put him off) carries the meaning of a strategic reprieve, and that if Pharaoh's court had been confident in their position they would have dismissed Moses immediately. Muhammad al-Sha'rawi pointed out that the very need for such mobilization was an implicit acknowledgment that Moses's signs were real."
     },
     {
       "id": "26_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 70,
-      "question": "According to Ahlul Bayt teachings, what does Ibrahim's willingness to oppose his own father's beliefs demonstrate?",
-      "options": [
-        "Disrespect for elders",
-        "That truth (haqq) must be prioritized over familial and tribal loyalties",
-        "The importance of family disputes",
-        "That children should always disagree with parents"
-      ],
+      "layer": 1,
+      "verseNumber": 62,
+      "question": "At the sea with Pharaoh's army closing in, Moses responded to his companions' panic in verse 62 with 'Kalla! Inna ma'iya rabbi sa-yahdeen.' What is the key lesson Ibn Kathir draws from Moses's choice of words here?",
+      "options": ["Moses was demonstrating to his companions that he had already been shown an escape route by Allah", "Moses expressed certainty using the future tense 'He will guide me,' showing that his confidence rested not on knowing the mechanism of escape but on his certain knowledge of Allah", "Moses was reciting a prayer he had been taught at the burning bush specifically for emergencies", "Moses knew Pharaoh's army would be held back by a plague and was simply calming his people until it arrived"],
       "correctAnswer": "B",
-      "explanation": "Ahlul Bayt teachings emphasize that Ibrahim's stance shows that commitment to divine truth (haqq) and tawhid must take precedence over all other loyalties, even familial bonds, while maintaining respectful discourse."
+      "explanation": "Ibn Kathir emphasizes that Moses did not say 'I think Allah will help us' but used the future tense 'sa-yahdeen' with complete certainty. He draws a parallel with the Prophet Muhammad's words to Abu Bakr in the cave, showing this pattern of prophetic reassurance as a divine gift to His messengers at moments of extreme danger."
     },
     {
       "id": "26_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 68,
-      "question": "According to traditions from the Ahlul Bayt, the prophetic stories in Surah Ash-Shu'ara are meant to strengthen the believers and provide solace to Prophet Muhammad facing rejection.",
+      "layer": 3,
+      "verseNumber": 63,
+      "question": "True or false: The command in verse 63 for Moses to strike the sea with his staff illustrates a Quranic principle that Allah uses simple, available means to accomplish extraordinary miracles, rather than requiring elaborate or specialized instruments.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Ahlul Bayt teachings explain that these narratives of earlier prophets served to console Prophet Muhammad and strengthen believers by showing that all prophets faced rejection, yet divine truth ultimately prevailed."
+      "explanation": "This is explicitly drawn out in the tafsir of this verse: a wooden staff already in Moses's hand became the tool for parting an ocean. Wahbah al-Zuhayli connects this to the broader principle that what we have in hand, when used with faith and divine command, can become the instrument of miracles."
     },
     {
       "id": "26_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 106,
-      "question": "What spiritual concept from Ahlul Bayt teachings is exemplified by Prophet Nuh's declaration 'I am a trustworthy messenger to you'?",
-      "options": [
-        "Wealth accumulation",
-        "Amanah (trustworthiness) as essential to spiritual leadership",
-        "Political authority",
-        "Tribal supremacy"
-      ],
+      "layer": 2,
+      "verseNumber": 79,
+      "question": "In Ibrahim's declaration 'It is He who feeds me and gives me drink' in verse 79, Imam Tabari and Ibn Kathir both explain that the mention of food and drink serves what specific argumentative purpose in the context of idolatry?",
+      "options": ["It proves that Ibrahim had been fasting as an act of worship before making this declaration", "It establishes that the right to worship belongs exclusively to the one who provides even the most basic daily sustenance, which idols manifestly cannot do", "It corrects the Babylonian belief that food and water were gifts from the earth goddess", "It introduces the concept of halal and haram food that would be developed more fully in later revelation"],
       "correctAnswer": "B",
-      "explanation": "Ahlul Bayt teachings emphasize that amanah (trustworthiness) is a fundamental quality of divine leadership, connecting to the broader concept of wilayah and the trustworthiness required of all who guide the community."
+      "explanation": "Tabari explains that Ibrahim systematically listed divine attributes the idols lack. Ibn Kathir connects this to the Quranic principle that the exclusive right to worship must belong to the exclusive provider of sustenance: 'Is there any creator other than Allah who provides for you from the sky and the earth?' (35:3)."
     },
     {
       "id": "26_16",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 177,
-      "question": "According to Ahlul Bayt teachings, the economic ethics taught by Prophet Shu'ayb connect to the broader Islamic principle that social justice is inseparable from spiritual devotion.",
+      "layer": 1,
+      "verseNumber": 80,
+      "question": "True or false: In verse 80, Ibrahim's statement 'when I am ill, it is He who cures me' is notable because he uses the active voice for his own sickness but attributes healing to Allah alone, which classical scholars identify as a form of prophetic courtesy (adab) toward Allah.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Ahlul Bayt teachings consistently emphasize that worship without social justice is incomplete, and Shu'ayb's mission demonstrates that economic ethics and fair dealing are integral to true faith and taqwa."
+      "explanation": "Ibn Kathir gives this grammatical feature careful attention, explaining it reflects the highest form of adab: blessings are attributed to Allah directly while matters that appear negative are stated in the first person. This is the same etiquette the Prophet Ayyub displayed when he said only 'adversity has touched me' without blaming Allah."
     },
     {
       "id": "26_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 69,
-      "question": "What do both Sunni and Shia scholars agree upon regarding Ibrahim's method of challenging idolatry?",
-      "options": [
-        "It was ineffective",
-        "It demonstrates the Quranic emphasis on reason and rational argumentation in establishing faith",
-        "It only applies to ancient polytheism",
-        "It was purely symbolic"
-      ],
+      "layer": 3,
+      "verseNumber": 82,
+      "question": "Sheikh Ibn Uthaymeen emphasized a specific quality displayed by Ibrahim in verse 82 when he said 'I aspire that He will forgive me my sin' despite being a prophet. What quality is this?",
+      "options": ["Prophetic intercession, showing that Ibrahim was seeking forgiveness on behalf of all his people", "Prophetic humility, showing that even the most righteous person needs and hopes for Allah's forgiveness", "Prophetic urgency, showing that Ibrahim was preparing to die and wanted immediate forgiveness", "Prophetic resignation, showing that Ibrahim accepted that some sins cannot be forgiven in this life"],
       "correctAnswer": "B",
-      "explanation": "Both Sunni and Shia scholars across traditions agree that Ibrahim's rational questioning approach exemplifies the Quran's emphasis on using intellect and logical argumentation to establish the truth of tawhid."
+      "explanation": "This verse is treated across the tafsir as a model of prophetic humility. Ibn Uthaymeen and other scholars note that Ibrahim's use of the word 'aspire' (atma'u) rather than 'I know He will forgive me' demonstrates that even a prophet does not presume upon divine mercy but approaches Allah with hope combined with humility."
     },
     {
       "id": "26_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 104,
-      "question": "Both Sunni and Shia scholars agree that the repeated refrain 'your Lord is the All-Mighty, the All-Merciful' in Surah Ash-Shu'ara emphasizes the unity of divine power and compassion.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Scholars from both traditions agree that this refrain, appearing after each prophetic narrative, serves to reinforce the central Quranic message of tawhid and the perfect balance of Allah's attributes of majesty and mercy."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 103,
+      "question": "The refrain 'Indeed in that is a sign, but most of them were not to be believers' appears repeatedly after each prophetic story in this surah. What purpose does Ibn Kathir say this serves for the Prophet Muhammad?",
+      "options": ["It tells the Prophet that his mission is complete and he need not preach further", "It reassures the Prophet that widespread disbelief has always been the pattern of human history, so he should not be broken by the rejection he faces in Makkah", "It instructs the Prophet to restrict his preaching to those who have already shown willingness to listen", "It announces that the people of Makkah will eventually all accept Islam within the Prophet's lifetime"],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir draws a direct parallel to Surah Yusuf 12:103 and explains this refrain as Allah's confirmation that the failure of most people to believe is not evidence of the message's inadequacy but of their own willful blindness. The refrain reassures the Prophet by situating his experience within a pattern that stretches back to all previous prophets."
     },
     {
       "id": "26_19",
-      "type": "multipleChoice",
-      "layer": 5,
+      "type": "trueFalse",
+      "layer": 2,
       "verseNumber": 105,
-      "question": "How do Sunni and Shia scholars differ in their emphasis on the prophetic narratives in Surah Ash-Shu'ara?",
-      "options": [
-        "They completely disagree on their meaning",
-        "Shia scholars emphasize the connection to wilayah and Imamate, while Sunni scholars focus more on prophetic virtues",
-        "Sunni scholars reject these stories entirely",
-        "There are no differences whatsoever"
-      ],
-      "correctAnswer": "B",
-      "explanation": "While both traditions accept the core narratives, Shia scholars often draw connections between prophetic suffering and the struggles of the Ahlul Bayt and Imams, while Sunni scholars typically emphasize the universal virtues and lessons of prophetic patience."
+      "question": "True or false: Imam Tabari explained that verse 105 says Noah's people denied 'the messengers' (plural) even though only Noah was sent to them, because rejecting one messenger constitutes rejection of the universal message of tawhid that all prophets carry.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari records that early scholars including Ibn Abbas and Qatada unanimously understood this plural as indicating that rejection of any single messenger constitutes rejection of all, because all prophets share the same fundamental message and divine commission. Ibn Kathir reinforces this with the Quranic principle stated in Surah al-Nisa 4:150-151."
     },
     {
       "id": "26_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 177,
-      "question": "What shared conclusion do both Sunni and Shia scholars draw from Prophet Shu'ayb's story regarding faith and action?",
-      "options": [
-        "Faith alone is sufficient",
-        "Actions are more important than faith",
-        "True iman (faith) must manifest in ethical conduct, including economic justice",
-        "Economic matters are separate from religion"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Both Sunni and Shia scholars agree that Shu'ayb's story demonstrates the inseparability of faith and righteous action, showing that true iman must translate into ethical behavior, particularly in social and economic dealings."
+      "layer": 3,
+      "verseNumber": 105,
+      "question": "Sayyid Qutb, in his discussion of Noah's story in this surah, made a significant observation about why the surah presents Noah's account at this point in the revelation. What was his observation?",
+      "options": ["The story of Noah was included to establish Islamic flood theology in contrast to the biblical account", "The Prophet Muhammad, like Noah, faced a community attached to ancestral customs and using social pressure to silence the prophetic voice, making Noah's story a living mirror not ancient history", "Noah's story was placed here to demonstrate that prophets with exceptional patience always outlive their opponents", "The account was included to confirm that the people of Arabia were descended from the survivors of Noah's flood"],
+      "correctAnswer": "B",
+      "explanation": "Qutb emphasizes that Noah's story is not ancient history but a living mirror for the early Muslim community. He notes that Noah never compromised the message to win popular approval, and this is the prophetic model the Quran sets before believers in every generation. Sheikh al-Sha'rawi also noted this connection in his broadcast tafsir."
+    },
+    {
+      "id": "26_21",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 173,
+      "question": "True or false: The 'rain' sent upon the people of Lut described in verse 173 was, according to classical scholars including Tabari and Ibn Kathir, a rain of baked clay stones or brimstone — not water — making it an inversion of the normal Quranic symbol of rain as divine mercy.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari records the dominant view of the Salaf that this was a rain of sijjil (baked clay or hardened rock), as confirmed in Surah Hud 11:82. Ibn Kathir notes this is a powerful Quranic device: rain, normally associated with mercy and life, becomes an instrument of divine wrath, mirroring the moral inversion of the people who had turned the natural order upside down."
+    },
+    {
+      "id": "26_22",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 175,
+      "question": "Why do classical scholars consider the pairing of the divine names 'Al-Aziz al-Rahim' as a seal after each prophetic narrative in this surah to be theologically significant?",
+      "options": ["It signals to readers that the punishment described was temporary and that Allah has since restored the destroyed nations", "It prevents a one-dimensional reading of divine action by affirming that both the punishment and the rescue of believers flow from a being who is simultaneously all-powerful and all-merciful", "It establishes that only those who know both these names of Allah are eligible to receive prophetic intercession", "It marks the conclusion of each surah section where a legal ruling has been embedded"],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that placing al-Aziz before al-Rahim is deliberate: after describing divine punishment, the verse first affirms that Allah's power is absolute and inescapable, then immediately affirms that this same Lord is deeply merciful. Fakhr al-Din al-Razi calls this pairing a complete description of the divine approach to humanity: power that is never cruel, and mercy that is never weak."
+    },
+    {
+      "id": "26_23",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 176,
+      "question": "The people of the wood (Ashab al-Ayka) to whom Shuayb was sent as described beginning at verse 176 were condemned primarily for what practice?",
+      "options": ["Idol worship in underground temples hidden from public view", "Giving short measure and weight in trade, defrauding people in commercial transactions", "Sacrificing children to their gods during annual festivals", "Refusing to pay the obligatory tax to support the poor"],
+      "correctAnswer": "B",
+      "explanation": "Shuayb's people, the people of the wood, were condemned for commercial dishonesty: giving short measure and weight in trade. The tafsir of this section establishes that their crime was defrauding people economically while presenting a facade of normal social life, which is explicitly the focus of Shuayb's warnings in the verses that follow verse 176."
+    },
+    {
+      "id": "26_24",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 198,
+      "question": "True or false: Verse 198 presents a hypothetical argument that even if the Quran had been delivered by a non-Arab, the Quraysh would still not have believed, and Wahbah al-Zuhayli explains this as a counterfactual device to expose that their rejection was never based on rational objections but on deep-seated pride and spiritual closure.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli notes in Al-Tafsir al-Munir that this is a rhetorical strategy the Quran employs to expose the real motivation behind disbelief. Ibn Uthaymeen also noted this verse shows that when a people collectively turn away from truth, Allah allows them to remain in that blindness, and this provides mercy to believers by confirming the Prophet need not exhaust himself over those Allah has permitted to remain closed."
+    },
+    {
+      "id": "26_25",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 200,
+      "question": "Verse 200 states 'Thus have We caused it to enter into the hearts of the criminals.' Fakhr al-Din al-Razi's explanation of how this verse preserves human moral responsibility alongside divine sovereignty is which of the following?",
+      "options": ["Allah randomly assigns disbelief to some people before they make any choices as part of His eternal decree", "Allah's insertion of disbelief into criminal hearts occurs after they freely chose to reject truth, representing the withdrawal of divine assistance rather than the active creation of their disbelief", "The verse only applies to major criminals such as Pharaoh and Abu Jahl and not to ordinary people", "Disbelief is inserted into the heart as a test, and people can remove it through philosophical reasoning alone"],
+      "correctAnswer": "B",
+      "explanation": "Razi explains this preserves human moral responsibility: it is divine confirmation of a state the criminals themselves chose and cultivated through repeated rejection of truth. Ibn Kathir connects this to the hadith in Sahih Muslim where the Prophet described how sin accumulates like rust on the heart when repentance is persistently refused."
+    },
+    {
+      "id": "26_26",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 201,
+      "question": "True or false: Verse 201 teaches that the disbelievers described will eventually believe, but only when the painful punishment arrives — and at that point, according to Imam al-Qurtubi, their declaration of faith is no longer accepted because it is compelled rather than freely chosen.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qurtubi cites verse 4:18 to confirm that belief at the moment of witnessing punishment or facing death is not accepted. He explains this is consistent across Quranic teaching: faith must precede the experience of punishment to have spiritual value, as Razi also discusses when analyzing the psychological mechanism involved."
+    },
+    {
+      "id": "26_27",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 199,
+      "question": "Muhammad al-Sha'rawi made a specific pastoral observation about verse 199's conclusion that some hearts remain closed to the Quran. What was his observation?",
+      "options": ["It proves that the Arabic language is inherently superior and non-Arabic speakers have an excuse for rejecting Islam", "It teaches Muslims not to be arrogant about their own guidance, since the difference between the believer and the disbeliever is not intelligence but a divinely granted opening of the heart that must be humbly sought", "It establishes that the Quran should only be recited by those who have memorized it fully, to avoid misrepresenting its message", "It was revealed to comfort the Prophet that his task was nearly complete and most of Arabia would soon accept Islam"],
+      "correctAnswer": "B",
+      "explanation": "Al-Sha'rawi observed that this verse warns Muslims against spiritual arrogance, since guidance is a divine gift, not a product of personal intelligence or merit. This aligns with Qutb's reading that the verse reveals a spiritual law: when a soul repeatedly refuses truth, its capacity for recognizing truth diminishes, making the believer's own open heart something to be deeply grateful for."
+    },
+    {
+      "id": "26_28",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 102,
+      "question": "Verse 102 records the disbelievers in the Hereafter wishing for 'a return to the world and to be of the believers.' What is the Islamic principle this verse teaches about the timing of sincere faith?",
+      "options": ["That Allah will eventually grant the disbelievers a second chance after a period of punishment", "That the door of repentance is open only in this worldly life and closes at death, making every present moment of delay a spiritual risk", "That the disbelievers will have one final opportunity to accept faith at the end of time before the Day of Judgment", "That faith expressed out of fear of punishment is equally valid as faith freely chosen"],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen emphasized this verse as one of the strongest motivators for religious urgency, saying: 'The very wish these people make on the Day of Judgment is the opportunity you hold in your hands right now.' Tabari connects it to Surah al-Anam 6:27-28 where Allah reveals that if such people were sent back, they would return to exactly the same sins."
+    },
+    {
+      "id": "26_29",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 221,
+      "question": "True or false: The closing section of Surah Ash-Shuara distinguishes between true Quranic revelation and poetry by noting that the Quran descends upon the Prophet's heart by the Trustworthy Spirit, while the wayward poets described follow every valley of passion and say what they do not practice.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The closing verses of the surah draw this crucial distinction. Classical scholars including Ibn Kathir explain that the Quran was brought down by Jibril upon the Prophet's heart as a divine trust, while the wayward poets described follow their desires, roam every rhetorical valley without discipline, and claim what they do not practice, making the Quran fundamentally different in its origin, character, and moral consistency."
+    },
+    {
+      "id": "26_30",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 227,
+      "question": "The closing verse 227 of Surah Ash-Shuara makes an exception for believing poets who 'remember Allah much and help themselves when wronged.' What broader lesson does Wahbah al-Zuhayli draw from this exception for Islamic engagement with literature and the arts?",
+      "options": ["That Muslims must avoid all forms of poetry and creative expression to prevent spiritual corruption", "That creative expression and literary gifts are not inherently sinful; what matters is whether they are guided by faith, directed toward truth, and accompanied by righteous conduct", "That only Quran reciters and religious scholars are permitted to engage with Arabic poetry", "That Islamic civilization should replace all pre-Islamic literature with Quran-inspired texts"],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli explains in Al-Tafsir al-Munir that this exception establishes that poetry and creative gifts are not condemned in themselves; what distinguishes permissible from condemned expression is the orientation of the poet's heart, their remembrance of Allah, and the consistency between what they say and what they do. This principle has governed Islamic literary tradition throughout history."
     }
   ]
 }

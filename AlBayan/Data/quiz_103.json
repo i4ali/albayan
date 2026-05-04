@@ -6,70 +6,70 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the Foundation Layer, what does the term 'al-asr' (time) in the opening verse symbolize beyond chronological time?",
-      "options": [
-        "Only the measurement of hours and days",
-        "A transformative force that shapes human destiny and tests our choices",
-        "The end of the world",
-        "A specific historical period"
-      ],
-      "correctAnswer": "A transformative force that shapes human destiny and tests our choices",
-      "explanation": "Classical Shia scholars like Allamah Tabatabai explain that al-asr refers not only to chronological time but to its transformative essence—a force that shapes human destiny and tests our choices. The term's root ('aṣara) also implies 'pressing' or 'extracting,' symbolizing how time presses humanity to reveal their true spiritual state."
+      "question": "What does Allah swear by at the opening of Surah Al-Asr?",
+      "options": ["The dawn (al-fajr)", "Time, the age, or the late afternoon (al-asr)", "The night when it covers", "The pen and what they inscribe"],
+      "correctAnswer": "B",
+      "explanation": "Surah Al-Asr opens with a solemn oath by 'Al-Asr,' which scholars translate as 'time,' 'the age,' or specifically 'the late afternoon.' The late afternoon is a fitting symbol for the human lifespan, which also declines toward its inevitable end."
     },
     {
       "id": "103_2",
-      "type": "multipleChoice",
-      "layer": 2,
+      "type": "trueFalse",
+      "layer": 1,
       "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq's interpretation in the Classical Shia Layer, what does 'al-Asr' specifically refer to?",
-      "options": [
-        "The afternoon prayer time only",
-        "The Qa'im (Imam Mahdi), representing the era of divine guardianship",
-        "The Prophet Muhammad's lifetime",
-        "A general concept of time passing"
-      ],
-      "correctAnswer": "The Qa'im (Imam Mahdi), representing the era of divine guardianship",
-      "explanation": "Imam Jafar al-Sadiq is reported to have interpreted 'aṣr as an allusion to the reappearance of the Mahdi, the divinely guided savior whose advent will fulfill time's purpose. He states: 'The Asr is the Qa'im [Imam Mahdi], for he is the Time (al-Asr) through which people attain success or perish' (Tafsir al-Qummi)."
+      "question": "True or false: Imam al-Shafi'i famously said that if Allah had only revealed Surah Al-Asr, it would have been sufficient guidance for humanity.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Shafi'i, one of the four great imams of Sunni jurisprudence, famously said that if Allah had only revealed this surah it would have been sufficient guidance for humanity. Ibn Kathir records this statement through al-Bayhaqi's Shu'ab al-Iman."
     },
     {
       "id": "103_3",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "According to contemporary scholars in Layer 3, the 'loss' (khusr) mentioned in verse 2 only refers to financial or material losses, not spiritual bankruptcy.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The term khusr signifies a deep, irreversible loss—not merely financial or temporary, but a spiritual bankruptcy threatening our eternal destiny. Contemporary scholars emphasize that this loss stems from humanity's tendency to prioritize transient worldly pursuits over lasting spiritual growth."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "According to Imam Tabari, what are the two principal scholarly positions on the meaning of 'al-asr' in this verse?",
+      "options": ["The era of prophets versus the era of caliphs", "Time in its general sense versus the late afternoon prayer time", "The Meccan period versus the Medinan period", "The morning versus the evening"],
+      "correctAnswer": "B",
+      "explanation": "Tabari in Jami al-Bayan identifies two principal positions: the majority view that al-asr refers to time in its general sense, and a second position reported from Ibn Abbas that it refers specifically to the late afternoon prayer time, the 'middle prayer' mentioned in Surah Al-Baqarah."
     },
     {
       "id": "103_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to the Ahlul Bayt Layer, what does Imam Sadiq (as) identify as 'the truth' (al-haqq) mentioned in verse 3?",
-      "options": [
-        "Following scholarly consensus",
-        "Wilayah - love and loyalty to the Imams of guidance",
-        "Adherence to local customs",
-        "Personal interpretation of scriptures"
-      ],
-      "correctAnswer": "Wilayah - love and loyalty to the Imams of guidance",
-      "explanation": "Imam Sadiq (as) states: 'The truth in this verse is Wilayah – love and loyalty to the Imams of guidance. The patience is steadfastness in their obedience' (Tafsir al-Qummi). This transforms the concept of truth from abstract principles to concrete recognition of and adherence to the Imams' guidance."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: Ibn Kathir holds that the word 'al-insan' in verse 2 refers only to a particular group of disbelievers, not to humanity as a whole.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim is emphatic that the verse uses the definite article 'al-insan' to mean the entire human species as a collective, not merely some particular group of disbelievers. The exception is then introduced in the following verse."
     },
     {
       "id": "103_5",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "What is the literal background of the Arabic word 'khusr' used in the declaration 'mankind is in loss'?",
+      "options": ["A military defeat", "A loss in trade or commerce, where capital yields less than what was invested", "A loss of memory or wisdom", "A physical injury or wound"],
+      "correctAnswer": "B",
+      "explanation": "The word 'khusr' is drawn from the language of trade and commerce, meaning a transaction in which one invests capital and receives back less than what was put in. Allah frames human life as a transaction in which time, intellect, and opportunity are the capital being invested."
+    },
+    {
+      "id": "103_6",
+      "type": "multipleChoice",
+      "layer": 3,
       "verseNumber": 3,
-      "question": "In the Comparative Analysis Layer, what is the key difference between Shia and Sunni interpretations of 'al-haqq' (truth) in verse 3?",
-      "options": [
-        "Sunni scholars reject the concept of truth entirely",
-        "Shia exegetes contextualize it as adherence to divine guidance through the Imams, while Sunni commentators frame it more broadly as adherence to Quran and Sunnah",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars emphasize only individual piety while Sunni scholars emphasize community"
-      ],
-      "correctAnswer": "Shia exegetes contextualize it as adherence to divine guidance through the Imams, while Sunni commentators frame it more broadly as adherence to Quran and Sunnah",
-      "explanation": "Shia exegetes like Al-Tabātabāʾī contextualize ḥaqq as adherence to divine guidance through the Imams, interpreting the verse as an implicit call to follow the Ahl al-Bayt's teachings. Sunni commentators, while affirming the necessity of truth, frame it more broadly—Al-Qurṭubī emphasizes adherence to Quran and Sunnah, while Al-Rāzī associates ḥaqq with doctrinal and legal truths validated through communal consensus (ijmāʿ)."
+      "question": "According to Wahbah al-Zuhayli, how do the four qualities listed in verse 3 (faith, righteous deeds, mutual counsel to truth, mutual counsel to patience) relate to one another?",
+      "options": ["They are alternative paths, and any one of them is sufficient for salvation", "They form an indivisible whole, where each quality reinforces and depends on the others", "They are arranged in order of importance, with only the first being essential", "They apply only to scholars and not to ordinary believers"],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir emphasises that the four conditions form an indivisible whole: faith without deeds is deficient, deeds without faith are rootless, personal piety without communal engagement is incomplete, and mutual encouragement without patience collapses under pressure."
+    },
+    {
+      "id": "103_7",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "True or false: Ibn Uthaymeen explains that the 'sabr' (patience) which believers are commanded to enjoin upon one another is passive resignation rather than active steadfastness.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Uthaymeen stresses that sabr is not passive resignation but active steadfastness, a quality that requires constant renewal and communal reinforcement. This is precisely why the surah presents patience as something people must remind one another of, rather than simply possess individually."
     }
   ]
 }

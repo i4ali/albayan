@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Bayyina's opening verse, what does the term 'al-Bayyina' (the clear evidence) primarily refer to according to the Foundation Layer?",
+      "question": "What does the Arabic word 'munfakkin' in the opening verse convey about the disbelievers' state before the clear evidence arrived?",
       "options": [
-        "Only the written Quran as a book",
-        "Prophet Muhammad (PBUH) and his purified progeny, the Ahlul Bayt, as the living guidance",
-        "The historical manuscripts of previous scriptures",
-        "The scholarly consensus of religious leaders"
+        "That they were eagerly searching for new guidance",
+        "That they were already drifting away from their disbelief",
+        "That they were embedded in their ways and would not leave them without an undeniable proof",
+        "That they had already split into multiple sects"
       ],
-      "correctAnswer": "Prophet Muhammad (PBUH) and his purified progeny, the Ahlul Bayt, as the living guidance",
-      "explanation": "The term 'al-Bayyina' holds profound significance in Shia tafsir, often interpreted as the ultimate manifestation of divine truth: Prophet Muhammad (PBUH) and his purified progeny, the Ahlul Bayt. Classical commentators like Allamah Tabatabai emphasize that this 'evidence' transcends mere intellectual proof; it embodies the living guidance of the Prophet and his successors, particularly Imam Ali (AS), whose authority is seen as inseparable from the Quran's message."
+      "correctAnswer": "C",
+      "explanation": "Layer 1 explains that 'munfakkin' carries the meaning of separating or departing from something, indicating that their disbelief had a deeply ingrained, persistent quality. They would not desist until a clear evidence (al-bayyinah) came to them from Allah."
     },
     {
       "id": "98_2",
       "type": "trueFalse",
       "layer": 2,
       "verseNumber": 2,
-      "question": "According to Al-Tabatabai's interpretation in Tafsir al-Mizan, the 'purified scriptures' mentioned in verse 2 only refers to the textual integrity of the Quran, without any connection to the Ahl al-Bayt's role as interpreters.",
+      "question": "True or false: According to Ibn Kathir, the description of the scriptures as 'mutahhara' (purified) means they are pure from any alteration, addition, deficiency, or corruption.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Al-Tabatabai extends the concept of 'purified scriptures' to include both the Quran's textual integrity and its esoteric dimensions, emphasizing that true understanding requires divinely guided authorities. He argues that the purification extends beyond textual integrity to the spiritual purity required to receive and transmit divine knowledge—a quality embodied by the Prophet and his Ahlul Bayt, who are authorized interpreters of revelation."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explains that 'mutahhara' implies the Quran is purified from any alteration, addition, deficiency, or corruption, contrasting implicitly with the altered scriptures of the People of the Book."
     },
     {
       "id": "98_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 7,
-      "question": "According to contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi, what does 'righteous deeds' in verse 7 include in the modern context?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What striking point does verse four make about the division among the People of the Scripture?",
       "options": [
-        "Only traditional religious rituals and prayers",
-        "Actions fostering universal justice, environmental stewardship, and social equity",
-        "Exclusively financial charity to religious institutions",
-        "Personal spiritual practices without social engagement"
+        "Their division was caused by ambiguity in their original scriptures",
+        "Their division occurred only after the clear evidence had already come to them",
+        "Their division was secretly orchestrated by the polytheists",
+        "Their division was unavoidable because of geographical separation"
       ],
-      "correctAnswer": "Actions fostering universal justice, environmental stewardship, and social equity",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes that this verse transcends sectarian boundaries, framing 'righteous deeds' as actions fostering universal justice, environmental stewardship, and social equity—values aligning with the Quranic concept of khilafa (humanity's role as stewards of Earth). Modern exegetes connect the verse to contemporary challenges, arguing that combating climate injustice or poverty exemplifies righteousness today."
+      "correctAnswer": "B",
+      "explanation": "Layer 1 emphasizes that the division among the People of the Scripture was not due to a lack of guidance but a post-guidance phenomenon. The bayyinah had come clearly; their split was a willful choice, not an inevitability."
     },
     {
       "id": "98_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 6,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about the 'worst of creatures' mentioned in verse 6, who does this specifically refer to?",
-      "options": [
-        "Those who simply lack religious knowledge",
-        "Those who fought Imam Ali and denied his right, knowing the truth but rejecting it out of envy",
-        "People who occasionally miss their prayers",
-        "Those who were born into non-Muslim families"
-      ],
-      "correctAnswer": "Those who fought Imam Ali and denied his right, knowing the truth but rejecting it out of envy",
-      "explanation": "Imam Ja'far al-Sadiq (peace be upon him) states in Tafsir al-Qummi: 'The worst creatures are those who fought Amir al-Mu'minin [Imam Ali] and denied his right, for they knew the truth but rejected it out of envy.' This reveals the verse's deeper layer: rejection of the Imamah—the divine authority of the Imams—is equated with rejecting the essence of prophethood itself."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 5,
+      "question": "True or false: Sayyid Qutb describes verse five as the moment the surah returns religion to its pure, simple, and profound foundations.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Fi Zilal al-Quran, Sayyid Qutb argues that the complexity and division described earlier in the surah stems from departure from this single command - to worship Allah alone with sincerity, establish prayer, and give zakah."
     },
     {
       "id": "98_5",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "According to Imam al-Qurtubi, what is the significance of the word 'hunafa' in this verse?",
+      "options": [
+        "It refers to scholars of jurisprudence",
+        "It connects to the tradition of Ibrahim, the original hanif who rejected idol worship and turned purely to Allah",
+        "It denotes a special class of angels who record deeds",
+        "It identifies the tribe from which the Prophet descended"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qurtubi in Al-Jami li-Ahkam al-Quran links 'hunafa' to Prophet Ibrahim, the original hanif who rejected idol worship and turned purely to Allah, showing Islam as the restoration of the primordial faith (din al-fitra)."
+    },
+    {
+      "id": "98_6",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "Both Sunni and Shia scholars agree that the divisions mentioned in verse 4 arose from ambiguity in divine revelation rather than from human obstinacy.",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "True or false: The phrase 'sharr al-bariyya' (worst of creatures) in verse six refers to those who rejected truth out of innocent ignorance, never having received clear evidence.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. Both Shia and Sunni exegetes concur that divisions arise from human obstinacy rather than doctrinal ambiguity in revelation. Ibn Kathir and Qummi both emphasize that the 'clear evidence' (al-bayyina) was unambiguous, and the verse critiques earlier communities for fragmenting into sects despite receiving manifest guidance. The divisions emerged from conscious rejection of truth after its manifestation, not from any lack of clarity in divine revelation."
+      "explanation": "Layer 1 makes clear this is not about ignorant disbelief but about rejecting truth after it has been clearly presented. The verse applies to those who received the bayyinah, the upright scriptures, and the clear command of sincere worship, then still chose disbelief."
+    },
+    {
+      "id": "98_7",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "How does Wahbah al-Zuhayli define 'khashya' in his commentary on the closing phrase of the surah?",
+      "options": [
+        "Mere terror at the thought of punishment",
+        "A purely intellectual study of theology",
+        "A combination of knowledge, awe, and love that produces consistent obedience",
+        "A solitary withdrawal from worldly engagement"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir defines khashya as a combination of knowledge, awe, and love that produces consistent obedience - not mere fear of punishment but a more elevated and sustaining spiritual state, as Ibn Uthaymeen also emphasized."
     }
   ]
 }

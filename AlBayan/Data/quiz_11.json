@@ -5,271 +5,291 @@
       "id": "11_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 61,
-      "question": "According to the tafsir of verse 61, what does the Arabic term 'ista'marakum' refer to regarding humanity's role on earth?",
+      "verseNumber": 1,
+      "question": "Surah Hud opens by describing its verses with two paired qualities. What are these two qualities according to verse 1?",
       "options": [
-        "To worship continuously",
-        "To act as stewards (khalifah) tasked with nurturing the world responsibly",
-        "To conquer other nations",
-        "To accumulate wealth"
+        "A. Revealed in Makkah and later confirmed in Madinah",
+        "B. Perfected in wording and then detailed in meaning",
+        "C. Warning and glad tidings",
+        "D. Abrogating and preserved"
       ],
       "correctAnswer": "B",
-      "explanation": "The phrase 'He has produced you from the earth and ista'marakum (settled/cultivated you) in it' highlights Allah's creative power and humanity's role as stewards (khalifah) tasked with nurturing the world responsibly."
+      "explanation": "Verse 1 states the Quran's verses are 'uhkimat' (perfected, flawless in structure) and then 'fussilat' (detailed, fully explained in content). Ibn Kathir affirms this dual quality means the Quran is both linguistically impeccable and comprehensively explanatory, flowing from the attributes of Allah the All-Wise and All-Aware."
     },
     {
       "id": "11_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 61,
-      "question": "According to the tafsir, the verse's call to 'ask forgiveness of Him and then repent to Him' describes repentance (tawbah) as a two-step process.",
+      "verseNumber": 2,
+      "question": "True or false: Verse 2 of Surah Hud gives the Prophet only one role — that of a warner — because the seriousness of accountability outweighs the promise of reward.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The call to 'ask forgiveness of Him and then repent to Him' underscores repentance (tawbah) as a two-step process: seeking mercy and actively turning back to Allah."
+      "correctAnswer": "false",
+      "explanation": "Verse 2 assigns the Prophet two complementary roles: nadhir (warner) and bashir (bearer of glad tidings). Imam al-Qurtubi explains that the pairing prevents both despair and false security in the believer's heart, and that neither role is sufficient without the other."
     },
     {
       "id": "11_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 86,
-      "question": "In verse 86, Prophet Shu'ayb addresses the people of Madyan about which major issue?",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "How did Imam Tabari, citing Mujahid and Qatadah, interpret the distinction between 'uhkimat' and 'fussilat' in verse 1?",
       "options": [
-        "Idol worship",
-        "Dishonest trade practices like cheating in weights and measures",
-        "Neglecting daily prayers",
-        "Building excessive monuments"
+        "A. 'Uhkimat' means the verses are not abrogated and 'fussilat' means they are explained in detail",
+        "B. 'Uhkimat' refers to perfection in wording and 'fussilat' refers to completeness in meaning",
+        "C. Both terms describe the challenge the Quran poses to its opponents",
+        "D. 'Uhkimat' means revealed all at once and 'fussilat' means revealed in stages"
       ],
       "correctAnswer": "B",
-      "explanation": "Prophet Shu'ayb addresses his community, the people of Madyan, who were notorious for dishonest trade practices like cheating in weights and measures."
+      "explanation": "Tabari in Jami al-Bayan records that Mujahid and Qatadah, in the view Tabari himself preferred, understood 'uhkimat' as perfection of the Quran's wording and 'fussilat' as its completeness in meaning — combining formal precision with substantive clarity. Another view from Ibn Abbas held 'muhkam' means not abrogated, but Tabari favoured the former."
     },
     {
       "id": "11_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 115,
-      "question": "According to the tafsir, what does the Arabic term 'sabr' (patience) signify in verse 115?",
-      "options": [
-        "Passive resignation to fate",
-        "Steadfastness in faith and action, not passive endurance",
-        "Physical strength",
-        "Avoiding all forms of conflict"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Arabic term sabr (patience) signifies steadfastness in faith and action, not passive endurance. It is a spiritual discipline requiring active trust in Allah's justice."
+      "verseNumber": 6,
+      "question": "True or false: According to verse 6, Allah guarantees the provision of every creature that moves on earth, and all of this is recorded in a clear register.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 6 declares that no creature (dabbah) exists without its rizq being upon Allah, and that every creature's dwelling and final resting place are recorded in a 'kitab mubin.' Ibn Kathir identifies the kitab mubin as the Preserved Tablet containing Allah's perfect and eternal knowledge."
     },
     {
       "id": "11_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 61,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does Prophet Salih's call to tawhid represent?",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "What concept does Wahbah al-Zuhayli connect to verse 6's promise of divine provision, and how does he describe its two components?",
       "options": [
-        "Mere ritualism",
-        "A call that transcends mere ritualism by affirming Allah's absolute authority over existence and human purpose",
-        "A political movement",
-        "Economic reform"
+        "A. Zuhd (asceticism) — abandoning worldly effort and concentrating on worship alone",
+        "B. Tawakkul (reliance on Allah) — taking lawful means while trusting in Allah's guarantee of provision",
+        "C. Qada (divine decree) — passively accepting all outcomes without seeking any means",
+        "D. Tawbah (repentance) — returning to Allah as the precondition for receiving provision"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that Prophet Salih's declaration 'Worship Allah; you have no deity other than Him' is a call to tawhid that transcends mere ritualism by affirming Allah's absolute authority over existence and human purpose."
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir reflects that verse 6 affirms tawakkul — active reliance on Allah combined with purposeful effort. The verse liberates the believer from paralysing anxiety about sustenance without promoting passivity, and Sheikh Ibn Uthaymeen similarly stressed that the guarantee does not eliminate the obligation to seek lawful means."
     },
     {
       "id": "11_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 61,
-      "question": "According to Imam Jafar al-Sadiq, istighfar erodes sin while tawbah signifies a return to innate purity (fitra).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "As Imam Jafar al-Sadiq taught, istighfar erodes sin, while tawbah signifies a return to innate purity (fitra), reflecting the Shia emphasis on spiritual renewal through the Ahlul Bayt's intercession."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 40,
+      "question": "What was the divinely appointed signal for Nuh to begin loading the Ark, as described in verse 40?",
+      "options": [
+        "A. A mighty thunderclap heard across the land",
+        "B. Rain falling for forty consecutive days without stopping",
+        "C. The overflowing of the tannur with water",
+        "D. An angel appearing visibly to Nuh at the door of his home"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 40 states 'wa fara al-tannur' — when the oven or hearth overflowed with water, that was the divinely appointed sign to begin boarding. This extraordinary sign, as Sayyid Qutb notes in Fi Zilal al-Quran, emphasized that the flood was a precisely timed divine decree and not a random natural event."
     },
     {
       "id": "11_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 76,
-      "question": "According to Tabrisi in Majma al-Bayan, what does Prophet Ibrahim's persistence in intercession for the people of Lot reflect?",
-      "options": [
-        "Disobedience to divine will",
-        "His innate shafaqa (compassion), a hallmark of prophetic character",
-        "Ignorance of divine decree",
-        "Political ambition"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi notes that Ibrahim's persistence in intercession reflects his innate shafaqa (compassion), a hallmark of prophetic character, yet the verse establishes the ontological boundary between human agency and divine sovereignty."
+      "verseNumber": 40,
+      "question": "True or false: Classical scholars unanimously agreed that 'tannur' in verse 40 refers to a specific cooking oven that once belonged to Nuh's wife.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam Tabari in Jami al-Bayan documents extensive disagreement. The most widespread opinion, from Ibn Abbas, is that 'tannur' means the face of the earth — water bursting from the ground in all directions. Other narrations identify a specific oven in various locations. Ibn Kathir noted the precise identity mattered less than recognising the divinely appointed sign."
     },
     {
       "id": "11_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 86,
-      "question": "According to Shia commentators, what does the term 'baqiyyat Allah' (what remains from Allah) in verse 86 refer to?",
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "When Nuh called out to his son during the flood, what reason did the son give for refusing to board the Ark?",
       "options": [
-        "Material wealth only",
-        "Pure, lawful sustenance and ethical practices ordained by Allah, inseparable from true belief",
-        "Political power",
-        "Military strength"
+        "A. He said he had already made his peace with Allah",
+        "B. He said he would take refuge on a mountain to protect himself from the water",
+        "C. He accused Nuh of building the Ark to flee from the people",
+        "D. He said he was too weak to climb aboard"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical commentators like Tabatabai in Al-Mizan highlight that 'baqiyyat Allah' refers to the pure, lawful sustenance and ethical practices ordained by Allah, which are inseparable from true belief (iman)."
+      "explanation": "The son replied that he would take shelter on a mountain, trusting a material refuge over the prophetic instruction. Sayyid Qutb comments that the Quran's scene reveals a fundamental principle: the son who stood deliberately apart had already separated spiritually, and the flood only made that rupture visible."
     },
     {
       "id": "11_9",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 61,
-      "question": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret 'He settled you in it' as emphasizing what modern concept?",
-      "options": [
-        "Industrial development",
-        "Environmental custodianship as a divine mandate",
-        "Urbanization",
-        "Technological advancement"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars, such as Ayatollah Naser Makarem Shirazi, highlight the verse's emphasis on environmental custodianship as a divine mandate, interpreting it as a reminder of humanity's interconnectedness with the natural world."
+      "verseNumber": 42,
+      "question": "True or false: Sayyid Qutb's commentary on verse 42 argues that the Quran fundamentally redefines family through this scene — establishing that true family is constituted by shared faith, not shared blood.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qutb in Fi Zilal al-Quran writes that Nuh's true family were the believers, and the son who chose disbelief had already made himself a stranger before the water ever rose. This principle was later echoed when Prophet Muhammad refused to distance himself from poor Companions like Bilal to please the Quraysh nobles."
     },
     {
       "id": "11_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 76,
-      "question": "According to contemporary scholars, Ibrahim's cessation of intercession teaches that we must recognize natural consequences when societal moral decay reaches a threshold.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary scholars contextualize this as a call to recognize the natural consequences of systemic corruption - when societal moral decay reaches a threshold, collective suffering becomes inevitable, much like ecological tipping points."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "What invocation did Nuh pronounce when commanding the believers to board the Ark, and what two aspects of the voyage did it cover?",
+      "options": [
+        "A. He recited Surah al-Fatiha, covering beginning and end",
+        "B. He said 'In the name of Allah is its sailing and its anchoring', covering both motion and rest",
+        "C. He made a supplication covering the sins of his people and the safety of believers",
+        "D. He declared 'Allah is sufficient for us', covering provision and protection"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 41 records Nuh's declaration 'Bismillahi majraha wa mursaha' — in Allah's name is its course and its anchorage. This invocation covers both the motion of the vessel and its coming to rest, affirming total reliance on Allah. Imam Tabari and Ibn Kathir confirm it became a prophetic sunna for travel."
     },
     {
       "id": "11_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 115,
-      "question": "According to Ayatollah Naser Makarem Shirazi, how should modern Muslims understand the concept of 'sabr' (patience)?",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "According to Ibn Kathir's commentary, which historical parallel does the response of Nuh's tribal chiefs in verse 27 directly foreshadow?",
       "options": [
-        "As passive resignation",
-        "As 'spiritual activism' - a dynamic commitment to moral integrity and social justice",
-        "As avoidance of all worldly matters",
-        "As isolation from society"
+        "A. The mockery of Musa's followers by Pharaoh's nobles",
+        "B. The Quraysh noblemen's contempt for the poor and slave Companions of Prophet Muhammad",
+        "C. The rejection of Prophet Shuayb by the merchants of Madyan",
+        "D. The disbelief of Nuh's own son during the flood"
       ],
       "correctAnswer": "B",
-      "explanation": "Shirazi frames patience as 'spiritual activism,' aligning with Imam Ali's teaching that 'patience is the bridge between despair and hope,' reframing perseverance as a tool for navigating systemic oppression and personal struggles."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim draws an extensive parallel between the Ad chiefs dismissing Nuh's poor followers and the Quraysh noblemen who sneered that only slaves and the poor followed Muhammad. He also cites the hadith of Heraclius, who told Abu Sufyan that the humble following first is the universal pattern of true prophethood."
     },
     {
       "id": "11_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 111,
-      "question": "According to contemporary Shia thought, how does verse 111's promise of divine recompense relate to modern social ethics?",
-      "options": [
-        "It only applies to individual actions",
-        "Systemic inequalities like wealth gaps and climate injustice mirror the 'deeds' humanity must account for collectively",
-        "It has no relevance to modern society",
-        "It only concerns the afterlife"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Scholar Dr. Liyakat Takim connects this verse to modern social ethics, noting that systemic inequalities - from wealth gaps to climate injustice - mirror the 'deeds' humanity must account for collectively."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 54,
+      "question": "True or false: In verse 54, the people of Ad accused Prophet Hud of having been afflicted with madness by their own gods as punishment for opposing them.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The Ad people claimed 'some of our gods have seized you with evil.' Tabari explains this was their attempt to rationalise Hud's opposition within their own theological framework — if their gods were real, his strange behaviour must be divine retribution. Ibn Kathir notes the same accusation of madness was later directed at Prophet Muhammad by the Quraysh."
     },
     {
       "id": "11_13",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 61,
-      "question": "According to Imam Ali in Nahj al-Balagha, the first step in religion is knowing Allah, and the perfection of knowing Him is affirming His Oneness.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) states in Nahj al-Balagha: 'The first step in religion is knowing Him, and the perfection of knowing Him is affirming His Oneness.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 56,
+      "question": "How does Sayyid Qutb describe the spiritual state represented by Hud's declaration 'I have relied upon Allah' in verse 56?",
+      "options": [
+        "A. Passive resignation — one stops taking practical steps and waits for divine action",
+        "B. Total liberation — genuine tawakkul makes a believer incapable of being frightened by human power",
+        "C. Mystical absorption in divine presence that removes awareness of opposition",
+        "D. The acceptance that failure is inevitable and worldly success should not be expected"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qutb in Fi Zilal al-Quran writes that Hud's tawakkul achieved total liberation: by placing everything in Allah's hands, the prophet could face an entire hostile civilisation and invite their worst. Wahbah al-Zuhayli similarly notes the sequential spiritual logic — recognising divine power over all creatures logically produces the fearlessness Hud displayed."
     },
     {
       "id": "11_14",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 86,
-      "question": "According to Imam Ja'far al-Sadiq, what does the term 'Baqiyyatullah' refer to in the context of the Ahlul Bayt?",
+      "layer": 1,
+      "verseNumber": 62,
+      "question": "The people of Thamud described Prophet Salih in verse 62 as 'marju'an' before his prophetic call. What does this term mean, and why is it significant for understanding their rejection?",
       "options": [
-        "Material provisions",
-        "The Imams themselves - 'We are the Baqiyyatullah upon His earth'",
-        "Physical buildings",
-        "Written texts only"
+        "A. A stranger who had recently arrived — explaining their distrust of his sudden authority",
+        "B. A man who was hoped in and trusted — revealing that their rejection was betrayal of expectations, not pure theological doubt",
+        "C. A wealthy merchant — suggesting their rejection was primarily economic",
+        "D. A known debater — indicating they expected a philosophical argument rather than divine command"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq (peace be upon him) elucidates: 'We are the Baqiyyatullah upon His earth' (Bihar al-Anwar), revealing that true success lies in clinging to the rope of Allah manifested in their purified lineage."
+      "explanation": "The word 'marju'an' means someone the community trusted and placed great hopes in. As Muhammad al-Sha'rawi notes, this admission reveals the Thamud had suppressed conscience rather than genuine ignorance — they sensed the truth in Salih's message but chose their comfortable ancestral tradition over sincere investigation."
     },
     {
       "id": "11_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 115,
-      "question": "According to Imam Ali in Nahj al-Balagha, what metaphor does he use to describe patience?",
-      "options": [
-        "A mountain that never moves",
-        "A riding beast that never stumbles - carrying the believer to the highest ranks of Paradise",
-        "A river that flows endlessly",
-        "A tree with deep roots"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (as) states in Nahj al-Balagha: 'Patience is a riding beast that never stumbles - it carries the believer to the highest ranks of Paradise.'"
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 74,
+      "question": "True or false: According to Wahbah al-Zuhayli's commentary on verse 74, Muslims are called to maintain mercy and concern even for communities in severe moral decline, and should never treat people as entirely beyond return to Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir draws from Ibrahim's intercession for the people of Lut the lesson that believers should not reduce people to their worst actions. Ibrahim accepted the final divine verdict only when the angels made clear that the decree was sealed — until that point he continued advocating for mercy."
     },
     {
       "id": "11_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 76,
-      "question": "According to the teachings of the Ahlul Bayt, true submission to divine decree requires trusting the interconnectedness of Allah's plan administered through His chosen guides.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) states: 'The rope of Allah is one: His command. Hold fast to its entirety,' emphasizing that true submission requires trusting the interconnectedness of Allah's plan, administered through His chosen guides."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 75,
+      "question": "Imam Tabari records the greatest variety of scholarly interpretations for which of the three qualities attributed to Ibrahim in verse 75?",
+      "options": [
+        "A. Halim (forbearing)",
+        "B. Awwah",
+        "C. Munib (frequently returning to Allah)",
+        "D. All three were equally agreed upon with no significant variation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tabari in Jami al-Bayan records multiple distinct interpretations of 'Awwah' from Companions and Successors, including: one who supplicates constantly, one who sighs in awe of Allah, one who is tender-hearted toward others, and one who frequently repents. Imam Qurtubi compiled fifteen scholarly definitions of this term alone."
     },
     {
       "id": "11_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 61,
-      "question": "What is a key difference between Shia and Sunni interpretations of 'He settled you in it' (istamarakum) in verse 61?",
+      "layer": 1,
+      "verseNumber": 88,
+      "question": "Prophet Shuayb gave a four-part response to his people's mockery in verse 88. Which option correctly identifies all four elements?",
       "options": [
-        "There is no difference",
-        "Shia link it to humanity's stewardship under the Imamate's moral authority, while Sunni interpret it more broadly as a command to cultivate the earth",
-        "Sunni reject the verse entirely",
-        "Shia interpret it as purely spiritual"
+        "A. Divine proof, prayer for their guidance, a warning of punishment, and a declaration of his lineage",
+        "B. Standing on clear evidence from his Lord, acknowledging good provision from Allah, declaring reform as his sole intent within his capacity, and affirming total reliance on Allah",
+        "C. Denying their accusation, challenging them to debate, recounting earlier prophets, and promising reward for belief",
+        "D. Acknowledging his limitations, citing his poverty, describing the punishment ahead, and renewing his invitation"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia commentaries often link 'He settled you in it' (istamarakum) to humanity's role as stewards (khalifa) under the Imamate's moral authority, while Sunni scholars like Razi interpret istamara more broadly as a command to cultivate the earth."
+      "explanation": "Verse 88 presents four elements: clear divine evidence ('bayyina from my Lord'), acknowledgement of Allah's good provision, the pledge 'I only intend reform as much as I am able,' and the declaration 'my success is only through Allah — upon Him I rely.' Ibn Kathir calls this one of the most eloquent prophetic self-descriptions in the Quran."
     },
     {
       "id": "11_18",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 76,
-      "question": "According to the comparative analysis, how do Shia and Sunni commentators differ in their interpretation of Ibrahim's intercession ceasing?",
-      "options": [
-        "They interpret it identically",
-        "Shia contextualize it within the doctrine of bada' (divine revision), while Sunni emphasize divine omnipotence overriding human agency",
-        "Only Sunni scholars discuss this verse",
-        "Only Shia scholars accept this narrative"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentaries like Tusi's At-Tibyan contextualize this within the broader doctrine of bada' (divine revision), while Sunni exegetes frame the cessation as a lesson in submitting to Allah's irreversible judgment (qada')."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "True or false: In verse 29, Nuh's refusal to drive away his poor believing followers was a deliberate answer to an implied demand from the tribal chiefs who wanted the socially marginal believers removed as a condition for their own consideration of his message.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir and Imam Qurtubi explain that the chiefs had implicitly demanded Nuh remove the poor believers before they would consider the message. Nuh's categorical refusal affirmed that prophetic community is built by sincere faith alone. The same demand was later made by the Quraysh regarding the poor Companions of Prophet Muhammad, and was rejected identically."
     },
     {
       "id": "11_19",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 111,
-      "question": "Both Shia and Sunni traditions agree that divine justice (adl) necessitates proportionate recompense for human actions.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both schools unanimously affirm the core theological principles: God's omniscience, His absolute justice in rewarding or punishing deeds, and the inevitability of individual accountability."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 73,
+      "question": "When the angels pronounced the blessing on Ibrahim's household in verse 73, Sayyid Qutb identifies their rhetorical question 'Are you amazed at the command of Allah?' as doing what?",
+      "options": [
+        "A. Scolding Sarah for insufficient trust in divine power",
+        "B. Quietly recalibrating the entire framework from human probability to divine certainty",
+        "C. Reminding her that old age is merely a test requiring patience",
+        "D. Establishing that miraculous births had occurred many times before and were therefore expected"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qutb in Fi Zilal al-Quran describes this question as one of the most resonant in the entire Quran, inviting Sarah to step out of the world of human probability and into the world of divine certainty. It does not scold her but gently redirects her perspective to who Allah is, grounding her wonder in the names Hamid and Majid that close the verse."
     },
     {
       "id": "11_20",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 115,
-      "question": "According to the comparative analysis, what distinguishes Shia from Sunni practice regarding patience (sabr)?",
+      "layer": 1,
+      "verseNumber": 112,
+      "question": "What effect did the command of verse 112 — 'be steadfast as you have been commanded' — reportedly have on the Prophet Muhammad according to a hadith recorded by Ibn Kathir?",
       "options": [
-        "Only Sunni emphasize patience",
-        "Shia spirituality may integrate commemorative rituals like mourning for Imam Husayn as acts of sabr",
-        "Sunni do not believe in patience",
-        "There is no practical difference"
+        "A. It caused him to weep through the night in remembrance of Allah",
+        "B. It is reported to have caused his hair to go grey before his time, reflecting the immense weight of lifelong uprightness",
+        "C. It motivated him to double the length of his night prayers",
+        "D. It led him to a period of spiritual withdrawal from his Companions"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni traditions often emphasize personal resilience and communal solidarity during hardship, while Shia spirituality may integrate commemorative rituals (e.g., mourning for Imam Husayn) as acts of sabr."
+      "explanation": "Ibn Kathir records the hadith in which the Prophet said 'Surah Hud and its sisters aged me before my time,' specifically because of this command for continuous, unwavering steadfastness. The hadith is reported through Abu Bakr al-Siddiq in several chains, demonstrating the weight the Prophet himself attached to this demand."
+    },
+    {
+      "id": "11_21",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 112,
+      "question": "True or false: Sheikh Ibn Uthaymeen taught that istiqamah (steadfastness) in verse 112 has three simultaneous and inseparable dimensions — steadfastness in belief, in worship, and in character.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen in his commentaries identified these three dimensions of istiqamah that must operate together: aqidah (sound belief), ibadah (consistent worship), and akhlaq (upright character). Wahbah al-Zuhayli further noted that the prohibition 'do not transgress' in the same verse means istiqamah must remain balanced — neither slackening nor tipping into extremism."
+    },
+    {
+      "id": "11_22",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 111,
+      "question": "In verse 111, the word 'yuwaffi' is used to describe divine recompense. What precise meaning does Ibn Kathir assign to this term?",
+      "options": [
+        "A. To reward generously beyond what was earned as an expression of divine grace",
+        "B. To pay in full without the slightest reduction, guaranteeing perfect divine justice for every person",
+        "C. To settle accounts only for major sins while overlooking minor ones out of mercy",
+        "D. To deliver reward to believers while indefinitely deferring punishment for those who partially believed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that 'yuwaffi' carries the sense of paying a complete debt — no deed receives less than its full recompense. Paired with the divine name 'Khabir' (All-Acquainted), the verse guarantees that Allah's knowledge of every hidden intention and private act means no sincere worship is unrecorded and no injustice escapes accounting."
     }
   ]
 }

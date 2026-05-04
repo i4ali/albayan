@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'mutaffifin' in verse 1 literally mean according to the Foundation Layer?",
+      "question": "What does the Arabic word 'mutaffifin' literally describe, and why does the surah open with a warning against them?",
       "options": [
-        "Those who steal money",
-        "Those who deliberately shortchange others in transactions by diminishing weights or measures",
-        "Those who refuse to worship",
-        "Those who lie in testimony"
+        "A. Idol-worshippers who deny the resurrection",
+        "B. Those who deliberately cheat others by giving short measure or weight in transactions",
+        "C. People who break their oaths and betray covenants",
+        "D. Merchants who hoard goods to drive up prices"
       ],
-      "correctAnswer": "Those who deliberately shortchange others in transactions by diminishing weights or measures",
-      "explanation": "The term 'mutaffifin' is derived from the root 'taffafa' meaning 'to diminish,' and refers to those who cheat in weights, measures, or obligations. This verse was revealed in Mecca to condemn the Quraysh's widespread fraud in trade, where merchants would manipulate scales to exploit buyers."
+      "correctAnswer": "B",
+      "explanation": "The word 'mutaffifin' derives from 'tatfif', meaning to make something deficient. According to Ibn Abbas as reported by al-Nasa'i and Ibn Majah, the surah was revealed in Madinah because fraud in measurement was rampant there, and when the Prophet recited it, the people reformed their commercial practices."
     },
     {
       "id": "83_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to the Foundation Layer interpretation of verse 2, the verse only addresses commercial fraud and has no application to other areas of life.",
+      "question": "True or false: Verses 2 and 3 together portray a double standard where the same person demands full measure when receiving but deliberately causes loss when giving.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. While the verse condemns demanding full measure when receiving from others but cheating when giving to them, it applies beyond marketplaces to all interactions where fairness is required: business deals, workplace responsibilities, or even sharing resources. It calls Muslims to embody 'qist' (justice) in all aspects of life."
+      "correctAnswer": "true",
+      "explanation": "Verse 2 uses 'yastawfun' (they take in full) to show how these individuals are exacting when receiving, while verse 3 uses 'yukhsirun' (they cause loss) to show they deliberately reduce when giving. Ibn Kathir notes this stark contrast is rhetorically devastating and captures the full circle of exploitation at the heart of the mutaffifin's crime."
     },
     {
       "id": "83_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 7,
-      "question": "According to Allamah Tabatabai in Tafsir al-Mizan, what does 'sijjeen' represent in verse 7?",
+      "verseNumber": 3,
+      "question": "Imam al-Qurtubi, in his legal analysis of verse 3, drew an important ruling about Islamic governance from the phrase 'when they measure or weigh for them.' What was this ruling?",
       "options": [
-        "Only a physical location beneath the earth",
-        "Both the spiritual state of the corrupt and the physical record of their misdeeds",
-        "A temporary punishment that ends after repentance",
-        "The marketplace where fraud occurs"
+        "A. That merchants who cheat must pay a fine equal to three times what they stole",
+        "B. That cheating in weights is only prohibited on Fridays and market days",
+        "C. That it is a religious and communal obligation for market inspectors (al-muhtasib) to monitor accuracy of weights and measures",
+        "D. That the verse only applies to transactions involving grain and does not cover other goods"
       ],
-      "correctAnswer": "Both the spiritual state of the corrupt and the physical record of their misdeeds",
-      "explanation": "Tabatabai explains that 'sijjeen' represents both the spiritual state of the corrupt and the physical record of their misdeeds, which will manifest on Judgment Day. It reflects the soul's entrenchment in materialism and moral corruption, rooted in the Shia understanding of 'tawhid' (divine unity)."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Qurtubi in 'Al-Jami li-Ahkam al-Quran' derives from this verse the legal obligation of the al-muhtasib (market inspector) in Islamic governance, whose duty it is to monitor and ensure accuracy of weights and measures as a matter of religious law and communal obligation. He also notes the verse covers all quantified exchange by volume or weight."
     },
     {
       "id": "83_4",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what broader principle does the condemnation of 'tatfif' (shortchanging) encompass?",
+      "verseNumber": 7,
+      "question": "How did Imam al-Tabari record the meaning of 'Sijjin' in his 'Jami al-Bayan', and what hadith did he cite to support it?",
       "options": [
-        "Only literal commercial fraud",
-        "Both material fraud and withholding intangible rights such as fair treatment in social or religious obligations",
-        "Physical theft exclusively",
-        "Dishonesty in speech only"
+        "A. A valley of fire above the seventh heaven, cited through a hadith from Abu Hurayrah",
+        "B. A place beneath the seventh earth where the souls of the wicked are confined, supported by a hadith from al-Bara ibn Azib preserved by Abu Dawud and Ahmad",
+        "C. A metaphor for the marketplace where cheating occurs, with no hadith support",
+        "D. A scale on which deeds are weighed, cited from a hadith in Sahih al-Bukhari"
       ],
-      "correctAnswer": "Both material fraud and withholding intangible rights such as fair treatment in social or religious obligations",
-      "explanation": "Tabrisi highlights narrations from Imam Jafar al-Sadiq linking 'tatfif' to spiritual decay, as it erodes trust and communal harmony. Classical Shia exegetes stress that 'tatfif' encompasses not only material fraud but also withholding intangible rights, such as fair treatment in social or religious obligations."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records from a hadith narrated through al-Bara ibn Azib and preserved by Abu Dawud and Ahmad that Sijjin refers to a place beneath the seventh level of the earth where the souls of the wicked are confined. Ibn Kathir affirms that this and the interpretation of Sijjin as a comprehensive register are not mutually exclusive."
     },
     {
       "id": "83_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholars like Dr. Mohammad Ali Shomali, modern examples of 'tatfif' (shortchanging) include wage theft, tax evasion by corporations, and hoarding resources while others starve.",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "True or false: The 'ran' (covering or rust) described in verse 14 accumulates from repeated unrepented sins and is explained by a hadith directly attributed to the Prophet by Ibn Kathir, who cited Imam Tirmidhi's collection.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Dr. Mohammad Ali Shomali highlights how underpaying workers, tax evasion by multinational corporations, or hoarding resources while others starve all constitute 'spiritual and economic tatfif.' Contemporary scholarship extends the verse's warning beyond literal marketplace fraud to systemic injustices."
+      "explanation": "Ibn Kathir cites the hadith from Abu Hurayrah recorded by Imam Tirmidhi, al-Nasa'i, and Ibn Majah in which the Prophet directly interpreted this verse: each sin leaves a black dot on the heart; repentance polishes it away, but persistence causes the dots to spread until the entire heart is covered. This is the 'ran' of verse 14."
     },
     {
       "id": "83_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 7,
-      "question": "How does Ayatollah Naser Makarem Shirazi interpret 'sijjeen' in contemporary context?",
+      "verseNumber": 12,
+      "question": "Sayyid Qutb in 'Fi Zilal al-Quran' and Wahbah al-Zuhayli in 'Al-Tafsir al-Munir' both connect verse 12's description of deniers as 'mu'tad' (transgressors) and 'athim' (sinners) to a broader principle. What is that principle?",
       "options": [
-        "As a literal underground prison only",
-        "As a metaphor for systemic injustice where the record reflects not just individual sins but societal structures that normalize greed and oppression",
-        "As a temporary state that can be changed easily",
-        "As a historical concept with no modern relevance"
+        "A. That only scholars are capable of recognizing the truth of divine accountability",
+        "B. That denial of divine judgment is rooted in moral rebellion, not sincere intellectual inquiry, and that persistent transgression closes the heart to truth",
+        "C. That the verse addresses only those who openly declare themselves atheists",
+        "D. That committing a single major sin automatically places a person in the category of the mujrimun"
       ],
-      "correctAnswer": "As a metaphor for systemic injustice where the record reflects not just individual sins but societal structures that normalize greed and oppression",
-      "explanation": "Ayatollah Naser Makarem Shirazi interprets 'sijjeen' as a metaphysical register of corrupt actions, symbolizing spiritual degradation. Modern scholars extend this, framing 'sijjeen' as a metaphor for systemic injustice where the 'record' reflects not just individual sins but societal structures that normalize greed, environmental destruction, or oppression."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb argues the Quran's analysis of the deniers applies to every age where power is unchecked by divine accountability. Wahbah al-Zuhayli notes the verse provides a diagnostic tool: when denial of Yawm al-Din increases, transgression follows, because attachment to sin leads people to deny accountability rather than reform. Ibn Uthaymeen stressed that the restriction 'illa kullu' (none but every) allows no exceptions."
     },
     {
       "id": "83_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 7,
-      "question": "According to Imam Ja'far al-Sadiq's teaching in Tafsir al-Qummi, what is 'sijjeen'?",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "Verse 18 introduces the Abrar and their register in Illiyyun. What does 'Abrar' mean, and what does the tafsir say their record being in Illiyyun conveys to everyday Muslims?",
       "options": [
-        "A beautiful garden in Paradise",
-        "A prison beneath the seventh earth where the records of every oppressor, denier, and enemy of the Ahlul Bayt are preserved",
-        "The highest level of heaven",
-        "A physical book kept in a mosque"
+        "A. 'Abrar' means the patient ones, and their record being in Illiyyun means they will be tested further before entering Paradise",
+        "B. 'Abrar' means the righteous who combine inward sincerity and outward ethical conduct, and their record in Illiyyun means every sincere act of worship is inscribed in a place of honor before Allah",
+        "C. 'Abrar' refers exclusively to the prophets, and Illiyyun is inaccessible to ordinary believers",
+        "D. 'Abrar' means the wealthy who gave charity, and their record in Illiyyun is a reward only for financial generosity"
       ],
-      "correctAnswer": "A prison beneath the seventh earth where the records of every oppressor, denier, and enemy of the Ahlul Bayt are preserved",
-      "explanation": "Imam Ja'far al-Sadiq states in Tafsir al-Qummi: 'Sijjeen is the lowest earth, wherein the records of every oppressor, denier, and enemy of the Ahlul Bayt are preserved.' This ties the verse directly to the Shia understanding of Imamah, where rejecting the divinely appointed Imams severs one's connection to 'Illiyyun.'"
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that 'Abrar' is the plural of 'barr', meaning one who is deeply obedient to Allah and good to others, combining both vertical and horizontal dimensions of righteousness. Ibn Uthaymeen notes that Illiyyun means every prayer performed sincerely, every honest transaction, and every act of patience is being inscribed in a place of honor before Allah."
     },
     {
       "id": "83_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 18,
-      "question": "According to Imam Ja'far al-Sadiq, 'Illiyyun' is the heart of the believer who recognizes the Imam of his time, and his actions ascend to Allah through the hands of the Hujjah (divine proof).",
+      "layer": 2,
+      "verseNumber": 20,
+      "question": "True or false: The phrase 'kitabun marqum' (a register inscribed) appears identically for both the wicked's record in Sijjin (verse 9) and the righteous's record in Illiyyun (verse 20), a deliberate literary parallel noted by Fakhr al-Din al-Razi as evidence of the Quran's precision.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Imam Ja'far al-Sadiq explains that 'Illiyyun' is a celestial realm beyond the seventh heaven, where the deeds of the righteous are elevated through the light of Wilayah (divine guardianship). He states that it is the heart of the believer who recognizes the Imam of his time, and his actions ascend to Allah through the hands of the Hujjah."
+      "explanation": "Fakhr al-Din al-Razi in 'Mafatih al-Ghayb' identifies this as a literary chiasm, arguing the Quran applies the same formula first to the abode of the wicked and then to the abode of the righteous with equal gravity and precision. Imam Qurtubi and Ibn Kathir similarly note the deliberate symmetry, with 'marqum' indicating clarity and immutability of both records."
     },
     {
       "id": "83_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key interpretive difference between Sunni and Shia scholars regarding the scope of 'tatfif' (shortchanging) in verse 1?",
+      "layer": 3,
+      "verseNumber": 26,
+      "question": "Verse 26 ends with the call: 'So for this let the competitors compete.' What does Wahbah al-Zuhayli identify as the psychological function of this verse in the context of modern life?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Sunni exegetes primarily frame it as individual transactional fraud, while Shia commentaries extend it to systemic oppression and inequities perpetuated by unjust leadership",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars limit it to commercial transactions only"
+        "A. It discourages all forms of ambition as a distraction from worship",
+        "B. It redirects the human competitive drive from worldly status and material gain toward earning the eternal reward of Paradise",
+        "C. It teaches that competition is only valid during Ramadan",
+        "D. It refers exclusively to competition in memorizing the Quran"
       ],
-      "correctAnswer": "Sunni exegetes primarily frame it as individual transactional fraud, while Shia commentaries extend it to systemic oppression and inequities perpetuated by unjust leadership",
-      "explanation": "Sunni exegetes like Qurtubi and Razi primarily frame the verse as a warning against individual transactional fraud. In contrast, Shia commentaries such as Al-Mizan and At-Tibyan extend the principle to systemic oppression, interpreting 'giving less' as encompassing societal inequities perpetuated by unjust leadership, reflecting Shia theological emphasis on Imamah and social justice."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in 'Al-Tafsir al-Munir' observes the verse acknowledges human competitive nature and simply redirects it toward a higher target. Sayyid Qutb describes it as a vivid race where the prize is eternal felicity. Ibn Uthaymeen specified the competition includes extra prayers, maintaining family ties, giving charity, memorizing Quran, and any act that draws one closer to Allah."
     },
     {
       "id": "83_10",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "True or false: Tasneem, mentioned only once in the Quran in verse 27, is drunk undiluted by the muqarrabun, while the Abrar receive a drink that has Tasneem mixed into it, creating a hierarchy of spiritual reward within Paradise.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains that verse 27 says the Abrar's drink has its 'mizaj' (mixture) from Tasneem, while verse 28 clarifies the muqarrabun drink from Tasneem directly. Ibn Kathir, citing Ibn Abbas, explains this reflects the Quranic doctrine of differentiated ranks: the most devoted to Allah in their earthly lives receive the most direct share of the highest blessings."
+    },
+    {
+      "id": "83_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 7,
-      "question": "According to both Sunni (Tabari, Ibn Kathir) and Shia (Tabatabai, Tabrisi) scholars, what is the core agreement regarding 'sijjeen' in verse 7?",
+      "layer": 1,
+      "verseNumber": 29,
+      "question": "Verses 29-33 describe the criminals laughing at and mocking the believers in this world. What complete reversal does the surah promise in its closing verses (34-36)?",
       "options": [
-        "It is only a metaphor with no real existence",
-        "It denotes a celestial register or abode containing the deeds of evildoers, underscoring divine justice and the distinction between good and evil acts",
-        "It refers to a physical marketplace",
-        "It is a temporary state that all souls pass through"
+        "A. The believers will be given worldly authority to punish their mockers before death",
+        "B. The believers, reclining on adorned couches in Paradise, will laugh at the disbelievers as divine justice is enacted against them",
+        "C. The mockers will be granted a final chance to repent before the Day of Judgment",
+        "D. The believers will be permitted to forget every humiliation they suffered in this life"
       ],
-      "correctAnswer": "It denotes a celestial register or abode containing the deeds of evildoers, underscoring divine justice and the distinction between good and evil acts",
-      "explanation": "Both Sunni and Shia exegetes broadly concur that 'sijjeen' denotes a celestial register or abode containing the deeds of evildoers, contrasting with 'illiyyun.' Both traditions agree that the verse underscores divine justice and the ontological distinction between good and evil acts, though they differ in cosmological interpretations."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in 'Fi Zilal al-Quran' describes this as the culmination of the surah's entire emotional arc. Verse 34 shows the believers laughing at the disbelievers, verse 35 has them reclining on adorned couches observing divine justice, and verse 36 closes with the rhetorical confirmation that the disbelievers have been fully repaid for every act of arrogance and mockery they committed."
+    },
+    {
+      "id": "83_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 36,
+      "question": "Fakhr al-Din al-Razi and Sayyid Qutb both identify a foundational Islamic principle in the surah's closing rhetorical question: 'Have the disbelievers been repaid for what they used to do?' What is that principle?",
+      "options": [
+        "A. That believers may seek personal revenge against those who mocked them in this world",
+        "B. That divine justice is complete, proportional, and certain, making every moral choice eternally significant",
+        "C. That the punishment of disbelievers begins in this world before the Day of Judgment",
+        "D. That the verse applies exclusively to the specific Qurayshi leaders who persecuted the early Muslims in Makkah"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi argues that certainty of divine recompense is foundational to Islamic ethics, stating that without it religion becomes mere philosophy. Sayyid Qutb in 'Fi Zilal al-Quran' calls this one of the Quran's most morally clarifying conclusions, describing it as the ultimate answer to every oppressed soul who asked whether their suffering was seen and whether injustice would ever be answered by Allah."
     }
   ]
 }

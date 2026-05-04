@@ -6,110 +6,165 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the Foundation Layer, what does the 'inshiqaq' (splitting) of the sky in verse 1 signify?",
+      "question": "The opening word 'idha' (when) in 'When the sky has split open' carries a specific meaning that scholars highlight. What does its use here convey?",
       "options": [
-        "A temporary natural phenomenon",
-        "The collapse of the natural order and the inevitability of divine accountability",
-        "A metaphor for spiritual awakening",
-        "The expansion of the universe"
+        "A possibility that the sky might split, depending on human deeds",
+        "A hypothetical scenario intended only as a metaphor for social collapse",
+        "Certainty — the splitting of the sky is guaranteed, not a mere possibility",
+        "A past event that already occurred during the Prophet's lifetime"
       ],
-      "correctAnswer": "The collapse of the natural order and the inevitability of divine accountability",
-      "explanation": "The term 'inshaqqat' derives from the root 'sha-qa-qa', conveying a forceful, irreversible rupture—a sudden, transformative event that upends the universe. This imagery serves as a stark reminder of the transient nature of worldly life and the inevitability of divine accountability."
+      "correctAnswer": "C",
+      "explanation": "The layer 1 tafsir notes that 'idha' indicates certainty, not possibility. The splitting of the sky is not a question of 'if' but 'when,' establishing the absolute inevitability of the Day of Judgment and urging believers to prepare accordingly."
     },
     {
       "id": "84_2",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, the 'splitting sky' in verse 1 is purely a literal physical event with no metaphysical significance.",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "True or false: The sky's obedience described in verse 2 ('it responded to its Lord and was obligated to do so') is mere forced compliance — something the sky does unwillingly under compulsion.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. Tabatabai expands this cosmological framework theologically, arguing that the splitting sky symbolizes the unveiling of metaphysical truths obscured by worldly delusions. He ties this to the Shia doctrine of ghaybah (occultation) and zuhur (reappearance), wherein the Mahdi's return will similarly rupture humanity's spiritual complacency."
+      "explanation": "The layer 1 tafsir explains that 'huqqat' means it was right, fitting, and metaphysically appropriate for the sky to obey. Ibn Kathir notes that this submission is not merely forced but inherently correct — it is entirely fitting for creation to obey its Creator. The obedience is described as the most natural and noble expression of the sky's true nature."
     },
     {
       "id": "84_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How do contemporary Shia scholars like Ayatollah M. H. Al-Hakim interpret the 'splitting sky' for modern contexts?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "How does Ibn Kathir distinguish the linguistic distinction between 'inshaqqat' (verse 1) and 'muddat' (verse 3) to explain what happens to the earth on the Last Day?",
       "options": [
-        "As only a literal astronomical event",
-        "As a metaphor for ruptures in human systems, ideologies, and ecosystems demanding moral reckoning",
-        "As a historical event that already occurred",
-        "As a purely spiritual experience"
+        "He argues 'muddat' means the earth will be destroyed entirely, while 'inshaqqat' means the sky only cracks slightly",
+        "'Muddat' indicates the earth is stretched flat and leveled — mountains removed and terrain smoothed — while 'inshaqqat' describes the sky being completely rent apart",
+        "He treats them as synonyms that both mean the universe will cease to exist",
+        "'Muddat' refers to a spiritual expansion of the earth, while 'inshaqqat' refers to a literal physical event"
       ],
-      "correctAnswer": "As a metaphor for ruptures in human systems, ideologies, and ecosystems demanding moral reckoning",
-      "explanation": "The 'splitting' (inshiqaq) of the heavens is seen not only as a literal sign of Qiyamah but also as a metaphor for ruptures in human systems, ideologies, or ecosystems that demand moral reckoning. This metaphorizes today's crises: climate collapse fracturing ecosystems, political polarization dividing communities, or economic inequality rupturing social fabric."
+      "correctAnswer": "B",
+      "explanation": "In his Tafsir al-Quran al-Azim, Ibn Kathir cross-references 'muddat' with the hadith recorded by Bukhari and Muslim in which the Prophet described the earth on the Day of Judgment as 'a white, clean ground like a round loaf of bread' — illustrating that 'muddat' means the earth is stretched flat, with mountains leveled and terrain erased, a transformation entirely distinct from the sky's dramatic splitting open."
     },
     {
       "id": "84_4",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq's teaching, what does the splitting of the heavens symbolize?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Ibn Kathir connects verse 4 — 'the earth has cast out what is within it and relinquished it' — to a specific hadith about physical resurrection. What does that hadith describe?",
       "options": [
-        "The end of the physical world only",
-        "Both the Day of Resurrection and the unveiling of divine truths through the light of Wilayah",
-        "A natural cosmic cycle",
-        "The beginning of a new era"
+        "Angels carrying the souls of the dead to the sky before resurrection",
+        "Rain sent by Allah that causes human bodies to regrow from the base of the spine, just as plants grow from seeds",
+        "A trumpet blast that wakes the dead directly from their graves",
+        "The earth splitting into seven layers to release those buried in it"
       ],
-      "correctAnswer": "Both the Day of Resurrection and the unveiling of divine truths through the light of Wilayah",
-      "explanation": "Imam Jafar al-Sadiq (as) taught that this cosmic event symbolizes both the Day of Resurrection and the unveiling of divine truths through the light of Wilayah. He states: 'When the sky of ignorance splits, the sun of Muhammad's progeny rises, scattering the darkness of misguidance.'"
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir, in Tafsir al-Quran al-Azim, cites the hadith from Sahih Muslim in which Allah sends rain upon the earth before the resurrection that causes human bodies to grow back from the coccyx bone, just as plants grow from seeds after rain. This illustrates the earth casting out its contents in preparation for resurrection."
     },
     {
       "id": "84_5",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 6,
-      "question": "What does the term 'kadih' in verse 6 ('O mankind, indeed you are laboring toward your Lord') signify?",
-      "options": [
-        "Leisure and comfort",
-        "Intense striving or labor, reflecting the inherent struggle in earthly life",
-        "Passive existence",
-        "Intellectual pursuits only"
-      ],
-      "correctAnswer": "Intense striving or labor, reflecting the inherent struggle in earthly life",
-      "explanation": "The term 'kadih' derives from 'kadaha', meaning intense striving or labor, reflecting the inherent struggle in earthly life. The 'exertion' here encompasses both physical efforts and spiritual struggles—from daily responsibilities to resisting temptations and cultivating taqwa (God-consciousness)."
+      "question": "True or false: Verse 6 ('O mankind, indeed you are laboring toward your Lord with great exertion and will meet Him') is addressed only to the disbelievers of Mecca, not to humanity in general.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The layer 1 tafsir explains that verse 6 uses the direct address 'ya ayyuha al-insan' (O mankind), addressing every person without exception. The verse establishes that all of humanity is journeying toward a meeting with their Lord, making it a universal declaration. Ibn Abbas, cited by Imam Tabari, confirmed that every person's deeds place them on this path."
     },
     {
       "id": "84_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, the 'exertion' mentioned in verse 6 encompasses both physical struggles of earthly life and the soul's moral-spiritual ascent.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Tabrisi contextualizes the verse within eschatological themes, noting that the 'exertion' encompasses both the physical struggles of earthly life and the soul's moral-spiritual ascent. He cites Imam Jafar al-Sadiq's interpretation that this labor is defined by adherence to divine guidance through the Ahl al-Bayt."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "What does receiving one's book of deeds in the right hand signify on the Day of Judgment, according to the surah's teaching?",
+      "options": [
+        "That the person performed only voluntary prayers and supererogatory worship",
+        "Divine approval and honor — the person's faith and righteous deeds were sincere",
+        "That the person was a scholar of Islamic law in their lifetime",
+        "That the person completed the Hajj pilgrimage at least once"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that the right hand in the Quran is the hand of honor, success, and good fortune. Imam Qurtubi in Al-Jami li-Ahkam al-Quran notes that the right hand signifies the spiritual state of the person — they are the ahl al-yamin whose entire orientation in life was toward goodness and obedience to Allah."
     },
     {
       "id": "84_7",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 15,
-      "question": "What is a key theological difference between Shia and Sunni interpretations of verse 15 ('Indeed, his Lord was ever of him, Seeing')?",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "The Prophet explained 'an easy account' (hisab yasir) in a hadith narrated by Aisha, recorded in Sahih Bukhari and Sahih Muslim. What did he say it actually means?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia commentaries link Allah's 'seeing' to spiritual oversight of the Ahl al-Bayt, while Sunni exegetes focus on Allah's transcendence without intermediary",
-        "Both traditions interpret it identically",
-        "Shia scholars deny divine omniscience"
+        "That believers will not be shown their deeds at all and will enter Paradise without any review",
+        "A presentation of one's deeds where Allah shows the servant their book and then forgives them by His mercy",
+        "That only major sins will be counted while minor sins are automatically erased",
+        "That the accounting takes place in private with no witnesses present"
       ],
-      "correctAnswer": "Shia commentaries link Allah's 'seeing' to spiritual oversight of the Ahl al-Bayt, while Sunni exegetes focus on Allah's transcendence without intermediary",
-      "explanation": "Shia commentaries often link Allah's 'seeing' to the spiritual oversight of the Ahl al-Bayt, interpreting divine awareness as encompassing both outward actions and inner states illuminated through the Imams' guidance. In contrast, Sunni exegetes focus on Allah's transcendence, framing His 'sight' as an independent divine attribute requiring no intermediary."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records the hadith of Aisha from Sahih Bukhari and Sahih Muslim in which the Prophet explains that the 'easy reckoning' is not a deep interrogation but rather an 'ard' — a presentation — where Allah shows the servant their book and they acknowledge their actions, then Allah forgives them. He added that whoever is truly interrogated in depth will be punished."
     },
     {
       "id": "84_8",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 9,
+      "question": "True or false: Wahbah al-Zuhayli interprets 'return to his people in happiness' (verse 9) as referring exclusively to one's biological family, excluding the wider community of believers in Paradise.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli explains that 'ahlihi' encompasses both earthly family who were believers and the wider community of the faithful. He describes paradise as a collective celebration, not an isolated individual reward, pointing to the social and communal dimension of the believers' eternal home."
+    },
+    {
+      "id": "84_9",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 11,
+      "question": "Classical scholars including Ibn Abbas and Mujahid interpreted why the condemned person's record is given 'behind his back.' What was their main explanation?",
+      "options": [
+        "The person's back is turned as a gesture signifying they rejected the prophets",
+        "The right hand is shackled behind the neck, forcing the record into the left hand from behind — a position of ultimate humiliation",
+        "The book is delivered by angels who approach from behind to avoid looking at the disbeliever",
+        "The person's eyes are sealed so they cannot read the record even when it is placed before them"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in Jami al-Bayan records the narration of Ibn Abbas and Mujahid holding that the disbeliever's right hand will be shackled behind him at the neck, and the record is delivered into his left hand from behind — a position of ultimate humiliation that mirrors a life spent turning one's back on divine truth."
+    },
+    {
+      "id": "84_10",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 19,
-      "question": "According to contemporary Shia scholar Dr. Liyakat Takim, how should believers view the 'state after state' transitions mentioned in verse 19 in modern contexts?",
+      "verseNumber": 16,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, reflects on the oath by the twilight (al-shafaq) in verse 16. What spiritual purpose does he say it serves?",
       "options": [
-        "As purely historical events",
-        "As irrelevant to contemporary life",
-        "As a catalyst for soul-purification (tazkiyah) amid personal reinvention and societal reform",
-        "As only physical transformations"
+        "It establishes the precise legal time of Maghrib prayer and its jurisprudential importance",
+        "It uses one of the most emotionally resonant moments in nature to awaken the human heart and direct it toward reflection on Allah",
+        "It proves the scientific accuracy of the Quran regarding atmospheric optics",
+        "It signals that the surah was revealed specifically at the time of sunset"
       ],
-      "correctAnswer": "As a catalyst for soul-purification (tazkiyah) amid personal reinvention and societal reform",
-      "explanation": "As refugee crises and pandemics redefine 'normal,' Shia theologians like Dr. Liyakat Takim highlight its relevance to personal reinvention and societal reform—urging believers to see instability as a catalyst for tazkiyah (soul-purification)."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran reflects on the aesthetic dimension of this oath, noting how the Quran uses the most vivid and emotionally resonant moments of the natural world to awaken the human heart. The twilight, he writes, is one of those moments when the soul is naturally inclined toward reflection, when the grandeur of creation presses in on human consciousness."
+    },
+    {
+      "id": "84_11",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "Verse 21 — 'And when the Quran is recited to them, they do not prostrate' — carries a specific practical implication for Muslims who recite or hear it. What is that implication?",
+      "options": [
+        "It marks the end of the surah and signals that the entire prayer is complete",
+        "It is one of the Quran's sajdah tilawah verses, upon which a prostration is recommended or required",
+        "It instructs the reciter to pause and make a supplication before continuing",
+        "It requires the congregation to repeat the verse three times as an affirmation of faith"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir confirms that verse 21 is a sajdah tilawah — a verse of recitational prostration — meaning that when it is recited in or outside prayer, a prostration is recommended for the Muslim. Ibn Kathir records that Abu Hurayrah reported the Prophet performed this prostration during congregational prayer at this verse, establishing the ruling."
+    },
+    {
+      "id": "84_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 25,
+      "question": "The final verse promises believers 'a reward that will never end' (ajrun ghayru mamnun). How does Ibn Uthaymeen apply this promise to the life of a contemporary Muslim facing hardship?",
+      "options": [
+        "He uses it to argue that acts of worship are only valid when performed in congregation",
+        "He emphasizes that no sincere deed performed for Allah is ever lost, filling the believer with hope and renewed determination even when facing mockery or material loss",
+        "He argues it proves believers are exempt from divine scrutiny on Judgment Day",
+        "He interprets it as a guarantee that believers will not face worldly hardship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In his commentary, Ibn Uthaymeen emphasized that verse 25 should fill the heart of every believing Muslim with hope and renewed determination, reminding them that no deed of sincere faith and righteous action performed for the sake of Allah is ever lost. He specifically addressed believers who face pressure, mockery, or material loss for practicing their faith, assuring them of a reward that transcends all imagination and never ends."
     }
   ]
 }

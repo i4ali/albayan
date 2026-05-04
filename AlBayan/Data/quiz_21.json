@@ -3,273 +3,293 @@
   "questions": [
     {
       "id": "21_1",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to verse 1, what state does 'ghaflah' (heedlessness) describe?",
-      "options": [
-        "A state of physical exhaustion",
-        "A state of spiritual numbness where one becomes detached from divine consciousness",
-        "A state of active rebellion against God",
-        "A state of deep meditation"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Ghaflah (heedlessness) describes a state of spiritual numbness, where one becomes detached from divine consciousness, while 'mu'ridun' (those turning away) highlights the deliberate choice to ignore truth and moral responsibility."
+      "question": "The opening verse of Surah Al-Anbiya describes humanity as heedless and turning away even as the Day of Reckoning draws near.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 1 uses the word 'ghafla' (heedlessness) to contrast the approaching Hour with humanity's indifference. The foundation layer notes this tension between cosmic urgency and human inattentiveness as the surah's central opening theme."
     },
     {
       "id": "21_2",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 51,
-      "question": "What does the Arabic term 'rushd' refer to regarding Prophet Ibrahim in verse 51?",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "What does the term 'muhdath' in verse 2 indicate about the Quran as it was received by the Quraysh?",
       "options": [
-        "Physical strength and endurance",
-        "Wealth and prosperity",
-        "Sound judgment, moral discernment, and inclination toward truth",
-        "Prophetic miracles"
+        "A. The Quran was an ancient scripture rediscovered by the Prophet",
+        "B. Each revelation was freshly sent down from Allah, not pre-existing human writing",
+        "C. The Quran was composed by a group of scholars over many years",
+        "D. Muhdath refers to the abrogated verses within the Quran"
       ],
-      "correctAnswer": "C",
-      "explanation": "Rushd refers to clarity of thought, moral discernment, and innate inclination toward truth that guided Ibrahim even before his formal prophethood. It signifies a divinely inspired inner compass."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that 'muhdath' means 'newly descending,' emphasizing that each portion of the Quran arrived freshly from Allah. Despite this, the Quraysh treated the recitation as entertainment ('yalabun'), playing with it rather than heeding its message."
     },
     {
       "id": "21_3",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 69,
-      "question": "In verse 69, Allah commanded the fire to become 'coolness and safety' (bardan wa salaman) for Prophet Ibrahim.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Allah intervened with the divine command 'Ya naar, kuni bardan wa salaman ala Ibrahim' - transforming the fire into a source of coolness and safety. The word 'bard' (coolness) contrasts with fire's natural heat, while 'salam' (safety) signifies complete protection from harm."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "The Quraysh leveled three contradictory accusations against the Quran in verse 5. Which of the following correctly lists them?",
+      "options": [
+        "A. Sorcery, lies, and foreign tales",
+        "B. Confused dreams, fabrication, and poetry",
+        "C. Plagiarism, exaggeration, and ancient myths",
+        "D. Forgery, insanity, and borrowed scripture"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Classical tafsir records that opponents called the Quran 'adghathu ahlam' (confused dreams), fabrication, and poetry. Ibn Kathir notes that Nadr ibn al-Harith privately acknowledged the Quran stood in a class by itself; their shifting accusations showed they could not settle on a credible rebuttal."
     },
     {
       "id": "21_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 87,
-      "question": "What is the heartfelt prayer of Prophet Yunus (Jonah) mentioned in verse 87?",
-      "options": [
-        "Subhanallahi wa bihamdihi",
-        "La ilaha illa Anta Subhanaka, inni kuntu min adh-dhalimin",
-        "Hasbunallahu wa ni'mal wakil",
-        "Rabbi inni lima anzalta ilayya min khayrin faqir"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Yunus's prayer 'La ilaha illa Anta Subhanaka, inni kuntu min adh-dhalimin' (There is no god but You, glorified are You; I have wronged myself) became a timeless model of repentance and exemplifies tawbah (repentance) and tawakkul (trust in Allah)."
+      "verseNumber": 16,
+      "question": "Verse 16 states that Allah created the heavens and the earth as a form of play and amusement.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 16 explicitly denies this, stating creation was not done in 'laibeen' (play or jest). Ibn Kathir notes the parallel with Surah Dukhan 44:38-39, where creation is described as carried out 'in truth' (bil-haqq), affirming the purposefulness of the universe."
     },
     {
       "id": "21_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, what does 'their account' (hisabuhum) in verse 1 encompass?",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "What does Sayyid Qutb emphasize about verse 18, where truth is hurled against falsehood until falsehood vanishes?",
       "options": [
-        "Only financial matters",
-        "Only the Day of Judgment",
-        "Both the immediate historical context and the ultimate accountability of the Hereafter",
-        "Only punishment in this world"
+        "A. That truth and falsehood coexist peacefully throughout history",
+        "B. That this depicts a cosmic, recurring battle in which truth ultimately prevails across all of history",
+        "C. That the verse refers specifically to the Battle of Badr",
+        "D. That falsehood can only be defeated through political power"
       ],
-      "correctAnswer": "C",
-      "explanation": "Tabatabai interprets 'their account' (hisabuhum) as encompassing both the immediate historical context of divine reckoning - such as the imminent rise of Islam and fall of polytheism - and the ultimate accountability of the Hereafter."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb reads this as a cosmic recurring pattern throughout history. The phrase 'naqdhifu bil-haqq ala al-batil fa-yadmaghuhu fa-idha huwa zahiq' — truth crushes and annihilates falsehood — represents the universal divine law, not a single historical event."
     },
     {
       "id": "21_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 51,
-      "question": "According to Shia exegesis, Ibrahim's 'rushd' was inseparable from his prophetic infallibility (ismah).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai's Al-Mizan expands the concept of rushd through the Shia paradigm of ismah (infallibility), positing that Ibrahim's 'rushd' was inseparable from his prophetic impeccability."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "In verse 30, the Arabic words 'ratq' and 'fatq' describe the original state of the heavens and earth. What do these terms mean respectively?",
+      "options": [
+        "A. Rising and setting, referring to the movement of celestial bodies",
+        "B. Joined together as one mass, then split apart",
+        "C. Dark and then illuminated by the creation of light",
+        "D. Empty and then filled with living creatures"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The foundation layer explains that 'ratq' means a single joined mass and 'fatq' means the act of splitting them apart. Ibn Abbas interpreted this to mean the heavens were initially sealed from rain and the earth from vegetation, and they were separated so that life could emerge."
     },
     {
       "id": "21_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 58,
-      "question": "According to Tabatabai, why did Ibrahim leave the largest idol intact when destroying the idols?",
-      "options": [
-        "He was afraid of the people's reaction",
-        "It was too heavy to break",
-        "To create a scenario compelling people to confront the illogic of their idolatry",
-        "He intended to worship it later"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Tabatabai in Al-Mizan emphasizes that Ibrahim's act was a calculated invitation to intellectual awakening. By leaving the largest idol intact, Ibrahim created a scenario compelling his people to confront the illogic of their idolatry through critical reflection."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 30,
+      "question": "Wahbah al-Zuhayli argues that verse 30's reference to the heavens and earth being joined and then split is primarily a scientific statement intended to match modern cosmology.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Zuhayli acknowledges a resonance with the Big Bang but explicitly states the Quran is not a science textbook. He emphasizes that the primary purpose of verse 30 is theological — pointing to Allah's power and the sign in creation — not to deliver a scientific account."
     },
     {
       "id": "21_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 83,
-      "question": "According to Shia exegesis, what was the purpose of Prophet Ayyub's (Job's) affliction?",
+      "layer": 1,
+      "verseNumber": 47,
+      "question": "Verse 47 describes the scales of justice on the Day of Judgment and states that no deed, however small, will be lost. Which image is used to convey the precision of divine accounting?",
       "options": [
-        "A punishment for his sins",
-        "A divine test to elevate his spiritual rank",
-        "A random occurrence with no meaning",
-        "A warning for his people"
+        "A. A single grain of sand on a vast beach",
+        "B. A drop of water in a deep ocean",
+        "C. A mustard seed's weight",
+        "D. A single thread in a vast garment"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai's Al-Mizan underscores that Ayyub's affliction was not punitive but a divine test to elevate his spiritual rank, reflecting the Shia principle that trials purify the believer and manifest divine wisdom."
+      "correctAnswer": "C",
+      "explanation": "Verse 47 uses 'mithalat habbah min khardal' — the weight of a mustard seed — as the unit of absolute precision in divine reckoning. Ibn Kathir connects this to a hadith in Sahih Bukhari about deeds that are light on the tongue but heavy on the scales of the Day of Judgment."
     },
     {
       "id": "21_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 30,
-      "question": "How does verse 30's description of the heavens and earth as a 'joined entity' (ratq) relate to modern science?",
-      "options": [
-        "It contradicts modern scientific theories",
-        "It echoes the Big Bang theory where an initial singularity expanded into the universe",
-        "It describes a flat Earth model",
-        "It has no relation to scientific discoveries"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarim Shirazi emphasize the verse's alignment with modern cosmology. The description of heavens and earth as a 'joined entity' (ratq) before being 'separated' (fataq) echoes the Big Bang theory."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 48,
+      "question": "Imam al-Tabari and Imam al-Qurtubi both confirm that the 'Furqan' given to Musa and Harun in verse 48 refers to the Torah, described as a light and reminder for the God-conscious.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Classical scholars including Tabari and Qurtubi interpret the Furqan of verse 48 as the Torah given to Musa and Harun, called 'diya'an wa dhikran lil-muttaqin' — a radiant light and reminder for those who are God-conscious. This affirms the continuity of revelation across prophethood."
     },
     {
       "id": "21_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 69,
-      "question": "Contemporary scholars interpret Ibrahim's trial with fire as a call to 'spiritual resistance' where faith fuels nonviolent perseverance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Ayatollah Muhammad Hussein Fadlallah interpreted the miracle as a call to 'spiritual resistance,' where faith fuels nonviolent perseverance. This aligns with global movements for climate justice or anti-war efforts."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 53,
+      "question": "When Ibrahim challenged his people about their idols in verse 53, what was their reply?",
+      "options": [
+        "A. They argued the idols had proven their power through miracles",
+        "B. They said their priests had commanded them to worship the idols",
+        "C. They said they found their fathers worshipping them and were following that tradition",
+        "D. They claimed the idols were symbols of cosmic forces governing their lives"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The people's answer — 'wajadna aba'ana laha abideen' (we found our fathers worshipping them) — bypassed Ibrahim's rational challenge through ancestral appeal. Imam al-Tabari notes this as a pattern of blind imitation, and Ibn Kathir observed the same response among the Quraysh who opposed the Prophet."
     },
     {
       "id": "21_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 58,
-      "question": "How do contemporary scholars frame Ibrahim's destruction of idols in relation to modern challenges?",
-      "options": [
-        "As an ancient story with no modern relevance",
-        "As a call to dismantle modern 'idolatries' like systemic injustices and materialism",
-        "As a justification for physical violence",
-        "As a metaphor for childhood rebellion"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi frame this act as a call to dismantle modern 'idolatries': systemic injustices, materialism, and ideological dogmas that fragment societies."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 54,
+      "question": "In verse 54, Ibrahim softened his condemnation of idolatry by exempting his ancestors from the charge of manifest error out of respect for elders.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibrahim's statement — 'laqad kuntum antum wa aba'ukum fi dalalin mubeen' — explicitly includes the ancestors in the condemnation of manifest error. Ibn Kathir notes the emphatic grammatical construction as a deliberate refusal to make diplomatic exceptions for forebears when truth demanded otherwise."
     },
     {
       "id": "21_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 83,
-      "question": "According to contemporary analysis, what modern crisis does Ayyub's story address?",
+      "layer": 1,
+      "verseNumber": 69,
+      "question": "When Nimrod's people cast Ibrahim into the fire, Allah commanded the fire to be 'bardan wa salaman' for Ibrahim. What do these words mean?",
       "options": [
-        "Financial planning",
-        "Mental health struggles, emphasizing vocalizing pain while anchoring hope in divine compassion",
-        "Political campaigns",
-        "Technological advancement"
+        "A. Burning and purifying, to test Ibrahim's faith",
+        "B. Extinguished and dark, so Ibrahim could not be seen",
+        "C. Cool and safe, so it would not harm Ibrahim",
+        "D. Slow and controlled, burning only the ropes that bound him"
       ],
-      "correctAnswer": "B",
-      "explanation": "Ayatollah Naser Makarim Shirazi emphasizes that Ayyub's story teaches believers to vocalize pain while anchoring hope in Allah's limitless compassion - a balance critical in addressing modern mental health struggles, where silence often exacerbates despair."
+      "correctAnswer": "C",
+      "explanation": "Allah's command 'ya naru kuni bardan wa salaman ala Ibrahim' — 'O fire, be cool and safe for Ibrahim' — is one of the famous miracles of prophethood. Imam al-Tabari and Ibn Kathir both record that the fire obeyed and Ibrahim emerged unharmed, establishing Allah's sovereignty over natural forces."
     },
     {
       "id": "21_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 51,
-      "question": "According to Imam Sadiq, what was Ibrahim's 'rushd' truly about?",
+      "layer": 2,
+      "verseNumber": 78,
+      "question": "In the dispute over a field damaged by straying sheep at night, what ruling did Dawud initially give according to verses 78-79?",
       "options": [
-        "Physical strength in battles",
-        "Recognition of the Friend of Allah (Wali) in every age",
-        "Accumulation of worldly wealth",
-        "Political leadership skills"
+        "A. The shepherd must compensate the field owner with double the value of the crop",
+        "B. Dawud ruled that the sheep should be given to the field owner as compensation",
+        "C. Dawud ordered the sheep slaughtered and the meat distributed to the poor",
+        "D. Dawud declined to judge, saying the matter required both parties' consent"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Sadiq explains, 'The rushd of Ibrahim was his recognition of the Friend of Allah (Wali) in every age,' emphasizing that true judgment arises from adherence to divine guardianship (wilayah)."
+      "explanation": "Classical tafsir records that Dawud initially ruled the sheep be given outright to the field owner. It was Sulayman who proposed the more nuanced exchange: the sheep owner tends the damaged field while the field owner benefits from the sheep's produce, with both parties' property restored once the field recovers."
     },
     {
       "id": "21_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 69,
-      "question": "According to the Sixth Imam (Imam Sadiq), the fire obeyed Allah for Ibrahim's prophethood, showing how creation obeys for the Wilayah of Muhammad's Progeny.",
+      "layer": 3,
+      "verseNumber": 79,
+      "question": "Verse 79 states that Allah granted Sulayman a special 'fahm' (understanding) of the case, demonstrating that inspired juridical insight can refine even a sound ruling toward greater justice.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The 6th Imam states: 'The fire obeyed its Lord for the sake of Ibrahim's prophethood; how much more quickly does creation obey Allah for the sake of the Wilayah of Muhammad's Progeny!' (Al-Kafi)."
+      "explanation": "Contemporary scholars highlight that Allah's gift of 'fahm' to Sulayman did not discredit Dawud's ruling but elevated the standard of justice. Wahbah al-Zuhayli notes this teaches that scholarship requires both sound principles and inspired discernment, and that a judge should seek the most equitable outcome for all parties."
     },
     {
       "id": "21_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 87,
-      "question": "According to Imam Jafar al-Sadiq, what does Yunus's realization of being 'min az-zalimin' truly represent?",
+      "layer": 1,
+      "verseNumber": 83,
+      "question": "What is notable about the way Prophet Ayyub expressed his suffering to Allah in verse 83?",
       "options": [
-        "An admission of committing major sins",
-        "Recognition of having limited Allah's vast mercy through his assumptions",
-        "A confession of abandoning prayer",
-        "An acknowledgment of political mistakes"
+        "A. He demanded an immediate end to his trial and questioned divine wisdom",
+        "B. He stated his affliction briefly and acknowledged Allah as the Most Merciful without making an explicit demand",
+        "C. He asked Allah to punish those who had wronged him",
+        "D. He offered a lengthy prayer listing every detail of his physical suffering"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq explained that Yunus' realization of being 'min az-zalimin' (among the wrongdoers) wasn't merely admission of error, but recognition of having limited Allah's vast mercy through his assumption that Allah would not decree upon him."
+      "explanation": "Ayyub said only 'Anni massani al-durru wa anta arham al-rahimin' — a brief, restrained acknowledgment of harm combined with recognition of divine mercy. Fakhr al-Din al-Razi notes this indirect petition reflects complete tawakkul (reliance on Allah), not despair, and is the model of patient supplication."
     },
     {
       "id": "21_16",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 58,
-      "question": "According to Imam Jafar al-Sadiq, 'The greatest idol people worship is their own ego (nafs).'",
+      "layer": 2,
+      "verseNumber": 84,
+      "question": "In verse 84, Allah's response to Ayyub restored only his health and original family, with no additional blessing beyond what he had previously lost.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq comments on the verse about Ibrahim breaking idols: 'The greatest idol people worship is their own ego (nafs).' Just as Ibrahim left the largest idol to provoke introspection, the Imams call humanity to confront the ultimate 'idol' within."
+      "correctAnswer": "false",
+      "explanation": "Verse 84 states 'wa ataynahu ahlahu wa mithlahum ma'ahum' — Allah restored Ayyub's family AND gave their like with them, doubling the blessing. Ibn Kathir records narrations placing Ayyub's trial at around 18 years, and the divine response exceeded the original loss as 'rahmat min 'indina wa dhikra lil-'abidin.'"
     },
     {
       "id": "21_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 69,
-      "question": "What is a key difference between Shia and Sunni interpretation of Ibrahim's deliverance from fire?",
+      "layer": 3,
+      "verseNumber": 87,
+      "question": "The supplication of Yunus from inside the whale combines three distinct spiritual elements. Which option correctly identifies all three?",
       "options": [
-        "Sunni scholars deny the miracle occurred",
-        "Shia scholars reject divine intervention",
-        "Shia tafsir extends the narrative's resonance to themes of wilayah and the Ahl al-Bayt's protection, while Sunni exegesis focuses on evidential value for divine truth",
-        "There are no differences in interpretation"
+        "A. Repentance, intercession, and a vow of future obedience",
+        "B. Affirmation of tawhid, glorification of Allah, and acknowledgment of personal fault",
+        "C. Praise of Allah, a request for rescue, and a promise to fast",
+        "D. Declaration of faith, recitation of prophetic names, and appeal to divine mercy"
       ],
-      "correctAnswer": "C",
-      "explanation": "Shia tafsir works like Al-Mizan and Al-Tibyan extend the narrative's symbolic resonance to themes of wilayah (divine guardianship), linking Ibrahim's deliverance to the sanctity of the Ahl al-Bayt. Sunni commentators like Al-Razi focus on its evidential value for divine truth."
+      "correctAnswer": "B",
+      "explanation": "The supplication 'La ilaha illa anta subhanaka inni kuntu min al-zalimin' contains three elements: tawhid (no god but Allah), glorification (subhanaka), and honest acknowledgment of fault (inni kuntu min al-zalimin). Ibn Uthaymeen identifies this three-part structure as a model for sincere du'a in crisis."
     },
     {
       "id": "21_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 51,
-      "question": "What is a key divergence between Shia and Sunni interpretation regarding Ibrahim's 'rushd'?",
+      "layer": 2,
+      "verseNumber": 88,
+      "question": "Which classical scholars affirm that 'wa kadhalika nunjiy al-muminin' in verse 88 establishes a universal divine promise of rescue for all believers, not only for Yunus?",
       "options": [
-        "Sunni scholars deny Ibrahim had rushd",
-        "Sunni scholars stress Ibrahim's use of reason to arrive at monotheism, while Shia exegetes interpret rushd as reflecting the necessity of divinely guided leadership (imamah)",
-        "Shia scholars consider rushd as physical wisdom only",
-        "Both traditions interpret rushd identically"
+        "A. Only later medieval scholars after the 10th century CE",
+        "B. Only scholars from the Maliki school",
+        "C. Ibn Kathir and Imam al-Tabari both affirm this universal reading",
+        "D. This interpretation belongs exclusively to contemporary scholarship"
       ],
-      "correctAnswer": "B",
-      "explanation": "Sunni scholars like Qurtubi and Razi frame rushd within human agency, stressing Ibrahim's active use of reason. Shia exegetes interpret rushd as an exclusive gift reflecting Allah's eternal knowledge and the necessity of divinely guided leadership (imamah)."
+      "correctAnswer": "C",
+      "explanation": "Both Ibn Kathir and Imam al-Tabari confirm that 'and thus do We deliver the believers' is a universal divine sunnah (pattern), not a one-time exception for Yunus. Ibn Kathir also records that the fish cast Yunus onto a barren shore where a gourd plant grew to provide shade and nourishment."
     },
     {
       "id": "21_19",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 83,
-      "question": "Both Shia and Sunni traditions agree on Prophet Ayyub's exemplary patience and the verse's call for believers to trust in divine mercy during trials.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni exegetes converge on core themes of Prophet Ayyub's patience, sincere supplication, and divine mercy. Both traditions reinforce the verse's practical application: encouraging believers to emulate Ayyub's patience and trust in divine mercy during trials."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 89,
+      "question": "What does Sayyid Qutb highlight about Zakariyya's prayer in verse 89, where he asked Allah not to leave him without an heir?",
+      "options": [
+        "A. That Zakariyya's prayer was presumptuous because it challenged natural laws Allah had set",
+        "B. That it showed prophets rely entirely on their own righteous deeds to earn divine response",
+        "C. That Zakariyya combined honest acknowledgment of personal need with full awareness of Allah's sovereignty as the best of inheritors",
+        "D. That his prayer was answered because of his noble lineage from the house of Dawud"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb notes that Zakariyya's words 'Rabbi la tadharnee fardan wa anta khayr al-waritheen' are a model of transparent honest need combined with recognition that Allah is the ultimate sovereign. Acknowledging Allah as inheritor of all while still asking for an heir reflects complete submission alongside sincere petition."
     },
     {
       "id": "21_20",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 90,
+      "question": "Verse 90 is the third occurrence in this passage of the phrase 'fastajabna lahu' (We responded to him), following similar divine responses to Nuh and Ayyub earlier in the surah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The phrase 'fastajabna lahu' appears in verses 76-77 for Nuh, verse 84 for Ayyub, and verse 90 for Zakariyya. This deliberate repetition is a literary pattern in Surah Al-Anbiya teaching that sincere supplication from prophets — and by extension all believing servants — is answered by Allah."
+    },
+    {
+      "id": "21_21",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 78,
-      "question": "How do Shia commentaries interpret the differing judgments of Prophets Dawud and Sulayman regarding the sheep and field dispute?",
+      "layer": 1,
+      "verseNumber": 91,
+      "question": "In verse 91, Maryam is described as one who guarded her chastity, after which Allah breathed of His spirit into her and made her and her son a sign for all the worlds. What is the significance of this verse appearing within a surah devoted to prophets?",
       "options": [
-        "They view Dawud's ruling as deficient",
-        "They reject both prophets' judgments",
-        "They interpret the verse as describing complementary judgments for different aspects of the case, reflecting prophetic infallibility",
-        "They focus only on Sulayman's judgment"
+        "A. It argues that Maryam was a prophet on par with Isa and Ibrahim",
+        "B. It establishes Maryam and Isa together as a miraculous divine sign placed within the surah's sequence of prophetic accounts",
+        "C. It primarily explains Jewish objections to the birth of Isa",
+        "D. It confirms that Isa was born without any human parent on either side"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 91 introduces Maryam and Isa as a unified divine sign ('ayatan lil-alamin') within the surah's chain of prophetic narratives. The foundation layer explains that their placement confirms the continuity of prophethood and divine intervention across history, with Maryam's purity and Isa's miraculous birth forming a single sign of Allah's power."
+    },
+    {
+      "id": "21_22",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 107,
+      "question": "The verse 'We have not sent you except as a mercy to all the worlds' is understood by contemporary Sunni scholars to extend to whom?",
+      "options": [
+        "A. Only those who accepted Islam during the Prophet's lifetime",
+        "B. Only the Arab people for whom the Quran was first revealed",
+        "C. All of creation — believers and disbelievers alike — since the Prophet's mission restrained divine punishment and offered guidance universally",
+        "D. Only the believers of the final generation before the Day of Judgment"
       ],
       "correctAnswer": "C",
-      "explanation": "Shia sources like Majma al-Bayan (Tabrisi) and Al-Mizan reject any implication of Dawud's ruling being deficient, interpreting the verse as describing complementary judgments for different aspects of the case, reflecting the Shia principle of prophetic infallibility (ismah)."
+      "explanation": "Ibn Kathir notes that the mercy of verse 107 includes even disbelievers, because the Prophet's mission deferred the immediate divine punishment visited on earlier nations. Wahbah al-Zuhayli affirms this universal scope: 'rahmatan lil-alamin' means the Prophet's presence was a mercy for all of creation, human and otherwise."
     }
   ]
 }

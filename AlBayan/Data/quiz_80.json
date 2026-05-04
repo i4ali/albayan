@@ -6,160 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Abasa's opening verse, what does the Arabic word 'abasa' (to frown) signify according to the Foundation Layer?",
+      "question": "The Prophet frowned and turned away from Abdullah ibn Umm Maktum at the start of Surah Abasa. What was the primary reason for this reaction?",
       "options": [
-        "Joy and happiness",
-        "Disapproval or displeasure",
-        "Deep meditation",
-        "Physical pain"
+        "A) He was angry at Ibn Umm Maktum for interrupting his prayer",
+        "B) He was focused on a conversation with Quraysh leaders, hoping their conversion would benefit Islam",
+        "C) He did not recognize the blind companion by name",
+        "D) He had already taught Ibn Umm Maktum everything he needed to know"
       ],
-      "correctAnswer": "Disapproval or displeasure",
-      "explanation": "The Arabic word 'abasa' (to frown) conveys disapproval or displeasure, while 'tawalla' (to turn away) signifies physical or emotional withdrawal. These terms highlight the human dimension of prophetic life, showing that even the noblest individuals can momentarily falter in judgment."
+      "correctAnswer": "B",
+      "explanation": "As recorded by Imam Tabari and confirmed by Ibn Kathir citing narrations from Aisha, the Prophet was engaged with influential Quraysh nobles, hoping their acceptance of Islam would benefit the community. He felt displeasure at the interruption from the sincere blind seeker, which prompted the divine correction in these opening verses."
     },
     {
       "id": "80_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 24,
-      "question": "According to the Foundation Layer, verse 24's command to 'look at your food' is only about appreciating agricultural processes with no spiritual significance.",
+      "verseNumber": 2,
+      "question": "True or false: The Quran's description of Abdullah ibn Umm Maktum as 'the blind man' in verse 2 is meant to criticize or embarrass him for interrupting the Prophet.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. The verse invites humanity to deeply contemplate their sustenance both as physical reality and spiritual lesson. It calls for equal attention to all who seek guidance, whether in mosques, workplaces, or community spaces, fostering inclusive communities where dignity and sincerity are paramount."
+      "explanation": "According to the tafsir, the mention of blindness actually serves as an implicit defense of the companion: he could not see that the Prophet was occupied, so his interruption was entirely innocent and arose from pure spiritual need. The description vindicates rather than criticizes him, and Allah presents his arrival without any reproach."
     },
     {
       "id": "80_3",
       "type": "multipleChoice",
       "layer": 2,
       "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what alternative interpretation is offered regarding who 'frowned' in verse 1?",
+      "question": "Ibn Kathir highlighted a linguistically significant rhetorical feature in the opening verse of Surah Abasa. What is it?",
       "options": [
-        "The Prophet definitely frowned and committed an error",
-        "A companion or Meccan notable may have been the subject, preserving prophetic infallibility",
-        "An angel was displeased with the situation",
-        "Abdullah ibn Umm Maktum himself frowned"
+        "A) The word 'abasa' carries a passive meaning, suggesting someone else caused the frowning",
+        "B) Allah addresses the Prophet in the third person rather than the second person, which classical scholars read as a form of gentle and dignified correction",
+        "C) The verse was revealed in Madinah rather than Makkah, making its tone of rebuke exceptional",
+        "D) The verb is in the dual form, suggesting two people frowned simultaneously"
       ],
-      "correctAnswer": "A companion or Meccan notable may have been the subject, preserving prophetic infallibility",
-      "explanation": "Tabrisi cites narrations suggesting the subject was a companion or Meccan notable, thereby preserving the Prophet's perfection in conveying divine guidance. This aligns with the Shia doctrine of prophetic infallibility (ismah), interpreting the verse as a divine lesson rather than a moral failing."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim emphasized that Allah says 'he frowned' rather than 'you frowned.' Classical scholars interpreted this rhetorical shift — known as iltifat — as a form of gentle and noble admonishment that shields the Prophet from direct rebuke out of divine love and honor, making the correction dignified rather than harsh."
     },
     {
       "id": "80_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 16,
-      "question": "According to Allama Tabatabai in Al-Mizan, what do the terms 'kiramin bararah' (noble and dutiful) signify when describing the scribes of revelation?",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "What does the rhetorical question 'What would make you perceive?' in verse 3 fundamentally teach about the limits of human judgment in spiritual matters?",
       "options": [
-        "Only their physical writing abilities",
-        "Intrinsic nobility from proximity to Allah and unwavering obedience in fulfilling divine duties",
-        "Their historical importance in ancient times",
-        "Their material wealth and social status"
+        "A) That the Prophet lacked the scholarly training needed to assess a student's potential",
+        "B) That only scholars with classical Arabic training can evaluate who will benefit from the Quran",
+        "C) That no human being can fully know who is ready for spiritual purification, since that knowledge belongs to Allah alone",
+        "D) That sincerity of seeking can be accurately assessed through outward signs of wealth and education"
       ],
-      "correctAnswer": "Intrinsic nobility from proximity to Allah and unwavering obedience in fulfilling divine duties",
-      "explanation": "Tabatabai emphasizes that 'kiramin' denotes intrinsic nobility rooted in proximity to Allah, while 'bararah' signifies unwavering obedience and purity in fulfilling divine duties. This reflects the Shia understanding of spiritual excellence combining divine grace (lutf) and human perfection through submission."
+      "correctAnswer": "C",
+      "explanation": "The phrase 'wa ma yudreeka' establishes an epistemological limit: only Allah knows which hearts are ready to receive divine guidance. As the tafsir explains, this teaches believers never to judge who is 'worth' teaching based on outward appearances or social status. Fakhr al-Din al-Razi affirmed that this verse establishes the Prophet's human limitation in perceiving the hidden states of souls."
     },
     {
       "id": "80_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to Ayatollah Nasir Makarim Shirazi's interpretation, Surah Abasa's opening verse addresses only historical circumstances with no relevance to contemporary struggles against marginalization.",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "True or false: Imam Qurtubi derived from verse 6 a jurisprudential principle that those engaged in dawah must never rank their listeners by worldly status, because doing so corrupts the integrity of the call to Allah.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Nasir Makarim Shirazi frames this incident as a paradigm for rejecting 'selective compassion,' urging believers to transcend biases tied to status, ability, or utility. Modern scholars extend this analysis, linking the verse to contemporary struggles against systemic marginalization of disabled communities and the commodification of human worth in capitalist societies."
+      "correctAnswer": "true",
+      "explanation": "Imam Qurtubi in al-Jami li-Ahkam al-Quran explicitly noted this legal dimension: the phrase 'fa anta lahu tasadda' — 'to him you give your full attention' — carries an implied ruling for all who carry the message of Islam, that every sincere seeker deserves equal access regardless of wealth or influence. He stressed that Islamic leaders and teachers must be accessible to all who genuinely seek guidance."
     },
     {
       "id": "80_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 17,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret the concept of 'kufr' (disbelief) in verse 17?",
+      "verseNumber": 6,
+      "question": "Sayyid Qutb described the opening rebuke of Surah Abasa as establishing what kind of foundational principle for Muslim communities throughout history?",
       "options": [
-        "Only as theological rejection of God's existence",
-        "As both theological disbelief and the moral abandonment of divine values in daily life",
-        "As a minor mistake with no serious consequences",
-        "As an ancient concept with no modern relevance"
+        "A) That prophets are infallible in all their actions and their decisions are beyond critique",
+        "B) A permanent charter of spiritual equality, declaring that no Islamic community may privilege wealth and influence over sincere faith and earnest seeking",
+        "C) That strategic dawah targeting influential leaders must always be the community's highest priority",
+        "D) That Islamic scholars should allocate most of their time to teaching those with the greatest intellectual capacity"
       ],
-      "correctAnswer": "As both theological disbelief and the moral abandonment of divine values in daily life",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi contextualize this verse as a timeless warning against kufr—not merely theological disbelief, but the moral abandonment of divine values in daily life, encompassing environmental destruction, economic injustice, and social inequity."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran called these opening verses the 'Magna Carta of Islamic civilisation,' arguing that the divine intervention permanently established that no community calling itself Islamic can privilege wealth and social influence over sincere faith and earnest seeking. Wahbah al-Zuhayli similarly argued that this corrected the natural but misguided human tendency to invest effort where one expects greater worldly returns."
     },
     {
       "id": "80_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Muhammad al-Baqir's teaching in Tafsir al-Qummi, what was the divine purpose behind the incident described in the opening verse?",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "Verse 11 opens with the word 'Kalla' and then declares the Quran to be a 'tadhkirah' (reminder). What does the word 'tadhkirah' imply about the Quran's relationship to human nature?",
       "options": [
-        "To punish the Prophet for a moral failing",
-        "To divinely orchestrate eternal principles of humility and the sacredness of seeking truth",
-        "To establish new social hierarchies",
-        "To criticize Abdullah ibn Umm Maktum"
+        "A) That the Quran introduces entirely foreign information that humans could never discover on their own",
+        "B) That the Quran is primarily a legal code for governing Muslim societies",
+        "C) That the Quran awakens and revives knowledge already present in the human fitrah, calling people back to truths their souls already recognize",
+        "D) That the Quran is a reminder only for Arabs since it was revealed in Arabic"
       ],
-      "correctAnswer": "To divinely orchestrate eternal principles of humility and the sacredness of seeking truth",
-      "explanation": "Imam Muhammad al-Baqir clarifies in Tafsir al-Qummi that this incident was divinely orchestrated to teach eternal principles of humility and the sacredness of seeking truth. The Quranic rebuke symbolizes the necessity of prioritizing spiritual sincerity over worldly hierarchies—a cornerstone of Wilayah (divine guardianship)."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explained that 'kalla' marks a sharp pivot from the rebuke of verses 1-10 to a declaration about the Quran's essential function. 'Tadhkirah' means reminder — implying that the Quran reawakens the innate awareness of truth (fitrah) already present in every human soul. As Ibn Uthaymeen noted, the Quran does not address the human as an empty vessel but as a being already oriented toward truth who needs reminding and reinforcement."
     },
     {
       "id": "80_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 16,
-      "question": "According to Imam Ja'far al-Sadiq in Tafsir al-Qummi, the 'noble and dutiful scribes' in verse 16 refer exclusively to recording angels with no connection to the Imams.",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "True or false: Imam Tabari's preferred interpretation of the 'honored sheets' (suhuf mukarramah) in verse 13 is that they refer to the Preserved Tablet (al-Lawh al-Mahfuz), though he acknowledged other valid readings from early scholars.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Imam Ja'far al-Sadiq states in Tafsir al-Qummi: 'These are the Imams from the progeny of Muhammad (pbuh) – they are the noble in rank before Allah, the dutiful in fulfilling His commands.' This interpretation transforms the verse from a surface description of recording angels into a declaration about the purified Guides entrusted with preserving Divine Truth."
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari in his Jami al-Bayan reported several scholarly opinions about these honored sheets but leaned toward the Preserved Tablet interpretation. Ibn Kathir confirmed this reading by connecting it to Surah al-Buruj 85:22 — 'but it is an honored Quran in a Preserved Tablet' — demonstrating Quranic internal consistency in describing the heavenly origin of revelation."
     },
     {
       "id": "80_9",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 38,
-      "question": "According to the teachings of the Ahlul Bayt about verse 38, what causes the 'luminous faces' on the Day of Judgment?",
+      "layer": 3,
+      "verseNumber": 16,
+      "question": "What contemporary implication does Wahbah al-Zuhayli draw from the description of the angelic scribes as 'noble and righteous' (kiramun bararah) in verse 16?",
       "options": [
-        "Physical beauty in worldly life",
-        "Accumulated wealth and social status",
-        "Unwavering attachment to Wilayah and recognition of the Imam of their time",
-        "Intellectual achievements and academic success"
+        "A) That Muslims should avoid recording religious knowledge in written form and rely only on oral transmission",
+        "B) That the Islamic science of chain narration demands the same moral probity of human narrators that characterized the angelic chain of Quranic transmission",
+        "C) That only angels are truly qualified to teach the Quran and human teachers should defer to dreams and inspiration",
+        "D) That believers who memorize the Quran acquire a rank equivalent to angels in this life"
       ],
-      "correctAnswer": "Unwavering attachment to Wilayah and recognition of the Imam of their time",
-      "explanation": "Imam Ja'far al-Sadiq states in Tafsir al-Qummi: 'These shining faces are those who recognized the Imam of their time and held firmly to the rope of Allah's appointed guardians.' The luminous faces are mirrors reflecting the radiance of divine guidance received through unwavering attachment to Wilayah (divine guardianship)."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir observed that the entire chain of Quranic custody — from Allah to Jibril to the noble angels to the Prophet — is characterized by unimpeachable moral character at every link. This directly underpins the Islamic science of isnad, which demands the same moral probity of every human narrator in the hadith and Quranic transmission tradition, treating transmission as a sacred moral trust."
     },
     {
       "id": "80_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key theological difference between Shia and Sunni interpretations of who 'frowned' in verse 1?",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "The phrase 'qutila al-insan ma akfarah' in verse 17 makes a jarring shift in tone. What type of rhetorical expression is this, and what does it accomplish?",
       "options": [
-        "Both traditions interpret it identically with no differences",
-        "Sunni scholars accept the Prophet frowned as a momentary human oversight, while Shia scholars often reinterpret to preserve prophetic infallibility (ismah)",
-        "Shia scholars reject the entire verse as inauthentic",
-        "Sunni scholars believe an angel frowned, not the Prophet"
+        "A) A legal ruling that ungrateful disbelievers should be executed under Islamic law",
+        "B) A ta'ajjub construction — an exclamation of astonishment — expressing Allah's amazement at how extreme human ingratitude can become despite His countless blessings",
+        "C) A formal judicial verdict applicable only to the Quraysh leaders who rejected the Prophet",
+        "D) A prediction that disbelievers will perish in punishment in this life before reaching the Day of Judgment"
       ],
-      "correctAnswer": "Sunni scholars accept the Prophet frowned as a momentary human oversight, while Shia scholars often reinterpret to preserve prophetic infallibility (ismah)",
-      "explanation": "This divergence stems from distinct theological frameworks: Sunni scholars view the incident as demonstrating the Prophet's human capacity for momentary oversight corrected by revelation, while Shia scholars maintain that prophetic perfection necessitates reinterpretation of apparent criticisms, often suggesting another companion was the subject."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explained that 'ma akfarah' is a ta'ajjub construction, a grammatical form of astonishment meaning 'how extreme is this person's ingratitude!' Ibn Abbas interpreted 'qutila' as a rhetorical expression of divine displeasure, not a literal prayer for death. The verse marvels at how a being created from nothing can reach such a degree of ingratitude toward its Creator."
     },
     {
       "id": "80_11",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 33,
-      "question": "According to both Shia and Sunni scholars, the 'Deafening Blast' (al-sakhkhah) in verse 33 refers to the trumpet blast signaling the Day of Resurrection.",
+      "layer": 3,
+      "verseNumber": 24,
+      "question": "True or false: According to Wahbah al-Zuhayli, the command 'let man look at his food' in verse 24 has implications only for personal piety and has no connection to contemporary environmental responsibility.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Classical exegetes across traditions broadly concur that al-sakhkhah (the Deafening Blast) refers to the trumpet blast (nafkhat al-sur) signaling cosmic upheaval. Al-Tabari (Sunni) and al-Tabrisi (Shia) both cite hadiths describing this as the second trumpet blast, awakening the dead for resurrection and final judgment."
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir explicitly connected this verse to the modern challenges of unsustainable agriculture, deforestation, and water misuse. He argued that recognizing food as a divine gift — as the verse commands — is precisely the attitude that should produce responsible stewardship of natural resources, linking Quranic wisdom to urgent contemporary concerns about food security and ecological sustainability."
     },
     {
       "id": "80_12",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 42,
-      "question": "In interpreting verse 42's description of 'al-kafarah al-fajarah' (the disbelievers, the wicked ones), what do both Shia and Sunni scholars agree upon?",
+      "layer": 2,
+      "verseNumber": 25,
+      "question": "How does Ibn Kathir use the image of Allah 'pouring down water in torrents' in verse 25 to argue for the doctrine of bodily resurrection?",
       "options": [
-        "The verse only applies to ancient peoples with no modern relevance",
-        "Both identify them as Quraysh elites who obstinately rejected Prophet Muhammad's message",
-        "Shia scholars reject this verse entirely",
-        "Sunni scholars believe it refers only to future generations"
+        "A) He argues that rain physically washes away the sins of the dead, allowing their bodies to be resurrected clean",
+        "B) He says the water cycle has no relationship to resurrection and the two topics are discussed in separate surahs",
+        "C) If Allah pours water onto dead earth and brings forth abundant life in all its variety, He is equally capable of bringing life back to the bones of the dead on the Day of Judgment",
+        "D) He links the pouring of rain to the story of Noah's flood as a foreshadowing of the eschatological flood at the end of time"
       ],
-      "correctAnswer": "Both identify them as Quraysh elites who obstinately rejected Prophet Muhammad's message",
-      "explanation": "Classical commentators universally identify the 'disbelievers, the wicked ones' (al-kafarah al-fajarah) as the Quraysh elites who arrogantly dismissed Prophet Muhammad's message, as noted by Tabari and Tabatabai. Ibn Kathir and Tabrisi both emphasize the moral-spiritual fusion implied: kufr (theological rejection) intertwined with fujur (ethical transgression)."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim made this explicit connection: the divine act of reviving dead earth through rain is the Quran's standard proof for the rational possibility of resurrection. Imam Tabari similarly recorded this tafsir technique from the early Salaf — linking the earthly miracle of agricultural revival to the eschatological reality of bodily resurrection after death."
+    },
+    {
+      "id": "80_13",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 38,
+      "question": "True or false: The word 'musfira' describing the believers' faces in verse 38 conveys the idea of an external, cosmetic brightness applied to the face, similar to a glow from sunlight.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir explains that 'musfira' comes from the root 'safara,' meaning to illuminate or shine, but the brightness is not cosmetic — it is an expression of inward spiritual reality made outwardly visible. Just as a person in this world may conceal their true state, on the Day of Judgment all veils are removed and the inner condition of faith and righteous deeds manifests as literal radiance on the face."
+    },
+    {
+      "id": "80_14",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 39,
+      "question": "What structural literary observation does Sayyid Qutb make about the placement of the joyful, laughing faces in verse 39 within the surah's overall design?",
+      "options": [
+        "A) He argues these verses belong at the opening of the surah and were misplaced during the compilation of the Quran",
+        "B) He notes this is the first moment of relief after mounting dread, and that the Meccan surahs characteristically build tension before releasing it in the direction of divine mercy",
+        "C) He says the laughter in verse 39 was deliberately placed before the terrifying Judgment Day scenes in order to reduce fear of death among new converts",
+        "D) He connects the expression of laughter to a specific prophetic sunnah of laughing during times of spiritual elevation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran described verse 38 as the first moment of relief in a passage of mounting dread, noting that the surah takes the reader through cosmic upheaval, dissolution of family bonds, and crushing individual accountability — and only then comes the image of radiant, laughing faces. Qutb identified this literary structure as characteristic of the Meccan surahs and their deep understanding of human psychology."
+    },
+    {
+      "id": "80_15",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 42,
+      "question": "What does Ibn Kathir say about the theological significance of pairing 'al-kafarah' (disbelievers) with 'al-fajarah' (the wicked) in the closing verse of Surah Abasa?",
+      "options": [
+        "A) The two terms are interchangeable synonyms with no distinct theological difference",
+        "B) 'Al-kafarah' refers exclusively to non-Arabs and 'al-fajarah' refers specifically to the Quraysh tribe",
+        "C) 'Al-kafarah' identifies corruption in inner belief while 'al-fajarah' identifies corruption in outward conduct, together describing those who are totally corrupt in both conviction and action",
+        "D) Both terms describe the hypocrites of Madinah rather than the persistent disbelievers of Makkah"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explained that this pairing identifies two complementary dimensions of the condemned: disbelievers in their hearts and evildoers in their actions. This reflects the classical Sunni understanding that disbelief in the heart naturally tends to manifest as wickedness in conduct, and that the surah closes by declaring the ultimate fate of those in whom both inner conviction and outward action are corrupt."
     }
   ]
 }

@@ -6,135 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, which companion's incident prompted the revelation of the opening verse of Surah Al-Mumtahana?",
+      "question": "What was Hatib ibn Abi Balta'ah's stated motive for sending a secret letter to the Quraysh before the conquest of Makkah?",
       "options": [
-        "Abu Bakr",
-        "Hatib ibn Abi Balta'ah",
-        "Umar ibn al-Khattab",
-        "Salman al-Farsi"
+        "A. He had secretly abandoned Islam and wished to rejoin his tribe",
+        "B. He wanted to protect his family in Makkah since he had no tribal protectors there",
+        "C. He was bribed by the Quraysh with a promise of land and wealth",
+        "D. He hoped to negotiate a second peace treaty on behalf of the Prophet"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse responds to an incident involving Hatib ibn Abi Balta'ah, a companion who secretly communicated with Mecca's polytheists before the Muslim conquest of the city."
+      "explanation": "Layer 1 of verse 1 explains that Hatib was not a hypocrite but a sincere believer whose motive was to earn goodwill for his family in Makkah, since unlike most Muhajirin he had no clan there to protect them. The Prophet defended him before Umar, reminding the Companions that Hatib had fought at Badr and Allah had forgiven the people of Badr."
     },
     {
       "id": "60_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 8,
-      "question": "According to the tafsir, Surah Al-Mumtahana verse 8 prohibits showing kindness or justice toward all non-Muslims.",
+      "verseNumber": 1,
+      "question": "True or false: The Arabic term 'awliya' in verse 1 simply means casual friends, carrying no meaning of political alliance or protective patronage.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "The verse clarifies that Allah does not prohibit kindness (tabarruhum) or justice (tuqsitu) toward those who do not wage religious war against Muslims or forcibly displace them."
+      "explanation": "The tafsir of verse 1 clarifies that 'awliya' refers to patrons, allies, and protectors — not merely casual friends. The prohibition targets relationships of political and protective alliance with those hostile to the faith, not ordinary social acquaintance."
     },
     {
       "id": "60_3",
       "type": "multipleChoice",
       "layer": 2,
       "verseNumber": 1,
-      "question": "According to Allamah Tabatabai in Al-Mizan, what foundational Shia theological principles does verse 60:1 establish?",
+      "question": "Which classical scholar noted that Allah placing 'aduwwi' (My enemy) before 'aduwwakum' (your enemy) in verse 1 shows that enmity toward Allah's religion is the prior and more serious offense?",
       "options": [
-        "Tawbah and Istighfar",
-        "Walayah and Bara'ah",
-        "Salat and Zakah",
-        "Hajj and Sawm"
+        "A. Ibn Kathir",
+        "B. Fakhr al-Din al-Razi",
+        "C. Imam al-Qurtubi",
+        "D. Imam al-Suyuti"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai elucidates that this verse establishes the foundational principle of walayah (divinely ordained loyalty) and bara'ah (disassociation from falsehood), central to Shia theology."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran noted this grammatical sequence, observing that placing 'My enemy' first indicates the primary offence is enmity toward Allah's religion itself — making it the foundational reason the prohibition is so severe."
     },
     {
       "id": "60_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
       "verseNumber": 4,
-      "question": "In classical Shia exegesis, what Arabic term describes Prophet Ibrahim as the 'exemplary model' for believers in verse 60:4?",
-      "options": [
-        "Khalil Allah",
-        "Uswatun Hasanah",
-        "Imam al-Muttaqin",
-        "Sayyid al-Anbiya"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The verse establishes Prophet Ibrahim and his followers as the ultimate model (uswatun hasanah) for believers, emphasizing principled disassociation from polytheism and falsehood."
+      "question": "True or false: Ibn Kathir held that Ibrahim's promise to seek forgiveness for his polytheist father is part of the 'uswa hasana' (beautiful example) that believers in verse 4 are commanded to imitate.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir, following Ibn Abbas and Mujahid, explicitly excluded Ibrahim's prayer for his father from the model. Ibrahim later discontinued that prayer once it became clear his father had died rejecting faith, and seeking forgiveness for those who die on shirk is prohibited by Quran 9:113. The 'uswa hasana' applies specifically to Ibrahim's bara'a and tawakkul."
     },
     {
       "id": "60_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 7,
-      "question": "Contemporary scholars interpret verse 60:7's promise of 'mawaddah' (affection) as merely a cessation of hostility between opposing groups.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "The 'affection' (mawaddah) promised by Allah transcends mere cessation of hostility; it signifies a divinely orchestrated bond of mutual respect and compassion, contingent upon human receptivity to guidance."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "When verse 4 records Ibrahim's declaration 'wa bada baynana wa baynakum al-adawatu wal-baghda' (enmity and hatred have appeared between us and you), what condition would end this state of enmity?",
+      "options": [
+        "A. A political peace treaty signed by the tribal leaders",
+        "B. The moment those people accepted belief in Allah alone",
+        "C. The death of the idol-worshippers involved in the original dispute",
+        "D. The migration of Ibrahim and his followers to a new land"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 4 notes that the clause 'until you believe in Allah alone' shows the enmity is not racial or tribal but purely theological. It would dissolve the moment those people accepted tawhid. Imam al-Tabari recorded that the Salaf considered this declaration among the highest expressions of tawhid."
     },
     {
       "id": "60_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 10,
-      "question": "According to contemporary scholars, what modern application does verse 60:10's directive to 'examine' believing emigrant women have?",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "The word 'tabarruhum' in verse 8, describing how Muslims should treat peaceful non-Muslims, comes from the same Arabic root as which other Quranic duty?",
       "options": [
-        "Restricting women's movement",
-        "Ensuring sincere asylum seekers receive sanctuary in refugee crises",
-        "Requiring women to prove their identity",
-        "Denying entry to all migrants"
+        "A. Ritual purity before prayer",
+        "B. Kindness and righteousness toward parents",
+        "C. Fasting during Ramadan",
+        "D. Giving charity to the poor"
       ],
       "correctAnswer": "B",
-      "explanation": "Scholars like Dr. Liyakat Takim highlight the verse's relevance to today's global refugee crises, where displaced Muslim women often face dual vulnerabilities, requiring communities to balance compassion with due diligence."
+      "explanation": "Layer 1 of verse 8 explains that 'tabarruhum' derives from 'birr,' the same word used for kindness and righteousness toward parents — one of the highest forms of moral goodness in Islam. The verse therefore commands not merely neutral tolerance but warmth, charity, and genuine fair dealing toward peaceful non-Muslims."
     },
     {
       "id": "60_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq (as), what is the effect of loving Allah's enemies on the heart?",
-      "options": [
-        "It strengthens faith",
-        "It has no effect",
-        "It is a rust that extinguishes the light of faith",
-        "It leads to wisdom"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Ja'far al-Sadiq (as) elucidates, 'The love of Allah's enemies is a rust upon the heart, extinguishing the light of faith.'"
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "True or false: Wahbah al-Zuhayli argued in Al-Tafsir al-Munir that verse 8 establishes only a grudging tolerance of peaceful non-Muslims rather than a positive duty of good conduct toward them.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli explicitly argued the opposite: the verse establishes a positive, proactive duty of good conduct toward peaceful non-Muslims, not merely grudging tolerance. He applied this to Muslim minority communities, holding that treating fellow citizens with full moral excellence is a binding religious obligation derived directly from this verse."
     },
     {
       "id": "60_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to Imam Ali (as), blood ties and social status can substitute for righteous action on the Day of Resurrection.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Imam Ali (as) taught that on the Day of Resurrection, 'Every soul shall be chained to its deeds' (Nahj al-Balagha), emphasizing that blood ties or social status cannot substitute for righteous action."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 10,
+      "question": "What did Imam al-Tabari record regarding the examination of believing women described in verse 10?",
+      "options": [
+        "A. Women were required to submit a written declaration witnessed by two male companions",
+        "B. The examination consisted of the Prophet questioning them about their faith and intentions, with an oath sworn by Allah",
+        "C. Women were held in custody for forty days while their sincerity was observed",
+        "D. The examination was delegated entirely to Aisha, who spoke privately with each woman"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir, citing reliable chains, recorded that the Prophet conducted the examination by having women swear by Allah that their emigration was solely for the sake of faith and not driven by worldly motivations such as dislike of a husband. Imam al-Tabari in Jami al-Bayan confirmed this was the examination referred to in the verse, and that it also served as the legal basis for abrogating the part of the Hudaybiyyah treaty requiring return of all emigrants."
     },
     {
       "id": "60_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "In the comparative analysis of verse 60:4, what key divergence exists between Shia and Sunni interpretations regarding Ibrahim's exception for his father?",
+      "layer": 3,
+      "verseNumber": 12,
+      "question": "What did Sayyid Qutb highlight about the women's pledge of allegiance recorded in verse 12?",
       "options": [
-        "Sunni scholars reject the exception entirely",
-        "Shia exegetes extend it to include the Imams' intercession, while Sunnis limit it to Ibrahim's historical context",
-        "Both traditions interpret it identically",
-        "Neither tradition discusses this exception"
+        "A. He argued the women's pledge was secondary to men's because women pledged only verbally while men pledged physically",
+        "B. He emphasized that Islam treated women's conversion as fully independent, demanding a personal commitment to Allah rather than merely following their husbands",
+        "C. He focused exclusively on the prohibition of infanticide as the only novel clause, seeing the other five conditions as repetitions of general Islamic law",
+        "D. He criticized the six conditions as overly strict, intended only for women converting from paganism in the Makkan context"
       ],
       "correctAnswer": "B",
-      "explanation": "A key divergence arises in interpreting Ibrahim's exception. Shia exegesis extends the principle to include the Imams' spiritual intercession, while Sunni commentators generally limit it to Ibrahim's historical context."
-    },
-    {
-      "id": "60_10",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 13,
-      "question": "According to the comparative tafsir, how do Shia commentators specifically identify 'the people with whom Allah has become angry' in verse 60:13?",
-      "options": [
-        "All non-Muslims universally",
-        "Only the Quraysh tribe",
-        "Those who rejected Imam Ali's divinely ordained leadership (Wilayah)",
-        "The Roman Empire"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Classical Shia exegetes, including Tabrisi, interpret these 'people' as specific groups who opposed the Prophet (PBUH) and his Household, particularly those who rejected Imam Ali's (AS) divinely ordained leadership."
+      "explanation": "Sayyid Qutb wrote in Fi Zilal al-Quran that this verse is profoundly moving in depicting women as full moral agents who enter Islam through a conscious, independent covenant with the Prophet. Islam did not treat women's conversion as following their male relatives but demanded from them a direct, personal commitment to God representing a complete moral transformation from jahiliyyah values."
     }
   ]
 }

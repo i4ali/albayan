@@ -6,110 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the word 'muzzammil' in the opening verse of Surah Al-Muzzammil derive from, and what does it convey?",
+      "question": "What does the title 'Al-Muzzammil,' used by Allah to address the Prophet in the opening verse, literally mean?",
       "options": [
-        "The root k-s-a, meaning to protect",
-        "The root z-m-l, conveying the act of covering or enveloping oneself",
-        "The root s-l-m, meaning peace",
-        "The root n-w-r, meaning light"
+        "A) The one who is wrapped in his garments",
+        "B) The one who stands in night prayer",
+        "C) The one who recites the Quran",
+        "D) The one who calls to the Lord"
       ],
-      "correctAnswer": "The root z-m-l, conveying the act of covering or enveloping oneself",
-      "explanation": "The word muzzammil derives from the root z-m-l, conveying the act of covering or enveloping oneself, often interpreted as the Prophet wrapping himself in a cloak during moments of deep devotion or night prayer. This imagery reflects both physical preparation for worship and spiritual readiness to receive divine guidance."
+      "correctAnswer": "A",
+      "explanation": "Al-Muzzammil means 'the one who wraps himself in clothing.' Ibn Kathir notes that this form of address using the Prophet's physical state rather than his prophetic title carries a tone of gentle affection, transitioning him from a state of rest to the great responsibility that follows."
     },
     {
       "id": "73_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "The command to 'arise to pray the night' in verse 2 was only meant for the Prophet Muhammad and not applicable to other believers.",
+      "question": "True or false: the command to arise and pray during the night in verse 2 required the Prophet to pray the entire night with no allowance for rest.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. While initially directed to the Prophet Muhammad, this verse establishes a model for all believers to engage in nocturnal worship (tahajjud). The practice of night prayer became a cornerstone of Islamic spirituality, inviting believers to seek proximity to Allah through voluntary worship during the stillness of night."
+      "explanation": "The verse commands night prayer 'except for a little,' explicitly permitting rest. Imam Qurtubi explains that this phrase shows divine mercy and realism, recognising that rest is necessary and that Allah does not demand what is beyond human capacity."
     },
     {
       "id": "73_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegetes like Tabrisi and Tabatabai, what deeper theological significance does the 'wrapping' in verse 1 represent?",
+      "verseNumber": 3,
+      "question": "According to Ibn Kathir, how many practical duration options for night prayer did verses 2 and 3 together provide to the Prophet and his companions?",
       "options": [
-        "Only protection from cold weather",
-        "The Prophet's total immersion in divine commandments and the envelopment of his soul by divine light and responsibility",
-        "A simple bedtime routine",
-        "Physical exercise preparation"
+        "A) Two options: half the night or one third of the night",
+        "B) Three options: close to the full night, exactly half, or slightly less than half",
+        "C) Four options: full night, two thirds, half, or one third",
+        "D) One fixed duration of exactly half the night with no variation"
       ],
-      "correctAnswer": "The Prophet's total immersion in divine commandments and the envelopment of his soul by divine light and responsibility",
-      "explanation": "Tabatabai interprets the 'wrapping' as a metaphor for the Prophet's total immersion in divine commandments and the burdens of prophethood, symbolizing the envelopment of his soul by divine light (nur) and responsibility. This aligns with the Shia emphasis on the Prophet's unique spiritual station as the recipient and conduit of revelation, inseparable from the ontological reality of the Ahlul Bayt."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explains that verses 2 and 3 together offer three practical options: pray close to the full night except for a little, pray exactly half the night, or pray slightly less than half. He notes that the Prophet and companions adhered strictly to these instructions for about a year before verse 20 brought ease."
     },
     {
       "id": "73_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 5,
-      "question": "In classical Shia exegesis, what does 'al-qawl al-thaqil' (the heavy word) in verse 5 refer to?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "The command to 'recite the Quran with tartil' in verse 4 specifies a quality of recitation. Which description best captures what tartil means?",
       "options": [
-        "Only the physical weight of written texts",
-        "The ontological and spiritual weight of divine revelation entrusted to the Prophet",
-        "Heavy burdens of daily life",
-        "The weight of military equipment"
+        "A) Reciting as much Quran as possible in the shortest time to cover more verses",
+        "B) Memorising the Quran entirely before reciting it in prayer",
+        "C) Slow, measured, and clear recitation with reflection on meaning",
+        "D) Reciting only the shorter chapters of the Quran during voluntary prayer"
       ],
-      "correctAnswer": "The ontological and spiritual weight of divine revelation entrusted to the Prophet",
-      "explanation": "Classical Shia commentators emphasize the ontological and spiritual weight of divine revelation (al-qawl al-thaqil) entrusted to the Prophet Muhammad. This 'heavy word' encompasses not just the Quran's textual revelation but the comprehensive responsibility of prophethood, including moral guidance, legal ordinances, and spiritual leadership."
+      "correctAnswer": "C",
+      "explanation": "Tartil means reciting each letter clearly, pausing at the appropriate places, and allowing the words to settle in the heart. Ibn Abbas defined it as making the recitation clear letter by letter, and Ibn Kathir explicitly connects tartil to contemplation, stating that slow recitation serves understanding and reflection rather than mere technical precision."
     },
     {
       "id": "73_5",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How does Ayatollah Nasir Makarem Shirazi interpret the act of 'wrapping oneself' for contemporary believers?",
-      "options": [
-        "As an outdated practice no longer relevant",
-        "As only physical clothing requirements",
-        "As wrapping oneself in divine remembrance amidst worldly chaos and digital overload",
-        "As a requirement for cold climates only"
-      ],
-      "correctAnswer": "As wrapping oneself in divine remembrance amidst worldly chaos and digital overload",
-      "explanation": "Ayatollah Nasir Makarem Shirazi, in his Tafsir Nemuneh, emphasizes that the Prophet's physical act of wrapping in a cloak symbolizes the need to 'wrap oneself in divine remembrance' amidst worldly chaos. Modern scholars extend this metaphor, framing it as an invitation to create sacred mental spaces in an age of digital overload, where constant connectivity threatens inner peace."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "True or false: Fakhr al-Din al-Razi understood the 'heavy word' of verse 5 as referring only to the physical sensations the Prophet experienced during revelation, not to any intellectual or moral dimensions.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb offers a comprehensive four-part analysis, describing the Quran as heavy intellectually (requiring deep understanding), practically (requiring complete compliance), spiritually (requiring total sincerity), and socially (requiring courage to uphold truth in the face of opposition). The physical experience of revelation is acknowledged but is only one dimension among several."
     },
     {
       "id": "73_6",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ali in Nahj al-Balagha, what does the Prophet's 'wrapping' represent spiritually?",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "Verse 8 commands remembrance of Allah's name and complete devotion to Him. Sayyid Qutb described this verse as the secret of what?",
       "options": [
-        "Simple protection from weather",
-        "Wrapping in the cloak of divine awe, separating his heart from worldly illusions to dwell in Allah's presence",
-        "Following fashion trends",
-        "Preparing for physical combat"
+        "A) The legal rulings that govern Islamic jurisprudence",
+        "B) Prophetic power, since total consecration to Allah was the source of the Prophet's capacity to transform the world",
+        "C) The correct timing and sequence of the five daily prayers",
+        "D) The legal grounds by which verse 20 later abrogated the night prayer obligation"
       ],
-      "correctAnswer": "Wrapping in the cloak of divine awe, separating his heart from worldly illusions to dwell in Allah's presence",
-      "explanation": "Imam Ali states in Nahj al-Balagha: 'The Messenger of Allah wrapped himself in the cloak of divine awe, separating his heart from the illusions of this life to dwell in the presence of his Lord.' This verse thus becomes a universal call to spiritually 'wrap' oneself in devotion, shielding the heart from heedlessness."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran calls verse 8 the secret of prophetic power, writing that the Prophet's capacity to transform the world arose from a heart so thoroughly consecrated to Allah that divine light moved through him into the community. Qutb argues that any movement for truth must be grounded in individuals whose hearts are genuinely devoted to Allah, not merely to ideology or a political cause."
     },
     {
       "id": "73_7",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key difference in how Sunni and Shia scholars interpret the 'wrapping' in verse 1?",
-      "options": [
-        "Sunni scholars reject the verse entirely while Shia scholars accept it",
-        "Sunni exegetes prioritize the literal-historical context, while Shia commentators often extend interpretation to metaphysical dimensions",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars focus only on physical clothing while Sunni scholars emphasize spiritual aspects"
-      ],
-      "correctAnswer": "Sunni exegetes prioritize the literal-historical context, while Shia commentators often extend interpretation to metaphysical dimensions",
-      "explanation": "Sunni exegetes like Ibn Kathir and Qurtubi prioritize the verse's literal-historical context, linking it to the early Meccan period when the Prophet faced persecution. Shia commentators, while acknowledging this historicity, often extend the interpretation to metaphysical dimensions, with scholars like Tabrisi highlighting the cloak as a metaphor for spiritual purity and readiness to bear divine knowledge, resonating with Shia emphasis on the Prophet's wilayah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "True or false: when verse 11 instructs the Prophet to leave the wealthy deniers to Allah, the intended lesson for believers is that they should actively seek to hasten punishment upon those who mock the faith.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse reassures believers that Allah Himself will deal with the deniers in His own time, freeing believers from that burden entirely. As Ibn Uthaymeen taught, this verse calls Muslims to focus on their own spiritual duties rather than becoming preoccupied with the punishment of others, cultivating inner tranquility through complete reliance on Allah's perfect justice."
     },
     {
       "id": "73_8",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 5,
-      "question": "Both Sunni and Shia scholars agree that the 'heavy word' in verse 5 refers primarily to the Quran's profound spiritual weight and the Prophet's responsibility to convey its message.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Both traditions broadly agree the 'heavy word' refers primarily to the Quran's profound spiritual weight and the Prophet's responsibility. Al-Tabari (Sunni) and Al-Tabrisi (Shia) both emphasize the verse's link to the Quran's transformative power. However, key differences emerge in theological emphasis: Sunni commentators focus on the Quran's legislative gravity, while Shia scholars often extend this to include the comprehensive spiritual and ontological burden of prophethood and Imamah."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "In verse 15, Allah draws a parallel between the Prophet Muhammad and which earlier prophet as a warning to those who persist in rejecting divine messengers?",
+      "options": [
+        "A) Ibrahim, who was cast into the fire by his own people",
+        "B) Nuh, who endured centuries of rejection before the flood",
+        "C) Musa, who was sent to Pharaoh as a messenger and witness",
+        "D) Isa, who was rejected by the religious establishment of his time"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Allah explicitly mentions sending a Messenger to Pharaoh as a direct parallel to sending Muhammad. Imam Tabari explains that this serves a dual purpose: confirming the legitimacy of Muhammad's mission within the established pattern of prophetic history, and warning the Meccan disbelievers by reminding them of Pharaoh's fate as the archetype of arrogant rejection."
+    },
+    {
+      "id": "73_9",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "The final verse of Surah al-Muzzammil eased the strict night prayer obligation that the community had observed for approximately one year. According to Wahbah al-Zuhayli, this easing is situated within which Islamic legal concept?",
+      "options": [
+        "A) Ijma, a scholarly consensus that tahajjud carries no spiritual merit after this verse",
+        "B) Naskh, abrogation reflecting the Quranic principle that Allah intends ease and not hardship",
+        "C) Ijtihad, individual scholarly reasoning applied independently to change an earlier ruling",
+        "D) Tawakkul, the doctrine of relying on Allah in place of performing physical acts of worship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir situates this easing within the Islamic legal framework of naskh, explaining that it reflects the Quranic principle that Allah intends ease for you and does not intend hardship. Sayyid Qutb adds that once the spirit of night devotion had been embedded through the obligatory period, the strict obligation was lifted without diminishing the spiritual merit of continuing the practice voluntarily."
     }
   ]
 }

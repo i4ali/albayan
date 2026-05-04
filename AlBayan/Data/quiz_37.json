@@ -3,268 +3,343 @@
   "questions": [
     {
       "id": "37_1",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the name 'As-Saffat' (Those Ranged in Ranks) primarily refer to in this surah?",
-      "options": [
-        "Rows of worshippers in mosques",
-        "Angels arranged in orderly ranks in the heavens",
-        "Soldiers in battle formation",
-        "Stars in the sky"
-      ],
-      "correctAnswer": "B",
-      "explanation": "As-Saffat refers to the angels who stand in orderly ranks in the heavens, worshipping Allah and carrying out His commands."
+      "question": "True or false: The opening oath of Surah As-Saffat, 'By those ranged in rows,' is understood by the majority of commentators to refer to the angels standing in orderly rows.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The foundational layer explains that 'al-saffat' refers to the angels who stand in perfect rows before Allah, mirroring the perfect order and discipline of creation as an act of worship."
     },
     {
       "id": "37_2",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 36,
-      "question": "According to the tafsir, the Meccan polytheists labeled Prophet Muhammad (PBUH) as a 'mad poet' because they genuinely believed his message was irrational.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "The polytheists' derisive labels of 'sha'ir' (poet) and 'majnun' (mad) were deliberate attempts to undermine his prophethood. They refused to engage with the Quran's rationality because accepting Islam threatened their economic interests and tribal prestige."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "Which of the following best reflects the classical Sunni scholarly consensus on the identity of 'those ranged in rows' in verse 1?",
+      "options": [
+        "A) Human beings in Friday congregational prayer",
+        "B) The angels who stand before Allah in ordered ranks in the heavens",
+        "C) The stars arranged across the night sky",
+        "D) The believers who will stand in rows on the Day of Judgment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir and Imam al-Tabari both record the view of Ibn Abbas, Masruq, and Qatadah that 'al-saffat' refers to the angels arranged in rows in the heavens, worshipping and awaiting Allah's command."
     },
     {
       "id": "37_3",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 101,
-      "question": "In verse 101, what quality is used to describe the son promised to Prophet Ibrahim (AS)?",
-      "options": [
-        "Brave (shuja)",
-        "Forbearing (haleem)",
-        "Wise (hakeem)",
-        "Strong (qawi)"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allah gave Ibrahim glad tidings of a 'ghulamin haleem' - a forbearing boy. The term 'haleem' signifies profound patience and wisdom, which Ismail later exemplified during the ultimate test of sacrifice."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 1,
+      "question": "True or false: Muhammad al-Sha'rawi drew a connection between the angels' rows in verse 1 and the rows Muslims form in congregational prayer, suggesting the salah row embodies a heavenly principle.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Sha'rawi observed that the angels' orderly rows point to a divine principle of structured worship, and that Muslims who form straight rows in salah are aligning themselves with this cosmic order established by the angels."
     },
     {
       "id": "37_4",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 47,
-      "question": "According to verse 47, what distinguishes the heavenly drink from worldly intoxicants?",
+      "verseNumber": 4,
+      "question": "What is the central conclusion that the three opening oaths of Surah As-Saffat build toward in verse 4?",
       "options": [
-        "It has a different color",
-        "It is served in golden cups",
-        "It causes no harmful aftereffects or intoxication",
-        "It is only available to prophets"
+        "A) That the angels are more numerous than all of creation",
+        "B) That the Prophet Muhammad was the final messenger",
+        "C) That your God is indeed One",
+        "D) That the Day of Judgment is near"
       ],
       "correctAnswer": "C",
-      "explanation": "The verse describes the heavenly drink as free from 'ghawl' (harmful aftereffects) and incapable of causing intoxication, contrasting it with worldly alcohol that causes physical harm and moral corruption."
+      "explanation": "The three oaths — by those in rows, those who drive away, and those who recite — all culminate in verse 4's declaration: 'Indeed, your God is One.' The oaths invoke the perfect order of the cosmos as testimony to divine unity."
     },
     {
       "id": "37_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 36,
-      "question": "According to Allama Tabatabai in Al-Mizan, what deeper spiritual ailment does the polytheists' rejection of Prophet Muhammad reveal?",
+      "verseNumber": 6,
+      "question": "According to Qatadah and other classical commentators, how many distinct purposes did Allah assign to the stars mentioned in verse 6?",
       "options": [
-        "Simple ignorance",
-        "Fear of persecution",
-        "Prioritization of ancestral tradition (taqlid) over rational submission to tawhid",
-        "Lack of access to the Prophet's teachings"
+        "A) Two: beauty and navigation",
+        "B) Three: adornment of the sky, missiles against devils, and signs for travelers",
+        "C) Four: adornment, navigation, time-keeping, and protection",
+        "D) One: solely to guard the lowest heaven from the jinn"
       ],
-      "correctAnswer": "C",
-      "explanation": "Tabatabai argues that their rhetorical question exposes a deeper spiritual ailment: the prioritization of ancestral tradition (taqlid) over rational submission to God's oneness (tawhid)."
+      "correctAnswer": "B",
+      "explanation": "Qatadah, as cited by Ibn Kathir, identified three functions for the stars: they adorn the lower heaven, serve as projectiles hurled at eavesdropping devils, and provide guidance for travelers navigating land and sea."
     },
     {
       "id": "37_6",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 101,
-      "question": "According to Shia exegetes, Ismail's designation as 'haleem' (forbearing) merely refers to his calm temperament.",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "True or false: Verse 7 of Surah As-Saffat states that the heavens are guarded against every rebellious devil who attempts to eavesdrop on the higher assembly.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Tabrisi highlights that Ismail's designation as 'haleem' transcends mere patience; it signifies profound spiritual maturity and readiness to endure existential tests, foreshadowing his consent to being sacrificed."
+      "correctAnswer": "true",
+      "explanation": "Verse 7 explicitly states that Allah has protected the lowest heaven 'against every rebellious devil.' Stars are described as projectiles that repel devils who attempt to steal knowledge from the higher angelic assembly."
     },
     {
       "id": "37_7",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 102,
-      "question": "According to classical Shia tafsir, what type of dream did Prophet Ibrahim receive commanding him to sacrifice his son?",
+      "verseNumber": 8,
+      "question": "What is the 'Mala al-Ala' referred to in verse 8, according to classical Sunni commentators?",
       "options": [
-        "An ordinary dream",
-        "A nightmare to be ignored",
-        "Divine communication (wahy) that prophets must act upon",
-        "A symbolic vision requiring interpretation"
+        "A) The gathering of prophets in Paradise",
+        "B) The highest angelic assembly that receives divine decrees",
+        "C) The congregation of believers on the Day of Judgment",
+        "D) The council of righteous jinn who worship Allah"
       ],
-      "correctAnswer": "C",
-      "explanation": "Shia exegetes emphasize that Ibrahim's vision was not an ordinary dream but a form of divine communication (wahy), as prophets' dreams are inseparable from revelation and require obedience."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari and Ibn Kathir explain that 'al-Mala al-Ala' is the supreme assembly of angels in the highest heaven where divine decrees are communicated. Devils attempt to steal these decrees by eavesdropping but are repelled by fiery projectiles."
     },
     {
       "id": "37_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 111,
-      "question": "In classical Shia exegesis, what rank does the phrase 'Our believing servants' denote beyond mere acknowledgment of monotheism?",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "Sayyid Qutb's commentary on the guarded heavens in verses 6-7 emphasizes which broader theme?",
       "options": [
-        "A rank of basic faith",
-        "A rank of wilayah (divine guardianship) through unwavering submission",
-        "A rank of ordinary worship",
-        "A rank of scholarly knowledge"
+        "A) The superiority of angelic worship over human worship",
+        "B) That divine order protects both the cosmic realm and the believing soul from corruption",
+        "C) That stars were created solely as missiles against devils with no other purpose",
+        "D) That eavesdropping on divine secrets is impossible even for prophets"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Tabatabai and Tabrisi emphasize that 'Our believing servants' transcends mere acknowledgment of monotheism, instead denoting a rank of wilayah (divine guardianship) attained through unwavering submission to God."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran draws a parallel between the heavens being guarded against satanic intrusion and the believer's heart being protected by taqwa — divine order operates at both the cosmic and personal levels."
     },
     {
       "id": "37_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 36,
-      "question": "Contemporary scholars connect the verse about polytheists calling the Prophet a 'mad poet' to modern phenomena like climate denialism and Islamophobia.",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "True or false: When the Prophet was amazed at the disbelievers' response in verse 12, the disbelievers responded with sincere reflection.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Dr. Liyakat Takim notes how the verse underscores epistemic arrogance that resonates with modern challenges like climate denialism, where vested interests dismiss scientific consensus. Contemporary scholars also link it to how truth-tellers are marginalized through ad hominem attacks."
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 12 clarifies that the Prophet was amazed at their rejection, while the disbelievers responded with mockery and ridicule rather than reflection. They laughed and scoffed at the message instead of pondering it."
     },
     {
       "id": "37_10",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 46,
-      "question": "According to contemporary Shia scholarship, what does the 'white drink' of Paradise symbolize in today's context?",
+      "verseNumber": 12,
+      "question": "Ibn Uthaymeen drew a practical lesson for callers to Islam from verse 12's description of the Prophet's amazement. What was that lesson?",
       "options": [
-        "A luxury beverage for the wealthy",
-        "Sustainable fulfillment contrasted with fleeting worldly pleasures",
-        "Scientific advancement",
-        "Political power"
+        "A) A caller should become angry when his message is rejected",
+        "B) Amazement at rejection is natural; the caller should persist with certainty rather than abandon his mission",
+        "C) The Prophet was prohibited from showing emotion in public",
+        "D) Only prophets experience amazement at disbelief; ordinary callers must remain indifferent"
       ],
       "correctAnswer": "B",
-      "explanation": "Scholars like Sayyid Ahmad Al-Mousawi extend this metaphor to critique societies drowning in fleeting pleasures: addiction crises, consumerism, and commodification of happiness. The verse's 'delicious' drink becomes an allegory for sustainable fulfillment."
+      "explanation": "Ibn Uthaymeen noted that the Prophet's amazement in verse 12 validates the emotional experience of the sincere caller who faces ridicule, and teaches that such amazement — paired with firm conviction — should motivate continued effort, not despair."
     },
     {
       "id": "37_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 101,
-      "question": "In contemporary scholarship, how is Ismail's 'forbearance' (hilm) connected to modern social justice movements?",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "What does the command 'Stop them; they are to be questioned' in verse 24 refer to?",
       "options": [
-        "As passive acceptance of injustice",
-        "As proactive moral steadfastness and courageous perseverance in advocating for equity",
-        "As isolation from worldly affairs",
-        "As political neutrality"
+        "A) Angels stopping the believers to welcome them into Paradise",
+        "B) The accounting of the condemned on the Day of Judgment before they are led to Hellfire",
+        "C) Prophets questioning their communities in this world",
+        "D) Angels interrogating the disbelievers in the grave"
       ],
       "correctAnswer": "B",
-      "explanation": "Dr. Liyakat Takim links this virtue to modern struggles against systemic injustice, noting how hilm transcends passivity to embody courageous perseverance in advocating for equity, whether in resisting oppression or addressing climate crises."
+      "explanation": "In the narrative of the condemned being driven toward Hell, verse 24 marks the moment they are halted for divine questioning and accountability on the Day of Judgment, where no one can escape the reckoning."
     },
     {
       "id": "37_12",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 111,
-      "question": "According to contemporary Shia theologian Dr. Liyakat Takim, being among Allah's 'mu'mineen' today means confronting modern Pharaohs such as corruption, greed, and apathy.",
+      "layer": 2,
+      "verseNumber": 24,
+      "question": "True or false: Fakhr al-Din al-Razi held that the questioning in verse 24 serves as Allah gathering new information about the deeds of the condemned.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Dr. Liyakat Takim observes: 'To be among Allah's mu'mineen today is to confront modern Pharaohs - corruption, greed, and apathy - with the same resolve Ibrahim showed against Nimrod.'"
+      "correctAnswer": "false",
+      "explanation": "Al-Razi explicitly rejected the idea that Allah questions people to learn new facts, since Allah is all-knowing. Rather, the questioning establishes proof, manifests divine justice, and removes any excuse before punishment is enacted."
     },
     {
       "id": "37_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 46,
-      "question": "According to Imam Jafar al-Sadiq (AS), what does the 'white drink' of Paradise symbolize?",
+      "layer": 1,
+      "verseNumber": 40,
+      "question": "What is the meaning of 'mukhlaseen' in verse 40, describing those exempt from Satan's power?",
       "options": [
-        "Worldly pleasures",
-        "The pure light of Imamah and love of Ali and his purified progeny",
-        "Material wealth in the afterlife",
-        "Water from earthly rivers"
+        "A) The believers who perform the most voluntary prayers",
+        "B) The chosen and purified servants of Allah whom Satan cannot overcome",
+        "C) Prophets exclusively, with no application to ordinary believers",
+        "D) Wealthy believers who spend generously in charity"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) taught that the 'white drink' symbolizes the pure light of Imamah, stating: 'Its root is the love of Ali (AS) and his purified progeny, for they are the spring of this light.'"
+      "explanation": "The foundational layer explains that 'mukhlaseen' are those whom Allah has chosen and purified for His service. Satan himself acknowledged in the Quran that he has no authority over Allah's sincere, devoted servants."
     },
     {
       "id": "37_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 101,
-      "question": "According to Imam Sadiq (AS), every instance of 'good tidings' in the Quran points to the continuity of Wilayah (divine guardianship).",
+      "layer": 2,
+      "verseNumber": 40,
+      "question": "True or false: Imam al-Tabari recorded that Satan's own admission in Surah al-Hijr (15:40) — that he cannot overcome the mukhlaseen — is referenced by classical commentators when explaining verse 40 of Surah As-Saffat.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Sadiq (AS) teaches that every instance of 'good tidings' in the Quran points to the continuity of Wilayah (divine guardianship), with Ismail's progeny culminating in the Seal of the Prophets and his purified Ahlul Bayt."
+      "explanation": "Al-Tabari in his Jami al-Bayan connects verse 40 of As-Saffat with Iblis's boast in Surah al-Hijr, where Satan explicitly exempts the mukhlaseen from his influence, confirming that sincerity toward Allah is the shield against satanic deception."
     },
     {
       "id": "37_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 111,
-      "question": "According to Imam Sadiq (AS) in Tafsir al-Qummi, what are the three components of true belief (iman)?",
+      "layer": 3,
+      "verseNumber": 40,
+      "question": "Sayyid Qutb placed the mukhlaseen of verse 40 in contrast to which group described earlier in Surah As-Saffat?",
       "options": [
-        "Prayer, fasting, and charity",
-        "Recognition with the heart, affirmation with the tongue, and action with the limbs",
-        "Knowledge, wisdom, and power",
-        "Faith, hope, and love"
+        "A) The angels who stand in perfect rows",
+        "B) The arrogant mockers who laughed at the Prophet and will face humiliating punishment",
+        "C) The believing jinn who accepted the Quran",
+        "D) The companions of the right hand receiving their record"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Sadiq (AS) explains in Tafsir al-Qummi that true belief (iman) is 'recognition with the heart, affirmation with the tongue, and action with the limbs.'"
+      "explanation": "Sayyid Qutb highlighted the stark contrast in As-Saffat between those who mocked the truth — facing painful punishment — and the mukhlaseen who are shielded by their sincerity and will receive a known, honored provision."
     },
     {
       "id": "37_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 102,
-      "question": "According to Lady Fatimah (AS), what is the world described as?",
+      "layer": 1,
+      "verseNumber": 82,
+      "question": "How does Surah As-Saffat conclude the story of Nuh in verse 82?",
       "options": [
-        "A permanent home for believers",
-        "A trial for the soul",
-        "A place of pure enjoyment",
-        "The final destination"
+        "A) By describing Nuh's ark landing safely on Mount Judi",
+        "B) By stating that Allah drowned all who rejected Nuh",
+        "C) By announcing that Nuh's descendants would carry his message forward",
+        "D) By noting that only Nuh's immediate family believed him"
       ],
       "correctAnswer": "B",
-      "explanation": "Lady Fatimah (AS) taught: 'The world is a trial for the soul; whoever clings to its false gods abandons the rope of Allah.'"
+      "explanation": "Verse 82 concludes the Nuh narrative with the declaration: 'Then We drowned the others.' This closing statement confirms divine justice — those who rejected the messenger were destroyed while Nuh and the believers were saved."
     },
     {
       "id": "37_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 101,
-      "question": "What is a key difference between Shia and Sunni identification of the 'forbearing boy' (ghulam haleem) in verse 101?",
+      "layer": 2,
+      "verseNumber": 83,
+      "question": "What did Mujahid understand by the phrase 'min shi'atihi' — 'of his party' — in verse 83, which describes Ibrahim as being of Nuh's party?",
       "options": [
-        "Shia scholars identify him as Ismail, while Sunni scholars predominantly identify him as Ishaq",
-        "Both traditions agree it was Isaac",
-        "Both traditions agree it was Ismail",
-        "Sunni scholars identify him as Ismail, while Shia identify him as Ishaq"
+        "A) That Ibrahim was a biological descendant of Nuh",
+        "B) That Ibrahim followed Nuh's path of tawhid, sincerity, and rejection of idol-worship",
+        "C) That Ibrahim and Nuh lived in the same era and met in person",
+        "D) That Ibrahim inherited the prophethood directly from Nuh"
       ],
-      "correctAnswer": "A",
-      "explanation": "Shia scholars lean toward Ismail due to his distinct role in the sacrifice narrative and the Abrahamic covenant, while Sunni exegetes predominantly identify the child as Ishaq, aligning with Quranic references to his birth announcement in Surah Hud."
+      "correctAnswer": "B",
+      "explanation": "Mujahid, as cited by Ibn Kathir, interpreted 'min shi'atihi' to mean that Ibrahim followed the same path as Nuh in his pure monotheism and his struggle against shirk, not that he was literally from Nuh's tribe or generation."
     },
     {
       "id": "37_18",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 111,
-      "question": "Both Shia and Sunni traditions agree that Prophet Ibrahim's legacy as a paragon of God-consciousness remains central to Islamic spirituality.",
+      "layer": 2,
+      "verseNumber": 84,
+      "question": "True or false: Hasan al-Basri defined 'qalb salim' in verse 84 as a heart that is free from shirk.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions agree on the verse's core message: Ibrahim's legacy as a paragon of God-consciousness remains central to Islamic spirituality, transcending sectarian boundaries."
+      "explanation": "Hasan al-Basri, as reported in classical tafsir including Ibn Kathir, defined the 'sound heart' (qalb salim) that Ibrahim brought to his Lord as a heart free from shirk. Other scholars broadened this to include freedom from hypocrisy and attachment to falsehood."
     },
     {
       "id": "37_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 36,
-      "question": "How do Shia scholars differ from Sunni scholars in interpreting the verse about polytheists rejecting the Prophet?",
+      "layer": 1,
+      "verseNumber": 84,
+      "question": "When Ibrahim came to his Lord with a 'qalb salim' in verse 84, what does this term signify in the foundational tafsir?",
       "options": [
-        "Shia scholars focus only on historical context",
-        "Sunni scholars link it to Imamah",
-        "Shia scholars link it to later rejections of Imam Ali's authority as a pattern of resisting truth",
-        "There is no difference in interpretation"
+        "A) A physically healthy heart, a sign of good character",
+        "B) A heart devoted solely to the love of family",
+        "C) A heart purified from shirk, hypocrisy, and attachment to falsehood",
+        "D) A heart that had memorized all the divine scriptures"
       ],
       "correctAnswer": "C",
-      "explanation": "Shia scholars like Tabatabai and Qummi highlight that the Quraysh's refusal to abandon idols parallels later rejections of Imam Ali's authority, illustrating a persistent human tendency to resist truth when it challenges entrenched power structures."
+      "explanation": "The foundational layer explains 'qalb salim' as a sound and pure heart — free from shirk, hypocrisy, and falsehood. This is the highest spiritual state, representing complete sincerity and submission to Allah alone."
     },
     {
       "id": "37_20",
-      "type": "trueFalse",
-      "layer": 5,
+      "type": "multipleChoice",
+      "layer": 2,
       "verseNumber": 102,
-      "question": "Both Shia and Sunni traditions agree that Ibrahim's episode of sacrifice prefigures the concept of redemptive sacrifice and patient steadfastness in divine love.",
+      "question": "Why did Ibrahim consult his son before carrying out the divine command of sacrifice, according to Ibn Kathir?",
+      "options": [
+        "A) Because the divine command was conditional on the son's consent",
+        "B) Out of noble character and fatherly love, not because consent was legally required",
+        "C) Because Ibrahim was uncertain whether the vision was truly from Allah",
+        "D) Because his son was old enough to hold religious authority in the community"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that Ibrahim's consultation demonstrated his noble character and compassionate fatherhood. The divine command was binding regardless, but Ibrahim chose to prepare his son spiritually rather than simply act without informing him."
+    },
+    {
+      "id": "37_21",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 102,
+      "question": "What leadership principle did Muhammad al-Sha'rawi derive from Ibrahim's consultation with his son in verse 102?",
+      "options": [
+        "A) Leaders must always seek majority approval before any decision",
+        "B) A true leader prepares his successor spiritually by involving him in difficult truths",
+        "C) Fathers are obligated to seek permission before decisions that affect their children",
+        "D) Divine commands lose their authority if the recipient raises objections"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Sha'rawi drew a leadership lesson from Ibrahim's dialogue: the great leader does not shield those under him from trials but involves them, building their faith. Ibrahim simultaneously obeyed Allah and prepared his son to be a man of unwavering conviction."
+    },
+    {
+      "id": "37_22",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 103,
+      "question": "True or false: Sayyid Qutb described 'aslama' — 'both submitted' in verse 103 — as the defining characteristic of the Muslim soul, the moment when the human will aligns completely with divine will.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions uphold the core ethical and spiritual lessons of submission to divine will. The Shia tradition particularly connects this to Imam Hussain's sacrifice at Karbala as the pinnacle of patient steadfastness (sabr) in divine love."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran elevated the word 'aslama' in verse 103 to a defining spiritual concept: the complete surrender of father and son to Allah's will is the very essence of Islam, a model for every believer's relationship with their Lord."
+    },
+    {
+      "id": "37_23",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 112,
+      "question": "What glad tidings did Allah give Ibrahim's family following the great sacrifice, as mentioned in verse 112?",
+      "options": [
+        "A) That Ibrahim would be given dominion over all the surrounding lands",
+        "B) That Ibrahim would never again be tested with a difficult command",
+        "C) That Ishaq would be born and would be a prophet among the righteous",
+        "D) That Ismail would build the Kaaba and become imam of all humanity"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 112 records the divine glad tidings that followed the sacrifice: the announcement of Ishaq as a coming prophet from among the righteous. This represents Allah's generous reward for Ibrahim's patient obedience."
+    },
+    {
+      "id": "37_24",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 110,
+      "question": "True or false: Wahbah al-Zuhayli extended the principle of rewarding the muhsineen — stated in verse 110 — beyond Ibrahim and Ismail, arguing it applies universally to all believers who combine faith with righteous action.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir explained that the reward given to Ibrahim and Ismail as muhsineen reflects a universal divine principle: Allah rewards those who unite sincere belief with excellent conduct, making verse 110 a source of hope for all striving believers."
+    },
+    {
+      "id": "37_25",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 136,
+      "question": "True or false: Sayyid Qutb used the destruction of Lut's people in verses 134-136 to illustrate that the 'sunan Allah' — Allah's unchanging patterns — apply equally to all nations throughout history.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb emphasized that Allah's pattern of saving the believers and destroying the corrupt transgressors is a divine law that does not change for any people, serving as a warning for contemporary societies as much as ancient ones."
+    },
+    {
+      "id": "37_26",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 139,
+      "question": "What does verse 139 of Surah As-Saffat affirm about Yunus before recounting his trial with the whale?",
+      "options": [
+        "A) That Yunus was the last of the messengers before Muhammad",
+        "B) That Yunus was indeed among the messengers sent by Allah",
+        "C) That Yunus's people were the most righteous of all ancient nations",
+        "D) That Yunus voluntarily chose to enter the whale as an act of worship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 139 opens the Yunus narrative by affirming his prophetic status: 'And indeed, Yunus was among the messengers.' This establishes the divine authority behind his mission before the surah recounts his trial and ultimate relief."
     }
   ]
 }

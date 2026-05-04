@@ -6,65 +6,70 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the Foundation Layer, what are the two primary interpretations of 'al-Kawthar' in Shia tafsir?",
-      "options": [
-        "A physical well and a monetary gift",
-        "A celestial river in Paradise and a metaphor for the Prophet's divinely appointed lineage through Fatimah and the Twelve Imams",
-        "A temporary blessing and a worldly status",
-        "A mountain and a desert oasis"
-      ],
-      "correctAnswer": "A celestial river in Paradise and a metaphor for the Prophet's divinely appointed lineage through Fatimah and the Twelve Imams",
-      "explanation": "The Foundation Layer explains that Shia tafsir, drawing from the teachings of the Ahlul Bayt, interprets al-Kawthar as both a celestial river in Paradise and a metaphor for the Prophet's divinely appointed lineage through his daughter Fatimah and the Twelve Imams. This connects to the hadith where the Prophet declares, 'Al-Kawthar is a river in Paradise… and I have left among you the AlBayan: the Quran and my Ahlul Bayt.'"
+      "question": "What does the Arabic word 'al-Kawthar' literally mean, derived from the root 'k-th-r'?",
+      "options": ["Eternal nearness to Allah", "Abundance, increase, and overwhelming goodness", "A sealed promise of Paradise", "The banner of praise on the Day of Judgment"],
+      "correctAnswer": "B",
+      "explanation": "The Foundation layer explains that 'kawthar' is derived from the Arabic root 'k-th-r,' meaning abundance, increase, and overwhelming goodness. It encompasses both the river of Kawthar in Paradise and the broader spiritual abundance granted to the Prophet."
     },
     {
       "id": "108_2",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabrisi in Majma al-Bayan, Sunni commentators often limit al-Kawthar to a celestial river in Paradise, while Shia tradition emphasizes broader implications including the prophetic lineage through Fatimah and the Ahl al-Bayt.",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: According to the tafsir, the Qurayshi taunt that the Prophet was 'abtar' arose after the death of his son Qasim, with Al-As ibn Wa'il identified as the one who hurled the insult.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Tabrisi notes that while Sunni commentators often limit al-Kawthar to a celestial river in Paradise, Shia tradition emphasizes its broader implications. He cites narrations from Imam Jafar al-Sadiq identifying al-Kawthar as the prophetic lineage perpetuated through Fatimah and the Ahl al-Bayt, symbolizing the uninterrupted legacy of divine guidance through the Imams."
+      "explanation": "The Foundation layer explains that when the Prophet's young son Qasim passed away, the Quraysh leaders, particularly Al-As ibn Wa'il, taunted the Prophet by calling him 'abtar,' meaning one cut off from legacy. Surah al-Kawthar was revealed in response."
     },
     {
       "id": "108_3",
       "type": "multipleChoice",
-      "layer": 3,
+      "layer": 1,
       "verseNumber": 2,
-      "question": "According to contemporary Shia scholars like Dr. Liyakat Takim, how is the concept of 'nahr' (sacrifice) in verse 2 expanded beyond traditional ritual?",
-      "options": [
-        "It is limited to animal sacrifice during Eid only",
-        "It encompasses ethical and existential dimensions of personal sacrifice",
-        "It refers only to financial donations",
-        "It has no relevance to modern believers"
-      ],
-      "correctAnswer": "It encompasses ethical and existential dimensions of personal sacrifice",
-      "explanation": "Contemporary Shia scholars like Dr. Liyakat Takim note that while classical interpretations focus on ritual prayer and the symbolic sacrifice of Eid al-Adha, modern readings expand 'nahr' (sacrifice) to encompass ethical and existential dimensions, transforming ritual acts into broader spiritual commitment."
+      "question": "What role does the letter 'fa' (so/therefore) play at the beginning of 'fa-salli li-rabbika wa-anhar'?",
+      "options": ["It marks a new, unrelated topic", "It establishes a cause-and-effect link: because of the abundance given, respond with worship", "It signals an oath being sworn", "It introduces a question to the Prophet"],
+      "correctAnswer": "B",
+      "explanation": "The Foundation layer notes that the 'fa' is a consequential connector meaning 'therefore' or 'so,' establishing a cause-and-effect relationship: because the Prophet has received this overwhelming abundance, he should respond with complete devotion through prayer and sacrifice."
     },
     {
       "id": "108_4",
-      "type": "multipleChoice",
-      "layer": 4,
+      "type": "trueFalse",
+      "layer": 2,
       "verseNumber": 1,
-      "question": "According to Imam Ali al-Ridha as recorded in Tafsir al-Qummi, what does 'al-Kawthar' represent?",
-      "options": [
-        "Only a physical river with no spiritual significance",
-        "The great abundance Allah granted His Prophet: the Imams from his offspring, who are his enduring progeny and carriers of his knowledge",
-        "Temporary worldly wealth",
-        "A historical event with no ongoing relevance"
-      ],
-      "correctAnswer": "The great abundance Allah granted His Prophet: the Imams from his offspring, who are his enduring progeny and carriers of his knowledge",
-      "explanation": "Imam Ali al-Ridha states: 'Al-Kawthar is the great abundance Allah granted His Prophet: the Imams from his offspring, for they are his enduring progeny and the carriers of his knowledge' (Tafsir al-Qummi). This verse unveils the inseparable link between the Prophet's spiritual station and the Wilayah of the Ahlul Bayt."
+      "question": "True or false: Imam Muslim records a narration from Anas ibn Malik in which the Prophet himself described al-Kawthar as a river Allah promised him, with a cistern his community will come to on the Day of Resurrection.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari in Jami al-Bayan cites the authoritative narration transmitted by Anas ibn Malik in the Sahih of Muslim, in which the Prophet described al-Kawthar as a river Allah promised him with abundant good, and as a cistern his community will come to on the Day of Resurrection."
     },
     {
       "id": "108_5",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "According to Imam Tabari and the majority of the Companions including Ibn Abbas and Mujahid, what does the command 'wa-anhar' primarily refer to?",
+      "options": ["Placing the hands on the chest during prayer", "Performing the night vigil prayer", "The slaughtering of sacrificial animals, especially during Eid al-Adha", "Reciting Allah's name aloud in worship"],
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari records that the majority of the Companions and successors, including Ibn Abbas, Mujahid, Ata ibn Abi Rabah, and Qatadah, understood 'anhar' to mean the slaughtering of sacrificial animals (nahr al-budn), especially during the days of Eid al-Adha. Ibn Kathir confirms this view decisively, contrasting it with the Makkan polytheists who offered such acts to their idols."
+    },
+    {
+      "id": "108_6",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "How does Sayyid Qutb in Fi Zilal al-Quran characterize the response Allah commanded the Prophet to give to mockery and grief in this surah?",
+      "options": ["A call for armed resistance against the mockers", "A public defense through eloquent argument", "Turning entirely toward Allah through prayer and sacrifice rather than counter-hostility", "Withdrawing from preaching until the persecution ended"],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb argues that Allah instructed the Prophet not to retaliate or defend himself through argument, but to pray and sacrifice, turning entirely toward Allah. Qutb sees this as the highest form of strength: responding to human hostility with increased devotion to Allah rather than counter-hostility."
+    },
+    {
+      "id": "108_7",
       "type": "trueFalse",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 3,
-      "question": "Both Sunni (Tabari) and Shia (Tabrisi) commentators agree that verse 3 responds to those who mocked Prophet Muhammad after the death of his sons, using the term 'abtar' (cut off) to assert divine assurance of his eternal legacy.",
+      "question": "True or false: Wahbah al-Zuhayli notes that the verse 'inna shani'aka huwa al-abtar' uses the emphatic 'inna' combined with the pronoun 'huwa' to make it specifically and exclusively the enemy of the Prophet who is the one cut off.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Classical commentators from both traditions universally agree that the verse responds to those who mocked Prophet Muhammad after the death of his sons, using the term 'abtar' (cut off) to assert divine assurance of his eternal legacy. Both Tabari (Sunni) and Tabrisi (Shia) cite pre-Islamic Arabian cultural anxieties about male lineage as the historical context."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir reflects on the rhetorical mastery of the closing verse, noting that the combination of 'inna' (indeed/verily) with 'huwa' (he himself) produces maximum emphasis: it is specifically, emphatically, and exclusively the enemy of the Prophet who is cut off, removing any ambiguity."
     }
   ]
 }

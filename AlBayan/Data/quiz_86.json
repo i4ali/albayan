@@ -6,110 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah At-Taariq's opening verse, what does the term 'al-taariq' (the night comer) literally mean?",
+      "question": "What does the Arabic word 'tariq' literally mean, and how did the Makkan audience understand an oath sworn by it?",
       "options": [
-        "The one that sleeps",
-        "The one that knocks or strikes",
-        "The one that hides",
-        "The one that travels"
+        "A. A thunderbolt; they understood it as a warning of immediate punishment",
+        "B. A traveler arriving after dark who knocks on a door; they recognized it as the most serious kind of oath",
+        "C. A shooting star used to ward off evil spirits; they saw it purely as a protective sign",
+        "D. The morning star; they understood it as a promise of a new beginning"
       ],
-      "correctAnswer": "The one that knocks or strikes",
-      "explanation": "The term 'taariq' derives from the root 'ṭarq', meaning 'to strike' or 'knock,' symbolizing sudden, penetrating force. It refers literally to stars that pierce the darkness, as well as deeper spiritual truths."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'tariq' comes from a root meaning to knock or strike and classically referred to a traveler who arrives after dark. The Makkan audience recognized that swearing by something majestic and beyond human control signaled the most serious of statements, commanding their full attention before the surah's momentous disclosure."
     },
     {
       "id": "86_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 3,
-      "question": "According to classical Shia tafsir, the 'piercing star' (an-najmu ath-thaqib) in verse 3 refers exclusively to physical celestial bodies with no symbolic meaning.",
+      "verseNumber": 4,
+      "question": "True or false: verse 4 of Surah At-Tariq teaches that only believers have a guardian over them, while disbelievers are left without divine oversight.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. While the term 'najm' refers literally to stars whose intense light 'pierces' the darkness of night, Shia tradition extends this symbolism to the Ahlul Bayt, whose knowledge and moral clarity 'pierce' ignorance and misguidance, with their spiritual light guiding humanity like stars guiding travelers."
+      "explanation": "The layer 1 tafsir emphasizes the categorical Arabic construction 'in kullu nafsin' — 'there is not a single soul' — as affirming universality without any exception. Every human being, regardless of belief or status, has an appointed guardian (hafidh) over them who both protects and records."
     },
     {
       "id": "86_3",
       "type": "multipleChoice",
-      "layer": 2,
+      "layer": 1,
       "verseNumber": 5,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the verse 'So let man observe from what he was created' (86:5) primarily invoke?",
+      "question": "The command 'So let man observe from what he was created' (verse 5) addresses human arrogance by directing attention toward what?",
       "options": [
-        "Only biological curiosity about human origins",
-        "A dialectic between physical baseness and spiritual potential",
-        "A medical study of embryology",
-        "Agricultural practices"
+        "A. The vastness of the universe and humanity's smallness within it",
+        "B. The humble, uncontrolled origins of every human life as a logical refutation of denying resurrection",
+        "C. The social inequalities produced by tribal pride in Makkan society",
+        "D. The miracles performed by previous prophets as evidence for divine power"
       ],
-      "correctAnswer": "A dialectic between physical baseness and spiritual potential",
-      "explanation": "Allama Tabatabai emphasizes this dialectic between physical baseness and spiritual potential: the act of observing one's creation becomes a gateway to understanding divine wisdom (ḥikma) and the necessity of submission to the Creator. This reflection is not mere biological curiosity but a theological imperative."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 commentary explains that 'fal-yandur' is an imperative directing humanity to reflect on their own origins. As the tafsir states, no person chose to exist or designed their own creation — they arrived entirely dependent on divine will — making any pride before the Creator logically untenable and denial of resurrection irrational."
     },
     {
       "id": "86_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 8,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what does the verse 'Indeed, Allah, to return him [to life], is Able' (86:8) specifically affirm?",
-      "options": [
-        "Allah's power to create new species",
-        "Allah's power to resurrect the human being after death, reconstituting both body and soul",
-        "Allah's power over weather patterns",
-        "Allah's power to grant wealth"
-      ],
-      "correctAnswer": "Allah's power to resurrect the human being after death, reconstituting both body and soul",
-      "explanation": "Shaykh Tabrisi emphasizes that the term 'raji'hi' (his return) refers explicitly to Allah's power to resurrect the human being after death, reconstituting both body and soul. This verse responds to skeptics who question the plausibility of bodily resurrection."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "True or false: the phrase 'qawl fasl' in verse 13 describes the Quran as a decisive, separating word that distinguishes truth from falsehood, directly rebutting the Makkan accusation that it was poetry or sorcery.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 1 tafsir of verse 13 explains that 'qawl fasl' combines 'qawl' (speech) with 'fasl' (decisive separation, clear judgment). Ibn Abbas interpreted 'fasl' as meaning 'true and real,' and Qatadah as 'a just and decisive ruling.' The verse categorically rejects the Makkan characterization of the Prophet's recitation as entertainment or trickery."
     },
     {
       "id": "86_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 10,
-      "question": "How does contemporary Shia scholar Ayatollah Nasir Makarem Shirazi interpret the 'powerlessness' described in verse 10?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "Which Companions proposed specific identifications for 'al-najm al-thaqib,' and what was Imam al-Tabari's preferred interpretive position?",
       "options": [
-        "As merely physical weakness",
-        "As a critique of humanity's illusion of self-sufficiency in an age of technological triumphalism",
-        "As a medical condition",
-        "As political oppression only"
+        "A. Ibn Umar and Ali identified it as the moon; Tabari accepted only this view",
+        "B. Ibn Abbas and Mujahid proposed identifications such as the Pleiades or Saturn; Tabari leaned toward the general reading that all stars qualify as 'thaqib'",
+        "C. Qatadah and al-Hasan al-Basri identified it exclusively as a comet; Tabari fully agreed",
+        "D. Abu Hurairah identified it as Jupiter; Tabari endorsed this as the sole sound opinion"
       ],
-      "correctAnswer": "As a critique of humanity's illusion of self-sufficiency in an age of technological triumphalism",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes that the 'powerlessness' described here transcends physical weakness—it critiques humanity's illusion of self-sufficiency in an age dominated by technological triumphalism and hyper-individualism, urging instead a return to spiritual accountability."
+      "correctAnswer": "B",
+      "explanation": "The layer 2 commentary records that Ibn Abbas and Mujahid proposed specific identifications including Thurayya (the Pleiades) or Saturn (Zuhal). Imam al-Tabari, after surveying these opinions, leaned toward the general interpretation — that every star is a 'thaqib' piercing the darkness — since the theological symbolic meaning matters more than identifying one specific celestial object."
     },
     {
       "id": "86_6",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 13,
-      "question": "According to contemporary scholars, the Qur'an as a 'decisive statement' (qawlun fasl) in verse 13 represents rigid inflexibility rather than clarity.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Scholars like Ayatollah Nasir Makarem Shirazi emphasize that this 'decisiveness' is not rigidity but clarity, offering a framework to navigate ethical ambiguities in fields like bioethics, AI governance, and climate justice. The decisive nature of the Qur'an counters postmodern fragmentation by affirming objective moral truths."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "What was the majority view among early Companion commentators regarding the terms 'sulb' and 'tara'ib' in verse 7, as recorded by al-Tabari and supported by Ibn Kathir?",
+      "options": [
+        "A. Both terms refer exclusively to female anatomy",
+        "B. 'Sulb' refers to the man's lumbar spine region and 'tara'ib' to the woman's chest area, together describing the combined origins of new human life from both parents",
+        "C. Both terms are purely metaphorical with no anatomical meaning",
+        "D. 'Sulb' and 'tara'ib' both refer to the male backbone alone"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 2 tafsir records that Ibn Abbas explained 'sulb' as the region of the man and 'tara'ib' as the region of the woman. Al-Shanqiti in Adwa al-Bayan reconciled the Companion opinions by arguing the verse describes the combined fluid of both parents, consistent with the hadith in Sahih Muslim where the Prophet explained that a child is formed from the fluid of both."
     },
     {
       "id": "86_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Imam Jafar al-Sadiq's teaching about verse 11, what does the 'returning sky' symbolize?",
-      "options": [
-        "Only meteorological rain cycles",
-        "The cyclical descent of divine mercy and guidance through the Wilayah of the Imams",
-        "Agricultural seasons",
-        "Cloud formations"
-      ],
-      "correctAnswer": "The cyclical descent of divine mercy and guidance through the Wilayah of the Imams",
-      "explanation": "Imam Jafar al-Sadiq explained that just as the sky returns life-giving rain to the earth, the heavens return the light of the Imams to revive barren hearts. He stated: 'The sky rains water for the earth's life, and we rain knowledge for the soul's life' (Bihar al-Anwar)."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 17,
+      "question": "True or false: the rhetorical doubling in verse 17 ('fa-mahhil... amhilhum') is identified by scholars as an intensification device meaning the Prophet is being told emphatically to hold back and allow the divine plan to unfold.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 2 tafsir of verse 17 explains that the doubling of 'fa-mahhil' and 'amhilhum' is the device known as 'al-ta'kid bil-muradif' (intensification through a synonymous term). Al-Tabari records that the Companions understood this emphatic repetition as a declaration that the disbelievers' time was already nearly finished and the verse was revealed to comfort the Prophet during the Meccan period."
     },
     {
       "id": "86_8",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 7,
-      "question": "What is the key methodological difference between Sunni and Shia interpretations of verse 7 ('from between the backbone and the ribs')?",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "Wahbah al-Zuhayli's commentary on the oath by 'the sky that returns' (verse 11) places it within which argumentative strategy?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Sunni tafsir emphasizes the literal physiological marvel, while Shia exegesis incorporates ontological insights through Ahlul Bayt's teachings",
-        "Both traditions interpret it identically",
-        "Shia scholars reject all physical meanings"
+        "A. Al-tawatur: establishing eschatological certainty through mass-transmitted hadith chains",
+        "B. Istidlal bil-makhlugat: arguing from the observable precision of the rain cycle to the Creator's power, using it as proof that the promised resurrection is equally certain",
+        "C. Al-ijaz al-adabi: demonstrating the Quran's literary inimitability through the beauty of nature imagery alone",
+        "D. Al-naskh: showing that earlier revelations about patience are abrogated by this surah's cosmic oaths"
       ],
-      "correctAnswer": "Sunni tafsir emphasizes the literal physiological marvel, while Shia exegesis incorporates ontological insights through Ahlul Bayt's teachings",
-      "explanation": "While both traditions acknowledge the physical dimension, Sunni authorities like Qurtubi and Razi emphasize the verse's literal physiological marvel as proof of divine creative power. Shia commentators, while acknowledging this, frequently incorporate ontological insights, reflecting the Shia emphasis on batini (esoteric) meanings through Ahlul Bayt's teachings."
+      "correctAnswer": "B",
+      "explanation": "The layer 3 tafsir records that Wahbah al-Zuhayli in al-Tafsir al-Munir highlights the verse's cosmological grandeur as proof of divine omnipotence within the strategy of istidlal bil-makhlugat — arguing from creation to Creator. The reliable return of rain demonstrates that the promised return of resurrection is equally certain, both stemming from the same divine power."
+    },
+    {
+      "id": "86_9",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 14,
+      "question": "What does Ibn Uthaymeen say verse 14 ('it is not jest') obligates the believer to do in practical terms?",
+      "options": [
+        "A. To memorize the entire Quran before engaging with any of its meanings",
+        "B. To adopt a posture of ta'dhim (reverence) and ihtiraam (respect) toward the Quran in all circumstances, approaching it with seriousness rather than casualness",
+        "C. To refrain from reciting the Quran in public settings where non-Muslims are present",
+        "D. To limit Quranic study exclusively to scholars and avoid lay interpretation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 3 commentary records that Ibn Uthaymeen in his tafsir of Juz' Amma emphasizes that verse 14 obliges the believer to a posture of ta'dhim (reverence) and ihtiraam (respect) toward the Quran in all circumstances. The verse's categorical negation of 'hazl' (jest and frivolity) means that only serious, reverential engagement is appropriate for a text of such ultimate gravity."
     }
   ]
 }

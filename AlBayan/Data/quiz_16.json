@@ -3,273 +3,288 @@
   "questions": [
     {
       "id": "16_1",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the phrase 'Ata amru Allahi' (The command of Allah is coming) in verse 1 refer to?",
-      "options": [
-        "A specific historical battle",
-        "Allah's inevitable decree and the unfolding of divine justice",
-        "The creation of the universe",
-        "A command to fast during Ramadan"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The phrase refers to Allah's inevitable decree - whether the fulfillment of His promises, the establishment of divine justice, or the unfolding of the Hereafter."
+      "question": "The opening of Surah An-Nahl uses the past tense 'ata amru Allah' (the command of Allah has come) to express absolute certainty about a future event, namely the Day of Judgment.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir and Tabari both explain that the past tense here is a rhetorical device conveying that the Day of Judgment is so certain it is spoken of as already having arrived. The verse immediately warns disbelievers not to hasten it."
     },
     {
       "id": "16_2",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 18,
-      "question": "According to verse 18, human beings can fully count and enumerate all of Allah's favors.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "The verse states that if you should count the favors of Allah, you could not enumerate them - emphasizing the impossibility of fully accounting for divine blessings."
+      "verseNumber": 3,
+      "question": "When verse 3 states that Allah created the heavens and earth 'bil-haqq,' what does this phrase primarily convey about the act of creation?",
+      "options": [
+        "A. That creation took place in six literal days",
+        "B. That creation was purposeful and reflects ultimate truth, not random or in vain",
+        "C. That creation was completed before mankind was formed",
+        "D. That the heavens and earth were created as a test for angels"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi elaborates that 'bil-haqq' means creation carries inherent purpose and truth, serving as proof of a single wise Creator. Qurtubi adds that purposeful creation points directly to the oneness of Allah."
     },
     {
       "id": "16_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 68,
-      "question": "According to the tafsir, what does the term 'awha' (divine inspiration) to the bee signify?",
+      "verseNumber": 5,
+      "question": "In verse 5, Allah lists the benefits of livestock and uses the word 'dif'.' What does 'dif'' refer to in this context?",
       "options": [
-        "Prophetic revelation",
-        "A form of innate guidance implanted by the Creator",
-        "A command given through angels",
-        "A written message from Allah"
+        "A. The spiritual benefit of caring for animals",
+        "B. The warmth provided by wool and animal hides",
+        "C. The sound animals make at dawn",
+        "D. The fertility of the earth that sustains livestock"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'awha' signifies a form of innate guidance implanted by the Creator, distinct from prophetic revelation but equally profound, allowing bees to instinctively follow Allah's design."
+      "explanation": "The tafsir explains 'dif'' as warmth obtained from the wool, fur, and hides of livestock such as camels, cattle, sheep, and goats. Wahbah al-Zuhayli notes that the phrase 'He created them for you' implies not just benefit but a duty of responsible stewardship."
     },
     {
       "id": "16_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 90,
-      "question": "Which three divine commands does verse 90 establish as core Islamic values?",
-      "options": [
-        "Fasting, prayer, and pilgrimage",
-        "Justice (al-adl), excellence in conduct (al-ihsan), and supporting close relatives",
-        "Charity, patience, and gratitude",
-        "Truthfulness, humility, and forgiveness"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Verse 90 instructs believers to uphold al-adl (justice), al-ihsan (excellence in conduct), and supporting dhi al-qurba (close relatives) as a comprehensive moral compass."
+      "verseNumber": 6,
+      "question": "Verse 6 of Surah An-Nahl explicitly mentions the aesthetic beauty of livestock, describing the pleasure humans take in seeing them at evening and morning.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 6 states there is beauty (jamal) in the livestock when they return in the evening and go out to pasture in the morning. Muhammad al-Sha'rawi taught that appreciating this divinely granted beauty is itself an act of gratitude that leads a reflective heart toward worship."
     },
     {
       "id": "16_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, the admonition 'do not hasten it' in verse 1 relates to which Shia theological concept?",
+      "layer": 1,
+      "verseNumber": 66,
+      "question": "The milk verse (16:66) opens with the word 'ibra,' meaning a lesson or sign. What specific miracle does this word introduce?",
       "options": [
-        "The obligation of daily prayers",
-        "Human impatience toward divine timing, particularly regarding the awaited Mahdi",
-        "The rules of fasting",
-        "Requirements for Hajj pilgrimage"
+        "A. That animals were given the ability to recognize their young",
+        "B. That pure drinkable milk is produced from between digested food and blood inside livestock",
+        "C. That rain causes grass to grow which in turn nourishes both humans and animals",
+        "D. That camels can survive without water for extended periods"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia exegesis reads this as a rejection of human impatience towards divine timing, particularly regarding the establishment of justice through the awaited Mahdi - a recurrent theme in Shia eschatology."
+      "explanation": "'Ibra' draws attention to the remarkable process by which milk emerges pure and palatable (sa'igh) from between farth (digested matter) and blood inside the animal. Imam al-Tabari described this as each product going to its appointed place — a sign of deliberate divine design."
     },
     {
       "id": "16_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 102,
-      "question": "According to Allama Tabatabai, the 'Ruh al-Qudus' (Pure Spirit) in verse 102 refers specifically to Angel Gabriel (Jibril).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai elucidates that 'Ruh al-Qudus' refers specifically to Angel Gabriel, the trusted celestial agent of divine revelation whose mission extends beyond mere transmission to the infusion of divine light into the Prophet's heart."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 69,
+      "question": "The phrase 'fihi shifa'un lin-nas' in verse 69 about honey is best understood as which of the following?",
+      "options": [
+        "A. It is a drink of moderate sweetness for the pious",
+        "B. It contains healing for people",
+        "C. It is a provision distributed equally among all creatures",
+        "D. It is a sign reserved for those who reflect deeply"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The phrase means 'in it is healing for people.' Imam al-Qurtubi noted that the indefinite form of 'shifa'' suggests comprehensive healing rather than a limited one, while Ibn Uthaymeen emphasized that the healing is addressed to all of humanity, not only believers."
     },
     {
       "id": "16_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 106,
-      "question": "According to Shia scholars, what does verse 106's exception for those who are 'forced while their heart is secure in faith' relate to?",
-      "options": [
-        "The concept of jihad",
-        "The practice of taqiyya (prudential dissimulation)",
-        "The obligation of charity",
-        "Rules of inheritance"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia scholars understand this through the lens of taqiyya, a concept rooted in the teachings of the Ahlul Bayt, affirming that true faith resides in the heart, not mere verbal pronouncements."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 71,
+      "question": "The parable of the slave and the free man in verse 71 is used by the Quran to expose the logical inconsistency of polytheism.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 71 argues that no free man would equally share his wealth with his owned slave, yet polytheists assign divine partners to Allah as though those partners were equals. The verse closes: 'Do they then deny Allah's favor?' Imam al-Tabari identified this as a direct rebuttal of the polytheists' own logic."
     },
     {
       "id": "16_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 125,
-      "question": "According to classical Shia exegesis, what are the three methods of da'wah (invitation) commanded in verse 125?",
+      "layer": 1,
+      "verseNumber": 90,
+      "question": "Verse 90 of Surah An-Nahl commands three things. Which of the following correctly lists all three positive commands in that verse?",
       "options": [
-        "Force, persuasion, and debate",
-        "Wisdom (hikmah), good exhortation (maw'izah hasanah), and gracious argumentation (jadal ahsan)",
-        "Preaching, writing, and teaching",
-        "Silence, patience, and prayer"
+        "A. Salah, zakat, and fasting",
+        "B. Justice (adl), excellence in conduct (ihsan), and giving to relatives (ita dhi al-qurba)",
+        "C. Patience, gratitude, and humility",
+        "D. Truthfulness, keeping promises, and forgiving others"
       ],
       "correctAnswer": "B",
-      "explanation": "Verse 125 establishes three interconnected methods: wisdom (hikmah), good exhortation (maw'izah hasanah), and gracious argumentation (jadal ahsan) as the moral framework for propagating truth."
+      "explanation": "The tafsir of verse 90 identifies three commands — adl (justice), ihsan (excellence), and ita dhi al-qurba (giving to near relatives) — paired with three prohibitions: fahsha (indecency), munkar (wrongdoing), and baghy (oppression). This verse has been recited in Friday and Eid sermons for over 1400 years."
     },
     {
       "id": "16_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary Shia scholars, what modern forms of 'shirk' does verse 1's condemnation extend to?",
-      "options": [
-        "Only ancient idol worship",
-        "Nationalism, consumerism, or algorithms that replace moral agency",
-        "Speaking foreign languages",
-        "Using modern technology"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars extend the rejection of shirk to modern idolatries: nationalism, consumerism, or algorithms that replace moral agency - anything that distracts from divine purpose."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 120,
+      "question": "The title 'ummah' given to Ibrahim in verse 120 means he led a large nation of followers at that time.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir clarifies that 'ummah' here refers to Ibrahim embodying in one person the qualities of an entire community. Ibn Masud, as quoted by Tabari, said that a man who teaches good constitutes an ummah by himself — the word reflects spiritual completeness, not numerical size."
     },
     {
       "id": "16_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 69,
-      "question": "The healing properties of honey mentioned in verse 69 have been recognized by both classical Islamic scholarship and modern science.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both classical commentators and contemporary scholars emphasize honey's divinely ordained healing properties, with modern science confirming its antibacterial, anti-inflammatory, and wound-healing benefits."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "Classical scholars Tabari and Ibn Kathir interpreted 'al-ruh' in verse 2 — 'He sends down the angels with al-ruh from His command' — to mean which of the following?",
+      "options": [
+        "A. The soul that Allah breathes into every newborn",
+        "B. The revelation (Quran) carried by Jibril to the prophets",
+        "C. A special angel separate from Jibril who guards the heavens",
+        "D. The spirit of mercy that descends on the night of Qadr only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Both Tabari and Ibn Kathir explained that 'al-ruh' in this verse refers to revelation — specifically the Quran borne by Jibril — with the core message being tawhid and taqwa. This is reinforced by the closing words: 'warn that there is no god but Me, so fear Me.'"
     },
     {
       "id": "16_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 90,
-      "question": "According to contemporary scholar Dr. Liyakat Takim, what modern concept does taqwa (God-consciousness) in verse 90 demand?",
-      "options": [
-        "Isolation from society",
-        "Sacred stewardship including equitable resource distribution and climate action",
-        "Rejection of all technology",
-        "Focus only on personal worship"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Scholar Dr. Liyakat Takim connects taqwa to 'sacred stewardship,' where God-consciousness demands equitable resource distribution and climate action as ethical imperatives."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "According to Ibn Kathir, the phrase 'khasim mubin' (clear adversary) in verse 4 refers to those disbelievers who use the very faculties Allah gave them to argue against their Creator.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cited a hadith from Sahih Muslim in his commentary on verse 4, noting the bitter irony that man — created from a humble drop of fluid (nutfah) — becomes a bold and open disputer (khasim mubin) against the One who created him. This is presented as a warning about ingratitude."
     },
     {
       "id": "16_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 97,
-      "question": "What revolutionary message did verse 97's promise of 'good life' for righteous believers convey in seventh-century Arabia?",
+      "layer": 2,
+      "verseNumber": 43,
+      "question": "Imam al-Qurtubi treated verse 43 — 'Ask the people of remembrance if you do not know' — as a Quranic foundation for which Islamic legal principle?",
       "options": [
-        "That only wealthy people could be righteous",
-        "That spiritual success is accessible regardless of gender - male or female",
-        "That faith requires poverty",
-        "That only men could achieve spiritual success"
+        "A. Ijma (scholarly consensus on new rulings)",
+        "B. Ijtihad (individual juristic reasoning)",
+        "C. Taqlid (following qualified scholarly authority when one lacks knowledge)",
+        "D. Qiyas (analogical reasoning from established sources)"
       ],
-      "correctAnswer": "B",
-      "explanation": "In seventh-century Arabia where gender discrimination was rampant, this verse was revolutionary by declaring equality in spiritual potential - whoever does righteousness, whether male or female, while believing."
+      "correctAnswer": "C",
+      "explanation": "Qurtubi used 'fas'alu ahl al-dhikr' as a Quranic basis for taqlid — the obligation to refer to scholars when one lacks the knowledge to derive rulings independently. The verse was originally addressing those who doubted prophethood, but its principle of seeking qualified knowledge has broad jurisprudential application."
     },
     {
       "id": "16_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq, what does the 'command of Allah' (amr Allah) in verse 1 specifically refer to?",
+      "layer": 2,
+      "verseNumber": 68,
+      "question": "What did Ibn Kathir observe about the grammatical forms Allah uses when addressing the bee in verses 68 and 69?",
       "options": [
-        "The daily prayers",
-        "The Qa'im (the awaited Imam Mahdi) from the Ahlul Bayt",
-        "The creation of humans",
-        "The revelation of the Quran"
+        "A. The dual form is used, confirming that bees work in pairs",
+        "B. The plural masculine form is used, showing bees are communal creatures",
+        "C. Feminine singular verb forms are used, which Ibn Kathir noted confirms that worker bees are female",
+        "D. The passive form is used throughout, emphasizing that bees act without awareness"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq illuminates this 'command' as the establishment of divine authority through the Imams, stating: 'The amr of Allah refers to the Qa'im from us [the awaited Imam Mahdi].'"
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir pointed out that the Quran uses feminine verb forms when commanding the bee — 'ittakhidhi,' 'kuli,' 'usluki' — and noted this aligns with the reality that the working bee is female. This Quranic precision preceded any systematic scientific classification of bee biology."
     },
     {
       "id": "16_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 68,
-      "question": "According to Imam Jafar al-Sadiq, Allah taught the bee through revelation (wahy) as He taught the prophets.",
+      "layer": 2,
+      "verseNumber": 69,
+      "question": "Ibn Kathir cited a hadith from Sahih Bukhari in his tafsir of verse 69 that links honey to healing alongside the Quran.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Jafar al-Sadiq taught: 'Allah taught the bee through revelation (wahy) as He taught the prophets, for every atom in creation carries His proof.'"
+      "explanation": "Ibn Kathir explicitly cited from Sahih Bukhari in his commentary on verse 69: 'Make use of two cures: honey and the Quran.' This hadith grounds the Quranic statement 'fihi shifa'un lin-nas' in prophetic practice and gives it a dual dimension of physical and spiritual healing."
     },
     {
       "id": "16_15",
       "type": "multipleChoice",
-      "layer": 4,
+      "layer": 2,
       "verseNumber": 90,
-      "question": "According to Imam Ali in the teachings on verse 90, what is justice ('adl) described as?",
+      "question": "According to Ibn Kathir, which companion of the Prophet accepted Islam upon hearing verse 90 recited to him?",
       "options": [
-        "A human invention",
-        "The foundation upon which the heavens and earth stand",
-        "Only relevant in legal matters",
-        "A quality reserved for prophets only"
+        "A. Abu Sufyan ibn Harb",
+        "B. Uthman ibn Madh'un",
+        "C. Khalid ibn al-Walid",
+        "D. Amr ibn al-As"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali stated, 'Justice is the foundation upon which the heavens and earth stand,' emphasizing that true justice begins by recognizing divine sovereignty."
+      "explanation": "Ibn Kathir recorded that Uthman ibn Madh'un, upon hearing verse 90 recited, was so struck by its moral comprehensiveness that he embraced Islam on the spot. This account illustrates the immediate transformative power this verse had on the early generation."
     },
     {
       "id": "16_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 120,
-      "question": "According to Ahlul Bayt teachings, Prophet Ibrahim's status as an 'ummah' (a complete nation in himself) mirrors the cosmic role of the Imams as living guidance for humanity.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Ahlul Bayt taught that Ibrahim's status as an 'ummah' mirrors the cosmic role of the Imams, who embody living guidance for humanity as pillars of Tawhid and guardians of Allah's command."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 125,
+      "question": "Classical scholars identified three distinct methods of calling people to Islam in verse 125. What are they?",
+      "options": [
+        "A. Recitation, memorization, and transmission",
+        "B. Hikmah (wisdom), maw'iza hasana (good counsel), and jadil bil-lati hiya ahsan (debate in the best manner)",
+        "C. Patience, gentleness, and firmness",
+        "D. Scholarship, public preaching, and private advice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 125 presents the three-part dawah methodology: hikmah (wisdom suited to the audience), maw'iza hasana (sincere and beautiful admonition), and jadil bil-lati hiya ahsan (engaging opponents with the most excellent argument). The verse closes by affirming that Allah knows best who is guided and who has gone astray."
     },
     {
       "id": "16_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "On what key theological point do Shia and Sunni scholars diverge in interpreting verse 1's 'command of Allah'?",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "Wahbah al-Zuhayli drew an ecological implication from verse 7, which mentions that livestock carry heavy loads to distant lands. What duty did he derive from the phrase 'He created them for you'?",
       "options": [
-        "Whether the verse is authentic",
-        "Shia include the establishment of justice through the Mahdi's advent, while Sunni focus on the Hour of Judgment",
-        "The meaning of the word 'Allah'",
-        "Whether patience is required"
+        "A. That Muslims must prefer livestock transport over mechanical means",
+        "B. That the gift of animals for transport entails a human duty of responsible stewardship and care",
+        "C. That long-distance trade was specifically encouraged for early Muslim communities",
+        "D. That humans are obligated to release domesticated animals into the wild periodically"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni exegetes like Ibn Kathir interpret the 'command' as the Hour of Judgment, while Shia works extend it to include the establishment of divine justice through the Mahdi's advent, reflecting emphasis on Imamah."
+      "explanation": "Al-Zuhayli noted that 'He created them for you' does not license exploitation but implies accountability — the one entrusted with a gift must care for it. He connected this to broader Islamic principles of environmental stewardship derived from the concept of khalifah (vicegerency)."
     },
     {
       "id": "16_18",
       "type": "trueFalse",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 68,
-      "question": "Both Shia and Sunni exegetes agree that the bee's instinctual behavior described in verse 68 serves as evidence of Allah's universal providence.",
+      "question": "Wahbah al-Zuhayli pointed out that the bee's sophisticated directional communication system was an unknown phenomenon until modern scientific discovery.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Al-Tabari (Sunni) and Al-Tabrisi (Shia) similarly emphasize the miraculous nature of instinctual revelation (ilham) granted to non-human creatures, interpreting it as evidence of Allah's universal providence."
+      "explanation": "Al-Zuhayli cited the revelation given to the bee in verse 68 as an example of Quranic precision that modern science has begun to uncover. The bee's waggle dance — used to communicate the direction and distance of food sources — was only scientifically documented in the 20th century, yet the Quran's language of divinely guided 'wahy' to the bee anticipates such complexity."
     },
     {
       "id": "16_19",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 90,
-      "question": "What do both Shia and Sunni scholars agree verse 90 represents?",
+      "question": "Sayyid Qutb described verse 90 as Islam's comprehensive answer to what broader human challenge?",
       "options": [
-        "A verse only about prayer",
-        "A comprehensive call to justice, moral excellence, kinship obligations, and rejection of oppression",
-        "A verse about dietary laws",
-        "A historical account only"
+        "A. The challenge of maintaining ritual worship across generations",
+        "B. The challenge of building a just and virtuous civilization",
+        "C. The challenge of refuting atheistic philosophy",
+        "D. The challenge of reconciling science and faith"
       ],
       "correctAnswer": "B",
-      "explanation": "Both traditions recognize verse 90 as a foundational call to justice ('adl), moral excellence (ihsan), kinship obligations (iti'a dhi al-qurba), and rejection of oppression (baghy) - a holistic moral framework."
+      "explanation": "Sayyid Qutb wrote that verse 90 offers Islam's complete program for civilizational construction — adl ensures structural justice in society, ihsan elevates individual virtue, and giving to relatives strengthens the family as the foundational unit. He viewed the three prohibitions as the precise forces that destroy civilizations when left unchecked."
     },
     {
       "id": "16_20",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 120,
+      "question": "Sayyid Qutb used the description of Ibrahim as a single 'ummah' in verse 120 to argue that the validity of truth is independent of how many people hold it.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Qutb wrote that Ibrahim standing alone for tawhid — described as an entire 'ummah' in himself — demonstrates that truth does not require a majority to be true or to have worth. This was a direct response to the modern tendency to judge ideas by popular acceptance rather than conformity to divine guidance."
+    },
+    {
+      "id": "16_21",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 98,
-      "question": "According to both Shia and Sunni traditions, what practice does verse 98 establish before Quranic recitation?",
+      "layer": 3,
+      "verseNumber": 125,
+      "question": "Ibn Uthaymeen interpreted the command in verse 125 to call to the way of the Lord as applying to which audience?",
       "options": [
-        "Making ablution (wudu)",
-        "Seeking divine protection (isti'adha) from Satan",
-        "Facing Mecca",
-        "Giving charity"
+        "A. Only professional scholars and preachers with formal credentials",
+        "B. The Prophet Muhammad exclusively, as the verse was addressed to him",
+        "C. Every Muslim who possesses knowledge, making this a permanent and universal directive",
+        "D. Only those appointed by Islamic governing authorities to the role of preacher"
       ],
-      "correctAnswer": "B",
-      "explanation": "Both traditions converge on the fundamental obligation to seek divine protection (isti'adha) from Satan before Quranic recitation, rooted in the Prophet's sunna of reciting 'a'udhu billahi min al-shaytan al-rajim.'"
+      "correctAnswer": "C",
+      "explanation": "Ibn Uthaymeen held that while the verse is addressed to the Prophet, its scope extends to every Muslim who carries knowledge. He treated it as a timeless obligation — not restricted to a specialized class — with each of the three methods (hikmah, good counsel, best argument) suited to different audiences and contexts."
+    },
+    {
+      "id": "16_22",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 66,
+      "question": "Wahbah al-Zuhayli connected the description in verse 66 of milk produced from between digested matter and blood to modern physiological knowledge of how mammary glands function.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli noted that the Quran's description of milk emerging from between farth (digestive contents) and blood inside the animal aligns with modern understanding of mammary gland physiology, where nutrients extracted from blood and digested food are processed into milk — an instance of Quranic accuracy preceding human discovery."
     }
   ]
 }

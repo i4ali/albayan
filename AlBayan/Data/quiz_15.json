@@ -5,201 +5,236 @@
       "id": "15_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What do the disconnected letters 'Alif, Lam, Ra' (Huroof al-Muqatta'at) at the opening of Surah Al-Hijr symbolize?",
-      "options": ["The names of previous prophets", "The miraculous nature of the Quran's language and its divine origin", "The numerical value of the surah", "The names of the archangels"],
+      "verseNumber": 9,
+      "question": "What is the primary significance of the phrasing 'inna nahnu nazzalna al-dhikra' in verse 9?",
+      "options": [
+        "It identifies the specific night on which the Quran was revealed",
+        "The stacked emphatic particles 'inna' and 'nahnu' signal Allah's direct personal guarantee of the Quran's preservation",
+        "It describes the angels who served as intermediaries in the revelation",
+        "It distinguishes the Quran from the Torah in terms of textual history"
+      ],
       "correctAnswer": "B",
-      "explanation": "The Huroof al-Muqatta'at appear in several Quranic chapters, symbolizing the miraculous nature of the Quran's language and its divine origin. Their exact meanings remain known only to Allah and His chosen servants."
+      "explanation": "The verse opens with two layered emphatic elements — 'inna' and the pronoun 'nahnu' — followed by the affirmative lam in 'la-hafizoon.' Commentators identify these as Allah's personal, multi-reinforced guarantee that the Quran will be protected against corruption, distortion, and loss."
     },
     {
       "id": "15_2",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 26,
-      "question": "According to Surah Al-Hijr, from what material was humanity created?",
-      "options": ["Pure water", "Divine light", "Salsal (dried clay) from hama' masnun (altered black mud)", "A mixture of fire and earth"],
-      "correctAnswer": "C",
-      "explanation": "Allah states that humans were created from salsal (dried clay producing a hollow sound) derived from hama' masnun (aged, fermented black mud). This imagery emphasizes the lowly, temporary nature of our physical composition while highlighting divine craftsmanship."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "True or false: Imam al-Tabari identified four distinct emphatic elements in verse 9 that together form a compounded divine guarantee of the Quran's preservation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari notes the emphatic particle 'inna,' the majestic pronoun 'nahnu,' the affirmative lam inside 'la-hafizoon,' and the noun form 'hafizoon' itself. Each element independently signals certainty; stacked together they constitute what he describes as an unbreakable divine covenant."
     },
     {
       "id": "15_3",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 5,
-      "question": "According to Surah Al-Hijr (15:5), every nation can alter or delay its divinely ordained term (ajal) through worldly means.",
-      "options": ["True", "False"],
-      "correctAnswer": "False",
-      "explanation": "The verse states: 'No nation will precede its term, nor will they remain thereafter.' This emphasizes that every community operates within a divinely ordained timeframe that cannot be hastened or delayed by humanity."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Sayyid Qutb gave a distinctive reading of the phrase 'fasawfa ya'lamun' at the end of verse 3. What was his key point?",
+      "options": [
+        "The fa- particle indicates that punishment was imminent and came within the same generation",
+        "'Sawfa' combined with 'fa-' signals not mere futurity but an emphatic, experiential knowing that cannot be escaped",
+        "'Ya'lamun' is addressed exclusively to the leaders of Quraysh, not to disbelievers in general",
+        "The phrase is a compassionate warning inviting repentance rather than a threat"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb argued that the pairing of 'fa-' with 'sawfa' transforms a simple future tense into an emphatic declaration of inevitability. 'Ya'lamun' in this context means not mere intellectual awareness but a visceral, inescapable experiential knowing — the kind that arrives too late to be useful."
     },
     {
       "id": "15_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 56,
-      "question": "In Surah Al-Hijr (15:56), Prophet Ibrahim asks: 'Who despairs of the mercy of his Lord except...?'",
-      "options": ["The oppressors", "The ungrateful", "Those astray (al-dalloon)", "The arrogant"],
-      "correctAnswer": "C",
-      "explanation": "Prophet Ibrahim's statement challenges the mindset of hopelessness, framing it as a spiritual deviation. He declares that only 'those astray' (al-dalloon) - those who have lost their way - despair of Allah's mercy."
+      "verseNumber": 26,
+      "question": "True or false: According to the foundational tafsir of verse 26, Adam was created from 'salsal min hama'in masnun,' which refers to sounding clay derived from black altered mud.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 26 describes the material of Adam's creation as 'salsal' — a clay that produces a ringing or hollow sound when struck — formed from 'hama'in masnun,' meaning fetid or altered black mud. This precise description distinguishes Adam's origin from that of the jinn, who were created from smokeless fire, and becomes pivotal to Iblis's claim of superiority."
     },
     {
       "id": "15_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegesis, what does the phrase 'Quran Mubeen' (clear Quran) in verse 1 imply about interpretation?",
-      "options": ["The Quran needs no interpretation at all", "The Quran's clarity does not negate the necessity of divinely appointed interpreters (the Imams)", "Only Arabic speakers can understand the Quran", "The Quran should only be interpreted literally"],
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "When Allah commanded the angels to prostrate before Adam, which of the following best describes the outcome recorded in this surah?",
+      "options": [
+        "All the angels prostrated, and Iblis also prostrated but then immediately recanted",
+        "All the angels prostrated without exception, and Iblis alone refused out of arrogance",
+        "A group of senior angels refused alongside Iblis, citing their prior rank",
+        "The angels deferred the command until they were given a full explanation of Adam's purpose"
+      ],
       "correctAnswer": "B",
-      "explanation": "Shia tradition emphasizes that while the Quran is 'clear' (mubeen), this does not negate the necessity of divinely appointed interpreters—the Imams from the Progeny of the Prophet—to unveil its esoteric (batini) dimensions and ensure correct application."
+      "explanation": "Verse 30 states that all the angels prostrated in full compliance. Iblis alone refused — an act of arrogance rooted in his belief that being created from fire made him superior to a being created from clay. His refusal was not confusion or misunderstanding but deliberate defiance."
     },
     {
       "id": "15_6",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "According to Shia tafsir of verse 15:4, the 'known decree' (kitabun ma'lum) for nations represents arbitrary predestination unrelated to human choices.",
-      "options": ["True", "False"],
-      "correctAnswer": "False",
-      "explanation": "Classical Shia exegetes like Tabatabai and Tabrisi interpret the 'known decree' not as arbitrary predestination but as a divinely established timeframe (ajal) or fixed measure (qadar) contingent upon the moral trajectory of a people, aligning with the doctrine of 'amr bayn al-amrayn' (the reality between the two matters)."
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "True or false: Verse 41, in which Allah declares 'hatha siratun alayya mustaqim,' means that the straight path is under Allah's direct guardianship and leads back to Him.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The phrase 'alayya mustaqim' carries a double meaning noted in the tafsir: the path leads to Allah and is, by His own declaration, under His direct protection and commitment. This verse comes immediately after the confirmation that Iblis holds no authority over sincere believers, framing it as divine assurance for the faithful."
     },
     {
       "id": "15_7",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 26,
-      "question": "What theological duality does Tabatabai highlight in his commentary on the creation of humans from clay (verse 26)?",
-      "options": ["The duality of body and mind", "The duality of base materiality fused with sacred spirit (ruh)", "The duality of good and evil", "The duality of this world and the hereafter"],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai observes that the verse highlights base materiality (clay) fused with sacred spirit (ruh breathed into perfected clay). This duality establishes humanity's existential tension between earthly inclinations and transcendent potential."
+      "verseNumber": 42,
+      "question": "Ibn Kathir supported the claim in verse 42 — that Iblis has no authority over sincere believers — by citing Iblis's own words from another surah. Which surah contains Iblis's self-confessed admission that he has no compulsive power?",
+      "options": [
+        "Surah Al-Baqarah (2:268)",
+        "Surah Al-A'raf (7:17)",
+        "Surah Ibrahim (14:22)",
+        "Surah Al-Isra (17:65)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir quotes Surah Ibrahim 14:22, where Iblis addresses his followers on the Day of Judgment and admits he had no sultan — no compulsive power — over them; he merely called, and they answered willingly. Ibn Kathir presents this as Iblis's own courtroom confession that divine protection of sincere believers is absolute."
     },
     {
       "id": "15_8",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 56,
-      "question": "According to Shia theology, what does despair (ya's) in divine mercy constitute?",
-      "options": ["A minor sin easily forgiven", "A fundamental deviation (dalal) from tawhid", "A temporary emotional state with no spiritual consequence", "An acceptable response to hardship"],
-      "correctAnswer": "B",
-      "explanation": "Imam Tabatabai in Al-Mizan underscores that despair in divine mercy constitutes a fundamental deviation (dalal) from tawhid, as it implicitly denies Allah's omnibenevolence and omnipotence. True faith necessitates unwavering hope in Allah's grace."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 42,
+      "question": "True or false: Muhammad al-Sharawii distinguished between 'sultan' (authority) and 'waswasa' (whispering) to explain that Iblis can knock at the door of the believer's heart but cannot enter without the believer's consent.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Sharawii drew a precise conceptual boundary: Allah's promise in verse 42 negates Iblis's 'sultan' — coercive, binding authority — but does not eliminate waswasa, the persistent whisper. The believer is shielded from compulsion, not from temptation, which places full moral responsibility on human choice."
     },
     {
       "id": "15_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 5,
-      "question": "How do contemporary scholars like Ayatollah Makarem Shirazi interpret the 'known decree' (ajal) of nations in relation to modern issues?",
-      "options": ["As purely spiritual matters unrelated to worldly affairs", "As a cosmic principle of balance including ecological, moral, and temporal limits", "As applying only to ancient nations", "As a metaphor with no practical application"],
+      "layer": 1,
+      "verseNumber": 53,
+      "question": "When the angels visited Ibrahim as recorded beginning at verse 51, they brought him glad tidings using the phrase 'ghulam alim.' What does this term most precisely convey?",
+      "options": [
+        "A strong and healthy boy who would become a warrior",
+        "A learned or knowledgeable boy, pointing to a future prophet",
+        "A generous boy who would inherit Ibrahim's wealth",
+        "A patient boy who would endure great trials"
+      ],
       "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars interpret this verse as a cosmic principle of balance: every society operates within divinely ordained ecological, moral, and temporal limits. This aligns with modern concerns about climate thresholds and social justice."
+      "explanation": "'Ghulam alim' literally means a boy who is alim — learned or possessing knowledge. Classical commentators read this as a compressed prophetic biography: the child announced would grow into a figure of divinely endowed knowledge, which is why the term is associated with prophethood rather than merely physical description."
     },
     {
       "id": "15_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 3,
-      "question": "According to contemporary Shia scholars, the 'false hope' (al-amal) critiqued in verse 15:3 can manifest today as the illusion of permanence in consumerism and environmental exploitation.",
-      "options": ["True", "False"],
-      "correctAnswer": "True",
-      "explanation": "Scholars like Ayatollah Makarem Shirazi interpret this verse as warning against societies that conflate material indulgence with fulfillment. The 'false hope' resonates today as the illusion of permanence—the belief that consumption or environmental exploitation bears no consequences."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 53,
+      "question": "Which evidence did Ibn Kathir use to identify the 'ghulam alim' announced to Ibrahim in this surah as Ishaq rather than Ismail?",
+      "options": [
+        "The fact that Ismail was already born at this point, as established by the Quran's internal chronology",
+        "Cross-referencing with Surah Hud 11:71 and Surah Adh-Dhariyat 51:28-29, where Sarah receives the news and Ishaq is named",
+        "A hadith in Sahih Bukhari in which the Prophet explicitly named Ishaq as the child born to Ibrahim after the angels' visit",
+        "The use of the word 'alim,' which Ibn Kathir argued was a title used exclusively for Ishaq in the Quran"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir corroborates the identification by triangulating with Surah Hud 11:71, where Sarah laughs and is given news of Ishaq, and Surah Adh-Dhariyat 51:28-29, where Ibrahim's fear at the strangers is resolved by their announcement of a knowing son. The convergence of multiple passages names Ishaq specifically."
     },
     {
       "id": "15_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "What scientific insight do contemporary scholars connect to the Quranic description of human creation from clay?",
-      "options": ["Humans literally contain clay minerals", "Clay minerals may have catalyzed early organic molecules, echoing earth as a fertile starting point", "Clay is the primary component of human DNA", "Clay consumption is beneficial for health"],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars note that biologists observe clay minerals may have catalyzed early organic molecules, echoing the verse's focus on earth as a fertile starting point. The Quranic emphasis on 'alteration' (masnun) also resonates with evolutionary processes."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 55,
+      "question": "True or false: In verse 55, the angels confirm their glad tidings 'bil-haqq' and then prohibit Ibrahim from falling into despair, using the phrase 'fa la takun min al-qanitin.'",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "After Ibrahim expresses amazement at the news of a son in his old age, the angels respond in verse 55 by affirming the news with 'bil-haqq' — in truth, with certainty — and then issue a direct prohibition against despair: 'fa la takun min al-qanitin.' The tafsir notes that 'bil-haqq' closes any metaphorical or figurative reading of the promise, making it unconditional."
     },
     {
       "id": "15_12",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 57,
-      "question": "According to Ayatollah Makarem Shirazi, what Quranic principle does Prophet Ibrahim's questioning of the angels in verse 57 reflect?",
-      "options": ["Blind obedience to authority", "Tahqiq (critical verification) - urging believers to actively seek truth", "Distrust of divine messengers", "Rejection of supernatural phenomena"],
+      "verseNumber": 56,
+      "question": "In verse 56 Ibrahim asks rhetorically: 'Who despairs of the mercy of his Lord except the astray?' Sayyid Qutb drew a striking conclusion from this. What was it?",
+      "options": [
+        "Despair is a minor spiritual weakness correctable through increased worship",
+        "Despair is not merely an emotional state but a form of spiritual blindness — the same 'dalal' (misguidance) that characterizes unbelief",
+        "Ibrahim's question was addressed only to those who deny resurrection, not to ordinary sinners",
+        "The verse establishes hope as one of the five pillars of Islamic practice"
+      ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars emphasize that Ibrahim's inquiry reflects the Quranic principle of tahqiq (critical verification), urging believers to actively seek truth rather than passively accept appearances. This aligns with the Shia emphasis on 'aql (intellect) as a divine gift."
+      "explanation": "Sayyid Qutb argued that Ibrahim's rhetorical question equates qanut — despair of divine mercy — with dalal, the same word the Quran uses for fundamental misguidance. For Qutb this is a theological statement: to despair of Allah's mercy is to misunderstand the very nature of Allah, which is the root of all going astray."
     },
     {
       "id": "15_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (as), what do the disconnected letters like 'Alif, Lam, Ra' represent?",
-      "options": ["Random sounds with no meaning", "Ancient Arabic numerals", "The names of Allah condensed into light, manifested through the Muhammadan reality", "Codes for understanding future events"],
+      "layer": 1,
+      "verseNumber": 81,
+      "question": "Verse 81 states that Thamud were given Allah's signs but 'fa-kanu anha mu'rideen.' What does the term 'mu'rideen' most precisely describe about their response?",
+      "options": [
+        "They accepted the signs briefly and then gradually forgot them",
+        "They destroyed the signs to prevent others from witnessing them",
+        "They engaged in sustained, deliberate turning away — an active and persistent aversion rather than passive ignorance",
+        "They debated the signs among themselves but ultimately could not agree on their meaning"
+      ],
       "correctAnswer": "C",
-      "explanation": "Imam Jafar al-Sadiq (as) taught that such letters represent 'the names of Allah condensed into light, manifested through the Muhammadan reality and entrusted to the purified Imams.' These letters find their living interpretation through the guardians of divine knowledge."
+      "explanation": "'Mu'rideen' is the active participle of i'rada, meaning to turn away with intention. The tafsir emphasizes that this was not oversight or confusion but a sustained, willful aversion. Tabari notes the imperfect aspect embedded in the construction signals continuous, repeated rejection — they kept turning away every time a sign was presented."
     },
     {
       "id": "15_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 26,
-      "question": "According to Imam Ja'far al-Sadiq (as), Allah kneaded Adam's clay with the Water of His Mercy for forty mornings, revealing that true humanity emerges only when earthly nature is tempered by spiritual cultivation.",
-      "options": ["True", "False"],
-      "correctAnswer": "True",
-      "explanation": "The Sixth Imam explained that 'hama'in masnun' (altered black mud) signifies the transformative power of divine wisdom shaping raw elements into a vessel for consciousness. He taught that true humanity emerges when earthly nature is tempered by spiritual cultivation."
+      "layer": 2,
+      "verseNumber": 82,
+      "question": "True or false: Ibn Kathir records that when the Prophet passed through the region of Al-Hijr during the Tabuk expedition, he covered his face, quickened his pace, and instructed companions not to enter the dwellings of Thamud without weeping — a hadith preserved in both Sahih Bukhari and Sahih Muslim.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites this hadith as direct prophetic commentary on verse 82. The Prophet's behavior at Al-Hijr — hastening through, covering his face, forbidding companions from entering Thamud's carved dwellings with curiosity — is preserved in both Bukhari and Muslim and serves as a living tafsir of the surah's warning against the false security of material achievement."
     },
     {
       "id": "15_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to Imam Ali (as) in Nahj al-Balagha, how are the people of the world divided in relation to their souls?",
-      "options": ["Rich and poor", "Believers and disbelievers", "One sells his soul and ruins it, the other buys his soul and liberates it", "Scholars and laypeople"],
-      "correctAnswer": "C",
-      "explanation": "Imam Ali (as) states in Nahj al-Balagha: 'The world is a place of transit, not a house of permanence. Its people fall into two groups: one sells his soul and ruins it, and the other buys his soul and liberates it.' This reflects the verse's warning about worldly indulgence."
+      "layer": 3,
+      "verseNumber": 83,
+      "question": "Wahbah al-Zuhayli drew a specific theological principle from the Thamud narrative culminating in verse 83. Which principle did he emphasize?",
+      "options": [
+        "That collective punishment is only permissible when a two-thirds majority of a community rejects a prophet",
+        "That itmam al-hujjah — the completion of the proof — must precede divine punishment, as demonstrated by how fully Thamud were given signs before the blast",
+        "That the 'sayhah' (blast) was a natural earthquake, and the Quran's use of it reflects Allah working through natural laws",
+        "That Thamud's punishment was deferred because of the believers among them, mirroring the logic of intercession"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli highlights the principle of itmam al-hujjah — that divine punishment is only executed after the case against a people has been fully and unambiguously established. The Thamud narrative illustrates this: they were given Salih as a prophet, shown miraculous signs, given the she-camel as a test, granted respite, and only after all this did the sayhah arrive at dawn."
     },
     {
       "id": "15_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 56,
-      "question": "According to Imam Jafar al-Sadiq (as), those who despair of Allah's mercy have also rejected the Imams, for 'we are the doors to His mercy.'",
-      "options": ["True", "False"],
-      "correctAnswer": "True",
-      "explanation": "Imam Jafar al-Sadiq (as) elucidates: 'Whoever despairs of Allah's mercy has denied the vastness of His forgiveness, and whoever denies this has rejected the Imams, for we are the doors to His mercy.' This ties hope directly to Wilayah."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 87,
+      "question": "Sayyid Qutb offered a striking comment on the gift of 'sab'an minal-mathani' (the seven oft-repeated verses) mentioned in verse 87. What was the essence of his argument?",
+      "options": [
+        "The seven verses are primarily valuable as a linguistic miracle that confounds Arabic poets",
+        "The seven verses were given before the rest of the Quran as a proof that Allah favors Mecca above all other cities",
+        "These seven verses outweigh all the gold and silver of the world, representing a complete reorientation of what is truly valuable",
+        "The repetition of the seven verses in every prayer is a legal obligation that overrides all other forms of dhikr"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb drew on the hadith tradition noting the immeasurable spiritual weight of Al-Fatiha and argued that being given these seven verses is a bestowal that transcends any material gift. He used this to reorient the reader's values: the Prophet is told not to envy the prosperity of disbelievers (verse 88) precisely because what he has already been given outweighs all worldly wealth."
     },
     {
       "id": "15_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "On what aspect of verse 15:1 do both Shia and Sunni scholars agree?",
-      "options": ["The exact meaning of the disconnected letters", "That the letters should be removed from recitation", "That the disconnected letters symbolize the Quran's inimitable nature (i'jaz)", "That only Shia scholars can interpret these letters"],
-      "correctAnswer": "C",
-      "explanation": "Al-Tabari (Sunni) and Al-Tabrisi (Shia) concur that the disconnected letters like 'Alif-Lam-Ra' symbolize the Quran's inimitable nature, challenging those who doubt its revelation. This reflects theological consensus on the Quran's miraculous quality."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 87,
+      "question": "True or false: Ibn Kathir cites a hadith narrated by Abu Hurairah, preserved in both Sahih Bukhari and Sahih Muslim, in which the Prophet identifies Al-Fatiha as 'the mother of the Quran, the seven oft-repeated, and the great Quran.'",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir uses this hadith as the primary evidence for identifying the 'sab'an minal-mathani' in verse 87 as Surah Al-Fatiha. The hadith's presence in both Bukhari and Muslim gives it the highest grade of authenticity, and the triple description mirrors the phrasing of the verse itself, making the identification nearly unambiguous among classical Sunni scholars."
     },
     {
       "id": "15_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "What hermeneutical difference emerges between Shia and Sunni interpretations of human creation from clay (verse 26)?",
-      "options": ["Sunni scholars reject the literal meaning entirely", "Shia works incorporate Ahlul Bayt narrations with symbolic dimensions about spiritual refinement under divine guidance", "Only Sunni scholars accept scientific interpretations", "There are no differences between the two traditions"],
+      "layer": 3,
+      "verseNumber": 88,
+      "question": "Wahbah al-Zuhayli analyzed the three commands in verse 88 as addressing three distinct spiritual dangers in sequence. What is the correct order of that sequence?",
+      "options": [
+        "Envy of disbelievers' wealth then active hostility toward them then neglect of the believing community",
+        "Detach the eyes from disbelievers' enjoyments then release grief over their rejection then redirect warmth and care toward believers",
+        "Protect wealth from extravagance then protect faith from doubt then protect the community from hypocrites",
+        "Avoid disputing with disbelievers then avoid mourning the dead then avoid harsh treatment of new Muslims"
+      ],
       "correctAnswer": "B",
-      "explanation": "While Sunni commentators like Al-Razi prioritize philological and cosmological analysis, Shia works like Tafsir al-Qummi and Al-Mizan incorporate narrations from the Ahlul Bayt, imbuing the verse with symbolic dimensions: the 'black mud' signifies humanity's journey from base materialism toward spiritual refinement under divine guidance."
-    },
-    {
-      "id": "15_19",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 56,
-      "question": "Both Shia and Sunni traditions agree that despair from divine mercy is a form of spiritual misguidance, though they differ on whether this includes rejection of Imamic authority.",
-      "options": ["True", "False"],
-      "correctAnswer": "True",
-      "explanation": "Both traditions emphasize the Quranic condemnation of despairing from divine mercy as a hallmark of spiritual misguidance. Divergences emerge in that Shia exegetes expand this to include rejection of divinely appointed guidance (the Imams), while Sunni scholars focus on direct divine reliance."
-    },
-    {
-      "id": "15_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 5,
-      "question": "What is a key theological difference between Shia and Sunni interpretations of the 'term' (ajal) of nations in verse 15:5?",
-      "options": ["Sunni scholars deny any concept of divine decree", "Shia commentaries integrate the role of Imamate, arguing moral choices about accepting guided leadership affect spiritual trajectory", "Sunni scholars reject the verse's authenticity", "There are no meaningful differences"],
-      "correctAnswer": "B",
-      "explanation": "While Sunni exegetes stress individual moral responsibility and direct divine reliance, Shia commentaries like Al-Mizan integrate the role of divinely appointed leadership (Imamate) within the discourse on ajal, arguing that acceptance or rejection of guided leadership determines spiritual trajectory within Allah's foreknowledge."
+      "explanation": "Wahbah al-Zuhayli identified a logical and psychological progression in the three commands of verse 88: first, detach the gaze from the glittering provision given to disbelievers (addressing envy); second, release the grief that comes from their persistent rejection of truth (addressing emotional burden); third, lower the wing of mercy toward believers (redirecting that energy into nurturing the community)."
     }
   ]
 }

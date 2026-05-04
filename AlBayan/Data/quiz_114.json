@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In the opening verse of Surah An-Naas, what does the term 'Rabb' signify according to the Foundation Layer?",
+      "question": "Surah An-Nas opens with the command 'Qul' (Say). According to the foundation tafsir, why is this opening word significant?",
       "options": [
-        "Only the act of creation",
-        "Ongoing care, sovereignty, and nurturing of humanity",
-        "Temporary worldly power",
-        "Political authority"
+        "It indicates the surah is recited only by the Prophet, not the believers",
+        "It makes seeking refuge an intentional, verbal, and conscious declaration rather than a passive feeling",
+        "It signals that the surah was revealed in Madinah after the Hijra",
+        "It is a poetic opening with no specific spiritual function"
       ],
-      "correctAnswer": "Ongoing care, sovereignty, and nurturing of humanity",
-      "explanation": "The term 'Rabb' signifies not just creation but ongoing care, sovereignty, and nurturing—a theme central to Shia thought, which highlights Allah's intimate involvement in human affairs. This emphasizes Allah's all-encompassing protection and continuous guardianship over His creation."
+      "correctAnswer": "B",
+      "explanation": "The Layer 1 tafsir explains that the command 'Qul' is significant because it transforms seeking refuge into an intentional, verbal, and conscious act of speech, taught directly by Allah to the Prophet and to every believer through him."
     },
     {
       "id": "114_2",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to classical Shia exegesis, the terms 'Malik' (King) and 'Maliki' (Sovereign) in verse 2 both affirm Allah's sovereignty, which encompasses ownership (milk) and kingship (mulk).",
+      "layer": 1,
+      "verseNumber": 1,
+      "question": "True or false: A reported asbab al-nuzul connects the revelation of Surah An-Nas and Surah Al-Falaq to the Prophet being affected by sihr performed by Labid ibn al-Asam, with these surahs revealed as a divine remedy.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Tabrisi in Majma al-Bayan notes the variant recitations of 'Malik' (King) and 'Maliki' (Master), reconciling both by asserting that Allah's sovereignty encompasses both ownership (milk) and kingship (mulk), underscoring His transcendence beyond temporal power structures."
+      "explanation": "The Layer 1 commentary records that the Muawwidhatayn were revealed as a divine cure and shield when the Prophet was afflicted by black magic performed by Labid ibn al-Asam, making them a prophetic prescription for protection."
     },
     {
       "id": "114_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret the concept of seeking refuge in 'Rabb al-Nas' (Lord of Mankind)?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "Imam Fakhr al-Din al-Razi describes the progression of the three divine names in this surah (Rabb, Malik, Ilah) as representing what?",
       "options": [
-        "As limited to Shia Muslims only",
-        "As transcending sectarian or cultural boundaries, anchoring believers in divine sovereignty that unites all people",
-        "As exclusively a political statement",
-        "As relevant only to ancient societies"
+        "Three different deities being addressed in succession",
+        "An ascending scale of intimacy and acknowledgement, from creation and sustenance to authority to worship",
+        "A purely linguistic ornament with no theological depth",
+        "A reference to past, present, and future relationships with Allah"
       ],
-      "correctAnswer": "As transcending sectarian or cultural boundaries, anchoring believers in divine sovereignty that unites all people",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes that seeking refuge in 'Rabb al-Nas' transcends sectarian or cultural boundaries, anchoring believers in a divine sovereignty that unites all people. This verse challenges modern individualism by reframing security as a spiritual connection to a higher, inclusive authority."
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb explains that Rabb (sustenance), Malik (authority and governance), and Ilah (worship and devotion) form an ascending scale, drawing on the full spectrum of Allah's relationship with humanity to secure the most comprehensive divine protection."
     },
     {
       "id": "114_4",
-      "type": "multipleChoice",
-      "layer": 4,
+      "type": "trueFalse",
+      "layer": 2,
       "verseNumber": 4,
-      "question": "According to Imam Ja'far al-Sadiq's teachings about the 'retreating whisperer' (al-waswas al-khannas), what happens to Satan's whispers?",
-      "options": [
-        "They grow stronger with remembrance of Allah",
-        "They remain constant regardless of one's actions",
-        "They flee when Allah is remembered but return when heedlessness prevails",
-        "They only affect non-believers"
-      ],
-      "correctAnswer": "They flee when Allah is remembered but return when heedlessness prevails",
-      "explanation": "Imam Ja'far al-Sadiq taught that Satan 'advances with desire and retreats with obedience,' and Imam Ali emphasized that the whisperer 'flees when Allah is remembered but returns when heedlessness prevails.' This highlights the dynamic struggle between divine remembrance (dhikr) and satanic deception."
+      "question": "True or false: According to the narration from Ibn Abbas cited by Imam al-Tabari and Ibn Kathir, the devil sits perched upon the heart of the son of Adam whispering to him, and when the person remembers Allah he withdraws and slinks away, which is the meaning of 'al-khannas'.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari and Ibn Kathir record this narration from Ibn Abbas as the foundational classical explanation of 'al-waswas al-khannas': the devil whispers when the heart is heedless and retreats when Allah is remembered, making dhikr the most powerful weapon against him."
     },
     {
       "id": "114_5",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 5,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran reflects on the phrase 'fi sudur al-nas' (in the breasts of mankind). Which insight does he emphasize?",
+      "options": [
+        "That the battlefield between good and evil is ultimately external, fought through political action",
+        "That the breast refers only to literal anatomy and not the spiritual heart",
+        "That the battlefield between good and evil is ultimately interior, fought within the chest of every human being",
+        "That only prophets experience the whispering described in this verse"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb writes that the verse contains a profound psychological insight: the true battlefield between good and evil is interior, fought within the breast of every human being, and the Quran uniquely diagnoses the spiritual disease and prescribes the remedy in the same passage."
+    },
+    {
+      "id": "114_6",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Shia and Sunni exegetical traditions agree that Surah An-Naas verse 1 establishes Allah's absolute sovereignty (rububiyyah) over humanity, though they differ in their metaphysical interpretations of divine guardianship.",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Sheikh Ibn Uthaymeen and Wahbah al-Zuhayli teach that recognising Allah as 'Malik al-Nas' liberates the believer from fear of human powers and connects to the concept of hakimiyya, where human authority is legitimate only insofar as it aligns with divine authority.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Both Shia authorities like Tabatabai (Al-Mizan) and Sunni commentators such as Ibn Kathir agree that the verse establishes Allah's absolute sovereignty over humanity. However, Shia scholars emphasize the necessity of recognizing Allah's lordship through wilayah (divine guardianship) connected to the Ahl al-Bayt, while Sunni exegetes focus on Allah's direct, unmediated relationship with creation."
+      "explanation": "Layer 3 records Ibn Uthaymeen explaining that acknowledging Allah's sovereignty over all people is the antidote to human tyranny, and Wahbah al-Zuhayli linking 'Malik al-Nas' to hakimiyya, the principle that all human law and authority are conditional upon alignment with divine sovereignty."
+    },
+    {
+      "id": "114_7",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "The closing verse 'min al-jinnati wa al-nas' identifies two categories of whisperers. What practical implication does the foundation tafsir draw from this?",
+      "options": [
+        "Only jinn can whisper into the heart; the mention of 'nas' is metaphorical",
+        "Whisperers are exclusively human; the mention of jinn is symbolic",
+        "Both unseen jinn and human beings (such as harmful companions or manipulative voices) can plant evil suggestions, so believers must be discerning about the influences they allow into their hearts",
+        "The verse refers to angels and prophets, not whisperers of evil"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Layer 1 commentary, supported by the hadith of Abu Dharr in which the Prophet affirmed the existence of human devils, teaches that whispering can come from both jinn and mankind, so the believer must guard against harmful companions, malicious advisors, and manipulative voices in addition to unseen spiritual enemies."
     }
   ]
 }

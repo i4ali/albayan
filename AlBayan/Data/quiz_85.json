@@ -6,110 +6,155 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Burooj's opening verse, what does the term 'al-burooj' refer to according to the Foundation Layer?",
+      "question": "What does the Arabic term 'al-buruj' refer to in the opening oath of this surah?",
       "options": [
-        "Mountains and valleys",
-        "Constellations or celestial formations known as 'towers of light'",
-        "Ancient cities and fortresses",
-        "Desert oases and palm trees"
+        "A) The seven heavens mentioned throughout the Quran",
+        "B) The great star formations and zodiacal constellations tracing paths across the sky",
+        "C) The angels stationed at the gates of Paradise",
+        "D) The mountains and landmarks of the Arabian Peninsula"
       ],
-      "correctAnswer": "Constellations or celestial formations known as 'towers of light'",
-      "explanation": "The term 'al-burooj' refers to constellations or celestial formations, often translated as 'great stars' or 'towers of light.' Classical Shia commentators like Allamah Tabatabai explain that these cosmic patterns symbolise divine order and precision, reflecting Allah's infinite wisdom."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'buruj' (singular: burj) refers to the great star formations and zodiacal constellations that mark the cosmic order Allah placed in the universe. Ibn Abbas, Mujahid, and Hasan al-Basri all affirmed that al-buruj designates the stars and their grand stations in the sky."
     },
     {
       "id": "85_2",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Al-Tabatabai in Al-Mizan, how does the cosmic imagery of 'buruj' connect to Shia theology?",
-      "options": [
-        "It only represents astronomical phenomena with no spiritual meaning",
-        "The structured heavens mirror the spiritual hierarchy and the Imams serve as luminous guides like stars prevent celestial chaos",
-        "It symbolizes the zodiac signs used for fortune-telling",
-        "It represents the physical distance between Earth and Heaven"
-      ],
-      "correctAnswer": "The structured heavens mirror the spiritual hierarchy and the Imams serve as luminous guides like stars prevent celestial chaos",
-      "explanation": "Al-Tabatabai emphasises that just as stars prevent celestial chaos, the Imams preserve spiritual and moral equilibrium, ensuring the continuity of divine guidance after the Prophet. The 'buruj' symbolise the hierarchical structure of existence, where celestial order mirrors the spiritual hierarchy established by Allah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "True or false: the Arabic expression 'qutila' in verse 4 conveys Allah's severe condemnation of the People of the Trench for their persecution of believers.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 1 tafsir confirms that 'qutila' expresses Allah's severe condemnation of those who dug the fire-filled trenches. This curse-formula signals that the Ashab al-Ukhdud are among the most condemned in Quranic narrative precisely because they tortured believers for their faith alone."
     },
     {
       "id": "85_3",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary Shia scholars like Dr. Hassan Alawi, the 'buruj' in verse 1 can be understood through modern astrophysics as dynamic systems that echo the Quranic emphasis on cosmic balance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Contemporary scholars bridge classical interpretations with astrophysics, noting how stars' gravitational precision and galactic architecture—evident in phenomena like the Milky Way's spiral arms—mirror the Quranic emphasis on balance (mizan). Dr. Hassan Alawi observes that the buruj aren't just ancient symbols but dynamic systems echoing the ayat (signs) of creation."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "Verse 8 identifies the sole reason the believers of the trench were persecuted. What was it?",
+      "options": [
+        "A) They refused to pay tribute to the ruling king",
+        "B) They publicly challenged the court's sorcerers and priests",
+        "C) They believed in Allah, the Almighty and the Praiseworthy",
+        "D) They organised political resistance against the government"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The tafsir notes that verse 8 uses the exclusive Arabic construction 'wa ma naqamu minhum illa' — meaning their only fault was believing in Allah, al-Aziz al-Hamid. Imam Tabari records that this absolute exclusivity is the Quran's most powerful moral condemnation, removing any other motive for the persecution."
     },
     {
       "id": "85_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching in Tafsir al-Qummi, what do the 'buruj' (great stars) represent?",
-      "options": [
-        "Physical navigation tools for desert travelers",
-        "The Imams from the progeny of Muhammad who are towers of light guiding humanity through darkness",
-        "Ancient astronomical calendars",
-        "Celestial bodies that determine human fate"
-      ],
-      "correctAnswer": "The Imams from the progeny of Muhammad who are towers of light guiding humanity through darkness",
-      "explanation": "Imam Ja'far al-Sadiq states in Tafsir al-Qummi: 'The buruj (great stars) are the Imams from the progeny of Muhammad. They are towers of light guiding humanity through the darkness of ignorance, just as stars guide travellers at night.' This aligns with the Shia understanding of Imamah as celestial beacons preserving Allah's covenant."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "True or false: the word 'qu'ud' (settled sitting) in verse 6 indicates that the burning of the believers was an impulsive, unplanned act of violence.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The layer 1 tafsir explains that 'qu'ud' means deliberate, settled sitting — the persecutors were intentionally stationed at the trench edge, indicating a premeditated and organised execution. Ibn Kathir's analysis shows the word signifies a state of being firmly settled, implying authority and control over proceedings."
     },
     {
       "id": "85_5",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 8,
-      "question": "In verse 8, what was the only 'crime' of the persecuted believers according to the Foundation Layer?",
+      "verseNumber": 14,
+      "question": "What does the divine name 'al-Wadud' in verse 14 convey about Allah's relationship to His believing servants?",
       "options": [
-        "Political rebellion against the king",
-        "Economic competition with merchants",
-        "Their unwavering faith in Allah and upholding tawhid (divine unity)",
-        "Refusing to pay taxes"
+        "A) That Allah is a distant sovereign requiring intermediaries to approach Him",
+        "B) That Allah harbours deep, warm affection for His servants and desires their wellbeing",
+        "C) That Allah's love is conditional upon performing extraordinary acts of worship",
+        "D) That Allah's mercy is reserved only for prophets and martyrs"
       ],
-      "correctAnswer": "Their unwavering faith in Allah and upholding tawhid (divine unity)",
-      "explanation": "The phrase 'they resented them not except because they believed in Allah' reveals that tyrants punished people not for wrongdoing, but for upholding tawhid (divine unity). Their oppressors' hatred stemmed not from any fault in the believers, but from their rejection of falsehood and commitment to Allah al-Aziz al-Hameed."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'al-Wadud' comes from the root w-d-d, meaning intense, warm affection that longs for the beloved's wellbeing. Ibn Abbas interpreted it as 'al-Habib' — the Loving One — and the tafsir presents it as a direct message to persecuted believers that their God harbours deep personal affection for them."
     },
     {
       "id": "85_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 6,
-      "question": "According to Tabrisi in Majma al-Bayan, the 'sitting near' the trench in verse 6 represents mere passive observation rather than active complicity in the persecution.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Tabrisi interprets 'sitting near it' as depicting the physical proximity of the persecutors to the pit of fire, underscoring their active complicity in the torture of the faithful. Their seated posture signifies not mere observation but deliberate engagement in tyranny, as they orchestrated the burning of believers who refused to renounce monotheism."
+      "verseNumber": 3,
+      "question": "Which interpretation of 'al-shahid wa al-mashhud' in verse 3 does Ibn Kathir consider particularly well-supported, citing a hadith from the Prophet narrated by Abu Hurayra?",
+      "options": [
+        "A) The witness is the angel Jibril and the witnessed is the Night of Power",
+        "B) The witness is the Prophet Ibrahim and the witnessed is the Ka'bah",
+        "C) The witness is Friday and the witnessed is the Day of Arafat",
+        "D) The witness is the Quran itself and the witnessed is the Day of Resurrection"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites an authenticated narration reported by Abu Hurayra in Tirmidhi and other collections, in which the Prophet identified the promised day as the Day of Resurrection, the witness as Friday, and the witnessed as the Day of Arafat. Ibn Kathir considers this hadith-based interpretation to carry significant weight."
     },
     {
       "id": "85_7",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 17,
-      "question": "What is a key difference between Sunni and Shia interpretations of the 'soldiers' mentioned in verse 17?",
-      "options": [
-        "Sunni scholars reject the verse entirely while Shia accept it",
-        "Sunni exegesis focuses on universal ethical implications while Shia interpretations often link it to the suffering of the Ahl al-Bayt and the concept of Imamah",
-        "Both traditions interpret the verse identically with no differences",
-        "Shia scholars view it only as a historical account while Sunni see spiritual meaning"
-      ],
-      "correctAnswer": "Sunni exegesis focuses on universal ethical implications while Shia interpretations often link it to the suffering of the Ahl al-Bayt and the concept of Imamah",
-      "explanation": "While Sunni commentators focus on the event's universal ethical implications of resisting tyranny, Shia tafsirs like Al-Qummi and Tusi's At-Tibyan often link the verse to the suffering of the Ahl al-Bayt, viewing the persecutors as symbolic of those who opposed divine guidance. The verse also reinforces the Shia doctrine of Imamah, ensuring the ultimate triumph of truth."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "True or false: Fakhr al-Din al-Razi notes the irony that the persecutors' own presence as witnesses at the trench will serve as testimony against them before the divine court on the Day of Judgment.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb notes that on the Day of Judgment these same persecutors will be called as witnesses against themselves — their physical presence at the trench becoming evidence of their crime. Al-Qurtubi draws on this to establish the jurisprudential principle that witnessing and approving evil carries the same accountability as committing it."
     },
     {
       "id": "85_8",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 14,
-      "question": "How do contemporary Shia scholars like Sayyed Mohammad Hussein Fadlallah interpret the divine attribute 'Al-Wadood' (The Affectionate) in verse 14?",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "What does Imam Tabari draw from the pairing of Pharaoh and Thamud as examples in this surah?",
       "options": [
-        "As a purely abstract theological concept with no practical application",
-        "As divine affection manifesting in creation's interconnectedness, relevant to ecological ethics and care for the planet",
-        "As applicable only to human relationships, not environmental concerns",
-        "As a historical attribute no longer relevant in modern times"
+        "A) That only nations geographically close to Arabia ever faced divine punishment",
+        "B) Both were warned through prophets with clear signs yet persisted in rejection, showing the futility of opposing Allah's will",
+        "C) That military power alone draws divine punishment while cultural arrogance does not",
+        "D) That their punishment was purely worldly with no accounting in the hereafter"
       ],
-      "correctAnswer": "As divine affection manifesting in creation's interconnectedness, relevant to ecological ethics and care for the planet",
-      "explanation": "Sayyed Mohammad Hussein Fadlallah framed 'wadood' as divine 'affection' manifesting in creation's interconnectedness—a theme echoed in ecological ethics, where care for the planet reflects reverence for Allah's loving sustenance. This bridges classical theology with contemporary environmental concerns."
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in Jami al-Bayan explains that both Pharaoh and Thamud were warned through prophets and given clear signs yet chose to persist in rejection — a pattern that mirrors what the Prophet Muhammad faced in Mecca. Ibn Kathir adds that Pharaoh had the most powerful military of his era and Thamud had mountain fortifications, yet neither could protect them."
+    },
+    {
+      "id": "85_9",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "True or false: Ibn Kathir cites a hadith found in both Sahih al-Bukhari and Sahih Muslim in which the Prophet described Allah's patience with the wrongdoer but warned that when Allah seizes him He does not let go, then recited verse 12 of this surah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 2 tafsir on verse 12 states that Ibn Kathir cites this hadith from both Sahih al-Bukhari and Sahih Muslim. Al-Qurtubi notes the verse is placed immediately after the promise of Paradise for believers, creating a complete picture of divine justice: mercy for the faithful and decisive seizure for the oppressors."
+    },
+    {
+      "id": "85_10",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "How does Sayyid Qutb in Fi Zilal al-Quran describe the rhetorical power of verse 20 — 'Allah encompasses them from behind'?",
+      "options": [
+        "A) As an invitation to the disbelievers to repent by showing them there is still a way of escape",
+        "B) As one of the most psychologically devastating responses to human arrogance in the Quran, precisely because of its quiet, understated tone",
+        "C) As evidence that divine justice is limited to the afterlife with no implications for worldly history",
+        "D) As a call to believers to confront oppressors directly in worldly courts of law"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran describes this verse as one of the most psychologically devastating responses to human arrogance in the Quran, precisely because of its understated tone. While the disbelievers shout their denial and wield power, the Quran quietly closes the cosmos around them — they imagine they are free when they are utterly surrounded."
+    },
+    {
+      "id": "85_11",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 21,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir identifies what as the primary evidence of the Quran's 'majd' (glory) described in verse 21?",
+      "options": [
+        "A) The large number of languages into which the Quran has been translated",
+        "B) The physical beauty of illuminated manuscripts produced by Muslim calligraphers",
+        "C) The Quran's inimitability — that after fourteen centuries no human composition has equalled it in linguistic beauty, legislative wisdom, and spiritual depth",
+        "D) The political authority historically granted to rulers who governed by its precepts"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir identifies the Quran's i'jaz — its inimitability — as the primary manifestation of its 'majd'. He notes that after fourteen centuries no human literary composition has equalled it across its dimensions: linguistic beauty, legislative wisdom, scientific accuracy, spiritual depth, and internal coherence across themes revealed over twenty-three years."
+    },
+    {
+      "id": "85_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 22,
+      "question": "True or false: Sayyid Qutb concludes his commentary on this surah by arguing that the arc from believers burning in fire-trenches to the Quran inscribed in the Preserved Tablet encapsulates the surah's thesis — that suffering is real but the truth believers die for is eternal and indestructible.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran traces the surah's full arc: it opens with cosmic oaths, travels through believers being burned in trenches, and closes in the Preserved Tablet — a place beyond earthly reach. He writes that this journey is the surah's thesis: persecution is real, but the truth the believers die for is eternal. Wahbah al-Zuhayli adds that the Lawh Mahfuz grounds the Islamic doctrine of qadar, affirming the Quran is part of an eternal divine plan preceding creation itself."
     }
   ]
 }

@@ -6,200 +6,395 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What are the disconnected letters (huruf muqatta'at) at the beginning of Surah Al-A'raf?",
-      "options": ["Alif-Lam-Ra", "Alif-Lam-Meem-Sad", "Ha-Meem", "Ya-Seen"],
+      "question": "The four letters Alif, Lam, Meem, Sad that open Surah Al-Araf are known as the muqattaat. What is the stance that Imam al-Tabari considered most sound regarding their meaning?",
+      "options": [
+        "A) They are abbreviations for the names of Surah Al-Araf's main themes",
+        "B) Their true meaning is known only to Allah, and silence before them is the scholarly and pious course",
+        "C) They are divine challenges proving the Quran surpasses every human language",
+        "D) They are encoded references to the Prophet's companions"
+      ],
       "correctAnswer": "B",
-      "explanation": "Surah Al-A'raf begins with 'Alif-Lam-Meem-Sad' (Almss). According to the tafsir, scholars like Allama Tabatabai explain these letters as possessing mystical significance, with some traditions connecting them to the divine names and attributes known fully only to Allah and His chosen guides."
+      "explanation": "Imam al-Tabari in Jami al-Bayan concludes that the most widely transmitted view among the Companions and their successors is that the full meaning of the muqattaat rests with Allah alone, and he favors the position of tawqif — cessation of opinion — meaning one should not speculate beyond what has been authentically reported."
     },
     {
       "id": "7_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 12,
-      "question": "According to Surah Al-A'raf, Iblis refused to prostrate to Adam because he believed fire was superior to clay.",
+      "layer": 3,
+      "verseNumber": 1,
+      "question": "True or false: Sayyid Qutb, in Fi Zilal al-Quran, argues that the muqattaat teach that faith is not contingent on total comprehension, and that the highest form of knowledge begins with recognizing what one does not and cannot know.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "In verse 12, when Allah asked Iblis why he did not prostrate, he replied 'I am better than him. You created me from fire and created him from clay.' This arrogance (istikbar) based on his perceived material superiority led to his downfall."
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that the muqattaat carry a profound educational purpose: they teach the believing community that faith is not contingent on total comprehension, and that the highest form of knowledge begins with recognizing what one does not know — a lesson that speaks directly to a rationalist age demanding proof before belief."
     },
     {
       "id": "7_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 46,
-      "question": "What is Al-A'raf (The Heights) described as in Surah Al-A'raf?",
-      "options": ["A mountain in Paradise", "A partition between Paradise and Hell", "The highest level of Heaven", "A bridge over Hell"],
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "In verse 2, Allah reassures the Prophet that he should feel no haraj (distress) in his chest about the Quran. How did Ibn Kathir explain the nature of this divine reassurance?",
+      "options": [
+        "A) Allah was warning the Prophet that the Quran would be rejected by all Arabs",
+        "B) Allah was preemptively comforting the Prophet against the distress that comes from delivering an unwelcome message to a hostile audience",
+        "C) Allah was informing the Prophet that the Quran required no explanation or effort to convey",
+        "D) Allah was promising the Prophet that no harm would ever come to him from the Quraysh"
+      ],
       "correctAnswer": "B",
-      "explanation": "The tafsir explains that Al-A'raf refers to an elevated partition or barrier between Paradise and Hell. On it stand people whose good and bad deeds are equal, awaiting Allah's mercy before being admitted to Paradise."
+      "explanation": "Ibn Kathir in his Tafsir al-Quran al-Azim explains that Allah is preemptively comforting the Prophet against the distress arising from delivering an unwelcome message to a hostile audience, noting that the two stated purposes of the Book are warning (indhaar) for the heedless and reminder (dhikra) for the believers."
     },
     {
       "id": "7_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 23,
-      "question": "What prayer did Adam and Hawwa recite after they realized their sin?",
-      "options": ["Our Lord, forgive us our sins", "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers", "Our Lord, grant us good in this world and in the Hereafter", "Our Lord, make us submissive to You"],
-      "correctAnswer": "B",
-      "explanation": "In verse 23, Adam and Hawwa acknowledged their wrongdoing with the supplication: 'Our Lord, we have wronged ourselves (zalamna anfusana), and if You do not forgive us and have mercy upon us, we will surely be among the losers.' This teaches that sin is fundamentally self-harm."
+      "verseNumber": 3,
+      "question": "True or false: According to the tafsir of verse 3, the command 'follow what has been revealed to you from your Lord' is addressed exclusively to Muslims, not to all of humanity.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 3 explains that Imam al-Tabari interprets the command ittabi'u ma unzila ilaykum as an address to all people, making the obligation to follow divine revelation universal. Al-Razi further notes that what Allah reveals to His Messenger is not for the Prophet alone but for the totality of human beings."
     },
     {
       "id": "7_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 172,
-      "question": "What is the 'Mithaq' (Covenant) described in verse 172 according to classical Shia scholarship?",
-      "options": ["A contract made with Prophet Muhammad", "A primordial covenant where all souls testified to Allah's lordship before creation", "A pact made between the prophets", "An agreement made at Mount Sinai"],
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Wahbah al-Zuhayli, commenting on verse 3's phrase 'little do you remember,' connects this rebuke to a modern condition. What does al-Zuhayli identify as a key cause of this spiritual forgetfulness today?",
+      "options": [
+        "A) A lack of access to Quranic translations in modern languages",
+        "B) Ceaseless entertainment, media saturation, and intellectual noise that crowd out genuine reflection",
+        "C) The decline of Arabic as the language of scholarship",
+        "D) Modern theology's rejection of the concept of divine guidance"
+      ],
       "correctAnswer": "B",
-      "explanation": "According to Allama Tabatabai in Al-Mizan, verse 172 describes a metaphysical event in the pre-existential realm ('alam al-dharr) where all human souls were brought into being and testified to Allah's lordship when asked 'Am I not your Lord?' (Alastu bi-Rabbikum). This establishes the innate disposition (fitrah) toward divine truth."
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli notes that the phrase 'little do you remember' is a timeless diagnosis of human spiritual distraction, a condition that is perhaps more acute in the modern age with its ceaseless entertainment, media saturation, and intellectual noise that crowd out moments of genuine remembrance and reflection."
     },
     {
       "id": "7_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 157,
-      "question": "According to Shia exegesis, the 'light sent down with him' in verse 157 refers exclusively to the Quran.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Shia sources, particularly Al-Tabatabai's Al-Mizan, interpret the 'light sent down with him' as encompassing both the Quran AND the luminous authority (wilayah) of the Prophet's household (Ahlul Bayt), reflecting the Hadith al-AlBayan's duality of the 'Book' and the 'Progeny.'"
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "When Allah questioned Iblis about his refusal to prostrate before Adam, Iblis replied with three simultaneous errors. Which of the following was NOT one of those three errors according to the tafsir?",
+      "options": [
+        "A) He allowed his own reasoning to override a direct divine command",
+        "B) He claimed Adam's knowledge of divine names was inferior to his own",
+        "C) He judged his superiority based on the material he was made from",
+        "D) He used his self-constructed argument to justify disobedience"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 12 identifies Iblis's three simultaneous errors as: overriding divine command with personal reasoning, judging superiority based on material composition (fire over clay), and using this argument to justify disobedience. The claim about Adam's knowledge of divine names is not among them."
     },
     {
       "id": "7_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 172,
-      "question": "According to Tabrisi in Majma al-Bayan, what purpose does the primordial covenant serve?",
-      "options": ["To establish prophetic succession", "To negate any plea of ignorance on the Day of Resurrection", "To determine who will enter Paradise", "To separate believers from disbelievers"],
-      "correctAnswer": "B",
-      "explanation": "Tabrisi in Majma al-Bayan explains that the covenant serves to negate any plea of ignorance on the Day of Resurrection, affirming humanity's intrinsic capacity to discern truth. No soul can claim they were unaware of Allah's existence since this truth is imprinted within us."
+      "verseNumber": 12,
+      "question": "True or false: Ibn Kathir records the statement attributed to al-Hasan al-Basri that 'Iblis was the first to make qiyas, and whoever uses analogy to oppose a clear text is following the way of Iblis.'",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records the famous statement attributed to al-Hasan al-Basri — 'Iblis was the first to make qiyas, and whoever uses analogy to oppose a clear text is following the way of Iblis' — as evidence that the classical scholars drew a direct jurisprudential lesson from Iblis's mode of reasoning in verse 12."
     },
     {
       "id": "7_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 11,
-      "question": "What does the Shia concept of 'lutf' (divine grace) mean in relation to verse 172's covenant?",
-      "options": ["Allah forces humans to believe", "Allah facilitates conditions for human accountability by embedding knowledge of His Lordship within creation", "Allah chooses who will be saved arbitrarily", "Allah removes all burdens from believers"],
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "How does Muhammad al-Sha'rawi interpret the significance of Allah's command 'Descend from it' and the title 'of the debased' given to Iblis in verse 13?",
+      "options": [
+        "A) It reveals that the Garden mentioned is a metaphor for prophetic consciousness",
+        "B) It shows that the realm of true closeness to Allah admits only the humble, a principle applying equally to worship, the mosque, and the Day of Judgment",
+        "C) It demonstrates that jinn are incapable of true worship due to their fiery origin",
+        "D) It establishes that all pride originates in material jealousy"
+      ],
       "correctAnswer": "B",
-      "explanation": "The tafsir explains that theologically, verse 172 reinforces the principle of lutf (divine grace), wherein Allah facilitates the conditions for human accountability by embedding the knowledge of His Lordship within creation. This makes humans responsible for recognizing divine truth."
+      "explanation": "Al-Sha'rawi in his tafsir reflected that the phrase 'it is not for you to be arrogant therein' carries a universal message: the realm of true closeness to Allah admits only the humble, and this principle applies equally to earthly worship, the mosque, the gathering of knowledge, and the Day of Judgment."
     },
     {
       "id": "7_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 172,
-      "question": "Contemporary scholars see parallels between the Quranic concept of fitrah (innate disposition) and modern psychology's exploration of an inborn moral compass.",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "True or false: When Iblis requested a reprieve 'until the Day they are resurrected,' he was asking for time to repent before facing divine judgment.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "According to the tafsir, Ayatollah Naser Makarem Shirazi and other contemporary scholars interpret the primordial covenant as the foundation of fitrah. This resonates with modern psychology's exploration of an inborn moral compass, as studies suggest humans possess universal ethical intuitions."
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 14 makes clear that Iblis did not ask for a reprieve to repent. After his expulsion, he made a calculated strategic request for time specifically to pursue his enmity against the children of Adam. His response revealed no regret, only a deliberate plan to lead humanity astray — what scholars call 'kufr al-inkar bi-ma'rifa,' rejection despite full knowledge."
     },
     {
       "id": "7_10",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 157,
-      "question": "How do contemporary scholars interpret the 'burdens and shackles' that the Prophet relieves humanity from?",
-      "options": ["Only religious rituals from previous traditions", "Systemic oppressions including economic inequality, racial injustice, and environmental exploitation", "Physical chains and imprisonment", "Only spiritual sins"],
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "Classical scholars discussed whether Allah granted Iblis exactly what he asked for in verse 15. What did scholars such as Ibn Kathir conclude by comparing this verse to Surah Al-Hijr (15:38)?",
+      "options": [
+        "A) Allah granted Iblis a full and unlimited reprieve with no expiry",
+        "B) The reprieve was granted but ends at a specific appointed moment before the actual Day of Resurrection, known only to Allah",
+        "C) Allah refused the request and instead gave Iblis only until the end of the Prophet's lifetime",
+        "D) The reprieve was conditional on Iblis never directly approaching a prophet"
+      ],
       "correctAnswer": "B",
-      "explanation": "Modern interpretations often highlight the 'burdens and shackles' as systemic oppressions - economic inequality, racial injustice, or environmental exploitation. The Prophet's mandate to 'enjoin good' resonates with today's social movements for climate action and campaigns against poverty."
+      "explanation": "Ibn Kathir notes that comparing verse 15 of Al-Araf to Al-Hijr verse 38 ('till the day of the time well known') shows the reprieve may not correspond exactly to what Iblis requested. Many classical scholars concluded the reprieve ends at a specific moment before the actual Day of Resurrection itself — a moment known only to Allah."
     },
     {
       "id": "7_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 172,
-      "question": "According to Dr. Reza Shah-Kazemi, what does the primordial covenant call humanity to?",
-      "options": ["Individual salvation only", "Collective responsibility toward each other and the planet", "Rejection of all worldly affairs", "Isolation from society"],
+      "layer": 1,
+      "verseNumber": 25,
+      "question": "Verse 25 declares: 'Therein you will live, and therein you will die, and from it you will be brought forth.' What three-stage framework does this verse establish for every human being?",
+      "options": [
+        "A) Creation, judgment, and eternity",
+        "B) Birth and life on earth, death on earth, and resurrection from the earth",
+        "C) Physical existence, spiritual awakening, and divine reward",
+        "D) Obedience, testing, and accountability"
+      ],
       "correctAnswer": "B",
-      "explanation": "Scholar Dr. Reza Shah-Kazemi frames the covenant as a call to collective responsibility. Just as the covenant binds us to God, it binds us to one another and the planet - a theme emphasizing stewardship of Earth as a shared spiritual duty."
+      "explanation": "Verse 25 uses three parallel phrases to declare the entire cycle of human existence: life on earth, death on earth, and resurrection from the same earth. Ibn Kathir notes this directly parallels Surah Ta-Ha 20:55 ('From it We created you, into it We will return you, and from it We will extract you another time'), confirming the physical resurrection is anchored in the very earth upon which humanity was placed."
     },
     {
       "id": "7_12",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 173,
-      "question": "According to contemporary interpretation, the verse 173's rejection of 'blaming ancestors' aligns with existentialist themes of radical personal responsibility.",
+      "layer": 2,
+      "verseNumber": 26,
+      "question": "True or false: According to the occasion of revelation recorded by Ibn Kathir, verse 26's emphasis on clothing was sent down partly in response to pagan Arabs who would perform tawaf around the Kabah in a state of nakedness.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The tafsir notes that philosophically, verse 173 intersects with existentialist themes of radical responsibility - Sartre's insistence that 'man is condemned to be free' mirrors the Quranic demand to own one's moral choices rather than hiding behind inherited traditions."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim documents that before Islam, groups of Arab tribes would circle the Kabah unclothed, arguing they should not perform acts of worship wearing the garments of their sins. Verse 26 directly refutes this by affirming that clothing is a divine blessing and that the garment of taqwa is the highest adornment."
     },
     {
       "id": "7_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 172,
-      "question": "According to Imam Jaafar al-Sadiq, what did the souls testify to in the primordial covenant?",
-      "options": ["Only Allah's lordship", "Allah's lordship, the prophethood of Muhammad, and the wilayah of Ali and the Imams", "The five pillars of Islam", "The Day of Judgment"],
+      "layer": 3,
+      "verseNumber": 26,
+      "question": "Sayyid Qutb, reflecting on the phrase 'clothing of taqwa — that is best' in verse 26, connects it to a recurring pattern in history. What does Qutb describe as the 'devilish stratagem in every age'?",
+      "options": [
+        "A) Teaching people that physical beauty is superior to moral virtue",
+        "B) Stripping humanity of both physical modesty and moral consciousness, portraying the shedding of both as sophistication and liberation",
+        "C) Replacing Quranic law with human philosophy to undermine Islamic civilization",
+        "D) Encouraging excessive religiosity as a substitute for genuine taqwa"
+      ],
       "correctAnswer": "B",
-      "explanation": "Imam Jaafar al-Sadiq teaches that when Allah drew forth all human souls, 'Allah made them testify first to His lordship, then to the prophethood of Muhammad, and then to the wilayah of Ali and the Imams from his progeny' (Tafsir al-Qummi)."
+      "explanation": "Sayyid Qutb observes in Fi Zilal al-Quran that the devilish stratagem in every age has been to strip humanity of both forms of dress — physical and moral — encouraging people to believe that shedding clothing is sophistication and that abandoning moral consciousness is liberation. He sees modern secular culture mirroring the pre-Islamic pagan practice of disrobing."
     },
     {
       "id": "7_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 157,
-      "question": "According to Imam Ja'far al-Sadiq, the 'light sent down with him' in verse 157 refers to the Wilayah of Ali and the Imams.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ja'far al-Sadiq explained: 'The light sent down with him is the Wilayah of Ali and the Imams - for they are the enduring light of Allah on Earth' (Tafsir al-Qummi). This establishes Imamah as the living manifestation of the Prophet's mission."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 41,
+      "question": "The tafsir of verse 41 explains that the punishment of the wrongdoers uses the imagery of a bed and a covering of fire. Which classical scholar particularly emphasized how this imagery parallels a verse in Surah Al-Zumar?",
+      "options": [
+        "A) Imam al-Suyuti, who read it as an allegory for spiritual emptiness",
+        "B) Ibn Kathir, who noted it mirrors the language of Surah Al-Zumar 39:16 about canopies above and below",
+        "C) Imam al-Nawawi, who connected it to the five daily prayers as a protection",
+        "D) Ibn Abbas, who interpreted it as applying only to Pharaoh and his army"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim notes that verse 41 mirrors the concept in Surah Al-Zumar (39:16): 'They will have canopies of fire above them and below them canopies,' indicating a complete enclosure in punishment. He describes the pairing of mihad (bed) and ghawash (coverings) as a rhetorical inversion of normal human comfort: what should provide rest and warmth becomes the instrument of torment."
     },
     {
       "id": "7_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 172,
-      "question": "What warning did Imam al-Baqir give about the primordial covenant?",
-      "options": ["Those who forget the covenant will be punished immediately", "He who dies without recognizing the Imam of his time dies the death of pre-Islamic ignorance", "The covenant can be renewed only once", "Only scholars need to remember the covenant"],
-      "correctAnswer": "B",
-      "explanation": "Imam al-Baqir stated: 'He who dies without recognizing the Imam of his time dies the death of pre-Islamic ignorance' - a dire warning to keep the primordial covenant alive through conscious allegiance to the living guidance of the Ahlul Bayt in every age."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "True or false: The principle stated in verse 42 — 'We charge no soul except within its capacity' — is a concession added to Islamic law after the fact, not an inherent feature of divine obligation from the beginning.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam al-Tabari records narrations from the early scholars confirming that this principle abrogates no previous ruling but rather clarifies the inherent design of Islamic obligation: it is a mercy from the beginning, not a concession added later. The word wus'aha (capacity) indicates that Allah's commands fit within the natural breadth of human ability without causing undue hardship."
     },
     {
       "id": "7_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 173,
-      "question": "How did Lady Fatimah describe the role of obedience to the Ahlul Bayt?",
-      "options": ["Optional for advanced believers only", "The order for unity and protection against division", "Only for political leadership", "A temporary arrangement until the Day of Judgment"],
+      "layer": 2,
+      "verseNumber": 43,
+      "question": "Verse 43 describes believers in Paradise saying: 'Praise to Allah who guided us to this; and we would never have been guided if Allah had not guided us.' Which theological principle do Sunni scholars cite this verse to support?",
+      "options": [
+        "A) That deeds, not faith, are the primary cause of entering Paradise",
+        "B) The Ashari and Maturidi position that divine guidance is the necessary precondition for human faith",
+        "C) That all prophets share equal status in guiding humanity",
+        "D) The principle that Paradise is earned purely through personal merit without divine grace"
+      ],
       "correctAnswer": "B",
-      "explanation": "Lady Fatimah (peace be upon her) emphasized in her sermon: 'Allah made obedience to us the order for unity and our leadership a protection against division.' This shows the Ahlul Bayt's role in maintaining Muslim unity."
+      "explanation": "Ibn Kathir explains the phrase 'we would never have been guided if Allah had not guided us' as an unambiguous affirmation of the Sunni Ashari and Maturidi theological position that divine guidance is the necessary precondition for human faith. Sunni scholars have cited this verse extensively in theological debates about hidayah (divine guidance) and human choice."
     },
     {
       "id": "7_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 172,
-      "question": "What is the key difference between Sunni and Shia interpretation of the primordial covenant's nature?",
-      "options": ["Sunni scholars accept it while Shia scholars reject it", "Sunni exegetes often frame it metaphorically as fitrah, while Shia describe a literal pre-creation gathering of souls", "Both interpret it exactly the same way", "Only Shia scholars discuss this covenant"],
+      "layer": 1,
+      "verseNumber": 49,
+      "question": "The People of the Heights (Ashab al-Araf) in verse 49 are addressed with a rhetorical question pointing to the humble believers whom the arrogant had declared would 'never receive Allah's mercy.' What divine command do they then receive?",
+      "options": [
+        "A) They are told to remain on the Heights as witnesses until the Day of Judgment ends",
+        "B) They are commanded to enter Paradise, with no fear upon them and no grief",
+        "C) They are instructed to intercede on behalf of the inhabitants of the Fire",
+        "D) They are warned to account for their own sins before seeking Allah's mercy"
+      ],
       "correctAnswer": "B",
-      "explanation": "Sunni exegetes like Qurtubi and Razi often frame the event metaphorically, aligning it with the concept of fitrah. In contrast, Shia tafsir traditions, particularly in Al-Qummi's commentary and Tusi's Al-Tibyan, describe a literal, pre-creation gathering of souls ('alam al-dharr) where all humans explicitly testified."
+      "explanation": "Verse 49 closes with the command 'Enter Paradise, no fear shall be upon you, nor shall you grieve.' Classical scholars unanimously understood this as confirming that the People of the Heights will ultimately be admitted to Paradise, representing a divine vindication of those who were belittled for their faith and a powerful reversal of the arrogant leaders' declarations."
     },
     {
       "id": "7_18",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 157,
-      "question": "Both Sunni and Shia scholars agree that the verse 157 affirms Muhammad's prophethood was foretold in previous Abrahamic texts.",
+      "layer": 2,
+      "verseNumber": 59,
+      "question": "True or false: Ibn Kathir notes that Prophet Nuh was the first messenger sent to the entire earth after Adam, and that the idols worshipped in his time were originally the names of righteous people whose statues were later venerated and then worshipped.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Al-Tabari (Sunni) and Al-Tabrisi (Shia) agree the verse affirms Muhammad's prophethood in Abrahamic texts. Both traditions stress the Prophet's role as foretold in the Torah and Gospel, though they differ on some interpretive details."
+      "explanation": "Ibn Kathir notes in his tafsir that polytheism spread gradually — beginning with the veneration of righteous men who had died, whose images and statues were eventually worshipped as gods. Imam Tabari records from the Salaf that the names of the idols (Wadd, Suwa, Yaghuth, Yauq, Nasr) were originally the names of righteous people whose statues were erected in memory before being worshipped after the community forgot the original intention."
     },
     {
       "id": "7_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 172,
-      "question": "According to comparative analysis, what do Shia interpretations uniquely connect the primordial covenant to?",
-      "options": ["The five daily prayers", "The recognition of divine guidance through the Imams and the concept of Imamah", "Fasting during Ramadan", "The pilgrimage to Mecca"],
+      "layer": 3,
+      "verseNumber": 71,
+      "question": "Prophet Hud declared to the people of Ad in verse 71 that their false gods are 'names you have named them, you and your fathers, for which Allah has sent down no authority.' How does Wahbah al-Zuhayli apply this in Al-Tafsir al-Munir to contemporary religious life?",
+      "options": [
+        "A) He argues that modern science provides the authority that ancient revelation once provided",
+        "B) He connects it to the modern phenomenon of cultural religion, where inherited practices lack grounding in authentic divine guidance",
+        "C) He uses it to argue that only Arabic names for Allah carry divine authority",
+        "D) He suggests the verse proves that all non-Abrahamic religious names are invalid"
+      ],
       "correctAnswer": "B",
-      "explanation": "Shia interpretations connect the covenant to the recognition of divine guidance through the Imams, viewing their authority as an extension of the primordial pledge. This differs from Sunni scholars who focus on individual accountability without extending to post-prophetic leadership."
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli connects Hud's critique to the modern phenomenon of cultural religion, where people maintain inherited practices without any grounding in authentic divine guidance. He draws the timeless epistemological lesson that religious belief cannot be founded on mere naming, convention, or social custom."
     },
     {
       "id": "7_20",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 157,
-      "question": "Historical differences between Shia and Sunni interpretations of these verses emerged from early debates over spiritual authority after the Prophet's death.",
+      "layer": 1,
+      "verseNumber": 76,
+      "question": "True or false: In the story of Prophet Salih and Thamud, it was the weak and socially humble members of the tribe who typically led the rejection of his message, while the wealthy elites showed greater openness to faith.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 76 explains the opposite pattern: the arrogant (al-mustakbirun) — those of social standing and material power — led the rejection of Salih. The tafsir notes the recurring Quranic pattern that it is frequently the wealthy, the powerful, and the socially elevated who resist prophetic messages, while the weak, the poor, and the humble are more receptive."
+    },
+    {
+      "id": "7_21",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 86,
+      "question": "In verse 86, Prophet Shuayb rebuked his people for sitting on every road to extort travellers and block people from faith. Imam Tabari records that which early authorities gave the foundational explanation of this dual evil?",
+      "options": [
+        "A) Anas ibn Malik, who connected it to the prohibition of usury in trade",
+        "B) Ibn Abbas and Mujahid, who said it referred both to literal highway robbery and to intercepting people travelling to hear Shuayb's message",
+        "C) Umar ibn al-Khattab, who linked it to the early Islamic ban on toll roads",
+        "D) Abu Hurayra, who narrated it in the context of the Hijra to Medina"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in Jami al-Bayan records two complementary interpretations attributed to Ibn Abbas and Mujahid: the people of Madyan would physically ambush travellers to steal wealth, and they would also position themselves to intercept those travelling to Shuayb, threatening them away from faith. Ibn Kathir synthesizes both meanings, noting the two evils were deeply connected."
+    },
+    {
+      "id": "7_22",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 100,
+      "question": "True or false: Ibn Uthaymeen interpreted the sealing of hearts described in verse 100 as a specific warning for Muslim communities today who have witnessed the decline of Islamic civilizations but continue to repeat the sins of heedlessness that brought those civilizations down.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The tafsir notes that historically, these differences emerged from early debates over spiritual authority after the Prophet's death, with Shia exegesis integrating the Imam's infallibility into cosmic narratives, while Sunni exegesis developed within caliphal frameworks prioritizing textualist approaches."
+      "explanation": "Ibn Uthaymeen emphasized that verse 100's warning about inheriting the earth carries a specific caution for Muslim communities today who have witnessed the decline of great Islamic civilizations — the Abbasid Caliphate, Andalusia, Ottoman prestige — and continue to repeat the sins of heedlessness, internal conflict, and departure from divine guidance that brought those civilizations down."
+    },
+    {
+      "id": "7_23",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 116,
+      "question": "Verse 116 describes the magicians of Pharaoh who 'bewitched the eyes of the people' and 'struck terror into them.' What does this phrase reveal about the nature of their magic according to the tafsir?",
+      "options": [
+        "A) The magicians physically transformed their ropes into real serpents through demonic power",
+        "B) The magic was a powerful optical illusion affecting vision, not a genuine physical transformation of the objects",
+        "C) The magic produced real spiritual harm that remained even after Moses defeated them",
+        "D) The phrase is metaphorical, indicating the magicians persuaded the crowd through clever speech"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari transmits from Ibn Abbas that 'saharoo a'yun al-nas' refers specifically to the technique of affecting vision — a recognized category of magic in classical Arabic usage — wherein the senses are deceived without any real transformation occurring in the physical objects themselves. Ibn Kathir similarly describes this as sophisticated illusory magic, not genuine divine miracle."
+    },
+    {
+      "id": "7_24",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 135,
+      "question": "Verse 135 describes Pharaoh's people repeatedly breaking their promises to Moses the moment punishment was lifted. How did Ibn Kathir characterize the word 'yankuthun' (they broke their word) in his commentary?",
+      "options": [
+        "A) It indicated gradual drift back into denial over years",
+        "B) It conveyed the immediate and total nature of the betrayal, derived from 'nakth' which carries the sense of shameful covenant-breaking",
+        "C) It suggested the people were confused about the terms of their agreement with Moses",
+        "D) It referred specifically to the breaking of a commercial contract rather than a spiritual pledge"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir notes that the word 'yankuthun' is derived from 'nakth,' the breaking of a solemn covenant, which in Arabic carries a sense of shameful betrayal. The use of 'idha' (at once) in the verse conveys sudden immediacy, reflecting the depth of their spiritual corruption. Ibn Kathir connects this to the Quranic principle that persistent refusal to change seals one's fate."
+    },
+    {
+      "id": "7_25",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 136,
+      "question": "True or false: Wahbah al-Zuhayli in Al-Tafsir al-Munir teaches that the drowning of Pharaoh and his army in verse 136 illustrates the Quranic pattern of sunan — the divine laws governing societies — whereby nations that institutionalize oppression and dismiss prophetic truth consistently meet catastrophic ends.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli connects verse 136 to the Quranic pattern of sunan (divine laws governing societies), noting that nations which institutionalize oppression and dismiss prophetic truth consistently meet catastrophic ends. He also explains that the word al-yamm (the sea) in Quranic usage always refers to a large body of water used for destruction, indicating the totality and irreversibility of the punishment."
+    },
+    {
+      "id": "7_26",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 154,
+      "question": "When Moses recovered the Tablets in verse 154, the Quran states they contained 'guidance and mercy for those who are fearful of their Lord.' What is the significance of this condition — 'those who are fearful of their Lord' — according to the tafsir?",
+      "options": [
+        "A) It means the Tablets were intended only for the priestly class among the Israelites",
+        "B) Divine guidance is always present but its full benefit depends on the reverence and receptivity of the recipient",
+        "C) Fear of divine punishment, not love of Allah, is the correct motivation for following scripture",
+        "D) It indicates that the Tablets' content had been reduced because of the calf worship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 154 explains that divine guidance is always present, but its benefit is conditional on the reverence and receptivity of the recipient. Fakhr al-Din al-Razi in Mafatih al-Ghayb argues that genuine taqwa is a prerequisite for the heart to be penetrated by revelation, just as a field must be properly prepared before seed can take root and flourish."
+    },
+    {
+      "id": "7_27",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 165,
+      "question": "In the story of the Sabbath-violating town in verse 165, the saved group are those who actively forbade the evil. What position did Ibn Abbas ultimately lean toward regarding the fate of the silent middle group who neither violated the Sabbath nor actively spoke against it?",
+      "options": [
+        "A) They were saved equally with the active reformers because they personally avoided sin",
+        "B) He inclined to the view that they were also punished because their silence and discouraging of the reformers made them morally complicit",
+        "C) He refused to give any opinion on their fate, considering it a matter known only to Allah",
+        "D) He held they faced a lesser punishment in the form of exile rather than the severe punishment of the transgressors"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that when asked about whether the silent middle group was punished, Ibn Abbas initially declined to answer but then inclined to the view that they were also punished because their silence and discouraging of the reformers made them morally complicit. However, Ibn Kathir notes that the majority scholarly position based on the Quran's text is that only 'those who wronged' are explicitly identified as punished."
+    },
+    {
+      "id": "7_28",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 172,
+      "question": "True or false: The primordial covenant of verse 172 establishes the innate awareness of Allah's lordship in every human being, which is why no one can claim complete ignorance of divine reality on the Day of Judgment.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 172 describes how Allah gathered all human descendants and asked 'Am I not your Lord?' with every soul responding 'Yes, we testify.' The verse explicitly states this covenant was established 'lest you say on the Day of Resurrection that we were heedless of this' — removing the excuse of complete ignorance. This is what the Prophet's traditions identify as the fitra, the natural disposition toward monotheism."
+    },
+    {
+      "id": "7_29",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 175,
+      "question": "Verse 175 describes a man given divine signs who 'shed himself of them' (insalakha) and was then pursued by Satan. How does Muhammad al-Sha'rawi explain the chilling significance of the specific verb 'insalakha' in this verse?",
+      "options": [
+        "A) It indicates that divine knowledge can be physically removed from a person by satanic forces",
+        "B) The man did not have knowledge taken from him by force but peeled himself away from it voluntarily, showing the greatest enemy of knowledge is the person's own nafs",
+        "C) It describes the metaphorical stripping away of Islamic identity through sustained persecution",
+        "D) It shows that scholarly knowledge without political power will always eventually be lost"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Muhammad al-Sha'rawi drew a profound psychological observation from the verb 'insalakha': he noted that the man did not have knowledge taken from him by force but peeled himself away from it voluntarily — like a snake shedding its skin — showing that the greatest enemy of knowledge is the person's own nafs (lower self). This is the foundation of his warning against using religious knowledge to serve oneself rather than Allah."
+    },
+    {
+      "id": "7_30",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 189,
+      "question": "Verse 189 describes how from a single soul Allah created humanity and from it its mate, so the man 'might dwell in security with her.' Which classical scholar provided the most careful analysis of whether the verse's later mention of shirk could refer to Adam and Eve or only to their polytheist descendants?",
+      "options": [
+        "A) Imam al-Bukhari, in his chapter on marriage in Sahih al-Bukhari",
+        "B) Fakhr al-Din al-Razi in Mafatih al-Ghayb, who concluded the text linguistically shifts from the dual (Adam and Hawwa) to the plural (their descendants) between verses 189 and 190",
+        "C) Imam al-Nawawi in his commentary on the Forty Hadith",
+        "D) Ibn Taymiyyah in his refutation of Aristotelian philosophy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb devotes extensive analysis to reconciling the scholarly views, ultimately concluding that the linguistically correct reading shifts from the dual (referring to Adam and Hawwa) to the plural (referring to their descendants) between verses 189 and 190. This reading preserves the prophetic immunity of Adam while explaining how the shirk described in verse 190 refers to their polytheist descendants."
     }
   ]
 }

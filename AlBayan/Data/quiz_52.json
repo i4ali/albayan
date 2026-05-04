@@ -5,136 +5,201 @@
       "id": "52_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 17,
-      "question": "In Surah At-Tur (52:17), what does the term 'muttaqin' refer to?",
+      "verseNumber": 1,
+      "question": "The surah opens with an oath by 'al-Tur.' Which sacred location does this refer to, and why is it invoked here?",
       "options": [
-        "Those who perform many prayers",
-        "Those who guard themselves against sin through mindfulness of Allah",
-        "Those who fast every day",
-        "Those who give all their wealth to charity"
+        "A. Mount Uhud, site of the famous early Muslim battle, invoked to honor the martyrs who fell there",
+        "B. Mount Sinai, the place where Allah spoke directly to Prophet Moses, evoking divine communication",
+        "C. Mount Hira, where the first Quranic revelation descended upon the Prophet Muhammad",
+        "D. Mount Arafat, the central site of the Hajj, invoked to honor the pilgrimage rite"
       ],
-      "correctAnswer": "Those who guard themselves against sin through mindfulness of Allah",
-      "explanation": "The term 'muttaqin' refers to those who guard themselves against sin through mindfulness of Allah, aligning their actions with divine guidance. Taqwa represents a holistic spiritual state cultivated through obedience, ethical conduct, and love for the Ahlul Bayt."
+      "correctAnswer": "B",
+      "explanation": "Al-Tur refers to Mount Sinai (Jabal Musa), where Allah spoke directly to Prophet Moses and delivered the Torah. Ibn Kathir explains that Allah swears by al-Tur because it is intimately associated with divine revelation and the honor of prophethood, connecting the Quran's message to that earlier sacred history of divine communication."
     },
     {
       "id": "52_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 35,
-      "question": "Verse 35 of Surah At-Tur uses rhetorical questions to establish that creation cannot emerge from chaos or self-will, but only through a Perfect Creator.",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: The classical scholars Ibn Abbas, Mujahid, and Qatada all agreed that the 'kitabin mastur' (inscribed Book) in verse 2 refers to the Preserved Tablet upon which all of Allah's decrees are recorded.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The verse poses two profound rhetorical questions - 'Or were they created by nothing, or were they the creators [of themselves]?' - using rational inquiry (burhan) to dismantle the logical absurdity of denying divine creation and to awaken hearts to Allah's oneness (tawhid)."
+      "explanation": "Al-Tabari in Jami al-Bayan records that the most prominent view, attributed to Ibn Abbas and affirmed by the majority of early exegetes, is that 'kitabin mastur' refers to the Preserved Tablet. Ibn Kathir leans toward the same view, noting it gives the greatest rhetorical force to the oath sequence: Allah is swearing by a cosmic, pre-eternal divine record."
     },
     {
       "id": "52_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 17,
-      "question": "According to Allama Tabatabai in Al-Mizan, what do 'gardens' (jannat) and 'pleasure' (na'eem) in verse 52:17 represent?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Verse 4 describes Al-Bayt al-Mamur, the 'Frequented House.' What is this, and where is it located according to the Prophet's own account?",
       "options": [
-        "Only physical rewards in Paradise",
-        "Distinct but complementary dimensions of reward - spiritual stations and experiential joy of divine proximity",
-        "Metaphors for worldly success",
-        "Symbols of political power in the hereafter"
+        "A. The original Kaaba built by Adam, buried beneath the present Kaaba in Mecca",
+        "B. The celestial counterpart of the Kaaba located in the seventh heaven, visited daily by seventy thousand angels who never return",
+        "C. A sacred mosque in Jerusalem visited perpetually by the souls of the prophets",
+        "D. A spiritual symbol for the heart of the believer, which must be kept pure through constant worship"
       ],
-      "correctAnswer": "Distinct but complementary dimensions of reward - spiritual stations and experiential joy of divine proximity",
-      "explanation": "Tabatabai emphasizes that 'gardens' and 'pleasure' represent distinct but complementary dimensions of reward: the former symbolizing perfected spiritual stations and the latter denoting the experiential joy of divine proximity. This dual interpretation reflects the Shia theological principle that resurrection manifests both bodily and spiritual perfection simultaneously."
+      "correctAnswer": "B",
+      "explanation": "According to the hadith in Sahih al-Bukhari and Sahih Muslim, the Prophet saw Al-Bayt al-Mamur during the night journey and was told that seventy thousand angels visit it every single day to worship and circumambulate, and once an angel has visited it, that angel will never return. Ibn Kathir confirms it is in the seventh heaven directly above the earthly Kaaba."
     },
     {
       "id": "52_4",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 21,
-      "question": "How does Tabrisi in Majma al-Bayan interpret the divine promise in verse 52:21 to unite believing parents with their faithful progeny?",
+      "verseNumber": 4,
+      "question": "Which additional detail about Al-Bayt al-Mamur does Ibn Kathir record through multiple chains of transmission from the Prophet's night journey?",
       "options": [
-        "As a mere physical reunion",
-        "As an expression of Allah's transcendent mercy operating through the interconnectedness of spiritual lineage",
-        "As a reward only for prophets",
-        "As a temporary arrangement in Paradise"
+        "A. It was built by the angels in the first heaven before Adam was created",
+        "B. The Prophet Ibrahim was seen leaning against Al-Bayt al-Mamur during the night journey",
+        "C. The entire angelic host circumambulates it once every Friday night",
+        "D. It will descend to earth and merge with the earthly Kaaba before the Day of Resurrection"
       ],
-      "correctAnswer": "As an expression of Allah's transcendent mercy operating through the interconnectedness of spiritual lineage",
-      "explanation": "Tabrisi emphasizes that this union transcends mere physical proximity, signifying an elevation of the children's stations through the parents' spiritual merits, without diminishing the principle that 'every soul is pledged to what it has earned.' This resolves the tension between individual accountability and familial spiritual benefits through divine grace (lutf) operating within the framework of justice ('adl)."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records through multiple chains of transmission that the Prophet saw Prophet Ibrahim leaning against Al-Bayt al-Mamur during the night journey. Ibn Kathir interprets this as a sign of Ibrahim's special status as the original builder of the earthly Kaaba and his intimate connection with its heavenly counterpart."
     },
     {
       "id": "52_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 17,
-      "question": "Contemporary scholars like Dr. Mohammad Shomali connect verse 52:17's imagery of abundance to environmental stewardship and sustainable living.",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "True or false: Verse 7 ('the punishment of your Lord will certainly occur') is the grammatical answer to the chain of six oaths that precedes it in verses 1 through 6.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Modern thinkers extend the verse's meaning, noting that its imagery of abundance contrasts with today's ecological crises, urging believers to embody taqwa (God-consciousness) through environmental stewardship. The 'gardens' become symbolic of sustainable living, aligning Quranic ideals with scientific imperatives like biodiversity preservation and climate action."
+      "explanation": "Ibn Kathir explains that verses 1 through 6 form the oath (al-qasam) and verse 7 is the answer to that oath (jawab al-qasam). This is a well-known rhetorical device in classical Arabic. The Arabic particle 'inna,' combined with the emphatic 'la-waqi'un' (will certainly fall), creates a triple layer of certainty that gives maximum weight to the sworn statement."
     },
     {
       "id": "52_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 35,
-      "question": "According to contemporary Shia scholarship, what modern philosophical challenge does verse 52:35's question 'Were they their own creators?' address?",
+      "verseNumber": 7,
+      "question": "Muhammad al-Sha'rawi observed that verse 7 serves a specific psychological purpose. What did he identify as its primary effect on the listener?",
       "options": [
-        "The theory of gravity",
-        "Self-creation narratives in secular individualism and transhumanism",
-        "Ancient Greek mythology",
-        "Medieval economic systems"
+        "A. To provide a detailed chronology of when the Day of Judgment will arrive",
+        "B. To awaken the dormant conscience, severing the path of doubt so the hearer cannot delay repentance by doubting the reckoning",
+        "C. To demonstrate the Quran's linguistic superiority over Arabic poetry of the Quraysh",
+        "D. To establish a legal precedent for oath-taking in Islamic jurisprudence"
       ],
-      "correctAnswer": "Self-creation narratives in secular individualism and transhumanism",
-      "explanation": "Dr. Mohammad Ali Shomali bridges the verse with existential philosophy, noting that it challenges today's 'self-creation' narratives in secular individualism, where identity is often reduced to self-defined labels. The Quran's rhetorical question resonates in debates about transhumanism and AI ethics, urging humility amid humanity's growing technological hubris."
+      "correctAnswer": "B",
+      "explanation": "Muhammad al-Sha'rawi emphasized that the certainty in this verse is meant to awaken the dormant conscience. The human being often delays repentance because he doubts the reckoning, but this verse severs that path of doubt entirely. Ibn Uthaymeen similarly argued that genuine belief in 'la-waqi'un' should transform how a Muslim lives each day, producing not theoretical belief but an active awareness of accountability."
     },
     {
       "id": "52_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 17,
-      "question": "According to Imam Jafar al-Sadiq (as), what do 'the gardens' in verse 52:17 symbolize?",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "What does the term 'al-mukadhdhibun' in verse 11 specifically indicate about those who receive the 'wayl' (woe)?",
       "options": [
-        "Physical orchards in Paradise only",
-        "Layers of divine knowledge unveiled to the heart that clings to the rope of the Ahlul Bayt",
-        "Worldly material possessions",
-        "Political territories"
+        "A. People who were geographically isolated and never received the Prophet's message",
+        "B. People who followed their ancestors without reflection but without malicious intent",
+        "C. Those who actively and deliberately rejected divine truth after it had been made clear to them",
+        "D. People who outwardly professed faith while inwardly concealing disbelief"
       ],
-      "correctAnswer": "Layers of divine knowledge unveiled to the heart that clings to the rope of the Ahlul Bayt",
-      "explanation": "Imam Jafar al-Sadiq (as) explained that 'the gardens' symbolize the soul's blossoming through remembrance of Allah and obedience to His chosen guides: 'The gardens are layers of divine knowledge unveiled to the heart that clings to the rope of the Ahlul Bayt' (Tafsir al-Qummi)."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari in Jami al-Bayan analyzes 'wayl' as comprehensive destruction directed at those who deliberately rejected the truth brought by the Prophet Muhammad. Ibn Kathir emphasizes that 'al-mukadhdhibun' refers specifically to those who rejected the Quran, the Day of Resurrection, and the prophethood of Muhammad, implying deliberate choice against clear evidence rather than mere ignorance."
     },
     {
       "id": "52_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 35,
-      "question": "Imam Ali (as) stated in Nahj al-Balagha that creation can emerge from chaos or self-will without a Perfect Creator.",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "True or false: Al-Razi in Mafatih al-Ghayb noted that the passive voice 'yudauna' (they will be thrust) in verse 13 deliberately removes all agency from the deniers, emphasizing their complete powerlessness after a lifetime of arrogant self-assertion.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Imam Ali (as) stated the opposite in Nahj al-Balagha: 'He who assigns to Him different conditions does not believe in His Oneness, nor does he who likens Him grasp His reality. He is far above being created in imaginations or limited in minds.' This underscores that creation cannot emerge from chaos or self-will, but only through the Perfect Creator whose signs permeate existence."
+      "correctAnswer": "true",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb specifically observes that the passive voice 'yudauna' removes any agency from the deniers, emphasizing their utter powerlessness on that Day after a lifetime of arrogant self-assertion against Allah. Ibn Kathir similarly records that multiple classical scholars including Mujahid and Ash-Shabi interpreted this word as meaning violent, repeated, forceful thrusting without mercy."
     },
     {
       "id": "52_9",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 1,
       "verseNumber": 17,
-      "question": "What is a key point of convergence between Shia and Sunni scholars in interpreting verse 52:17?",
+      "question": "Verse 17 identifies the inhabitants of Paradise as 'al-muttaqeen.' What does this specifically indicate about the path that earned them that reward?",
       "options": [
-        "They disagree on everything about this verse",
-        "Both recognize the verse as affirming eternal reward for the righteous in Paradise as a manifestation of divine justice",
-        "Only Sunni scholars accept this verse as authentic",
-        "The verse has no eschatological significance"
+        "A. They were born into righteous families with a hereditary predisposition to faith",
+        "B. They cultivated genuine God-consciousness throughout their lives, carefully guarding against sin and fulfilling their obligations",
+        "C. They performed the most publicly visible charitable acts in their communities",
+        "D. They were scholars who memorized the entire Quran and devoted themselves exclusively to religious study"
       ],
-      "correctAnswer": "Both recognize the verse as affirming eternal reward for the righteous in Paradise as a manifestation of divine justice",
-      "explanation": "Both Shia and Sunni exegetes converge on core eschatological principles. Al-Tabari (Sunni) and Al-Tusi (Shia) both emphasize that 'gardens and pleasure' symbolize transcendent spiritual and physical blessings. They agree that one's degree of God-consciousness (taqwa) determines their station in Paradise."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi notes that Allah specifically named the believers as 'muttaqeen' to indicate that their entry into paradise is a direct result of their taqwa, which was their shield in this world and becomes their key to paradise. Imam al-Tabari explains that taqwa in its fullest sense encompasses belief in the unseen, performing salat, spending in Allah's path, and avoiding what He has prohibited throughout daily life."
     },
     {
       "id": "52_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 35,
-      "question": "How do Shia and Sunni scholars differ in their theological extensions of verse 52:35?",
+      "layer": 3,
+      "verseNumber": 21,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran reflects on the social dimension of Paradise depicted in verse 21 and surrounding verses. What key insight does he draw about the nature of life in Paradise?",
       "options": [
-        "They have no differences whatsoever",
-        "Sunni scholars like Fakhr al-Din Razi analyze it through Ash'ari occasionalism, while Shia scholars like Tabatabai integrate it with concepts of graded existence requiring ongoing metaphysical guidance through Imamah",
-        "Only Shia scholars believe in divine creation",
-        "Sunni scholars reject the verse entirely"
+        "A. Paradise is a solitary spiritual experience where each soul communes with Allah in isolation",
+        "B. Paradise is deeply communal and relational, with believers reclining on thrones facing each other and families reunited in shared joy",
+        "C. Paradise is organized around continuous collective worship with no time for personal interaction",
+        "D. The social dimension of Paradise is identical to the social structures of the best Muslim societies on earth"
       ],
-      "correctAnswer": "Sunni scholars like Fakhr al-Din Razi analyze it through Ash'ari occasionalism, while Shia scholars like Tabatabai integrate it with concepts of graded existence requiring ongoing metaphysical guidance through Imamah",
-      "explanation": "Fakhr al-Din Razi (Sunni) analyzes the verse through Ash'ari occasionalism, arguing it negates natural causality independent of Allah's will. In contrast, Tabatabai (Shia) integrates the verse with the Illuminationist concept of graded existence (tashkik al-wujud), viewing creation as a continuous divine manifestation requiring ongoing metaphysical guidance - a perspective resonating with Shia emphasis on Imamah as an extension of divine providence."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran reflects that Paradise is not a solitary spiritual experience but a deeply communal and relational one. He notes that the Quran consistently portrays paradise as a place of joyful human connection, with believers facing each other on arranged thrones and families reunited in faith. Wahbah al-Zuhayli similarly emphasizes that verse 21 shows family bonds rooted in shared faith extending into eternity."
+    },
+    {
+      "id": "52_11",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 26,
+      "question": "True or false: Sheikh Ibn Uthaymeen taught that fear of Allah expressed within the family context is the highest form of taqwa, because it is exercised without a public audience, purely between the servant and his Lord.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sheikh Ibn Uthaymeen commented that fear of Allah within the family context is the highest form of that fear, because it is exercised without an audience, without social praise, purely between the servant and his Lord. This is drawn from verse 26, where the people of Paradise recall having been 'fearful among our families' in the worldly life, demonstrating that their taqwa permeated private domestic life, not just public worship."
+    },
+    {
+      "id": "52_12",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 29,
+      "question": "In verse 29, Allah refutes two specific accusations the Quraysh were using to dismiss the Prophet. What were those two accusations?",
+      "options": [
+        "A. That he was a sorcerer (sahir) and an imposter claiming foreign learning",
+        "B. That he was a soothsayer (kahin) receiving information from jinn, and a madman (majnun)",
+        "C. That he was an arrogant tribal leader and a poet who composed for wealth",
+        "D. That he was a liar (kadhdhab) and a political agitator against the Quraysh chiefs"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that the Meccan disbelievers accused the Prophet of being a 'kahin,' a soothsayer who received information from jinn, and a 'majnun,' one possessed by madness. Allah categorically refutes both, with the phrase 'by the favor of your Lord' signaling that the Prophet's freedom from these defects is itself a divine gift. Imam Razi notes the irony: the Quran's very excellence caused them to reach for these labels."
+    },
+    {
+      "id": "52_13",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 34,
+      "question": "The challenge in verse 34 to produce 'a discourse like it' belongs to what broader Quranic phenomenon, and what has been its historical outcome according to Ibn Kathir?",
+      "options": [
+        "A. The 'i'rab,' a grammatical challenge; it was met by the grammarians of Basra within a century",
+        "B. The 'tahaddi,' the challenge of inimitability; it was issued over fourteen centuries ago and has never been successfully met",
+        "C. The 'tawatur,' a proof of transmission; it was accepted by the Quraysh after witnessing the Battle of Badr",
+        "D. The 'ijaz al-ilmi,' a scientific challenge; it was addressed by Muslim scientists in the medieval period"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir connects this verse to the broader Quranic challenge known as the 'tahaddi,' where disbelievers are repeatedly invited to produce even one chapter comparable to the Quran. Ibn Kathir also notes that the Prophet was known throughout Mecca as 'al-Amin' (the trustworthy) before his prophethood, making the fabrication charge historically incoherent. The tahaddi, issued over fourteen centuries ago, has never been successfully met."
+    },
+    {
+      "id": "52_14",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 35,
+      "question": "True or false: Ibn Kathir records that when Jubayr ibn Mutim heard the Prophet reciting verse 35 in the Maghrib prayer, it so struck his heart that he subsequently accepted Islam.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir relates the account of Jubayr ibn Mutim, who came to Medina before accepting Islam and heard the Prophet reciting Surah al-Tur. When the Prophet reached verse 35, Jubayr later said it felt as though his heart would fly out of his chest. He subsequently accepted Islam, illustrating the verse's immediate rational and spiritual impact as a proof for the existence of Allah through the logic of contingent existence."
+    },
+    {
+      "id": "52_15",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 49,
+      "question": "Verse 49, the final verse of the surah, commands the Prophet to glorify Allah during 'a portion of the night' and at 'idbar al-nujum.' How did the majority of classical scholars identify 'idbar al-nujum'?",
+      "options": [
+        "A. The middle of the night when the stars are at their peak brightness",
+        "B. After Isha prayer, the first hour of the night",
+        "C. The pre-dawn period just before Fajr, when the stars begin to fade at the approach of dawn",
+        "D. After sunset when the first stars appear on the horizon"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari records a consensus among the Companions and Tabi'in, including Ibn Abbas and Ibn Masud, that 'idbar al-nujum' refers to the two voluntary sunnah rak'ahs before Fajr, performed while the stars are setting at the approach of dawn. Ibn Kathir supports this with the hadith from Sahih Muslim in which the Prophet said: 'The two rak'ahs before Fajr are better than this world and all it contains.'"
     }
   ]
 }

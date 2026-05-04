@@ -6,270 +6,235 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "During which historical event was the opening verse of Surah Al-Ahzab revealed?",
+      "question": "The opening of Surah Al-Ahzab gives the Prophet a three-part directive. After commanding taqwa and prohibiting obedience to disbelievers and hypocrites, what does the third command establish as the Prophet's sole legitimate guide?",
       "options": [
-        "The Battle of Badr",
-        "The Battle of Uhud",
-        "The Battle of the Trench (Khandaq)",
-        "The Treaty of Hudaybiyyah"
+        "A. The counsel of Madinah's tribal leaders",
+        "B. The consensus of the Companions on community matters",
+        "C. What is revealed to him from his Lord",
+        "D. The earlier scriptures of the People of the Book"
       ],
       "correctAnswer": "C",
-      "explanation": "The verse was revealed during the Battle of the Trench (5 AH), when hypocrites and disbelievers pressured the Prophet to compromise Islamic principles for temporary peace or alliances."
+      "explanation": "Verse 2 commands 'ittabi ma yuhaa ilayka min rabbika' — follow what is revealed to you from your Lord — establishing divine revelation as the sole guide. Ibn Kathir explains this creates a complete picture: turn away from false guidance and toward divine guidance, with Allah described as Khabir (All-Acquainted) of every act of compliance or deviation."
     },
     {
       "id": "33_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir, the munafiqun (hypocrites) posed a greater danger than external enemies because they sowed discord within the Muslim community.",
+      "verseNumber": 9,
+      "question": "True or false: The strategy of digging a defensive trench before the Battle of the Confederates was suggested by the Persian companion Salman al-Farisi, a tactic previously unknown to the Arabs.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Shia tafsir scholars like Allamah Tabatabai emphasize that munafiqun posed a greater danger by sowing discord within the community, as seen in their betrayal during critical moments like Uhud."
+      "explanation": "The tafsir of verse 9 records that Salman al-Farisi drew on Persian military tradition to propose the trench as a defensive measure against the advancing confederate cavalry. Wahbah al-Zuhayli notes this as a model of Islamic openness to practical wisdom regardless of its cultural origin, and Ibn Kathir confirms the tactic was unfamiliar to Arab warfare."
     },
     {
       "id": "33_3",
       "type": "multipleChoice",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 9,
-      "question": "What two forms of divine aid did Allah send to help the Muslims during the Battle of the Trench?",
+      "question": "Ibn Kathir interprets the 'forces you did not see' that Allah sent against the confederate army as two distinct things. What were they?",
       "options": [
-        "Rain and lightning",
-        "A violent wind and unseen armies of angels",
-        "Earthquakes and floods",
-        "Fire and darkness"
+        "A. Reinforcements from allied Bedouin tribes and a surprise night raid",
+        "B. Plague among enemy soldiers and a collapse of their food supplies",
+        "C. Angels disrupting the confederates' resolve and a ferocious windstorm that overturned their tents",
+        "D. Lightning strikes on the enemy camp and a sudden flood from the highlands"
       ],
-      "correctAnswer": "B",
-      "explanation": "Allah intervened by sending a violent wind (rih) that destabilized the enemy camp and unseen armies of angels (junud lam tarawha) to demoralize the Quraysh and their allies."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir, drawing on Jabir ibn Abdallah's account, explains the 'forces you did not see' as the angels dispatched to shatter enemy morale and the ferocious windstorm that overturned the confederates' tents, extinguished their fires, and destroyed their camp equipment during the cold night siege, ultimately forcing their withdrawal."
     },
     {
       "id": "33_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 21,
-      "question": "What Arabic term is used in Surah 33:21 to describe Prophet Muhammad as the 'excellent pattern' for believers?",
-      "options": [
-        "Khatam an-Nabiyyin",
-        "Uswatun Hasanah",
-        "Rahmatun lil Alameen",
-        "Sirat al-Mustaqeem"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The term 'uswatun hasanah' signifies a living model of virtue, not merely theoretical ideals. It refers to the Prophet's holistic example in compassion, justice, resilience, and devotion."
+      "verseNumber": 10,
+      "question": "True or false: Verse 10's vivid description — 'eyes glazed with shock and hearts reached the throats' — indicates that experiencing fear during genuine danger is a sign of weak faith, according to Sunni tafsir.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sunni commentators are unanimous that this verse honestly portrays a natural human response to extreme danger. Ibn Uthaymeen emphasised that Allah does not exempt believers from fear but tests them through it and then rescues them — so that they know both their own weakness and His unlimited power. The Quran normalises fear while pointing to steadfastness as the distinguishing mark of faith."
     },
     {
       "id": "33_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the command 'O Prophet, fear Allah' (ittaqillah) signify?",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "Verse 21 describes the Prophet as an 'uswa hasana' for the believers. In the immediate context of Al-Ahzab, what specific situation was this prophetic example meant to address?",
       "options": [
-        "A warning about punishment",
-        "Unwavering alignment with divine wisdom",
-        "A command to wage war",
-        "A request to build a mosque"
+        "A. New converts uncertain about the form of the daily prayers",
+        "B. Disputes over the distribution of war spoils after a military victory",
+        "C. Muslims who were wavering in commitment during the hardship of the Battle of the Trench",
+        "D. Trade negotiations between the Muslim community and Quraysh merchants"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai notes that taqwa here transcends mere caution; it signifies unwavering alignment with divine wisdom, a principle later mirrored in the Imamate's custodianship of spiritual and temporal authority."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari records that this verse was revealed to rebuke those who had abandoned their posts or expressed cowardice during the siege, pointing them to the Prophet who remained firm — sharing the hardship of digging the trench, enduring hunger and cold, and holding the community together through sheer spiritual resolve."
     },
     {
       "id": "33_6",
       "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 9,
-      "question": "According to Shia scholarship, the 'unseen armies' mentioned in verse 33:9 symbolize both angels and the metaphysical support granted to those who uphold wilayah (devotion to the Imam's authority).",
+      "verseNumber": 21,
+      "question": "True or false: According to Ibn Kathir's commentary, the command to follow the Prophet's example in verse 21 is a binding obligation upon every Muslim in all circumstances, not merely an act of supererogatory piety.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Shia scholarship links this divine aid to the principle of Imamate, interpreting the unseen armies as extensions of Allah's mercy channeled through the guidance of the Ahl al-Bayt."
+      "explanation": "Ibn Kathir explicitly states that this verse establishes a binding principle: following the Prophet is obligatory upon every Muslim in all circumstances. He cites a report recorded by Imam Ahmad in which the Prophet endured the long siege without complaining, spending nights in supplication — the very model believers are commanded to follow."
     },
     {
       "id": "33_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 33,
-      "question": "According to Tabatabai's Al-Mizan, what does the grammatical shift from feminine to masculine plural pronouns in verse 33:33 signify?",
+      "layer": 3,
+      "verseNumber": 21,
+      "question": "Sayyid Qutb's commentary on verse 21 argues that presenting a living person rather than an abstract ideology as the model for Islam has a particular advantage. What is that advantage?",
       "options": [
-        "A scribal error in transmission",
-        "A distinct audience: the purified household of the Prophet",
-        "A command to all women",
-        "A reference to all companions"
+        "A. Human examples are easier to follow than written texts for illiterate communities",
+        "B. Ideologies can be distorted or twisted, but a fully documented human life is far more resistant to misappropriation",
+        "C. The Prophet's life proves that moral perfection is achievable through personal effort alone",
+        "D. Abstract ideologies lack the legal specificity needed for daily rulings on worship"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai observes the grammatical shift from feminine plural pronouns (directed at the wives) to masculine plural in the latter half, signifying a distinct audience: the purified household of the Prophet."
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that the Quran presents a living person as the bearer of Islam because ideologies can be distorted or twisted while a fully documented human life is far more resistant to misappropriation — making the Prophet's example a uniquely durable and authentic standard for the community across all ages."
     },
     {
       "id": "33_8",
       "type": "multipleChoice",
-      "layer": 2,
+      "layer": 1,
       "verseNumber": 33,
-      "question": "According to classical Shia exegesis, which hadith is linked to the purification verse (33:33)?",
+      "question": "Verse 33 commands the wives of the Prophet against 'tabarruj al-jahiliyyah.' What did the classical scholars — including Mujahid, Qatadah, and Ibn Kathir — understand this term to mean?",
       "options": [
-        "Hadith al-AlBayan",
-        "Hadith al-Kisa (Event of the Cloak)",
-        "Hadith Manzilah",
-        "Hadith Ghadir Khumm"
+        "A. Leaving the home without a male guardian present",
+        "B. Deliberately exhibiting one's charms and adornments before non-mahram men in an enticing way",
+        "C. Wearing garments made of silk or gold-thread fabric in public spaces",
+        "D. Speaking in a raised voice in markets or public gatherings"
       ],
       "correctAnswer": "B",
-      "explanation": "The shift is rooted in Hadith al-Kisa (Event of the Cloak), where the Prophet gathered Ali, Fatima, Hasan, and Husayn under his cloak, after which the purification verse was revealed."
+      "explanation": "Ibn Kathir synthesises reports from Mujahid and Qatadah to define tabarruj as displaying physical attractions, fine dress and jewelry, and coquettish behavior before non-mahram men — a practice the Quran associates with pre-Islamic ignorance and explicitly forbids for the wives of the Prophet and, by scholarly extension, for all Muslim women."
     },
     {
       "id": "33_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 9,
-      "question": "According to contemporary scholar Ayatollah Sayyid Muhammad Husayn Fadlullah, what does verse 33:9 teach about the relationship between faith and action?",
-      "options": [
-        "Faith alone is sufficient without action",
-        "Action alone is sufficient without faith",
-        "Trust in Allah's plan does not negate the necessity of strategic effort",
-        "Divine help only comes to those who do not strive"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars emphasize the interplay between divine intervention and human agency - trust in Allah's plan does not negate the necessity of strategic effort, a principle echoed in modern resilience theory."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 33,
+      "question": "True or false: Classical Sunni scholars understood the command in verse 33 to 'abide in your homes' as placing the Prophet's wives in total seclusion, preventing them from leaving under any circumstances.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Scholars are unanimous that the verse does not mean absolute confinement. The Prophet's wives participated in battles, performed Hajj, taught students, and fulfilled necessary public obligations. Ibn Uthaymeen clarified the command is against aimless roaming and seeking unnecessary public exposure, with legitimate needs — education, healthcare, civic participation, family visits — recognised as exceptions by scholarly consensus."
     },
     {
       "id": "33_10",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
       "verseNumber": 33,
-      "question": "According to contemporary scholar Dr. Liyakat Takim, the call for women to 'abide in your houses' in verse 33:33 should be understood as a rejection of pre-Islamic practices that objectified women, not as confinement.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes that the call is not a confinement but a rejection of pre-Islamic Jahiliya practices reducing women to commodified objects. This translates to resisting hypersexualized media cultures and reclaiming agency through intentional modesty."
+      "question": "Wahbah al-Zuhayli addresses the argument that the hijab command of verse 33 might become obsolete in safer modern societies. What is his conclusion?",
+      "options": [
+        "A. The ruling may be relaxed in societies with strong legal protections for women",
+        "B. Each generation of scholars should reassess the obligation based on contemporary conditions",
+        "C. The command's foundation is divine obedience; the protective rationale is supplementary wisdom, not a condition that can nullify the ruling",
+        "D. The jilbab was a cultural garment of seventh-century Arabia without a universal legal obligation"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir argues that the ruling is grounded in divine obedience, not solely in its stated protective rationale. The wisdom mentioned in the verse is supplementary — not a conditional clause that nullifies the obligation if social circumstances change — meaning the obligation remains fully applicable in the modern era."
     },
     {
       "id": "33_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 21,
-      "question": "According to Dr. Liyakat Takim, which historical event offers lessons for contemporary conflict resolution and interfaith dialogue?",
+      "layer": 1,
+      "verseNumber": 40,
+      "question": "Verse 40 declares Muhammad to be 'Khatam al-Nabiyyin.' What foundational article of Islamic doctrine does this title establish?",
       "options": [
-        "The Battle of Badr",
-        "The Treaty of Hudaybiyyah",
-        "The Conquest of Mecca",
-        "The Battle of Khaybar"
+        "A. That Muhammad was the most morally perfect human being ever to live",
+        "B. That his message supersedes all previous scriptures but further prophets remain possible",
+        "C. That prophethood is permanently sealed with his mission and no prophet will come after him",
+        "D. That he was the only prophet to receive both a revealed book and a legal code"
       ],
-      "correctAnswer": "B",
-      "explanation": "Scholars like Dr. Liyakat Takim highlight how the Prophet's diplomacy during the Treaty of Hudaybiyyah offers lessons for contemporary conflict resolution and interfaith dialogue amid global polarization."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir collects mutawatir hadiths from Sahih Bukhari and Muslim in which the Prophet declared 'I am the Seal of the Prophets, there is no prophet after me.' Wahbah al-Zuhayli affirms that belief in the finality of prophethood is as obligatory as any other pillar of Islamic faith, and that any group claiming a prophet after Muhammad has departed from Islamic doctrine by scholarly consensus."
     },
     {
       "id": "33_12",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 33,
-      "question": "According to contemporary scholar Dr. Maria Dakake, how is the purification of Ahlul Bayt described?",
-      "options": [
-        "A historical event only",
-        "A cosmic ethical paradigm calling for societal purification",
-        "A ritual practice for special occasions",
-        "A political statement"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The purification of Ahlul Bayt is described by Dr. Maria Dakake as a 'cosmic ethical paradigm' - a call for societal tazkiyah (purification) through justice-oriented action."
+      "verseNumber": 40,
+      "question": "True or false: Wahbah al-Zuhayli argues that the finality of prophethood heightens the responsibility of Islamic scholars to engage in rigorous ijtihad, because no new revelation will ever abrogate existing rulings.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli reasons that since all rulings derived from the Quran and Sunnah carry permanent binding authority with no future legislation to abrogate them, Islamic scholars bear a heightened duty to derive contemporary guidance through careful ijtihad from these eternal sources — making scholarly integrity and competence a matter of community survival."
     },
     {
       "id": "33_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to Imam Ali (AS), what does the wind sent by Allah during the Battle of the Trench symbolize regarding the role of the Imam?",
+      "layer": 2,
+      "verseNumber": 56,
+      "question": "When the companions asked the Prophet how to send salah upon him after verse 56 was revealed, what formula did he teach — preserved in Sahih Bukhari and Muslim?",
       "options": [
-        "The Imam is a temporary leader",
-        "The Imam has no special role",
-        "The Imam is a mercy for his followers and a barrier against misguidance",
-        "The Imam only guides in spiritual matters"
+        "A. 'O Allah, make Muhammad the most praised and most glorified of all creation'",
+        "B. 'O Allah, send Your peace upon Muhammad as You sent peace upon Musa and Isa'",
+        "C. 'O Allah, send prayers upon Muhammad and the family of Muhammad as You sent prayers upon the family of Ibrahim'",
+        "D. 'O Allah, honor Muhammad in this world and grant him the highest station in the Hereafter'"
       ],
       "correctAnswer": "C",
-      "explanation": "Imam Ali (AS) stated, 'The wind sent by Allah was a mercy for the believers and a wrath for the disbelievers, just as the Imam is a mercy for his followers and a barrier against misguidance' (Bihar al-Anwar)."
+      "explanation": "Ibn Kathir records that Ka'b ibn Ujrah narrated in Sahih al-Bukhari and Muslim that when the companions asked how to send salah upon the Prophet, he taught them the Ibrahimi formula: 'O Allah, send prayers upon Muhammad and the family of Muhammad as You sent prayers upon the family of Ibrahim.' This salawat is recited in the tashahhud of every prayer."
     },
     {
       "id": "33_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 33,
-      "question": "According to Imam Muhammad al-Baqir (AS), the purification verse (33:33) was revealed for five: the Prophet, Ali, Fatimah, Hasan, and Husayn.",
+      "layer": 3,
+      "verseNumber": 56,
+      "question": "True or false: Wahbah al-Zuhayli's commentary identifies verse 56 as unique in the Quran because it is the only verse where Allah describes Himself performing an action He then commands both the angels and the believers to join.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Muhammad al-Baqir (AS) states in Tafsir al-Qummi: 'This verse was revealed for five: the Prophet, Ali, Fatimah, Hasan, and Husayn. Allah removed all impurity from them and purified them completely.'"
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir presents this cosmic hierarchy as unique in the Quran: Allah is the source of blessings upon the Prophet, the angels are conduits, and believers are the earthly participants — a joining of three levels of creation in a single act of honoring the Prophet, making this verse uniquely powerful in establishing his incomparable station."
     },
     {
       "id": "33_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 21,
-      "question": "According to the teachings of the Ahlul Bayt, what does true emulation of the Prophet require?",
+      "layer": 1,
+      "verseNumber": 59,
+      "question": "Verse 59 states the purpose of the jilbab command as 'that is more suitable that they will be known and not be abused.' What social context in Madinah prompted this revelation?",
       "options": [
-        "Only outward imitation of actions",
-        "Aligning one's soul with the Prophet's consciousness of Allah",
-        "Following cultural customs",
-        "Reading about his life occasionally"
+        "A. Tribal disputes over grazing land near the city gates",
+        "B. Immoral individuals harassing women in the streets who were not identifiable as Muslim believers",
+        "C. Disagreements between Ansar and Muhajirin families over property rights",
+        "D. Non-Muslim traders entering the city and causing disturbances"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) states, 'Whoever adopts his way ascends to his station' (Bihar al-Anwar), emphasizing that true emulation requires aligning one's soul with the Prophet's unwavering consciousness of Allah."
+      "explanation": "The tafsir records that certain immoral individuals in Madinah were harassing women in the streets, particularly at night. Ibn Kathir reports from Umm Salamah that when this verse was revealed the Ansar women came out with their cloaks drawn over them out of reverence for the command. Muslim women wearing the jilbab would be identified as protected members of the community, deterring those who harassed women indiscriminately."
     },
     {
       "id": "33_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 33,
-      "question": "According to Lady Fatimah (AS), what is the greatest divine favor?",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "According to Imam al-Qurtubi, what legal principle does verse 6 establish through the declaration that 'the Prophet is more worthy of the believers than themselves'?",
       "options": [
-        "Wealth and prosperity",
-        "Good health",
-        "Recognition of the Imam",
-        "Long life"
+        "A. Believers must seek the Prophet's personal approval before major life decisions",
+        "B. Obedience to the Prophet is obligatory while obedience to parents is contingent, and no command may override prophetic instruction",
+        "C. The Prophet can amend rulings of earlier prophets but not divine revelation directly",
+        "D. Believers owe the Prophet financial support equivalent to an annual obligation"
       ],
-      "correctAnswer": "C",
-      "explanation": "Lady Fatimah (AS) emphasized: 'The greatest favor is recognition of the Imam, for through him, trials are repelled and blessings descend' (Kitab al-Irshad)."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi draws from verse 6 the clear legal principle that the Prophet's obedience is obligatory while parental obedience is contingent, and that no human command may be followed when it conflicts with prophetic instruction — establishing the Prophet as the highest obligatory authority after Allah in all matters."
     },
     {
       "id": "33_17",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 9,
-      "question": "Both Shia and Sunni scholars agree that the 'unseen armies' in verse 33:9 refer exclusively to angels.",
+      "layer": 3,
+      "verseNumber": 22,
+      "question": "True or false: Ibn Uthaymeen taught that 'taslim' in verse 22 — describing how the true believers responded to the arrival of the confederate armies — means joyful and voluntary submission to Allah's decree, which he regarded as the highest station of the servant.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Sunni scholars generally restrict the 'unseen armies' to angels, while Shia interpretations expand the term to include the enduring spiritual presence of the Imams, rooted in their theology of Imamah as a continuum of prophetic guidance."
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen emphasised that taslim in verse 22 is not mere patient endurance but joyful and voluntary surrender to Allah's plan — the highest station of the servant before divine decree. This distinguished the sincere believers from those who only endured hardship grudgingly or continued to doubt, and it remains the standard for authentic iman under pressure."
     },
     {
       "id": "33_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 33,
-      "question": "What is a key difference between Shia and Sunni interpretation of 'Ahl al-Bayt' in verse 33:33?",
+      "layer": 1,
+      "verseNumber": 72,
+      "question": "Verse 72 states that the heavens, earth, and mountains 'ashfaqna' from the amanah before humanity accepted it. According to the classical scholars including Ibn Kathir, what does this word reveal about why those mighty creations declined?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia scholars reject the verse entirely",
-        "Sunni scholars like Qurtubi include the Prophet's wives, while Shia scholars limit it to Ali, Fatima, Hasan, and Husayn",
-        "There is no difference between the interpretations"
+        "A. They lacked the rational capacity to comprehend what was being offered",
+        "B. They were too physically vast to bear an interior moral responsibility",
+        "C. They declined out of reverential awe of Allah and consciousness of the Trust's weight — not weakness",
+        "D. Allah withheld the ability to accept from them as a sign of their lower station"
       ],
       "correctAnswer": "C",
-      "explanation": "Sunni exegetes like Qurtubi and Razi extend 'Ahl al-Bayt' to include the Prophet's wives, while Shia scholars argue the grammatical shift specifically addresses the Prophet's immediate family: Ali, Fatima, Hasan, and Husayn."
-    },
-    {
-      "id": "33_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 21,
-      "question": "According to comparative analysis, how do Sunni and Shia traditions differ in understanding the scope of 'uswatun hasanah' (excellent pattern)?",
-      "options": [
-        "Sunni tradition includes the Imams while Shia excludes them",
-        "Shia scholars extend it to include the infallible Imams as inheritors of the Prophet's legacy",
-        "Both traditions limit it to the Prophet's companions",
-        "Neither tradition accepts this verse as authentic"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni exegetes focus exclusively on the Prophet's personal example, while Shia scholars extend the concept to include the infallible Imams from the Ahl al-Bayt, whom they regard as inheritors of Muhammad's spiritual and practical legacy."
-    },
-    {
-      "id": "33_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 33,
-      "question": "Both Sunni and Shia traditions agree that the purification verse (33:33) emphasizes spiritual refinement, despite differing on who specifically constitutes the 'Ahl al-Bayt'.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions ultimately uphold the verse's core message of spiritual refinement, demonstrating how shared scripture accommodates diverse hermeneutical trajectories within Islamic thought, though they differ on the scope of 'Ahl al-Bayt'."
+      "explanation": "Ibn Kathir records that the heavens, earth, and mountains declined out of reverence for Allah, not incapacity. Wahbah al-Zuhayli draws attention to 'ashfaqna' — they feared — as indicating reverential awe rather than weakness. Sayyid Qutb in Fi Zilal al-Quran calls this one of the most awe-inspiring passages in the Quran: colossal creations that dwarf the human being declined what humanity accepted, highlighting the unique dignity and burden of conscious moral agency."
     }
   ]
 }

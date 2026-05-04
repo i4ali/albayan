@@ -6,265 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the phrase 'faradnaha' (We made obligatory) in the opening verse of Surah An-Nur emphasize?",
+      "question": "What does the word 'faradnaha' in the opening verse of Surah An-Nur indicate about the rulings contained in this surah?",
       "options": [
-        "The Quran is optional reading for Muslims",
-        "The binding nature of the surah's rulings as divine obligations",
-        "Only scholars should study this surah",
-        "The historical context of the revelation"
+        "A: They are strong recommendations that Muslims are encouraged to follow",
+        "B: They are binding divine obligations with the force of legal commands",
+        "C: They apply only to scholars and judges, not ordinary believers",
+        "D: They were temporary laws specific to the Medinan period"
       ],
       "correctAnswer": "B",
-      "explanation": "The phrase 'faradnaha' highlights the binding nature of the surah's rulings as obligations ordained by Allah, particularly the ethical and legal guidelines central to this surah."
+      "explanation": "The word 'faradnaha' means 'We have made obligatory.' As Ibn Kathir notes in his Tafsir al-Quran al-Azim, the unique opening of this surah — explicitly declaring its rulings as divinely imposed obligations — signals that what follows requires especially careful attention and wholehearted compliance, not merely optional guidance."
     },
     {
       "id": "24_2",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 4,
-      "question": "According to the tafsir, the requirement of four witnesses for accusations of adultery applies equally to protecting both men and women from false allegations.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical scholars like Tabatabai explain that this verse isn't limited to women alone; it equally defends chaste men from false allegations, as principles of justice are gender-inclusive."
+      "verseNumber": 2,
+      "question": "Verse 2 prescribes the punishment for zina and then states: 'Do not let pity for them overcome you in the religion of Allah.' What is the primary purpose of this command against pity?",
+      "options": [
+        "A: To ensure judges personally dislike the accused before sentencing",
+        "B: To prevent emotional leniency from resulting in the reduction or waiver of the prescribed punishment",
+        "C: To require that the punishment be carried out without any witnesses present",
+        "D: To discourage defense lawyers from representing the accused"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir explains that the prohibition against pity specifically targets emotional leniency that might cause those implementing the ruling to soften or waive the punishment. Al-Qurtubi adds that it prohibits both emotional leniency and legal manipulation to reduce the punishment once the conditions are established. The wisdom is that consistent, impartial justice protects the community."
     },
     {
       "id": "24_3",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 30,
-      "question": "What does the command 'yaghuddu min absarihim' (lower their gaze) in verse 30 extend beyond according to the tafsir?",
-      "options": [
-        "Only looking at forbidden images",
-        "Reading inappropriate books",
-        "Physical sight to include mindful awareness of one's surroundings and intentions",
-        "Watching television"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The term 'absar' (vision) extends beyond physical sight to include mindful awareness of one's surroundings and intentions, encompassing inner discipline."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: According to the hadith recorded in Sahih Muslim and cited by Imam Tabari, the punishment prescribed in verse 2 is the only punishment for all categories of persons who commit zina, regardless of their marital status.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam Tabari in Jami al-Bayan records the hadith from Abu Hurayrah and Zayd ibn Khalid al-Juhani in Sahih Muslim in which the Prophet described separate rulings: one hundred lashes and exile for the unmarried offender, and one hundred lashes plus stoning for the previously married person. The stoning punishment for the married offender is grounded in the prophetic Sunnah rather than this verse alone."
     },
     {
       "id": "24_4",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 35,
-      "question": "In the Light Verse (Ayat al-Noor), what does the 'blessed olive tree' that is 'neither eastern nor western' symbolize?",
+      "verseNumber": 4,
+      "question": "What are the three consequences verse 4 prescribes for someone who falsely accuses a chaste person of zina without producing four witnesses?",
       "options": [
-        "A specific tree in Arabia",
-        "A balanced, universal source of spiritual fuel untouched by extremes",
-        "The geography of the Middle East",
-        "Olive oil production in ancient times"
+        "A: Fifty lashes, a public apology, and a one-year ban from the mosque",
+        "B: Eighty lashes, permanent rejection of their legal testimony, and being declared morally corrupt (fasiq)",
+        "C: One hundred lashes, a financial penalty, and temporary exile from the city",
+        "D: Eighty lashes, a period of house arrest, and loss of inheritance rights"
       ],
       "correctAnswer": "B",
-      "explanation": "The olive oil from a tree 'neither eastern nor western' represents a balanced, universal source of spiritual fuel untouched by extremes, symbolizing the organic, enduring nature of faith."
+      "explanation": "Verse 4 specifies eighty lashes, permanent disqualification from giving legal testimony, and the label of fasiq (morally corrupt). As Fakhr al-Din al-Razi notes in Mafatih al-Ghayb, the emphatic pronoun 'humu' in the phrase 'they are the fasiqun' signals that the false accuser embodies the very definition of moral transgression."
     },
     {
       "id": "24_5",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 35,
-      "question": "According to Allamah Tabatabai in Al-Mizan, what does the 'niche' (mishkah) in the Light Verse represent in Shia exegesis?",
-      "options": [
-        "A physical lamp holder",
-        "The purified heart of the believer or the sanctified locus of prophethood and Imamate",
-        "A mosque in Medina",
-        "The Kaaba in Mecca"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai interprets the 'niche' as the purified heart of the believer or the sanctified locus of prophethood and Imamate, through which divine guidance manifests."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "True or false: The word 'ifk' that the Quran uses in verse 11 to describe the slander against Aisha is an Arabic term meaning a statement that is somewhat exaggerated or distorted from the truth.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The word 'ifk' in Arabic means a statement that has been completely inverted from reality — a total fabrication, not a mere exaggeration. By using this precise term, Allah Himself declares the accusation to be an outright lie. Ibn Kathir affirms that this divine declaration makes Aisha's innocence a matter of iman (faith), not historical debate."
     },
     {
       "id": "24_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 4,
-      "question": "According to classical Shia scholarship, the eighty lashes prescribed for false accusation is the same punishment prescribed for actual fornication in verse 24:2.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "As explicated by Allama Tabatabai in Al-Mizan, the specification of eighty lashes is the same punishment prescribed for actual fornication in 24:2, underscoring that false accusation (qadhf) constitutes a parallel attack on social order."
+      "verseNumber": 11,
+      "question": "Which individual does Imam Tabari, drawing on chains of transmission (isnad) that include Aisha's own hadith in Sahih al-Bukhari, identify as the chief orchestrator of the ifk slander campaign?",
+      "options": [
+        "A: Safwan ibn al-Muattal, whose presence triggered the rumours",
+        "B: Mistah ibn Uthatha, who received the hadd punishment",
+        "C: Abdullah ibn Ubayy ibn Salul, the leader of the hypocrites in Medina",
+        "D: Hassan ibn Thabit, the poet of the Prophet"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam Tabari in Jami al-Bayan, relying on extensive chains including Aisha's celebrated narration in Sahih al-Bukhari and Sahih Muslim, identifies Abdullah ibn Ubayy ibn Salul, the leader of the hypocrites, as the instigator. Ibn Kathir affirms this, noting that Mistah ibn Uthatha and others who spread the slander were punished but bore lesser guilt than the primary orchestrator."
     },
     {
       "id": "24_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 30,
-      "question": "According to Shia theological principles, what does Tabatabai emphasize about the preposition 'min' in 'yaghuddu min absarihim' (reduce some of their vision)?",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "When verse 12 asks why the believers did not assume the best and declare the accusation a manifest lie, what Islamic ethical principle is it establishing as the proper communal response to unsubstantiated accusations?",
       "options": [
-        "It means to close one's eyes completely",
-        "It denotes qualitative diminution, meaning curtail ALL forms of vision that could lead to corruption",
-        "It only applies to men",
-        "It refers to wearing glasses"
+        "A: Tajassus — the duty to investigate accusations thoroughly before responding",
+        "B: Husn al-zann — charitable assumption of innocence toward fellow believers",
+        "C: Shura — consultation among community leaders before making judgments",
+        "D: Tawakkul — trusting Allah to expose the truth without human involvement"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that 'min' here denotes a qualitative diminution rather than quantitative reduction, implying the believer must curtail all forms of vision that could lead to spiritual or ethical corruption."
+      "explanation": "Verse 12 establishes husn al-zann (charitable assumption of innocence) as the obligatory first response of every believer upon hearing an unsubstantiated accusation. As Ibn Kathir explains, the Arabic 'lola' conveys a reproach: the correct and expected response — 'this is a clear lie' — should have been immediate, because Aisha's established character and the absence of any evidence made the accusation self-evidently false."
     },
     {
       "id": "24_8",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 31,
-      "question": "According to Sheikh Tabrisi in Majma al-Bayan, what does the command for women to 'wrap their headcovers over their chests' underscore?",
-      "options": [
-        "Fashion requirements of the time",
-        "The obligation to conceal the neck, hair, and bosom, rejecting pre-Islamic practices",
-        "Decorative customs only",
-        "Seasonal clothing guidelines"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The command to 'wrap their headcovers over their chests' underscores the obligation to conceal the neck, hair, and bosom, rejecting pre-Islamic practices of exposing these areas."
+      "verseNumber": 4,
+      "question": "True or false: The majority position of the classical Sunni legal schools — including those of Imam Malik, al-Shafi'i, and Ahmad ibn Hanbal — is that sincere repentance after verse 5's exception restores the false accuser's right to give legal testimony.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Qurtubi records in al-Jami li-Ahkam al-Quran that this majority position is held by Imam Malik, al-Shafi'i, and Ahmad ibn Hanbal. Ibn Kathir endorses it, explaining that when the Quran establishes an exception after a ruling, it modifies all consequences except the physical punishment, which belongs to the victim's right and cannot be waived by repentance."
     },
     {
       "id": "24_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 35,
-      "question": "According to contemporary Shia scholars like Ayatollah Nasir Makarim Shirazi, what does the 'glass' protecting the flame in the Light Verse symbolize?",
+      "verseNumber": 12,
+      "question": "Wahbah al-Zuhayli identifies husn al-zann in verse 12 as serving which one of the five essential objectives (maqasid) of Islamic law?",
       "options": [
-        "Material protection only",
-        "The infallibility of the Ahlul Bayt as guides, ensuring their light remains untainted",
-        "Scientific glass technology",
-        "Transparent communication"
+        "A: Protection of intellect (hifz al-aql)",
+        "B: Protection of wealth (hifz al-mal)",
+        "C: Protection of honor and reputation (hifz al-ird)",
+        "D: Protection of lineage (hifz al-nasl)"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars emphasize that the 'glass' protecting the flame mirrors the infallibility of the Ahlul Bayt guides, ensuring their light remains untainted by corruption."
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir connects verse 12 to hifz al-ird, the protection of individual honor and reputation, which he identifies as one of the five essential objectives of Islamic law alongside protection of life, intellect, lineage, and property. He argues that spreading unverified negative reports about fellow Muslims is not merely socially harmful but violates a core maqsid of the Shari'ah."
     },
     {
       "id": "24_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 4,
-      "question": "According to contemporary scholars, the verse's requirement for four witnesses for false accusations parallels modern legal systems' emphasis on 'innocent until proven guilty' and due process.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Scholars emphasize that the verse's call for four witnesses isn't merely a legal technicality but a timeless principle that aligns with modern legal systems' emphasis on 'innocent until proven guilty' and due process."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 30,
+      "question": "In his commentary on verse 30, Ibn Kathir cites a hadith from the Musnad of Ahmad and Sunan Abu Dawud in which the Prophet gave what instruction about the first and second glance?",
+      "options": [
+        "A: Both glances are equally forbidden and must be avoided completely",
+        "B: The first glance is excused but the second is not — turn your gaze away",
+        "C: Only a glance lasting more than three seconds is sinful",
+        "D: The glance is only forbidden if the person looking has evil intentions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records from the Musnad of Ahmad (from Buraydah) the hadith in which the Prophet told Ali: 'Do not follow the first glance with another, for the first is excused but the second is not.' He also cites the hadith of Jarir ibn Abdullah from Abu Dawud where the Prophet instructed: 'Turn your gaze away' when asked about an accidental glance."
     },
     {
       "id": "24_11",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 30,
-      "question": "According to contemporary Shia scholars, what modern challenge does the directive to 'lower the gaze' address?",
-      "options": [
-        "Physical blindness",
-        "Hyper-exposure to digital content, social media, and commodified imagery",
-        "Reading difficulties",
-        "Eye strain from screens"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars frame this verse as addressing the modern challenge of hyper-exposure to digital content, social media, and commodified imagery that often objectifies human dignity."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 31,
+      "question": "True or false: Verse 31 commands believing women to cover their hair and chest with the khimar, and this command was addressed to the Prophet to formally convey as a binding obligation to the believing women.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The verse opens with the instruction to the Prophet: 'Tell the believing women.' Ibn Kathir notes this mode of direct prophetic conveyance signals the gravity of the command and indicates its binding legal force. He records from Aisha that the Ansari women rose immediately upon hearing the verse and covered themselves, such was the seriousness with which they received the ruling."
     },
     {
       "id": "24_12",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 35,
-      "question": "The Light Verse's emphasis on 'light upon light' resonates with modern physics' understanding of light as both particle and wave.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern physics reveals that light exists as both particle and wave, echoing the verse's 'light upon light' layering, reflecting the interplay between divine grace and human agency."
+      "verseNumber": 30,
+      "question": "Sayyid Qutb's commentary on verse 30 in Fi Zilal al-Quran argues that the command to lower the gaze and the privacy regulations before it form what kind of structure?",
+      "options": [
+        "A: Two unrelated rulings that happen to share the same chapter",
+        "B: An interconnected system of moral protection building a community of dignity and self-restraint",
+        "C: A set of rules designed primarily for women that men observe secondarily",
+        "D: Temporary guidelines relevant only to the social conditions of Medina"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran explains that the entire passage builds one interconnected system: the home's privacy is protected from unwanted intrusion, and the eye's gaze is disciplined from unwanted consumption of others' private reality. Both dimensions serve a single Islamic vision of a community built on dignity and self-restraint. Islam channels natural human desire toward the sanctified bond of marriage."
     },
     {
       "id": "24_13",
       "type": "multipleChoice",
-      "layer": 4,
+      "layer": 2,
       "verseNumber": 35,
-      "question": "According to Imam Jafar al-Sadiq's interpretation, what does the 'lamp' in the Light Verse represent?",
+      "question": "Ibn Kathir records Ibn Abbas's interpretation of the components of the Light Verse parable. Which option correctly matches the elements to their meanings according to this interpretation?",
       "options": [
-        "A physical oil lamp",
-        "The knowledge within the heart of Muhammad (pbuh)",
-        "Electricity",
-        "Sunlight"
+        "A: Niche = mosque; lamp = imam; glass = congregation; olive = zakat",
+        "B: Niche = the chest of the believer; lamp = faith in the heart; glass = the purified heart; olive = the prophetic tradition",
+        "C: Niche = the Quran; lamp = the Prophet; glass = the Companions; olive = the scholars",
+        "D: Niche = the heavens; lamp = the sun; glass = the atmosphere; olive = human reason"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq explained that 'the niche is the heart of Muhammad, the lamp is the knowledge within it,' connecting the metaphor to prophetic wisdom."
+      "explanation": "Ibn Kathir in his Tafsir al-Quran al-Azim records the interpretation attributed to Ibn Abbas: the niche represents the chest of the believer, the lamp is the faith within the heart, the glass is the purified heart, and the olive tree represents the prophetic tradition. The phrase 'neither eastern nor western' indicates the religion of Ibrahim, which Islam continues, is universal and not culturally bound."
     },
     {
       "id": "24_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 30,
-      "question": "What did Imam Jafar al-Sadiq teach about 'the first glance' versus 'the second glance' regarding lowering the gaze?",
-      "options": [
-        "Both are equally sinful",
-        "The first glance is accidental, but the second is a poisoned arrow from Satan's quiver",
-        "Only the third glance is sinful",
-        "Glances do not matter"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq taught that 'the first glance is accidental, but the second is a poisoned arrow from Satan's quiver,' emphasizing active spiritual warfare against the nafs."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 35,
+      "question": "True or false: Ibn Uthaymeen concluded in his commentary on the Light Verse that the practical implication of Allah being the Light of the heavens and earth is that all genuine guidance, spiritual clarity, and understanding of truth come from Allah alone, making reliance on divine revelation the only sure path to living well.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen, while affirming the transcendence of divine attributes, emphasized that the Light Verse teaches that all guidance and spiritual clarity come from Allah alone. Sayyid Qutb similarly warns against over-intellectualizing the verse at the expense of its devotional power. Both scholars stress that 'Allah guides to His light whom He wills' should inspire humility in the guided and compassion toward the unguided."
     },
     {
       "id": "24_15",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Ali (as), 'The tongue is a beast - if let loose, it devours,' teaching that false accusations corrupt both the accuser and the community.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali emphasized that the tongue is a beast that devours if let loose, and accusing chaste individuals without evidence is a spiritual malignancy that corrupts both the accuser and the community."
-    },
-    {
-      "id": "24_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 35,
-      "question": "According to Imam Jafar al-Sadiq, what does the 'glass' (zujajah) in the Light Verse represent?",
+      "layer": 3,
+      "verseNumber": 55,
+      "question": "According to Wahbah al-Zuhayli's analysis of verse 55 in Al-Tafsir al-Munir, what are the three distinct divine gifts promised to believers who maintain faith and righteous deeds, and what does he say about their relationship to each other?",
       "options": [
-        "A window",
-        "Ali ibn Abi Talib, shining like a radiant star",
-        "The moon",
-        "Crystal decorations"
+        "A: Victory in battle, abundant offspring, and long life; each gift is independent",
+        "B: Succession on earth, establishment of the approved religion, and security replacing fear; all three are inseparable",
+        "C: Political power, economic prosperity, and scholarly prestige; conditional on paying zakat",
+        "D: Protection from enemies, knowledge of the unseen, and miraculous signs; granted only to prophets"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq elucidated that 'the glass is Ali ibn Abi Talib, shining like a radiant star,' connecting the metaphor to the Wilayah of the Ahlul Bayt."
-    },
-    {
-      "id": "24_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 35,
-      "question": "According to comparative analysis, how do Shia and Sunni scholars differ in interpreting the 'light upon light' in the Light Verse?",
-      "options": [
-        "Both interpret it identically",
-        "Shia scholars link it to the Prophet and Imams as inheritors of divine illumination, while Sunni scholars focus on the Quran or Prophet's teachings",
-        "Sunni scholars focus on the Imams",
-        "Neither tradition discusses this metaphor"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia scholars often interpret 'light upon light' as a layered allusion to the Prophet and Imams as inheritors of divine illumination, while Sunni exegetes generally frame the 'lamp' as the Quran or Prophet's teachings."
-    },
-    {
-      "id": "24_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "Both Shia and Sunni traditions agree that the verse prescribing punishment for false accusations (24:4) safeguards social order and protects individual honor.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical sources from both traditions, including Ibn Kathir and Tabatabai, concur that this injunction safeguards social order and protects individual honor, particularly women's reputations."
-    },
-    {
-      "id": "24_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 30,
-      "question": "What is a key methodological difference between Shia and Sunni interpretations of the modesty verse (24:30)?",
-      "options": [
-        "There are no differences",
-        "Shia tafsir integrates the Imams' hermeneutical authority, while Sunni exegesis prioritizes the Prophet's Sunnah as transmitted by companions",
-        "Sunni scholars reject the verse entirely",
-        "Shia scholars ignore the verse"
-      ],
-      "correctAnswer": "B",
-      "explanation": "These distinctions stem from methodological differences: Shia tafsir integrates the Imams' hermeneutical authority, whereas Sunni exegesis prioritizes the Prophet's Sunnah as transmitted by companions."
-    },
-    {
-      "id": "24_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 35,
-      "question": "Despite methodological differences, both Shia and Sunni traditions share a reverence for the Light Verse as expressing divine transcendence and guiding believers toward spiritual humility.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions agree the verse inspires spiritual humility, urging believers to seek divine light, while affirming shared reverence for divine transcendence despite distinct hermeneutical approaches."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir identifies three inseparable divine gifts in verse 55: (1) succession and authority on earth, (2) establishment of the religion Allah has approved, and (3) transformation of fear into security. He stresses that these three are inseparable — genuine religious establishment naturally produces social security, and true succession must be grounded in the religion Allah has approved."
     }
   ]
 }

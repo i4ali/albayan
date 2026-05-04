@@ -5,136 +5,196 @@
       "id": "41_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to Shia tafsir, what do the disconnected letters 'Ha Meem' at the opening of Surah Fussilat signify?",
+      "verseNumber": 5,
+      "question": "What three barriers did the disbelievers of Mecca claim stood between them and the Prophet's message in verse 5?",
       "options": [
-        "A greeting to the Prophet",
-        "A reminder of the Quran's divine origin and inimitability",
-        "A command for daily prayers",
-        "A reference to a specific historical event"
+        "A. Poverty, illiteracy, and great distance",
+        "B. Coverings over their hearts, deafness in their ears, and a partition between them and the Prophet",
+        "C. The language barrier, tribal custom, and absence of miracles",
+        "D. Fear of Abu Jahl, social pressure, and lack of time"
       ],
       "correctAnswer": "B",
-      "explanation": "In Shia tafsir, the letters Ha Meem are understood as a profound reminder of the Quran's divine origin and inimitability (i'jaz), challenging all generations to recognize its unmatched linguistic and spiritual depth."
+      "explanation": "Verse 5 records the Quraysh describing three self-imposed barriers: hearts enclosed in coverings, ears struck with heaviness, and a partition between themselves and the Prophet. Ibn Kathir noted these were not divine impositions but self-descriptions used to justify their deliberate choice to reject guidance."
     },
     {
       "id": "41_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 11,
-      "question": "In Surah Fussilat 41:11, when Allah commanded the heavens and earth to come into being, they responded 'We have come willingly,' symbolizing the universe's innate submission to divine order.",
+      "verseNumber": 10,
+      "question": "True or false: According to the classical scholarly consensus cited in the tafsir, the four days mentioned in verse 10 are additional to the two days in verse 9, bringing the total for the creation of earth and sky to eight days.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The verse describes the heavens and earth responding 'atai'na ta'i'een' (We have come willingly), which symbolizes the universe's innate submission to divine order and serves as a model for human taqwa (God-consciousness)."
+      "correctAnswer": "false",
+      "explanation": "Imam al-Qurtubi and Ibn Kathir both affirm, drawing on Ibn Abbas, that the four days in verse 10 are inclusive of the two days in verse 9, making the total for earth and its provisions four days. This keeps the grand total at six days, consistent with Quran 7:54 and other verses."
     },
     {
       "id": "41_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 10,
-      "question": "According to classical Shia exegetes, what does the 'four days' framework in verse 41:10 represent?",
+      "verseNumber": 11,
+      "question": "Imam al-Tabari records that Ibn Abbas explained the primordial 'smoke' (dukhan) in verse 11 as arising from which source?",
       "options": [
-        "Literal 24-hour solar days",
-        "Symbolic divine phases or epochs of creation",
-        "The four seasons of the year",
-        "Four generations of prophets"
+        "A. The first sunrise that Allah created before the earth",
+        "B. The burning of previous destroyed worlds",
+        "C. The primordial waters over which Allah's throne rested",
+        "D. The breath of the angels as they descended to create the sky"
       ],
-      "correctAnswer": "B",
-      "explanation": "Al-Tabatabai in Al-Mizan emphasizes a non-linear, layered understanding of time in Quranic cosmogony, arguing that the 'days' represent epochs or divine phases rather than sequential solar days."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari in his Jami al-Bayan cites Ibn Abbas explaining that the smoke arose from the primordial waters over which Allah's throne rested, and that steam from this water became the substance from which the heavens were formed, anchoring the verse within a hadith-grounded cosmological framework."
     },
     {
       "id": "41_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Allama Tabatabai in Al-Mizan, what is the distinction between 'ar-Rahman' and 'ar-Rahim' in verse 41:2?",
-      "options": [
-        "They are identical attributes with no distinction",
-        "Ar-Rahman refers to universal mercy for all creation, while ar-Rahim refers to specific mercy for believers",
-        "Ar-Rahman is for the afterlife, ar-Rahim is for this world",
-        "Both refer only to mercy shown to prophets"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai distinguishes that ar-Rahman signifies Allah's universal mercy encompassing all creation, while ar-Rahim denotes His specific, continuous mercy for those who align with His guidance and pursue the straight path."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "True or false: In verse 11, when Allah commanded the heaven and earth to 'come willingly or by compulsion,' the heavens and earth responded by saying 'We have come willingly.'",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 11 records: 'They said: We have come willingly.' Ibn Kathir explained that this willing response indicates everything exists in a state of submission to Allah. Sayyid Qutb reflected in Fi Zilal al-Quran that the entire universe models the spiritual posture of surrender that Islam calls for, making human arrogance before this obedient cosmos a profound contradiction."
     },
     {
       "id": "41_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 11,
-      "question": "How do contemporary scholars interpret the 'smoke' (dukhan) mentioned in verse 41:11 in relation to modern science?",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "What was the specific boast of the people of Ad that the Quran records as the expression of their arrogance in verse 15?",
       "options": [
-        "As a metaphor for human ignorance",
-        "As resonating with astrophysical models of the early universe as a hot, gaseous nebula",
-        "As referring to pollution in modern times",
-        "As a description of volcanic activity"
+        "A. 'Our civilization will last ten thousand years'",
+        "B. 'We have no need of prophets or revelation'",
+        "C. 'Who is greater than us in strength?'",
+        "D. 'Our gods protect us from all harm'"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Makarem Shirazi highlight that the term 'dukhan' (smoke) resonates with modern cosmology's understanding of the early universe as a hot, gaseous nebula preceding star and galaxy formation, aligning with the Big Bang theory."
+      "correctAnswer": "C",
+      "explanation": "Verse 15 records Ad's boast: 'Who is greater than us in strength?' The Quran responds by asking: 'Did they not see that Allah who created them was greater in strength?' Fakhr al-Din al-Razi in Mafatih al-Ghayb argued this establishes a logical proof that the Creator necessarily surpasses the created, making arrogance toward the Creator a logical self-contradiction."
     },
     {
       "id": "41_6",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 34,
-      "question": "According to contemporary Shia scholars, responding to evil with what is better (verse 41:34) is primarily about avoiding conflict rather than transforming relationships.",
+      "layer": 2,
+      "verseNumber": 16,
+      "question": "True or false: Ibn Kathir, citing the parallel verse in Surah al-Haqqah (69:7), confirms that the wind sent upon the people of Ad lasted seven nights and eight days without ceasing.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Contemporary scholars emphasize that repelling evil with good is not merely about avoiding conflict but actively transforming adversarial relationships. The verse teaches that responding with excellence can turn an enemy into a warm friend, reflecting divine compassion in human interactions."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim quotes Surah al-Haqqah (69:7): 'He imposed it on them for seven nights and eight days uninterruptedly, so you could see the people laid low in it as if they were the hollow trunks of date-palms fallen over.' Imam Tabari also records Qatadah and other early scholars confirming this duration."
     },
     {
       "id": "41_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (AS), what do the letters 'Ha Meem' symbolize in relation to the Ahlul Bayt?",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "On the Day of Judgment, why will the disbelievers be shocked when their own skin testifies against them?",
       "options": [
-        "The number of Imams",
-        "The eternal guidance (Hidayah) through Imamate and divine love (Mahabbah) for the Prophet's progeny",
-        "The two holy cities of Mecca and Medina",
-        "The physical and spiritual worlds"
+        "A. They assumed their charitable deeds would outweigh their sins",
+        "B. They believed that only the recording angels kept a record, not their own bodies",
+        "C. They had wrongly assumed Allah does not know much of what they did, so they never thought their limbs would testify",
+        "D. They expected their tribal leaders to intercede for them and prevent any testimony"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) explained that 'Ha' represents the eternal Hidayah (guidance) flowing through the chain of Imamate, while 'Meem' signifies the Mahabbah (divine love) embedded in the hearts of believers for Muhammad and his purified progeny."
+      "correctAnswer": "C",
+      "explanation": "Verse 22 explains that the sinners committed their wrongs while cultivating a false assumption that 'Allah does not know much of what we do.' Because they did not hide their sins from their own limbs, thinking those limbs could never speak, they are shocked by the testimony. Imam Qurtubi noted this is not ignorance but a deliberate, corrupt theological assumption used to justify sinful behavior."
     },
     {
       "id": "41_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 10,
-      "question": "According to Imam Ali (AS), how are the mountains described in relation to spiritual guidance?",
+      "layer": 2,
+      "verseNumber": 21,
+      "question": "Which authentic hadith, cited by Ibn Kathir in his tafsir of verse 21, describes the scene of a person's body parts testifying against them on the Day of Judgment?",
       "options": [
-        "As obstacles to human progress",
-        "As pillars of the earth that stabilize it, just as the divine proofs (Hujjah) stabilize human hearts",
-        "As symbols of human arrogance",
-        "As barriers between nations"
+        "A. A hadith on the authority of Abu Hurayra in Sahih al-Bukhari about the creation of Adam",
+        "B. A hadith on the authority of Anas ibn Malik in Sahih Muslim about a person who denies all deeds then has limbs testify",
+        "C. A hadith on the authority of Aisha about the questioning in the grave",
+        "D. A hadith on the authority of Ibn Umar about the categories of people on the Day of Resurrection"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) stated in Nahj al-Balagha: 'The mountains are pillars of the earth that stabilize it—just as the divine proofs [Hujjah] are the stabilizers of hearts.' This analogy reveals that the Imams are the true 'mountains of guidance' that anchor humanity's spiritual balance."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim connects verse 21 to an authenticated hadith in Sahih Muslim on the authority of Anas ibn Malik, where the Prophet described how a person will first deny all deeds before Allah, insisting the recording angels made errors, after which Allah causes the person's own body parts to speak and testify against them."
     },
     {
       "id": "41_9",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "What is a key difference between Shia and Sunni interpretation of the 'sustenance' (aqwat) mentioned in verse 41:10?",
-      "options": [
-        "Sunni scholars deny any material sustenance is mentioned",
-        "Shia sources link sustenance to the Ahlul Bayt as channels of divine grace, while Sunni exegetes focus on natural systems and social ethics",
-        "Both traditions interpret it identically",
-        "Shia scholars focus only on material provisions while Sunni scholars emphasize spiritual"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia sources like Tafsir al-Qummi link sustenance to the ontological role of the Ahlul Bayt as channels of divine grace, while Sunni exegetes like Al-Qurtubi focus on its manifestation through natural systems and social ethics."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 26,
+      "question": "True or false: Imam al-Qurtubi derives from verse 26 a ruling that speaking and making noise during the recitation of the Quran is prohibited for Muslims.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi in al-Jami li-Ahkam al-Quran derives from verse 26 that speaking and making noise during the Quran's recitation is prohibited, since engaging in that behavior even unintentionally aligns one with the worst of disbeliever conduct. Ibn Kathir also links this to the Quraysh's organized campaign, led by Abu Jahl, to drown out the Prophet's recitation with shouting."
     },
     {
       "id": "41_10",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 34,
+      "question": "What transformation does verse 34 promise can result from repelling evil with what is better?",
+      "options": [
+        "A. The believer will be rewarded with material wealth in this life",
+        "B. The one who was an enemy can become as though a warm and intimate friend",
+        "C. Allah will send angels to protect the believer from further harm",
+        "D. The community will grant the believer a position of authority"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 34 declares that responding with excellence can cause the one 'between whom and you was enmity' to become 'as though he were a close friend.' Wahbah al-Zuhayli in al-Tafsir al-Munir noted this describes a real social phenomenon: sustained goodness genuinely changes hostile relationships, applying this principle to contemporary Muslim communities navigating difficult social environments."
+    },
+    {
+      "id": "41_11",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Shia and Sunni traditions agree that the disconnected letters 'Ha Meem' signify the inimitability (i'jaz) of the Quran and its divine origin.",
+      "layer": 2,
+      "verseNumber": 34,
+      "question": "True or false: Ibn Kathir, in his commentary on verse 34, cites Ibn Abbas stating that patience before anger, forbearance before ignorance, and forgiveness for harm are the three applications of repelling evil with good.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni exegetes concur that the letters 'Ha Meem' signify the inimitability (i'jaz) of the Quran, affirming its divine origin beyond human replication. Al-Tabari (Sunni) and Al-Tabrisi (Shia) both note that such letters emphasize the Quran's linguistic uniqueness."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records Ibn Abbas's statement: 'Allah commands the believers to be patient when they feel angry, to be forbearing when confronted with ignorance, and to forgive when they are mistreated.' Ibn Kathir used this to show that verses 34 and 35 together form a complete ethical and spiritual program."
+    },
+    {
+      "id": "41_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 35,
+      "question": "Verse 35 says that the ability to repel evil with good is granted only to those who are patient and to those 'having a great portion.' How does Wahbah al-Zuhayli explain the significance of calling patience a 'great portion' or fortune?",
+      "options": [
+        "A. It means patient people will inherit great material wealth in this life",
+        "B. It reframes patience entirely: the truest fortune is the inner capacity for patient excellence in adversity, not wealth or status",
+        "C. It indicates that only scholars and prophets can truly possess this quality",
+        "D. It confirms that the angels will assist only the most patient believers in battle"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir reflects that calling patience a 'great fortune' reframes it entirely. Ordinarily fortune is associated with wealth or ease; the Quran insists the truest fortune is the inner capacity for patient excellence in the face of adversity. Sheikh Muhammad al-Sharawi similarly emphasized that this describes the believer's path to becoming a transformative presence in the world."
+    },
+    {
+      "id": "41_13",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 38,
+      "question": "According to Imam al-Qurtubi and Ibn Kathir, which legal ruling is established by the position of verse 38 within Surah Fussilat?",
+      "options": [
+        "A. Completing Surah Fussilat in the night prayer is a confirmed Sunnah",
+        "B. Verse 38 contains the place of the recitation-prostration (sajda tilawa) for this surah",
+        "C. It is obligatory to recite all the Hawamim surahs in sequential order",
+        "D. Listening to Quranic recitation in congregation earns double reward during Ramadan"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi notes that verse 38 is jurisprudentially significant as the place of the tilawa sajda (recitation-prostration) for Surah Fussilat, as affirmed by the Hanafi and Shafi'i schools. Ibn Kathir adds the observation that while the arrogant refuse to prostrate to Allah, the believing reader physically enacts the submission they reject."
+    },
+    {
+      "id": "41_14",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 53,
+      "question": "True or false: Sayyid Qutb's commentary on verse 53 in Fi Zilal al-Quran presents Allah's promise to show signs in the horizons and within human selves as a statement of divine anxiety about whether the truth will be recognized.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran explicitly frames verse 53 as a statement of absolute divine confidence, not anxiety. He writes that Allah is not defending the Quran anxiously but announcing with total certainty that the universe itself will make its testimony undeniable. This is a guarantee, not a worry."
+    },
+    {
+      "id": "41_15",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 53,
+      "question": "Verse 53 promises Allah will show His signs in two domains until it becomes clear that the Quran is the truth. What are those two domains?",
+      "options": [
+        "A. In the hearts of believers and in the decrees of divine law",
+        "B. On the horizons of the external world and within human selves",
+        "C. In the stories of previous prophets and in the words of sincere scholars",
+        "D. In revealed scriptures and in the testimony of angels"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 53 states: 'We will show them Our signs on the horizons (fi al-afaq) and within themselves (fi anfusihim) until it becomes clear to them that it is the truth.' Wahbah al-Zuhayli in al-Tafsir al-Munir explains this encompasses all knowledge: external empirical discovery and inner human awareness, both testifying to the truth of the Quran, fulfilled through Islam's historical spread and through modern scientific discoveries."
     }
   ]
 }

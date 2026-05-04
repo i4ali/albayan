@@ -6,105 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the command 'Iqra' (Recite) in Surah Al-Alaq's opening verse signify according to the Foundation Layer?",
+      "question": "The opening word 'Iqra' was revealed to the Prophet in which location, and what makes its delivery especially significant?",
       "options": [
-        "Only the ability to read written text",
-        "The transformative act of receiving and transmitting divine knowledge",
-        "A simple memorization exercise",
-        "The historical preservation of Arabic literature"
+        "In the Kaaba, because the Prophet was already a renowned reciter",
+        "In the Cave of Hira, especially because the Prophet was 'ummi' (unlettered)",
+        "In Madinah, after the migration was complete",
+        "In the marketplace of Mecca, before a public assembly"
       ],
-      "correctAnswer": "The transformative act of receiving and transmitting divine knowledge",
-      "explanation": "According to Shia tafsir, the command 'Iqra' transcends mere reading—it signifies the transformative act of receiving and transmitting divine knowledge, a mission rooted in recognizing Allah as the ultimate Creator and Sustainer. This revelation disrupted the ignorance of pre-Islamic Arabia, challenging oppressive systems through enlightenment."
+      "correctAnswer": "B",
+      "explanation": "The first revelation came in the Cave of Hira through the angel Jibril. Layer 1 emphasizes that the command to read was given to the 'ummi' (unlettered) Prophet, making it not a request based on prior literacy but a divine empowerment that transformed him and an entire civilization."
     },
     {
       "id": "96_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 3,
-      "question": "According to the Foundation Layer, the pairing of 'iqra' (recite) with 'al-Akram' (the Most Generous) teaches that seeking sacred knowledge is itself an act of receiving divine generosity.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: According to the hadith preserved in Sahih Bukhari and Sahih Muslim from Aisha, when Jibril first commanded 'Iqra,' the Prophet replied 'Ma ana bi-qari' (I am not a reader), and Jibril embraced him three times before reciting the opening verses.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. The verse highlights Allah's name 'al-Akram' (the Most Generous), underscoring His boundless grace in bestowing revelation and elevating humanity through knowledge. The pairing of 'iqra' with 'al-Akram' teaches that seeking sacred knowledge is itself an act of receiving divine generosity."
+      "explanation": "Imam Tabari and Ibn Kathir record this mutawatir narration through Aisha: Jibril pressed the Prophet three times in the Cave of Hira, and after the third embrace recited the opening five verses. This established that the command to 'read' was itself a miraculous conferring of ability."
     },
     {
       "id": "96_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, how does the command 'Recite in the name of your Lord' relate to tawhid?",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "What does the Arabic word 'alaq' in verse 2 most precisely describe?",
       "options": [
-        "It is unrelated to the concept of divine unity",
-        "It situates all knowledge within the framework of tawhid, asserting that true comprehension arises through recognition of Allah as the sole Creator",
-        "It applies only to religious knowledge, not worldly knowledge",
-        "It suggests knowledge can be acquired independently of divine guidance"
+        "A drop of pure water",
+        "A grown adult human being",
+        "A clinging clot or leech-like substance that adheres in the womb",
+        "A piece of clay shaped by hand"
       ],
-      "correctAnswer": "It situates all knowledge within the framework of tawhid, asserting that true comprehension arises through recognition of Allah as the sole Creator",
-      "explanation": "Allama Tabatabai in Al-Mizan observes that the command to recite 'in the name of your Lord' situates all knowledge within the framework of tawhid, asserting that true comprehension arises only through recognition of Allah as the sole Creator and Sustainer. This aligns with the Shia theological principle that prophetic revelation and the teachings of the Ahlul Bayt constitute the primal fountain of guidance."
+      "correctAnswer": "C",
+      "explanation": "Layer 1 explains that 'alaq' is the plural of 'alaqa' and describes the embryo at an early stage clinging to the wall of the womb, drawing sustenance like a leech. The verse contrasts humanity's humble biological origin with its lofty spiritual potential."
     },
     {
       "id": "96_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "According to classical Shia exegetes like Sheikh Tabrisi, what does the term 'tughyan' (transgression) in verse 6 represent?",
-      "options": [
-        "Minor mistakes in religious practice",
-        "Rebellion against divine authority through moral corruption, oppression, or rejection of prophetic guidance",
-        "Natural human imperfection",
-        "Physical weakness"
-      ],
-      "correctAnswer": "Rebellion against divine authority through moral corruption, oppression, or rejection of prophetic guidance",
-      "explanation": "Sheikh Tabrisi notes that 'tughyan' manifests as rebellion against divine authority, whether through moral corruption, oppression, or rejection of prophetic guidance—a theme resonating with Shia theology's stress on the necessity of Imamate to curb such excesses. This aligns with the Shia emphasis on resisting illegitimate power while maintaining fidelity to the Imams."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "True or false: Surah Al-Alaq presents the pen ('al-qalam') as a divine teaching, identifying writing itself as a gift from Allah rather than merely a human invention.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Layer 1 emphasizes that verse 4, 'who taught by the pen,' attributes the entire human capacity for recorded, transmissible knowledge to Allah. Ibn Kathir adds that writing is a divine gift, not merely a cultural development, undergirding all of human civilizational learning."
     },
     {
       "id": "96_5",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 3,
-      "question": "According to contemporary scholar Dr. Mohammad Shomali, empirical discovery and Quranic wisdom are contradictory paths that cannot be reconciled in the pursuit of knowledge.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Modern scholars like Dr. Mohammad Shomali link the verse to the Islamization of knowledge, arguing that empirical discovery and Quranic wisdom are complementary paths to understanding Allah's generosity manifest in natural laws, biodiversity, and human potential. The verse's call to 'read' the universe as a divine text resonates with scientific inquiry."
+      "verseNumber": 5,
+      "question": "How does Wahbah al-Zuhayli connect verse 5 ('He taught man what he did not know') to Islamic civilization?",
+      "options": [
+        "He argues it forbids Muslims from studying any non-religious subject",
+        "He sees it as the Quranic foundation for a comprehensive philosophy of education in which the student receives a divine gift and the teacher is a conduit of divine generosity",
+        "He limits its meaning strictly to memorizing the Quran",
+        "He restricts its application to the Prophet alone, not to ordinary believers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli reads this verse as establishing education as a sacred act, with the student receiving a divine gift and the teacher serving as a conduit of Allah's generosity. He links it to the flourishing of Muslim scholarship from the 8th to 13th centuries."
     },
     {
       "id": "96_6",
-      "type": "multipleChoice",
-      "layer": 3,
+      "type": "trueFalse",
+      "layer": 2,
       "verseNumber": 9,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret the verse 'Have you seen the one who forbids' in modern contexts?",
-      "options": [
-        "Only as a historical reference to Abu Jahl with no modern relevance",
-        "As a timeless critique of systemic oppression—whether ideological, political, or social—that seeks to suppress truth or spiritual growth",
-        "As applying exclusively to religious persecution, not other forms of oppression",
-        "As relevant only to Meccan society"
-      ],
-      "correctAnswer": "As a timeless critique of systemic oppression—whether ideological, political, or social—that seeks to suppress truth or spiritual growth",
-      "explanation": "Contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi contextualize this verse beyond its historical reference to Abu Jahl's attempt to silence Prophet Muhammad at prayer. They frame it as a timeless critique of systemic oppression—whether ideological, political, or social—that seeks to suppress truth, dissent, or spiritual growth, resonating with movements against censorship and authoritarianism."
+      "question": "True or false: According to the hadith of Ibn Abbas recorded in Sahih al-Bukhari, Abu Jahl boasted that if he saw Muhammad prostrating near the Kaaba he would trample on his neck, and the Prophet responded that if Abu Jahl tried, the angels would seize him.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir and Tabari both cite this Bukhari narration through Ibn Abbas as the asbab al-nuzul of verses 9-10. Abu Jahl's threat against the praying servant became the paradigmatic example of arrogant obstruction of worship, and the Prophet's response showed his complete trust in Allah's protection."
     },
     {
       "id": "96_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 1, what does 'the Name of your Lord' refer to?",
+      "layer": 3,
+      "verseNumber": 10,
+      "question": "Why, according to Ibn Uthaymeen and Sayyid Qutb, does the Quran call the Prophet simply 'a servant' ('abdan') at the very moment Abu Jahl threatens him during prayer?",
       "options": [
-        "Only the physical act of pronunciation",
-        "The Light of Wilayah, as all creation was brought into being through the Muhammadan Light",
-        "A metaphorical expression with no specific meaning",
-        "The Arabic language"
+        "Because servitude is a humiliation that shows the Prophet's weakness in that moment",
+        "Because the Prophet had not yet been given his prophetic title",
+        "Because servitude to Allah is the highest human dignity, mirroring the same honoring used at the Night Journey in Surah al-Isra",
+        "Because the verse refers to a different person, not the Prophet"
       ],
-      "correctAnswer": "The Light of Wilayah, as all creation was brought into being through the Muhammadan Light",
-      "explanation": "Imam Ja'far al-Sadiq explains in Tafsir al-Qummi: 'The Name of your Lord refers to the Light of Wilayah, for all creation was brought into being through the Muhammadan Light.' This establishes that the act of creation itself flows through the channel of Ahlul Bayt's divine guardianship, emphasizing the connection between divine knowledge and divinely appointed authority."
+      "correctAnswer": "C",
+      "explanation": "Ibn Uthaymeen noted that Allah honors the Prophet by calling him 'abd' precisely at moments of confrontation, just as in Surah al-Isra during the Night Journey. Sayyid Qutb adds that prostration before Allah while worldly power threatens from outside is the Quranic image of human dignity at its purest."
     },
     {
       "id": "96_8",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "In classical Sunni tafsir, what does seizing 'the forelock' (al-nasiya) in verse 15 symbolize, and how was the warning historically fulfilled?",
+      "options": [
+        "It symbolizes wealth, and the warning was fulfilled when Abu Jahl lost his trade caravans",
+        "It symbolizes pride and social prestige, and Ibn Kathir notes that Abu Jahl's death at Badr fulfilled the threat",
+        "It symbolizes ignorance, and the warning has not yet been fulfilled",
+        "It symbolizes friendship, and the warning was about Abu Jahl losing his allies"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Razi explains that the forelock represents pride and status in seventh-century Arabia, so seizing it represented total humiliation. Ibn Kathir notes that Abu Jahl's death at the Battle of Badr was the historical fulfillment of this Quranic warning."
+    },
+    {
+      "id": "96_9",
       "type": "trueFalse",
-      "layer": 5,
+      "layer": 1,
       "verseNumber": 19,
-      "question": "According to both Sunni and Shia commentators, the command 'do not obey him' in verse 19 refers to rejecting Abu Jahl's demands and emphasizing steadfastness in worship despite opposition.",
+      "question": "True or false: Surah Al-Alaq begins with the command 'Iqra' (Recite) and concludes with the command 'wasjud waqtarib' (Prostrate and draw near), and verse 19 is one of the verses requiring sajdat al-tilawa.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Tabari (Sunni) and Tabrisi (Shia) concur that 'do not obey him' refers to rejecting Abu Jahl's demands, emphasizing steadfastness in worship despite opposition. Both traditions universally see the command to 'prostrate and draw near' as affirming prayer's centrality in spiritual elevation, with Qurtubi (Sunni) and Tusi (Shia) both linking prostration to humility before Allah."
+      "explanation": "Wahbah al-Zuhayli highlights this poetic symmetry: the surah moves from reciting in the name of the Creator to prostrating in nearness to Him. Imam al-Qurtubi notes that the majority of Sunni scholars (Shafi'i, Maliki, Hanbali) treat this as a sajda verse, and Ibn Kathir cites the hadith from Muslim that the servant is closest to his Lord in prostration."
     }
   ]
 }

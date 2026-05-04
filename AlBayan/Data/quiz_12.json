@@ -5,271 +5,291 @@
       "id": "12_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 4,
-      "question": "In Prophet Yusuf's dream (verse 4), what did he see prostrating to him?",
+      "verseNumber": 3,
+      "question": "Why does Allah describe the story of Yusuf as 'the best of stories' at the very start of the surah?",
       "options": [
-        "Twelve stars and the moon",
-        "Eleven stars, the sun, and the moon",
-        "The sun and seven stars",
-        "Ten planets and the earth"
+        "A. Because it is the longest single narrative in the Quran",
+        "B. Because it contains virtually every human experience — love, betrayal, patience, temptation, imprisonment, and ultimate divine vindication — within a single unified narrative",
+        "C. Because it was the first surah revealed to the Prophet",
+        "D. Because it is the only surah that mentions a prophet by name in its title"
       ],
       "correctAnswer": "B",
-      "explanation": "Prophet Yusuf saw eleven stars, the sun, and the moon prostrating to him, which later symbolized his eleven brothers and parents bowing before him in Egypt."
+      "explanation": "The tafsir of verse 3 explains that the story earns the title 'ahsan al-qasas' because it encompasses the full range of human experience within one coherent surah, a completeness unmatched elsewhere in the Quran. Sayyid Qutb adds in Fi Zilal al-Quran that it maps most completely onto the universal human journey from innocence to trial, through darkness into light."
     },
     {
       "id": "12_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 5,
-      "question": "Prophet Yaqub advised Yusuf to share his dream with his brothers immediately.",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "True or false: Imam Tabari records a narration from Ibn Abbas stating that the surah was revealed after the Prophet's companions asked him to share stories with them, whereupon Allah responded by promising 'the best of stories.'",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Yaqub warned Yusuf not to tell his brothers about the dream, fearing their jealousy would lead them to plot against him, as Shaytan is a clear enemy to mankind."
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari records in Jami al-Bayan a narration from Ibn Abbas that the companions came to the Prophet requesting narratives, and this verse was then revealed as a divine response promising not just any story but the finest narrative. Ibn Kathir notes the phrase 'and you were, before it, among the unaware' is a direct proof of the Prophet's prophethood, since he recounted intricate Israelite history with perfect accuracy despite having no access to Jewish texts."
     },
     {
       "id": "12_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 3,
-      "question": "The Quran describes Surah Yusuf as containing what type of story?",
+      "verseNumber": 4,
+      "question": "In Yusuf's dream, what did the eleven stars, the sun, and the moon all do?",
       "options": [
-        "The shortest story",
-        "The best of stories (Ahsan al-Qasas)",
-        "The oldest story",
-        "The simplest story"
+        "A. They spoke to him and gave him knowledge of the future",
+        "B. They rose and set in a pattern that corresponded to his brothers' ages",
+        "C. They prostrated before him",
+        "D. They gathered around him and formed a protective circle"
       ],
-      "correctAnswer": "B",
-      "explanation": "Allah describes Surah Yusuf as 'Ahsan al-Qasas' (the best of stories), emphasizing its narrative excellence and profound moral lessons about patience and divine wisdom."
+      "correctAnswer": "C",
+      "explanation": "Verse 4 describes Yusuf telling his father that he saw eleven stars, the sun, and the moon prostrating before him. Imam Tabari, Ibn Kathir, and the companions Ibn Abbas, Qatada, and Abdur-Rahman ibn Zayd all agreed that the eleven stars represent the eleven brothers and the sun and moon represent Yusuf's father and mother."
     },
     {
       "id": "12_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 20,
-      "question": "For how much was Yusuf sold by the caravan that found him in the well?",
-      "options": [
-        "A hundred gold coins",
-        "A few dirhams (counted coins)",
-        "A thousand silver pieces",
-        "He was given away for free"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Yusuf was sold for a paltry price of a few dirhams, demonstrating how his brothers undervalued him, yet Allah had greater plans for his elevation."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "True or false: Ibn Kathir notes that Yusuf's verb 'ra'aituhum' — using a pronoun suited to rational beings rather than celestial objects — indicates that in the dream the stars, sun, and moon appeared to him with humanlike qualities.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "In Tafsir al-Quran al-Azim, Ibn Kathir points out the linguistic subtlety of 'ra'aituhum,' which employs a pronoun appropriate for rational, conscious beings. This signals that in the dream the celestial bodies appeared to Yusuf with humanlike intentionality and reverence, reinforcing the dream's status as a genuine prophetic vision."
     },
     {
       "id": "12_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "According to classical Shia exegetes, what do the eleven stars in Yusuf's dream represent?",
+      "layer": 3,
+      "verseNumber": 5,
+      "question": "Wahbah al-Zuhayli identifies one detail in the opening of Yusuf's narration to his father as evidence of deep trust between them. What is it?",
       "options": [
-        "The eleven months of prosperity",
-        "The eleven prophets before Yusuf",
-        "Yusuf's eleven brothers",
-        "The eleven gates of paradise"
+        "A. The fact that Yusuf waited until all his brothers were asleep before speaking",
+        "B. The way Yusuf used the intimate vocative 'O my father' before narrating the dream",
+        "C. The brevity with which Yusuf described the dream, trusting his father to understand without explanation",
+        "D. The fact that Yusuf asked Yaqub to keep the dream entirely secret from the rest of the household"
       ],
-      "correctAnswer": "C",
-      "explanation": "Shia scholars explain that the eleven stars symbolize Yusuf's eleven brothers, while the sun and moon represent his father Yaqub and mother (or aunt), foreshadowing their eventual prostration before him."
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir draws attention to Yusuf opening with 'ya abati' — the intimate vocative 'O my father' — before sharing the dream, arguing this detail reflects the closeness of their bond and is precisely why Yaqub's response is one of protection rather than dismissal."
     },
     {
       "id": "12_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 23,
-      "question": "According to Shia commentators, Yusuf resisted Zulaykha's seduction through his own willpower alone without divine assistance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Shia exegetes emphasize that Yusuf was protected by divine grace (burhan) from his Lord. His prophetic infallibility (ismah) and Allah's intervention saved him from sin."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "When one of the brothers proposed throwing Yusuf into a well instead of killing him, what reasoning did he offer?",
+      "options": [
+        "A. That Yusuf would find his own way home and eventually reconcile with the family",
+        "B. That it would give them a chance to repent before any irreversible harm was done",
+        "C. That some passing travelers would pick him up",
+        "D. That the well was too remote for Yaqub ever to find him"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 10 records the dissenting brother saying 'some travelers will pick him up,' presenting the well as a disposal that avoided directly shedding blood while still removing Yusuf. As Sayyid Qutb observes in Fi Zilal al-Quran, this very act of 'disposal' became the gateway to Egypt and Yusuf's destined elevation — the brothers intended abandonment, but Allah intended a throne."
     },
     {
       "id": "12_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 35,
-      "question": "According to Shia interpretation, why was Yusuf imprisoned despite his proven innocence?",
-      "options": [
-        "Because he committed a minor crime",
-        "To protect the reputation of the elite and as a divine trial (ibtila)",
-        "Because the king ordered it personally",
-        "Because he refused to work for the Aziz"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentators view Yusuf's imprisonment as both a cover-up by the Egyptian elite to protect Zulaykha's honor and as a divine trial (ibtila) that would ultimately lead to his elevation."
+      "verseNumber": 10,
+      "question": "True or false: Fakhr al-Din al-Razi observed that the compromise proposal to throw Yusuf in the well was still framed entirely around what the brothers wanted, revealing a self-centered orientation rather than genuine concern for Yusuf's wellbeing.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi in Mafatih al-Ghayb notes that even the less severe proposal was expressed in terms of what the brothers could 'do' to solve their problem, not in terms of protecting Yusuf. Imam Qurtubi adds that the word 'yaltaqithu' — travelers will pick him up — represents the brothers completely abandoning their kinship obligation, severing the bonds of family protection."
     },
     {
       "id": "12_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "What gift did Allah bestow upon Yusuf according to classical Shia tafsir of verse 6?",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "What divine comfort did Allah send to Yusuf while he was at the bottom of the well?",
       "options": [
-        "Great physical strength",
-        "The ability to interpret dreams (ta'wil al-ahadith)",
-        "Immense wealth",
-        "Political authority only"
+        "A. Allah caused a stream of fresh water to appear in the well to sustain him",
+        "B. Allah sent an angel to guard the entrance of the well from the brothers",
+        "C. Allah revealed to him that he would one day inform his brothers of what they had done while they did not recognize him",
+        "D. Allah showed him a vision of his eventual reunion with Yaqub in Egypt"
       ],
-      "correctAnswer": "B",
-      "explanation": "Shia scholars highlight that Allah taught Yusuf the interpretation of dreams (ta'wil al-ahadith), a prophetic gift that would later save Egypt from famine and elevate him to power."
+      "correctAnswer": "C",
+      "explanation": "Verse 15 records that Allah inspired Yusuf in the well with the promise that he would one day reveal to his brothers what they had done to him while they did not perceive who he was. This divine communication transformed the darkest moment of abandonment into a moment of direct Divine nearness, giving Yusuf hope and psychological stability to survive his ordeal."
     },
     {
       "id": "12_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 43,
-      "question": "In the king's dream that Yusuf interpreted, what did the seven fat cows being devoured by seven lean cows represent?",
+      "verseNumber": 15,
+      "question": "Sayyid Qutb's commentary on verse 15 contains a celebrated observation about the nature of Allah's mercy toward Yusuf. Which statement best captures his insight?",
       "options": [
-        "Seven wars followed by seven victories",
-        "Seven years of plenty followed by seven years of famine",
-        "Seven righteous kings followed by seven tyrants",
-        "Seven good harvests followed by seven floods"
+        "A. Allah removed the trial so Yusuf would not suffer unnecessarily",
+        "B. Allah chose not to prevent the harm but accompanied Yusuf through it and promised its ultimate reversal, which is a deeper mercy than simple rescue",
+        "C. Allah sent Jibreel to explain the full plan for Yusuf's future in Egypt",
+        "D. Allah allowed Yusuf to overhear his brothers' plan so he could remain calm throughout the ordeal"
       ],
       "correctAnswer": "B",
-      "explanation": "Yusuf interpreted the dream as seven years of agricultural abundance followed by seven years of severe drought and famine, demonstrating his divinely-granted wisdom in crisis management."
+      "explanation": "In Fi Zilal al-Quran, Qutb writes that Allah's deeper mercy was not preventing the trial but accompanying His servant within it and guaranteeing its reversal. This has profound implications for the Islamic theology of suffering: Allah does not always remove the trial, but He never abandons His servant inside it. Ibn Uthaymeen similarly teaches that the lowest point of a believer's worldly story can coincide with the highest point of their spiritual nearness to Allah."
     },
     {
       "id": "12_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 55,
-      "question": "Contemporary scholars note that Yusuf's request to be placed in charge of Egypt's storehouses demonstrates proactive leadership rather than passive waiting for divine decree.",
+      "layer": 1,
+      "verseNumber": 16,
+      "question": "True or false: the brothers deliberately chose to return to Yaqub at nighttime (isha) specifically because the darkness would help conceal the insincerity on their faces and make their performance of grief more convincing.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Modern scholars highlight that Yusuf actively sought responsibility, saying 'Place me over the storehouses of the land,' showing that trusting in Allah includes taking initiative and using one's abilities."
+      "explanation": "Both Imam Tabari and Ibn Kathir note that the brothers' choice to arrive at nightfall was tactical. Classical scholars explain the word 'yabkoon' — weeping continuously — emphasizes this was a sustained performance rather than spontaneous grief, and the darkness of night was deliberately chosen as cover for their deception."
     },
     {
       "id": "12_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Why was the Quran revealed in Arabic according to contemporary Shia scholars?",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "Classical scholars differed over the referent of 'rabbi' (my master) in Yusuf's refusal of Zulaikha. What is the majority view recorded by Imam Tabari and supported by Ibn Kathir?",
       "options": [
-        "Because Arabic is the only sacred language",
-        "To limit understanding to Arabs only",
-        "To facilitate understanding through a clear, eloquent language while inviting engagement through translation",
-        "Because other languages were not developed enough"
+        "A. 'Rabbi' refers to Allah, making Yusuf's refusal entirely a divine obligation",
+        "B. 'Rabbi' refers to the Aziz of Egypt, making the refusal an argument of loyalty and gratitude toward his benefactor",
+        "C. 'Rabbi' refers to the Prophet Yaqub, invoking fatherly authority as a moral guide",
+        "D. 'Rabbi' is grammatically ambiguous and refers simultaneously to both Allah and the Aziz"
       ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars emphasize that Arabic's grammatical depth allows layered meanings, but the Quran's ethical teachings transcend language, inviting engagement through translation in diverse cultures."
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari records that the majority of early scholars — including Ibn Abbas — interpreted 'rabbi' here as referring to the Aziz, Yusuf's earthly master and benefactor. The argument is one of honor: the Aziz had treated Yusuf with generosity, and betrayal would be a profound injustice. Imam Qurtubi adds that gratitude to a benefactor is an ethical obligation in Islam, and al-Razi analyzes this as a complete ethical consciousness addressing both the divine and human dimensions."
     },
     {
       "id": "12_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 30,
-      "question": "What does the story of the women cutting their hands upon seeing Yusuf teach about human nature according to modern interpretation?",
-      "options": [
-        "That beauty is dangerous",
-        "That women are weak",
-        "That moral judgment requires self-awareness, as those who gossip may share similar weaknesses",
-        "That society should avoid beauty"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Contemporary scholars note that the women who gossiped about Zulaykha experienced the same overwhelming reaction when they saw Yusuf, teaching that we should be self-aware before judging others."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 23,
+      "question": "True or false: in verse 23, Yusuf's refusal of Zulaikha is rooted in genuine ethical conviction and gratitude rather than mere fear of consequences, making it a model of principled moral character rather than self-preservation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir of verse 23 explains that Yusuf's response combined divine refuge ('maadh-Allah'), moral reasoning grounded in gratitude to the Aziz, and the principled declaration that wrongdoers never succeed. This layered refusal demonstrates virtue driven by conviction, not fear. Ibn Uthaymeen further notes that his explicit articulation of reasons — rather than silent flight — models Islamic moral persuasion rather than mere avoidance."
     },
     {
       "id": "12_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Ahlul Bayt teachings, what deeper spiritual meaning do the celestial bodies in Yusuf's dream carry?",
+      "layer": 3,
+      "verseNumber": 31,
+      "question": "When the Egyptian noblewomen cut their hands upon seeing Yusuf, what truth about human attraction does Muhammad al-Sha'rawi draw from this scene?",
       "options": [
-        "They represent material wealth",
-        "They symbolize the stations of divine guidance and the light of wilayah",
-        "They are merely astronomical symbols",
-        "They predict political events only"
+        "A. That physical beauty is always a spiritual danger and must be concealed from public view",
+        "B. That the Quran acknowledges the reality of powerful human attraction honestly, while insisting it must be governed by conscience and law",
+        "C. That women in ancient Egypt lacked the spiritual discipline developed by Islamic practice",
+        "D. That beauty is a divine punishment placed upon prophets to test those around them"
       ],
       "correctAnswer": "B",
-      "explanation": "The Ahlul Bayt taught that celestial imagery in prophetic dreams symbolizes spiritual realities and divine guidance, connecting to the broader theme of walayah and the light of prophethood."
+      "explanation": "Muhammad al-Sha'rawi reflects that the Quran's use of 'shaghaf' — a term referring to the membrane around the heart, indicating love that penetrates to the deepest core — shows the Quran acknowledges the reality of human desire honestly without pretending it does not exist, while consistently insisting it must be governed by moral boundaries. Qutb adds that the women's involuntary reaction also vindicates Zulaikha without meaning to, a study in the gap between social performance and inner reality."
     },
     {
       "id": "12_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 92,
-      "question": "Yusuf's words 'La tathrib alaykum' (No blame upon you today) exemplify the Ahlul Bayt's teaching on forgiveness and mercy.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Yusuf's declaration of complete forgiveness mirrors the teachings of the Ahlul Bayt about transcending grievances and embodying divine mercy, as later exemplified by Imam Ali's treatment of his enemies."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 44,
+      "question": "What does the term 'adghat ahlam,' used by the royal court to dismiss the king's dream, literally convey in Arabic?",
+      "options": [
+        "A. A dream sent by evil spirits requiring exorcism",
+        "B. A jumbled handful of tangled weeds — visions without coherent divine meaning, arising from mental confusion",
+        "C. An ordinary dream with no symbolic value whatsoever",
+        "D. A prophetic dream that belongs to a category beyond human interpretation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in Jami al-Bayan explains that 'adghat' derives from a root meaning a handful of tangled plants gathered without order. Applied to dreams, it means visions that are incoherent and arising from the sleeping mind's confusion rather than from a divine source. Ibn Kathir notes that their honest admission of ignorance was itself an Islamic virtue, and their failure was by Allah's design — it created the opening through which Yusuf would emerge from prison."
     },
     {
       "id": "12_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 87,
-      "question": "What spiritual lesson did the Imams derive from Yaqub's advice to his sons: 'Do not despair of Allah's mercy'?",
-      "options": [
-        "That mercy is only for prophets",
-        "That despair of divine mercy is a sign of weak faith",
-        "That one should only ask for worldly things",
-        "That patience is unnecessary"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The Imams taught that despair of Allah's mercy is contrary to true faith. Even in the darkest trials, believers must maintain hope in divine wisdom and eventual relief."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 45,
+      "question": "True or false: Wahbah al-Zuhayli in Al-Tafsir al-Munir argues that the cupbearer's stepping forward to announce that Yusuf could interpret the king's dream models the Islamic principle that knowledge beneficial to the community must be communicated rather than withheld.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli highlights that the cupbearer possessed information relevant to a national crisis and immediately offered it, modeling the Islamic principle that withholding beneficial knowledge is impermissible. Sayyid Qutb adds that this moment is where time itself seems to pause — the royal court is helpless before an unanswered dream while across the city a forgotten prisoner has held the answer for years."
     },
     {
       "id": "12_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 100,
-      "question": "According to Shia tradition, Yusuf's dream was fulfilled when his family prostrated before him, demonstrating that divine promises always come to pass.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Ahlul Bayt emphasized that Yusuf's childhood dream was fulfilled decades later when his parents and brothers prostrated before him, teaching that Allah's promises are fulfilled in His perfect timing."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 60,
+      "question": "When Yusuf demanded his brothers bring Benjamin on any future visit, he named two consequences for failure. What were they?",
+      "options": [
+        "A. Imprisonment and confiscation of their goods",
+        "B. No grain allocation from him at all, and no access to his presence",
+        "C. Expulsion from Egypt and a permanent ban on trade",
+        "D. Reporting their behavior to the king and doubling the price of grain for them"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 60 states 'no measure will there be for you from me' — no grain — and 'nor will you approach me' — no audience. Wahbah al-Zuhayli notes that Yusuf's moral credibility as a generous administrator gave his firm ultimatum authority rather than the appearance of tyranny. Ibn Kathir explains that the twin conditions gave the brothers no practical choice but to return and make the case for bringing Benjamin."
     },
     {
       "id": "12_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 23,
-      "question": "How do Sunni and Shia scholars differ in interpreting Yusuf's resistance to temptation?",
-      "options": [
-        "Sunni scholars say he sinned while Shia say he didn't",
-        "Both agree Yusuf was tempted but saved by divine intervention; Shia emphasize prophetic infallibility (ismah) more strongly",
-        "Shia scholars say he was never tempted at all",
-        "Sunni scholars emphasize ismah more than Shia scholars"
-      ],
-      "correctAnswer": "B",
-      "explanation": "While both traditions affirm Yusuf's ultimate purity, Shia exegetes place stronger emphasis on prophetic infallibility (ismah), asserting that prophets are divinely protected from even the inclination to sin."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 81,
+      "question": "True or false: Ibn Kathir identifies the speaker of verse 81, who instructed the brothers to return to Yaqub with the news, as the eldest brother Rubil (Reuben), who had stayed behind in Egypt as an act of penance and fulfillment of his oath to his father.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim identifies this speaker as Rubil (Reuben), who had previously sworn an oath to Yaqub that he would protect Benjamin. Imam Tabari cites Ibn Abbas and early scholars in agreement, noting that Rubil chose to remain in Egypt rather than return without Benjamin, viewing it as both personal penance and fulfillment of his covenant."
     },
     {
       "id": "12_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "What is a shared understanding between Sunni and Shia scholars regarding Yusuf's ability to interpret dreams?",
+      "layer": 1,
+      "verseNumber": 96,
+      "question": "The miraculous restoration of Yaqub's eyesight is followed immediately by him saying something to those around him. What were his words?",
       "options": [
-        "It was a learned skill from Egyptian priests",
-        "It was a divine gift (wahbi) bestowed by Allah upon prophets",
-        "It was inherited from his mother",
-        "It was acquired through study of ancient texts"
+        "A. 'All praise belongs to Allah who reunited me with my son'",
+        "B. 'Did I not tell you that I know from Allah what you do not know?'",
+        "C. 'Forgive your brothers, for they acted out of jealousy and not true malice'",
+        "D. 'Let us prepare to travel to Egypt without delay to see Yusuf'"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Sunni scholars (like Ibn Kathir) and Shia scholars (like Tabatabai) agree that dream interpretation was a divine gift bestowed upon Yusuf, continuing in the prophetic tradition of Ibrahim and Ishaq."
+      "explanation": "Verse 96 records Yaqub saying 'did I not tell you that I know from Allah what you do not know?' — an expression not of pride but of prophetic certainty that had been dismissed by his family for years. Wahbah al-Zuhayli draws a contemporary lesson: the patriarch endured years of being mocked and dismissed yet never allowed social pressure to override his divinely-inspired conviction."
     },
     {
       "id": "12_19",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 3,
-      "question": "Both Sunni and Shia traditions agree that Surah Yusuf was revealed to comfort Prophet Muhammad during a difficult period.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions narrate that Surah Yusuf was revealed during a period of intense persecution in Mecca (Am al-Huzn/Year of Sorrow), offering the Prophet and early Muslims comfort through Yusuf's story of patience and ultimate triumph."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 101,
+      "question": "Sayyid Qutb reflects on the significance of Yusuf making his greatest request — to die as a Muslim and join the righteous — at the very peak of his worldly power. What does Qutb identify as the culminating lesson of the entire surah?",
+      "options": [
+        "A. That political authority is ultimately incompatible with genuine faith",
+        "B. That the long arc of trial and triumph was ultimately in service of producing this moment of complete God-centeredness, proving no worldly achievement can displace the longing for the Hereafter",
+        "C. That Yusuf sensed his time was near and wished to return to his homeland of Canaan",
+        "D. That prophets are required to surrender political office before their death"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In Fi Zilal al-Quran, Qutb writes that Yusuf's supplication at the height of worldly success is the surah's culminating lesson: decades of trial and divine orchestration were in service of producing a soul whose greatest wish — even with everything the world could offer — was still to die in faith and meet the righteous. Al-Zuhayli adds that the dua 'tawaffani musliman' is accessible to all believers as a model for the noblest spiritual aspiration."
     },
     {
       "id": "12_20",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 97,
+      "question": "True or false: in verse 97, when the brothers ask Yaqub to seek forgiveness for them, they use the word 'khati'in,' which in Arabic specifically denotes deliberate rather than accidental sin, making their confession an unambiguous acknowledgment of intentional wrongdoing.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir notes the linguistic distinction between 'khata'' (accidental error) and 'khataa'' (deliberate transgression). The brothers' choice of the deliberate form 'khati'in' is a frank, unvarnished admission of intentional sin, which Imam Qurtubi uses as a fiqh point about the permissibility of asking the pious to pray on one's behalf as part of sincere repentance."
+    },
+    {
+      "id": "12_21",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What do Sunni and Shia scholars both acknowledge about the disconnected letters (Alif Lam Ra) at the beginning of Surah Yusuf?",
+      "layer": 2,
+      "verseNumber": 106,
+      "question": "Imam Tabari and Ibn Kathir both record which companion's explanation as particularly precise about the form of shirk described in verse 106?",
       "options": [
-        "They are errors in transcription",
-        "They have no significance",
-        "Their full meaning is known only to Allah, highlighting the Quran's divine mystery",
-        "They are abbreviations for surah names"
+        "A. Umar ibn al-Khattab, who described it as swearing oaths by other than Allah",
+        "B. Ibn Abbas, who explained that the Arabs acknowledged Allah as Creator when asked, yet in the next breath dedicated their worship to Hubal, Lat, or Uzza",
+        "C. Abu Hurayra, who described it as performing acts of worship to be seen by others",
+        "D. Aisha, who said it referred specifically to polytheistic pilgrimage rites at the Kaaba"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tabari records the explanation of Ibn Abbas — also cited by Ibn Kathir — as particularly precise: the pagan Arabs would readily say Allah created the heavens when asked, yet actively worship idols. Ibn Kathir even quotes the Talbiyah the Meccan polytheists recited at Hajj, in which they inserted shirk into their devotion to Allah, as a vivid illustration of the contradiction verse 106 diagnoses."
+    },
+    {
+      "id": "12_22",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 111,
+      "question": "The closing verse of Surah Yusuf uses 'ibra' (lesson) and addresses it to 'ulul albab' — people of sound intellect. What does Ibn Uthaymeen identify as the quality that distinguishes this type of person?",
+      "options": [
+        "A. Having memorized the entire Quran and mastered Arabic grammar",
+        "B. Having studied formally under recognized scholars of tafsir",
+        "C. The readiness to be morally changed by the Quran's narratives rather than merely informed by them",
+        "D. Combining knowledge of Islamic jurisprudence with expertise in hadith sciences"
       ],
       "correctAnswer": "C",
-      "explanation": "Both Al-Tabari (Sunni) and Al-Tabrisi (Shia) acknowledge these disconnected letters as divine mysteries whose complete significance is reserved for Allah's knowledge, emphasizing the Quran's transcendent nature."
+      "explanation": "Ibn Uthaymeen, in his lessons on Quranic methodology cited in the layer 3 tafsir, emphasizes that 'ulul albab' are distinguished precisely by active receptivity to moral instruction — the willingness to be transformed by what they read. Sayyid Qutb echoes this in Fi Zilal al-Quran, writing that the word 'ibra' demands the reader cross from the surface of the narrative to its inner truth and allow that truth to change them."
     }
   ]
 }

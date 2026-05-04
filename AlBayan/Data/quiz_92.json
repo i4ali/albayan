@@ -6,110 +6,155 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What is the primary symbolism of the 'covering night' (al-layl) in verse 1 according to Foundation Layer commentary?",
+      "question": "What does the Arabic verb 'yaghsha' in the opening oath 'By the night when it covers' convey?",
       "options": [
-        "Only a description of physical darkness with no deeper meaning",
-        "A manifestation of Allah's creative power and a time for spiritual renewal and reflection",
-        "A warning about the dangers of darkness",
-        "A reference to astronomical phenomena"
+        "The night ascending into the heavens",
+        "The night enveloping the world like a veil drawn over creation",
+        "The night being illuminated by stars",
+        "The night being shortened in winter"
       ],
-      "correctAnswer": "A manifestation of Allah's creative power and a time for spiritual renewal and reflection",
-      "explanation": "Classical Shia tafsir, such as Allamah Tabatabai's Al-Mizan, explains that Quranic oaths like this serve to awaken human reflection on the interconnected systems of creation. The night symbolizes both Allah's control over cosmic cycles and invites believers to harness the night's stillness for introspection, worship (tahajjud), and spiritual renewal."
+      "correctAnswer": "B",
+      "explanation": "The foundation tafsir explains that 'yaghsha' carries the image of the night spreading like a veil over everything, blotting out the light of day. It conveys concealment, rest, and the drawing of a curtain over visible reality."
     },
     {
       "id": "92_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 2,
-      "question": "According to the Foundation Layer, the 'day when it shines forth' (verse 2) symbolizes opportunities for ethical action and transparent conduct, contrasting with the night's concealment.",
+      "question": "Imam Tabari explained the verb 'tajalla' (in 'the day when it shines forth') as the day's complete brightness becoming apparent and revealing what the night had concealed.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. The term tajalla (to manifest) signifies the day's radiant unveiling, stripping away night's obscurity. For contemporary Muslims, this verse invites active engagement with time—the bright, visible nahar symbolizing opportunities for ethical action, pursuit of knowledge, and service. Just as daylight exposes reality, believers are called to illuminate their intentions and deeds."
+      "explanation": "Tabari explains 'tajalla' as the day's brightness becoming clear and spreading across the horizon. Ibn Kathir adds that the structural opposition between 'yaghsha' (covers) and 'tajalla' (reveals) mirrors the opposition between the two human paths described later in the surah."
     },
     {
       "id": "92_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabatabai in Al-Mizan, how does the night's obscurity relate to the concept of ghayb (the unseen) and divine guidance?",
+      "verseNumber": 3,
+      "question": "According to Imam Tabari, what is the most accepted reading of 'ma' in 'wa ma khalaqa adh-dhakara wal-untha' ('and by what created the male and the female')?",
       "options": [
-        "The night has no connection to spiritual matters",
-        "Just as physical darkness necessitates light, spiritual obscurity demands the illumination of the Ahl al-Bayt",
-        "The night only affects prayer times",
-        "Darkness represents divine punishment"
+        "It refers to time itself as the creator",
+        "It is meaningless and added only for rhythm",
+        "It is a relative pronoun meaning 'He who', so the oath is by Allah as Creator",
+        "It refers to the Prophet as the agent of creation"
       ],
-      "correctAnswer": "Just as physical darkness necessitates light, spiritual obscurity demands the illumination of the Ahl al-Bayt",
-      "explanation": "Tabatabai expands this into a metaphysical framework, aligning the night's obscurity with the concept of ghayb (the unseen) and the necessity of divine guidance. Just as physical darkness necessitates the moon's light, spiritual obscurity demands the illumination of the Ahl al-Bayt, whom Shia theology regards as the inheritors of prophetic knowledge. This connection is rooted in the principle of walayah."
+      "correctAnswer": "C",
+      "explanation": "Tabari leaned toward reading 'ma' as a relative pronoun meaning 'He who', making the oath sworn by Allah Himself as the Creator of male and female. Ibn Kathir endorses this view, noting it adds theological weight to the oath sequence."
     },
     {
       "id": "92_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "According to Tabrisi's Majma al-Bayan, what does the pairing of male and female in verse 3 symbolize beyond biological distinction?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What does the central declaration 'inna sa'yakum lashatta' ('indeed your efforts are diverse') assert about human striving?",
       "options": [
-        "Only reproductive functions",
-        "The universal system of opposites (heat-cold, light-dark) through which Allah's sustaining power operates",
-        "Gender hierarchy in society",
-        "Historical gender roles"
+        "All human efforts ultimately lead to the same destination",
+        "Effort itself is unimportant; only outcomes matter",
+        "All human beings are striving, but the directions and ultimate destinations of those efforts are radically different",
+        "Only those who work the hardest will succeed"
       ],
-      "correctAnswer": "The universal system of opposites (heat-cold, light-dark) through which Allah's sustaining power operates",
-      "explanation": "As articulated in Tabrisi's Majma al-Bayan, the pairing of male and female transcends mere biological distinction, symbolizing the universal system of opposites (heat-cold, light-dark) through which Allah's sustaining power operates. This duality is not oppositional but harmoniously integrated, mirroring the Quranic principle that 'We created all things in pairs' (51:49)."
+      "correctAnswer": "C",
+      "explanation": "The foundation layer explains that 'shatta' means scattered, divergent, of radically different kinds. All human beings are striving, but their efforts run toward genuinely different destinations, just as night and day are irreconcilable opposites."
     },
     {
       "id": "92_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "Contemporary scholars like Ayatollah Naser Makarem Shirazi connect the night's 'covering' to modern challenges such as light pollution and 24/7 hyper-productivity that disrupt natural cycles and mental well-being.",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "Ibn Kathir records that many scholars connected verses 5 to 7 (the giving, God-fearing believer) to Abu Bakr al-Siddiq's freeing of Bilal and other enslaved Muslims with his own wealth.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Socially, the verse invites reflection on modern challenges like light pollution and 24/7 hyper-productivity, which disrupt natural cycles and mental well-being. Scholars such as Dr. Ali Reza Panahian connect the 'covering' night to the need for societal rest, justice, and introspection—urging communities to resist systems that exploit human and environmental resources ceaselessly."
+      "explanation": "Ibn Kathir records that this verse was understood by many to refer to Abu Bakr al-Siddiq, citing the famous narration of his purchasing and freeing Bilal ibn Rabah from Umayya ibn Khalaf, while also noting the verse applies generally to anyone embodying these qualities."
     },
     {
       "id": "92_6",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq's teaching about the 'covering night' in verse 1, what does the night symbolize spiritually?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "According to the foundation tafsir, what is the most common meaning of 'al-husna' that the believer 'confirms' (saddaqa) in verse 6?",
       "options": [
-        "Physical rest and sleep only",
-        "Ignorance and misguidance, whose darkness recedes only by the light of the Imam's knowledge",
-        "The end of the world",
-        "A time for material pursuits"
+        "Beautiful poetry and eloquent speech",
+        "Allah's promise of Paradise and the reward for the righteous",
+        "The beauty of nature and creation",
+        "Worldly success and material prosperity"
       ],
-      "correctAnswer": "Ignorance and misguidance, whose darkness recedes only by the light of the Imam's knowledge",
-      "explanation": "Imam Jafar al-Sadiq (peace be upon him) links this 'covering night' to the trials of faith and the necessity of wilayah (divine guardianship). He explains, 'The night symbolizes ignorance and misguidance; its darkness recedes only by the light of the Imam's knowledge' (Tafsir al-Burhan). Here, the Imamah emerges as the luminous path piercing through spiritual obscurity, guiding seekers to certainty."
+      "correctAnswer": "B",
+      "explanation": "Most classical scholars take 'al-husna' to refer to Allah's promise of Paradise and His pledge to reward the righteous. Tabari also reports from Ibn Abbas that it can include the testimony of faith itself, while inclining toward a comprehensive meaning."
     },
     {
       "id": "92_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "How did Imam Jafar al-Sadiq interpret the 'appearing day' in verse 2 in relation to the future?",
-      "options": [
-        "As only a natural phenomenon with no spiritual meaning",
-        "As an allusion to the era when the Mahdi will fill the earth with justice",
-        "As a reference to agricultural seasons",
-        "As a warning about solar eclipses"
-      ],
-      "correctAnswer": "As an allusion to the era when the Mahdi will fill the earth with justice",
-      "explanation": "Imam Jafar al-Sadiq (peace be upon him) interpreted this verse as an allusion to the era when the Mahdi (may God hasten his reappearance) will fill the earth with justice, stating, 'The day that appears is the day of the Qa'im [the Rising One] from us, when he will establish truth openly.' This connects the verse's imagery to the ultimate triumph of divine justice under the Imam's leadership."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "Ibn Kathir cites a hadith in which the Prophet recited verses from Surah Al-Layl, including 'We will ease him toward ease', after teaching that each person is facilitated toward that for which they were created.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir cites the hadith from Sahih Bukhari and Muslim in which the Prophet said 'Act, for each is facilitated toward that for which he was created' and then recited the verses of Surah Al-Layl, demonstrating that divine facilitation responds to human choices."
     },
     {
       "id": "92_8",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key hermeneutical difference between Shia and Sunni interpretations of the 'covering night' in verse 1?",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "What does the word 'istaghna' (in 'wa amma man bakhila wastaghna') describe about the miserly person?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia commentaries extend the imagery to metaphysical dimensions, interpreting it as spiritual obscurity dispelled by the Ahl al-Bayt's guidance, while Sunni exegetes anchor interpretations in tangible phenomena",
-        "There are no differences between the traditions",
-        "Shia scholars focus only on astronomy"
+        "That he is genuinely free of all financial need",
+        "That he gives generously without expecting return",
+        "That he considers himself self-sufficient and free of need for Allah",
+        "That he is constantly seeking more wealth"
       ],
-      "correctAnswer": "Shia commentaries extend the imagery to metaphysical dimensions, interpreting it as spiritual obscurity dispelled by the Ahl al-Bayt's guidance, while Sunni exegetes anchor interpretations in tangible phenomena",
-      "explanation": "Divergences emerge in hermeneutical emphases. Shia commentaries, particularly Al-Qummi's Tafsir and Tabrisi's Majma al-Bayan, often extend the imagery to metaphysical dimensions, interpreting the 'covering night' as an allegory for spiritual obscurity dispelled by the guidance of the Ahl al-Bayt. Sunni exegetes like Al-Tabari and Al-Razi, while acknowledging symbolic layers, generally anchor interpretations in tangible phenomena—the night's physical properties, its role in regulating worship, and its function within Quranic oath structures."
+      "correctAnswer": "C",
+      "explanation": "The foundation tafsir explains that 'istaghna' means to consider oneself free of need, to regard oneself as self-sufficient and independent of Allah. Tabari records from Ibn Abbas that it means feeling rich enough to dispense with obeying Allah."
+    },
+    {
+      "id": "92_9",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "Wahbah al-Zuhayli notes that the warning that hoarded wealth will not avail when a person 'falls' has direct bearing on contemporary attitudes toward financial security.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli observes that in an age where insurance, investments, and retirement funds are marketed as ultimate protection, the Quranic reminder that wealth cannot avail at the moment of death is a statement of metaphysical fact, not merely religious sentiment."
+    },
+    {
+      "id": "92_10",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 15,
+      "question": "How does Sayyid Qutb describe 'al-ashqa' (the most wretched), the only one who will be scorched by the Fire?",
+      "options": [
+        "Someone who is poor and lacks worldly success",
+        "Someone who has inverted their entire value system, consistently choosing wretchedness over guidance when guidance was freely available",
+        "Someone who occasionally falls into sin but repents",
+        "Someone who has not yet heard the message of Islam"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Qutb explains that the tragedy of 'al-ashqa' is not lack of opportunity for truth but consistent choice against it. The path to becoming al-ashqa is paved with small choices of self-preference over divine guidance."
+    },
+    {
+      "id": "92_11",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "What does Ibn Uthaymeen identify as the only motivation that the most pious believer (al-atqa) seeks in giving, according to the phrase 'ibtigha'a wajhi rabbihi al-a'la'?",
+      "options": [
+        "Repaying a debt of gratitude to a benefactor",
+        "Being recognized as charitable in the community",
+        "Seeking only the face and pleasure of his Lord, the Most High",
+        "Earning a position of leadership"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The verse states the giver seeks 'only the face of his Lord, the Most High'. Ibn Uthaymeen and other contemporary scholars stress that renewing this intention before every act of worship is among the most important practices of the spiritual life."
+    },
+    {
+      "id": "92_12",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "The final verse 'wa la-sawfa yarda' uses the emphatic particle 'la' and 'sawfa' together to express absolute certainty that the most righteous believer will be fully satisfied.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The foundation tafsir explains that 'la' is a particle of strong emphasis and 'sawfa' indicates certainty of a future event. Tabari notes 'sawfa' here is used not to imply delay but to express absolute certainty that the righteous will attain complete and perfect satisfaction (rida)."
     }
   ]
 }

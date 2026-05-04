@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does 'tasbih' (glorification) in verse 1 encompass?",
+      "question": "Surah Al-Hadid belongs to a group of surahs called al-Musabbihat. What distinguishes this group?",
       "options": [
-        "Only vocal praise from humans",
-        "The harmonious operation of natural laws, cycles of life, and purpose in all things",
-        "Prayers recited five times daily",
-        "Only the glorification of angels"
+        "A) They were all revealed on the same night",
+        "B) They all begin with a form of glorification of Allah",
+        "C) They all deal exclusively with the afterlife",
+        "D) They were the last surahs revealed in Makkah"
       ],
       "correctAnswer": "B",
-      "explanation": "The universal tasbih is not limited to conscious praise but encompasses the harmonious operation of natural laws, the cycles of life, and the inherent purpose embedded in all things."
+      "explanation": "The Musabbihat are the surahs that open with a form of tasbih. The Prophet, according to narrations in Ahmad, Tirmidhi, and Abu Dawud, would recite these surahs before sleeping, saying that among them is a verse better than a thousand other verses."
     },
     {
       "id": "57_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 2,
-      "question": "According to Surah Al-Hadid verse 2, Allah's dominion (mulk) signifies complete ownership and sovereign control, rejecting any notion of shared power.",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "True or false: The Prophet Muhammad used the four divine names Al-Awwal, Al-Akhir, Al-Zahir, and Al-Batin directly in a recorded supplication.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The term 'mulk' signifies complete ownership and sovereign control, rejecting any notion of shared power or intermediaries in governance."
+      "explanation": "Ibn Kathir records from Sahih Muslim the Prophet's supplication: 'O Allah, You are Al-Awwal, for there is nothing before You; You are Al-Akhir, for there is nothing after You; You are Al-Zahir, for there is nothing above You; You are Al-Batin, for there is nothing below You.' This hadith is the primary anchor for the tafsir of verse 3."
     },
     {
       "id": "57_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the phrase 'sabbaha lillahi' reflect?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What does 'wa huwa ma'akum ayna ma kuntum' (He is with you wherever you are) mean according to the mainstream Sunni position on this verse?",
       "options": [
-        "A simple greeting to Allah",
-        "The intrinsic state of all beings as 'natural monotheists' (muwahhidun bi-l-fitrah)",
-        "A command for daily prayers",
-        "A ritual only for prophets"
+        "A) Allah is physically present beside every person at all times",
+        "B) Allah accompanies believers spiritually but not disbelievers",
+        "C) Allah is with creation through His encompassing knowledge and awareness, not through physical presence",
+        "D) The phrase is purely metaphorical and has no theological meaning"
       ],
-      "correctAnswer": "B",
-      "explanation": "As articulated by Allama Tabatabai in Al-Mizan, the phrase reflects the intrinsic state of all beings as 'natural monotheists' (muwahhidun bi-l-fitrah), actively participating in a cosmic symphony of submission."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir affirms the consensus of the Salaf that this divine company (ma'iyya) means Allah's encompassing knowledge, awareness, and oversight. The context of the verse itself, listing all the things Allah knows, confirms that 'He is with you' is an expression of total divine awareness, not physical proximity."
     },
     {
       "id": "57_4",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 11,
-      "question": "In Shia exegesis, what does the 'goodly loan' (qardan hasanan) in verse 11 represent?",
+      "verseNumber": 1,
+      "question": "Why did Imam Malik refuse to answer when asked about the 'how' of Allah's attributes, according to the classical Sunni methodology affirmed in the tafsir of this surah?",
       "options": [
-        "Only financial donations to mosques",
-        "Acts of charity performed purely for Allah's pleasure, reflecting ikhlas (sincerity)",
-        "Loans given to family members",
-        "Investments in worldly businesses"
+        "A) He did not know the answer",
+        "B) The istiwa is known, the how is unknown, belief in it is obligatory, and asking about it is an innovation",
+        "C) He believed all attributes were metaphors that should not be discussed",
+        "D) The question was about a verse he had not studied"
       ],
       "correctAnswer": "B",
-      "explanation": "In Tafsir al-Mizan, Allama Tabatabai explains that the 'goodly loan' is interpreted as acts of charity (infaq) performed purely for Allah's pleasure, reflecting the Shia emphasis on ikhlas (sincerity) as the foundation of worship."
+      "explanation": "Tabari records the famous statement attributed to Imam Malik when asked about the 'how' of istiwa: 'The istiwa is known, the how is unknown, believing in it is obligatory, and asking about it is an innovation.' This encapsulates the Sunni approach of affirming divine attributes without takyif (asking how) or tashbih (likening to creatures)."
     },
     {
       "id": "57_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "Contemporary scholar Ayatollah Nasir Makarem Shirazi emphasizes that the 'exaltation' (tasbih) in verse 1 is merely a ritualistic practice, not a cosmic reality.",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "True or false: According to the tafsir of verse 12, the light of all believers on the Day of Judgment will be equal in intensity.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Modern scholars like Ayatollah Nasir Makarem Shirazi emphasize that this 'exaltation' (tasbih) is not merely ritualistic but a cosmic reality: every atom, galaxy, and living being operates within a divinely ordained system of balance and purpose."
+      "explanation": "Ibn Kathir records from Ibn Abbas and other Companions that the light of believers will differ according to the degree of their deeds. Some will have a light as vast as a mountain, while others will have a light as small as a flame on their index finger. Every good deed counts, and no two believers will have identical standing before Allah."
     },
     {
       "id": "57_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 11,
-      "question": "According to contemporary Shia discourse, what modern application does the verse about 'loaning to Allah' inspire?",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "What does the wall with a gate in verse 13 symbolize, according to Fakhr al-Din al-Razi?",
       "options": [
-        "Only building more mosques",
-        "Microfinance programs like interest-free qard al-hasan loans that empower marginalized communities",
-        "Investing in stock markets",
-        "Accumulating personal wealth"
+        "A) A physical structure that will appear on the plains of resurrection",
+        "B) The border between Paradise and the gardens of an intermediate state",
+        "C) The ontological divide between truth and falsehood that always existed but becomes visible on Judgment Day",
+        "D) A temporary barrier lifted once both groups are settled in their destinations"
       ],
-      "correctAnswer": "B",
-      "explanation": "Projects like microfinance programs in Shia-majority regions, such as Lebanon's interest-free qard al-hasan loans, exemplify this ethos, empowering marginalized communities while fostering trust in divine reciprocity."
+      "correctAnswer": "C",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb gives a philosophical reading in which the wall represents the ontological divide between truth (haqq) and falsehood (batil) that was always present but only becomes fully manifest on the Day of Judgment. Ibn Kathir adds that the gate underscores the cruelty of the hypocrites' situation: they can see mercy within but are permanently barred from it."
     },
     {
       "id": "57_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq (as), what constitutes the true 'tasbih' of humans?",
+      "layer": 1,
+      "verseNumber": 16,
+      "question": "Which earlier community does verse 16 cite as a warning example of hearts hardening through spiritual neglect?",
       "options": [
-        "Simply reciting prayers loudly",
-        "Submitting tongues, hearts, and limbs to Allah's remembrance through adherence to the Wilayah of the Purified Ones",
-        "Fasting during Ramadan only",
-        "Making pilgrimage to Mecca annually"
+        "A) The people of Ad and Thamud",
+        "B) The companions of the elephant",
+        "C) The People of the Book",
+        "D) The people of Shu'ayb"
       ],
-      "correctAnswer": "B",
-      "explanation": "The Sixth Imam, Ja'far al-Sadiq (as), unveils: 'The true tasbih of humans lies in submitting their tongues, hearts, and limbs to the remembrance of Allah through adherence to the Wilayah of the Purified Ones.'"
+      "correctAnswer": "C",
+      "explanation": "Verse 16 warns believers against imitating the People of the Book whose hearts hardened ('qasat quloobuhum') after a long period elapsed since they received scripture. Tabari records that Abdullah ibn Masud stated only four years elapsed between the companions' acceptance of Islam and this verse's revelation, showing how quickly spiritual drift can begin."
     },
     {
       "id": "57_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 11,
-      "question": "According to Imam al-Baqir (as), 'The loan to Allah is the loan to His friends.'",
+      "layer": 3,
+      "verseNumber": 20,
+      "question": "True or false: According to Sayyid Qutb in Fi Zilal al-Quran, verse 20 condemns worldly life as evil and calls believers to abandon all worldly engagement.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "As Imam al-Baqir (peace be upon him) said: 'The loan to Allah is the loan to His friends.' Thus, true giving is an affirmation of faith in the unseen, a bridge between the temporal and the eternal."
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb writes that the Quran does not condemn the world as evil but as insufficient. The tragedy he identifies is not that people enjoy the world but that they mistake the crop for the harvest. Wahbah al-Zuhayli similarly argues the verse provides the theological basis for the Islamic attitude toward wealth: it must be earned, used generously, and held lightly, not abandoned."
     },
     {
       "id": "57_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key interpretive difference between Shia and Sunni scholars regarding the 'tasbih' of creation?",
+      "layer": 3,
+      "verseNumber": 23,
+      "question": "Wahbah al-Zuhayli notes that verse 23's teaching about grief and boasting is particularly relevant to a modern phenomenon. Which one?",
       "options": [
-        "Sunni scholars reject the concept entirely",
-        "Shia scholars see it as passive while Sunni scholars see it as active",
-        "Sunni scholars often frame tasbih as metaphorical compliance with natural laws, while Shia extend it to creation actively manifesting divine attributes",
-        "There is no difference between the two traditions"
+        "A) Environmental destruction caused by industrialization",
+        "B) The rise of comparison culture and social media-driven envy and pride",
+        "C) The decline of Friday congregational prayer attendance",
+        "D) Political fragmentation in Muslim-majority countries"
       ],
-      "correctAnswer": "C",
-      "explanation": "Sunni commentators like Razi often frame tasbih as metaphorical compliance with natural laws, while Shia scholars, particularly Tabatabai, extend this to a metaphysical principle where all existence actively manifests divine attributes through its very being."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir highlights that contemporary psychological research on comparison culture and social media-driven envy confirms what the Quran articulated fourteen centuries ago: excessive grief over what others have and excessive pride in one's own possessions are both pathological states that corrode mental health and social harmony."
     },
     {
       "id": "57_10",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 22,
+      "question": "True or false: The Companion Ubadah ibn al-Samit reported a hadith, recorded in Sahih Abu Dawud, in which the Prophet stated that the first thing Allah created was the Pen, which was commanded to record all decrees.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam Tabari cites this narration when explaining verse 22's affirmation that all events are pre-recorded in a book before they are brought into being. The hadith directly supports the verse: 'The first thing Allah created was the Pen, and He said to it: Write. It asked: What shall I write? He said: Write the decrees of all things until the Hour.'"
+    },
+    {
+      "id": "57_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 11,
-      "question": "What historical factor shaped the different interpretations of the 'goodly loan' verse between Shia and Sunni traditions?",
+      "layer": 2,
+      "verseNumber": 25,
+      "question": "Why is iron mentioned last in verse 25, after the clear evidences, scripture, and the balance of justice, according to Imam Qurtubi?",
       "options": [
-        "Different languages used in interpretation",
-        "Geographic separation of scholars",
-        "Shia hermeneutics developed around loyalty to the Imams post-succession debates, while Sunni tafsir consolidated around caliphal systems",
-        "The verse was revealed at different times"
+        "A) Iron was discovered by humanity after the other gifts were already in use",
+        "B) Iron is the least important of the three divine gifts",
+        "C) Iron represents force, which must serve justice and not precede it",
+        "D) Iron was sent only for the Prophet Muhammad's community"
       ],
       "correctAnswer": "C",
-      "explanation": "Historically, these trajectories reflect early community formation, with Shia hermeneutics developing around loyalty to the Imams post the succession debates, while Sunni tafsir consolidated around established caliphal systems and broader scholarly consensus."
+      "explanation": "Imam Qurtubi explains that the verse follows deliberate sequential logic: Prophets first come with clear proofs and scripture to establish truth through wisdom and guidance; the balance of justice establishes an ethical social framework; and iron, representing political and military power, is the final resort to protect justice when it is threatened by force. Iron serves justice; it does not precede it."
+    },
+    {
+      "id": "57_12",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "What Islamic principle does verse 27's critique of Christian monasticism establish, according to the classical Sunni scholars?",
+      "options": [
+        "A) That Christians are forbidden from all forms of spiritual devotion",
+        "B) That acts of worship must have authorization from divine revelation, not human invention",
+        "C) That physical comfort and worldly engagement are always spiritually superior to asceticism",
+        "D) That sincere intention is alone sufficient to validate any religious practice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir and Imam Qurtubi draw from this verse the jurisprudential ruling that monasticism is an unlawful innovation (bidah) in Islam. Ibn Uthaymeen further emphasized that verse 27 demonstrates how even good intentions cannot sanctify an act that Allah has not legislated, establishing the foundational principle that acts of worship require textual authorization."
     }
   ]
 }

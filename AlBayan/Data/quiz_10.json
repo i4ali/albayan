@@ -5,261 +5,286 @@
       "id": "10_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 5,
-      "question": "According to the tafsir, what does the sun being described as 'diya' (radiance) and the moon as 'nur' (light) symbolize?",
+      "verseNumber": 1,
+      "question": "What is the dominant Sunni scholarly position regarding the meaning of the opening letters 'Alif Lam Ra' in verse 1?",
       "options": [
-        "They are identical sources of light",
-        "A hierarchy where the sun represents direct divine guidance and the moon reflects that light",
-        "The moon is brighter than the sun",
-        "They represent the seasons of the year"
+        "A. They are abbreviated names of Allah known to all scholars",
+        "B. Their precise meaning belongs to Allah alone and was never disclosed to creation",
+        "C. They serve as a numerical code embedded in the Quran",
+        "D. They indicate the names of the angels who delivered the revelation"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse establishes a metaphysical hierarchy: the sun's intrinsic radiance (diya) symbolizes direct divine guidance, while the moon's reflected light (nur) represents derived guidance, paralleling the relationship between prophetic revelation and its transmission through the Imams."
+      "explanation": "The predominant Sunni position, transmitted through Abu Bakr, Umar, Uthman, Ali, and Ibn Masud, is that the meaning of the muqattaat belongs to Allah alone. This teaching of epistemic humility is itself a spiritual lesson: not all divine knowledge is disclosed to creation, and reciting these letters carries spiritual reward even without knowing their precise meaning."
     },
     {
       "id": "10_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the tafsir, the alternation of night and day is described as a random natural occurrence without divine purpose.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir argued that the disconnected letters at the start of surahs are part of the Quran's miraculous inimitability because the Arabs, masters of eloquence, could not replicate what was composed from the very same letters they used daily.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The tafsir emphasizes that the alternation of night and day is not random but purposeful, designed by Allah to sustain life and invite contemplation as profound signs (ayat) of divine wisdom."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim affirms that the muqattaat constitute part of the Quran's ijaz al-Quran. The Arab audience were masters of eloquence and linguistic artistry, yet they could not compose anything resembling it despite the Quran being built from the same Arabic letters they used every day, making the presence of these isolated letters a direct challenge to their literary tradition."
     },
     {
       "id": "10_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 13,
-      "question": "What does Surah Yunus verse 13 teach about the destruction of past nations?",
+      "verseNumber": 2,
+      "question": "Why did the Meccan disbelievers object to Allah sending a human being as a messenger, and what did Ibn Kathir say was the real reason behind this objection?",
       "options": [
-        "Nations were destroyed without warning",
-        "Nations faced destruction despite receiving divine guidance through messengers with clear proofs",
-        "Only one nation was ever destroyed",
-        "Destruction came before any prophets were sent"
+        "A. They believed angels were more eloquent than humans and better suited for revelation",
+        "B. The objection was not rational but psychological — accepting a human messenger from their own community would require surrendering their pride and social status",
+        "C. They had scriptural proof that only angels could carry divine revelation",
+        "D. They could not understand the Arabic spoken by the Prophet"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse emphasizes that communities faced divine punishment only after receiving clear guidance through prophets bearing bayyinat (clear proofs), but they persisted in injustice (zulm)."
+      "explanation": "Ibn Kathir draws a parallel with earlier nations who rejected their prophets for the same reason: the people of Nuh said 'you are nothing but a man like us.' Al-Tabari records that Ibn Abbas, Mujahid, and Qatada all agreed the Meccan Arabs used this as a pretext. The objection was a psychological barrier, not a rational one, rooted in the need to preserve social standing."
     },
     {
       "id": "10_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 101,
-      "question": "In verse 101, what does Allah command believers to observe as proof of His power?",
-      "options": [
-        "Only the Quran",
-        "What is in the heavens and earth",
-        "The wealth of nations",
-        "Only human history"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allah commands Prophet Muhammad to invite people to reflect on the natural world: 'Observe what is in the heavens and earth' as profound signs (ayat) of His power, wisdom, and oneness."
+      "verseNumber": 3,
+      "question": "True or false: Verse 3 teaches that intercession with Allah can occur independently of His permission, and believers may call upon intercessors without divine authorization.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 3 explicitly states 'there is no intercessor except after His permission,' establishing that all intercession is under Allah's exclusive authorization. Ibn Kathir explains this directly refutes the Meccan polytheist belief that idols could intercede independently with Allah, demonstrating that intercession itself is Allah's to grant or withhold."
     },
     {
       "id": "10_5",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 76,
-      "question": "According to Allama Tabatabai in Al-Mizan, Pharaoh's rejection of Musa's miracles stemmed from arrogance (istikbar) and attachment to worldly power.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai posits that the rejection of Musa's miracles reflects a deliberate denial of transcendent truth, rooted in arrogance (istikbar) and attachment to worldly power."
+      "verseNumber": 3,
+      "question": "Which theological principle did Imam al-Tabari and mainstream Sunni scholars adopt regarding the phrase 'istawa ala al-arsh' (established Himself above the Throne) in verse 3?",
+      "options": [
+        "A. Complete metaphorical reinterpretation to mean divine mercy spread over creation",
+        "B. Tafwid — affirming the attribute as stated without specifying its modality and without likening it to anything in creation",
+        "C. Outright denial that the attribute refers to anything real",
+        "D. Spatial interpretation placing Allah literally within the physical heavens"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari maintained the tafwid position, affirming the attribute while negating any resemblance to created things and without specifying how it applies. This became the mainstream Sunni position, later codified by Imam Ahmad ibn Hanbal. Sheikh Ibn Uthaymeen summarized the four-part rule: affirm without asking 'how' (takyif), without denying (tatil), without likening to creation (tashbih), and without metaphorical reinterpretation (ta'wil)."
     },
     {
       "id": "10_6",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 77,
-      "question": "According to classical Shia exegesis, what does the term 'sihr' (magic) represent when used by disbelievers to dismiss prophetic miracles?",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "Sayyid Qutb identified three interlocking symptoms of a spiritual disease diagnosed in verse 7. Which of the following correctly states all three?",
       "options": [
-        "Genuine supernatural abilities",
-        "Illusion and deception used to discredit divine guidance",
-        "A form of entertainment",
-        "A compliment to the prophets"
+        "A. Excessive prayer, neglect of zakah, and avoidance of fasting",
+        "B. No hope in the Hereafter, complete satisfaction with worldly life, and heedlessness toward divine signs",
+        "C. Disbelief in angels, denial of resurrection, and rejection of the Quran",
+        "D. Arrogance toward scholars, abandonment of salah, and hoarding of wealth"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai in Al-Mizan contrasts sihr (magic), which relies on illusion and deception, with the true miracles of prophets that are manifestations of tawhid (divine unity)."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran identifies these three symptoms from verse 7 as a mutually reinforcing syndrome. When hope in the Hereafter is lost, the world expands to fill the entire field of vision; once the world dominates, the signs pointing beyond it become invisible. Wahbah al-Zuhayli adds that 'ittama'annu' (feeling settled in the world) is particularly significant, describing the deepest form of rest misplaced in something transient rather than in the remembrance of Allah."
     },
     {
       "id": "10_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 94,
-      "question": "In verse 94, when Allah tells the Prophet to 'ask those who read the Book before you,' what do Shia commentators interpret this to mean?",
-      "options": [
-        "To abandon the Quran for previous scriptures",
-        "A rhetorical device affirming the Prophet's certainty and the Quran's consonance with prior revelations",
-        "To convert to Judaism or Christianity",
-        "To reject all previous prophets"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Classical Shia exegetes emphasize this verse employs rhetorical exhortation, framing the Prophet's unwavering certainty as a challenge to opponents, affirming the Quran's consonance with prior revelations."
+      "verseNumber": 7,
+      "question": "True or false: Fakhr al-Din al-Razi noted that feeling deeply settled and secure in the world contradicts the very nature of the world itself, which is inherently unstable and fleeting.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Fakhr al-Din al-Razi in his Mafatih al-Ghayb observes that 'ittama'annu' (feeling secure and settled) in the world contradicts the basic nature of the world, which is inherently unstable and fleeting. The soul that has found its deepest rest in the temporary has committed a fundamental spiritual mislocation."
     },
     {
       "id": "10_8",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 14,
-      "question": "According to Tabatabai, the term 'khala'if' (successors) in verse 14 refers only to temporal political authority.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Tabatabai elucidates that 'khala'if' denotes humanity's custodial role over creation, inheriting both the physical world and the moral legacy of prior nations - a test (imtihan) of human volition and adherence to divine guidance."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "What does verse 13 identify as the ultimate cause of destruction for the civilizations wiped out before the Prophet's audience?",
+      "options": [
+        "A. Poverty and economic inequality within those communities",
+        "B. Military defeat at the hands of neighboring powers",
+        "C. Zulm — wrongdoing, most fundamentally shirk and rejection of messengers who came with clear proofs",
+        "D. Natural disasters entirely beyond human control"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari explains that the zulm in 'when they wronged' refers most fundamentally to shirk and the rejection of messengers bearing bayyinat (clear proofs). Wahbah al-Zuhayli identifies this as 'sunan al-ijtimaiyya' — Quranic social laws governing civilizations: injustice in the form of rebellion against divine guidance leads to societal collapse. The verse closes with the universal principle 'thus We recompense the criminal people.'"
     },
     {
       "id": "10_9",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 76,
-      "question": "According to contemporary Shia scholars, how does Pharaoh's dismissal of truth as 'magic' relate to modern society?",
-      "options": [
-        "It has no modern relevance",
-        "It mirrors modern systems that discredit inconvenient truths to preserve dominance, such as climate denialism",
-        "It only applies to ancient rulers",
-        "It encourages modern magic shows"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary thinkers like Ayatollah Jawadi Amoli extend the analysis to show how the verse mirrors modern systems that discredit inconvenient truths to maintain power, visible in climate denialism and dismissal of social justice movements."
+      "verseNumber": 24,
+      "question": "True or false: Wahbah al-Zuhayli argued that the agricultural parable of verse 24 has no relevance to modern times because contemporary farming technology can prevent crop failure.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explicitly notes that modern agriculture, despite sophisticated technology, continues to demonstrate the truth of the parable: droughts, floods, and blights still reduce crops to nothing. No amount of human planning can guarantee a harvest. Muhammad al-Sha'rawi additionally noted that the verse's mention of destruction coming 'by night or by day' emphasizes that worldly loss comes regardless of human schedules or precautions."
     },
     {
       "id": "10_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 101,
-      "question": "According to the tafsir, scientist-philosopher Seyyed Hossein Nasr warns that 'scientism' - reducing truth to material data alone - risks becoming a new form of disbelief.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Nasr argues that scientism, which divorces empirical marvels from their transcendent source, risks becoming a new form of 'disbelief' that mirrors the rejection described in the Quran."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 38,
+      "question": "The challenge of verse 38 invites disbelievers to produce a surah like the Quran and to 'call upon whomever you can besides Allah.' How did classical Sunni scholars understand the significance of opening the challenge to all possible helpers?",
+      "options": [
+        "A. It showed the Prophet was confident that no jinn would assist the disbelievers",
+        "B. It eliminated any excuse that a single individual lacked the capacity, proving even the collective effort of all eloquent Arabs cannot replicate the Quran",
+        "C. It was a diplomatic invitation for Arab tribes to cooperate with the Prophet",
+        "D. It referred specifically to calling tribal poets and no one else"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Tabari notes that the Arabs, masters of eloquence and poetry, were directly challenged and could not produce anything comparable, which is itself living proof of divine authorship. Fakhr al-Din al-Razi argues that the Quran's linguistic perfection, knowledge of the unseen, fulfilled prophecies, legal sophistication, and literary transcendence together make human authorship untenable. The challenge has remained unmet for over 1,400 years."
     },
     {
       "id": "10_11",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 94,
-      "question": "How does the tafsir connect verse 94 ('ask those who read the Book') to modern interfaith dialogue?",
+      "verseNumber": 39,
+      "question": "According to Wahbah al-Zuhayli's commentary on verse 39, what intellectual sin does the Quran diagnose in those who reject its message?",
       "options": [
-        "It discourages any interfaith engagement",
-        "It supports intellectual humility and collaborative inquiry with other faith traditions",
-        "It promotes religious isolation",
-        "It only applies to academic scholars"
+        "A. Excessive philosophical speculation that leads away from revealed tradition",
+        "B. Premature rejection — condemning what one has not genuinely studied or comprehended",
+        "C. Over-reliance on personal reason at the expense of following established scholars",
+        "D. Accepting the Quran selectively while rejecting its legal content"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Sayyid Kamal al-Haydari extend this verse to advocate for intellectual humility and interfaith dialogue, where truth is fortified through cross-referencing diverse sources."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir argues that premature rejection — rejecting before comprehension — is identified by the Quran itself as a primary intellectual sin. One cannot legitimately reject what one has not genuinely studied. This applies directly to dismissing the Quran based on caricatures or surface-level exposure, which exhibits the same cognitive pattern that verse 39 condemns in the Quraysh."
     },
     {
       "id": "10_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 14,
-      "question": "According to contemporary interpretation, what environmental message does verse 14 convey about humanity as 'successors' on Earth?",
-      "options": [
-        "Humans can exploit Earth without limits",
-        "Environmental stewardship is a sacred responsibility aligned with divine trust",
-        "Only religious scholars need to care for the environment",
-        "The Earth will repair itself automatically"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarim Shirazi emphasize that 'successorship' is not mere dominion but a sacred responsibility to uphold justice, balance, and ethical stewardship of the Earth."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 62,
+      "question": "True or false: According to Sunni understanding of verse 62, the awliya Allah are an exclusive hereditary class set apart from ordinary believers by supernatural qualities and special lineage.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir makes clear that in Sunni Islam the awliya are any pious believers who fulfill the conditions defined in the next verse — iman and taqwa. Ibn Kathir explains the term derives simply from closeness to Allah through faith and God-consciousness. Ibn Abbas reported that the awliya are those who, when seen, remind you of Allah. The station is open to every Muslim who strives sincerely, regardless of lineage."
     },
     {
       "id": "10_13",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 76,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, recognizing divine truth requires inner purification of the heart, not just sensory perception.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) states: 'The eye cannot see Him through appearance, but hearts perceive Him through the realities of faith' - revealing that recognizing divine truth requires inner purification, not mere sensory perception."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 63,
+      "question": "Imam al-Qurtubi identified three levels of taqwa in his commentary on verse 63. Which option correctly lists them?",
+      "options": [
+        "A. Taqwa of the tongue, taqwa of the heart, and taqwa of the limbs",
+        "B. Protection from shirk; fulfilling obligations and avoiding prohibitions; guarding the heart from everything that distracts from Allah",
+        "C. Daily prayer, fasting, and zakah as the three pillars of taqwa",
+        "D. Fear of punishment, hope for reward, and love of Allah as three equal levels"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran identifies three levels of taqwa: (1) protecting oneself from shirk, which is the minimum for entering Islam; (2) fulfilling obligations and avoiding prohibitions; and (3) guarding the heart from anything that distracts from Allah. He notes the third level is the level of the siddiqin, and that Ibn Kathir also confirms both iman and taqwa must be present simultaneously — neither alone is sufficient."
     },
     {
       "id": "10_14",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 101,
-      "question": "According to Imam Jafar al-Sadiq (AS), when does a sign (ayah) become truly luminous?",
-      "options": [
-        "When observed through a telescope",
-        "When connected to its Interpreter, the Imam",
-        "When studied in a laboratory",
-        "When written in a book"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The 6th Imam explains: 'A sign (ayah) becomes truly luminous only when connected to its Interpreter (the Imam). Without this, people see shells without kernels, bodies without souls.'"
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 73,
+      "question": "True or false: Verse 73 records that after Noah's people who rejected him were destroyed, Allah made the surviving believers successors on the earth.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 73 states that Allah saved Noah and those with him in the ark (al-fulk), then made the believers 'khala'if' (successors/inheritors) after destroying the deniers. The verse closes by asking 'how was the end of those who were warned,' establishing the recurring Quranic pattern that believers inherit the earth when the corrupt are removed — a principle Ibn Kathir connects to the universal sunnatullah operating across history."
     },
     {
       "id": "10_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 6,
-      "question": "What did Imam Jafar al-Sadiq (AS) teach about the alternation of night and day for believers?",
+      "layer": 3,
+      "verseNumber": 79,
+      "question": "Sayyid Qutb described a three-stage pattern of institutional escalation in Pharaoh's response to Moses, culminating in verse 79. What are those three stages?",
       "options": [
-        "It has no spiritual significance",
-        "The believer's day is for striving in obedience and night for standing in devotion, cultivating nearness to Allah",
-        "Only daytime is important for worship",
-        "Night should be spent in entertainment"
+        "A. Military force, then economic sanctions, then diplomatic pressure",
+        "B. Ridicule and labeling, then political accusation, then mobilization of the most sophisticated state apparatus",
+        "C. Imprisonment, then exile, then execution of the prophet",
+        "D. Scholarly debate, then popular vote, then military response"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) taught that 'the believer's day is for striving in obedience, and his night is for standing in devotion; in their rotation lies the cultivation of nearness to the Merciful.'"
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran identifies this escalation: first ridicule and labeling (v. 76), then political accusation (v. 78), and finally mobilization of the most sophisticated state tools — the gathering of all learned magicians under royal commission. Qutb drew parallels to how modern authoritarian systems deploy their media, academic, and propaganda apparatuses against movements that challenge their legitimacy when earlier efforts fail."
     },
     {
       "id": "10_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 94,
-      "question": "According to Ahlul Bayt teachings, the verse 'ask those who read the Scripture' refers to the Infallible Imams as the true bearers of Allah's Book.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Sadiq (AS) states in Al-Kafi: 'We are the bearers of Allah's Book, the interpreters of His revelation. The one who turns to us is never lost.'"
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 83,
+      "question": "What made the 'youths' who believed in Moses despite Pharaoh's power particularly noteworthy in verse 83?",
+      "options": [
+        "A. They performed public miracles as proof of their faith",
+        "B. They believed and maintained that faith while living under ongoing fear of Pharaoh's persecution",
+        "C. They converted through intellectual argument alone after studying scripture",
+        "D. They were the wealthiest members of Bani Israel who could afford to defy Pharaoh publicly"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 83 describes these believers as exercising their faith 'ala khawf' — in a state of fear — under Pharaoh's tyranny. Ibn Kathir notes the poignant contrast: Moses faced Pharaoh with complete tranquility while those who followed trembled in fear but believed nonetheless. Their trembling faith is honored by Allah just as much as Moses' serene certainty. Sheikh Ibn Uthaymeen noted this verse normalizes that small numbers of believers in hostile environments is historically normal, not a sign of failure."
     },
     {
       "id": "10_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 76,
-      "question": "What is a key divergence between Shia and Sunni interpretations of verse 76 regarding the rejection of prophetic truth?",
-      "options": [
-        "Both traditions have identical interpretations",
-        "Shia exegetes extend the rejection of truth to include opposition to the Imams, while Sunni focus more narrowly on prophetic missions",
-        "Sunni scholars emphasize the Imams more than Shia scholars",
-        "Neither tradition discusses this verse"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentators like Tabatabai extend the verse to the theological concept of walayah, arguing that rejection of legitimate leadership parallels Pharaoh's defiance, while Sunni exegetes focus more narrowly on prophetic missions."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 84,
+      "question": "True or false: Imam al-Qurtubi derived from verse 84 that Moses' call to tawakkul was a communal obligation addressing his entire people, not merely a private spiritual counsel to individuals.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Qurtubi, approaching verse 84 from a jurisprudential lens, notes that Moses addressed 'my people' collectively, calling the entire community to a shared posture of reliance on Allah rather than on their own resources or human protectors. Wahbah al-Zuhayli further identifies Moses' approach as 'the prophetic cure for oppression anxiety' — recalibrating his followers' frame of reference from 'how powerful is Pharaoh?' to 'how deeply have you internalized your belief in Allah?'"
     },
     {
       "id": "10_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 101,
-      "question": "Both Sunni and Shia traditions agree that the verse's core message is that belief requires openness to transcendent truth beyond mere sensory evidence.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions unite in affirming the verse's core message: belief transcends sensory evidence, requiring openness to transcendent truth, though they differ in hermeneutical approaches."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 90,
+      "question": "Why did Ibn Kathir and classical Sunni scholars rule that Pharaoh's declaration of faith while drowning was not accepted by Allah?",
+      "options": [
+        "A. Because he did not declare it loudly enough to be heard",
+        "B. Because he did not recite the full formula of the shahada correctly",
+        "C. Because faith declared at the moment of inescapable punishment is not a free choice and therefore does not constitute valid iman",
+        "D. Because Moses had already cursed him and divine curses override repentance"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir cites the hadith from the Musnad of Imam Ahmad in which the Prophet reported Gabriel said to Pharaoh 'Now you believe, when you had been disobedient before?' He confirms the ruling based on Quran 4:18: repentance is not accepted from those who continue in evil until death approaches them. Imam al-Qurtubi uses this verse as the foundation for a lengthy discussion of the conditions of valid tawba, concluding that sincerity, timing, and the absence of compulsion are essential."
     },
     {
       "id": "10_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 94,
-      "question": "What is the main difference between Shia and Sunni interpretation of 'those who read the Scripture' in verse 94?",
+      "layer": 1,
+      "verseNumber": 98,
+      "question": "What made the people of Yunus singular in the Quran's survey of nations that faced divine punishment?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Sunni interpret it broadly as Jewish and Christian scholars, while Shia argue it refers primarily to the Ahl al-Bayt",
-        "Shia reject interfaith dialogue based on this verse",
-        "Both traditions interpret it identically"
+        "A. They were the only nation that received two separate prophets before punishment arrived",
+        "B. They were the only entire population in recorded divine history whose sincere collective repentance before punishment descended was accepted, causing Allah to lift the punishment",
+        "C. They converted after defeating Pharaoh's armies and were therefore spared",
+        "D. They were spared because their city was too large for punishment to be carried out"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni exegetes interpret 'those who read the Scripture' broadly as Jewish and Christian scholars, while Shia commentaries like Al-Qummi and Al-Tabatabai argue the phrase refers primarily to the Ahl al-Bayt as inheritors of prophetic knowledge."
+      "explanation": "Verse 98 presents the people of Yunus as the singular exception: an entire population saw signs of approaching punishment, remembered their prophet's warnings, and turned to Allah collectively and sincerely before punishment arrived. Al-Tabari records they separated mothers from children and cried out together. In response, Allah removed the punishment and granted them more time. Ibn Kathir notes this is the only case in the Quran where an entire town's faith was accepted in a way that benefited them."
     },
     {
       "id": "10_20",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 14,
-      "question": "According to comparative tafsir, Shia thought uniquely connects the concept of earthly succession (khilafa) with Imamah as a pillar of faith.",
+      "layer": 3,
+      "verseNumber": 98,
+      "question": "True or false: Sayyid Qutb described the people of Yunus as 'a beacon of hope' in the Quran's otherwise somber survey of nations that rejected their prophets, proving the door of divine mercy remains open as long as genuine repentance is offered in time.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Shia thought intertwines cosmic order and succession with Imamah as a pillar of faith, whereas Sunni exegesis often emphasizes textual and rational proofs independent of succession debates."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran gives this verse one of his most luminous readings, calling the people of Yunus a beacon of hope. He emphasizes their story proves that divine victory does not come to the impatient or to those who compromise under pressure, and that sincere collective turning to Allah before punishment arrives can move the mercy of Allah. Sheikh Ibn Uthaymeen noted this verse contains the clearest Quranic evidence that accepted tawbah must precede punishment."
+    },
+    {
+      "id": "10_21",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 99,
+      "question": "According to Wahbah al-Zuhayli and Sheikh Ibn Uthaymeen, what does verse 99 ('had your Lord willed, everyone on earth would have believed') establish about the relationship between divine will and human freedom?",
+      "options": [
+        "A. That human beings have no real freedom since Allah controls all outcomes absolutely",
+        "B. That Allah possessed the power to compel universal belief but chose not to, because genuine faith requires freely chosen submission that compulsion would undermine",
+        "C. That the Prophet failed in his mission because he did not achieve universal acceptance",
+        "D. That Allah's will and human will are equal and independent forces"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir notes that Ashari Sunni theology holds Allah wills the existence of disbelief as part of the created order of freedom and accountability, while simultaneously disliking disbelief and calling all to faith. Sheikh Ibn Uthaymeen cited this verse as a proof text against extremism in da'wah: using force to bring people to faith contradicts the divine wisdom embedded in this verse. Ibn Kathir confirms the principle that 'whoever wills let him believe, and whoever wills let him disbelieve.'"
+    },
+    {
+      "id": "10_22",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 101,
+      "question": "True or false: In verse 101, Allah commands observing the signs in the heavens and earth as a path to recognizing the Creator, yet adds that signs and warners are of no benefit to those who have resolved not to believe.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 101 opens with the command 'Say: Observe all that is in the heavens and earth' — a call for deliberate, thoughtful reflection on creation as signs pointing to Allah — but closes with the sobering statement that neither signs nor warners avail a people who have resolved not to believe. Imam al-Qurtubi notes this establishes that the barrier to faith in the hardened heart is not lack of evidence but refusal to receive it, and hidayah (guidance) is ultimately a divine gift sought through sincere openness."
     }
   ]
 }

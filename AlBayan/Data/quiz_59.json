@@ -5,136 +5,161 @@
       "id": "59_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir of verse 1, what does the Arabic term 'sabbaha' (to glorify) signify?",
+      "verseNumber": 2,
+      "question": "What is the meaning of 'al-hashr' from which this surah takes its name?",
       "options": [
-        "Only verbal declarations of praise",
-        "Continuous, inherent praise and an existential state of submission",
-        "Occasional remembrance during prayer",
-        "Silent meditation without action"
+        "A type of armed battle unique to tribal Arabia",
+        "The gathering or exile, referring to the expulsion of Banu Nadir from Medina",
+        "A term for the distribution of war spoils among fighters",
+        "A Medinan term for a binding treaty between tribes"
       ],
-      "correctAnswer": "Continuous, inherent praise and an existential state of submission",
-      "explanation": "The tafsir explains that 'sabbaha' signifies continuous, inherent praise - not merely verbal declarations but an existential state of submission shared by all creation, from stars to stones. This universal tasbih reflects the Shia understanding of creation as intrinsically connected to divine purpose."
+      "correctAnswer": "B",
+      "explanation": "The word 'al-hashr' means a gathering or exile. Ibn Abbas called this surah 'Surat Bani Nadir' because its central narrative concerns the expulsion of that Jewish tribe from Medina. Verse 2 describes their departure as 'the first gathering,' with Ibn Kathir specifying their destination was Khaybar and Syria."
     },
     {
       "id": "59_2",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "What historical event is referenced in verse 2 of Surah Al-Hashr?",
-      "options": [
-        "The Battle of Badr",
-        "The expulsion of the Banu Nadir tribe from Medina",
-        "The Treaty of Hudaybiyyah",
-        "The conquest of Mecca"
-      ],
-      "correctAnswer": "The expulsion of the Banu Nadir tribe from Medina",
-      "explanation": "Verse 2 recounts Allah's decisive intervention in the conflict between the early Muslim community and the Jewish tribe of Banu Nadir in Medina, who breached their covenant with the Prophet Muhammad. The verse describes how Allah expelled them from their homes at the first gathering."
+      "question": "True or false: The Banu Nadir were expelled only after a prolonged military battle in which the Muslims deployed cavalry and suffered significant losses.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The Banu Nadir were expelled without conventional battle. Allah cast terror into their hearts and they accepted exile. Verse 6 explicitly states no horses or camels were deployed in military engagement, which is precisely why the property obtained was classified as fay rather than ghanimah under Islamic law."
     },
     {
       "id": "59_3",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, every entity's very existence is an act of worship because it operates within the limits Allah has ordained.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai elucidates in Al-Mizan that creation's glorification manifests through its inherent submission to divine order: 'Every entity's very existence is an act of worship, for it operates within the limits Allah has ordained.' This ontological submission reflects the Shia theological principle of tawhid al-af'ali (unity of divine acts)."
+      "verseNumber": 2,
+      "question": "Which hadith collection does Ibn Kathir cite when explaining that the Prophet was 'given victory through terror cast into the hearts of enemies at a month's journey'?",
+      "options": [
+        "Sahih Muslim only",
+        "Sahih al-Bukhari",
+        "Sunan al-Tirmidhi",
+        "Musnad of Imam Ahmad"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir, in explaining the phrase 'cast terror into their hearts' from verse 2, cites the well-known hadith in Sahih al-Bukhari in which the Prophet says he was given victory through terror placed in the hearts of his enemies at a distance of a month's journey, connecting this prophetic privilege to the supernatural fear that overcame Banu Nadir despite their fortifications."
     },
     {
       "id": "59_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 7,
-      "question": "In classical Shia exegesis, what does the term 'fay'' refer to?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What is the key distinction between fay and ghanimah that verse 6 establishes?",
       "options": [
-        "Wealth acquired through warfare",
-        "Spoils acquired without battle",
-        "Charitable donations",
-        "Inheritance from family members"
+        "Fay is distributed only among the Muhajireen while ghanimah goes to all Muslims",
+        "Fay is wealth obtained without armed combat and belongs to the Prophet to distribute, while ghanimah requires actual battle and is divided among fighters",
+        "Fay covers only agricultural land while ghanimah covers moveable possessions",
+        "The two terms are synonymous and scholars treat them identically in jurisprudence"
       ],
-      "correctAnswer": "Spoils acquired without battle",
-      "explanation": "Classical Shia exegetes emphasize the divine allocation of 'fay'' which refers to spoils acquired without battle, such as reclaimed lands or surrendered wealth. Verse 7 establishes divine guidelines for the distribution of these resources and their theological implications for leadership and social justice."
+      "correctAnswer": "B",
+      "explanation": "As Imam Tabari records, the companion Umar ibn al-Khattab stated that the wealth of Banu Nadir was pure fay given to the Prophet since no cavalry or camelry was deployed against them. Verse 6 establishes that fay is at the disposal of the Prophet and later the Muslim treasury, in contrast to ghanimah which requires military engagement and is distributed with one-fifth reserved and four-fifths going to fighters."
     },
     {
       "id": "59_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholar Dr. Mohammad Ali Shomali, what do scientific discoveries reveal about creation's tasbih?",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "How does Imam Tabari explain the meaning of the word 'dawlah' in the phrase 'so that it will not be a perpetual distribution among the rich'?",
       "options": [
-        "That glorification is purely metaphorical",
-        "A 'silent language' of submission to divine laws",
-        "That creation operates independently of Allah",
-        "That only humans can truly glorify Allah"
+        "A permanent political dynasty that controls state resources",
+        "A revolving cycle, indicating the verse forbids wealth circulating only among the already wealthy",
+        "A tax system in which the rich pay more than the poor",
+        "A form of charitable endowment that benefits the poor exclusively"
       ],
-      "correctAnswer": "A 'silent language' of submission to divine laws",
-      "explanation": "Dr. Mohammad Ali Shomali connects the tasbih (glorification) to the inherent order of creation, arguing that scientific discoveries—from quantum fields to ecological interdependence—reveal a 'silent language' of submission to divine laws. The rhythmic expansion of galaxies or the precision of DNA replication become tangible expressions of this cosmic tasbih."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir, drawing on Imam Tabari's analysis, highlights that the word 'dawlah' in this context means a revolving cycle. The verse therefore prohibits wealth from rotating only within circles of the rich. Imam al-Shafi'i treated this verse as the definitive Quranic text on the distribution of fay, and it is cited by contemporary scholars as a Quranic basis against economic oligarchy."
     },
     {
       "id": "59_6",
       "type": "trueFalse",
-      "layer": 3,
+      "layer": 2,
       "verseNumber": 7,
-      "question": "Ayatollah Naser Makarem Shirazi interprets verse 7 as advocating for progressive taxation and universal basic income in modern economic systems.",
+      "question": "True or false: Classical Sunni scholars considered the command 'whatever the Messenger gives you, take it' in verse 7 to apply only to the distribution of fay wealth, not to other religious rulings.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret Surah Al-Hashr (59:7) as a divine blueprint for socioeconomic justice. The verse's emphasis on equitable resource distribution to counter systemic inequality is applied to modern contexts, advocating for mechanisms like progressive taxation and universal basic income."
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir records that Ibn Masud cited this very verse when a woman challenged his ruling about plucking eyebrows, demonstrating that the companions understood the command as absolute and universal. Both Tabari and Ibn Kathir affirm this as the foundational Quranic proof for the binding authority of the Sunnah across all areas of life, not merely wealth distribution."
     },
     {
       "id": "59_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (peace be upon him), why were the heavens and earth sustained?",
+      "layer": 1,
+      "verseNumber": 11,
+      "question": "What was the hypocrites' secret promise to Banu Nadir, and how did Allah respond in verse 11?",
       "options": [
-        "Through the natural laws of physics",
-        "Through the love of Muhammad and his purified progeny",
-        "Through the prayers of the angels",
-        "Through the faith of the believers"
+        "They offered to negotiate a peace settlement, and Allah praised their peacemaking",
+        "They pledged military support if Banu Nadir resisted or were fought, and Allah declared them liars through divine testimony",
+        "They offered financial compensation to the Muslims, and Allah accepted the gesture as sufficient",
+        "They promised to convert to Islam on behalf of Banu Nadir, and Allah exposed this as insincere"
       ],
-      "correctAnswer": "Through the love of Muhammad and his purified progeny",
-      "explanation": "Imam Jafar al-Sadiq (peace be upon him) explains: 'The heavens and earth were sustained through our love; had it not been for the light of Muhammad and his purified progeny, no atom would glorify its Lord.' This teaching connects the cosmic worship to the divine covenant of Wilayah and the central role of the Ahlul Bayt."
+      "correctAnswer": "B",
+      "explanation": "As Imam Tabari records, Abdullah ibn Ubayy and his companions sent word to Banu Nadir promising to leave with them if expelled and to fight alongside them if attacked, even pledging two thousand additional armed men. Allah responds in verse 11 with the declaration 'Allah bears witness that they are surely liars,' a direct divine refutation issued before the promises could even be tested."
     },
     {
       "id": "59_8",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 10,
-      "question": "What does the supplication for 'our brothers who preceded us in faith' demonstrate according to the Ahlul Bayt teachings?",
-      "options": [
-        "A simple request for forgiveness",
-        "The spiritual unity binding believers across time and the eternal nature of the ummah",
-        "A ritual obligation without deeper meaning",
-        "An exclusive prayer for family members"
-      ],
-      "correctAnswer": "The spiritual unity binding believers across time and the eternal nature of the ummah",
-      "explanation": "In verse 10, Allah unveils the spiritual bond between generations of believers through their supplication seeking forgiveness for earlier ones. The Ahlul Bayt taught that this prayer reveals the eternal nature of the ummah as a living spiritual organism where past, present, and future believers are interconnected through the axis of Wilayah."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 16,
+      "question": "True or false: According to Sayyid Qutb in Fi Zilal al-Quran, the hypocrites compared to Satan in verse 16 were not merely politically unreliable allies but instruments of a deeper cosmic deception.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb notes that the Quran's choice to liken the hypocrites to Satan rather than merely criticizing them reveals the spiritual depth of their corruption. They were not simply unreliable allies but instruments of a deeper cosmic deception, making verse 16 a timeless warning about the nature of all false alliances rooted in shared opposition to righteousness rather than shared principle."
     },
     {
       "id": "59_9",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Shia and Sunni classical exegetes agree that the opening verse of Surah Al-Hashr affirms tawhid by demonstrating all creation's inherent submission to divine sovereignty.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical exegetes across traditions, including Tabari (Sunni) and Tabatabai (Shia), emphasize that verse 1 affirms tawhid by demonstrating all creation's inherent submission to divine sovereignty. This reflects a shared emphasis on God's transcendence (al-'Aziz) and purposeful wisdom (al-Hakim) manifest in creation."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 19,
+      "question": "Wahbah al-Zuhayli, in Al-Tafsir al-Munir, connects verse 19's warning about forgetting Allah to which modern phenomenon?",
+      "options": [
+        "The rise of social media and digital distraction",
+        "A crisis of meaning in which forgetting Allah correlates with confusion about human dignity, purpose, and morality",
+        "The decline of mosque attendance in Muslim-majority countries",
+        "Economic inequality that distracts the poor from spiritual concerns"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir connects verse 19 to the modern crisis of meaning, noting that widespread forgetfulness of Allah correlates historically with confusion about human dignity, purpose, and morality. When people forget they are accountable to a Creator, they become susceptible to every ideology that promises identity without accountability."
     },
     {
       "id": "59_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 7,
-      "question": "What is the primary area of convergence between Shia and Sunni interpretations of verse 7?",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "What is the central spiritual lesson of the mountain parable in verse 21?",
       "options": [
-        "The exact distribution percentages for fay'",
-        "The verse's emphasis on socioeconomic justice and prohibition of wealth monopolization",
-        "The specific individuals who should receive resources",
-        "The military strategies for acquiring fay'"
+        "That the physical world is fragile and mountains will eventually erode",
+        "That the Quran possesses such immense weight and dignity that even a massive mountain would tremble and split from it, rebuking the human heart that remains unmoved",
+        "That Allah can reshape the natural world at will as a sign for disbelievers",
+        "That mountains literally glorify Allah and will be witnesses on the Day of Judgment"
       ],
-      "correctAnswer": "The verse's emphasis on socioeconomic justice and prohibition of wealth monopolization",
-      "explanation": "In interpreting Surah Al-Hashr 59:7, both Shia and Sunni exegetes converge on the verse's primary emphasis on socioeconomic justice and the prohibition of wealth monopolization. Classical commentators from both traditions emphasize the divine mandate for equitable distribution of resources, though they may differ in specific applications and interpretations of authority."
+      "correctAnswer": "B",
+      "explanation": "The parable contrasts the mountain's hypothetical total submission before the Quran with the human heart that often remains hard and unresponsive. Ibn Kathir explains that Allah highlights the Quran's worth by saying even the most massive earthly creation would be humbled and broken by it. The purpose, as stated in the verse itself, is so that people may reflect, making it a direct rebuke to hearts that hear the Quran without being moved."
+    },
+    {
+      "id": "59_11",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 22,
+      "question": "True or false: Ibn Kathir notes that the names Al-Rahman and Al-Rahim appear at the close of verse 22 in a position that mirrors their placement in Surah Al-Fatiha, signaling that mercy is a central defining attribute of Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir draws attention to the placement of Al-Rahman and Al-Rahim at the close of verse 22, noting that this mirrors their position in Surah Al-Fatiha, the opening chapter of the Quran. He observes this parallel signals that mercy is not an incidental attribute of Allah but a central and defining one, especially striking given that this surah deals with the expulsion of a treacherous tribe."
+    },
+    {
+      "id": "59_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 24,
+      "question": "What do the three names Al-Khaliq, Al-Bari, and Al-Musawwir in verse 24 collectively describe, according to Imam Tabari and Ibn Kathir?",
+      "options": [
+        "Three separate moments of divine judgment applied to different categories of humanity",
+        "The complete creative process from bringing things into existence, to distinguishing created types, to conferring their unique shapes and forms",
+        "Allah's three responses to human sin: creation, warning, and punishment",
+        "Three names that are entirely synonymous and serve only as rhetorical emphasis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari's Jami al-Bayan provides detailed lexical analysis: Al-Khaliq refers to creating from non-existence, Al-Bari to distinguishing and differentiating creation into its distinct natures and species, and Al-Musawwir to conferring the specific forms, shapes, and appearances of each created thing. Together they describe the full scope of divine creative power from concept to finished form."
     }
   ]
 }

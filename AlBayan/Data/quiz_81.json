@@ -6,135 +6,155 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'kuwwirat' (wrapped up) in verse 1 literally mean according to the Foundation Layer?",
+      "question": "The word 'kuwwirat' in the opening verse derives from a root meaning to roll or wind, like a turban being wound around the head. What does it describe happening to the sun on the Day of Judgment?",
       "options": [
-        "To shine brighter",
-        "To fold, roll up, or extinguish",
-        "To expand outward",
-        "To rotate faster"
+        "A. The sun will explode outward and expand into a red giant",
+        "B. The sun's light will be folded back upon itself and extinguished entirely",
+        "C. The sun will be moved to a new position in the heavens",
+        "D. The sun will slow its orbit until it stops"
       ],
-      "correctAnswer": "To fold, roll up, or extinguish",
-      "explanation": "The term 'kuwwirat' derives from the root 'k-w-r', meaning to fold, roll up, or extinguish. It metaphorically conveys the sun's light being extinguished or its form radically altered, symbolizing the unraveling of the natural order on the Day of Judgment."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'kuwwirat' means the sun's radiating light will be rolled back upon itself and extinguished, just as a turban is wound around the head. Ibn Kathir describes the light spreading from the sun as being folded back until the sun is entirely darkened, signaling the end of the familiar cosmic order."
     },
     {
       "id": "81_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 8,
-      "question": "According to the Foundation Layer, the term 'al-maw'udah' refers to infant girls who were buried alive in pre-Islamic Arabia.",
+      "verseNumber": 3,
+      "question": "True or false: The Arabic verb 'suyyirat' describing the mountains in verse 3 is in the active voice, meaning the mountains will move themselves on the Day of Judgment.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. The phrase 'al-maw'udah' refers explicitly to the buried girl, derived from the verb 'wa'ada' (to bury alive), condemning the horrific pre-Islamic Arabian practice of burying infant girls alive due to tribal shame and economic fears."
+      "correctAnswer": "false",
+      "explanation": "'Suyyirat' is in the passive voice, emphasizing that the mountains will be made to move by a power outside themselves — the command of Allah. Ibn Uthaymeen noted that this root is the same used for travel and journeying, creating the image of mountains as travelers sent on their way at Allah's word, teaching believers not to be deceived by the apparent solidity of this world."
     },
     {
       "id": "81_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what does the 'wrapping up' of the sun in verse 1 symbolize?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Verse 4 describes the pregnant she-camels ('ishar') being left unattended. Why would this image have been so striking to the original Arab audience of the surah?",
       "options": [
-        "A temporary eclipse",
-        "The annihilation of the sun's luminous order and collapse of the material world's systems",
-        "A change in the sun's color",
-        "The sun moving closer to earth"
+        "A. Camels were considered sacred animals protected by tribal law",
+        "B. A she-camel in her tenth month of pregnancy was the most prized possession an Arab could own, representing his peak wealth",
+        "C. Arab custom required every man to personally attend to his livestock at all times",
+        "D. She-camels symbolised tribal alliances and abandoning one was seen as an act of betrayal"
       ],
-      "correctAnswer": "The annihilation of the sun's luminous order and collapse of the material world's systems",
-      "explanation": "Shaykh Tabrisi emphasizes that the verb 'kuwwirat' (wrapped up) signifies the annihilation of the sun's luminous order, symbolizing the collapse of the material world's systems—a disintegration of cosmic harmony that heralds divine judgment."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that the 'ishar' — a she-camel in the tenth month of pregnancy — was the peak of wealth in seventh-century Arabia, representing current value plus the promise of a newborn camel, milk, and continued prosperity. Ibn Uthaymeen invited contemporary readers to identify their own equivalent 'ishar': whatever they prize most will be abandoned without a second thought on the Day of Judgment."
     },
     {
       "id": "81_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 5,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the gathering of wild beasts in verse 5 represent beyond physical assembly?",
-      "options": [
-        "Only the physical gathering of animals",
-        "The universal accountability inherent in Allah's justice",
-        "A random occurrence with no meaning",
-        "The domestication of wild animals"
-      ],
-      "correctAnswer": "The universal accountability inherent in Allah's justice",
-      "explanation": "Allama Tabatabai emphasizes that the gathering (hashr) of wild beasts transcends mere physical assembly, symbolizing the universal accountability inherent in Allah's justice, where even creatures beyond human control will be summoned to manifest the totality of divine judgment."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "True or false: In verse 8, Allah questions the buried infant girl about the crime her killers committed against her.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Allah does not ask the killers why they acted — He asks the victim what her own sin was. As the layer 1 tafsir notes, the implied answer is none: she was killed for no reason except that she was a girl. This reversal is a devastating moral statement, and Ibn Uthaymeen observed that the question 'for what sin were you killed?' is itself a theological proof that children who die in infancy are among the people of Paradise."
     },
     {
       "id": "81_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholars like Dr. Hassan Abbas, the verse about the sun being wrapped up has no connection to modern astrophysical theories about stellar death.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Contemporary scholars like Dr. Hassan Abbas note that the verse resonates with astrophysical theories about stellar death, where stars like our sun eventually expand or collapse, inviting reflection on cosmic fragility and humanity's role as stewards of a delicate universe."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "Verse 14 — 'A soul will then know what it has brought with it' — is the conclusion to twelve preceding 'when' clauses. What does the phrase 'ma ahdharat' (what it has brought) refer to?",
+      "options": [
+        "A. The worldly wealth and property the person accumulated in life",
+        "B. The family members and companions gathered around the person",
+        "C. The complete record of every deed, word, and intention performed during the person's earthly life",
+        "D. The book of destiny written for the soul before its birth"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The layer 1 tafsir explains that 'ma ahdharat' means everything the soul presented or brought forward — every deed, word, intention, sin, and act of goodness. Al-Tabari notes this verse is the main result clause toward which all eleven preceding 'when' clauses lead. Ibn Uthaymeen taught this verse as the scriptural basis for the practice of muhasabah (self-accounting), urging believers to review their deeds daily before the final accounting."
     },
     {
       "id": "81_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi interpret the question 'So where are you going?' in verse 26?",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "Which hadith did Ibn Kathir cite in Tafsir al-Quran al-Azim to show that the opening verse of Surah At-Takwir describes a literal future event?",
       "options": [
-        "A literal question about travel destinations",
-        "A cosmic call to self-assessment amid modernity's distractions, ecological collapse, and existential voids",
-        "A question about physical direction only",
-        "An inquiry about career choices"
+        "A. 'Whoever recites At-Takwir regularly will be shielded from the terrors of the Day of Judgment'",
+        "B. 'Whoever wishes to look at the Day of Judgment as if seeing it with his own eyes, let him read: When the sun is wound round'",
+        "C. 'The Quran is an intercessor whose intercession will be accepted and a contender whose case will be upheld'",
+        "D. 'The sun rises between the two horns of Satan, so bow to no prayer at that time'"
       ],
-      "correctAnswer": "A cosmic call to self-assessment amid modernity's distractions, ecological collapse, and existential voids",
-      "explanation": "Contemporary scholars frame this verse as a cosmic call to self-assessment amid modernity's distractions, resonating as a critique of humanity's collective drift including ecological collapse, hyper-consumerism, and existential voids masked by digital noise."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records this hadith narrated from Ibn Umar via Imam Ahmad: 'Whoever wishes to look at the Day of Judgment as if he is seeing it with his own eyes, let him read: When the sun is wound round.' He also cites Bukhari's narration from Abu Hurayrah that the Prophet said the sun and moon will be rolled up on the Day of Judgment, establishing the Sunni position that this verse describes a literal cosmic event."
     },
     {
       "id": "81_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 1, what does the 'sun' symbolize spiritually?",
-      "options": [
-        "Only the physical celestial body",
-        "The Prophet Muhammad, with its light representing Ali",
-        "Ancient Egyptian religion",
-        "Natural solar energy"
-      ],
-      "correctAnswer": "The Prophet Muhammad, with its light representing Ali",
-      "explanation": "Imam Ja'far al-Sadiq taught that the sun symbolizes the Prophet Muhammad (peace be upon him and his progeny), and its light represents Ali. He stated: 'The sun is the Prophet, and its light is Ali. When the Prophet departs, Ali's light is folded like a scroll – but it remains preserved in the Imams until the Hour.'"
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "True or false: Fakhr al-Din al-Razi, in Mafatih al-Ghayb, argued that the stars falling in verse 2 should be understood purely as metaphorical language for the collapse of worldly certainties, not as a literal physical event.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Razi added a philosophical dimension but upheld a literal interpretation. His contribution was to note that the stars falling underscores that spatial order itself — which depends on fixed celestial bodies — will cease to exist on that Day. The layer 2 tafsir confirms that the Salaf were unanimous that these descriptions refer to real physical events and should not be interpreted purely allegorically."
     },
     {
       "id": "81_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 14,
-      "question": "According to Imam Ja'far al-Sadiq, 'what it has brought' in verse 14 specifically refers to the recognition (ma'rifah) of the Imam of one's time.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Imam Ja'far al-Sadiq taught: 'It refers to the recognition (ma'rifah) of the Imam of one's time – whoever dies without this recognition dies the death of ignorance.' This transforms the verse into a spiritual awakening about humanity's ultimate purpose."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 19,
+      "question": "Classical Sunni scholars including Ibn Kathir and Tabari — drawing on transmissions from Ibn Abbas, Ash-Shabi, Qatadah, and al-Hasan al-Basri — unanimously identified the 'noble messenger' (rasul karim) in verse 19 as which being?",
+      "options": [
+        "A. Prophet Muhammad, who conveyed the Quran to his companions in Mecca",
+        "B. Angel Jibril (Gabriel), who brought the Quran from Allah to the Prophet",
+        "C. The Angel of Death, who delivers souls from the world to the hereafter",
+        "D. Israfil, the angel entrusted with blowing the trumpet on Judgment Day"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari in Jami al-Bayan records the companions' consensus that the 'rasul karim' is the angel Jibril. Ibn Kathir confirms this identification and notes that 'rasul' applies to both prophets and angels; here it is the angelic messenger of revelation. The epithet 'karim' (noble) affirms Jibril's honor and perfect trustworthiness — he would not alter or distort the message Allah entrusted to him."
     },
     {
       "id": "81_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 19,
-      "question": "What is the main area of agreement between Shia and Sunni scholars regarding the 'noble messenger' in verse 19?",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "Regarding verse 23 — 'and he certainly saw him at the clear horizon' — how did classical scholars such as Ibn Kathir reconcile this sighting with the account in Surah An-Najm?",
       "options": [
-        "They completely disagree on all interpretations",
-        "Both affirm the Quran's divine origin and transmission through a sacred medium",
-        "They only discuss grammatical aspects",
-        "They reject the verse's authenticity"
+        "A. They concluded that the two surahs describe the same single sighting from different angles",
+        "B. They determined that At-Takwir 23 refers to an earlier sighting of Jibril in his true form near the start of revelation, while An-Najm refers to a second sighting at the Lote Tree during the Night Ascension",
+        "C. They argued that one of the two accounts must be a scribal error in transmission",
+        "D. They held that both verses refer exclusively to dreams the Prophet experienced in Mecca"
       ],
-      "correctAnswer": "Both affirm the Quran's divine origin and transmission through a sacred medium",
-      "explanation": "Across both traditions, scholars universally affirm the Quran's divine origin and its transmission through a sacred medium. Both Sunni commentators (Tabari, Ibn Kathir) and Shia authorities (Tabatabai, Tabrisi) agree that the verse underscores the Quran's celestial nature."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that Aisha stated in Sahih al-Bukhari that the Prophet saw Jibril in his true form twice. Al-Tabari and Ibn Kathir reconcile the verses by identifying At-Takwir 23 with the first sighting at the horizon of Mecca near the beginning of revelation, and An-Najm verse 13 with the second sighting at the Lote Tree during the Night Ascension. Both sightings occurred in a wakeful state, not in a dream."
     },
     {
       "id": "81_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Wahbah al-Zuhayli in Al-Tafsir al-Munir argued that the Quranic description of the seas being set ablaze in verse 6 is primarily a scientific prediction about what will happen to earth's oceans.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Zuhayli noted that water is composed of hydrogen and oxygen — both flammable gases — as a dimension illuminating the Quranic language, but he was careful to state that the Quranic description is primarily theological and eschatological, not a scientific prediction. Its core message is the total sovereignty of Allah over creation. He drew on the scientific observation to appreciate the language, not to reduce the verse to a physical forecast."
+    },
+    {
+      "id": "81_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 29,
-      "question": "According to both Al-Tabari (Sunni) and Al-Tusi (Shia) regarding verse 29, what does the verse negate about human volition?",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "Muhammad al-Sha'rawi, in his reflections on verse 18 ('the dawn when it breathes'), highlighted a specific quality suggested by the choice of the word 'breath' (tanaffas) over words like 'light' or 'radiance'. What was his point?",
       "options": [
-        "That humans have any choices at all",
-        "That humans have independent volition separate from divine will",
-        "That prayer is necessary",
-        "That moral responsibility exists"
+        "A. 'Breath' indicates that the dawn is alive and conscious in the same way as human beings",
+        "B. The choice of 'breath' suggests softness and gentleness — the dawn does not assault the night but gradually brings life, as Allah's mercy unfolds with care",
+        "C. 'Breath' was chosen to remind listeners of the creation of Adam from clay",
+        "D. The word 'tanaffas' is unique to Arabic and has no equivalent in any other language"
       ],
-      "correctAnswer": "That humans have independent volition separate from divine will",
-      "explanation": "Al-Tabari (Sunni) and Al-Tusi (Shia) concur that the verse negates independent human volition, emphasizing divine omnipotence. Both affirm Allah's absolute sovereignty while agreeing that human agency operates within divinely ordained parameters."
+      "correctAnswer": "B",
+      "explanation": "Muhammad al-Sha'rawi noted that the choice of 'breath' rather than 'light' or 'radiance' suggests softness and gentleness — the dawn does not assault the night but gently and gradually breathes life into the world, much as Allah's mercy does not overwhelm but unfolds with care. For contemporary Muslims, this verse is an invitation to greet the Fajr prayer as participation in the most sacred moment of the natural cycle."
+    },
+    {
+      "id": "81_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 21,
+      "question": "True or false: Sayyid Qutb, in Fi Zilal al-Quran, argued that the portrait of Jibril in verses 19-21 — noble, powerful, obeyed, and trustworthy — was intended to inspire in the listener both reverence for the Quran's exalted origin and confidence in its perfect, unaltered transmission.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb wrote in Fi Zilal al-Quran that the portrait of Jibril combining nobility, power, heavenly authority, and complete trustworthiness was designed to produce both reverence and confidence: reverence for the exalted nature of the message and confidence in its perfection. Wahbah al-Zuhayli further explained that Jibril's power and rank together form a divine guarantee — he was strong enough to carry the weight of revelation and trusted enough to deliver it without the slightest alteration."
     }
   ]
 }

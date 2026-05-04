@@ -6,265 +6,235 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does 'al-anfal' (spoils of war) refer to in the opening verse of this surah?",
+      "question": "Verse 1 of Surah Al-Anfal was revealed in direct response to which event, and what did Allah declare about the war spoils?",
       "options": [
-        "Personal property of soldiers",
-        "Gains acquired through conflict belonging to Allah and His Messenger",
-        "Trade goods from merchants",
-        "Charity donations"
+        "A. After the Battle of Uhud; the spoils belong equally to all fighters",
+        "B. After the Battle of Badr; the spoils belong to Allah and His Messenger",
+        "C. After the Treaty of Hudaybiyah; the spoils belong to the Muslim treasury",
+        "D. After the Hijra; the spoils belong to the Ansar who sheltered the emigrants"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'al-anfal' refers to gains or spoils acquired through conflict, with the verse establishing that these belong to Allah and His Messenger, emphasizing divine authority over material gains."
+      "explanation": "Ibn Kathir notes that the phrase 'lillahi wa al-rasul' was revealed in direct response to the dispute among Companions after Badr, decisively transferring ownership of the spoils to divine authority and the Prophet to distribute as guided by revelation."
     },
     {
       "id": "8_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 31,
-      "question": "The Quraysh claimed they could easily produce speech similar to the Quran if they wished.",
+      "verseNumber": 1,
+      "question": "True or false: The command 'amend that which is between you' in verse 1 indicates that maintaining Muslim unity takes priority over individual entitlement to a share of the war spoils.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "In verse 31, the Quran captures the dismissive claim of the disbelievers who boasted they could easily produce similar speech if they wished, dismissing the Quran as mere 'legends of the ancients' (asateer al-awwalin)."
+      "explanation": "The tafsir makes clear that the sequence of commands in verse 1 — fear Allah, reconcile your differences, obey Allah and His Messenger — places internal community cohesion above any claim to material gains, as Sayyid Qutb observed in Fi Zilal al-Quran."
     },
     {
       "id": "8_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 41,
-      "question": "What principle of Islamic economics is established in verse 41 of Surah Al-Anfal?",
+      "layer": 2,
+      "verseNumber": 2,
+      "question": "What does the word 'wajilat' (trembled) in verse 2 describe, according to the commentary of Mujahid recorded by Ibn Kathir?",
       "options": [
-        "Zakat (2.5% charity)",
-        "Khums (one-fifth allocation)",
-        "Sadaqah (voluntary charity)",
-        "Jizyah (protection tax)"
+        "A. The physical shaking of the earth during the Battle of Badr",
+        "B. The sound of the Quran recited aloud during congregational prayer",
+        "C. The fearful awe that fills the believer's heart when Allah is mentioned",
+        "D. The trembling of the hands while performing the ritual prayer"
       ],
-      "correctAnswer": "B",
-      "explanation": "Verse 41 establishes the principle of khums (one-fifth), directing believers to allocate one-fifth of their gains to divine causes: for Allah, the Messenger, near relatives, orphans, the needy, and the traveler."
+      "correctAnswer": "C",
+      "explanation": "Mujahid, as recorded by Ibn Kathir, interpreted 'wajilat' as hearts becoming filled with fear and awe. Ibn Kathir further explains this trembling is not a constant state but arises specifically whenever Allah is mentioned, distinguishing the sincere believer from the heedless."
     },
     {
       "id": "8_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 42,
-      "question": "According to the tafsir, what does the Battle of Badr's spatial arrangement demonstrate?",
-      "options": [
-        "Superior Muslim military strategy",
-        "Random chance in battle",
-        "Divine orchestration of events to fulfill Allah's greater purpose",
-        "The importance of geographical advantage"
-      ],
-      "correctAnswer": "C",
-      "explanation": "The verse recounts how the Muslims were positioned on the near side of the valley while their opponents held the farther side. This arrangement was divinely ordained to actualize a greater cosmic purpose, demonstrating Allah's transcendence over human planning."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: According to Wahbah al-Zuhayli, the principle that Quranic recitation increases faith means Islamic education must foster regular and reflective engagement with the Quran, not merely passive exposure.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir argues directly that faith is not a fixed deposit but an organic reality requiring constant nourishment, so Islamic pedagogy must create environments where Quranic recitation is regular and reflective — the lesson drawn from verse 2's 'increased them in faith.'"
     },
     {
       "id": "8_5",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 30,
-      "question": "According to Shia exegetes, the Quraysh's plot against Prophet Muhammad was neutralized by divine providence (tadbir).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical Shia exegetes like Tabatabai in Al-Mizan and Tabrisi in Majma al-Bayan emphasize that verse 30 illustrates divine providence (tadbir), with Allah being 'the best of planners' against the Quraysh's conspiracy to imprison, assassinate, or expel the Prophet."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Verse 4 closes the description of true believers with three divine promises. Which of the following correctly lists all three?",
+      "options": [
+        "A. Victory in battle, abundant provision in this life, and long lifespan",
+        "B. Elevated ranks before Allah, forgiveness of sins, and noble provision",
+        "C. Safety from enemies, the Prophet's intercession, and worldly prosperity",
+        "D. Leadership of the community, secret knowledge, and the gardens of paradise only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The verse promises 'darajat' (elevated ranks), 'maghfirah' (forgiveness), and 'rizqun karim' (noble provision). Ibn Uthaymeen noted these three together cover every dimension a servant could hope to receive: honor before Allah, pardon for failings, and eternal comfort."
     },
     {
       "id": "8_6",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 31,
-      "question": "According to Tabrisi, what does the Quraysh's claim to replicate the Quran reveal about them?",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "What was the spiritual condition of the Muslim army before Badr that prompted the supplication described in verse 9, and how did Allah respond?",
       "options": [
-        "Their literary excellence",
-        "Their spiritual blindness rooted in istikbar (arrogance)",
-        "Their genuine curiosity about revelation",
-        "Their superior knowledge of Arabic"
+        "A. The Muslims were confident but requested more soldiers; Allah sent ten thousand angels",
+        "B. The Muslims faced a vastly superior enemy and cried out to Allah in urgent need; He answered by promising a thousand angels in successive waves",
+        "C. The Muslims disagreed on battle strategy and prayed for guidance; Allah revealed a battle plan",
+        "D. The Muslims lacked food and water; Allah sent rain and provisions from the sky"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabrisi underscores that their hollow challenge was rooted in istikbar (arrogance) and reveals their spiritual blindness, as the Quran's linguistic and ontological uniqueness transcends human capacity."
+      "explanation": "Verse 9 records the believers 'tastagh-ithun' — crying out for rescue — facing a larger, better-equipped force. The Prophet himself supplicated with such intensity at Badr that his cloak fell from his shoulders. Allah answered immediately by promising a thousand angels in successive reinforcing waves."
     },
     {
       "id": "8_7",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 41,
-      "question": "In Shia exegesis, who are the 'near relatives' (dhi al-qurba) mentioned in the khums verse?",
-      "options": [
-        "Any relatives of Muslims",
-        "The twelve Imams from the Prophet's household",
-        "The companions of the Prophet",
-        "Poor relatives of any Muslim"
-      ],
-      "correctAnswer": "B",
-      "explanation": "According to Tabatabai's Al-Mizan and Shia sources, the 'near relatives' are unanimously identified as the Twelve Imams, substantiated by numerous hadiths from the Prophet and Imams recorded in works like Al-Kafi."
+      "verseNumber": 9,
+      "question": "True or false: According to Imam al-Qurtubi, the figures of one thousand, three thousand, and five thousand angels across different Quranic verses represent a single simultaneous angelic force sent to Badr.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran explains these as escalating divine promises made at different stages as the threat grew — first one thousand, then an offer of three thousand, then five thousand contingent on the believers' patience and piety. This is the scholarly consensus of the classical tradition."
     },
     {
       "id": "8_8",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 51,
-      "question": "According to Allamah Tabatabai, the verse 'That is for what your hands have put forth' establishes a causal link between human deeds and divine judgment.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Allamah Tabatabai elucidates in Al-Mizan that the verse establishes a causal link between human deeds and divine judgment, rejecting any notion of arbitrary punishment and affirming that worldly consequences stem from intentional actions."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 10,
+      "question": "Sayyid Qutb argues that the declaration 'victory is not but from Allah' in verse 10 liberates the believer from two opposing spiritual dangers. What are those two dangers?",
+      "options": [
+        "A. Fear of death and fear of poverty",
+        "B. Arrogance in victory and despair when defeated or outnumbered",
+        "C. Excessive prayer and neglect of material preparation",
+        "D. Trust in angels rather than in the Prophet's leadership"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that if victory belongs only to Allah, then neither winning nor being overwhelmed defines the believer's inner state. This frees the Muslim from arrogance when victorious and from helpless despair when facing superior odds — only the quality of the connection to Allah determines their standing."
     },
     {
       "id": "8_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 31,
-      "question": "According to contemporary scholars, dismissing sacred texts as 'mythology' without engaging their depth mirrors what modern phenomenon?",
+      "layer": 2,
+      "verseNumber": 11,
+      "question": "According to the narration of Mujahid preserved by Ibn Kathir, what was the specific military advantage the rain sent before Badr provided to the Muslim fighters?",
       "options": [
-        "Scientific advancement",
-        "The 'post-truth' era and intellectual arrogance",
-        "Interfaith dialogue",
-        "Traditional scholarship"
+        "A. It extinguished fires the Quraysh had lit as signals",
+        "B. It settled the dust and compacted the ground under the Muslims while making the Quraysh's valley marshy and difficult",
+        "C. It filled water containers so the Muslims could perform ritual purification",
+        "D. It blinded the Qurayshi archers so they could not aim accurately"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary Shia scholars like Ayatollah Taskhiri emphasize that this verse highlights a timeless human tendency: rejecting transformative ideas without reflection due to pride or ideological rigidity, which manifests today in the 'post-truth' era."
+      "explanation": "Ibn Kathir records Mujahid's account that the rain settled the dust and made the ground firm for the Muslims to stand and march, while the lower valley where Quraysh camped became marshy and difficult to maneuver through — a concrete tactical advantage alongside the spiritual benefits."
     },
     {
       "id": "8_10",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 41,
-      "question": "How do modern Shia scholars like Ayatollah Sistani interpret the khums principle for today's economy?",
-      "options": [
-        "It applies only to war spoils",
-        "It extends to income, investments, and digital assets",
-        "It is no longer applicable",
-        "It applies only to agricultural products"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Sistani interpret khums as adaptable to today's economies, where income, investments, and digital assets replace battlefield spoils, positioning it as a tool to combat systemic inequality and fund education."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "True or false: Verse 12 reveals that Allah both declared His presence with the angels and instructed them to actively strengthen the hearts of the believing fighters at Badr.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 12 states Allah inspired the angels saying 'I am with you' and commanded them to 'strengthen those who have believed.' The tafsir explains this angelic strengthening built resolve and courage in the believers while simultaneously casting terror into the hearts of the disbelievers."
     },
     {
       "id": "8_11",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 61,
-      "question": "According to contemporary scholars, the verse on inclining toward peace rejects absolutist notions of conflict.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi emphasize that verse 61 advocates proactive peacebuilding rooted in justice, rejecting absolutist notions of conflict and framing peace as a dynamic process requiring courage, wisdom, and ethical discernment."
+      "verseNumber": 17,
+      "question": "Regarding the statement 'you did not throw when you threw, but Allah threw' in verse 17, what theological balance does Wahbah al-Zuhayli identify as being established?",
+      "options": [
+        "A. That the Prophet had no real role in the battle and was merely a figurehead",
+        "B. That miracles override the normal order of cause and effect permanently",
+        "C. The balance between human effort as real cause and Allah as the ultimate cause-giver who amplifies action beyond natural capacity",
+        "D. That ordinary believers can never be instruments of divine will, only prophets"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir notes the verse models taking all legitimate means while trusting all ultimate outcomes to Allah alone. The Prophet prepared, strategised, and physically threw; Allah then amplified that action miraculously — illustrating the Sunni theological balance between asbab (means) and tawakkul (reliance on Allah)."
     },
     {
       "id": "8_12",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 51,
-      "question": "According to philosopher Mohsen Kadivar, what does the verse about consequences of human actions empower believers to do?",
-      "options": [
-        "Accept suffering passively",
-        "Actively rectify societal harms from poverty to war",
-        "Ignore worldly problems",
-        "Focus only on personal salvation"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Philosopher Mohsen Kadivar notes that the verse rejects fatalism and empowers believers to actively rectify societal harms, from poverty to war, since Allah's justice demands accountability, not passive acceptance."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 22,
+      "question": "True or false: According to Fakhr al-Din al-Razi in Mafatih al-Ghayb, the reason those condemned in verse 22 sink below animals is that animals at least cannot be blamed for lacking reason, whereas these humans deliberately abandoned the reason Allah gave them.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Razi argues that reason ('aql) is the instrument by which human beings ascend to knowledge of God and moral accountability. Its deliberate abandonment in the face of clear evidence is therefore a graver offense than any animal's natural state, because animals act according to God-given instinct rather than choosing against it."
     },
     {
       "id": "8_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 31,
-      "question": "According to Imam Jafar al-Sadiq (AS), how many verses should a believer read daily to engage properly with the Quran?",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "Verse 21 warns against imitating those who say 'we have heard' while they do not truly hear. What does genuine hearing mean in this verse, according to the tafsir?",
       "options": [
-        "Ten verses",
-        "Twenty verses",
-        "Forty verses",
-        "One hundred verses"
+        "A. Physically being present when the Quran is recited",
+        "B. Memorising the words of the Quran without understanding their meaning",
+        "C. Conscious acceptance, internalisation, and practical implementation of what has been heard",
+        "D. Agreeing with Muslim scholars in public debate"
       ],
       "correctAnswer": "C",
-      "explanation": "Imam Jafar al-Sadiq (AS) states: 'The Quran is the covenant of Allah to His creation. It is incumbent upon every servant to look into His covenant and to read [and comprehend] forty verses every day.'"
+      "explanation": "The tafsir explains that true hearing in Islamic understanding is not the physical reception of sound but conscious acceptance and practical implementation. Ibn Uthaymeen stressed that the difference between the believer and the hypocrite lies not in outward declarations but in whether the heart has truly received and submitted to the truth."
     },
     {
       "id": "8_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to Lady Fatimah (AS), she invoked verse 41 in her Fadakiyya sermon to assert her right to Fadak as part of the khums.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Lady Fatimah (AS) invoked this verse in her historic Fadakiyya sermon, asserting her divinely ordained right to Fadak as part of the khums due to the Prophet's family, demonstrating that rejecting the rights of the Ahlul Bayt is rejecting the Quran's command."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "Ibn Kathir considered which interpretation of 'furqan' in verse 29 to be the most comprehensive, as it encompasses the other meanings within it?",
+      "options": [
+        "A. 'A way out from worldly difficulties'",
+        "B. 'Salvation on the Day of Judgement'",
+        "C. 'A criterion for distinguishing truth from falsehood'",
+        "D. 'An angelic guide assigned personally to each believer'"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records multiple scholarly interpretations — 'a way out,' 'salvation,' and 'a criterion between truth and falsehood' (from Muhammad ibn Ishaq). Ibn Kathir considered the criterion interpretation the most comprehensive because the ability to distinguish truth from falsehood already includes salvation and a way out within it."
     },
     {
       "id": "8_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 61,
-      "question": "What did Imam Ali (AS) teach about peace according to the Ahlul Bayt traditions?",
-      "options": [
-        "Peace is weakness",
-        "Peace is the fortress of the wise",
-        "Peace should never be pursued",
-        "Peace is only for worldly gain"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) taught that 'Peace is the fortress of the wise,' emphasizing that true strength lies not in relentless conflict but in balanced wisdom that preserves life and honors divine principles."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 37,
+      "question": "True or false: According to Sayyid Qutb, verse 37's theme of separating the corrupt from the righteous teaches believers that even apparent worldly victories by those who oppose truth serve a divine purpose of distinction rather than proving divine absence.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that when the corrupt appear to be winning, this is part of Allah's process by which He allows evil's full expression before its eradication — teaching that setbacks can serve the divine purpose of purifying and distinguishing the sincere from the insincere."
     },
     {
       "id": "8_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 51,
-      "question": "According to Imam Ali (AS), believers should hold themselves accountable before they are held accountable.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) advised: 'Hold yourself accountable before you are held accountable,' urging daily reflection on whether our actions strengthen or weaken our connection to the divine covenant of Imamah."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "Verse 41 establishes the distribution of war spoils, designating one-fifth for specific categories. Which of the following correctly lists all categories named in the verse?",
+      "options": [
+        "A. Allah, the Messenger, the Caliphs, the scholars, and the poor",
+        "B. Allah, the Messenger, near relatives of the Prophet, orphans, the poor, and stranded travellers",
+        "C. The fighters, the Prophet's family, the mosque, the sick, and widows",
+        "D. The state treasury, the army, the judges, the poor, and non-Muslim allies"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The verse names six categories: Allah, His Messenger, near relatives of the Prophet, orphans, the poor, and the stranded traveller. As the Jalalayn tafsir notes, listing Allah first establishes that all sovereignty belongs ultimately to Him, even before the Messenger is mentioned."
     },
     {
       "id": "8_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 31,
-      "question": "What is a key difference between Sunni and Shia interpretation of the disbelievers' rejection of the Quran?",
+      "layer": 2,
+      "verseNumber": 58,
+      "question": "According to Imam al-Qurtubi, what does the phrase 'on equal terms' ('ala sawa') require when a Muslim leadership terminates a treaty with a suspected betrayer?",
       "options": [
-        "There is no difference between the two traditions",
-        "Sunni focus on linguistic inimitability while Shia connect it to rejection of Ahl al-Bayt's authority",
-        "Shia reject the verse entirely",
-        "Sunni scholars ignore this verse"
+        "A. That both armies must have exactly equal numbers before any engagement",
+        "B. That the termination must be communicated clearly and publicly so neither side can claim ignorance of the changed status",
+        "C. That the Muslims must first suffer an actual attack before responding",
+        "D. That independent arbiters must witness the formal cancellation ceremony"
       ],
       "correctAnswer": "B",
-      "explanation": "While Sunni commentators focus on the Quran's linguistic inimitability as proof of prophethood, Shia scholars like Tabatabai link the rejection to failure to recognize the Quran's esoteric dimensions accessible only through the divinely appointed Imams."
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam devotes considerable attention to this verse, interpreting 'ala sawa' to mean the cancellation must be communicated unambiguously, leaving no room for the other party to claim unawareness. This preserves the integrity of the Muslim community's word even toward those suspected of treachery."
     },
     {
       "id": "8_18",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 41,
-      "question": "How do Sunni and Shia jurisprudence differ on the scope of khums?",
-      "options": [
-        "Both limit it strictly to war spoils",
-        "Sunni restricts it to war spoils while Shia extends it to all forms of gain",
-        "Shia limits it to war spoils while Sunni extends it",
-        "There is no difference"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni commentators like Ibn Kathir restrict 'ghanimtum' (what you obtain) to spoils of war, while Shia scholars interpret it expansively as all forms of gain, including commercial profits and mineral wealth, based on Imam Baqir's teachings."
-    },
-    {
-      "id": "8_19",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 51,
-      "question": "Both Shia and Sunni exegetes agree that divine punishment results from human actions, not arbitrary divine caprice.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions universally acknowledge that divine punishment results from human actions ('what your hands have put forth') and Allah's inherent justice ('not unjust to His servants'), establishing the principle of moral accountability."
-    },
-    {
-      "id": "8_20",
-      "type": "multipleChoice",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 61,
-      "question": "What is the common ground between Shia and Sunni scholars on the verse about inclining toward peace?",
-      "options": [
-        "Peace should never be pursued with enemies",
-        "Both emphasize pursuing peace when adversaries show sincerity, with trust in divine wisdom",
-        "Only Shia scholars support this verse",
-        "The verse has been abrogated"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both Shia and Sunni traditions broadly concur that verse 8:61 establishes the Islamic imperative to pursue peace when adversaries demonstrate sincerity, emphasizing trust in divine wisdom (tawakkul)."
+      "question": "True or false: According to Sayyid Qutb, only a community whose confidence rests in military superiority — rather than in divine support — can accept peace without feeling diminished.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb argues precisely the opposite in Fi Zilal al-Quran: only a community of believers who have genuine tawakkul (trust in Allah) can accept peace without feeling diminished, because their confidence rests not in military superiority but in divine support — freeing them from the paralysis of suspicion."
     }
   ]
 }

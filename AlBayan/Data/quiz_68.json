@@ -6,135 +6,195 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Qalam's opening verse, what does the 'pen' (qalam) symbolize according to the Foundation Layer?",
+      "question": "What does the divine oath 'by the pen and what they inscribe' establish at the very opening of Surah Al-Qalam?",
       "options": [
-        "Only the physical act of writing",
-        "Both the divine instrument decreeing fate and the human act of recording truth",
-        "The Prophet's personal belongings",
-        "Ancient Arabic calligraphy tools"
+        "A) That the Prophet was given a physical pen as a visible sign of his prophethood",
+        "B) The sacred status of knowledge, literacy, and recorded truth as foundational to Islam's message",
+        "C) That only angels possess the ability to record divine decrees in writing",
+        "D) That the Quraysh were being warned to stop composing poetry against the Prophet"
       ],
-      "correctAnswer": "Both the divine instrument decreeing fate and the human act of recording truth",
-      "explanation": "The pen symbolizes both the divine instrument decreeing fate (as in the Lawh al-Mahfuz, the Preserved Tablet) and the human act of recording truth. Early Muslims faced opponents who mocked the Prophet's message, and this verse elevated the written word as a weapon against ignorance."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 commentary explains that Allah's oath by the pen affirms the sacred nature of knowledge, writing, and the preservation of truth. Wahbah al-Zuhayli in Al-Tafsir al-Munir notes this represents Islam's foundational commitment to rational discourse and documented knowledge over tribal superstition, revealed when opponents were trying to discredit the Prophet."
     },
     {
       "id": "68_2",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 4,
-      "question": "What does the term 'khuluq' (moral character) in verse 4 denote?",
-      "options": [
-        "External appearance only",
-        "Innate disposition and cultivated virtues",
-        "Physical strength",
-        "Intellectual ability"
-      ],
-      "correctAnswer": "Innate disposition and cultivated virtues",
-      "explanation": "The term 'khuluq' denotes both innate disposition and cultivated virtues. Allah declares to Prophet Muhammad 'Wa innaka la'ala khuluqin 'azim' (And indeed, you are of a great moral character), highlighting his perfected ethical qualities."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir, citing a hadith through multiple chains, identifies the pen sworn by in verse 1 as the primordial pen through which Allah first recorded all divine decrees before creation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim affirms the hadith preserved by Ibn Abi Hatim — 'the first thing Allah created was the Pen, and He commanded it: Write' — and uses it to establish that the oath is sworn by this pre-eternal instrument of divine decree, elevating writing to a cosmic, pre-creational act."
     },
     {
       "id": "68_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what does the letter 'Nun' represent?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What was Aisha's famous description of the Prophet's character when asked about it directly, and what does her answer reveal about the meaning of 'great moral character' in verse 4?",
       "options": [
-        "A random disconnected letter with no meaning",
-        "The Light of Imam Ali and the divine 'Noor' of the Imam",
-        "A historical artifact",
-        "The shape of the pen"
+        "A) 'He was the most patient of all people' — showing patience is the single virtue praised in the verse",
+        "B) 'His character was the Quran' — meaning the Prophet completely embodied divine guidance in every aspect of his conduct",
+        "C) 'He never showed anger toward anyone' — indicating emotional control was the full meaning of 'great character'",
+        "D) 'He was extraordinarily generous' — pointing to wealth-sharing as the primary dimension of the verse"
       ],
-      "correctAnswer": "The Light of Imam Ali and the divine 'Noor' of the Imam",
-      "explanation": "Shaykh Tabrisi records traditions linking 'Nun' to the Light of Imam Ali, citing narrations where the letter represents the 'Noor' (divine light) of the Imam manifest in creation. This aligns with the Shia doctrine of the pre-existential luminous reality of the Fourteen Infallibles."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites Aisha's statement 'His character was the Quran' as the most complete possible testimony from someone who witnessed his daily life. It establishes that 'khuluqin azim' means the Prophet was a living, breathing embodiment of every Quranic value, not merely one or two virtues."
     },
     {
       "id": "68_4",
       "type": "trueFalse",
       "layer": 2,
       "verseNumber": 4,
-      "question": "According to Allama Tabatabai in Tafsir al-Mizan, the Prophet Muhammad's character (khuluqin azim) represents only personal virtue, not a comprehensive ethical system.",
+      "question": "True or false: Fakhr al-Din al-Razi observes that the adjective 'azim' used for the Prophet's character in verse 4 is the same superlative Allah uses for the Quran and the Divine Throne, making this an honor without parallel in human history.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Tabatabai emphasizes that 'khuluqin azim' encapsulates the totality of the Prophet's divinely perfected ethical and spiritual qualities, representing a comprehensive ethical system, not merely personal virtue."
+      "correctAnswer": "true",
+      "explanation": "Razi states in Mafatih al-Ghayb that for Allah to testify about a human being's character using the very adjective 'azim' that He reserves for the greatest divine realities is itself a miracle and an honor without parallel. The moral character of the Prophet is thus described with the same superlative of greatness applied to the grandest realities in existence."
     },
     {
       "id": "68_5",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "How do contemporary Shia scholars like Dr. Liyakat Takim extend the symbolism of the 'pen' to the modern information age?",
+      "verseNumber": 9,
+      "question": "What does the verb 'tudhinu' in verse 9 literally convey, and what does Sayyid Qutb identify as the real purpose behind the Quraysh's compromise proposal?",
       "options": [
-        "They reject the pen as obsolete",
-        "They limit it to traditional writing only",
-        "They extend it to digital media, AI-driven communication, and algorithmic data",
-        "They focus solely on printed books"
+        "A) 'To argue' — their goal was to win a public theological debate and humiliate the Prophet",
+        "B) 'To be oily or slippery' — their goal was to neutralize the Islamic call to pure monotheism by diluting it through negotiated accommodation",
+        "C) 'To retreat' — their goal was to pressure the Prophet into abandoning Mecca voluntarily",
+        "D) 'To extend trade terms' — their goal was purely commercial, to protect the revenues of the Ka'bah's idol trade"
       ],
-      "correctAnswer": "They extend it to digital media, AI-driven communication, and algorithmic data",
-      "explanation": "Dr. Liyakat Takim connects the verse to today's information age, where the 'pen' extends to digital media and AI-driven communication. The act of 'inscribing' now includes social media posts, academic research, and algorithmic data—tools that demand moral accountability."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran explains that 'tudhinu' derives from a root meaning to be oily or slippery. He identifies the compromise proposal as a request to stop being fully Islamic — to accept a privatized, diminished faith that poses no challenge to the established order. The apparent reasonableness of the offer masked its real aim: neutralizing the Quranic message entirely."
     },
     {
       "id": "68_6",
-      "type": "trueFalse",
-      "layer": 3,
+      "type": "multipleChoice",
+      "layer": 1,
       "verseNumber": 17,
-      "question": "According to Ayatollah Naser Makarem Shirazi's interpretation of verse 17, the 'garden' only represents physical agricultural land with no spiritual significance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Naser Makarem Shirazi emphasizes that the garden symbolizes both material and spiritual resources entrusted to humanity as 'amanah' (a divine trust), representing a timeless critique of greed and social inequity, not merely physical land."
+      "question": "What detail about the garden owners in verse 17 reveals that their plan to exclude the poor was premeditated rather than a spontaneous act of greed?",
+      "options": [
+        "A) They built a wall around the garden on the night before the harvest",
+        "B) They swore a collective oath and chose a specific time — daybreak — to harvest before the poor could arrive",
+        "C) They hired armed guards to turn away anyone approaching the garden",
+        "D) They sold the harvest secretly to merchants from another town to avoid local scrutiny"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that the owners 'swore their oath' collectively and chose the dawn specifically to complete the harvest before poor people, who had a customary right to gather at harvest time, would know it was happening. This combination of a sworn oath and deliberate timing marks the act as planned, willful, and morally compounded."
     },
     {
       "id": "68_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about the opening verse, what does 'Nun' symbolize?",
-      "options": [
-        "A fish in the ocean",
-        "The primordial Light of Muhammad (peace be upon him and his progeny)",
-        "The Arabic alphabet",
-        "The color of ink"
-      ],
-      "correctAnswer": "The primordial Light of Muhammad (peace be upon him and his progeny)",
-      "explanation": "Imam Ja'far al-Sadiq taught that 'Nun' symbolizes the primordial Light of Muhammad (peace be upon him and his progeny), the cosmic reality from which all divine wisdom emanates. Imam Ali said: 'I am the dot beneath the letter Nun,' affirming his inseparable connection to the Prophet's luminous essence."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "True or false: Imam Tabari and Ibn Kathir both hold that 'without making exception' in verse 18 refers to the owners' failure to say 'in sha Allah,' which represented a presumptuous claim of complete human sovereignty over the future.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari records unanimous agreement among scholars of the Salaf that 'making exception' means saying 'in sha Allah.' Ibn Kathir explains that by swearing an unconditional oath about the following morning, the owners behaved as though they were sovereign over the future — a sovereignty belonging to Allah alone — which constitutes a practical form of arrogance toward divine authority."
     },
     {
       "id": "68_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 34,
-      "question": "According to Imam Ali in Nahj al-Balagha, taqwa (God-consciousness) is described as 'the ship of salvation' with piety as its helm, certitude as its sail, and divine guidance as its captain.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Imam Ali teaches in Nahj al-Balagha: 'Taqwa is the ship of salvation; its helm is piety, its sail is certitude, and its captain is the light of divine guidance.' This guidance refers explicitly to the Wilayah of the Holy Prophet's purified progeny."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 20,
+      "question": "What wordplay does Ibn Kathir identify between the sons' plan and the outcome described in verse 20?",
+      "options": [
+        "A) They swore by 'the garden' but woke to find 'the wasteland,' opposite words sharing the same root",
+        "B) They planned to perform the 'sarm' (reaping) at dawn, only to find the garden had itself become 'al-sarim' — already reaped and blackened",
+        "C) They intended to 'gain' from the harvest, but the same Arabic root also means 'loss,' exposing a cosmic irony",
+        "D) They set out at 'dawn' but the destruction came at 'dusk,' reversing the time they had chosen"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim highlights that the owners planned the 'sarm' (the reaping) but arrived to find the garden was now 'al-sarim' — already reaped, cut down, and blackened. He calls this one of the Quran's clearest examples of divine justice expressed through linguistic and narrative symmetry: they sought the harvest and reaped the consequences of their injustice instead."
     },
     {
       "id": "68_9",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key epistemological difference between Sunni and Shia interpretations of the 'pen' in verse 1?",
-      "options": [
-        "Sunni scholars reject the verse entirely",
-        "Sunni exegesis prioritizes the pen as prophetic revelation (naql), while Shia interpretations associate it with ongoing Imam guidance (aql)",
-        "Both traditions interpret it identically with no differences",
-        "Shia scholars reject written tradition completely"
-      ],
-      "correctAnswer": "Sunni exegesis prioritizes the pen as prophetic revelation (naql), while Shia interpretations associate it with ongoing Imam guidance (aql)",
-      "explanation": "These differences stem from distinct epistemological frameworks: Sunni exegesis often prioritizes the pen as a tool of prophetic revelation, aligning with emphasis on textual transmission (naql), while Shia interpretations frequently associate it with the ongoing guidance of the Imams (aql), reflecting their theology of walayah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 31,
+      "question": "True or false: In verse 31 the garden owners confess using the word 'tagheen' (transgressors) rather than the milder 'dhalimin' (wrongdoers), signaling a deliberate, willful crossing of known limits rather than an ordinary error.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 1 commentary explains this distinction is important: wrongdoing can be accidental, but 'taghiin' — drawn from the Arabic root describing a river that floods beyond its banks — implies a deliberate, willful, and excessive violation. The owners are not saying they made a mistake; they are acknowledging they crossed lines they knew existed."
     },
     {
       "id": "68_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 51,
-      "question": "According to both Sunni (Tabari, Ibn Kathir) and Shia (Tabatabai, Tabrisi) scholars, what does the phrase 'make you slip with their eyes' in verse 51 refer to?",
+      "layer": 3,
+      "verseNumber": 19,
+      "question": "What broader spiritual principle does Sayyid Qutb draw from the fact that the garden's destruction arrived 'while they slept' in verse 19?",
       "options": [
-        "Physical blindness of the disbelievers",
-        "The Prophet's poor eyesight",
-        "The 'evil eye' (ayn) and ocular malevolence from Meccan polytheists",
-        "A medical condition"
+        "A) Sleep is a time of spiritual danger, so nighttime prayers are more important than daytime ones",
+        "B) Whatever appears permanent — flourishing gardens, accumulated plans, secured wealth — can vanish overnight when built on the exclusion of the rights of the vulnerable",
+        "C) The owners' greatest error was failing to post a night watchman, a lesson in practical stewardship",
+        "D) The destruction at night symbolizes that Allah's punishment always comes from an unexpected direction"
       ],
-      "correctAnswer": "The 'evil eye' (ayn) and ocular malevolence from Meccan polytheists",
-      "explanation": "Both Sunni commentators like Tabari and Ibn Kathir and Shia scholars such as Tabatabai and Tabrisi emphasize the literal attempt by disbelievers to harm the Prophet through the 'evil eye' (ayn), citing pre-Islamic Arabian beliefs about ocular malevolence and the spiritual hostility faced by the Prophet."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that the garden, which seemed permanent, vanished in a single night because it had been built on the exclusion of the rights of the vulnerable. He writes that ordinary greedy heirs made one very bad moral calculation, and that calculation cost them everything — a warning for any wealth or institution that excludes justice toward those most in need."
+    },
+    {
+      "id": "68_11",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 42,
+      "question": "Which authentic hadith does Ibn Kathir cite from Sahih al-Bukhari to explain why the disbelievers are called to prostrate in verse 42 but find themselves unable to do so?",
+      "options": [
+        "A) Abu Hurayrah narrated that abandoning the Friday prayer three times in a row seals the heart against future prostration",
+        "B) Abu Said al-Khudri narrated that on the Day of Judgment those who prayed sincerely will be enabled to prostrate, while hypocrites who prayed only for show will find their backs rigid and be unable to bow",
+        "C) Anas ibn Malik narrated that the Prophet said prayer is the pillar of religion and that its complete abandonment collapses everything else",
+        "D) Ibn Abbas narrated that disbelievers will be permitted to prostrate on Judgment Day but their prostration will not be accepted"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir cites the hadith of Abu Said al-Khudri in Sahih al-Bukhari in which the Prophet described the Day of Judgment and stated that those who used to prostrate sincerely in this world will be enabled to prostrate, while hypocrites who prayed only for appearance will find their backs rigid and be unable to bow — establishing a direct causal link between worldly spiritual practice and eschatological capacity."
+    },
+    {
+      "id": "68_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 48,
+      "question": "True or false: The instruction in verse 48 to be patient 'not like the companion of the whale' is a warning to the Prophet against leaving his mission prematurely out of frustration, just as Yunus departed from his people before receiving divine permission.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 3 tafsir explains that Yunus left his people before divine authorization was given, choosing a permissible but less perfect course. Wahbah al-Zuhayli notes that the verse calls the Prophet to patient endurance in Mecca rather than premature departure from his community, however oppressive conditions became — a direct lesson in prophetic perseverance grounded in the story of Yunus."
+    },
+    {
+      "id": "68_13",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 49,
+      "question": "What does the verb 'tadarakahu' (overtook him) reveal about the nature of divine mercy in the story of Yunus as described in verse 49?",
+      "options": [
+        "A) It shows Allah waited patiently until Yunus had suffered sufficiently before extending mercy",
+        "B) It describes mercy as active and pursuing — catching up to Yunus before disgrace could settle permanently, even while he was still in the whale",
+        "C) It indicates Yunus had to recite a specific supplication for an extended period before mercy was unlocked",
+        "D) It confirms that this type of divine interception is reserved for prophets alone and is not available to ordinary believers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer 1 commentary explains that 'tadarakahu' conveys mercy actively catching up to or overtaking a person — as if mercy came running to intercept Yunus before disgrace could settle permanently. Muhammad al-Shaarawi observes this illustrates how swiftly Allah can reverse any situation when a servant turns genuinely back to Him, a lesson for every believer who has faltered."
+    },
+    {
+      "id": "68_14",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 51,
+      "question": "True or false: Ibn Kathir in his commentary on verse 51 affirms the reality of the evil eye by citing the hadith 'the evil eye is real' from both Bukhari and Muslim, and connects the Quraysh's hostile staring at the Prophet to this phenomenon.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records that the Quraysh would deliberately stare at the Prophet with intense hatred when he passed, seeking to harm him through the evil eye. He confirms the reality of the evil eye by citing the hadith 'al-ayn haqq' recorded in both Bukhari and Muslim, and notes that protection from it is sought through recitation of the Muawwidhat — the final two surahs of the Quran."
+    },
+    {
+      "id": "68_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 52,
+      "question": "How does Sayyid Qutb in Fi Zilal al-Quran read the closing declaration of verse 52 — 'it is not except a reminder to the worlds' — as an answer to the accusation of madness in the preceding verse?",
+      "options": [
+        "A) He argues the verse proves the Prophet was literate, which directly disproves any claim of mental illness",
+        "B) He treats it as an implicit prophecy: standing in Mecca surrounded by those calling him mad, the Prophet conveyed a message that declared itself a reminder for all the worlds — a claim history proved overwhelmingly true as the Quran reached every corner of the earth",
+        "C) He notes that the jinn's acceptance of Islam, described elsewhere in the Quran, is proof embedded in 'the worlds' that the Prophet was sound of mind",
+        "D) He uses it to argue that only the most educated man of his era could have composed a text addressing all of creation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran describes verse 52 as one of the Quran's implicit prophecies fulfilled by history: what seemed like the desperate claim of an isolated man in Mecca proved literally true as the Quran spread to every corner of the earth. The surah thus answers the accusation of madness not through argument alone but through the audacity of its universal claim and its historical vindication."
     }
   ]
 }

@@ -6,160 +6,195 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'Al-Haaqqa' (The Inevitable Reality) fundamentally refer to according to the Foundation Layer?",
+      "question": "What does the name 'Al-Haqqah' — used as the surah's title and its opening word — most precisely convey about the Day of Judgment?",
       "options": [
-        "A historical event in Arabian history",
-        "The absolute reality of resurrection and accountability where every hidden truth will manifest",
-        "The Prophet's personal trials in Mecca",
-        "A metaphor for daily moral struggles"
+        "A. The terrifying physical noise that will accompany the end of the world",
+        "B. The absolute certainty and inescapable truth of that Day, which cannot be denied or avoided",
+        "C. The long duration of the reckoning that awaits every person",
+        "D. The physical destruction of the mountains and seas on that Day"
       ],
-      "correctAnswer": "The absolute reality of resurrection and accountability where every hidden truth will manifest",
-      "explanation": "In Shia tafsir, scholars like Allamah Tabatabai explain that Al-Haaqqa refers to the absolute reality of resurrection and accountability, a day when every hidden truth will manifest, leaving no room for denial. The verse's abrupt, emphatic style underscores the urgency and inevitability of this event."
+      "correctAnswer": "B",
+      "explanation": "Al-Haqqah derives from the root haqqa, meaning 'to be established as certain.' Ibn Kathir explains that this name emphasizes the Day's absolute inevitability — it is the ultimate reality that will expose every deed and leave no room for denial, distinguishing it from the world's temporary illusions."
     },
     {
       "id": "69_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 6,
-      "question": "According to the Foundation Layer, the 'screaming, violent wind' that destroyed 'Aad was merely a natural weather phenomenon with no spiritual significance.",
+      "verseNumber": 4,
+      "question": "True or false: Thamud and 'Aad both rejected the coming of the Hour (Al-Qari'ah and Al-Haqqah), and this rejection was the core reason divine punishment was sent to each of them.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The wind described as sarsar (piercingly cold or roaring) and atiyah (fiercely overpowering) symbolizes divine retribution tailored to their crimes: a force matching their own violent pride. It represents both physical punishment and spiritual consequences for rejecting monotheism and exploiting the weak."
+      "correctAnswer": "true",
+      "explanation": "Verse 4 states that Thamud and 'Aad denied Al-Qari'ah. The Foundation layer explains that their denial was not merely intellectual disbelief but a willful rejection that led to moral collapse — the same pattern that invites divine retribution in every age."
     },
     {
       "id": "69_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "How does Allama Tabatabai in Al-Mizan interpret the linguistic intensification of the feminine noun 'al-Haaqqah'?",
+      "verseNumber": 5,
+      "question": "Ibn Kathir identifies the punishment of Thamud in verse 5 as 'al-taghiyah.' What does this term signify in classical Sunni exegesis?",
       "options": [
-        "As a simple grammatical variation with no deeper meaning",
-        "As denoting an incontrovertible event that tears away veils of doubt about divine accountability",
-        "As referring only to women's role in judgment",
-        "As a poetic device without theological significance"
+        "A. A drought that lasted for seven years",
+        "B. A sudden earthquake that swallowed their dwellings overnight",
+        "C. An overwhelming, transgressing catastrophe — the thunderbolt or mighty blast that exceeded all bounds",
+        "D. An army of birds that pelted them with stones"
       ],
-      "correctAnswer": "As denoting an incontrovertible event that tears away veils of doubt about divine accountability",
-      "explanation": "Tabatabai observes that the feminine noun 'al-Haaqqah' linguistically intensifies the concept of 'haqq' (truth/reality), denoting an incontrovertible event that 'tears away veils of doubt' about divine accountability, emphasizing absolute ontological certainty."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explains that al-taghiyah means a catastrophe that 'exceeds all limits,' identifying it as the mighty blast or thunderbolt that annihilated Thamud for rejecting the Prophet Salih. Al-Tabari similarly notes that the word shares its root with tughyan — transgression — mirroring Thamud's own crime."
     },
     {
       "id": "69_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "According to classical Shia exegetes like Tabrisi and Tabatabai, what dual nature does the 'screaming, violent wind' in verse 6 represent?",
-      "options": [
-        "Only physical destruction of buildings and structures",
-        "Both a physical and metaphysical punishment, reflecting that worldly calamities manifest spiritual corruption",
-        "A test of faith with no punitive element",
-        "An allegory with no historical reality"
-      ],
-      "correctAnswer": "Both a physical and metaphysical punishment, reflecting that worldly calamities manifest spiritual corruption",
-      "explanation": "Both Tabrisi in Majma al-Bayan and Tabatabai in Al-Mizan emphasize that the 'screaming, violent wind' symbolizes both a physical and metaphysical punishment, reflecting the principle that worldly calamities manifest spiritual corruption."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "True or false: According to the surah, the wind that destroyed the people of 'Aad blew for exactly seven nights and eight days, leaving their bodies scattered like hollow palm trunks.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 7 explicitly states that the wind was unleashed upon them for seven nights and eight days consecutively. The Foundation layer notes this precise duration emphasizes total, relentless divine punishment, and the image of 'hollow palm trunks' conveys that their powerful bodies were emptied of all life."
     },
     {
       "id": "69_5",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi, Al-Haaqqa's 'inevitability' applies only to the Day of Judgment and has no relevance to modern challenges.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Makarem Shirazi emphasizes its dual resonance: a classical reminder of the Day of Judgment and a modern metaphor for humanity's unavoidable reckoning with self-made crises like climate collapse, AI ethics, and systemic inequality."
+      "verseNumber": 9,
+      "question": "Verse 9 groups Pharaoh, the people of overturned cities (Sodom), and earlier nations together. What lesson does Wahbah al-Zuhayli draw from this grouping for contemporary readers?",
+      "options": [
+        "A. That only ancient civilizations face divine accountability while modern nations are exempt",
+        "B. That political power and cultural sophistication offer no protection when a society normalises oppression and moral corruption",
+        "C. That punishment is inevitable only for those who reject a physical miracle",
+        "D. That the surah is primarily a historical chronicle rather than a spiritual warning"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli notes that grouping Pharaoh — history's most powerful despot — alongside Sodom and earlier nations demonstrates a universal principle: no level of civilizational achievement shields a community from reckoning when it entrenches oppression and ignores divine guidance. He applies this as a warning to modern states."
     },
     {
       "id": "69_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "How does Dr. Liyakat Takim connect the destruction of 'Aad in verse 6 to contemporary environmental concerns?",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "What does verse 17 reveal about the angels on the Day of Judgment that distinguishes this day from all others?",
       "options": [
-        "By dismissing environmental issues as unrelated to religious teachings",
-        "By linking it to environmental stewardship, citing Imam Ali's teaching that the Earth is a trust not to be corrupted",
-        "By focusing only on personal morality without societal implications",
-        "By arguing that environmental issues are purely scientific"
+        "A. All angels will descend to Earth to record the final deeds of mankind",
+        "B. Eight angels will carry the Throne of Allah above them, while other angels stand on its margins",
+        "C. The angels will be given authority to judge each person according to their deeds",
+        "D. A single angel will blow the Trumpet while the rest of the angels remain in the heavens"
       ],
-      "correctAnswer": "By linking it to environmental stewardship, citing Imam Ali's teaching that the Earth is a trust not to be corrupted",
-      "explanation": "Dr. Liyakat Takim links Al-Haaqqa to the urgency of environmental stewardship, citing Imam Ali's maxim: 'The Earth is a trust given to you; do not corrupt it.' He parallels the verse's apocalyptic tone with IPCC climate reports confirming irreversible ecological tipping points."
+      "correctAnswer": "B",
+      "explanation": "Verse 17 states that on that Day, eight angels will carry the Throne of your Lord above them. The Foundation layer explains that this is unique to the Day of Judgment — currently four angels bear the Throne, but their number will increase to eight, underscoring the Day's unparalleled cosmic magnitude."
     },
     {
       "id": "69_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Muhammad al-Baqir's interpretation in Tafsir al-Qummi, what additional meaning does 'Al-Haaqqa' carry beyond the Day of Resurrection?",
-      "options": [
-        "It refers only to historical battles",
-        "It refers to the rising of the Qa'im from the Ahlul Bayt, through whom Divine Truth will manifest fully on Earth",
-        "It symbolizes personal spiritual awakening only",
-        "It represents agricultural cycles"
-      ],
-      "correctAnswer": "It refers to the rising of the Qa'im from the Ahlul Bayt, through whom Divine Truth will manifest fully on Earth",
-      "explanation": "In Tafsir al-Qummi, Imam Muhammad al-Baqir explains this verse as a direct reference to the rising of the Qa'im from the Ahlul Bayt, through whom the Haqq (Divine Truth) will manifest fully on Earth, eradicating oppression."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 19,
+      "question": "True or false: According to classical Sunni scholars, receiving the book of deeds in the right hand on the Day of Judgment is a sign that the person has been condemned to punishment.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "False. Ibn Kathir explains that receiving the book in the right hand is a sign of salvation and success. Verse 19 presents the righteous person joyfully calling others to read his record — 'Ha'umu iqra'u kitabiyyah!' — because it confirms entry into Paradise and that Allah is pleased with him."
     },
     {
       "id": "69_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 6,
-      "question": "According to Imam Jafar al-Sadiq in Tafsir al-Qummi, the 'violent wind' that destroyed 'Aad represents only physical destruction, with no connection to rejection of divine leadership.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Imam Jafar al-Sadiq explains that the 'violent wind' represented the storm of misguidance that uproots faith when people sever their connection with the Imamah (divinely appointed leadership). He stated: 'When truth is abandoned, the winds of destruction scatter men like husks of grain.'"
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 25,
+      "question": "What is the first cry of the person who receives their book of deeds in the left hand, as described in verse 25?",
+      "options": [
+        "A. 'I wish I had prayed more in my life'",
+        "B. 'Would that I had never been given my record'",
+        "C. 'I accept my punishment and submit to my Lord'",
+        "D. 'Grant me one more chance to return to the world'"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 25 records the condemned person's lament: 'Ya laytani lam utu kitabiyyah' — 'Would that I had never been given my record!' The Foundation layer notes this cry of despair contrasts sharply with the right-hand recipient's joy, illustrating how each soul's record becomes an immediate, undeniable witness against itself."
     },
     {
       "id": "69_9",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Sunni and Shia interpretations of 'Al-Haaqqa' according to the Comparative Layer?",
-      "options": [
-        "Sunni scholars completely reject the verse's authenticity",
-        "Shia interpretations extend the concept to include recognition of divine authority (wilayah) as integral to comprehending the Hereafter's truth",
-        "Both traditions interpret it identically with no theological differences",
-        "Sunni scholars focus only on mystical interpretations"
-      ],
-      "correctAnswer": "Shia interpretations extend the concept to include recognition of divine authority (wilayah) as integral to comprehending the Hereafter's truth",
-      "explanation": "While both traditions agree on Al-Haaqqa as referring to the Day of Judgment, Shia commentaries like Tafsir al-Qummi and Majma al-Bayan extend this to include the recognition of divine authority (wilayah) as integral to comprehending the Hereafter's truth, reflecting the theological emphasis on Imamah as a pillar of faith."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 28,
+      "question": "True or false: According to al-Tabari's commentary, when the condemned person says 'my wealth has not availed me' (verse 28), this refers only to material riches and not to social standing or influence.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "False. Al-Tabari explains that 'maaliyah' encompasses all worldly resources — wealth, status, authority, and tribal connections — none of which provide any benefit on the Day of Judgment. The verse strips away every form of worldly prestige that the person relied upon instead of faith."
     },
     {
       "id": "69_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "According to both Sunni and Shia classical commentators, what do they agree upon regarding the destruction of 'Aad in verse 6?",
+      "layer": 3,
+      "verseNumber": 33,
+      "question": "Verse 33 states that the condemned did not believe in Allah al-Azim and did not encourage feeding the poor. How does Sayyid Qutb interpret the connection between these two failures?",
       "options": [
-        "That it was purely mythological with no historical basis",
-        "That it serves as punishment for rejecting prophetic guidance, framing it as a timeless lesson on accountability",
-        "That it only applies to ancient civilizations",
-        "That environmental factors alone caused their destruction"
+        "A. They are unrelated sins that happen to appear in the same verse",
+        "B. Neglecting the poor is listed merely as a minor social habit with no theological weight",
+        "C. The two failures are inseparable: true belief in Allah al-Azim necessarily generates social responsibility, so abandoning the poor is evidence of hollow faith",
+        "D. The verse focuses on personal piety and feeding the poor is only a recommended extra act"
       ],
-      "correctAnswer": "That it serves as punishment for rejecting prophetic guidance, framing it as a timeless lesson on accountability",
-      "explanation": "Classical commentators across traditions, including Tabari (Sunni) and Tabatabai (Shia), universally affirm the tribe's annihilation through a divinely sent violent wind serves as punishment for rejecting prophetic guidance. Both stress the moral imperative of heeding divine warnings, framing the account as a timeless lesson on accountability."
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that pairing theological denial with social neglect is deliberate: authentic iman in Allah al-Azim transforms the believer's relationship with society. A person who truly internalises Allah's greatness cannot remain indifferent to the hungry — so indifference toward the poor exposes the shallowness of their claimed belief."
     },
     {
       "id": "69_11",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 12,
-      "question": "According to verse 12, the phrase 'udhunun wa'iyah' (conscious ear) refers only to passive hearing without the need for active spiritual engagement.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The phrase udhunun wa'iyah (conscious ear) highlights the necessity of active, intentional listening—a heart-mind engagement that transcends passive hearing. As Imam Ali taught, true understanding requires 'aql (intellect) coupled with humility, allowing divine truths to take root."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 41,
+      "question": "What specific evidence do classical commentators cite to disprove the claim that the Quran is the speech of a poet, as addressed in verse 41?",
+      "options": [
+        "A. The Prophet never composed any poetry whatsoever, and the Quran's style differs fundamentally from all known Arabic poetic meters",
+        "B. Poetry was forbidden in pre-Islamic Arabia, so the accusation had no historical basis",
+        "C. The Prophet was literate but refused to write poetry out of humility",
+        "D. Arabic poetry at the time was considered inferior, making the comparison an insult the Arabs would have rejected"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ibn Kathir notes that the Prophet neither composed poetry nor felt inclined to it, and that the Quran's linguistic structure — its rhythms, its legal depth, its narrative sweep — bears no resemblance to the qasida, rajaz, or any recognised Arabic poetic form. Al-Qurtubi adds that this distinction was obvious to the Arabs themselves, who recognised something entirely unprecedented."
     },
     {
       "id": "69_12",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 43,
+      "question": "True or false: Verse 43 affirms that the Quran is a tanzil (revelation sent down) from the Lord of all worlds, directly countering claims that it originates from the Prophet's own intellect.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 43 states: 'Tanzilun min Rabb al-'alamin' — a sending-down from the Lord of all the worlds. The Foundation layer explains this affirmation closes the surah's refutation of both the poet and soothsayer accusations, grounding the Quran's authority solely in divine revelation rather than any human source."
+    },
+    {
+      "id": "69_13",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 13,
-      "question": "How do classical Shia scholars like Sheikh Tusi interpret the 'single blast' (nafkhah wahidah) of the Trumpet in verse 13?",
+      "layer": 3,
+      "verseNumber": 45,
+      "question": "Verses 44-46 state that had the Prophet fabricated anything about Allah, He would have cut off his aorta. What does Ibn Uthaymeen emphasise about this passage as a proof of the Quran's authenticity?",
       "options": [
-        "As multiple separate events occurring over time",
-        "As representing the singular, transformative nature emphasizing divine unity (tawhid)—a single command suffices for Allah to manifest His will",
-        "As a purely symbolic event with no actual occurrence",
-        "As referring only to spiritual awakening"
+        "A. That it proves the Prophet feared punishment and therefore did not invent the Quran",
+        "B. That the hypothetical severity of the consequence — even for the most beloved Prophet — demonstrates no human invention could survive divine scrutiny, and that the Quran therefore must be pure revelation",
+        "C. That it warns ordinary Muslims against misquoting the Quran",
+        "D. That it establishes the Prophet's personal infallibility in all worldly matters"
       ],
-      "correctAnswer": "As representing the singular, transformative nature emphasizing divine unity (tawhid)—a single command suffices for Allah to manifest His will",
-      "explanation": "While Sunni traditions often mention two blasts, Shia scholars like Sheikh Tusi highlight the singular, transformative nature of this event in Quranic descriptions, aligning with the verse's emphasis on divine unity (tawhid)—a single command suffices for Allah to manifest His will."
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen points out that invoking this hypothetical punishment for the Prophet — the most honoured of creation — proves the absolute seriousness of divine revelation. If even the Prophet would face immediate destruction for fabrication, no human invention could have survived intact. This is one of the Quran's own internal proofs of its divine origin."
+    },
+    {
+      "id": "69_14",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "True or false: Classical scholars understood 'udhunun wa'iyah' (a retaining ear) in verse 12 as referring to those who truly absorb the lessons of Noah's flood narrative and carry them forward — not merely those who hear words.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi explains that wa'iyah means an ear that retains and acts upon what it hears, not one that merely receives sound. The verse calls on those with spiritually attentive hearts to take the story of Noah — preserved as a reminder — and let it reshape their conduct, making hearing inseparable from internalisation."
+    },
+    {
+      "id": "69_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 51,
+      "question": "The surah closes in verse 51 by describing the Quran as 'haqq al-yaqeen' — the truth of certainty. How does Wahbah al-Zuhayli distinguish this phrase from the two lower grades of certainty mentioned elsewhere in the Quran?",
+      "options": [
+        "A. Haqq al-yaqeen means the same as 'ilm al-yaqeen and 'ayn al-yaqeen; they are interchangeable synonyms",
+        "B. Haqq al-yaqeen is the highest grade: beyond theoretical knowledge ('ilm al-yaqeen) and direct witnessing ('ayn al-yaqeen), it is the certainty that penetrates one's entire being and cannot be separated from the one who holds it",
+        "C. The phrase refers only to legal rulings in the Quran, not to its eschatological content",
+        "D. Haqq al-yaqeen is a rhetorical device with no precise theological distinction from other certainty terms"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli explains that Islamic epistemology recognises three ascending grades: 'ilm al-yaqeen (certainty through information), 'ayn al-yaqeen (certainty through direct sight), and haqq al-yaqeen (certainty through lived reality). Calling the Quran haqq al-yaqeen places it at the summit — a truth so complete it becomes inseparable from the soul that embraces it."
     }
   ]
 }

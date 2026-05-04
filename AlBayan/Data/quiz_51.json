@@ -5,136 +5,201 @@
       "id": "51_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 41,
-      "question": "According to the tafsir, what does the 'barren wind' (al-rih al-'aqeem) sent against the people of 'Aad symbolize?",
+      "verseNumber": 1,
+      "question": "The surah opens with an oath by 'al-dhariyat.' What does this Arabic word refer to according to the classical consensus?",
       "options": [
-        "A gentle breeze of warning",
-        "A devastating, rainless storm as divine punishment",
-        "A wind that brought fertility",
-        "A metaphor for economic hardship"
+        "A. Stars that travel through the night sky",
+        "B. Winds that scatter and disperse dust and seeds",
+        "C. Angels that record human deeds",
+        "D. Rain clouds that carry heavy burdens"
       ],
       "correctAnswer": "B",
-      "explanation": "The 'barren wind' refers to a devastating, rainless storm sent as punishment after the tribe of 'Aad persistently rejected Prophet Hud's calls to monotheism and moral reform."
+      "explanation": "Al-dhariyat comes from the root dh-r-w, meaning to scatter or disperse, and the overwhelming consensus of the Companions identifies it as the winds. Imam Tabari records this agreement from Ibn Abbas, Ibn Umar, and the Successors Mujahid, Qatada, and Hasan al-Basri in his Jami al-Bayan. Ibn Kathir affirms this consensus and adds that the winds scatter seeds, clouds, and rain as instruments of divine mercy."
     },
     {
       "id": "51_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 56,
-      "question": "According to verse 51:56, the purpose of creating jinn and mankind was solely for ritual prayers and fasting.",
+      "verseNumber": 5,
+      "question": "The four opening oaths of Surah Adh-Dhariyat are sworn in order to affirm the certainty of divine promise, primarily the Day of Judgment and Resurrection.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The verse establishes worship ('ibadah) as the axis of existence, but Shia tafsir explains that 'ibadah transcends ritual acts, encompassing total submission to Allah's will through thought, action, and devotion."
+      "correctAnswer": "true",
+      "explanation": "Verse 5 declares 'Verily, what you are promised is indeed true,' and classical scholars understood the entire series of oaths in verses 1-4 as building emphasis for this sworn declaration. Ibn Kathir explains that the observable reliability of natural phenomena serves as rhetorical proof that the divine promise of Resurrection is equally certain. Fakhr al-Din al-Razi adds that divine consistency in creation guarantees the fulfilment of divine speech."
     },
     {
       "id": "51_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 40,
-      "question": "According to classical Shia exegesis, what does Pharaoh's drowning in Surah 51:40 demonstrate?",
+      "verseNumber": 4,
+      "question": "Imam Tabari records that the phrase 'al-muqassimati amran' in verse 4 was identified by Ali ibn Abi Talib, Qatada, and Mujahid as referring to which beings?",
       "options": [
-        "That water is dangerous",
-        "That military power guarantees victory",
-        "The inescapability of divine justice when rejecting truth",
-        "That Moses failed in his mission"
+        "A. The prophets who distribute divine guidance among nations",
+        "B. The winds that distribute rainfall across different regions",
+        "C. The angels who apportion provisions and decrees by Allah's command",
+        "D. The scholars who distribute religious rulings to the community"
       ],
       "correctAnswer": "C",
-      "explanation": "Classical Shia commentators emphasize that Pharaoh's drowning symbolizes the inevitable consequence of rejecting divine guidance, as his claim to divinity represented the peak of human arrogance (istikbar)."
+      "explanation": "Imam Tabari records from Ali ibn Abi Talib and from Qatada and Mujahid that al-muqassimati amran refers to the angels who distribute provisions, rain, and the affairs of creation by Allah's command. Ibn Kathir connects this to Surah al-Mursalat 77:1-5, which contains a similar sequence of oaths, and to Surah al-Nazi'at 79:5 'and those who execute a command.' Imam Qurtubi analyses the root q-s-m to convey precise, just, and complete apportionment."
     },
     {
       "id": "51_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 56,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does 'liya'budun' (to worship Me) establish in verse 51:56?",
+      "layer": 1,
+      "verseNumber": 19,
+      "question": "What is the significance of the word 'haqq' (right) in verse 19, where the righteous acknowledge a right belonging to the petitioner and the deprived in their wealth?",
       "options": [
-        "That Allah needs something from creation",
-        "Worship as the ultimate wisdom (hikma) of creation, not its causal purpose",
-        "That only jinn must worship",
-        "That worship is optional"
+        "A. It means an optional gift that earns extra reward from Allah",
+        "B. It denotes a moral obligation owed, not a voluntary act of charity",
+        "C. It refers exclusively to the obligatory zakat percentage",
+        "D. It means a favour done in expectation of social reciprocation"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that the phrase establishes worship as the ultimate wisdom (hikma) of creation rather than its causal purpose (ghaya), since Allah's perfection requires no benefit from creation."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir emphasises that the use of 'haqq' (right) rather than 'sadaqah' (charity) transforms the framing from generosity to justice: withholding from the needy is not mere stinginess but injustice. Ibn Kathir confirms the same point, noting this pairing of 'the petitioner and the deprived' appears identically in Surah al-Maarij 70:24-25, showing a consistent Quranic concern for both the visible and the hidden poor."
     },
     {
       "id": "51_5",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 41,
-      "question": "How do contemporary Shia scholars like Ayatollah Makarem Shirazi connect the story of 'Aad's destruction to modern issues?",
-      "options": [
-        "They view it only as ancient history",
-        "They link it to climate crisis and environmental exploitation",
-        "They dismiss its relevance today",
-        "They interpret it as referring to space exploration"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars frame the 'barren wind' as symbolizing divine retribution for societal corruption and environmental exploitation, connecting it to modern climate disasters as manifestations of systematic greed."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 17,
+      "question": "Verse 17 describes the righteous inhabitants of Paradise as those who slept the majority of the night and only occasionally rose for prayer.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse says the opposite: 'they slept but little of the night.' Imam Tabari cites Ibn Abbas and Mujahid to the effect that their sleep was minimal and their worship was maximal. Ibn Kathir further cites Mutarrif ibn Abdullah, a Successor, who said that hardly a night would pass these believers without prayer being performed at its beginning, middle, or end. He connects this to Surah al-Furqan 25:64 describing the servants of the Most Merciful."
     },
     {
       "id": "51_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 52,
-      "question": "According to contemporary interpretation, the pattern of calling prophets 'magicians' or 'madmen' persists today in the dismissal of ethical or spiritual guidance.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary scholars note this pattern persists today, manifesting in the dismissal of ethical or spiritual guidance that challenges entrenched power structures or societal norms."
+      "verseNumber": 19,
+      "question": "Why do contemporary Sunni scholars highlight the distinction between 'al-sa'il' and 'al-mahrum' in verse 19 as particularly relevant for modern societies?",
+      "options": [
+        "A. Because zakat law requires separate accounting for each of these two categories",
+        "B. Because true charity must reach the invisible poor who cannot or will not ask for help, requiring proactive outreach",
+        "C. Because only those who publicly ask for charity deserve to receive it according to Islamic law",
+        "D. Because the distinction limits charitable obligation to exactly two categories of people"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran notes that the early Muslim community balanced individual ownership with deeply felt communal obligation. Contemporary scholars, including Wahbah al-Zuhayli, observe that many of today's most disadvantaged are invisible to mainstream giving precisely because they are too proud or unable to ask, requiring structural support and proactive outreach rather than passive charity. This makes the Quranic pairing of both categories especially prescient."
     },
     {
       "id": "51_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to Imam Jafar al-Sadiq (AS), what caused 'Aad's hearts to become 'as barren as the wind that destroyed them'?",
+      "layer": 2,
+      "verseNumber": 26,
+      "question": "When Ibrahim slipped away to prepare food for his guests in verse 26, what did he return with, and what did this signify in classical scholarship?",
       "options": [
-        "Their excessive wealth",
-        "Their arrogance that led them to reject prophetic guidance",
-        "Their geographical location",
-        "Their agricultural practices"
+        "A. Bread and olives, signifying modest but sincere hospitality",
+        "B. A fattened roasted calf, signifying the highest level of generosity from his best available wealth",
+        "C. A lamb and grain, representing the standard offering in prophetic households",
+        "D. Fruit and milk, reflecting concern for the health of his guests"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq explained that 'Aad's arrogance led them to reject prophetic guidance, and thus their hearts became spiritually barren, representing souls severed from the nourishing springs of Wilayah."
+      "explanation": "Ibn Kathir, drawing on chains going back to Ibn Abbas and Mujahid, explains that Ibrahim's wealth was in cattle and the word 'samin' (fat, well-nourished) indicates this was a premium animal, not a hastily slaughtered one. In Surah Hud 11:69, the same animal is called 'hanidh,' meaning roasted over hot stones. Imam Qurtubi notes that Ibrahim's immediate and extravagant offering is consistently praised across multiple Quranic accounts as the model of prophetic hospitality."
     },
     {
       "id": "51_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 56,
-      "question": "According to Imam Sadiq (AS), true worship is only prolonged bowing and prostration without contemplation.",
+      "layer": 2,
+      "verseNumber": 39,
+      "question": "When Pharaoh rejected Moses in verse 39, the phrase 'bi-ruknuhi' indicates he acted entirely as an individual, relying only on his personal authority to dismiss the prophetic message.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Imam Sadiq (AS) explained: 'Worship is not merely prolonged bowing and prostration. True worship is contemplating Allah's creation and recognizing His proofs [the Imams].'"
+      "explanation": "Imam Tabari explains that 'rukn' means the pillars of Pharaoh's power: his military commanders, ministers, and aristocracy. Ibn Kathir emphasises that the rejection was institutional, not merely personal, as Pharaoh mobilised his entire court and political apparatus behind his denial. Al-Qurtubi notes that calling Moses a 'magician or madman' was a calculated strategy to neutralise the evidential impact of the miracles rather than engage them honestly."
     },
     {
       "id": "51_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 56,
-      "question": "What is a key interpretive difference between Shia and Sunni scholars regarding worship in verse 51:56?",
+      "layer": 1,
+      "verseNumber": 41,
+      "question": "The people of Ad are cited in Surah Adh-Dhariyat as a destroyed nation. What distinguishes the punishment they received from that of the Thamud?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia exegetes integrate the concept of Wilayah (divine guardianship) into worship's framework",
-        "Both traditions interpret it identically",
-        "Shia scholars deny the importance of worship"
+        "A. Ad were drowned by a flood while Thamud were struck by lightning",
+        "B. Ad were destroyed by a devastating wind while Thamud were struck down by a thunderbolt",
+        "C. Ad were swallowed by the earth while Thamud were consumed by fire",
+        "D. Ad suffered famine while Thamud were destroyed by a plague"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia exegetes often integrate the concept of Wilayah (divinely ordained guardianship) into worship's framework, viewing recognition of the Imams' role as inseparable from true monotheism."
+      "explanation": "The tafsir of Surah Adh-Dhariyat, consistent with Surah al-Haqqah 69:6-7 and Surah al-Ahqaf 46:24-25, identifies Ad as destroyed by a furious ruinous wind. Thamud, by contrast, were destroyed by the thunderbolt (al-sa'iqah), as stated in verse 44 of this surah. Wahbah al-Zuhayli in Al-Tafsir al-Munir describes the passage from verse 38 through 46 as a 'gallery of divine signs' showing that each arrogant nation was destroyed in a manner fitting its own transgression."
     },
     {
       "id": "51_10",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 45,
+      "question": "Sayyid Qutb, in his commentary on verse 45 describing Thamud as unable to rise or defend themselves, uses this image to challenge the assumption of modern nations that military or technological power guarantees security.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran draws a powerful reflection on verse 45, describing it as an epitaph for the mighty of the earth who believed themselves invincible: 'unable to stand, unable to resist.' He uses this as a counterpoint to the pride of modern nations, and Ibn Uthaymeen similarly addresses this verse in the context of tawakkul, teaching that true security comes from righteousness and connection to Allah, not material strength."
+    },
+    {
+      "id": "51_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 52,
-      "question": "According to the comparative analysis, what do both Sunni and Shia scholars agree upon regarding verse 51:52?",
+      "layer": 1,
+      "verseNumber": 46,
+      "question": "What is the defining accusation the Quran levels against the people of Nuh in verse 46, using the term 'fasiqun'?",
       "options": [
-        "That prophets were sometimes actually magicians",
-        "That the verse is only about ancient history",
-        "That the verse shows a recurring pattern of rejecting divine messengers through false accusations",
-        "That the accusations against prophets were justified"
+        "A. That they were ignorant and simply had never received any prophetic guidance",
+        "B. That they were engaged in wilful, persistent rebellion against the boundaries set by Allah",
+        "C. That they were economically corrupt and failed to distribute wealth fairly",
+        "D. That they had abandoned the religion of their forefathers without reason"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari explains that 'fasiqun' carries its full weight of moral and religious revolt, derived from the image of a date splitting from its skin, symbolising departure from natural moral order. Ibn Kathir notes that Nuh's people heard a prophet's call over 950 years yet refused, making their transgression persistent and wilful, not accidental. Sayyid Qutb in Fi Zilal al-Quran argues that it is the settled orientation away from divine guidance, not a single act of disobedience, that sealed their fate."
+    },
+    {
+      "id": "51_12",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 56,
+      "question": "Ibn Kathir and Imam Qurtubi both discuss a divergence among early scholars regarding the scope of verse 56. What was the point of disagreement?",
+      "options": [
+        "A. Whether the verse applied to jinn as well as humans",
+        "B. Whether 'li yabudun' applied to all jinn and humans or only to the believers among them who actually fulfil the purpose of worship",
+        "C. Whether the verse referred to worship in this world or in the Hereafter",
+        "D. Whether the verse established individual or collective religious obligation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that scholars such as al-Dahhak and Sufyan al-Thawri held that the verse refers specifically to the believing jinn and humans, since it is only they who actually fulfil the purpose of worship. The majority view holds that it applies to all, stating the intended purpose of creation even if not all fulfil it. Imam Qurtubi uses the verse to establish worship as the foundational duty of every sane, accountable human being."
+    },
+    {
+      "id": "51_13",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 56,
+      "question": "According to Wahbah al-Zuhayli's commentary on verse 56, the purpose of worship declared in this verse means that everyday acts such as eating, working, and raising children can become acts of worship when performed with the right intention.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir argues that verse 56 establishes a complete worldview in which 'ibadah encompasses all of life when done with correct intention, not only ritual acts. He affirms that when a person eats, works, raises children, or rests with the intention of pleasing Allah and fulfilling their role as His servant, even mundane acts become worship. Ibn Uthaymeen similarly stressed that ibadah valid only with sincerity (ikhlas) and conformity to the Sunnah."
+    },
+    {
+      "id": "51_14",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 50,
+      "question": "Verse 50 commands believers with the imperative 'firru ila Allah,' meaning flee to Allah. According to the classical scholars, what are believers fleeing from?",
+      "options": [
+        "A. From the physical company of disbelievers in order to live in isolation",
+        "B. From sin, disobedience, and the fate of destroyed nations, toward Allah's mercy and guidance",
+        "C. From the obligatory prayers until one has fully repented",
+        "D. From engagement with worldly affairs in order to devote all time to ritual worship"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that the early commentators interpreted 'firru ila Allah' as fleeing from sins to repentance, from heedlessness to remembrance, and from the disobedience that destroyed previous nations toward the obedience that brings salvation. Ibn Abbas is cited as saying it means to take refuge in Allah from every threat. Imam Tabari explains that the preposition 'ila' (toward) gives the command both a departure and a destination, making it a complete directive."
+    },
+    {
+      "id": "51_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 60,
+      "question": "Ibn Uthaymeen's reflection on the closing verse, which warns of woe for disbelievers on their promised Day, draws what practical lesson specifically for the believer?",
+      "options": [
+        "A. That believers should feel a sense of superiority toward those who face divine punishment",
+        "B. That preaching to persistent disbelievers must be abandoned after the first rejection",
+        "C. That contemplating the fate of disbelievers should renew the believer's gratitude for the gift of faith",
+        "D. That the exact timing of the Day of Judgment can be estimated from the warning in this verse"
       ],
       "correctAnswer": "C",
-      "explanation": "Both traditions converge on the verse's core message: communities throughout history have rejected divine messengers through accusations of sorcery or madness, highlighting a recurring pattern of human obstinacy."
+      "explanation": "Ibn Uthaymeen reminded his students that a verse like this should not produce despair but a renewed commitment to gratitude and worship. The believer who reflects on the fate of the disbelievers is simultaneously reminded of the tremendous gift of iman that Allah has granted them, placing them on the right side of the most important Day in existence. This reading is consistent with the surah's arc from cosmic oaths and warnings to an invitation to worship and flee to Allah."
     }
   ]
 }

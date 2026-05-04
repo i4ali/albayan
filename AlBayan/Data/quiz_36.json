@@ -6,265 +6,240 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the opening 'Ya Sin' of this surah consist of?",
+      "question": "What is the strongest scholarly position on the meaning of the opening letters 'Ya-Sin' at the start of this surah?",
       "options": [
-        "Two Arabic words meaning 'O Human'",
-        "Two Arabic letters from the Huruf Muqatta'at (disjointed letters)",
-        "A greeting to the Prophet",
-        "An abbreviation for a scholar's name"
+        "A. They are a secret name of the Prophet known only to the angels",
+        "B. Their precise full meaning is known only to Allah, and the soundest stance is to entrust their meaning to Him",
+        "C. They are an abbreviated title meaning 'O Quran'",
+        "D. They were inserted to mark the beginning of a new chapter by the early compilers"
       ],
       "correctAnswer": "B",
-      "explanation": "The opening 'Ya Sin' consists of two Arabic letters from the Huruf Muqatta'at - mysterious disjointed letters appearing at the start of several Quranic chapters."
+      "explanation": "The vast majority of classical scholars, including Ibn Kathir and Imam al-Qurtubi, held that the muqattaat are among the secrets of Allah, and that tafwid — entrusting their meaning to Allah — is the soundest and most cautious stance. While some companions such as Ibn Abbas suggested 'Ya-Sin' means 'O man,' even these were offered as possibilities, not certainties."
     },
     {
       "id": "36_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 2,
-      "question": "Surah Yaseen is often called the 'Heart of the Quran' in Shia tradition.",
+      "question": "True or false: Imam al-Tabari held that Allah's oath 'By the Quran full of wisdom' in verse 2 refers to the Quran being 'al-muhkam' — internally perfected and fortified against falsehood — and he cited Surah Hud 11:1 as corroborating evidence.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Surah Yaseen is often called the 'Heart of the Quran' in Shia tradition, underscoring its spiritual centrality and connection to the Prophet's mission and the Ahlul Bayt."
+      "explanation": "Tabari in his Jami al-Bayan preferred the meaning of al-Hakim as al-muhkam, the internally perfected and fortified scripture, and cited the Quranic verse 'whose verses have been perfected and then set out clearly' (11:1) as corroborating evidence for this reading."
     },
     {
       "id": "36_3",
       "type": "multipleChoice",
-      "layer": 1,
+      "layer": 3,
       "verseNumber": 2,
-      "question": "In verse 36:2, what does Allah swear by?",
+      "question": "Which contemporary Sunni scholar argued in Al-Tafsir al-Munir that the Quran described as 'al-Hakim' is not passively wise but actively confers wisdom upon its readers, and challenged Muslims to cultivate deep reflection known as tadabbur?",
       "options": [
-        "The sun and the moon",
-        "The angels",
-        "Al-Quran al-Hakim (the Wise Quran)",
-        "The mountains"
+        "A. Sayyid Qutb",
+        "B. Wahbah al-Zuhayli",
+        "C. Sheikh Ibn Uthaymeen",
+        "D. Muhammad al-Shaarawi"
       ],
-      "correctAnswer": "C",
-      "explanation": "In verse 36:2, Allah swears by 'al-Quran al-Hakim' - the Wise Quran - a profound oath that elevates the Quran's status as a timeless source of divine wisdom and guidance."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir developed the linguistic dimensions of al-Hakim at length, specifically noting that the word encompasses both the quality of containing wisdom and the function of imparting wisdom to those who engage it. He argued the Quran actively confers wisdom and challenged Muslims to move beyond superficial engagement toward tadabbur — deep reflection."
     },
     {
       "id": "36_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 3,
-      "question": "What does verse 36:3 affirm about Prophet Muhammad (PBUH)?",
-      "options": [
-        "He is the final judge",
-        "He is truly among the messengers",
-        "He will live forever",
-        "He created the universe"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Verse 36:3 declares 'Indeed, you are truly among the messengers' - affirming the Prophet's divine mission and his place in the chain of prophets sent by Allah."
+      "question": "True or false: The doubly emphatic Arabic construction 'innaka la-min al-mursalin' in verse 3 — combining 'inna' and the particle 'la' — was understood by classical scholars as a solemn divine affirmation of the Prophet's prophethood, not a casual statement.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "As the tafsir of verse 3 explains, the combination of 'innaka' with the emphasis particle 'la' before 'min al-mursalin' creates a doubly emphatic grammatical construction. Tabari noted in Jami al-Bayan that this was a form of divine reassurance deliberately delivered to a Prophet being called a liar and a madman by his own people."
     },
     {
       "id": "36_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq, what do the letters 'Ya Sin' symbolize?",
+      "verseNumber": 11,
+      "question": "According to Ibn Kathir's tafsir, what is the primary spiritual quality that distinguishes the person who truly benefits from prophetic warning, as described in verse 11?",
       "options": [
-        "The beginning and end of time",
-        "The Prophet as 'Ya' (an address) and 'Sin' as a reference to the Ahlul Bayt",
-        "Two angels' names",
-        "The sun and moon"
+        "A. Memorisation of the Quran in its entirety",
+        "B. Regular attendance at public gatherings of religious learning",
+        "C. Fearing Allah 'bilghayb' — in the unseen — even when alone and unobserved",
+        "D. Performing the five daily prayers in congregation"
       ],
-      "correctAnswer": "B",
-      "explanation": "Shia tradition from Imam Jafar al-Sadiq identifies 'Ya' as an address to the Prophet and 'Sin' as a reference to the Ahlul Bayt, reflecting the unity of prophethood and imamate."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim highlights the internal, private dimension of khashya bilghayb — fear in the unseen — as the essential mark of sincerity, contrasting it with those who perform religion only when observed. This is what he identifies as the key marker separating sincere iman from performative religion."
     },
     {
       "id": "36_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Allama Tabatabai in Al-Mizan, the Quran's wisdom (Hakim) is accessible without the guidance of the Imams.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "According to Allama Tabatabai, the Quran's wisdom remains inaccessible without the hermeneutic authority (wilayah) of the Imams, who embody its living application."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "Verse 12 states that Allah records both 'what they have put forth' and 'what they left behind.' What does 'what they left behind' specifically refer to?",
+      "options": [
+        "A. The physical possessions a person bequeaths to their heirs",
+        "B. The sins a person committed in secret that were never publicly known",
+        "C. The lasting effects and ongoing impact of a person's deeds continuing after their death",
+        "D. Unfulfilled religious obligations a person did not complete in their lifetime"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The tafsir of verse 12 explains that 'atharahum' — what they left behind — refers to lasting effects: beneficial knowledge shared, charitable institutions established, children raised righteously, or conversely, harmful innovations spread in others. Wahbah al-Zuhayli identifies this as the Quranic foundation for the hadith of sadaqa jariya recorded by Imam Muslim."
     },
     {
       "id": "36_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "In classical Shia exegesis, what does 'sirat mustaqeem' (straight path) in verse 36:4 represent?",
-      "options": [
-        "Only the physical road to Mecca",
-        "Both the Quran's divine guidance and the walayah (guardianship) of the Imams",
-        "A metaphor for death",
-        "The path of commerce"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allama Tabatabai in Al-Mizan emphasizes that 'sirat mustaqeem' refers simultaneously to the Quran's divine guidance and the ontological reality of walayah (divinely ordained guardianship)."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 12,
+      "question": "True or false: In his commentary on verse 12, Imam al-Tabari records a hadith in which the Prophet told the tribe of Banu Salamah not to relocate their homes closer to the mosque, saying 'your footsteps are being recorded,' directly connecting to the word 'atharahum' in the verse.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari records this hadith — also found in Imam Muslim's Sahih — in connection with verse 12. When Banu Salamah wished to move closer to the mosque, the Prophet told them to stay and that their footsteps were being recorded, providing a living prophetic illustration of the Quranic concept of atharahum (their traces)."
     },
     {
       "id": "36_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 7,
-      "question": "According to Shia exegesis, what is the 'word' (qawl) that has come into effect in verse 36:7?",
+      "verseNumber": 13,
+      "question": "Classical scholars debated the identity of the 'people of the city' in verse 13. Why did Ibn Kathir express caution about the dominant view that the city was Antioch?",
       "options": [
-        "A magical spell",
-        "Allah's irrevocable judgment against those who persistently reject truth",
-        "A prophecy about the end times",
-        "The name of an angel"
+        "A. He doubted it because the Quran uses a different term for Antioch elsewhere in revelation",
+        "B. He doubted it because the historical Antioch accepted the message and became an early center of Christianity, whereas the Quran presents this city as one that rejected its messengers",
+        "C. He doubted it because Antioch was outside the Arabian Peninsula and thus unknown to the original audience",
+        "D. He doubted it because the hadith literature never mentions Antioch by name in this connection"
       ],
       "correctAnswer": "B",
-      "explanation": "The 'word' (qawl) refers to Allah's irrevocable judgment (qada) against those who persistently reject truth, rooted in their own choices rather than arbitrary predestination."
+      "explanation": "Ibn Kathir noted in Tafsir al-Quran al-Azim that the Quran presents this city as one that rejected the messengers outright, whereas the historical Antioch actually accepted the message and became one of the first major centers of early Christianity. He therefore concluded that the Quranic parable's power lies not in historical identification but in the universal spiritual pattern it illustrates."
     },
     {
       "id": "36_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Contemporary scholars connect Surah Yaseen's themes of natural order (verses 33-35) to modern ecological stewardship and environmental responsibility.",
+      "layer": 1,
+      "verseNumber": 18,
+      "question": "True or false: The townspeople's accusation 'tatayyarna bikum' in verse 18 — attributing bad omens to the messengers — was a practice both the Quran and the Prophet condemned, with the Prophet identifying such bird-augury as a form of shirk in a hadith recorded in Sahih Muslim.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Contemporary tafsir connects Surah Yaseen's themes of natural order to ecological stewardship, framing 'Ya Sin' as a wake-up call to realign human ambition with Earth's balance."
+      "explanation": "The tafsir of verse 18 confirms that tatayyur — taking bad omens from people or birds — was a pre-Islamic practice Islam came to abolish. Ibn Kathir cites a hadith in Sahih Muslim in which the Prophet explicitly prohibited bird-augury and described it as shirk, directly echoing the Quran's critique embedded in this narrative."
     },
     {
       "id": "36_10",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 3,
-      "question": "How do contemporary Shia scholars like Dr. Mohammad Ali Shomali view the Prophet's role based on verse 36:3?",
+      "verseNumber": 18,
+      "question": "Sayyid Qutb's commentary on verse 18 identifies which enduring psychological pattern in the townspeople's reaction to the messengers?",
       "options": [
-        "As a historical figure only",
-        "As a universal ethical model bridging revelation and reason",
-        "As a political leader only",
-        "As a mythical character"
+        "A. The tendency of oppressed peoples to welcome outsiders who challenge the established order",
+        "B. Societies addicted to falsehood project their own spiritual corruption onto those who call them to healing",
+        "C. The universal human instinct to test a messenger before accepting their authority",
+        "D. The psychological difficulty of distinguishing genuine prophecy from ordinary social reform"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Dr. Mohammad Ali Shomali highlight the Prophet's role as a universal ethical model, bridging revelation and reason in addressing modern issues like AI ethics and climate justice."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that verse 18 illustrates a timeless mechanism: societies that are spiritually diseased experience the voice of truth as an irritant or omen, projecting their own corruption onto those who offer a cure. Qutb applies this to contemporary Muslim experience under oppressive regimes, where sincere reformers are blamed for instability rather than credited with offering healing."
     },
     {
       "id": "36_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 7,
-      "question": "What modern phenomena does the tafsir of verse 36:7 compare to rejecting truth despite clear evidence?",
+      "layer": 2,
+      "verseNumber": 23,
+      "question": "Habib al-Najjar's argument in verse 23 against idol worship uses a method Ibn Kathir describes as 'ilzam al-khasm.' What does this technique involve?",
       "options": [
-        "Social media addiction",
-        "Cognitive bias and confirmation bias studied in neuroscience",
-        "Physical exercise",
-        "Modern architecture"
+        "A. Establishing the opponent's falsehood by quoting a scripture they are obliged to accept",
+        "B. Binding the opponent by their own premises — showing that even on the polytheist's own terms, their worship is irrational",
+        "C. Appealing to empirical observation alone to disprove a metaphysical claim",
+        "D. Presenting a succession of eyewitness testimonies to overpower a disputed argument"
       ],
       "correctAnswer": "B",
-      "explanation": "Neuroscientific studies on cognitive bias and confirmation bias mirror the verse's description of those who 'do not believe' despite accessible truth, showing how humans reject evidence conflicting with preexisting beliefs."
+      "explanation": "Ibn Kathir in his tafsir explains that Habib's argument uses conditional logic: even granting that the idols have some form of agency, they remain utterly useless if Allah wills otherwise. This is 'ilzam al-khasm' — binding the opponent by their own premises — effectively demonstrating that even on the polytheist's own terms, their worship is irrational."
     },
     {
       "id": "36_12",
       "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "According to Ayatollah Jawadi Amoli, the Huruf Muqatta'at represent the intersection of divine knowledge and human intellect.",
+      "verseNumber": 35,
+      "question": "True or false: Muhammad al-Shaarawi argued that the Arabic term 'kufr al-nima' (ingratitude for blessings) is etymologically connected to 'kufr' (disbelief), suggesting that hardness toward Allah's gifts is the seed of deeper spiritual blindness.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Ayatollah Jawadi Amoli frames the disjointed letters as cosmic keys representing the intersection of divine knowledge ('ilm al-ghayb) and human intellect, urging harmony between revelation and reason."
+      "explanation": "The tafsir of verse 35 records that Muhammad al-Shaarawi observed this etymological and spiritual connection: kufr al-nima shares its Arabic root with kufr (disbelief), suggesting that consistently failing to recognise divine blessings is the starting point of deeper spiritual blindness. By contrast, gratitude — shukr — is the starting point of faith."
     },
     {
       "id": "36_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Muhammad al-Baqir (AS), what does 'Ya Sin' represent?",
+      "layer": 1,
+      "verseNumber": 39,
+      "question": "The moon's final crescent phase is compared in verse 39 to 'al-urjun al-qadim.' What does this phrase mean, and why was this simile effective for the Quran's original audience?",
       "options": [
-        "Two random letters",
-        "The name of the Prophet Muhammad (PBUH), with 'Ya' addressing Allah's Beloved and 'Sin' meaning 'Sayyid' (Master)",
-        "Names of two mountains",
-        "Two different surahs combined"
+        "A. A thin silver thread used in weaving — evoking the delicate craft traditions of Arabia",
+        "B. A dried-out date stalk that has curved and yellowed with age — immediately recognisable to anyone familiar with date palms",
+        "C. The last sliver of daylight before sunset — connecting celestial and daily cycles",
+        "D. A bent bow after its string has been released — evoking the tension-and-release of the lunar cycle"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Muhammad al-Baqir (AS) states: 'Ya Sin is the name of the Prophet Muhammad (PBUH), for Allah says Ya addressing His Beloved and Sin meaning Sayyid or Master.'"
+      "explanation": "Ibn Kathir explains that al-urjun is the stalk from which date clusters hang on the palm tree. When old and dry, it becomes thin, curved, and yellowish — precisely the appearance of the waning crescent. He notes this simile was perfectly suited to the agricultural experience of the Arabian Peninsula, where date palms were ubiquitous, making the image immediately recognisable and verifiable by the original audience."
     },
     {
       "id": "36_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to the teachings of the Ahlul Bayt, true understanding of the Quran's wisdom flows through the purified progeny of the Prophet.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Prophet Muhammad (PBUH) declared in Hadith al-AlBayan: 'I leave among you the Two Weighty Things: the Book of Allah and my Ahlul Bayt. They will never separate until they return to me at the Pond.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 52,
+      "question": "How did early scholars including Qatadah and al-Hasan al-Basri interpret the word 'marqadina' (our place of sleep) in verse 52, when the dead cry out upon being raised?",
+      "options": [
+        "A. As proof that the dead are fully conscious and suffering throughout the entire period between death and resurrection",
+        "B. As indicating a period of unconscious rest in the grave between the first blast of death and the blast of resurrection, making the grave feel like a brief sleep",
+        "C. As a purely poetic metaphor with no implications for the actual state of the dead",
+        "D. As referring exclusively to the graves of the righteous, not to those of disbelievers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records the view of Qatadah and al-Hasan al-Basri that there is an actual period of unconscious rest in the graves between the two trumpet blasts. Ibn Kathir also accepts that even if punishment occurs in the grave, it is so diminished compared to the overwhelming terrors of the Day of Judgment that it will feel like a sleep by comparison."
     },
     {
       "id": "36_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to Imam Ali (AS), what is the relationship between the Messenger and himself?",
-      "options": [
-        "They are competitors",
-        "The Messenger is the city of knowledge, and Imam Ali is its gate",
-        "They have no connection",
-        "Imam Ali is the Messenger's teacher"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) explains in Nahj al-Balagha: 'The Messenger is the city of knowledge, and I am its gate.' This establishes the inseparable connection between prophethood and Imamah."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 63,
+      "question": "True or false: The use of 'hadhihi' — the near demonstrative 'this' — when Hellfire is presented in verse 63 indicates that Hell is shown visibly before the disbelievers on the Day of Resurrection, making their confrontation with it immediate and inescapable.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir of verse 63 explains that 'hadhihi' — the demonstrative used for something near and visible — indicates Hell is brought before the disbelievers and shown to them openly. Tabari cites early commentators including Mujahid and Ibn Zayd confirming that this showing removes any remaining claim of ignorance and serves as further divine proof against them."
     },
     {
       "id": "36_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 7,
-      "question": "According to Imam Jafar al-Sadiq (AS), what leads to the 'sealing' of hearts mentioned in verse 36:7?",
+      "layer": 3,
+      "verseNumber": 69,
+      "question": "Verse 69 defends the Quran against the charge of being poetry. What specific evidence about the Prophet did classical scholars cite in support of this verse's claim?",
       "options": [
-        "Lack of education",
-        "Physical illness",
-        "Stubbornness in rejecting the Imams and divine guidance",
-        "Living in cities"
+        "A. The Prophet never attended public poetry recitations, demonstrating his principled distance from the art",
+        "B. The Prophet consistently misremembered the metre or inverted words when quoting others' poetry, showing that poetic composition was genuinely foreign to him",
+        "C. The Prophet explicitly prohibited his companions from composing poetry",
+        "D. The Prophet's voice was not suited to the rhythmic cadences that classical Arabic poetry required"
       ],
-      "correctAnswer": "C",
-      "explanation": "The Sixth Imam states that the 'word' manifests as a reality due to stubbornness in rejecting the Imams. Rejecting divinely appointed guidance leads to spiritual blindness."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir transmits narrations indicating that when the Prophet occasionally quoted lines of poetry from other poets, he would frequently misremember the metre or invert words. This demonstrated that poetic composition was genuinely foreign to his natural gifts — significant because Arabic culture prized precise oral memory of verse. His consistent inability to reproduce poetry correctly was itself evidence that the Quran's eloquence came from a divine source entirely different from poetic talent."
     },
     {
       "id": "36_17",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Shia and Sunni scholars agree that the Huruf Muqatta'at (disjointed letters) affirm the Quran's inimitability (i'jaz).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions concur that such letters affirm the Quran's inimitability (i'jaz), challenging listeners to engage with its linguistic profundity, with this view reinforced by their placement in 29 Quranic chapters."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 77,
+      "question": "Verse 77 opens with 'Does man not consider that We created him from a sperm-drop, and behold, he is an open adversary?' What spiritual lesson does this contrast between humble origin and open arrogance convey?",
+      "options": [
+        "A. That human arrogance is inevitable given the complexity of the human intellect",
+        "B. That remembering one's origin — being created from a drop of fluid — should inspire humility and gratitude, preventing rebellion against the Creator",
+        "C. That humans are biologically disposed toward arguing because of their constitution",
+        "D. That intellectual capacity, being a divine gift, naturally leads to questioning divine authority"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 77 explains that the contrast is deliberate: the same human created from a drop of fluid forgets that humble beginning and becomes an open adversary arguing against resurrection. Remembering one's creation from nothing should inspire humility and gratitude, preventing the arrogance and rebellion this verse condemns."
     },
     {
       "id": "36_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 3,
-      "question": "What is a key difference between Shia and Sunni interpretations of verse 36:3?",
+      "layer": 2,
+      "verseNumber": 82,
+      "question": "Fakhr al-Din al-Razi addressed a theological question about 'Kun fa-yakun' in verse 82: does it imply that 'Kun' is a literal spoken word? What was the Sunni mainstream conclusion he affirmed?",
       "options": [
-        "Sunni scholars deny the Prophet's messengership",
-        "Shia exegesis links the verse to the ongoing divine guidance through the Ahlul Bayt, while Sunni focuses on the Prophet's singular mission as Khatam al-Nabiyyin",
-        "There is no difference between the two traditions",
-        "Shia scholars consider this verse unimportant"
+        "A. Yes — it is a literal divine utterance, and a special angel is created to hear it before each created thing comes into being",
+        "B. It is a parable illustrating the effortlessness of divine creation, not a description of a literal spoken word requiring a prior creation to receive it",
+        "C. It is a figurative expression borrowed from earlier scriptures and should not be analysed theologically",
+        "D. It refers only to the original creation of the universe, not to ongoing acts such as the resurrection"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia exegesis integrates the verse into a framework of ongoing divine guidance through the Ahlul Bayt, whereas Sunni interpretations prioritize the historical-prophetic context and the Prophet's role as the Seal of Prophets."
-    },
-    {
-      "id": "36_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 7,
-      "question": "How do Sunni scholars like Al-Razi interpret the 'sealing' of hearts in verse 36:7?",
-      "options": [
-        "As a random occurrence",
-        "Through the Ash'ari principle of divine will overriding human agency, emphasizing Allah's foreknowledge",
-        "As purely metaphorical with no spiritual meaning",
-        "As something that only happened in ancient times"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni exegetes like Al-Razi emphasize Allah's foreknowledge and the Ash'ari principle of divine will, interpreting the verse as a warning against moral complacency."
-    },
-    {
-      "id": "36_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 2,
-      "question": "Both Shia and Sunni traditions unite in recognizing the Quran's layered depths and reverence for its wisdom as described in verse 36:2.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions share reverence for the Quran's layered depths, demonstrating how pluralistic tafsir traditions enrich engagement with the sacred text while respecting the wisdom declared in the divine oath."
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb concludes — following the Sunni mainstream — that 'Kun fa-yakun' is a parable illustrating the effortlessness of divine creation, not a description of a literal utterance that would require a prior creation to hear it. The Salaf, as reported by Ibn Kathir, affirmed that this phrase conveys the immediacy and absolute certainty of divine power, transcending any analogy to human speech."
     }
   ]
 }

@@ -5,271 +5,236 @@
       "id": "39_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 46,
-      "question": "In verse 46 of Surah Az-Zumar, what Arabic term is used to describe Allah as the 'Creator of the heavens and earth'?",
+      "verseNumber": 2,
+      "question": "What does the Quranic concept of 'mukhlis lahu al-din' in verse 2 require of a believer?",
       "options": [
-        "Al-Malik",
-        "Fatir",
-        "Al-Qahhar",
-        "Al-Jabbar"
+        "A. Performing a minimum number of prayers each day without exception",
+        "B. Dedicating all acts of worship exclusively to Allah with no trace of showing off or mixed motives",
+        "C. Memorizing the Quran before undertaking any voluntary act of worship",
+        "D. Seeking the approval of scholars before performing supererogatory deeds"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'Fatir' derives from 'fitrah', meaning to originate something uniquely, stressing Allah's absolute power to bring creation into being without precedent."
+      "explanation": "Verse 2 commands worship of Allah 'mukhlisan lahu al-din,' meaning to make religion exclusively and purely for Allah, free from desire for people's praise or worldly motivation. Ibn Kathir explains that ikhlas here means al-tawhid — pure monotheism expressed through every act of worship — and that any worship contaminated by riya (showing off) constitutes a form of minor shirk."
     },
     {
       "id": "39_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 47,
-      "question": "According to the tafsir of verse 47, worldly wealth and material possessions can be used to ransom oneself from divine punishment on the Day of Judgment.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Imam al-Tabari explains that the word 'tanzil' in verse 1 emphasizes gradual, deliberate revelation rather than the Quran being delivered all at once.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The verse underscores the futility of material wealth in the afterlife - no amount of worldly riches can ransom one from divine justice. Salvation lies in righteous deeds, not transactional bargaining."
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari in his Jami al-Bayan explains that 'tanzil' (sending-down) emphasizes the gradual and deliberate manner of the Quran's revelation. He further notes that the participial noun tanzil rather than a past-tense verb carries the sense of revelation continuously descending upon and penetrating believing hearts."
     },
     {
       "id": "39_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 71,
-      "question": "What does the term 'zumar' in Surah Az-Zumar mean, referring to how disbelievers are driven to Hell?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "According to Ibn Kathir and Imam al-Tabari, what was the core justification the Meccan polytheists used for worshipping idols alongside Allah?",
       "options": [
-        "In chains",
-        "In groups",
-        "In darkness",
-        "In silence"
+        "A. They believed the idols were equal to Allah in creative power",
+        "B. They claimed the idols were intermediaries who would bring them nearer to Allah",
+        "C. They thought the idols could independently grant provision and offspring",
+        "D. They argued that worshipping many gods brought a wider guarantee of protection"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'zumar' means 'in groups', emphasizing collective accountability while maintaining individual responsibility. This is also the name of the surah - 'The Groups'."
+      "explanation": "Ibn Kathir and Imam al-Tabari both explain that the Meccan polytheists did not deny Allah's supremacy. Their specific rationalization was 'ma na'buduhum illa liyuqarribuna ila Allahi zulfa' — we only worship them so they may bring us nearer to Allah. The verse quotes and then refutes this logic, declaring that Allah does not guide the persistent liar and ungrateful disbeliever."
     },
     {
       "id": "39_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 61,
-      "question": "What does the Arabic term 'taqwa' refer to in verse 61?",
-      "options": [
-        "Fasting during Ramadan",
-        "God-consciousness and pious fear of Allah",
-        "Giving charity",
-        "Performing pilgrimage"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Taqwa refers to God-consciousness - not paralyzing fear but mindful reverence that inspires ethical action and spiritual vigilance, leading to divine protection."
+      "verseNumber": 4,
+      "question": "True or false: Verse 4 refutes the notion of divine offspring by first entertaining the hypothetical that Allah could have chosen from His creation, then immediately negating it through the declaration 'subhanahu' and the Names al-Wahid al-Qahhar.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 4 employs a conditional hypothetical — 'if He had intended' — not to suggest it is possible but as a rhetorical argument that collapses under examination. The verse responds with 'Exalted is He' (subhanahu) and affirms His Names al-Wahid (the Uniquely One) and al-Qahhar (the Subduer), which together negate any need for offspring, heir, or companion. Wahbah al-Zuhayli identifies this method as 'ilzam' — binding the opponent with their own logic."
     },
     {
       "id": "39_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 46,
-      "question": "According to Tabrisi in Majma al-Bayan, what does the invocation 'Allahumma' (O Allah) in verse 46 employ?",
+      "layer": 3,
+      "verseNumber": 3,
+      "question": "Which contemporary scholar argued that Islam's rejection of unauthorized intermediaries in worship represents a liberation of human consciousness from dependency on spiritual brokers?",
       "options": [
-        "Simple words of greeting",
-        "The Most Beautiful Names (al-Asma al-Husna)",
-        "A prayer for forgiveness",
-        "A call for worldly success"
+        "A. Wahbah al-Zuhayli in Al-Tafsir al-Munir",
+        "B. Sayyid Qutb in Fi Zilal al-Quran",
+        "C. Muhammad al-Sha'rawi in his Quranic commentaries",
+        "D. Ibn Uthaymeen in his doctrinal teachings"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabrisi notes that the invocation 'Allahumma' employs the Most Beautiful Names (al-Asma al-Husna) to stress Allah's absolute sovereignty as Fatir (Originator) and Alim al-Ghayb (Knower of the Unseen)."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran argues that the Quranic declaration that pure religion belongs to Allah alone establishes a direct, unmediated relationship between the individual soul and its Creator, freeing human beings from dependency on supposed spiritual brokers. He views this as not merely a theological correction but a revolutionary liberation of human consciousness."
     },
     {
       "id": "39_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 61,
-      "question": "According to Allama Tabatabai in Al-Mizan, salvation is arbitrary and not connected to one's alignment with divine guidance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Tabatabai emphasizes that salvation is not arbitrary but a direct consequence of conscious alignment with the 'rope of Allah', interpreted in Shia tradition as adherence to the Ahl al-Bayt."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "Verse 9 contrasts the sincere night worshipper with the heedless person, then poses a rhetorical question. What term does the verse use for those capable of truly grasping this distinction?",
+      "options": [
+        "A. Al-muttaqun (the God-fearing)",
+        "B. Al-mukhlisun (the sincere ones)",
+        "C. Ahl al-albab (people of understanding)",
+        "D. Al-muqarrabun (those brought near)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verse 9 asks 'Are those who know equal to those who do not know?' and identifies only 'ahl al-albab' — people of sound intellect and heart — as those who truly reflect on this distinction. Imam al-Qurtubi explains that these are people whose hearts have been refined by reflection, combining intellectual clarity with moral commitment to act upon what they know."
     },
     {
       "id": "39_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 72,
-      "question": "What does Allama Tabatabai say the 'gates of Hell' symbolize in his tafsir of verse 72?",
-      "options": [
-        "Physical barriers to Paradise",
-        "The culmination of persistent rebellion against divine guidance",
-        "Temporary places of punishment",
-        "Gates that open for repentant souls"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that the 'gates of Hell' symbolize the culmination of persistent rebellion against divine guidance, with arrogance manifesting as rejection of truth embodied in prophetic and Imamic authority."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 9,
+      "question": "True or false: Sayyid Qutb describes the image of the night worshipper in verse 9 as one of the most sublime images of human dignity in the entire Quran, because this person is driven by internal reality rather than social expectation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran describes the person who rises from sleep to stand and prostrate alone in the darkness as embodying 'one of the most sublime images of human dignity in the entire Quran.' He emphasizes that this worshipper is not constrained by social expectation or public display but driven entirely by genuine, internalized awareness of Allah and the Hereafter."
     },
     {
       "id": "39_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 47,
-      "question": "What does the phrase 'ma lam yakunu yahtasibun' (what they had not taken into account) refer to in Shia tafsir?",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "What unique reward does verse 10 of Az-Zumar promise specifically and only to the patient?",
       "options": [
-        "Unexpected worldly gains",
-        "The sudden manifestation of divine truths on Judgment Day",
-        "New religious obligations",
-        "Changes in divine law"
+        "A. Entry into Paradise without any questioning on the Day of Judgment",
+        "B. Their reward will be given 'bi-ghayri hisab' — without account or measure",
+        "C. They will be raised in the company of the prophets and the truthful",
+        "D. They will be spared any trial in the grave"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai elucidates that this refers to the sudden manifestation of divine truths on Judgment Day - a reckoning that transcends human calculations and unveils the gravity of one's sins."
+      "explanation": "Verse 10 closes with 'innama yuwaffa al-sabirun ajrahum bi-ghayri hisab' — the patient will be given their reward without account. Imam al-Razi in Mafatih al-Ghayb explains that this reward transcends the arithmetic of deeds and enters the realm of pure divine generosity. Wahbah al-Zuhayli notes this 'without account' is unique in the Quran and applies exclusively to the quality of sabr."
     },
     {
       "id": "39_9",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 46,
-      "question": "According to contemporary scholar Ayatollah Nasir Makarem Shirazi, how does the verse's concept of 'Fatir' (Creator) relate to modern science?",
-      "options": [
-        "It contradicts scientific theories",
-        "It has no connection to science",
-        "It resonates with astrophysical theories about the universe's origins like the Big Bang",
-        "It only applies to spiritual creation"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shirazi emphasizes that the term Fatir (bringing something from nothingness) resonates with astrophysical theories about the universe's origins, showing how scientific inquiry complements rather than contradicts divine creative power."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 17,
+      "question": "True or false: Ibn Kathir notes that some early scholars connected the glad tidings of verse 17 specifically to pre-Islamic monotheists such as Zayd bin Amr bin Nufayl, while affirming that the verse is ultimately universal in scope.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records that some early scholars held verse 17 was revealed concerning figures like Zayd bin Amr bin Nufayl, Abu Dharr al-Ghifari, and Salman al-Farisi — men who had turned away from idol worship before Islam's formal proclamation. Ibn Kathir then affirms the correct scholarly position that the verse applies universally to all who abandon shirk and sincerely embrace tawhid."
     },
     {
       "id": "39_10",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 47,
-      "question": "Contemporary Shia scholars connect the 'unexpected consequences' in verse 47 to modern issues like climate change.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Modern scholars like Dr. Liyakat Takim connect this verse to current global crises, noting how the 'unexpected consequences' resonate with climate change - where humanity's ecological debts manifest as unanticipated disasters."
+      "verseNumber": 18,
+      "question": "What does Wahbah al-Zuhayli observe about the principle of 'following the best of speech' in verse 18 and its implication for Islamic scholarship?",
+      "options": [
+        "A. Muslims should engage only with scholarship from their own school of jurisprudence",
+        "B. The verse endorses engaging with knowledge across disciplines while maintaining fidelity to Quranic principles",
+        "C. Believers should restrict their study to classical tafsir and avoid all contemporary commentary",
+        "D. The verse requires non-specialists to defer entirely to jurists without any independent reflection"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir observes that verse 18 affirms that the Muslim tradition at its best has always engaged with knowledge across disciplines while maintaining fidelity to Quranic principles. The capacity to listen discerningly and choose the best — modeled by the 'ahl al-albab' — represents intellectual engagement and openness rather than isolation."
     },
     {
       "id": "39_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 71,
-      "question": "According to contemporary scholars, what does the 'gates' metaphor in verse 71 parallel in modern systems theory?",
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "Verse 42 states that Allah takes souls at two distinct moments. What are those two moments, making sleep a form of 'lesser death'?",
       "options": [
-        "Economic growth patterns",
-        "Ecological tipping points where small moral neglects compound into collapse",
-        "Political election cycles",
-        "Technological advancement"
+        "A. At birth and at the age of moral accountability",
+        "B. At the time of death and at the time of sleep",
+        "C. At the moment of major sin and at the moment of sincere repentance",
+        "D. At sunset each evening and at the moment of the final breath"
       ],
       "correctAnswer": "B",
-      "explanation": "The 'gates' metaphor aligns with systems theory - small moral neglects (like corruption or apathy) compound into civilizational collapse, much like ecological tipping points."
+      "explanation": "Verse 42 declares that Allah takes souls at the time of death (the greater death) and at the time of sleep (the lesser death). During sleep the soul is temporarily withheld and returned upon waking; for those whose appointed time has arrived, Allah retains it permanently. Ibn Abbas is reported by Ibn Kathir as saying: 'He keeps the souls of the dead and sends back the souls of the living, and He does not make any mistakes.'"
     },
     {
       "id": "39_12",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 72,
-      "question": "How does contemporary scholar Reza Shah-Kazemi describe the nature of arrogance in relation to verse 72?",
-      "options": [
-        "A temporary emotional state",
-        "Self-perpetuating spiritual feedback loops that alienate humans from their purpose",
-        "A minor character flaw",
-        "Something easily overcome"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shah-Kazemi connects the 'eternal abode' metaphor to the self-perpetuating nature of arrogance: like algorithms reinforcing bias, pride creates spiritual feedback loops alienating humans from their purpose."
+      "verseNumber": 42,
+      "question": "True or false: Muhammad al-Sha'rawi emphasized that verse 42's pairing of sleep and death reveals that life itself is a loan from Allah, returned each night and graciously given back each dawn.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Muhammad al-Sha'rawi is cited in the contemporary commentary as emphasizing exactly this: verse 42's pairing of death and sleep reveals that life is a loan from Allah, returned each night and graciously given back each morning. This framing transforms the daily act of waking into a renewed expression of gratitude and absolute dependence on the Creator."
     },
     {
       "id": "39_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 46,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, what is 'the straight path' mentioned in relation to Allah's names?",
+      "layer": 2,
+      "verseNumber": 53,
+      "question": "Which senior Companion of the Prophet reportedly declared that verse 53 of Az-Zumar is the most hope-giving verse in the entire Quran?",
       "options": [
-        "Following only the Quran",
-        "Acknowledging His Unity through His chosen ones (the Imams)",
-        "Individual interpretation of scripture",
-        "Following any religious leader"
+        "A. Abu Hurayra",
+        "B. Anas ibn Malik",
+        "C. Abdullah ibn Masud",
+        "D. Umar ibn al-Khattab"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali states: 'The straight path is to acknowledge His Unity through His chosen ones' - referring to the purified Imams who manifest divine justice."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records in his Tafsir al-Quran al-Azim that Abdullah ibn Masud declared verse 53 to be the most hopeful verse in the Book of Allah, with other Companions including Abdullah ibn Umar endorsing the same view. Ibn Kathir also cites the hadith of the man who killed one hundred people as a narrative illustration that even the gravest sinner is not beyond Allah's mercy if they sincerely repent."
     },
     {
       "id": "39_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 47,
-      "question": "According to Imam Jafar al-Sadiq (AS), the 'worst punishment' in verse 47 includes the realization of having rejected the Wilayah of the Ahlul Bayt.",
+      "layer": 1,
+      "verseNumber": 53,
+      "question": "True or false: The direct address 'O My servants' in verse 53 — spoken by Allah Himself to those who have sinned greatly — is understood by scholars to convey divine intimacy and care, showing that sin does not sever the bond with Allah as long as repentance remains available.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam al-Sadiq explains that the 'worst punishment' refers not merely to physical torment but to the agonizing realization of having rejected the Wilayah (divine guardianship) of the Ahlul Bayt."
+      "explanation": "The tafsir explains that 'ya ibadi' (O My servants) is Allah directly claiming sinners as His own despite their transgressions, conveying an intimacy meant to draw them back. Imam al-Tabari affirms that this divine address shows the bond between Allah and the servant remains intact so long as the servant does not cut it through persistent refusal to repent."
     },
     {
       "id": "39_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 71,
-      "question": "According to Imam al-Baqir (AS), what are the 'doors of Hell'?",
+      "layer": 3,
+      "verseNumber": 54,
+      "question": "Ibn Uthaymeen describes verses 53 through 55 as a complete Quranic treatment of repentance. How does verse 54 function within this three-verse structure?",
       "options": [
-        "Physical structures of fire",
-        "The doors of ignorance that open for those who closed their hearts to knowledge",
-        "Temporary barriers",
-        "Punishment for minor sins only"
+        "A. It limits the forgiveness of verse 53 to sins committed before puberty",
+        "B. It provides the practical action — repentance and submission — that must accompany the hope offered in verse 53",
+        "C. It cancels the promise of verse 53 for anyone who has ever committed shirk",
+        "D. It shifts the focus to collective community repentance rather than individual tawbah"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam al-Baqir taught: 'The doors of Hell are the doors of ignorance - they open for those who closed their hearts to the doors of knowledge' (Bihar al-Anwar)."
+      "explanation": "Ibn Uthaymeen describes the structure as: verse 53 opens the door with divine mercy, verse 54 requires the practical actions of repentance and submission, and verse 55 provides the ongoing program of following revelation. Wahbah al-Zuhayli similarly frames verse 54 as the practical complement to verse 53 — mercy is vast but must be seized through genuine turning to Allah before punishment arrives."
     },
     {
       "id": "39_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 61,
-      "question": "According to Imam Ali (AS), what is the essence of taqwa (God-consciousness)?",
+      "layer": 1,
+      "verseNumber": 56,
+      "question": "What two failures will the condemned soul confess in the words recorded in verse 56 on the Day of Resurrection?",
       "options": [
-        "Simply avoiding major sins",
-        "Fearing Allah through obedience and recognizing the Hujjah (divine proof) of your time",
-        "Performing extra prayers",
-        "Isolation from society"
+        "A. Neglecting the five daily prayers and failing to pay zakat",
+        "B. Neglecting duties toward Allah ('tafriti fi janbi Allah') and having been among those who mocked the truth",
+        "C. Disobeying parents and breaking ties of kinship",
+        "D. Failing to perform Hajj and abandoning the fast of Ramadan"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali taught: 'The essence of taqwa is to fear Allah through obedience, and obedience is attained by recognizing the Hujjah [divine proof] of your time' (Bihar al-Anwar)."
+      "explanation": "Verse 56 describes the soul crying 'Ya hasrata' (Alas, my regret) over two failures: 'tafriti fi janbi Allah' — neglecting what was owed to Allah — and the admission 'I was indeed among those who mocked.' Ibn Kathir notes this double failure compounds the tragedy: the person not only failed to do good but actively ridiculed those who did, closing off all internal correction."
     },
     {
       "id": "39_17",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 61,
-      "question": "Both Shia and Sunni scholars agree that verse 61 promises divine deliverance for those who possess taqwa (God-consciousness).",
+      "layer": 2,
+      "verseNumber": 73,
+      "question": "True or false: According to Ibn Kathir, the gates of Paradise in verse 73 are described as already open when the believers arrive — contrasting with Hell's gates — as a mark of divine honor and eager welcome prepared for the God-fearing.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni exegetes converge on core themes: divine deliverance for the God-conscious (muttaqun), the transformative power of piety, and eternal security from harm in the hereafter."
+      "explanation": "Ibn Kathir records that the gates of Paradise are opened before the believers arrive as a mark of honor and hospitality, in contrast to the gates of Hell. He also connects the plural 'gates' to the hadith in Sahih al-Bukhari and Muslim describing eight gates of Paradise, each associated with a different type of righteous deed, so that those who excelled in a particular virtue will be called from the corresponding gate."
     },
     {
       "id": "39_18",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 46,
-      "question": "What is a key interpretive difference between Shia and Sunni scholars regarding 'Your servants' in verse 46?",
+      "layer": 3,
+      "verseNumber": 75,
+      "question": "Sayyid Qutb and Imam al-Tabari both note a profound literary connection between the closing words of verse 75 and the opening of the Quran. What is that connection?",
       "options": [
-        "Sunni scholars ignore the phrase entirely",
-        "Shia scholars interpret it more narrowly than Sunni scholars",
-        "Shia scholars link it to divine guidance through the Imams, while Sunni scholars interpret it broadly as all humanity",
-        "Both interpret it exactly the same way"
+        "A. Verse 75 uses the same Arabic root as the Basmalah, linking the end of judgment to the invocation of mercy",
+        "B. The phrase 'al-hamdu lillahi rabb al-alamin' mirrors the opening of Surah Al-Fatiha, framing all of human history between the same expression of divine praise",
+        "C. Verse 75 repeats the exact words of verse 1 of Az-Zumar, forming an internal ring structure within the surah",
+        "D. The final verse of Az-Zumar echoes the last verse of Surah al-Baqarah, signaling the completion of revealed law"
       ],
-      "correctAnswer": "C",
-      "explanation": "Sunni scholars interpret 'Your servants' broadly as all humanity, while Shia commentaries link the verse to the theological necessity of divine guidance through the Imams who possess divinely granted knowledge."
-    },
-    {
-      "id": "39_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 71,
-      "question": "How do Shia scholars expand the concept of 'messengers' (rusul) in verse 71 compared to Sunni interpretation?",
-      "options": [
-        "Shia scholars limit it to fewer prophets",
-        "Sunni scholars include the Imams while Shia do not",
-        "Shia scholars include the Imams as inheritors of prophetic guidance",
-        "There is no difference in interpretation"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shia scholars like Qummi and Tusi expand 'messengers' to include the Imams' role as inheritors of prophetic guidance, reflecting the Shia emphasis on divinely appointed leadership after Prophet Muhammad."
-    },
-    {
-      "id": "39_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 72,
-      "question": "Both Shia and Sunni traditions agree that the warning against arrogance (takabbur) in verse 72 applies to both creed and ethics.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "As Imam Jafar al-Sadiq stated, 'Arrogance is to reject the truth and belittle people' - both traditions utilize this verse to reinforce eschatological beliefs and ethical imperatives against spiritual obstinacy."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari and Sayyid Qutb both observe that 'Alhamdulillahi Rabb al-Alamin' opens Surah Al-Fatiha — recited in every prayer — and closes the Day of Judgment scene in Az-Zumar. Qutb reflects that all of human history, from creation to resurrection to final judgment, is bookended by the same expression of divine praise, forming a grand thematic circle across the Quran."
     }
   ]
 }

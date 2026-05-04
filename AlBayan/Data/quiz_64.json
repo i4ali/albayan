@@ -5,136 +5,116 @@
       "id": "64_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to verse 1 of Surah At-Taghabun, what does the phrase 'yusabbihu lillahi' convey about creation's glorification of Allah?",
+      "verseNumber": 9,
+      "question": "The surah takes its name from verse 9. What does the Arabic term 'taghabun' most precisely describe?",
       "options": [
-        "It refers only to ritual prayers by humans",
-        "It means continuous, inherent praise embedded in existence itself",
-        "It applies only to living beings",
-        "It describes occasional acknowledgment of divine power"
+        "A. The act of glorifying Allah continuously throughout the day",
+        "B. A commercial transaction in which one party suffers a hidden loss only revealed when the deal is complete",
+        "C. The blowing of the trumpet that initiates the resurrection",
+        "D. The gathering of prophets for collective intercession"
       ],
-      "correctAnswer": "It means continuous, inherent praise embedded in existence itself",
-      "explanation": "The phrase 'yusabbihu lillahi' conveys continuous, inherent praise embedded in existence itself, not merely ritual recitation. This universal symphony of devotion transcends human awareness, representing an ontological reality where every element of creation actively participates in glorifying Allah."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that 'taghabun' derives from the Arabic root related to commercial fraud, where one party is defrauded without realising it until the transaction is concluded. On the Day of Taghabun, those who chased this world at the expense of the next will discover they traded infinite eternal gain for finite temporary pleasure."
     },
     {
       "id": "64_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 2,
-      "question": "Verse 2 emphasizes that Allah created humanity's diversity of belief to demonstrate human free will within divine wisdom.",
+      "verseNumber": 11,
+      "question": "True or false: Verse 11 teaches that every calamity strikes only by Allah's permission, and that the believer who responds with faith receives a specific guidance of the heart as a reward for that trust.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The verse affirms that Allah intentionally designed humanity's diversity of belief, with some choosing kufr (disbelief) while others embrace iman (faith), emphasizing human free will within divine wisdom. This demonstrates that belief and disbelief exist as choices within Allah's sovereign creative plan."
+      "explanation": "The tafsir states that 'ma asaba min musibatin illa bi-idhn Allah' establishes divine sovereignty over all affliction. The verse then directly connects faith to a spiritual gift: 'whoever believes in Allah, He guides his heart,' meaning Allah bestows steadiness and clarity upon the heart that trusts in His wisdom during hardship."
     },
     {
       "id": "64_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 8,
-      "question": "In classical Shia exegesis, what complementary dimension does the 'Light' (an-noor) in verse 8 represent beyond the Quran itself?",
+      "layer": 1,
+      "verseNumber": 14,
+      "question": "Verse 14 warns believers about 'enemies' among their spouses and children. What does the tafsir identify as the specific historical context in which this verse was revealed?",
       "options": [
-        "The physical sun and moon",
-        "Divine guidance embodied in the Ahl al-Bayt",
-        "Only the written text of the Quran",
-        "The light of human reason alone"
+        "A. Believers whose family members plotted to hand them over to their enemies in battle",
+        "B. Believers in Mecca whose wives and children pleaded with them not to emigrate to Medina, causing some to delay or abandon the hijrah",
+        "C. Believers whose children refused to accept Islam after the conquest of Mecca",
+        "D. Believers whose spouses encouraged them to pay tribute to the Quraysh to avoid conflict"
       ],
-      "correctAnswer": "Divine guidance embodied in the Ahl al-Bayt",
-      "explanation": "While the apparent meaning identifies the 'Light' as the Quran itself, classical Shia exegesis—rooted in the teachings of the Ahl al-Bayt—emphasizes a complementary metaphysical dimension where the Light also represents divine guidance embodied in the Prophet's purified progeny and the Imams."
+      "correctAnswer": "B",
+      "explanation": "The layer 1 tafsir explains that this verse was revealed in the context of early Muslims who wished to migrate to Medina but were held back by the emotional pleas of their wives and children. The word 'aduwwan' (enemies) does not mean hostile adversaries but those whose love and demands practically impeded the believer's religious obligations."
     },
     {
       "id": "64_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 11,
-      "question": "According to Allamah Tabatabai's interpretation of verse 11, what does 'permission' (idhn) regarding calamities signify?",
-      "options": [
-        "Passive allowance without divine involvement",
-        "Random chance events outside Allah's control",
-        "Divine will governed by wisdom, not passive allowance",
-        "Punishment for all those who suffer"
-      ],
-      "correctAnswer": "Divine will governed by wisdom, not passive allowance",
-      "explanation": "Allamah Tabatabai clarifies that 'permission' (idhn) denotes divine will governed by wisdom, not passive allowance. This aligns with Shia theology's principle of al-qada' wa al-qadar (divine decree), where disasters occur within a cosmic framework of cause and effect overseen by divine wisdom."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "True or false: When verse 15 describes wealth and children as 'fitnah,' the tafsir understands this as condemning wealth and family life as inherently wicked.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The layer 1 tafsir explicitly states that 'fitnah' here means a test or trial, not something wicked in itself. The Quran praises wealth when earned and spent righteously, and the Prophet loved children dearly. What the verse identifies is the spiritual danger of misplaced attachment when love for wealth or children leads a person to compromise their duty to Allah."
     },
     {
       "id": "64_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 16,
-      "question": "How do contemporary Shia scholars like Ayatollah Makarem Shirazi frame the command to 'fear Allah as much as you are able' in verse 16?",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "Ibn Kathir, citing a hadith in Sahih al-Bukhari, explains the 'mutual' nature of loss and gain on the Day of Taghabun. What does this narration say happens to the places in Paradise assigned to those who reject faith?",
       "options": [
-        "As an impossible burden requiring perfection",
-        "As a license for minimal spiritual effort",
-        "As an invitation to conscious effort, not a burden of perfection",
-        "As applying only to religious scholars"
+        "A. Those places are sealed off and left permanently empty as a sign of divine justice",
+        "B. Those places are granted to the angels who intercede on the Day of Judgment",
+        "C. The believers inherit the places in Paradise that the disbelievers forfeited through their rejection of faith",
+        "D. Those places are transformed into stations of honour reserved for the prophets"
       ],
-      "correctAnswer": "As an invitation to conscious effort, not a burden of perfection",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi frame the call to 'fear Allah as much as you are able' not as a burden of perfection but as an invitation to conscious effort. This theme echoes modern psychology's focus on growth mindsets, emphasizing dynamic balance between spiritual discipline and social responsibility."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir cites the narration from Sahih al-Bukhari that every person has a place assigned in both Paradise and the Fire. The believer inherits the place in Paradise that the disbeliever forfeited, while the disbeliever occupies the place in the Fire from which the believer was protected. This is the 'mutual loss and gain' that gives the day its name."
     },
     {
       "id": "64_6",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 5,
-      "question": "According to contemporary Shia scholarship on verse 5, the 'bad consequence' faced by past nations can include modern issues like ecological collapse and social disintegration.",
+      "layer": 2,
+      "verseNumber": 14,
+      "question": "True or false: Al-Qurtubi draws a juridical ruling from verse 14 stating that a believer is not permitted to delay an obligatory religious duty solely out of deference to family preferences that run counter to divine command.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Ayatollah Makarem Shirazi emphasizes in his Tafsir Nemuneh that the 'bad consequence' experienced by past nations includes not only ancient punishments but also modern manifestations such as ecological collapse and social disintegration. This contextualizes the verse as a warning against contemporary societal arrogance and moral failure."
+      "explanation": "Al-Qurtubi, in Al-Jami li-Ahkam al-Quran, draws precisely this juridical principle from verse 14. He establishes that family bonds, however honourable, cannot override religious obligations, and that Al-Tabari similarly situates the verse within the Quranic teaching that family attachment must not outweigh duties to Allah and His Messenger."
     },
     {
       "id": "64_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to Imam Ja'far al-Sadiq's teaching on verse 9, what does the 'Day of Deprivation' (Yawm al-Taghabun) reveal about those who neglected the Wilayah of the Ahlul Bayt?",
+      "layer": 2,
+      "verseNumber": 16,
+      "question": "Imam al-Tabari addresses a debate among early scholars about whether 'fear Allah as much as you are able' in verse 16 abrogates the command in Surah Aal-Imran. What is al-Tabari's conclusion?",
       "options": [
-        "They will receive equal rewards as all believers",
-        "They will realize their eternal loss in rejecting divine guardianship",
-        "They will have another chance to accept guidance",
-        "Their worldly achievements will compensate for their neglect"
+        "A. He concludes there is a true abrogation, making the Aal-Imran command permanently cancelled",
+        "B. He concludes there is no abrogation, only clarification: fearing Allah as He deserves is itself achieved through the maximum sincere effort",
+        "C. He concludes the verse in At-Taghabun applies only to women and the elderly",
+        "D. He concludes both commands refer to different types of worship and cannot be compared"
       ],
-      "correctAnswer": "They will realize their eternal loss in rejecting divine guardianship",
-      "explanation": "Imam Ja'far al-Sadiq explains that the 'Day of Deprivation' unveils the moment when souls realize their eternal loss in neglecting the Wilayah (guardianship) of the Ahlul Bayt. This represents the ultimate reckoning where the true value of recognizing divine guidance through the Imams becomes manifestly clear."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari holds that there is no true abrogation between the two verses, only clarification. He reports that companions found the Aal-Imran command burdensome, prompting the Taghabun verse as a merciful qualification. Fearing Allah as He truly deserves is itself achieved through one's maximum sincere effort, not through an impossible absolute standard."
     },
     {
       "id": "64_8",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 17,
-      "question": "In the teachings of the Ahlul Bayt on verse 17, what does the 'goodly loan' (qard hasan) primarily represent?",
+      "layer": 3,
+      "verseNumber": 14,
+      "question": "Wahbah al-Zuhayli makes a grammatical observation about the partitive word 'min' (some/among) in verse 14. What practical conclusion does he draw from this for how the verse should be understood?",
       "options": [
-        "Only financial loans to other Muslims",
-        "Surrendering one's entire existence to Allah through love, service, and recognition of divine guardianship",
-        "Business investments for profit",
-        "Temporary charitable acts without deeper spiritual significance"
+        "A. The word 'min' restricts the warning to the wives of the early Meccan companions only",
+        "B. The word 'min' shows this is a universal condemnation of all family relationships in Islam",
+        "C. The word 'min' shows the warning is partial and conditional, not a universal characterisation of all spouses and children as spiritual obstacles",
+        "D. The word 'min' is a redundant particle that has no effect on the verse's meaning"
       ],
-      "correctAnswer": "Surrendering one's entire existence to Allah through love, service, and recognition of divine guardianship",
-      "explanation": "According to the Ahlul Bayt, the 'goodly loan' refers not merely to material charity but to offering one's soul, wealth, and actions as sacred trusts to the Creator. This represents surrendering one's entire existence to Allah through love, service, and recognition of divine guardianship—a profound metaphor for total spiritual devotion."
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli, in Al-Tafsir al-Munir, highlights that the verse uses 'min azwajikum' (among your spouses) and 'min awladikum' (among your children), not all of them. He notes this partitive 'min' means the warning concerns a specific risk arising in certain circumstances, not a sweeping verdict against family life as inherently harmful to faith."
     },
     {
       "id": "64_9",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 14,
-      "question": "Both Shia and Sunni scholars agree that verse 14 warns against allowing loved ones to become conduits for ethical compromise, but does not condemn family bonds inherently.",
+      "layer": 3,
+      "verseNumber": 16,
+      "question": "True or false: Sayyid Qutb, in Fi Zilal al-Quran, warns that Muslim societies often suffer from an abundance of religious listening that fails to produce corresponding obedience, a diagnosis he draws directly from the coupling of 'listen and obey' in verse 16.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both Shia commentators (like Ibn Kathir and Tabari from Sunni tradition, and Tabatabai and Tabrisi from Shia tradition) converge on the verse's core ethical message: familial relationships, while sacred, may test believers' spiritual priorities. The verse doesn't condemn family bonds but cautions against allowing them to distract from divine obligations or become sources of ethical compromise."
-    },
-    {
-      "id": "64_10",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 11,
-      "question": "What is a key theological difference between Shia and Sunni interpretations of verse 11 regarding divine predestination and human agency?",
-      "options": [
-        "Sunnis reject the concept of divine predestination entirely",
-        "Shias emphasize human agency within divine will, while Sunnis often stress predestination more strongly",
-        "Both traditions hold identical views with no distinctions",
-        "Shias deny any role for divine will in human affairs"
-      ],
-      "correctAnswer": "Shias emphasize human agency within divine will, while Sunnis often stress predestination more strongly",
-      "explanation": "While both traditions affirm Allah's omnipotence over all events, Sunni commentators like Ibn Kathir emphasize divine predestination (qadar) more strongly, reflecting the Ash'ari theological framework. Shia exegetes, following the principle of al-amr bayn al-amrayn (the matter between two matters), balance divine sovereignty with human moral agency, emphasizing that guidance of the heart requires active spiritual receptivity rather than passive acceptance alone."
+      "explanation": "Sayyid Qutb focuses in Fi Zilal al-Quran on the pairing of 'listen and obey' as a description of the ideal Islamic personality: one who hears Allah's word and converts that hearing directly into action without the distorting filter of personal desire. He explicitly states that 'the ailment of Muslim societies is often a gap between knowledge and practice — an abundance of listening that produces little obedience.'"
     }
   ]
 }

@@ -6,160 +6,195 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Mursalaat's opening verse, the term 'al-mursalaat' (those sent forth) is primarily interpreted in two ways. What are they?",
+      "question": "The opening oath of Surah Al-Mursalat swears by forces sent forth 'urfa' — in orderly succession. What does the word 'urfa' suggest about these forces, and why does the surah begin with an oath at all?",
       "options": [
-        "Angels dispatched by Allah or winds unleashed in succession",
-        "Prophets sent to humanity or stars in the sky",
-        "Rain clouds or desert storms only",
-        "Books revealed or messages delivered"
+        "A. The forces are chaotic and unpredictable, emphasizing the randomness of divine will",
+        "B. The forces move in a recognizable, ordered pattern and the oath grips the listener's attention before declaring the certainty of the Day of Judgment",
+        "C. The forces are purely metaphorical and the oath is a poetic device with no legal weight",
+        "D. The forces refer only to the angels of death and the oath signals the approach of Hellfire"
       ],
-      "correctAnswer": "Angels dispatched by Allah or winds unleashed in succession",
-      "explanation": "Shia scholars like Allamah Tabatabai and Sheikh Tabarsi explain that 'al-mursalaat' is interpreted in two primary ways: as angels dispatched by Allah to carry out His commands or as winds unleashed in succession (urfan), symbolizing divine power over nature."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that 'urfa' conveys a recognizable, ordered pattern — evoking the image of a horse's flowing mane. The rhetorical device of an oath (qasam) draws the listener's full attention to underscore the gravity of what follows: the sworn declaration in verse 7 that the Day of Judgment is absolutely certain."
     },
     {
       "id": "77_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 20,
-      "question": "The verse 'Did We not create you from a liquid disdained?' refers to semen, emphasizing humanity's humble origins as proof of Allah's creative power.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Imam al-Tabari, citing Ibn Abbas, Ibn Masud, Mujahid, and Qatadah, concluded in Jami al-Bayan that 'al-Mursalat' in verse 1 primarily refers to winds rather than angels.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. The term 'maa'in maheen' refers to semen, a fluid often perceived as insignificant. This verse, revealed in Makkah when disbelievers mocked resurrection, underscores Allah's power to create humanity from the most humble origins."
+      "explanation": "Tabari's Jami al-Bayan records that Ibn Masud, Ibn Abbas, Mujahid, and Qatadah all held that verse 1 refers to winds sent forth by Allah in successive gusts. Tabari himself inclines toward this interpretation, noting that the sequential progression from gentle waves to violent storms to cloud-spreading across verses 1 to 3 follows a natural meteorological order."
     },
     {
       "id": "77_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Tafsir al-Mizan, the 'gusts' (urfan) in verse 1 evoke what aspect of Shia eschatology?",
+      "layer": 3,
+      "verseNumber": 4,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, describes the angels of verse 4 (al-Fariqat) as performing 'a radical act of clarification.' What specifically did this act restore, according to his commentary?",
       "options": [
-        "The gradual development of Islamic law",
-        "The sudden, transformative power of divine intervention during the Mahdi's reappearance",
-        "The historical battles of early Islam",
-        "The peaceful spread of knowledge"
+        "A. The physical boundaries between nations that had been erased by war",
+        "B. The sharp, necessary distinctions between the divine and human, the moral and immoral, and the sacred and profane that paganism had blurred",
+        "C. The ancient covenants between Allah and the people of the Book",
+        "D. The celestial order of the stars that had been disturbed by the jinns"
       ],
-      "correctAnswer": "The sudden, transformative power of divine intervention during the Mahdi's reappearance",
-      "explanation": "Tabatabai explains that the 'gusts' (urfan) evoke the sudden, transformative power of divine intervention, mirroring Shia eschatology's focus on the abrupt advent of justice during the Mahdi's reappearance."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that in a world where paganism had blurred all lines — between the divine and the human, between the moral and the immoral, between the sacred and the profane — the revelation delivered by the angels performed a radical act of clarification, restoring the sharp, necessary boundaries that human civilization needs to function and flourish."
     },
     {
       "id": "77_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 29,
-      "question": "In Tafsir al-Mizan, how does Allama Tabatabai interpret the command 'Proceed to that which you used to deny' in verse 29?",
-      "options": [
-        "As a gentle invitation to reconsider beliefs",
-        "As a direct confrontation with the ontological consequences of persistent rejection",
-        "As a symbolic journey through history",
-        "As an opportunity for final repentance"
-      ],
-      "correctAnswer": "As a direct confrontation with the ontological consequences of persistent rejection",
-      "explanation": "Tabatabai emphasizes that denial encompasses not merely intellectual skepticism but active, willful rejection manifesting in moral corruption and social injustice. The command represents a direct confrontation with the ontological consequences of persistent rejection (takdhib)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "True or false: Verse 6 presents divine communication as serving a dual purpose — both removing all excuse for ignorance ('udhr') and delivering a solemn warning ('nudhr') — which together constitute the complete function of prophetic revelation.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains that 'udhr' (justification) and 'nudhr' (warning) represent the two simultaneous functions of divine communication. Wahbah al-Zuhayli notes in Al-Tafsir al-Munir that every prophetic mission carries both faces: a face of mercy giving humanity the chance to turn, and a face of justice establishing the argument so that accountability is complete."
     },
     {
       "id": "77_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary Shia scholars like Ayatollah Naser Makarem Shirazi, the 'winds' in verse 1 are interpreted only as meteorological phenomena with no connection to modern environmental issues.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Modern thinkers like Ayatollah Naser Makarem Shirazi interpret the 'winds' not merely as meteorological phenomena but as dynamic forces sustaining ecological balance, resonating with scientific understandings of atmospheric circulation and climate regulation—a theme amplified amid today's climate crisis."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "Ibn Kathir identifies verse 7 — 'Indeed, what you are promised is to occur' — as the 'jawab al-qasam.' What does this technical term mean in Quranic rhetoric?",
+      "options": [
+        "A. The opening invocation that launches a chain of oaths",
+        "B. The rhetorical question that introduces the surah's argument",
+        "C. The sworn statement upon which all the preceding oaths from verses 1 to 6 bear witness",
+        "D. The divine name used to seal a covenant at the end of a legal passage"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explains in Tafsir al-Quran al-Azim that 'jawab al-qasam' is the answer of the oath — the single declaration to which all of the preceding sworn witnesses testify. Every image of wind, storm, cloud-spreading, and revelation-bearing angels across verses 1 through 6 serves as sworn testimony to this one truth: the Day of Judgment will certainly come to pass."
     },
     {
       "id": "77_6",
       "type": "multipleChoice",
-      "layer": 3,
+      "layer": 1,
       "verseNumber": 15,
-      "question": "How do contemporary Shia scholars like Ayatollah Nasir Makarem Shirazi extend the meaning of 'deniers' (al-mukadhibin) in verse 15 beyond traditional theological interpretation?",
+      "question": "The refrain 'Woe, that Day, to the deniers' appears ten times across Surah Al-Mursalat. The word 'mukadhdhibin' describes a specific type of person. Which description is most accurate?",
       "options": [
-        "They limit it strictly to religious disbelief",
-        "They extend it to encompass willful ignorance of ethical, environmental, and social realities",
-        "They apply it only to historical Meccan polytheists",
-        "They reject the verse's relevance to modern times"
+        "A. People who have never received the prophetic message and deny from ignorance",
+        "B. People who privately doubt but publicly profess Islam",
+        "C. People who persistently and actively repudiate the truth despite clear evidence, making denial the settled pattern of their lives",
+        "D. People who acknowledge Allah but deny the prophethood of Muhammad"
       ],
-      "correctAnswer": "They extend it to encompass willful ignorance of ethical, environmental, and social realities",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi contextualize the verse within modern crises, extending the condemnation of deniers beyond theological rejection to encompass willful ignorance of ethical, environmental, and social realities."
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli notes that 'mukadhdhibin' is a plural active participle indicating ongoing, habitual denial rather than a single act of rejection. Sayyid Qutb in Fi Zilal al-Quran describes the refrain as a rhythmic hammer blow, each repetition striking with fresh force after a new Quranic argument, because the deniers made rejection the project of their entire lives."
     },
     {
       "id": "77_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching revealed in Tafsir al-Qummi, what does 'al-Mursalaat' (those sent forth) symbolically represent?",
-      "options": [
-        "The four winds from different directions",
-        "The Holy Prophet Muhammad and his purified progeny - the Imams of Guidance",
-        "The revealed books throughout history",
-        "The angels recording human deeds"
-      ],
-      "correctAnswer": "The Holy Prophet Muhammad and his purified progeny - the Imams of Guidance",
-      "explanation": "Imam Ja'far al-Sadiq reveals in Tafsir al-Qummi that 'al-Mursalaat' (those sent forth) symbolically represent the Holy Prophet Muhammad (pbuh) and his purified progeny - the Imams of Guidance sent successively by Allah to humanity."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 16,
+      "question": "True or false: Imam al-Qurtubi identifies the question 'Did We not destroy the former peoples?' in verse 16 as 'istifham taqriri' — a rhetorical question that affirms and compels acknowledgment of a well-known historical fact rather than seeking new information.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi explains the question is 'istifham taqriri,' asked not out of ignorance but to force the audience to acknowledge what they already know. Ibn Kathir reinforces this, noting that the trade routes of the Quraysh in Mecca passed by the actual ruins of Thamud in the Hijaz — they could literally see evidence of destroyed nations yet persisted in denial."
     },
     {
       "id": "77_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 20,
-      "question": "According to Imam Ali's teachings, the verse 'Did We not create you from a liquid disdained?' is merely a biological reminder with no spiritual significance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The Ahlul Bayt taught that this verse is not merely a biological reminder but a spiritual awakening to human fragility and divine grace. Imam Ali said, 'The one who knows his own self knows his Lord,' emphasizing that recognizing our humble origins leads to profound spiritual awareness."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 17,
+      "question": "In his commentary on verse 17 ('Then We will follow them with the later ones'), Sayyid Qutb argues the verse demolishes a particular false comfort. What is it?",
+      "options": [
+        "A. The idea that prayer alone guarantees salvation without ethical conduct",
+        "B. The notion that modern, technologically advanced civilizations are somehow exempt from divine law",
+        "C. The belief that wealthy individuals will be judged by a different standard on the Day of Judgment",
+        "D. The assumption that divine punishment only falls on individuals and never on entire nations"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that verse 17 strips away any comfortable notion that modern civilization is exempt from divine law. He argues that material prosperity and technological advancement can blind nations to the spiritual and moral decay that precedes collapse — the same pattern that destroyed the ancient nations described in verse 16."
     },
     {
       "id": "77_9",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 29,
-      "question": "According to Imam Ali al-Ridha's explanation of verse 29, who specifically does the verse address on Judgment Day?",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "In verse 30, the deniers are directed toward 'a shadow of smoke having three columns.' What makes this image a bitter inversion of normal expectation?",
       "options": [
-        "Those who rejected basic religious practices",
-        "Those who rejected divine truths manifested through the Imamah",
-        "Those who committed minor sins",
-        "Those who were unaware of Islamic teachings"
+        "A. The three columns represent three prophets whose intercession has been rejected",
+        "B. Shade normally provides relief from scorching heat, but this smoke-shadow offers no coolness and adds to the torment rather than relieving it",
+        "C. The word for shadow in Arabic is the same word used for the divine throne, creating a deliberate confusion",
+        "D. In Arab culture, smoke was traditionally associated with hospitality, so the image reverses that welcome"
       ],
-      "correctAnswer": "Those who rejected divine truths manifested through the Imamah",
-      "explanation": "Imam Ali al-Ridha explains that this verse addresses those who rejected divine truths manifested through the Imamah, stating: 'On Judgment Day, the deniers will be driven toward the very reality they mocked — the Wilayah of Muhammad and his purified household.'"
+      "correctAnswer": "B",
+      "explanation": "Verse 31 immediately clarifies that this 'shadow' neither provides cool shade nor protects from the flame. Al-Qurtubi notes the bitter Quranic irony: on a Day of unbearable heat, the deniers are driven toward what appears to be shade, but it is the billowing smoke of the fire consuming them — a cruel inversion of the blessed shade the righteous will enjoy."
     },
     {
       "id": "77_10",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is the key epistemological difference between Sunni and Shia interpretations of the opening verse according to comparative analysis?",
-      "options": [
-        "Sunni scholars reject the verse's authenticity",
-        "Sunni and Shia interpretations are completely identical",
-        "Sunni tafsir focuses on observable creation as proof of divine power, while Shia scholarship integrates Imamah into cosmological narratives",
-        "Shia scholars only accept allegorical interpretations"
-      ],
-      "correctAnswer": "Sunni tafsir focuses on observable creation as proof of divine power, while Shia scholarship integrates Imamah into cosmological narratives",
-      "explanation": "These differences stem from distinct hermeneutical frameworks. Sunni tafsir, shaped by early theological debates on Allah's attributes, often focuses on observable creation as proof of divine power. Shia scholarship, influenced by the teachings of the Ahl al-Bayt, integrates Imamah into cosmological narratives."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "True or false: According to Ibn Kathir, the name 'Yawm al-Fasl' (the Day of Sorting, verse 13) derives from a root meaning to cut or separate decisively, and appears in multiple surahs including Al-Saffat, Ad-Dukhan, and Al-Naba.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explains in Tafsir al-Quran al-Azim that 'fasl' carries the connotation of a sharp, decisive cut that leaves no ambiguity — every person will be assigned their eternal station completely and justly. He notes that this name for the Day of Judgment appears in Surahs Al-Saffat, Ad-Dukhan, and Al-Naba, each time emphasizing the absolute finality of divine judgment."
     },
     {
       "id": "77_11",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 38,
-      "question": "Both Al-Tabari (Sunni) and Al-Tabrisi (Shia) agree that verse 38 affirms the universality of Judgment Day where all generations face accountability.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Both Shia and Sunni exegetes converge on core themes of resurrection and divine justice. Al-Tabari (Sunni) and Al-Tabrisi (Shia) in Majma al-Bayan agree the verse affirms the universality of Judgment Day, where all generations face accountability."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "Wahbah al-Zuhayli, commenting on verse 27's pairing of mountains and fresh water, identifies an ecological significance. What connection does he draw?",
+      "options": [
+        "A. Mountains block desert winds, forcing rainfall to accumulate only in low valleys",
+        "B. Mountains serve as stabilizers of the earth's crust and are simultaneously the primary source of rivers, springs, and the fresh water cycle that sustains civilization",
+        "C. Fresh water is found exclusively near coastal mountains, making inland regions uninhabitable",
+        "D. The mention of mountains and water together is purely poetic with no ecological implication"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Zuhayli notes in Al-Tafsir al-Munir that the world's major river systems — the Nile, Euphrates, Tigris, and Indus — all originate in mountain ranges, making mountains the reservoirs and primary distributors of fresh water. Ibn Kathir similarly confirms that mountains are the source of rivers and springs, and that their pairing in the verse reflects a precise ecological reality presenting both as interconnected components of divine provision for life."
     },
     {
       "id": "77_12",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 38,
+      "question": "True or false: In verse 38, Allah uses the Arabic perfect tense to speak of the future gathering of all humanity — 'We have gathered you and the former peoples' — as a device expressing the absolute certainty of an event not yet occurred.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains this is a recognized Quranic rhetorical device: speaking of a certain future event in the accomplished perfect tense because, in Allah's knowledge, it is as fixed as something already done. Wahbah al-Zuhayli highlights this in Al-Tafsir al-Munir, noting it delivers powerful psychological impact by confronting the listener with the inevitability of the Day of Judgment."
+    },
+    {
+      "id": "77_13",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 7,
-      "question": "In interpreting verse 7 ('Indeed, what you are promised is to occur'), on what point do both Shia and Sunni scholars converge?",
+      "layer": 2,
+      "verseNumber": 29,
+      "question": "Al-Qurtubi notes that verse 29 uses the grammatical form 'kuntum bihi tukadhdhibuun' to describe the deniers' rejection. What is the significance of this specific form?",
       "options": [
-        "They disagree completely on the verse's meaning",
-        "Both affirm the inevitability of divine promises, particularly resurrection and final judgment",
-        "They focus only on worldly promises",
-        "They reject the verse's eschatological significance"
+        "A. It indicates the denial was a single, momentary error that might still be forgiven",
+        "B. It signals that the denial was caused by insufficient prophetic evidence being available to them",
+        "C. It indicates habitual, sustained, and wilful rejection — denial was their entire settled orientation toward the truth, not an isolated lapse",
+        "D. It shows the denial was forced upon them by their tribal leaders rather than freely chosen"
       ],
-      "correctAnswer": "Both affirm the inevitability of divine promises, particularly resurrection and final judgment",
-      "explanation": "Both Shia and Sunni scholarly traditions converge on the verse's core eschatological meaning, affirming the inevitability of divine promises—particularly resurrection and final judgment. Al-Tabari (Sunni) and Al-Tusi (Shia) alike contextualize the verse within the Quran's broader warnings of cosmic upheaval."
+      "correctAnswer": "C",
+      "explanation": "Al-Qurtubi explains that 'kuntum' — the past imperfect form indicating habitual action — underscores that their denial was not a momentary lapse but a sustained, deliberate, and settled rejection. This grammatical precision strengthens the justness of the punishment: they did not err once, they made denial the whole orientation of their lives toward the truth, as the refrain 'woe to the deniers' repeating across the surah also makes clear."
+    },
+    {
+      "id": "77_14",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 48,
+      "question": "True or false: According to Wahbah al-Zuhayli in Al-Tafsir al-Munir, verse 48 — condemning those who refuse to bow in prayer — addresses two dimensions of rejection simultaneously: intellectual denial of truth and practical abandonment of worship.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli states in Al-Tafsir al-Munir that verse 48 juxtaposes 'takdhib' (intellectual rejection of truth) with 'tark al-ibada' (practical abandonment of worship), and that the refusal to perform ruku embodies the essence of 'kibr' (arrogance) which Islam identifies as the root of disbelief. Ibn Uthaymeen further stressed that this verse shows prayer is the living pillar of a believer's relationship with Allah, making its abandonment a severe spiritual crime."
+    },
+    {
+      "id": "77_15",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 50,
+      "question": "The final verse asks: 'Then in what statement after this will they believe?' Fakhr al-Din al-Razi, in Mafatih al-Ghayb, draws a logical conclusion about those who reject the Quran. What is it?",
+      "options": [
+        "A. They may still find guidance through sincere philosophical inquiry after the Quran",
+        "B. They have no rational basis for accepting any truth, since they rejected the most self-evident and miraculously complete presentation of it",
+        "C. They should be given further prophets before being held fully accountable",
+        "D. Their rejection will be pardoned if they perform charitable deeds without explicit theological belief"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi states in Mafatih al-Ghayb that rejecting the Quran is irrational because it fulfills every criterion of divine speech — truthful, clear, comprehensive, and miraculous in its composition. Ibn Kathir likewise explains that if this message has been rejected, no discourse on earth could substitute for it, leaving the denier without any rational basis for accepting truth and rendering their position logically untenable."
     }
   ]
 }

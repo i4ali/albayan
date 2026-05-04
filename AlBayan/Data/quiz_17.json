@@ -6,260 +6,290 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What event does the opening verse of Surah Al-Israa refer to?",
+      "question": "The opening verse of Surah Al-Isra begins with the word 'Subhana.' What is the significance of starting the description of the Night Journey with this word?",
       "options": [
-        "The Battle of Badr",
-        "The miraculous Night Journey (Isra) and Ascension (Mi'raj)",
-        "The revelation of the first Quranic verses",
-        "The conquest of Mecca"
+        "A. It is a standard greeting used to open all Meccan surahs",
+        "B. It declares Allah's absolute perfection and transcendence, framing the miracle as beyond all physical laws",
+        "C. It indicates that the journey was a dream vision rather than a physical event",
+        "D. It is a prayer the Prophet recited before departing on the journey"
       ],
       "correctAnswer": "B",
-      "explanation": "The opening verse refers to the miraculous Night Journey (Isra) of Prophet Muhammad from Makkah's Masjid al-Haram to Jerusalem's Masjid al-Aqsa, followed by his Ascension (Mi'raj) through the heavens."
+      "explanation": "The tafsir explains that 'Subhana' is a word of glorification declaring that Allah is far above any limitation, which is fitting because this miracle transcends all known physical laws. Sayyid Qutb in Fi Zilal al-Quran adds that it frames the entire event within the vocabulary of divine transcendence, making the miracle a testament to the supremacy of the divine will over all natural order."
     },
     {
       "id": "17_2",
       "type": "trueFalse",
-      "layer": 1,
+      "layer": 2,
       "verseNumber": 1,
-      "question": "The phrase 'barakna hawlahu' (whose surroundings We have blessed) in verse 1 refers to the sanctity of the land around Masjid al-Aqsa.",
+      "question": "True or false: According to the mainstream Sunni scholarly tradition, as recorded by Imam Tabari and confirmed by Ibn Kathir citing the hadith of Malik ibn Saasaa in Bukhari and Muslim, the Night Journey was a physical, bodily journey undertaken by the Prophet while awake.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The phrase 'barakna hawlahu' highlights the sanctity of the land around Masjid al-Aqsa, connecting the Islamic faith to earlier Abrahamic traditions shared by prophets before Muhammad."
+      "explanation": "Imam Tabari in Jami al-Bayan records extensive narrations establishing that the Night Journey was a physical, bodily journey, not merely a spiritual vision or dream. Ibn Kathir cites the sahih hadith of Malik ibn Saasaa in Bukhari and Muslim as the most complete narration, and Wahbah al-Zuhayli concludes with the same majority Sunni position in Al-Tafsir al-Munir."
     },
     {
       "id": "17_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 26,
-      "question": "According to verse 26, which groups have rights that must be fulfilled?",
+      "verseNumber": 1,
+      "question": "Allah describes the Prophet at the moment of the Night Journey using the term 'abdihi' (His servant). What lesson does this choice of word convey?",
       "options": [
-        "Only relatives",
-        "Only the poor",
-        "Relatives, the materially poor, and stranded travelers",
-        "Only wealthy merchants"
+        "A. That the Prophet was inferior to the angels he met during the journey",
+        "B. That Arabic titles of honor must always be used when addressing prophets",
+        "C. That true nobility lies in complete servitude to God, not in worldly or cosmic status",
+        "D. That the Prophet was a freed slave who earned this honor through personal effort"
       ],
       "correctAnswer": "C",
-      "explanation": "Verse 26 instructs believers to give the relative his right, support al-miskeen (the materially poor) and ibn al-sabeel (the stranded traveler), while avoiding wasteful extravagance."
+      "explanation": "The tafsir notes that at the peak of this divine honor, the Prophet is described as a servant of Allah, teaching Muslims that true nobility lies in complete submission to God. Sayyid Qutb observes that in Islamic theology the highest station of the Prophet is not sonship or divinity but complete servanthood, and this moment of cosmic honor is expressed through the language of humble submission."
     },
     {
       "id": "17_4",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 27,
-      "question": "According to the tafsir, the wasteful (mubadhirin) are described as brothers of the devils because wastefulness reflects ingratitude like Satan's rebellion.",
+      "verseNumber": 2,
+      "question": "True or false: In verse 2, the word 'wakil' means an enemy or adversary, and the command is for the Children of Israel to avoid their enemies.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Quran compares the wasteful to 'brothers of the devils' because wastefulness aligns humans with Satan's core trait: ingratitude (kufr). Waste is seen as a rejection of Allah's gifts, paralleling Satan's rejection of divine grace."
+      "correctAnswer": "false",
+      "explanation": "The tafsir explains that 'wakil' means one who is trusted, relied upon, and appointed to manage affairs. Wahbah al-Zuhayli in Al-Tafsir al-Munir notes that 'Wakil' is one of the divine names — Allah is Al-Wakil — and the command to take no other wakil is therefore a direct affirmation of tawhid in its most practical form: the governance of one's complete reliance and trust."
     },
     {
       "id": "17_5",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "How do classical Shia exegetes like Tabatabai interpret the term 'abd' (servant) used to describe the Prophet in verse 1?",
+      "verseNumber": 3,
+      "question": "The Quran praises Prophet Noah in verse 3 with the phrase 'abdan shakura.' Ibn Kathir records a tradition explaining how Noah's gratitude manifested in daily life. What does that tradition report?",
       "options": [
-        "As a sign of weakness",
-        "As emphasizing the Prophet's perfected human servitude to Allah",
-        "As a term only for ordinary people",
-        "As referring to all Muslims"
+        "A. Noah prayed five prayers a day before that obligation was given to Muhammad",
+        "B. Noah would say Alhamdulillah upon every activity of daily life, including eating, drinking, and wearing clothes",
+        "C. Noah recited the entirety of his scripture before each meal",
+        "D. Noah fasted every other day as an expression of gratitude"
       ],
       "correctAnswer": "B",
-      "explanation": "The use of 'abd' (servant) underscores the Prophet's perfected human servitude to Allah, while the passive verb 'asra' (took) signifies divine agency beyond temporal or spatial constraints."
+      "explanation": "Ibn Kathir cites authentic reports stating that Noah would offer praise to Allah upon every activity of daily life so that his gratitude permeated his entire existence. This is reported in narrations collected by Ibn Abi Hatim, illustrating that 'shakur' is an intensive Arabic form meaning one who is deeply, consistently, and thoroughly grateful."
     },
     {
       "id": "17_6",
-      "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "According to Shia exegesis, the 'right of the relative' (haqq dhi al-qurba) in verse 26 includes the divinely ordained rights of the Ahl al-Bayt.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabrisi cites narrations from Imam Jafar al-Sadiq specifying that this refers not only to kinship ties but also to the divinely ordained rights of the Ahl al-Bayt, who embody spiritual and material guardianship over the community."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 13,
+      "question": "Verse 13 says every human's 'ta'ir' is fastened to their neck. What was the original Arabic meaning of 'ta'ir' that the Quran deliberately repurposes?",
+      "options": [
+        "A. A chain used to punish prisoners in pre-Islamic courts",
+        "B. A scroll written by the recording angels before birth",
+        "C. A bird used in pre-Islamic omens and augury to predict one's fate",
+        "D. A mirror reflecting a person's true inner spiritual state"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The tafsir explains that 'ta'ir' literally means something that flies and was historically used for the practice of taking omens from birds (zajr al-tayr). The Quran subverts this pagan superstition powerfully: your fate is not determined by a bird flying left or right, but by your own moral choices. Imam Tabari records consensus among Ibn Abbas, Mujahid, Qatadah, and Ibn Zayd that 'ta'ir' here means one's deeds and their consequences."
     },
     {
       "id": "17_7",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 51,
-      "question": "What does the phrase 'He who brought you forth the first time' in verse 51 emphasize about resurrection?",
-      "options": [
-        "Resurrection is impossible",
-        "Only humans can restore life",
-        "Restoring life is logically simpler than originating it ex nihilo",
-        "Resurrection will never happen"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Tabatabai observes that this argument, rooted in the principle that restoring life is logically simpler than originating it ex nihilo, establishes resurrection as a necessary corollary of divine wisdom and justice."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "True or false: Sayyid Qutb explains verse 13 as a statement of radical personal responsibility, arguing that Islam does not allow the believer to blame fate, society, ancestors, or circumstances for their moral choices.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran offers a reading of this verse noting that the image of deeds fastened to the neck is a statement of radical personal responsibility. He writes that Islam does not allow the believer to blame fate, society, ancestors, or circumstances for their moral choices: the book of deeds is uniquely and inescapably one's own."
     },
     {
       "id": "17_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 77,
-      "question": "What does the divine 'sunnah' (established way) in verse 77 refer to according to Shia scholars?",
+      "layer": 1,
+      "verseNumber": 23,
+      "question": "Verse 23 places the command to honor parents immediately after worshipping Allah alone. What does the word 'qada' used here signify about the nature of this obligation?",
       "options": [
-        "The Prophet's personal habits",
-        "The unchanging laws governing prophethood that extend through Imamate",
-        "Cultural traditions of Arabia",
-        "Dietary laws only"
+        "A. It is a historical account about a past community and not binding on Muslims",
+        "B. It is a binding divine decree, making mistreatment of parents a transgression against a divine ordinance",
+        "C. It is a strong recommendation that carries no legal weight in Islamic jurisprudence",
+        "D. It applies only to parents who are Muslim and practicing"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia scholars interpret the sunnah as encompassing unchanging laws governing prophethood - trials faced by messengers, moral steadfastness, and ultimate triumph of truth. This constancy extends to the post-prophetic era through the doctrine of Imamate."
+      "explanation": "Imam Tabari explains that 'qada' carries the weight of a binding divine decree, not merely a recommendation, making the mistreatment of parents a transgression against a divine ordinance. Ibn Kathir confirms this by noting that the pairing of worship of Allah with kindness to parents appears repeatedly in the Quran, establishing a structural pattern emphasizing the inseparability of these two obligations."
     },
     {
       "id": "17_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 1,
-      "question": "According to contemporary scholar Ayatollah Nasir Makarem Shirazi, what does the Isra (night journey) symbolize?",
+      "verseNumber": 23,
+      "question": "Wahbah al-Zuhayli observes that verse 23 specifically addresses the scenario of parents reaching old age. Why does the Quran single out this particular life phase?",
       "options": [
-        "Physical exercise",
-        "Material wealth acquisition",
-        "Humanity's capacity to rise above earthly limitations through divine guidance",
-        "Political power"
+        "A. Because elderly parents are more likely to make financial demands on their children",
+        "B. Because this is when parents are most vulnerable and the temptation to feel burdened is strongest, so the Quran preemptively prohibits even the subtlest expression of irritation",
+        "C. Because the Prophet's own parents died when he was young, making the verse historically specific",
+        "D. Because elderly parents become legally incompetent and need government protection"
       ],
-      "correctAnswer": "C",
-      "explanation": "Ayatollah Makarem Shirazi emphasizes that the Isra symbolizes humanity's capacity to rise above earthly limitations through divine guidance, a theme resonant in an age grappling with materialism and existential disconnection."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir points out that the verse addresses old age specifically because this is when parents are most vulnerable and the temptation to feel burdened may be strongest. The Quran anticipates this human weakness and preemptively prohibits even the subtlest expression of it, forbidding even the mildest Arabic sound of exasperation, the word 'uff.'"
     },
     {
       "id": "17_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 26,
-      "question": "Contemporary Shia scholars like Ayatollah Sayyid Kamal al-Haydari frame verse 26 as a call for systemic justice that extends beyond voluntary charity to address structural inequalities.",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "True or false: Verse 24 teaches believers to lower the wing of humility toward their parents out of mercy, and includes a divinely taught supplication asking Allah to have mercy on them as they raised the believer when small.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Contemporary scholars frame verse 26 as a call for systemic justice, emphasizing that 'rights' (haqq) extend beyond voluntary charity to include addressing structural inequalities, aligning with modern discourses on wealth redistribution."
+      "explanation": "The tafsir of verse 24 confirms both elements: the metaphor of lowering the wing of humility (janah al-dhull) evoking a mother bird sheltering her chicks, and the divinely taught supplication 'Rabbi irhamhuma kama rabbayani saghira.' This prayer acknowledges that ultimate care for parents comes from Allah while the believer provides physical service."
     },
     {
       "id": "17_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 52,
-      "question": "How does Dr. Mohammad Ali Shomali connect verse 52 about life's brevity to modern life?",
+      "layer": 2,
+      "verseNumber": 27,
+      "question": "Ibn Masud, as recorded by Imam Tabari, gave a precise definition of tabdhir (wastefulness) condemned in verse 27. What is that definition?",
       "options": [
-        "It is irrelevant today",
-        "Digital distraction and consumerism distract us from life's ultimate meaning",
-        "Technology has solved all spiritual problems",
-        "Time perception has not changed"
+        "A. Spending more than one earns in a given calendar month",
+        "B. Donating to charitable causes outside one's immediate family circle",
+        "C. Spending in a way that is not right, on what is impermissible or without purpose, regardless of the quantity spent",
+        "D. Spending money on any form of entertainment rather than religious activities"
       ],
-      "correctAnswer": "B",
-      "explanation": "Dr. Shomali links the verse to existential philosophy, noting that in an age of digital distraction and consumerism, the verse challenges us to question whether our daily grind aligns with lasting purpose or merely distracts us from life's ultimate meaning."
+      "correctAnswer": "C",
+      "explanation": "Ibn Masud, as recorded by Imam Tabari, stated that tabdhir means spending in a way that is not right — it is not about the quantity spent but about the appropriateness and legitimacy of the expenditure. Ibn Abbas further clarified that if a man spent all his wealth on what is right and lawful, he would not be considered a spendthrift, but even a small amount spent on what is forbidden or purposeless constitutes tabdhir."
     },
     {
       "id": "17_12",
       "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 76,
-      "question": "According to contemporary Shia scholars, verse 76 about the Prophet's persecution resonates with modern struggles against displacement, authoritarianism, and cultural erasure.",
+      "verseNumber": 27,
+      "question": "True or false: Sayyid Qutb interprets the 'brotherhood with devils' in verse 27 as a psychological and spiritual diagnosis, arguing that the wasteful person has surrendered their rational faculties to impulse and desire, mirroring the condition of Shaytan.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Scholars like Dr. Liyakat Takim note the verse's relevance to marginalized communities, from Palestinians facing occupation to Uyghurs enduring state persecution, underscoring how faith-rooted resilience defies attempts to uproot identity."
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran interprets the brotherhood with devils as a deeply psychological and spiritual diagnosis — the wasteful person has surrendered their rational and moral faculties to impulse and desire, mirroring the condition of Shaytan who let arrogance override his reason and gratitude. Sheikh Muhammad al-Sha'rawi similarly noted that wastefulness reflects a failure to recognize that everything one possesses is a trust from God."
     },
     {
       "id": "17_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq, what did Allah show the Prophet during the Night Journey?",
+      "layer": 1,
+      "verseNumber": 31,
+      "question": "Verse 31 forbids killing children out of fear of poverty. The wording says 'We provide for them and for you' — placing the child's provision first. Why do classical scholars consider this word order significant?",
       "options": [
-        "Only the stars",
-        "Trade routes",
-        "The realities of the heavens and earth, and the luminous essence of the Imams",
-        "Only Masjid al-Aqsa"
+        "A. It indicates that children are inherently more beloved to Allah than parents",
+        "B. It establishes that zakat must be allocated for children before parents receive any benefit",
+        "C. Since the fear is of future poverty rather than present poverty, the child's provision is mentioned first to offer the greater reassurance that Allah will provide for the new life",
+        "D. It is a grammatical convention with no theological implication"
       ],
       "correctAnswer": "C",
-      "explanation": "Imam Jafar al-Sadiq explains that Allah showed the Prophet 'the realities of the heavens and the earth, the stations of the prophets, and the luminous essence of the Imams from his progeny,' affirming the eternal truth of Imamah."
+      "explanation": "Ibn Kathir draws the distinction between this verse and its parallel in Surah al-An'am (6:151). In Al-An'am, actual present poverty is addressed, so Allah mentions His provision for parents first. Here in Al-Isra, fear of future poverty is the concern, so the child's provision is mentioned first, offering greater rhetorical reassurance. Imam Qurtubi affirms that calling infanticide 'a great sin' places it among the major sins (kaba'ir) in Islamic law."
     },
     {
       "id": "17_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 26,
-      "question": "According to Imam Ja'far al-Sadiq, the right of the relative extends beyond material support to include 'the warmth of your presence, the shield of your tongue, and the fragrance of your compassion.'",
+      "layer": 2,
+      "verseNumber": 31,
+      "question": "True or false: Ibn Kathir records a hadith in Sahih Bukhari and Muslim in which the Prophet was asked about the greatest sin, and the answer places killing one's child alongside shirk and zina — corresponding exactly to the sequence of prohibitions in these verses of Surah Al-Isra.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Imam Ja'far al-Sadiq taught that 'The right of the relative is not merely coins in the palm, but the warmth of your presence, the shield of your tongue, and the fragrance of your compassion.'"
+      "explanation": "Ibn Kathir cites the hadith in Sahih Bukhari and Muslim in which the Prophet answered that the greatest sins include setting up a rival to Allah, killing your child fearing it will share your food, and committing zina with a neighbor's wife. Ibn Kathir explicitly notes that this narration directly connects shirk, infanticide, and zina — precisely the sequence found in the surrounding verses of Al-Isra."
     },
     {
       "id": "17_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 27,
-      "question": "What did Imam Ali teach about extravagance according to the tafsir of verse 27?",
+      "layer": 2,
+      "verseNumber": 33,
+      "question": "Verse 33 grants the heir of an unjustly killed person 'sultan' (authority), but warns against excess in retribution. According to Ibn Kathir and Imam Qurtubi, what does this warning against excess specifically prohibit?",
       "options": [
-        "Extravagance is acceptable",
-        "Extravagance breeds scarcity - not merely of wealth, but of wisdom",
-        "Extravagance only affects the poor",
-        "Extravagance is encouraged"
+        "A. The heir may not accept blood money (diya) in place of execution under any circumstances",
+        "B. The heir must wait a full year before pursuing any form of retribution",
+        "C. The heir may not kill anyone other than the actual murderer, may not torture the condemned, and may not kill after accepting blood money",
+        "D. The heir must obtain written permission from the ruling caliph before any retribution is carried out"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali warned in Nahj al-Balagha, 'Extravagance breeds scarcity - not merely of wealth, but of wisdom.' This teaching links waste to a loss of both material and spiritual resources."
+      "correctAnswer": "C",
+      "explanation": "Classical scholars were unanimous that excess means the heir may not kill anyone other than the actual murderer, may not torture the condemned, and may not kill after accepting blood money. Ibn Kathir records this consensus and Imam Qurtubi discusses the legal dimensions extensively in Al-Jami li-Ahkam al-Quran, noting this verse is among the foundational texts for the Islamic law of qisas."
     },
     {
       "id": "17_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 52,
-      "question": "According to Imam Ja'far al-Sadiq, how will believers perceive their worldly lifespan on the Day of Judgment?",
+      "layer": 2,
+      "verseNumber": 61,
+      "question": "When Iblis refused to prostrate before Adam, classical Sunni scholars debated his nature. What was the position of Imam Tabari and the vast majority of classical Sunni scholars?",
       "options": [
-        "As lasting forever",
-        "As a single Friday prayer's duration",
-        "As thousands of years",
-        "As exactly how long they lived"
+        "A. Iblis was the greatest of the angels and was therefore exempt from the command to prostrate",
+        "B. Iblis was a jinn, not an angel, which explains why his disobedience was possible since angels by nature do not disobey",
+        "C. Iblis was a human being who had been elevated to heavenly status through extreme piety",
+        "D. Iblis was a distinct divine power created before both angels and jinn"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq reportedly stated that on Judgment Day, even those who lived centuries will feel their lifespan amounted to 'a single Friday prayer's duration,' illustrating the illusory nature of temporal attachment."
+      "explanation": "Imam Tabari and the vast majority of classical Sunni scholars, citing Quran 18:50 which states 'he was of the jinn,' held that Iblis was a jinn, not an angel. This makes his disobedience comprehensible since the angels by nature do not disobey. Ibn Kathir in Tafsir al-Quran al-Azim draws on parallel accounts in multiple surahs to reinforce this hadith-grounded reading."
     },
     {
       "id": "17_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations of the Isra verse?",
-      "options": [
-        "Sunni scholars deny the journey happened",
-        "Shia scholars reject the journey's spiritual significance",
-        "Shia scholars often associate the blessed surroundings with the Ahl al-Bayt's spiritual legacy",
-        "Both traditions have identical interpretations"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Shia commentaries often associate the 'blessed surroundings' with the spiritual legacy of the Ahl al-Bayt, interpreting the journey as a prelude to the Prophet's designation of Imam Ali's guardianship at Ghadir Khumm."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 62,
+      "question": "True or false: Ibn Uthaymeen teaches that the sin of Iblis was not outright atheism but a sin of arrogance and objection to divine wisdom — a refusal to accept Allah's decree about who deserves honor.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen draws attention to the psychology of Iblis's challenge, pointing out that Iblis did not deny Allah's existence or power. Rather, his corruption was relational — a refusal to accept Allah's decree regarding who deserves honor. Ibn Uthaymeen uses this to illustrate how destructive kibr (pride) is, noting it was the very first sin committed and caused the very first expulsion from divine mercy."
     },
     {
       "id": "17_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "Both Shia and Sunni scholars agree that verse 26 establishes a moral framework for balanced stewardship of wealth rooted in Quranic principles of social justice.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Classical commentators across traditions concur that the verse establishes a moral framework for balanced stewardship of wealth, rooted in Quranic principles of social justice, though they differ on the scope of 'the relative.'"
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 82,
+      "question": "Verse 82 says the Quran is healing and mercy for believers but increases the wrongdoers only in loss. What does the tafsir say explains this opposite effect on two different groups?",
+      "options": [
+        "A. The Quran has different physical editions, one for believers and one for wrongdoers",
+        "B. The same divine light that guides a purified soul causes confusion in a darkened soul that refuses to be cleansed, just as sunlight benefits healthy eyes but strains diseased ones",
+        "C. Wrongdoers are forbidden from reading the Quran until they formally repent",
+        "D. The Arabic Quran heals while translations of it only increase confusion among those who reject it"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb explains that the same divine light that guides a purified soul causes further confusion in a darkened soul that refuses to be cleansed — just as sunlight benefits healthy eyes but strains diseased ones. The tafsir confirms that this does not mean the Quran itself is harmful, but that refusing its guidance deepens spiritual blindness."
     },
     {
       "id": "17_19",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 51,
-      "question": "How do Shia scholars uniquely interpret 'perhaps it will be soon' in verse 51 regarding resurrection?",
-      "options": [
-        "As referring only to the end of times",
-        "As meaningless",
-        "As alluding to both individual resurrection and the raj'a (return) of the Ahl al-Bayt",
-        "As a metaphor for sleep"
-      ],
-      "correctAnswer": "C",
-      "explanation": "In Shia tradition, 'perhaps it will be soon' is understood as alluding to both individual resurrection and the eschatological 'Return' (raj'a) of the Ahl al-Bayt and their adversaries, a concept unique to Shia theology."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 82,
+      "question": "True or false: Ibn Uthaymeen stressed that the Quran's healing function requires active engagement — reading with reflection, seeking to understand, and applying what is understood — rather than treating the Quran as a passive charm.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Uthaymeen stressed that the Quran is not a passive charm but a living guidance demanding intellectual and volitional participation. Wahbah al-Zuhayli in Al-Tafsir al-Munir similarly notes the Quran's capacity to heal both heart and body, drawing on Ibn al-Qayyim's writings, and emphasizes that this dual healing requires sincere, active engagement with the text."
     },
     {
       "id": "17_20",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 76,
-      "question": "According to the comparative tafsir, both Shia and Sunni scholars agree that verse 76 reassures the Prophet of divine protection and affirms that his adversaries' plots would ultimately fail.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni exegetes broadly agree on the historical context, interpreting verse 76 as a reference to the Quraysh's efforts to expel the Prophet, with divine reassurance that his adversaries' plots would ultimately fail."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 81,
+      "question": "Verse 81 declares 'Truth has come and falsehood has departed.' With which famous event did the Prophet recite this verse, as recorded in Sahih Bukhari?",
+      "options": [
+        "A. The Battle of Badr, when the first major Muslim military victory was achieved",
+        "B. The signing of the Treaty of Hudaybiyya with the Quraysh",
+        "C. The Conquest of Mecca, when the Prophet entered the Kaaba and struck each of the 360 idols with his staff",
+        "D. The migration to Medina (Hijra) when the Prophet left Makkah"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records the hadith of Abdullah ibn Masud in Sahih Bukhari and Sahih Muslim, in which the Prophet circled the Kaaba on the day of the Conquest of Mecca and recited this verse as each idol fell. Imam Tabari explains that Allah used the past tense 'zahaq' (departed) even while speaking of a future event, indicating absolute certainty about falsehood's inevitable collapse."
+    },
+    {
+      "id": "17_21",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 26,
+      "question": "Verse 26 commands giving relatives, the poor, and the wayfarer their 'haqq' (right). The use of the word 'haqq' rather than a term for optional charity carries what specific moral implication according to the tafsir?",
+      "options": [
+        "A. Only the government is obligated to distribute funds to the poor and needy",
+        "B. Support for relatives and the needy is elevated from optional kindness to obligatory justice — the poor claim their right, not merely beg for mercy",
+        "C. Charity is forbidden unless the recipient formally submits a request in writing",
+        "D. The obligation is restricted to blood relatives only and explicitly excludes non-family members"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that framing support as 'haqq' transforms the psychology of giving from patronizing charity to fulfilling an obligation. Imam Tabari records that 'give the relative his right' was understood by early scholars as including both obligatory and recommended forms of support. Imam Qurtubi adds that close relatives in genuine need create a binding obligation on those with means."
+    },
+    {
+      "id": "17_22",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 34,
+      "question": "Verse 34 instructs guardians not to approach an orphan's property except in the best manner until the orphan reaches maturity. What broader principle does Wahbah al-Zuhayli identify in this command?",
+      "options": [
+        "A. That orphan property automatically transfers to the Islamic state upon the death of both parents",
+        "B. That guardianship is a sacred trust demanding exceptional integrity, prioritizing the orphan's benefit over the guardian's own convenience or gain",
+        "C. That orphans may not own property in Islamic law until they have proven financial competence",
+        "D. That all financial decisions involving orphans must be approved by at least three male witnesses"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir establishes that the command creates rigorous standards for those entrusted with vulnerable people's assets, teaching that guardianship is a sacred trust requiring exceptional integrity. Wahbah al-Zuhayli in Al-Tafsir al-Munir notes that Islam distributes responsibility for care of the vulnerable across the entire community, beginning with those closest in relation, and the temporal limit 'until maturity' shows that authority over others must yield when they gain competence."
     }
   ]
 }

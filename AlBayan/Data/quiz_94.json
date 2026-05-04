@@ -6,65 +6,90 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Ash-Sharh's opening verse, what does the term 'nashrah' (expansion) signify according to the Foundation Layer?",
+      "question": "What does the rhetorical question 'Have We not expanded for you your breast?' in the opening verse signify?",
       "options": [
-        "Physical expansion of the chest only",
-        "The removal of constriction and preparation of the Prophet's heart to receive divine revelation",
-        "A medical procedure",
-        "The expansion of the Prophet's influence in Mecca"
+        "A request for the Prophet to confirm Allah's favor",
+        "An emphatic affirmation that Allah has already granted this expansion",
+        "A conditional promise dependent on the Prophet's struggle",
+        "A literal physical question about bodily health"
       ],
-      "correctAnswer": "The removal of constriction and preparation of the Prophet's heart to receive divine revelation",
-      "explanation": "The term 'nashrah' signifies the removal of constriction, while 'sadr' (chest or heart) symbolizes the center of faith, wisdom, and resilience. Scholars like Allamah Tabatabai emphasize that this 'expansion' refers to the Prophet's purified heart being prepared to receive divine revelation and endure the immense responsibility of prophethood."
+      "correctAnswer": "B",
+      "explanation": "The interrogative form 'a-lam' is understood by the classical scholars as an affirmative declaration. As Imam al-Tabari notes, this rhetorical device transforms the question into an emphatic statement of fact: 'We indeed have expanded your breast.'"
     },
     {
       "id": "94_2",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 5,
-      "question": "According to classical Shia scholars like Al-Tabrisi and Al-Tabatabai, the grammatical structure of verse 5 indicates that every specific hardship is met with multiple, expansive forms of divine relief.",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "True or false: The Arabic word 'anqada' in verse 3 conveys the sound of something creaking or cracking under intense pressure, like wood about to break.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Al-Tabrisi in Majma al-Bayan observes that the grammatical structure—specifically the use of the definite article 'al-' in 'al-'usr' (the hardship) and the indefinite 'yusra' (ease)—indicates that every specific hardship is met with multiple, expansive forms of divine relief, reflecting Allah's attribute of Lutf (divine grace)."
+      "explanation": "The tafsir explains that 'anqada' literally evokes the sound that wood or bone makes when it bends under excessive weight. This graphic imagery conveys how immense the burden placed on the Prophet was before Allah removed it."
     },
     {
       "id": "94_3",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How do contemporary scholars like Dr. Liyakat Takim extend the concept of 'expansion of the chest' to modern contexts?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Which Companion's narration recorded by Ibn Kathir explains the elevation of the Prophet's repute by saying 'There is no sermon, prayer, or place of gathering among Muslims except that his name is proclaimed therein'?",
       "options": [
-        "They reject it as outdated",
-        "They limit it to historical understanding only",
-        "They link it to communal ethics and fostering empathy amid global crises like refugee displacement and climate injustice",
-        "They focus solely on individual spiritual practices"
+        "Ibn Mas'ud",
+        "Ibn Abbas",
+        "Qatadah",
+        "Hasan al-Basri"
       ],
-      "correctAnswer": "They link it to communal ethics and fostering empathy amid global crises like refugee displacement and climate injustice",
-      "explanation": "Modern scholars like Dr. Liyakat Takim extend this concept to communal ethics, linking the 'open heart' to fostering empathy amid global crises, from refugee displacement to climate injustice. This demonstrates how the verse's spiritual message applies to contemporary social justice issues."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records this narration from the Companion Qatadah, who emphasized that Allah raised the Prophet's fame in this world and the Hereafter such that his name is proclaimed in every gathering of worship and remembrance among Muslims."
     },
     {
       "id": "94_4",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 7,
-      "question": "According to Imam Ali al-Ridha's teaching about verse 7, what does 'standing up' after completing tasks mean?",
-      "options": [
-        "Taking a physical break from work",
-        "Devoting yourself to supplication and nearness to Allah through supererogatory worship",
-        "Going to sleep immediately",
-        "Starting another worldly task"
-      ],
-      "correctAnswer": "Devoting yourself to supplication and nearness to Allah through supererogatory worship",
-      "explanation": "Imam Ali al-Ridha explained that this divine command transcends mere physical acts: 'When you complete your obligatory deeds, devote yourself to supplication and nearness to Allah through supererogatory worship, for you are never idle in your spiritual journey.' This reflects the Shia understanding of life as an unbroken chain of worship."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "True or false: The classical scholars derived the principle 'one hardship will not overcome two eases' from the use of the definite article on 'al-usr' and its absence from 'yusra' in verses 5 and 6.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir reports this principle prominently in his tafsir and attributes its derivation to Ibn Abbas. Because 'al-usr' is definite (the same hardship in both verses) while 'yusr' is indefinite (a new ease each time), the repetition yields two eases for one hardship."
     },
     {
       "id": "94_5",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "Why is the Arabic preposition 'ma'a' (with) in verse 5 considered theologically significant rather than 'ba'da' (after)?",
+      "options": [
+        "It indicates that ease comes only long after hardship has fully ended",
+        "It shows that ease accompanies hardship simultaneously, embedded within it",
+        "It implies that hardship is a punishment for failing to find ease",
+        "It means ease and hardship are unrelated concepts in the verse"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir emphasizes that 'ma'a' means 'with' rather than 'after' - the ease does not merely follow the hardship at some future point but accompanies it, coexists with it. Even in the midst of trial, relief is already present as a divine structural feature."
+    },
+    {
+      "id": "94_6",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "According to the Comparative Layer, Sunni commentators like al-Qurtubi primarily link 'your repute' to the Prophet's personal distinction, while Shia tafsirs extend this elevation to include the Prophet's progeny (Ahl al-Bayt).",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "True or false: According to Sayyid Qutb's reading in Fi Zilal al-Quran, verse 7 ('So when you have finished, then stand up for worship') corrects two opposite errors: burying oneself in worldly work while neglecting worship, and neglecting worldly responsibilities in the name of devotion.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Sunni commentators like al-Qurtubi and al-Razi primarily link 'your repute' to the Prophet's personal distinction, interpreting it as God's promise to exalt his name globally. In contrast, Shia tafsirs such as al-Mizan extend this elevation to include the Prophet's progeny (Ahl al-Bayt), arguing that the verse implicitly connects Muhammad's honor to the divinely ordained authority of the Imams."
+      "explanation": "Sayyid Qutb finds in this verse a profound corrective to both errors. The verse commands engagement with both: finish your worldly tasks and then stand for worship, implying that both are obligatory in their proper times and neither cancels the other."
+    },
+    {
+      "id": "94_7",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 8,
+      "question": "How does Wahbah al-Zuhayli connect the command 'And direct your longing only to your Lord' with classical Islamic spirituality?",
+      "options": [
+        "He links it with the concept of muraqaba (vigilant awareness of Allah)",
+        "He restricts its meaning to the Prophet alone and not to believers",
+        "He treats it as referring exclusively to longing for Paradise",
+        "He sees it as permission to seek worldly status before turning to Allah"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir connects this verse with muraqaba: when all longing is directed toward Allah, the believer lives in constant consciousness of the divine, transforming every act of life into a form of worship."
     }
   ]
 }

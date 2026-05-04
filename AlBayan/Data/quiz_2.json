@@ -5,266 +5,401 @@
       "id": "2_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 2,
-      "question": "According to the tafsir, what does the phrase 'This is the Book, there is no doubt in it' signify about the Quran?",
+      "verseNumber": 1,
+      "question": "The opening letters Alif-Lam-Meem of Surah Al-Baqarah belong to a category known as the huruf muqatta'at. What does the foundational tafsir layer say is the dominant scholarly position regarding their meaning?",
       "options": [
-        "It is merely a historical document",
-        "It is a source of divine certainty and complete guidance for the God-conscious",
-        "It requires interpretation by scholars only",
-        "It is meant for a specific group of people"
+        "A) They are abbreviations for the names of the Companions who memorized the Quran",
+        "B) Their ultimate meaning is reserved with Allah alone, and no definitive interpretation has been authentically transmitted",
+        "C) They spell out a secret divine name that only scholars are permitted to know",
+        "D) They represent the numerological value of the Prophet's name"
       ],
       "correctAnswer": "B",
-      "explanation": "The opening of Al-Baqarah establishes the Quran as the ultimate source of divine certainty and guidance, describing it as guidance for the muttaqin (God-conscious), emphasizing its role as a comprehensive guide for those who seek spiritual awareness."
+      "explanation": "The foundational layer records that Abu Bakr, Umar, Uthman, Ali, and Ibn Masud all held that these letters belong to knowledge Allah has kept with Himself. This position is itself a lesson in humility before divine revelation."
     },
     {
       "id": "2_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 101,
-      "question": "According to the tafsir, the verse about throwing the scripture 'behind their backs' refers to wilful neglect of divine truth despite knowing it.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir, after reviewing more than thirty scholarly opinions on the huruf muqatta'at, identified the view that they demonstrate the miraculous nature of the Quran as one of the two dominant positions.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The striking image of throwing the scripture 'waraa'a zuhoorihim' (behind their backs) symbolises wilful neglect - knowing the truth but acting as if ignorant. It represents a conscious choice to ignore divine guidance."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim identifies two main positions: first, that they are among the mutashabihat known only to Allah; second, that they demonstrate the Quran's miraculous nature by showing a book composed of ordinary Arabic letters cannot be replicated. He notes the second view was championed by scholars such as al-Mubarrad and Ibn Jarir al-Tabari."
     },
     {
       "id": "2_3",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 102,
-      "question": "In verse 2:102, why does the Quran emphasize that Prophet Sulaiman did not disbelieve?",
+      "verseNumber": 2,
+      "question": "Verse 2 describes the Quran as 'guidance for the muttaqin.' According to the foundational tafsir layer, what quality defines the muttaqin that makes them the primary recipients of this guidance?",
       "options": [
-        "To show his political power",
-        "To refute false accusations that he practiced witchcraft and affirm prophetic infallibility",
-        "To explain his building of the Temple",
-        "To describe his relationship with the jinn"
+        "A) Their level of formal Islamic education",
+        "B) Their consciousness of Allah that inclines them toward moral vigilance and spiritual awareness",
+        "C) Their membership in a specific community or tribe",
+        "D) Their ability to recite the Quran in classical Arabic"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse begins by refuting the claim that Sulaiman used magic, emphasizing that 'Sulaiman did not disbelieve' - a crucial point underscoring prophetic infallibility (ismah) in Shia thought. The devils exploited his legendary wisdom to spread corrupt teachings."
+      "explanation": "The foundational layer explains that taqwa is a state of God-consciousness and moral vigilance. The Quran addresses the muttaqin first because their hearts are already oriented toward truth, making them most receptive to divine guidance."
     },
     {
       "id": "2_4",
-      "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 152,
-      "question": "What does the phrase 'Remember Me; I will remember you' establish according to the tafsir?",
-      "options": [
-        "A one-way relationship from Allah to humans",
-        "A reciprocal bond between Allah and humanity through remembrance and gratitude",
-        "An obligation to memorize the Quran",
-        "A command to remember only during prayer"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Allah establishes a reciprocal bond with humanity, inviting us into a dynamic relationship of remembrance and gratitude. This dhikr encompasses conscious awareness, heartfelt reflection, and vocal remembrance of Allah."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Sayyid Qutb taught that describing the Quran as guidance 'for the muttaqin' implies it is useless for those who have not yet attained taqwa.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran clarifies that the verse does not exclude others but rather highlights that the muttaqin are those who benefit most fully. The Quran is sent to all humanity, but the receptive heart of one who fears Allah unlocks its deepest guidance."
     },
     {
       "id": "2_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 100,
-      "question": "According to Tabatabai in Al-Mizan, what does the 'covenant' mentioned in verse 2:100 extend to?",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "Verse 3 describes the muttaqin as those who 'believe in the unseen, establish prayer, and spend from what We have provided.' What practical application does the foundational layer draw from combining these three attributes in a single verse?",
       "options": [
-        "Only business agreements",
-        "The primordial covenant with Allah (Quran 7:172) and subsequent religious obligations",
-        "Tribal agreements only",
-        "Marriage contracts"
+        "A) That only wealthy believers can be truly God-conscious",
+        "B) That true faith is inseparable from worship and generosity — inner conviction must translate into outward action",
+        "C) That prayer alone is sufficient for salvation without financial charity",
+        "D) That the unseen world is more important than charitable giving"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai in Al-Mizan emphasizes that the 'covenant' extends beyond specific agreements with Jewish tribes to include the primordial covenant of humanity with Allah (Quran 7:172) and all subsequent religious obligations."
+      "explanation": "The foundational layer explains that these three qualities form an integrated portrait of the believer: belief in the unseen anchors the heart, prayer maintains the connection with Allah, and spending cultivates generosity toward creation. Faith without action is incomplete."
     },
     {
       "id": "2_6",
       "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 101,
-      "question": "According to Shia exegesis, the rejection of Prophet Muhammad by some Jewish scholars mirrors later rejections of the Imams, as both are manifestations of the same divine covenant.",
+      "verseNumber": 3,
+      "question": "True or false: Imam al-Tabari, in his tafsir of verse 3, understood 'what We have provided' to include both obligatory zakat and voluntary sadaqah.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Tabatabai argues that recognising true prophethood necessitates spiritual attunement to the light of guidance embodied in the Prophet and his Ahlul Bayt. The verse implicitly condemns those who separate prophethood from walayah (divine guardianship), as their rejection prefigures later rejections of the Imams."
+      "explanation": "Al-Tabari in Jami al-Bayan explains that the phrase encompasses all forms of spending in Allah's path, including obligatory zakat as well as voluntary charity. He cites companion interpretations affirming that the verse is not restricted to a single type of financial obligation."
     },
     {
       "id": "2_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 151,
-      "question": "According to classical Shia exegetes, what does 'hikma' (wisdom) in verse 2:151 signify?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "Verse 4 praises those who believe in what was revealed to Muhammad and what was revealed before him. What does the foundational layer identify as the core distinction between this true faith and the selective acceptance practiced by the People of the Book?",
       "options": [
-        "Academic knowledge only",
-        "Esoteric knowledge entrusted to the Prophet and preserved through the Imams",
-        "Philosophical reasoning",
-        "Worldly wisdom for business"
+        "A) Believers must read every previous scripture in its original language",
+        "B) True faith requires accepting all prophets and revelations without selective rejection based on tribal or communal bias",
+        "C) Previous revelations are now abrogated and need not be honored",
+        "D) The verse only refers to belief in the Torah and the Injil"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabrisi's Majma al-Bayan highlights the term hikma as esoteric knowledge entrusted exclusively to the Prophet and his successors. While the 'Book' represents the exoteric Quranic text, 'wisdom' signifies its inner dimensions preserved through the walaya of the Imams."
+      "explanation": "The foundational layer explains that some among the People of the Book accepted parts of revelation that suited them while rejecting the Prophet Muhammad's message out of communal pride. True iman demands universal acceptance of all divinely sent guidance."
     },
     {
       "id": "2_8",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 276,
-      "question": "What does Tabatabai teach about the 'destruction' of riba (usury) mentioned in verse 2:276?",
+      "verseNumber": 30,
+      "question": "When the angels asked 'Will You place therein one who will cause corruption and shed blood?' in verse 30, how did Ibn Kathir explain the source of the angels' knowledge about human destructiveness?",
       "options": [
-        "It refers only to monetary loss",
-        "It encompasses both material loss and spiritual ruin as manifestations of divine justice",
-        "It is metaphorical with no real consequence",
-        "It applies only to banking interest"
+        "A) Allah had directly informed the angels of Adam's future sins before his creation",
+        "B) The angels had witnessed the corruption of the jinn who inhabited the earth before humans, and drew an analogy",
+        "C) The angels were merely speculating based on their understanding of free will",
+        "D) Allah revealed a vision of human history to the angels before answering"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai's Al-Mizan underscores that the 'destruction' (mahq) of riba and the 'increase' of charity are not merely material outcomes but manifestations of divine justice and cosmic balance, encompassing both material and spiritual dimensions."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explains that the angels' question arose from their observation of the jinn who had previously inhabited the earth and caused corruption. This precedent informed their concern, though they expressed themselves with full deference to divine wisdom."
     },
     {
       "id": "2_9",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 101,
-      "question": "Contemporary scholars like Ayatollah Makarem Shirazi interpret the rejection of truth in verse 2:101 as relevant to modern issues like climate denialism and institutional resistance to uncomfortable truths.",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "True or false: The foundational tafsir layer interprets the angels' question about the khalifah as a challenge to Allah's decision rather than as a request for understanding.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Contemporary Shia scholars interpret this verse as a timeless warning against intellectual rigidity - whether in clinging to dogma, resisting ethical evolution, or weaponizing faith to serve power structures. Climate denialism despite Islam's emphasis on environmental stewardship mirrors the verse's critique of willful ignorance."
+      "correctAnswer": "false",
+      "explanation": "The foundational layer is clear that the angels were not challenging divine authority. Their question 'will you place therein one who will cause corruption?' is understood as a humble inquiry for wisdom, not a protest. Allah's response — 'I know what you do not know' — confirms their deference to divine knowledge."
     },
     {
       "id": "2_10",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 151,
-      "question": "How do contemporary scholars like Dr. Mohammad Ali Shomali frame the concept of 'tazkiyah' (purification) in verse 2:151?",
+      "verseNumber": 30,
+      "question": "Wahbah al-Zuhayli identifies the appointment of Adam as khalifah as the foundation of a key Islamic concept. Which of the following best captures his interpretation?",
       "options": [
-        "As a personal ritual only",
-        "As both spiritual refinement and ethical-social reform to combat systemic injustices",
-        "As a requirement for prophets only",
-        "As an outdated concept"
+        "A) Humans are masters of the earth with no accountability to divine law",
+        "B) Human stewardship (khilafah) over the earth is a trust carrying divine accountability for justice and responsible governance",
+        "C) The khalifah concept applies only to political rulers, not ordinary believers",
+        "D) Khilafah means humans are superior to angels in all respects"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Dr. Mohammad Ali Shomali frame tazkiyah as a call to combat systemic injustices - poverty, racism, or environmental exploitation - by aligning societal structures with divine wisdom, extending beyond personal spiritual refinement."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir emphasizes that khilafah is an amanah (trust) from Allah, not unconditional ownership. Humans are stewards bound by divine law, and this accountability extends to governance, environmental stewardship, and social justice."
     },
     {
       "id": "2_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 226,
-      "question": "According to contemporary Shia scholars, what is the wisdom behind the four-month waiting period (ila) mentioned in verse 2:226?",
+      "layer": 1,
+      "verseNumber": 35,
+      "question": "The story of Adam in verse 35 mentions that he and his wife were told to dwell in the garden and eat freely except from one tree. What key moral lesson does the foundational tafsir layer draw from this prohibition?",
       "options": [
-        "It is merely a legal formality",
-        "It aligns with modern conflict resolution principles, allowing time for reflection and reconciliation",
-        "It punishes the husband",
-        "It has no practical application today"
+        "A) That gardens are inherently dangerous and humans should avoid them",
+        "B) That divine tests are built into human life from the very beginning, and obedience requires restraining desire",
+        "C) That the forbidden tree contained poison and the prohibition was for health reasons",
+        "D) That Adam and Hawwa were being punished for a prior sin"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Makarem Shirazi and Sayyid Muhammad Hussein Fadlallah interpret this as a divine safeguard for marital stability that aligns with modern understandings of conflict resolution, allowing spouses to move beyond reactive anger toward thoughtful reflection."
+      "explanation": "The foundational layer explains that the single prohibition amid abundant permission was itself a test of obedience and gratitude. It established a pattern fundamental to human life: divine guidance sets boundaries that train the soul to submit desire to higher principle."
     },
     {
       "id": "2_12",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 276,
-      "question": "According to contemporary scholarship, the verse about riba critiques modern issues like student debt burdens, payday loan exploitation, and austerity policies.",
+      "layer": 2,
+      "verseNumber": 35,
+      "question": "True or false: Imam al-Qurtubi considered the garden of Adam to be located in the heavens, a view he treated as the stronger opinion among classical scholars.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Globally, this verse critiques crises like student debt burdens, payday loan exploitation, and austerity policies that disproportionately harm marginalized communities. Contemporary Islamic finance models like qard al-hasan offer practical alternatives aligned with this ethos."
+      "explanation": "Al-Qurtubi in Al-Jami li-Ahkam al-Quran discusses the location of Adam's garden at length and concludes that the preponderance of evidence among classical scholars favors it being a paradise in the heavens, not an earthly garden, because the 'descent' language implies coming down from a higher realm."
     },
     {
       "id": "2_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 101,
-      "question": "According to Imam Jafar al-Sadiq (AS), what did the Jewish scholars' rejection of Prophet Muhammad's message parallel?",
+      "layer": 1,
+      "verseNumber": 42,
+      "question": "Verse 42 commands 'Do not mix truth with falsehood and do not conceal the truth while you know it.' According to the foundational layer, what was the specific historical context — the asbab al-nuzul — that prompted this verse?",
       "options": [
-        "The rejection of Moses by Pharaoh",
-        "Modern enemies of the Ahlul Bayt who carry the Quran but cast away the Wilayah",
-        "The rejection of Ibrahim by his father",
-        "The disbelief of the Meccans"
+        "A) Muslim merchants who were deceiving customers in the marketplace of Madinah",
+        "B) Certain Jewish scholars in Madinah who recognized Muhammad's prophethood from their scriptures yet publicly denied or misrepresented it",
+        "C) Hypocrites who were secretly fighting against the Muslims while claiming to be believers",
+        "D) Christians in Abyssinia who had altered their understanding of Jesus"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) explains that those who rejected Prophet Muhammad despite finding his description in the Torah are similar to 'our enemies today who carry the Quran in their chests but cast away our Wilayah behind their backs' (Tafsir al-Qummi)."
+      "explanation": "The foundational layer records that this verse was directed at those among the People of the Book in Madinah who had sufficient knowledge to recognize the Prophet's description in their scriptures yet deliberately obscured or denied this to maintain their communal authority."
     },
     {
       "id": "2_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 151,
-      "question": "According to Hadith al-AlBayan, the Quran and the Ahlul Bayt will never separate until they return to the Prophet at the Pool of Kawthar.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Holy Prophet (pbuh) declared: 'I leave among you two weighty things: the Book of Allah and my Ahlul Bayt. They will never separate until they return to me at the Pool (of Kawthar)' - emphasizing the inseparability of Quranic guidance and the Ahlul Bayt's teachings."
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 42,
+      "question": "How does Ibn Uthaymeen apply the prohibition of mixing truth with falsehood in verse 42 to the responsibilities of contemporary Islamic scholars and preachers?",
+      "options": [
+        "A) He limits the verse's application to scholars dealing with interfaith dialogue only",
+        "B) He warns that a scholar who presents a weak opinion as if it were consensus, or conceals important scholarly disagreement, falls under the verse's condemnation",
+        "C) He teaches that the verse only addressed the Jewish scholars of Madinah and has no contemporary application",
+        "D) He argues that scholars may simplify complex rulings without concern for mixing truth with falsehood"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen applies this verse directly to scholars and teachers of Islam, warning that misrepresenting scholarly consensus, presenting personal opinions as established rulings, or withholding evidence out of convenience constitutes the very mixing of truth and falsehood the verse condemns."
     },
     {
       "id": "2_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 276,
-      "question": "According to Imam Ali (AS), how does riba compare to charity?",
-      "options": [
-        "Both are equally acceptable",
-        "Riba is a door of destruction, while charity is a gate of Paradise",
-        "Charity is optional while riba is permitted",
-        "They are unrelated concepts"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) taught that 'Riba is a door from the doors of destruction, while charity is a gate from the gates of Paradise' (Bihar al-Anwar), revealing the cosmic law that material gain divorced from divine mercy becomes self-annihilating."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 183,
+      "question": "True or false: Ibn Kathir explains that the phrase 'as it was prescribed for those before you' in the fasting verse establishes that fasting was obligatory in some form for all previous prophetic communities, though the specific rules differed.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir notes in his tafsir that the comparison to previous nations serves both as a consolation — this is not an unprecedented burden — and as evidence of the universal spiritual value of fasting across all divine religions, even though the specific days, methods, and durations varied by community."
     },
     {
       "id": "2_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 285,
-      "question": "According to Imam Ali (AS) in Nahj al-Balagha, who can truly grasp the inner meanings of the Quran?",
+      "layer": 1,
+      "verseNumber": 183,
+      "question": "The Ramadan fasting verse states the purpose of fasting is 'so that you may attain taqwa.' What does the foundational tafsir layer identify as the mechanism by which fasting builds taqwa?",
       "options": [
-        "Any scholar who studies Arabic",
-        "Only the purified ones (Ahlul Bayt) appointed by Allah as guides",
-        "Professional historians",
-        "Anyone who reads it"
+        "A) Fasting weakens the body so that the spirit becomes dominant through physical suffering",
+        "B) By restraining the nafs from lawful desires, the believer strengthens the will to resist unlawful ones, and dependence on Allah deepens",
+        "C) Hunger triggers a neurological state that makes the brain more receptive to religious experience",
+        "D) Fasting is purely a communal bonding exercise with no individual spiritual purpose"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ali (AS) states in Nahj al-Balagha: 'The Book of Allah has its outer and inner meanings; its inner meanings interpret its outer. None can grasp its truth except through the purified ones [Ahlul Bayt] who were appointed by Allah as guides.'"
+      "explanation": "The foundational layer explains that fasting trains the soul by imposing voluntary restraint even over permissible appetites. If a believer can discipline themselves to avoid food that is halal during the fast, they build the inner strength to avoid what is haram, and their reliance on and gratitude toward Allah intensifies."
     },
     {
       "id": "2_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 101,
-      "question": "How do Sunni and Shia scholars differ in their interpretation of the phrase 'throwing the Book behind their backs'?",
+      "layer": 3,
+      "verseNumber": 186,
+      "question": "Verse 186, the verse of divine nearness — 'I am near; I respond to the supplication of the supplicant' — is placed within the fasting verses. What significance does Abdul Rahman al-Saadi draw from this placement?",
       "options": [
-        "There is no difference in interpretation",
-        "Sunni scholars focus on Jewish scriptural distortion, while Shia scholars extend this to include rejection of divinely appointed Imams",
-        "Only Sunni scholars consider it important",
-        "Shia scholars reject this verse"
+        "A) He argues the placement is coincidental and the verse has no special connection to Ramadan",
+        "B) He explains that Ramadan is the prime season for dua because the fasting soul is in its most sincere and humble state, making divine response more accessible",
+        "C) He interprets it as meaning that only prayers made during Ramadan are accepted",
+        "D) He teaches that the verse was revealed specifically about Laylat al-Qadr and applies only to that night"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni commentators focus on the verse's alignment with Quranic charges of Jewish scriptural distortion, while Shia scholars like Tabatabai extend this principle to include the rejection of divinely appointed leadership (Imamah), interpreting the 'Book of Allah' as encompassing both written scripture and the living guidance of the Ahlul Bayt."
+      "explanation": "Abdul Rahman al-Saadi in Taysir al-Karim al-Rahman emphasizes that the placement of this verse within the Ramadan passage is deeply intentional — the fasting month strips away material preoccupation and softens the heart, creating the conditions in which a servant is closest to sincere supplication and most open to divine response."
     },
     {
       "id": "2_18",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 226,
-      "question": "Both Sunni and Shia scholars agree that the four-month waiting period in verse 2:226 prevents indefinite marital limbo and protects women's rights.",
+      "layer": 1,
+      "verseNumber": 255,
+      "question": "True or false: The foundational tafsir layer identifies Ayat al-Kursi as a verse that establishes Allah's absolute sovereignty by negating any partner, intermediary, or intercessor who can act without divine permission.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both Shia and Sunni exegetes converge on the verse's primary legal objective: regulating the pre-Islamic practice of ila by instituting a four-month waiting period for reconciliation, preventing indefinite marital limbo and safeguarding women's rights against arbitrary abandonment."
+      "explanation": "The foundational layer explains that Ayat al-Kursi systematically dismantles every possible challenge to divine sovereignty. Slumber does not touch Allah, no one intercedes except by His permission, His knowledge encompasses all, and His kursi extends over the heavens and the earth — each phrase reinforces absolute tawhid."
     },
     {
       "id": "2_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 276,
-      "question": "What is a key difference between Sunni and Shia interpretations of the charity mentioned in verse 2:276?",
+      "layer": 2,
+      "verseNumber": 255,
+      "question": "What does Imam al-Qurtubi report about the Prophet's statement concerning Ayat al-Kursi's rank among Quranic verses?",
       "options": [
-        "Sunni scholars reject the importance of charity",
-        "Shia scholars do not emphasize charity",
-        "Shia thought links charity to supporting the ummah through institutions like khums tied to the Imamate's legacy",
-        "Both traditions interpret it identically"
+        "A) That it is equal in reward to reciting the whole Quran once",
+        "B) That it is the greatest verse in the Quran, confirmed by the Prophet's own testimony transmitted through Abu Dharr and Ubayy ibn Ka'b",
+        "C) That it should only be recited in the morning and is forbidden at night",
+        "D) That its recitation is obligatory in every unit of prayer"
       ],
-      "correctAnswer": "C",
-      "explanation": "Practically, Sunni jurists emphasize adherence to fiqh rulings on financial transactions, while Shia thought links charity to supporting the ummah through institutions like khums, which is tied to the Imamate's legacy, reflecting distinct approaches to religious authority."
+      "correctAnswer": "B",
+      "explanation": "Al-Qurtubi records in Al-Jami li-Ahkam al-Quran the hadith in which the Prophet asked Ubayy ibn Ka'b which verse of the Quran is greatest, and when Ubayy answered 'Allahu la ilaha illa huwa al-Hayy al-Qayyum,' the Prophet confirmed this and placed his hand on Ubayy's chest in approval."
     },
     {
       "id": "2_20",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 255,
+      "question": "Sayyid Qutb, reflecting on Ayat al-Kursi in Fi Zilal al-Quran, describes experiencing an overwhelming sensation while contemplating it. What does he argue is the experiential purpose of this verse for the believer?",
+      "options": [
+        "A) It is primarily a theological formula to be memorized without emotional engagement",
+        "B) It is meant to produce an existential encounter with divine majesty that liberates the heart from fear of anything other than Allah",
+        "C) Its main purpose is legal — establishing the conditions for valid intercession on the Day of Judgment",
+        "D) It primarily addresses scholars and is too complex for ordinary believers to benefit from directly"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that standing before Ayat al-Kursi should produce a direct experience of divine greatness so overwhelming that all other fears dissolve. A heart that has truly internalized this verse cannot be enslaved by any worldly power or tyrant."
+    },
+    {
+      "id": "2_21",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 285,
-      "question": "According to comparative exegesis, Shia scholars interpret 'the believers' in verse 2:285 as specifically referring to the Imams, while Sunni scholars interpret it as the Prophet's companions.",
+      "layer": 1,
+      "verseNumber": 256,
+      "question": "True or false: According to the foundational tafsir layer, the declaration 'there is no compulsion in religion' in verse 256 was revealed in the context of the Ansar of Madinah whose children had been raised in Judaism or Christianity before Islam.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Sunni commentators like Tabari and Ibn Kathir broadly interpret 'the believers' as the Prophet's companions, emphasizing their collective righteousness. In contrast, Shia exegetes like Al-Qummi and Tusi argue that 'the believers' specifically denotes the Imams, whose perfected faith exemplifies the verse's ideals."
+      "explanation": "The foundational layer records the asbab al-nuzul narrated by Ibn Abbas and others: some Ansari parents whose children had been brought up in the religions of neighboring communities wanted to force them to embrace Islam after Madinah became an Islamic city. This verse was revealed clarifying that faith cannot be coerced."
+    },
+    {
+      "id": "2_22",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 256,
+      "question": "Al-Tabari, in his commentary on verse 256, discussed whether the verse's prohibition of compulsion was later abrogated by verses permitting fighting the polytheists. What conclusion did he reach?",
+      "options": [
+        "A) He confirmed complete abrogation — the no-compulsion verse no longer applies after the sword verses",
+        "B) He held that the verse was not abrogated but rather applies specifically to the People of the Book who pay jizya, while other rulings govern other groups",
+        "C) He rejected the abrogation theory entirely and said the verse applies universally without exception",
+        "D) He left the question unresolved and refused to take a position"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Tabari in Jami al-Bayan examines the abrogation debate in detail and concludes that verse 256 was not abrogated but rather delimits a specific category — People of the Book under jizya — where coerced conversion is prohibited. This nuanced position reconciles the verse with other Quranic commands."
+    },
+    {
+      "id": "2_23",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 256,
+      "question": "Wahbah al-Zuhayli applies the principle of 'no compulsion in religion' to a contemporary governance question. Which application does he most prominently advance?",
+      "options": [
+        "A) That Muslim-majority states are required to forcibly convert all non-Muslim residents",
+        "B) That an Islamic state is obligated to protect the religious freedom of non-Muslim citizens and may not compel them to abandon their faith",
+        "C) That the verse only applies to the early period of Islam and has no modern legal relevance",
+        "D) That compulsion is prohibited only in private family contexts but permitted at the state level"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Fiqh al-Islami wa-Adillatuh cites this verse as a foundational principle for the rights of dhimmis and religious minorities in an Islamic polity. The state's obligation is to protect their freedom of conscience, not to engineer their conversion."
+    },
+    {
+      "id": "2_24",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 258,
+      "question": "True or false: Ibn Kathir identifies the king who argued with Ibrahim about his Lord in verse 258 as Nimrod, and notes this was his response to Ibrahim's destruction of his people's idols.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir confirms through multiple transmission chains that the arrogant king in verse 258 is Nimrod (Namrud). He places the debate in the context of Ibrahim's mission against idol worship, noting that Nimrod's claim to give life and cause death was swiftly demolished by Ibrahim's argument about the sun's direction."
+    },
+    {
+      "id": "2_25",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 275,
+      "question": "Verse 275 describes those who consume riba as rising on the Day of Judgment 'like one who has been struck by Satan into insanity.' What does the foundational tafsir layer say this striking image is meant to communicate?",
+      "options": [
+        "A) That riba is a minor sin that only affects the mentally unstable",
+        "B) That riba corrupts a person's moral reasoning so thoroughly that their behavior in the afterlife mirrors the spiritual disorder they chose in this life",
+        "C) That the comparison refers only to wealthy bankers and not to ordinary consumers of interest",
+        "D) That the image is metaphorical for economic instability in Muslim societies"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The foundational layer explains that the image of demonic affliction conveys that riba distorts the soul's moral balance. The person who justified exploiting others through interest will appear in a state of spiritual disorientation that mirrors the inner corruption they nurtured — a vivid warning that what we normalize in this world shapes our condition in the next."
+    },
+    {
+      "id": "2_26",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 275,
+      "question": "Muhammad al-Sharawi, drawing on the riba verse, offered a distinctive argument for why interest-based economies are inherently unjust. What was the core of his argument?",
+      "options": [
+        "A) That interest is simply too mathematically complex for ordinary people to calculate fairly",
+        "B) That money is a medium of exchange and has no intrinsic productive capacity — charging for its mere passage in time detaches wealth from real human effort and creation",
+        "C) That the prohibition of riba is limited to pre-modern economies and does not translate to modern financial systems",
+        "D) That his argument focused solely on the spiritual harm to the lender, not the broader economic injustice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Muhammad al-Sharawi argued that money is a tool, not a crop or a product. Crops grow; labor produces; but money sitting in a vault creates nothing. Charging interest for time alone uncouples financial gain from genuine economic contribution and creates a system where the rich extract from the poor without creating value — the very injustice the Quran condemns."
+    },
+    {
+      "id": "2_27",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 282,
+      "question": "True or false: According to the foundational tafsir layer, the command to write down financial contracts in verse 282 is understood by the majority of scholars as a strong recommendation rather than a strict obligation in all circumstances.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The foundational layer notes that while verse 282 uses imperative language ('write it down'), the majority of classical scholars, including al-Tabari and al-Qurtubi, interpreted it as a firm moral directive and best practice rather than an absolute legal obligation in every situation, partly because verse 283 permits oral agreements with collateral when writing is not possible."
+    },
+    {
+      "id": "2_28",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 282,
+      "question": "Fakhr al-Din al-Razi's commentary on verse 282 addressed a question about why two female witnesses are specified instead of one when a male witness is unavailable. What reasoning did al-Razi present?",
+      "options": [
+        "A) That women are inherently less truthful than men in financial matters",
+        "B) That women in 7th-century Arabia typically had less exposure to commercial transactions, so the pairing served as a safeguard against unintentional error in unfamiliar territory",
+        "C) That the ruling establishes a permanent and universal hierarchy of testimonial competence based on gender",
+        "D) That al-Razi refused to offer any explanation and simply deferred to the text"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb explains that the rationale is contextual, not a judgment on women's general credibility. Women in that society had less experience with complex commercial transactions, so having two witnesses allowed one to remind the other if memory lapsed — a practical safeguard, not a permanent statement about testimony."
+    },
+    {
+      "id": "2_29",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 285,
+      "question": "Verse 285 describes the Prophet and the believers as affirming faith in 'each of His messengers' without distinction between them. What does the foundational tafsir layer say distinguishes this Islamic principle from how some previous communities related to their prophets?",
+      "options": [
+        "A) Muslims revere only Muhammad and view other prophets as minor figures",
+        "B) Some communities honored certain prophets while rejecting others, whereas Islamic faith requires affirming all prophets as equally legitimate divine messengers",
+        "C) Muslims believe that previous prophets were all mistaken and only Muhammad conveyed truth",
+        "D) The verse is specifically about the four major prophets and does not extend to others"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The foundational layer explains that some among the People of the Book accepted Moses while rejecting Jesus, or accepted Jesus while rejecting Muhammad. True iman demands affirming the authenticity of all prophets, which is what distinguishes the Muslim community's relationship to divine revelation history."
+    },
+    {
+      "id": "2_30",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 286,
+      "question": "The closing verse of Al-Baqarah contains the supplication 'Our Lord, do not burden us with what we cannot bear.' How does Ibn Uthaymeen interpret this dua in relation to personal hardship that believers actually experience in their lives?",
+      "options": [
+        "A) He teaches that this verse guarantees believers will never face any difficulties in life",
+        "B) He explains that because Allah heard this dua and accepted it, every hardship that does fall on a believer is within their capacity — which itself becomes a source of confidence and spiritual strength",
+        "C) He argues the verse is purely liturgical with no connection to lived experience",
+        "D) He interprets 'what we cannot bear' as referring exclusively to the punishment of Hell"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen in his commentary on this verse points out that Allah's acceptance of this supplication is confirmed by the hadith in Sahih Muslim, and draws the implication: every trial that actually befalls a believer is by definition bearable, because Allah would not impose what He promised not to impose. This reframes suffering as manageable and becomes a source of resolve."
     }
   ]
 }

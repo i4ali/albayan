@@ -6,110 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Infitaar's opening verse, what does the root word 'f-t-r' in 'infatarat' mean?",
+      "question": "The opening word of Surah Al-Infitar, 'infatarat,' comes from the root fa-ta-ra. What does this root convey?",
       "options": [
-        "To burn or incinerate",
-        "To split or crack open",
-        "To expand or stretch",
-        "To rotate or spin"
+        "A) To burn or ignite something from within",
+        "B) To split, crack, or cleave open something previously sealed and solid",
+        "C) To scatter or strew about like fallen pearls",
+        "D) To overflow and burst beyond its boundaries"
       ],
-      "correctAnswer": "To split or crack open",
-      "explanation": "Allamah Tabatabai explains that 'infatarat' derives from the root 'f-t-r', meaning to split or crack open, symbolizing the complete dismantling of the natural order as a prelude to divine reckoning."
+      "correctAnswer": "B",
+      "explanation": "The tafsir of verse 1 explains that 'infatarat' comes from the root fa-ta-ra, meaning to split, crack, or cleave open something that was previously sealed and solid. Ibn Kathir notes that the sky, maintained in its form by Allah's decree, will lose its structural integrity entirely on that Day."
     },
     {
       "id": "82_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 6,
-      "question": "Verse 6 asks humanity what has deceived them concerning their Lord, the Generous, as a rhetorical question to encourage reflection on human arrogance and ingratitude.",
+      "verseNumber": 3,
+      "question": "True or false: According to the tafsir of verse 3, the Arabic verb 'fujjirat' used for the seas conveys a gentle overflowing rather than a violent, forceful eruption.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. This verse, revealed in Makkah during a period when materialism and arrogance dominated, poses a rhetorical question to make humanity reflect on their heedlessness toward Allah's generosity and the coming accountability."
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 3 makes clear that 'fujjirat' comes from the root fa-ja-ra, meaning to burst open or gush out forcefully. Fakhr al-Din al-Razi noted that the root carries the sense of bursting what was confined, like water breaking a dam, making the image of violent oceanic eruption linguistically precise."
     },
     {
       "id": "82_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Sheikh Tabrisi in Majma al-Bayan, the cosmic rupture described in verse 1 mirrors what theological concept?",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "Verse 5 states that every soul will know 'ma qaddamat wa akhkharat.' What is the classical understanding of what 'ma akhkharat' refers to?",
       "options": [
-        "The creation of new worlds",
-        "The dissolution of human excuses before divine reckoning",
-        "The expansion of paradise",
-        "The merging of heaven and earth"
+        "A) Only the deeds a person performed in the final year of their life",
+        "B) The names of the recording angels who witnessed their deeds",
+        "C) Either deeds left undone or the lasting effects one's actions had on others after death",
+        "D) The wealth and children a person leaves behind in the world"
       ],
-      "correctAnswer": "The dissolution of human excuses before divine reckoning",
-      "explanation": "Tabrisi contextualizes this cosmic rupture within the Shia theological paradigm of divine justice (Adl), arguing that the sky's fragmentation mirrors the dissolution of human excuses before divine reckoning."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir records two main interpretations of 'ma akhkharat': deeds one neglected despite having the ability, and the lasting consequences one's actions had on others. This reading is supported by the hadith in Sahih Muslim that whoever establishes a good practice earns its reward and the reward of all who act on it until Judgment Day."
     },
     {
       "id": "82_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 5,
-      "question": "In Allama Tabatabai's interpretation of verse 5 in Al-Mizan, what does the soul's unveiled self-awareness on Judgment Day represent?",
-      "options": [
-        "Only knowledge of good deeds",
-        "Complete amnesia of earthly life",
-        "A pivotal moment of eschatological reckoning where the soul knows what it put forth and kept back",
-        "Awareness limited to major sins only"
-      ],
-      "correctAnswer": "A pivotal moment of eschatological reckoning where the soul knows what it put forth and kept back",
-      "explanation": "Allama Tabatabai in Al-Mizan elucidates that verse 5 captures the soul's unveiled self-awareness as a pivotal moment of eschatological reckoning, where every deed—performed or withheld—becomes fully known."
+      "verseNumber": 1,
+      "question": "True or false: Imam al-Suyuti and al-Mahalli, in Tafsir al-Jalalayn, explain that the sky splits on the Day of Judgment specifically because of the large number of angels descending at that time.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir of verse 1 records that Imam al-Suyuti and al-Mahalli in Tafsir al-Jalalayn give a concise note that the sky splitting is due to the angels descending in great numbers on that Day, consistent with Quranic descriptions elsewhere in the Scripture."
     },
     {
       "id": "82_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "Contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret the 'breaking sky' only as a literal physical event with no metaphorical meaning for modern times.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Contemporary scholars interpret this imagery as both literal and metaphorical. Modern thinkers like Sayyed Hassan Agha al-Qazwini connect this 'breaking' to humanity's fragile relationship with nature, framing climate collapse and ecological exploitation as manifestations of this cosmic unraveling in our time."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "Which scholar cited a hadith in the tafsir of verse 6 in which Allah addresses mankind: 'O son of Adam, what has made you bold against Me and what has deceived you about Me?'",
+      "options": [
+        "A) Imam al-Qurtubi, citing a report from Mujahid",
+        "B) Ibn Kathir, citing a hadith from Anas ibn Malik narrated by al-Hakim",
+        "C) Imam al-Tabari, citing a chain from Ibn Mas'ud",
+        "D) Fakhr al-Din al-Razi, citing a chain from Qatada"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in his Tafsir al-Quran al-Azim cites a hadith narrated by al-Hakim from Anas ibn Malik conveying this divine address. Ibn Kathir uses it to show that the name 'al-Karim' in verse 6 deliberately contrasts divine generosity against human ingratitude, making the reproach more penetrating."
     },
     {
       "id": "82_6",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching in Tafsir al-Qummi, what does the 'sky' represent in a spiritual context?",
+      "layer": 2,
+      "verseNumber": 11,
+      "question": "According to Imam Tabari's commentary on verse 11, how are the Kiraman Katibin typically positioned in relation to each person?",
       "options": [
-        "The physical atmosphere only",
-        "The celestial bodies and stars",
-        "The hardened hearts veiled from recognizing the Wilayah of Ali ibn Abi Talib",
-        "The gates of paradise"
+        "A) One angel follows a person from birth and a different one takes over at death",
+        "B) One angel on the right side records good deeds and one on the left records evil deeds",
+        "C) Two angels are stationed at the entrance of the home where a person lives",
+        "D) A rotating group of four angels who change at sunrise and sunset each day"
       ],
-      "correctAnswer": "The hardened hearts veiled from recognizing the Wilayah of Ali ibn Abi Talib",
-      "explanation": "Imam Ja'far al-Sadiq explains that 'The sky represents the hardened hearts veiled from recognizing the Wilayah of Ali ibn Abi Talib (peace be upon him). When true faith enters, these veils split open like the sky on Qiyamah.'"
+      "correctAnswer": "B",
+      "explanation": "Imam Tabari in his Jami al-Bayan explains that the Kiraman Katibin refers to two angels assigned to each human being, one on the right side who records good deeds and one on the left who records evil deeds, a position drawn from multiple narrations traced back to the Companions and Successors."
     },
     {
       "id": "82_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 5,
-      "question": "According to Imam Ali al-Ridha in Bihar al-Anwar, what does 'what is put forth' in verse 5 refer to?",
-      "options": [
-        "Only financial wealth accumulated",
-        "Physical possessions left behind",
-        "Actions performed in alignment with the teachings of the Ahlul Bayt",
-        "Books written during one's lifetime"
-      ],
-      "correctAnswer": "Actions performed in alignment with the teachings of the Ahlul Bayt",
-      "explanation": "Imam Ali al-Ridha explains in Bihar al-Anwar that 'what is put forth' refers to actions performed in alignment with the teachings of the Ahlul Bayt, while 'what is kept back' includes opportunities for spiritual growth and service neglected during one's earthly life."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Sheikh Muhammad al-Shaarawi noted in his commentary on verse 6 that a benefactor's generosity normally increases a person's love and loyalty, making the human response of disobedience to Allah's generosity a perversion of the most natural human instinct of gratitude.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The layer 3 tafsir of verse 6 records that Sheikh Muhammad al-Shaarawi highlighted this psychological dimension: since generosity ordinarily deepens love and loyalty toward the one who gives, responding to Allah's infinite generosity with disobedience is a profound inversion of the natural human instinct of gratitude."
     },
     {
       "id": "82_8",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "What is the key difference between Sunni and Shia interpretations of the rhetorical question in verse 6?",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "Wahbah al-Zuhayli, in Al-Tafsir al-Munir on verse 13, lists the qualities of the 'abrar' drawing on Surah Al-Baqarah verse 177. Which of the following is among the qualities he cites?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Both traditions interpret it identically with no differences",
-        "Sunni exegesis focuses on general human ingratitude, while Shia interpretations link it to rejection of Imamah and divine guidance",
-        "Shia scholars view it as only applicable to non-Muslims"
+        "A) Performing the Hajj pilgrimage annually without exception",
+        "B) Giving of wealth despite loving it, fulfilling vows, and persevering in hardship",
+        "C) Memorising the entire Quran and teaching it to one's children",
+        "D) Observing voluntary fasts every Monday and Thursday throughout the year"
       ],
-      "correctAnswer": "Sunni exegesis focuses on general human ingratitude, while Shia interpretations link it to rejection of Imamah and divine guidance",
-      "explanation": "Both Al-Tabari (Sunni) and al-Tabrisi (Shia) emphasize the verse's core theme of divine rebuke against human negligence. However, Shia interpretations often extend this to include humanity's rejection of divinely appointed guides (Imamah), while Sunni commentaries focus more broadly on general ingratitude toward divine blessings."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir provides a comprehensive listing of the qualities of the abrar from across Quranic usage, including their fulfillment of vows, giving of wealth despite loving it, establishing prayer, paying zakat, and persevering in times of hardship, referencing Surah Al-Baqarah verse 177."
+    },
+    {
+      "id": "82_9",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 19,
+      "question": "True or false: The closing verse of Surah Al-Infitar declares that on the Day of Recompense no soul will possess power to help another soul, and all command on that Day belongs entirely to Allah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 19 states that no soul will possess power to help another soul on the Day of Recompense, and that all command on that Day belongs to Allah. This affirms absolute divine sovereignty, where all worldly connections and influence become powerless and only one's deeds and relationship with Allah carry weight."
     }
   ]
 }

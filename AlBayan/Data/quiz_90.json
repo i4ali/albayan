@@ -6,110 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In the opening verse of Surah Al-Balad, what does the term 'balad' (city/land) symbolize beyond its geographical meaning?",
+      "question": "By what does Allah swear in the opening verse of Surah Al-Balad?",
       "options": [
-        "Only the physical location of the Kaaba",
-        "The covenant between Allah and humanity, representing monotheism and the Prophet's mission",
-        "A marketplace for trade",
-        "Ancient Arabian architecture"
+        "By the Prophet's lineage",
+        "By the city of Mecca",
+        "By the night and the day",
+        "By the heavens and the earth"
       ],
-      "correctAnswer": "The covenant between Allah and humanity, representing monotheism and the Prophet's mission",
-      "explanation": "The term 'balad' (city/land) symbolizes the covenant between Allah and humanity, as Makkah represents the birthplace of monotheism, the site of Ibrahim and Ismail's sacrifices, and the locus of Prophet Muhammad's (SAW) mission. It isn't merely geographical but carries deep spiritual and historical significance."
+      "correctAnswer": "B",
+      "explanation": "The verse 'la uqsimu bi-hadha al-balad' is a divine oath sworn by the city of Mecca. Imam al-Tabari and Ibn Kathir both affirm that this oath honors Mecca as the most sacred place on earth, the site of the Kaaba and the birthplace of the Prophet Muhammad."
     },
     {
       "id": "90_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 4,
-      "question": "According to Surah Al-Balad verse 4, Allah declares that humanity was created into ease and comfort, not hardship.",
+      "question": "True or false: The word 'kabad' in verse 4 indicates that human beings were created in a state of ease and effortless existence.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. Allah declares 'Laqad khalaqna al-insana fi kabad' — 'We have certainly created man into hardship.' This profound statement acknowledges that struggle, trial, and moral effort are intrinsic to the human condition, reflecting our divine test in this world."
+      "explanation": "The opposite is true. 'Kabad' means hardship, toil, and intense struggle. Ibn Abbas explained that man was created 'in hardship,' and Said ibn Jubayr added that this includes 'the struggle for livelihood,' indicating that hardship is the very environment in which human life unfolds."
     },
     {
       "id": "90_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 12,
-      "question": "In Surah al-Balad verse 12, what does the 'difficult pass' (al-aqabah) symbolize according to classical Shia exegesis?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What does the boastful man in verse 6 claim, saying 'ahlaktu malan lubada'?",
       "options": [
-        "A physical mountain path in Makkah",
-        "The spiritual ascent toward divine proximity through ethical action and purification",
-        "A trade route used by the Quraysh",
-        "The geographical terrain around the Kaaba"
+        "I have given charity in secret",
+        "I have built a great house",
+        "I have spent wealth in abundance",
+        "I have freed many slaves"
       ],
-      "correctAnswer": "The spiritual ascent toward divine proximity through ethical action and purification",
-      "explanation": "The rhetorical question 'And what can make you know what is the difficult pass?' invites profound reflection on the spiritual ascent central to Shia theology. Al-aqabah symbolizes the transformative journey of the soul toward divine proximity through ethical action, moral purification, and submission to divine guidance."
+      "correctAnswer": "C",
+      "explanation": "The phrase means 'I have spent wealth in abundance,' a boast of lavish expenditure. Ibn Kathir notes that the verb 'ahlaktu' literally means 'I have destroyed,' revealing that the spending was reckless and self-serving rather than a sincere act of charity for Allah's sake."
     },
     {
       "id": "90_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 8,
-      "question": "According to classical Shia exegetes like Shaykh Tabrisi, what deeper meaning do 'two eyes' represent in verse 8 beyond physical vision?",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "What does 'al-najdayn' (the two ways) in verse 10 most commonly refer to according to the majority of classical commentators?",
       "options": [
-        "Only the biological capacity to see",
-        "The ability to read and write",
-        "The inner vision (basirah) to perceive spiritual truths and divine signs",
-        "Superior eyesight compared to animals"
+        "The two paths of Mecca and Medina",
+        "The paths of good and evil",
+        "The two paths of trade and pilgrimage",
+        "The paths of the rich and the poor"
       ],
-      "correctAnswer": "The inner vision (basirah) to perceive spiritual truths and divine signs",
-      "explanation": "Shaykh Tabrisi in Majma' al-Bayan emphasizes that 'two eyes' signify not merely physical sight but the capacity for inner vision (basirah)—the ability to perceive spiritual truths, divine signs in creation, and the path of righteousness. This reflects the Quranic concept of hearts that see beyond the material realm."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that Ibn Mas'ud, Ibn Abbas, Mujahid, and many companions and successors understood al-najdayn as the two paths of good and evil. The word 'najd' refers to an elevated, conspicuous road, indicating that both moral paths are clearly visible to anyone who reflects."
     },
     {
       "id": "90_5",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 4,
-      "question": "According to contemporary Shia scholars, the verse declaring humanity 'created into hardship' only refers to physical labor and has no relevance to modern psychological struggles.",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "True or false: According to Imam al-Qurtubi, the protection of sight is one of the necessities (daruriyyat) safeguarded by Islamic law.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Contemporary Shia scholarship reinterprets this verse through modern lenses, acknowledging psychological, social, and existential struggles. Scholars recognize that 'hardship' encompasses mental health challenges, systemic inequities, climate crises, and the complexities of contemporary life, making the verse profoundly relevant to modern human experience."
+      "correctAnswer": "true",
+      "explanation": "Al-Qurtubi notes that the preservation of sight is among the five necessities protected by Islamic law (daruriyyat al-shari'ah), alongside life, intellect, lineage, and property. By foregrounding the gift of two eyes, the verse reminds the arrogant person that his very capacity to function was given as a divine gift."
     },
     {
       "id": "90_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 15,
-      "question": "How do contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret the call to care for 'an orphan of near relationship' in verse 15?",
+      "layer": 2,
+      "verseNumber": 13,
+      "question": "Which hadith does Ibn Kathir cite in connection with verse 13 about freeing a slave (fakku raqabah)?",
       "options": [
-        "Only as a duty toward biological relatives who are orphaned",
-        "As a dynamic challenge to address systemic orphanhood caused by war, displacement, and economic injustice",
-        "As a historical practice no longer relevant today",
-        "Only as charitable giving without personal involvement"
+        "A hadith stating that prayer is the pillar of religion",
+        "The hadith from Abu Hurayra that whoever frees a Muslim slave, Allah will save his every limb from the Fire in proportion to the limbs of the one freed",
+        "A hadith forbidding business at the time of the Friday call to prayer",
+        "A hadith establishing the obligation of Hajj once in a lifetime"
       ],
-      "correctAnswer": "As a dynamic challenge to address systemic orphanhood caused by war, displacement, and economic injustice",
-      "explanation": "Contemporary Shia scholars emphasize that 'orphan of near relationship' extends beyond biological kinship to address systemic orphanhood caused by war, displacement, economic collapse, and social fragmentation. They call for both immediate compassionate action and systemic reforms to protect vulnerable children in today's global crises."
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir cites the hadith from Abu Hurayra recorded in Sahih al-Bukhari and Sahih Muslim that whoever frees a believing slave will be saved from the Fire limb for limb. Imam al-Qurtubi further connects this verse to manumission as a kaffarah (expiation) in Islamic law."
     },
     {
       "id": "90_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to the teachings of Ahlul Bayt, what does the 'city' in the opening verse truly represent beyond Makkah?",
-      "options": [
-        "Only the physical geography of Arabia",
-        "The heart of the believer, fortified by Allah's remembrance and illuminated by wilayah",
-        "Ancient trade centers",
-        "The Prophet's house in Makkah"
-      ],
-      "correctAnswer": "The heart of the believer, fortified by Allah's remembrance and illuminated by wilayah",
-      "explanation": "Imam Ja'far al-Sadiq (as) states: 'The city is the heart of the believer, fortified by the remembrance of Allah and illuminated by the light of wilayah.' This profound insight reveals that while Makkah is physically sacred, the verse points to the spiritual reality of the human heart as the inner sanctuary where true submission blossoms through divine guardianship."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "True or false: According to the hadith cited by Imam al-Qurtubi, giving sadaqah to a relative carries a double reward — the reward of charity and the reward of maintaining family ties.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Qurtubi cites the hadith in Sahih Muslim in which the Prophet stated that giving sadaqah to a relative carries a double reward: the reward of sadaqah and the reward of silat al-rahim. This is why feeding 'an orphan of near kinship' (yatiman dha maqrabah) is especially meritorious."
     },
     {
       "id": "90_8",
       "type": "multipleChoice",
-      "layer": 5,
+      "layer": 3,
       "verseNumber": 18,
-      "question": "What is the primary theological difference between Sunni and Shia interpretations of 'companions of the right' in verse 18?",
+      "question": "According to Wahbah al-Zuhayli in al-Tafsir al-Munir, why is the reward for the companions of the right (ashab al-maymana) announced so briefly in verse 18?",
       "options": [
-        "Sunni scholars reject the concept entirely",
-        "Sunni exegesis emphasizes individual piety and prophetic example, while Shia interpretation integrates the concept of wilayah and Imamah as pathways to righteousness",
-        "Both traditions interpret the verse identically with no differences",
-        "Shia scholars believe only Imams can be companions of the right"
+        "Because the reward is uncertain and conditional on further deeds",
+        "Because the surah was revealed in haste",
+        "Because divine reward is stated concisely once it is unconditionally earned, mirroring its definitive nature",
+        "Because the reward applies only to the Prophet's family"
       ],
-      "correctAnswer": "Sunni exegesis emphasizes individual piety and prophetic example, while Shia interpretation integrates the concept of wilayah and Imamah as pathways to righteousness",
-      "explanation": "While both traditions identify 'companions of the right' as righteous believers destined for Paradise, Sunni exegesis emphasizes individual piety modeled on the Prophet's example, while Shia interpretation integrates the theological framework of wilayah (guardianship of the Imams) and Imamah as essential pathways to achieving this righteous status, reflecting their broader theological differences."
+      "correctAnswer": "C",
+      "explanation": "Wahbah al-Zuhayli observes that after the long description of the aqabah's difficulty, the reward is announced with swift certainty. This brevity reflects the Quranic principle that divine reward may be stated concisely because it is unconditional and definitive once earned through righteous striving."
+    },
+    {
+      "id": "90_9",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 17,
+      "question": "True or false: Sayyid Qutb in Fi Zilal al-Quran reads verse 17 as defining the believing community as one held together by mutual moral covenant of patience and mercy, rather than by blood, tribe, or interest.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb offers an influential reading that verse 17 defines the 'organic' quality of the believing community (jama'a): it is held together not by blood, tribe, or worldly interest, but by mutual moral covenant — the wills of its members aligned toward sabr (patience) and marhamah (compassion)."
     }
   ]
 }

@@ -5,111 +5,116 @@
       "id": "93_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "What does the term 'al-ḍuḥā' (morning brightness) symbolize in verse 1 according to classical Shia tafsir?",
+      "verseNumber": 3,
+      "question": "What two specific fears about Allah's relationship with the Prophet does verse 3 directly negate?",
       "options": [
-        "Only the physical light of daytime",
-        "The emergence of clarity and divine favor after periods of darkness or uncertainty",
-        "The end of the Prophet's mission",
-        "A specific time for daily prayers"
+        "Fear of poverty and fear of weakness",
+        "Fear of abandonment and fear of divine displeasure",
+        "Fear of mockery and fear of military defeat",
+        "Fear of doubt and fear of forgetting revelation"
       ],
-      "correctAnswer": "The emergence of clarity and divine favor after periods of darkness or uncertainty",
-      "explanation": "Classical Shia tafsir, such as Allamah Tabatabai's Al-Mizan, explains that al-ḍuḥā symbolizes the emergence of clarity and divine favor after periods of darkness or uncertainty. This Surah was revealed during a time when Prophet Muhammad (peace be upon him) faced a temporary pause in revelation, and the verse serves as a reminder that Allah's guidance, like the unwavering dawn, dispels doubt and renews hope."
+      "correctAnswer": "B",
+      "explanation": "Allah negates 'wadda'a' (taking leave or abandoning) and 'qala' (becoming displeased or hateful), addressing both the external concern that revelation had stopped and the internal fear that the Prophet had somehow caused divine displeasure."
     },
     {
       "id": "93_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 7,
-      "question": "In verse 7, the term 'dallan' (lost) implies that the Prophet Muhammad had spiritual deviation or error before receiving guidance.",
+      "verseNumber": 1,
+      "question": "True or false: Surah Ad-Duha was revealed during a period when revelation had paused (the fatra), and some among the Quraysh were mocking the Prophet by saying his Lord had abandoned him.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The term dallan does not imply spiritual deviation or error, as the Prophet's innate purity (fitrah) and connection to truth were intact since birth. Rather, it signifies a state of seeking or a transitional phase before receiving prophethood, emphasizing Allah's continuous guidance throughout the Prophet's life."
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains that the surah was revealed at a time of immense emotional distress for the Prophet, when an extended pause in revelation led some among the Quraysh to claim that his Lord had abandoned him or grown displeased."
     },
     {
       "id": "93_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "According to Tabrisi in Majma al-Bayan, what does verse 3 affirm about Allah's relationship with the Prophet?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "What does verse 4 ('And the Hereafter is better for you than the first life') establish as a core Islamic orientation?",
       "options": [
-        "That revelation would permanently cease",
-        "That the Prophet should seek other sources of guidance",
-        "The uninterrupted divine guardianship (wilaya) over the Prophet and the impossibility of Allah's abandonment",
-        "That the Prophet was responsible for the pause in revelation"
+        "That this world is wicked and must be entirely abandoned",
+        "That worldly success is the true measure of divine favor",
+        "That the Hereafter is categorically superior to this transient first life",
+        "That suffering in this world guarantees salvation in the next"
       ],
-      "correctAnswer": "The uninterrupted divine guardianship (wilaya) over the Prophet and the impossibility of Allah's abandonment",
-      "explanation": "Tabrisi in Majma al-Bayan explains that verse 3, 'Your Lord has not taken leave of you, nor has He detested you,' affirms both the uninterrupted divine guardianship (wilaya) over the Prophet and the impossibility of Allah's abandonment of His chosen guides. This interpretation is rooted in the teachings of the Ahl al-Bayt."
+      "correctAnswer": "C",
+      "explanation": "The verse uses 'al-ula' (the first) rather than 'al-dunya,' framing this life simply as what comes first temporally. It establishes that the Hereafter is decisively superior in duration, pleasure, peace, and nearness to Allah."
     },
     {
       "id": "93_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 8,
-      "question": "How do classical Shia exegetes like Tabrisi interpret the Prophet's early poverty mentioned in verse 8?",
-      "options": [
-        "As a punishment for wrongdoing",
-        "As a deficiency in the Prophet's character",
-        "As a deliberate divine arrangement to manifest Allah's grace (lutf) and establish reliance (tawakkul) solely on Allah",
-        "As evidence that material wealth is unnecessary"
-      ],
-      "correctAnswer": "As a deliberate divine arrangement to manifest Allah's grace (lutf) and establish reliance (tawakkul) solely on Allah",
-      "explanation": "Classical Shia exegetes, including Tabrisi in Majma al-Bayan and Allama Tabatabai in Tafsir al-Mizan, emphasize that the Prophet's early poverty was not a deficiency but a deliberate divine arrangement to manifest Allah's grace (lutf) and to establish his reliance (tawakkul) solely on Allah, demonstrating the Quranic theme of divine nurturing (tarbiyyah)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "True or false: Verse 5 promises a specific enumerated list of blessings to the Prophet, naming exactly what Allah will give.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The verse is deliberately open-ended. The tafsir explains that it does not enumerate because the scope of divine giving cannot be contained in a list; the test of sufficiency is the Prophet's own complete satisfaction (fatarda)."
     },
     {
       "id": "93_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "According to Ayatollah Nasir Makarim Shirazi, verse 6's reference to Allah's care for the orphaned Prophet establishes divine solidarity only with orphans, not with other vulnerable groups.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Nasir Makarim Shirazi, in his Tafsir Nemuneh, emphasizes how Allah's care for the orphaned Prophet Muhammad establishes divine solidarity with society's most vulnerable—a principle demanding modern applications to all marginalized groups, not just orphans."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "According to Ibn Kathir, what did the Prophet say that revealed how he understood the promise of verse 5?",
+      "options": [
+        "'I will be satisfied only when Mecca is conquered'",
+        "'I will not be pleased while even one of my ummah remains in the Fire'",
+        "'I am already satisfied with what my Lord has given me'",
+        "'My satisfaction lies only in the wealth of this world'"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir cites the narration in Sahih Muslim where the Prophet, on hearing this verse, said he would not be pleased while even one of his ummah remained in the Fire, indicating that the divine promise includes his intercession (shafa'ah) for his community."
     },
     {
       "id": "93_6",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 9,
-      "question": "How does Ayatollah Naser Makarem Shirazi interpret the term 'qahr' (oppression) in verse 9's command about orphans?",
-      "options": [
-        "Only as physical abuse of orphans",
-        "As both active abuse and neglect of structural inequities like unequal access to education, healthcare, or legal rights",
-        "As a historical command with no modern relevance",
-        "Only as financial exploitation"
-      ],
-      "correctAnswer": "As both active abuse and neglect of structural inequities like unequal access to education, healthcare, or legal rights",
-      "explanation": "Ayatollah Naser Makarem Shirazi emphasizes that qahr (oppression) includes not only active abuse but also neglect of structural inequities, such as unequal access to education, healthcare, or legal rights for orphaned children. This interpretation aligns with Imam Ali's teachings in Nahjul Balagha, which frame social responsibility as systemic justice."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "True or false: Ibn Kathir and other classical Sunni scholars interpret 'dallan' in verse 7 to mean that the Prophet was a polytheist or in moral error before revelation.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir explicitly explains that 'dallan' does not mean the Prophet was misguided or followed falsehood, as this would contradict his prophetic purity. Rather, it means he was unaware of the detailed injunctions of Islamic law and the full content of revelation before it was sent down."
     },
     {
       "id": "93_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Ali in Nahj al-Balagha, what is the relationship between this world and the Hereafter as taught in verse 4?",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "How does Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran extend the prohibition 'do not oppress the orphan' (la taqhar)?",
       "options": [
-        "Both are equally permanent and important",
-        "This world is a passage, while the Hereafter is the abode of permanence",
-        "The Hereafter has no connection to this world",
-        "This world is more important than the Hereafter"
+        "He limits it to physical violence only",
+        "He restricts it to a guardian's direct biological relatives",
+        "He extends it to taking their property, delaying inheritance, and harsh speech or action",
+        "He applies it only to Meccan orphans during the Prophet's lifetime"
       ],
-      "correctAnswer": "This world is a passage, while the Hereafter is the abode of permanence",
-      "explanation": "Imam Ali (peace be upon him) states in Nahj al-Balagha: 'This world is a passage, while the Hereafter is the abode of permanence.' This teaching illuminates verse 4's divine assurance that the eternal blessings of the Hereafter far surpass the fleeting comforts of this world, extending to all believers who align their lives with eternal proximity to Allah."
+      "correctAnswer": "C",
+      "explanation": "Al-Qurtubi extracts from this verse a broad prohibition covering eating orphans' property, delaying their inheritance, forcing them into undesirable situations, and treating them harshly in speech or action, connecting it to the wider fiqh in Surah al-Nisa and al-Baqarah."
     },
     {
       "id": "93_8",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 10,
+      "question": "True or false: Wahbah al-Zuhayli explains that the command not to repel the petitioner (sa'il) is grounded in the Islamic concept of human dignity (karamah), and applies to those seeking knowledge as well as material help.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Zuhayli in Al-Tafsir al-Munir connects the verse to the concept of karamah, noting that every petitioner, whether asking for material help or guidance, carries an inherent dignity that must not be violated. Ibn Kathir likewise affirms that 'al-sa'il' encompasses both the beggar and the seeker of knowledge."
+    },
+    {
+      "id": "93_9",
       "type": "multipleChoice",
-      "layer": 4,
+      "layer": 3,
       "verseNumber": 11,
-      "question": "According to Imam Ja'far al-Sadiq's teaching on verse 11, what is the greatest 'favor' (ni'mah) that should be proclaimed?",
+      "question": "According to Sayyid Qutb's reading in Fi Zilal al-Quran, how do verses 9, 10, and 11 relate to the divine favors mentioned in verses 6, 7, and 8?",
       "options": [
-        "Material wealth and prosperity",
-        "The Wilayah (divine guardianship) of Imam Ali and the Imams",
-        "Personal achievements and success",
-        "Physical health and well-being"
+        "They are unrelated commands placed at the end for emphasis",
+        "They abrogate the earlier verses about the Prophet's history",
+        "They form a symmetrical response: each remembered favor produces a corresponding moral imperative",
+        "They apply only to the Prophet personally and not to his community"
       ],
-      "correctAnswer": "The Wilayah (divine guardianship) of Imam Ali and the Imams",
-      "explanation": "Imam Ja'far al-Sadiq (as) taught that the 'favor' (ni'mah) in verse 11 refers foremost to the Wilayah (divine guardianship) of Imam Ali (as) and the Imams, the ultimate manifestation of Allah's mercy. He states, 'The greatest favor is the recognition of the Imam, for through him creation is guided to the Light of their Lord' (Bihar al-Anwar)."
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb highlights the symmetry: orphanhood is answered by protecting the orphan, lostness by welcoming the seeker, and poverty by proclaiming divine favor. Ethics in Islam flow organically from remembered experience and gratitude rather than abstract obligation."
     }
   ]
 }

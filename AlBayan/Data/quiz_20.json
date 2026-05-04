@@ -6,270 +6,295 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what are the opening letters 'Ta-Ha' often interpreted to mean?",
+      "question": "The opening letters 'Ta Ha' belong to a category found at the beginning of twenty-nine surahs. What is the dominant Sunni scholarly position regarding their precise meaning?",
       "options": [
-        "A command to worship",
-        "The name of Prophet Muhammad or an address meaning 'O man'",
-        "The name of an angel",
-        "A chapter number"
+        "A. They definitively mean 'O Pure One,' a divine address to the Prophet",
+        "B. Their full meaning is known only to Allah, and the safest response is acceptance without presumptuous interpretation",
+        "C. They are a secret cipher that encodes the Prophet's name in Arabic numerology",
+        "D. They represent the first two letters of the Torah as a sign of scriptural continuity"
       ],
       "correctAnswer": "B",
-      "explanation": "The muqatta'at 'Ta-Ha' are often interpreted as either a name of Prophet Muhammad (pbuh) or an affectionate address meaning 'O man' or 'O you', serving as divine intimacy and reassurance."
+      "explanation": "Imam al-Tabari records that senior Companions including Abu Bakr, Umar, Uthman, and Ibn Masud maintained that the meaning of the disconnected letters belongs entirely to Allah. Ibn Kathir affirms that this stance of tawquf — acceptance without speculation — is the most widely honored position, and that even reciting these letters earns full spiritual reward, as each letter of the Quran carries ten good deeds."
     },
     {
       "id": "20_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 21,
-      "question": "When Musa's staff transformed into a serpent, Allah told him to fear it and run away.",
+      "verseNumber": 2,
+      "question": "Verse 2 of Surah Ta-Ha declares that the Quran was sent down specifically to cause the Prophet distress and test his endurance.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "Allah commanded Musa: 'Seize it and fear not. We will return it to its former condition.' This teaches that divine support requires courageous action paired with complete trust in Allah's wisdom."
+      "explanation": "The verse states the opposite: 'We have not sent down the Quran to you that you should be distressed.' Ibn Kathir records that the Quraysh mockingly claimed this Quran had made Muhammad miserable, and this verse came as a direct divine rebuttal. Imam al-Qurtubi derives from it the foundational legal principle of 'la haraj' — there is no hardship in religion — affirming that Allah's commands are within human capacity."
     },
     {
       "id": "20_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 22,
-      "question": "What was the second miraculous sign given to Musa at the burning bush?",
+      "layer": 2,
+      "verseNumber": 3,
+      "question": "Classical Sunni scholars explained the Quran's description in verse 3 as 'tathkira' — a reminder. According to Imam al-Tabari and Ibn Kathir, who benefits most fully from this reminder?",
       "options": [
-        "His staff split the sea",
-        "His hand emerged radiantly white without disease",
-        "Fire descended from heaven",
-        "Water sprang from a rock"
+        "A. Only scholars who have memorized the entire Quran",
+        "B. Those who approach it with khashya — a reverent awe combining love and consciousness of Allah's greatness",
+        "C. Only the Arabs because the Quran was revealed in Arabic",
+        "D. Exclusively those who have previously read the Torah and Injeel"
       ],
       "correctAnswer": "B",
-      "explanation": "Allah commanded Musa to place his hand under his arm, and when he withdrew it, it shone radiantly white without any illness, confirming his prophethood."
+      "explanation": "Ibn Kathir explains that 'yakhsha' denotes the fear that combines acknowledgment of divine greatness with awareness of one's own smallness — the fear of the knowledgeable, as the Quran states: 'Only those with knowledge truly fear Allah.' Tabari records from Mujahid and other early scholars that the verse describes who most fully benefits, not a restriction of the Quran's universal address."
     },
     {
       "id": "20_4",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 83,
-      "question": "What did Allah ask Musa when he hastened to Mount Tur ahead of his people?",
+      "layer": 3,
+      "verseNumber": 5,
+      "question": "Wahbah al-Zuhayli and Ibn Uthaymeen both commented on the theological significance of Allah using the name 'al-Rahman' immediately before mentioning the Throne in verse 5. What did they conclude?",
       "options": [
-        "Why did you leave Egypt?",
-        "What made you hasten from your people?",
-        "Why did you bring your brother?",
-        "When will you return?"
+        "A. Al-Rahman here is a grammatical filler with no theological content",
+        "B. The pairing teaches that Allah's sovereignty over creation is exercised in mercy, not caprice — the Most Merciful governs from the Throne",
+        "C. Al-Rahman in this verse is a different divine name from al-Rahman in Surah al-Fatiha",
+        "D. The name was chosen to address the softness of the Meccan audience rather than for creedal reasons"
       ],
       "correctAnswer": "B",
-      "explanation": "Allah asked: 'What made you hasten from your people, O Moses?' This gentle probe highlights the balance between personal spiritual obligations and communal responsibility."
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir notes the pairing is theologically deliberate: the One who governs all creation from His Throne does so as the Most Merciful. Ibn Uthaymeen was emphatic that the Salaf approach — affirming istawa as a real attribute befitting Allah's majesty without asking how — is the sound Sunni position, and that the name al-Rahman here shows divine sovereignty is an expression of mercy, not indifference."
     },
     {
       "id": "20_5",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 20,
-      "question": "According to Tabatabai in Al-Mizan, what does Musa's staff transforming into a serpent represent?",
-      "options": [
-        "A simple magic trick",
-        "A manifestation of tajalli (divine revelation) transcending natural causality",
-        "An accident of nature",
-        "Pharaoh's punishment"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai portrays the staff's transformation as a manifestation of tajalli (divine revelation), revealing Allah's absolute authority over form and substance, transcending natural causality."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "When Moses set off toward the fire in verse 10, he was already aware that he was approaching a divine encounter and prepared himself spiritually before going.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir emphasizes that Moses had no idea whatsoever of the prophetic encounter awaiting him. Ibn Kathir notes he was simply a tired husband and father trying to find warmth for his cold family and directions for a road they had lost. Sayyid Qutb writes that the Quran presents this precisely so that we feel the full weight of the divine interruption that follows — Moses went looking for fire and found the Lord of the fire."
     },
     {
       "id": "20_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 21,
-      "question": "According to Al-Tabrisi, the restoration of Musa's staff to its original form affirms the Shia principle of bada' (divine will in mutable realities).",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Al-Tabrisi in Majma al-Bayan notes that 'We will return it to its former condition' underscores Allah's absolute authority over creation, affirming bada' which rejects rigid predestination."
+      "verseNumber": 11,
+      "question": "Imam al-Tabari records several narrations about the circumstances of Moses arriving at the fire. What detail did he cite from Ibn Abbas about why Moses said he might find 'guidance' at the fire?",
+      "options": [
+        "A. Moses expected to find an angel waiting there with a written message",
+        "B. Moses had been told by his father-in-law Shu'ayb that fires in that desert region were always lit by prophets",
+        "C. Moses and his family had lost their road, so he hoped to find someone near the fire who could show them the way",
+        "D. Moses sought a scholar camped at the fire who could instruct him in the Torah"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari reports from Ibn Abbas that 'or find at the fire some guidance' meant Moses hoped to find a person who could direct them to the road, because they had lost their way traveling on a cold, dark, stormy night. The dual purpose — warmth and direction — reflects Moses's practical care as a husband and father, which Ibn Kathir describes as the pastoral responsibility of a prophet looking after those in his charge."
     },
     {
       "id": "20_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 22,
-      "question": "In classical Shia exegesis, what does the 'whiteness' of Musa's hand symbolize?",
+      "layer": 1,
+      "verseNumber": 12,
+      "question": "Verse 12 records Allah's first words to Moses at the burning bush: 'Indeed, I am your Lord.' According to the tafsir, why does Allah identify Himself before giving any command?",
       "options": [
-        "A skin disease",
-        "The luminous nature of divine authority (wilayah) and soul purification",
-        "Fear and weakness",
-        "Punishment for disobedience"
+        "A. Because Moses might otherwise mistake the voice for that of Pharaoh's priests",
+        "B. Because establishing divine identity is the foundational theological statement that grounds all obligation — tawhid is the precondition of all prophecy",
+        "C. Because Moses asked who was speaking and Allah was simply answering his question",
+        "D. Because Iblis had been impersonating Allah and Moses needed to distinguish between them"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that the 'whiteness' transcends mere physical transformation, symbolizing the luminous nature of divine authority (wilayah) and purification of the soul through proximity to Allah."
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb reflects that the identification 'I am your Lord' before any other statement is of profound theological significance, establishing tawhid as the precondition of all prophecy. Wahbah al-Zuhayli notes that this self-identification is not merely informational — it is the foundational theological statement that makes all subsequent revelation and obligation intelligible and binding."
     },
     {
       "id": "20_8",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 83,
-      "question": "According to Shia theology, how does Musa's temporary absence from his people connect to the doctrine of Imamah?",
-      "options": [
-        "It proves prophets can abandon their duties",
-        "It shows the fragility of human commitment without sustained divine guidance",
-        "It suggests leaders should never pray",
-        "It indicates communities don't need guidance"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia theology connects this episode to Imamah: just as Musa's absence led to his people's error with the golden calf, it emphasizes the eternal need for divine guardianship through the Imams."
+      "verseNumber": 13,
+      "question": "According to the Sunni scholarly consensus cited by Ibn Kathir and Imam al-Qurtubi, Moses's election to prophethood flowed from his superior personal spiritual achievements and long years of night worship.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir explicitly states that Moses at the moment of election was a man who had fled Egypt, lived as a shepherd, and was now lost in the dark — 'hardly the profile of a conventional leader.' The Sunni position affirms that divine election transcends human criteria and is an act of pure divine grace. Imam al-Qurtubi identifies the doctrine of 'istibar' — Allah chooses His messengers according to His wisdom without anyone having a claim upon it."
     },
     {
       "id": "20_9",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 21,
-      "question": "How do contemporary scholars like Ayatollah Shirazi interpret the command 'Seize it and fear not'?",
+      "verseNumber": 29,
+      "question": "Sayyid Qutb, in Fi Zilal al-Quran, reflected on Moses's request for a 'wazir' in verse 29. What concept did Qutb use to describe the kind of partnership Moses sought?",
       "options": [
-        "As merely historical narrative",
-        "As a metaphor for confronting crises with faith-driven courage",
-        "As advice to avoid dangerous situations",
-        "As permission to practice magic"
+        "A. Institutional hierarchy where a subordinate follows orders without question",
+        "B. A sharing of burdens — not merely companionship but actively shouldering the companion's responsibilities as an expression of true Islamic brotherhood",
+        "C. Democratic governance where all decisions are made by majority vote among the Israelites",
+        "D. A division of labor purely based on each person's technical skills"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Naser Makarem Shirazi emphasize this verse as a metaphor for confronting crises with faith-driven courage, applicable to modern challenges like climate disruption or systemic injustice."
+      "explanation": "Sayyid Qutb writes that Moses does not ask for a subordinate or an employee but a wazir — a genuine partner in bearing the mission's weight. Qutb sees this as the Quranic vision of Islamic brotherhood as a sharing of burdens, not merely a sharing of companionship. This is the quality that defined the Muhajirun and the Ansar in Madinah, and it is what the word 'wazir' evokes."
     },
     {
       "id": "20_10",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 22,
-      "question": "Modern scholars interpret Musa's 'hand without disease' as a call for activism untainted by corruption.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Dr. Reza Shah-Kazemi and others extend the symbolism to social justice movements, interpreting the 'hand without disease' as a call for activism untainted by corruption in an era of systemic inequality."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 30,
+      "question": "Verse 30 consists of just two Arabic words: 'Harun akhi' — Aaron, my brother. What does the classical tafsir say the word 'akhi' (my brother) adds to simply naming Aaron?",
+      "options": [
+        "A. It specifies that Aaron was Moses's biological elder brother, which qualified him legally as heir",
+        "B. It communicates an entire relationship — love, trust, shared history, and absolute confidence — in a single word, giving the request its profound emotional weight",
+        "C. It distinguishes Aaron from other men named Harun who lived at the same time",
+        "D. It signals that only family members can serve as prophetic partners, establishing a rule in Islamic law"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fakhr al-Din al-Razi in Mafatih al-Ghayb reflects that ending the verse with 'akhi' after the formal name 'Aaron' communicates in a single syllable what pages of prose could not: the depth of love, trust, and shared identity that bound these two prophets together. Ibn Kathir notes Aaron was both older and known for eloquence, and his elevation to prophethood came directly in response to Moses's heartfelt request."
     },
     {
       "id": "20_11",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 83,
-      "question": "What modern concept does Musa's choice to delegate to Harun and trust his community align with?",
-      "options": [
-        "Micromanagement",
-        "Distributed leadership",
-        "Authoritarian control",
-        "Complete isolation"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Musa's choice to seek divine pleasure over micromanaging his community aligns with 'distributed leadership' in organizational theory, where empowering others fosters collective resilience."
+      "verseNumber": 50,
+      "question": "Contemporary scholars including Ibn Uthaymeen and Wahbah al-Zuhayli argued that Moses's answer to Pharaoh in verse 50 — 'Our Lord is He who gave each thing its form and then guided it' — constitutes a form of natural theology that is fully consistent with modern scientific understanding of design in nature.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in al-Tafsir al-Munir considers verse 50 one of the most intellectually powerful Quranic engagements with divine existence. Contemporary Muslim scholars frequently cite Moses's declaration in discussions of the fine-tuning of the universe and biological design. Ibn Uthaymeen taught from this verse that the truest knowledge of Allah begins with the contemplation of His creation — a practice that is both spiritual and intellectual."
     },
     {
       "id": "20_12",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 115,
-      "question": "How do contemporary scholars interpret Adam's 'forgetfulness' in verse 115?",
+      "layer": 2,
+      "verseNumber": 52,
+      "question": "When Pharaoh challenged Moses about the fate of former generations in verse 51, Moses responded in verse 52 with a two-part declaration. What are the two attributes of Allah that Moses cited?",
       "options": [
-        "As deliberate sin",
-        "As an intrinsic aspect of human imperfection requiring divine grace to overcome",
-        "As evidence prophets are unreliable",
-        "As a permanent flaw in humanity"
+        "A. His power over death and His control over the weather",
+        "B. That He neither errs nor forgets — meaning His knowledge of all former peoples is perfectly preserved and His judgment will be perfectly accurate",
+        "C. His mercy toward believers and His wrath toward disbelievers",
+        "D. His being the Creator of the heavens and His ownership of all wealth"
       ],
       "correctAnswer": "B",
-      "explanation": "Scholars like Ayatollah Jafar Subhani emphasize that Adam's lapse is not a moral failure but an intrinsic aspect of human imperfection, aligned with the view that humans grow through trial and error with divine grace."
+      "explanation": "Moses answers: 'The knowledge thereof is with my Lord in a record. My Lord neither errs nor forgets.' Ibn Kathir explains that 'la yadillu' means He does not lose track of anything in His knowledge, and 'la yansa' means He does not forget any matter, great or small. Imam al-Razi notes this was simultaneously a refutation of Pharaoh's trap and a warning: just as Allah perfectly recorded former generations, He is equally recording Pharaoh's deeds at that very moment."
     },
     {
       "id": "20_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 21,
-      "question": "According to Imam Ja'far al-Sadiq, what truth about leadership does Musa's hastening to Mount Tur reveal?",
+      "layer": 1,
+      "verseNumber": 74,
+      "question": "Verse 74 states that whoever comes before Allah as a criminal 'will neither die therein nor live.' What does this state describe according to the tafsir?",
       "options": [
-        "Leaders should always work alone",
-        "When the representative of truth is absent, falsehood finds its path",
-        "Communities don't need spiritual guidance",
-        "Hastening is always wrong"
+        "A. A temporary purgatorial state lasting one thousand years before eventual release",
+        "B. The spiritual death of sinners in this world before physical death occurs",
+        "C. Perpetual torment without the release of death and without the vitality of life — an existence of pure, unending suffering",
+        "D. A metaphorical description of the spiritual emptiness felt by hardened sinners"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq explains: 'When the representative of truth is absent, falsehood finds its path' (Bihar al-Anwar), warning against abandoning divinely appointed guides."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explains this phrase by citing Surah al-Ala (87:13) and a hadith in Sahih al-Bukhari and Muslim describing Hell's inhabitants calling for death, only to be told they will remain forever. Imam al-Razi describes the state philosophically as the complete absence of the goods of existence combined with the complete presence of suffering — the precise opposite of paradise. Ibn Uthaymeen identified the eternity of this punishment for the kuffar as a settled matter of Sunni creed (aqidah qat'iyyah)."
     },
     {
       "id": "20_14",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 84,
-      "question": "According to Ahlul Bayt teachings, Musa's hastening was rooted in a pure longing for Allah's pleasure, not mere physical speed.",
+      "layer": 3,
+      "verseNumber": 75,
+      "question": "Muhammad al-Sha'rawi made a grammatical observation about verse 75 arguing that the promise of 'the highest degrees' applies only to believers who have performed every possible righteous deed without exception.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali teaches that 'Actions are measured by intentions,' and Musa's hastening was rooted in pure longing for Allah's pleasure, not recklessness - the soul's leap toward its Creator."
+      "correctAnswer": "false",
+      "explanation": "Muhammad al-Sha'rawi observed that the phrase uses 'ya'mal min al-salihat' — 'does of righteous deeds' — with the particle 'min' meaning 'some of,' not 'all.' This means the promise applies to any sincere believer making genuine righteous effort, not only those who achieve comprehensive perfection. Sayyid Qutb notes this verse demolishes spiritual despair: even those whose starting point was as corrupt as Pharaoh's sorcerers can reach the highest stations through sincere turning to Allah."
     },
     {
       "id": "20_15",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 115,
-      "question": "According to Imam Ja'far al-Sadiq in Tafsir al-Qummi, what caused Adam's forgetfulness?",
+      "layer": 2,
+      "verseNumber": 96,
+      "question": "In verse 96, Samiri confesses: 'Thus my soul enticed me' — using the Arabic 'sawwalat li nafsi.' How did Imam al-Qurtubi use this phrase to establish a legal and moral principle?",
       "options": [
-        "A lack of intelligence",
-        "His reliance on himself instead of clinging to the light of Muhammad and his progeny",
-        "Iblis forced him to forget",
-        "The tree made him forget"
+        "A. Qurtubi used it to argue that sins committed under psychological pressure are not legally punishable",
+        "B. Qurtubi used it to establish that when someone admits their own soul made evil seem fair to them, they cannot claim ignorance or compulsion and bear full personal responsibility",
+        "C. Qurtubi used it to define the legal term for premeditated crime requiring capital punishment",
+        "D. Qurtubi used it to argue that Samiri should be forgiven because he was self-aware about his wrongdoing"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq explains: 'Adam's forgetfulness was his reliance on his own self instead of clinging to the rope of the chosen ones. Had he sought refuge in the light of Muhammad and his progeny, he would not have faltered.'"
+      "explanation": "Imam al-Qurtubi uses 'sawwalat li nafsi' to establish that Samiri's own admission eliminates any defense of coercion or ignorance — he was not compelled by any external force but was led entirely by his own soul's rationalization of evil as acceptable. Ibn Uthaymeen drew from this the lesson that the nafs without the discipline of Quran and Sunnah will always dress up its cravings as wisdom, just as Samiri's soul dressed up idol-making as a spiritual act."
     },
     {
       "id": "20_16",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 116,
-      "question": "According to Lady Fatimah's sermon at Fadak, what happens to those who turn away from the wilayah of Ahlul Bayt?",
+      "layer": 1,
+      "verseNumber": 97,
+      "question": "Moses pronounced a threefold verdict against Samiri in verse 97: worldly exile with 'la misasa,' an unavoidable eschatological appointment, and the physical destruction of the golden calf. Why did Moses command the calf to be burned AND its ashes scattered into the sea?",
       "options": [
-        "They become wealthy",
-        "They are like a branch severed from its roots, destined to wither",
-        "They gain special powers",
-        "Nothing happens to them"
+        "A. So the gold could be purified and redistributed to the poor among the Israelites",
+        "B. So that no remnant could be recovered or venerated — only complete, multi-stage annihilation rendered the idol permanently gone",
+        "C. Because burning alone was considered the prescribed Islamic method of disposing of idols",
+        "D. Because the sea water would supernaturally neutralize any residual spiritual corruption in the ashes"
       ],
       "correctAnswer": "B",
-      "explanation": "Lady Fatimah declared: 'Allah made obedience to us the foundation of His religion. The one who turns away from our Wilayah is like a branch severed from its roots, destined to wither.'"
+      "explanation": "Ibn Kathir notes the deliberateness of the multi-stage destruction: burning alone was insufficient because the worshippers might retrieve remnants; only complete annihilation followed by scattering rendered the idol permanently gone. Wahbah al-Zuhayli draws the contemporary legal principle that the instruments of innovation and deviation must not merely be disavowed verbally but removed entirely from the community's environment."
     },
     {
       "id": "20_17",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 21,
-      "question": "On what aspect do both Shia and Sunni exegetes broadly agree regarding verse 21 (the restoration of Musa's staff)?",
-      "options": [
-        "The verse has no meaning",
-        "It demonstrates Allah's absolute authority over natural laws and tests prophetic resolve",
-        "It is purely metaphorical with no literal meaning",
-        "Only Sunni scholars commented on it"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Both Tabari (Sunni) and Tabatabai (Shia) in Al-Mizan highlight this event as a demonstration of Allah's absolute authority over natural laws and a test of prophetic resolve."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 98,
+      "question": "According to Sayyid Qutb's reading of verse 98, Moses's declaration 'Your god is only Allah' following the golden calf episode serves as the structural center around which the entire extended narrative of Moses, Aaron, the Israelites, and Samiri revolves.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran describes verse 98 as the radiant center around which all the human drama of Surah Ta-Ha revolves. All the complexity — the weakness of the people, the courage of Aaron, the fury of Moses, the cunning of Samiri — serves to set up this single luminous declaration: there is only one God and He knows everything. Qutb notes that the connection of tawhid to all-encompassing knowledge directly counters Samiri's claim to unique hidden perception."
     },
     {
       "id": "20_18",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 83,
-      "question": "Shia and Sunni scholars agree that Musa's hastening reflects an excusable act driven by spiritual eagerness for divine communion.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions agree the verse references Musa's departure to receive divine revelation, with scholars like Ibn Kathir (Sunni) and Tabrisi (Shia) framing it as driven by noble spiritual intent."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 111,
+      "question": "When verse 111 describes all faces humbled before 'al-Hayy al-Qayyum,' Imam al-Tabari recorded a nuanced distinction from the Salaf between the humbling of believers and the humbling of wrongdoers. What was that distinction?",
+      "options": [
+        "A. Believers will not be humbled at all on that Day — only disbelievers will experience any form of prostration",
+        "B. Both believers and disbelievers will be in complete subjugation, but believers' subjugation is accompanied by joy and relief, while the wrongdoers' is accompanied by disgrace and ruin",
+        "C. Believers will be humbled briefly then elevated, while disbelievers remain permanently humbled",
+        "D. Only those who committed shirk will be humbled; Muslim sinners will stand erect"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari records from the scholars of the first generations that all faces — believers and disbelievers alike — will be in complete subjugation before Allah. The distinction, as he reports, is qualitative: believers' humbling is accompanied by joy, relief, and the grace of divine acceptance, while the wrongdoers' humbling is accompanied by disgrace and the utter ruin described in the phrase 'khaba man hamala zulman.'"
     },
     {
       "id": "20_19",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 115,
-      "question": "How does Shia exegesis differ from Sunni interpretation regarding Adam's lack of 'azm' (determination)?",
+      "layer": 1,
+      "verseNumber": 112,
+      "question": "Verse 112 assures the believing doer of good that he will fear 'neither zulm nor hadm' before Allah. What do these two eschatological terms specifically mean according to the near-unanimous consensus of early scholars cited by Ibn Kathir?",
       "options": [
-        "Shia view it as a moral failure while Sunnis don't",
-        "Shia interpret it as a temporary lapse in vigilance rather than a moral failing, preserving prophetic infallibility",
-        "Both interpret it identically",
-        "Neither tradition discusses this verse"
+        "A. Zulm means physical torment and hadm means humiliation",
+        "B. Zulm means being wrongfully charged with another person's sins, and hadm means having one's own good deeds cut, diminished, or erased",
+        "C. Both terms are synonyms for general suffering with no technical distinction",
+        "D. Zulm means an unequal distribution of paradise rewards, and hadm means delay in receiving them"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia exegetes like Tabatabai interpret the 'lack of determination' as a temporary lapse in vigilance rather than a moral failing, preserving the doctrine of comprehensive prophetic infallibility (ismah)."
+      "explanation": "Ibn Kathir cites a near-unanimous consensus among early scholars including Ibn Abbas, Mujahid, al-Hasan al-Basri, and Qatadah: 'zulm' means an unjust increase — another person's sins wrongfully placed on the believer's account — while 'hadm' means an unjust decrease, the erasure of the believer's own good deeds. Together they constitute Allah's complete guarantee of perfect justice: neither charged more than one did, nor credited less than one earned."
     },
     {
       "id": "20_20",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 114,
+      "question": "Verse 114 contains the supplication 'Rabbi zidni ilman' — 'My Lord, increase me in knowledge.' Ibn Uthaymeen highlighted that this is uniquely significant among Quranic supplications. Why?",
+      "options": [
+        "A. It is the only supplication in the Quran addressed directly to Allah rather than through the Prophet",
+        "B. It is the only thing in the Quran that believers are explicitly commanded to ask for an increase of — making the pursuit of knowledge a standing divine instruction",
+        "C. It was the last verse of Surah Ta-Ha to be revealed, making it the surah's final message",
+        "D. It abrogates all earlier Quranic instructions about contentment with what one has been given"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen emphasized that 'Rabbi zidni ilman' is the only thing in the Quran for which believers are instructed to seek an increase — establishing the pursuit of beneficial knowledge as a standing divine instruction for every Muslim. Wahbah al-Zuhayli connects this to the broader command in verse 113 to listen to the Quran's varied warnings: patient, sustained engagement with divine knowledge is the path to both taqwa and remembrance."
+    },
+    {
+      "id": "20_21",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 116,
-      "question": "Both Shia and Sunni exegetes agree that the angels' prostration to Adam was an act of worship towards Adam, not obedience to Allah.",
+      "layer": 2,
+      "verseNumber": 117,
+      "question": "Imam Tabari records that the word 'fa-tashqa' (you will be miserable) in verse 117 was understood by classical scholars as placing the burden of earning worldly sustenance specifically on Adam as the husband responsible for his household.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Both traditions concur that the prostration (sajdu) signifies an act of reverence and obedience to Allah's will, not worship of Adam. Worship belongs solely to Allah."
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari notes that 'fa-tashqa' is in the masculine singular addressed specifically to Adam, which early scholars interpreted as indicating that the primary burden of earning sustenance would fall on the husband. Imam al-Qurtubi uses this observation to derive the Islamic legal principle that a man's provision of food, clothing, drink, and shelter for his wife and family is a divinely ordained responsibility — connecting the paradise narrative of verses 118-119 directly to Islamic family law."
+    },
+    {
+      "id": "20_22",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 120,
+      "question": "Ibn Uthaymeen drew a defining spiritual lesson from verse 120, where Satan whispers to Adam about 'the tree of eternity' and 'a kingdom that will not decay.' What was that lesson for contemporary believers?",
+      "options": [
+        "A. That desire for immortality is intrinsically sinful and must be completely eliminated from the heart",
+        "B. That Satan always makes his identity known clearly before tempting, so believers who are deceived have only themselves to blame",
+        "C. That a believer who has internalized Satan's declared enmity must treat every whisper toward disobedience as an enemy maneuver to be resisted with faith, remembrance of Allah, and seeking refuge in Him — not a curious experience to be sampled",
+        "D. That eating from trees and plants is spiritually dangerous and should be minimized in the believer's diet"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Uthaymeen taught from this verse that Satan's methodology — persistent whisper, false friendship, presenting harm as benefit — is permanent and unchanged since his refusal to prostrate. A believer who fully internalizes this enmity, confirmed by Allah's direct warning to Adam in verse 117, will approach every temptation with the sobriety of someone dealing with a declared enemy, not a curiosity to weigh. Wahbah al-Zuhayli notes the Quran's consistent use of 'aduww (enemy) for Iblis across multiple surahs is itself an ongoing warning to every reader in every generation."
     }
   ]
 }

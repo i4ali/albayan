@@ -5,136 +5,161 @@
       "id": "47_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir, what happens to the deeds of those who disbelieve and hinder others from Allah's path?",
+      "verseNumber": 4,
+      "question": "Verse 4 prescribes two specific options for dealing with prisoners of war once the enemy has been subdued. What are those two options?",
       "options": [
-        "They are multiplied in reward",
-        "They are rendered worthless by Allah",
-        "They are judged fairly in the afterlife",
-        "They are forgiven if they repent"
+        "A) Permanent enslavement or execution",
+        "B) Gracious free release or release in exchange for ransom",
+        "C) Forced conversion or deportation",
+        "D) Imprisonment until the end of the war or exile"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse declares that those who disbelieve and hinder others from Allah's path will have their deeds wasted (adalla a'malahum), meaning rejection of truth corrupts one's entire moral framework, rendering actions spiritually fruitless."
+      "explanation": "The verse instructs 'fa-imma mannan ba'du wa imma fida'an' — either release the captive graciously or accept ransom in the form of wealth or a prisoner exchange. Ibn Kathir records that the Prophet exercised both options with captives from Badr and later battles, establishing these as the Sunnah-grounded choices available to Muslim leadership."
     },
     {
       "id": "47_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 4,
-      "question": "According to the tafsir of verse 47:4, Islam permits indiscriminate violence in warfare without any ethical constraints.",
+      "question": "True or false: According to verse 4, the command to strike enemies in battle applies at all times during a conflict, including after the enemy has been subdued and captives have been taken.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "The tafsir emphasizes that Islam has strict ethical guidelines for warfare: fighting only when necessary, treating captives humanely, and prioritizing peace once 'war lays down its burdens.' The verse establishes rules for defensive warfare with mercy and proportionality."
+      "explanation": "The verse specifies 'hatta idha athkhantumuhum' — only until the enemy is completely subdued — before taking prisoners. The phrase 'until the war lays down its burdens' further confirms that all provisions are conditional on an active state of armed conflict. Wahbah al-Zuhayli emphasises this context-specific nature in his Al-Tafsir al-Munir."
     },
     {
       "id": "47_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegesis, what does 'averting from Allah's path' encompass beyond rejecting prophethood?",
+      "verseNumber": 4,
+      "question": "Which position did the majority of classical Sunni jurists — including Shafi'i, Ahmad ibn Hanbal, Thawri, and Ishaq ibn Rahawayh — hold regarding verse 47:4 and prisoners of war?",
       "options": [
-        "Rejecting scientific knowledge",
-        "Opposing the wilayah of Imam Ali and the Ahlul Bayt",
-        "Refusing to give charity",
-        "Not performing optional prayers"
+        "A) Execution is the only valid option for prisoners taken in battle",
+        "B) Prisoners must be enslaved until they convert to Islam",
+        "C) Verse 47:4 represents the fullest Quranic statement on prisoners of war, with the ruling authority choosing between gracious release and ransom",
+        "D) Prisoners may only be released if the opposing army first agrees to a full ceasefire"
       ],
-      "correctAnswer": "B",
-      "explanation": "Al-Tabrisi in Majma al-Bayan elucidates that 'averting from Allah's path' encompasses both rejecting prophethood and opposing the wilayah of Imam Ali and the purified Household, as these constitute the inseparable 'straight path.'"
+      "correctAnswer": "C",
+      "explanation": "Imam al-Qurtubi records that the majority of Companions and jurists understood verse 47:4 as the most complete statement of Islamic law regarding prisoners of war, with the Muslim leader choosing between the two merciful options — free release or ransom — based on the welfare of the Muslim community and the advancement of peace."
     },
     {
       "id": "47_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 4,
-      "question": "According to Tabatabai in Al-Mizan, what does 'until you have inflicted slaughter upon them' (athkhantumuhum) actually mean?",
-      "options": [
-        "Complete annihilation of enemies",
-        "Weakening the enemy's military capacity",
-        "Converting enemies to Islam",
-        "Taking all enemies as slaves"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai explains that the phrase denotes weakening the enemy's military capacity, not annihilation, reflecting the Shia principle of proportionality in jihad and ethical constraints on warfare."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "True or false: Verse 15 describes four types of rivers in Paradise — water that does not go foul, milk whose taste never changes, wine that is delightful without causing intoxication, and purified honey.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The verse enumerates exactly these four rivers. Ibn Kathir, drawing on Ibn Abbas, Hasan al-Basri, and Qatada, explains that each is a perfected, eternal version of something familiar from earthly life — free from the impurities, spoilage, and harmful effects those things carry in this world."
     },
     {
       "id": "47_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 7,
-      "question": "Contemporary scholars interpret 'supporting Allah' in verse 47:7 as requiring only ritual worship without social activism.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "Ayatollah Nasir Makarem Shirazi emphasizes that 'supporting Allah' transcends ritual worship; it demands active engagement in justice, community welfare, and resistance to oppression, which are central to the legacy of Imam Ali and the Ahlul Bayt."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 15,
+      "question": "Classical Sunni scholars debated whether the rivers of Paradise in verse 15 are literal or merely symbolic. What was the mainstream position affirmed by Tabari, Ibn Kathir, and Qurtubi?",
+      "options": [
+        "A) They are purely metaphorical, representing spiritual states of the soul in the afterlife",
+        "B) They are literal, real features of Paradise whose true nature surpasses what earthly experience can convey",
+        "C) They are descriptions of pre-Islamic gardens that the Quran adopted as illustrations",
+        "D) They represent different ranks of Paradise rather than actual flowing rivers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The mainstream Sunni position — affirmed by Tabari, Ibn Kathir, and Qurtubi — is that the rivers of Paradise are real and literal, not merely symbolic. Even though the verse is introduced with the word 'mathal' (likeness), the classical scholars understood this as using earthly comparisons to point toward genuine realities that transcend full human imagination."
     },
     {
       "id": "47_6",
       "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 9,
-      "question": "According to contemporary Shia scholarship, what does 'disliking what Allah revealed' in verse 47:9 represent in modern contexts?",
+      "verseNumber": 15,
+      "question": "Muhammad al-Sharawi observed that the phrase 'and forgiveness from their Lord' is deliberately placed at the end of the rich description of Paradise in verse 15. What conclusion did he draw from this?",
       "options": [
-        "Simply disagreeing with religious scholars",
-        "Active opposition to justice, mercy, and transcendent truth manifesting as systemic injustices",
-        "Personal preference in ritual practices",
-        "Academic criticism of religious texts"
+        "A) Forgiveness is a minor literary addition to complete the symmetry of the verse",
+        "B) Physical pleasures are the primary reward of Paradise, with forgiveness serving as a final bonus",
+        "C) The highest gift of Paradise is divine forgiveness and Allah's approval — a joy the Prophet described as overwhelming all other pleasures of Paradise",
+        "D) The verse implies that only those forgiven of major sins will receive the physical pleasures described earlier"
       ],
-      "correctAnswer": "B",
-      "explanation": "Modern scholars like Ayatollah Naser Makarem Shirazi interpret this as active opposition to justice, mercy, and transcendent truth, connecting it to systemic injustices like environmental exploitation, authoritarianism, and the suppression of human dignity."
+      "correctAnswer": "C",
+      "explanation": "Muhammad al-Sharawi observed that ending the lavish physical description with 'forgiveness from their Lord' signals divine approval as the supreme gift. He cited the prophetic hadith that Allah's pleasure will overwhelm every other pleasure of Paradise, giving the verse a spiritual depth that reorients the believer's longing toward the relational dimension of divine-human love rather than mere material reward."
     },
     {
       "id": "47_7",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 4,
-      "question": "According to Imam Jafar al-Sadiq (AS), what does the 'striking of necks' in verse 47:4 spiritually symbolize?",
+      "layer": 1,
+      "verseNumber": 24,
+      "question": "What specific failure does verse 24 identify as the only explanation for why someone hears the Quran yet remains entirely unchanged by it?",
       "options": [
-        "Literal warfare only",
-        "Severing the tyranny of the lower self (nafs) that resists divine guidance",
-        "Punishment for criminals",
-        "A historical practice no longer applicable"
+        "A) Lack of Arabic language knowledge",
+        "B) Insufficient time dedicated to Quranic recitation",
+        "C) Locks upon the heart — a hardening caused by sin, arrogance, or worldly distraction that prevents divine light from entering",
+        "D) The absence of a qualified teacher to explain the meanings"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) explained that the 'striking of necks' symbolizes severing the tyranny of the lower self (nafs) that resists divine guidance, teaching that 'the greatest jihad is the war against your own soul.'"
+      "correctAnswer": "C",
+      "explanation": "The verse asks: 'Do they not reflect upon the Quran, or are there locks upon their hearts?' The image of a padlock on the heart is one of the Quran's most arresting metaphors — a spirit so hardened by persistent sin or arrogance that no light can penetrate. Imam al-Qurtubi noted that 'aqfaluha' uses the plural, suggesting multiple overlapping barriers each representing a layer of sin or willful avoidance of truth."
     },
     {
       "id": "47_8",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to the teachings of the Ahlul Bayt, deeds performed without acceptance of the Wilayah (divine guardianship) are accepted by Allah.",
+      "layer": 2,
+      "verseNumber": 24,
+      "question": "True or false: Ibn Kathir connected the 'locks upon hearts' in verse 24 to the spiritual deafness and blindness of verse 23, treating both as aspects of the same underlying spiritual condition.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "Imam Jafar al-Sadiq (AS) taught: 'Actions are like offerings presented to the Imam of your time; if he accepts them, they ascend to Allah, and if he rejects them, they are rejected.' Deeds devoid of acceptance of Wilayah lack substance in divine reckoning."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir explicitly links the 'locks on hearts' (verse 24) to the deafness and blindness of verse 23. Both are manifestations of a single spiritual state: a heart sealed by persistent corruption is deaf to the call of truth and blind to the meanings of the Quran. He parallels this with Surah al-Ra'd 13:19, establishing that spiritual sight versus blindness is a recurring Quranic theme."
     },
     {
       "id": "47_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 4,
-      "question": "What is a key area of convergence between Shia and Sunni interpretations of verse 47:4 on warfare?",
+      "layer": 3,
+      "verseNumber": 24,
+      "question": "Sheikh Ibn Uthaymeen gave specific practical advice based on verse 24. What did he particularly urge Muslims to do as the antidote to locked hearts?",
       "options": [
-        "Both traditions allow unlimited violence",
-        "Both prohibit wanton violence and emphasize humane treatment of prisoners",
-        "Both reject all forms of conflict",
-        "Both consider the verse abrogated"
+        "A) Increase the speed of Quran recitation in order to complete more chapters daily",
+        "B) Read the Quran daily with deliberate engagement with its meanings, pausing to reflect as the scholars of the Salaf did — even to the point of weeping",
+        "C) Memorise the Quran in full before attempting to understand its deeper meanings",
+        "D) Restrict Quranic study to the guidance of a single authoritative scholar"
       ],
       "correctAnswer": "B",
-      "explanation": "Both Shia and Sunni traditions prohibit wanton violence, with Tabatabai (Al-Mizan) and Qurtubi jointly affirming that 'securing bonds' necessitates dignified prisoner treatment regardless of conflict's duration, reflecting shared ethical priorities."
+      "explanation": "Ibn Uthaymeen urged Muslims to read the Quran not merely for the reward of recitation but with deliberate engagement with its meanings. He noted that the scholars of the Salaf were known for pausing repeatedly to reflect and weep, and that this quality of deep, reflective engagement was precisely what verse 24 commands — the opposite of the locked-heart condition the verse diagnoses."
     },
     {
       "id": "47_10",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 31,
+      "question": "True or false: Verse 31 presents divine testing as a punishment intended to humiliate believers before their enemies.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 31 states 'We will surely test you until We make evident those who strive and those who are patient' — framing trials as a means of distinguishing the sincerely committed, not as punishment or humiliation. The tafsir explains that hardship reveals character, strengthens faith, and separates the sincere from the hypocrites. Trials are opportunities for spiritual elevation."
+    },
+    {
+      "id": "47_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 9,
-      "question": "What is a key difference between Shia and Sunni interpretations of 'what Allah revealed' in verse 47:9?",
+      "layer": 2,
+      "verseNumber": 33,
+      "question": "Ibn Kathir cites a report attributed to Ibn Umar in his commentary on verse 33. What did this report reveal about how the Companions understood the warning 'do not invalidate your deeds'?",
       "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia scholars extend it to include the walayah of Ahl al-Bayt as inseparable from divine revelation",
-        "Sunni scholars include Imamah in their interpretation",
-        "There is no difference between the traditions"
+        "A) They understood it as referring only to those who formally leave Islam",
+        "B) They assumed it was directed exclusively at hypocrites and did not apply to sincere believers",
+        "C) They had thought accepted deeds were safe from harm until this verse was revealed, after which they took it as a genuine personal warning for themselves",
+        "D) They interpreted it as a prohibition on performing good deeds with any worldly motivation"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir transmits Ibn Umar's report that the Companions had assumed their accepted deeds were irrevocably secured — until verse 33 was revealed. This shows they took the verse as a serious personal warning, recognising that the integrity of one's deeds depends on the quality of ongoing faith and obedience to Allah and His Messenger."
+    },
+    {
+      "id": "47_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 38,
+      "question": "The closing verse of Surah Muhammad declares 'whoever withholds only withholds against himself' and ends with 'Allah is the Self-Sufficient and you are the poor.' How did Sayyid Qutb characterise this closing in Fi Zilal al-Quran?",
+      "options": [
+        "A) He read it as a legal ruling quantifying the minimum amount of obligatory charity",
+        "B) He described it as a parting shot — the surah that opened with battlefield struggle ends with the struggle against the ego, and the miser who withholds has lost the more fundamental of those two battles",
+        "C) He argued the verse was directed only at the wealthy Companions of Medina and has limited wider application",
+        "D) He interpreted it as evidence that material poverty is itself a divine punishment for the stinginess of previous generations"
       ],
       "correctAnswer": "B",
-      "explanation": "While Sunni exegetes interpret 'what Allah revealed' as rejection of the Quran or legal rulings, Shia scholars like Tabatabai extend this to include the walayah (spiritual authority) of the Ahl al-Bayt, viewing recognition of the Imams as inseparable from divine revelation."
+      "explanation": "Qutb describes this closing verse as sealing the surah's arc: a surah that began with armed struggle ends with the inner struggle against the nafs. The miser who withholds from spending in Allah's path has lost the battle against his own ego — the deeper and more universal contest. Allah's declaration of absolute self-sufficiency confirms that the invitation to spend is an honour extended entirely for the spender's own benefit, not a divine need."
     }
   ]
 }

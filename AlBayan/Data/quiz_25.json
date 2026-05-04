@@ -6,135 +6,235 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'Furqan' (Criterion) in the opening verse of Surah Al-Furqan refer to?",
+      "question": "What does the name 'Al-Furqan' mean, and why was this surah given that title?",
       "options": [
-        "The Prophet Muhammad's sword",
-        "A divine standard to distinguish truth from falsehood",
-        "The Day of Judgment",
-        "The city of Mecca"
+        "A) The Reminder, because it reminds humanity of death",
+        "B) The Criterion, because the Quran distinguishes truth from falsehood and guidance from misguidance",
+        "C) The Protection, because it shields believers from evil",
+        "D) The Light, because it illuminates the path to Paradise"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'Furqan' (Criterion) refers to the Quran itself, a divine standard to distinguish truth (haqq) from falsehood (batil), which is a central theme in Shia exegesis."
+      "explanation": "Al-Furqan means 'the criterion' or 'the distinguisher.' The tafsir explains that the Quran separates truth from falsehood, the lawful from the unlawful, and guidance from misguidance — and the surah takes its name from this defining function of divine revelation."
     },
     {
       "id": "25_2",
       "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 63,
-      "question": "The 'ibad ar-Rahman' (servants of the Most Merciful) are described as walking upon the earth with arrogance and pride.",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "True or false: Ibn Kathir notes that the word 'nazzala' (sent down gradually) in verse 1 contrasts with 'anzala' (sent down at once), showing that the gradual mode of revelation reflects divine wisdom and care for the believing community.",
       "options": null,
-      "correctAnswer": "false",
-      "explanation": "The verse describes them walking upon the earth 'hawnan' - with humility, calmness, and dignity, neither rushing arrogantly nor dragging their feet in self-pity. This balanced approach reflects inner tranquility rooted in faith."
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim observes that the gradual revelation of the Quran, rather than a single simultaneous descent, allowed it to address the unfolding circumstances of the early Muslim community — a deliberate sign of divine wisdom and mercy toward the Prophet and believers."
     },
     {
       "id": "25_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the 'Criterion' transcend beyond?",
+      "layer": 1,
+      "verseNumber": 2,
+      "question": "Verse 2 presents four attributes of Allah in succession to establish the greatness of the One who revealed the Quran. Which option correctly identifies all four?",
       "options": [
-        "Physical boundaries",
-        "Mere textual revelation",
-        "Historical events",
-        "Arabic language"
+        "A) He forgives, He guides, He creates, and He rewards",
+        "B) He owns sovereignty over the heavens and earth, has not taken a son, has no partner in dominion, and has created and precisely determined all things",
+        "C) He sends revelation, appoints prophets, establishes prayer, and judges on the Last Day",
+        "D) He is merciful, all-knowing, all-powerful, and ever-living"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that the 'Criterion' transcends mere textual revelation and represents Allah's enduring mechanism for guiding creation, with divine guidance flowing through the Prophet and his purified progeny (Ahl al-Bayt)."
+      "explanation": "Verse 2 enumerates four consecutive attributes: absolute sovereignty over all creation, no son, no partner in dominion, and the precise determination of everything He created. Ibn Kathir explains that these form a coherent theological argument against every form of polytheism and associationism."
     },
     {
       "id": "25_4",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 63,
-      "question": "According to classical Shia exegesis, responding to ignorant people with 'salam' (peace) is considered an act of jihad al-akbar (the greater struggle).",
+      "layer": 3,
+      "verseNumber": 2,
+      "question": "True or false: Wahbah al-Zuhayli argues that the term 'al-Furqan' highlights the Quran's role as the standard by which Muslims should evaluate all systems of thought, governance, ethics, and spirituality.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "The response of 'salam' becomes an act of jihad al-akbar (greater struggle), transforming conflict through moral ascendancy rather than retaliation, as emphasized in commentaries like Majma al-Bayan."
+      "explanation": "In Al-Tafsir al-Munir, Wahbah al-Zuhayli emphasizes that calling the Quran 'the criterion' means it is the measuring stick for all human affairs. In an age of competing ideologies and moral confusion, its role as a distinguishing criterion is more relevant than ever."
     },
     {
       "id": "25_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 60,
-      "question": "According to contemporary scholar Dr. Mohammad Ali Shomali, what role does the Furqan play in modern times?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "The disbelievers accused the Prophet of fabricating the Quran with outside help. How does Ibn Kathir refute this accusation?",
       "options": [
-        "It is only relevant for historical study",
-        "It counters moral relativism and provides clarity amid information overload",
-        "It is primarily for Arabic speakers only",
-        "It focuses exclusively on ritual practices"
+        "A) He argues the accusers were foreign enemies unfamiliar with Arabic",
+        "B) He notes the accusers could not identify any credible helper, and that Surah Al-Nahl verse 103 refutes the claim by pointing out the alleged teacher spoke a foreign tongue while the Quran is in clear eloquent Arabic",
+        "C) He argues the accusation was made by hypocrites who secretly believed in the Quran",
+        "D) He says the accusation was merely political and had no theological significance"
       ],
       "correctAnswer": "B",
-      "explanation": "Dr. Mohammad Ali Shomali highlights the Furqan's role in countering moral relativism, noting how its criterion offers clarity amid today's information overload and ideological polarization."
+      "explanation": "Ibn Kathir records that the Quraysh could not name a coherent accomplice, and he cross-references Surah Al-Nahl verse 103, which directly refutes the claim: the alleged teacher spoke a foreign tongue while the Quran is in eloquent Arabic. The tafsir also cites the unchallenged challenge (tahaddi) to produce anything like it as definitive proof of divine authorship."
     },
     {
       "id": "25_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 67,
-      "question": "How do contemporary Shia scholars interpret the Quranic teaching on moderation in spending (verse 67)?",
+      "layer": 1,
+      "verseNumber": 15,
+      "question": "In verse 15, Allah commands the Prophet to pose a rhetorical question comparing two destinies. What is the purpose of this question?",
       "options": [
-        "It only applies to religious donations",
-        "It connects to modern issues like environmental sustainability and ethical consumption",
-        "It is limited to personal finances",
-        "It encourages unlimited spending on family"
+        "A) To inform the disbelievers about the geography of Paradise",
+        "B) To demonstrate that the Prophet has authority over both Paradise and Hell",
+        "C) To make the superiority of the eternal Garden over Hellfire undeniably obvious, serving as a final invitation to choose rightly",
+        "D) To warn believers that they may lose their place in Paradise through sin"
       ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars extend the teaching on moderation to modern contexts including environmental consciousness, avoiding waste in resources like food, water, or energy as a form of modern 'israf' (extravagance)."
+      "correctAnswer": "C",
+      "explanation": "The tafsir explains that the question 'Is that better, or the Garden of Eternity?' presents a contrast so total that no rational person could choose wrongly. It functions not as condemnation alone but as a final open invitation, with the stakes made vivid by the preceding description of Hellfire."
     },
     {
       "id": "25_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (AS), what does the 'Furqan' represent beyond the written Quran?",
-      "options": [
-        "Only the written book",
-        "A historical document",
-        "The Ahlul Bayt themselves - through whom creation distinguishes truth from falsehood",
-        "The prophets before Muhammad"
-      ],
-      "correctAnswer": "C",
-      "explanation": "Imam Jafar al-Sadiq (AS) explains: 'We are the Furqan - through us creation distinguishes truth from falsehood.' This reflects the Shia understanding that divine mercy is manifested through the Ahlul Bayt."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 15,
+      "question": "True or false: Muhammad al-Sha'rawi highlights that the word 'wu'ida' (promised) in verse 15 carries special weight because a divine promise in Arabic is the most binding and certain of all assurances.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Sha'rawi emphasizes in his tafsir reflections that 'jannat al-khuld' being described as 'promised' is highly significant: a divine promise is the most certain guarantee that exists, giving believers absolute confidence that sincere taqwa will be rewarded with this eternal garden."
     },
     {
       "id": "25_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 63,
-      "question": "According to Imam Ali (AS), 'Humility is the crown of nobility' and walking with tranquil humility is the mark of those anchored in God's majesty.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "Imam Ali (AS) teaches in Ghurar al-Hikam: 'Humility is the crown of nobility,' illuminating that walking upon the earth 'hawnan' - with tranquil humility - is not weakness, but the mark of those anchored in God's majesty."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 26,
+      "question": "Verse 26 declares that on the Day of Judgment 'the true sovereignty belongs to the Most Merciful.' Which scholar connects this verse to a parallel in Surah Ghafir (40:16) to reinforce that divine sovereignty will be undeniably manifest on that Day?",
+      "options": [
+        "A) Imam al-Tabari",
+        "B) Fakhr al-Din al-Razi",
+        "C) Ibn Kathir",
+        "D) Imam al-Qurtubi"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cross-references verse 26 with Surah Ghafir (40:16) — 'Whose is the kingdom this Day? It is Allah's, the One, the Irresistible' — to reinforce that the exclusive sovereignty of Allah, denied by many in this life, will be inescapably plain on the Last Day."
     },
     {
       "id": "25_9",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations regarding the implications of verse 1's divine authority?",
-      "options": [
-        "Sunni scholars reject the verse entirely",
-        "Shia scholars extend the verse's scope to include the Ahl al-Bayt's role as inheritors of prophetic knowledge",
-        "Both traditions interpret it identically",
-        "Sunni scholars emphasize the Imams more than Shia scholars"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentaries like Tabrisi's Majma al-Bayan extend the verse's scope to encompass the Ahl al-Bayt's role as inheritors of prophetic knowledge, while Sunni scholars like Ibn Kathir focus on the Quran's self-sufficiency as guidance."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "True or false: In verse 27, the wrongdoer biting his hands is a powerful Arabic idiom expressing extreme sorrow, remorse, and helplessness.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "The tafsir explains that this gesture is a well-known Arabic expression of extreme grief and desperation. On the Day of Judgment, the wrongdoer can see the correct path clearly but can no longer take it — making regret itself a form of torment, as Fakhr al-Din al-Razi notes in Mafatih al-Ghayb."
     },
     {
       "id": "25_10",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 63,
-      "question": "On what do Shia and Sunni traditions agree regarding the qualities described in verse 63 about the servants of the Merciful?",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "Regarding the wrongdoer's cry 'Oh, I wish I had taken with the Messenger a way' in verse 27, what does Ibn Uthaymeen emphasize about the meaning of 'taking a way with the Messenger'?",
       "options": [
-        "These qualities are no longer relevant today",
-        "Only Shia Muslims should practice these qualities",
-        "These qualities define ideal Muslim conduct emphasizing humility and peaceful response to ignorance",
-        "These qualities are optional for believers"
+        "A) It means only performing the five daily prayers and fasting in Ramadan",
+        "B) It means aligning one's entire life trajectory with the prophetic model, not merely performing isolated acts of worship",
+        "C) It refers specifically to migrating to Medina as the early Muslims did",
+        "D) It means memorizing the Quran and studying hadith exclusively"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Uthaymeen stressed that 'taking a way with the Messenger' means comprehensive alignment with the prophetic model across all dimensions of life — prayer, character, dealings, and worldview. Wahbah al-Zuhayli similarly notes that half-hearted or cultural Islam does not constitute the 'way with the Messenger' that the wrongdoer will desperately wish he had taken."
+    },
+    {
+      "id": "25_11",
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 43,
+      "question": "Ibn Kathir cites a report from Ibn Abbas about following desire as a god, using a vivid pre-Islamic example. What was it?",
+      "options": [
+        "A) A man who prayed to different stars each night depending on which one rose first",
+        "B) A man who worshipped a white stone, and if he found a more beautiful one, abandoned the first and worshipped the new one",
+        "C) A man who sacrificed camels to different idols depending on the season",
+        "D) A man who followed whichever tribal chief promised him the most wealth"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir records that Ibn Abbas illustrated the essence of following hawa with the example of a man who would worship a white stone, and if he found a more beautiful stone, abandon the first and worship the new one. This captures the instability of desire-worship: the 'god' changes with the worshipper's shifting preferences."
+    },
+    {
+      "id": "25_12",
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 44,
+      "question": "True or false: Sayyid Qutb argues in Fi Zilal al-Quran that the comparison of heedless disbelievers to cattle in verse 44 is meant to permanently and irreversibly strip them of human dignity.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli clarifies in Al-Tafsir al-Munir that 'worse than cattle' is not a permanent condemnation but a description of those who have voluntarily sunk below the level their humanity requires. The Quran elsewhere honors humans as stewards of the earth — the stark comparison is meant to shock the reader into self-reflection, not to deny them the possibility of return."
+    },
+    {
+      "id": "25_13",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 63,
+      "question": "The passage on 'Ibad al-Rahman' begins at verse 63 with two paired qualities. What are they?",
+      "options": [
+        "A) They fast often and give generously in charity",
+        "B) They walk on the earth with humility and composure, and respond to the ignorant with words of peace",
+        "C) They memorize the Quran and teach it to their children",
+        "D) They perform night prayer and maintain strict silence during the day"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Verse 63 opens the ibad al-Rahman passage with two qualities: they walk on the earth with 'hawn' (gentleness, humility, and dignity — not arrogance), and when the ignorant address them rudely they say 'salaman' — a graceful declaration of peace rather than retaliation. These twin qualities reflect an inner certainty grounded in Allah."
+    },
+    {
+      "id": "25_14",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 63,
+      "question": "True or false: Al-Hasan al-Basri described those who walk with 'hawn' by saying their humility is so evident that a stranger might think they are ill — because it is the awe of Allah that has settled in their hearts.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari records this statement from al-Hasan al-Basri in Jami al-Bayan. The description shows that 'hawn' is not weakness or timidity but an inner state of God-consciousness that manifests in composed, dignified outward conduct. Ibn Kathir confirms that this was understood by the Salaf as the defining quality of the believer's movement in the world."
+    },
+    {
+      "id": "25_15",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 64,
+      "question": "Wahbah al-Zuhayli makes a deliberate observation about the word order 'sujjadan wa qiyaman' (prostrating and standing) in verse 64. What is his point?",
+      "options": [
+        "A) Prostration physically precedes standing in night prayer so the order is merely descriptive",
+        "B) Placing prostration before standing highlights that sujud — the pinnacle of surrender to Allah — is the defining spirit of the ibad al-Rahman, not merely one posture among equals",
+        "C) The order signals that the ibad al-Rahman perform more prostrations than standings in their night prayer",
+        "D) The word order reflects the historical sequence in which the two prayer postures were revealed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir notes that though standing physically precedes prostration in salah, placing sujud first in the verse emphasizes that the moment of ultimate submission — when the servant is nearest to Allah — is the quality that most defines the servants of the Merciful in their nighttime worship."
+    },
+    {
+      "id": "25_16",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 67,
+      "question": "Verse 67 describes the servants of the Most Merciful spending in a way that is neither extravagant nor miserly. What Arabic word does the Quran use for this balanced middle path?",
+      "options": [
+        "A) Wasatiyyah",
+        "B) Tawazun",
+        "C) Qawaman",
+        "D) Iqtisad"
       ],
       "correctAnswer": "C",
-      "explanation": "Both Shia and Sunni traditions agree that humility and peaceful conduct define ideal Muslim behavior, though they differ in emphasis - Shia thought ties them more explicitly to loyalty to the Imams, while Sunni exegesis anchors them in prophetic precedent."
+      "explanation": "The Quran uses 'qawaman' — derived from the root q-w-m, meaning to stand upright — to describe the balanced middle path in spending. Imam al-Razi in Mafatih al-Ghayb notes this illustrates the Quranic principle that every virtue lies at the midpoint between two vices: neither extravagance nor miserliness."
+    },
+    {
+      "id": "25_17",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 72,
+      "question": "True or false: Ibn Kathir cites a hadith from Sahih Bukhari in which the Prophet ranked false testimony among the gravest sins alongside shirk and severing family ties, and repeated the warning three times with such intensity that the Companions feared for his health.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir records this well-known hadith in connection with verse 72's condemnation of bearing false witness ('la yashhuduna al-zur'). The Prophet's emphatic triple repetition confirmed for the Salaf that false testimony is among the gravest of all sins, as al-Qurtubi also elaborates in Al-Jami li-Ahkam al-Quran."
+    },
+    {
+      "id": "25_18",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 76,
+      "question": "Sayyid Qutb, reflecting on verse 76's conclusion of the ibad al-Rahman passage, describes the divine phrase 'hasunat mustaqarran wa muqama' (excellent as settlement and abode) as doing what for the striving believer?",
+      "options": [
+        "A) Warning believers that Paradise is reserved only for prophets and exceptional saints",
+        "B) Functioning as a divine endorsement — as though Allah personally commends Paradise as the finest of homes — transforming how the believer sees every act of daily striving",
+        "C) Proving that the pleasures of Paradise are metaphorical rather than literal",
+        "D) Establishing that only those who perform night prayer every single night will enter the high chambers of Paradise"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb writes in Fi Zilal al-Quran that 'hasunat mustaqarran wa muqama' is a divine endorsement — Allah personally testifying to the excellence of Paradise as a home. This transforms the believer's relationship with daily striving: every act of patience, every night in prayer, every sin resisted is seen as building toward this eternal abode that Allah Himself commends."
     }
   ]
 }

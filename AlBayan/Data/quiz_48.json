@@ -6,130 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the term 'fath mubeen' (clear conquest) in verse 1 primarily refer to?",
+      "question": "What historical event does the 'manifest victory' (fath mubin) in the opening verse of Surah Al-Fath refer to, according to the scholarly consensus of the Companions and Tabi'un?",
       "options": [
-        "The Battle of Badr",
-        "The Treaty of Hudaybiyyah",
-        "The conquest of Khaybar",
-        "The Battle of Uhud"
+        "A. The Battle of Badr",
+        "B. The Treaty of Hudaybiyyah",
+        "C. The Conquest of Mecca",
+        "D. The Battle of Khaybar"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical Shia scholars like Allamah Tabatabai in Tafsir al-Mizan emphasize that the 'fath mubeen' refers to the Treaty of Hudaybiyyah (6 AH), which initially appeared unfavorable but ultimately secured peace, strengthened the Muslim community, and paved the way for Islam's spread."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim states that the scholarly consensus among the Companions and the Tabi'un identified al-fath al-mubin as the Treaty of Hudaybiyyah specifically, because of the cascade of divine blessings it directly enabled. Ibn Masud and other senior Companions explicitly stated they considered Hudaybiyyah the greater victory, since within two years it led to mass conversions and the opening of Mecca without bloodshed."
     },
     {
       "id": "48_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, true 'conquests' can come through patience and wisdom rather than just immediate military triumph.",
+      "question": "True or false: When the Treaty of Hudaybiyyah was first concluded, Umar ibn al-Khattab immediately accepted it as a clear divine victory without any reservation.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The verse teaches Muslims that 'conquests' often come through patience, wisdom, and trust in Allah's wisdom, not just immediate triumph. The Treaty of Hudaybiyyah transformed an apparent setback into a foundation for victory through strategic patience."
+      "correctAnswer": "false",
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran records that Umar ibn al-Khattab questioned whether this was truly a victory, reflecting genuine confusion among the Companions at the time. The treaty's apparently unfavorable terms — including significant concessions to the Quraysh — made it seem like a humiliation rather than a triumph. Allah's revelation calling it a 'manifest victory' taught the believers that divine wisdom operates on a scale transcending immediate human perception."
     },
     {
       "id": "48_3",
       "type": "multipleChoice",
       "layer": 2,
       "verseNumber": 2,
-      "question": "According to Shia theology, how is the term 'dhanb' (sin) interpreted in verse 2 regarding the Prophet (PBUH)?",
+      "question": "How did Fakhr al-Din al-Razi in Mafatih al-Ghayb interpret the phrase 'forgiveness of what is to come' in verse 2, consistent with the Sunni position that prophets are protected from grave sin?",
       "options": [
-        "It refers to moral sins the Prophet committed",
-        "It refers to minor situational shortcomings (tark al-awla), not moral transgressions",
-        "It means the Prophet needed to repent",
-        "It indicates the Prophet was like ordinary humans in making sins"
+        "A. He argued it refers exclusively to pre-prophethood actions judged retrospectively by Islamic standards",
+        "B. He held it represents a comprehensive divine pardon covering all temporal possibilities, an expression of absolute divine generosity toward the Prophet",
+        "C. He concluded the verse addresses the Companions rather than the Prophet himself",
+        "D. He said it refers only to sins the Prophet might be tempted toward but never actually commits"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia scholars like Tabatabai explain that 'dhanb' does not denote moral transgression, as this would contradict the doctrine of prophetic infallibility (ismah). Instead, it refers to minor situational shortcomings or delays in optimal acts, never contravening divine law."
+      "explanation": "Fakhr al-Din al-Razi argued in Mafatih al-Ghayb that the phrase does not imply sins were actually committed but rather represents a comprehensive divine pardon covering all temporal possibilities — an expression of absolute divine generosity. Wahbah al-Zuhayli in Al-Tafsir al-Munir similarly affirms the mainstream Sunni position that all prophets are protected from grave sins and that this verse confirms the Prophet's absolute spiritual security."
     },
     {
       "id": "48_4",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 10,
-      "question": "According to Tafsir al-Mizan, the pledge of allegiance (bay'ah) to the Prophet transcends mere political loyalty and embodies a covenant with Allah Himself.",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "True or false: The Arabic word 'sakina' (tranquility) in verse 4 refers to a psychological composure the Companions generated through their own willpower at Hudaybiyyah, not a direct divine gift.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Tabatabai elucidates that the bay'ah to the Prophet (PBUH) transcends mere political loyalty, embodying a covenant with Allah Himself. The phrase 'the hand of Allah is over their hands' signifies divine sovereignty and establishes the principle of wilayah (divine guardianship)."
+      "correctAnswer": "false",
+      "explanation": "The tafsir is explicit that sakina is a supernatural divine gift, not self-generated composure. Imam al-Tabari in Jami al-Bayan records multiple early definitions from the Companions and Tabi'un describing it as 'the grace of Allah that brings peace to the hearts,' 'certainty that what the Prophet decided was correct,' and 'a light that descended from Allah' — all indicating it descends directly from Allah into human hearts."
     },
     {
       "id": "48_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 18,
-      "question": "How do contemporary Shia scholars interpret the 'sakina' (tranquility) mentioned in verse 18?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Imam al-Qurtubi used verse 4's statement that believers 'would increase in faith along with their existing faith' as definitive Quranic proof against which theological school's position?",
       "options": [
-        "A physical gift given to the believers",
-        "A metaphor for grounding activism in inner peace amid crises",
-        "A type of weapon used in battle",
-        "A monetary reward for the believers"
+        "A. The Kharijites, who held that a major sinner leaves the fold of Islam",
+        "B. The Mu'tazilites, who denied that faith can increase or decrease",
+        "C. The Murji'ites, who held that actions are entirely irrelevant to salvation",
+        "D. The Jahmiyya, who denied the reality of divine attributes"
       ],
       "correctAnswer": "B",
-      "explanation": "Modern thinkers connect the 'sakina' (tranquility) to faith-induced calmness, paralleling neuroscientific insights. Dr. Reza Shah-Kazemi notes this 'sakina' becomes a metaphor for grounding activism in inner peace amid crises like climate anxiety or geopolitical strife."
+      "explanation": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran explicitly engages the Mu'tazilite controversy over whether iman can increase and decrease, using verse 4 as a definitive Quranic proof that it can. The phrase 'so that they would increase in faith along with their existing faith' directly states that existing iman was augmented by the divinely gifted sakina, establishing the mainstream Sunni position that faith is dynamic and grows through divine gifts and trials."
     },
     {
       "id": "48_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 10,
-      "question": "According to contemporary interpretation, what does the 'hand of Allah' in verse 10 symbolize in modern governance?",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "What inner spiritual disease does verse 6 identify as the root cause of the hypocrites' and polytheists' opposition, described as 'al-zann al-saw'?",
       "options": [
-        "A physical divine hand appearing in battles",
-        "Divine authority channeled through ethical leadership aligned with transcendent justice",
-        "A literal hand that punishes wrongdoers",
-        "A symbol of military power"
+        "A. Excessive attachment to pre-Islamic tribal customs and rituals",
+        "B. Harboring an evil assumption about Allah — the belief that He would not support His Messenger or fulfill His promise",
+        "C. Jealousy of the Prophet's personal standing and influence in Madinah",
+        "D. Ignorance of the specific military terms of the Hudaybiyyah treaty"
       ],
       "correctAnswer": "B",
-      "explanation": "Ayatollah Nasir Makarem Shirazi explains that the 'hand of Allah' is understood as a metaphysical reality representing divine authority channeled through ethical leadership, resonating with the Shia concept of wilayah vested in the Ahlul Bayt and their successors."
+      "explanation": "Verse 6 condemns al-zann al-saw — the evil assumption about Allah — as the defining spiritual disease of the hypocrites and polytheists. They genuinely believed the Prophet and Companions would be annihilated and never return. Ibn Kathir in Tafsir al-Quran al-Azim cites the hadith that 'Allah says: I am as My servant thinks of Me,' underscoring that evil assumption about Allah constitutes a grave spiritual failing leading to the fourfold punishment described: ruinous misfortune, divine wrath, divine curse, and the Fire."
     },
     {
       "id": "48_7",
       "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 18,
-      "question": "According to Ahlul Bayt teachings, the true 'fath qareeb' (near victory) in Bay'at al-Ridwan is recognizing the Imam of one's time.",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: Wahbah al-Zuhayli in Al-Tafsir al-Munir limits verse 6's warning about evil assumptions to the specific historical context of Hudaybiyyah, without drawing any contemporary application.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The Imams emphasize the spiritual dimension: the true 'fath qareeb' (near victory) is recognizing the Imam of one's time. Lady Fatimah (AS) taught that 'Allah's greatest conquest is the soul's surrender to its Creator through devotion to His Proofs' (Bihar al-Anwar)."
+      "correctAnswer": "false",
+      "explanation": "Wahbah al-Zuhayli explicitly draws a contemporary application: the verse speaks directly to any era in which Muslims face setbacks and certain voices argue that divine support has been withdrawn or that the Islamic project is doomed. He states that such voices reproduce the very sin condemned in verse 6 — al-zann al-saw — and that the Quranic response to communal hardship is renewal of trust in Allah, not despair or suspicion of divine abandonment."
     },
     {
       "id": "48_8",
       "type": "multipleChoice",
-      "layer": 4,
+      "layer": 2,
       "verseNumber": 10,
-      "question": "According to Imam Jafar al-Sadiq (AS), what does the 'pledge to the Messenger of Allah' represent?",
+      "question": "According to Imam al-Tabari's historical documentation, approximately how many Companions gave the Pledge of Ridwan under the tree at Hudaybiyyah?",
       "options": [
-        "A one-time historical event with no lasting significance",
-        "A pledge to the Imams after him, as they are the hands of Allah extended over creation",
-        "A pledge only to follow the Quran",
-        "A pledge to fight in all battles"
+        "A. Three hundred, the same number who fought at Badr",
+        "B. Seven hundred, matching the Muslim force at Uhud",
+        "C. Approximately one thousand four hundred",
+        "D. Over three thousand, the full strength of the Muslim army"
       ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) explains in Tafsir al-Qummi: 'The pledge to the Messenger of Allah is a pledge to the Imams after him, for they are the hands of Allah extended over creation.' This transforms the physical bay'ah into a spiritual bond with the Imamah."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari in Jami al-Bayan records that approximately 1,400 Companions participated in the Pledge of Ridwan, giving their oath of loyalty — pledging to fight to the death — after the rumor spread that Uthman ibn Affan had been killed by the Quraysh. This event is immortalized in verse 10, where Allah declares that those who pledged to the Prophet actually pledged to Allah Himself, with His hand above theirs in covenant."
     },
     {
       "id": "48_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 18,
-      "question": "What is a key interpretive difference between Sunni and Shia scholars regarding the 'believers' in verse 18?",
+      "layer": 3,
+      "verseNumber": 15,
+      "question": "What does verse 15 reveal about the real motivation of the Bedouins who had avoided the Hudaybiyyah journey but then asked to join the Khaybar expedition?",
       "options": [
-        "Both traditions interpret the verse identically",
-        "Sunni scholars praise all pledge participants universally, while Shia scholars contextualize divine approval through subsequent loyalty to the Ahlul Bayt",
-        "Shia scholars reject the verse entirely",
-        "Sunni scholars deny the historical event occurred"
+        "A. They had received intelligence that Khaybar posed a direct security threat to Madinah",
+        "B. They wanted to share in the promised spoils of Khaybar after having avoided the risk and hardship of Hudaybiyyah",
+        "C. They wished to demonstrate genuine repentance by volunteering for the most dangerous campaign",
+        "D. They had been instructed by a newly converted tribal elder who commanded their participation"
       ],
       "correctAnswer": "B",
-      "explanation": "Sunni commentaries universally praise all pledge participants as exemplary companions, reflecting the doctrine of collective probity. Shia exegesis contextualizes divine approval through subsequent loyalty to the Ahlul Bayt, noting that Allah's knowledge of 'what was in their hearts' implies some participants had latent flaws."
+      "explanation": "Verse 15 exposes opportunistic motivation: the Bedouins avoided Hudaybiyyah because it carried the risk of battle, then sought to join Khaybar once rich spoils were on offer. Wahbah al-Zuhayli in Al-Tafsir al-Munir draws the governing principle: those who bear the risks and uncertainties of commitment to Allah's cause receive its fruits, while those who opt out of sacrifice cannot later claim its benefits. Sayyid Qutb adds that the verdict 'they have very little understanding' means they lacked the insight to grasp how Allah's system of reward actually operates."
     },
     {
       "id": "48_10",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "Both Sunni and Shia traditions agree that the verse about pledging allegiance affirms the sacredness of oaths sworn in Allah's name and the spiritual consequences of betrayal.",
+      "layer": 2,
+      "verseNumber": 18,
+      "question": "True or false: According to Imam al-Qurtubi, the Quranic declaration of Allah's pleasure for the participants in the Pledge of Ridwan is conditional and may be revised based on the subsequent conduct of each individual.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Both traditions agree on core principles: the sacredness of oaths sworn in Allah's name, the spiritual consequences of betrayal, and the verse's reinforcement of prophetic authority. They unite in viewing fidelity to divine covenants as defining spiritual success."
+      "correctAnswer": "false",
+      "explanation": "Imam al-Qurtubi addresses this doctrinal issue in Al-Jami li-Ahkam al-Quran and concludes, consistent with Sunni orthodoxy, that the Quranic testimony of divine pleasure for the Companions of Bay'at al-Ridwan is categorical and not subject to revision. Sheikh Ibn Uthaymeen similarly held that the Quranic declaration of divine pleasure for these specific Companions cannot be revoked or doubted, making it a foundation of Sunni creedal orthodoxy regarding the status of the Sahaba."
+    },
+    {
+      "id": "48_11",
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 27,
+      "question": "What confusion arose among the Companions after Hudaybiyyah regarding the Prophet's vision, and how does verse 27 resolve it?",
+      "options": [
+        "A. They questioned which year the vision described; the verse specifies it would be fulfilled exactly one year later",
+        "B. They doubted the vision had been true since the Muslims returned without entering the Kabah; the verse directly confirms the vision was sent in truth and would be fulfilled",
+        "C. They were unsure which Companions the vision included; the verse clarifies only the Hudaybiyyah participants would enter",
+        "D. They feared the Quraysh would permanently seal the Kabah; the verse promises military conquest would precede entry"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When the Muslims returned from Hudaybiyyah without performing Umrah, hypocrites spread uncertainty suggesting the Prophet's vision had proven false. Allah responds with 'Laqad sadaqa Allahu Rasulahu al-ruya bil-haqq' — Allah has confirmed the vision in truth. Imam al-Tabari notes the verse distinguishes between the vision being true and its precise timing being in Allah's knowledge. One year later in 7 AH the Muslims performed Umrah al-Qada in complete peace, with every detail — shaved heads, shortened hair, entering safely — matching the Prophet's earlier description exactly."
+    },
+    {
+      "id": "48_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 29,
+      "question": "The final verse of Surah Al-Fath states that the Companions are described in both the Torah and the Gospel, with a parable of a growing plant in the Gospel description. What does Sayyid Qutb in Fi Zilal al-Quran say this parable reveals about the nature of the Islamic movement?",
+      "options": [
+        "A. That the Muslim community depends on political conquest rather than organic growth to establish itself",
+        "B. That Islam's growth is organic, gradual, and inevitable — it grows not by force but by the internal vitality of truth",
+        "C. That the parable is primarily a tribute to the agricultural heritage of the Companions of Madinah",
+        "D. That growth of the Muslim community is entirely a divine miracle with no role for human effort"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that the parable of the growing plant — sending up its shoot, growing strong, standing firmly on its stalk — captures the organic, gradual, and inevitable nature of the Islamic movement: it grows not by force but by the internal vitality of truth. Fakhr al-Din al-Razi similarly analyzes it as multi-layered: the seed is the Prophet, the shoot is the first generation of believers, and the mature plant is the fully established Muslim community. Sheikh Ibn Uthaymeen frequently cited verse 29 as a Quranic rebuke to those who question the character of the Companions, noting their praise comes directly from Allah and is corroborated by prior scriptures."
     }
   ]
 }

@@ -6,110 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 2,
-      "question": "In Surah Al-Jumu'a verse 2, what does the term 'al-hikmah' (wisdom) encompass according to Shia scholars like Allamah Tabatabai?",
+      "question": "What three sequential functions does verse 2 assign to the Prophet's mission among the unlettered Arabs?",
       "options": [
-        "Only the literal text of the Quran",
-        "The deeper, esoteric understanding of revelation preserved through the Ahlul Bayt",
-        "Philosophical reasoning independent of revelation",
-        "The legal rulings of Islamic jurisprudence only"
+        "A. Waging war, collecting zakat, and establishing courts",
+        "B. Reciting Allah's verses, purifying souls, and teaching the Book and wisdom",
+        "C. Teaching Arabic, building mosques, and distributing wealth",
+        "D. Memorizing the Torah, interpreting dreams, and leading prayers"
       ],
-      "correctAnswer": "The deeper, esoteric understanding of revelation preserved through the Ahlul Bayt",
-      "explanation": "Shia scholars like Allamah Tabatabai in Tafsir al-Mizan explain that al-hikmah encompasses the deeper, esoteric understanding of revelation preserved through the Ahlul Bayt, who inherited the Prophet's spiritual and intellectual legacy. This dual teaching—outward scripture and inward wisdom—reflects the Shia belief in the necessity of both the Quran and the divinely guided Imams for complete guidance."
+      "correctAnswer": "B",
+      "explanation": "Verse 2 outlines three dimensions: 'yatlu alayhim ayatihi' (recitation and transmission), 'yuzakkihim' (purification of souls), and 'yuallimuhum al-kitaba wal-hikmah' (teaching the Book and wisdom). The sequence is deliberate: exposure to divine words opens the heart, moral purification prepares the soul, and wisdom is the fruit of that whole process."
     },
     {
       "id": "62_2",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 4,
-      "question": "What does the term 'fadl Allah' (divine bounty) in verse 4 refer to according to the Foundation Layer?",
-      "options": [
-        "Only material wealth and financial blessings",
-        "Allah's overflowing grace, encompassing both material blessings and spiritual guidance",
-        "The rewards given after death only",
-        "The natural resources of the earth"
-      ],
-      "correctAnswer": "Allah's overflowing grace, encompassing both material blessings and spiritual guidance",
-      "explanation": "The term fadl refers to Allah's overflowing grace, encompassing both material blessings and spiritual guidance, while Dhu al-Fadl al-Azim highlights His limitless capacity to bestow such grace. This verse affirms that divine favor—whether prophethood, knowledge, or spiritual authority—is granted solely by Allah's will, not human effort or status."
+      "verseNumber": 2,
+      "question": "True or false: the word 'ummiyyin' in verse 2 is a criticism of the Arabs' lack of intelligence, indicating they were incapable of receiving advanced guidance.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam al-Tabari explains that 'ummiyyin' refers to a people without a prior revealed scripture, not a statement about their intellectual capacity. Sayyid Qutb in Fi Zilal al-Quran similarly notes that the Arabs lacked divine guidance, not intellect, which is precisely what makes the Prophet's transformation of them so extraordinary."
     },
     {
       "id": "62_3",
       "type": "multipleChoice",
       "layer": 2,
       "verseNumber": 3,
-      "question": "According to Tabrisi in Majma al-Bayan, what does the phrase 'to others of them who have not yet joined them' in verse 3 signify?",
+      "question": "Which hadith, recorded in Sahih al-Bukhari, did the Prophet invoke to explain the phrase 'others who have not yet joined them' in verse 3?",
       "options": [
-        "Only the Prophet's immediate companions",
-        "The continuity of the Prophet's mission through the unbroken chain of Imams to subsequent generations",
-        "Future non-Muslim civilizations",
-        "Angels and celestial beings"
+        "A. He pointed to Bilal al-Habashi and praised the people of Ethiopia",
+        "B. He placed his hand on Salman al-Farsi and said that if faith ascended to the Pleiades, men from among the Persians would bring it back",
+        "C. He mentioned Uways al-Qarani as the model of a distant believer",
+        "D. He described the people of Yemen as those who would come later with softer hearts"
       ],
-      "correctAnswer": "The continuity of the Prophet's mission through the unbroken chain of Imams to subsequent generations",
-      "explanation": "Tabrisi in Majma al-Bayan elucidates that the verse addresses the continuity of the Prophet's mission beyond his immediate companions to subsequent generations, emphasizing that divine wisdom necessitates an unbroken chain of guidance. This aligns with the Shia doctrine that the Prophet's spiritual and legislative authority was inherited by the Twelve Imams from the Ahl al-Bayt."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Tabari and Ibn Kathir both record the celebrated hadith from Sahih al-Bukhari: the Prophet placed his hand on Salman al-Farsi and declared that men from among the Persians would retrieve faith were it to ascend to the Pleiades. Ibn Kathir concludes that the verse includes both non-Arab contemporaries of the Prophet and all future believers until the Day of Judgment."
     },
     {
       "id": "62_4",
       "type": "trueFalse",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "According to Allama Tabatabai in Tafsir al-Mizan, the verse's command to 'wish for death' in verse 6 is meant as a symbolic expression rather than a literal test of sincerity.",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "True or false: classical Sunni scholars understood the donkey parable in verse 5 as a warning exclusively about a past community, carrying no lesson for Muslims who possess the Quran.",
       "options": null,
       "correctAnswer": "false",
-      "explanation": "False. Tabatabai emphasizes that this demand serves as a literal litmus test for sincerity, rooted in the principle that true allies (awliya) of Allah yearn for proximity to Him through death, which severs worldly attachments. This aligns with the Quranic motif of testing truth-claims through existential consequences, noting that only those certain of divine reward would embrace such a wish."
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim explicitly extends the parable: 'This applies to anyone given knowledge from the Quran who does not act upon it.' Wahbah al-Zuhayli and Sayyid Qutb echo this, warning that any Muslim who accumulates religious knowledge without allowing it to transform his character falls under the same rebuke."
     },
     {
       "id": "62_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 9,
-      "question": "How do contemporary Shia scholars like Ayatollah Naser Makarem Shirazi interpret the command to 'proceed to the remembrance of Allah' in verse 9 for modern times?",
+      "layer": 2,
+      "verseNumber": 5,
+      "question": "Imam al-Qurtubi in Al-Jami li-Ahkam al-Quran draws which specific professional obligation from the donkey parable in verse 5?",
       "options": [
-        "As merely physical attendance at the mosque",
-        "As cultivating mindful presence to counterbalance modern society's transactional mindset and digital distraction",
-        "As abandoning all worldly work permanently",
-        "As a ritual with no social dimension"
+        "A. The duty of scholars to memorize the Quran in its entirety before teaching others",
+        "B. The duty of scholars to practice what they preach and the heightened accountability borne by those who teach religious knowledge",
+        "C. The prohibition on charging fees for Quranic instruction",
+        "D. The requirement that judges must study fiqh for a minimum of ten years"
       ],
-      "correctAnswer": "As cultivating mindful presence to counterbalance modern society's transactional mindset and digital distraction",
-      "explanation": "Ayatollah Naser Makarem Shirazi emphasizes that the verse's command to 'proceed to the remembrance of Allah' isn't merely about physical attendance but cultivating mindful presence—a counterbalance to modern society's transactional mindset. Scholars like Dr. Liyakat Takim highlight its social dimension: Jumu'a becomes a weekly 'reset' fostering community solidarity, critical in fragmented urban environments."
+      "correctAnswer": "B",
+      "explanation": "Imam al-Qurtubi discusses the fiqh implications of verse 5, singling out the scholars' duty to practice what they preach. He notes that the hadith literature extensively warns Muslim scholars against becoming learned without being righteous, and that the parable carries its sharpest weight for those whose vocation is religious teaching."
     },
     {
       "id": "62_6",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 5,
-      "question": "According to Imam Sadiq in the Ahlul Bayt Layer, what does the comparison of those with knowledge who don't act to 'a donkey carrying books' reveal?",
-      "options": [
-        "That books are too heavy for animals to carry",
-        "That knowledge without action reduces one to being unable to perceive the light within the words",
-        "That donkeys are inherently unintelligent",
-        "That physical books should not be transported"
-      ],
-      "correctAnswer": "That knowledge without action reduces one to being unable to perceive the light within the words",
-      "explanation": "Imam Sadiq (as) states: 'One who acts without knowledge is like one traveling without a path, never increasing except in distance from the goal. But worse than him is the one with knowledge who does not act, for his example is like the donkey carrying books.' This warning emphasizes that mere possession of scripture without living by its principles reduces one to a beast of burden, unable to perceive the light within the words."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 6,
+      "question": "True or false: according to Sayyid Qutb in Fi Zilal al-Quran, the challenge to 'wish for death' in verse 6 is a purely historical rebuke with no ongoing relevance to Muslims.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb insists the challenge is timeless: the verse strips away the comfortable illusion of inherited religious status and speaks to any believer who claims divine favor while living contrary to it. Wahbah al-Zuhayli in Al-Tafsir al-Munir similarly applies it to any Muslim who assumes communal membership alone automatically guarantees salvation."
     },
     {
       "id": "62_7",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "According to Imam Ali in Nahj al-Balagha, the Quran has seven depths of inner meaning, manifest through the living wisdom of the Imams.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Imam Ali (peace be upon him) elucidates in Nahj al-Balagha: 'The Quran has an outer form and an inner depth, a limit and a precept. Its inner depth has yet another depth, until seven depths.' These depths manifest through the living wisdom of the Imams, the inheritors of prophetic knowledge, representing the esoteric dimension of revelation (Hikmah) mentioned in verse 2."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "Verse 9 refers to the Friday prayer as 'dhikr Allah' rather than simply 'prayer.' What does the tafsir identify as the significance of this specific framing?",
+      "options": [
+        "A. It implies Friday prayer replaces all five daily prayers for that week",
+        "B. It emphasizes that the purpose is conscious remembrance and spiritual connection with Allah, not merely fulfilling a legal obligation",
+        "C. It limits the obligation to those who can recite specific supplications from memory",
+        "D. It indicates that silent personal dhikr is more meritorious than the communal sermon"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The layer-1 tafsir of verse 9 notes that defining Friday prayer as 'dhikr Allah' highlights its spiritual purpose over its legal form. Sheikh Muhammad al-Sha'rawi reflects that the command 'fas'aw ila dhikr Allah' identifies the believer's primary identity as one who remembers Allah, with the Friday gathering as the communal institutional expression of that identity."
     },
     {
       "id": "62_8",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 9,
-      "question": "What is the primary theological divergence between Sunni and Shia interpretations of the Friday prayer obligation in verse 9?",
+      "layer": 3,
+      "verseNumber": 10,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir identifies the transition from 'leave trade' in verse 9 to 'disperse and seek Allah's bounty' in verse 10 as articulating what core Islamic social principle?",
       "options": [
-        "Sunni scholars reject Friday prayer entirely",
-        "Sunni jurists root Friday prayer validity in collective duty, while Shia scholars historically require the Imam's presence or representative",
-        "Shia scholars consider Friday prayer forbidden",
-        "Both traditions have identical requirements with no differences"
+        "A. That commercial trade is completely forbidden on Fridays for the rest of the day",
+        "B. That Islam rejects both excessive worldliness and monastic isolation, requiring purposeful engagement conducted with divine consciousness",
+        "C. That Muslims must donate half of any Friday earnings to charity",
+        "D. That employers are obligated by Islamic law to grant workers paid leave for Friday prayer"
       ],
-      "correctAnswer": "Sunni jurists root Friday prayer validity in collective duty, while Shia scholars historically require the Imam's presence or representative",
-      "explanation": "Both Shia and Sunni exegetes affirm the obligation to prioritize Friday congregational prayer. However, divergences emerge in theological foundations for the prayer's validity. Sunni jurists emphasize collective duty (fard kifaya) for Muslim men, while Shia theological tradition has historically connected the validity of Friday prayer to the presence of the Imam or his appointed representative, reflecting the doctrine of Imamah."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explains that this transition reflects Islam's balanced worldview: worship is followed by purposeful, ethical engagement with the world. Islam does not elevate asceticism over engagement but demands that engagement be conducted with excellence and God-consciousness. The phrase 'seek from the bounty of Allah' frames all lawful work as participation in divine generosity."
+    },
+    {
+      "id": "62_9",
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 11,
+      "question": "True or false: verse 11 was revealed after companions abandoned the Prophet's Friday sermon mid-delivery for an arriving trade caravan, and Sahih al-Bukhari records that only twelve men remained with him.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Imam al-Tabari and Ibn Kathir both record the Bukhari narration through Jabir ibn Abdallah: a caravan arrived during the Prophet's Friday sermon and most companions dispersed until only twelve remained. Ibn Kathir notes that the verse's response is not condemnation but persuasion — 'what is with Allah is better' — grounded in the closing name 'Allah is the best of providers,' which directly addresses the anxiety that drives such distractions."
     }
   ]
 }

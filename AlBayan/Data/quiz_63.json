@@ -6,135 +6,120 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "According to the tafsir, what does the Arabic term 'munafiqun' (hypocrites) derive from?",
+      "question": "What is the central paradox exposed in the opening verse of Surah Al-Munafiqun?",
       "options": [
-        "A word meaning 'believers'",
-        "The root 'n-f-q', implying hidden corruption like a rodent tunneling underground",
-        "A term for tribal leaders",
-        "A word meaning 'travelers'"
+        "A. The hypocrites denied the Prophet's messengership while secretly believing in it",
+        "B. The hypocrites made a technically true declaration about the Prophet yet Allah called them liars",
+        "C. The hypocrites refused to pray in public but worshipped in private",
+        "D. The hypocrites accepted Islam only after the Battle of Badr"
       ],
       "correctAnswer": "B",
-      "explanation": "The term 'munafiqun' derives from the root 'n-f-q', implying hidden corruption, like a rodent tunneling underground, symbolizing their concealed nature."
+      "explanation": "The hypocrites declared 'We bear witness that you are indeed the Messenger of Allah,' which is factually correct, yet Allah immediately called them liars. As the tafsir explains, the lie lay in the contradiction between their spoken testimony and their hearts, which held no genuine inner belief."
     },
     {
       "id": "63_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "Abdullah ibn Ubayy was a tribal leader in Medina who feigned Islam to preserve his political influence.",
+      "verseNumber": 2,
+      "question": "True or false: the hypocrites in verse 2 used false oaths as a spontaneous emotional response rather than a deliberate, calculated strategy.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "Historical accounts link the opening verse of Surah Al-Munafiqun to Abdullah ibn Ubayy, a tribal leader who feigned Islam to preserve his political influence while secretly conspiring against the Prophet."
+      "correctAnswer": "false",
+      "explanation": "The Layer 1 tafsir explains that the Arabic 'ittakhadhu' means they adopted oath-swearing as a deliberate, calculated strategy. Whenever they sensed suspicion, they would preemptively swear loyalty to deflect accountability, turning sacred declarations into tools of systematic deception."
     },
     {
       "id": "63_3",
       "type": "multipleChoice",
       "layer": 2,
       "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what principle is central to understanding why the hypocrites' testimony was void?",
+      "question": "Which young companion reported Abdullah ibn Ubayy's treacherous statements to the Prophet, and whose account was confirmed by the revelation of this surah?",
       "options": [
-        "They did not pray enough",
-        "They lacked 'tasdiq bi'l-qalb' (heartfelt affirmation)",
-        "They were not from Medina",
-        "They did not pay zakat"
+        "A. Abdullah ibn Masud",
+        "B. Anas ibn Malik",
+        "C. Zaid ibn Arqam",
+        "D. Abu Hurayra"
       ],
-      "correctAnswer": "B",
-      "explanation": "Tabatabai emphasizes that mere verbal testimony holds no weight without 'tasdiq bi'l-qalb' (heartfelt affirmation), a principle central to Shia theological anthropology."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Tabari in his Jami al-Bayan records through multiple chains that Zaid ibn Arqam overheard Abdullah ibn Ubayy declare that 'the more honorable shall expel the more humble from Medina.' When Zaid reported this to the Prophet, the revelation of Surah Al-Munafiqun confirmed the truth of Zaid's account completely."
     },
     {
       "id": "63_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 2,
-      "question": "According to classical Shia exegesis, what does the term 'junnah' (shield/cover) in verse 2 refer to?",
-      "options": [
-        "Physical armor in battle",
-        "False oaths used to mask subversion of Islam's foundations",
-        "A type of prayer",
-        "A form of charity"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Classical Shia exegetes explain that the hypocrites' oaths served as a 'junnah' (cover or shield), not merely to conceal their inner disbelief but to actively divert others from Allah's path."
+      "verseNumber": 4,
+      "question": "True or false: Ibn Kathir described Abdullah ibn Ubayy and the leading hypocrites as physically unimpressive men whose danger lay purely in secret scheming.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim, drawing on reports from Ibn Abbas, describes Abdullah ibn Ubayy as a man of striking physique, powerful presence, and considerable oratorical gifts. Verse 4 itself acknowledges their impressive bodies and compelling speech, making the Quranic comparison to hollow propped-up timber all the more striking."
     },
     {
       "id": "63_5",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to Dr. Mohammad Ali Shomali, what modern phenomenon parallels the hypocrites' behavior?",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "What arrogant boast did Abdullah ibn Ubayy make that verse 8 quotes directly, and what was the immediate divine counter-declaration?",
       "options": [
-        "Physical warfare",
-        "The 'digital double life' where social media personas mask ethical contradictions",
-        "Agricultural practices",
-        "Maritime trade"
+        "A. He claimed Muslims would soon abandon the Prophet; Allah declared that faith cannot be extinguished",
+        "B. He claimed the more honored would expel the more humble from Medina; Allah declared that all honor belongs to Allah, His Messenger, and the believers",
+        "C. He claimed he would take over leadership of Medina; Allah declared that leadership belongs to the righteous alone",
+        "D. He claimed the emigrants would starve; Allah declared that provision belongs to Him alone"
       ],
       "correctAnswer": "B",
-      "explanation": "Modern scholars like Dr. Mohammad Ali Shomali connect hypocrisy to the 'digital double life,' where social media personas often mask ethical contradictions, mirroring the hypocrites' insincere testimony."
+      "explanation": "Verse 8 quotes ibn Ubayy's statement that 'the more honored will surely expel the more humble from Medina,' by which he meant the Prophet. Allah's immediate response overturns this entirely: 'To Allah belongs all honor, and to His Messenger, and to the believers.' As the tafsir notes, the man who boasted of his own honor was judged by the very Source of all honor."
     },
     {
       "id": "63_6",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "Sayyid Muhammad Husayn Fadlallah connected Surah Al-Munafiqun to resisting 'structural nifaq' - systems that institutionalize inequality while professing justice.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The late Lebanese scholar Sayyid Muhammad Husayn Fadlallah connected the surah to resisting 'structural nifaq (hypocrisy)' - systems that institutionalize inequality while professing justice."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 9,
+      "question": "Verse 9 warns believers that wealth and children can distract them from something specific. What is that thing, and what label does Allah give those who allow this distraction to win?",
+      "options": [
+        "A. From performing the hajj; they are called negligent",
+        "B. From the remembrance of Allah; they are called the losers",
+        "C. From giving zakat; they are called the wrongdoers",
+        "D. From seeking knowledge; they are called the heedless"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The verse warns that wealth and children must not distract believers from 'dhikr Allah,' the remembrance and awareness of Allah. It closes with the verdict: 'whoever does that, those are the losers.' The word 'khasirun' evokes someone who trades something precious for something worthless, as the tafsir explains."
     },
     {
       "id": "63_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq (AS) in Bihar al-Anwar, what defines a hypocrite?",
-      "options": [
-        "One who does not attend Friday prayers",
-        "One who professes with his tongue what contradicts his heart",
-        "One who travels frequently",
-        "One who speaks multiple languages"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Jafar al-Sadiq (AS) states: 'The hypocrite is one who professes with his tongue what contradicts his heart' (Bihar al-Anwar), defining the core of hypocrisy."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 10,
+      "question": "True or false: the dying person in verse 10 requests years of additional life in order to perform the hajj and complete major ritual obligations.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir emphasizes that the dying person requests only an 'ajal qareeb,' a brief or near term. The regret is specifically about not giving charity and not being among the righteous. The deliberate modesty of the request makes the scene more painful, implying that even a little more time would have been enough if only it had been granted."
     },
     {
       "id": "63_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 9,
-      "question": "According to the teachings of the Ahlul Bayt, 'dhikr Allah' (remembrance of Allah) encompasses only verbal recitation, not the broader recognition of divine wilayah and Imamah.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "The Ahlul Bayt teach that 'dhikr Allah' transcends mere verbal recitation; it encompasses complete submission to divine wilayah and recognition of Imamah as the axis of true worship."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 7,
+      "question": "What specific economic strategy did Abdullah ibn Ubayy urge against the Prophet's community, and which group was most directly targeted?",
+      "options": [
+        "A. He urged Medinan traders to raise prices on Muslims; wealthy companions were the target",
+        "B. He urged sympathizers among the Ansar to cut off material support from the Meccan emigrants until they abandoned the Prophet",
+        "C. He organized a tax boycott to deprive the Prophet's state of revenue",
+        "D. He called for blocking the roads to Medina to prevent Muslim pilgrims from entering"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim, relying on Sahih al-Bukhari and Sahih Muslim, explains that ibn Ubayy urged his sympathizers among the Ansar to cut off support from the Muhajirun. Imam al-Tabari records through narrations from Ibn Abbas and Zaid ibn Arqam that this strategy was particularly cruel since the emigrants had sacrificed everything for their faith and depended entirely on Medinan hospitality."
     },
     {
       "id": "63_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations of hypocrisy in this surah?",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "Wahbah al-Zuhayli highlights the divine name used to close Surah Al-Munafiqun. Which name is it, and why does he consider it the surah's ultimate answer to hypocrisy?",
       "options": [
-        "Sunni scholars reject the concept of hypocrisy entirely",
-        "Shia sources extend the critique to include rejection of 'wilayah' (guardianship of Ahlul Bayt)",
-        "Sunni scholars focus only on financial matters",
-        "There are no differences between the traditions"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia sources like Tusi's At-Tibyan and Qummi's Tafsir extend the critique to include rejection of 'wilayah' (guardianship of the Ahlul Bayt), interpreting hypocrisy as opposition to divinely appointed leadership."
-    },
-    {
-      "id": "63_10",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 10,
-      "question": "According to both Shia and Sunni traditions, what is the fundamental message of verse 10 regarding charity?",
-      "options": [
-        "Charity should only be given after death",
-        "Charity is optional and can be delayed indefinitely",
-        "Believers must spend from their sustenance before death renders such opportunities void",
-        "Only scholars should give charity"
+        "A. Al-Aziz, because it establishes Allah's absolute power over the hypocrites' schemes",
+        "B. Al-Ghafur, because it holds open the door of forgiveness even for the worst sinners",
+        "C. Khabir, because it signifies penetrating knowledge of inner realities, meaning Allah was never deceived by the hypocrites' outward performance",
+        "D. Al-Qadir, because it affirms that Allah could have destroyed the hypocrites at any moment"
       ],
       "correctAnswer": "C",
-      "explanation": "Both traditions underscore the urgency of righteous action, warning against deferring spiritual obligations. The verse commands believers to spend before death makes such opportunities void."
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir draws particular attention to the closing divine name 'Khabir,' one who has deep and penetrating knowledge of inner realities. He argues it is carefully chosen as the surah's final word: whatever success the hypocrites achieved in deceiving humans was entirely irrelevant before Allah the Khabir, who saw through every false performance from the very beginning."
     }
   ]
 }

@@ -6,105 +6,115 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the Arabic root 'qara'a' from which Al-Qaari'a is derived mean?",
+      "question": "From what Arabic root does the name 'Al-Qari'ah' derive, and what does it convey about the Day of Judgment?",
       "options": [
-        "To warn or alert",
-        "To strike or knock",
-        "To resurrect or revive",
-        "To judge or evaluate"
+        "From 'qara'a', meaning to recite, suggesting the Day will be announced through recitation",
+        "From 'qara'a', meaning to knock or strike forcefully, suggesting a sudden, overwhelming impact",
+        "From 'qarib', meaning near, suggesting the Day is imminent in time",
+        "From 'qarn', meaning generation, suggesting the gathering of all generations"
       ],
-      "correctAnswer": "To strike or knock",
-      "explanation": "The Arabic root 'qara'a' means 'to strike' or 'to knock,' evoking imagery of a sudden, overwhelming force that leaves nothing unchanged. This conveys the sudden and overwhelming nature of the Day of Judgment."
+      "correctAnswer": "B",
+      "explanation": "The word 'qara'a' literally means to knock or strike forcefully, like a hammer blow or a startling knock on a door. This name for the Day of Judgment emphasizes its sudden, earth-shattering force that cannot be ignored."
     },
     {
       "id": "101_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 4,
-      "question": "In verse 4, humanity on the Day of Judgment is compared to scattered moths to symbolize their panic and disorientation.",
+      "verseNumber": 3,
+      "question": "True or false: The Quranic formula 'wa ma adraka' (and what can make you know?) signals that the subject described can be fully grasped through human reason and worldly experience alone.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. The verse compares humanity to 'farash' (moths) scattered in chaos, depicting humanity's existential disarray and panic when confronted with the overwhelming reality of the Day of Judgment."
+      "correctAnswer": "false",
+      "explanation": "The phrase 'wa ma adraka' typically signals that the subject is beyond ordinary human experience and could only be known through divine revelation. It establishes that knowledge of the Last Day is not arrived at through philosophy or science but through the Quran."
     },
     {
       "id": "101_3",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Tabrisi in Majma al-Bayan, what dual resonance does the term 'Al-Qaari'a' have?",
+      "layer": 1,
+      "verseNumber": 4,
+      "question": "On the Day of Judgment, people are compared to 'al-farash al-mabthuth'. What image does this convey?",
       "options": [
-        "Physical punishment and spiritual reward",
-        "Cataclysmic physical collapse of cosmic order and psychological striking of human consciousness",
-        "Divine mercy and human accountability",
-        "Worldly trials and heavenly blessings"
+        "Soldiers in disciplined ranks marching to judgment",
+        "Birds soaring high above the gathered assembly",
+        "Scattered moths or flying insects swarming chaotically with no direction",
+        "Sheep being led peacefully to a shepherd"
       ],
-      "correctAnswer": "Cataclysmic physical collapse of cosmic order and psychological striking of human consciousness",
-      "explanation": "Tabrisi emphasizes Al-Qaari'a's dual resonance: as an allusion to the cataclysmic physical collapse of the cosmic order and as a metaphor for the psychological 'striking' of human consciousness when confronted with divine accountability."
+      "correctAnswer": "C",
+      "explanation": "'Farash' refers to flying insects that swarm chaotically, especially around light, and 'mabthuth' means scattered or dispersed. The image captures humanity's helplessness, disorientation, and the collapse of all social order on that Day."
     },
     {
       "id": "101_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 6,
-      "question": "According to Allama Tabatabai in Al-Mizan, what does the 'heaviness' of scales in verse 6 represent?",
-      "options": [
-        "Only the quantity of good deeds performed",
-        "The ontological weight of deeds aligned with divine unity and justice, not mere quantitative reckoning",
-        "Physical charity given during one's lifetime",
-        "The number of prayers performed"
-      ],
-      "correctAnswer": "The ontological weight of deeds aligned with divine unity and justice, not mere quantitative reckoning",
-      "explanation": "Tabatabai elucidates that the 'heaviness' of scales transcends mere quantitative reckoning of deeds, instead symbolizing the ontological weight of actions aligned with divine unity (tawhid) and justice (adl)."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 5,
+      "question": "True or false: According to the surah, the mountains on the Day of Judgment will become like 'al-ihn al-manfush' - fluffed, carded wool that is light and easily scattered.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 5 describes the mountains becoming like fluffed wool. The word 'ihn' refers to wool and 'manfush' means carded or teased out. The most solid symbols of permanence in the natural world will be reduced to insubstantial tufts, demonstrating Allah's absolute power."
     },
     {
       "id": "101_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to Dr. Hassan Hashemi, the 'striking' force in Al-Qaari'a can be paralleled with contemporary climate change crises and ecological shifts.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Scholars like Dr. Hassan Hashemi draw parallels between the verse's 'striking' force and contemporary crises like climate change—abrupt ecological shifts mirroring the Quranic imagery of mountains scattering like 'carded wool.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 6,
+      "question": "Citing a hadith in Sahih al-Bukhari, Ibn Kathir notes that two phrases are 'light on the tongue but heavy in the scale'. Which phrases did the Prophet identify?",
+      "options": [
+        "La ilaha illa Allah and Muhammad rasul Allah",
+        "Alhamdulillah and Allahu Akbar",
+        "Astaghfirullah and Tawakkaltu ala Allah",
+        "SubhanAllah wa bihamdihi and SubhanAllah al-Azim"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ibn Kathir cites this hadith in Sahih al-Bukhari to show that the heaviness of the scale is not necessarily about the quantity of deeds but about their sincerity and significance to Allah. A few words spoken with pure intention can outweigh many hollow performances."
     },
     {
       "id": "101_6",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ali (as), what does the 'striking' in Al-Qaari'a represent beyond its physical meaning?",
+      "layer": 2,
+      "verseNumber": 4,
+      "question": "Imam Tabari, drawing on Ibn Abbas, identified several qualities captured by the simile of scattered moths. Which of the following was NOT among the qualities he listed?",
       "options": [
-        "Only the physical destruction of the earth",
-        "A day when secrets are laid bare and every soul confronts what it earned",
-        "The end of time with no spiritual significance",
-        "A warning for disbelievers only"
+        "Their overwhelming numbers and aimless dispersal",
+        "Their fragility and weakness in the face of cosmic upheaval",
+        "Their disciplined organization under the banners of nations",
+        "Their uncoordinated movement as each soul is driven by its own fear"
       ],
-      "correctAnswer": "A day when secrets are laid bare and every soul confronts what it earned",
-      "explanation": "Imam Ali (as) stated: 'The Qari'a is a day when secrets are laid bare, and every soul is confronted by what it earned.' This unveiling is not merely physical but a profound reckoning of the soul's alignment with truth."
+      "correctAnswer": "C",
+      "explanation": "Tabari notes that the simile captures four simultaneous qualities: overwhelming numbers, aimless dispersal as social order collapses, fragility in the face of cosmic upheaval, and uncoordinated movement driven by personal fear. The image of disciplined ranks contradicts the very point of the simile."
     },
     {
       "id": "101_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 6,
-      "question": "According to Imam Sadiq (as), what is the weightiest thing placed on the Scale on the Day of Judgment?",
-      "options": [
-        "Number of charitable acts performed",
-        "Love for the Ahlul Bayt",
-        "Frequency of fasting",
-        "Amount of Quranic verses memorized"
-      ],
-      "correctAnswer": "Love for the Ahlul Bayt",
-      "explanation": "Imam Sadiq (as) teaches: 'The weightiest thing placed on the Scale is love for us, the Ahlul Bayt.' This emphasizes that attachment to the divinely appointed guides carries immense spiritual weight in divine judgment."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 9,
+      "question": "True or false: Imam Tabari records that the primary view of the Salaf, attributed to Ibn Abbas, is that 'Hawiyah' is a name for Hellfire and that 'his mother' is a metaphor for the wrongdoer's ultimate dwelling place.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Tabari records this primary view from Ibn Abbas and most of the Salaf: Hawiyah is a name for Hell, and the expression 'his mother' is a metaphor for the wrongdoer's ultimate dwelling, just as a mother is a child's place of refuge. A secondary view holds that 'umm' can refer to the head, meaning he falls headfirst into the Fire."
     },
     {
       "id": "101_8",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 11,
+      "question": "Citing an authenticated hadith in Sahih Muslim, Ibn Kathir explains the meaning of 'narun hamiyah' (intensely hot fire). What does this hadith say about Hellfire's intensity?",
+      "options": [
+        "Hellfire is exactly as hot as the hottest worldly fire",
+        "Worldly fire is one seventieth of the heat of Hellfire",
+        "Hellfire's heat varies depending on the sins of its inhabitants",
+        "Hellfire is cold rather than hot for the disbelievers"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir cites the hadith in Sahih Muslim in which the Prophet explained that worldly fire is a seventieth part of the fire of Hell. This gives 'hamiyah' a content that no human experience can supply, indicating an intensity beyond anything imaginable."
+    },
+    {
+      "id": "101_9",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "Both Sunni scholars like Al-Tabari and Shia scholars like Al-Tusi agree that 'al-Qaari'a' is a name for the Day of Resurrection.",
+      "layer": 3,
+      "verseNumber": 7,
+      "question": "True or false: Sayyid Qutb in Fi Zilal al-Quran argues that the deepest human desire is for endless consumption and entertainment, which is precisely what 'ishatin radiyah' (a pleasant life) promises in Paradise.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. The phrase has drawn convergent interpretations across Shia and Sunni traditions, with scholars from both schools—Al-Tabari (Sunni) and Al-Tusi (Shia)—identifying al-Qaari'a as a name for the Day of Resurrection, emphasizing its cataclysmic nature."
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb argues the opposite: the deepest human desire is not for any specific pleasure but for a state of being completely at home in one's existence - fully alive, at peace, and integrated. The pleasant life is not more consumption but a different quality of existence entirely, a soul finally at peace with its Lord."
     }
   ]
 }

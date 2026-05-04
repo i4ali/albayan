@@ -6,200 +6,200 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "What does the term 'muddaththir' literally mean in the opening verse of Surah Al-Muddaththir?",
+      "question": "Why does Allah address the Prophet in verse 1 by the description 'the one wrapped in his cloak' rather than by his name or the formal title of messenger?",
       "options": [
-        "One who prays constantly",
-        "One who wraps or cloaks oneself",
-        "One who teaches others",
-        "One who fasts regularly"
+        "A) Because the Prophet's name had not yet been revealed to him at that point",
+        "B) To create an intimate, personal address that acknowledged the Prophet's vulnerable human state at that moment",
+        "C) Because using the title of messenger would have been premature before the mission officially began",
+        "D) To signal that the Prophet should always wear a cloak when receiving revelation"
       ],
-      "correctAnswer": "One who wraps or cloaks oneself",
-      "explanation": "The term 'muddaththir' derives from the root 'dathara', meaning to wrap or cloak oneself, reflecting a physical and spiritual state of seeking refuge or withdrawal. Historical accounts note that this verse was revealed shortly after the first divine revelations when the Prophet had wrapped himself in a cloak for solace."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that calling the Prophet by his physical state rather than a formal title creates a deeply personal address, showing how Allah speaks to His servant in the most tender and direct way possible. The Prophet had sought comfort under his cloak after being overwhelmed by the sight of Jibril, and Allah met him precisely in that moment of vulnerability, demonstrating that divine guidance does not wait for us to compose ourselves before reaching us."
     },
     {
       "id": "74_2",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to Shia tradition, what significant event is highlighted by the command 'Arise and warn' (Qum fa-andhir)?",
-      "options": [
-        "The Prophet's first prayer in Mecca",
-        "The Event of Dhul-Ashira where the Prophet invited his family to Islam and affirmed Imam Ali as his successor",
-        "The construction of the first mosque",
-        "The Prophet's migration to Medina"
-      ],
-      "correctAnswer": "The Event of Dhul-Ashira where the Prophet invited his family to Islam and affirmed Imam Ali as his successor",
-      "explanation": "This verse catalysed the Prophet's open proclamation of Islam, beginning with his closest kin. Shia tradition highlights the famous Event of Dhul-Ashira, where he first invited his family to Islam and affirmed Imam Ali (peace be upon him) as his successor, underscoring the Shia emphasis on tabligh (conveying the message) starting within one's immediate circle."
+      "question": "True or false: according to the tafsir, the command 'Arise and warn' in verse 2 marks the transition from the Prophet being a private recipient of revelation to a public messenger with a mission to warn all of humanity.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir explains that 'ya ayyuhal muddaththir' marks the definitive transition from the Prophet as a private worshipper to a public messenger. Al-Zuhayli notes that the deliberate gentleness of the address does not soften the weight of the command: the Prophet is being propelled from private spiritual existence into a world-historical role."
     },
     {
       "id": "74_3",
-      "type": "trueFalse",
-      "layer": 1,
-      "verseNumber": 31,
-      "question": "The guardians of Hellfire mentioned in verse 31 are humans and jinn appointed by Allah.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. The verse clarifies that the guardians of Hellfire (Ashab al-Nar) are angels appointed by Allah, refuting any notion that humans or jinn hold this role. Angels, as beings devoid of free will, act solely by divine command, symbolizing the absolute perfection of God's judgment."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "Which hadith, cited by Ibn Kathir as recorded in Sahih al-Bukhari and Muslim, provides the historical occasion for the opening of Surah Al-Muddaththir?",
+      "options": [
+        "A) The narration of Aisha describing the very first revelation in the cave of Hira",
+        "B) The narration of Jabir ibn Abdullah in which the Prophet describes seeing the angel seated on a throne between the sky and earth, returning home frightened and saying 'Cover me, cover me'",
+        "C) The narration of Umar ibn al-Khattab describing the Prophet's first public address to the Quraysh",
+        "D) The narration of Abu Bakr about the Prophet receiving the command to establish prayer"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim cites the hadith of Jabir ibn Abdullah recorded in Sahih al-Bukhari and Muslim, in which Jabir relates that the Prophet said he was walking, heard a voice, looked up, saw the angel he had seen in Hira sitting on a chair between the sky and earth, was frightened, returned home, and said 'Cover me, cover me,' whereupon Allah revealed these opening verses."
     },
     {
       "id": "74_4",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Allama Tabatabai in Al-Mizan, what theological concept explains Allah's gradual preparation of the Prophet for his mission?",
+      "layer": 1,
+      "verseNumber": 3,
+      "question": "Verse 3 commands the Prophet to 'magnify your Lord.' What does the tafsir identify as the significance of this command coming immediately after the call to arise and warn?",
       "options": [
-        "Taqwa (God-consciousness)",
-        "Lutf (divine grace)",
-        "Tawhid (oneness)",
-        "Qiyamah (resurrection)"
+        "A) It instructs the Prophet to begin every public address with the phrase Allahu Akbar as a greeting",
+        "B) It establishes that the entire prophetic mission must be rooted in the recognition of Allah's greatness before any outward action is taken",
+        "C) It restricts the command to warn so that it only applies when the Prophet feels spiritually prepared",
+        "D) It implies that magnifying Allah through good deeds can substitute for verbal proclamation of his message"
       ],
-      "correctAnswer": "Lutf (divine grace)",
-      "explanation": "Tabatabai highlights the theological concept of 'lutf' (divine grace), wherein Allah prepares the Prophet through gradual spiritual readiness, aligning his inner state with the weight of prophethood. This reflects the Shia understanding of divine preparation before undertaking cosmic responsibility."
+      "correctAnswer": "B",
+      "explanation": "The tafsir explains that before strategic planning, community-building, or public speech, the Prophet is told to root everything in tawthiq of Allah's greatness. Wahbah al-Zuhayli notes that this command establishes Tawhid as the entire foundation, not merely one component, of the prophetic mission. Ibn Uthaymeen adds that dawah is inseparable from aqidah — a call to people that neglects the call to recognise Allah's greatness has inverted the divine priority."
     },
     {
       "id": "74_5",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 2,
-      "question": "In Shaykh Tabrisi's Majma al-Bayan, what does the command 'andhir' (warn) encompass according to Imam Jafar al-Sadiq?",
-      "options": [
-        "Only warning against physical dangers",
-        "Both the universality of divine justice and the necessity of recognizing the Imams' authority (wilayah)",
-        "Warning about worldly matters only",
-        "Predicting future events"
-      ],
-      "correctAnswer": "Both the universality of divine justice and the necessity of recognizing the Imams' authority (wilayah)",
-      "explanation": "Tabrisi cites narrations from Imam Jafar al-Sadiq (as) stressing that the 'warning' encompasses both the universality of divine justice and the necessity of recognizing the Imams' authority (wilayah) as successors to the Prophet's mission. This dual emphasis reflects the Shia understanding of nubuwwa (prophethood) and imama (divinely appointed leadership) as inseparable pillars of guidance."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 7,
+      "question": "True or false: the tafsir describes the command 'be patient for the sake of your Lord' in verse 7 as a form of passive resignation to hardship rather than an active act of worship.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir explicitly rejects this reading. Layer 1 states that patience in Islamic teaching is a conscious act of worship — a voluntary turning of the soul toward Allah in the midst of difficulty, not mere endurance. Sayyid Qutb in Fi Zilal al-Quran describes this sabr as 'active, energised' spiritual posture, and the particle 'li-rabbika' (for your Lord) is what elevates it from human virtue into an act of divine nearness, as Fakhr al-Din al-Razi observes."
     },
     {
       "id": "74_6",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 3,
-      "question": "According to classical Shia scholars, the command to 'glorify your Lord' (wa rabbaka fakabbir) transcends mere verbal utterance and requires purifying one's understanding of divine attributes from anthropomorphism.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Sheikh Tabrisi emphasizes that takbir (glorification) transcends mere verbal utterance, requiring the believer to internalize Allah's absolute transcendence (tanzih) beyond all limitations. This aligns with Imam Jafar al-Sadiq's teaching: 'Whoever likens Allah to His creation has committed disbelief.'"
+      "verseNumber": 8,
+      "question": "Who is described in the hadith cited by Ibn Kathir as already holding the trumpet to his lips, waiting for the divine command — and what did the Prophet tell his companions when they became anxious upon hearing this?",
+      "options": [
+        "A) The angel Jibril; the Prophet told them to seek refuge in the words 'La hawla wa la quwwata illa billah'",
+        "B) The angel Israfil; the Prophet told them to say 'Hasbuna Allah wa niam al-wakil' (Allah is sufficient for us and the best disposer of affairs)",
+        "C) The angel Mikail; the Prophet told them their prayers would protect them from fear on that Day",
+        "D) An unnamed angel; the Prophet told them only the righteous would hear the trumpet's sound"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records the hadith in which the Prophet describes the angel Israfil already holding the trumpet to his lips, his forehead bowed forward, waiting for the divine command. When the companions became deeply shaken, the Prophet told them to say 'Hasbuna Allah wa niam al-wakil.' The tafsir notes this vivid image is connected to the trumpet verse of Surah Al-Muddaththir."
     },
     {
       "id": "74_7",
-      "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "How does Ayatollah Nasir Makarem Shirazi interpret the 'cloak of indifference' in contemporary context?",
-      "options": [
-        "Only as physical clothing",
-        "As humanity's tendency to shield itself from uncomfortable truths like climate denialism and systemic inequality",
-        "As a historical garment worn by prophets",
-        "As a symbol of wealth"
-      ],
-      "correctAnswer": "As humanity's tendency to shield itself from uncomfortable truths like climate denialism and systemic inequality",
-      "explanation": "Ayatollah Nasir Makarem Shirazi frames this as a divine summons to 'cast off the cloak of indifference,' emphasizing that the Prophet's physical wrapping symbolizes humanity's tendency to shield itself from uncomfortable truths. Modern scholars extend this metaphor to address today's crises: climate denialism, systemic inequality, and digital escapism."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 11,
+      "question": "True or false: Ibn Kathir records that al-Walid ibn al-Mughirah privately acknowledged the Quran's extraordinary eloquence and power before publicly labelling it as magic.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Ibn Kathir in Tafsir al-Quran al-Azim records the narration from Qatada in which al-Walid said privately: 'By Allah, I have thought about what this man says and it is not poetry. Verily, it has a sweetness and it is truly elegant. Verily, it is exalted and nothing can overcome it.' Despite this honest private assessment, he turned to the Quraysh and labelled the Quran as sorcery, making his condemnation especially severe because the lie was premeditated and conscious."
     },
     {
       "id": "74_8",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 2,
-      "question": "According to Dr. Mohammad Ali Shomali, the command 'Arise and warn' is connected to which modern Islamic principle?",
+      "layer": 1,
+      "verseNumber": 26,
+      "question": "Saqar is described in verses 26-29. Which of the following accurately reflects what those verses state about it?",
       "options": [
-        "Only personal worship",
-        "Amr bil Ma'ruf (enjoining good) linked to activism against oppression, environmental degradation, and systemic inequality",
-        "Economic theory",
-        "Military strategy"
+        "A) It is a level of Hell reserved only for those who physically persecuted the Prophet during his lifetime in Mecca",
+        "B) It leaves nothing unburned and spares nothing, and it scorches and blackens the human skin of those within it",
+        "C) Its flames are extinguished and reignited at regular intervals, giving the condemned brief periods of cold",
+        "D) It is administered by a single great angel who personally oversees each individual's punishment"
       ],
-      "correctAnswer": "Amr bil Ma'ruf (enjoining good) linked to activism against oppression, environmental degradation, and systemic inequality",
-      "explanation": "Modern scholars like Dr. Mohammad Ali Shomali frame this imperative through the lens of 'enjoining good and forbidding evil' (Amr bil Ma'ruf), linking it to activism against oppression, environmental degradation, and systemic inequality, extending the duty to 'warn' beyond theological boundaries to address universal human crises."
+      "correctAnswer": "B",
+      "explanation": "Verse 28 states that Saqar leaves nothing and spares nothing, and verse 29 adds the image 'lawwahah lil-bashar' — scorching and blackening the human skin. Ibn Kathir cites Ibn Abbas's explanation that this means 'burning the skin of man,' and al-Qurtubi notes the Arabic verbal form indicates this blackening is continuous and repeated, not a single occurrence."
     },
     {
       "id": "74_9",
-      "type": "trueFalse",
+      "type": "multipleChoice",
       "layer": 3,
-      "verseNumber": 31,
-      "question": "Ayatollah Nasir Makarem Shirazi interprets the numerical reference to Hell's guardians as purely literal with no symbolic significance.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Nasir Makarem Shirazi emphasizes that the verse's reference to the 'number' of Hell's angelic guardians symbolizes divine knowledge beyond human grasp, challenging literalism and inviting deeper reflection. It represents epistemic humility acknowledging that scientific or philosophical certainty cannot exhaust metaphysical truths."
+      "verseNumber": 25,
+      "question": "Sayyid Qutb observed that al-Walid's two accusation — calling the Quran 'magic' in verse 24 and 'mere human speech' in verse 25 — are logically contradictory. What does Qutb say this reveals about the psychology of rejecting truth?",
+      "options": [
+        "A) That al-Walid was intellectually confused because the Quran's literary style genuinely resembled both magic and poetry simultaneously",
+        "B) That the Quraysh were internally divided and al-Walid was awkwardly reporting the views of two different factions",
+        "C) That when a person refuses to submit to evidence, counter-arguments need not be consistent — they only need to create distance from the truth, revealing rhetorical sabotage rather than honest engagement",
+        "D) That al-Walid retracted the 'magic' accusation and settled on 'human speech' as his final considered verdict"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran writes that the juxtaposition of the two contradictory accusations exposes not just al-Walid's dishonesty but the internal incoherence of all arrogant rejection of truth. Ibn Kathir similarly notes the logical incompatibility, arguing al-Walid wanted to give the Quraysh multiple dismissive labels for different audiences without caring about consistency, since the goal was not to find truth but to provide cover for a decision already made on grounds of pride."
     },
     {
       "id": "74_10",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Jafar al-Sadiq in Tafsir al-Qummi, what does the divine address in the opening verse symbolize?",
-      "options": [
-        "Only physical awakening from sleep",
-        "The awakening of the heart from the 'garment of heedlessness'",
-        "Military preparation",
-        "Economic planning"
-      ],
-      "correctAnswer": "The awakening of the heart from the 'garment of heedlessness'",
-      "explanation": "Imam Jafar al-Sadiq (as) explains in Tafsir al-Qummi that this divine address transcends the physical act of covering oneself, instead symbolizing the awakening of the heart from the 'garment of heedlessness.' The Prophet was being called to cast off the veils separating creation from Creator, a mission inherited by his purified progeny."
+      "type": "trueFalse",
+      "layer": 2,
+      "verseNumber": 30,
+      "question": "True or false: when the number of nineteen guardians of Saqar was revealed in verse 30, Abu Jahl responded with humility, recognizing it as a divine sign beyond human comprehension.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Imam al-Tabari records the opposite: Abu Jahl responded with contemptuous mockery, declaring before his companions that his people could surely overpower nineteen angel-guardians. This reaction exemplifies exactly what verse 31 then describes — that the number serves as a trial which increases the faith of believers while deepening the arrogance of those whose hearts are diseased."
     },
     {
       "id": "74_11",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 2,
-      "question": "What did Imam Ali teach in Nahj al-Balagha about rising for truth?",
+      "layer": 3,
+      "verseNumber": 31,
+      "question": "Wahbah al-Zuhayli in Al-Tafsir al-Munir identifies verse 31 as unique in the Quran for a particular reason. What is that reason?",
       "options": [
-        "Only stand for truth when it's convenient",
-        "The one who rises for truth elevates creation to the heights of divine proximity",
-        "Avoid confrontation at all costs",
-        "Truth is relative to circumstances"
+        "A) It is the only verse that names a specific angel by rank and number",
+        "B) It explicitly lists multiple simultaneous effects of a single divine disclosure, making it a model for how one truth from Allah operates differently according to each heart's receptivity",
+        "C) It is the only Meccan verse to address the People of the Book directly by name",
+        "D) It contains the longest single sentence in the Quran, making it linguistically exceptional"
       ],
-      "correctAnswer": "The one who rises for truth elevates creation to the heights of divine proximity",
-      "explanation": "Imam Ali (p) states in Nahj al-Balagha: 'The one who rises for truth elevates creation to the heights of divine proximity.' This emphasizes that rising for truth is not merely a physical or social act but a spiritual elevation that brings humanity closer to divine realities."
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir observes that verse 31 is unique in the Quran for explicitly listing the multiple simultaneous outcomes of a single divine disclosure — trial for disbelievers, increased faith for believers, certainty for the People of the Book, and further misguidance for the spiritually diseased — making it a model for understanding how one truth from Allah operates differently depending entirely on the spiritual orientation of the receiver."
     },
     {
       "id": "74_12",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 3,
-      "question": "According to Imam Ja'far al-Sadiq, true Takbir (glorification) means magnifying Allah in your heart before your tongue.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Imam Ali (peace be upon him) taught that 'True Takbir (glorification) is to magnify Allah in your heart before your tongue,' emphasizing that genuine glorification arises from acknowledging His Lordship in every dimension of life, not merely verbal repetition."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 38,
+      "question": "Verse 38 states 'Every soul is held in pledge for what it has earned.' The Arabic word 'rahinah' comes from the concept of rahn. What does this metaphor communicate about the soul's relationship to its own deeds?",
+      "options": [
+        "A) That the soul is auctioned off to the highest bidder among the angels based on the total quantity of good deeds",
+        "B) That the soul itself is the collateral pledged against its own moral debt and cannot be freed until that debt is settled through repentance and righteous deeds, or faced in divine judgment",
+        "C) That souls are collectively pledged as a group, so an entire family can be freed if one righteous member intercedes",
+        "D) That the soul is held temporarily in the grave as a pledge until it is redeemed by others' prayers on the Day of Judgment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The tafsir draws on the ancient Arabian practice of rahn — pledging an item of value as security for a debt. Wahbah al-Zuhayli adds the legal precision that in Islamic jurisprudence a pledged item cannot be reclaimed until the debt is settled, and by analogy the soul cannot be freed from its moral state until purified through sincere repentance and good deeds, or until it faces the divine reckoning. Sayyid Qutb describes this as a profound call to taqwa: life is a mortal pledging of the most precious thing a person possesses, their own soul."
     },
     {
       "id": "74_13",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key epistemological difference between Sunni and Shia interpretations of the 'covering' metaphor?",
-      "options": [
-        "Both traditions interpret it identically with no differences",
-        "Sunni tafsir often prioritizes the Prophet's personal example within communal ethics, while Shia interpretations integrate it into the broader narrative of walayah (divine guardianship)",
-        "Sunni scholars reject the verse entirely",
-        "Shia scholars focus only on literal meanings"
-      ],
-      "correctAnswer": "Sunni tafsir often prioritizes the Prophet's personal example within communal ethics, while Shia interpretations integrate it into the broader narrative of walayah (divine guardianship)",
-      "explanation": "These differences stem from distinct epistemological frameworks: Sunni tafsir often prioritizes the Prophet's personal example within communal ethics, while Shia interpretations frequently integrate the verse into a broader narrative of walayah (divine guardianship). Such nuances influence religious discourse but do not fundamentally conflict on the verse's primary meaning."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 38,
+      "question": "True or false: verse 38 rules out intercession entirely, establishing that no soul can benefit from anyone else's prayers or good standing on the Day of Judgment.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "The tafsir is clear that verse 38 establishes the baseline reality of personal accountability without denying that intercession exists. Ibn Uthaymeen explains that the Prophet's intercession for his nation is affirmed, but verse 38 establishes that a soul cannot rely passively on that intercession without itself engaging in repentance and righteous conduct. The verse is a wake-up call, not an abolition of mercy."
     },
     {
       "id": "74_14",
-      "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 31,
-      "question": "Both Sunni and Shia scholars agree that the specific number of angels guarding Hellfire serves as a fitnah (trial) to distinguish believers from disbelievers.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Classical exegetes across both traditions agree the verse marks the specific number (nineteen) as a fitnah (trial) designed to expose the arrogance of disbelievers who mock such details, while deepening the certainty of the faithful. This serves to sift truth from falsehood through spiritual testing."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 42,
+      "question": "When the people of Paradise ask the people of Hell 'What put you into Saqar?' in verse 42, al-Tabari records that early scholars understood this question as serving a specific purpose. What purpose did they identify?",
+      "options": [
+        "A) To humiliate the condemned by making them publicly confess in front of the righteous",
+        "B) To allow the people of Paradise to petition Allah for clemency on behalf of those they recognise from earthly life",
+        "C) To establish the justice of punishment through the condemned's own articulation of their crimes, confirming that divine judgment is fully transparent and causally linked to one's choices",
+        "D) To give the condemned a final opportunity to repent before the gates of Hell are permanently sealed"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Al-Tabari records that companions and successors understood this question as one of accountability and disclosure, designed to make the condemned articulate their crimes before the people of Paradise. Fakhr al-Din al-Razi adds that this mirrors the questioning in the grave and affirms that divine justice operates through clear causal links between actions and consequences rather than arbitrary decree. Ibn Kathir notes it reflects Allah's justice: even in punishment, the reasons are made clear."
     },
     {
       "id": "74_15",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 2,
-      "question": "According to both Sunni and Shia traditions, what is the primary convergence point regarding the command 'Arise and warn'?",
+      "layer": 3,
+      "verseNumber": 46,
+      "question": "Sayyid Qutb in Fi Zilal al-Quran describes the four confessions in verses 43-46 as forming a complete sequence. How does he characterise the relationship between those four confessions?",
       "options": [
-        "It only applies to the Prophet's time with no modern relevance",
-        "It represents a transformative call to divine service, emphasizing courage and commitment to truth",
-        "It is a military command for physical warfare",
-        "It contradicts earlier revelations"
+        "A) He treats the four as independent sins of equal weight with no logical progression between them",
+        "B) He argues they form the complete anatomy of spiritual failure: collapse of the relationship with Allah through prayerlessness, then with others through social indifference, then intellectual integrity through vain discourse, and finally belief itself through denial of the Day — a progressive descent",
+        "C) He says denial of the Day of Judgment is the only sin that truly matters, with the other three being relatively minor in comparison",
+        "D) He focuses on them purely as a historical description of Meccan paganism without drawing wider lessons"
       ],
-      "correctAnswer": "It represents a transformative call to divine service, emphasizing courage and commitment to truth",
-      "explanation": "Both traditions ultimately unite in viewing this moment as a transformative call to divine service, resonating across sectarian lines in emphasizing courage and commitment to truth. The directive to 'arise and warn' links the metaphor of 'covering' to the need for spiritual and societal awakening in both Sunni and Shia interpretations."
+      "correctAnswer": "B",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran describes the four confessions in verses 43-46 as tracing the complete anatomy of spiritual failure: first the collapse of the relationship with Allah through prayerlessness, then the relationship with others through social indifference, then intellectual integrity through vain discourse, and finally belief itself through denial of the Day of Judgment. Wahbah al-Zuhayli similarly notes the four span three domains — the vertical relationship with Allah, the horizontal with humanity, and the domain of fundamental belief — forming a complete moral map of human failure."
     }
   ]
 }

@@ -5,271 +5,236 @@
       "id": "43_1",
       "type": "multipleChoice",
       "layer": 1,
-      "verseNumber": 1,
-      "question": "According to the tafsir, what are the opening letters 'Ha Meem' (Huroof Muqatta'at) of Surah Az-Zukhruf understood to be?",
+      "verseNumber": 4,
+      "question": "What does the phrase 'Mother of the Book' (Umm al-Kitab) refer to in verse 4, and what two attributes describe the Quran in that heavenly realm?",
       "options": [
-        "A simple greeting to the Prophet",
-        "Divine symbols whose full meaning is known only to Allah and those with deep spiritual insight",
-        "Names of previous prophets",
-        "Numerical codes for verses"
+        "A. The Torah in the earthly realm, described as ancient and honored",
+        "B. The Preserved Tablet (Lawh al-Mahfuz), and the Quran is described as exalted and full of wisdom",
+        "C. The angel Jibril's personal record, described as powerful and luminous",
+        "D. The first revelation sent down, described as clear and comprehensive"
       ],
       "correctAnswer": "B",
-      "explanation": "The Huroof Muqatta'at are understood in Shia tafsir as profound divine symbols whose full meaning is ultimately known only to Allah and those granted deep spiritual insight, such as the Prophet and the Ahlul Bayt."
+      "explanation": "Ibn Kathir, citing Ibn Abbas, Mujahid, and Qatada, confirms that 'Umm al-Kitab' refers to the Lawh al-Mahfuz, the Preserved Tablet. The Quran is described there as 'aliyyun' (exalted) and 'hakeem' (full of wisdom), affirming its eternal divine origin before its earthly revelation."
     },
     {
       "id": "43_2",
       "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 6,
-      "question": "According to Surah Az-Zukhruf, Allah sent countless prophets to former peoples throughout history.",
+      "verseNumber": 3,
+      "question": "True or false: The Quran was revealed in Arabic primarily to exclude non-Arabs from its message.",
       "options": null,
-      "correctAnswer": "true",
-      "explanation": "The verse 'And how many a prophet We sent among the former peoples' emphasizes the vast scope of divine guidance throughout history, with the word 'kam' (how many) indicating countless prophets sent by Allah's mercy."
+      "correctAnswer": "false",
+      "explanation": "The tafsir of verse 3 is clear that Arabic was chosen so the first recipients could comprehend its meanings directly and with full nuance. As Ibn Kathir explains, citing the principle in Surah Ibrahim 14:4, every messenger was sent in the language of his people for clarity, not exclusion. The message is universal and its guidance accessible to all humanity through sincere engagement."
     },
     {
       "id": "43_3",
       "type": "multipleChoice",
-      "layer": 1,
-      "verseNumber": 41,
-      "question": "In verse 43:41, what does Allah assure Prophet Muhammad about those who reject his message?",
+      "layer": 2,
+      "verseNumber": 1,
+      "question": "How did Imam al-Tabari describe the correct scholarly attitude toward the mysterious opening letters 'Ha Mim' of Surah Az-Zukhruf?",
       "options": [
-        "They will be forgiven automatically",
-        "Divine retribution is inevitable regardless of whether the Prophet witnesses it",
-        "They should be immediately punished",
-        "Their fate is uncertain"
+        "A. He ruled that they are secret codes known only to mathematical scholars of the Quran",
+        "B. He insisted they are simply the names of the surah and should be recited as such in prayer",
+        "C. He documented that the Salaf refrained from speculation about their precise meaning, treating them as mutashabihat whose full meaning is with Allah",
+        "D. He argued they are an oath Allah swears by the individual letters of the Arabic alphabet"
       ],
-      "correctAnswer": "B",
-      "explanation": "The verse assures that divine justice transcends the Prophet's earthly presence - whether he remains or departs, divine retribution against oppressors is inevitable, emphasizing Allah's role as the ultimate Avenger."
+      "correctAnswer": "C",
+      "explanation": "In Jami al-Bayan, Imam al-Tabari surveys the scholarly tradition and notes that the Salaf generally refrained from speculating about the precise meaning of the muqattaat, acknowledging them as among the mutashabihat whose full meaning is with Allah. Imam al-Qurtubi catalogued no fewer than twelve scholarly positions on the matter, reflecting this tradition of respectful engagement without reckless speculation."
     },
     {
       "id": "43_4",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 1,
-      "verseNumber": 62,
-      "question": "What warning does verse 43:62 give believers about Satan?",
-      "options": [
-        "Satan is a hidden enemy",
-        "Satan is a clear enemy who tries to avert people from divine truth",
-        "Satan has no power over believers",
-        "Satan only targets disbelievers"
-      ],
-      "correctAnswer": "B",
-      "explanation": "The verse warns believers that Satan is a 'clear enemy' (aduwwun mubin) whose role as an adversary to human salvation is explicit, and he relentlessly tries to steer people away from divine truth."
+      "verseNumber": 9,
+      "question": "True or false: The Meccan polytheists openly denied that Allah had created the heavens and the earth, which is why they rejected the Prophet's message.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 9 reveals the opposite: when asked who created the heavens and the earth, even the polytheists would answer 'They were created by the Exalted in Might, the Knowing.' As al-Tabari explains, their shirk was not rooted in denying Allah as Creator but in the logical contradiction of acknowledging Him as Creator while directing worship toward idols as intermediaries."
     },
     {
       "id": "43_5",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 1,
-      "question": "According to classical Shia exegetes like Tabatabai and Tabrisi, what do the 'muqatta'at' (disjointed letters) emphasize about the Quran?",
+      "layer": 1,
+      "verseNumber": 26,
+      "question": "What was theologically significant about Prophet Ibrahim's declaration in verse 26, and why did Allah invoke it in a surah addressed to the Quraysh?",
       "options": [
-        "Its historical accuracy",
-        "Its inimitability (i'jaz) and transcendent divine origin",
-        "Its ease of memorization",
-        "Its poetic beauty"
+        "A. It established that Ibrahim prayed toward Mecca, a practice the Quraysh were neglecting",
+        "B. It showed that Ibrahim himself completely disowned the ancestral idol worship that the Quraysh were practicing in his name",
+        "C. It proved that Ibrahim authorized the construction of idols as long as they were not treated as equal to Allah",
+        "D. It demonstrated that Ibrahim left idolatry only after receiving a miraculous sign from the sky"
       ],
       "correctAnswer": "B",
-      "explanation": "Classical commentators affirm that the muqatta'at belong to the Quran's inimitability (i'jaz), serving as a reminder of the divine speech's transcendent origin and its composition from familiar Arabic letters yet transcending human replication."
+      "explanation": "The verse records Ibrahim declaring 'bari'un' — complete dissociation — from the idols his father and people worshipped. Allah invokes this precisely because the Quraysh claimed to be custodians of Ibrahim's legacy. As Wahbah al-Zuhayli notes in Al-Tafsir al-Munir, the rhetorical force is devastating: their own forefather had utterly rejected exactly the kind of ancestral idol worship they practiced."
     },
     {
       "id": "43_6",
       "type": "trueFalse",
       "layer": 2,
-      "verseNumber": 41,
-      "question": "According to Shia exegesis, the concept of divine retribution in verse 43:41 is connected to the doctrine of Raj'a (return).",
+      "verseNumber": 28,
+      "question": "True or false: According to Ibn Kathir and the majority of early Quranic scholars, the 'enduring word' Ibrahim left among his descendants refers to the declaration of divine oneness, La ilaha illallah.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Shia scholars link the verse to the doctrine of Raj'a, where the return of the oppressed and the punishment of tyrants are seen as extensions of divine justice, as part of Shia eschatology."
+      "explanation": "Ibn Kathir, citing Ibn Abbas and Mujahid, states that the 'kalimatan baqiyatan' (enduring word) Ibrahim planted in his lineage is La ilaha illallah. Imam al-Tabari's preferred position and that of the majority of early commentators supports this, affirming that Ibrahim consciously embedded the call to tawhid into his descendants' spiritual inheritance so it would remain accessible in every generation."
     },
     {
       "id": "43_7",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 81,
-      "question": "According to Tabatabai's Al-Mizan, what rhetorical device is used in verse 43:81 ('If the Most Merciful had a son...')?",
+      "layer": 3,
+      "verseNumber": 22,
+      "question": "Sayyid Qutb described the Quraysh's defense of ancestral religion in verse 22 as illustrating a universal human tendency. What was the core of his observation?",
       "options": [
-        "Simile",
-        "Reductio ad absurdum",
-        "Metaphor",
-        "Hyperbole"
+        "A. He argued the Quraysh were right to follow their ancestors because tradition is the foundation of society",
+        "B. He saw them trapped by the habit of sanctifying old customs simply because of their age, confusing antiquity with authenticity",
+        "C. He praised the Quraysh for maintaining continuity with Ibrahim's original monotheism",
+        "D. He argued that questioning ancestral religion is always a sign of ingratitude toward one's elders"
       ],
       "correctAnswer": "B",
-      "explanation": "Tabatabai explains that the conditional structure employs reductio ad absurdum - even hypothetically accepting such a premise leads to an impossible conclusion, as Allah's transcendence negates physical or relational limitations inherent in parenthood."
+      "explanation": "Sayyid Qutb, in Fi Zilal al-Quran, observed that humanity is prone to sanctifying old habits simply because of their age, confusing antiquity with authenticity. The Quran refuses to let people outsource their faith to ancestors who themselves had no divine warrant. True engagement with faith requires a fresh, conscious commitment to tawhid rather than inherited conformity without scriptural grounding."
     },
     {
       "id": "43_8",
       "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 13,
-      "question": "What theological principle does verse 43:13 (about mounting animals) reinforce according to classical Shia commentators?",
+      "layer": 3,
+      "verseNumber": 32,
+      "question": "Wahbah al-Zuhayli drew a major lesson from the closing statement of verse 32, 'the mercy of your Lord is better than whatever they accumulate.' What was his core point?",
       "options": [
-        "Divine corporeality",
-        "Taskhir - Allah's subjugation of creation for human benefit",
-        "Human superiority over angels",
-        "The prohibition of animal riding"
+        "A. That worldly wealth is forbidden for believers and should be distributed immediately to the poor",
+        "B. That the divine mercy of prophethood and revelation is infinitely more valuable than all the wealth and status the Qurayshi chiefs had accumulated",
+        "C. That Allah distributes material wealth equally among believers as a sign of His justice",
+        "D. That the phrase refers only to rewards in the afterlife and has no application in worldly life"
       ],
       "correctAnswer": "B",
-      "explanation": "The verse reinforces the principle of taskhir (subjugation), affirming that all creation serves humanity by Allah's will, not human capability, emphasizing gratitude as both a spiritual duty and recognition of divine sovereignty."
+      "explanation": "Al-Zuhayli explains in Al-Tafsir al-Munir that the verse establishes a supreme hierarchy of values: what people treasure in this world — gold, status, and power — are transient shadows of value, while what Allah gives in divine guidance and revelation is the only lasting good. This directly corrects the Qurayshi assumption that their wealth was a sign of divine favor superior to the Prophet's mission."
     },
     {
       "id": "43_9",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 61,
-      "question": "How do contemporary Shia scholars interpret Jesus's role as 'knowledge of the Hour' in verse 43:61?",
+      "layer": 2,
+      "verseNumber": 45,
+      "question": "When Allah commands the Prophet in verse 45 to 'ask those We sent before you' of the earlier messengers, how did Imam al-Tabari resolve the question of how this was possible?",
       "options": [
-        "As a purely historical event",
-        "As a nexus between eschatological hope and ethical responsibility",
-        "As irrelevant to modern Muslims",
-        "As a reference to past events only"
+        "A. Tabari said the verse permits the Prophet to visit graves and receive answers through spiritual visions",
+        "B. Tabari explained this is a rhetorical command pointing to the preserved testimonies of prior scriptures and the known teachings of all prophets",
+        "C. Tabari ruled that the verse applies only to the Prophet and has no broader meaning for later generations",
+        "D. Tabari argued the verse refers to asking the Jewish and Christian scholars alive at the time of the Prophet"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Nasir Makarem Shirazi interpret this verse as a call to recognize the interconnectedness of human actions and cosmic accountability, bridging eschatological hope with ethical responsibility."
+      "explanation": "In Jami al-Bayan, Imam al-Tabari resolves this by explaining the command is rhetorical, directing attention to the body of prophetic testimony preserved in prior scriptures. He cites Ibn Masud's reading, which understood the verse as an inquiry directed at the unanimous prophetic tradition as a whole — every messenger of which called exclusively to the worship of Allah alone, without any exception."
     },
     {
       "id": "43_10",
       "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 6,
-      "question": "Contemporary Shia scholars view verse 43:6 (about many prophets) as a theological foundation for interfaith dialogue and pluralism.",
+      "layer": 1,
+      "verseNumber": 48,
+      "question": "True or false: According to the tafsir of verse 48, each sign sent to Pharaoh's people was greater than the one before it, and their stated purpose was repentance rather than punishment alone.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Scholars like Ayatollah Mohammad Ali Taskhiri and Dr. Reza Shah-Kazemi emphasize this verse as affirming God's mercy to all human societies, providing a foundation for interfaith dialogue and pluralism."
+      "explanation": "Verse 48 states 'We did not show them any sign except that it was greater than its sister,' and the closing phrase 'la'allahum yarji'un' (so that they might return) confirms the reformative purpose. As the tafsir explains, each escalating miracle was an act of divine mercy extending the opportunity for belief, demonstrating that Allah's method is persistent invitation before final judgment."
     },
     {
       "id": "43_11",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 62,
-      "question": "According to contemporary scholars, how does Satan's 'averting' manifest in modern times?",
+      "layer": 1,
+      "verseNumber": 51,
+      "question": "What was the core purpose of Pharaoh's famous proclamation in verse 51 — 'O my people, does not the kingdom of Egypt belong to me and these rivers flowing beneath me?' — according to the tafsir?",
       "options": [
-        "Only through direct temptation",
-        "Through cultural normalization of sin, materialism, and digital addiction",
-        "Only in religious contexts",
-        "Through natural disasters"
+        "A. To announce a major public works project along the Nile to his subjects",
+        "B. To deflect from Moses' theological argument by exploiting his people's materialism through spectacle and status",
+        "C. To challenge Moses to a formal debate about the comparative merits of Egyptian and Israelite culture",
+        "D. To demonstrate that Egypt's wealth came from Allah and that Pharaoh was therefore a grateful believer"
       ],
       "correctAnswer": "B",
-      "explanation": "Contemporary scholars like Ayatollah Naser Makarem Shirazi emphasize that Satan's 'averting' today manifests as cultural normalization of sin, from exploitative capitalism to digital addiction, distracting humanity from divine purpose."
+      "explanation": "Ibn Kathir explains that Pharaoh's speech was a calculated attempt to exploit his people's materialism, appealing to what they could see with their eyes rather than engaging with Moses' theological argument. Sayyid Qutb, in Fi Zilal al-Quran, identifies this as a timeless model of political propaganda: redirecting public attention to spectacle and material power when unable to rationally refute the truth."
     },
     {
       "id": "43_12",
-      "type": "multipleChoice",
+      "type": "trueFalse",
       "layer": 3,
-      "verseNumber": 82,
-      "question": "How do contemporary scholars connect verse 43:82 (Allah's transcendence) to modern issues?",
-      "options": [
-        "They see no modern relevance",
-        "They connect it to climate ethics, algorithmic determinism, and interfaith dialogue",
-        "They apply it only to theological debates",
-        "They use it to reject scientific inquiry"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Contemporary scholars connect this verse to critiques of consumerism, nationalism, and algorithmic determinism, as well as interfaith dialogue about transcendence and environmental stewardship."
+      "verseNumber": 56,
+      "question": "True or false: Contemporary scholars such as Sayyid Qutb understand verse 56, which made the people of Pharaoh 'a precedent and an example,' as a purely historical record with no intended lesson for later generations.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Sayyid Qutb, in Fi Zilal al-Quran, states the opposite: the Pharaoh narrative was preserved precisely as a didactic parable. Wahbah al-Zuhayli connects it to the Quranic theme of 'sunan Allah' — the fixed divine laws governing civilization — arguing that nations which suppress truth and elevate falsehood face the same consequences regardless of their era or military power."
     },
     {
       "id": "43_13",
       "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq, what do the letters 'Ha' and 'Meem' in verse 43:1 represent?",
+      "layer": 2,
+      "verseNumber": 57,
+      "question": "What was the occasion of revelation behind verse 57, in which the Quraysh erupted in clamor when Jesus was mentioned?",
       "options": [
-        "Two angels' names",
-        "Muhammad and Ali - the twin foundations of creation",
-        "Heaven and Earth",
-        "Male and female"
+        "A. The Quraysh disputed with a Christian delegation who claimed Jesus was more honored than Muhammad",
+        "B. Abdullah ibn az-Zibara exploited a Quranic verse about worshipped beings entering Hell, shouting that Christians worship Jesus to try to undermine the Prophet's argument",
+        "C. A group of Jewish scholars argued that Jesus could not be a prophet because he had no father",
+        "D. The Quraysh were angered that Jesus was mentioned in the Quran since they considered him irrelevant to Arabian religion"
       ],
       "correctAnswer": "B",
-      "explanation": "Imam Ja'far al-Sadiq taught that 'The Ha is Muhammad, and the Meem is Ali - these two are the manifest light of Allah, the twin foundations of creation,' reflecting their unified role as the gateway to divine knowledge."
+      "explanation": "Ibn Kathir records that when the Prophet recited the verse declaring that those worshipped besides Allah would be fuel for Hell (21:98), Abdullah ibn az-Zibara shouted that Christians worship Jesus, causing the Quraysh to erupt in approval. Imam al-Tabari explains that the Quran characterizes their reaction as 'jadal' — disputation for its own sake — not a sincere theological inquiry, since the Arabic particle 'ma' in verse 21:98 grammatically excluded rational beings like Jesus."
     },
     {
       "id": "43_14",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 61,
-      "question": "According to Shia teachings, the 'Hour' mentioned in verse 43:61 refers only to the Day of Resurrection and not to the reappearance of Imam Mahdi.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "According to Imam Ja'far al-Sadiq, 'The Hour refers to the Qa'im [Imam Mahdi], for when he rises, it is as if the Hour has risen. Jesus will descend to pray behind him, affirming his wilayah.'"
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 63,
+      "question": "What distinction did Sheikh Muhammad al-Sharawi draw about the 'bayyinat' (clear proofs) that Jesus brought, as recorded in verse 63?",
+      "options": [
+        "A. He argued that 'bayyinat' means only written scripture and excludes miracles",
+        "B. He emphasized that 'bayyinat' are not merely intellectual arguments but lived demonstrations of divine power, acts of mercy designed to open hearts to faith",
+        "C. He said 'bayyinat' refers exclusively to the Quran, since it was sent to confirm Jesus's message",
+        "D. He argued that 'bayyinat' applied only to Jesus's Jewish audience and holds no lesson for Muslims"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sheikh Muhammad al-Sharawi emphasized that 'bayyinat' are not merely logical proofs but lived manifestations of divine power — miracles such as healing the blind and lepers and speaking from the cradle — designed as merciful signs to open hearts to faith. The Quran presents Jesus's proofs as divine compassion extended to his audience, not as abstract argumentation."
     },
     {
       "id": "43_15",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 14,
-      "question": "According to Imam Sadiq, what does the 'return' to Allah in verse 43:14 ultimately involve?",
-      "options": [
-        "Physical death only",
-        "Return to the recognition of divine guardianship (Wilayah) through the Imams",
-        "Reincarnation",
-        "A metaphorical journey"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Imam Sadiq explains this 'return' as a return to the recognition of divine guardianship (Wilayah), stating: 'The first of creation is love for us [Ahlul Bayt], and the last is return to us.'"
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 69,
+      "question": "True or false: Verse 69 defines those who receive the divine honor on the Day of Judgment by two combined qualities: belief in Allah's signs and consistent submission as Muslims.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Verse 69 states, 'those who believed in Our signs and were Muslims.' The tafsir explains these as two inseparable dimensions of complete faith: 'ayat' encompasses both revealed verses and signs in creation, while 'kanu muslimin' — the sustained past tense — points to a lifelong consistency of submission. Ibn Uthaymeen specifically emphasized that 'istiqama' (steadfastness) across all phases of life is required, not merely occasional practice."
     },
     {
       "id": "43_16",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 41,
-      "question": "According to the Ahlul Bayt's teachings, the 'retribution' mentioned in verse 43:41 includes the spiritual consequence of rejecting Wilayah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "The teachings emphasize that the 'retribution' signifies both worldly punishment and the spiritual consequence of rejecting Wilayah (divine guardianship), as Lady Fatimah stated: 'Allah made obedience to us the foundation of His religion.'"
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 20,
+      "question": "The Quraysh argued that if Allah had truly disapproved of their idol worship, He would have stopped them from doing it. How did classical Sunni scholars refute this use of divine decree as justification?",
+      "options": [
+        "A. They agreed the argument was valid and concluded that idol worship was merely disliked, not forbidden",
+        "B. They explained that the argument confuses Allah's universal creative will, allowing events to occur, with His legislative will, which commands and forbids actions",
+        "C. They said the argument proves that divine punishment applies only in the afterlife, not in this world",
+        "D. They ruled that the argument was logically valid but irrelevant since polytheists had already been sufficiently warned"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wahbah al-Zuhayli in Al-Tafsir al-Munir distinguishes between Allah's iradah kawniyyah (universal will permitting events to unfold) and iradah shar'iyyah (legislative will commanding or forbidding specific actions). Imam al-Qurtubi used this verse to refute the Jabriyya school's position, and Ibn Uthaymeen confirmed it is a foundational proof-text in the Sunni tradition against using qadar as an excuse for disobedience."
     },
     {
       "id": "43_17",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 1,
-      "question": "What is a key difference between Shia and Sunni interpretations of the 'Ha Meem' letters?",
+      "layer": 3,
+      "verseNumber": 27,
+      "question": "Why did Sheikh Muhammad al-Sharawi note that Ibrahim's choice to describe Allah as 'the one who created me' in verse 27 was particularly well-suited for his audience?",
       "options": [
-        "Sunni scholars reject their divine origin",
-        "Shia sources explore esoteric dimensions linking them to the Ahlul Bayt's ontological status, while Sunni scholars generally limit commentary to transmitted reports",
-        "Sunni scholars provide more detailed explanations",
-        "There is no difference between the interpretations"
+        "A. Ibrahim chose this description because it was the only divine attribute his audience already recognized",
+        "B. It makes the most intuitive argument for monotheism: since people already acknowledge a creator, they should logically follow that the creator alone deserves worship, not what has been created",
+        "C. Ibrahim avoided using the name 'Allah' to make his monotheism appear compatible with his people's existing religion",
+        "D. Ibrahim chose this phrase to emphasize that he alone, not his father, had been specially created by Allah with a unique destiny"
       ],
       "correctAnswer": "B",
-      "explanation": "Shia traditions in Al-Qummi's tafsir and Al-Tabatabai's Al-Mizan explore esoteric dimensions linking the letters to the Ahlul Bayt, while Sunni exegetes like Ibn Kathir and Al-Razi generally limit commentary to transmitted reports."
+      "explanation": "Sheikh Muhammad al-Sharawi observed that when making the case for monotheism to people who already acknowledge a creator deity but associate partners with Him in worship, pointing to creation itself is the most intuitively compelling argument: the originator of existence holds the unique right to worship, not what has been brought into existence by His will. This reflects the Quranic method of meeting audiences on the ground of their own acknowledged beliefs."
     },
     {
       "id": "43_18",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 61,
-      "question": "How do Sunni and Shia scholars differ in interpreting Jesus's role in verse 43:61?",
-      "options": [
-        "Sunni scholars reject Jesus's role entirely",
-        "Sunni scholars focus on Jesus's physical return before Judgment Day, while Shia scholars prioritize symbolic readings emphasizing the Imamah's role",
-        "Shia scholars reject Jesus's significance",
-        "Both interpret it identically"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Sunni commentaries often link the verse to Jesus's prophesied physical return to combat the Antichrist, while Shia sources prioritize symbolic readings viewing Jesus as a metaphysical sign, situating eschatological authority within the Imam-Mahdi paradigm."
-    },
-    {
-      "id": "43_19",
       "type": "trueFalse",
-      "layer": 5,
-      "verseNumber": 81,
-      "question": "Both Sunni and Shia scholars agree that verse 43:81 is a categorical rejection of anthropomorphism and the attribution of progeny to Allah.",
+      "layer": 2,
+      "verseNumber": 8,
+      "question": "True or false: Ibn Kathir understood verse 8 — which states that Allah destroyed nations mightier than the Quraysh — as serving a dual function: consoling believers and sternly warning the disbelievers of Mecca.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "Both traditions agree on the verse's core theological purpose: rejecting anthropomorphism and the attribution of progeny to Allah, with shared appeals to divine transcendence (tanzih), though they differ in theological extensions."
-    },
-    {
-      "id": "43_20",
-      "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 6,
-      "question": "What reflects the distinct theological priorities in Shia vs Sunni interpretation of verse 43:6 about past prophets?",
-      "options": [
-        "Sunni scholars deny the verse's authenticity",
-        "Shia exegesis integrates prophethood with Imamah as a cohesive divine system, while Sunni interpretations emphasize moral and historical lessons",
-        "Shia scholars reject the verse's relevance",
-        "Both focus equally on Imamah"
-      ],
-      "correctAnswer": "B",
-      "explanation": "Shia commentaries contextualize prophetic continuity within the framework of the Imamate, while Sunni scholars focus on the verse's didactic purpose and human accountability without explicit connections to post-prophetic leadership."
+      "explanation": "In Tafsir al-Quran al-Azim, Ibn Kathir explicitly notes that verse 8 consoles the believers by reminding them that truth has always prevailed, and simultaneously warns the Quraysh that far more powerful civilizations — such as the people of Ad with their unmatched strength and Pharaoh's empire — were obliterated for the same attitude. The phrase 'wa mada mathalul awwalin' means their precedent is already recorded and available for the Quraysh to learn from."
     }
   ]
 }

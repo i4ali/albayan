@@ -6,135 +6,160 @@
       "type": "multipleChoice",
       "layer": 1,
       "verseNumber": 1,
-      "question": "In Surah Al-Ghaashiya's opening verse, what does the term 'Al-Ghaashiya' (the Overwhelming) refer to according to Shia tafsir?",
+      "question": "What does the Arabic name Al-Ghashiyah mean, and why is it used as a title for the Day of Judgment?",
       "options": [
-        "A historical battle in early Islam",
-        "The Day of Resurrection that will overwhelm all creation",
-        "The Prophet's spiritual journey",
-        "The persecution of early Muslims in Mecca"
+        "A) The Blazing — referring to the fire that will consume the wicked",
+        "B) The Overwhelming — referring to an event that will envelop all of creation without exception",
+        "C) The Reckoning — referring to the final accounting of every deed",
+        "D) The Announcement — referring to the news brought by the Prophet"
       ],
-      "correctAnswer": "The Day of Resurrection that will overwhelm all creation",
-      "explanation": "In Shia tafsir, scholars like Allamah Tabatabai and Shaykh Tabarsi explain that Al-Ghaashiya refers to the Day of Resurrection—a momentous event that will 'overwhelm' (yaghsha) all creation, leaving none untouched. The term comes from the root ghayn-sheen-ya, signifying complete coverage or envelopment."
+      "correctAnswer": "B",
+      "explanation": "Ibn Abbas, Qatadah, and Ibn Zayd all agreed that Al-Ghashiyah is a name for the Day of Judgment chosen because that Day will overwhelm all of creation, leaving no soul untouched. The root gh-sh-y means to cover, overwhelm, or envelope completely."
     },
     {
       "id": "88_2",
       "type": "trueFalse",
       "layer": 1,
       "verseNumber": 2,
-      "question": "According to Imam Ali, true humility is described as 'lowering your wing to the people,' meaning kindness without condescension.",
+      "question": "True or False: The word 'khashi'ah' used to describe the faces of the condemned in verse 2 is the same root the Quran uses elsewhere to describe the sincere believer's posture in prayer, making the condemned's humiliation a forced inversion of the worship they refused.",
       "options": null,
       "correctAnswer": "true",
-      "explanation": "True. Imam Ali (AS) taught that true humility is 'lowering your wing to the people'—kindness without condescension. This verse about humbled faces reminds believers to cultivate sincere humility before the Day of Judgment arrives, rejecting pride in wealth, status, or knowledge."
+      "explanation": "Ibn Kathir drew a direct parallel with Surah Al-Mu'minun 23:2 where 'khashi'un' describes believers who are humble in prayer. The Quran deliberately mirrors the language: those who refused voluntary humility before Allah in worship will be forcibly humbled on the Day of Judgment before all of creation."
     },
     {
       "id": "88_3",
       "type": "multipleChoice",
       "layer": 2,
-      "verseNumber": 1,
-      "question": "According to Shaykh Tabrisi in Majma al-Bayan, what does the rhetorical question 'Has there reached you...' in verse 1 signify?",
+      "verseNumber": 5,
+      "question": "Classical scholars noted that the Quran uses the word 'ayn' (spring) for both the boiling spring in Hell and the flowing spring in Paradise. What did Ibn Ashur identify as the rhetorical purpose of this shared vocabulary?",
       "options": [
-        "A genuine inquiry seeking the Prophet's opinion",
-        "A casual conversation starter",
-        "A solemn affirmation of prophetic knowledge about the Day of Resurrection",
-        "A test of the Prophet's understanding"
+        "A) To show that both Hell and Paradise were created from the same divine substance",
+        "B) To create a sharp antithesis where the same word points to radically opposite realities depending on one's fate",
+        "C) To suggest that the Hell spring eventually transforms into a Paradise spring for those who repent",
+        "D) To indicate that the spring of Hell is merely symbolic, unlike the literal spring of Paradise"
       ],
-      "correctAnswer": "A solemn affirmation of prophetic knowledge about the Day of Resurrection",
-      "explanation": "Shaykh Tabrisi explains that the rhetorical question 'Has there reached you...' serves not as an inquiry but as a solemn affirmation of prophetic knowledge, emphasizing the certainty of this eschatological truth conveyed to the Prophet (s) through revelation."
+      "correctAnswer": "B",
+      "explanation": "Ibn Ashur in al-Tahrir wa al-Tanwir and Wahbah al-Zuhayli in al-Tafsir al-Munir identified this as a deliberate antithesis (tibaq) central to the surah's rhetorical architecture: the word 'ayn' points to radically different realities — scorching torment or pure delight — depending entirely on whether one is among the wretched or the blessed."
     },
     {
       "id": "88_4",
-      "type": "multipleChoice",
-      "layer": 2,
-      "verseNumber": 3,
-      "question": "What do classical Shia exegetes say about the 'work' (aamilah) mentioned in verse 3?",
-      "options": [
-        "It refers to all forms of physical labor",
-        "It signifies righteous deeds performed with faith",
-        "It refers to worldly toil divorced from faith and spiritual purpose",
-        "It describes the work of angels on Judgment Day"
-      ],
-      "correctAnswer": "It refers to worldly toil divorced from faith and spiritual purpose",
-      "explanation": "Both Allamah Tabatabai in Al-Mizan and Sheikh Tabrisi in Majma al-Bayan emphasize that the 'work' (aamilah) here refers not to righteous deeds but to worldly toil divorced from faith. The 'exhaustion' (naseebah) signifies the fruitlessness of their efforts when confronted with divine reckoning."
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 6,
+      "question": "True or False: The plant 'dari'' described in verse 6 as the only food of Hell was identified by classical scholars, including Mujahid's report in al-Bukhari, as a thorny toxic shrub that desert animals refuse to eat even when starving.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Al-Bukhari transmitted via Mujahid that the Arabs called this plant 'shibriq' when green and 'dari'' when it dried and became dangerous. Qatadah confirmed that no animal would eat dari' even when starving. Ibn Kathir and al-Tabari both affirmed it is wholly unfit for consumption, making it a devastating reversal of the nourishment Allah provides in this life."
     },
     {
       "id": "88_5",
-      "type": "trueFalse",
-      "layer": 3,
-      "verseNumber": 1,
-      "question": "According to Ayatollah Nasir Makarem Shirazi, 'Al-Ghaashiya' only refers to the Day of Judgment and has no relevance to modern crises.",
-      "options": null,
-      "correctAnswer": "false",
-      "explanation": "False. Ayatollah Nasir Makarem Shirazi emphasizes that 'Al-Ghaashiya' transcends its classical eschatological meaning, urging believers to recognize modern manifestations of societal and environmental collapse—including climate disasters, nuclear threats, and systemic inequities that engulf societies."
+      "type": "multipleChoice",
+      "layer": 1,
+      "verseNumber": 8,
+      "question": "Verse 8 pivots from describing the condemned to describing the people of Paradise with 'wujuhun na'imah' (faces in bliss). What does this phrase convey about the nature of their joy?",
+      "options": [
+        "A) A temporary state of relief that fades once the excitement of Paradise's novelty passes",
+        "B) An inner emotional contentment kept hidden beneath a calm and dignified expression",
+        "C) A total well-being so complete that it radiates visibly outward from the face itself, leaving no hidden suffering",
+        "D) A state reserved only for the moment when believers directly witness Allah, not their permanent condition"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Na'imah derives from the root n-a-m, meaning softness, delight, and flourishing. As Ibn Kathir explained, the bliss will be so total and deep that it radiates visibly on the face with no pretense. Al-Jalalayn noted that this expression identifies these faces as already marked by divine satisfaction before formally entering the Garden."
     },
     {
       "id": "88_6",
       "type": "multipleChoice",
-      "layer": 3,
-      "verseNumber": 17,
-      "question": "How do contemporary Shia scholars like Ayatollah Shirazi interpret the verse about contemplating the camel's creation?",
+      "layer": 2,
+      "verseNumber": 12,
+      "question": "Ibn Kathir noted that the indefinite form 'aynun jariyah' (a flowing spring, verse 12) rather than 'the spring' carries a specific rhetorical meaning. What did he conclude from this grammatical choice?",
       "options": [
-        "Only as a literal reference to camel anatomy",
-        "As an outdated verse with no modern relevance",
-        "As a metaphor for systemic observation and scientific inquiry",
-        "As a prohibition against studying animals"
+        "A) That the spring of Paradise is modest and comparable to ordinary earthly springs",
+        "B) That the spring is shared between all believers and a limited number of guests",
+        "C) That either each believer possesses their own spring or the springs are innumerable and beyond human counting",
+        "D) That the verse is speaking hypothetically about a spring that may or may not exist"
       ],
-      "correctAnswer": "As a metaphor for systemic observation and scientific inquiry",
-      "explanation": "Contemporary scholars like Ayatollah Naser Makarim Shirazi emphasize a dynamic interplay between divine wisdom and human inquiry. While classical exegesis highlighted the camel's physical marvels, modern interpretations expand this into a metaphor for systemic observation and scientific research."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir explained that the indefinite grammatical form 'aynun' implies either individual ownership — each believer having their own spring — or innumerability, with springs beyond human enumeration. Al-Qurtubi further observed that this singular form contrasts with the plural 'aynain' in Surah Al-Rahman 55:50, suggesting a gradation of reward within Paradise according to one's deeds."
     },
     {
       "id": "88_7",
-      "type": "multipleChoice",
-      "layer": 4,
-      "verseNumber": 1,
-      "question": "According to Imam Ja'far al-Sadiq's teaching about verse 1, what does 'The Overwhelming Event' also refer to?",
-      "options": [
-        "The conquest of Mecca",
-        "The rising of Al-Qa'im (Imam Mahdi) who will cover the earth with justice",
-        "The migration to Medina",
-        "The Battle of Karbala"
-      ],
-      "correctAnswer": "The rising of Al-Qa'im (Imam Mahdi) who will cover the earth with justice",
-      "explanation": "In a narration from Imam Ja'far al-Sadiq, he explains: 'The Overwhelming Event is the rising of Al-Qa'im [Imam Mahdi], for he will cover the earth with justice as it was covered with oppression, and this will overwhelm the deniers' (Bihar al-Anwar)."
+      "type": "trueFalse",
+      "layer": 3,
+      "verseNumber": 13,
+      "question": "True or False: Sayyid Qutb in 'Fi Zilal al-Quran' reflected that the raised couches of Paradise (verse 13) form a deliberate sensory contrast with the scorching punishment described for the condemned earlier in the surah.",
+      "options": null,
+      "correctAnswer": "true",
+      "explanation": "Sayyid Qutb in Fi Zilal al-Quran explicitly noted the poetic contrast between the raised couches of Paradise and the scorching earth of the disbelievers described earlier in the surah, observing that the Quran's imagery creates a vivid sensory contrast aimed directly at the heart to motivate the reader toward the path of the blessed."
     },
     {
       "id": "88_8",
-      "type": "trueFalse",
-      "layer": 4,
-      "verseNumber": 21,
-      "question": "According to Imam Ali in Nahj al-Balagha, tadhkir (reminder) is described as a lifeline tethering souls to the Rope of Allah.",
-      "options": null,
-      "correctAnswer": "true",
-      "explanation": "True. Imam Ali states in Nahj al-Balagha: 'The essence of tadhkir is not repetition, but revival—a lifeline tethering souls to the Rope of Allah.' This emphasizes that true reminder goes beyond mere words to awaken spiritual consciousness."
+      "type": "multipleChoice",
+      "layer": 2,
+      "verseNumber": 17,
+      "question": "Why did the Quran open the four-sign sequence in verses 17-20 with the camel rather than the sky or the mountains, according to al-Qurtubi and Ibn Kathir?",
+      "options": [
+        "A) Because the camel is the fastest animal and symbolises the speed of divine judgment",
+        "B) Because the camel was the most central and familiar creature in the Arabs' daily lives, making it the most relatable starting point for theological reflection",
+        "C) Because camels are mentioned more frequently than other animals in earlier scriptures",
+        "D) Because the camel's anatomy was considered too complex for Meccan pagans to explain without admitting a Creator"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Qurtubi noted that the camel was the most commonly encountered and relied-upon animal among the Arabs, making it an immediately relatable starting point. Ibn Kathir recorded the wisdom of the judge Shurayh who invited people to observe the camel's creation as a living proof of Allah's power, and Imam al-Razi noted the pedagogical sequence moves from the intimate to the cosmic."
     },
     {
       "id": "88_9",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 2,
-      "question": "What is a key theological difference between Sunni and Shia interpretations of the 'humbled faces' in verse 2?",
+      "layer": 3,
+      "verseNumber": 18,
+      "question": "Imam al-Razi in 'Mafatih al-Ghayb' offered a specific philosophical argument about the sky being raised without visible supports in verse 18. What was his conclusion?",
       "options": [
-        "Sunni scholars reject this verse entirely",
-        "Shia exegesis incorporates the concept of walaya (allegiance to the Ahl al-Bayt) as integral to faith",
-        "Both traditions have identical interpretations with no differences",
-        "Sunni scholars believe only physical appearance is affected"
+        "A) That the sky supports itself through natural laws that operate entirely independently of any divine will",
+        "B) That angels physically hold the sky aloft as their eternal act of service",
+        "C) That the natural laws humans observe are themselves expressions of Allah's ongoing sustaining will, not self-sufficient independent forces",
+        "D) That the verse is purely metaphorical, referring to the elevation of prophethood above ordinary human authority"
       ],
-      "correctAnswer": "Shia exegesis incorporates the concept of walaya (allegiance to the Ahl al-Bayt) as integral to faith",
-      "explanation": "While both traditions agree the verse describes humiliation for rejecting truth, Shia exegetes like Al-Qummi and Tabatabai incorporate the concept of walaya (allegiance to the Ahl al-Bayt) as integral to true faith. Al-Qummi's Tafsir interprets the verse as addressing those who denied both prophetic messages and the Imams' authority."
+      "correctAnswer": "C",
+      "explanation": "Imam al-Razi in Mafatih al-Ghayb argued that the sky does not hold itself through any force inherent to matter but through the ongoing sustaining will of Allah — a position directed against materialist thinking. Wahbah al-Zuhayli in al-Tafsir al-Munir further noted that modern astrophysics exponentially deepens rather than diminishes the wonder of 'how it was raised.'"
     },
     {
       "id": "88_10",
+      "type": "trueFalse",
+      "layer": 1,
+      "verseNumber": 21,
+      "question": "True or False: According to the tafsir of verses 21-22, the Prophet Muhammad's role toward those who rejected the message was that of a 'musaytir' — a coercive controller who was authorized to compel people into faith.",
+      "options": null,
+      "correctAnswer": "false",
+      "explanation": "Verse 22 explicitly negates this: 'You are not over them a musaytir (controller).' Ibn Abbas, Mujahid, Qatadah, and al-Hasan al-Basri all confirmed that musaytir means one who compels by force. The Prophet's authority was spiritual and moral — his mission was fulfilled by sincere, persistent communication of truth, never by coercion of the heart."
+    },
+    {
+      "id": "88_11",
       "type": "multipleChoice",
-      "layer": 5,
-      "verseNumber": 26,
-      "question": "According to both Sunni (Al-Tabari) and Shia (Al-Tabrisi) scholars, what is the core message of verse 26 about divine accountability?",
+      "layer": 2,
+      "verseNumber": 24,
+      "question": "Ibn Kathir and Imam al-Tabari both distinguished 'al-adhab al-akbar' (the greatest punishment, verse 24) from a lesser punishment. What did they identify as the lesser punishment?",
       "options": [
-        "Humans will judge each other on the Day of Judgment",
-        "Angels have authority over the final reckoning",
-        "God's absolute sovereignty over the final judgment and His omniscience in evaluating human deeds",
-        "There is no accountability after death"
+        "A) The punishment of the grave, which is the greatest form of suffering before resurrection",
+        "B) The punishment reserved for minor sins, which is always forgiven before the Day of Judgment",
+        "C) Worldly trials, calamities, and hardships — including the torments of the grave — which precede the final Hellfire",
+        "D) The punishment given to disbelievers on the Day of Judgment before they are sent to Hellfire"
       ],
-      "correctAnswer": "God's absolute sovereignty over the final judgment and His omniscience in evaluating human deeds",
-      "explanation": "Both Al-Tabari (Sunni) and Al-Tabrisi (Shia) universally affirm the verse's core message: God's absolute sovereignty over the final judgment and His omniscience in evaluating human deeds. This declaration reassures believers of divine justice while emphasizing that ultimate accountability rests with Allah alone."
+      "correctAnswer": "C",
+      "explanation": "Ibn Kathir, drawing on Ibn Abbas and Mujahid, explained that al-adhab al-akbar refers to the eternal torment of Hellfire in the Hereafter, while al-adhab al-adna in Surah al-Sajda 32:21 refers to worldly calamities and the torments of the grave. This distinction gives believers an important perspective: any worldly suffering, however severe, is categorically 'lesser' than what awaits willful rejection."
+    },
+    {
+      "id": "88_12",
+      "type": "multipleChoice",
+      "layer": 3,
+      "verseNumber": 26,
+      "question": "Al-Razi identified a structural connection linking verse 26 back to verse 1. Ibn Ashur also described the surah as a complete rhetorical syllogism ending with verse 26. What is this closing declaration, and how does it complete the surah's argument?",
+      "options": [
+        "A) Verse 26 repeats the opening question about the Overwhelming, forming a circular structure that suggests the Day of Judgment is ever-present",
+        "B) Verse 26 declares that the final reckoning belongs entirely to Allah, completing the surah's movement from the opening news of the Overwhelming to the certainty of divine accountability",
+        "C) Verse 26 addresses the Prophet directly and grants him authority over the reckoning as a reward for his perseverance",
+        "D) Verse 26 shifts attention to the angels who record deeds, implying the reckoning is delegated rather than directly divine"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Al-Razi in Mafatih al-Ghayb observed that the surah creates a structural chiasm: it opens asking 'has the news of the Overwhelming reached you?' and closes with 'their reckoning is upon Us,' framing the whole as a meditation on accountability. Ibn Ashur in al-Tahrir wa al-Tanwir described the surah's logic as: signs of creation establish divine power, reminding is the Messenger's duty, rejection has consequences, and the final adjudication belongs entirely to Allah."
     }
   ]
 }
