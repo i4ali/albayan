@@ -112,4 +112,20 @@ tiktok_videos/
 verse_art/
 ui_variants/
 
-design_handoff_rosewater_theme/
+design_handoff_*/
+
+# Audit artifacts (local-only)
+.audit-tmp/
+*_audit.md
+
+# Browser/MCP tooling cache
+.playwright-mcp/
+
+# Debug screenshots in repo root
+/bookmark-query-result.png
+/cloudkit-query-result.png
+/indexes-page.png
+/records-page-2.png
+
+# Local-only screenshot pipeline output (App Store / device captures)
+screenshots/

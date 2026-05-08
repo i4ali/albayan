@@ -30,8 +30,16 @@ class PremiumManager: ObservableObject {
             guard case .verified(let transaction) = result else { continue }
             if transaction.productID == productID, transaction.revocationDate == nil {
                 found = true
+                print("🌟 PREMIUM USER — entitlement active. productID=\(transaction.productID) " +
+                      "txID=\(transaction.id) originalTxID=\(transaction.originalID) " +
+                      "env=\(transaction.environment.rawValue) " +
+                      "ownership=\(transaction.ownershipType.rawValue) " +
+                      "purchaseDate=\(transaction.purchaseDate)")
                 break
             }
+        }
+        if !found {
+            print("🆓 FREE USER — no premium entitlement on the signed-in App Store account.")
         }
         isPremium = found
     }

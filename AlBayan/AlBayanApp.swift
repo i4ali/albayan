@@ -12,6 +12,7 @@ import UserNotifications
 @main
 struct AlBayanApp: App {
     @StateObject private var notificationManager = NotificationManager.shared
+    @Environment(\.scenePhase) private var scenePhase
 
     let container: ModelContainer = {
         let schema = Schema([
@@ -44,6 +45,14 @@ struct AlBayanApp: App {
                 }
         }
         .modelContainer(container)
+        .onChange(of: scenePhase) { _, newPhase in
+            // Re-derive premium status when the app returns to the foreground.
+            // Catches the case where the user signs into their Apple Account
+            // (or switches accounts) in Settings while the app is backgrounded.
+            if newPhase == .active {
+                Task { await PremiumManager.shared.refreshFromStoreKit() }
+            }
+        }
     }
     
     private func handleDeepLink(_ url: URL) {

@@ -85,7 +85,7 @@ class PurchaseManager: ObservableObject {
                 await transaction.finish()
 
                 purchaseSuccess = true
-                print("✅ Purchase successful!")
+                print("✅ Purchase successful! \(Self.describe(transaction))")
 
             case .userCancelled:
                 print("ℹ️ User cancelled purchase")
@@ -148,7 +148,7 @@ class PurchaseManager: ObservableObject {
                 let transaction = try checkVerified(result)
 
                 if transaction.productID == productID {
-                    print("✅ Premium entitlement verified via StoreKit")
+                    print("✅ Premium entitlement verified via StoreKit \(Self.describe(transaction))")
                     return true
                 }
             } catch {
@@ -173,6 +173,19 @@ class PurchaseManager: ObservableObject {
         }
     }
 
+    /// Builds a single-line fingerprint of a StoreKit transaction so logs can be
+    /// correlated to a specific App Store account. Apple does not expose the
+    /// signed-in Apple ID — `originalID` is the stablest proxy: it is identical
+    /// across reinstalls and devices for the same (Apple ID, product) pair.
+    nonisolated fileprivate static func describe(_ t: Transaction) -> String {
+        return "productID=\(t.productID) " +
+               "txID=\(t.id) " +
+               "originalTxID=\(t.originalID) " +
+               "env=\(t.environment.rawValue) " +
+               "ownership=\(t.ownershipType.rawValue) " +
+               "purchaseDate=\(t.purchaseDate)"
+    }
+
     private func listenForTransactions() -> Task<Void, Error> {
         return Task.detached {
             // Listen for transaction updates
@@ -186,7 +199,7 @@ class PurchaseManager: ObservableObject {
                     // Finish the transaction
                     await transaction.finish()
 
-                    print("✅ Transaction update processed: \(transaction.productID)")
+                    print("✅ Transaction update processed \(PurchaseManager.describe(transaction))")
                 } catch {
                     print("❌ Transaction update failed: \(error)")
                 }

@@ -38,7 +38,7 @@ def log(message: str):
         pass  # Silently fail if logging fails
 
 # Required Arabic layer keys (Arabic-only output format)
-REQUIRED_ARABIC_LAYERS = {"layer1_ar", "layer2_ar", "layer3_ar", "layer4_ar", "layer5_ar"}
+REQUIRED_ARABIC_LAYERS = {"layer1_ar", "layer2_ar", "layer3_ar"}
 
 # Common typos to detect
 TYPO_PATTERNS = [

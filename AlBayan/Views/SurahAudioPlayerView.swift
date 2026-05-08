@@ -69,6 +69,16 @@ struct SurahAudioPlayerView: View {
                             .foregroundColor(themeManager.tertiaryText)
                     }
                     
+                    // Close button
+                    Button(action: {
+                        audioManager.stop()
+                    }) {
+                        Image(systemName: "xmark")
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundColor(themeManager.secondaryText)
+                            .frame(width: 28, height: 28)
+                    }
+
                     // Expand button
                     Button(action: {
                         withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {

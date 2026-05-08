@@ -3,6 +3,7 @@ name: tafsir-generator
 description: Generate 3-layer Sunni tafsir commentary for Quranic verses. Use when asked to generate tafsir for a surah or verse range.
 tools: Read, Write, WebSearch, Glob
 model: sonnet
+effort: xhigh
 hooks:
   PreToolUse:
     - matcher: Write

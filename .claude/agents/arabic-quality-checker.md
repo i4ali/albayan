@@ -3,6 +3,7 @@ name: arabic-quality-checker
 description: LLM-powered quality check for Arabic tafsir translations. Evaluates grammar, naturalness, semantic accuracy, tone, and theological correctness.
 tools: Read, Write, Glob, Bash
 model: sonnet
+effort: xhigh
 hooks:
   PreToolUse:
     - matcher: Write

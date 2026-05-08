@@ -114,24 +114,35 @@ struct QuickOverviewView: View {
                     .padding(.top, 12)
                     .padding(.bottom, 16)
 
-                ScrollView {
-                    VStack(spacing: 24) {
-                        // Header
-                        headerView
+                GeometryReader { geometry in
+                    ScrollView {
+                        VStack(spacing: 0) {
+                            Spacer(minLength: 0)
 
-                        // Arabic verse with concept bubbles
-                        arabicVerseSection
+                            VStack(spacing: 24) {
+                                // Header
+                                headerView
 
-                        // Language selector
-                        languageSelectorView
+                                // Arabic verse with concept bubbles
+                                arabicVerseSection
 
-                        // Full tafsir button (hide when detail is shown)
-                        if !showConceptDetail {
-                            fullTafsirButton
+                                // Language selector
+                                languageSelectorView
+
+                                // Full tafsir button (hide when detail is shown)
+                                if !showConceptDetail {
+                                    fullTafsirButton
+                                }
+                            }
+
+                            Spacer(minLength: 0)
                         }
+                        .padding(.horizontal, 24)
+                        .padding(.bottom, showConceptDetail ? 280 : 40)
+                        .frame(minHeight: geometry.size.height)
+                        .frame(maxWidth: isIPad ? 600 : .infinity)
+                        .frame(maxWidth: .infinity)
                     }
-                    .padding(.horizontal, 24)
-                    .padding(.bottom, showConceptDetail ? 280 : 40)
                 }
             }
             .background(backgroundView)
@@ -155,12 +166,12 @@ struct QuickOverviewView: View {
                         }
                     }
                 )
+                .frame(maxWidth: isIPad ? 600 : .infinity)
                 .transition(.move(edge: .bottom).combined(with: .opacity))
             }
         }
         .presentationDetents([.large])
         .presentationDragIndicator(.hidden)
-        .frame(maxWidth: isIPad ? 600 : nil)
     }
 
     // MARK: - Header

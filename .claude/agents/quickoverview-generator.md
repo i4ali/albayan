@@ -3,6 +3,7 @@ name: quickoverview-generator
 description: Generate Quick Overview data with concept bubbles for Quranic verses. Use when asked to generate quickOverview for a surah or verse range.
 tools: Read, Write, WebSearch, Glob, Bash
 model: sonnet
+effort: xhigh
 hooks:
   PreToolUse:
     - matcher: Write

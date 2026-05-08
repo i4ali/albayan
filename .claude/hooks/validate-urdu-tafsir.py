@@ -38,7 +38,7 @@ def log(message: str):
         pass  # Silently fail if logging fails
 
 # Required Urdu layer keys (Urdu-only output format)
-REQUIRED_URDU_LAYERS = {"layer1_urdu", "layer2_urdu", "layer3_urdu", "layer4_urdu", "layer5_urdu"}
+REQUIRED_URDU_LAYERS = {"layer1_urdu", "layer2_urdu", "layer3_urdu"}
 
 # Common typos to detect
 TYPO_PATTERNS = [
