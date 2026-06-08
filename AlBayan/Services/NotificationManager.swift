@@ -221,6 +221,11 @@ class NotificationManager: ObservableObject {
         for dayOffset in 0..<7 {
             await scheduleNotification(for: dayOffset)
         }
+
+        // Re-arm the Day of Arafah reminder so it survives daily reschedules
+        if IslamicCalendarManager.shared.isHajjSeason() {
+            await scheduleArafahReminder()
+        }
     }
 
     /// Schedule a notification for a specific day offset
@@ -384,6 +389,59 @@ class NotificationManager: ObservableObject {
             print("✅ NotificationManager: Streak reminder scheduled")
         } catch {
             print("❌ NotificationManager: Error scheduling streak reminder - \(error)")
+        }
+    }
+
+    /// Schedule a single local notification for the Day of Arafah (9 Dhul-Hijjah)
+    /// at the user's preferred time. Does NOT request permission — only schedules
+    /// if already authorized. Deep-links to Quran 2:198 via the .navigateToVerse path.
+    @MainActor
+    func scheduleArafahReminder() async {
+        // Only if already authorized — never prompt from here
+        let settings = await notificationCenter.notificationSettings()
+        guard settings.authorizationStatus == .authorized else { return }
+
+        let calendar = IslamicCalendarManager.shared
+        let hijriYear = calendar.currentIslamicYear()
+
+        // Resolve 9 Dhul-Hijjah of the current Hijri year to a Gregorian date
+        var comps = DateComponents()
+        comps.year = hijriYear
+        comps.month = 12
+        comps.day = 9
+        guard let arafahDay = calendar.islamicCalendar.date(from: comps) else { return }
+
+        // Apply the user's preferred notification time
+        let timeComponents = Calendar.current.dateComponents([.hour, .minute], from: preferences.time)
+        var fireComponents = Calendar.current.dateComponents([.year, .month, .day], from: arafahDay)
+        fireComponents.hour = timeComponents.hour
+        fireComponents.minute = timeComponents.minute
+
+        // Skip if it has already passed this year
+        if let fireDate = Calendar.current.date(from: fireComponents), fireDate <= Date() {
+            return
+        }
+
+        let content = UNMutableNotificationContent()
+        content.title = "Day of Arafah 🤲"
+        content.body = "Today is the Day of Arafah — the best day of the year for du'a and seeking forgiveness. Tap to continue your Dhul-Hijjah Journey."
+        content.sound = .default
+        content.badge = 1
+        content.categoryIdentifier = "ARAFAH_REMINDER"
+        content.userInfo = ["surah": 2, "verse": 198]
+
+        let trigger = UNCalendarNotificationTrigger(dateMatching: fireComponents, repeats: false)
+        let request = UNNotificationRequest(
+            identifier: "arafah_reminder_\(hijriYear)",
+            content: content,
+            trigger: trigger
+        )
+
+        do {
+            try await notificationCenter.add(request)
+            print("✅ NotificationManager: Arafah reminder scheduled for \(fireComponents)")
+        } catch {
+            print("❌ NotificationManager: Error scheduling Arafah reminder - \(error)")
         }
     }
 

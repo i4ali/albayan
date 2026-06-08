@@ -1,0 +1,195 @@
+{
+  "_note": "PENDING SUNNI SCHOLAR REVIEW before ship — verify all dua Arabic/transliteration/source (esp. Days 3, 4, 9) and tafsirFocus. Schema must match HajjJourneyData; only the `days` array is decoded.",
+  "days": [
+    {
+      "id": "day1",
+      "dayNumber": 1,
+      "theme": "The Blessed Ten",
+      "themeArabic": "العَشْرُ المُبارَكَة",
+      "icon": "calendar.badge.exclamationmark",
+      "dua": {
+        "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+        "transliteration": "Allahu akbar, Allahu akbar, la ilaha illa-llah, wa-llahu akbar, Allahu akbar, wa lillahi-l-hamd",
+        "english": "Allah is the Greatest, Allah is the Greatest. There is no god but Allah. Allah is the Greatest, Allah is the Greatest, and to Allah belongs all praise.",
+        "source": "Sunnah — abundant takbir, tahlil and tahmid in these ten days (narrated from Ibn Umar & Abu Hurayrah RA; cf. Sahih al-Bukhari, Book of the Two Eids)"
+      },
+      "verses": [
+        { "id": "h1v1", "surahNumber": 89, "verseNumber": 2, "relevanceNote": "\"And by the ten nights\" — Allah swears by these days, a sign of their immense rank." },
+        { "id": "h1v2", "surahNumber": 22, "verseNumber": 28, "relevanceNote": "\"That they may witness benefits for themselves and mention the name of Allah on appointed days.\"" }
+      ],
+      "tafsirFocus": "Reflect on why Allah swears by 'the ten nights' (al-Qurtubi, Ibn Kathir: the ten days of Dhul-Hijjah). The Prophet ﷺ said no days are more beloved to Allah for righteous deeds than these — so front-load them with worship.",
+      "reflection": "These ten days will pass quickly. What is the one act of worship you commit to increasing every day until Eid?"
+    },
+    {
+      "id": "day2",
+      "dayNumber": 2,
+      "theme": "Remembrance",
+      "themeArabic": "الذِّكْر",
+      "icon": "sparkles",
+      "dua": {
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "transliteration": "Subhana-llahi wa bihamdih, subhana-llahi-l-'azim",
+        "english": "Glory be to Allah and praise Him; glory be to Allah the Magnificent.",
+        "source": "Sahih al-Bukhari & Muslim (from Abu Hurayrah RA)"
+      },
+      "verses": [
+        { "id": "h2v1", "surahNumber": 33, "verseNumber": 41, "relevanceNote": "\"O you who believe, remember Allah with much remembrance.\"" },
+        { "id": "h2v2", "surahNumber": 13, "verseNumber": 28, "relevanceNote": "\"Verily, in the remembrance of Allah do hearts find rest.\"" }
+      ],
+      "tafsirFocus": "Dhikr is the lightest deed on the tongue yet heaviest on the scale. In these ten days the Sunnah is to multiply tasbih, tahmid, tahlil and takbir — connect this to the hearts-at-rest of 13:28.",
+      "reflection": "Pick one dhikr and tie it to a daily trigger (after each prayer, every commute). Consistency over intensity."
+    },
+    {
+      "id": "day3",
+      "dayNumber": 3,
+      "theme": "Repentance",
+      "themeArabic": "التَّوْبَة",
+      "icon": "arrow.counterclockwise",
+      "dua": {
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+        "transliteration": "Allahumma anta rabbi la ilaha illa anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika ma-stata't, a'udhu bika min sharri ma sana't, abu'u laka bi-ni'matika 'alayya, wa abu'u bi-dhanbi fa-ghfir li, fa-innahu la yaghfiru-dh-dhunuba illa anta",
+        "english": "O Allah, You are my Lord, there is no god but You. You created me and I am Your servant; I keep Your covenant and promise as much as I can. I seek refuge in You from the evil I have done; I acknowledge Your favour upon me and I confess my sin, so forgive me, for none forgives sins but You.",
+        "source": "Sayyid al-Istighfar — Sahih al-Bukhari (from Shaddad ibn Aws RA)"
+      },
+      "verses": [
+        { "id": "h3v1", "surahNumber": 39, "verseNumber": 53, "relevanceNote": "\"Do not despair of the mercy of Allah; indeed Allah forgives all sins.\"" },
+        { "id": "h3v2", "surahNumber": 66, "verseNumber": 8, "relevanceNote": "\"Turn to Allah in sincere repentance.\"" }
+      ],
+      "tafsirFocus": "Sayyid al-Istighfar is the master supplication of seeking forgiveness (Bukhari): whoever says it with conviction by day and dies that day enters Paradise. Pair its admission of sin with the open door of 39:53.",
+      "reflection": "Name one sin you keep returning to. What concrete barrier will you put between yourself and it before Eid?"
+    },
+    {
+      "id": "day4",
+      "dayNumber": 4,
+      "theme": "Pure Monotheism",
+      "themeArabic": "التَّوْحِيد",
+      "icon": "circle.hexagongrid.fill",
+      "dua": {
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "La ilaha illa-llahu wahdahu la sharika lah, lahu-l-mulku wa lahu-l-hamd, wa huwa 'ala kulli shay'in qadir",
+        "english": "There is no god but Allah alone, with no partner. His is the dominion and His is all praise, and He is over all things capable.",
+        "source": "Sahih al-Bukhari & Muslim (from Abu Hurayrah RA — said one hundred times a day)"
+      },
+      "verses": [
+        { "id": "h4v1", "surahNumber": 112, "verseNumber": 1, "relevanceNote": "\"Say: He is Allah, the One.\"" },
+        { "id": "h4v2", "surahNumber": 2, "verseNumber": 163, "relevanceNote": "\"And your God is one God; there is no god but He, the Most Merciful, the Bestower of mercy.\"" }
+      ],
+      "tafsirFocus": "Tawhid is the substance of the talbiyah pilgrims raise (\"labbayk... la sharika lak\"). Whoever says this tahlil 100x has a reward like freeing ten slaves (Bukhari/Muslim) — make these days a season of pure tawhid.",
+      "reflection": "Where in your life does something other than Allah quietly compete for your ultimate trust or fear?"
+    },
+    {
+      "id": "day5",
+      "dayNumber": 5,
+      "theme": "Sacrifice & Charity",
+      "themeArabic": "الإيثار",
+      "icon": "hands.and.sparkles.fill",
+      "dua": {
+        "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+        "transliteration": "Rabbana taqabbal minna innaka anta-s-Sami'u-l-'Alim",
+        "english": "Our Lord, accept this from us. Indeed, You are the All-Hearing, the All-Knowing.",
+        "source": "Quran 2:127 — the supplication of Ibrahim and Isma'il (peace be upon them) while raising the Ka'bah"
+      },
+      "verses": [
+        { "id": "h5v1", "surahNumber": 22, "verseNumber": 37, "relevanceNote": "\"It is neither their flesh nor their blood that reaches Allah, but it is your piety that reaches Him.\"" },
+        { "id": "h5v2", "surahNumber": 2, "verseNumber": 177, "relevanceNote": "True righteousness is to give wealth, despite love for it, to kin, orphans, the needy and the traveller." }
+      ],
+      "tafsirFocus": "22:37 reframes the udhiyah: the goal is taqwa, not the meat. Ibn Kathir notes Allah looks at sincerity, not quantity. Connect sacrifice to everyday charity in 2:177.",
+      "reflection": "Beyond the Eid sacrifice, what is one thing you love that you can give away for Allah's sake this week?"
+    },
+    {
+      "id": "day6",
+      "dayNumber": 6,
+      "theme": "The Submission of Ibrahim",
+      "themeArabic": "تَسْلِيمُ إِبْرَاهِيم",
+      "icon": "flame.fill",
+      "dua": {
+        "arabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+        "transliteration": "Rabbi hab li mina-s-salihin",
+        "english": "My Lord, grant me a righteous offspring.",
+        "source": "Quran 37:100 — the supplication of Prophet Ibrahim (peace be upon him)"
+      },
+      "verses": [
+        { "id": "h6v1", "surahNumber": 37, "verseNumber": 102, "relevanceNote": "Ibrahim's dream to sacrifice his son, and Isma'il's reply: \"Do as you are commanded; you will find me patient.\"" },
+        { "id": "h6v2", "surahNumber": 37, "verseNumber": 107, "relevanceNote": "\"And We ransomed him with a great sacrifice\" — the origin of the Eid udhiyah." }
+      ],
+      "tafsirFocus": "37:102–107 is the heart of Hajj's meaning: total submission. Ibn Kathir: Ibrahim and Isma'il submitted before the ransom came. Reflect on obeying first, understanding later.",
+      "reflection": "What command of Allah do you delay because you do not yet 'feel' it? Where is your Ibrahim moment?"
+    },
+    {
+      "id": "day7",
+      "dayNumber": 7,
+      "theme": "The Call of Hajj",
+      "themeArabic": "نِدَاءُ الحَجّ",
+      "icon": "figure.walk.circle.fill",
+      "dua": {
+        "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+        "transliteration": "Labbayka-llahumma labbayk, labbayka la sharika laka labbayk, inna-l-hamda wa-n-ni'mata laka wa-l-mulk, la sharika lak",
+        "english": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am. Truly all praise, grace and dominion are Yours; You have no partner.",
+        "source": "The Talbiyah — Sahih al-Bukhari & Muslim (from Ibn Umar RA)"
+      },
+      "verses": [
+        { "id": "h7v1", "surahNumber": 22, "verseNumber": 27, "relevanceNote": "\"And proclaim to mankind the Hajj; they will come to you on foot and on every lean camel.\"" },
+        { "id": "h7v2", "surahNumber": 3, "verseNumber": 97, "relevanceNote": "\"Pilgrimage to the House is a duty owed to Allah by all who can find a way to it.\"" }
+      ],
+      "tafsirFocus": "22:27: Ibrahim called and the answer still echoes in every talbiyah. Ibn Kathir relays that the talbiyah is the response to that ancient call. Even if not on Hajj, answer with longing.",
+      "reflection": "Say the talbiyah aloud. What would it mean to live the rest of today as if you were truly answering a call?"
+    },
+    {
+      "id": "day8",
+      "dayNumber": 8,
+      "theme": "Day of Tarwiyah",
+      "themeArabic": "يَوْمُ التَّرْوِيَة",
+      "icon": "drop.fill",
+      "dua": {
+        "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى",
+        "transliteration": "Allahumma inna nas'aluka fi safarina hadha-l-birra wa-t-taqwa, wa mina-l-'amali ma tarda",
+        "english": "O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that please You.",
+        "source": "Sahih Muslim (the Prophet's ﷺ supplication for travel, from Ibn Umar RA)"
+      },
+      "verses": [
+        { "id": "h8v1", "surahNumber": 2, "verseNumber": 197, "relevanceNote": "\"And take provision; but the best provision is taqwa (God-consciousness).\"" },
+        { "id": "h8v2", "surahNumber": 2, "verseNumber": 196, "relevanceNote": "\"And complete the Hajj and 'Umrah for Allah.\"" }
+      ],
+      "tafsirFocus": "On 8 Dhul-Hijjah (Tarwiyah) pilgrims set out for Mina. 2:197 names the real luggage: taqwa. Whether travelling or not, prepare provisions for the greater journey to Allah.",
+      "reflection": "If taqwa is the only provision that arrives with you, what did you pack today?"
+    },
+    {
+      "id": "day9",
+      "dayNumber": 9,
+      "theme": "The Day of Arafah",
+      "themeArabic": "يَوْمُ عَرَفَة",
+      "icon": "mountain.2.fill",
+      "dua": {
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "La ilaha illa-llahu wahdahu la sharika lah, lahu-l-mulku wa lahu-l-hamd, wa huwa 'ala kulli shay'in qadir",
+        "english": "There is no god but Allah alone, with no partner. His is the dominion and His is all praise, and He is over all things capable.",
+        "source": "Jami' at-Tirmidhi & Muwatta Malik — \"The best supplication is the supplication of the Day of Arafah\""
+      },
+      "verses": [
+        { "id": "h9v1", "surahNumber": 2, "verseNumber": 198, "relevanceNote": "\"When you depart from Arafat, remember Allah at al-Mash'ar al-Haram.\"" },
+        { "id": "h9v2", "surahNumber": 7, "verseNumber": 55, "relevanceNote": "\"Call upon your Lord humbly and in secret; He does not love the transgressors.\"" }
+      ],
+      "tafsirFocus": "The Prophet ﷺ said the best supplication is that of the Day of Arafah, and the best he and the Prophets said is this tahlil (Tirmidhi). Fasting Arafah expiates two years (Muslim). Devote this day to du'a and istighfar.",
+      "reflection": "Arafah is the day of accepted du'a. Write down the three things you most need from Allah and ask Him with certainty."
+    },
+    {
+      "id": "day10",
+      "dayNumber": 10,
+      "theme": "Eid al-Adha",
+      "themeArabic": "عِيدُ الأَضْحَى",
+      "icon": "moon.stars.fill",
+      "dua": {
+        "arabic": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+        "transliteration": "Allahu akbar Allahu akbar, la ilaha illa-llah, wa-llahu akbar Allahu akbar, wa lillahi-l-hamd",
+        "english": "Allah is the Greatest, Allah is the Greatest. There is no god but Allah. Allah is the Greatest, Allah is the Greatest, and to Allah belongs all praise.",
+        "source": "Sunnah — Takbir of Eid al-Adha and the days of Tashriq (reported from Ali & Ibn Mas'ud RA; cf. Sahih al-Bukhari, Book of the Two Eids)"
+      },
+      "verses": [
+        { "id": "h10v1", "surahNumber": 108, "verseNumber": 2, "relevanceNote": "\"So pray to your Lord and sacrifice.\"" },
+        { "id": "h10v2", "surahNumber": 22, "verseNumber": 34, "relevanceNote": "\"For every nation We appointed a rite of sacrifice, that they may mention the name of Allah.\"" }
+      ],
+      "tafsirFocus": "108:2 joins prayer and sacrifice as one act of devotion. Ibn Kathir: this is the Eid prayer and the udhiyah. Let the takbir fill these days of Tashriq with gratitude, not just celebration.",
+      "reflection": "The journey ends with sacrifice and takbir. What did these ten days change in you that you will carry into the rest of the year?"
+    }
+  ]
+}

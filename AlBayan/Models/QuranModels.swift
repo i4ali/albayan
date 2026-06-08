@@ -738,6 +738,7 @@ enum BadgeType: String, Codable {
     case streak30 = "streak_30"
     case streak100 = "streak_100"
     case ramadanCompletion = "ramadan_completion"
+    case hajjCompletion = "hajj_completion"
 
     var title: String {
         switch self {
@@ -750,6 +751,7 @@ enum BadgeType: String, Codable {
         case .streak30: return "Sahib al-Wird"
         case .streak100: return "Mukhlis"
         case .ramadanCompletion: return "Ramadan Champion"
+        case .hajjCompletion: return "Hajj Champion"
         }
     }
 
@@ -764,6 +766,7 @@ enum BadgeType: String, Codable {
         case .streak30: return "صاحب الورد"
         case .streak100: return "المخلص"
         case .ramadanCompletion: return "بطل رمضان"
+        case .hajjCompletion: return "بطل الحج"
         }
     }
 
@@ -778,6 +781,7 @@ enum BadgeType: String, Codable {
         case .streak30: return "sparkles"
         case .streak100: return "crown.fill"
         case .ramadanCompletion: return "moon.stars.fill"
+        case .hajjCompletion: return "building.columns.fill"
         }
     }
 
@@ -792,6 +796,7 @@ enum BadgeType: String, Codable {
         case .streak30: return "green"
         case .streak100: return "purple"
         case .ramadanCompletion: return "gold"
+        case .hajjCompletion: return "gold"
         }
     }
 
@@ -815,6 +820,8 @@ enum BadgeType: String, Codable {
             return "The Devoted One - 100 days of dedicated spiritual practice"
         case .ramadanCompletion:
             return "Completed the entire 30-day Ramadan Journey"
+        case .hajjCompletion:
+            return "Completed the entire 10-day Dhul-Hijjah Journey"
         }
     }
 
@@ -829,6 +836,7 @@ enum BadgeType: String, Codable {
         case .streak30: return 3000
         case .streak100: return 10000
         case .ramadanCompletion: return 500
+        case .hajjCompletion: return 500
         }
     }
 
@@ -842,6 +850,8 @@ enum BadgeType: String, Codable {
             return "Make a habit of doing good deeds, for the most beloved deed to Allah is the most regular one, even if it is small. - Imam Ali (AS)"
         case .ramadanCompletion:
             return "Whoever fasts Ramadan out of faith and seeking reward, his previous sins will be forgiven. - Prophet Muhammad (PBUH)"
+        case .hajjCompletion:
+            return "There are no days in which righteous deeds are more beloved to Allah than these ten days. - Prophet Muhammad (PBUH)"
         default:
             return nil
         }
@@ -1300,5 +1310,65 @@ struct RamadanJourneyProgress: Codable {
 
     var isCompleted: Bool {
         completedDays.count >= 30
+    }
+}
+
+// MARK: - Hajj (Dhul-Hijjah) Journey Models
+
+struct HajjJourneyData: Codable {
+    let days: [HajjDay]
+}
+
+struct HajjDay: Codable, Identifiable {
+    let id: String
+    let dayNumber: Int
+    let theme: String
+    let themeArabic: String
+    let icon: String
+    let dua: HajjDua
+    let verses: [HajjVerse]
+    let tafsirFocus: String
+    let reflection: String
+}
+
+struct HajjDua: Codable {
+    let arabic: String
+    let transliteration: String
+    let english: String
+    let source: String?
+}
+
+struct HajjVerse: Codable, Identifiable {
+    let id: String
+    let surahNumber: Int
+    let verseNumber: Int
+    let relevanceNote: String
+
+    var verseReference: String {
+        "Quran \(surahNumber):\(verseNumber)"
+    }
+}
+
+struct HajjJourneyProgress: Codable {
+    var completedDays: Set<Int>
+    var lastCompletedDate: Date?
+    var year: Int
+
+    init(
+        completedDays: Set<Int> = [],
+        lastCompletedDate: Date? = nil,
+        year: Int = 0
+    ) {
+        self.completedDays = completedDays
+        self.lastCompletedDate = lastCompletedDate
+        self.year = year
+    }
+
+    var completionPercentage: Double {
+        Double(completedDays.count) / 10.0
+    }
+
+    var isCompleted: Bool {
+        completedDays.count >= 10
     }
 }

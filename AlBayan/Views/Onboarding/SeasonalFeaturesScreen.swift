@@ -118,18 +118,18 @@ struct SeasonalFeaturesScreen: View {
                     delay: 0
                 )
 
-                // Future seasons - expanded
+                // Dhul-Hijjah Journey card - expanded
                 SeasonalFeatureExpandedCard(
-                    icon: "calendar.badge.clock",
-                    iconColors: [.blue, .indigo],
-                    title: "More Coming Soon",
-                    badge: "Future",
-                    badgeColor: .blue,
+                    icon: "building.columns.fill",
+                    iconColors: [.green, .teal],
+                    title: "Dhul-Hijjah Journey",
+                    badge: "Seasonal",
+                    badgeColor: .green,
                     features: [
-                        ("calendar", "Sacred month of Muharram & Ashura fasting"),
-                        ("mountain.2.fill", "Dhul-Hijjah & Hajj season"),
-                        ("sparkles", "Rajab & Sha'ban preparations"),
-                        ("star.fill", "Special nights & occasions")
+                        ("hands.sparkles.fill", "Daily du'a & dhikr for the ten blessed days"),
+                        ("book.pages.fill", "Curated verses for the best ten days of the year"),
+                        ("mountain.2.fill", "Day of Arafah reminder"),
+                        ("checkmark.circle.fill", "Track your 10-day journey")
                     ],
                     isVisible: showFeatureCards,
                     delay: 0.2
@@ -140,7 +140,7 @@ struct SeasonalFeaturesScreen: View {
             Spacer()
 
             // Bottom message
-            Text("The Ramadan tab appears automatically\nduring the blessed month")
+            Text("The seasonal tab appears automatically\nduring Ramadan and Dhul-Hijjah")
                 .font(.system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)

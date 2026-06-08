@@ -46,6 +46,9 @@ struct ContentView: View {
         .onAppear {
             checkFirstLaunch()
             ratingManager.recordAppLaunch()
+            if IslamicCalendarManager.shared.isHajjSeason() {
+                Task { await NotificationManager.shared.scheduleArafahReminder() }
+            }
         }
         .fullScreenCover(isPresented: $showingWelcome) {
             OnboardingFlowView()

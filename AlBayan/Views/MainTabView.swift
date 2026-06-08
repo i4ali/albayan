@@ -2,7 +2,7 @@
 //  MainTabView.swift
 //  AlBayan
 //
-//  Main TabView container with Home, Explore, Progress, and conditional Ramadan tabs
+//  Main TabView container with Home, Explore, Progress, and a conditional seasonal (Ramadan / Hajj) tab
 //
 
 import SwiftUI
@@ -14,6 +14,10 @@ struct MainTabView: View {
     // Check if Ramadan season is active
     private var isRamadanSeason: Bool {
         IslamicCalendarManager.shared.isRamadanSeason()
+    }
+
+    private var isHajjSeason: Bool {
+        IslamicCalendarManager.shared.isHajjSeason()
     }
 
     var body: some View {
@@ -56,6 +60,16 @@ struct MainTabView: View {
                             Text("Ramadan")
                         } icon: {
                             Image(systemName: "moon.stars.fill")
+                        }
+                    }
+                    .tag(3)
+            } else if isHajjSeason {
+                HajjJourneyView()
+                    .tabItem {
+                        Label {
+                            Text("Hajj")
+                        } icon: {
+                            Image(systemName: "building.columns.fill")
                         }
                     }
                     .tag(3)

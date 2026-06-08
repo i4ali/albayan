@@ -13,6 +13,7 @@ struct ProgressRingsStack: View {
     let quizProgress: Double       // Quizzes completed / 114
     let ramadanProgress: Double    // Ramadan days / 30
     let showRamadanRing: Bool
+    var seasonalLabel: String = "Ramadan"
 
     // Refined pastel category colors (matches Modern Light style guide)
     // Quran = Sage, Surahs = Dusty Rose, Quizzes = Muted Blue, Ramadan = Soft Amber
@@ -101,6 +102,7 @@ struct ProgressRingsStack: View {
 
 struct RingLegend: View {
     let showRamadanRing: Bool
+    var seasonalLabel: String = "Ramadan"
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
@@ -110,7 +112,7 @@ struct RingLegend: View {
             LegendItem(color: Color(hex: "90BCE1"), label: "Quizzes")
 
             if showRamadanRing {
-                LegendItem(color: Color(hex: "EBC078"), label: "Ramadan")
+                LegendItem(color: Color(hex: "EBC078"), label: seasonalLabel)
             }
         }
     }

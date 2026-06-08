@@ -12,12 +12,17 @@ struct ProgressRingsView: View {
     @StateObject private var quizManager = QuizManager.shared
     @StateObject private var themeManager = ThemeManager.shared
     @StateObject private var ramadanManager = RamadanJourneyManager.shared
+    @StateObject private var hajjManager = HajjJourneyManager.shared
 
     private let totalQuranVerses = 6236
     private let totalSurahs = 114
 
     private var isRamadanSeason: Bool {
         IslamicCalendarManager.shared.isRamadanSeason()
+    }
+
+    private var isHajjSeason: Bool {
+        IslamicCalendarManager.shared.isHajjSeason()
     }
 
     // Progress calculations
@@ -33,9 +38,11 @@ struct ProgressRingsView: View {
         Double(quizManager.completedSurahCount) / Double(totalSurahs)
     }
 
-    private var ramadanProgress: Double {
-        ramadanManager.completionPercentage
+    private var seasonalProgress: Double {
+        if isHajjSeason { return hajjManager.completionPercentage }
+        return ramadanManager.completionPercentage
     }
+    private var showSeasonalRing: Bool { isRamadanSeason || isHajjSeason }
 
     var body: some View {
         ScrollView {
@@ -47,7 +54,7 @@ struct ProgressRingsView: View {
                 ringsSection
 
                 // Ring Legend
-                RingLegend(showRamadanRing: isRamadanSeason)
+                RingLegend(showRamadanRing: showSeasonalRing, seasonalLabel: isHajjSeason ? "Hajj" : "Ramadan")
                     .padding(.top, WarmSpacing.small)
 
                 // Stats Grid
@@ -91,8 +98,9 @@ struct ProgressRingsView: View {
                 quranProgress: quranProgress,
                 surahProgress: surahProgress,
                 quizProgress: quizProgress,
-                ramadanProgress: ramadanProgress,
-                showRamadanRing: isRamadanSeason
+                ramadanProgress: seasonalProgress,
+                showRamadanRing: showSeasonalRing,
+                seasonalLabel: isHajjSeason ? "Hajj" : "Ramadan"
             )
             .padding(.vertical, WarmSpacing.large)
         }

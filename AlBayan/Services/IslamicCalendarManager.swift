@@ -200,6 +200,54 @@ class IslamicCalendarManager: ObservableObject {
         }
     }
 
+    // MARK: - Hajj (Dhul-Hijjah) Season Detection
+
+    /// Hajj window: last 5 days of Dhul-Qa'dah (countdown) + Dhul-Hijjah days 1–13.
+    /// Mutually exclusive with Ramadan season (months 8/9/10).
+    func isHajjSeason() -> Bool {
+        let month = currentIslamicMonth()
+        let day = currentIslamicDay()
+        switch month {
+        case 11: return day >= 25   // Dhul-Qa'dah lead-in
+        case 12: return day <= 13   // 10-day journey + Eid + Tashriq tail
+        default: return false
+        }
+    }
+
+    /// Current day of the 10-day journey (1–10), nil outside it.
+    func currentHajjDay() -> Int? {
+        guard currentIslamicMonth() == 12 else { return nil }
+        let day = currentIslamicDay()
+        return (1...10).contains(day) ? day : nil
+    }
+
+    /// Days until Dhul-Hijjah (only meaningful in Dhul-Qa'dah, month 11).
+    func daysUntilHajj() -> Int? {
+        guard currentIslamicMonth() == 11 else { return nil }
+        return max(0, 30 - currentIslamicDay() + 1)
+    }
+
+    /// Status line shown in the Hajj Journey header.
+    func hajjSeasonStatus() -> String {
+        let month = currentIslamicMonth()
+        let day = currentIslamicDay()
+        switch month {
+        case 11:
+            if let d = daysUntilHajj(), d > 0 {
+                return "\(d) day\(d == 1 ? "" : "s") until Dhul-Hijjah"
+            }
+            return "Dhul-Hijjah begins soon"
+        case 12:
+            if day == 9 { return "Day of Arafah" }
+            if day == 10 { return "Eid al-Adha Mubarak!" }
+            if day <= 10 { return "Day \(day) of Dhul-Hijjah" }
+            if day <= 13 { return "Eid al-Adha Mubarak!" }
+            return ""
+        default:
+            return ""
+        }
+    }
+
     // MARK: - Date Formatting
 
     /// Get full formatted date with both Gregorian and Islamic calendars

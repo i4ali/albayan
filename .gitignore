@@ -109,6 +109,8 @@ Carthage/Build/
 AlBayan/Config.swift 
 new_tafsir/
 tiktok_videos/
+tafsir_videos/
+tiktok_carousel/
 verse_art/
 ui_variants/
 
@@ -122,6 +124,7 @@ design_handoff_*/
 .playwright-mcp/
 
 # Debug screenshots in repo root
+/Screenshot*.png
 /bookmark-query-result.png
 /cloudkit-query-result.png
 /indexes-page.png
@@ -129,3 +132,6 @@ design_handoff_*/
 
 # Local-only screenshot pipeline output (App Store / device captures)
 screenshots/
+
+# Local Claude tooling assets (heavy base-video media)
+.claude/skills/generate-tafsir-video/

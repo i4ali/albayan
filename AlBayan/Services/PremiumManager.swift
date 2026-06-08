@@ -86,4 +86,9 @@ class PremiumManager: ObservableObject {
         if dayNumber == 1 { return true }
         return isPremium
     }
+
+    func canAccessHajjDay(_ dayNumber: Int) -> Bool {
+        if dayNumber == 1 { return true }
+        return isPremium
+    }
 }
