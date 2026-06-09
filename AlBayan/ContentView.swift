@@ -110,7 +110,7 @@ struct LoadingView: View {
             }
             .frame(height: 80)
             
-            Text("البيان")
+            Text("تفكّر")
                 .font(.system(size: 56, weight: .light, design: .default))
                 .foregroundColor(themeManager.primaryText)
                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.5), radius: 30)

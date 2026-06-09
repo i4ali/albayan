@@ -183,7 +183,7 @@ struct LayerCard: View {
         case .contemporary:
             return "Modern Islamic scholars provide fresh perspectives, addressing contemporary issues and scientific connections."
         case .comparative:
-            return "Unique to AlBayan: Balanced analysis comparing Sunni and Shia scholarly interpretations with academic integrity."
+            return "Unique to Tafakkur: Balanced analysis comparing Sunni and Shia scholarly interpretations with academic integrity."
         }
     }
 }

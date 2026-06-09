@@ -169,8 +169,18 @@ struct TodayView: View {
                     .padding(.vertical, 14)
                     .background(
                         RoundedRectangle(cornerRadius: 14, style: .continuous)
-                            .fill(themeManager.purpleGradient)
-                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 10, y: 4)
+                            .fill(themeManager.reminderGradient)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                    .fill(
+                                        RadialGradient(
+                                            colors: [Color.white.opacity(0.22), Color.clear],
+                                            center: .topTrailing, startRadius: 0, endRadius: 180
+                                        )
+                                    )
+                                    .blendMode(.softLight)
+                            )
+                            .shadow(color: themeManager.accentColorDark.opacity(0.35), radius: 12, y: 5)
                     )
                 }
                 .buttonStyle(PlainButtonStyle())

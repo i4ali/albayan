@@ -65,7 +65,7 @@ struct WelcomeView: View {
                             }
                             .frame(height: 100)
                             
-                            Text("البيان")
+                            Text("تفكّر")
                                 .font(.system(size: 64, weight: .light, design: .default))
                                 .foregroundColor(themeManager.primaryText)
                                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.6), radius: 25)
@@ -73,7 +73,7 @@ struct WelcomeView: View {
                         
                         // Welcome message
                         VStack(spacing: 16) {
-                            Text("Welcome to AlBayan")
+                            Text("Welcome to Tafakkur")
                                 .font(.system(size: 28, weight: .semibold))
                                 .foregroundColor(themeManager.primaryText)
                                 .multilineTextAlignment(.center)

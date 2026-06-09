@@ -34,7 +34,7 @@ struct MissionScreen: View {
                     }
 
                     // App icon representation with shimmer
-                    Text("البيان")
+                    Text("تفكّر")
                         .font(.system(size: 48, weight: .light, design: .default))
                         .foregroundColor(themeManager.primaryText)
                         .overlay(
@@ -53,7 +53,7 @@ struct MissionScreen: View {
                                 .blendMode(.overlay)
                             }
                             .mask(
-                                Text("البيان")
+                                Text("تفكّر")
                                     .font(.system(size: 48, weight: .light, design: .default))
                             )
                         )
