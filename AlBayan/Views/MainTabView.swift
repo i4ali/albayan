@@ -2,7 +2,7 @@
 //  MainTabView.swift
 //  AlBayan
 //
-//  Main TabView container with Home, Explore, Progress, and a permanent Journeys hub tab
+//  Main TabView container: Today, Quran, Explore, Progress, and the Journey hub.
 //
 
 import SwiftUI
@@ -13,52 +13,47 @@ struct MainTabView: View {
 
     var body: some View {
         TabView(selection: $selectedTab) {
-            HomeTab()
+            TodayTab()
                 .tabItem {
-                    Label {
-                        Text("Home")
-                    } icon: {
-                        Image(systemName: "house.fill")
-                    }
+                    Label { Text("Today") } icon: { Image(systemName: "sun.max") }
                 }
                 .tag(0)
 
-            ExploreTab()
+            HomeTab()
                 .tabItem {
-                    Label {
-                        Text("Explore")
-                    } icon: {
-                        Image(systemName: "sparkles")
-                    }
+                    Label { Text("Quran") } icon: { Image(systemName: "book") }
                 }
                 .tag(1)
 
-            ProgressTab()
+            ExploreTab()
                 .tabItem {
-                    Label {
-                        Text("Progress")
-                    } icon: {
-                        Image(systemName: "chart.pie.fill")
-                    }
+                    Label { Text("Explore") } icon: { Image(systemName: "sparkles") }
                 }
                 .tag(2)
 
-            // Permanent Journeys hub (lists every journey with live Hijri status).
-            JourneyHubView()
+            ProgressTab()
                 .tabItem {
-                    Label {
-                        Text("Journeys")
-                    } icon: {
-                        Image(systemName: "map.fill")
-                    }
+                    Label { Text("Progress") } icon: { Image(systemName: "chart.bar.fill") }
                 }
                 .tag(3)
+
+            // Permanent Journey hub (lists every journey with live Hijri status).
+            JourneyHubView()
+                .tabItem {
+                    Label { Text("Journey") } icon: { Image(systemName: "map") }
+                }
+                .tag(4)
         }
         .tint(themeManager.accentColor)
         .onReceive(NotificationCenter.default.publisher(for: .navigateToJourney)) { note in
             guard let journeyId = note.userInfo?["journey"] as? String else { return }
             DeepLinkRouter.shared.pendingJourneyId = journeyId
-            selectedTab = 3
+            selectedTab = 4
+        }
+        .onReceive(NotificationCenter.default.publisher(for: .navigateToVerse)) { _ in
+            // Verse deep-links (Today reminder/resume, notification inbox) route into the
+            // Quran tab, where HomeView performs the actual in-stack navigation.
+            selectedTab = 1
         }
     }
 }

@@ -225,6 +225,30 @@ class ThemeManager: ObservableObject {
         }
     }
 
+    /// Premium hero gradient for the Today "reminder" card. A deeper start plus a
+    /// hue-shifted rose endpoint give real value contrast and a duotone richness
+    /// that the flatter `purpleGradient` lacks. White text stays legible across it.
+    var reminderGradient: LinearGradient {
+        switch selectedTheme {
+        case .warmInviting:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.322, green: 0.255, blue: 0.569), // #524191 deep violet
+                    Color(red: 0.627, green: 0.424, blue: 0.573)  // #A06C92 orchid-rose
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing
+            )
+        case .rosewater:
+            return LinearGradient(
+                colors: [
+                    Color(red: 0.361, green: 0.239, blue: 0.439), // #5C3D70 royal plum
+                    Color(red: 0.659, green: 0.373, blue: 0.486)  // #A85F7C rose-mauve
+                ],
+                startPoint: .topLeading, endPoint: .bottomTrailing
+            )
+        }
+    }
+
     // MARK: - Material / Stroke
 
     /// Card-surface fill used in `.fill(themeManager.glassEffect)` call sites.

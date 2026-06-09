@@ -643,6 +643,20 @@ struct DailyVerseEntry: Codable, Identifiable {
     }
 }
 
+struct DailyDua: Codable, Identifiable {
+    let id: Int
+    let title: String
+    let category: String
+    let arabic: String
+    let transliteration: String
+    let english: String
+    let source: String
+}
+
+struct DailyDuaData: Codable {
+    let duas: [DailyDua]
+}
+
 struct NotificationPreferences: Codable {
     var enabled: Bool
     var time: Date

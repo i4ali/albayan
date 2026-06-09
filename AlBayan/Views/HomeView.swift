@@ -14,7 +14,6 @@ struct HomeView: View {
     @StateObject private var progressManager = ProgressManager.shared
     @State private var searchText = ""
     @State private var showingSettings = false
-    @State private var showingNotifications = false
     @State private var selectedSurahForDeepLink: SurahWithTafsir?
     @State private var targetVerseNumber: Int?
 
@@ -31,11 +30,6 @@ struct HomeView: View {
 
                     // Bookmark Badge (theme-adaptive)
                     BookmarkBadge()
-
-                    Spacer()
-
-                    // Notification Bell (theme-adaptive)
-                    NotificationBell(showingNotifications: $showingNotifications)
                 }
 
                 HStack {
@@ -112,9 +106,6 @@ struct HomeView: View {
         }
         .sheet(isPresented: $showingSettings) {
             SettingsView()
-        }
-        .sheet(isPresented: $showingNotifications) {
-            NotificationsView()
         }
         .onReceive(NotificationCenter.default.publisher(for: .init("showSettings"))) { _ in
             showingSettings = true

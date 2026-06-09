@@ -25,6 +25,8 @@ struct SurahDetailView: View {
     @State private var scrollProxy: ScrollViewProxy? = nil
     @State private var showTextSizePanel = false
     @Environment(\.dismiss) private var dismiss
+    @AppStorage("lastReadSurah") private var lastReadSurah = 0
+    @AppStorage("lastReadVerse") private var lastReadVerse = 0
 
     init(surahWithTafsir: SurahWithTafsir, targetVerse: Int? = nil) {
         self.surahWithTafsir = surahWithTafsir
@@ -88,6 +90,9 @@ struct SurahDetailView: View {
                     }
                     .onAppear {
                         scrollProxy = proxy
+                        // Persist last-read location for the Today tab's "Continue reading" card.
+                        lastReadSurah = surahWithTafsir.surah.number
+                        lastReadVerse = targetVerse ?? (surahWithTafsir.verses.first?.number ?? 1)
                         if let targetVerse = targetVerse {
                             DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
                                 withAnimation(.easeInOut(duration: 0.8)) {
