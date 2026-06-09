@@ -13,6 +13,7 @@ struct ParallelDetailView: View {
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
     @StateObject private var parallelsManager = PropheticParallelsManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var selectedVerseForNav: (surah: Int, verse: Int)?
     @State private var navigateToVerse = false
@@ -150,9 +151,9 @@ struct ParallelDetailView: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text(parallel.connection)
-                    .font(.system(size: 16, weight: .medium))
+                    .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
-                    .lineSpacing(4)
+                    .lineSpacing(4 * readingSettings.scale)
             }
         }
         .padding(24)
@@ -190,9 +191,9 @@ struct ParallelDetailView: View {
             }
 
             Text(parallel.comfortMessage)
-                .font(.system(size: 17, weight: .medium))
+                .font(.system(size: 17 * readingSettings.scale, weight: .medium))
                 .foregroundColor(.white)
-                .lineSpacing(6)
+                .lineSpacing(6 * readingSettings.scale)
         }
         .padding(24)
         .background {
@@ -320,13 +321,15 @@ struct ParallelVerseCard: View {
     let onNavigate: () -> Void
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
 
     var verseData: (arabic: String, translation: String)? {
         guard let verses = dataManager.quranData?.verses["\(verse.surahNumber)"],
               let verseContent = verses["\(verse.verseNumber)"] else {
             return nil
         }
-        return (verseContent.arabicText, verseContent.translation)
+        return (verseContent.arabicText, verseContent.translation(for: languageManager.selectedLanguage))
     }
 
     var surahName: String {
@@ -370,17 +373,18 @@ struct ParallelVerseCard: View {
                 VStack(alignment: .leading, spacing: 16) {
                     // Arabic text
                     Text(verseContent.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 24))
+                        .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(8)
+                        .lineSpacing(8 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: .infinity, alignment: .trailing)
 
                     // Translation
                     Text(verseContent.translation)
-                        .font(.system(size: 16, weight: .medium))
+                        .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(4)
+                        .lineSpacing(4 * readingSettings.scale)
+                        .translationLayout(languageManager.selectedLanguage)
                 }
                 .padding(20)
 
@@ -401,9 +405,9 @@ struct ParallelVerseCard: View {
                 }
 
                 Text(verse.relevanceNote)
-                    .font(.system(size: 15, weight: .medium))
+                    .font(.system(size: 15 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
-                    .lineSpacing(4)
+                    .lineSpacing(4 * readingSettings.scale)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
             .padding(20)

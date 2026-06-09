@@ -38,12 +38,23 @@ struct Surah: Codable, Identifiable {
 struct Verse: Codable {
     let arabicText: String
     let translation: String
+    var translationUrdu: String? = nil   // var (not let) so Codable still decodes it; default keeps memberwise init back-compatible
+    var translationArabic: String? = nil
     let juz: Int
     let manzil: Int
     let page: Int
     let ruku: Int
     let hizbQuarter: Int
     let sajda: SajdaInfo
+
+    /// Verse translation for the given UI language (falls back to English).
+    func translation(for language: CommentaryLanguage) -> String {
+        switch language {
+        case .urdu: return translationUrdu ?? translation
+        case .arabic: return translationArabic ?? translation
+        default: return translation
+        }
+    }
 }
 
 struct SajdaInfo: Codable {
@@ -329,6 +340,8 @@ struct VerseWithTafsir: Identifiable {
     let number: Int
     let arabicText: String
     let translation: String
+    let translationUrdu: String?
+    let translationArabic: String?
     let sajda: SajdaInfo
     let tafsir: TafsirVerse?
     
@@ -386,8 +399,19 @@ struct VerseWithTafsir: Identifiable {
         self.number = number
         self.arabicText = verse.arabicText
         self.translation = verse.translation
+        self.translationUrdu = verse.translationUrdu
+        self.translationArabic = verse.translationArabic
         self.sajda = verse.sajda
         self.tafsir = tafsir
+    }
+
+    /// Verse translation for the given UI language (falls back to English).
+    func translation(for language: CommentaryLanguage) -> String {
+        switch language {
+        case .urdu: return translationUrdu ?? translation
+        case .arabic: return translationArabic ?? translation
+        default: return translation
+        }
     }
 }
 

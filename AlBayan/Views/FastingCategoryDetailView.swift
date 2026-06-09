@@ -11,6 +11,7 @@ struct FastingCategoryDetailView: View {
     let category: FastingCategory
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var selectedVerseForNav: (surah: Int, verse: Int)?
     @State private var navigateToVerse = false
@@ -52,9 +53,9 @@ struct FastingCategoryDetailView: View {
 
                         // Description
                         Text(category.description)
-                            .font(.system(size: 16, weight: .medium))
+                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
-                            .lineSpacing(4)
+                            .lineSpacing(4 * readingSettings.scale)
                     }
                     .padding(24)
                     .background {
@@ -142,13 +143,15 @@ struct FastingVerseCard: View {
     let onNavigate: () -> Void
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
 
     var verseData: (arabic: String, translation: String)? {
         guard let verses = dataManager.quranData?.verses["\(fastingVerse.surahNumber)"],
               let verse = verses["\(fastingVerse.verseNumber)"] else {
             return nil
         }
-        return (verse.arabicText, verse.translation)
+        return (verse.arabicText, verse.translation(for: languageManager.selectedLanguage))
     }
 
     var surahName: String {
@@ -204,17 +207,18 @@ struct FastingVerseCard: View {
                 VStack(alignment: .leading, spacing: 16) {
                     // Arabic text
                     Text(verse.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 24))
+                        .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(8)
+                        .lineSpacing(8 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: .infinity, alignment: .trailing)
 
                     // Translation
                     Text(verse.translation)
-                        .font(.system(size: 16, weight: .medium))
+                        .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(4)
+                        .lineSpacing(4 * readingSettings.scale)
+                        .translationLayout(languageManager.selectedLanguage)
                 }
                 .padding(20)
 
@@ -235,9 +239,9 @@ struct FastingVerseCard: View {
                 }
 
                 Text(fastingVerse.relevanceNote)
-                    .font(.system(size: 15, weight: .medium))
+                    .font(.system(size: 15 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
-                    .lineSpacing(4)
+                    .lineSpacing(4 * readingSettings.scale)
             }
             .padding(20)
             .background {

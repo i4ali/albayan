@@ -81,6 +81,11 @@ struct SettingsView: View {
                                 .padding(12)
                             }
 
+                            // Reading Text Size Section
+                            SettingsSection(title: "Reading") {
+                                ReadingSizeSettingRow()
+                            }
+
                             // Daily Verse Notifications Section
                             SettingsSection(title: "Daily Verse") {
                                 VStack(spacing: 12) {
@@ -433,6 +438,78 @@ struct SettingsSection<Content: View>: View {
                     )
             )
         }
+    }
+}
+
+// MARK: - Reading text-size setting (Settings screen)
+
+/// Label + A−/dots/A+ stepper + a live preview line that resizes with the global scale.
+/// Self-contained: observes both singletons; the host just calls `ReadingSizeSettingRow()`.
+/// No own card — it sits inside `SettingsSection`, which provides the card.
+struct ReadingSizeSettingRow: View {
+    @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var settings = ReadingSettingsManager.shared
+
+    private func stepButton(_ label: String, size: CGFloat, enabled: Bool,
+                            a11y: String, action: @escaping () -> Void) -> some View {
+        Button(action: { withAnimation(.easeInOut(duration: 0.18)) { action() } }) {
+            Text(label)
+                .font(.system(size: size, weight: .semibold))
+                .foregroundColor(enabled ? themeManager.accentColor : themeManager.tertiaryText)
+                .frame(width: 34, height: 34)
+                .background(Circle().fill(themeManager.accentColor.opacity(0.15)))
+                .overlay(Circle().stroke(themeManager.strokeColor, lineWidth: 1))
+        }
+        .disabled(!enabled)
+        .accessibilityLabel(a11y)
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            // Title row
+            HStack(spacing: 14) {
+                ZStack {
+                    RoundedRectangle(cornerRadius: 8)
+                        .fill(themeManager.accentColor.opacity(0.2))
+                        .frame(width: 32, height: 32)
+                    Image(systemName: "textformat.size")
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundColor(themeManager.accentColor)
+                }
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("Reading Text Size")
+                        .font(.system(size: 17, weight: .semibold))
+                        .foregroundColor(themeManager.primaryText)
+                    Text("Verses, translation & commentary")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
+                Spacer(minLength: 8)
+            }
+
+            // Stepper: A−   ● ● ● ○ ○   A+
+            HStack(spacing: 18) {
+                stepButton("A", size: 15, enabled: settings.canDecrease, a11y: "Decrease text size") { settings.decrease() }
+                HStack(spacing: 8) {
+                    ForEach(0..<settings.stepCount, id: \.self) { i in
+                        Circle()
+                            .fill(i <= settings.stepIndex ? themeManager.accentColor : themeManager.tertiaryText.opacity(0.4))
+                            .frame(width: 7, height: 7)
+                    }
+                }
+                .frame(maxWidth: .infinity)
+                stepButton("A", size: 23, enabled: settings.canIncrease, a11y: "Increase text size") { settings.increase() }
+            }
+
+            // Live preview — resizes on tap. (Basmala translation; universal — keep.)
+            Text("In the name of Allah, the Most Gracious, the Most Merciful.")
+                .font(.system(size: 17 * settings.scale, weight: .medium, design: .serif))
+                .foregroundColor(themeManager.secondaryText)
+                .lineSpacing(4 * settings.scale)
+                .fixedSize(horizontal: false, vertical: true)
+                .animation(.easeInOut(duration: 0.2), value: settings.stepIndex)
+        }
+        .padding(16)
     }
 }
 

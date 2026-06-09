@@ -11,9 +11,13 @@ struct VerseSummaryView: View {
     let verse: VerseWithTafsir
     let surah: Surah
     let onViewFullCommentary: () -> Void
-    @State private var selectedLanguage: CommentaryLanguage = .english
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
     @Environment(\.dismiss) private var dismiss
+
+    /// The one global language — shared with the verse list + commentary + Gems.
+    private var selectedLanguage: CommentaryLanguage { languageManager.selectedLanguage }
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     // Compute device type for adaptive presentation
@@ -151,7 +155,7 @@ struct VerseSummaryView: View {
     private var languageSelectorView: some View {
         HStack(spacing: 12) {
             ForEach(CommentaryLanguage.supportedTafsirLanguages, id: \.self) { language in
-                Button(action: { selectedLanguage = language }) {
+                Button(action: { languageManager.setLanguage(language) }) {
                     Text(language.displayName)
                         .font(.system(size: 14, weight: .semibold))
                         .foregroundColor(selectedLanguage == language ? .white : themeManager.tertiaryText)
@@ -180,9 +184,9 @@ struct VerseSummaryView: View {
             // Layer2 classical commentary (short version for overview)
             if let layer2Text = verse.tafsir?.getLayer2Short(language: selectedLanguage) {
                 Text(layer2Text)
-                    .font(.system(size: 17, weight: .regular, design: .serif))
+                    .font(.system(size: 17 * readingSettings.scale, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
-                    .lineSpacing(8)
+                    .lineSpacing(8 * readingSettings.scale)
                     .multilineTextAlignment(selectedLanguage.isRTL ? .trailing : .leading)
                     .environment(\.layoutDirection, selectedLanguage.isRTL ? .rightToLeft : .leftToRight)
             } else {

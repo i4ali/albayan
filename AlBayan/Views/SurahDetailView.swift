@@ -23,6 +23,7 @@ struct SurahDetailView: View {
     @StateObject private var audioManager = AudioManager.shared
     @State private var showingGoToVerse = false
     @State private var scrollProxy: ScrollViewProxy? = nil
+    @State private var showTextSizePanel = false
     @Environment(\.dismiss) private var dismiss
 
     init(surahWithTafsir: SurahWithTafsir, targetVerse: Int? = nil) {
@@ -57,7 +58,8 @@ struct SurahDetailView: View {
                             showingPaywall = true
                         }
                     },
-                    onGoToVerse: { showingGoToVerse = true }
+                    onGoToVerse: { showingGoToVerse = true },
+                    isTextSizePanelOpen: $showTextSizePanel
                 )
                 
                 // Verses scroll view
@@ -104,6 +106,7 @@ struct SurahDetailView: View {
                     }
                 }
             }
+            .textSizePanelOverlay(isOpen: $showTextSizePanel, topPadding: 56, trailingPadding: 24)
         }
         .navigationBarHidden(true)
         .hideTabBar()
@@ -312,6 +315,7 @@ struct ModernSurahHeader: View {
     let onBack: () -> Void
     let onQuizTap: () -> Void
     let onGoToVerse: () -> Void
+    @Binding var isTextSizePanelOpen: Bool
     @StateObject private var themeManager = ThemeManager.shared
     @StateObject private var audioManager = AudioManager.shared
 
@@ -332,6 +336,8 @@ struct ModernSurahHeader: View {
                             )
                     }
                     Spacer()
+                    VerseLanguageToggle()
+                    TextSizeButton(isPanelOpen: $isTextSizePanelOpen)
                 }
                 .padding(.horizontal, 24)
                 .padding(.top, 20)
@@ -360,6 +366,8 @@ struct ModernSurahHeader: View {
                         .foregroundColor(themeManager.primaryText)
 
                     Spacer()
+                    VerseLanguageToggle()
+                    TextSizeButton(isPanelOpen: $isTextSizePanelOpen)
                 }
             }
 
@@ -563,6 +571,8 @@ struct ModernVerseCard: View {
     @StateObject private var audioManager = AudioManager.shared
     @StateObject private var premiumManager = PremiumManager.shared
     @StateObject private var progressManager = ProgressManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
 
     private var isBookmarked: Bool {
         bookmarkManager.isBookmarked(surahNumber: surah.number, verseNumber: verse.number)
@@ -819,17 +829,18 @@ struct ModernVerseCard: View {
 
             // Arabic text
             Text(verse.arabicText)
-                .font(.system(size: themeManager.useWarmLayout ? 26 : 24, weight: .medium))
+                .font(.system(size: (themeManager.useWarmLayout ? 26 : 24) * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.trailing)
                 .frame(maxWidth: .infinity, alignment: .trailing)
-                .lineSpacing(themeManager.useWarmLayout ? 26 : 8)  // line-height: 2 = lineSpacing equals font size
+                .lineSpacing((themeManager.useWarmLayout ? 26 : 8) * readingSettings.scale)  // line-height: 2 = lineSpacing equals font size
 
-            // English translation
-            Text(verse.translation)
-                .font(.system(size: 16, weight: .medium))
+            // Verse translation (EN / UR / AR — follows the global language)
+            Text(verse.translation(for: languageManager.selectedLanguage))
+                .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
-                .lineSpacing(4)
+                .lineSpacing(4 * readingSettings.scale)
+                .translationLayout(languageManager.selectedLanguage)
 
             // Commentary buttons (theme-adaptive for all themes)
             // Split button design: Summary (left) + Full Commentary (right)

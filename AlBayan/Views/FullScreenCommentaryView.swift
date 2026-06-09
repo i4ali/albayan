@@ -20,6 +20,8 @@ struct FullScreenCommentaryView: View {
     @StateObject private var progressManager = ProgressManager.shared
     @StateObject private var tafsirReader = TafsirReader.shared
     @StateObject private var voiceManager = TTSVoiceManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @State private var showTextSizePanel = false
     @Environment(\.dismiss) private var dismiss
     
     init(verse: VerseWithTafsir, surah: Surah, initialLayer: TafsirLayer) {
@@ -44,6 +46,7 @@ struct FullScreenCommentaryView: View {
                 // Full-screen reading content
                 readingContent
             }
+            .textSizePanelOverlay(isOpen: $showTextSizePanel, topPadding: 64, trailingPadding: 24)
         }
         .navigationBarHidden(true)
         .statusBarHidden(true) // Hide status bar for immersive reading
@@ -147,8 +150,11 @@ struct FullScreenCommentaryView: View {
 
             Spacer()
 
-            // Language toggle button
-            languageToggle
+            // Reading text-size control + language toggle
+            HStack(spacing: 10) {
+                TextSizeButton(isPanelOpen: $showTextSizePanel)
+                languageToggle
+            }
         }
         .padding(.horizontal, 24)
         .padding(.top, themeManager.useWarmLayout ? 20 : 16)
@@ -390,8 +396,9 @@ struct FullScreenCommentaryView: View {
         }
         .animation(.easeInOut(duration: 0.3), value: selectedLayer)
         .animation(.easeInOut(duration: 0.3), value: languageManager.selectedLanguage)
+        .animation(.easeInOut(duration: 0.2), value: readingSettings.stepIndex)
     }
-    
+
     private var readingLayerHeader: some View {
         VStack(alignment: .leading, spacing: 16) {
             HStack(spacing: 16) {
@@ -458,10 +465,10 @@ struct FullScreenCommentaryView: View {
                     HighlightedText(
                         text: trimmedParagraph,
                         highlightRange: paragraphHighlightRange,
-                        font: .system(size: themeManager.useWarmLayout ? 17 : 18, weight: .regular, design: .serif),
+                        font: .system(size: (themeManager.useWarmLayout ? 17 : 18) * readingSettings.scale, weight: .regular, design: .serif),
                         textColor: themeManager.primaryText,
                         highlightColor: .yellow.opacity(0.4),
-                        lineSpacing: themeManager.useWarmLayout ? 6 : 8
+                        lineSpacing: (themeManager.useWarmLayout ? 6 : 8) * readingSettings.scale
                     )
                         .multilineTextAlignment(languageManager.selectedLanguage.isRTL ? .trailing : .leading)
                         .frame(maxWidth: .infinity, alignment: languageManager.selectedLanguage.isRTL ? .trailing : .leading)

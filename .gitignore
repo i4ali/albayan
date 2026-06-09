@@ -116,6 +116,10 @@ ui_variants/
 
 design_handoff_*/
 
+# Local handoff / export notes (root-level scratch, not tracked)
+/*-handoff.md
+/*-export.md
+
 # Audit artifacts (local-only)
 .audit-tmp/
 *_audit.md
@@ -125,6 +129,7 @@ design_handoff_*/
 
 # Debug screenshots in repo root
 /Screenshot*.png
+/simulator_screenshot_*.png
 /bookmark-query-result.png
 /cloudkit-query-result.png
 /indexes-page.png

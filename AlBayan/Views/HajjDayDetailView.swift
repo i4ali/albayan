@@ -13,6 +13,7 @@ struct HajjDayDetailView: View {
     @StateObject private var journeyManager = HajjJourneyManager.shared
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var selectedVerseForNav: (surah: Int, verse: Int)?
     @State private var navigateToVerse = false
@@ -75,9 +76,9 @@ struct HajjDayDetailView: View {
                         }
 
                         Text(day.tafsirFocus)
-                            .font(.system(size: 16, weight: .medium))
+                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
-                            .lineSpacing(4)
+                            .lineSpacing(4 * readingSettings.scale)
                     }
                     .padding(20)
                     .background {
@@ -109,9 +110,9 @@ struct HajjDayDetailView: View {
                         }
 
                         Text(day.reflection)
-                            .font(.system(size: 16, weight: .medium))
+                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
-                            .lineSpacing(4)
+                            .lineSpacing(4 * readingSettings.scale)
                             .italic()
                     }
                     .padding(20)
@@ -247,6 +248,7 @@ struct HajjDayHeader: View {
 struct HajjDuaSection: View {
     let dua: HajjDua
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
@@ -265,23 +267,23 @@ struct HajjDuaSection: View {
 
             // Arabic
             Text(dua.arabic)
-                .font(.custom("AmiriQuran-Regular", size: 24))
+                .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                 .foregroundColor(themeManager.primaryText)
-                .lineSpacing(8)
+                .lineSpacing(8 * readingSettings.scale)
                 .multilineTextAlignment(.trailing)
                 .frame(maxWidth: .infinity, alignment: .trailing)
 
             // Transliteration
             Text(dua.transliteration)
-                .font(.system(size: 14, weight: .medium))
+                .font(.system(size: 14 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .italic()
 
             // English translation
             Text(dua.english)
-                .font(.system(size: 16, weight: .medium))
+                .font(.system(size: 16 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
-                .lineSpacing(4)
+                .lineSpacing(4 * readingSettings.scale)
 
             // Source
             if let source = dua.source {
@@ -314,13 +316,15 @@ struct HajjVerseCard: View {
     let onNavigate: () -> Void
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
 
     var verseData: (arabic: String, translation: String)? {
         guard let verses = dataManager.quranData?.verses["\(verse.surahNumber)"],
               let v = verses["\(verse.verseNumber)"] else {
             return nil
         }
-        return (v.arabicText, v.translation)
+        return (v.arabicText, v.translation(for: languageManager.selectedLanguage))
     }
 
     var surahName: String {
@@ -357,17 +361,18 @@ struct HajjVerseCard: View {
                 VStack(alignment: .leading, spacing: 12) {
                     // Arabic
                     Text(data.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 22))
+                        .font(.custom("AmiriQuran-Regular", size: 22 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(6)
+                        .lineSpacing(6 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: .infinity, alignment: .trailing)
 
                     // Translation
                     Text(data.translation)
-                        .font(.system(size: 15, weight: .medium))
+                        .font(.system(size: 15 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(4)
+                        .lineSpacing(4 * readingSettings.scale)
+                        .translationLayout(languageManager.selectedLanguage)
                 }
                 .padding(16)
 
@@ -382,9 +387,9 @@ struct HajjVerseCard: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text(verse.relevanceNote)
-                    .font(.system(size: 14, weight: .medium))
+                    .font(.system(size: 14 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
-                    .lineSpacing(2)
+                    .lineSpacing(2 * readingSettings.scale)
             }
             .padding(16)
             .background {

@@ -2,7 +2,14 @@
 //  QuickOverviewView.swift
 //  AlBayan
 //
-//  Interactive quick overview with concept bubbles around Arabic verse
+//  Interactive quick overview ("Gems") — Arabic verse + concept bubbles.
+//
+//  Large-text redesign (handoff Appendix A): the sheet is a pinned top region
+//  (header + height-capped, internally-scrollable verse + gold hairline) plus a
+//  swappable lower region that cross-fades between the concept-bubble grid and the
+//  gem-detail pane. The verse is pinned in BOTH states, so the highlighted fragment
+//  can never be covered by the explanation — at any reading-text size. This replaces
+//  the old ZStack(alignment: .bottom) + padding(.bottom, 280) overlay hack.
 //
 
 import SwiftUI
@@ -14,8 +21,12 @@ struct HighlightedArabicText: View {
     let highlightText: String?
     let highlightColor: Color
     let isHighlighting: Bool
+    var scale: CGFloat = 1.0   // reading-text-size multiplier (defaults to 1×)
 
     @StateObject private var themeManager = ThemeManager.shared
+
+    private var arabicFontSize: CGFloat { 28 * scale }
+    private var arabicLineSpacing: CGFloat { 12 * scale }
 
     var body: some View {
         if let highlightText = highlightText, !highlightText.isEmpty, isHighlighting {
@@ -24,10 +35,10 @@ struct HighlightedArabicText: View {
         } else {
             // Regular Arabic text
             Text(text)
-                .font(.system(size: 28, weight: .medium))
+                .font(.system(size: arabicFontSize, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.center)
-                .lineSpacing(12)
+                .lineSpacing(arabicLineSpacing)
                 .environment(\.layoutDirection, .rightToLeft)
         }
     }
@@ -41,16 +52,16 @@ struct HighlightedArabicText: View {
         components.reduce(Text("")) { result, component in
             if component.isHighlighted {
                 return result + Text(component.text)
-                    .font(.system(size: 28, weight: .bold))
+                    .font(.system(size: arabicFontSize, weight: .bold))
                     .foregroundColor(highlightColor)
             } else {
                 return result + Text(component.text)
-                    .font(.system(size: 28, weight: .medium))
+                    .font(.system(size: arabicFontSize, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
             }
         }
         .multilineTextAlignment(.center)
-        .lineSpacing(12)
+        .lineSpacing(arabicLineSpacing)
         .environment(\.layoutDirection, .rightToLeft)
     }
 
@@ -93,85 +104,58 @@ struct QuickOverviewView: View {
     let quickOverview: QuickOverviewData
     let onViewFullCommentary: () -> Void
 
-    @State private var selectedLanguage: CommentaryLanguage = .english
     @State private var selectedConcept: VerseConcept? = nil
-    @State private var showConceptDetail: Bool = false
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var readingSettings = ReadingSettingsManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
     @Environment(\.dismiss) private var dismiss
+
+    /// The one global language — verse translation + commentary + Gems stay in lockstep.
+    private var selectedLanguage: CommentaryLanguage { languageManager.selectedLanguage }
 
     private var isIPad: Bool {
         UIDevice.current.userInterfaceIdiom == .pad
     }
 
     var body: some View {
-        ZStack(alignment: .bottom) {
-            // Main content
-            VStack(spacing: 0) {
-                // Handle bar
-                RoundedRectangle(cornerRadius: 3)
-                    .fill(themeManager.tertiaryText.opacity(0.3))
-                    .frame(width: 40, height: 5)
-                    .padding(.top, 12)
-                    .padding(.bottom, 16)
+        VStack(spacing: 0) {
+            // Handle bar
+            RoundedRectangle(cornerRadius: 3)
+                .fill(themeManager.tertiaryText.opacity(0.3))
+                .frame(width: 40, height: 5)
+                .padding(.top, 12)
+                .padding(.bottom, 16)
 
-                GeometryReader { geometry in
-                    ScrollView {
-                        VStack(spacing: 0) {
-                            Spacer(minLength: 0)
+            // Pinned header
+            headerView
+                .padding(.horizontal, 24)
+                .padding(.bottom, 16)
 
-                            VStack(spacing: 24) {
-                                // Header
-                                headerView
+            // Pinned verse — height-capped, scrolls internally if very long.
+            // Pinned in BOTH states, so a highlighted fragment is never covered.
+            PinnedVerseView(
+                surah: surah,
+                verse: verse,
+                selectedConcept: selectedConcept,
+                scale: readingSettings.scale
+            )
+            .padding(.bottom, 4)
 
-                                // Arabic verse with concept bubbles
-                                arabicVerseSection
-
-                                // Language selector
-                                languageSelectorView
-
-                                // Full tafsir button (hide when detail is shown)
-                                if !showConceptDetail {
-                                    fullTafsirButton
-                                }
-                            }
-
-                            Spacer(minLength: 0)
-                        }
-                        .padding(.horizontal, 24)
-                        .padding(.bottom, showConceptDetail ? 280 : 40)
-                        .frame(minHeight: geometry.size.height)
-                        .frame(maxWidth: isIPad ? 600 : .infinity)
-                        .frame(maxWidth: .infinity)
-                    }
-                }
-            }
-            .background(backgroundView)
-
-            // Concept detail card overlay
-            if showConceptDetail, let concept = selectedConcept {
-                ConceptDetailCardOverlay(
-                    concept: concept,
-                    language: selectedLanguage,
-                    onClose: {
-                        withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
-                            showConceptDetail = false
-                            selectedConcept = nil
-                        }
-                    },
-                    onViewFullTafsir: {
-                        showConceptDetail = false
-                        dismiss()
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                            onViewFullCommentary()
-                        }
-                    }
-                )
-                .frame(maxWidth: isIPad ? 600 : .infinity)
-                .transition(.move(edge: .bottom).combined(with: .opacity))
+            // Swap area: only the region below the hairline changes.
+            if let concept = selectedConcept {
+                gemDetailPane(concept)
+                    .transition(.opacity)
+            } else {
+                browseScroll
+                    .transition(.opacity)
             }
         }
+        .frame(maxWidth: isIPad ? 600 : .infinity)
+        .frame(maxWidth: .infinity)
+        .background(backgroundView)
         .presentationDetents([.large])
         .presentationDragIndicator(.hidden)
+        .animation(.easeInOut(duration: 0.2), value: readingSettings.stepIndex)
     }
 
     // MARK: - Header
@@ -202,79 +186,20 @@ struct QuickOverviewView: View {
         }
     }
 
-    // MARK: - Arabic Verse Section
+    // MARK: - Browse region (bubble grid + language selector + CTA)
 
-    private var arabicVerseSection: some View {
-        ZStack {
-            // Background gradient
-            RoundedRectangle(cornerRadius: 24)
-                .fill(
-                    LinearGradient(
-                        colors: [
-                            themeManager.tertiaryBackground.opacity(0.6),
-                            themeManager.secondaryBackground.opacity(0.4)
-                        ],
-                        startPoint: .topLeading,
-                        endPoint: .bottomTrailing
-                    )
-                )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 24)
-                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                )
-
-            // Decorative orbs
-            GeometryReader { geometry in
-                Circle()
-                    .fill(themeManager.floatingOrbColors[0])
-                    .frame(width: 120, height: 120)
-                    .blur(radius: 40)
-                    .offset(x: -30, y: -20)
-
-                Circle()
-                    .fill(themeManager.floatingOrbColors[1])
-                    .frame(width: 100, height: 100)
-                    .blur(radius: 35)
-                    .offset(x: geometry.size.width - 80, y: geometry.size.height - 80)
-            }
-
+    private var browseScroll: some View {
+        ScrollView(.vertical, showsIndicators: false) {
             VStack(spacing: 20) {
-                // Verse reference badge
-                HStack(spacing: 8) {
-                    Circle()
-                        .fill(themeManager.accentGradient)
-                        .frame(width: 28, height: 28)
-                        .overlay(
-                            Text("\(verse.number)")
-                                .font(.system(size: 12, weight: .bold))
-                                .foregroundColor(.white)
-                        )
-
-                    Text("\(surah.englishName) \(verse.number)")
-                        .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(themeManager.secondaryText)
-                }
-
-                // Arabic text with highlighting
-                HighlightedArabicText(
-                    text: verse.arabicText,
-                    highlightText: selectedConcept?.arabicHighlight,
-                    highlightColor: selectedConcept.map { Color(hex: $0.colorHex) ?? themeManager.accentColor } ?? themeManager.accentColor,
-                    isHighlighting: showConceptDetail
-                )
-                .padding(.horizontal, 16)
-                .padding(.vertical, 24)
-
-                // Concept bubbles
                 conceptBubblesGrid
+                languageSelectorView
+                fullTafsirButton
             }
-            .padding(.vertical, 24)
-            .padding(.horizontal, 16)
+            .padding(.horizontal, 24)
+            .padding(.top, 14)
+            .padding(.bottom, 24)
         }
-        .frame(minHeight: 320)
     }
-
-    // MARK: - Concept Bubbles
 
     private var conceptBubblesGrid: some View {
         let concepts = quickOverview.concepts
@@ -292,12 +217,75 @@ struct QuickOverviewView: View {
                     language: selectedLanguage,
                     isSelected: selectedConcept?.id == concept.id
                 ) {
-                    withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
+                    withAnimation(.spring(response: 0.32, dampingFraction: 0.82)) {
                         selectedConcept = concept
-                        showConceptDetail = true
                     }
                 }
             }
+        }
+    }
+
+    // MARK: - Gem detail pane (back-chip + fade-masked scroll + pinned CTA)
+
+    private func gemDetailPane(_ concept: VerseConcept) -> some View {
+        let rtl = selectedLanguage.isRTL
+        let color = Color(hex: concept.colorHex)
+        return VStack(spacing: 0) {
+            HStack {
+                BackToGemsChip {
+                    withAnimation(.spring(response: 0.32, dampingFraction: 0.82)) { selectedConcept = nil }
+                }
+                Spacer()
+            }
+            .padding(.horizontal, 22).padding(.top, 12).padding(.bottom, 8)
+
+            ScrollView(.vertical, showsIndicators: false) {
+                VStack(alignment: .leading, spacing: 18) {
+                    HStack(spacing: 10) {
+                        Image(systemName: concept.icon)
+                            .font(.system(size: 17, weight: .semibold))
+                            .foregroundColor(color)
+                        Text(concept.getTitle(language: selectedLanguage).uppercased())
+                            .font(.system(size: 14, weight: .bold, design: .rounded)).tracking(1)
+                            .foregroundColor(themeManager.primaryText)
+                    }
+                    detailSection(color, "The Core Insight:", concept.getCoreInsight(language: selectedLanguage), rtl: rtl)
+                    detailSection(color, "Why it matters:", concept.getWhyItMatters(language: selectedLanguage), rtl: rtl)
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.horizontal, 20).padding(.top, 20).padding(.bottom, 24)
+            }
+            .scrollEdgeFade()
+            .background(
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .fill(themeManager.cardBackground)
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 20, style: .continuous)
+                            .stroke(color.opacity(0.35), lineWidth: 1.5)
+                    )
+                    .shadow(color: color.opacity(0.12), radius: 10, y: 4)
+            )
+            .padding(.horizontal, 18)
+
+            // The SAME "Read Full Tafsir" CTA, pinned at the bottom of the detail pane.
+            fullTafsirButton
+                .padding(.horizontal, 22).padding(.top, 12).padding(.bottom, 18)
+        }
+    }
+
+    @ViewBuilder
+    private func detailSection(_ color: Color, _ title: String, _ text: String, rtl: Bool) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Text(title)
+                .font(.system(size: 14, weight: .bold))
+                .foregroundColor(color)
+            Text(text)
+                .font(.system(size: 15 * readingSettings.scale, weight: .regular, design: .serif))   // scales
+                .foregroundColor(themeManager.primaryText)
+                .lineSpacing(7 * readingSettings.scale)
+                .multilineTextAlignment(rtl ? .trailing : .leading)
+                .frame(maxWidth: .infinity, alignment: rtl ? .trailing : .leading)
+                .environment(\.layoutDirection, rtl ? .rightToLeft : .leftToRight)
         }
     }
 
@@ -306,7 +294,7 @@ struct QuickOverviewView: View {
     private var languageSelectorView: some View {
         HStack(spacing: 12) {
             ForEach(CommentaryLanguage.supportedTafsirLanguages, id: \.self) { language in
-                Button(action: { selectedLanguage = language }) {
+                Button(action: { languageManager.setLanguage(language) }) {
                     Text(language.displayName)
                         .font(.system(size: 14, weight: .semibold))
                         .foregroundColor(selectedLanguage == language ? .white : themeManager.tertiaryText)
@@ -368,6 +356,65 @@ struct QuickOverviewView: View {
     }
 }
 
+// MARK: - Pinned Verse (height-capped, internally scrollable)
+
+private struct VerseHeightKey: PreferenceKey {
+    static var defaultValue: CGFloat = 0
+    static func reduce(value: inout CGFloat, nextValue: () -> CGFloat) { value = max(value, nextValue()) }
+}
+
+private struct PinnedVerseView: View {
+    let surah: Surah
+    let verse: VerseWithTafsir
+    let selectedConcept: VerseConcept?
+    let scale: CGFloat
+
+    @StateObject private var themeManager = ThemeManager.shared
+    @State private var verseHeight: CGFloat = 0
+    private let maxVerseHeight: CGFloat = 230
+
+    private var highlightColor: Color {
+        selectedConcept.map { Color(hex: $0.colorHex) } ?? themeManager.accentColor
+    }
+
+    var body: some View {
+        VStack(spacing: 12) {
+            Text("\(surah.englishName.uppercased()) · \(verse.number)")
+                .font(.system(size: 11, weight: .bold)).tracking(2)
+                .foregroundColor(themeManager.accentColor)
+
+            ScrollView(.vertical, showsIndicators: false) {
+                HighlightedArabicText(
+                    text: verse.arabicText,
+                    highlightText: selectedConcept?.arabicHighlight,
+                    highlightColor: highlightColor,
+                    isHighlighting: selectedConcept != nil,
+                    scale: scale
+                )
+                .frame(maxWidth: .infinity).padding(.vertical, 2)
+                .background(GeometryReader { g in
+                    Color.clear.preference(key: VerseHeightKey.self, value: g.size.height)
+                })
+            }
+            .frame(height: min(max(verseHeight, 1), maxVerseHeight))   // hug content, cap at 230
+            .onPreferenceChange(VerseHeightKey.self) { verseHeight = $0 }
+        }
+        .padding(.vertical, 18)
+        .padding(.horizontal, 20)
+        .frame(maxWidth: .infinity)
+        .background(
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .fill(themeManager.cardBackground)
+                .overlay(
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
+                        .stroke(highlightColor.opacity(0.3), lineWidth: 1.5)
+                )
+                .shadow(color: highlightColor.opacity(0.1), radius: 8, y: 3)
+        )
+        .padding(.horizontal, 18).padding(.top, 2)
+    }
+}
+
 // MARK: - Concept Bubble View
 
 struct ConceptBubbleView: View {
@@ -379,7 +426,7 @@ struct ConceptBubbleView: View {
     @StateObject private var themeManager = ThemeManager.shared
 
     private var bubbleColor: Color {
-        Color(hex: concept.colorHex) ?? themeManager.accentColor
+        Color(hex: concept.colorHex)
     }
 
     var body: some View {
@@ -411,212 +458,47 @@ struct ConceptBubbleView: View {
     }
 }
 
-// MARK: - Concept Detail Card Overlay
+// MARK: - Back-to-gems chip
 
-struct ConceptDetailCardOverlay: View {
-    let concept: VerseConcept
-    let language: CommentaryLanguage
-    let onClose: () -> Void
-    let onViewFullTafsir: () -> Void
-
+private struct BackToGemsChip: View {
+    let action: () -> Void
     @StateObject private var themeManager = ThemeManager.shared
-
-    private var conceptColor: Color {
-        Color(hex: concept.colorHex) ?? themeManager.accentColor
-    }
-
-    private var isRTL: Bool {
-        language.isRTL
-    }
-
     var body: some View {
-        VStack(spacing: 0) {
-            // Handle bar for dragging
-            RoundedRectangle(cornerRadius: 3)
-                .fill(themeManager.tertiaryText.opacity(0.4))
-                .frame(width: 40, height: 5)
-                .padding(.top, 10)
-                .padding(.bottom, 12)
-
-            VStack(alignment: .leading, spacing: 20) {
-                // Header with icon and title
-                HStack {
-                    HStack(spacing: 10) {
-                        Image(systemName: concept.icon)
-                            .font(.system(size: 20, weight: .semibold))
-                            .foregroundColor(conceptColor)
-
-                        Text(concept.getTitle(language: language).uppercased())
-                            .font(.system(size: 15, weight: .bold, design: .rounded))
-                            .foregroundColor(themeManager.primaryText)
-                    }
-
-                    Spacer()
-
-                    Button(action: onClose) {
-                        Image(systemName: "xmark")
-                            .font(.system(size: 14, weight: .semibold))
-                            .foregroundColor(themeManager.tertiaryText)
-                            .padding(8)
-                            .background(Circle().fill(themeManager.tertiaryBackground.opacity(0.8)))
-                    }
-                }
-
-                // Core Insight
-                VStack(alignment: .leading, spacing: 8) {
-                    Text("The Core Insight:")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(conceptColor)
-
-                    Text(concept.getCoreInsight(language: language))
-                        .font(.system(size: themeManager.useWarmLayout ? 15 : 16, weight: .regular, design: .serif))
-                        .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(7)
-                        .multilineTextAlignment(isRTL ? .trailing : .leading)
-                        .environment(\.layoutDirection, isRTL ? .rightToLeft : .leftToRight)
-                }
-
-                // Why it matters
-                VStack(alignment: .leading, spacing: 8) {
-                    Text("Why it matters:")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(conceptColor)
-
-                    Text(concept.getWhyItMatters(language: language))
-                        .font(.system(size: themeManager.useWarmLayout ? 15 : 16, weight: .regular, design: .serif))
-                        .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(7)
-                        .multilineTextAlignment(isRTL ? .trailing : .leading)
-                        .environment(\.layoutDirection, isRTL ? .rightToLeft : .leftToRight)
-                }
-
-                // Read Full Tafsir button
-                Button(action: onViewFullTafsir) {
-                    Text("Read Full Tafsir")
-                        .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity)
-                        .padding(.vertical, 12)
-                        .background(
-                            RoundedRectangle(cornerRadius: 10)
-                                .fill(conceptColor)
-                        )
-                }
-                .padding(.top, 8)
+        Button(action: action) {
+            HStack(spacing: 6) {
+                Image(systemName: "chevron.left")
+                    .font(.system(size: 12, weight: .bold))
+                    .foregroundColor(themeManager.accentColor)
+                Text("Back to gems")
+                    .font(.system(size: 13, weight: .semibold))
+                    .foregroundColor(themeManager.primaryText)
             }
-            .padding(.horizontal, 20)
-            .padding(.bottom, 20)
+            .padding(.leading, 12).padding(.trailing, 15).padding(.vertical, 9)
+            .background(
+                Capsule().fill(themeManager.glassEffect)
+                    .overlay(Capsule().stroke(themeManager.strokeColor, lineWidth: 1))
+            )
         }
-        .background(
-            RoundedRectangle(cornerRadius: 20)
-                .fill(themeManager.primaryBackground)
-                .shadow(color: Color.black.opacity(0.15), radius: 20, y: -5)
-        )
-        .padding(.horizontal, 12)
-        .padding(.bottom, 8)
+        .buttonStyle(PlainButtonStyle())
     }
 }
 
-// MARK: - Concept Detail Card (Legacy - for sheet presentation)
+// MARK: - Scroll edge fade
 
-struct ConceptDetailCard: View {
-    let concept: VerseConcept
-    let language: CommentaryLanguage
-    let onViewFullTafsir: () -> Void
-
-    @StateObject private var themeManager = ThemeManager.shared
-    @Environment(\.dismiss) private var dismiss
-
-    private var conceptColor: Color {
-        Color(hex: concept.colorHex) ?? themeManager.accentColor
-    }
-
-    private var isRTL: Bool {
-        language.isRTL
-    }
-
-    var body: some View {
-        VStack(spacing: 0) {
-            // Handle bar
-            RoundedRectangle(cornerRadius: 3)
-                .fill(themeManager.tertiaryText.opacity(0.3))
-                .frame(width: 40, height: 5)
-                .padding(.top, 12)
-                .padding(.bottom, 16)
-
-            VStack(alignment: .leading, spacing: 16) {
-                // Header with icon and title
-                HStack {
-                    HStack(spacing: 10) {
-                        Image(systemName: concept.icon)
-                            .font(.system(size: 18, weight: .semibold))
-                            .foregroundColor(conceptColor)
-
-                        Text(concept.getTitle(language: language).uppercased())
-                            .font(.system(size: 16, weight: .bold, design: .rounded))
-                            .foregroundColor(themeManager.primaryText)
-                    }
-
-                    Spacer()
-
-                    Button(action: { dismiss() }) {
-                        Image(systemName: "xmark")
-                            .font(.system(size: 14, weight: .semibold))
-                            .foregroundColor(themeManager.tertiaryText)
-                            .padding(8)
-                            .background(Circle().fill(themeManager.tertiaryBackground))
-                    }
-                }
-
-                // Core Insight
-                VStack(alignment: .leading, spacing: 6) {
-                    Text("The Core Insight:")
-                        .font(.system(size: 13, weight: .semibold))
-                        .foregroundColor(conceptColor)
-
-                    Text(concept.getCoreInsight(language: language))
-                        .font(.system(size: 15, weight: .regular))
-                        .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(4)
-                        .multilineTextAlignment(isRTL ? .trailing : .leading)
-                        .environment(\.layoutDirection, isRTL ? .rightToLeft : .leftToRight)
-                }
-
-                // Why it matters
-                VStack(alignment: .leading, spacing: 6) {
-                    Text("Why it matters:")
-                        .font(.system(size: 13, weight: .semibold))
-                        .foregroundColor(conceptColor)
-
-                    Text(concept.getWhyItMatters(language: language))
-                        .font(.system(size: 15, weight: .regular))
-                        .foregroundColor(themeManager.secondaryText)
-                        .lineSpacing(4)
-                        .multilineTextAlignment(isRTL ? .trailing : .leading)
-                        .environment(\.layoutDirection, isRTL ? .rightToLeft : .leftToRight)
-                }
-
-                // Read Full Tafsir button
-                Button(action: onViewFullTafsir) {
-                    Text("Read Full Tafsir")
-                        .font(.system(size: 15, weight: .semibold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity)
-                        .padding(.vertical, 14)
-                        .background(
-                            RoundedRectangle(cornerRadius: 12)
-                                .fill(conceptColor)
-                        )
-                }
-                .padding(.top, 8)
+private extension View {
+    /// Softly fades the top & bottom edges of a scroll region (masks to transparent,
+    /// revealing the background) so content dissolves instead of hard-clipping.
+    func scrollEdgeFade(top: CGFloat = 14, bottom: CGFloat = 30) -> some View {
+        self.mask(
+            GeometryReader { geo in
+                let h = max(geo.size.height, 1)
+                LinearGradient(stops: [
+                    .init(color: .clear, location: 0),
+                    .init(color: .black, location: min(top / h, 0.5)),
+                    .init(color: .black, location: 1 - min(bottom / h, 0.5)),
+                    .init(color: .clear, location: 1)
+                ], startPoint: .top, endPoint: .bottom)
             }
-            .padding(.horizontal, 24)
-            .padding(.bottom, 24)
-        }
-        .background(
-            themeManager.primaryBackground
-            .ignoresSafeArea()
         )
     }
 }
-
