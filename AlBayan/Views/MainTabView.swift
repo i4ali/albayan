@@ -2,7 +2,7 @@
 //  MainTabView.swift
 //  AlBayan
 //
-//  Main TabView container with Home, Explore, Progress, and a conditional seasonal (Ramadan / Hajj) tab
+//  Main TabView container with Home, Explore, Progress, and a permanent Journeys hub tab
 //
 
 import SwiftUI
@@ -10,15 +10,6 @@ import SwiftUI
 struct MainTabView: View {
     @StateObject private var themeManager = ThemeManager.shared
     @State private var selectedTab = 0
-
-    // Check if Ramadan season is active
-    private var isRamadanSeason: Bool {
-        IslamicCalendarManager.shared.isRamadanSeason()
-    }
-
-    private var isHajjSeason: Bool {
-        IslamicCalendarManager.shared.isHajjSeason()
-    }
 
     var body: some View {
         TabView(selection: $selectedTab) {
@@ -52,30 +43,23 @@ struct MainTabView: View {
                 }
                 .tag(2)
 
-            // Conditional Ramadan tab - only visible during Ramadan season
-            if isRamadanSeason {
-                RamadanJourneyView()
-                    .tabItem {
-                        Label {
-                            Text("Ramadan")
-                        } icon: {
-                            Image(systemName: "moon.stars.fill")
-                        }
+            // Permanent Journeys hub (lists every journey with live Hijri status).
+            JourneyHubView()
+                .tabItem {
+                    Label {
+                        Text("Journeys")
+                    } icon: {
+                        Image(systemName: "map.fill")
                     }
-                    .tag(3)
-            } else if isHajjSeason {
-                HajjJourneyView()
-                    .tabItem {
-                        Label {
-                            Text("Hajj")
-                        } icon: {
-                            Image(systemName: "building.columns.fill")
-                        }
-                    }
-                    .tag(3)
-            }
+                }
+                .tag(3)
         }
         .tint(themeManager.accentColor)
+        .onReceive(NotificationCenter.default.publisher(for: .navigateToJourney)) { note in
+            guard let journeyId = note.userInfo?["journey"] as? String else { return }
+            DeepLinkRouter.shared.pendingJourneyId = journeyId
+            selectedTab = 3
+        }
     }
 }
 

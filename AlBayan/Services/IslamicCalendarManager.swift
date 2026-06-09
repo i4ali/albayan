@@ -13,6 +13,20 @@ class IslamicCalendarManager: ObservableObject {
 
     private init() {}
 
+    #if DEBUG
+    /// Verification-only override for "now". Set from a #Preview to drive any Hijri date.
+    static var debugNowOverride: Date? = nil
+    #endif
+
+    /// The instant all Hijri computations anchor to (overridable in DEBUG for previews).
+    var now: Date {
+        #if DEBUG
+        return Self.debugNowOverride ?? Date()
+        #else
+        return Date()
+        #endif
+    }
+
     // MARK: - Islamic Calendar
 
     /// Get the Islamic (Hijri) calendar
@@ -24,9 +38,7 @@ class IslamicCalendarManager: ObservableObject {
 
     /// Get current Islamic date components
     func currentIslamicDate() -> DateComponents {
-        let now = Date()
-        let components = islamicCalendar.dateComponents([.year, .month, .day, .weekday], from: now)
-        return components
+        return islamicCalendar.dateComponents([.year, .month, .day, .weekday], from: now)
     }
 
     /// Get current Islamic month number (1-12)
