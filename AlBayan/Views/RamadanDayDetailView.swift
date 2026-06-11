@@ -43,9 +43,9 @@ struct RamadanDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("TODAY'S VERSES")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
 
                             Spacer()
                         }
@@ -70,13 +70,13 @@ struct RamadanDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("TAFSIR FOCUS")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text(day.tafsirFocus)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4 * readingSettings.scale)
                     }
@@ -104,13 +104,13 @@ struct RamadanDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("REFLECTION")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text(day.reflection)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false, italic: true) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4 * readingSettings.scale)
                             .italic()
@@ -191,7 +191,8 @@ struct RamadanDayHeader: View {
                         .font(.system(size: 14, weight: .semibold))
 
                     Text("Day \(day.dayNumber)")
-                        .font(.system(size: 14, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(15) : .system(size: 14, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                 }
                 .foregroundColor(themeManager.accentColor)
                 .padding(.horizontal, 16)
@@ -216,11 +217,11 @@ struct RamadanDayHeader: View {
             // Theme
             VStack(alignment: .leading, spacing: 8) {
                 Text(day.theme)
-                    .font(.system(size: 28, weight: .bold, design: .rounded))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(28) : .system(size: 28, weight: .bold, design: .rounded))
                     .foregroundColor(themeManager.primaryText)
 
                 Text(day.themeArabic)
-                    .font(.system(size: 20, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.arabic(22) : .system(size: 20, weight: .medium))
                     .foregroundColor(themeManager.accentColor)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
@@ -258,16 +259,16 @@ struct RamadanDuaSection: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text("TODAY'S DUA")
-                    .font(.system(size: 14, weight: .bold))
-                    .foregroundColor(themeManager.secondaryText)
-                    .tracking(1.2)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                    .tracking(themeManager.isSapphire ? 3 : 1.2)
 
                 Spacer()
             }
 
             // Arabic
             Text(dua.arabic)
-                .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
+                .font(themeManager.isSapphire ? SapphireFont.arabicVerse(26 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                 .foregroundColor(themeManager.primaryText)
                 .lineSpacing(8 * readingSettings.scale)
                 .multilineTextAlignment(.trailing)
@@ -275,13 +276,13 @@ struct RamadanDuaSection: View {
 
             // Transliteration
             Text(dua.transliteration)
-                .font(.system(size: 14 * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(14 * readingSettings.scale, semibold: false, italic: true) : .system(size: 14 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .italic()
 
             // English translation
             Text(dua.english)
-                .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .lineSpacing(4 * readingSettings.scale)
 
@@ -336,8 +337,9 @@ struct RamadanVerseCard: View {
             // Verse header
             HStack {
                 Text("\(surahName) (\(verse.surahNumber):\(verse.verseNumber))")
-                    .font(.system(size: 14, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
                     .foregroundColor(themeManager.accentColor)
+                    .tracking(themeManager.isSapphire ? 2 : 0)
 
                 Spacer()
 
@@ -361,15 +363,15 @@ struct RamadanVerseCard: View {
                 VStack(alignment: .leading, spacing: 12) {
                     // Arabic
                     Text(data.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 22 * readingSettings.scale))
+                        .font(themeManager.isSapphire ? SapphireFont.arabicVerse(24 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 22 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
-                        .lineSpacing(6 * readingSettings.scale)
+                        .lineSpacing((themeManager.isSapphire ? 10 : 6) * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
                         .frame(maxWidth: .infinity, alignment: .trailing)
 
                     // Translation
                     Text(data.translation)
-                        .font(.system(size: 15 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 15 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(4 * readingSettings.scale)
                         .translationLayout(languageManager.selectedLanguage)
@@ -387,7 +389,7 @@ struct RamadanVerseCard: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text(verse.relevanceNote)
-                    .font(.system(size: 14 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(14 * readingSettings.scale, semibold: false) : .system(size: 14 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineSpacing(2 * readingSettings.scale)
             }
@@ -441,16 +443,18 @@ struct RamadanCompleteButton: View {
                     .font(.system(size: 24, weight: .semibold))
 
                 Text(isCompleted ? "Day Completed" : "Mark Day as Complete")
-                    .font(.system(size: 18, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .bold))
             }
-            .foregroundColor(.white)
+            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
             .frame(maxWidth: .infinity)
             .padding(.vertical, 18)
             .background {
                 RoundedRectangle(cornerRadius: 16)
-                    .fill(isCompleted ? greenGradient : themeManager.accentGradient)
+                    .fill(themeManager.isSapphire
+                          ? (isCompleted ? AnyShapeStyle(Color.green.opacity(0.85)) : AnyShapeStyle(themeManager.goldGradient))
+                          : (isCompleted ? AnyShapeStyle(greenGradient) : AnyShapeStyle(themeManager.accentGradient)))
                     .shadow(
-                        color: (isCompleted ? Color.green : themeManager.accentColor).opacity(0.3),
+                        color: (isCompleted ? Color.green : themeManager.accentColor).opacity(themeManager.isSapphire ? 0.24 : 0.3),
                         radius: 12
                     )
             }

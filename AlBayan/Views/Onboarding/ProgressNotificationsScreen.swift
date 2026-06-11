@@ -47,14 +47,18 @@ struct ProgressNotificationsScreen: View {
                         .animation(.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
 
                         Text("Stay Motivated")
-                            .font(.system(size: 28, weight: .bold))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(28)
+                                  : .system(size: 28, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : 20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
                         Text("Build your reading streak and earn badges")
-                            .font(.system(size: 16, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(16, semibold: false)
+                                  : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
@@ -106,29 +110,34 @@ struct ProgressNotificationsScreen: View {
                                     .font(.system(size: 20, weight: .semibold))
 
                                 Text(progressNotificationsEnabled ? "Reminders Enabled" : "Enable Progress Reminders")
-                                    .font(.system(size: 18, weight: .semibold))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.serif(18)
+                                          : .system(size: 18, weight: .semibold))
                             }
-                            .foregroundColor(.white)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 16)
                             .background(
                                 RoundedRectangle(cornerRadius: 16)
                                     .fill(progressNotificationsEnabled ?
-                                        LinearGradient(
+                                          AnyShapeStyle(LinearGradient(
                                             colors: [Color.green, Color.green.opacity(0.8)],
                                             startPoint: .topLeading,
                                             endPoint: .bottomTrailing
-                                        ) : themeManager.purpleGradient)
+                                          )) :
+                                          AnyShapeStyle(themeManager.isSapphire ? themeManager.goldGradient : themeManager.purpleGradient))
                             )
                             .shadow(
-                                color: (progressNotificationsEnabled ? Color.green : Color(red: 0.39, green: 0.4, blue: 0.95)).opacity(0.4),
+                                color: (progressNotificationsEnabled ? Color.green : (themeManager.isSapphire ? themeManager.accentBright : Color(red: 0.39, green: 0.4, blue: 0.95))).opacity(0.4),
                                 radius: 12
                             )
                         }
 
                         if !progressNotificationsEnabled {
                             Text("You can always enable this later in Settings")
-                                .font(.system(size: 13, weight: .medium))
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.serif(13, semibold: false)
+                                      : .system(size: 13, weight: .medium))
                                 .foregroundColor(themeManager.tertiaryText)
                         }
                     }
@@ -160,22 +169,26 @@ struct ProgressFeatureCard: View {
             // Icon
             ZStack {
                 Circle()
-                    .fill(color.opacity(0.2))
+                    .fill(themeManager.isSapphire ? themeManager.goldChipFill : color.opacity(0.2))
                     .frame(width: 50, height: 50)
 
                 Image(systemName: icon)
                     .font(.system(size: 22, weight: .semibold))
-                    .foregroundColor(color)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : color)
             }
 
             // Text
             VStack(alignment: .leading, spacing: 4) {
                 Text(title)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(16)
+                          : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text(description)
-                    .font(.system(size: 14, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(14, semibold: false)
+                          : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineSpacing(2)
             }

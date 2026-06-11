@@ -28,13 +28,27 @@ struct FastingVersesView: View {
                     VStack(spacing: 12) {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Fasting in the Quran")
-                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                                    .foregroundColor(themeManager.primaryText)
+                                if themeManager.isSapphire {
+                                    Text("FASTING")
+                                        .font(SapphireFont.eyebrow)
+                                        .tracking(2.5)
+                                        .foregroundColor(themeManager.accentColor)
+                                    Text("Fasting in the Quran")
+                                        .font(SapphireFont.screenTitle)
+                                        .tracking(0.2)
+                                        .foregroundColor(themeManager.primaryText)
+                                    Text("Verses about fasting and Ramadan")
+                                        .font(.system(size: 13.5))
+                                        .foregroundColor(themeManager.secondaryText)
+                                } else {
+                                    Text("Fasting in the Quran")
+                                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                        .foregroundColor(themeManager.primaryText)
 
-                                Text("Verses about fasting and Ramadan")
-                                    .font(.system(size: 16, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    Text("Verses about fasting and Ramadan")
+                                        .font(.system(size: 16, weight: .medium))
+                                        .foregroundColor(themeManager.secondaryText)
+                                }
                             }
 
                             Spacer()
@@ -128,25 +142,40 @@ struct FastingCategoryCard: View {
         Button(action: onTap) {
             HStack(alignment: .top, spacing: 16) {
                 // Category icon
-                ZStack {
-                    Circle()
-                        .fill(isLocked ? grayGradient : themeManager.accentGradient)
-                        .frame(width: 50, height: 50)
-                        .shadow(
-                            color: isLocked ? Color.clear : themeManager.accentColor.opacity(0.3),
-                            radius: 8
-                        )
-
+                if themeManager.isSapphire {
                     Image(systemName: category.icon)
-                        .font(.system(size: 20, weight: .semibold))
-                        .foregroundColor(isLocked ? themeManager.secondaryText : .white)
+                        .font(.system(size: 20, weight: .regular))
+                        .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.accentColor)
+                        .frame(width: 50, height: 50)
+                        .background(
+                            RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                .fill(isLocked ? Color.gray.opacity(0.12) : themeManager.goldChipFill)
+                        )
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                } else {
+                    ZStack {
+                        Circle()
+                            .fill(isLocked ? grayGradient : themeManager.accentGradient)
+                            .frame(width: 50, height: 50)
+                            .shadow(
+                                color: isLocked ? Color.clear : themeManager.accentColor.opacity(0.3),
+                                radius: 8
+                            )
+
+                        Image(systemName: category.icon)
+                            .font(.system(size: 20, weight: .semibold))
+                            .foregroundColor(isLocked ? themeManager.secondaryText : .white)
+                    }
                 }
 
                 // Category content
                 VStack(alignment: .leading, spacing: 6) {
                     HStack {
                         Text(category.title)
-                            .font(.system(size: 16, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(21) : .system(size: 16, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
 
                         if isLocked {
@@ -163,14 +192,14 @@ struct FastingCategoryCard: View {
                     }
 
                     Text(category.description)
-                        .font(.system(size: 14, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .lineLimit(2)
                         .multilineTextAlignment(.leading)
 
                     // Verse count
                     Text("\(category.verseCount) verse\(category.verseCount == 1 ? "" : "s")")
-                        .font(.system(size: 13, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(14, semibold: false) : .system(size: 13, weight: .medium))
                         .foregroundColor(themeManager.tertiaryText)
                 }
 

@@ -19,33 +19,34 @@ struct DuaDetailSheet: View {
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
                     Text(dua.category.uppercased())
-                        .font(.system(size: 12, weight: .bold)).tracking(1.5)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .bold))
+                        .tracking(themeManager.isSapphire ? 2.5 : 1.5)
                         .foregroundColor(themeManager.accentColor)
 
                     Text(dua.title)
-                        .font(.system(size: 22, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.headline(24) : .system(size: 22, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
 
                     Text(dua.arabic)
-                        .font(.system(size: 26 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.arabic(26 * readingSettings.scale) : .system(size: 26 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(12 * readingSettings.scale)
                         .frame(maxWidth: .infinity, alignment: .trailing)
                         .environment(\.layoutDirection, .rightToLeft)
 
                     Text(dua.transliteration)
-                        .font(.system(size: 15 * readingSettings.scale, weight: .regular, design: .serif))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(14 * readingSettings.scale, semibold: false, italic: true) : .system(size: 15 * readingSettings.scale, weight: .regular, design: .serif))
                         .italic()
                         .foregroundColor(themeManager.secondaryText)
                         .lineSpacing(6 * readingSettings.scale)
 
                     Text(dua.english)
-                        .font(.system(size: 16 * readingSettings.scale, weight: .regular, design: .serif))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .regular, design: .serif))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(7 * readingSettings.scale)
 
-                    Text(dua.source)
-                        .font(.system(size: 13, weight: .semibold))
+                    Text("— \(dua.source)")
+                        .font(themeManager.isSapphire ? SapphireFont.serif(13, semibold: false, italic: true) : .system(size: 13, weight: .semibold))
                         .foregroundColor(themeManager.tertiaryText)
                         .padding(.top, 4)
                 }
@@ -58,6 +59,7 @@ struct DuaDetailSheet: View {
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
                     Button("Done") { dismiss() }
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : nil)
                         .foregroundColor(themeManager.accentColor)
                 }
             }

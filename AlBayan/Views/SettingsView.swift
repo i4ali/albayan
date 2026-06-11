@@ -737,8 +737,9 @@ struct ThemePickerTile: View {
 
     private var previewBackground: Color {
         switch variant {
-        case .warmInviting: return Color(red: 0.973, green: 0.961, blue: 1.0)
-        case .rosewater:    return Color(red: 0.992, green: 0.953, blue: 0.949)
+        case .warmInviting:  return Color(red: 0.973, green: 0.961, blue: 1.0)
+        case .rosewater:     return Color(red: 0.992, green: 0.953, blue: 0.949)
+        case .royalSapphire: return Color(hex: "#0A1124")
         }
     }
 
@@ -758,6 +759,10 @@ struct ThemePickerTile: View {
                     Color(red: 0.576, green: 0.471, blue: 0.631)
                 ],
                 startPoint: .topLeading, endPoint: .bottomTrailing)
+        case .royalSapphire:
+            return LinearGradient(
+                colors: [Color(hex: "#F2E2A8"), Color(hex: "#B5963F")],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
         }
     }
 
@@ -776,6 +781,10 @@ struct ThemePickerTile: View {
                     Color(red: 0.847, green: 0.514, blue: 0.502),
                     Color(red: 0.749, green: 0.420, blue: 0.408)
                 ],
+                startPoint: .topLeading, endPoint: .bottomTrailing)
+        case .royalSapphire:
+            return LinearGradient(
+                colors: [Color(hex: "#5B9BE0"), Color(hex: "#3F7BC0")],
                 startPoint: .topLeading, endPoint: .bottomTrailing)
         }
     }

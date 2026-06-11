@@ -37,14 +37,24 @@ struct AhlulbaytEntryDetailView: View {
                                     .font(.system(size: 14, weight: .semibold))
 
                                 Text(entry.category.displayName)
-                                    .font(.system(size: 14, weight: .semibold))
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
                             }
-                            .foregroundColor(themeManager.accentColor)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                             .padding(.horizontal, 16)
                             .padding(.vertical, 8)
                             .background {
-                                Capsule()
-                                    .fill(themeManager.accentColor.opacity(0.15))
+                                if themeManager.isSapphire {
+                                    Capsule()
+                                        .fill(AnyShapeStyle(themeManager.goldChipFill))
+                                        .overlay(
+                                            Capsule()
+                                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                                        )
+                                } else {
+                                    Capsule()
+                                        .fill(themeManager.accentColor.opacity(0.15))
+                                }
                             }
 
                             Spacer()
@@ -58,20 +68,27 @@ struct AhlulbaytEntryDetailView: View {
                                     .foregroundColor(themeManager.accentColor)
 
                                 Text("AHL AL-BAYT IN THE QURAN")
-                                    .font(.system(size: 14, weight: .bold))
-                                    .foregroundColor(themeManager.secondaryText)
-                                    .tracking(1.2)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 3 : 1.2)
                             }
 
                             Text(entry.title)
-                                .font(.system(size: 24, weight: .bold, design: .rounded))
+                                .font(themeManager.isSapphire ? SapphireFont.headline(26) : .system(size: 24, weight: .bold, design: .rounded))
                                 .foregroundColor(themeManager.primaryText)
                                 .lineSpacing(4)
                         }
                     }
                     .padding(24)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 24)
+                                .fill(AnyShapeStyle(themeManager.cardElevated))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 24)
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 24)
                                 .fill(Color.white)
                                 .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -96,28 +113,45 @@ struct AhlulbaytEntryDetailView: View {
                                     .foregroundColor(themeManager.accentColor)
 
                                 Text("AHL AL-BAYT MEMBERS")
-                                    .font(.system(size: 14, weight: .bold))
-                                    .foregroundColor(themeManager.secondaryText)
-                                    .tracking(1.2)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 3 : 1.2)
                             }
 
                             FlowLayout(spacing: 8) {
                                 ForEach(entry.ahlulbaytMembers, id: \.self) { member in
                                     Text(member)
-                                        .font(.system(size: 14, weight: .semibold))
-                                        .foregroundColor(themeManager.accentColor)
+                                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                                        .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
+                                        .tracking(themeManager.isSapphire ? 2 : 0)
                                         .padding(.horizontal, 14)
                                         .padding(.vertical, 8)
                                         .background {
-                                            Capsule()
-                                                .fill(themeManager.accentColor.opacity(0.12))
+                                            if themeManager.isSapphire {
+                                                Capsule()
+                                                    .fill(AnyShapeStyle(themeManager.goldChipFill))
+                                                    .overlay(
+                                                        Capsule()
+                                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                                    )
+                                            } else {
+                                                Capsule()
+                                                    .fill(themeManager.accentColor.opacity(0.12))
+                                            }
                                         }
                                 }
                             }
                         }
                         .padding(20)
                         .background {
-                            if themeManager.useWarmLayout {
+                            if themeManager.isSapphire {
+                                RoundedRectangle(cornerRadius: 20)
+                                    .fill(AnyShapeStyle(themeManager.cardBackground))
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 20)
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                            } else if themeManager.useWarmLayout {
                                 RoundedRectangle(cornerRadius: 20)
                                     .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                             } else {
@@ -140,13 +174,13 @@ struct AhlulbaytEntryDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("QURANIC REFERENCE")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text("This entry references \(entry.verseCount) verse\(entry.verseCount == 1 ? "" : "s"):")
-                            .font(.system(size: 16, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.body(16) : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)
@@ -173,19 +207,26 @@ struct AhlulbaytEntryDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("REVELATION CONTEXT")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text(entry.revelationContext)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(6 * readingSettings.scale)
                     }
                     .padding(20)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 20)
+                                .fill(AnyShapeStyle(themeManager.cardBackground))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 20)
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                         } else {
@@ -208,9 +249,9 @@ struct AhlulbaytEntryDetailView: View {
                                     .foregroundColor(themeManager.accentColor)
 
                                 Text("RELATED ENTRIES")
-                                    .font(.system(size: 14, weight: .bold))
-                                    .foregroundColor(themeManager.secondaryText)
-                                    .tracking(1.2)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 3 : 1.2)
                             }
 
                             ForEach(relatedEntries) { relatedEntry in
@@ -281,21 +322,22 @@ struct AhlulbaytVerseCard: View {
                 // Verse number badge
                 ZStack {
                     Circle()
-                        .fill(themeManager.accentGradient)
+                        .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
                         .frame(width: 40, height: 40)
 
                     Text("\(index)")
-                        .font(.system(size: 16, weight: .bold))
-                        .foregroundColor(.white)
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(18) : .system(size: 16, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                 }
 
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Verse \(index) of \(totalVerses)")
-                        .font(.system(size: 13, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .semibold))
                         .foregroundColor(themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
 
                     Text("\(surahName) (\(ahlulbaytVerse.surahNumber):\(ahlulbaytVerse.verseNumber))")
-                        .font(.system(size: 15, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.headline(16) : .system(size: 15, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
                 }
 
@@ -303,14 +345,24 @@ struct AhlulbaytVerseCard: View {
 
                 if ahlulbaytVerse.isPrimary {
                     Text("PRIMARY")
-                        .font(.system(size: 11, weight: .bold))
-                        .foregroundColor(themeManager.accentColor)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 11, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
                         .background {
-                            Capsule()
-                                .fill(themeManager.accentColor.opacity(0.15))
+                            if themeManager.isSapphire {
+                                Capsule()
+                                    .fill(AnyShapeStyle(themeManager.goldChipFill))
+                                    .overlay(
+                                        Capsule()
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                            } else {
+                                Capsule()
+                                    .fill(themeManager.accentColor.opacity(0.15))
+                            }
                         }
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                 }
             }
             .padding(20)
@@ -323,7 +375,7 @@ struct AhlulbaytVerseCard: View {
                 VStack(alignment: .leading, spacing: 16) {
                     // Arabic text
                     Text(verse.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
+                        .font(themeManager.isSapphire ? SapphireFont.arabicVerse(26 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(8 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
@@ -331,7 +383,7 @@ struct AhlulbaytVerseCard: View {
 
                     // Translation
                     Text(verse.translation)
-                        .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(4 * readingSettings.scale)
                         .translationLayout(languageManager.selectedLanguage)
@@ -350,19 +402,23 @@ struct AhlulbaytVerseCard: View {
                         .foregroundColor(themeManager.accentColor)
 
                     Text("Verse Context")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                 }
 
                 Text(ahlulbaytVerse.context)
-                    .font(.system(size: 15 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(15 * readingSettings.scale, semibold: false) : .system(size: 15 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4 * readingSettings.scale)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
             .padding(20)
             .background {
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    Rectangle()
+                        .fill(AnyShapeStyle(themeManager.cardBackground))
+                } else if themeManager.useWarmLayout {
                     Rectangle()
                         .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                 } else {
@@ -382,15 +438,21 @@ struct AhlulbaytVerseCard: View {
                             .font(.system(size: 14))
 
                         Text("Read Full Tafsir")
-                            .font(.system(size: 14, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.headline(15) : .system(size: 14, weight: .semibold))
                     }
-                    .foregroundColor(.white)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                     .padding(.horizontal, 20)
                     .padding(.vertical, 12)
                     .background {
-                        Capsule()
-                            .fill(themeManager.accentGradient)
-                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        if themeManager.isSapphire {
+                            Capsule()
+                                .fill(AnyShapeStyle(themeManager.goldGradient))
+                                .shadow(color: themeManager.accentColor.opacity(0.35), radius: 8)
+                        } else {
+                            Capsule()
+                                .fill(themeManager.accentGradient)
+                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        }
                     }
                 }
 
@@ -399,7 +461,14 @@ struct AhlulbaytVerseCard: View {
             .padding(20)
         }
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 24)
+                    .fill(AnyShapeStyle(themeManager.cardElevated))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 24)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -426,20 +495,30 @@ struct RelatedEntryCard: View {
             HStack(spacing: 12) {
                 Image(systemName: entry.categoryIcon)
                     .font(.system(size: 16, weight: .semibold))
-                    .foregroundColor(themeManager.accentColor)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                     .frame(width: 32, height: 32)
                     .background {
-                        Circle()
-                            .fill(themeManager.accentColor.opacity(0.15))
+                        if themeManager.isSapphire {
+                            Circle()
+                                .fill(AnyShapeStyle(themeManager.goldChipFill))
+                                .overlay(
+                                    Circle()
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else {
+                            Circle()
+                                .fill(themeManager.accentColor.opacity(0.15))
+                        }
                     }
 
                 VStack(alignment: .leading, spacing: 4) {
                     Text(entry.category.displayName)
-                        .font(.system(size: 12, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .bold))
                         .foregroundColor(themeManager.accentColor)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
 
                     Text(entry.title)
-                        .font(.system(size: 15, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.headline(16) : .system(size: 15, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
                         .lineLimit(2)
                 }
@@ -452,7 +531,14 @@ struct RelatedEntryCard: View {
             }
             .padding(16)
             .background {
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    RoundedRectangle(cornerRadius: 16)
+                        .fill(AnyShapeStyle(themeManager.cardBackground))
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 16)
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                } else if themeManager.useWarmLayout {
                     RoundedRectangle(cornerRadius: 16)
                         .fill(Color.white)
                         .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)

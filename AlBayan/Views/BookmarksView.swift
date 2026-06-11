@@ -52,6 +52,15 @@ struct BookmarksView: View {
         }
         .navigationTitle("Bookmarks")
         .navigationBarTitleDisplayMode(.large)
+        .toolbar {
+            if themeManager.isSapphire {
+                ToolbarItem(placement: .principal) {
+                    Text("Bookmarks")
+                        .font(SapphireFont.screenTitle)
+                        .foregroundColor(themeManager.primaryText)
+                }
+            }
+        }
         .preferredColorScheme(themeManager.colorScheme)
         .searchable(text: $searchText, prompt: "Search bookmarks...")
         .sheet(isPresented: $showingBookmarkDetail) {
@@ -102,8 +111,10 @@ struct ModernBookmarksHeader: View {
                 VStack(spacing: 4) {
                     if bookmarkCount > 0 {
                         Text("\(bookmarkCount) saved")
-                            .font(.system(size: 14, weight: .medium))
-                            .foregroundColor(themeManager.secondaryText)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .medium))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                            .tracking(themeManager.isSapphire ? 2 : 0)
+                            .textCase(themeManager.isSapphire ? .uppercase : .none)
                     }
                 }
                 
@@ -277,16 +288,18 @@ struct BookmarkCardContent: View {
             HStack {
                 VStack(alignment: .leading, spacing: 4) {
                     Text(bookmark.surahName)
-                        .font(.system(size: 16, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(19) : .system(size: 16, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
-                    
+
                     Text("Verse \(bookmark.verseNumber)")
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : .none)
                 }
-                
+
                 Spacer()
-                
+
                 HStack(spacing: 8) {
                     if showingDeleteButton {
                         Button(action: onDelete) {
@@ -301,7 +314,7 @@ struct BookmarkCardContent: View {
                         }
                         .transition(.scale.combined(with: .opacity))
                     }
-                    
+
                     Button(action: onDelete) {
                         Image(systemName: "heart.fill")
                             .font(.system(size: 14))
@@ -309,34 +322,42 @@ struct BookmarkCardContent: View {
                     }
                 }
             }
-            
+
             // Verse translation preview
             Text(bookmark.verseTranslation)
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .lineLimit(2)
                 .multilineTextAlignment(.leading)
-            
+
             // Tags if any
             if !bookmark.tags.isEmpty {
                 ScrollView(.horizontal, showsIndicators: false) {
                     HStack(spacing: 8) {
                         ForEach(bookmark.tags, id: \.self) { tag in
                             Text(tag)
-                                .font(.system(size: 10, weight: .medium))
-                                .foregroundColor(themeManager.primaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10, weight: .medium))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                                 .padding(.horizontal, 8)
                                 .padding(.vertical, 4)
                                 .background(
                                     RoundedRectangle(cornerRadius: 12)
-                                        .fill(themeManager.accentGradient)
+                                        .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(themeManager.accentGradient))
+                                        .overlay(
+                                            themeManager.isSapphire ?
+                                            RoundedRectangle(cornerRadius: 12)
+                                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                                            : nil
+                                        )
                                 )
                         }
                     }
                     .padding(.horizontal, 1)
                 }
             }
-            
+
             // Date
             HStack {
                 Spacer()
@@ -351,12 +372,17 @@ struct BookmarkCardContent: View {
                 .fill(themeManager.glassEffect)
                 .overlay(
                     RoundedRectangle(cornerRadius: 16)
-                        .stroke(isFocused ? Color.blue.opacity(0.6) : themeManager.strokeColor, lineWidth: isFocused ? 2 : 1)
+                        .stroke(
+                            isFocused
+                                ? (themeManager.isSapphire ? themeManager.accentColor : Color.blue.opacity(0.6))
+                                : themeManager.strokeColor,
+                            lineWidth: isFocused ? 2 : 1
+                        )
                 )
                 .overlay(
                     // Focus indicator
                     isFocused ? RoundedRectangle(cornerRadius: 16)
-                        .fill(Color.blue.opacity(0.1))
+                        .fill(themeManager.isSapphire ? themeManager.accentColor.opacity(0.08) : Color.blue.opacity(0.1))
                         .animation(.easeInOut(duration: 0.3), value: isFocused)
                     : nil
                 )
@@ -381,7 +407,7 @@ struct BookmarkCardContent: View {
                 }
                 .onEnded { value in
                     isPressed = false
-                    
+
                     // Determine swipe direction based on vertical movement
                     let translation = value.translation
                     let swipeThreshold: CGFloat = 50
@@ -394,7 +420,7 @@ struct BookmarkCardContent: View {
                             onSwipe(index, .down)
                         }
                     }
-                    
+
                     // Reset drag offset
                     withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
                         dragOffset = .zero
@@ -422,16 +448,18 @@ struct BookmarkCard: View {
             HStack {
                 VStack(alignment: .leading, spacing: 4) {
                     Text(bookmark.surahName)
-                        .font(.system(size: 16, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(19) : .system(size: 16, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
-                    
+
                     Text("Verse \(bookmark.verseNumber)")
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : .none)
                 }
-                
+
                 Spacer()
-                
+
                 HStack(spacing: 8) {
                     if showingDeleteButton {
                         Button(action: onDelete) {
@@ -446,7 +474,7 @@ struct BookmarkCard: View {
                         }
                         .transition(.scale.combined(with: .opacity))
                     }
-                    
+
                     Button(action: onDelete) {
                         Image(systemName: "heart.fill")
                             .font(.system(size: 14))
@@ -454,34 +482,42 @@ struct BookmarkCard: View {
                     }
                 }
             }
-            
+
             // Verse translation preview
             Text(bookmark.verseTranslation)
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .lineLimit(2)
                 .multilineTextAlignment(.leading)
-            
+
             // Tags if any
             if !bookmark.tags.isEmpty {
                 ScrollView(.horizontal, showsIndicators: false) {
                     HStack(spacing: 8) {
                         ForEach(bookmark.tags, id: \.self) { tag in
                             Text(tag)
-                                .font(.system(size: 10, weight: .medium))
-                                .foregroundColor(themeManager.primaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10, weight: .medium))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                                 .padding(.horizontal, 8)
                                 .padding(.vertical, 4)
                                 .background(
                                     RoundedRectangle(cornerRadius: 12)
-                                        .fill(themeManager.accentGradient)
+                                        .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(themeManager.accentGradient))
+                                        .overlay(
+                                            themeManager.isSapphire ?
+                                            RoundedRectangle(cornerRadius: 12)
+                                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                                            : nil
+                                        )
                                 )
                         }
                     }
                     .padding(.horizontal, 1)
                 }
             }
-            
+
             // Date
             HStack {
                 Spacer()
@@ -496,12 +532,17 @@ struct BookmarkCard: View {
                 .fill(themeManager.glassEffect)
                 .overlay(
                     RoundedRectangle(cornerRadius: 16)
-                        .stroke(isFocused ? Color.blue.opacity(0.6) : themeManager.strokeColor, lineWidth: isFocused ? 2 : 1)
+                        .stroke(
+                            isFocused
+                                ? (themeManager.isSapphire ? themeManager.accentColor : Color.blue.opacity(0.6))
+                                : themeManager.strokeColor,
+                            lineWidth: isFocused ? 2 : 1
+                        )
                 )
                 .overlay(
                     // Focus indicator
                     isFocused ? RoundedRectangle(cornerRadius: 16)
-                        .fill(Color.blue.opacity(0.1))
+                        .fill(themeManager.isSapphire ? themeManager.accentColor.opacity(0.08) : Color.blue.opacity(0.1))
                         .animation(.easeInOut(duration: 0.3), value: isFocused)
                     : nil
                 )
@@ -534,7 +575,7 @@ struct BookmarkCard: View {
                 }
                 .onEnded { value in
                     isPressed = false
-                    
+
                     // Determine swipe direction based on vertical movement
                     let translation = value.translation
                     let swipeThreshold: CGFloat = 50
@@ -547,7 +588,7 @@ struct BookmarkCard: View {
                             onSwipe(index, .down)
                         }
                     }
-                    
+
                     // Reset drag offset
                     withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
                         dragOffset = .zero
@@ -566,15 +607,15 @@ struct EmptyBookmarksView: View {
             
             Image(systemName: "heart")
                 .font(.system(size: 60, weight: .thin))
-                .foregroundColor(themeManager.secondaryText)
-            
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+
             VStack(spacing: 8) {
                 Text("No Bookmarks Yet")
-                    .font(.system(size: 20, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(22) : .system(size: 20, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
-                
+
                 Text("Tap the heart icon on any verse to save it for later reading")
-                    .font(.system(size: 14))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 14))
                     .foregroundColor(themeManager.secondaryText)
                     .multilineTextAlignment(.center)
                     .padding(.horizontal, 40)
@@ -620,35 +661,39 @@ struct BookmarkDetailView: View {
                         // Surah and verse info
                         VStack(alignment: .leading, spacing: 8) {
                             Text(bookmark.surahName)
-                                .font(.system(size: 24, weight: .bold))
+                                .font(themeManager.isSapphire ? SapphireFont.headline(24) : .system(size: 24, weight: .bold))
                                 .foregroundColor(themeManager.primaryText)
-                            
+
                             Text("Verse \(bookmark.verseNumber)")
-                                .font(.system(size: 16, weight: .medium))
-                                .foregroundColor(themeManager.secondaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 16, weight: .medium))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                         }
-                        
+
                         // Arabic text
                         Text(bookmark.verseText)
-                            .font(.system(size: 22, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.arabic(24) : .system(size: 22, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .multilineTextAlignment(.trailing)
                             .frame(maxWidth: .infinity, alignment: .trailing)
-                            .lineSpacing(6)
+                            .lineSpacing(themeManager.isSapphire ? 14 : 6)
                             .padding()
                             .background(
                                 RoundedRectangle(cornerRadius: 16)
                                     .fill(themeManager.glassEffect)
                             )
-                        
+
                         // Translation
                         VStack(alignment: .leading, spacing: 8) {
                             Text("Translation")
-                                .font(.system(size: 14, weight: .semibold))
-                                .foregroundColor(themeManager.secondaryText)
-                            
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
+
                             Text(bookmark.verseTranslation)
-                                .font(.system(size: 16, weight: .medium))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 16, weight: .medium))
                                 .foregroundColor(themeManager.primaryText)
                                 .lineSpacing(4)
                         }
@@ -657,16 +702,18 @@ struct BookmarkDetailView: View {
                             RoundedRectangle(cornerRadius: 16)
                                 .fill(themeManager.glassEffect)
                         )
-                        
+
                         // Notes if any
                         if let notes = bookmark.notes, !notes.isEmpty {
                             VStack(alignment: .leading, spacing: 8) {
                                 Text("Notes")
-                                    .font(.system(size: 14, weight: .semibold))
-                                    .foregroundColor(themeManager.secondaryText)
-                                
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
+                                    .textCase(themeManager.isSapphire ? .uppercase : .none)
+
                                 Text(notes)
-                                    .font(.system(size: 16))
+                                    .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 16))
                                     .foregroundColor(themeManager.primaryText)
                             }
                             .padding()
@@ -675,24 +722,34 @@ struct BookmarkDetailView: View {
                                     .fill(themeManager.glassEffect)
                             )
                         }
-                        
+
                         // Tags if any
                         if !bookmark.tags.isEmpty {
                             VStack(alignment: .leading, spacing: 8) {
                                 Text("Tags")
-                                    .font(.system(size: 14, weight: .semibold))
-                                    .foregroundColor(themeManager.secondaryText)
-                                
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
+                                    .textCase(themeManager.isSapphire ? .uppercase : .none)
+
                                 LazyVGrid(columns: Array(repeating: GridItem(.flexible()), count: 2), spacing: 8) {
                                     ForEach(bookmark.tags, id: \.self) { tag in
                                         Text(tag)
-                                            .font(.system(size: 12, weight: .medium))
-                                            .foregroundColor(themeManager.primaryText)
+                                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
+                                            .tracking(themeManager.isSapphire ? 2 : 0)
+                                            .textCase(themeManager.isSapphire ? .uppercase : .none)
                                             .padding(.horizontal, 12)
                                             .padding(.vertical, 6)
                                             .background(
                                                 RoundedRectangle(cornerRadius: 16)
-                                                    .fill(themeManager.accentGradient)
+                                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(themeManager.accentGradient))
+                                                    .overlay(
+                                                        themeManager.isSapphire ?
+                                                        RoundedRectangle(cornerRadius: 16)
+                                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                                        : nil
+                                                    )
                                             )
                                     }
                                 }
@@ -712,7 +769,16 @@ struct BookmarkDetailView: View {
                     Button("Done") {
                         dismiss()
                     }
-                    .foregroundColor(themeManager.primaryText)
+                    .font(themeManager.isSapphire ? SapphireFont.serif(16) : .body)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : themeManager.primaryText)
+                    .padding(themeManager.isSapphire ? .horizontal : [])
+                    .padding(themeManager.isSapphire ? .vertical : [], themeManager.isSapphire ? 6 : 0)
+                    .background {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 8)
+                                .fill(AnyShapeStyle(themeManager.goldGradient))
+                        }
+                    }
                 }
             }
         }

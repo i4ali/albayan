@@ -21,14 +21,18 @@ struct FinalScreen: View {
                     // Header
                     VStack(spacing: 16) {
                         Text("Begin Your Journey")
-                            .font(.system(size: 32, weight: .bold))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(32)
+                                  : .system(size: 32, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : -20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
                         Text("Tap below to begin")
-                            .font(.system(size: 16, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(16, semibold: false)
+                                  : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
@@ -41,16 +45,22 @@ struct FinalScreen: View {
                                 Image(systemName: "book.closed")
                                     .font(.system(size: 18, weight: .semibold))
                                 Text("Get Started")
-                                    .font(.system(size: 18, weight: .semibold))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.serif(18)
+                                          : .system(size: 18, weight: .semibold))
                             }
-                            .foregroundColor(.white)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 16)
                             .background(
                                 RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.purpleGradient)
+                                    .fill(themeManager.isSapphire
+                                          ? AnyShapeStyle(themeManager.goldGradient)
+                                          : AnyShapeStyle(themeManager.purpleGradient))
                             )
-                            .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
+                            .shadow(color: themeManager.isSapphire
+                                    ? themeManager.goldButtonShadow
+                                    : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
                         }
                     }
                     .padding(.horizontal, 24)

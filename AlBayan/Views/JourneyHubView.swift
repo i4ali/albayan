@@ -87,10 +87,11 @@ struct JourneyHubView: View {
     private var header: some View {
         VStack(alignment: .leading, spacing: 7) {
             Text("SACRED SEASONS")
-                .font(.system(size: 11, weight: .bold)).tracking(3)
+                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 11, weight: .bold))
+                .tracking(themeManager.isSapphire ? 2.5 : 3)
                 .foregroundColor(themeManager.accentColor)
             Text("Journeys")
-                .font(.system(size: 34, weight: .bold, design: .rounded))
+                .font(themeManager.isSapphire ? SapphireFont.screenTitle : .system(size: 34, weight: .bold, design: .rounded))
                 .foregroundColor(themeManager.primaryText)
             Text("Live each sacred season deeply, and let it transform you.")
                 .font(.system(size: 14, weight: .medium))
@@ -166,15 +167,16 @@ struct JourneyCard: View {
                         nextUpPill
                     } else {
                         Text(descriptor.eyebrow.uppercased())
-                            .font(.system(size: 10.5, weight: .bold)).tracking(2)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10.5, weight: .bold))
+                            .tracking(themeManager.isSapphire ? 2.5 : 2)
                             .foregroundColor(themeManager.accentColor)
                     }
                     Text(descriptor.title)
-                        .font(.system(size: 22, weight: .bold, design: .rounded))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(21) : .system(size: 22, weight: .bold, design: .rounded))
                         .foregroundColor(themeManager.primaryText)
                     Text(detailLine)
                         .font(.system(size: 13, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.tertiaryText : themeManager.secondaryText)
                 }
                 Spacer(minLength: 8)
                 trailingGlyph
@@ -182,7 +184,9 @@ struct JourneyCard: View {
             .padding(16)
             .background {
                 RoundedRectangle(cornerRadius: 20, style: .continuous)
-                    .fill(themeManager.cardBackground)
+                    .fill(themeManager.isSapphire && status.isActive
+                          ? themeManager.cardElevated
+                          : themeManager.cardBackground)
                     .shadow(color: Color.black.opacity(status.isActive ? 0.10 : 0.05),
                             radius: status.isActive ? 16 : 10, x: 0, y: 4)
             }
@@ -202,22 +206,44 @@ struct JourneyCard: View {
 
     private var iconChip: some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 14, style: .continuous)
-                .fill(status.isActive ? AnyShapeStyle(themeManager.accentGradient)
-                                      : AnyShapeStyle(themeManager.accentColor.opacity(0.12)))
-                .frame(width: 50, height: 50)
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                    .fill(themeManager.goldChipFill)
+                    .frame(width: 50, height: 50)
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else {
+                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                    .fill(status.isActive ? AnyShapeStyle(themeManager.accentGradient)
+                                          : AnyShapeStyle(themeManager.accentColor.opacity(0.12)))
+                    .frame(width: 50, height: 50)
+            }
             Image(systemName: descriptor.sfSymbol)
                 .font(.system(size: 20, weight: .regular))
-                .foregroundColor(status.isActive ? .white : themeManager.accentColor)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor
+                                                         : (status.isActive ? .white : themeManager.accentColor))
         }
     }
 
     private var nextUpPill: some View {
         Text("NEXT UP")
             .font(.system(size: 9, weight: .heavy)).tracking(1.6)
-            .foregroundColor(.white)
+            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : .white)
             .padding(.horizontal, 8).padding(.vertical, 3)
-            .background(Capsule().fill(themeManager.accentGradient))
+            .background(
+                Capsule().fill(
+                    themeManager.isSapphire
+                        ? AnyShapeStyle(themeManager.goldChipFill)
+                        : AnyShapeStyle(themeManager.accentGradient)
+                )
+            )
+            .overlay(
+                themeManager.isSapphire
+                    ? AnyView(Capsule().stroke(themeManager.accentColor.opacity(0.5), lineWidth: 1))
+                    : AnyView(EmptyView())
+            )
     }
 
     private var detailLine: String {

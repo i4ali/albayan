@@ -37,7 +37,7 @@ struct QuickGemsScreen: View {
                 ZStack {
                     // Glow effect
                     Circle()
-                        .fill(Color.orange.opacity(0.2))
+                        .fill(themeManager.isSapphire ? themeManager.accentColor.opacity(0.2) : Color.orange.opacity(0.2))
                         .frame(width: 100, height: 100)
                         .blur(radius: 20)
                         .scaleEffect(iconPulse ? 1.2 : 1.0)
@@ -47,26 +47,38 @@ struct QuickGemsScreen: View {
                         )
 
                     // Icon background
-                    Circle()
-                        .fill(
-                            LinearGradient(
-                                colors: [Color.orange.opacity(0.3), Color.yellow.opacity(0.2)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+                    if themeManager.isSapphire {
+                        Circle()
+                            .fill(themeManager.goldChipFill)
+                            .frame(width: 80, height: 80)
+                    } else {
+                        Circle()
+                            .fill(
+                                LinearGradient(
+                                    colors: [Color.orange.opacity(0.3), Color.yellow.opacity(0.2)],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
                             )
-                        )
-                        .frame(width: 80, height: 80)
+                            .frame(width: 80, height: 80)
+                    }
 
                     // Sparkles icon
-                    Image(systemName: "sparkles")
-                        .font(.system(size: 38, weight: .semibold))
-                        .foregroundStyle(
-                            LinearGradient(
-                                colors: [.orange, .yellow],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+                    if themeManager.isSapphire {
+                        Image(systemName: "sparkles")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                    } else {
+                        Image(systemName: "sparkles")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [.orange, .yellow],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
                             )
-                        )
+                    }
                 }
                 .opacity(isVisible ? 1 : 0)
                 .scaleEffect(isVisible ? 1 : 0.5)
@@ -74,16 +86,22 @@ struct QuickGemsScreen: View {
 
                 // Title
                 Text("Gems")
-                    .font(.system(size: 34, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(34)
+                          : .system(size: 34, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
-                // Subtitle
+                // Subtitle / eyebrow
                 Text("Precious insights unveiled")
-                    .font(.system(size: 17, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 17, weight: .medium))
+                    .tracking(themeManager.isSapphire ? 2 : 0)
+                    .textCase(themeManager.isSapphire ? .uppercase : nil)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
             }
@@ -112,7 +130,9 @@ struct QuickGemsScreen: View {
                             )
 
                         Text("Al-Baqarah 255")
-                            .font(.system(size: 14, weight: .semibold))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(14, semibold: false)
+                                  : .system(size: 14, weight: .semibold))
                             .foregroundColor(themeManager.secondaryText)
                     }
 
@@ -195,10 +215,12 @@ struct DemoConceptBubble: View {
         HStack(spacing: 8) {
             Image(systemName: icon)
                 .font(.system(size: 14, weight: .semibold))
-                .foregroundColor(color)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : color)
 
             Text(title)
-                .font(.system(size: 13, weight: .semibold))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(13)
+                      : .system(size: 13, weight: .semibold))
                 .foregroundColor(themeManager.primaryText)
                 .lineLimit(1)
         }
@@ -209,10 +231,15 @@ struct DemoConceptBubble: View {
                 .fill(themeManager.glassEffect)
                 .overlay(
                     Capsule()
-                        .stroke(isHighlighted ? color : color.opacity(0.3), lineWidth: isHighlighted ? 2 : 1)
+                        .stroke(
+                            isHighlighted
+                                ? (themeManager.isSapphire ? themeManager.accentBright : color)
+                                : (themeManager.isSapphire ? themeManager.accentBright.opacity(0.3) : color.opacity(0.3)),
+                            lineWidth: isHighlighted ? 2 : 1
+                        )
                 )
         )
-        .shadow(color: isHighlighted ? color.opacity(0.4) : Color.clear, radius: 8)
+        .shadow(color: isHighlighted ? (themeManager.isSapphire ? themeManager.accentColor.opacity(0.4) : color.opacity(0.4)) : Color.clear, radius: 8)
         .scaleEffect(isHighlighted ? 1.05 : 1.0)
     }
 }
@@ -231,21 +258,29 @@ struct DemoInsightCard: View {
             HStack(spacing: 10) {
                 Image(systemName: concept.icon)
                     .font(.system(size: 16, weight: .semibold))
-                    .foregroundColor(concept.color)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : concept.color)
 
                 Text(concept.title.uppercased())
-                    .font(.system(size: 13, weight: .bold, design: .rounded))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 13, weight: .bold, design: .rounded))
+                    .tracking(themeManager.isSapphire ? 2 : 0)
                     .foregroundColor(themeManager.primaryText)
             }
 
             // Core Insight
             VStack(alignment: .leading, spacing: 6) {
                 Text("The Core Insight:")
-                    .font(.system(size: 12, weight: .bold))
-                    .foregroundColor(concept.color)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 12, weight: .bold))
+                    .tracking(themeManager.isSapphire ? 2 : 0)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : concept.color)
 
                 Text(concept.coreInsight)
-                    .font(.system(size: 14, weight: .regular, design: .serif))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(14, semibold: false)
+                          : .system(size: 14, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4)
             }
@@ -253,11 +288,16 @@ struct DemoInsightCard: View {
             // Why it matters
             VStack(alignment: .leading, spacing: 6) {
                 Text("Why it matters:")
-                    .font(.system(size: 12, weight: .bold))
-                    .foregroundColor(concept.color)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 12, weight: .bold))
+                    .tracking(themeManager.isSapphire ? 2 : 0)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : concept.color)
 
                 Text(concept.whyItMatters)
-                    .font(.system(size: 14, weight: .regular, design: .serif))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(14, semibold: false)
+                          : .system(size: 14, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4)
             }
@@ -271,7 +311,7 @@ struct DemoInsightCard: View {
         )
         .overlay(
             RoundedRectangle(cornerRadius: 16)
-                .stroke(concept.color.opacity(0.3), lineWidth: 1)
+                .stroke(themeManager.isSapphire ? themeManager.strokeColor : concept.color.opacity(0.3), lineWidth: 1)
         )
         .opacity(isVisible ? 1 : 0)
         .animation(Animation.easeOut(duration: 0.6).delay(0.8), value: isVisible)
@@ -293,7 +333,7 @@ struct HighlightedArabicVerse: View {
     ]
 
     private var highlightColor: Color {
-        conceptColors[highlightedConcept]
+        themeManager.isSapphire ? themeManager.accentBright : conceptColors[highlightedConcept]
     }
 
     var body: some View {
@@ -316,7 +356,9 @@ struct HighlightedArabicVerse: View {
             Text("ٱلْقَيُّومُ")
                 .foregroundColor((highlightedConcept == 0 || highlightedConcept == 3) ? highlightColor : themeManager.primaryText)
         }
-        .font(.system(size: 24, weight: .medium))
+        .font(themeManager.isSapphire
+              ? SapphireFont.arabic(24)
+              : .system(size: 24, weight: .medium))
         .multilineTextAlignment(.center)
         .lineSpacing(8)
         .animation(.easeInOut(duration: 0.3), value: highlightedConcept)

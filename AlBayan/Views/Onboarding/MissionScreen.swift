@@ -66,7 +66,9 @@ struct MissionScreen: View {
                 // Mission statement
                 VStack(spacing: 24) {
                     Text("This app brings those teachings to your fingertips")
-                        .font(.system(size: 26, weight: .semibold))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(26)
+                              : .system(size: 26, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
                         .multilineTextAlignment(.center)
                         .lineSpacing(6)
@@ -76,7 +78,9 @@ struct MissionScreen: View {
                         .animation(Animation.easeOut(duration: 0.8).delay(0.8), value: isVisible)
 
                     Text("Through authentic classical and contemporary Sunni scholarship, with balanced comparative perspectives")
-                        .font(.system(size: 18, weight: .medium))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(17, semibold: false)
+                              : .system(size: 18, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .multilineTextAlignment(.center)
                         .lineSpacing(5)
@@ -153,18 +157,31 @@ struct HighlightRow: View {
 
     var body: some View {
         HStack(spacing: 14) {
-            Image(systemName: icon)
-                .font(.system(size: 18, weight: .semibold))
-                .foregroundColor(.white)
-                .frame(width: 38, height: 38)
-                .background(
-                    RoundedRectangle(cornerRadius: 10)
-                        .fill(themeManager.accentGradient)
-                )
-                .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 8)
+            if themeManager.isSapphire {
+                Image(systemName: icon)
+                    .font(.system(size: 18, weight: .semibold))
+                    .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                    .frame(width: 38, height: 38)
+                    .background(
+                        RoundedRectangle(cornerRadius: 10)
+                            .fill(themeManager.goldChipFill)
+                    )
+            } else {
+                Image(systemName: icon)
+                    .font(.system(size: 18, weight: .semibold))
+                    .foregroundColor(.white)
+                    .frame(width: 38, height: 38)
+                    .background(
+                        RoundedRectangle(cornerRadius: 10)
+                            .fill(themeManager.accentGradient)
+                    )
+                    .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 8)
+            }
 
             Text(text)
-                .font(.system(size: 15, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(15)
+                      : .system(size: 15, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .frame(maxWidth: .infinity, alignment: .leading)
         }

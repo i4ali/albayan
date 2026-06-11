@@ -118,9 +118,16 @@ struct QuizView: View {
 
                 Spacer()
 
-                Text("Quiz")
-                    .font(.system(size: 20, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    Text("TEST YOUR KNOWLEDGE")
+                        .font(SapphireFont.eyebrow)
+                        .kerning(3)
+                        .foregroundColor(themeManager.accentColor)
+                } else {
+                    Text("Quiz")
+                        .font(.system(size: 20, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                }
 
                 Spacer()
 
@@ -137,36 +144,116 @@ struct QuizView: View {
             VStack(spacing: 32) {
                 // Brain icon
                 ZStack {
-                    Circle()
-                        .fill(themeManager.accentGradient.opacity(0.2))
-                        .frame(width: 120, height: 120)
+                    if themeManager.isSapphire {
+                        RoundedRectangle(cornerRadius: 36)
+                            .fill(themeManager.goldChipFill)
+                            .frame(width: 120, height: 120)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 36)
+                                    .stroke(themeManager.accentColor, lineWidth: 1.5)
+                            )
+                    } else {
+                        Circle()
+                            .fill(themeManager.accentGradient.opacity(0.2))
+                            .frame(width: 120, height: 120)
+                    }
 
                     Image(systemName: "brain.head.profile")
                         .font(.system(size: 56))
-                        .foregroundStyle(themeManager.accentGradient)
+                        .foregroundStyle(themeManager.isSapphire ? AnyShapeStyle(themeManager.accentBright) : AnyShapeStyle(themeManager.accentGradient))
                 }
 
                 // Surah info
                 VStack(spacing: 8) {
-                    Text("Test Your Knowledge")
-                        .font(.system(size: 28, weight: .bold))
-                        .foregroundColor(themeManager.primaryText)
+                    if !themeManager.isSapphire {
+                        Text("Test Your Knowledge")
+                            .font(.system(size: 28, weight: .bold))
+                            .foregroundColor(themeManager.primaryText)
+                    }
 
                     Text(surah.englishName)
-                        .font(.system(size: 22, weight: .semibold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.serif(38) : .system(size: 22, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.primaryText : themeManager.secondaryText)
 
                     Text(surah.arabicName)
-                        .font(.system(size: 24, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.arabic(26) : .system(size: 24, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .environment(\.layoutDirection, .rightToLeft)
                 }
 
                 // Quiz details
-                VStack(spacing: 16) {
-                    quizDetailRow(icon: "questionmark.circle.fill", text: "\(quiz.questions.count) Questions")
-                    quizDetailRow(icon: "clock.fill", text: "~3 minutes")
+                if themeManager.isSapphire {
+                    // Sapphire: 3-column stats card
+                    HStack(spacing: 0) {
+                        // Questions column
+                        VStack(spacing: 4) {
+                            Image(systemName: "questionmark.circle")
+                                .font(.system(size: 16))
+                                .foregroundColor(themeManager.accentColor)
+                            Text("\(quiz.questions.count)")
+                                .font(SapphireFont.numeral(26))
+                                .foregroundColor(themeManager.accentBright)
+                            Text("Questions")
+                                .font(.system(size: 11, weight: .medium))
+                                .foregroundColor(themeManager.tertiaryText)
+                        }
+                        .frame(maxWidth: .infinity)
+
+                        // Hairline divider
+                        Rectangle()
+                            .fill(themeManager.strokeColor)
+                            .frame(width: 1, height: 48)
+
+                        // Minutes column
+                        VStack(spacing: 4) {
+                            Image(systemName: "clock")
+                                .font(.system(size: 16))
+                                .foregroundColor(themeManager.accentColor)
+                            Text("~3")
+                                .font(SapphireFont.numeral(26))
+                                .foregroundColor(themeManager.accentBright)
+                            Text("Minutes")
+                                .font(.system(size: 11, weight: .medium))
+                                .foregroundColor(themeManager.tertiaryText)
+                        }
+                        .frame(maxWidth: .infinity)
+
+                        // Hairline divider
+                        Rectangle()
+                            .fill(themeManager.strokeColor)
+                            .frame(width: 1, height: 48)
+
+                        // Ḥasanāt column
+                        VStack(spacing: 4) {
+                            Image(systemName: "sparkles")
+                                .font(.system(size: 16))
+                                .foregroundColor(themeManager.accentColor)
+                            Text("50")
+                                .font(SapphireFont.numeral(26))
+                                .foregroundColor(themeManager.accentBright)
+                            Text("Ḥasanāt")
+                                .font(.system(size: 11, weight: .medium))
+                                .foregroundColor(themeManager.tertiaryText)
+                        }
+                        .frame(maxWidth: .infinity)
+                    }
+                    .padding(.vertical, 20)
+                    .padding(.horizontal, 8)
+                    .background(
+                        RoundedRectangle(cornerRadius: 16)
+                            .fill(themeManager.cardBackground)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 16)
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    )
+                } else {
+                    VStack(spacing: 16) {
+                        quizDetailRow(icon: "questionmark.circle.fill", text: "\(quiz.questions.count) Questions")
+                        quizDetailRow(icon: "clock.fill", text: "~3 minutes")
+                    }
+                    .padding(.vertical, 20)
                 }
-                .padding(.vertical, 20)
 
                 // Best score if available
                 if let bestResult = quizManager.bestResult(for: surah.number) {
@@ -200,14 +287,14 @@ struct QuizView: View {
                     quizState.currentQuestionIndex = 0
                 }
             }) {
-                Text("Start Quiz")
-                    .font(.system(size: 20, weight: .bold))
-                    .foregroundColor(.white)
+                Text(themeManager.isSapphire ? "Begin Quiz" : "Start Quiz")
+                    .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 20, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 18)
                     .background(
                         RoundedRectangle(cornerRadius: 16)
-                            .fill(themeManager.accentGradient)
+                            .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
                     )
             }
             .padding(.horizontal, 24)

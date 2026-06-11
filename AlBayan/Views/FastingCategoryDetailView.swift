@@ -40,12 +40,14 @@ struct FastingCategoryDetailView: View {
 
                             VStack(alignment: .leading, spacing: 4) {
                                 Text(category.title)
-                                    .font(.system(size: 24, weight: .bold, design: .rounded))
+                                    .font(themeManager.isSapphire ? SapphireFont.headline(24) : .system(size: 24, weight: .bold, design: .rounded))
                                     .foregroundColor(themeManager.primaryText)
 
                                 Text("\(category.verseCount) verse\(category.verseCount == 1 ? "" : "s")")
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .medium))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
+                                    .textCase(themeManager.isSapphire ? .uppercase : .none)
                             }
 
                             Spacer()
@@ -53,7 +55,7 @@ struct FastingCategoryDetailView: View {
 
                         // Description
                         Text(category.description)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4 * readingSettings.scale)
                     }
@@ -82,9 +84,9 @@ struct FastingCategoryDetailView: View {
                             .foregroundColor(themeManager.accentColor)
 
                         Text("VERSES")
-                            .font(.system(size: 14, weight: .bold))
-                            .foregroundColor(themeManager.secondaryText)
-                            .tracking(1.2)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                            .tracking(themeManager.isSapphire ? 2 : 1.2)
 
                         Spacer()
                     }
@@ -175,11 +177,13 @@ struct FastingVerseCard: View {
 
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Verse \(index) of \(totalVerses)")
-                        .font(.system(size: 13, weight: .semibold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : .none)
 
                     Text("\(surahName) (\(fastingVerse.surahNumber):\(fastingVerse.verseNumber))")
-                        .font(.system(size: 15, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.headline(15) : .system(size: 15, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
                 }
 
@@ -187,13 +191,23 @@ struct FastingVerseCard: View {
 
                 if fastingVerse.isKeyVerse {
                     Text("KEY VERSE")
-                        .font(.system(size: 11, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 11, weight: .bold))
                         .foregroundColor(themeManager.accentColor)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
                         .background {
-                            Capsule()
-                                .fill(themeManager.accentColor.opacity(0.15))
+                            if themeManager.isSapphire {
+                                Capsule()
+                                    .fill(themeManager.goldChipFill)
+                                    .overlay(
+                                        Capsule()
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                            } else {
+                                Capsule()
+                                    .fill(themeManager.accentColor.opacity(0.15))
+                            }
                         }
                 }
             }
@@ -207,7 +221,7 @@ struct FastingVerseCard: View {
                 VStack(alignment: .leading, spacing: 16) {
                     // Arabic text
                     Text(verse.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
+                        .font(themeManager.isSapphire ? SapphireFont.arabicVerse(24 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(8 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
@@ -215,7 +229,7 @@ struct FastingVerseCard: View {
 
                     // Translation
                     Text(verse.translation)
-                        .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(4 * readingSettings.scale)
                         .translationLayout(languageManager.selectedLanguage)
@@ -234,18 +248,23 @@ struct FastingVerseCard: View {
                         .foregroundColor(themeManager.accentColor)
 
                     Text("Relevance to Fasting")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : .none)
                 }
 
                 Text(fastingVerse.relevanceNote)
-                    .font(.system(size: 15 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(15 * readingSettings.scale, semibold: false) : .system(size: 15 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4 * readingSettings.scale)
             }
             .padding(20)
             .background {
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    Rectangle()
+                        .fill(themeManager.cardElevated)
+                } else if themeManager.useWarmLayout {
                     Rectangle()
                         .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                 } else {
@@ -265,15 +284,21 @@ struct FastingVerseCard: View {
                             .font(.system(size: 14))
 
                         Text("Read Full Tafsir")
-                            .font(.system(size: 14, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(14) : .system(size: 14, weight: .semibold))
                     }
-                    .foregroundColor(.white)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                     .padding(.horizontal, 20)
                     .padding(.vertical, 12)
                     .background {
-                        Capsule()
-                            .fill(themeManager.accentGradient)
-                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        if themeManager.isSapphire {
+                            Capsule()
+                                .fill(AnyShapeStyle(themeManager.goldGradient))
+                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        } else {
+                            Capsule()
+                                .fill(themeManager.accentGradient)
+                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        }
                     }
                 }
 

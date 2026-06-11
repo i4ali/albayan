@@ -31,11 +31,13 @@ struct DailyVerseScreen: View {
 
                             Image(systemName: "bell.fill")
                                 .font(.system(size: 36, weight: .semibold))
-                                .foregroundColor(.white)
+                                .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                                 .frame(width: 70, height: 70)
                                 .background(
                                     Circle()
-                                        .fill(themeManager.accentGradient)
+                                        .fill(themeManager.isSapphire
+                                              ? AnyShapeStyle(themeManager.goldGradient)
+                                              : AnyShapeStyle(themeManager.accentGradient))
                                 )
                                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
                         }
@@ -44,14 +46,18 @@ struct DailyVerseScreen: View {
                         .animation(.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
 
                         Text("Your Daily Companion")
-                            .font(.system(size: 28, weight: .bold))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(28)
+                                  : .system(size: 28, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : 20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
                         Text("Start each day with a meaningful verse")
-                            .font(.system(size: 16, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(16, semibold: false)
+                                  : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
@@ -66,11 +72,18 @@ struct DailyVerseScreen: View {
                             HStack {
                                 VStack(alignment: .leading, spacing: 4) {
                                     Text("Verse of the Day")
-                                        .font(.system(size: 14, weight: .semibold))
-                                        .foregroundColor(themeManager.secondaryText)
+                                        .font(themeManager.isSapphire
+                                              ? SapphireFont.eyebrow
+                                              : .system(size: 14, weight: .semibold))
+                                        .tracking(themeManager.isSapphire ? 2 : 0)
+                                        .foregroundColor(themeManager.isSapphire
+                                                         ? themeManager.accentColor
+                                                         : themeManager.secondaryText)
 
                                     Text(monthData.name)
-                                        .font(.system(size: 16, weight: .bold))
+                                        .font(themeManager.isSapphire
+                                              ? SapphireFont.serif(16)
+                                              : .system(size: 16, weight: .bold))
                                         .foregroundColor(themeManager.primaryText)
                                 }
 
@@ -78,14 +91,16 @@ struct DailyVerseScreen: View {
 
                                 Image(systemName: "star.fill")
                                     .font(.system(size: 18))
-                                    .foregroundColor(.yellow)
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : .yellow)
                             }
 
                             // Verse content
                             VStack(alignment: .leading, spacing: 12) {
                                 // Arabic text
                                 Text(verse.arabicText)
-                                    .font(.system(size: 20, weight: .medium, design: .serif))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.arabic(20)
+                                          : .system(size: 20, weight: .medium, design: .serif))
                                     .foregroundColor(themeManager.primaryText)
                                     .lineSpacing(6)
                                     .multilineTextAlignment(.trailing)
@@ -93,25 +108,35 @@ struct DailyVerseScreen: View {
 
                                 // Translation
                                 Text(verse.translation)
-                                    .font(.system(size: 15, weight: .regular))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.serif(15, semibold: false)
+                                          : .system(size: 15, weight: .regular))
                                     .foregroundColor(themeManager.secondaryText)
                                     .lineSpacing(4)
 
                                 // Reference
                                 Text("Surah \(todayVerse.surah), Verse \(todayVerse.verse)")
-                                    .font(.system(size: 13, weight: .semibold))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.eyebrow
+                                          : .system(size: 13, weight: .semibold))
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
                                     .foregroundColor(themeManager.tertiaryText)
 
                                 // Theme tag
                                 HStack {
                                     Text(todayVerse.theme)
-                                        .font(.system(size: 12, weight: .medium))
-                                        .foregroundColor(.white)
+                                        .font(themeManager.isSapphire
+                                              ? SapphireFont.eyebrow
+                                              : .system(size: 12, weight: .medium))
+                                        .tracking(themeManager.isSapphire ? 2 : 0)
+                                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                                         .padding(.horizontal, 12)
                                         .padding(.vertical, 6)
                                         .background(
                                             Capsule()
-                                                .fill(themeManager.accentGradient)
+                                                .fill(themeManager.isSapphire
+                                                      ? AnyShapeStyle(themeManager.goldGradient)
+                                                      : AnyShapeStyle(themeManager.accentGradient))
                                         )
 
                                     Spacer()
@@ -139,17 +164,23 @@ struct DailyVerseScreen: View {
                         HStack(spacing: 10) {
                             Image(systemName: "calendar")
                                 .font(.system(size: 16, weight: .semibold))
-                                .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                                .foregroundColor(themeManager.isSapphire
+                                                 ? themeManager.accentColor
+                                                 : Color(red: 0.39, green: 0.4, blue: 0.95))
 
                             Text("Based on Islamic Calendar")
-                                .font(.system(size: 16, weight: .semibold))
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.serif(16)
+                                      : .system(size: 16, weight: .semibold))
                                 .foregroundColor(themeManager.primaryText)
 
                             Spacer()
                         }
 
                         Text("Verses are carefully selected for each Islamic month, ensuring spiritual relevance throughout the year.")
-                            .font(.system(size: 14, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(14, semibold: false)
+                                  : .system(size: 14, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .lineSpacing(3)
                     }
@@ -174,29 +205,34 @@ struct DailyVerseScreen: View {
                                     .font(.system(size: 20, weight: .semibold))
 
                                 Text(notificationsEnabled ? "Notifications Enabled" : "Enable Daily Verses")
-                                    .font(.system(size: 18, weight: .semibold))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.serif(18)
+                                          : .system(size: 18, weight: .semibold))
                             }
-                            .foregroundColor(.white)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 16)
                             .background(
                                 RoundedRectangle(cornerRadius: 16)
                                     .fill(notificationsEnabled ?
-                                        LinearGradient(
+                                          AnyShapeStyle(LinearGradient(
                                             colors: [Color.green, Color.green.opacity(0.8)],
                                             startPoint: .topLeading,
                                             endPoint: .bottomTrailing
-                                        ) : themeManager.purpleGradient)
+                                          )) :
+                                          AnyShapeStyle(themeManager.isSapphire ? themeManager.goldGradient : themeManager.purpleGradient))
                             )
                             .shadow(
-                                color: (notificationsEnabled ? Color.green : Color(red: 0.39, green: 0.4, blue: 0.95)).opacity(0.4),
+                                color: (notificationsEnabled ? Color.green : (themeManager.isSapphire ? themeManager.accentBright : Color(red: 0.39, green: 0.4, blue: 0.95))).opacity(0.4),
                                 radius: 12
                             )
                         }
 
                         if !notificationsEnabled {
                             Text("You can always enable this later in Settings")
-                                .font(.system(size: 13, weight: .medium))
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.serif(13, semibold: false)
+                                      : .system(size: 13, weight: .medium))
                                 .foregroundColor(themeManager.tertiaryText)
                         }
                     }

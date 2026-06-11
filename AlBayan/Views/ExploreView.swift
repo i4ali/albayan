@@ -101,7 +101,7 @@ struct ExploreView: View {
                 // Header
                 VStack(alignment: .leading, spacing: 8) {
                     Text("Explore")
-                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                        .font(themeManager.isSapphire ? SapphireFont.screenTitle : .system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
                         .foregroundColor(themeManager.primaryText)
 
                     Text("Discover Quranic wisdom")

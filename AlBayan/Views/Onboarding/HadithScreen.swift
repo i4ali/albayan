@@ -25,8 +25,14 @@ struct HadithScreen: View {
                 VStack(spacing: 40) {
                     // Title with glow
                     Text("The Best Guidance")
-                        .font(.system(size: 20, weight: .semibold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.eyebrow
+                              : .system(size: 20, weight: .semibold))
+                        .tracking(themeManager.isSapphire ? 3 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : nil)
+                        .foregroundColor(themeManager.isSapphire
+                                         ? themeManager.accentColor
+                                         : themeManager.secondaryText)
                         .overlay(
                             GeometryReader { geometry in
                                 LinearGradient(
@@ -44,7 +50,9 @@ struct HadithScreen: View {
                             }
                             .mask(
                                 Text("The Best Guidance")
-                                    .font(.system(size: 20, weight: .semibold))
+                                    .font(themeManager.isSapphire
+                                          ? SapphireFont.eyebrow
+                                          : .system(size: 20, weight: .semibold))
                             )
                         )
                         .background(
@@ -64,7 +72,9 @@ struct HadithScreen: View {
 
                     // Arabic Hadith
                     Text("خيرُ الحديثِ\nكتابُ الله\nوخيرُ الهدْيِ\nهدْيُ محمدٍ ﷺ")
-                        .font(.system(size: 26, weight: .medium, design: .serif))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.arabic(26)
+                              : .system(size: 26, weight: .medium, design: .serif))
                         .foregroundColor(themeManager.primaryText)
                         .multilineTextAlignment(.center)
                         .lineSpacing(8)
@@ -84,19 +94,27 @@ struct HadithScreen: View {
                     // English Translation
                     VStack(spacing: 12) {
                         Text("\"The best speech")
-                            .font(.system(size: 18, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(18, semibold: false)
+                                  : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("is the Book of Allah,")
-                            .font(.system(size: 18, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(18, semibold: false)
+                                  : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("and the best guidance")
-                            .font(.system(size: 18, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(18, semibold: false)
+                                  : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("is the guidance of Muhammad ﷺ.\"")
-                            .font(.system(size: 18, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(18, semibold: false)
+                                  : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                     }
                     .multilineTextAlignment(.center)
@@ -108,7 +126,9 @@ struct HadithScreen: View {
 
                     // Attribution
                     Text("— Prophet Muhammad ﷺ")
-                        .font(.system(size: 14, weight: .medium))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(14, semibold: false, italic: true)
+                              : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .opacity(isVisible ? 1 : 0)
                         .animation(Animation.easeOut(duration: 0.6).delay(1.4), value: isVisible)
@@ -123,7 +143,9 @@ struct HadithScreen: View {
                         .foregroundColor(themeManager.tertiaryText)
 
                     Text("Swipe or tap to continue")
-                        .font(.system(size: 13, weight: .medium))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(13, semibold: false)
+                              : .system(size: 13, weight: .medium))
                         .foregroundColor(themeManager.tertiaryText)
                 }
                 .opacity(isVisible ? 0.7 : 0)

@@ -379,12 +379,12 @@ struct ModernSurahHeader: View {
             // Surah info card
             VStack(spacing: themeManager.useWarmLayout ? 16 : 12) {
                 Text(surah.arabicName)
-                    .font(.system(size: themeManager.useWarmLayout ? 32 : 28, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.arabic(36) : .system(size: themeManager.useWarmLayout ? 32 : 28, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .multilineTextAlignment(.center)
 
                 Text(surah.englishNameTranslation)
-                    .font(.system(size: themeManager.useWarmLayout ? 18 : 16, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(19, semibold: false) : .system(size: themeManager.useWarmLayout ? 18 : 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .italic()
 
@@ -834,15 +834,15 @@ struct ModernVerseCard: View {
 
             // Arabic text
             Text(verse.arabicText)
-                .font(.system(size: (themeManager.useWarmLayout ? 26 : 24) * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.arabic(28 * readingSettings.scale) : .system(size: (themeManager.useWarmLayout ? 26 : 24) * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.trailing)
                 .frame(maxWidth: .infinity, alignment: .trailing)
-                .lineSpacing((themeManager.useWarmLayout ? 26 : 8) * readingSettings.scale)  // line-height: 2 = lineSpacing equals font size
+                .lineSpacing((themeManager.isSapphire ? 14 : (themeManager.useWarmLayout ? 26 : 8)) * readingSettings.scale)  // line-height: 2 = lineSpacing equals font size
 
             // Verse translation (EN / UR / AR — follows the global language)
             Text(verse.translation(for: languageManager.selectedLanguage))
-                .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .lineSpacing(4 * readingSettings.scale)
                 .translationLayout(languageManager.selectedLanguage)
@@ -956,7 +956,7 @@ struct ModernVerseCard: View {
                     Text("Gems")
                         .font(.system(size: 15, weight: .semibold))
                 }
-                .foregroundColor(verse.tafsir != nil ? themeManager.primaryText : themeManager.tertiaryText)
+                .foregroundColor(themeManager.onAccentText)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
                 .background {
@@ -980,7 +980,7 @@ struct ModernVerseCard: View {
                     Text("In-Depth")
                         .font(.system(size: 15, weight: .semibold))
                 }
-                .foregroundColor(themeManager.primaryText)
+                .foregroundColor(themeManager.onAccentText)
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
                 .background {
@@ -992,12 +992,10 @@ struct ModernVerseCard: View {
 
     @ViewBuilder
     private var splitButtonBackground: some View {
+        // Sapphire-only path (non-warm). Gold gradient to match the Play/Quiz header CTAs.
         RoundedRectangle(cornerRadius: 12)
-            .fill(themeManager.glassEffect)
-            .overlay(
-                RoundedRectangle(cornerRadius: 12)
-                    .stroke(themeManager.strokeColor, lineWidth: 1)
-            )
+            .fill(themeManager.goldGradient)
+            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8, x: 0, y: 4)
     }
 }
 

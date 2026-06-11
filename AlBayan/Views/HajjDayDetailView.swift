@@ -43,9 +43,9 @@ struct HajjDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("TODAY'S VERSES")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
 
                             Spacer()
                         }
@@ -70,19 +70,26 @@ struct HajjDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("TAFSIR FOCUS")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text(day.tafsirFocus)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4 * readingSettings.scale)
                     }
                     .padding(20)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 20)
+                                .fill(AnyShapeStyle(themeManager.cardBackground))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 20)
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                         } else {
@@ -104,20 +111,27 @@ struct HajjDayDetailView: View {
                                 .foregroundColor(themeManager.accentColor)
 
                             Text("REFLECTION")
-                                .font(.system(size: 14, weight: .bold))
-                                .foregroundColor(themeManager.secondaryText)
-                                .tracking(1.2)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                .tracking(themeManager.isSapphire ? 3 : 1.2)
                         }
 
                         Text(day.reflection)
-                            .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false, italic: true) : .system(size: 16 * readingSettings.scale, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4 * readingSettings.scale)
                             .italic()
                     }
                     .padding(20)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 20)
+                                .fill(AnyShapeStyle(themeManager.cardBackground))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 20)
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(Color.white)
                                 .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -191,14 +205,19 @@ struct HajjDayHeader: View {
                         .font(.system(size: 14, weight: .semibold))
 
                     Text("Day \(day.dayNumber)")
-                        .font(.system(size: 14, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(15) : .system(size: 14, weight: .semibold))
                 }
-                .foregroundColor(themeManager.accentColor)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                 .padding(.horizontal, 16)
                 .padding(.vertical, 8)
                 .background {
-                    Capsule()
-                        .fill(themeManager.accentColor.opacity(0.15))
+                    if themeManager.isSapphire {
+                        Capsule()
+                            .fill(AnyShapeStyle(themeManager.goldChipFill))
+                    } else {
+                        Capsule()
+                            .fill(themeManager.accentColor.opacity(0.15))
+                    }
                 }
 
                 if isCompleted {
@@ -216,18 +235,25 @@ struct HajjDayHeader: View {
             // Theme
             VStack(alignment: .leading, spacing: 8) {
                 Text(day.theme)
-                    .font(.system(size: 28, weight: .bold, design: .rounded))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(28) : .system(size: 28, weight: .bold, design: .rounded))
                     .foregroundColor(themeManager.primaryText)
 
                 Text(day.themeArabic)
-                    .font(.system(size: 20, weight: .medium))
-                    .foregroundColor(themeManager.accentColor)
+                    .font(themeManager.isSapphire ? SapphireFont.arabic(22) : .system(size: 20, weight: .medium))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
         }
         .padding(24)
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 24)
+                    .fill(AnyShapeStyle(themeManager.cardElevated))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 24)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -258,16 +284,16 @@ struct HajjDuaSection: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text("TODAY'S DUA")
-                    .font(.system(size: 14, weight: .bold))
-                    .foregroundColor(themeManager.secondaryText)
-                    .tracking(1.2)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                    .tracking(themeManager.isSapphire ? 3 : 1.2)
 
                 Spacer()
             }
 
             // Arabic
             Text(dua.arabic)
-                .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
+                .font(themeManager.isSapphire ? SapphireFont.arabic(26 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                 .foregroundColor(themeManager.primaryText)
                 .lineSpacing(8 * readingSettings.scale)
                 .multilineTextAlignment(.trailing)
@@ -275,26 +301,33 @@ struct HajjDuaSection: View {
 
             // Transliteration
             Text(dua.transliteration)
-                .font(.system(size: 14 * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(14 * readingSettings.scale, semibold: false, italic: true) : .system(size: 14 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .italic()
 
             // English translation
             Text(dua.english)
-                .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .lineSpacing(4 * readingSettings.scale)
 
             // Source
             if let source = dua.source {
                 Text("— \(source)")
-                    .font(.system(size: 13, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(13, semibold: false, italic: true) : .system(size: 13, weight: .medium))
                     .foregroundColor(themeManager.tertiaryText)
             }
         }
         .padding(20)
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 20)
+                    .fill(AnyShapeStyle(themeManager.cardBackground))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 20)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 20)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -336,15 +369,16 @@ struct HajjVerseCard: View {
             // Verse header
             HStack {
                 Text("\(surahName) (\(verse.surahNumber):\(verse.verseNumber))")
-                    .font(.system(size: 14, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
                     .foregroundColor(themeManager.accentColor)
+                    .tracking(themeManager.isSapphire ? 2 : 0)
 
                 Spacer()
 
                 Button(action: onNavigate) {
                     HStack(spacing: 4) {
                         Text("Full Tafsir")
-                            .font(.system(size: 12, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .semibold))
                         Image(systemName: "arrow.right")
                             .font(.system(size: 10, weight: .semibold))
                     }
@@ -361,7 +395,7 @@ struct HajjVerseCard: View {
                 VStack(alignment: .leading, spacing: 12) {
                     // Arabic
                     Text(data.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 22 * readingSettings.scale))
+                        .font(themeManager.isSapphire ? SapphireFont.arabicVerse(24 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 22 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(6 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
@@ -369,7 +403,7 @@ struct HajjVerseCard: View {
 
                     // Translation
                     Text(data.translation)
-                        .font(.system(size: 15 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 15 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(4 * readingSettings.scale)
                         .translationLayout(languageManager.selectedLanguage)
@@ -387,13 +421,16 @@ struct HajjVerseCard: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text(verse.relevanceNote)
-                    .font(.system(size: 14 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(14 * readingSettings.scale, semibold: false) : .system(size: 14 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineSpacing(2 * readingSettings.scale)
             }
             .padding(16)
             .background {
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    Rectangle()
+                        .fill(AnyShapeStyle(themeManager.cardBackground))
+                } else if themeManager.useWarmLayout {
                     Rectangle()
                         .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                 } else {
@@ -403,7 +440,14 @@ struct HajjVerseCard: View {
             }
         }
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 16)
+                    .fill(AnyShapeStyle(themeManager.cardBackground))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 16)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 16)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)
@@ -441,18 +485,27 @@ struct HajjCompleteButton: View {
                     .font(.system(size: 24, weight: .semibold))
 
                 Text(isCompleted ? "Day Completed" : "Mark Day as Complete")
-                    .font(.system(size: 18, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .bold))
             }
-            .foregroundColor(.white)
+            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
             .frame(maxWidth: .infinity)
             .padding(.vertical, 18)
             .background {
-                RoundedRectangle(cornerRadius: 16)
-                    .fill(isCompleted ? greenGradient : themeManager.accentGradient)
-                    .shadow(
-                        color: (isCompleted ? Color.green : themeManager.accentColor).opacity(0.3),
-                        radius: 12
-                    )
+                if themeManager.isSapphire {
+                    RoundedRectangle(cornerRadius: 16)
+                        .fill(isCompleted ? AnyShapeStyle(greenGradient) : AnyShapeStyle(themeManager.goldGradient))
+                        .shadow(
+                            color: (isCompleted ? Color.green : themeManager.accentColor).opacity(0.35),
+                            radius: 14
+                        )
+                } else {
+                    RoundedRectangle(cornerRadius: 16)
+                        .fill(isCompleted ? greenGradient : themeManager.accentGradient)
+                        .shadow(
+                            color: (isCompleted ? Color.green : themeManager.accentColor).opacity(0.3),
+                            radius: 12
+                        )
+                }
             }
         }
         .padding(.horizontal, 20)

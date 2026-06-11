@@ -65,17 +65,25 @@ struct NotificationsView: View {
                     VStack(spacing: 16) {
                         Image(systemName: "bell.slash.fill")
                             .font(.system(size: 64))
-                            .foregroundColor(themeManager.tertiaryText)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
 
                         Text("No Notifications")
-                            .font(.system(size: 24, weight: .bold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(24) : .system(size: 24, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("You're all caught up!\nNotifications will appear here when you receive them.")
-                            .font(.system(size: 16, weight: .medium))
-                            .foregroundColor(themeManager.secondaryText)
+                        Text(themeManager.isSapphire ? "ALL CAUGHT UP" : "You're all caught up!\nNotifications will appear here when you receive them.")
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 16, weight: .medium))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                            .tracking(themeManager.isSapphire ? 2.5 : 0)
                             .multilineTextAlignment(.center)
                             .lineLimit(nil)
+                        if themeManager.isSapphire {
+                            Text("Notifications will appear here\nwhen you receive them.")
+                                .font(SapphireFont.body(15))
+                                .foregroundColor(themeManager.secondaryText)
+                                .multilineTextAlignment(.center)
+                                .lineLimit(nil)
+                        }
                     }
                     .padding(.horizontal, 40)
                 } else {
@@ -115,6 +123,13 @@ struct NotificationsView: View {
             .navigationTitle("Notifications")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {
+                if themeManager.isSapphire {
+                    ToolbarItem(placement: .principal) {
+                        Text("Notifications")
+                            .font(SapphireFont.screenTitle)
+                            .foregroundColor(themeManager.primaryText)
+                    }
+                }
                 ToolbarItem(placement: .navigationBarLeading) {
                     if !notifications.isEmpty {
                         Button("Clear All") {
@@ -129,7 +144,7 @@ struct NotificationsView: View {
                     Button("Done") {
                         dismiss()
                     }
-                    .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                 }
             }
         }
@@ -205,39 +220,50 @@ struct NotificationCard: View {
             HStack(alignment: .top, spacing: 16) {
                 // Icon
                 ZStack {
-                    Circle()
-                        .fill(notification.type.color.opacity(0.15))
-                        .frame(width: 48, height: 48)
+                    if themeManager.isSapphire {
+                        Circle()
+                            .fill(themeManager.goldChipFill)
+                            .frame(width: 48, height: 48)
+                            .overlay(
+                                Circle()
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    } else {
+                        Circle()
+                            .fill(notification.type.color.opacity(0.15))
+                            .frame(width: 48, height: 48)
+                    }
 
                     Image(systemName: notification.type.icon)
                         .font(.system(size: 20, weight: .semibold))
-                        .foregroundColor(notification.type.color)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : notification.type.color)
                 }
 
                 VStack(alignment: .leading, spacing: 6) {
                     HStack {
                         Text(notification.title)
-                            .font(.system(size: 16, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(17) : .system(size: 16, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
 
                         Spacer()
 
                         if !notification.isRead {
                             Circle()
-                                .fill(Color(red: 0.39, green: 0.4, blue: 0.95))
+                                .fill(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                                 .frame(width: 8, height: 8)
                         }
                     }
 
                     Text(notification.message)
-                        .font(.system(size: 14, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.body(15) : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .lineLimit(3)
                         .multilineTextAlignment(.leading)
 
-                    Text(formatTimestamp(notification.timestamp))
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundColor(themeManager.tertiaryText)
+                    Text(themeManager.isSapphire ? formatTimestamp(notification.timestamp).uppercased() : formatTimestamp(notification.timestamp))
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                        .tracking(themeManager.isSapphire ? 2.5 : 0)
                 }
 
                 Spacer()
@@ -251,7 +277,7 @@ struct NotificationCard: View {
                             .stroke(
                                 notification.isRead
                                     ? themeManager.strokeColor
-                                    : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3),
+                                    : (themeManager.isSapphire ? themeManager.accentColor.opacity(0.3) : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3)),
                                 lineWidth: notification.isRead ? 1 : 2
                             )
                     )

@@ -37,65 +37,100 @@ struct BadgeAwardView: View {
                         .font(.system(size: 64))
                         .rotationEffect(.degrees(rotation))
 
-                    Text("MashAllah!")
-                        .font(.system(size: 32, weight: .bold))
-                        .foregroundStyle(
-                            LinearGradient(
-                                colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
-                                startPoint: .leading,
-                                endPoint: .trailing
+                    if themeManager.isSapphire {
+                        Text("BADGE EARNED")
+                            .font(SapphireFont.eyebrow)
+                            .kerning(3)
+                            .foregroundColor(themeManager.accentColor)
+                    } else {
+                        Text("MashAllah!")
+                            .font(.system(size: 32, weight: .bold))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
+                                    startPoint: .leading,
+                                    endPoint: .trailing
+                                )
                             )
-                        )
+                    }
                 }
 
                 // Badge display
                 VStack(spacing: 20) {
                     ZStack {
-                        // Glowing background
-                        Circle()
-                            .fill(
-                                RadialGradient(
-                                    colors: [badgeColor.opacity(0.3), Color.clear],
-                                    center: .center,
-                                    startRadius: 0,
-                                    endRadius: 80
+                        if themeManager.isSapphire {
+                            // Gold glow halo
+                            Circle()
+                                .fill(
+                                    RadialGradient(
+                                        colors: [themeManager.accentColor.opacity(0.35), Color.clear],
+                                        center: .center,
+                                        startRadius: 0,
+                                        endRadius: 80
+                                    )
                                 )
-                            )
-                            .frame(width: 160, height: 160)
+                                .frame(width: 160, height: 160)
 
-                        // Badge circle
-                        Circle()
-                            .fill(badgeColor.opacity(0.2))
-                            .frame(width: 120, height: 120)
-                            .overlay(
-                                Circle()
-                                    .stroke(badgeColor, lineWidth: 4)
-                            )
+                            // Gold medallion
+                            Circle()
+                                .fill(themeManager.goldChipFill)
+                                .frame(width: 120, height: 120)
+                                .overlay(
+                                    Circle()
+                                        .stroke(themeManager.accentColor, lineWidth: 4)
+                                )
 
-                        // Badge icon
-                        Image(systemName: badge.badgeType.icon)
-                            .font(.system(size: 56, weight: .semibold))
-                            .foregroundColor(badgeColor)
+                            // Badge icon in gold bright
+                            Image(systemName: badge.badgeType.icon)
+                                .font(.system(size: 56, weight: .semibold))
+                                .foregroundColor(themeManager.accentBright)
+                        } else {
+                            // Glowing background
+                            Circle()
+                                .fill(
+                                    RadialGradient(
+                                        colors: [badgeColor.opacity(0.3), Color.clear],
+                                        center: .center,
+                                        startRadius: 0,
+                                        endRadius: 80
+                                    )
+                                )
+                                .frame(width: 160, height: 160)
+
+                            // Badge circle
+                            Circle()
+                                .fill(badgeColor.opacity(0.2))
+                                .frame(width: 120, height: 120)
+                                .overlay(
+                                    Circle()
+                                        .stroke(badgeColor, lineWidth: 4)
+                                )
+
+                            // Badge icon
+                            Image(systemName: badge.badgeType.icon)
+                                .font(.system(size: 56, weight: .semibold))
+                                .foregroundColor(badgeColor)
+                        }
                     }
-                    .shadow(color: badgeColor.opacity(0.5), radius: 20)
+                    .shadow(color: themeManager.isSapphire ? themeManager.accentColor.opacity(0.5) : badgeColor.opacity(0.5), radius: 20)
 
                     // Badge title and subtitle
                     VStack(spacing: 8) {
                         Text(badge.badgeType.title)
-                            .font(.system(size: 24, weight: .bold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(30) : .system(size: 24, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
 
                         Text(badge.badgeType.subtitle)
-                            .font(.system(size: 20, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(18, semibold: false) : .system(size: 20, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
 
                         if badge.badgeType == .surahCompletion {
                             Text(badge.surahName)
-                                .font(.system(size: 18, weight: .semibold))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(18, semibold: false) : .system(size: 18, weight: .semibold))
                                 .foregroundColor(themeManager.secondaryText)
 
                             Text(badge.arabicName)
-                                .font(.system(size: 18, weight: .medium))
+                                .font(themeManager.isSapphire ? SapphireFont.arabic(18) : .system(size: 18, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                         }
 
@@ -103,22 +138,24 @@ struct BadgeAwardView: View {
                         HStack(spacing: 4) {
                             Image(systemName: "star.fill")
                                 .font(.system(size: 14))
-                                .foregroundColor(.yellow)
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : .yellow)
                             Text("+\(badge.badgeType.sawabValue) Sawab")
-                                .font(.system(size: 16, weight: .bold))
+                                .font(themeManager.isSapphire ? SapphireFont.headline(16) : .system(size: 16, weight: .bold))
                                 .foregroundStyle(
-                                    LinearGradient(
-                                        colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
-                                        startPoint: .leading,
-                                        endPoint: .trailing
-                                    )
+                                    themeManager.isSapphire
+                                        ? AnyShapeStyle(themeManager.accentColor)
+                                        : AnyShapeStyle(LinearGradient(
+                                            colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
+                                            startPoint: .leading,
+                                            endPoint: .trailing
+                                        ))
                                 )
                         }
                         .padding(.top, 4)
 
                         // Description
                         Text(badge.badgeType.description)
-                            .font(.system(size: 15, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 15, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 24)
@@ -131,7 +168,7 @@ struct BadgeAwardView: View {
                                     .padding(.vertical, 8)
 
                                 Text(hadith)
-                                    .font(.system(size: 13, weight: .medium, design: .serif))
+                                    .font(themeManager.isSapphire ? SapphireFont.serif(14, semibold: false, italic: true) : .system(size: 13, weight: .medium, design: .serif))
                                     .foregroundColor(themeManager.secondaryText.opacity(0.8))
                                     .multilineTextAlignment(.center)
                                     .italic()
@@ -147,18 +184,20 @@ struct BadgeAwardView: View {
                     dismissWithAnimation()
                 }) {
                     Text("Continue Reading")
-                        .font(.system(size: 18, weight: .semibold))
-                        .foregroundColor(.white)
+                        .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 16)
                         .background(
                             RoundedRectangle(cornerRadius: 16)
                                 .fill(
-                                    LinearGradient(
-                                        colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
-                                        startPoint: .leading,
-                                        endPoint: .trailing
-                                    )
+                                    themeManager.isSapphire
+                                        ? AnyShapeStyle(themeManager.goldGradient)
+                                        : AnyShapeStyle(LinearGradient(
+                                            colors: [Color.green, Color(red: 0.75, green: 0.60, blue: 0.35)],
+                                            startPoint: .leading,
+                                            endPoint: .trailing
+                                        ))
                                 )
                         )
                 }

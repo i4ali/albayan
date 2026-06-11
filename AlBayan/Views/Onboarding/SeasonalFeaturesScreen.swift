@@ -24,7 +24,7 @@ struct SeasonalFeaturesScreen: View {
                     ForEach(0..<5) { index in
                         Image(systemName: "star.fill")
                             .font(.system(size: CGFloat([10, 8, 12, 9, 11][index])))
-                            .foregroundColor(.yellow.opacity(0.6))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentBright.opacity(0.6) : .yellow.opacity(0.6))
                             .offset(
                                 x: CGFloat([-40, 35, -25, 45, -50][index]),
                                 y: CGFloat([-35, -40, 30, 25, -10][index])
@@ -42,7 +42,7 @@ struct SeasonalFeaturesScreen: View {
                     Circle()
                         .fill(
                             RadialGradient(
-                                colors: [Color.yellow.opacity(0.3), Color.clear],
+                                colors: [themeManager.isSapphire ? themeManager.accentBright.opacity(0.3) : Color.yellow.opacity(0.3), Color.clear],
                                 center: .center,
                                 startRadius: 0,
                                 endRadius: 60
@@ -67,15 +67,21 @@ struct SeasonalFeaturesScreen: View {
                         .frame(width: 80, height: 80)
 
                     // Moon and stars icon
-                    Image(systemName: "moon.stars.fill")
-                        .font(.system(size: 38, weight: .semibold))
-                        .foregroundStyle(
-                            LinearGradient(
-                                colors: [.yellow, .orange],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+                    if themeManager.isSapphire {
+                        Image(systemName: "moon.stars.fill")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                    } else {
+                        Image(systemName: "moon.stars.fill")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [.yellow, .orange],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
                             )
-                        )
+                    }
                 }
                 .opacity(isVisible ? 1 : 0)
                 .scaleEffect(isVisible ? 1 : 0.5)
@@ -83,7 +89,9 @@ struct SeasonalFeaturesScreen: View {
 
                 // Title
                 Text("Special Seasons")
-                    .font(.system(size: 34, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(34)
+                          : .system(size: 34, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
@@ -91,7 +99,9 @@ struct SeasonalFeaturesScreen: View {
 
                 // Subtitle
                 Text("Unique experiences for blessed months")
-                    .font(.system(size: 17, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(17, semibold: false)
+                          : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
@@ -141,7 +151,9 @@ struct SeasonalFeaturesScreen: View {
 
             // Bottom message
             Text("The seasonal tab appears automatically\nduring Ramadan and Dhul-Hijjah")
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(14, semibold: false)
+                      : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -209,17 +221,24 @@ struct SeasonalFeatureExpandedCard: View {
                 // Title and badge
                 VStack(alignment: .leading, spacing: 4) {
                     Text(title)
-                        .font(.system(size: 18, weight: .bold))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(18)
+                              : .system(size: 18, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
 
                     Text(badge)
-                        .font(.system(size: 10, weight: .bold))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.eyebrow
+                              : .system(size: 10, weight: .bold))
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                         .foregroundColor(.white)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 3)
                         .background(
                             Capsule()
-                                .fill(badgeColor.gradient)
+                                .fill(themeManager.isSapphire
+                                      ? AnyShapeStyle(themeManager.goldGradient)
+                                      : AnyShapeStyle(badgeColor.gradient))
                         )
                 }
 
@@ -242,7 +261,9 @@ struct SeasonalFeatureExpandedCard: View {
                             .frame(width: 20)
 
                         Text(features[index].text)
-                            .font(.system(size: 14, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(14, semibold: false)
+                                  : .system(size: 14, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                     }
                 }

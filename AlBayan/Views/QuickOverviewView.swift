@@ -28,18 +28,31 @@ struct HighlightedArabicText: View {
     private var arabicFontSize: CGFloat { 28 * scale }
     private var arabicLineSpacing: CGFloat { 12 * scale }
 
+    // Sapphire: Amiri 30 base size (scaled)
+    private var sapphireArabicFontSize: CGFloat { 30 * scale }
+    private var sapphireArabicLineSpacing: CGFloat { 14 * scale }
+
     var body: some View {
         if let highlightText = highlightText, !highlightText.isEmpty, isHighlighting {
             // Build attributed text with highlight
             highlightedTextView(fullText: text, highlight: highlightText)
         } else {
             // Regular Arabic text
-            Text(text)
-                .font(.system(size: arabicFontSize, weight: .medium))
-                .foregroundColor(themeManager.primaryText)
-                .multilineTextAlignment(.center)
-                .lineSpacing(arabicLineSpacing)
-                .environment(\.layoutDirection, .rightToLeft)
+            if themeManager.isSapphire {
+                Text(text)
+                    .font(SapphireFont.arabic(sapphireArabicFontSize))
+                    .foregroundColor(themeManager.primaryText)
+                    .multilineTextAlignment(.center)
+                    .lineSpacing(sapphireArabicLineSpacing)
+                    .environment(\.layoutDirection, .rightToLeft)
+            } else {
+                Text(text)
+                    .font(.system(size: arabicFontSize, weight: .medium))
+                    .foregroundColor(themeManager.primaryText)
+                    .multilineTextAlignment(.center)
+                    .lineSpacing(arabicLineSpacing)
+                    .environment(\.layoutDirection, .rightToLeft)
+            }
         }
     }
 
@@ -48,21 +61,39 @@ struct HighlightedArabicText: View {
         // Split the text to find and highlight the matching portion
         let components = splitText(fullText: fullText, highlight: highlight)
 
-        // Use Text concatenation to preserve natural RTL text flow
-        components.reduce(Text("")) { result, component in
-            if component.isHighlighted {
-                return result + Text(component.text)
-                    .font(.system(size: arabicFontSize, weight: .bold))
-                    .foregroundColor(highlightColor)
-            } else {
-                return result + Text(component.text)
-                    .font(.system(size: arabicFontSize, weight: .medium))
-                    .foregroundColor(themeManager.primaryText)
+        if themeManager.isSapphire {
+            // Sapphire: Amiri font; highlighted keyword in accentBright
+            components.reduce(Text("")) { result, component in
+                if component.isHighlighted {
+                    return result + Text(component.text)
+                        .font(SapphireFont.arabic(sapphireArabicFontSize, bold: true))
+                        .foregroundColor(themeManager.accentBright)
+                } else {
+                    return result + Text(component.text)
+                        .font(SapphireFont.arabic(sapphireArabicFontSize))
+                        .foregroundColor(themeManager.primaryText)
+                }
             }
+            .multilineTextAlignment(.center)
+            .lineSpacing(sapphireArabicLineSpacing)
+            .environment(\.layoutDirection, .rightToLeft)
+        } else {
+            // Use Text concatenation to preserve natural RTL text flow
+            components.reduce(Text("")) { result, component in
+                if component.isHighlighted {
+                    return result + Text(component.text)
+                        .font(.system(size: arabicFontSize, weight: .bold))
+                        .foregroundColor(highlightColor)
+                } else {
+                    return result + Text(component.text)
+                        .font(.system(size: arabicFontSize, weight: .medium))
+                        .foregroundColor(themeManager.primaryText)
+                }
+            }
+            .multilineTextAlignment(.center)
+            .lineSpacing(arabicLineSpacing)
+            .environment(\.layoutDirection, .rightToLeft)
         }
-        .multilineTextAlignment(.center)
-        .lineSpacing(arabicLineSpacing)
-        .environment(\.layoutDirection, .rightToLeft)
     }
 
     private struct TextComponent: Equatable {
@@ -162,18 +193,34 @@ struct QuickOverviewView: View {
 
     private var headerView: some View {
         HStack {
-            Image(systemName: "sparkles")
-                .font(.system(size: 28))
-                .foregroundStyle(themeManager.accentGradient)
+            if themeManager.isSapphire {
+                Image(systemName: "sparkles")
+                    .font(.system(size: 28))
+                    .foregroundStyle(themeManager.goldGradient)
+            } else {
+                Image(systemName: "sparkles")
+                    .font(.system(size: 28))
+                    .foregroundStyle(themeManager.accentGradient)
+            }
 
             VStack(alignment: .leading, spacing: 4) {
-                Text("Gems")
-                    .font(.system(size: 22, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    Text("Quick Gems")
+                        .font(SapphireFont.headline(26))
+                        .foregroundColor(themeManager.primaryText)
 
-                Text("Precious insights unveiled")
-                    .font(.system(size: 13, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                    Text("Precious insights, unveiled")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                } else {
+                    Text("Gems")
+                        .font(.system(size: 22, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+
+                    Text("Precious insights unveiled")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
             }
 
             Spacer()
@@ -244,10 +291,16 @@ struct QuickOverviewView: View {
                     HStack(spacing: 10) {
                         Image(systemName: concept.icon)
                             .font(.system(size: 17, weight: .semibold))
-                            .foregroundColor(color)
-                        Text(concept.getTitle(language: selectedLanguage).uppercased())
-                            .font(.system(size: 14, weight: .bold, design: .rounded)).tracking(1)
-                            .foregroundColor(themeManager.primaryText)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : color)
+                        if themeManager.isSapphire {
+                            Text(concept.getTitle(language: selectedLanguage).uppercased())
+                                .font(SapphireFont.eyebrow).tracking(1.5)
+                                .foregroundColor(themeManager.accentColor)
+                        } else {
+                            Text(concept.getTitle(language: selectedLanguage).uppercased())
+                                .font(.system(size: 14, weight: .bold, design: .rounded)).tracking(1)
+                                .foregroundColor(themeManager.primaryText)
+                        }
                     }
                     detailSection(color, "The Core Insight:", concept.getCoreInsight(language: selectedLanguage), rtl: rtl)
                     detailSection(color, "Why it matters:", concept.getWhyItMatters(language: selectedLanguage), rtl: rtl)
@@ -275,17 +328,42 @@ struct QuickOverviewView: View {
 
     @ViewBuilder
     private func detailSection(_ color: Color, _ title: String, _ text: String, rtl: Bool) -> some View {
+        let isCoreInsight = title.lowercased().contains("core")
         VStack(alignment: .leading, spacing: 8) {
-            Text(title)
-                .font(.system(size: 14, weight: .bold))
-                .foregroundColor(color)
-            Text(text)
-                .font(.system(size: 15 * readingSettings.scale, weight: .regular, design: .serif))   // scales
-                .foregroundColor(themeManager.primaryText)
-                .lineSpacing(7 * readingSettings.scale)
-                .multilineTextAlignment(rtl ? .trailing : .leading)
-                .frame(maxWidth: .infinity, alignment: rtl ? .trailing : .leading)
-                .environment(\.layoutDirection, rtl ? .rightToLeft : .leftToRight)
+            if themeManager.isSapphire {
+                Text(title.uppercased())
+                    .font(SapphireFont.eyebrow).tracking(1.5)
+                    .foregroundColor(themeManager.accentColor)
+            } else {
+                Text(title)
+                    .font(.system(size: 14, weight: .bold))
+                    .foregroundColor(color)
+            }
+            if themeManager.isSapphire {
+                Text(text)
+                    // Cormorant is Latin-only; for RTL languages (Urdu/Arabic) fall back to the
+                    // native system font at a larger size + looser line-spacing so it reads cleanly.
+                    .font(
+                        rtl
+                            ? .system(size: (isCoreInsight ? 18 : 16) * readingSettings.scale, weight: .regular)
+                            : (isCoreInsight
+                                ? SapphireFont.serif(19 * readingSettings.scale, semibold: false)
+                                : SapphireFont.body(14 * readingSettings.scale))
+                    )
+                    .foregroundColor(themeManager.primaryText)
+                    .lineSpacing((rtl ? 11 : 7) * readingSettings.scale)
+                    .multilineTextAlignment(rtl ? .trailing : .leading)
+                    .frame(maxWidth: .infinity, alignment: rtl ? .trailing : .leading)
+                    .environment(\.layoutDirection, rtl ? .rightToLeft : .leftToRight)
+            } else {
+                Text(text)
+                    .font(.system(size: 15 * readingSettings.scale, weight: .regular, design: .serif))   // scales
+                    .foregroundColor(themeManager.primaryText)
+                    .lineSpacing(7 * readingSettings.scale)
+                    .multilineTextAlignment(rtl ? .trailing : .leading)
+                    .frame(maxWidth: .infinity, alignment: rtl ? .trailing : .leading)
+                    .environment(\.layoutDirection, rtl ? .rightToLeft : .leftToRight)
+            }
         }
     }
 
@@ -337,11 +415,15 @@ struct QuickOverviewView: View {
                 Image(systemName: "arrow.right")
                     .font(.system(size: 14, weight: .semibold))
             }
-            .foregroundColor(.white)
+            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
             .frame(maxWidth: .infinity)
             .padding(.vertical, 16)
             .background(
-                RoundedRectangle(cornerRadius: 16)
+                themeManager.isSapphire
+                ? RoundedRectangle(cornerRadius: 16)
+                    .fill(themeManager.goldGradient)
+                    .shadow(color: themeManager.goldButtonShadow, radius: 12)
+                : RoundedRectangle(cornerRadius: 16)
                     .fill(themeManager.purpleGradient)
                     .shadow(color: themeManager.accentColor.opacity(0.3), radius: 12)
             )
@@ -379,9 +461,15 @@ private struct PinnedVerseView: View {
 
     var body: some View {
         VStack(spacing: 12) {
-            Text("\(surah.englishName.uppercased()) · \(verse.number)")
-                .font(.system(size: 11, weight: .bold)).tracking(2)
-                .foregroundColor(themeManager.accentColor)
+            if themeManager.isSapphire {
+                Text("\(surah.englishName.uppercased()) · \(verse.number)")
+                    .font(SapphireFont.eyebrow).tracking(3)
+                    .foregroundColor(themeManager.accentColor)
+            } else {
+                Text("\(surah.englishName.uppercased()) · \(verse.number)")
+                    .font(.system(size: 11, weight: .bold)).tracking(2)
+                    .foregroundColor(themeManager.accentColor)
+            }
 
             ScrollView(.vertical, showsIndicators: false) {
                 HighlightedArabicText(
@@ -434,24 +522,39 @@ struct ConceptBubbleView: View {
             HStack(spacing: 8) {
                 Image(systemName: concept.icon)
                     .font(.system(size: 14, weight: .semibold))
-                    .foregroundColor(bubbleColor)
+                    .foregroundColor(themeManager.isSapphire
+                        ? (isSelected ? themeManager.accentBright : themeManager.secondaryText)
+                        : bubbleColor)
 
                 Text(concept.getTitle(language: language))
                     .font(.system(size: 13, weight: .semibold))
-                    .foregroundColor(themeManager.primaryText)
+                    .foregroundColor(themeManager.isSapphire
+                        ? (isSelected ? themeManager.accentBright : themeManager.secondaryText)
+                        : themeManager.primaryText)
                     .lineLimit(1)
             }
             .padding(.horizontal, 14)
             .padding(.vertical, 10)
             .background(
-                Capsule()
+                themeManager.isSapphire
+                ? Capsule()
+                    .fill(isSelected ? themeManager.goldChipFill : themeManager.cardBackground)
+                    .overlay(
+                        Capsule()
+                            .stroke(isSelected ? themeManager.accentColor : themeManager.strokeColor,
+                                    lineWidth: isSelected ? 1.5 : 1)
+                    )
+                : Capsule()
                     .fill(themeManager.glassEffect)
                     .overlay(
                         Capsule()
                             .stroke(bubbleColor.opacity(0.5), lineWidth: isSelected ? 2 : 1)
                     )
             )
-            .shadow(color: bubbleColor.opacity(0.2), radius: isSelected ? 8 : 4)
+            .shadow(color: themeManager.isSapphire
+                ? (isSelected ? themeManager.accentColor.opacity(0.2) : Color.clear)
+                : bubbleColor.opacity(0.2),
+                    radius: isSelected ? 8 : 4)
         }
         .scaleEffect(isSelected ? 1.05 : 1.0)
         .animation(.spring(response: 0.3, dampingFraction: 0.7), value: isSelected)

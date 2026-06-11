@@ -140,12 +140,14 @@ struct FullScreenCommentaryView: View {
             // Context info
             VStack(spacing: 2) {
                 Text("Commentary")
-                    .font(.system(size: 18, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("\(surah.englishName) • Verse \(verse.number)")
-                    .font(.system(size: 13, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .medium))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                    .tracking(themeManager.isSapphire ? 3 : 0)
+                    .textCase(themeManager.isSapphire ? .uppercase : .none)
             }
 
             Spacer()
@@ -311,6 +313,54 @@ struct FullScreenCommentaryView: View {
                             .shadow(color: Color.black.opacity(0.04), radius: 12)
                     }
                 }
+            } else if themeManager.isSapphire {
+                // Sapphire theme: gold active card, card+stroke inactive
+                VStack(spacing: 6) {
+                    HStack(spacing: 4) {
+                        Text(layerIcon(for: layer))
+                            .font(.system(size: 18))
+
+                        // Lock icon for locked layers
+                        if isLocked {
+                            Image(systemName: "lock.fill")
+                                .font(.system(size: 12, weight: .semibold))
+                                .foregroundColor(themeManager.accentBright)
+                        } else if let tafsir = verse.tafsir {
+                            layerAvailabilityIndicator(for: layer, tafsir: tafsir)
+                        }
+                    }
+
+                    Text(layerShortTitle(for: layer))
+                        .font(SapphireFont.serif(13, semibold: true))
+                        .multilineTextAlignment(.center)
+                }
+                .foregroundColor(
+                    isLocked ? themeManager.tertiaryText :
+                    (isActive ? themeManager.onAccentText : themeManager.secondaryText)
+                )
+                .padding(.horizontal, 16)
+                .padding(.vertical, 12)
+                .background {
+                    if isActive {
+                        RoundedRectangle(cornerRadius: 12)
+                            .fill(themeManager.goldGradient)
+                            .shadow(color: themeManager.accentColor.opacity(0.35), radius: 10, x: 0, y: 4)
+                    } else if isLocked {
+                        RoundedRectangle(cornerRadius: 12)
+                            .fill(themeManager.cardBackground)
+                    } else {
+                        RoundedRectangle(cornerRadius: 12)
+                            .fill(themeManager.cardBackground)
+                    }
+                }
+                .overlay(
+                    RoundedRectangle(cornerRadius: 12)
+                        .stroke(
+                            isActive ? Color.clear : themeManager.strokeColor,
+                            lineWidth: 1
+                        )
+                )
+                .opacity(isLocked ? 0.6 : 1.0)
             } else {
                 // Other themes: Original compact style
                 VStack(spacing: 6) {
@@ -413,11 +463,11 @@ struct FullScreenCommentaryView: View {
                 
                 VStack(alignment: .leading, spacing: 4) {
                     Text(selectedLayer.title)
-                        .font(.system(size: 22, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.headline(24) : .system(size: 22, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
 
                     Text(selectedLayer.description)
-                        .font(.system(size: 16, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.body(16) : .system(size: 16, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .lineSpacing(2)
                 }
@@ -436,6 +486,17 @@ struct FullScreenCommentaryView: View {
                     .fill(themeManager.accentColor.opacity(0.2))
                     .frame(height: 1)
                     .frame(maxWidth: .infinity)
+            } else if themeManager.isSapphire {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("COMMENTARY")
+                        .font(SapphireFont.eyebrow)
+                        .tracking(3)
+                        .foregroundColor(themeManager.accentColor)
+                    Rectangle()
+                        .fill(themeManager.accentColor.opacity(0.25))
+                        .frame(height: 1)
+                        .frame(maxWidth: .infinity)
+                }
             } else {
                 Rectangle()
                     .fill(layerGradient(for: selectedLayer).opacity(0.3))
@@ -465,10 +526,14 @@ struct FullScreenCommentaryView: View {
                     HighlightedText(
                         text: trimmedParagraph,
                         highlightRange: paragraphHighlightRange,
-                        font: .system(size: (themeManager.useWarmLayout ? 17 : 18) * readingSettings.scale, weight: .regular, design: .serif),
+                        font: themeManager.isSapphire
+                            ? SapphireFont.serif(20 * readingSettings.scale, semibold: false)
+                            : .system(size: (themeManager.useWarmLayout ? 17 : 18) * readingSettings.scale, weight: .regular, design: .serif),
                         textColor: themeManager.primaryText,
-                        highlightColor: .yellow.opacity(0.4),
-                        lineSpacing: (themeManager.useWarmLayout ? 6 : 8) * readingSettings.scale
+                        highlightColor: themeManager.isSapphire ? themeManager.accentBright.opacity(0.35) : .yellow.opacity(0.4),
+                        lineSpacing: themeManager.isSapphire
+                            ? 10 * readingSettings.scale
+                            : (themeManager.useWarmLayout ? 6 : 8) * readingSettings.scale
                     )
                         .multilineTextAlignment(languageManager.selectedLanguage.isRTL ? .trailing : .leading)
                         .frame(maxWidth: .infinity, alignment: languageManager.selectedLanguage.isRTL ? .trailing : .leading)
@@ -496,6 +561,20 @@ struct FullScreenCommentaryView: View {
                                             )
                                     )
                                     .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
+                            } else if themeManager.isSapphire {
+                                // Sapphire theme: elevated card with gold hair-line border
+                                RoundedRectangle(cornerRadius: 16)
+                                    .fill(themeManager.cardElevated)
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 16)
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                                    .shadow(
+                                        color: Color.black.opacity(0.18),
+                                        radius: 10,
+                                        x: 0,
+                                        y: 4
+                                    )
                             } else {
                                 // Other themes: Glass effect
                                 RoundedRectangle(cornerRadius: 16)

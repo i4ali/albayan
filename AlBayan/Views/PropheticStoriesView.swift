@@ -45,13 +45,27 @@ struct PropheticStoriesView: View {
                     VStack(spacing: 12) {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Prophetic Stories")
-                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                                    .foregroundColor(themeManager.primaryText)
+                                if themeManager.isSapphire {
+                                    Text("PROPHETS")
+                                        .font(SapphireFont.eyebrow)
+                                        .tracking(3)
+                                        .foregroundColor(themeManager.accentColor)
+                                    Text("Prophetic Stories")
+                                        .font(SapphireFont.screenTitle)
+                                        .tracking(0.2)
+                                        .foregroundColor(themeManager.primaryText)
+                                    Text("Quranic accounts of the messengers")
+                                        .font(.system(size: 13.5))
+                                        .foregroundColor(themeManager.secondaryText)
+                                } else {
+                                    Text("Prophetic Stories")
+                                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                        .foregroundColor(themeManager.primaryText)
 
-                                Text("Quranic accounts of the messengers")
-                                    .font(.system(size: 16, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    Text("Quranic accounts of the messengers")
+                                        .font(.system(size: 16, weight: .medium))
+                                        .foregroundColor(themeManager.secondaryText)
+                                }
                             }
 
                             Spacer()
@@ -156,10 +170,18 @@ struct PropheticStoriesView: View {
                                                 .font(.system(size: 16, weight: .semibold))
                                                 .foregroundColor(themeManager.accentColor)
 
-                                            Text(category.displayName)
-                                                .font(.system(size: 18, weight: .bold))
-                                                .foregroundColor(themeManager.primaryText)
-                                                .textCase(nil)
+                                            if themeManager.isSapphire {
+                                                Text(category.displayName.uppercased())
+                                                    .font(SapphireFont.eyebrow)
+                                                    .tracking(2)
+                                                    .foregroundColor(themeManager.primaryText)
+                                                    .textCase(nil)
+                                            } else {
+                                                Text(category.displayName)
+                                                    .font(.system(size: 18, weight: .bold))
+                                                    .foregroundColor(themeManager.primaryText)
+                                                    .textCase(nil)
+                                            }
 
                                             Spacer()
                                         }
@@ -211,43 +233,89 @@ struct PropheticStoryCardView: View {
     var body: some View {
         HStack(alignment: .top, spacing: 16) {
             // Category icon
-            ZStack {
-                Circle()
-                    .fill(themeManager.accentGradient)
-                    .frame(width: 50, height: 50)
-                    .shadow(
-                        color: themeManager.accentColor.opacity(0.3),
-                        radius: 8
-                    )
-
+            if themeManager.isSapphire {
                 Image(systemName: story.categoryIcon)
-                    .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(.white)
+                    .font(.system(size: 20, weight: .regular))
+                    .foregroundColor(themeManager.accentColor)
+                    .frame(width: 50, height: 50)
+                    .background(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .fill(themeManager.goldChipFill)
+                    )
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else {
+                ZStack {
+                    Circle()
+                        .fill(themeManager.accentGradient)
+                        .frame(width: 50, height: 50)
+                        .shadow(
+                            color: themeManager.accentColor.opacity(0.3),
+                            radius: 8
+                        )
+
+                    Image(systemName: story.categoryIcon)
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundColor(.white)
+                }
             }
 
             // Story content
             VStack(alignment: .leading, spacing: 6) {
                 // Prophet name badge
-                Text(story.prophet)
-                    .font(.system(size: 12, weight: .bold))
-                    .foregroundColor(themeManager.accentColor)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 4)
-                    .background(
-                        Capsule()
-                            .fill(themeManager.accentColor.opacity(0.15))
-                    )
+                if themeManager.isSapphire {
+                    Text(story.prophet.uppercased())
+                        .font(SapphireFont.eyebrow)
+                        .tracking(2)
+                        .foregroundColor(themeManager.accentColor)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 4)
+                        .background(
+                            Capsule()
+                                .fill(themeManager.goldChipFill)
+                        )
+                        .overlay(
+                            Capsule()
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                } else {
+                    Text(story.prophet)
+                        .font(.system(size: 12, weight: .bold))
+                        .foregroundColor(themeManager.accentColor)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 4)
+                        .background(
+                            Capsule()
+                                .fill(themeManager.accentColor.opacity(0.15))
+                        )
+                }
 
-                Text(story.title)
-                    .font(.system(size: 16, weight: .semibold))
-                    .foregroundColor(themeManager.primaryText)
-                    .lineLimit(2)
-                    .multilineTextAlignment(.leading)
+                if themeManager.isSapphire {
+                    Text(story.title)
+                        .font(SapphireFont.serif(21))
+                        .foregroundColor(themeManager.primaryText)
+                        .lineLimit(2)
+                        .multilineTextAlignment(.leading)
+                } else {
+                    Text(story.title)
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundColor(themeManager.primaryText)
+                        .lineLimit(2)
+                        .multilineTextAlignment(.leading)
+                }
 
                 // Verse count
-                Text("\(story.verseCount) verse\(story.verseCount == 1 ? "" : "s") • \(story.category.displayName)")
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                if themeManager.isSapphire {
+                    Text("\(story.verseCount) verse\(story.verseCount == 1 ? "" : "s") • \(story.category.displayName)")
+                        .font(SapphireFont.serif(15, semibold: false))
+                        .foregroundColor(themeManager.secondaryText)
+                } else {
+                    Text("\(story.verseCount) verse\(story.verseCount == 1 ? "" : "s") • \(story.category.displayName)")
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
 
                 // Verse references
                 let verseRefs = story.verses.prefix(3).map { $0.verseReference }.joined(separator: " • ")
@@ -310,17 +378,30 @@ struct StoryCategoryChip: View {
                 Image(systemName: icon)
                     .font(.system(size: 14, weight: .semibold))
 
-                Text(title)
-                    .font(.system(size: 14, weight: .semibold))
+                if themeManager.isSapphire {
+                    Text(title.uppercased())
+                        .font(SapphireFont.eyebrow)
+                        .tracking(1.5)
+                } else {
+                    Text(title)
+                        .font(.system(size: 14, weight: .semibold))
+                }
             }
-            .foregroundColor(isSelected ? .white : themeManager.primaryText)
+            .foregroundColor(isSelected ? themeManager.onAccentText : themeManager.primaryText)
             .padding(.horizontal, 16)
             .padding(.vertical, 10)
             .background {
                 if isSelected {
                     Capsule()
-                        .fill(themeManager.accentGradient)
+                        .fill(AnyShapeStyle(themeManager.accentGradient))
                         .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                } else if themeManager.isSapphire {
+                    Capsule()
+                        .fill(themeManager.goldChipFill)
+                        .overlay(
+                            Capsule()
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
                 } else {
                     if themeManager.useWarmLayout {
                         Capsule()

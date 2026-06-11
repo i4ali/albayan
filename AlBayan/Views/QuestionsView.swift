@@ -45,9 +45,24 @@ struct QuestionsView: View {
                     VStack(spacing: 12) {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Questions & Answers")
-                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                                    .foregroundColor(themeManager.primaryText)
+                                if themeManager.isSapphire {
+                                    Text("WISDOM LIBRARY")
+                                        .font(SapphireFont.eyebrow)
+                                        .foregroundColor(themeManager.accentColor)
+                                        .kerning(3)
+                                        .textCase(.uppercase)
+                                        .padding(.bottom, 2)
+
+                                    Text("Questions & Answers")
+                                        .font(SapphireFont.serif(34))
+                                        .foregroundColor(themeManager.primaryText)
+                                        .lineLimit(2)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                } else {
+                                    Text("Questions & Answers")
+                                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                        .foregroundColor(themeManager.primaryText)
+                                }
 
                                 Text("Find Quranic guidance for life's questions")
                                     .font(.system(size: 16, weight: .medium))
@@ -156,10 +171,18 @@ struct QuestionsView: View {
                                                 .font(.system(size: 16, weight: .semibold))
                                                 .foregroundColor(themeManager.accentColor)
 
-                                            Text(category.displayName)
-                                                .font(.system(size: 18, weight: .bold))
-                                                .foregroundColor(themeManager.primaryText)
-                                                .textCase(nil)
+                                            if themeManager.isSapphire {
+                                                Text(category.displayName.uppercased())
+                                                    .font(.system(size: 11, weight: .bold))
+                                                    .foregroundColor(themeManager.accentColor)
+                                                    .kerning(1.5)
+                                                    .textCase(nil)
+                                            } else {
+                                                Text(category.displayName)
+                                                    .font(.system(size: 18, weight: .bold))
+                                                    .foregroundColor(themeManager.primaryText)
+                                                    .textCase(nil)
+                                            }
 
                                             Spacer()
                                         }
@@ -210,40 +233,82 @@ struct QuestionCardView: View {
 
     var body: some View {
         HStack(alignment: .top, spacing: 16) {
-            // Category icon
-            ZStack {
-                Circle()
-                    .fill(themeManager.accentGradient)
-                    .frame(width: 50, height: 50)
-                    .shadow(
-                        color: themeManager.accentColor.opacity(0.3),
-                        radius: 8
-                    )
+            // Category icon chip
+            if themeManager.isSapphire {
+                ZStack {
+                    RoundedRectangle(cornerRadius: 14)
+                        .fill(themeManager.goldChipFill)
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 14)
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                        .frame(width: 46, height: 46)
 
-                Image(systemName: question.categoryIcon)
-                    .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(.white)
+                    Image(systemName: question.categoryIcon)
+                        .font(.system(size: 18, weight: .medium))
+                        .foregroundColor(themeManager.accentColor)
+                }
+            } else {
+                ZStack {
+                    Circle()
+                        .fill(themeManager.accentGradient)
+                        .frame(width: 50, height: 50)
+                        .shadow(
+                            color: themeManager.accentColor.opacity(0.3),
+                            radius: 8
+                        )
+
+                    Image(systemName: question.categoryIcon)
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundColor(.white)
+                }
             }
 
             // Question content
             VStack(alignment: .leading, spacing: 6) {
                 Text(question.question)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(21) : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
                     .lineLimit(3)
                     .multilineTextAlignment(.leading)
 
-                // Verse count
-                Text("Answered in \(question.verseCount) verse\(question.verseCount == 1 ? "" : "s")")
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                // Verse count badge + references
+                if themeManager.isSapphire {
+                    HStack(spacing: 8) {
+                        // Azure "verified / N verses" badge
+                        HStack(spacing: 4) {
+                            Image(systemName: "checkmark")
+                                .font(.system(size: 10, weight: .bold))
+                                .foregroundColor(themeManager.semanticAzure)
+                            Text("\(question.verseCount) verse\(question.verseCount == 1 ? "" : "s")")
+                                .font(.system(size: 11, weight: .semibold))
+                                .foregroundColor(themeManager.semanticAzure)
+                        }
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(themeManager.semanticAzureChip)
+                        .clipShape(Capsule())
 
-                // Verse references
-                let verseRefs = question.verses.prefix(3).map { $0.verseReference }.joined(separator: " • ")
-                Text(verseRefs)
-                    .font(.system(size: 13, weight: .medium))
-                    .foregroundColor(themeManager.tertiaryText)
-                    .lineLimit(1)
+                        // Verse references
+                        let verseRefs = question.verses.prefix(3).map { $0.verseReference }.joined(separator: " • ")
+                        Text(verseRefs)
+                            .font(.system(size: 12, weight: .medium))
+                            .foregroundColor(themeManager.tertiaryText)
+                            .lineLimit(1)
+                    }
+                } else {
+                    // Verse count
+                    Text("Answered in \(question.verseCount) verse\(question.verseCount == 1 ? "" : "s")")
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+
+                    // Verse references
+                    let verseRefs = question.verses.prefix(3).map { $0.verseReference }.joined(separator: " • ")
+                    Text(verseRefs)
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(themeManager.tertiaryText)
+                        .lineLimit(1)
+                }
             }
 
             Spacer()
@@ -302,11 +367,28 @@ struct CategoryChip: View {
                 Text(title)
                     .font(.system(size: 14, weight: .semibold))
             }
-            .foregroundColor(isSelected ? .white : themeManager.primaryText)
+            .foregroundColor(
+                themeManager.isSapphire
+                    ? (isSelected ? themeManager.onAccentText : themeManager.secondaryText)
+                    : (isSelected ? .white : themeManager.primaryText)
+            )
             .padding(.horizontal, 16)
             .padding(.vertical, 10)
             .background {
-                if isSelected {
+                if themeManager.isSapphire {
+                    if isSelected {
+                        Capsule()
+                            .fill(themeManager.goldGradient)
+                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                    } else {
+                        Capsule()
+                            .fill(themeManager.cardBackground)
+                            .overlay(
+                                Capsule()
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    }
+                } else if isSelected {
                     Capsule()
                         .fill(themeManager.accentGradient)
                         .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)

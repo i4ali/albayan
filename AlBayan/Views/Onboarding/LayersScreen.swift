@@ -24,14 +24,18 @@ struct LayersScreen: View {
             // Header
             VStack(spacing: 16) {
                 Text("4 Layers of Wisdom")
-                    .font(.system(size: 32, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(32)
+                          : .system(size: 32, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
                 Text("Tap each layer to explore")
-                    .font(.system(size: 16, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(16, semibold: false)
+                          : .system(size: 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
@@ -100,12 +104,16 @@ struct LayerCard: View {
 
                     VStack(alignment: .leading, spacing: 4) {
                         Text(title)
-                            .font(.system(size: 18, weight: .semibold))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(18)
+                                  : .system(size: 18, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
 
                         if !isExpanded {
                             Text(description)
-                                .font(.system(size: 14, weight: .medium))
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.serif(14, semibold: false)
+                                      : .system(size: 14, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                                 .lineLimit(1)
                         }
@@ -115,20 +123,24 @@ struct LayerCard: View {
 
                     Image(systemName: isExpanded ? "chevron.up" : "chevron.down")
                         .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(themeManager.tertiaryText)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
                 }
 
                 // Expanded content
                 if isExpanded {
                     VStack(alignment: .leading, spacing: 12) {
                         Text(description)
-                            .font(.system(size: 15, weight: .medium))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(15)
+                                  : .system(size: 15, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4)
 
                         // Layer-specific details
                         Text(layerDetails)
-                            .font(.system(size: 14, weight: .regular))
+                            .font(themeManager.isSapphire
+                                  ? SapphireFont.serif(14, semibold: false)
+                                  : .system(size: 14, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                             .lineSpacing(3)
 

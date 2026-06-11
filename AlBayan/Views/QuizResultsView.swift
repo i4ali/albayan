@@ -52,9 +52,16 @@ struct QuizResultsView: View {
 
                     Spacer()
 
-                    Text("Results")
-                        .font(.system(size: 20, weight: .bold))
-                        .foregroundColor(themeManager.primaryText)
+                    if themeManager.isSapphire {
+                        Text("RESULTS")
+                            .font(SapphireFont.eyebrow)
+                            .kerning(2)
+                            .foregroundColor(themeManager.accentColor)
+                    } else {
+                        Text("Results")
+                            .font(.system(size: 20, weight: .bold))
+                            .foregroundColor(themeManager.primaryText)
+                    }
 
                     Spacer()
 
@@ -90,25 +97,23 @@ struct QuizResultsView: View {
                             Image(systemName: "arrow.clockwise")
                             Text("Try Again")
                         }
-                        .font(.system(size: 18, weight: .bold))
-                        .foregroundColor(.white)
+                        .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 16)
                         .background(
                             RoundedRectangle(cornerRadius: 14)
-                                .fill(
-                                    LinearGradient(
-                                        colors: [.purple, .blue],
-                                        startPoint: .leading,
-                                        endPoint: .trailing
-                                    )
-                                )
+                                .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(LinearGradient(
+                                    colors: [.purple, .blue],
+                                    startPoint: .leading,
+                                    endPoint: .trailing
+                                )))
                         )
                     }
 
                     Button(action: onDismiss) {
                         Text("Done")
-                            .font(.system(size: 18, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.headline(18) : .system(size: 18, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 16)
@@ -164,17 +169,36 @@ struct QuizResultsView: View {
 
             // Score
             VStack(spacing: 8) {
-                Text("\(result.score)/\(result.totalQuestions)")
-                    .font(.system(size: 48, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    Text("YOUR SCORE")
+                        .font(SapphireFont.eyebrow)
+                        .kerning(3)
+                        .foregroundColor(themeManager.accentColor)
 
-                Text(result.level.title)
-                    .font(.system(size: 22, weight: .bold))
-                    .foregroundColor(levelColor)
+                    Text("\(result.score)/\(result.totalQuestions)")
+                        .font(SapphireFont.numeral(48))
+                        .foregroundColor(themeManager.accentBright)
 
-                Text(result.level.arabicTitle)
-                    .font(.system(size: 20, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                    Text(result.level.title)
+                        .font(SapphireFont.serif(22))
+                        .foregroundColor(levelColor)
+
+                    Text(result.level.arabicTitle)
+                        .font(SapphireFont.arabic(20))
+                        .foregroundColor(themeManager.secondaryText)
+                } else {
+                    Text("\(result.score)/\(result.totalQuestions)")
+                        .font(.system(size: 48, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+
+                    Text(result.level.title)
+                        .font(.system(size: 22, weight: .bold))
+                        .foregroundColor(levelColor)
+
+                    Text(result.level.arabicTitle)
+                        .font(.system(size: 20, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
             }
 
             // Message
@@ -186,13 +210,29 @@ struct QuizResultsView: View {
 
             // Surah info
             VStack(spacing: 4) {
-                Text(surah.englishName)
-                    .font(.system(size: 16, weight: .semibold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    Text("SURAH")
+                        .font(SapphireFont.eyebrow)
+                        .kerning(2)
+                        .foregroundColor(themeManager.accentColor)
 
-                Text(surah.arabicName)
-                    .font(.system(size: 18, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                    Text(surah.englishName)
+                        .font(SapphireFont.headline(16))
+                        .foregroundColor(themeManager.primaryText)
+
+                    Text(surah.arabicName)
+                        .font(SapphireFont.arabic(20))
+                        .foregroundColor(themeManager.accentColor)
+                        .environment(\.layoutDirection, .rightToLeft)
+                } else {
+                    Text(surah.englishName)
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundColor(themeManager.primaryText)
+
+                    Text(surah.arabicName)
+                        .font(.system(size: 18, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
             }
         }
         .padding(32)
@@ -211,9 +251,16 @@ struct QuizResultsView: View {
 
     private var breakdownCard: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("Question Breakdown")
-                .font(.system(size: 18, weight: .bold))
-                .foregroundColor(themeManager.primaryText)
+            if themeManager.isSapphire {
+                Text("QUESTION BREAKDOWN")
+                    .font(SapphireFont.eyebrow)
+                    .kerning(2)
+                    .foregroundColor(themeManager.accentColor)
+            } else {
+                Text("Question Breakdown")
+                    .font(.system(size: 18, weight: .bold))
+                    .foregroundColor(themeManager.primaryText)
+            }
 
             VStack(spacing: 12) {
                 ForEach(Array(quiz.questions.enumerated()), id: \.offset) { index, question in
@@ -223,7 +270,7 @@ struct QuizResultsView: View {
                     HStack(spacing: 12) {
                         // Question number
                         Text("\(index + 1)")
-                            .font(.system(size: 14, weight: .bold))
+                            .font(themeManager.isSapphire ? SapphireFont.numeral(14) : .system(size: 14, weight: .bold))
                             .foregroundColor(isCorrect ? .green : .red)
                             .frame(width: 28, height: 28)
                             .background(
@@ -233,7 +280,7 @@ struct QuizResultsView: View {
 
                         // Question preview
                         Text(question.question)
-                            .font(.system(size: 14, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.body(14) : .system(size: 14, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineLimit(2)
 

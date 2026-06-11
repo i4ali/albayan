@@ -30,11 +30,11 @@ struct TTSVoicePickerView: View {
                             .foregroundColor(themeManager.tertiaryText)
 
                         Text("No voices available")
-                            .font(.system(size: 18, weight: .medium))
+                            .font(themeManager.isSapphire ? SapphireFont.headline(22) : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
 
                         Text("Your device does not have any \(language.displayName) voices installed.")
-                            .font(.system(size: 14))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 14))
                             .foregroundColor(themeManager.tertiaryText)
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 40)
@@ -69,7 +69,7 @@ struct TTSVoicePickerView: View {
                         tafsirReader.stop()
                         dismiss()
                     }
-                    .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                 }
             }
         }
@@ -118,37 +118,50 @@ struct VoiceRow: View {
                 // Voice info
                 VStack(alignment: .leading, spacing: 4) {
                     Text(voice.name)
-                        .font(.system(size: 16, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(18) : .system(size: 16, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
 
                     HStack(spacing: 8) {
                         // Language code
                         Text(voice.language)
-                            .font(.system(size: 12, weight: .medium))
-                            .foregroundColor(themeManager.tertiaryText)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                            .tracking(themeManager.isSapphire ? 2 : 0)
+                            .textCase(themeManager.isSapphire ? .uppercase : .none)
 
                         // Quality badge
                         if voice.quality == .enhanced {
                             Text("Enhanced")
-                                .font(.system(size: 10, weight: .semibold))
-                                .foregroundColor(.white)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10, weight: .semibold))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                                 .padding(.horizontal, 8)
                                 .padding(.vertical, 2)
                                 .background(
                                     Capsule()
-                                        .fill(Color.green)
+                                        .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(Color.green))
+                                        .overlay(
+                                            themeManager.isSapphire
+                                                ? AnyView(Capsule().stroke(themeManager.strokeColor, lineWidth: 1))
+                                                : AnyView(EmptyView())
+                                        )
                                 )
                         }
 
                         // Gender indicator
                         if voice.gender == .male {
                             Text("Male")
-                                .font(.system(size: 10, weight: .medium))
-                                .foregroundColor(themeManager.tertiaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10, weight: .medium))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                         } else if voice.gender == .female {
                             Text("Female")
-                                .font(.system(size: 10, weight: .medium))
-                                .foregroundColor(themeManager.tertiaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 10, weight: .medium))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
+                                .textCase(themeManager.isSapphire ? .uppercase : .none)
                         }
                     }
                 }
@@ -159,16 +172,21 @@ struct VoiceRow: View {
                 if isSelected {
                     Image(systemName: "checkmark.circle.fill")
                         .font(.system(size: 24))
-                        .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                 }
             }
             .padding(16)
             .background(
                 RoundedRectangle(cornerRadius: 16)
-                    .fill(themeManager.secondaryBackground)
+                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.cardBackground) : AnyShapeStyle(themeManager.secondaryBackground))
                     .overlay(
                         RoundedRectangle(cornerRadius: 16)
-                            .stroke(isSelected ? Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.5) : Color.clear, lineWidth: 2)
+                            .stroke(
+                                isSelected
+                                    ? (themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.5))
+                                    : (themeManager.isSapphire ? themeManager.strokeColor : Color.clear),
+                                lineWidth: themeManager.isSapphire ? 1 : 2
+                            )
                     )
             )
         }

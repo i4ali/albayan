@@ -26,5 +26,14 @@
 		<string>audio</string>
 		<string>remote-notification</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CormorantGaramond-Medium.ttf</string>
+		<string>CormorantGaramond-SemiBold.ttf</string>
+		<string>CormorantGaramond-MediumItalic.ttf</string>
+		<string>CormorantGaramond-SemiBoldItalic.ttf</string>
+		<string>Amiri-Regular.ttf</string>
+		<string>Amiri-Bold.ttf</string>
+	</array>
 </dict>
 </plist>

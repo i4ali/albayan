@@ -81,7 +81,10 @@ struct OnboardingFlowView: View {
                             completeOnboarding()
                         }) {
                             Text("Skip")
-                                .font(.system(size: 16, weight: .semibold))
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.eyebrow
+                                      : .system(size: 16, weight: .semibold))
+                                .tracking(themeManager.isSapphire ? 2 : 0)
                                 .foregroundColor(themeManager.secondaryText)
                                 .padding(.horizontal, 20)
                                 .padding(.vertical, 10)

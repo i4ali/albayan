@@ -46,15 +46,21 @@ struct QuizFeatureScreen: View {
                         .frame(width: 80, height: 80)
 
                     // Brain icon
-                    Image(systemName: "brain.head.profile")
-                        .font(.system(size: 38, weight: .semibold))
-                        .foregroundStyle(
-                            LinearGradient(
-                                colors: [.purple, .blue],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+                    if themeManager.isSapphire {
+                        Image(systemName: "brain.head.profile")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                    } else {
+                        Image(systemName: "brain.head.profile")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [.purple, .blue],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
                             )
-                        )
+                    }
                 }
                 .opacity(isVisible ? 1 : 0)
                 .scaleEffect(isVisible ? 1 : 0.5)
@@ -62,7 +68,9 @@ struct QuizFeatureScreen: View {
 
                 // Title
                 Text("Test Your Knowledge")
-                    .font(.system(size: 34, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(34)
+                          : .system(size: 34, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
@@ -70,7 +78,9 @@ struct QuizFeatureScreen: View {
 
                 // Subtitle
                 Text("Quizzes for every surah")
-                    .font(.system(size: 17, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(17, semibold: false)
+                          : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
@@ -101,7 +111,9 @@ struct QuizFeatureScreen: View {
 
             // Bottom message
             Text("Deepen your understanding through reflection")
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(14, semibold: false)
+                      : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -186,7 +198,10 @@ struct DemoQuestionCard: View {
                 Text("🏛️")
                     .font(.system(size: 14))
                 Text("Foundation")
-                    .font(.system(size: 12, weight: .semibold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 12, weight: .semibold))
+                    .tracking(themeManager.isSapphire ? 2 : 0)
             }
             .foregroundColor(.blue)
             .padding(.horizontal, 12)
@@ -198,7 +213,9 @@ struct DemoQuestionCard: View {
 
             // Question
             Text("What does 'Kursi' represent in Ayat al-Kursi?")
-                .font(.system(size: 17, weight: .semibold))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(17)
+                      : .system(size: 17, weight: .semibold))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 8)
@@ -279,7 +296,9 @@ struct DemoAnswerOption: View {
                 )
 
             Text(text)
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(14, semibold: false)
+                      : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .lineLimit(1)
 
@@ -327,43 +346,59 @@ struct DemoResultCard: View {
                     )
                     .frame(width: 100, height: 100)
 
-                Image(systemName: "book.closed.fill")
-                    .font(.system(size: 44))
-                    .foregroundStyle(
-                        LinearGradient(
-                            colors: [.purple, Color(red: 0.6, green: 0.4, blue: 0.8)],
-                            startPoint: .topLeading,
-                            endPoint: .bottomTrailing
+                if themeManager.isSapphire {
+                    Image(systemName: "book.closed.fill")
+                        .font(.system(size: 44))
+                        .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                } else {
+                    Image(systemName: "book.closed.fill")
+                        .font(.system(size: 44))
+                        .foregroundStyle(
+                            LinearGradient(
+                                colors: [.purple, Color(red: 0.6, green: 0.4, blue: 0.8)],
+                                startPoint: .topLeading,
+                                endPoint: .bottomTrailing
+                            )
                         )
-                    )
+                }
             }
 
             // Level title
             VStack(spacing: 8) {
                 Text("Scholar Level")
-                    .font(.system(size: 24, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(24)
+                          : .system(size: 24, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("عالم")
-                    .font(.system(size: 18, weight: .medium))
-                    .foregroundColor(.purple)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.arabic(18, bold: true)
+                          : .system(size: 18, weight: .medium))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : .purple)
             }
 
             // Score
             HStack(spacing: 4) {
                 Text("\(score)")
-                    .font(.system(size: 48, weight: .bold, design: .rounded))
-                    .foregroundColor(.purple)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.numeral(48)
+                          : .system(size: 48, weight: .bold, design: .rounded))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : .purple)
                     .contentTransition(.numericText())
 
                 Text("/10")
-                    .font(.system(size: 24, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(24, semibold: false)
+                          : .system(size: 24, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
             }
 
             // Message
             Text("Excellent understanding!")
-                .font(.system(size: 15, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(15, semibold: false)
+                      : .system(size: 15, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
         }
@@ -376,7 +411,7 @@ struct DemoResultCard: View {
         )
         .overlay(
             RoundedRectangle(cornerRadius: 24)
-                .stroke(Color.purple.opacity(0.3), lineWidth: 2)
+                .stroke(themeManager.isSapphire ? themeManager.strokeColor : Color.purple.opacity(0.3), lineWidth: 2)
         )
         .opacity(isVisible ? 1 : 0)
         .scaleEffect(isVisible ? 1 : 0.8)

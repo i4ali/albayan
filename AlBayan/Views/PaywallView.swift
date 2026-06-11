@@ -26,14 +26,23 @@ struct PaywallView: View {
             ForEach(0..<3) { i in
                 Circle()
                     .fill(
-                        LinearGradient(
+                        themeManager.isSapphire
+                        ? AnyShapeStyle(LinearGradient(
+                            gradient: Gradient(colors: [
+                                Color(hex: "#D9C079").opacity(0.18),
+                                Color(hex: "#5B9BE0").opacity(0.15)
+                            ]),
+                            startPoint: .topLeading,
+                            endPoint: .bottomTrailing
+                        ))
+                        : AnyShapeStyle(LinearGradient(
                             gradient: Gradient(colors: [
                                 Color.purple.opacity(0.3),
                                 Color.blue.opacity(0.3)
                             ]),
                             startPoint: .topLeading,
                             endPoint: .bottomTrailing
-                        )
+                        ))
                     )
                     .frame(width: 200, height: 200)
                     .blur(radius: 60)
@@ -109,31 +118,45 @@ struct PaywallView: View {
                         VStack(spacing: 16) {
                             // Price display
                             VStack(spacing: 4) {
-                                Text("Only")
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                if themeManager.isSapphire {
+                                    Text("UNLOCK PREMIUM")
+                                        .font(SapphireFont.eyebrow)
+                                        .foregroundColor(themeManager.accentColor)
+                                        .tracking(2.5)
+                                        .textCase(.uppercase)
+                                } else {
+                                    Text("Only")
+                                        .font(.system(size: 14, weight: .medium))
+                                        .foregroundColor(themeManager.secondaryText)
+                                }
 
                                 if let price = purchaseManager.getProductPrice() {
-                                    Text(price)
-                                        .font(.system(size: 48, weight: .bold))
-                                        .foregroundColor(themeManager.primaryText)
+                                    if themeManager.isSapphire {
+                                        Text(price)
+                                            .font(SapphireFont.numeral(48))
+                                            .foregroundColor(themeManager.accentBright)
+                                    } else {
+                                        Text(price)
+                                            .font(.system(size: 48, weight: .bold))
+                                            .foregroundColor(themeManager.primaryText)
+                                    }
                                 } else {
                                     ProgressView()
                                         .frame(height: 58)
                                 }
 
                                 Text("One-time payment")
-                                    .font(.system(size: 14, weight: .medium))
+                                    .font(themeManager.isSapphire ? SapphireFont.serif(14, semibold: false) : .system(size: 14, weight: .medium))
                                     .foregroundColor(themeManager.secondaryText)
                             }
                             .padding(.vertical, 20)
                             .frame(maxWidth: .infinity)
                             .background(
                                 RoundedRectangle(cornerRadius: 20)
-                                    .fill(themeManager.secondaryBackground.opacity(0.5))
+                                    .fill(themeManager.isSapphire ? themeManager.goldChipFill : themeManager.secondaryBackground.opacity(0.5))
                                     .overlay(
                                         RoundedRectangle(cornerRadius: 20)
-                                            .stroke(themeManager.accentColor.opacity(0.3), lineWidth: 1)
+                                            .stroke(themeManager.accentColor.opacity(themeManager.isSapphire ? 0.55 : 0.3), lineWidth: themeManager.isSapphire ? 1.5 : 1)
                                     )
                             )
 
@@ -163,25 +186,30 @@ struct PaywallView: View {
                                 HStack(spacing: 12) {
                                     if purchaseManager.isLoading {
                                         ProgressView()
-                                            .progressViewStyle(CircularProgressViewStyle(tint: .white))
+                                            .progressViewStyle(CircularProgressViewStyle(tint: themeManager.isSapphire ? themeManager.onAccentText : .white))
                                     } else {
                                         Image(systemName: "star.fill")
                                         Text("Unlock Premium")
-                                            .font(.system(size: 18, weight: .bold))
+                                            .font(themeManager.isSapphire ? SapphireFont.serif(18) : .system(size: 18, weight: .bold))
                                     }
                                 }
-                                .foregroundColor(.white)
+                                .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 56)
                                 .background(
-                                    LinearGradient(
+                                    themeManager.isSapphire
+                                    ? AnyShapeStyle(themeManager.goldGradient)
+                                    : AnyShapeStyle(LinearGradient(
                                         gradient: Gradient(colors: [Color.purple, Color.blue]),
                                         startPoint: .leading,
                                         endPoint: .trailing
-                                    )
+                                    ))
                                 )
                                 .cornerRadius(16)
-                                .shadow(color: Color.purple.opacity(0.5), radius: 15, x: 0, y: 8)
+                                .shadow(
+                                    color: themeManager.isSapphire ? themeManager.goldButtonShadow : Color.purple.opacity(0.5),
+                                    radius: 15, x: 0, y: 8
+                                )
                             }
                             .disabled(purchaseManager.isLoading || !purchaseManager.isProductLoaded)
 
@@ -209,8 +237,8 @@ struct PaywallView: View {
                                 }
                             }) {
                                 Text("Restore Purchases")
-                                    .font(.system(size: 16, weight: .semibold))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 16, weight: .semibold))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.tertiaryText : themeManager.secondaryText)
                                     .underline()
                             }
                             .disabled(purchaseManager.isLoading)
@@ -219,8 +247,8 @@ struct PaywallView: View {
 
                         // Footer text
                         Text("Secure payment processed by Apple")
-                            .font(.system(size: 12))
-                            .foregroundColor(themeManager.secondaryText.opacity(0.6))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(12, semibold: false) : .system(size: 12))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.tertiaryText : themeManager.secondaryText.opacity(0.6))
                             .padding(.bottom, 40)
                     }
                 }
@@ -249,22 +277,22 @@ struct PremiumBenefitRow: View {
             // Icon
             ZStack {
                 Circle()
-                    .fill(color.opacity(0.15))
+                    .fill(themeManager.isSapphire ? themeManager.goldChipFill : color.opacity(0.15))
                     .frame(width: 56, height: 56)
 
                 Image(systemName: icon)
                     .font(.system(size: 24))
-                    .foregroundColor(color)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : color)
             }
 
             // Text
             VStack(alignment: .leading, spacing: 4) {
                 Text(title)
-                    .font(.system(size: 17, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(18) : .system(size: 17, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text(description)
-                    .font(.system(size: 14, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(14, semibold: false) : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineLimit(2)
             }
@@ -274,10 +302,10 @@ struct PremiumBenefitRow: View {
         .padding(16)
         .background(
             RoundedRectangle(cornerRadius: 16)
-                .fill(themeManager.secondaryBackground.opacity(0.5))
+                .fill(themeManager.isSapphire ? themeManager.cardElevated : themeManager.secondaryBackground.opacity(0.5))
                 .overlay(
                     RoundedRectangle(cornerRadius: 16)
-                        .stroke(color.opacity(0.2), lineWidth: 1)
+                        .stroke(themeManager.isSapphire ? themeManager.strokeColor : color.opacity(0.2), lineWidth: 1)
                 )
         )
     }
@@ -299,12 +327,20 @@ struct PaywallLayersHero: View {
         VStack(spacing: 16) {
             // Header
             VStack(spacing: 8) {
+                if themeManager.isSapphire {
+                    Text("WISDOM")
+                        .font(SapphireFont.eyebrow)
+                        .foregroundColor(themeManager.accentColor)
+                        .tracking(3)
+                        .textCase(.uppercase)
+                }
+
                 Text("4 Layers of Wisdom")
-                    .font(.system(size: 28, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(30) : .system(size: 28, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("Unlock the depth of Quranic understanding")
-                    .font(.system(size: 15, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 15, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .multilineTextAlignment(.center)
             }
@@ -363,13 +399,13 @@ struct PaywallLayerCard: View {
                 .font(.system(size: 24))
 
             Text(title)
-                .font(.system(size: 12, weight: .semibold))
-                .foregroundColor(themeManager.primaryText)
+                .font(themeManager.isSapphire ? SapphireFont.serif(13) : .system(size: 12, weight: .semibold))
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.primaryText)
                 .lineLimit(1)
                 .minimumScaleFactor(0.8)
 
             Text(tagline)
-                .font(.system(size: 10, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(10, semibold: false) : .system(size: 10, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .lineLimit(2)
                 .multilineTextAlignment(.center)
@@ -380,10 +416,10 @@ struct PaywallLayerCard: View {
         .padding(.horizontal, 8)
         .background(
             RoundedRectangle(cornerRadius: 12)
-                .fill(themeManager.secondaryBackground.opacity(0.6))
+                .fill(themeManager.isSapphire ? themeManager.cardElevated : themeManager.secondaryBackground.opacity(0.6))
                 .overlay(
                     RoundedRectangle(cornerRadius: 12)
-                        .stroke(color.opacity(0.3), lineWidth: 1)
+                        .stroke(themeManager.isSapphire ? themeManager.strokeColor : color.opacity(0.3), lineWidth: 1)
                 )
         )
     }
@@ -396,8 +432,16 @@ struct PaywallProgressTeaser: View {
 
     var body: some View {
         VStack(spacing: 12) {
+            if themeManager.isSapphire {
+                Text("JOURNEY")
+                    .font(SapphireFont.eyebrow)
+                    .foregroundColor(themeManager.accentColor)
+                    .tracking(2.5)
+                    .textCase(.uppercase)
+            }
+
             Text("Track Your Spiritual Journey")
-                .font(.system(size: 16, weight: .semibold))
+                .font(themeManager.isSapphire ? SapphireFont.serif(18) : .system(size: 16, weight: .semibold))
                 .foregroundColor(themeManager.primaryText)
 
             HStack(spacing: 12) {
@@ -423,10 +467,10 @@ struct ProgressTeaserItem: View {
         VStack(spacing: 8) {
             Image(systemName: icon)
                 .font(.system(size: 22))
-                .foregroundColor(color)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : color)
 
             Text(label)
-                .font(.system(size: 11, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(11, semibold: false) : .system(size: 11, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .lineLimit(1)
                 .minimumScaleFactor(0.8)
@@ -435,10 +479,10 @@ struct ProgressTeaserItem: View {
         .padding(.vertical, 14)
         .background(
             RoundedRectangle(cornerRadius: 12)
-                .fill(themeManager.secondaryBackground.opacity(0.5))
+                .fill(themeManager.isSapphire ? themeManager.cardElevated : themeManager.secondaryBackground.opacity(0.5))
                 .overlay(
                     RoundedRectangle(cornerRadius: 12)
-                        .stroke(color.opacity(0.2), lineWidth: 1)
+                        .stroke(themeManager.isSapphire ? themeManager.strokeColor : color.opacity(0.2), lineWidth: 1)
                 )
         )
     }
@@ -454,13 +498,25 @@ struct PaywallQuickGemsFeature: View {
             // Popular badge
             HStack {
                 Spacer()
-                Text("POPULAR")
-                    .font(.system(size: 10, weight: .bold))
-                    .foregroundColor(.white)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 5)
-                    .background(Capsule().fill(Color.orange))
-                    .offset(y: -12)
+                if themeManager.isSapphire {
+                    Text("POPULAR")
+                        .font(SapphireFont.eyebrow)
+                        .foregroundColor(themeManager.onAccentText)
+                        .tracking(2)
+                        .textCase(.uppercase)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 5)
+                        .background(Capsule().fill(themeManager.accentColor))
+                        .offset(y: -12)
+                } else {
+                    Text("POPULAR")
+                        .font(.system(size: 10, weight: .bold))
+                        .foregroundColor(.white)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 5)
+                        .background(Capsule().fill(Color.orange))
+                        .offset(y: -12)
+                }
             }
             .padding(.trailing, 16)
 
@@ -469,21 +525,21 @@ struct PaywallQuickGemsFeature: View {
                 // Sparkles icon with glow
                 ZStack {
                     Circle()
-                        .fill(Color.orange.opacity(0.15))
+                        .fill(themeManager.isSapphire ? themeManager.goldChipFill : Color.orange.opacity(0.15))
                         .frame(width: 64, height: 64)
 
                     Image(systemName: "sparkles")
                         .font(.system(size: 28))
-                        .foregroundColor(.orange)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : .orange)
                 }
 
                 VStack(alignment: .leading, spacing: 4) {
                     Text("Gems")
-                        .font(.system(size: 20, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(22) : .system(size: 20, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
 
                     Text("Bite-size insights for every verse")
-                        .font(.system(size: 14, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(14, semibold: false) : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                 }
 
@@ -494,10 +550,10 @@ struct PaywallQuickGemsFeature: View {
         }
         .background(
             RoundedRectangle(cornerRadius: 20)
-                .fill(themeManager.secondaryBackground.opacity(0.6))
+                .fill(themeManager.isSapphire ? themeManager.cardElevated : themeManager.secondaryBackground.opacity(0.6))
                 .overlay(
                     RoundedRectangle(cornerRadius: 20)
-                        .stroke(Color.orange.opacity(0.4), lineWidth: 2)
+                        .stroke(themeManager.isSapphire ? themeManager.accentColor.opacity(0.45) : Color.orange.opacity(0.4), lineWidth: themeManager.isSapphire ? 1.5 : 2)
                 )
         )
         .padding(.horizontal)

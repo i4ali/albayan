@@ -14,24 +14,28 @@ struct MainTabView: View {
     var body: some View {
         TabView(selection: $selectedTab) {
             TodayTab()
+                .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Today") } icon: { Image(systemName: "sun.max") }
                 }
                 .tag(0)
 
             HomeTab()
+                .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Quran") } icon: { Image(systemName: "book") }
                 }
                 .tag(1)
 
             ExploreTab()
+                .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Explore") } icon: { Image(systemName: "sparkles") }
                 }
                 .tag(2)
 
             ProgressTab()
+                .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Progress") } icon: { Image(systemName: "chart.bar.fill") }
                 }
@@ -39,12 +43,18 @@ struct MainTabView: View {
 
             // Permanent Journey hub (lists every journey with live Hijri status).
             JourneyHubView()
+                .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Journey") } icon: { Image(systemName: "map") }
                 }
                 .tag(4)
         }
         .tint(themeManager.accentColor)
+        .overlay(alignment: .bottom) {
+            if themeManager.isSapphire {
+                SpTabBar(selection: $selectedTab)
+            }
+        }
         .onReceive(NotificationCenter.default.publisher(for: .navigateToJourney)) { note in
             guard let journeyId = note.userInfo?["journey"] as? String else { return }
             DeepLinkRouter.shared.pendingJourneyId = journeyId

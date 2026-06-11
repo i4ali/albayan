@@ -46,13 +46,27 @@ struct PropheticParallelsView: View {
                     VStack(spacing: 12) {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Prophetic Parallels")
-                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                                    .foregroundColor(themeManager.primaryText)
+                                if themeManager.isSapphire {
+                                    Text("PROPHETIC PARALLELS")
+                                        .font(SapphireFont.eyebrow)
+                                        .tracking(2.5)
+                                        .foregroundColor(themeManager.accentColor)
+                                    Text("You Aren't Alone")
+                                        .font(SapphireFont.screenTitle)
+                                        .tracking(0.2)
+                                        .foregroundColor(themeManager.primaryText)
+                                    Text("The best of humans went through this too")
+                                        .font(.system(size: 13.5))
+                                        .foregroundColor(themeManager.secondaryText)
+                                } else {
+                                    Text("Prophetic Parallels")
+                                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                        .foregroundColor(themeManager.primaryText)
 
-                                Text("You aren't alone in your struggles")
-                                    .font(.system(size: 16, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    Text("You aren't alone in your struggles")
+                                        .font(.system(size: 16, weight: .medium))
+                                        .foregroundColor(themeManager.secondaryText)
+                                }
                             }
 
                             Spacer()
@@ -154,12 +168,13 @@ struct PropheticParallelsView: View {
                                     } header: {
                                         HStack {
                                             Image(systemName: category.icon)
-                                                .font(.system(size: 16, weight: .semibold))
+                                                .font(.system(size: 16, weight: themeManager.isSapphire ? .regular : .semibold))
                                                 .foregroundColor(themeManager.accentColor)
 
-                                            Text(category.displayName)
-                                                .font(.system(size: 18, weight: .bold))
-                                                .foregroundColor(themeManager.primaryText)
+                                            Text(themeManager.isSapphire ? category.displayName.uppercased() : category.displayName)
+                                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 18, weight: .bold))
+                                                .tracking(themeManager.isSapphire ? 2.0 : 0)
+                                                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
                                                 .textCase(nil)
 
                                             Spacer()
@@ -214,43 +229,75 @@ struct PropheticParallelCard: View {
     var body: some View {
         HStack(alignment: .top, spacing: 16) {
             // Situation icon
-            ZStack {
-                Circle()
-                    .fill(themeManager.accentGradient)
-                    .frame(width: 50, height: 50)
-                    .shadow(
-                        color: themeManager.accentColor.opacity(0.3),
-                        radius: 8
-                    )
-
+            if themeManager.isSapphire {
                 Image(systemName: parallel.icon)
-                    .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(.white)
+                    .font(.system(size: 20, weight: .regular))
+                    .foregroundColor(themeManager.accentColor)
+                    .frame(width: 50, height: 50)
+                    .background(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .fill(themeManager.goldChipFill)
+                    )
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else {
+                ZStack {
+                    Circle()
+                        .fill(themeManager.accentGradient)
+                        .frame(width: 50, height: 50)
+                        .shadow(
+                            color: themeManager.accentColor.opacity(0.3),
+                            radius: 8
+                        )
+
+                    Image(systemName: parallel.icon)
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundColor(.white)
+                }
             }
 
             // Parallel content
             VStack(alignment: .leading, spacing: 6) {
                 // Prophet name badge
-                Text(parallel.prophet)
-                    .font(.system(size: 12, weight: .bold))
-                    .foregroundColor(themeManager.accentColor)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 4)
-                    .background(
-                        Capsule()
-                            .fill(themeManager.accentColor.opacity(0.15))
-                    )
+                if themeManager.isSapphire {
+                    Text(parallel.prophet.uppercased())
+                        .font(SapphireFont.eyebrow)
+                        .tracking(2.0)
+                        .foregroundColor(themeManager.accentColor)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 4)
+                        .background(
+                            Capsule()
+                                .fill(themeManager.goldChipFill)
+                        )
+                        .overlay(
+                            Capsule()
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                } else {
+                    Text(parallel.prophet)
+                        .font(.system(size: 12, weight: .bold))
+                        .foregroundColor(themeManager.accentColor)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 4)
+                        .background(
+                            Capsule()
+                                .fill(themeManager.accentColor.opacity(0.15))
+                        )
+                }
 
                 // Situation text
                 Text(parallel.situation)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(20) : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
                     .lineLimit(2)
                     .multilineTextAlignment(.leading)
 
                 // Connection preview
                 Text(parallel.connection)
-                    .font(.system(size: 14, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineLimit(2)
 
@@ -269,7 +316,14 @@ struct PropheticParallelCard: View {
         }
         .padding(20)
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 16)
+                    .fill(themeManager.cardBackground)
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 16)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 20)
                     .fill(Color(red: 1.0, green: 1.0, blue: 1.0).opacity(1.0))
                     .shadow(color: Color.black.opacity(0.04), radius: 12, x: 0, y: 4)
@@ -313,22 +367,35 @@ struct ParallelCategoryChip: View {
         Button(action: action) {
             HStack(spacing: 6) {
                 Image(systemName: icon)
-                    .font(.system(size: 14, weight: .semibold))
+                    .font(.system(size: 14, weight: themeManager.isSapphire ? .regular : .semibold))
 
-                Text(title)
-                    .font(.system(size: 14, weight: .semibold))
+                Text(themeManager.isSapphire ? title.uppercased() : title)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                    .tracking(themeManager.isSapphire ? 1.5 : 0)
                     .lineLimit(1)
             }
-            .foregroundColor(isSelected ? .white : themeManager.primaryText)
+            .foregroundColor(isSelected ? (themeManager.isSapphire ? themeManager.onAccentText : .white) : (themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText))
             .padding(.horizontal, 16)
             .padding(.vertical, 10)
             .background {
                 if isSelected {
-                    Capsule()
-                        .fill(themeManager.accentGradient)
-                        .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                    if themeManager.isSapphire {
+                        Capsule()
+                            .fill(AnyShapeStyle(themeManager.goldGradient))
+                    } else {
+                        Capsule()
+                            .fill(AnyShapeStyle(themeManager.accentGradient))
+                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                    }
                 } else {
-                    if themeManager.useWarmLayout {
+                    if themeManager.isSapphire {
+                        Capsule()
+                            .fill(themeManager.goldChipFill)
+                            .overlay(
+                                Capsule()
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    } else if themeManager.useWarmLayout {
                         Capsule()
                             .fill(Color(red: 0.95, green: 0.95, blue: 0.95))
                     } else {
@@ -354,14 +421,14 @@ struct ParallelEmptyStateSection: View {
         VStack(spacing: 16) {
             Image(systemName: "person.2.wave.2.fill")
                 .font(.system(size: 48))
-                .foregroundColor(themeManager.secondaryText)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
 
             Text("No parallels found")
-                .font(.system(size: 20, weight: .bold))
+                .font(themeManager.isSapphire ? SapphireFont.headline(22) : .system(size: 20, weight: .bold))
                 .foregroundColor(themeManager.primaryText)
 
             Text("Try adjusting your search or category filter")
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
         }
@@ -383,7 +450,7 @@ private struct ParallelLoadingSection: View {
                 .tint(themeManager.accentColor)
 
             Text(message)
-                .font(.system(size: 16, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 16, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -404,11 +471,11 @@ private struct ParallelErrorSection: View {
                 .foregroundColor(.orange)
 
             Text("Error Loading Parallels")
-                .font(.system(size: 20, weight: .bold))
+                .font(themeManager.isSapphire ? SapphireFont.headline(22) : .system(size: 20, weight: .bold))
                 .foregroundColor(themeManager.primaryText)
 
             Text(message)
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false) : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
         }

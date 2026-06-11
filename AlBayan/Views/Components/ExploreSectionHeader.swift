@@ -14,9 +14,9 @@ struct ExploreSectionHeader: View {
 
     var body: some View {
         Text(title.uppercased())
-            .font(.system(size: 13, weight: .semibold))
-            .foregroundColor(themeManager.tertiaryText)
-            .tracking(0.5)
+            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .semibold))
+            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+            .tracking(themeManager.isSapphire ? 2.5 : 0.5)
             .frame(maxWidth: .infinity, alignment: .leading)
             .padding(.horizontal, 20)
             .padding(.top, 24)

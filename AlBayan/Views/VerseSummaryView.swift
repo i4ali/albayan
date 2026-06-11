@@ -99,11 +99,11 @@ struct VerseSummaryView: View {
 
             VStack(alignment: .leading, spacing: 4) {
                 Text("Gems")
-                    .font(.system(size: 24, weight: .bold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(26) : .system(size: 24, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("Precious insights unveiled")
-                    .font(.system(size: 14, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.body(13) : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
             }
 
@@ -125,18 +125,18 @@ struct VerseSummaryView: View {
                 .frame(width: 40, height: 40)
                 .overlay(
                     Text("\(verse.number)")
-                        .font(.system(size: 16, weight: .semibold))
-                        .foregroundColor(.white)
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(16) : .system(size: 16, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : .white)
                 )
                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 8)
 
             VStack(alignment: .leading, spacing: 2) {
                 Text(surah.englishName)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(16) : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("Verse \(verse.number)")
-                    .font(.system(size: 14, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.body(13) : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
             }
         }
@@ -158,21 +158,28 @@ struct VerseSummaryView: View {
                 Button(action: { languageManager.setLanguage(language) }) {
                     Text(language.displayName)
                         .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(selectedLanguage == language ? .white : themeManager.tertiaryText)
+                        .foregroundColor(
+                            selectedLanguage == language
+                                ? (themeManager.isSapphire ? themeManager.onAccentText : .white)
+                                : themeManager.tertiaryText
+                        )
                         .padding(.horizontal, 16)
                         .padding(.vertical, 8)
                         .background {
                             if selectedLanguage == language {
                                 RoundedRectangle(cornerRadius: 8)
-                                    .fill(themeManager.accentGradient)
+                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
                             } else {
                                 RoundedRectangle(cornerRadius: 8)
-                                    .fill(Color.clear)
+                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(Color.clear))
                             }
                         }
                         .overlay(
                             RoundedRectangle(cornerRadius: 8)
-                                .stroke(themeManager.strokeColor, lineWidth: selectedLanguage == language ? 0 : 1)
+                                .stroke(
+                                    themeManager.isSapphire ? themeManager.accentColor : themeManager.strokeColor,
+                                    lineWidth: selectedLanguage == language ? (themeManager.isSapphire ? 1 : 0) : 1
+                                )
                         )
                 }
             }
@@ -184,14 +191,14 @@ struct VerseSummaryView: View {
             // Layer2 classical commentary (short version for overview)
             if let layer2Text = verse.tafsir?.getLayer2Short(language: selectedLanguage) {
                 Text(layer2Text)
-                    .font(.system(size: 17 * readingSettings.scale, weight: .regular, design: .serif))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false) : .system(size: 17 * readingSettings.scale, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(8 * readingSettings.scale)
                     .multilineTextAlignment(selectedLanguage.isRTL ? .trailing : .leading)
                     .environment(\.layoutDirection, selectedLanguage.isRTL ? .rightToLeft : .leftToRight)
             } else {
                 Text("Overview not available for this verse.")
-                    .font(.system(size: 16, weight: .regular, design: .serif))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: false, italic: true) : .system(size: 16, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.secondaryText)
                     .italic()
             }
@@ -235,13 +242,13 @@ struct VerseSummaryView: View {
                 Image(systemName: "arrow.right")
                     .font(.system(size: 14, weight: .semibold))
             }
-            .foregroundColor(.white)
+            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
             .frame(maxWidth: .infinity)
             .padding(.vertical, 16)
             .background(
                 RoundedRectangle(cornerRadius: 16)
-                    .fill(themeManager.purpleGradient)
-                    .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 12)
+                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.purpleGradient))
+                    .shadow(color: themeManager.isSapphire ? themeManager.accentColor.opacity(0.24) : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 12)
             )
         }
         .padding(.top, 8)

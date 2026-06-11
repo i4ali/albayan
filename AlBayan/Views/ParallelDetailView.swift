@@ -99,14 +99,23 @@ struct ParallelDetailView: View {
                         .font(.system(size: 14, weight: .semibold))
 
                     Text(parallel.category.displayName)
-                        .font(.system(size: 14, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(15) : .system(size: 14, weight: .semibold))
                 }
-                .foregroundColor(themeManager.accentColor)
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                 .padding(.horizontal, 16)
                 .padding(.vertical, 8)
                 .background {
-                    Capsule()
-                        .fill(themeManager.accentColor.opacity(0.15))
+                    if themeManager.isSapphire {
+                        Capsule()
+                            .fill(AnyShapeStyle(themeManager.goldChipFill))
+                            .overlay(
+                                Capsule()
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    } else {
+                        Capsule()
+                            .fill(themeManager.accentColor.opacity(0.15))
+                    }
                 }
 
                 Spacer()
@@ -120,13 +129,13 @@ struct ParallelDetailView: View {
                         .foregroundColor(themeManager.accentColor)
 
                     Text("YOUR SITUATION")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.secondaryText)
-                        .tracking(1.2)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 3 : 1.2)
                 }
 
                 Text(parallel.situation)
-                    .font(.system(size: 22, weight: .bold, design: .rounded))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(28) : .system(size: 22, weight: .bold, design: .rounded))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4)
 
@@ -141,24 +150,31 @@ struct ParallelDetailView: View {
                         .foregroundColor(themeManager.accentColor)
 
                     Text("PROPHET")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.secondaryText)
-                        .tracking(1.2)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 3 : 1.2)
                 }
 
                 Text(parallel.prophet)
-                    .font(.system(size: 20, weight: .bold, design: .rounded))
+                    .font(themeManager.isSapphire ? SapphireFont.headline(22) : .system(size: 20, weight: .bold, design: .rounded))
                     .foregroundColor(themeManager.accentColor)
 
                 Text(parallel.connection)
-                    .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4 * readingSettings.scale)
             }
         }
         .padding(24)
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 24)
+                    .fill(AnyShapeStyle(themeManager.cardElevated))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 24)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)
@@ -182,23 +198,23 @@ struct ParallelDetailView: View {
             HStack(alignment: .top, spacing: 8) {
                 Image(systemName: "heart.fill")
                     .font(.system(size: 16))
-                    .foregroundColor(.white)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
 
                 Text("A MESSAGE FOR YOU")
-                    .font(.system(size: 14, weight: .bold))
-                    .foregroundColor(.white.opacity(0.9))
-                    .tracking(1.2)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText.opacity(0.85) : .white.opacity(0.9))
+                    .tracking(themeManager.isSapphire ? 3 : 1.2)
             }
 
             Text(parallel.comfortMessage)
-                .font(.system(size: 17 * readingSettings.scale, weight: .medium))
-                .foregroundColor(.white)
+                .font(themeManager.isSapphire ? SapphireFont.serif(17 * readingSettings.scale, semibold: false, italic: true) : .system(size: 17 * readingSettings.scale, weight: .medium))
+                .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                 .lineSpacing(6 * readingSettings.scale)
         }
         .padding(24)
         .background {
             RoundedRectangle(cornerRadius: 24)
-                .fill(themeManager.purpleGradient)
+                .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.purpleGradient))
                 .shadow(color: themeManager.accentColor.opacity(0.4), radius: 16, x: 0, y: 8)
         }
         .padding(.horizontal, 20)
@@ -214,9 +230,9 @@ struct ParallelDetailView: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text("KEY VERSES")
-                    .font(.system(size: 14, weight: .bold))
-                    .foregroundColor(themeManager.secondaryText)
-                    .tracking(1.2)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                    .tracking(themeManager.isSapphire ? 3 : 1.2)
             }
             .padding(.horizontal, 20)
 
@@ -244,9 +260,9 @@ struct ParallelDetailView: View {
                     .foregroundColor(themeManager.accentColor)
 
                 Text("FULL STORY")
-                    .font(.system(size: 14, weight: .bold))
-                    .foregroundColor(themeManager.secondaryText)
-                    .tracking(1.2)
+                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                    .tracking(themeManager.isSapphire ? 3 : 1.2)
             }
 
             if let story = relatedStory {
@@ -254,44 +270,63 @@ struct ParallelDetailView: View {
                     HStack(spacing: 12) {
                         Image(systemName: story.categoryIcon)
                             .font(.system(size: 16, weight: .semibold))
-                            .foregroundColor(themeManager.accentColor)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.accentColor)
                             .frame(width: 32, height: 32)
                             .background {
-                                Circle()
-                                    .fill(themeManager.accentColor.opacity(0.15))
+                                if themeManager.isSapphire {
+                                    Circle()
+                                        .fill(AnyShapeStyle(themeManager.goldChipFill))
+                                } else {
+                                    Circle()
+                                        .fill(themeManager.accentColor.opacity(0.15))
+                                }
                             }
 
                         VStack(alignment: .leading, spacing: 4) {
                             Text(story.prophet)
-                                .font(.system(size: 12, weight: .bold))
+                                .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .bold))
                                 .foregroundColor(themeManager.accentColor)
+                                .tracking(themeManager.isSapphire ? 2 : 0)
 
                             Text(story.title)
-                                .font(.system(size: 15, weight: .semibold))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(15) : .system(size: 15, weight: .semibold))
                                 .foregroundColor(themeManager.primaryText)
                                 .lineLimit(2)
                                 .multilineTextAlignment(.leading)
 
                             Text("\(story.verseCount) verses • Full Quranic account")
-                                .font(.system(size: 13, weight: .medium))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(13, semibold: false) : .system(size: 13, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                         }
 
                         Spacer()
 
                         Text("Read Full Story")
-                            .font(.system(size: 13, weight: .semibold))
-                            .foregroundColor(.white)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .semibold))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
+                            .tracking(themeManager.isSapphire ? 2 : 0)
                             .padding(.horizontal, 14)
                             .padding(.vertical, 8)
                             .background {
-                                Capsule()
-                                    .fill(themeManager.accentGradient)
+                                if themeManager.isSapphire {
+                                    Capsule()
+                                        .fill(AnyShapeStyle(themeManager.goldGradient))
+                                } else {
+                                    Capsule()
+                                        .fill(themeManager.accentGradient)
+                                }
                             }
                     }
                     .padding(16)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            RoundedRectangle(cornerRadius: 16)
+                                .fill(AnyShapeStyle(themeManager.cardBackground))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 16)
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             RoundedRectangle(cornerRadius: 16)
                                 .fill(Color.white)
                                 .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)
@@ -342,22 +377,29 @@ struct ParallelVerseCard: View {
             HStack(spacing: 12) {
                 // Verse number badge
                 ZStack {
-                    Circle()
-                        .fill(themeManager.accentGradient)
-                        .frame(width: 40, height: 40)
+                    if themeManager.isSapphire {
+                        Circle()
+                            .fill(AnyShapeStyle(themeManager.goldGradient))
+                            .frame(width: 40, height: 40)
+                    } else {
+                        Circle()
+                            .fill(themeManager.accentGradient)
+                            .frame(width: 40, height: 40)
+                    }
 
                     Text("\(index)")
-                        .font(.system(size: 16, weight: .bold))
-                        .foregroundColor(.white)
+                        .font(themeManager.isSapphire ? SapphireFont.numeral(16) : .system(size: 16, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                 }
 
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Verse \(index) of \(totalVerses)")
-                        .font(.system(size: 13, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 13, weight: .semibold))
                         .foregroundColor(themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
 
                     Text("\(surahName) (\(verse.surahNumber):\(verse.verseNumber))")
-                        .font(.system(size: 15, weight: .bold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(15) : .system(size: 15, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
                 }
 
@@ -373,7 +415,7 @@ struct ParallelVerseCard: View {
                 VStack(alignment: .leading, spacing: 16) {
                     // Arabic text
                     Text(verseContent.arabic)
-                        .font(.custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
+                        .font(themeManager.isSapphire ? SapphireFont.arabicVerse(26 * readingSettings.scale) : .custom("AmiriQuran-Regular", size: 24 * readingSettings.scale))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(8 * readingSettings.scale)
                         .multilineTextAlignment(.trailing)
@@ -381,7 +423,7 @@ struct ParallelVerseCard: View {
 
                     // Translation
                     Text(verseContent.translation)
-                        .font(.system(size: 16 * readingSettings.scale, weight: .medium))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16 * readingSettings.scale, semibold: false) : .system(size: 16 * readingSettings.scale, weight: .medium))
                         .foregroundColor(themeManager.primaryText)
                         .lineSpacing(4 * readingSettings.scale)
                         .translationLayout(languageManager.selectedLanguage)
@@ -400,19 +442,23 @@ struct ParallelVerseCard: View {
                         .foregroundColor(themeManager.accentColor)
 
                     Text("Why This Verse Matters")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.secondaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .bold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                 }
 
                 Text(verse.relevanceNote)
-                    .font(.system(size: 15 * readingSettings.scale, weight: .medium))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(15 * readingSettings.scale, semibold: false) : .system(size: 15 * readingSettings.scale, weight: .medium))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4 * readingSettings.scale)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
             .padding(20)
             .background {
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    Rectangle()
+                        .fill(themeManager.accentColor.opacity(0.06))
+                } else if themeManager.useWarmLayout {
                     Rectangle()
                         .fill(Color(red: 0.98, green: 0.98, blue: 0.95))
                 } else {
@@ -432,15 +478,22 @@ struct ParallelVerseCard: View {
                             .font(.system(size: 14))
 
                         Text("Read Full Tafsir")
-                            .font(.system(size: 14, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .semibold))
+                            .tracking(themeManager.isSapphire ? 2 : 0)
                     }
-                    .foregroundColor(.white)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                     .padding(.horizontal, 20)
                     .padding(.vertical, 12)
                     .background {
-                        Capsule()
-                            .fill(themeManager.accentGradient)
-                            .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        if themeManager.isSapphire {
+                            Capsule()
+                                .fill(AnyShapeStyle(themeManager.goldGradient))
+                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        } else {
+                            Capsule()
+                                .fill(themeManager.accentGradient)
+                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 8)
+                        }
                     }
                 }
 
@@ -449,7 +502,14 @@ struct ParallelVerseCard: View {
             .padding(20)
         }
         .background {
-            if themeManager.useWarmLayout {
+            if themeManager.isSapphire {
+                RoundedRectangle(cornerRadius: 24)
+                    .fill(AnyShapeStyle(themeManager.cardBackground))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 24)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else if themeManager.useWarmLayout {
                 RoundedRectangle(cornerRadius: 24)
                     .fill(Color.white)
                     .shadow(color: Color.black.opacity(0.06), radius: 16, x: 0, y: 4)

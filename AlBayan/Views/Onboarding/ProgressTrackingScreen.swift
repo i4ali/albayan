@@ -60,7 +60,9 @@ struct ProgressTrackingScreen: View {
 
                 // Title
                 Text("Track Your Progress")
-                    .font(.system(size: 34, weight: .bold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(34)
+                          : .system(size: 34, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
@@ -68,7 +70,9 @@ struct ProgressTrackingScreen: View {
 
                 // Subtitle
                 Text("Master the Quran, verse by verse")
-                    .font(.system(size: 17, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(17, semibold: false)
+                          : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
@@ -94,7 +98,9 @@ struct ProgressTrackingScreen: View {
 
             // Bottom message
             Text("Your progress syncs across all your devices")
-                .font(.system(size: 14, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(14, semibold: false)
+                      : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -193,14 +199,18 @@ struct DemoVerseCard: View {
 
             // Arabic verse
             Text("بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ")
-                .font(.system(size: 26, weight: .medium))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.arabic(26)
+                      : .system(size: 26, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.center)
                 .padding(.vertical, 8)
 
             // English translation
             Text("In the name of Allah, the Most Gracious, the Most Merciful")
-                .font(.system(size: 15, weight: .regular))
+                .font(themeManager.isSapphire
+                      ? SapphireFont.serif(15, semibold: false)
+                      : .system(size: 15, weight: .regular))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .lineSpacing(4)
@@ -293,11 +303,15 @@ struct DemoProgressCard: View {
 
             VStack(alignment: .leading, spacing: 4) {
                 Text("Al-Faatiha")
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(16)
+                          : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("7 verses")
-                    .font(.system(size: 13, weight: .medium))
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(13, semibold: false)
+                          : .system(size: 13, weight: .medium))
                     .foregroundColor(themeManager.tertiaryText)
             }
 

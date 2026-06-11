@@ -26,13 +26,27 @@ struct LifeMomentsView: View {
                     VStack(spacing: 12) {
                         HStack {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Life Moments")
-                                    .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                                    .foregroundColor(themeManager.primaryText)
+                                if themeManager.isSapphire {
+                                    Text("GUIDANCE")
+                                        .font(SapphireFont.eyebrow)
+                                        .tracking(3)
+                                        .foregroundColor(themeManager.accentColor)
+                                    Text("Life Moments")
+                                        .font(SapphireFont.screenTitle)
+                                        .tracking(0.2)
+                                        .foregroundColor(themeManager.primaryText)
+                                    Text("A verse for whatever you carry today")
+                                        .font(.system(size: 13.5))
+                                        .foregroundColor(themeManager.secondaryText)
+                                } else {
+                                    Text("Life Moments")
+                                        .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                        .foregroundColor(themeManager.primaryText)
 
-                                Text("Find guidance for any situation")
-                                    .font(.system(size: 16, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                    Text("Find guidance for any situation")
+                                        .font(.system(size: 16, weight: .medium))
+                                        .foregroundColor(themeManager.secondaryText)
+                                }
                             }
 
                             Spacer()
@@ -121,32 +135,54 @@ struct MomentCard: View {
     var body: some View {
         HStack(alignment: .center, spacing: 16) {
             // Category icon
-            ZStack {
-                Circle()
-                    .fill(themeManager.accentGradient)
-                    .frame(width: 50, height: 50)
-                    .shadow(
-                        color: themeManager.accentColor.opacity(0.3),
-                        radius: 8
-                    )
-
+            if themeManager.isSapphire {
                 Image(systemName: moment.categoryIcon)
-                    .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(.white)
+                    .font(.system(size: 20, weight: .regular))
+                    .foregroundColor(themeManager.accentColor)
+                    .frame(width: 50, height: 50)
+                    .background(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .fill(themeManager.goldChipFill)
+                    )
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                    )
+            } else {
+                ZStack {
+                    Circle()
+                        .fill(themeManager.accentGradient)
+                        .frame(width: 50, height: 50)
+                        .shadow(
+                            color: themeManager.accentColor.opacity(0.3),
+                            radius: 8
+                        )
+
+                    Image(systemName: moment.categoryIcon)
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundColor(.white)
+                }
             }
 
             // Situation text
             VStack(alignment: .leading, spacing: 4) {
                 Text(moment.situation)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(22) : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
                     .lineLimit(2)
                     .multilineTextAlignment(.leading)
 
                 // Verse reference
-                Text(moment.verseReference)
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
+                if themeManager.isSapphire {
+                    Text(moment.verseReference.uppercased())
+                        .font(SapphireFont.eyebrow)
+                        .tracking(1.5)
+                        .foregroundColor(themeManager.accentColor)
+                } else {
+                    Text(moment.verseReference)
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                }
             }
 
             Spacer()

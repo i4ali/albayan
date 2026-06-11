@@ -55,9 +55,15 @@ struct TodayView: View {
                     Text("Assalāmu 'alaykum 👋")
                         .font(.system(size: 15, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
-                    Text("Today")
-                        .font(.system(size: 34, weight: .bold))
-                        .foregroundColor(themeManager.primaryText)
+                    if themeManager.isSapphire {
+                        Text("Today")
+                            .font(SapphireFont.screenTitle)
+                            .foregroundColor(themeManager.primaryText)
+                    } else {
+                        Text("Today")
+                            .font(.system(size: 34, weight: .bold))
+                            .foregroundColor(themeManager.primaryText)
+                    }
                 }
                 reminderCard
                 continueReadingSection
@@ -65,7 +71,7 @@ struct TodayView: View {
             }
             .padding(.horizontal, 24)
             .padding(.top, 8)
-            .padding(.bottom, 32)
+            .padding(.bottom, 120)
         }
         .onAppear { todayDua = duaManager.selectTodayDua() }
         .sheet(isPresented: $showingNotifications) { NotificationsView() }
@@ -84,8 +90,11 @@ struct TodayView: View {
 
     private var hijriPill: some View {
         Text(hijriPillText)
-            .font(.system(size: 12, weight: .bold)).tracking(1)
-            .foregroundColor(themeManager.secondaryText)
+            .font(themeManager.isSapphire
+                  ? SapphireFont.eyebrow
+                  : .system(size: 12, weight: .bold))
+            .tracking(themeManager.isSapphire ? 2.5 : 1)
+            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
             .padding(.horizontal, 14).padding(.vertical, 8)
             .background(
                 Capsule().fill(themeManager.cardBackground)
@@ -104,17 +113,29 @@ struct TodayView: View {
             } label: {
                 VStack(alignment: .leading, spacing: 12) {
                     Text("✦ A REMINDER FOR TODAY")
-                        .font(.system(size: 12, weight: .bold)).tracking(1)
-                        .foregroundColor(.white.opacity(0.85))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.eyebrow
+                              : .system(size: 12, weight: .bold))
+                        .tracking(themeManager.isSapphire ? 2.5 : 1)
+                        .foregroundColor(themeManager.isSapphire
+                                         ? themeManager.accentColor
+                                         : .white.opacity(0.85))
                     Text("\u{201C}\(verse.translation(for: languageManager.selectedLanguage))\u{201D}")
-                        .font(.system(size: 19 * readingSettings.scale, weight: .semibold, design: .serif))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(22, semibold: false)
+                              : .system(size: 19 * readingSettings.scale, weight: .semibold, design: .serif))
                         .foregroundColor(.white)
                         .lineSpacing(6 * readingSettings.scale)
                         .multilineTextAlignment(.leading)
                         .fixedSize(horizontal: false, vertical: true)
                     Text("\(dataManager.getSurah(number: entry.surah)?.surah.englishName ?? "") · \(entry.surah):\(entry.verse)")
-                        .font(.system(size: 13, weight: .medium))
-                        .foregroundColor(.white.opacity(0.85))
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.eyebrow
+                              : .system(size: 13, weight: .medium))
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .foregroundColor(themeManager.isSapphire
+                                         ? themeManager.accentColor
+                                         : .white.opacity(0.85))
                 }
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(22)
@@ -143,13 +164,24 @@ struct TodayView: View {
     private var continueReadingSection: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text("CONTINUE READING")
-                .font(.system(size: 12, weight: .bold)).tracking(1)
-                .foregroundColor(themeManager.tertiaryText)
+                .font(themeManager.isSapphire
+                      ? SapphireFont.eyebrow
+                      : .system(size: 12, weight: .bold))
+                .tracking(themeManager.isSapphire ? 2.5 : 1)
+                .foregroundColor(themeManager.isSapphire
+                                 ? themeManager.accentColor
+                                 : themeManager.tertiaryText)
 
             VStack(alignment: .leading, spacing: 14) {
-                Text(hasResume ? "Continue reading" : "Start your journey")
-                    .font(.system(size: 18, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    Text(hasResume ? "Continue reading" : "Start your journey")
+                        .font(SapphireFont.headline(21))
+                        .foregroundColor(themeManager.primaryText)
+                } else {
+                    Text(hasResume ? "Continue reading" : "Start your journey")
+                        .font(.system(size: 18, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                }
                 Text(hasResume ? "Surah \(resumeSurahName), verse \(lastReadVerse)" : "Open Surah Al-Fātiḥa")
                     .font(.system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
@@ -164,23 +196,31 @@ struct TodayView: View {
                         Image(systemName: "play.fill").font(.system(size: 14, weight: .semibold))
                         Text(hasResume ? "Continue" : "Begin").font(.system(size: 16, weight: .semibold))
                     }
-                    .foregroundColor(.white)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 14)
                     .background(
-                        RoundedRectangle(cornerRadius: 14, style: .continuous)
-                            .fill(themeManager.reminderGradient)
-                            .overlay(
+                        Group {
+                            if themeManager.isSapphire {
                                 RoundedRectangle(cornerRadius: 14, style: .continuous)
-                                    .fill(
-                                        RadialGradient(
-                                            colors: [Color.white.opacity(0.22), Color.clear],
-                                            center: .topTrailing, startRadius: 0, endRadius: 180
-                                        )
+                                    .fill(themeManager.goldGradient)
+                                    .shadow(color: Color(red: 217/255, green: 192/255, blue: 121/255).opacity(0.24), radius: 14, y: 5)
+                            } else {
+                                RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                    .fill(themeManager.reminderGradient)
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                            .fill(
+                                                RadialGradient(
+                                                    colors: [Color.white.opacity(0.22), Color.clear],
+                                                    center: .topTrailing, startRadius: 0, endRadius: 180
+                                                )
+                                            )
+                                            .blendMode(.softLight)
                                     )
-                                    .blendMode(.softLight)
-                            )
-                            .shadow(color: themeManager.accentColorDark.opacity(0.35), radius: 12, y: 5)
+                                    .shadow(color: themeManager.accentColorDark.opacity(0.35), radius: 12, y: 5)
+                            }
+                        }
                     )
                 }
                 .buttonStyle(PlainButtonStyle())
@@ -203,20 +243,35 @@ struct TodayView: View {
         if let dua = todayDua {
             VStack(alignment: .leading, spacing: 10) {
                 Text("DU'A OF THE DAY")
-                    .font(.system(size: 12, weight: .bold)).tracking(1)
-                    .foregroundColor(themeManager.tertiaryText)
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.eyebrow
+                          : .system(size: 12, weight: .bold))
+                    .tracking(themeManager.isSapphire ? 2.5 : 1)
+                    .foregroundColor(themeManager.isSapphire
+                                     ? themeManager.accentColor
+                                     : themeManager.tertiaryText)
 
                 Button { presentedDua = dua } label: {
                     HStack(spacing: 14) {
                         Image(systemName: "text.bubble.fill")
                             .font(.system(size: 20))
-                            .foregroundColor(themeManager.accentColor)
+                            .foregroundColor(themeManager.isSapphire
+                                             ? themeManager.accentBright
+                                             : themeManager.accentColor)
                             .frame(width: 44, height: 44)
-                            .background(Circle().fill(themeManager.accentColor.opacity(0.15)))
+                            .background(Circle().fill(themeManager.isSapphire
+                                                      ? themeManager.goldChipFill
+                                                      : themeManager.accentColor.opacity(0.15)))
                         VStack(alignment: .leading, spacing: 3) {
-                            Text(dua.title)
-                                .font(.system(size: 16, weight: .semibold))
-                                .foregroundColor(themeManager.primaryText)
+                            if themeManager.isSapphire {
+                                Text(dua.title)
+                                    .font(SapphireFont.headline(16))
+                                    .foregroundColor(themeManager.primaryText)
+                            } else {
+                                Text(dua.title)
+                                    .font(.system(size: 16, weight: .semibold))
+                                    .foregroundColor(themeManager.primaryText)
+                            }
                             Text(dua.category)
                                 .font(.system(size: 13, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)

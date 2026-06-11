@@ -21,7 +21,7 @@ struct TafsirSourcesView: View {
                     VStack(alignment: .leading, spacing: 24) {
                         // Introduction
                         Text("The commentary in this app is grounded in classical and contemporary Sunni scholarship, with a comparative layer that surfaces Shia perspectives alongside the Sunni position. Below are the primary sources referenced for each layer.")
-                            .font(.system(size: 15, weight: .regular))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 15, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                             .padding(.horizontal, 20)
                             .padding(.top, 16)
@@ -82,14 +82,22 @@ struct TafsirSourcesView: View {
             }
             .toolbarBackground(themeManager.primaryBackground, for: .navigationBar)
             .toolbarBackground(.visible, for: .navigationBar)
-            .navigationTitle("Tafsir Sources")
+            .navigationTitle(themeManager.isSapphire ? "" : "Tafsir Sources")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                if themeManager.isSapphire {
+                    ToolbarItem(placement: .principal) {
+                        Text("TAFSIR SOURCES")
+                            .font(SapphireFont.eyebrow)
+                            .tracking(2.5)
+                            .foregroundColor(themeManager.accentColor)
+                    }
+                }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Done") {
                         dismiss()
                     }
-                    .foregroundColor(.blue)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : .blue)
                 }
             }
         }
@@ -116,19 +124,43 @@ struct SourceSection: View {
         VStack(alignment: .leading, spacing: 12) {
             // Section Header
             HStack(spacing: 12) {
-                ZStack {
-                    RoundedRectangle(cornerRadius: 8)
-                        .fill(iconColor.opacity(0.2))
-                        .frame(width: 32, height: 32)
-
+                if themeManager.isSapphire {
+                    // Sapphire: gold chip fill with accent icon and stroke border
                     Image(systemName: icon)
-                        .font(.system(size: 16, weight: .semibold))
-                        .foregroundColor(iconColor)
+                        .font(.system(size: 16, weight: .regular))
+                        .foregroundColor(themeManager.accentColor)
+                        .frame(width: 32, height: 32)
+                        .background(
+                            RoundedRectangle(cornerRadius: 8, style: .continuous)
+                                .fill(themeManager.goldChipFill)
+                        )
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 8, style: .continuous)
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                } else {
+                    ZStack {
+                        RoundedRectangle(cornerRadius: 8)
+                            .fill(iconColor.opacity(0.2))
+                            .frame(width: 32, height: 32)
+
+                        Image(systemName: icon)
+                            .font(.system(size: 16, weight: .semibold))
+                            .foregroundColor(iconColor)
+                    }
                 }
 
-                Text(title)
-                    .font(.system(size: 18, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
+                if themeManager.isSapphire {
+                    // Sapphire: uppercase eyebrow with accent color and tracking
+                    Text(title.uppercased())
+                        .font(SapphireFont.eyebrow)
+                        .tracking(2.5)
+                        .foregroundColor(themeManager.accentColor)
+                } else {
+                    Text(title)
+                        .font(.system(size: 18, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                }
             }
             .padding(.horizontal, 20)
 
@@ -137,11 +169,11 @@ struct SourceSection: View {
                 ForEach(sources) { source in
                     VStack(alignment: .leading, spacing: 4) {
                         Text(source.title)
-                            .font(.system(size: 15, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(19) : .system(size: 15, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
 
                         Text(source.subtitle)
-                            .font(.system(size: 13, weight: .regular))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(15, semibold: false) : .system(size: 13, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)

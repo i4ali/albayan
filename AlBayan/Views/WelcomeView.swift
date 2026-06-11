@@ -66,20 +66,34 @@ struct WelcomeView: View {
                             .frame(height: 100)
                             
                             Text("تفكّر")
-                                .font(.system(size: 64, weight: .light, design: .default))
-                                .foregroundColor(themeManager.primaryText)
+                                .font(themeManager.isSapphire ? SapphireFont.arabic(64) : .system(size: 64, weight: .light, design: .default))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright : themeManager.primaryText)
                                 .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.6), radius: 25)
                         }
                         
                         // Welcome message
                         VStack(spacing: 16) {
-                            Text("Welcome to Tafakkur")
-                                .font(.system(size: 28, weight: .semibold))
-                                .foregroundColor(themeManager.primaryText)
-                                .multilineTextAlignment(.center)
-                            
+                            Group {
+                                if themeManager.isSapphire {
+                                    VStack(spacing: 6) {
+                                        Text("WELCOME TO")
+                                            .font(SapphireFont.eyebrow)
+                                            .foregroundColor(themeManager.accentColor)
+                                            .tracking(2.5)
+                                        Text("Tafakkur")
+                                            .font(SapphireFont.screenTitle)
+                                            .foregroundColor(themeManager.primaryText)
+                                    }
+                                } else {
+                                    Text("Welcome to Tafakkur")
+                                        .font(.system(size: 28, weight: .semibold))
+                                        .foregroundColor(themeManager.primaryText)
+                                }
+                            }
+                            .multilineTextAlignment(.center)
+
                             Text("Discover the profound depths of the Quran through AI-powered Sunni commentary with four layers of scholarly wisdom.")
-                                .font(.system(size: 18, weight: .medium))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(17, semibold: false) : .system(size: 18, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                                 .multilineTextAlignment(.center)
                                 .lineLimit(nil)
@@ -126,14 +140,21 @@ struct WelcomeView: View {
                                 Image(systemName: "book.closed")
                                     .font(.system(size: 18, weight: .semibold))
                                 Text("Get Started")
-                                    .font(.system(size: 18, weight: .semibold))
+                                    .font(themeManager.isSapphire ? SapphireFont.serif(18, semibold: true) : .system(size: 18, weight: .semibold))
                             }
-                            .foregroundColor(.white)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 16)
                             .background(
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(themeManager.purpleGradient)
+                                Group {
+                                    if themeManager.isSapphire {
+                                        RoundedRectangle(cornerRadius: 16)
+                                            .fill(AnyShapeStyle(themeManager.goldGradient))
+                                    } else {
+                                        RoundedRectangle(cornerRadius: 16)
+                                            .fill(AnyShapeStyle(themeManager.purpleGradient))
+                                    }
+                                }
                             )
                             .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
                         }
@@ -167,12 +188,13 @@ struct FeatureRow: View {
             Text(icon)
                 .font(.system(size: 24))
                 .frame(width: 32, height: 32)
-            
+                .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : .primary)
+
             VStack(alignment: .leading, spacing: 4) {
                 Text(title)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(themeManager.isSapphire ? SapphireFont.serif(16, semibold: true) : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
-                
+
                 Text(description)
                     .font(.system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)

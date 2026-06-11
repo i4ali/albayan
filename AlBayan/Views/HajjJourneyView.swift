@@ -35,6 +35,28 @@ struct HajjJourneyView: View {
                     } else {
                         ScrollView {
                             LazyVStack(spacing: 12) {
+                                // "THE PATH" section divider (Sapphire only)
+                                if themeManager.isSapphire {
+                                    HStack(spacing: 10) {
+                                        Rectangle()
+                                            .fill(themeManager.strokeColor)
+                                            .frame(height: 1)
+
+                                        Text("THE PATH")
+                                            .font(SapphireFont.eyebrow)
+                                            .foregroundColor(themeManager.accentColor)
+                                            .tracking(2.5)
+                                            .textCase(.uppercase)
+                                            .fixedSize()
+
+                                        Rectangle()
+                                            .fill(themeManager.strokeColor)
+                                            .frame(height: 1)
+                                    }
+                                    .padding(.horizontal, 20)
+                                    .padding(.bottom, 4)
+                                }
+
                                 ForEach(journeyManager.days) { day in
                                     HajjDayCard(
                                         day: day,
@@ -106,77 +128,177 @@ struct HajjJourneyHeader: View {
     }
 
     var body: some View {
-        VStack(spacing: 16) {
-            // Title and status
-            VStack(alignment: .leading, spacing: 8) {
-                HStack {
-                    VStack(alignment: .leading, spacing: 4) {
-                        Text("Hajj Journey")
-                            .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
-                            .foregroundColor(themeManager.primaryText)
-
-                        Text(statusMessage)
-                            .font(.system(size: 16, weight: .medium))
+        if themeManager.isSapphire {
+            // ── Royal Sapphire header ────────────────────────────────────────
+            VStack(spacing: 16) {
+                HStack(alignment: .top) {
+                    VStack(alignment: .leading, spacing: 6) {
+                        // Eyebrow: "10-DAY JOURNEY" uppercase in accentColor
+                        Text("10-DAY JOURNEY")
+                            .font(SapphireFont.eyebrow)
                             .foregroundColor(themeManager.accentColor)
+                            .tracking(3)
+                            .textCase(.uppercase)
+
+                        // Screen title in serif 34
+                        Text("Hajj")
+                            .font(SapphireFont.serif(34))
+                            .foregroundColor(themeManager.primaryText)
                     }
 
                     Spacer()
 
-                    // Moon icon
-                    Image(systemName: "moon.stars.fill")
-                        .font(.system(size: 40))
-                        .foregroundStyle(themeManager.accentGradient)
+                    // Icon chip: kaabah in goldChipFill + strokeColor border
+                    ZStack {
+                        RoundedRectangle(cornerRadius: 14)
+                            .fill(themeManager.goldChipFill)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 14)
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                            .frame(width: 56, height: 56)
+
+                        Image(systemName: "building.columns.fill")
+                            .font(.system(size: 24))
+                            .foregroundColor(themeManager.accentColor)
+                    }
+                }
+
+                // Progress card (glow): statusMessage + percent + day-count + track
+                VStack(alignment: .leading, spacing: 10) {
+                    HStack(alignment: .center) {
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text(statusMessage)
+                                .font(.system(size: 13, weight: .medium))
+                                .foregroundColor(themeManager.secondaryText)
+
+                            Text("\(journeyManager.completedDaysCount) of 10 days complete")
+                                .font(.system(size: 15, weight: .semibold))
+                                .foregroundColor(themeManager.primaryText)
+                        }
+
+                        Spacer()
+
+                        // Big percent figure: Cormorant 30 in accentBright
+                        Text("\(Int(journeyManager.completionPercentage * 100))%")
+                            .font(SapphireFont.numeral(30))
+                            .foregroundColor(themeManager.accentBright)
+                    }
+
+                    // 5pt gold progress track
+                    GeometryReader { geometry in
+                        ZStack(alignment: .leading) {
+                            RoundedRectangle(cornerRadius: 4)
+                                .fill(themeManager.strokeColor)
+                                .frame(height: 5)
+
+                            RoundedRectangle(cornerRadius: 4)
+                                .fill(themeManager.goldGradient)
+                                .frame(width: geometry.size.width * journeyManager.completionPercentage, height: 5)
+                        }
+                    }
+                    .frame(height: 5)
+                }
+                .padding(16)
+                .background(
+                    RoundedRectangle(cornerRadius: 20)
+                        .fill(themeManager.cardElevated)
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 20)
+                                .stroke(themeManager.strokeColor, lineWidth: 1)
+                        )
+                        .shadow(color: themeManager.cardShadowElevated, radius: 20, x: 0, y: 8)
+                )
+
+                // Completion message if done
+                if journeyManager.isJourneyCompleted {
+                    HStack(spacing: 8) {
+                        Image(systemName: "checkmark.seal.fill")
+                            .foregroundColor(themeManager.accentColor)
+                        Text("Journey Complete! Hajj Champion badge earned.")
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundColor(themeManager.accentColor)
+                    }
+                    .padding(.top, 4)
                 }
             }
+            .padding(.horizontal, 20)
+            .padding(.top, 20)
+            .padding(.bottom, 16)
+        } else {
+            // ── Original header (unchanged) ──────────────────────────────────
+            VStack(spacing: 16) {
+                // Title and status
+                VStack(alignment: .leading, spacing: 8) {
+                    HStack {
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Hajj Journey")
+                                .font(.system(size: themeManager.useWarmLayout ? 34 : 32, weight: .bold, design: themeManager.useWarmLayout ? .rounded : .default))
+                                .foregroundColor(themeManager.primaryText)
 
-            // Progress bar
-            VStack(alignment: .leading, spacing: 8) {
-                HStack {
-                    Text("\(journeyManager.completedDaysCount) of 10 days completed")
-                        .font(.system(size: 14, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                            Text(statusMessage)
+                                .font(.system(size: 16, weight: .medium))
+                                .foregroundColor(themeManager.accentColor)
+                        }
 
-                    Spacer()
+                        Spacer()
 
-                    Text("\(Int(journeyManager.completionPercentage * 100))%")
-                        .font(.system(size: 14, weight: .bold))
-                        .foregroundColor(themeManager.accentColor)
+                        // Moon icon
+                        Image(systemName: "moon.stars.fill")
+                            .font(.system(size: 40))
+                            .foregroundStyle(themeManager.accentGradient)
+                    }
                 }
 
                 // Progress bar
-                GeometryReader { geometry in
-                    ZStack(alignment: .leading) {
-                        RoundedRectangle(cornerRadius: 6)
-                            .fill(themeManager.strokeColor)
-                            .frame(height: 12)
+                VStack(alignment: .leading, spacing: 8) {
+                    HStack {
+                        Text("\(journeyManager.completedDaysCount) of 10 days completed")
+                            .font(.system(size: 14, weight: .medium))
+                            .foregroundColor(themeManager.secondaryText)
 
-                        RoundedRectangle(cornerRadius: 6)
-                            .fill(themeManager.accentGradient)
-                            .frame(width: geometry.size.width * journeyManager.completionPercentage, height: 12)
+                        Spacer()
+
+                        Text("\(Int(journeyManager.completionPercentage * 100))%")
+                            .font(.system(size: 14, weight: .bold))
+                            .foregroundColor(themeManager.accentColor)
                     }
-                }
-                .frame(height: 12)
-            }
 
-            // Completion message if done
-            if journeyManager.isJourneyCompleted {
-                HStack(spacing: 8) {
-                    Image(systemName: "checkmark.seal.fill")
-                        .foregroundColor(.green)
-                    Text("Journey Complete! Hajj Champion badge earned.")
-                        .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(.green)
+                    // Progress bar
+                    GeometryReader { geometry in
+                        ZStack(alignment: .leading) {
+                            RoundedRectangle(cornerRadius: 6)
+                                .fill(themeManager.strokeColor)
+                                .frame(height: 12)
+
+                            RoundedRectangle(cornerRadius: 6)
+                                .fill(themeManager.accentGradient)
+                                .frame(width: geometry.size.width * journeyManager.completionPercentage, height: 12)
+                        }
+                    }
+                    .frame(height: 12)
                 }
-                .padding(.top, 4)
+
+                // Completion message if done
+                if journeyManager.isJourneyCompleted {
+                    HStack(spacing: 8) {
+                        Image(systemName: "checkmark.seal.fill")
+                            .foregroundColor(.green)
+                        Text("Journey Complete! Hajj Champion badge earned.")
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundColor(.green)
+                    }
+                    .padding(.top, 4)
+                }
             }
-        }
-        .padding(.horizontal, 20)
-        .padding(.top, 20)
-        .padding(.bottom, 16)
-        .background {
-            if !themeManager.useWarmLayout {
-                Rectangle()
-                    .fill(themeManager.glassEffect)
+            .padding(.horizontal, 20)
+            .padding(.top, 20)
+            .padding(.bottom, 16)
+            .background {
+                if !themeManager.useWarmLayout {
+                    Rectangle()
+                        .fill(themeManager.glassEffect)
+                }
             }
         }
     }
@@ -219,103 +341,223 @@ struct HajjDayCard: View {
     }
 
     var body: some View {
-        Button(action: onTap) {
-            HStack(spacing: 16) {
-                // Day number with completion status
-                ZStack {
-                    Circle()
-                        .fill(circleBackground)
-                        .frame(width: 50, height: 50)
-                        .overlay(
+        if themeManager.isSapphire {
+            // ── Royal Sapphire day card ──────────────────────────────────────
+            Button(action: onTap) {
+                HStack(spacing: 14) {
+                    // Marker: DONE = goldGradient filled circle + onAccentText check
+                    //         CURRENT = numeral circle with strokeColor (gold) border + goldChipFill
+                    //         UPCOMING/LOCKED = numeral circle, standard
+                    ZStack {
+                        if isCompleted {
                             Circle()
-                                .stroke(isCurrentDay && !isCompleted && !isLocked ? themeManager.accentColor : Color.clear, lineWidth: 2)
-                        )
-
-                    if isLocked {
-                        Image(systemName: "lock.fill")
-                            .font(.system(size: 18, weight: .semibold))
-                            .foregroundColor(themeManager.secondaryText)
-                    } else if isCompleted {
-                        Image(systemName: "checkmark")
-                            .font(.system(size: 20, weight: .bold))
-                            .foregroundColor(.white)
-                    } else {
-                        Text("\(day.dayNumber)")
-                            .font(.system(size: 18, weight: .bold))
-                            .foregroundColor(isCurrentDay ? .white : themeManager.primaryText)
-                    }
-                }
-
-                // Day content
-                VStack(alignment: .leading, spacing: 4) {
-                    HStack {
-                        Text("Day \(day.dayNumber)")
-                            .font(.system(size: 12, weight: .bold))
-                            .foregroundColor(themeManager.secondaryText)
-
-                        if isLocked {
-                            Text("Premium")
-                                .font(.system(size: 10, weight: .bold))
-                                .foregroundColor(.white)
-                                .padding(.horizontal, 6)
-                                .padding(.vertical, 2)
-                                .background(
-                                    Capsule()
-                                        .fill(Color.orange.gradient)
+                                .fill(themeManager.goldGradient)
+                                .frame(width: 46, height: 46)
+                            Image(systemName: "checkmark")
+                                .font(.system(size: 18, weight: .bold))
+                                .foregroundColor(themeManager.onAccentText)
+                        } else if isCurrentDay && !isLocked {
+                            Circle()
+                                .fill(themeManager.goldChipFill)
+                                .frame(width: 46, height: 46)
+                                .overlay(
+                                    Circle()
+                                        .stroke(themeManager.strokeColor, lineWidth: 1.5)
                                 )
-                        } else if isCurrentDay {
-                            Text("TODAY")
-                                .font(.system(size: 10, weight: .bold))
-                                .foregroundColor(.white)
-                                .padding(.horizontal, 6)
-                                .padding(.vertical, 2)
-                                .background(
-                                    Capsule()
-                                        .fill(themeManager.accentGradient)
+                            Text("\(day.dayNumber)")
+                                .font(SapphireFont.numeral(18))
+                                .foregroundColor(themeManager.accentBright)
+                        } else {
+                            Circle()
+                                .fill(themeManager.goldChipFill)
+                                .frame(width: 46, height: 46)
+                                .overlay(
+                                    Circle()
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
                                 )
+                            if isLocked {
+                                Image(systemName: "lock.fill")
+                                    .font(.system(size: 16, weight: .semibold))
+                                    .foregroundColor(themeManager.tertiaryText)
+                            } else {
+                                Text("\(day.dayNumber)")
+                                    .font(SapphireFont.numeral(18))
+                                    .foregroundColor(themeManager.accentBright)
+                            }
                         }
                     }
 
-                    HStack(spacing: 8) {
-                        Image(systemName: day.icon)
-                            .font(.system(size: 14))
-                            .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.accentColor)
+                    // Day content
+                    VStack(alignment: .leading, spacing: 4) {
+                        HStack(spacing: 6) {
+                            // "Day n" label in tertiaryText
+                            Text("Day \(day.dayNumber)")
+                                .font(.system(size: 10.5, weight: .semibold))
+                                .foregroundColor(themeManager.tertiaryText)
+                                .tracking(1)
 
+                            if isLocked {
+                                Text("Premium")
+                                    .font(.system(size: 10, weight: .bold))
+                                    .foregroundColor(themeManager.onAccentText)
+                                    .padding(.horizontal, 6)
+                                    .padding(.vertical, 2)
+                                    .background(
+                                        Capsule()
+                                            .fill(themeManager.goldGradient)
+                                    )
+                            } else if isCurrentDay {
+                                Text("TODAY")
+                                    .font(.system(size: 10, weight: .bold))
+                                    .foregroundColor(themeManager.onAccentText)
+                                    .padding(.horizontal, 6)
+                                    .padding(.vertical, 2)
+                                    .background(
+                                        Capsule()
+                                            .fill(themeManager.goldGradient)
+                                    )
+                            }
+                        }
+
+                        // Theme name: Cormorant 21
                         Text(day.theme)
-                            .font(.system(size: 16, weight: .semibold))
+                            .font(SapphireFont.serif(21))
                             .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.primaryText)
+                            .lineLimit(1)
                     }
 
-                    Text(day.themeArabic)
-                        .font(.system(size: 14, weight: .medium))
-                        .foregroundColor(themeManager.tertiaryText)
+                    Spacer()
+
+                    // Arabic theme word: right-aligned, Amiri 19 in accentColor
+                    VStack(alignment: .trailing) {
+                        Text(day.themeArabic)
+                            .font(SapphireFont.arabic(19))
+                            .foregroundColor(isLocked ? themeManager.tertiaryText : themeManager.accentColor)
+                            .multilineTextAlignment(.trailing)
+                            .environment(\.layoutDirection, .rightToLeft)
+                    }
+
+                    Image(systemName: isLocked ? "lock.fill" : "chevron.right")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(isLocked ? themeManager.tertiaryText : themeManager.secondaryText)
                 }
-
-                Spacer()
-
-                // Chevron or lock icon
-                Image(systemName: isLocked ? "lock.fill" : "chevron.right")
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.tertiaryText)
-            }
-            .padding(16)
-            .background {
-                if themeManager.useWarmLayout {
+                .padding(16)
+                .background(
                     RoundedRectangle(cornerRadius: 16)
-                        .fill(Color.white)
-                        .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)
-                } else {
-                    RoundedRectangle(cornerRadius: 16)
-                        .fill(themeManager.glassEffect)
+                        .fill(isCurrentDay && !isLocked ? themeManager.goldChipFill : themeManager.cardBackground)
                         .overlay(
                             RoundedRectangle(cornerRadius: 16)
-                                .stroke(isCurrentDay && !isLocked ? themeManager.accentColor.opacity(0.5) : themeManager.strokeColor, lineWidth: 1)
+                                .stroke(
+                                    isCurrentDay && !isLocked
+                                        ? themeManager.strokeColor
+                                        : themeManager.strokeColor.opacity(0.6),
+                                    lineWidth: isCurrentDay && !isLocked ? 1.5 : 1
+                                )
                         )
+                )
+            }
+            .buttonStyle(PlainButtonStyle())
+            .padding(.horizontal, 20)
+        } else {
+            // ── Original day card (unchanged) ────────────────────────────────
+            Button(action: onTap) {
+                HStack(spacing: 16) {
+                    // Day number with completion status
+                    ZStack {
+                        Circle()
+                            .fill(circleBackground)
+                            .frame(width: 50, height: 50)
+                            .overlay(
+                                Circle()
+                                    .stroke(isCurrentDay && !isCompleted && !isLocked ? themeManager.accentColor : Color.clear, lineWidth: 2)
+                            )
+
+                        if isLocked {
+                            Image(systemName: "lock.fill")
+                                .font(.system(size: 18, weight: .semibold))
+                                .foregroundColor(themeManager.secondaryText)
+                        } else if isCompleted {
+                            Image(systemName: "checkmark")
+                                .font(.system(size: 20, weight: .bold))
+                                .foregroundColor(.white)
+                        } else {
+                            Text("\(day.dayNumber)")
+                                .font(.system(size: 18, weight: .bold))
+                                .foregroundColor(isCurrentDay ? .white : themeManager.primaryText)
+                        }
+                    }
+
+                    // Day content
+                    VStack(alignment: .leading, spacing: 4) {
+                        HStack {
+                            Text("Day \(day.dayNumber)")
+                                .font(.system(size: 12, weight: .bold))
+                                .foregroundColor(themeManager.secondaryText)
+
+                            if isLocked {
+                                Text("Premium")
+                                    .font(.system(size: 10, weight: .bold))
+                                    .foregroundColor(.white)
+                                    .padding(.horizontal, 6)
+                                    .padding(.vertical, 2)
+                                    .background(
+                                        Capsule()
+                                            .fill(Color.orange.gradient)
+                                    )
+                            } else if isCurrentDay {
+                                Text("TODAY")
+                                    .font(.system(size: 10, weight: .bold))
+                                    .foregroundColor(.white)
+                                    .padding(.horizontal, 6)
+                                    .padding(.vertical, 2)
+                                    .background(
+                                        Capsule()
+                                            .fill(themeManager.accentGradient)
+                                    )
+                            }
+                        }
+
+                        HStack(spacing: 8) {
+                            Image(systemName: day.icon)
+                                .font(.system(size: 14))
+                                .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.accentColor)
+
+                            Text(day.theme)
+                                .font(.system(size: 16, weight: .semibold))
+                                .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.primaryText)
+                        }
+
+                        Text(day.themeArabic)
+                            .font(.system(size: 14, weight: .medium))
+                            .foregroundColor(themeManager.tertiaryText)
+                    }
+
+                    Spacer()
+
+                    // Chevron or lock icon
+                    Image(systemName: isLocked ? "lock.fill" : "chevron.right")
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.tertiaryText)
+                }
+                .padding(16)
+                .background {
+                    if themeManager.useWarmLayout {
+                        RoundedRectangle(cornerRadius: 16)
+                            .fill(Color.white)
+                            .shadow(color: Color.black.opacity(0.04), radius: 8, x: 0, y: 2)
+                    } else {
+                        RoundedRectangle(cornerRadius: 16)
+                            .fill(themeManager.glassEffect)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 16)
+                                    .stroke(isCurrentDay && !isLocked ? themeManager.accentColor.opacity(0.5) : themeManager.strokeColor, lineWidth: 1)
+                            )
+                    }
                 }
             }
+            .buttonStyle(PlainButtonStyle())
+            .padding(.horizontal, 20)
         }
-        .buttonStyle(PlainButtonStyle())
-        .padding(.horizontal, 20)
     }
 }
 

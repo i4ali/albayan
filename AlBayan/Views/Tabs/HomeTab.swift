@@ -11,16 +11,20 @@ struct HomeTab: View {
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
-        NavigationView {
-            ZStack {
-                // Adaptive background with floating elements
-                AdaptiveModernBackground()
+        if themeManager.isSapphire {
+            SapphireHomeView()
+        } else {
+            NavigationView {
+                ZStack {
+                    // Adaptive background with floating elements
+                    AdaptiveModernBackground()
 
-                HomeView()
+                    HomeView()
+                }
+                .navigationBarHidden(true)
             }
-            .navigationBarHidden(true)
+            .navigationViewStyle(StackNavigationViewStyle())
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

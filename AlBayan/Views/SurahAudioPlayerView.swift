@@ -24,12 +24,15 @@ struct SurahAudioPlayerView: View {
                     }) {
                         Image(systemName: audioManager.playerState == .playing ? "pause.fill" : "play.fill")
                             .font(.system(size: 20, weight: .semibold))
-                            .foregroundColor(.white)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                             .frame(width: 48, height: 48)
                             .background(
                                 Circle()
-                                    .fill(themeManager.accentGradient)
-                                    .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 8)
+                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
+                                    .shadow(
+                                        color: themeManager.isSapphire ? themeManager.goldButtonShadow : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4),
+                                        radius: 8
+                                    )
                             )
                     }
                     .scaleEffect(audioManager.playerState == .loading ? 1.1 : 1.0)
@@ -38,12 +41,13 @@ struct SurahAudioPlayerView: View {
                     // Track info
                     VStack(alignment: .leading, spacing: 4) {
                         Text(currentPlayback.surahName)
-                            .font(.system(size: 16, weight: .semibold))
+                            .font(themeManager.isSapphire ? SapphireFont.serif(16) : .system(size: 16, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
-                        
-                        Text(currentPlayback.reciter.nameEnglish)
-                            .font(.system(size: 14, weight: .medium))
-                            .foregroundColor(themeManager.secondaryText)
+
+                        Text(themeManager.isSapphire ? currentPlayback.reciter.nameEnglish.uppercased() : currentPlayback.reciter.nameEnglish)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .medium))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                            .tracking(themeManager.isSapphire ? 2 : 0)
                     }
                     
                     Spacer()
@@ -53,20 +57,20 @@ struct SurahAudioPlayerView: View {
                         Circle()
                             .stroke(themeManager.strokeColor.opacity(0.3), lineWidth: 2)
                             .frame(width: 32, height: 32)
-                        
+
                         Circle()
                             .trim(from: 0, to: currentPlayback.progress)
                             .stroke(
-                                themeManager.accentGradient,
+                                themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient),
                                 style: StrokeStyle(lineWidth: 2, lineCap: .round)
                             )
                             .frame(width: 32, height: 32)
                             .rotationEffect(.degrees(-90))
                             .animation(.linear(duration: 0.5), value: currentPlayback.progress)
-                        
+
                         Text("\(Int(currentPlayback.progress * 100))%")
                             .font(.system(size: 8, weight: .medium))
-                            .foregroundColor(themeManager.tertiaryText)
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
                     }
                     
                     // Close button
@@ -131,16 +135,18 @@ struct ExpandedAudioControls: View {
             VStack(spacing: 8) {
                 HStack {
                     Text(formatTime(audioManager.currentTime))
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundColor(themeManager.tertiaryText)
-                    
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+
                     Spacer()
-                    
+
                     Text(formatTime(audioManager.duration))
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundColor(themeManager.tertiaryText)
+                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                        .tracking(themeManager.isSapphire ? 2 : 0)
                 }
-                
+
                 Slider(
                     value: Binding(
                         get: { audioManager.currentTime },
@@ -148,7 +154,7 @@ struct ExpandedAudioControls: View {
                     ),
                     in: 0...max(audioManager.duration, 1)
                 )
-                .tint(Color(red: 0.39, green: 0.4, blue: 0.95))
+                .tint(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
             }
             
             // Control buttons
@@ -159,7 +165,7 @@ struct ExpandedAudioControls: View {
                 }) {
                     Image(systemName: "backward.fill")
                         .font(.system(size: 18, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
                         .frame(width: 44, height: 44)
                         .background(
                             RoundedRectangle(cornerRadius: 12)
@@ -205,7 +211,7 @@ struct ExpandedAudioControls: View {
                 }) {
                     Image(systemName: "forward.fill")
                         .font(.system(size: 18, weight: .medium))
-                        .foregroundColor(themeManager.secondaryText)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
                         .frame(width: 44, height: 44)
                         .background(
                             RoundedRectangle(cornerRadius: 12)
@@ -254,33 +260,38 @@ struct FullScreenAudioPlayerView: View {
                     if let currentPlayback = audioManager.currentPlayback {
                         // Large album art placeholder
                         RoundedRectangle(cornerRadius: 24)
-                            .fill(themeManager.accentGradient)
+                            .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
                             .frame(height: 280)
                             .overlay(
                                 VStack(spacing: 16) {
                                     Image(systemName: "book.fill")
                                         .font(.system(size: 64, weight: .light))
-                                        .foregroundColor(.white)
-                                    
-                                    Text("Surah \(currentPlayback.surahNumber)")
-                                        .font(.system(size: 24, weight: .semibold))
-                                        .foregroundColor(.white)
+                                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
+
+                                    Text(themeManager.isSapphire ? "SURAH \(currentPlayback.surahNumber)" : "Surah \(currentPlayback.surahNumber)")
+                                        .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 24, weight: .semibold))
+                                        .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
+                                        .tracking(themeManager.isSapphire ? 3 : 0)
                                 }
                             )
-                            .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3), radius: 20)
+                            .shadow(
+                                color: themeManager.isSapphire ? themeManager.goldButtonShadow : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.3),
+                                radius: 20
+                            )
                         
                         // Track info
                         VStack(spacing: 8) {
                             Text(currentPlayback.surahName)
-                                .font(.system(size: 28, weight: .bold))
+                                .font(themeManager.isSapphire ? SapphireFont.serif(28) : .system(size: 28, weight: .bold))
                                 .foregroundColor(themeManager.primaryText)
-                            
+
                             Button(action: {
                                 showingReciterSelection = true
                             }) {
-                                Text(currentPlayback.reciter.nameEnglish)
-                                    .font(.system(size: 18, weight: .medium))
-                                    .foregroundColor(themeManager.secondaryText)
+                                Text(themeManager.isSapphire ? currentPlayback.reciter.nameEnglish.uppercased() : currentPlayback.reciter.nameEnglish)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 18, weight: .medium))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
                             }
                         }
                         
@@ -293,18 +304,20 @@ struct FullScreenAudioPlayerView: View {
                                 ),
                                 in: 0...max(audioManager.duration, 1)
                             )
-                            .tint(Color(red: 0.39, green: 0.4, blue: 0.95))
-                            
+                            .tint(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
+
                             HStack {
                                 Text(formatTime(audioManager.currentTime))
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.tertiaryText)
-                                
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .medium))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
+
                                 Spacer()
-                                
+
                                 Text(formatTime(audioManager.duration))
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundColor(themeManager.tertiaryText)
+                                    .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 14, weight: .medium))
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                                    .tracking(themeManager.isSapphire ? 2 : 0)
                             }
                         }
                         
@@ -316,28 +329,31 @@ struct FullScreenAudioPlayerView: View {
                             }) {
                                 Image(systemName: "backward.fill")
                                     .font(.system(size: 32, weight: .medium))
-                                    .foregroundColor(themeManager.primaryText)
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
                             }
-                            
+
                             // Play/Pause
                             Button(action: {
                                 audioManager.togglePlayPause()
                             }) {
                                 Image(systemName: audioManager.playerState == .playing ? "pause.circle.fill" : "play.circle.fill")
                                     .font(.system(size: 72, weight: .medium))
-                                    .foregroundStyle(themeManager.accentGradient)
-                                    .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 12)
+                                    .foregroundStyle(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
+                                    .shadow(
+                                        color: themeManager.isSapphire ? themeManager.goldButtonShadow : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4),
+                                        radius: 12
+                                    )
                             }
                             .scaleEffect(audioManager.playerState == .loading ? 1.1 : 1.0)
                             .animation(.easeInOut(duration: 0.3), value: audioManager.playerState)
-                            
+
                             // Next
                             Button(action: {
                                 audioManager.skipToNext()
                             }) {
                                 Image(systemName: "forward.fill")
                                     .font(.system(size: 32, weight: .medium))
-                                    .foregroundColor(themeManager.primaryText)
+                                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.primaryText)
                             }
                         }
                         
@@ -353,7 +369,7 @@ struct FullScreenAudioPlayerView: View {
                             }) {
                                 Image(systemName: audioManager.configuration.repeatMode.icon)
                                     .font(.system(size: 20, weight: .medium))
-                                    .foregroundColor(audioManager.configuration.repeatMode == .off ? themeManager.tertiaryText : .blue)
+                                    .foregroundColor(audioManager.configuration.repeatMode == .off ? themeManager.tertiaryText : (themeManager.isSapphire ? themeManager.accentColor : .blue))
                             }
                             
                             Spacer()
@@ -401,7 +417,7 @@ struct FullScreenAudioPlayerView: View {
                     Button("Done") {
                         dismiss()
                     }
-                    .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                 }
             }
         }
@@ -455,7 +471,7 @@ struct ReciterSelectionView: View {
                     Button("Cancel") {
                         dismiss()
                     }
-                    .foregroundColor(Color(red: 0.39, green: 0.4, blue: 0.95))
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95))
                 }
             }
         }
@@ -475,31 +491,35 @@ struct ReciterCard: View {
                 // Reciter avatar placeholder
                 ZStack {
                     Circle()
-                        .fill(themeManager.accentGradient)
+                        .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
                         .frame(width: 80, height: 80)
                         .overlay(
                             Text(String(reciter.nameEnglish.prefix(2)).uppercased())
                                 .font(.system(size: 24, weight: .semibold))
-                                .foregroundColor(.white)
+                                .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
                         )
-                        .shadow(color: Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4), radius: 8)
-                    
+                        .shadow(
+                            color: themeManager.isSapphire ? themeManager.goldButtonShadow : Color(red: 0.39, green: 0.4, blue: 0.95).opacity(0.4),
+                            radius: 8
+                        )
+
                 }
                 
                 VStack(spacing: 4) {
                     Text(reciter.nameEnglish)
-                        .font(.system(size: 16, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(16) : .system(size: 16, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
                         .multilineTextAlignment(.center)
-                    
+
                     if !reciter.description.isEmpty {
                         Text(reciter.description)
-                            .font(.system(size: 12, weight: .medium))
-                            .foregroundColor(themeManager.tertiaryText)
+                            .font(themeManager.isSapphire ? SapphireFont.eyebrow : .system(size: 12, weight: .medium))
+                            .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.tertiaryText)
+                            .tracking(themeManager.isSapphire ? 2 : 0)
                             .multilineTextAlignment(.center)
                             .lineLimit(2)
                     }
-                    
+
                 }
             }
             .padding(16)
@@ -509,7 +529,7 @@ struct ReciterCard: View {
                     .overlay(
                         RoundedRectangle(cornerRadius: 16)
                             .stroke(
-                                isSelected ? Color(red: 0.39, green: 0.4, blue: 0.95) : themeManager.strokeColor,
+                                isSelected ? (themeManager.isSapphire ? themeManager.accentColor : Color(red: 0.39, green: 0.4, blue: 0.95)) : themeManager.strokeColor,
                                 lineWidth: isSelected ? 2 : 1
                             )
                     )

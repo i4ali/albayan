@@ -21,10 +21,17 @@ struct ExploreRow: View {
                 // Icon
                 Image(systemName: icon)
                     .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(themeManager.useWarmLayout ? .white : themeManager.accentColor)
+                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : (themeManager.useWarmLayout ? .white : themeManager.accentColor))
                     .frame(width: 44, height: 44)
                     .background {
-                        if themeManager.useWarmLayout {
+                        if themeManager.isSapphire {
+                            Circle()
+                                .fill(themeManager.goldChipFill)
+                                .overlay(
+                                    Circle()
+                                        .stroke(themeManager.strokeColor, lineWidth: 1)
+                                )
+                        } else if themeManager.useWarmLayout {
                             Circle()
                                 .fill(themeManager.accentGradient)
                                 .shadow(color: themeManager.accentColor.opacity(0.3), radius: 6)
@@ -41,7 +48,7 @@ struct ExploreRow: View {
                 // Text content
                 VStack(alignment: .leading, spacing: 4) {
                     Text(title)
-                        .font(.system(size: 17, weight: .semibold))
+                        .font(themeManager.isSapphire ? SapphireFont.serif(21) : .system(size: 17, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
 
                     Text(subtitle)
@@ -53,7 +60,11 @@ struct ExploreRow: View {
                 Spacer()
 
                 // Chevron
-                if themeManager.useWarmLayout {
+                if themeManager.isSapphire {
+                    Image(systemName: "chevron.right")
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.tertiaryText)
+                } else if themeManager.useWarmLayout {
                     Text(">")
                         .font(.system(size: 16, weight: .medium))
                         .foregroundColor(themeManager.tertiaryText)
