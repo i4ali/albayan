@@ -65,6 +65,13 @@ struct MainTabView: View {
             // Quran tab, where HomeView performs the actual in-stack navigation.
             selectedTab = 1
         }
+        .onAppear {
+            // Cold launch from a tapped notification: the .navigateToVerse post fired
+            // before any view was subscribed, so route via the stashed deep link.
+            if DeepLinkRouter.shared.pendingVerse != nil {
+                selectedTab = 1
+            }
+        }
     }
 }
 

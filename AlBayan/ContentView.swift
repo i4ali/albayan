@@ -46,9 +46,8 @@ struct ContentView: View {
         .onAppear {
             checkFirstLaunch()
             ratingManager.recordAppLaunch()
-            if IslamicCalendarManager.shared.isHajjSeason() {
-                Task { await NotificationManager.shared.scheduleArafahReminder() }
-            }
+            // Arafah + daily-verse scheduling now happens in AlBayanApp's
+            // scenePhase handler (NotificationManager.refreshOnActivation).
         }
         .fullScreenCover(isPresented: $showingWelcome) {
             OnboardingFlowView()

@@ -51,6 +51,10 @@ struct AlBayanApp: App {
             // (or switches accounts) in Settings while the app is backgrounded.
             if newPhase == .active {
                 Task { await PremiumManager.shared.refreshFromStoreKit() }
+                Task {
+                    await NotificationManager.shared.refreshOnActivation()
+                    await NotificationHistoryStore.shared.syncDelivered()
+                }
             }
         }
     }
@@ -85,9 +89,12 @@ struct AlBayanApp: App {
             return
         }
 
+        // Stash for cold launches (views may not be subscribed yet)
+        DeepLinkRouter.shared.pendingVerse = PendingVerse(surah: surah, verse: verse)
+
         // Post notification to trigger navigation
         NotificationCenter.default.post(
-            name: NSNotification.Name("NavigateToVerse"),
+            name: .navigateToVerse,
             object: nil,
             userInfo: ["surah": surah, "verse": verse]
         )
@@ -110,6 +117,12 @@ class NotificationDelegate: NSObject, UNUserNotificationCenterDelegate {
         willPresent notification: UNNotification,
         withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void
     ) {
+        // Record into the inbox history
+        let item = NotificationHistoryStore.item(from: notification)
+        Task { @MainActor in
+            NotificationHistoryStore.shared.record(item)
+        }
+
         // Show banner, sound, and badge even when app is in foreground
         completionHandler([.banner, .sound, .badge])
     }
@@ -122,15 +135,27 @@ class NotificationDelegate: NSObject, UNUserNotificationCenterDelegate {
     ) {
         let userInfo = response.notification.request.content.userInfo
 
+        // Record into the inbox history as already read
+        let item = NotificationHistoryStore.item(from: response.notification, isRead: true)
+
         // Extract verse information
-        if let surah = userInfo["surah"] as? Int,
-           let verse = userInfo["verse"] as? Int {
-            // Create deep link URL
-            if let url = URL(string: "albayan://verse?surah=\(surah)&verse=\(verse)") {
-                // Post notification to app to handle navigation
-                DispatchQueue.main.async {
-                    UIApplication.shared.open(url)
-                }
+        let surah = userInfo["surah"] as? Int
+        let verse = userInfo["verse"] as? Int
+
+        Task { @MainActor in
+            NotificationHistoryStore.shared.record(item)
+
+            if let surah, let verse {
+                // Stash for cold launches (views may not be subscribed yet);
+                // consumed by MainTabView/HomeView on appear.
+                DeepLinkRouter.shared.pendingVerse = PendingVerse(surah: surah, verse: verse)
+
+                // Live path for when the app is already running
+                NotificationCenter.default.post(
+                    name: .navigateToVerse,
+                    object: nil,
+                    userInfo: ["surah": surah, "verse": verse]
+                )
             }
         }
 

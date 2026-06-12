@@ -99,7 +99,7 @@ struct SettingsView: View {
                                             get: { notificationManager.preferences.enabled },
                                             set: { newValue in
                                                 if newValue && notificationManager.permissionStatus != .authorized {
-                                                    Task {
+                                                    Task { @MainActor in
                                                         let granted = await notificationManager.requestPermission()
                                                         if granted {
                                                             notificationManager.preferences.enabled = true

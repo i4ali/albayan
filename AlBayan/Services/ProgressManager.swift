@@ -147,8 +147,35 @@ final class ProgressManager: ObservableObject {
         save()
         refresh()
 
+        // Re-arm motivational notifications around the new reading state
+        rearmProgressNotifications(forSurah: surahNumber)
+
         print("✅ ProgressManager: Marked verse \(verseKey) as read")
         return true
+    }
+
+    /// Push the streak reminder and gentle nudge forward (each read replaces the
+    /// pending request), and arm a near-completion encouragement when the user
+    /// stops within a few verses of finishing a surah.
+    private func rearmProgressNotifications(forSurah surahNumber: Int) {
+        guard preferences.notificationsEnabled else { return }
+
+        let completion = getSurahCompletion(surahNumber: surahNumber)
+        let remaining = completion.total - completion.read
+        let surahName = DataManager.shared.getSurah(number: surahNumber)?.surah.englishName
+
+        Task {
+            await NotificationManager.shared.scheduleStreakReminder()
+            await NotificationManager.shared.scheduleGentleNudge()
+
+            if remaining > 0, remaining <= 3, let surahName {
+                await NotificationManager.shared.scheduleNearCompletionEncouragement(
+                    surahNumber: surahNumber,
+                    surahName: surahName,
+                    versesRemaining: remaining
+                )
+            }
+        }
     }
 
     @discardableResult
@@ -243,6 +270,17 @@ final class ProgressManager: ObservableObject {
                 pendingBadge = badge
             }
 
+            // The surah is done — the almost-done encouragement is now stale
+            NotificationManager.shared.cancelNearCompletionReminder(surahNumber: surahNumber)
+
+            // Celebrate via notification
+            let surahName = surah.englishName
+            Task {
+                await NotificationManager.shared.scheduleMilestoneCelebration(
+                    milestone: "You've completed Surah \(surahName)! Keep up the amazing work."
+                )
+            }
+
             // Check milestone badges
             checkMilestoneBadges()
 
@@ -284,6 +322,14 @@ final class ProgressManager: ObservableObject {
 
                     if preferences.celebrationsEnabled {
                         pendingBadge = badge
+                    }
+
+                    // Celebrate via notification
+                    let message = milestone.count == 114
+                        ? "You've completed the entire Quran! What an incredible achievement."
+                        : "You've completed \(milestone.count) surahs! Keep up the amazing work."
+                    Task {
+                        await NotificationManager.shared.scheduleMilestoneCelebration(milestone: message)
                     }
 
                     print("🎉 ProgressManager: Milestone badge awarded: \(milestone.type.title)")
@@ -394,6 +440,14 @@ final class ProgressManager: ObservableObject {
 
                     if preferences.celebrationsEnabled {
                         pendingBadge = badge
+                    }
+
+                    // Celebrate via notification
+                    let days = milestone.days
+                    Task {
+                        await NotificationManager.shared.scheduleMilestoneCelebration(
+                            milestone: "You've reached a \(days)-day reading streak! MashaAllah."
+                        )
                     }
 
                     print("🔥 ProgressManager: Streak badge awarded: \(milestone.type.title)")
@@ -569,6 +623,16 @@ final class ProgressManager: ObservableObject {
         }
         preferences.updatedAt = Date()
         save()
+
+        // Arm or disarm motivational notifications to match the toggle
+        if preferences.notificationsEnabled {
+            Task {
+                await NotificationManager.shared.scheduleStreakReminder()
+                await NotificationManager.shared.scheduleGentleNudge()
+            }
+        } else {
+            NotificationManager.shared.cancelProgressNotifications()
+        }
     }
 
     // MARK: - Reset Progress

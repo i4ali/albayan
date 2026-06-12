@@ -10,6 +10,7 @@ import Foundation
 import UserNotifications
 import SwiftUI
 
+@MainActor
 class NotificationManager: ObservableObject {
     static let shared = NotificationManager()
 
@@ -21,7 +22,7 @@ class NotificationManager: ObservableObject {
                     await scheduleNotifications()
                 }
             } else {
-                cancelAllNotifications()
+                cancelDailyVerseNotifications()
             }
         }
     }
@@ -85,9 +86,7 @@ class NotificationManager: ObservableObject {
     func requestPermission() async -> Bool {
         do {
             let granted = try await notificationCenter.requestAuthorization(options: [.alert, .sound, .badge])
-            await MainActor.run {
-                self.permissionStatus = granted ? .authorized : .denied
-            }
+            await checkPermissionStatus()
             return granted
         } catch {
             print("❌ NotificationManager: Error requesting permission - \(error)")
@@ -97,9 +96,13 @@ class NotificationManager: ObservableObject {
 
     func checkPermissionStatus() async {
         let settings = await notificationCenter.notificationSettings()
-        await MainActor.run {
-            self.permissionStatus = settings.authorizationStatus
-        }
+        self.permissionStatus = settings.authorizationStatus
+    }
+
+    /// Whether iOS will currently deliver our notifications
+    private func isAuthorized() async -> Bool {
+        let settings = await notificationCenter.notificationSettings()
+        return settings.authorizationStatus == .authorized || settings.authorizationStatus == .provisional
     }
 
     func openSettings() {
@@ -145,12 +148,7 @@ class NotificationManager: ObservableObject {
     private func buildNotificationContent(for verseEntry: DailyVerseEntry) async -> UNMutableNotificationContent? {
         let content = UNMutableNotificationContent()
 
-        // Load verse data (DataManager is @MainActor)
-        let verse = await MainActor.run {
-            DataManager.shared.getVerse(surah: verseEntry.surah, verse: verseEntry.verse)
-        }
-
-        guard let verse = verse else {
+        guard let verse = DataManager.shared.getVerse(surah: verseEntry.surah, verse: verseEntry.verse) else {
             print("❌ NotificationManager: Could not load verse \(verseEntry.surah):\(verseEntry.verse)")
             return nil
         }
@@ -205,17 +203,31 @@ class NotificationManager: ObservableObject {
 
     // MARK: - Notification Scheduling
 
+    /// Re-sync everything that depends on app activation: permission status, icon
+    /// badge, and the rolling 7-day daily-verse window. Called on every launch and
+    /// foreground so the one-shot schedule never silently runs dry.
+    func refreshOnActivation() async {
+        await checkPermissionStatus()
+
+        // Clear the icon badge left behind by delivered notifications
+        try? await notificationCenter.setBadgeCount(0)
+
+        if preferences.enabled {
+            await scheduleNotifications() // also re-arms Arafah during Hajj season
+        } else if IslamicCalendarManager.shared.isHajjSeason() {
+            await scheduleArafahReminder()
+        }
+    }
+
     /// Schedule notifications for the next 7 days
     func scheduleNotifications() async {
-        // Check permission first
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else {
+        guard await isAuthorized() else {
             print("⚠️ NotificationManager: Not authorized to schedule notifications")
             return
         }
 
-        // Cancel existing notifications
-        cancelAllNotifications()
+        // Replace the existing daily-verse window without touching other types
+        cancelDailyVerseNotifications()
 
         // Schedule for next 7 days
         for dayOffset in 0..<7 {
@@ -298,9 +310,10 @@ class NotificationManager: ObservableObject {
         return monthData.verses[verseIndex]
     }
 
-    /// Cancel all scheduled notifications
-    func cancelAllNotifications() {
-        notificationCenter.removeAllPendingNotificationRequests()
+    /// Cancel only the rolling daily-verse notifications
+    func cancelDailyVerseNotifications() {
+        let identifiers = (0..<7).map { "daily_verse_\($0)" }
+        notificationCenter.removePendingNotificationRequests(withIdentifiers: identifiers)
     }
 
     // MARK: - Testing
@@ -344,8 +357,9 @@ class NotificationManager: ObservableObject {
 
     // MARK: - Progress Notifications
 
-    /// Schedule a streak reminder notification
-    @MainActor
+    /// Schedule a streak reminder notification. Re-armed after every reading
+    /// session (same identifier replaces the pending request), so it only fires
+    /// if the user hasn't read by their preferred time tomorrow.
     func scheduleStreakReminder() async {
         // Only schedule if progress notifications are enabled
         guard progressManager.preferences.notificationsEnabled else { return }
@@ -354,9 +368,7 @@ class NotificationManager: ObservableObject {
         let currentStreak = progressManager.streak.currentStreak
         guard currentStreak > 0 else { return }
 
-        // Check permission
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else { return }
+        guard await isAuthorized() else { return }
 
         // Schedule for tomorrow at the user's preferred notification time
         let tomorrow = Calendar.current.date(byAdding: .day, value: 1, to: Date()) ?? Date()
@@ -395,11 +407,9 @@ class NotificationManager: ObservableObject {
     /// Schedule a single local notification for the Day of Arafah (9 Dhul-Hijjah)
     /// at the user's preferred time. Does NOT request permission — only schedules
     /// if already authorized. Deep-links to Quran 2:198 via the .navigateToVerse path.
-    @MainActor
     func scheduleArafahReminder() async {
         // Only if already authorized — never prompt from here
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else { return }
+        guard await isAuthorized() else { return }
 
         let calendar = IslamicCalendarManager.shared
         let hijriYear = calendar.currentIslamicYear()
@@ -446,14 +456,11 @@ class NotificationManager: ObservableObject {
     }
 
     /// Schedule a milestone celebration notification
-    @MainActor
     func scheduleMilestoneCelebration(milestone: String) async {
         // Only schedule if progress notifications are enabled
         guard progressManager.preferences.notificationsEnabled else { return }
 
-        // Check permission
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else { return }
+        guard await isAuthorized() else { return }
 
         // Create content
         let content = UNMutableNotificationContent()
@@ -482,24 +489,21 @@ class NotificationManager: ObservableObject {
         }
     }
 
-    /// Schedule a gentle nudge if user hasn't read in 2+ days
-    @MainActor
+    /// Schedule a "come back" nudge 3 days out. Re-armed after every reading
+    /// session (same identifier replaces the pending request), so it only fires
+    /// if the user actually stays away for 3 days.
     func scheduleGentleNudge() async {
         // Only schedule if progress notifications are enabled
         guard progressManager.preferences.notificationsEnabled else { return }
 
-        // Check permission
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else { return }
+        guard await isAuthorized() else { return }
 
-        // Check if user hasn't read in 2+ days
-        guard let lastRead = progressManager.stats.lastReadDate else { return }
-        let daysSinceLastRead = Calendar.current.dateComponents([.day], from: lastRead, to: Date()).day ?? 0
-        guard daysSinceLastRead >= 2 else { return }
+        // Only nudge users who have read before
+        guard progressManager.stats.lastReadDate != nil else { return }
 
-        // Schedule for tomorrow at preferred time
-        let tomorrow = Calendar.current.date(byAdding: .day, value: 1, to: Date()) ?? Date()
-        var dateComponents = Calendar.current.dateComponents([.year, .month, .day], from: tomorrow)
+        // Schedule 3 days from now at preferred time
+        guard let nudgeDay = Calendar.current.date(byAdding: .day, value: 3, to: Date()) else { return }
+        var dateComponents = Calendar.current.dateComponents([.year, .month, .day], from: nudgeDay)
         let timeComponents = Calendar.current.dateComponents([.hour, .minute], from: preferences.time)
         dateComponents.hour = timeComponents.hour
         dateComponents.minute = timeComponents.minute
@@ -507,7 +511,7 @@ class NotificationManager: ObservableObject {
         // Create content
         let content = UNMutableNotificationContent()
         content.title = "We miss you! 📖"
-        content.body = "It's been \(daysSinceLastRead) days since your last reading. Come back to continue your journey through the Quran."
+        content.body = "It's been a few days since your last reading. Come back to continue your journey through the Quran."
         content.sound = .default
         content.badge = 1
         content.categoryIdentifier = "GENTLE_NUDGE"
@@ -531,15 +535,14 @@ class NotificationManager: ObservableObject {
         }
     }
 
-    /// Schedule encouragement for nearly completed surah
-    @MainActor
+    /// Schedule encouragement for nearly completed surah. Fires 1 hour after the
+    /// last read in the almost-done zone (same identifier replaces the pending
+    /// request); cancelled when the surah is completed.
     func scheduleNearCompletionEncouragement(surahNumber: Int, surahName: String, versesRemaining: Int) async {
         // Only schedule if progress notifications are enabled
         guard progressManager.preferences.notificationsEnabled else { return }
 
-        // Check permission
-        let settings = await notificationCenter.notificationSettings()
-        guard settings.authorizationStatus == .authorized else { return }
+        guard await isAuthorized() else { return }
 
         // Create content
         let content = UNMutableNotificationContent()
@@ -568,12 +571,18 @@ class NotificationManager: ObservableObject {
         }
     }
 
+    /// Cancel the near-completion reminder for a surah (e.g. once it's completed)
+    func cancelNearCompletionReminder(surahNumber: Int) {
+        notificationCenter.removePendingNotificationRequests(withIdentifiers: ["near_completion_\(surahNumber)"])
+    }
+
     /// Cancel progress-related notifications
     func cancelProgressNotifications() {
-        let identifiers = [
+        var identifiers = [
             "streak_reminder",
             "gentle_nudge"
         ]
+        identifiers += (1...114).map { "near_completion_\($0)" }
         notificationCenter.removePendingNotificationRequests(withIdentifiers: identifiers)
         print("✅ NotificationManager: Progress notifications cancelled")
     }

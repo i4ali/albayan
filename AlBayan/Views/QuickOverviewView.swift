@@ -328,7 +328,6 @@ struct QuickOverviewView: View {
 
     @ViewBuilder
     private func detailSection(_ color: Color, _ title: String, _ text: String, rtl: Bool) -> some View {
-        let isCoreInsight = title.lowercased().contains("core")
         VStack(alignment: .leading, spacing: 8) {
             if themeManager.isSapphire {
                 Text(title.uppercased())
@@ -345,10 +344,8 @@ struct QuickOverviewView: View {
                     // native system font at a larger size + looser line-spacing so it reads cleanly.
                     .font(
                         rtl
-                            ? .system(size: (isCoreInsight ? 18 : 16) * readingSettings.scale, weight: .regular)
-                            : (isCoreInsight
-                                ? SapphireFont.serif(19 * readingSettings.scale, semibold: false)
-                                : SapphireFont.body(14 * readingSettings.scale))
+                            ? .system(size: 18 * readingSettings.scale, weight: .regular)
+                            : SapphireFont.serif(19 * readingSettings.scale, semibold: false)
                     )
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing((rtl ? 11 : 7) * readingSettings.scale)

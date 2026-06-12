@@ -106,18 +106,27 @@ struct OnboardingFlowView: View {
     }
 
     private func completeOnboarding() {
-        // Apply notification preferences
-        if notificationsEnabled || progressNotificationsEnabled {
-            Task {
-                await NotificationManager.shared.requestPermission()
-                NotificationManager.shared.preferences.enabled = notificationsEnabled
-            }
-        }
+        let wantsDailyVerse = notificationsEnabled
+        let wantsProgress = progressNotificationsEnabled
 
-        // Apply progress notification preferences
-        let progressManager = ProgressManager.shared
-        progressManager.preferences.notificationsEnabled = progressNotificationsEnabled
-        progressManager.preferences.celebrationsEnabled = progressNotificationsEnabled
+        Task { @MainActor in
+            // Only flip preferences on if iOS actually granted permission,
+            // otherwise Settings would show "Enabled" while nothing can fire.
+            var granted = false
+            if wantsDailyVerse || wantsProgress {
+                granted = await NotificationManager.shared.requestPermission()
+            }
+
+            NotificationManager.shared.preferences.enabled = wantsDailyVerse && granted
+
+            // Apply progress notification preferences (celebrations are in-app
+            // overlays and don't need OS permission)
+            let progressManager = ProgressManager.shared
+            let prefs = progressManager.preferences
+            prefs.notificationsEnabled = wantsProgress && granted
+            prefs.celebrationsEnabled = wantsProgress
+            progressManager.updatePreferences(prefs)
+        }
 
         // Mark onboarding as complete
         UserDefaults.standard.set(true, forKey: "hasShownWelcome")

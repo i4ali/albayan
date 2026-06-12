@@ -116,17 +116,30 @@ struct HomeView: View {
                   let verse = userInfo["verse"] as? Int else {
                 return
             }
+            navigateTo(surah: surah, verse: verse)
+        }
+        .onAppear {
+            // Cold launch from a tapped notification: consume the stashed deep link
+            // that was posted before this view existed.
+            if let pending = DeepLinkRouter.shared.pendingVerse {
+                navigateTo(surah: pending.surah, verse: pending.verse)
+            }
+        }
+    }
 
-            // Dismiss any open sheets first
-            showingSettings = false
+    private func navigateTo(surah: Int, verse: Int) {
+        // Consume any stashed deep link so it doesn't replay on later appears
+        DeepLinkRouter.shared.pendingVerse = nil
 
-            // Find the surah data and navigate after a brief delay to allow sheets to dismiss
-            if let surahData = dataManager.availableSurahs.first(where: { $0.surah.number == surah }) {
-                // Wait for sheets to dismiss before navigating
-                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                    targetVerseNumber = verse
-                    selectedSurahForDeepLink = surahData
-                }
+        // Dismiss any open sheets first
+        showingSettings = false
+
+        // Find the surah data and navigate after a brief delay to allow sheets to dismiss
+        if let surahData = dataManager.availableSurahs.first(where: { $0.surah.number == surah }) {
+            // Wait for sheets to dismiss before navigating
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                targetVerseNumber = verse
+                selectedSurahForDeepLink = surahData
             }
         }
     }

@@ -150,63 +150,18 @@ struct NotificationsView: View {
         }
         .preferredColorScheme(themeManager.colorScheme)
         .onAppear {
-            loadNotifications()
-            addSampleNotifications()
-        }
-    }
+            notifications = NotificationHistoryStore.shared.load()
 
-    private func loadNotifications() {
-        if let data = UserDefaults.standard.data(forKey: "notificationHistory"),
-           let decoded = try? JSONDecoder().decode([NotificationItem].self, from: data) {
-            notifications = decoded.sorted { $0.timestamp > $1.timestamp }
+            // Pull in anything delivered while the app wasn't running
+            Task {
+                await NotificationHistoryStore.shared.syncDelivered()
+                notifications = NotificationHistoryStore.shared.load()
+            }
         }
     }
 
     private func saveNotifications() {
-        if let encoded = try? JSONEncoder().encode(notifications) {
-            UserDefaults.standard.set(encoded, forKey: "notificationHistory")
-        }
-    }
-
-    private func addSampleNotifications() {
-        // Only add samples if empty (for demo purposes)
-        guard notifications.isEmpty else { return }
-
-        let samples: [NotificationItem] = [
-            NotificationItem(
-                id: UUID().uuidString,
-                title: "Verse of the Day - Muharram",
-                message: "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً\n\nAnd when your Lord said to the angels, 'Indeed I am going to set a viceroy on the earth.'",
-                type: .dailyVerse,
-                timestamp: Date().addingTimeInterval(-3600),
-                isRead: false,
-                surahNumber: 2,
-                verseNumber: 30
-            ),
-            NotificationItem(
-                id: UUID().uuidString,
-                title: "Keep Your Streak Going! 🔥",
-                message: "You're on a 7-day reading streak. Don't break it today!",
-                type: .streak,
-                timestamp: Date().addingTimeInterval(-7200),
-                isRead: false,
-                surahNumber: nil,
-                verseNumber: nil
-            ),
-            NotificationItem(
-                id: UUID().uuidString,
-                title: "Congratulations! 🎉",
-                message: "You've completed 5 surahs! Keep up the amazing work.",
-                type: .milestone,
-                timestamp: Date().addingTimeInterval(-86400),
-                isRead: true,
-                surahNumber: nil,
-                verseNumber: nil
-            )
-        ]
-
-        notifications = samples
-        saveNotifications()
+        NotificationHistoryStore.shared.replaceAll(notifications)
     }
 }
 
