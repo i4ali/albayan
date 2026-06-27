@@ -31,7 +31,7 @@ struct FinalScreen: View {
 
                         Text("Tap below to begin")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(16, semibold: false)
+                                  ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
@@ -46,7 +46,7 @@ struct FinalScreen: View {
                                     .font(.system(size: 18, weight: .semibold))
                                 Text("Get Started")
                                     .font(themeManager.isSapphire
-                                          ? SapphireFont.serif(18)
+                                          ? SapphireFont.serif(20)
                                           : .system(size: 18, weight: .semibold))
                             }
                             .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)

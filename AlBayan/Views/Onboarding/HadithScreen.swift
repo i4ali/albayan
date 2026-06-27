@@ -95,25 +95,25 @@ struct HadithScreen: View {
                     VStack(spacing: 12) {
                         Text("\"The best speech")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(18, semibold: false)
+                                  ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("is the Book of Allah,")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(18, semibold: false)
+                                  ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("and the best guidance")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(18, semibold: false)
+                                  ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
                         Text("is the guidance of Muhammad ﷺ.\"")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(18, semibold: false)
+                                  ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                     }
@@ -127,7 +127,7 @@ struct HadithScreen: View {
                     // Attribution
                     Text("— Prophet Muhammad ﷺ")
                         .font(themeManager.isSapphire
-                              ? SapphireFont.serif(14, semibold: false, italic: true)
+                              ? SapphireFont.serif(16, semibold: false, italic: true)
                               : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .opacity(isVisible ? 1 : 0)
@@ -144,7 +144,7 @@ struct HadithScreen: View {
 
                     Text("Swipe or tap to continue")
                         .font(themeManager.isSapphire
-                              ? SapphireFont.serif(13, semibold: false)
+                              ? SapphireFont.serif(15, semibold: false)
                               : .system(size: 13, weight: .medium))
                         .foregroundColor(themeManager.tertiaryText)
                 }

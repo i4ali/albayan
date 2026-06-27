@@ -47,12 +47,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		07D643CA8EF8AF76C18EDED8 /* AlBayan/Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = AlBayan/Views;
+			sourceTree = "<group>";
+		};
+		316942F1B5D14CF36FDA70A5 /* AlBayan/Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = AlBayan/Services;
+			sourceTree = "<group>";
+		};
+		39214AFEAFB3A7C3A506AB52 /* AlBayan/Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = AlBayan/Models;
+			sourceTree = "<group>";
+		};
 		73E0BC062E3D3AB900E517DE = {
 			isa = PBXGroup;
 			children = (
 				CD656B6B2FA06FBF004B6D5C /* Configuration.storekit */,
 				73E0BC112E3D3AB900E517DE /* AlBayan */,
 				73E0BC102E3D3AB900E517DE /* Products */,
+				39214AFEAFB3A7C3A506AB52 /* AlBayan/Models */,
+				316942F1B5D14CF36FDA70A5 /* AlBayan/Services */,
+				07D643CA8EF8AF76C18EDED8 /* AlBayan/Views */,
 			);
 			sourceTree = "<group>";
 		};
@@ -274,7 +298,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlBayan/AlBayan.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 8;
+				CURRENT_PROJECT_VERSION = 10;
 				DEVELOPMENT_ASSET_PATHS = "\"AlBayan/Preview Content\"";
 				DEVELOPMENT_TEAM = 2J2GCJ25MK;
 				ENABLE_PREVIEWS = YES;
@@ -289,7 +313,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4;
+				MARKETING_VERSION = 1.6;
 				PRODUCT_BUNDLE_IDENTIFIER = MAHR.Partner.AlBayan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -307,7 +331,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlBayan/AlBayan.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 8;
+				CURRENT_PROJECT_VERSION = 10;
 				DEVELOPMENT_ASSET_PATHS = "\"AlBayan/Preview Content\"";
 				DEVELOPMENT_TEAM = 2J2GCJ25MK;
 				ENABLE_PREVIEWS = YES;
@@ -322,7 +346,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4;
+				MARKETING_VERSION = 1.6;
 				PRODUCT_BUNDLE_IDENTIFIER = MAHR.Partner.AlBayan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

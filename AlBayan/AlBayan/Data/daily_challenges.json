@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "dc_001",
+    "format": "multipleChoice",
+    "topic": "sabr",
+    "prompt": {
+      "en": "The Qur'an holds up one prophet as the very emblem of patience through loss and illness. Who?",
+      "ur": "قرآن نے جس نبی کو صبر، تکلیف اور بیماری کی سب سے بڑی مثال کے طور پر پیش کیا، وہ کون ہیں؟",
+      "ar": "أيُّ الأنبياء قدَّمه القرآن الكريم رمزًا للصبر على البلاء والمرض؟"
+    },
+    "options": [
+      {
+        "en": "Ayyub (Job)",
+        "ur": "ایوب علیہ السلام",
+        "ar": "أيوب عليه السلام"
+      },
+      {
+        "en": "Yunus",
+        "ur": "یونس علیہ السلام",
+        "ar": "يونس عليه السلام"
+      },
+      {
+        "en": "Idris",
+        "ur": "ادریس علیہ السلام",
+        "ar": "إدريس عليه السلام"
+      },
+      {
+        "en": "Dhul-Kifl",
+        "ur": "ذو الکفل علیہ السلام",
+        "ar": "ذو الكِفل عليه السلام"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "Ayyub lost health, wealth, and family, yet his prayer was never a complaint — only 'harm has touched me, and You are the Most Merciful' (21:83). Sabr isn't gritting your teeth; it's keeping a soft heart turned toward Allah while you wait.",
+      "ur": "ایوب علیہ السلام نے صحت، مال اور اہل و عیال سب کچھ کھو دیا، مگر ان کی دعا کبھی شکایت نہ تھی — بس یہ کہ ''مجھے تکلیف پہنچی ہے، اور تو سب سے بڑا رحم کرنے والا ہے'' (الانبیاء: ۸۳)۔ صبر دانت پیسنے کا نام نہیں؛ صبر یہ ہے کہ انتظار کے دوران دل کو نرم رکھو اور اللہ کی طرف متوجہ رہو۔",
+      "ar": "فقد أيوب عليه السلام الصحةَ والمالَ والأهلَ، غير أن دعاءه لم يكن شكوى قط، بل كان: «مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ» (الأنبياء: ٨٣). الصبرُ ليس عضَّ الأسنان وكتمان الألم؛ بل هو الحفاظ على قلب رقيق متوجِّه إلى الله في أشد لحظات الانتظار قسوةً."
+    },
+    "arabicText": null,
+    "source": "Qur'an 21:83"
+  },
+  {
+    "id": "dc_002",
+    "format": "multipleChoice",
+    "topic": "sabr",
+    "prompt": {
+      "en": "'O you who believe, seek help through patience and ____.' What does the Qur'an pair with patience here?",
+      "ur": "''اے ایمان والو! صبر اور ____ سے مدد مانگو۔'' یہاں قرآن نے صبر کے ساتھ کیا جوڑا ہے؟",
+      "ar": "«يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَ____». بماذا اقترن الصبرُ في هذه الآية؟"
+    },
+    "options": [
+      {
+        "en": "prayer (salah)",
+        "ur": "نماز (صلاۃ)",
+        "ar": "الصلاة"
+      },
+      {
+        "en": "charity (sadaqa)",
+        "ur": "صدقہ (صدقہ)",
+        "ar": "الصدقة"
+      },
+      {
+        "en": "fasting (sawm)",
+        "ur": "روزہ (صوم)",
+        "ar": "الصوم"
+      },
+      {
+        "en": "knowledge ('ilm)",
+        "ur": "علم (علم)",
+        "ar": "العلم"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "2:153 pairs sabr with salah — and ends 'indeed, Allah is with the patient.' When the weight feels too heavy to carry alone, these two are the handholds: be patient, and pray.",
+      "ur": "آیت ۲:۱۵۳ میں صبر کے ساتھ نماز کو جوڑا گیا ہے — اور آخر میں فرمایا: ''بے شک اللہ صابرین کے ساتھ ہے۔'' جب بوجھ اکیلے اٹھانا مشکل ہو، تو یہ دو سہارے تھام لو: صبر کرو اور نماز پڑھو۔",
+      "ar": "قرنت الآيةُ (٢:١٥٣) الصبرَ بالصلاة، وختمت بقوله تعالى: «إِنَّ اللَّهَ مَعَ الصَّابِرِينَ». حين يثقل الحمل أن تحمله وحدك، فهذان هما المِسكان: اصبر وصَلِّ."
+    },
+    "arabicText": null,
+    "source": "Qur'an 2:153"
+  },
+  {
+    "id": "dc_003",
+    "format": "fillInBlank",
+    "topic": "sabr",
+    "prompt": {
+      "en": "\"Indeed, with hardship comes ____.\"  (ash-Sharh)",
+      "ur": "''بے شک تکلیف کے ساتھ ____ ہے۔'' (سورۃ الشرح)",
+      "ar": "«إِنَّ مَعَ الْعُسْرِ ____». (سورة الشرح)"
+    },
+    "options": [
+      {
+        "en": "ease (yusra)",
+        "ur": "آسانی (یُسر)",
+        "ar": "يُسرًا (اليُسر)"
+      },
+      {
+        "en": "patience (sabr)",
+        "ur": "صبر (صبر)",
+        "ar": "صبرًا"
+      },
+      {
+        "en": "reward (ajr)",
+        "ur": "اجر (اجر)",
+        "ar": "أجرًا"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "94:6 — and the verse says it twice. The hardship is named once; the ease, twice. Whatever is pressing on you tonight already has its ease written beside it.",
+      "ur": "سورۃ الشرح کی آیت ۶ — اور یہ بات دو بار کہی گئی ہے۔ تکلیف کا ذکر ایک بار ہوا؛ آسانی کا دو بار۔ آج رات جو بھی تمہیں دبا رہا ہے، اس کے ساتھ اس کی آسانی پہلے سے لکھی جا چکی ہے۔",
+      "ar": "الآية ٩٤:٦ — وقد تكررت المقولةُ مرتين. العُسرُ ذُكر مرةً واحدة، أما اليُسرُ فذُكر مرتين. كلُّ ما يضغط عليك الليلة قد كُتبت إلى جانبه فُسحتُه وراحتُه."
+    },
+    "arabicText": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+    "source": "Qur'an 94:6"
+  },
+  {
+    "id": "dc_004",
+    "format": "flashcard",
+    "topic": "sabr",
+    "prompt": {
+      "en": "What did the Prophet ﷺ say about the believer's life — that both ease and hardship somehow work out well for them?",
+      "ur": "نبی ﷺ نے مومن کی زندگی کے بارے میں کیا فرمایا — کہ اس کے لیے خوشی اور تکلیف دونوں بھلائی کا باعث بنتے ہیں؟",
+      "ar": "ماذا قال النبيُّ ﷺ عن حال المؤمن؛ أن الخيرَ والشدة كلتيهما تصبّان في مصلحته؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Amazing is the affair of the believer — if good befalls him he is grateful, and if harm befalls him he is patient, and that is good for him.'",
+      "ur": "''مومن کا معاملہ کتنا عجیب ہے — اگر اسے بھلائی ملے تو شکر کرتا ہے، اور یہ اس کے لیے بھلائی ہے؛ اور اگر تکلیف پہنچے تو صبر کرتا ہے، اور یہ بھی اس کے لیے بھلائی ہے۔''",
+      "ar": "«عجبًا لأمر المؤمن، إن أمرَه كلَّه له خيرٌ: إن أصابته سرَّاءُ شكر فكان خيرًا له، وإن أصابته ضرَّاءُ صبر فكان خيرًا له.»"
+    },
+    "explanation": {
+      "en": "From Sahih Muslim. Sabr and shukr are two sides of one trusting heart: whatever the day brings, there is a way to turn it into good.",
+      "ur": "صحیح مسلم سے۔ صبر اور شکر ایک ہی بھروسہ مند دل کے دو رخ ہیں: دن جو بھی لائے، اسے بھلائی میں بدلنے کا راستہ موجود ہے۔",
+      "ar": "رواه مسلم. الصبرُ والشكرُ وجهان لقلب واحد واثق بالله: مهما جاء به اليوم، ثمَّة طريق لتحويله إلى خير."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_005",
+    "format": "trueFalse",
+    "topic": "sabr",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that true patience is shown at the first shock of a loss, not after the heart has already settled.",
+      "ur": "نبی ﷺ نے تعلیم دی کہ حقیقی صبر نقصان کی پہلی ضرب پر ظاہر ہوتا ہے، نہ کہ اس وقت جب دل پہلے سے سکون پا چکا ہو۔",
+      "ar": "علَّم النبيُّ ﷺ أن الصبرَ الحقيقيَّ يتجلَّى عند الصدمة الأولى للمصيبة، لا بعد أن يهدأ القلبُ ويستقرَّ."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'Patience is at the first strike' (Sahih al-Bukhari). Anyone calms down eventually — sabr is what you reach for in that first raw moment when the news lands.",
+      "ur": "''صبر پہلی ضرب پر ہے'' (صحیح البخاری)۔ وقت گزرنے کے ساتھ کوئی بھی پرسکون ہو جاتا ہے — اصل صبر وہ ہے جسے تم اس پہلے کچے لمحے میں اپناتے ہو جب خبر تمہارے اوپر آ گرتی ہے۔",
+      "ar": "«الصبرُ عند الصدمة الأولى» (صحيح البخاري). كلُّ إنسان يهدأ في نهاية المطاف مع مرور الوقت؛ الصبرُ الحقيقيُّ هو ما تتمسَّك به في تلك اللحظة الأولى الحارقة حين تحلُّ عليك المصيبة."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_006",
+    "format": "multipleChoice",
+    "topic": "shukr",
+    "prompt": {
+      "en": "'If you are grateful, I will surely ____ you.' How does Allah respond to gratitude in 14:7?",
+      "ur": "''اگر تم شکر ادا کرو گے تو میں تمہیں ضرور ____ دوں گا۔'' اللہ تعالیٰ آیت ۱۴:۷ میں شکرگزاری کا کیا جواب دیتا ہے؟",
+      "ar": "«لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ____». كيف يكافئ الله الشكرَ في الآية ١٤:٧؟"
+    },
+    "options": [
+      {
+        "en": "increase",
+        "ur": "زیادہ دوں گا",
+        "ar": "زيادةً (أزيد)"
+      },
+      {
+        "en": "forgive",
+        "ur": "معاف کروں گا",
+        "ar": "مغفرةً"
+      },
+      {
+        "en": "test",
+        "ur": "آزماؤں گا",
+        "ar": "ابتلاءً"
+      },
+      {
+        "en": "guide",
+        "ur": "ہدایت دوں گا",
+        "ar": "هدايةً"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "14:7 — gratitude is not just good manners; it is a doorway. The more you notice and thank, the more you are given to notice. Try naming three things tonight.",
+      "ur": "سورۃ ابراہیم ۱۴:۷ — شکر محض اچھے اخلاق کی بات نہیں؛ یہ ایک دروازہ ہے۔ جتنا زیادہ تم محسوس کرو اور شکر ادا کرو، اتنا ہی زیادہ محسوس کرنے کو ملتا ہے۔ آج رات تین چیزیں گن کر دیکھو۔",
+      "ar": "سورة إبراهيم ١٤:٧ — الشكرُ ليس حُسنَ أدب فحسب؛ بل هو بابٌ. كلَّما انتبهت وشكرت، زادك الله ما تنتبه إليه وتشكر عليه. جرِّب أن تعدَّ الليلة ثلاثَ نعم."
+    },
+    "arabicText": null,
+    "source": "Qur'an 14:7"
+  },
+  {
+    "id": "dc_007",
+    "format": "multipleChoice",
+    "topic": "shukr",
+    "prompt": {
+      "en": "When a mighty throne was placed before him in an instant, which prophet said 'This is from the favour of my Lord, to test whether I am grateful or ungrateful'?",
+      "ur": "جب ایک عظیم تخت پلک جھپکتے ان کے سامنے رکھا گیا، تو کس نبی نے کہا: ''یہ میرے رب کا فضل ہے تاکہ وہ آزمائے کہ میں شکر ادا کرتا ہوں یا ناشکری؟''",
+      "ar": "حين وُضع عرشٌ عظيم بين يديه في لحظة واحدة، أيُّ الأنبياء قال: «هَذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ»؟"
+    },
+    "options": [
+      {
+        "en": "Sulayman (Solomon)",
+        "ur": "سلیمان علیہ السلام",
+        "ar": "سليمان عليه السلام"
+      },
+      {
+        "en": "Dawud (David)",
+        "ur": "داوود علیہ السلام",
+        "ar": "داود عليه السلام"
+      },
+      {
+        "en": "Yusuf (Joseph)",
+        "ur": "یوسف علیہ السلام",
+        "ar": "يوسف عليه السلام"
+      },
+      {
+        "en": "Musa (Moses)",
+        "ur": "موسیٰ علیہ السلام",
+        "ar": "موسى عليه السلام"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "27:40 — Sulayman read his own blessing as a test of gratitude, not a trophy. Every gift you're given quietly asks the same question of you.",
+      "ur": "سورۃ النمل ۲۷:۴۰ — سلیمان علیہ السلام نے اپنی نعمت کو ایک انعام نہیں بلکہ شکرگزاری کی آزمائش سمجھا۔ جو نعمت بھی تمہیں دی گئی ہے، وہ خاموشی سے تم سے وہی سوال پوچھتی ہے۔",
+      "ar": "سورة النمل ٢٧:٤٠ — قرأ سليمانُ عليه السلام نعمتَه باعتبارها اختبارًا للشكر، لا غنيمةً يتباهى بها. كلُّ عطاء مُنحتَه يسألك في صمت السؤالَ ذاتَه."
+    },
+    "arabicText": null,
+    "source": "Qur'an 27:40"
+  },
+  {
+    "id": "dc_008",
+    "format": "fillInBlank",
+    "topic": "shukr",
+    "prompt": {
+      "en": "\"So remember Me; I will remember you. And be ____ to Me and do not deny Me.\"  (al-Baqara)",
+      "ur": "''تو تم میرا ذکر کرو؛ میں تمہارا ذکر کروں گا۔ اور میرے ____ ادا کرو اور میری ناشکری مت کرو۔'' (سورۃ البقرۃ)",
+      "ar": "«فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا ____ لِي». (سورة البقرة)"
+    },
+    "options": [
+      {
+        "en": "grateful (shakirun)",
+        "ur": "شکر (شاکرون)",
+        "ar": "تكفرون (شاكرون)"
+      },
+      {
+        "en": "patient (sabirun)",
+        "ur": "صبر (صابرون)",
+        "ar": "تصبرون (صابرون)"
+      },
+      {
+        "en": "humble (khashi'un)",
+        "ur": "عاجزی (خاشعون)",
+        "ar": "تخشعون (خاشعون)"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "2:152 ties remembrance and gratitude together. Both are really one move of the heart: turning toward the One who never stopped giving.",
+      "ur": "سورۃ البقرۃ ۲:۱۵۲ یاد اور شکر کو ایک ساتھ باندھتی ہے۔ دونوں دل کی ایک ہی حرکت ہیں: اس ذات کی طرف متوجہ ہونا جو دیتے دیتے کبھی نہیں تھکی۔",
+      "ar": "ربطت الآية ٢:١٥٢ الذِّكرَ والشكرَ معًا. كلاهما في حقيقته حركةٌ واحدة في القلب: التوجُّهُ نحو ذاك الذي لم يتوقَّف عن العطاء قط."
+    },
+    "arabicText": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+    "source": "Qur'an 2:152"
+  },
+  {
+    "id": "dc_009",
+    "format": "flashcard",
+    "topic": "shukr",
+    "prompt": {
+      "en": "The Prophet ﷺ named a sign of whether a person truly thanks Allah, having to do with how they treat people. What was it?",
+      "ur": "نبی ﷺ نے اس بات کی ایک علامت بتائی کہ آیا کوئی واقعی اللہ کا شکر ادا کرتا ہے — اس کا تعلق اس سے ہے کہ وہ لوگوں کے ساتھ کیسا برتاؤ کرتا ہے۔ وہ علامت کیا تھی؟",
+      "ar": "ذكر النبيُّ ﷺ علامةً تدلُّ على أن المرء يشكر الله حقًّا، وهي مرتبطة بتعامله مع الناس. ما هي؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Whoever is not grateful to people is not grateful to Allah.'",
+      "ur": "''جو لوگوں کا شکریہ ادا نہیں کرتا، وہ اللہ کا بھی شکر نہیں کرتا۔''",
+      "ar": "«من لا يَشكر الناسَ لا يَشكر اللهَ.»"
+    },
+    "explanation": {
+      "en": "From Sunan Abi Dawud. Gratitude isn't only vertical — thanking the people who help you is part of thanking the One who sent them.",
+      "ur": "سنن ابی داود سے۔ شکرگزاری صرف اوپر کی طرف نہیں — جو لوگ تمہاری مدد کریں ان کا شکریہ ادا کرنا بھی اس ذات کا شکر ہے جس نے انہیں بھیجا۔",
+      "ar": "رواه أبو داود. الشكرُ ليس فقط في العلاقة العمودية مع الله؛ فشكرُ الناس الذين يعينونك جزءٌ من شكر الذي أرسلهم إليك."
+    },
+    "arabicText": null,
+    "source": "Sunan Abi Dawud"
+  },
+  {
+    "id": "dc_010",
+    "format": "trueFalse",
+    "topic": "shukr",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that to see how grateful you should be, you should look at people who have more than you.",
+      "ur": "نبی ﷺ نے تعلیم دی کہ یہ جاننے کے لیے کہ تمہیں کتنا شکرگزار ہونا چاہیے، تمہیں ان لوگوں کو دیکھنا چاہیے جن کے پاس تم سے زیادہ ہے۔",
+      "ar": "علَّم النبيُّ ﷺ أنك إذا أردت أن تعرف مقدارَ شكرك، فعليك أن تنظر إلى من هم أعلى منك ممَّا أُوتوا."
+    },
+    "options": null,
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "The opposite: 'Look at those below you and not at those above you — it is more fitting that you not belittle Allah's favour upon you' (Bukhari & Muslim). Comparing downward grows gratitude; comparing upward grows discontent.",
+      "ur": "بالکل اس کے برعکس: ''ان لوگوں کو دیکھو جو تم سے نیچے ہیں، نہ کہ ان کو جو تم سے اوپر ہیں — یہ اس بات کے زیادہ مناسب ہے کہ تم اللہ کی نعمت کو حقیر نہ سمجھو'' (بخاری و مسلم)۔ نیچے دیکھنا شکرگزاری بڑھاتا ہے؛ اوپر دیکھنا بے چینی بڑھاتا ہے۔",
+      "ar": "بل العكسُ تمامًا: «انظر إلى مَن هو أسفل منك، ولا تنظر إلى مَن هو فوقك، فهو أجدر أن لا تزدري نعمة الله عليك» (البخاري ومسلم). النظرُ إلى مَن دونك يُنمِّي الشكر، بينما النظرُ إلى مَن فوقك يُنمِّي الاستياء والسخط."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_011",
+    "format": "multipleChoice",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "A man asked whether to leave his camel untied and simply trust Allah. What did the Prophet ﷺ tell him?",
+      "ur": "ایک آدمی نے پوچھا کہ وہ اپنا اونٹ کھلا چھوڑ دے اور بس اللہ پر بھروسہ کرے۔ نبی ﷺ نے اسے کیا فرمایا؟",
+      "ar": "سأل رجلٌ هل يتركُ ناقتَه بلا رباط ويتوكَّل على الله. فماذا أجابه النبيُّ ﷺ؟"
+    },
+    "options": [
+      {
+        "en": "'Tie it, and then rely on Allah.'",
+        "ur": "''اسے باندھو، پھر اللہ پر توکل کرو۔''",
+        "ar": "«اعقِلها وتوكَّل على الله.»"
+      },
+      {
+        "en": "'Leave it; trust is enough.'",
+        "ur": "''چھوڑ دو؛ بھروسہ کافی ہے۔''",
+        "ar": "«اتركها؛ التوكُّل يكفي.»"
+      },
+      {
+        "en": "'Sell it and give the price away.'",
+        "ur": "''اسے بیچ کر قیمت صدقہ میں دے دو۔''",
+        "ar": "«بِعها وتصدَّق بثمنها.»"
+      },
+      {
+        "en": "'Pray two units first.'",
+        "ur": "''پہلے دو رکعت نماز پڑھو۔''",
+        "ar": "«صلِّ ركعتين أولًا.»"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "From Sunan at-Tirmidhi. Tawakkul is not doing nothing and calling it faith — it's doing your part fully, then handing the outcome to Allah. Tie the camel; trust the Lord.",
+      "ur": "سنن الترمذی سے۔ توکل یہ نہیں کہ کچھ نہ کرو اور اسے ایمان کہو — توکل یہ ہے کہ اپنا حصہ پوری طرح ادا کرو، پھر نتیجہ اللہ کے سپرد کر دو۔ اونٹ باندھو؛ رب پر بھروسہ کرو۔",
+      "ar": "رواه الترمذي. التوكُّلُ ليس أن تقعد بلا عمل وتسمِّيه إيمانًا؛ بل هو أن تؤدِّي ما عليك كاملًا، ثم تُسلِّم النتيجةَ لله. اعقِل الناقة، وتوكَّل على الرب."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_012",
+    "format": "multipleChoice",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "'And whoever relies upon Allah — then He is ____ for him.' How does 65:3 finish?",
+      "ur": "''جو اللہ پر توکل کرے — تو وہ اس کے لیے ____ ہے۔'' آیت ۶۵:۳ کیسے مکمل ہوتی ہے؟",
+      "ar": "«وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ ____ لَهُ». كيف تنتهي الآية ٦٥:٣؟"
+    },
+    "options": [
+      {
+        "en": "sufficient (enough)",
+        "ur": "کافی (کفایت کرنے والا)",
+        "ar": "حسبُه (كافيه)"
+      },
+      {
+        "en": "merciful",
+        "ur": "رحم کرنے والا",
+        "ar": "رحيمٌ به"
+      },
+      {
+        "en": "near",
+        "ur": "قریب",
+        "ar": "قريبٌ منه"
+      },
+      {
+        "en": "watching",
+        "ur": "نگاہ رکھنے والا",
+        "ar": "مُراقبٌ له"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "65:3 — 'He is enough for him.' Not 'He will help a little.' Enough. When you've done what you can, that one word is meant to let your shoulders drop.",
+      "ur": "سورۃ الطلاق ۶۵:۳ — ''وہ اس کے لیے کافی ہے۔'' 'تھوڑی مدد کرے گا' نہیں۔ کافی۔ جب تم اپنی بساط بھر کر چکو، تو یہ ایک لفظ اس لیے ہے کہ تمہارے کندھے ڈھیلے پڑ جائیں۔",
+      "ar": "سورة الطلاق ٦٥:٣ — «فهو حسبُه». لا «يُعينه قليلًا». حسبُه. حين تكون قد بذلت ما في وسعك، هذه الكلمةُ الواحدة تُراد لتُرخي بها كتفيك."
+    },
+    "arabicText": null,
+    "source": "Qur'an 65:3"
+  },
+  {
+    "id": "dc_013",
+    "format": "fillInBlank",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "The believers' answer in the face of threat: \"____ — and He is the best Disposer of affairs.\"  (Al 'Imran)",
+      "ur": "خطرے کے سامنے مومنوں کا جواب: ''____ — اور وہ بہترین کارساز ہے۔'' (سورۃ آل عمران)",
+      "ar": "ما قاله المؤمنون في وجه التهديد: «____ وَنِعْمَ الْوَكِيلُ». (سورة آل عمران)"
+    },
+    "options": [
+      {
+        "en": "Allah is sufficient for us (Hasbunallah)",
+        "ur": "ہمیں اللہ کافی ہے (حسبنا اللہ)",
+        "ar": "حسبنا الله"
+      },
+      {
+        "en": "There is no power but in Allah",
+        "ur": "کوئی طاقت نہیں سوائے اللہ کے",
+        "ar": "لا حول ولا قوة إلا بالله"
+      },
+      {
+        "en": "We seek refuge in Allah",
+        "ur": "ہم اللہ کی پناہ مانگتے ہیں",
+        "ar": "نعوذ بالله"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "3:173 — 'Hasbunallahu wa ni'mal-wakeel.' Said when the odds look impossible. It doesn't deny the difficulty; it just refuses to face it alone.",
+      "ur": "سورۃ آل عمران ۳:۱۷۳ — ''حَسْبُنَا اللّٰہُ وَنِعْمَ الْوَکِیْل۔'' اس وقت کہا جاتا ہے جب حالات ناممکن لگیں۔ یہ مشکل کو جھٹلاتا نہیں؛ بس یہ کہتا ہے کہ اسے اکیلے نہیں جھیلوں گا۔",
+      "ar": "سورة آل عمران ٣:١٧٣ — «حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ». تُقال حين يبدو الموقفُ مستحيلًا. لا تُنكر المشقَّة؛ بل ترفض فقط مواجهتها وحيدًا."
+    },
+    "arabicText": "حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+    "source": "Qur'an 3:173"
+  },
+  {
+    "id": "dc_014",
+    "format": "flashcard",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "The Prophet ﷺ taught a morning du'a that hands the whole day's beginning and end over to Allah. Can you recall how it opens?",
+      "ur": "نبی ﷺ نے صبح کی ایک دعا سکھائی جو دن کا آغاز اور انجام دونوں اللہ کے سپرد کر دیتی ہے۔ کیا آپ کو یاد ہے یہ کیسے شروع ہوتی ہے؟",
+      "ar": "علَّم النبيُّ ﷺ دعاءَ الصباح الذي يُسلِّم به ابتداءَ اليوم ونهايتَه إلى الله. هل تتذكَّر كيف يبدأ؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilaykan-nushur' — O Allah, by You we enter the morning and the evening, by You we live and die, and to You is the return.",
+      "ur": "''اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ'' — اے اللہ! تیرے ساتھ ہم نے صبح کی اور تیرے ساتھ شام کی، تیرے ساتھ جیتے ہیں اور تیرے ساتھ مریں گے، اور تیری ہی طرف لوٹنا ہے۔",
+      "ar": "«اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ» — اللهم بك أصبحنا وبك أمسينا، وبك نحيا وبك نموت، وإليك المصير."
+    },
+    "explanation": {
+      "en": "From Jami' at-Tirmidhi. Beginning the day by naming Allah as the one in charge of all of it is tawakkul made into a habit.",
+      "ur": "جامع الترمذی سے۔ دن کا آغاز اللہ کو تمام معاملات کا ذمہ دار مان کر کرنا — یہی توکل کو عادت بنانا ہے۔",
+      "ar": "رواه الترمذي. أن تبدأ يومك معترفًا بأن الله هو المتوليِّ كلَّ أمورك — هذا هو التوكُّل حين يتحوَّل إلى عادة راسخة."
+    },
+    "arabicText": "اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_015",
+    "format": "trueFalse",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "The Prophet ﷺ said that if people relied on Allah as they truly should, they would be provided for like the birds — who go out hungry and return full.",
+      "ur": "نبی ﷺ نے فرمایا کہ اگر لوگ اللہ پر اس طرح بھروسہ کریں جیسا کہ حق ہے، تو انہیں پرندوں کی طرح رزق دیا جائے — جو صبح بھوکے نکلتے ہیں اور شام کو بھرے پیٹ لوٹتے ہیں۔",
+      "ar": "قال النبيُّ ﷺ: لو توكَّل الناسُ على الله حقَّ توكُّله، لرزقهم كما يرزق الطيرَ: تغدو خِماصًا وتروح بِطانًا."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'If you relied on Allah as He deserves, He would provide for you as He provides for the birds: they go out hungry in the morning and come back full' (Tirmidhi). Note the birds still go out — trust moves its feet.",
+      "ur": "''اگر تم اللہ پر ویسا بھروسہ کرو جیسا اس کا حق ہے، تو وہ تمہیں ویسے ہی رزق دے جیسے پرندوں کو دیتا ہے: وہ صبح بھوکے نکلتے ہیں اور شام کو پیٹ بھر کر لوٹتے ہیں'' (ترمذی)۔ غور کرو: پرندے نکلتے تو ہیں — بھروسہ پاؤں چلاتا ہے۔",
+      "ar": "«لو أنكم تتوكَّلون على الله حقَّ توكُّله لرزقكم كما يرزق الطير: تغدو خِماصًا وتروح بِطانًا» (الترمذي). لاحِظ أن الطيرَ تغدو — التوكُّلُ يُحرِّك الخطوات."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_016",
+    "format": "multipleChoice",
+    "topic": "tawba",
+    "prompt": {
+      "en": "From inside the darkness of the whale, which prophet called out 'There is no god but You; glory be to You; I have been among the wrongdoers'?",
+      "ur": "مچھلی کے پیٹ کی تاریکی میں کس نبی نے پکارا: ''تیرے سوا کوئی معبود نہیں؛ تو پاک ہے؛ بے شک میں ظالموں میں سے تھا''؟",
+      "ar": "من داخل ظلمات بطن الحوت، أيُّ الأنبياء نادى: «لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ»؟"
+    },
+    "options": [
+      {
+        "en": "Yunus (Jonah)",
+        "ur": "یونس علیہ السلام",
+        "ar": "يونس عليه السلام"
+      },
+      {
+        "en": "Nuh (Noah)",
+        "ur": "نوح علیہ السلام",
+        "ar": "نوح عليه السلام"
+      },
+      {
+        "en": "Yusuf (Joseph)",
+        "ur": "یوسف علیہ السلام",
+        "ar": "يوسف عليه السلام"
+      },
+      {
+        "en": "Salih",
+        "ur": "صالح علیہ السلام",
+        "ar": "صالح عليه السلام"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "21:87 — Yunus owned his mistake before he asked for anything. That honest turn is the heart of tawba: no excuses, just 'I was wrong, and You are still my Lord.'",
+      "ur": "سورۃ الانبیاء ۲۱:۸۷ — یونس علیہ السلام نے کچھ مانگنے سے پہلے اپنی غلطی تسلیم کی۔ یہ صادقانہ رجوع ہی توبہ کا دل ہے: کوئی بہانہ نہیں، بس ''میں غلط تھا، اور تو پھر بھی میرا رب ہے۔''",
+      "ar": "سورة الأنبياء ٢١:٨٧ — اعترف يونسُ عليه السلام بخطئه قبل أن يطلب شيئًا. هذا الرجوعُ الصادق هو لبُّ التوبة: لا أعذار، فقط «أخطأتُ، وأنت ما زلت ربِّي»."
+    },
+    "arabicText": null,
+    "source": "Qur'an 21:87"
+  },
+  {
+    "id": "dc_017",
+    "format": "multipleChoice",
+    "topic": "tawba",
+    "prompt": {
+      "en": "'O My servants who have transgressed against themselves, do not ____ of the mercy of Allah.' (39:53)",
+      "ur": "''اے میرے بندو جنہوں نے اپنی جانوں پر زیادتی کی، اللہ کی رحمت سے ____ مت ہو جاؤ۔'' (سورۃ الزمر: ۵۳)",
+      "ar": "«قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن ____». (٣٩:٥٣)"
+    },
+    "options": [
+      {
+        "en": "despair",
+        "ur": "مایوس",
+        "ar": "رحمة الله"
+      },
+      {
+        "en": "speak",
+        "ur": "بات کرنے والے",
+        "ar": "كلام الله"
+      },
+      {
+        "en": "hide",
+        "ur": "چھپنے والے",
+        "ar": "قضاء الله"
+      },
+      {
+        "en": "boast",
+        "ur": "شیخی بگھارنے والے",
+        "ar": "نظر الله"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "39:53 promises Allah forgives all sins. However far you think you've gone, this verse was sent so you'd never decide you're past returning. The door doesn't lock.",
+      "ur": "سورۃ الزمر ۳۹:۵۳ وعدہ کرتی ہے کہ اللہ تمام گناہ معاف فرماتا ہے۔ تم چاہے جتنا دور گئے ہو، یہ آیت اس لیے نازل ہوئی کہ تم کبھی یہ نہ سوچو کہ واپسی کا دروازہ بند ہو گیا ہے۔ دروازہ بند نہیں ہوتا۔",
+      "ar": "تعِد الآية ٣٩:٥٣ بأن الله يغفر الذنوبَ جميعًا. مهما بلغت بُعدَك، فهذه الآية أُنزلت لتمنعك من أن تحكم على نفسك بأنك لا سبيلَ إلى العودة. الباب لا يُغلق."
+    },
+    "arabicText": null,
+    "source": "Qur'an 39:53"
+  },
+  {
+    "id": "dc_018",
+    "format": "fillInBlank",
+    "topic": "tawba",
+    "prompt": {
+      "en": "Yunus' du'a from the depths: \"La ilaha illa anta, subhanaka, inni kuntu mina ____.\"",
+      "ur": "گہرائیوں میں سے یونس علیہ السلام کی دعا: ''لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ ____۔''",
+      "ar": "دعاء يونس عليه السلام من الأعماق: «لَا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ ____»."
+    },
+    "options": [
+      {
+        "en": "the wrongdoers (al-zalimin)",
+        "ur": "ظالموں میں (الظالمین)",
+        "ar": "الظالمين"
+      },
+      {
+        "en": "the heedless (al-ghafilin)",
+        "ur": "غافلوں میں (الغافلین)",
+        "ar": "الغافلين"
+      },
+      {
+        "en": "the losers (al-khasirin)",
+        "ur": "خسارہ اٹھانے والوں میں (الخاسرین)",
+        "ar": "الخاسرين"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "21:87. The Prophet ﷺ said no Muslim ever supplicates with these words about anything but that Allah answers him (Tirmidhi). Owning the wrong is what opens the relief.",
+      "ur": "سورۃ الانبیاء ۲۱:۸۷۔ نبی ﷺ نے فرمایا کہ جو مسلمان بھی ان الفاظ سے کسی بھی معاملے میں دعا کرے، اللہ اسے ضرور قبول فرماتا ہے (ترمذی)۔ غلطی تسلیم کرنا ہی وہ چیز ہے جو راحت کا دروازہ کھولتی ہے۔",
+      "ar": "سورة الأنبياء ٢١:٨٧. قال النبيُّ ﷺ: ما دعا بها مسلمٌ في أمر قط إلا استجاب الله له (الترمذي). الاعترافُ بالخطأ هو ما يفتح بابَ الفرج."
+    },
+    "arabicText": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+    "source": "Qur'an 21:87"
+  },
+  {
+    "id": "dc_019",
+    "format": "flashcard",
+    "topic": "tawba",
+    "prompt": {
+      "en": "The Prophet ﷺ called one supplication 'the master of seeking forgiveness' (Sayyid al-Istighfar). How does it begin?",
+      "ur": "نبی ﷺ نے ایک دعا کو ''استغفار کا سردار'' (سیدالاستغفار) کہا۔ یہ کیسے شروع ہوتی ہے؟",
+      "ar": "سمَّى النبيُّ ﷺ دعاءً بعينه «سيِّد الاستغفار». كيف يبدأ هذا الدعاء؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Allahumma anta rabbi, la ilaha illa anta, khalaqtani wa ana 'abduk...' — O Allah, You are my Lord, there is no god but You; You created me and I am Your servant...",
+      "ur": "''اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ...'' — اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں؛ تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں...",
+      "ar": "«اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ...» — اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك..."
+    },
+    "explanation": {
+      "en": "From Sahih al-Bukhari. He said whoever says it by day with certainty and dies that day is among the people of Paradise. Returning to Allah is never met with a closed door.",
+      "ur": "صحیح البخاری سے۔ آپ ﷺ نے فرمایا: جو یقین کے ساتھ دن میں یہ کہے اور اسی دن انتقال کرے وہ جنتیوں میں سے ہے۔ اللہ کی طرف لوٹنا کبھی بند دروازے سے نہیں ملتا۔",
+      "ar": "رواه البخاري. قال ﷺ: مَن قالها موقنًا بها في النهار فمات من يومه كان من أهل الجنة. الرجوعُ إلى الله لا يُقابَل أبدًا بباب موصد."
+    },
+    "arabicText": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ",
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_020",
+    "format": "trueFalse",
+    "topic": "tawba",
+    "prompt": {
+      "en": "The Prophet ﷺ said Allah is more delighted by a servant's repentance than a man who loses his camel in the desert and then suddenly finds it again.",
+      "ur": "نبی ﷺ نے فرمایا کہ اللہ اپنے بندے کی توبہ پر اس شخص سے بھی زیادہ خوش ہوتا ہے جو ریگستان میں اپنا اونٹ کھو دے اور پھر اچانک اسے پا لے۔",
+      "ar": "قال النبيُّ ﷺ إن الله يفرح بتوبة عبده أشدَّ من فرح رجل أضاع راحلتَه في الصحراء ثم وجدها فجأة."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "That exact image is in Bukhari & Muslim — and it ends with the man so overjoyed he mixes up his words. Your turning back isn't tolerated; it's celebrated.",
+      "ur": "بالکل یہی تصویر بخاری و مسلم میں ہے — اور اس میں اس شخص کا ذکر ہے جو خوشی میں اتنا بیتاب ہو جاتا ہے کہ الفاظ ادھے ادھورے رہ جاتے ہیں۔ تمہارا لوٹنا برداشت نہیں کیا جاتا؛ اسے جشن کے ساتھ مناتا ہے۔",
+      "ar": "هذه الصورةُ بعينها وردت في البخاري ومسلم، وفي روايتهما أن الرجل يبلغ به الفرحُ أن يخطئ في كلامه. عودتُك لا تُتحمَّل بصبر؛ بل تُستقبَل بالفرح والابتهاج."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_021",
+    "format": "multipleChoice",
+    "topic": "rahma",
+    "prompt": {
+      "en": "'And We have not sent you except as a ____ to the worlds.' How does 21:107 describe the Prophet ﷺ?",
+      "ur": "''اور ہم نے آپ کو تمام جہانوں کے لیے ____ بنا کر بھیجا۔'' آیت ۲۱:۱۰۷ میں نبی ﷺ کو کس لقب سے یاد کیا گیا؟",
+      "ar": "«وَمَا أَرْسَلْنَاكَ إِلَّا ____ لِّلْعَالَمِينَ». كيف وصفت الآية ٢١:١٠٧ النبيَّ ﷺ؟"
+    },
+    "options": [
+      {
+        "en": "mercy (rahma)",
+        "ur": "رحمت (رحمۃ)",
+        "ar": "رحمةً (رحمة)"
+      },
+      {
+        "en": "warner (nadhir)",
+        "ur": "ڈرانے والا (نذیر)",
+        "ar": "نذيرًا"
+      },
+      {
+        "en": "witness (shahid)",
+        "ur": "گواہ (شہید)",
+        "ar": "شهيدًا"
+      },
+      {
+        "en": "light (nur)",
+        "ur": "روشنی (نور)",
+        "ar": "نورًا"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "21:107 — not 'a mercy to Muslims' or 'to Arabs,' but to all the worlds. To follow him is to become a little more of a mercy to everyone you meet.",
+      "ur": "سورۃ الانبیاء ۲۱:۱۰۷ — ''مسلمانوں کے لیے رحمت'' یا ''عربوں کے لیے'' نہیں، بلکہ ''تمام جہانوں کے لیے۔'' آپ ﷺ کی پیروی کا مطلب یہ ہے کہ ہر ملنے والے کے لیے تم کچھ رحمت بن جاؤ۔",
+      "ar": "سورة الأنبياء ٢١:١٠٧ — لا «رحمةً للمسلمين» ولا «للعرب»، بل للعالمين جميعًا. اتِّباعُه ﷺ يعني أن تصبح شيئًا من الرحمة لكلِّ مَن تلقاه."
+    },
+    "arabicText": null,
+    "source": "Qur'an 21:107"
+  },
+  {
+    "id": "dc_022",
+    "format": "multipleChoice",
+    "topic": "rahma",
+    "prompt": {
+      "en": "The Prophet ﷺ said, 'The Merciful shows mercy to those who are merciful. Be merciful to those on earth, and ____ will be merciful to you.'",
+      "ur": "نبی ﷺ نے فرمایا: ''رحمٰن ان لوگوں پر رحم کرتا ہے جو رحم کرتے ہیں۔ زمین والوں پر رحم کرو، اور ____ تم پر رحم کرے گا۔''",
+      "ar": "قال النبيُّ ﷺ: «الرَّاحِمُونَ يَرحَمُهُمُ الرَّحمَنُ. ارحَمُوا مَن في الأرض، يَرحَمكُم ____.»"
+    },
+    "options": [
+      {
+        "en": "the One above the heavens",
+        "ur": "آسمانوں کے اوپر والا",
+        "ar": "مَن في السماء"
+      },
+      {
+        "en": "your family",
+        "ur": "تمہارا خاندان",
+        "ar": "أهلوكم"
+      },
+      {
+        "en": "the angels",
+        "ur": "فرشتے",
+        "ar": "الملائكة"
+      },
+      {
+        "en": "your future self",
+        "ur": "تمہارا آنے والا نفس",
+        "ar": "مَن يأتي بعدكم"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "From Sunan Abi Dawud / Tirmidhi. Mercy isn't only something you wait to receive; it's something you start. The kindness you show below is answered from above.",
+      "ur": "سنن ابی داود / ترمذی سے۔ رحمت صرف وہ چیز نہیں جس کا تم انتظار کرو؛ یہ وہ چیز ہے جو تم شروع کرتے ہو۔ جو مہربانی تم نیچے دکھاتے ہو، اس کا جواب اوپر سے آتا ہے۔",
+      "ar": "رواه أبو داود والترمذي. الرحمةُ ليست شيئًا تنتظر أن تتلقَّاه فحسب؛ بل هي شيء تبدأه أنت. اللطفُ الذي تُسدِيه في الأرض يأتيك جوابُه من السماء."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_023",
+    "format": "fillInBlank",
+    "topic": "rahma",
+    "prompt": {
+      "en": "The opening of almost every surah: \"Bismillahir-Rahmanir-____.\"",
+      "ur": "تقریباً ہر سورۃ کا آغاز: ''بِسْمِ اللّٰهِ الرَّحْمَٰنِ الرَّ____۔''",
+      "ar": "مطلعُ كلِّ سورة تقريبًا: «بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّ____»."
+    },
+    "options": [
+      {
+        "en": "Rahim (the Especially Merciful)",
+        "ur": "حِیْم (خاص طور پر رحم کرنے والا)",
+        "ar": "حيم (الرحيم الخاص)"
+      },
+      {
+        "en": "Karim (the Generous)",
+        "ur": "کَرِیْم (سخی)",
+        "ar": "كريم"
+      },
+      {
+        "en": "'Azim (the Magnificent)",
+        "ur": "عَظِیْم (عظمت والا)",
+        "ar": "عظيم"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "You begin in His mercy before you begin anything else. Two names for mercy, side by side, opening the Book — a hint at where everything starts and returns.",
+      "ur": "رحمت کے دو ناموں کے ساتھ کتاب کا آغاز ہوتا ہے — کچھ بھی شروع کرنے سے پہلے تم اس کی رحمت میں داخل ہوتے ہو۔ یہ اشارہ ہے کہ سب کچھ وہیں سے شروع ہوتا ہے اور وہیں لوٹتا ہے۔",
+      "ar": "قبل أن تبدأ شيئًا، تدخل في رحمته. اسمان للرحمة يتجاوران في مفتتح الكتاب — إشارةٌ إلى أن كلَّ شيء من هنا يبدأ وإليه يعود."
+    },
+    "arabicText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "source": "Qur'an 1:1"
+  },
+  {
+    "id": "dc_024",
+    "format": "flashcard",
+    "topic": "rahma",
+    "prompt": {
+      "en": "The Prophet ﷺ described how Allah divided mercy into parts — keeping most of it for the Day of Judgement. How much did He send down to creation?",
+      "ur": "نبی ﷺ نے بتایا کہ اللہ نے رحمت کو حصوں میں تقسیم کیا — بیشتر حصہ قیامت کے لیے رکھا۔ پوری مخلوق میں کتنی رحمت بھیجی؟",
+      "ar": "وصف النبيُّ ﷺ كيف قسَّم الله الرحمة أجزاءً، ووضع أكثرها ليوم القيامة. فكم نصيبُ المخلوقات مما أنزله؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "Allah made mercy a hundred parts; He sent down one part to the whole creation, and kept ninety-nine with Himself.",
+      "ur": "اللہ نے رحمت کے سو حصے بنائے؛ ایک حصہ پوری مخلوق میں بھیجا، اور ننانوے اپنے پاس رکھے۔",
+      "ar": "جعل الله الرحمةَ مئةَ جزء؛ أنزل جزءًا واحدًا إلى الخلق كله، وأمسك عنده تسعةً وتسعين جزءًا."
+    },
+    "explanation": {
+      "en": "From Bukhari & Muslim. All the tenderness you've ever seen — a mother with her child, animals with their young — is one part. Imagine the ninety-nine still held in reserve for you.",
+      "ur": "بخاری و مسلم سے۔ جو کوئی بھی نرمی تم نے کبھی دیکھی ہو — ماں کا اپنے بچے سے، جانوروں کا اپنے بچوں سے — وہ صرف ایک حصہ ہے۔ ان ننانوے حصوں کا تصور کرو جو ابھی تمہارے لیے محفوظ ہیں۔",
+      "ar": "رواه البخاري ومسلم. كلُّ رقَّة رأيتَها في حياتك — حنانُ الأم على وليدها، وعطفُ الحيوان على صغيره — جزءٌ واحدٌ. تخيَّل التسعة والتسعين المحفوظة لك."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_025",
+    "format": "trueFalse",
+    "topic": "rahma",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that showing mercy to animals can be a cause of forgiveness — even giving water to a thirsty dog.",
+      "ur": "نبی ﷺ نے تعلیم دی کہ جانوروں پر رحم کرنا مغفرت کا سبب بن سکتا ہے — یہاں تک کہ پیاسے کتے کو پانی پلانا بھی۔",
+      "ar": "علَّم النبيُّ ﷺ أن الرحمةَ بالحيوانات قد تكون سببًا للمغفرة، حتى إن سقيَ كلبٍ ظمآن يدخل في ذلك."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "A man who gave water to a dog dying of thirst was forgiven for it (Bukhari & Muslim). 'In every living being there is a reward.' Mercy that costs you a little can mean everything in the sight of Allah.",
+      "ur": "ایک آدمی نے ایک کتے کو پیاس سے مرتا دیکھ کر اسے پانی پلایا تو اس کی بخشش ہو گئی (بخاری و مسلم)۔ ''ہر جاندار میں ثواب ہے۔'' جو رحمت تم پر تھوڑی قربانی لگتی ہے، وہ اللہ کی نظر میں سب کچھ معنی رکھ سکتی ہے۔",
+      "ar": "رجلٌ سقى كلبًا يكاد يموت عطشًا فغُفر له (البخاري ومسلم). «في كلِّ ذاتِ كبدٍ رطبة أجرٌ». الرحمةُ التي تُكلِّفك قليلًا قد تعني كلَّ شيء في ميزان الله."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_026",
+    "format": "multipleChoice",
+    "topic": "rida",
+    "prompt": {
+      "en": "'Richness is not in having many possessions; richness is ____.' How did the Prophet ﷺ complete it?",
+      "ur": "''دولت مند وہ نہیں جس کے پاس زیادہ مال ہو؛ دولت مند وہ ہے جو ____۔'' نبی ﷺ نے اسے کیسے مکمل کیا؟",
+      "ar": "«ليس الغِنى عن كثرة العَرَض؛ ولكنَّ الغِنى ____». كيف أتمَّ النبيُّ ﷺ هذا الحديث؟"
+    },
+    "options": [
+      {
+        "en": "the contentment of the soul",
+        "ur": "نفس کی بے نیازی (قناعت) رکھتا ہو",
+        "ar": "غِنى النفس (القناعة)"
+      },
+      {
+        "en": "fearing Allah",
+        "ur": "اللہ سے ڈرتا ہو",
+        "ar": "خشيةُ الله"
+      },
+      {
+        "en": "giving charity",
+        "ur": "صدقہ دیتا ہو",
+        "ar": "الصدقة"
+      },
+      {
+        "en": "a large family",
+        "ur": "بڑا خاندان ہو",
+        "ar": "كثرة الأهل"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "Bukhari & Muslim. The wealthiest person you know may be the one who has learned to be enough with what they have. Contentment is a richness no one can take from you.",
+      "ur": "بخاری و مسلم۔ تمہارے جاننے والوں میں سب سے دولت مند وہ ہو سکتا ہے جس نے جو ہے اسی پر کافی ہونا سیکھ لیا۔ قناعت ایک ایسی دولت ہے جو کوئی چھین نہیں سکتا۔",
+      "ar": "رواه البخاري ومسلم. أغنى مَن تعرفهم ربَّما ذلك الذي تعلَّم أن يكتفي بما بين يديه. القناعةُ غِنًى لا يستطيع أحدٌ أن ينتزعه منك."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_027",
+    "format": "fillInBlank",
+    "topic": "rida",
+    "prompt": {
+      "en": "\"Allah will not burden a soul beyond ____.\"  (al-Baqara)",
+      "ur": "''اللہ کسی جان پر اس کی ____ سے بڑھ کر بوجھ نہیں ڈالتا۔'' (سورۃ البقرۃ)",
+      "ar": "«لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا ____». (سورة البقرة)"
+    },
+    "options": [
+      {
+        "en": "its capacity (wus'aha)",
+        "ur": "طاقت (وسعت)",
+        "ar": "وُسعها"
+      },
+      {
+        "en": "its patience (sabraha)",
+        "ur": "صبر (صبر)",
+        "ar": "صبرها"
+      },
+      {
+        "en": "its hope (rajaha)",
+        "ur": "امید (رجاء)",
+        "ar": "رجاءها"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "2:286. Whatever is on your plate today, it was measured to fit you — never more than you can carry. That promise is the ground that contentment stands on.",
+      "ur": "سورۃ البقرۃ ۲:۲۸۶۔ آج تمہاری پلیٹ میں جو بھی ہے، وہ تمہاری ناپ کا ہے — کبھی اتنا نہیں جو تم اٹھا نہ سکو۔ یہی وعدہ وہ بنیاد ہے جس پر قناعت کھڑی ہے۔",
+      "ar": "سورة البقرة ٢:٢٨٦. مهما كان ما يثقل عليك اليوم، فقد قُدِّر على مقاسك — لن يزيد على طاقتك قط. هذا الوعدُ هو الأرض التي تقوم عليها القناعة."
+    },
+    "arabicText": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+    "source": "Qur'an 2:286"
+  },
+  {
+    "id": "dc_028",
+    "format": "flashcard",
+    "topic": "rida",
+    "prompt": {
+      "en": "The Prophet ﷺ described someone as 'successful' (qad aflaha) with three simple conditions about their provision and heart. What were they?",
+      "ur": "نبی ﷺ نے کسی کو ''کامیاب'' (قد أفلح) کہا اور اس کے لیے تین سادہ شرطیں بیان کیں — رزق اور دل کے بارے میں۔ وہ شرطیں کیا تھیں؟",
+      "ar": "وصف النبيُّ ﷺ إنسانًا بأنه «قد أفلح» بثلاثة شروط بسيطة تتعلَّق برزقه وقلبه. ما هي؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "The one who has accepted Islam, been granted enough to suffice him, and whom Allah has made content with what He gave him.",
+      "ur": "وہ جس نے اسلام قبول کر لیا، اسے گزارے کے لائق رزق دیا گیا، اور اللہ نے اسے جو دیا اس پر اسے مطمئن کر دیا۔",
+      "ar": "مَن أسلم، ورُزق كفافًا، وقنَّعه الله بما آتاه."
+    },
+    "explanation": {
+      "en": "From Sahih Muslim. Notice 'enough,' not 'a lot.' Success here isn't a number in an account — it's a heart that has stopped aching for more.",
+      "ur": "صحیح مسلم سے۔ غور کرو: ''گزارے کے لائق،'' نہ کہ ''بہت زیادہ۔'' یہاں کامیابی کوئی حساب نہیں — یہ ایک ایسا دل ہے جو مزید کی تڑپ سے آزاد ہو چکا ہے۔",
+      "ar": "رواه مسلم. انتبِه: «كفافًا»، لا «كثيرًا». النجاحُ هنا ليس رقمًا في حساب — بل هو قلبٌ كفَّ عن الأنين طلبًا للمزيد."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_029",
+    "format": "trueFalse",
+    "topic": "rida",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that whoever wakes up safe, healthy, and with food for the day has been given the whole world.",
+      "ur": "نبی ﷺ نے تعلیم دی کہ جو شخص صبح کو محفوظ، صحت مند اٹھے اور اس کے پاس اس دن کی خوراک موجود ہو، اسے گویا پوری دنیا دے دی گئی۔",
+      "ar": "علَّم النبيُّ ﷺ أن مَن أصبح آمنًا في سِرْبه، معافًى في بدنه، عنده قوتُ يومه، فكأنَّما حِيزت له الدنيا."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'It is as if he were given the whole world' (Tirmidhi). Three quiet blessings we tend to overlook — security, health, and a day's food. Naming them is how contentment begins.",
+      "ur": "''گویا اسے پوری دنیا دے دی گئی'' (ترمذی)۔ تین خاموش نعمتیں جن پر ہم اکثر توجہ نہیں دیتے — سلامتی، صحت، اور ایک دن کی خوراک۔ انہیں نام لینا ہی قناعت کا آغاز ہے۔",
+      "ar": "«فكأنَّما حِيزت له الدنيا بحذافيرها» (الترمذي). ثلاثُ نعم هادئة كثيرًا ما نتغافل عنها: الأمنُ، والعافيةُ، وقوتُ اليوم. تسميتُها بالاسم هي بداية القناعة."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_030",
+    "format": "multipleChoice",
+    "topic": "raja",
+    "prompt": {
+      "en": "'And who despairs of the mercy of his Lord except ____?' How does 15:56 finish?",
+      "ur": "''اور اپنے رب کی رحمت سے مایوس کون ہوتا ہے سوائے ____؟'' آیت ۱۵:۵۶ کیسے ختم ہوتی ہے؟",
+      "ar": "«وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِ إِلَّا ____؟» كيف تنتهي الآية ١٥:٥٦؟"
+    },
+    "options": [
+      {
+        "en": "those who are astray",
+        "ur": "گمراہوں کے",
+        "ar": "الضالُّون"
+      },
+      {
+        "en": "the disbelievers",
+        "ur": "کافروں کے",
+        "ar": "الكافرون"
+      },
+      {
+        "en": "the wrongdoers",
+        "ur": "ظالموں کے",
+        "ar": "الظالمون"
+      },
+      {
+        "en": "the heedless",
+        "ur": "غافلوں کے",
+        "ar": "الغافلون"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "15:56 — despair itself is treated as a kind of being lost. To keep hoping in Allah, even at your lowest, is not naive; it's exactly where guidance keeps you.",
+      "ur": "سورۃ الحجر ۱۵:۵۶ — مایوسی کو خود ایک قسم کی گمراہی قرار دیا گیا ہے۔ اللہ سے امید رکھنا، اپنی پستی کے وقت بھی، بھولا پن نہیں؛ یہ ٹھیک وہی جگہ ہے جہاں ہدایت تمہیں رکھتی ہے۔",
+      "ar": "سورة الحجر ١٥:٥٦ — اليأسُ نفسُه ضربٌ من الضلال. أن تظلَّ تأمل في الله حتى في أشدِّ لحظاتك انكسارًا ليس سذاجةً؛ بل هو بالضبط ما تُبقيك عليه الهداية."
+    },
+    "arabicText": null,
+    "source": "Qur'an 15:56"
+  },
+  {
+    "id": "dc_031",
+    "format": "multipleChoice",
+    "topic": "raja",
+    "prompt": {
+      "en": "Even after years of grief over a lost son, Ya'qub told his sons, 'Do not despair of the ____ of Allah.' (12:87)",
+      "ur": "گمشدہ بیٹے پر برسوں کے غم کے بعد بھی یعقوب علیہ السلام نے اپنے بیٹوں سے کہا: ''اللہ کے ____ سے مایوس مت ہو۔'' (سورۃ یوسف: ۸۷)",
+      "ar": "حتى بعد سنوات من الحزن على ابنه المفقود، قال يعقوبُ عليه السلام لبنيه: «وَلَا تَيْأَسُوا مِن ____ اللَّهِ». (١٢:٨٧)"
+    },
+    "options": [
+      {
+        "en": "relief/mercy (rawh)",
+        "ur": "راحت / رحمت (روح) سے",
+        "ar": "رَوْحِ الله (الفرج والرحمة)"
+      },
+      {
+        "en": "decree (qadar)",
+        "ur": "فیصلے (قدر) سے",
+        "ar": "قدرِ الله"
+      },
+      {
+        "en": "command (amr)",
+        "ur": "حکم (امر) سے",
+        "ar": "أمرِ الله"
+      },
+      {
+        "en": "sight (basar)",
+        "ur": "نظر (بصر) سے",
+        "ar": "نظرِ الله"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "12:87 — and his hope was answered: Yusuf was alive. Hope isn't denying your pain; it's refusing to close the door on Allah's relief while you carry it.",
+      "ur": "سورۃ یوسف ۱۲:۸۷ — اور ان کی امید پوری ہوئی: یوسف علیہ السلام زندہ تھے۔ امید اپنے درد کو جھٹلانا نہیں؛ یہ اللہ کی راحت کا دروازہ اس وقت بھی کھلا رکھنا ہے جب تم اسے اٹھائے چل رہے ہو۔",
+      "ar": "سورة يوسف ١٢:٨٧ — وقد أُجيبت أمنيته: كان يوسفُ حيًّا. الأملُ ليس إنكارَ الألم؛ بل هو رفضُ أن تُغلق الباب على فرج الله بينما ما زلت تحمل حِملَك."
+    },
+    "arabicText": null,
+    "source": "Qur'an 12:87"
+  },
+  {
+    "id": "dc_032",
+    "format": "fillInBlank",
+    "topic": "raja",
+    "prompt": {
+      "en": "\"Say: O My servants who have transgressed against themselves, do not despair of the ____ of Allah.\"  (az-Zumar)",
+      "ur": "''کہو: اے میرے ان بندو جنہوں نے اپنی جانوں پر زیادتی کی، اللہ کی ____ سے مایوس مت ہو۔'' (سورۃ الزمر)",
+      "ar": "«قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن ____ اللَّهِ». (سورة الزمر)"
+    },
+    "options": [
+      {
+        "en": "mercy (rahma)",
+        "ur": "رحمت (رحمۃ) سے",
+        "ar": "رحمة"
+      },
+      {
+        "en": "speech (kalam)",
+        "ur": "کلام (کلام) سے",
+        "ar": "كلام"
+      },
+      {
+        "en": "decree (qada)",
+        "ur": "فیصلے (قضاء) سے",
+        "ar": "قضاء"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "39:53 — the verse the scholars called the most hopeful in the Qur'an. It was sent for exactly the moments you feel least deserving of it.",
+      "ur": "سورۃ الزمر ۳۹:۵۳ — علماء نے اسے قرآن کی سب سے امید افزا آیت قرار دیا۔ یہ ٹھیک ان لمحوں کے لیے نازل ہوئی جب تم خود کو سب سے کم مستحق سمجھتے ہو۔",
+      "ar": "سورة الزمر ٣٩:٥٣ — سمَّاها العلماء أرجى آية في القرآن. أُنزلت تحديدًا لتلك اللحظات التي تشعر فيها بأنك الأقلُّ استحقاقًا لها."
+    },
+    "arabicText": "۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "source": "Qur'an 39:53"
+  },
+  {
+    "id": "dc_033",
+    "format": "flashcard",
+    "topic": "raja",
+    "prompt": {
+      "en": "In a hadith qudsi, Allah says 'I am as My servant thinks I am.' What does this teach about how you should approach Him?",
+      "ur": "ایک حدیثِ قدسی میں اللہ فرماتا ہے: ''میں ویسا ہوتا ہوں جیسا میرا بندہ میرے بارے میں گمان رکھتا ہے۔'' یہ تمہیں اس کے پاس آنے کے بارے میں کیا سکھاتا ہے؟",
+      "ar": "في حديث قدسيٍّ يقول الله تعالى: «أنا عند ظنِّ عبدي بي». ماذا يعلِّمنا هذا عن كيفية إقبالنا عليه؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "Think well of Allah — expect His mercy, His acceptance, His response — because He meets you according to your expectation of Him.",
+      "ur": "اللہ کے بارے میں اچھا گمان رکھو — اس کی رحمت، قبولیت اور جواب کی توقع رکھو — کیونکہ وہ تمہاری اس توقع کے مطابق ملتا ہے جو تم اس کے بارے میں رکھتے ہو۔",
+      "ar": "أحسِن الظنَّ بالله — توقَّع رحمتَه وقبولَه وإجابتَه — فإنه يلقاك على قدر ما تظنُّ به."
+    },
+    "explanation": {
+      "en": "From Bukhari & Muslim. Your inner picture of Allah shapes your whole relationship with Him. Expect mercy, and turn toward it.",
+      "ur": "بخاری و مسلم سے۔ اللہ کے بارے میں تمہاری اندرونی تصویر اس کے ساتھ تمہارے پورے رشتے کو ڈھالتی ہے۔ رحمت کی توقع رکھو، اور اس کی طرف متوجہ ہو جاؤ۔",
+      "ar": "رواه البخاري ومسلم. الصورةُ الداخلية التي ترسمها لله في نفسك تُشكِّل علاقتك كلَّها به. توقَّع الرحمة، وتوجَّه نحوها."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_034",
+    "format": "trueFalse",
+    "topic": "raja",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that a person's sins, however many, can be met by Allah's forgiveness as long as they turn to Him.",
+      "ur": "نبی ﷺ نے تعلیم دی کہ کسی بندے کے گناہ خواہ کتنے بھی ہوں، اللہ کی مغفرت انہیں مٹا سکتی ہے جب تک وہ اس کی طرف رجوع کرے۔",
+      "ar": "علَّم النبيُّ ﷺ أن ذنوبَ العبد مهما كثرت يسعها عفوُ الله، ما لم يتوقَّف العبدُ عن الرجوع إليه."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "In a hadith qudsi: 'O son of Adam, were your sins to reach the clouds of the sky and you sought My forgiveness, I would forgive you' (Tirmidhi). No total is too high for the mercy that's waiting.",
+      "ur": "ایک حدیثِ قدسی میں: ''اے آدم کے بیٹے! اگر تیرے گناہ آسمان کے بادلوں تک پہنچ جائیں اور پھر تو میری مغفرت مانگے، تو میں تجھے بخش دوں گا'' (ترمذی)۔ کوئی حساب اتنا بڑا نہیں جو انتظار میں موجود رحمت سے بڑھ سکے۔",
+      "ar": "في حديث قدسيٍّ: «يا ابنَ آدم، إنك لو أتيتني بقُراب الأرض خطايا ثم لقيتني لا تُشرك بي شيئًا لأتيتك بقُرابها مغفرةً» (الترمذي). لا رصيدٌ من الذنوب يبلغ ما تنتظرك من الرحمة."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_035",
+    "format": "multipleChoice",
+    "topic": "iman",
+    "prompt": {
+      "en": "In the famous Hadith of Jibril, faith (iman) is defined as belief in Allah, His angels, His books, His messengers, the Last Day, and ____.",
+      "ur": "جبریل علیہ السلام کی مشہور حدیث میں ایمان کی تعریف یہ ہے: اللہ، اس کے فرشتوں، اس کی کتابوں، اس کے رسولوں، آخرت کے دن اور ____ پر یقین۔",
+      "ar": "في حديث جبريل المشهور، حُدِّد الإيمانُ بالإيمان بالله وملائكته وكتبه ورسله واليوم الآخر و____."
+    },
+    "options": [
+      {
+        "en": "divine decree (qadar)",
+        "ur": "تقدیر (قدر) پر",
+        "ar": "القدر (خيره وشرِّه)"
+      },
+      {
+        "en": "the five prayers",
+        "ur": "پانچ نمازوں پر",
+        "ar": "الصلوات الخمس"
+      },
+      {
+        "en": "the night journey",
+        "ur": "معراج پر",
+        "ar": "الإسراء والمعراج"
+      },
+      {
+        "en": "the caliphate",
+        "ur": "خلافت پر",
+        "ar": "الخلافة"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "From Sahih Muslim. These six are the inner architecture of iman. Belief in qadar — that nothing reaches you by accident — is often the one that brings the heart the most peace.",
+      "ur": "صحیح مسلم سے۔ یہ چھ ایمان کی اندرونی عمارت ہیں۔ تقدیر پر ایمان — کہ کوئی چیز اتفاق سے تم تک نہیں پہنچتی — اکثر وہ چیز ہے جو دل کو سب سے زیادہ سکون دیتی ہے۔",
+      "ar": "رواه مسلم. هذه الستُّ هي البنيانُ الداخلي للإيمان. الإيمانُ بالقدر — أن لا شيء يصلك مصادفةً — هو في الغالب ما يمنح القلبَ أعمقَ سكينة."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_036",
+    "format": "multipleChoice",
+    "topic": "iman",
+    "prompt": {
+      "en": "The Prophet ﷺ said faith has seventy-odd branches — the highest is declaring 'La ilaha illallah,' and the lowest is ____.",
+      "ur": "نبی ﷺ نے فرمایا کہ ایمان کی ستر سے زائد شاخیں ہیں — سب سے اعلیٰ ''لا إلٰه إلا الله'' کہنا ہے، اور سب سے ادنیٰ ____۔",
+      "ar": "قال النبيُّ ﷺ: الإيمانُ بضعٌ وسبعون شعبة، أعلاها قول «لا إله إلا الله»، وأدناها ____."
+    },
+    "options": [
+      {
+        "en": "removing a harmful thing from the road",
+        "ur": "راستے سے تکلیف دہ چیز ہٹانا",
+        "ar": "إماطة الأذى عن الطريق"
+      },
+      {
+        "en": "praying at night",
+        "ur": "رات کو نماز پڑھنا",
+        "ar": "قيام الليل"
+      },
+      {
+        "en": "fasting Mondays",
+        "ur": "پیر کے دن روزہ رکھنا",
+        "ar": "صيام الاثنين"
+      },
+      {
+        "en": "giving in charity",
+        "ur": "صدقہ دینا",
+        "ar": "الصدقة"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "From Sahih Muslim. He also said modesty (haya') is a branch of faith. Iman isn't only in the heart — it shows up in small, kind acts as ordinary as clearing the path.",
+      "ur": "صحیح مسلم سے۔ آپ ﷺ نے یہ بھی فرمایا کہ حیاء ایمان کی ایک شاخ ہے۔ ایمان صرف دل میں نہیں — یہ چھوٹے، مہربان اعمال میں بھی ظاہر ہوتا ہے، جیسے راستے سے رکاوٹ ہٹانا۔",
+      "ar": "رواه مسلم. وذكر ﷺ أن الحياء شعبةٌ من شعب الإيمان. الإيمانُ لا يسكن القلبَ وحده — يظهر في أعمال صغيرة لطيفة بسيطة كإماطة الأذى عن الطريق."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_037",
+    "format": "fillInBlank",
+    "topic": "iman",
+    "prompt": {
+      "en": "A du'a for steadfast faith: \"Our Lord, let not our hearts ____ after You have guided us.\"  (Al 'Imran)",
+      "ur": "ایمان کو ثابت رکھنے کی دعا: \"اے ہمارے رب، ہمیں ہدایت دینے کے بعد ہمارے دلوں کو ____ مت کر۔\" (آلِ عمران)",
+      "ar": "دعاء ثبات الإيمان: \"رَبَّنَا لَا تُزِغْ قُلُوبَنَا ____ إِذْ هَدَيْتَنَا.\" (آل عمران)"
+    },
+    "options": [
+      {
+        "en": "deviate (tuzigh)",
+        "ur": "ٹیڑھا (تُزِغ)",
+        "ar": "تضلّ وتنحرف (تَزِيغ)"
+      },
+      {
+        "en": "harden (taqsu)",
+        "ur": "سخت (تَقسُ)",
+        "ar": "تقسو وتصلب (تَقسُو)"
+      },
+      {
+        "en": "forget (tansa)",
+        "ur": "بھلا دینے والا (تَنسٰی)",
+        "ar": "تنسى وتغفل (تَنسَى)"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "3:8 — even the guided pray to stay guided. Faith isn't a one-time arrival; it's a heart that keeps asking to be held steady. Make this your du'a tonight.",
+      "ur": "آیت ۳:۸ — ہدایت پانے والے بھی ہدایت پر قائم رہنے کی دعا کرتے ہیں۔ ایمان ایک بار کی منزل نہیں، بلکہ ایک دل ہے جو بار بار یہ التجا کرتا ہے کہ اسے تھامے رکھا جائے۔ آج رات یہ دعا اپنی زبان پر لے آئیں۔",
+      "ar": "الآية ۳:۸ — حتى من نال الهداية يدعو ربّه أن يثبّته عليها. فالإيمان ليس وصولاً مرّة واحدة؛ بل هو قلبٌ يتضرّع بلا انقطاع أن يُمسَك ويُثبَّت. اجعل هذا الدعاء ورْدَك الليلة."
+    },
+    "arabicText": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+    "source": "Qur'an 3:8"
+  },
+  {
+    "id": "dc_038",
+    "format": "flashcard",
+    "topic": "iman",
+    "prompt": {
+      "en": "The Prophet ﷺ named three things which, when present in a person, let them taste the sweetness of faith (halawat al-iman). What are they?",
+      "ur": "نبی ﷺ نے تین چیزوں کا ذکر فرمایا جن کے ہوتے ہوئے انسان ایمان کی مٹھاس (حلاوتِ ایمان) محسوس کرتا ہے۔ وہ تین کیا ہیں؟",
+      "ar": "ذكر النبيُّ ﷺ ثلاثةَ أشياء إذا وُجدت في الإنسان وجد حلاوة الإيمان. ما هي؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "That Allah and His Messenger are more beloved to you than all else; that you love a person only for Allah's sake; and that you would hate to return to disbelief as you'd hate to be thrown into fire.",
+      "ur": "یہ کہ اللہ اور اس کے رسول تمام چیزوں سے زیادہ محبوب ہوں؛ یہ کہ کسی سے محبت صرف اللہ کے لیے ہو؛ اور یہ کہ کفر کی طرف لوٹنا اتنا ناگوار ہو جتنا آگ میں پھینکا جانا۔",
+      "ar": "أن يكون اللهُ ورسولُه أحبَّ إليه مما سواهما، وأن يُحبَّ المرءَ لا يحبُّه إلا لله، وأن يكره أن يرجع في الكفر بعد أن أنقذه الله منه كما يكره أن يُقذف في النار."
+    },
+    "explanation": {
+      "en": "From Bukhari & Muslim. Faith isn't only believed — it can be tasted, as a sweetness, when love is rightly ordered. Where does your strongest love point?",
+      "ur": "بخاری و مسلم سے۔ ایمان صرف مانا نہیں جاتا — اسے چکھا بھی جاتا ہے، ایک مٹھاس کی طرح، جب محبت صحیح ترتیب پر ہو۔ آپ کی سب سے گہری محبت کس طرف ہے؟",
+      "ar": "من البخاري ومسلم. الإيمان لا يُعتقد فحسب — بل يُذاق حلاوةً حين تكون المحبة على ترتيبها الصحيح. فأين تتجه أقوى محبّةٍ في قلبك؟"
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_039",
+    "format": "trueFalse",
+    "topic": "iman",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that none of you truly believes until he loves for his brother what he loves for himself.",
+      "ur": "نبی ﷺ نے فرمایا: تم میں سے کوئی اس وقت تک مومن نہیں ہو سکتا جب تک وہ اپنے بھائی کے لیے وہی نہ چاہے جو وہ اپنے لیے چاہتا ہے۔",
+      "ar": "علّم النبيُّ ﷺ أنه لا يؤمن أحدُكم حتى يُحبَّ لأخيه ما يُحبُّ لنفسه."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "Word for word from Bukhari & Muslim. Faith is measured partly by your generosity of heart — wanting good for others as instinctively as you want it for yourself.",
+      "ur": "یہ عین وہی الفاظ ہیں جو بخاری و مسلم میں موجود ہیں۔ ایمان کی پیمائش جزوی طور پر آپ کے دل کی فراخدلی سے ہوتی ہے — دوسروں کے لیے اسی طرح بھلائی چاہنا جس طرح آپ اپنے لیے چاہتے ہیں، بلکہ بے ساختہ۔",
+      "ar": "هذا هو نصّ الحديث في البخاري ومسلم حرفاً بحرف. يُقاس الإيمان جزئياً بسماحة القلب — أن تتمنّى للآخرين الخير كما تتمنّاه لنفسك بالفطرة والبداهة."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_040",
+    "format": "multipleChoice",
+    "topic": "ikhlas",
+    "prompt": {
+      "en": "The very first hadith in Sahih al-Bukhari teaches that the worth of any deed depends on what?",
+      "ur": "صحیح بخاری کی سب سے پہلی حدیث یہ سکھاتی ہے کہ کسی بھی عمل کی قدر کس چیز پر منحصر ہے؟",
+      "ar": "أوّل حديثٍ في صحيح البخاري يُعلّمنا أن قيمة أي عمل تتوقف على ماذا؟"
+    },
+    "options": [
+      {
+        "en": "the intention behind it",
+        "ur": "اس کے پیچھے کی نیت پر",
+        "ar": "النية التي وراءه"
+      },
+      {
+        "en": "how long it takes",
+        "ur": "اسے کتنا وقت لگتا ہے",
+        "ar": "المدة التي يستغرقها"
+      },
+      {
+        "en": "who witnesses it",
+        "ur": "کون دیکھتا ہے",
+        "ar": "من يشهده"
+      },
+      {
+        "en": "how hard it is",
+        "ur": "کتنا مشکل ہے",
+        "ar": "مقدار صعوبته"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "'Actions are but by intentions, and every person will have only what he intended.' Two people can do the same act; only the heart's reason separates them. Why are you really doing what you do?",
+      "ur": "\"اعمال کا دارومدار نیتوں پر ہے، اور ہر شخص کو وہی ملے گا جو اس نے نیت کی۔\" دو لوگ ایک جیسا عمل کر سکتے ہیں؛ فرق صرف دل کی نیت پر ہے۔ آپ جو کر رہے ہیں وہ واقعی کس لیے کر رہے ہیں؟",
+      "ar": "\"إنما الأعمال بالنيات، وإنما لكلّ امرئ ما نوى.\" قد يؤدّي اثنان العمل ذاته؛ ولا يفرق بينهما إلا سبب القلب. فلماذا تفعل ما تفعله حقاً؟"
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_041",
+    "format": "multipleChoice",
+    "topic": "ikhlas",
+    "prompt": {
+      "en": "Which surah is said to equal a third of the Qur'an and purely describes the oneness of Allah?",
+      "ur": "کون سی سورت ہے جو قرآن کے ایک تہائی کے برابر بتائی گئی ہے اور جو صرف اللہ کی یکتائی بیان کرتی ہے؟",
+      "ar": "أيُّ سورة قيل إنها تعدل ثُلُث القرآن وتصف توحيد الله خالصاً؟"
+    },
+    "options": [
+      {
+        "en": "al-Ikhlas",
+        "ur": "سورۃ الاخلاص",
+        "ar": "سورة الإخلاص"
+      },
+      {
+        "en": "al-Fatiha",
+        "ur": "سورۃ الفاتحہ",
+        "ar": "سورة الفاتحة"
+      },
+      {
+        "en": "al-Kawthar",
+        "ur": "سورۃ الکوثر",
+        "ar": "سورة الكوثر"
+      },
+      {
+        "en": "an-Nas",
+        "ur": "سورۃ الناس",
+        "ar": "سورة الناس"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "The Prophet ﷺ said al-Ikhlas equals a third of the Qur'an (Bukhari). Its name means 'sincerity' — pure, undivided devotion to the One. Worship Him as if no one else is watching.",
+      "ur": "نبی ﷺ نے فرمایا کہ سورۃ الاخلاص قرآن کے ایک تہائی کے برابر ہے (بخاری)۔ اس کا نام خلوص کا معنی رکھتا ہے — خالص، غیر منقسم عقیدت صرف اس ایک کے لیے۔ اللہ کی عبادت ایسے کریں جیسے کوئی دیکھنے والا نہیں۔",
+      "ar": "قال النبيُّ ﷺ إن سورة الإخلاص تعدل ثلث القرآن (البخاري). واسمها يعني الصفاء والخلوص — تفرُّغ الروح لله وحده بلا شريك. فاعبده كأن لا أحد يراك سواه."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_042",
+    "format": "fillInBlank",
+    "topic": "ikhlas",
+    "prompt": {
+      "en": "\"Say: He is Allah, ____.\"  (the opening of Surat al-Ikhlas)",
+      "ur": "\"کہہ دیجیے: وہ اللہ ہے، ____۔\" (سورۃ الاخلاص کی ابتدا)",
+      "ar": "\"قُلْ هُوَ ٱللَّهُ ____.\" (مطلع سورة الإخلاص)"
+    },
+    "options": [
+      {
+        "en": "One (Ahad)",
+        "ur": "ایک (احد)",
+        "ar": "أَحَدٌ (الواحد الفرد)"
+      },
+      {
+        "en": "the Most Merciful (ar-Rahman)",
+        "ur": "بے حد مہربان (الرحمٰن)",
+        "ar": "الرَّحْمَٰنُ (الرحمن)"
+      },
+      {
+        "en": "the Light (an-Nur)",
+        "ur": "نور (النور)",
+        "ar": "النُّورُ (النور)"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "112:1. Sincerity (ikhlas) and the oneness of God share a root idea: just as He is One, your devotion to Him should be undivided — not split between Him and the opinions of people.",
+      "ur": "۱۱۲:۱ ۔ اخلاص اور اللہ کی وحدانیت ایک ہی خیال کی جڑیں رکھتے ہیں: جیسے وہ یکتا ہے، ویسے ہی اس سے آپ کی عقیدت بھی غیر منقسم ہونی چاہیے — نہ اس میں لوگوں کی رائے کی آمیزش ہو۔",
+      "ar": "۱۱۲:۱ — الإخلاصُ وتوحيدُ الله يصدران من ينبوع واحد: كما أنه واحدٌ أحد، فلتكن عبادتك له موحَّدةً غير مشتّتة، لا تتقاسمها مع أهواء الناس وآرائهم."
+    },
+    "arabicText": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "source": "Qur'an 112:1"
+  },
+  {
+    "id": "dc_043",
+    "format": "flashcard",
+    "topic": "ikhlas",
+    "prompt": {
+      "en": "In a hadith qudsi, Allah says He is the most self-sufficient and has no need of partners. What does He do with a deed done partly to be seen by others?",
+      "ur": "ایک حدیثِ قدسی میں اللہ فرماتا ہے کہ وہ بے نیاز ہے اور شریک کا محتاج نہیں۔ جو عمل اس میں دوسروں کی نمائش ملی ہو، اس کا کیا ہوتا ہے؟",
+      "ar": "في حديثٍ قدسي يقول الله إنه غنيٌّ عن الشركاء. فما الذي يفعله بالعمل الذي خالطته الرياء؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Whoever does a deed associating another with Me in it, I leave him and his shirk' — the deed done for show is left for the one he sought to impress.",
+      "ur": "\"جو شخص کوئی عمل کرتے ہوئے اس میں میرے ساتھ کسی کو شریک کرے، تو میں اسے اور اس کے شرک کو چھوڑ دیتا ہوں\" — دکھاوے کے لیے کیا گیا عمل اسی کے لیے چھوڑ دیا جاتا ہے جسے دکھانے کی کوشش کی گئی تھی۔",
+      "ar": "\"مَن عَمِل عملاً أشرك فيه معي غيري تركتُه وشِركَه\" — فالعمل المُراءى يُترك لمن أُريد به."
+    },
+    "explanation": {
+      "en": "From Sahih Muslim. A sobering, freeing thought: only what was for Allah lasts. It quietly lifts the pressure of performing for everyone else.",
+      "ur": "صحیح مسلم سے۔ ایک سنجیدہ اور آزاد کرنے والا خیال: صرف وہی چیز باقی رہتی ہے جو اللہ کے لیے تھی۔ یہ خیال باقی سب کے لیے نمائش کا بوجھ خاموشی سے اتار دیتا ہے۔",
+      "ar": "من صحيح مسلم. فكرةٌ مُهيبة ومُحرِّرة في آنٍ واحد: لا يبقى إلا ما كان لله. وفي هذا تخفيفٌ صامت لعبء التظاهر أمام سائر الناس."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_044",
+    "format": "trueFalse",
+    "topic": "ikhlas",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that Allah does not look at your bodies or your forms, but at your hearts and your deeds.",
+      "ur": "نبی ﷺ نے فرمایا: اللہ آپ کی جسمانی ہیئت یا شکل نہیں دیکھتا، بلکہ آپ کے دلوں اور اعمال کو دیکھتا ہے۔",
+      "ar": "علّم النبيُّ ﷺ أن الله لا ينظر إلى أجسادكم ولا صوركم، بل ينظر إلى قلوبكم وأعمالكم."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'Allah does not look at your shapes and wealth, but He looks at your hearts and deeds' (Sahih Muslim). What's polished on the outside matters far less than what's sincere within.",
+      "ur": "\"اللہ تمہاری شکلوں اور مالوں کو نہیں دیکھتا، بلکہ وہ تمہارے دلوں اور اعمال کو دیکھتا ہے\" (صحیح مسلم)۔ ظاہر کی چمک دمک سے کہیں زیادہ اہم ہے وہ خلوص جو اندر موجود ہو۔",
+      "ar": "\"إن الله لا ينظر إلى صوركم وأموالكم، ولكن ينظر إلى قلوبكم وأعمالكم\" (صحيح مسلم). ما يُصقل في الظاهر أقلّ أهمية بكثير مما يخلص في الباطن."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_045",
+    "format": "multipleChoice",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "'Unquestionably, by the remembrance of Allah ____ find rest.' (13:28)",
+      "ur": "\"خبردار! اللہ کے ذکر سے ہی ____ کو سکون ملتا ہے۔\" (۱۳:۲۸)",
+      "ar": "\"أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ____\" (۱۳:۲۸)"
+    },
+    "options": [
+      {
+        "en": "hearts",
+        "ur": "دلوں",
+        "ar": "الْقُلُوبُ"
+      },
+      {
+        "en": "feet",
+        "ur": "قدموں",
+        "ar": "الْأَقْدَامُ"
+      },
+      {
+        "en": "tongues",
+        "ur": "زبانوں",
+        "ar": "الْأَلْسِنَةُ"
+      },
+      {
+        "en": "eyes",
+        "ur": "آنکھوں",
+        "ar": "الْأَعْيُنُ"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "13:28 names the cure for a restless heart. When your mind won't settle, the verse points you somewhere specific: turn it, gently, back to remembering Allah.",
+      "ur": "۱۳:۲۸ بے چین دل کا علاج بتاتی ہے۔ جب ذہن قرار نہ پائے تو یہ آیت ایک خاص جگہ کی طرف اشارہ کرتی ہے: آہستہ سے اسے اللہ کی یاد کی طرف پھیر لیں۔",
+      "ar": "تكشف الآية ۱۳:۲۸ عن دواء القلب القلق. حين لا يستقرّ العقل، فإن الآية تشير إلى وجهة بعينها: أعِده بلطفٍ إلى ذكر الله."
+    },
+    "arabicText": null,
+    "source": "Qur'an 13:28"
+  },
+  {
+    "id": "dc_046",
+    "format": "fillInBlank",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "\"...by the remembrance of Allah hearts ____.\"  (ar-Ra'd)",
+      "ur": "\"...اللہ کے ذکر سے دل ____۔\" (سورۃ الرعد)",
+      "ar": "\"...أَلَا بِذِكْرِ ٱللَّهِ ____ ٱلْقُلُوبُ\" (سورة الرعد)"
+    },
+    "options": [
+      {
+        "en": "find rest (tatma'inn)",
+        "ur": "اطمینان پاتے ہیں (تَطمَئِنّ)",
+        "ar": "تَطْمَئِنُّ"
+      },
+      {
+        "en": "are tested (tubtala)",
+        "ur": "آزمائے جاتے ہیں (تُبتَلٰی)",
+        "ar": "تُبتَلى"
+      },
+      {
+        "en": "are sealed (tukhtam)",
+        "ur": "مہر لگا دیے جاتے ہیں (تُختَم)",
+        "ar": "تُختَم"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "13:28. The word means a deep settling, the way a frightened bird finally goes still. That stillness is available to you any moment you turn to dhikr.",
+      "ur": "۱۳:۲۸ ۔ اس لفظ کا مطلب ہے ایک گہرا سکون، جیسے ڈرا ہوا پرندہ آخرکار ٹھہر جائے۔ یہ سکون ہر اس لمحے دستیاب ہے جب آپ ذکر کی طرف رخ کریں۔",
+      "ar": "۱۳:۲۸. تعني الكلمة سكوناً عميقاً، كطائرٍ مذعور يهدأ أخيراً. وهذا السكون في متناولك في أيّ لحظة تتوجّه فيها إلى الذكر."
+    },
+    "arabicText": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+    "source": "Qur'an 13:28"
+  },
+  {
+    "id": "dc_047",
+    "format": "fillInBlank",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "An invitation from your Lord: \"Call upon Me; I will ____ you.\"  (Ghafir)",
+      "ur": "آپ کے رب کی طرف سے ایک دعوت: \"مجھ سے دعا کرو؛ میں ____ تمہاری۔\" (سورۃ غافر)",
+      "ar": "دعوةٌ من ربّك: \"ٱدْعُونِى ____ لَكُمْ\" (سورة غافر)"
+    },
+    "options": [
+      {
+        "en": "respond to (astajib)",
+        "ur": "قبول کروں گا (اَستَجِب)",
+        "ar": "أَسْتَجِبْ"
+      },
+      {
+        "en": "test (abtali)",
+        "ur": "آزمائش کروں گا (اَبتَلِی)",
+        "ar": "أَبْتَلِى"
+      },
+      {
+        "en": "forget (ansa)",
+        "ur": "بھول جاؤں گا (اَنسٰی)",
+        "ar": "أَنسَ"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "40:60 — du'a is described as worship itself. You're not bothering Allah by asking; you're answering an invitation He extended first.",
+      "ur": "۴۰:۶۰ — دعا کو خود عبادت قرار دیا گیا ہے۔ آپ اللہ سے مانگ کر اسے تکلیف نہیں دیتے؛ بلکہ آپ اس دعوت کو قبول کر رہے ہیں جو اس نے پہلے آپ کو دی تھی۔",
+      "ar": "۴۰:۶۰ — وُصفت الدعاء بأنها عبادة بحدّ ذاتها. لستَ تُزعج الله بدعائك؛ بل أنت تلبّي دعوةً بدأ هو بتوجيهها إليك."
+    },
+    "arabicText": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+    "source": "Qur'an 40:60"
+  },
+  {
+    "id": "dc_048",
+    "format": "flashcard",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "When worry and grief crowd in, the Prophet ﷺ taught a specific du'a. Can you recall it?",
+      "ur": "جب فکر اور غم گھیر لیں، تو نبی ﷺ نے ایک خاص دعا سکھائی۔ کیا آپ اسے یاد کر سکتے ہیں؟",
+      "ar": "حين يتكاثف الهمُّ والحزن، علّم النبيُّ ﷺ دعاءً بعينه. هل تستطيع استحضاره؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Allahumma inni a'udhu bika minal-hammi wal-hazan' — O Allah, I seek refuge in You from anxiety and grief.",
+      "ur": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ — اے اللہ، میں پریشانی اور غم سے تیری پناہ مانگتا ہوں۔",
+      "ar": "«اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ» — اللهم إني أعوذ بك من القلق والغم."
+    },
+    "explanation": {
+      "en": "From a longer du'a in Sahih al-Bukhari. Naming the feeling to Allah is itself the first relief.",
+      "ur": "صحیح بخاری کی ایک طویل دعا سے۔ اپنے احساس کو اللہ کے سامنے نام لے کر رکھنا ہی پہلی راحت ہے۔",
+      "ar": "من دعاءٍ أطول في صحيح البخاري. تسمية الشعور وعرضه على الله هي بذاتها أول خطوة في النجاة."
+    },
+    "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_049",
+    "format": "flashcard",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "The Prophet ﷺ named two short phrases as 'light on the tongue, heavy on the scale, and beloved to the Most Merciful.' What are they?",
+      "ur": "نبی ﷺ نے دو چھوٹے جملوں کو ''زبان پر ہلکے، میزان میں بھاری اور رحمٰن کو محبوب'' بتایا۔ وہ کون سے ہیں؟",
+      "ar": "سمّى النبيُّ ﷺ عبارتين قصيرتين بأنهما «خفيفتان على اللسان، ثقيلتان في الميزان، حبيبتان إلى الرحمن». ما هما؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'SubhanAllahi wa bihamdih, SubhanAllahil-'Azim' — Glory be to Allah and His praise; glory be to Allah the Magnificent.",
+      "ur": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ — اللہ پاک ہے اور تمام تعریفیں اسی کے لیے ہیں؛ اللہ، جو عظیم ہے، پاک ہے۔",
+      "ar": "«سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ» — تنزيهٌ لله وحمدٌ له؛ تنزيهٌ لله العظيم."
+    },
+    "explanation": {
+      "en": "From Bukhari & Muslim. A tiny act of dhikr, weightless to say, can be among the heaviest good on your record. Keep your tongue moist with it through the day.",
+      "ur": "بخاری و مسلم سے۔ ذکر کا ایک معمولی عمل، کہنے میں بے وزن، لیکن آپ کے اعمال نامے میں سب سے بھاری ہو سکتا ہے۔ دن بھر اپنی زبان کو اس سے تر رکھیں۔",
+      "ar": "من البخاري ومسلم. عملٌ صغير من الذكر، لا يُكلّف في النطق شيئاً، قد يكون من أثقل الحسنات في صحيفتك. أبقِ لسانك رطباً به طوال اليوم."
+    },
+    "arabicText": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_050",
+    "format": "trueFalse",
+    "topic": "dhikr",
+    "prompt": {
+      "en": "The Prophet ﷺ compared the one who remembers his Lord and the one who does not to the living and the dead.",
+      "ur": "نبی ﷺ نے اپنے رب کو یاد کرنے والے اور نہ کرنے والے کی مثال زندہ اور مردہ سے دی۔",
+      "ar": "شبّه النبيُّ ﷺ مَن يذكر ربَّه ومَن لا يذكره بالحيّ والميّت."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'The likeness of the one who remembers his Lord and the one who does not is that of the living and the dead' (Sahih al-Bukhari). Dhikr is what keeps the heart awake and alive.",
+      "ur": "\"اپنے رب کو یاد کرنے والے اور نہ کرنے والے کی مثال زندہ اور مردہ کی مثال ہے\" (صحیح بخاری)۔ ذکر وہ چیز ہے جو دل کو بیدار اور زندہ رکھتی ہے۔",
+      "ar": "«مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لَا يَذْكُرُهُ مَثَلُ الْحَيِّ وَالْمَيِّتِ» (صحيح البخاري). الذكرُ هو ما يُبقي القلب صاحياً حيّاً."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_051",
+    "format": "multipleChoice",
+    "topic": "khuluq",
+    "prompt": {
+      "en": "The Prophet ﷺ summed up the purpose of his mission in one phrase. Which?",
+      "ur": "نبی ﷺ نے اپنی بعثت کا مقصد ایک جملے میں بیان فرمایا۔ وہ کون سا تھا؟",
+      "ar": "لخّص النبيُّ ﷺ الغاية من بعثته في عبارة واحدة. ما هي؟"
+    },
+    "options": [
+      {
+        "en": "'I was sent to perfect good character.'",
+        "ur": "\"مجھے اچھے اخلاق کو مکمل کرنے کے لیے بھیجا گیا ہے۔\"",
+        "ar": "«إنما بُعثتُ لأُتمِّم مكارم الأخلاق»"
+      },
+      {
+        "en": "'I was sent to gather wealth.'",
+        "ur": "\"مجھے مال جمع کرنے کے لیے بھیجا گیا ہے۔\"",
+        "ar": "«إنما بُعثتُ لجمع الأموال»"
+      },
+      {
+        "en": "'I was sent to build mosques.'",
+        "ur": "\"مجھے مسجدیں بنانے کے لیے بھیجا گیا ہے۔\"",
+        "ar": "«إنما بُعثتُ لبناء المساجد»"
+      },
+      {
+        "en": "'I was sent to win battles.'",
+        "ur": "\"مجھے جنگیں جیتنے کے لیے بھیجا گیا ہے۔\"",
+        "ar": "«إنما بُعثتُ للنصر في المعارك»"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "Reported by Imam Ahmad and al-Bukhari in al-Adab al-Mufrad. The whole mission, distilled: better people. How you treat others isn't a side-topic of faith; it's close to the point of it.",
+      "ur": "امام احمد اور بخاری نے الادب المفرد میں روایت کیا ہے۔ پوری بعثت کا خلاصہ: بہتر انسان۔ دوسروں کے ساتھ آپ کا برتاؤ ایمان کا کوئی ضمنی موضوع نہیں؛ یہ اس کے مقصد کے قریب ترین ہے۔",
+      "ar": "رواه الإمام أحمد والبخاري في الأدب المفرد. خلاصة البعثة كلّها: أناسٌ أفضل. فكيفية معاملتك للآخرين ليست موضوعاً هامشياً في الدين؛ بل هي قريبة من جوهره."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari, al-Adab al-Mufrad"
+  },
+  {
+    "id": "dc_052",
+    "format": "multipleChoice",
+    "topic": "khuluq",
+    "prompt": {
+      "en": "Allah praised the Prophet ﷺ in 68:4 with the words 'And indeed, you are upon a ____.'",
+      "ur": "اللہ نے ۶۸:۴ میں نبی ﷺ کی تعریف ان الفاظ سے کی: \"اور بے شک آپ ایک ____ پر ہیں۔\"",
+      "ar": "مدح الله النبيَّ ﷺ في ۶۸:۴ بقوله: «وَإِنَّكَ لَعَلَىٰ ____ عَظِيمٍ»"
+    },
+    "options": [
+      {
+        "en": "great character (khuluq 'azim)",
+        "ur": "عظیم اخلاق (خُلُقٍ عَظِیم) پر",
+        "ar": "خُلُقٍ عظيم"
+      },
+      {
+        "en": "clear light",
+        "ur": "روشن نور پر",
+        "ar": "نورٍ مبين"
+      },
+      {
+        "en": "straight path",
+        "ur": "سیدھے راستے پر",
+        "ar": "صراطٍ مستقيم"
+      },
+      {
+        "en": "heavy trust",
+        "ur": "بھاری امانت پر",
+        "ar": "أمانةٍ ثقيلة"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "68:4. The highest praise given to him in the Qur'an is about his character. When 'Aisha was asked about his manners, she said simply, 'His character was the Qur'an.'",
+      "ur": "۶۸:۴ ۔ قرآن میں ان کی سب سے اعلیٰ تعریف ان کے اخلاق کے بارے میں ہے۔ جب عائشہ رضی اللہ عنہا سے ان کے اخلاق کے بارے میں پوچھا گیا تو انہوں نے بس اتنا کہا: \"ان کا اخلاق قرآن تھا۔\"",
+      "ar": "۶۸:۴. أعلى مديح نزل به القرآن للنبي ﷺ كان في أخلاقه. ولمّا سُئلت عائشةُ رضي الله عنها عن خُلُقه، قالت ببساطة: «كان خُلُقه القرآن»."
+    },
+    "arabicText": null,
+    "source": "Qur'an 68:4"
+  },
+  {
+    "id": "dc_053",
+    "format": "fillInBlank",
+    "topic": "khuluq",
+    "prompt": {
+      "en": "\"And indeed, you are upon a great ____.\"  (al-Qalam, describing the Prophet ﷺ)",
+      "ur": "\"اور بے شک آپ ایک عظیم ____ پر ہیں۔\" (سورۃ القلم، نبی ﷺ کی تعریف میں)",
+      "ar": "«وَإِنَّكَ لَعَلَىٰ ____ عَظِيمٍۢ» (سورة القلم، في وصف النبي ﷺ)"
+    },
+    "options": [
+      {
+        "en": "character (khuluq)",
+        "ur": "اخلاق (خُلُق) پر",
+        "ar": "خُلُقٍ"
+      },
+      {
+        "en": "kingdom (mulk)",
+        "ur": "سلطنت (مُلک) پر",
+        "ar": "مُلكٍ"
+      },
+      {
+        "en": "path (sirat)",
+        "ur": "راستے (صراط) پر",
+        "ar": "صِرَاطٍ"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "68:4 — 'khuluq.' Of all the qualities Allah could have praised, He chose character. It's the most attainable kind of greatness, open to anyone willing to work on themselves.",
+      "ur": "۶۸:۴ — ''خلق۔'' اللہ جتنی خوبیوں کی تعریف کر سکتا تھا، ان میں سے اس نے اخلاق کو چنا۔ یہ سب سے قابلِ حصول عظمت ہے، ہر اس شخص کے لیے کھلی ہے جو اپنے آپ کو سنوارنے کا ارادہ رکھے۔",
+      "ar": "۶۸:۴ — «خُلُق». من بين كل الصفات التي كان بإمكان الله أن يُثني عليها، اختار الخُلُق. وهو أبلغ أنواع العظمة قُدرةً على البلوغ، مفتوحٌ لكلّ من أراد أن يُربّي نفسه."
+    },
+    "arabicText": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ",
+    "source": "Qur'an 68:4"
+  },
+  {
+    "id": "dc_054",
+    "format": "flashcard",
+    "topic": "khuluq",
+    "prompt": {
+      "en": "The Prophet ﷺ said that on the Day of Judgement, nothing placed on the believer's scale will be heavier than a particular quality. Which?",
+      "ur": "نبی ﷺ نے فرمایا کہ قیامت کے دن مومن کی میزان میں سب سے بھاری چیز کیا ہو گی؟",
+      "ar": "قال النبيُّ ﷺ إنه يوم القيامة لا شيءَ أثقل في ميزان المؤمن من خصلةٍ بعينها. ما هي؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "Good character (husn al-khuluq) — 'Nothing is heavier on the scale of the believer on the Day of Resurrection than good character.'",
+      "ur": "اچھا اخلاق (حُسنُ الخُلُق) — \"قیامت کے دن مومن کی میزان میں اچھے اخلاق سے زیادہ بھاری کوئی چیز نہیں۔\"",
+      "ar": "حُسن الخُلُق — «ما من شيءٍ أثقل في ميزان المؤمن يوم القيامة من حُسن الخُلُق»."
+    },
+    "explanation": {
+      "en": "From Sunan Abi Dawud / Tirmidhi. The gentle word, the patient response, the kept promise — small in the moment, but the heaviest good you can carry forward.",
+      "ur": "سنن ابو داؤد اور ترمذی سے۔ نرم بات، صبر کا جواب، نبھائی ہوئی بات — اس وقت چھوٹی، لیکن آگے لے جانے والا سب سے بھاری نیک عمل۔",
+      "ar": "من سنن أبي داود والترمذي. الكلمةُ اللطيفة، والجوابُ الحليم، والوعدُ الموفى — صغيرةٌ في لحظتها، غير أنها أثقل خيرٍ تحمله معك إلى الأمام."
+    },
+    "arabicText": null,
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_055",
+    "format": "trueFalse",
+    "topic": "khuluq",
+    "prompt": {
+      "en": "The Prophet ﷺ said the strong person is the one who overpowers others in wrestling.",
+      "ur": "نبی ﷺ نے فرمایا کہ طاقتور وہ ہے جو کشتی میں دوسروں کو پچھاڑ دے۔",
+      "ar": "قال النبيُّ ﷺ إن القويَّ هو من يَصرع الآخرين في المصارعة."
+    },
+    "options": null,
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "'The strong is not the one who throws others down; the strong is the one who controls himself when angry' (Bukhari & Muslim). Real strength is inward.",
+      "ur": "\"طاقتور وہ نہیں جو دوسروں کو پچھاڑ دے؛ طاقتور وہ ہے جو غصے میں اپنے آپ کو قابو میں رکھے\" (بخاری و مسلم)۔ اصل طاقت اندر سے ہے۔",
+      "ar": "«ليس الشديدُ بالصُّرَعَة؛ إنما الشديدُ الذي يملك نفسَه عند الغضب» (البخاري ومسلم). القوة الحقيقية تنبع من الداخل."
+    },
+    "arabicText": null,
+    "source": "Sahih al-Bukhari"
+  },
+  {
+    "id": "dc_056",
+    "format": "multipleChoice",
+    "topic": "afw",
+    "prompt": {
+      "en": "After all the years of harm, what did Yusuf say to the brothers who once threw him into a well?",
+      "ur": "برسوں کی تکلیف کے بعد یوسف علیہ السلام نے ان بھائیوں سے کیا کہا جنہوں نے انہیں کنوئیں میں پھینکا تھا؟",
+      "ar": "بعد سنواتٍ طويلة من الأذى، ماذا قال يوسفُ عليه السلام لإخوته الذين ألقوه في الجبّ؟"
+    },
+    "options": [
+      {
+        "en": "'No blame upon you today; may Allah forgive you.'",
+        "ur": "\"آج تم پر کوئی الزام نہیں؛ اللہ تمہیں معاف کرے۔\"",
+        "ar": "«لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ»"
+      },
+      {
+        "en": "'Now you will taste what you did.'",
+        "ur": "\"اب چکھو جو تم نے کیا تھا۔\"",
+        "ar": "«الآن ذوقوا ما فعلتم»"
+      },
+      {
+        "en": "'Leave, and never return.'",
+        "ur": "\"چلے جاؤ اور کبھی واپس نہ آنا۔\"",
+        "ar": "«اذهبوا ولا تعودوا أبداً»"
+      },
+      {
+        "en": "'Repay me what you owe.'",
+        "ur": "\"میرا حق ادا کرو۔\"",
+        "ar": "«ردّوا ما عليكم من حقّ»"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "12:92 — at the moment he held all the power, he chose to release them. Forgiveness is rarely about the other person deserving it; it's about you refusing to carry the poison any longer.",
+      "ur": "۱۲:۹۲ — جس لمحے ان کے ہاتھ میں پوری طاقت تھی، انہوں نے معافی کا راستہ چنا۔ معافی کا تعلق اکثر اس سے نہیں ہوتا کہ دوسرا اس کا حقدار ہے یا نہیں؛ بلکہ اس سے ہوتا ہے کہ آپ اس زہر کو اندر رکھنے سے انکار کر دیتے ہیں۔",
+      "ar": "۱۲:۹۲ — في اللحظة التي كانت فيها كلُّ القوة بيده، اختار أن يُطلق سراحهم. العفو نادراً ما يتعلق باستحقاق الطرف الآخر؛ بل يتعلق برفضك أن تبقى حاملاً لهذا السمّ في داخلك."
+    },
+    "arabicText": null,
+    "source": "Qur'an 12:92"
+  },
+  {
+    "id": "dc_057",
+    "format": "multipleChoice",
+    "topic": "afw",
+    "prompt": {
+      "en": "'Take to pardon, enjoin what is good, and turn away from the ignorant.' This three-part guidance to the Prophet ﷺ is in which surah?",
+      "ur": "\"معاف کرو، نیکی کا حکم دو اور جاہلوں سے کنارہ کرو۔\" — نبی ﷺ کو دی گئی یہ تین حصوں والی ہدایت کس سورت میں ہے؟",
+      "ar": "«خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَٰهِلِينَ» — هذا التوجيه الثلاثي للنبيِّ ﷺ في أيّ سورة؟"
+    },
+    "options": [
+      {
+        "en": "al-A'raf (7:199)",
+        "ur": "سورۃ الاعراف (۷:۱۹۹)",
+        "ar": "الأعراف (۷:۱۹۹)"
+      },
+      {
+        "en": "al-Baqara",
+        "ur": "سورۃ البقرہ",
+        "ar": "البقرة"
+      },
+      {
+        "en": "an-Nisa",
+        "ur": "سورۃ النساء",
+        "ar": "النساء"
+      },
+      {
+        "en": "al-Anfal",
+        "ur": "سورۃ الانفال",
+        "ar": "الأنفال"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "7:199 — when 'Aisha was asked about it, she said it was a command to take the easy way with people and overlook their faults. Pardon first; argue rarely.",
+      "ur": "۷:۱۹۹ — جب عائشہ رضی اللہ عنہا سے اس بارے میں پوچھا گیا تو انہوں نے کہا کہ یہ لوگوں کے ساتھ آسانی سے پیش آنے اور ان کی غلطیاں نظر انداز کرنے کا حکم ہے۔ پہلے معاف کریں؛ بحث شاذ ہی کریں۔",
+      "ar": "۷:۱۹۹ — لمّا سُئلت عائشةُ رضي الله عنها عنها قالت إنها أمرٌ بالتيسير مع الناس والتجاوز عن زلّاتهم. فالعفو أوّلاً، والجدال نادراً."
+    },
+    "arabicText": null,
+    "source": "Qur'an 7:199"
+  },
+  {
+    "id": "dc_058",
+    "format": "fillInBlank",
+    "topic": "afw",
+    "prompt": {
+      "en": "\"...Let them ____ and overlook. Would you not love that Allah should forgive you?\"  (an-Nur)",
+      "ur": "\"...چاہیے کہ وہ ____ اور درگزر کریں۔ کیا تم نہیں چاہتے کہ اللہ تمہیں معاف کرے؟\" (سورۃ النور)",
+      "ar": "«...وَلْيَ____ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ» — ما الكلمة المحذوفة في أمر العفو؟ (سورة النور)"
+    },
+    "options": [
+      {
+        "en": "pardon (ya'fu)",
+        "ur": "معاف کریں (یَعفُوا)",
+        "ar": "يَعفُوا (يُسامحوا)"
+      },
+      {
+        "en": "fight (yuqatil)",
+        "ur": "لڑیں (یُقاتِل)",
+        "ar": "يُقاتِلوا"
+      },
+      {
+        "en": "withhold (yamna')",
+        "ur": "روکیں (یَمنَع)",
+        "ar": "يَمنَعوا"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "24:22 — revealed about a man who had sworn to stop helping a relative who wronged him. The verse links it plainly: forgive, if you'd like to be forgiven.",
+      "ur": "۲۴:۲۲ — ایک شخص کے بارے میں نازل ہوئی جس نے قسم کھائی تھی کہ ایک رشتے دار کی مدد بند کر دے گا جس نے اسے تکلیف دی تھی۔ آیت نے سیدھا رشتہ جوڑا: معاف کرو، اگر تم چاہتے ہو کہ معافی ملے۔",
+      "ar": "۲۴:۲۲ — نزلت في رجلٍ أقسم أن يقطع المعونة عن قريبٍ آذاه. فربطت الآية الأمر صريحاً: اعفُ، إن أردتَ أن تُغفر."
+    },
+    "arabicText": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌ",
+    "source": "Qur'an 24:22"
+  },
+  {
+    "id": "dc_059",
+    "format": "flashcard",
+    "topic": "afw",
+    "prompt": {
+      "en": "The Prophet ﷺ promised that one thing only ever increases because of forgiving others, never decreases it. What?",
+      "ur": "نبی ﷺ نے وعدہ فرمایا کہ دوسروں کو معاف کرنے سے ایک چیز کم نہیں بلکہ بڑھتی ہے۔ وہ کیا ہے؟",
+      "ar": "وعد النبيُّ ﷺ أن شيئاً واحداً لا ينقصه عفوك عن الآخرين بل يزيده. ما هو؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "Honour — 'Charity does not decrease wealth, and Allah only increases a servant in honour ('izz) when he forgives.'",
+      "ur": "عزت — \"صدقہ مال کو کم نہیں کرتا، اور اللہ اپنے بندے کی عزت (عِزّ) صرف بڑھاتا ہے جب وہ معاف کرتا ہے۔\"",
+      "ar": "العزّة — «الصدقةُ لا تنقص مالاً، وما زاد اللهُ عبداً بعفوٍ إلا عِزّاً»."
+    },
+    "explanation": {
+      "en": "From Sahih Muslim. We fear forgiving makes us look weak. He promised the opposite: pardon raises you in Allah's sight, and in people's.",
+      "ur": "صحیح مسلم سے۔ ہمیں ڈر ہوتا ہے کہ معاف کرنا ہمیں کمزور ظاہر کرے گا۔ آپ ﷺ نے الٹا وعدہ کیا: معافی آپ کو اللہ کی نظر میں اور لوگوں کی نظر میں بلند کرتی ہے۔",
+      "ar": "من صحيح مسلم. نخشى أن العفو يُظهرنا ضعفاء. غير أنه ﷺ وعد بالعكس: العفوُ يرفعك في نظر الله وفي نظر الناس."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_060",
+    "format": "trueFalse",
+    "topic": "afw",
+    "prompt": {
+      "en": "The Prophet ﷺ taught that the best response to someone who severs ties, withholds, or wrongs you is to do the same back to them.",
+      "ur": "نبی ﷺ نے سکھایا کہ اگر کوئی رشتہ توڑے، روکے، یا ظلم کرے تو سب سے بہترین جواب ویسا ہی برتاؤ کرنا ہے۔",
+      "ar": "علّم النبيُّ ﷺ أن خير ردٍّ على من يقطعك أو يمنعك أو يظلمك أن تُعامله بالمثل."
+    },
+    "options": null,
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "He taught the opposite: 'Keep ties with the one who cuts you off, give to the one who withholds from you, and pardon the one who wrongs you' (reported by Ahmad). The high road is the prophetic road.",
+      "ur": "آپ ﷺ نے اس کے برعکس سکھایا: \"جو تم سے رشتہ توڑے اس سے جوڑو، جو تمہیں نہ دے اسے دو، اور جو تم پر ظلم کرے اسے معاف کرو\" (مسند احمد)۔ اعلیٰ راستہ ہی نبوی راستہ ہے۔",
+      "ar": "بل علّم الضدَّ تماماً: «صِلْ من قطعك، وأعطِ من حرمك، واعفُ عمّن ظلمك» (مسند أحمد). الطريقُ الأعلى هو الطريق النبوي."
+    },
+    "arabicText": null,
+    "source": "Musnad Ahmad"
+  },
+  {
+    "id": "dc_061",
+    "format": "multipleChoice",
+    "topic": "tawadu",
+    "prompt": {
+      "en": "'And the servants of the Most Merciful are those who walk upon the earth ____.' (25:63)",
+      "ur": "\"رحمٰن کے بندے وہ ہیں جو زمین پر ____ چلتے ہیں۔\" (۲۵:۶۳)",
+      "ar": "«وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ ____.» (۲۵:۶۳)"
+    },
+    "options": [
+      {
+        "en": "in humility (hawnan)",
+        "ur": "عاجزی سے (هَوناً)",
+        "ar": "هَوْنًا (في تواضع وسكينة)"
+      },
+      {
+        "en": "in haste",
+        "ur": "جلدی میں",
+        "ar": "مسرعين"
+      },
+      {
+        "en": "in fear",
+        "ur": "خوف سے",
+        "ar": "خائفين"
+      },
+      {
+        "en": "alone",
+        "ur": "اکیلے",
+        "ar": "وحيدين"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "25:63 — the very first trait Allah lists for His chosen servants is a humble walk. Greatness in His sight begins with carrying yourself gently among people.",
+      "ur": "۲۵:۶۳ — پہلی خوبی جو اللہ نے اپنے چنے ہوئے بندوں میں گنی وہ عاجزانہ چال ہے۔ اس کی نظر میں عظمت کا آغاز لوگوں کے درمیان نرمی سے چلنے سے ہوتا ہے۔",
+      "ar": "۲۵:۶۳ — أوّل صفةٍ يذكرها الله لعباده المختارين هي المشي الهيّن المتواضع. فالعظمة في نظره تبدأ بأن تحمل نفسك برفقٍ بين الناس."
+    },
+    "arabicText": null,
+    "source": "Qur'an 25:63"
+  },
+  {
+    "id": "dc_062",
+    "format": "fillInBlank",
+    "topic": "tawadu",
+    "prompt": {
+      "en": "\"The servants of the Most Merciful are those who walk upon the earth in ____, and when the ignorant address them, they say words of peace.\"  (al-Furqan)",
+      "ur": "\"رحمٰن کے بندے وہ ہیں جو زمین پر ____ چلتے ہیں، اور جب جاہل لوگ انہیں مخاطب کریں تو وہ سلامتی کے الفاظ کہتے ہیں۔\" (سورۃ الفرقان)",
+      "ar": "«وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ ____ وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا» (سورة الفرقان)"
+    },
+    "options": [
+      {
+        "en": "humility (hawn)",
+        "ur": "عاجزی (هَون) سے",
+        "ar": "هَوْنًا (تواضعاً)"
+      },
+      {
+        "en": "silence (samt)",
+        "ur": "خاموشی (صَمت) سے",
+        "ar": "صَمتاً"
+      },
+      {
+        "en": "glory ('izz)",
+        "ur": "شان (عِزّ) سے",
+        "ar": "عِزّاً"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "25:63. Humility and gentle speech are paired: the humble don't need to win every exchange. When provoked, they answer with peace and walk on.",
+      "ur": "۲۵:۶۳ ۔ عاجزی اور نرم گفتاری ساتھ ساتھ ہیں: عاجز انسان کو ہر بات جیتنے کی ضرورت نہیں ہوتی۔ جب اکسایا جائے تو وہ سلام کے ساتھ جواب دیتے اور آگے بڑھ جاتے ہیں۔",
+      "ar": "۲۵:۶۳. التواضع وليُونة القول متلازمان: المتواضع لا يحتاج أن يكسب كلَّ نقاش. حين يُستفَزّ، يردّ بالسلام ويمضي."
+    },
+    "arabicText": "وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًۭا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا",
+    "source": "Qur'an 25:63"
+  },
+  {
+    "id": "dc_063",
+    "format": "flashcard",
+    "topic": "tawadu",
+    "prompt": {
+      "en": "The Prophet ﷺ said charity never decreases wealth — and named a surprising effect of humbling oneself for Allah's sake. What is it?",
+      "ur": "نبی ﷺ نے فرمایا کہ صدقہ مال کو کم نہیں کرتا — اور اللہ کے لیے اپنے آپ کو چھوٹا کرنے کا ایک حیران کن اثر بتایا۔ وہ کیا ہے؟",
+      "ar": "قال النبيُّ ﷺ إن الصدقة لا تنقص مالاً — وذكر أثراً مُدهشاً للتواضع لله. ما هو؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'No one humbles himself for Allah except that Allah raises him.'",
+      "ur": "\"جو شخص اللہ کے لیے عاجزی اختیار کرے، اللہ اسے بلند کر دیتا ہے۔\"",
+      "ar": "«وما تواضع أحدٌ لله إلا رفعه الله»."
+    },
+    "explanation": {
+      "en": "From Sahih Muslim. The world says push to the top; the Prophet ﷺ said lower yourself and Allah lifts you. True status is something He grants, not something you grab.",
+      "ur": "صحیح مسلم سے۔ دنیا کہتی ہے اوپر چڑھنے کے لیے دھکا دو؛ نبی ﷺ نے کہا: اپنے آپ کو جھکاؤ اور اللہ تمہیں اٹھائے گا۔ اصل مقام وہ ہے جو وہ عطا کرتا ہے، نہ وہ جو آپ چھین لیتے ہیں۔",
+      "ar": "من صحيح مسلم. الدنيا تقول: تدافع للصعود؛ والنبيُّ ﷺ قال: اخفض نفسك وسيرفعك الله. فالمقامُ الحقيقي ما يهبه هو، لا ما تختطفه بنفسك."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_064",
+    "format": "trueFalse",
+    "topic": "tawadu",
+    "prompt": {
+      "en": "The Prophet ﷺ said that whoever has even a mustard seed's weight of arrogance in his heart will not enter Paradise.",
+      "ur": "نبی ﷺ نے فرمایا کہ جس کے دل میں رائی کے دانے کے برابر بھی تکبر ہو وہ جنت میں نہیں جائے گا۔",
+      "ar": "قال النبيُّ ﷺ إن مَن كان في قلبه مثقالُ ذرّة من كبرٍ لن يدخل الجنة."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "From Sahih Muslim — where he then defined arrogance simply as 'rejecting the truth and looking down on people.' Humility isn't weakness; it's the soil Paradise grows in.",
+      "ur": "صحیح مسلم سے — جہاں آپ ﷺ نے تکبر کی سادہ تعریف یوں کی: ''حق کو ٹھکرانا اور لوگوں کو حقیر جاننا۔'' عاجزی کمزوری نہیں؛ یہ وہ مٹی ہے جس میں جنت اگتی ہے۔",
+      "ar": "من صحيح مسلم — حيث عرّف الكبرَ ببساطة: «بَطَرُ الحقِّ وغَمطُ الناس». التواضعُ ليس ضعفاً؛ بل هو التربة التي تنبت فيها الجنة."
+    },
+    "arabicText": null,
+    "source": "Sahih Muslim"
+  },
+  {
+    "id": "dc_065",
+    "format": "multipleChoice",
+    "topic": "tafakkur",
+    "prompt": {
+      "en": "'Indeed, in the creation of the heavens and the earth and the alternation of night and day are signs for ____.' (3:190)",
+      "ur": "\"بے شک آسمانوں اور زمین کی تخلیق میں اور رات اور دن کے باری باری آنے جانے میں ____ کے لیے نشانیاں ہیں۔\" (۳:۱۹۰)",
+      "ar": "«إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّـ____.» (۳:۱۹۰)"
+    },
+    "options": [
+      {
+        "en": "people of understanding (ulul-albab)",
+        "ur": "عقل والوں (اولوالالباب) کے",
+        "ar": "أُو۟لِى ٱلْأَلْبَٰبِ (أصحاب العقول)"
+      },
+      {
+        "en": "the prophets only",
+        "ur": "صرف انبیاء کے",
+        "ar": "الأنبياء وحدهم"
+      },
+      {
+        "en": "the angels",
+        "ur": "فرشتوں کے",
+        "ar": "الملائكة"
+      },
+      {
+        "en": "the learned scholars",
+        "ur": "علماء کے",
+        "ar": "العلماء الراسخين"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "3:190 — the sky, the turning of day into night: signs hung in plain view, waiting for a reflecting heart. Tafakkur is simply slowing down enough to read them.",
+      "ur": "۳:۱۹۰ — آسمان، رات کا دن میں بدلنا: نشانیاں کھلی آنکھوں کے سامنے ہیں، ایک غور کرنے والے دل کی منتظر۔ تفکر بس اتنا ہے کہ کافی ٹھہر کر انہیں پڑھا جائے۔",
+      "ar": "۳:۱۹۰ — السماء، وتحوّل النهار إلى ليل: آياتٌ معلّقة في عيان الأبصار، تنتظر قلباً متأمِّلاً. والتفكّر لا يعدو أن يكون تمهُّلاً كافياً لقراءتها."
+    },
+    "arabicText": null,
+    "source": "Qur'an 3:190"
+  },
+  {
+    "id": "dc_066",
+    "format": "fillInBlank",
+    "topic": "tafakkur",
+    "prompt": {
+      "en": "\"...and they ____ upon the creation of the heavens and the earth, [saying] 'Our Lord, You did not create this in vain.'\"  (Al 'Imran)",
+      "ur": "\"...اور وہ آسمانوں اور زمین کی تخلیق میں ____ کرتے ہیں: اے ہمارے رب، تو نے یہ بے مقصد نہیں بنایا۔\" (آلِ عمران)",
+      "ar": "«...وَ____ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا» (آل عمران)"
+    },
+    "options": [
+      {
+        "en": "reflect (yatafakkarun)",
+        "ur": "غور و فکر (یَتَفَکَّرُون) کرتے ہیں",
+        "ar": "يَتَفَكَّرُون (يتأمّلون)"
+      },
+      {
+        "en": "argue (yujadilun)",
+        "ur": "بحث (یُجادِلُون) کرتے ہیں",
+        "ar": "يُجادِلون (يتناظرون)"
+      },
+      {
+        "en": "compete (yatanafasun)",
+        "ur": "مقابلہ (یَتَنافَسُون) کرتے ہیں",
+        "ar": "يَتَنافَسون (يتسابقون)"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "3:191 — the root of the app's name, Tafakkur. The reflecting believer looks at the universe and arrives at a Maker, and at their own smallness before Him. Take one honest look today.",
+      "ur": "۳:۱۹۱ — اس ایپ کے نام تفکر کی جڑ۔ غور کرنے والا مومن کائنات کو دیکھتا ہے اور ایک بنانے والے پر، اور اس کے سامنے اپنی حقیری پر پہنچتا ہے۔ آج ایک بار ایمانداری سے نظر ڈالیں۔",
+      "ar": "۳:۱۹۱ — جذرٌ لاسم هذا التطبيق «تفكّر». القلبُ المتأمِّل ينظر في الكون فيصل إلى الخالق، وإلى ضآلته أمامه. خُذ اليوم لحظةَ نظرٍ صادق واحدة."
+    },
+    "arabicText": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+    "source": "Qur'an 3:191"
+  },
+  {
+    "id": "dc_067",
+    "format": "flashcard",
+    "topic": "tafakkur",
+    "prompt": {
+      "en": "The believers in 3:191 remember Allah in three postures while reflecting on creation. What are they?",
+      "ur": "۳:۱۹۱ میں مومن کائنات پر غور کرتے ہوئے اللہ کو تین حالتوں میں یاد کرتے ہیں۔ وہ کون سی ہیں؟",
+      "ar": "يذكر المؤمنون في ۳:۱۹۱ اللهَ في ثلاثة أوضاع أثناء تفكّرهم في الخلق. ما هي؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "Standing, sitting, and lying on their sides — they remember Allah in every state, then reflect on the heavens and the earth.",
+      "ur": "کھڑے ہوئے، بیٹھے ہوئے، اور اپنی کروٹوں پر لیٹے ہوئے — ہر حال میں اللہ کو یاد کرتے اور پھر آسمانوں و زمین پر غور کرتے ہیں۔",
+      "ar": "قياماً وقعوداً وعلى جنوبهم — يذكرون الله في كلّ حال ثم يتأمّلون في السماوات والأرض."
+    },
+    "explanation": {
+      "en": "From 3:191. Reflection isn't reserved for a prayer mat; it can fill the in-between moments of your day — waiting, walking, resting. The reflective heart is never off-duty.",
+      "ur": "۳:۱۹۱ سے۔ غور و فکر کسی جائے نماز کے لیے مخصوص نہیں؛ یہ دن کے درمیانی لمحوں کو بھر سکتا ہے — انتظار میں، چلتے ہوئے، آرام کرتے ہوئے۔ غور کرنے والا دل کبھی فارغ نہیں رہتا۔",
+      "ar": "من ۳:۱۹۱. التأمّل لا يُحجز لسجّادة الصلاة؛ بل يمكنه أن يملأ اللحظات الفاصلة في يومك — انتظاراً، ومشياً، وراحة. فالقلبُ المتفكّر لا يعرف عطلة."
+    },
+    "arabicText": null,
+    "source": "Qur'an 3:191"
+  },
+  {
+    "id": "dc_068",
+    "format": "trueFalse",
+    "topic": "tafakkur",
+    "prompt": {
+      "en": "Early Muslims described a moment of sincere reflection (tafakkur) as being able to outweigh long stretches of routine worship in benefit.",
+      "ur": "ابتدائی مسلمانوں نے کہا کہ ایک لمحے کا سچا تفکر (غور و فکر) معمول کی طویل عبادت سے فائدے میں بڑھ سکتا ہے۔",
+      "ar": "وصف المسلمون الأوائل لحظةً من التفكّر الصادق بأنها قد تفوق في الفائدة عبادةً روتينية طويلة."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "A well-known saying of the early generations runs, 'An hour's reflection is better than a year's worship.' It isn't a hadith of the Prophet ﷺ, but it captures the Qur'an's repeated call to think — not just to do.",
+      "ur": "ابتدائی نسلوں کا یہ مشہور قول ہے: ''ایک گھڑی کا غور ایک سال کی عبادت سے بہتر ہے۔'' یہ نبی ﷺ کی حدیث نہیں، لیکن یہ قرآن کی اس بار بار کی پکار کو سمیٹتا ہے — صرف عمل نہیں، سوچو بھی۔",
+      "ar": "من الأقوال المأثورة عن السلف: «تفكّرُ ساعةٍ خيرٌ من عبادة سنة». وهو ليس حديثاً نبوياً، لكنه يُعبّر عن نداء القرآن المتكرّر بالتدبّر والتأمّل، لا الفعل وحده."
+    },
+    "arabicText": null,
+    "source": null
+  },
+  {
+    "id": "dc_069",
+    "format": "flashcard",
+    "topic": "rida",
+    "prompt": {
+      "en": "Knowing hearts turn and waver, the Prophet ﷺ would often repeat a short du'a asking Allah to keep his heart firm. Can you recall it?",
+      "ur": "دلوں کے پھرتے اور بدلتے رہنے کو جانتے ہوئے، نبی ﷺ اکثر ایک مختصر دعا دہراتے تھے جس میں اللہ سے دل کو ثابت رکھنے کی درخواست ہوتی۔ کیا آپ اسے یاد کر سکتے ہیں؟",
+      "ar": "إذ يعلم نبيُّنا ﷺ أن القلوب تتقلّب وتتحوّل، كان كثيراً ما يُردّد دعاءً قصيراً يسأل الله فيه تثبيت قلبه. هل تستطيع استحضاره؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Ya muqallibal-quloob, thabbit qalbi 'ala deenik' — O Turner of hearts, keep my heart firm upon Your religion.",
+      "ur": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ — اے دلوں کو پھیرنے والے، میرے دل کو اپنے دین پر ثابت رکھ۔",
+      "ar": "«يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ» — يا مُحوِّل القلوب، اجعل قلبي ثابتاً على دينك."
+    },
+    "explanation": {
+      "en": "From Jami' at-Tirmidhi. Even the most settled heart needs anchoring. Contentment isn't a mood that arrives once; it's something you keep asking Allah to renew.",
+      "ur": "جامع ترمذی سے۔ سب سے مستحکم دل کو بھی سہارے کی ضرورت ہوتی ہے۔ قناعت کوئی ایسا موڈ نہیں جو ایک بار آ کر ٹھہر جائے؛ یہ وہ چیز ہے جسے آپ بار بار اللہ سے تازہ کرنے کی درخواست کرتے ہیں۔",
+      "ar": "من جامع الترمذي. حتى أكثر القلوب رسوخاً يحتاج إلى مرساة. والرضا ليس حالةً تأتي مرّةً فتستقرّ؛ بل هو شيءٌ تستمرّ في مسألة الله أن يجدّده."
+    },
+    "arabicText": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "source": "Jami' at-Tirmidhi"
+  },
+  {
+    "id": "dc_070",
+    "format": "trueFalse",
+    "topic": "tawadu",
+    "prompt": {
+      "en": "The Qur'an describes the humble servants of the Most Merciful as answering harsh, ignorant speech with words of peace.",
+      "ur": "قرآن رحمٰن کے عاجز بندوں کو یوں بیان کرتا ہے کہ جب جاہل لوگ ان سے بدتمیزی سے بات کریں تو وہ سلامتی کے الفاظ کہتے ہیں۔",
+      "ar": "يصف القرآن عباد الرحمن المتواضعين بأنهم حين يخاطبهم الجاهلون بجفاءٍ يردّون بكلمات السلام."
+    },
+    "options": null,
+    "correctIndex": 1,
+    "answer": null,
+    "explanation": {
+      "en": "'...and when the ignorant address them, they say words of peace' (25:63). Humility shows itself most when you're provoked — and choose calm over the last word.",
+      "ur": "\"...اور جب جاہل لوگ انہیں مخاطب کریں تو وہ سلامتی کے الفاظ کہتے ہیں\" (۲۵:۶۳)۔ عاجزی سب سے زیادہ اس وقت ظاہر ہوتی ہے جب اکسایا جائے — اور آپ آخری بات کہنے کے بجائے سکون کو چنیں۔",
+      "ar": "«وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًۭا» (۲۵:۶۳). التواضع يتجلّى أكثر ما يتجلّى حين تُستفَزّ — فتختار الهدوء على امتلاك الكلمة الأخيرة."
+    },
+    "arabicText": null,
+    "source": "Qur'an 25:63"
+  },
+  {
+    "id": "dc_071",
+    "format": "fillInBlank",
+    "topic": "tafakkur",
+    "prompt": {
+      "en": "\"Indeed, in the creation of the heavens and the earth and the alternation of night and day are ____ for people of understanding.\"  (Al 'Imran)",
+      "ur": "\"بے شک آسمانوں اور زمین کی تخلیق میں اور رات اور دن کے باری باری آنے جانے میں عقل والوں کے لیے ____ ہیں۔\" (آلِ عمران)",
+      "ar": "«إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ ____ لِّأُو۟لِى ٱلْأَلْبَٰبِ» (آل عمران)"
+    },
+    "options": [
+      {
+        "en": "signs (ayat)",
+        "ur": "نشانیاں (آیات)",
+        "ar": "لَءَايَٰتٍ (نشانياں)"
+      },
+      {
+        "en": "rewards (ajr)",
+        "ur": "اجر (ajr)",
+        "ar": "أُجوراً (مكافآت)"
+      },
+      {
+        "en": "burdens (asar)",
+        "ur": "بوجھ (آثار)",
+        "ar": "أَثقالاً (أعباء)"
+      }
+    ],
+    "correctIndex": 0,
+    "answer": null,
+    "explanation": {
+      "en": "3:190. The universe is described as a book of signs. Tafakkur is learning to read it — letting a sunrise or a starlit sky turn your thoughts back to the One who made them.",
+      "ur": "۳:۱۹۰ ۔ کائنات کو نشانیوں کی کتاب بیان کیا گیا ہے۔ تفکر اسے پڑھنا سیکھنا ہے — کسی طلوعِ آفتاب یا ستاروں بھری رات کو دیکھ کر اپنے خیالات کو اس کی طرف موڑنا جس نے یہ سب بنایا ہے۔",
+      "ar": "۳:۱۹۰. وُصفت الكون بأنه كتابٌ من الآيات. والتفكّر هو تعلُّم قراءته — أن يقلب شروقُ الشمس أو سماءٌ مرصّعة بالنجوم أفكارَك نحو مَن خلق ذلك كلّه."
+    },
+    "arabicText": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+    "source": "Qur'an 3:190"
+  },
+  {
+    "id": "dc_072",
+    "format": "flashcard",
+    "topic": "tawakkul",
+    "prompt": {
+      "en": "The Prophet ﷺ taught a du'a to say on leaving the house that places your whole outing in Allah's hands. How does it go?",
+      "ur": "نبی ﷺ نے گھر سے نکلتے وقت پڑھنے کی ایک دعا سکھائی جو پورے باہر کے سفر کو اللہ کے سپرد کر دیتی ہے۔ وہ کیسے ہے؟",
+      "ar": "علّم النبيُّ ﷺ دعاءً يُقال عند الخروج من البيت يُسلّم فيه المرءُ رحلتَه بأكملها إلى الله. كيف يكون؟"
+    },
+    "options": null,
+    "correctIndex": null,
+    "answer": {
+      "en": "'Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah' — In the name of Allah, I rely upon Allah; there is no might nor power except with Allah.",
+      "ur": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ — اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا؛ نہ کوئی طاقت ہے نہ قوت مگر اللہ کے ذریعے۔",
+      "ar": "«بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ» — بسم الله، توكّلتُ على الله، ولا حول ولا قوّة إلا بالله."
+    },
+    "explanation": {
+      "en": "From Sunan Abi Dawud / Tirmidhi. He said whoever says it is told: 'You are guided, defended, and protected.' Stepping out with these words is tawakkul woven into an ordinary moment.",
+      "ur": "سنن ابو داؤد اور ترمذی سے۔ آپ ﷺ نے فرمایا کہ جو یہ کہے اسے کہا جاتا ہے: ''تجھے ہدایت دی گئی، بچاؤ کیا گیا اور حفاظت میں لے لیا گیا۔'' ان الفاظ کے ساتھ گھر سے قدم رکھنا ایک عام لمحے میں توکل بن جاتا ہے۔",
+      "ar": "من سنن أبي داود والترمذي. قال ﷺ إن مَن قالها قيل له: «هُدِيتَ وكُفِيتَ ووُقِيتَ». والخروجُ بهذه الكلمات هو التوكّل مُنسوجاً في لحظة عادية."
+    },
+    "arabicText": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "source": "Jami' at-Tirmidhi"
+  }
+]

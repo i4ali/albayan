@@ -2,7 +2,7 @@
 //  ProgressTab.swift
 //  AlBayan
 //
-//  NavigationView wrapper for ProgressRingsView
+//  NavigationStack wrapper for ProgressRingsView
 //
 
 import SwiftUI
@@ -11,14 +11,13 @@ struct ProgressTab: View {
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack {
                 AdaptiveModernBackground()
                 ProgressRingsView()
             }
             .navigationBarHidden(true)
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

@@ -55,6 +55,9 @@ struct AlBayanApp: App {
                     await NotificationManager.shared.refreshOnActivation()
                     await NotificationHistoryStore.shared.syncDelivered()
                 }
+                DailyChallengeProvider.shared.refreshIfDayChanged()
+                DailyCrosswordProvider.shared.refreshIfDayChanged()
+                DailyCrosswordManager.shared.refreshForToday()
             }
         }
     }

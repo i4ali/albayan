@@ -11,11 +11,13 @@ import SwiftUI
 struct PropheticParallelsView: View {
     @StateObject private var parallelsManager = PropheticParallelsManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var premiumManager = PremiumManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var searchText = ""
     @State private var selectedCategory: ParallelCategory? = nil
     @State private var selectedParallel: PropheticParallel?
     @State private var navigateToDetail = false
+    @State private var showPaywall = false
 
     var filteredParallels: [PropheticParallel] {
         let searchFiltered = searchText.isEmpty ? parallelsManager.parallels : parallelsManager.search(query: searchText)
@@ -33,6 +35,16 @@ struct PropheticParallelsView: View {
             grouped[parallel.category, default: []].append(parallel)
         }
         return grouped.sorted { $0.key.displayName < $1.key.displayName }
+    }
+
+    // The single free item: first card shown in the default (unfiltered) grouped view.
+    // Computed over the full dataset so it stays stable regardless of search/category filter.
+    private var freeParallelID: String? {
+        var grouped: [ParallelCategory: [PropheticParallel]] = [:]
+        for parallel in parallelsManager.parallels {
+            grouped[parallel.category, default: []].append(parallel)
+        }
+        return grouped.sorted { $0.key.displayName < $1.key.displayName }.first?.value.first?.id
     }
 
     var body: some View {
@@ -159,10 +171,15 @@ struct PropheticParallelsView: View {
                                 ForEach(groupedParallels, id: \.0) { category, parallels in
                                     Section {
                                         ForEach(parallels) { parallel in
-                                            PropheticParallelCard(parallel: parallel)
+                                            let isLocked = !premiumManager.canAccessExploreItem(isFirst: parallel.id == freeParallelID)
+                                            PropheticParallelCard(parallel: parallel, isLocked: isLocked)
                                                 .onTapGesture {
-                                                    selectedParallel = parallel
-                                                    navigateToDetail = true
+                                                    if isLocked {
+                                                        showPaywall = true
+                                                    } else {
+                                                        selectedParallel = parallel
+                                                        navigateToDetail = true
+                                                    }
                                                 }
                                         }
                                     } header: {
@@ -217,6 +234,9 @@ struct PropheticParallelsView: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
     }
 }
 
@@ -224,6 +244,7 @@ struct PropheticParallelsView: View {
 
 struct PropheticParallelCard: View {
     let parallel: PropheticParallel
+    var isLocked: Bool = false
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
@@ -309,10 +330,14 @@ struct PropheticParallelCard: View {
 
             Spacer()
 
-            // Chevron
-            Image(systemName: "chevron.right")
-                .font(.system(size: 14, weight: .medium))
-                .foregroundColor(themeManager.tertiaryText)
+            // Trailing accessory — lock pill when premium-gated
+            if isLocked {
+                PremiumBadgeView(size: .medium)
+            } else {
+                Image(systemName: "chevron.right")
+                    .font(.system(size: 14, weight: .medium))
+                    .foregroundColor(themeManager.tertiaryText)
+            }
         }
         .padding(20)
         .background {

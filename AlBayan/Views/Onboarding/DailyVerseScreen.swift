@@ -56,7 +56,7 @@ struct DailyVerseScreen: View {
 
                         Text("Start each day with a meaningful verse")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(16, semibold: false)
+                                  ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
@@ -82,7 +82,7 @@ struct DailyVerseScreen: View {
 
                                     Text(monthData.name)
                                         .font(themeManager.isSapphire
-                                              ? SapphireFont.serif(16)
+                                              ? SapphireFont.serif(18)
                                               : .system(size: 16, weight: .bold))
                                         .foregroundColor(themeManager.primaryText)
                                 }
@@ -109,7 +109,7 @@ struct DailyVerseScreen: View {
                                 // Translation
                                 Text(verse.translation)
                                     .font(themeManager.isSapphire
-                                          ? SapphireFont.serif(15, semibold: false)
+                                          ? SapphireFont.serif(17, semibold: false)
                                           : .system(size: 15, weight: .regular))
                                     .foregroundColor(themeManager.secondaryText)
                                     .lineSpacing(4)
@@ -170,7 +170,7 @@ struct DailyVerseScreen: View {
 
                             Text("Based on Islamic Calendar")
                                 .font(themeManager.isSapphire
-                                      ? SapphireFont.serif(16)
+                                      ? SapphireFont.serif(18)
                                       : .system(size: 16, weight: .semibold))
                                 .foregroundColor(themeManager.primaryText)
 
@@ -179,7 +179,7 @@ struct DailyVerseScreen: View {
 
                         Text("Verses are carefully selected for each Islamic month, ensuring spiritual relevance throughout the year.")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(14, semibold: false)
+                                  ? SapphireFont.serif(16, semibold: false)
                                   : .system(size: 14, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .lineSpacing(3)
@@ -206,7 +206,7 @@ struct DailyVerseScreen: View {
 
                                 Text(notificationsEnabled ? "Notifications Enabled" : "Enable Daily Verses")
                                     .font(themeManager.isSapphire
-                                          ? SapphireFont.serif(18)
+                                          ? SapphireFont.serif(20)
                                           : .system(size: 18, weight: .semibold))
                             }
                             .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
@@ -231,9 +231,9 @@ struct DailyVerseScreen: View {
                         if !notificationsEnabled {
                             Text("You can always enable this later in Settings")
                                 .font(themeManager.isSapphire
-                                      ? SapphireFont.serif(13, semibold: false)
-                                      : .system(size: 13, weight: .medium))
-                                .foregroundColor(themeManager.tertiaryText)
+                                      ? SapphireFont.serif(17, semibold: false)
+                                      : .system(size: 15, weight: .medium))
+                                .foregroundColor(themeManager.secondaryText)
                         }
                     }
                     .padding(.horizontal, 24)

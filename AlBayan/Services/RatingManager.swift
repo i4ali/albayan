@@ -7,10 +7,14 @@
 
 import Foundation
 import StoreKit
+import UIKit
 
 @MainActor
 class RatingManager: ObservableObject {
     static let shared = RatingManager()
+
+    /// Numeric App Store ID for "Tafakkur: Quran Reflection".
+    static let appStoreID = "6766222025"
 
     // MARK: - UserDefaults Keys
     private let launchCountKey = "albayan_launch_count"
@@ -53,6 +57,14 @@ class RatingManager: ObservableObject {
         if shouldPromptForRating() {
             requestReview()
         }
+    }
+
+    /// Opens the App Store product page directly in the review composer.
+    /// Apple's recommended pattern for an explicit, user-initiated "Leave a Review" action;
+    /// the in-app SKStoreReviewController prompt is rate-limited and shouldn't be tied to a button.
+    func openWriteReview() {
+        guard let url = URL(string: "https://apps.apple.com/app/id\(Self.appStoreID)?action=write-review") else { return }
+        UIApplication.shared.open(url)
     }
 
     // MARK: - Private Methods

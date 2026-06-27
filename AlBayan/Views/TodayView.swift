@@ -16,6 +16,7 @@ struct TodayView: View {
 
     @AppStorage("lastReadSurah") private var lastReadSurah = 0
     @AppStorage("lastReadVerse") private var lastReadVerse = 0
+    @AppStorage("userName") private var userName = ""
 
     @State private var showingNotifications = false
     @State private var todayDua: DailyDua?
@@ -44,6 +45,13 @@ struct TodayView: View {
         dataManager.getSurah(number: lastReadSurah)?.surah.englishName ?? "Al-Fātiḥa"
     }
 
+    /// Greeting that appends the onboarding name when set (falls back cleanly when blank).
+    private var greetingText: String {
+        let name = userName.trimmingCharacters(in: .whitespacesAndNewlines)
+        let base = "Assalāmu 'alaykum"
+        return name.isEmpty ? "\(base) 👋" : "\(base), \(name) 👋"
+    }
+
     // MARK: Body
 
     var body: some View {
@@ -52,7 +60,7 @@ struct TodayView: View {
                 topBar
                 hijriPill
                 VStack(alignment: .leading, spacing: 4) {
-                    Text("Assalāmu 'alaykum 👋")
+                    Text(greetingText)
                         .font(.system(size: 15, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                     if themeManager.isSapphire {
@@ -68,6 +76,8 @@ struct TodayView: View {
                 reminderCard
                 continueReadingSection
                 duaSection
+                DailyChallengeCard()
+                DailyCrosswordCard()
             }
             .padding(.horizontal, 24)
             .padding(.top, 8)

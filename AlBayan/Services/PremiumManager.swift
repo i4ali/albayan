@@ -91,4 +91,14 @@ class PremiumManager: ObservableObject {
         if dayNumber == 1 { return true }
         return isPremium
     }
+
+    /// Explore features (Life Moments, Prophetic Parallels, Q&A, Prophetic Stories):
+    /// only the very first item of each feature is free; everything else requires premium.
+    func canAccessExploreItem(isFirst: Bool) -> Bool {
+        if isFirst { return true }
+        return isPremium
+    }
+
+    func canAccessDailyChallenge() -> Bool { isPremium }
+    func canAccessDailyCrossword() -> Bool { isPremium }
 }

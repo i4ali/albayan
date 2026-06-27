@@ -42,7 +42,7 @@ struct MainTabView: View {
                 .tag(3)
 
             // Permanent Journey hub (lists every journey with live Hijri status).
-            JourneyHubView()
+            JourneyTab()
                 .toolbar(themeManager.isSapphire ? .hidden : .visible, for: .tabBar)
                 .tabItem {
                     Label { Text("Journey") } icon: { Image(systemName: "map") }
@@ -71,6 +71,17 @@ struct MainTabView: View {
             if DeepLinkRouter.shared.pendingVerse != nil {
                 selectedTab = 1
             }
+        }
+    }
+}
+
+/// NavigationStack wrapper so the Sapphire custom tab bar can reliably hide the native
+/// tab bar for the Journey tab (JourneyHubView has no navigation container of its own).
+struct JourneyTab: View {
+    var body: some View {
+        NavigationStack {
+            JourneyHubView()
+                .navigationBarHidden(true)
         }
     }
 }

@@ -14,7 +14,7 @@ struct OnboardingFlowView: View {
     @State private var notificationsEnabled = false
     @State private var progressNotificationsEnabled = false
 
-    private let totalPages = 10
+    private let totalPages = 13
 
     var body: some View {
         ZStack {
@@ -40,33 +40,45 @@ struct OnboardingFlowView: View {
                 QuickGemsScreen()
                     .tag(3)
 
-                // Screen 5: Progress Tracking
-                ProgressTrackingScreen()
+                // Screen 5: Quiz Feature
+                QuizFeatureScreen()
                     .tag(4)
 
-                // Screen 6: Quiz Feature
-                QuizFeatureScreen()
+                // Screen 6: Daily Challenge
+                DailyChallengeScreen()
                     .tag(5)
 
-                // Screen 7: Seasonal Features (Ramadan Journey)
-                SeasonalFeaturesScreen()
+                // Screen 7: Daily Crossword
+                DailyCrosswordScreen()
                     .tag(6)
 
-                // Screen 8: Daily Verse
-                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
+                // Screen 8: Seasonal Features (Ramadan Journey)
+                SeasonalFeaturesScreen()
                     .tag(7)
 
-                // Screen 9: Progress Notifications
-                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
+                // Screen 9: Progress Tracking
+                ProgressTrackingScreen()
                     .tag(8)
 
-                // Screen 10: Final Setup
+                // Screen 10: Profile setup (name + preferred language)
+                ProfileSetupScreen(currentPage: $currentPage)
+                    .tag(9)
+
+                // Screen 11: Daily Verse
+                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
+                    .tag(10)
+
+                // Screen 12: Progress Notifications
+                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
+                    .tag(11)
+
+                // Screen 13: Final Setup
                 FinalScreen(
                     onComplete: {
                         completeOnboarding()
                     }
                 )
-                .tag(9)
+                .tag(12)
             }
             .tabViewStyle(.page(indexDisplayMode: .always))
             .indexViewStyle(.page(backgroundDisplayMode: .always))

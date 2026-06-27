@@ -14,6 +14,7 @@ struct SettingsView: View {
     @StateObject private var progressManager = ProgressManager.shared
     @StateObject private var audioManager = AudioManager.shared
     @StateObject private var voiceManager = TTSVoiceManager.shared
+    @StateObject private var languageManager = CommentaryLanguageManager.shared
     @Environment(\.presentationMode) var presentationMode
     @State private var showingClearDataAlert = false
     @State private var clearDataMessage = ""
@@ -23,6 +24,9 @@ struct SettingsView: View {
     @State private var showingTTSVoiceSelection = false
     @State private var selectedTTSLanguage: CommentaryLanguage = .english
     @State private var showingTafsirSources = false
+    @AppStorage("userName") private var userName = ""
+    @State private var showingNameEditor = false
+    @State private var nameDraft = ""
     
     var body: some View {
         NavigationView {
@@ -64,6 +68,19 @@ struct SettingsView: View {
                     // Settings content
                     ScrollView {
                         VStack(spacing: 24) {
+                            // Profile Section
+                            SettingsSection(title: "Profile") {
+                                SettingsRow(
+                                    icon: "person.fill",
+                                    title: "Your Name",
+                                    subtitle: userName.isEmpty ? "Add your name" : userName,
+                                    iconColor: .blue
+                                ) {
+                                    nameDraft = userName
+                                    showingNameEditor = true
+                                }
+                            }
+
                             // Theme Section
                             SettingsSection(title: "Theme") {
                                 VStack(spacing: 12) {
@@ -81,9 +98,21 @@ struct SettingsView: View {
                                 .padding(12)
                             }
 
-                            // Reading Text Size Section
+                            // Reading Section
                             SettingsSection(title: "Reading") {
-                                ReadingSizeSettingRow()
+                                VStack(spacing: 12) {
+                                    ReadingSizeSettingRow()
+
+                                    // Preferred content language (applies app-wide)
+                                    SettingsRow(
+                                        icon: "globe",
+                                        title: "Preferred Language",
+                                        subtitle: languageManager.selectedLanguage.displayName,
+                                        iconColor: .green
+                                    ) {
+                                        withAnimation { languageManager.toggleLanguage() }
+                                    }
+                                }
                             }
 
                             // Daily Verse Notifications Section
@@ -308,15 +337,6 @@ struct SettingsView: View {
                                     }
 
                                     SettingsRow(
-                                        icon: "heart.fill",
-                                        title: "Support",
-                                        subtitle: "Rate or review the app",
-                                        iconColor: .red
-                                    ) {
-                                        // Could open App Store review
-                                    }
-
-                                    SettingsRow(
                                         icon: "trash.fill",
                                         title: "Clear All Local Data",
                                         subtitle: "Remove bookmarks, preferences, cache",
@@ -371,6 +391,15 @@ struct SettingsView: View {
             }
         } message: {
             Text("This will clear all your reading progress, streaks, and badges. This action cannot be undone.")
+        }
+        .alert("Your Name", isPresented: $showingNameEditor) {
+            TextField("Enter your name", text: $nameDraft)
+            Button("Cancel", role: .cancel) {}
+            Button("Save") {
+                userName = nameDraft.trimmingCharacters(in: .whitespacesAndNewlines)
+            }
+        } message: {
+            Text("This appears in your Today greeting.")
         }
     }
 

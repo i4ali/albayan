@@ -25,14 +25,6 @@ struct VerseSummaryView: View {
         UIDevice.current.userInterfaceIdiom == .pad
     }
 
-    // Check if any non-English translated content is available
-    private var hasAnyTranslatedContent: Bool {
-        guard let tafsir = verse.tafsir else { return false }
-        return tafsir.layer2short_urdu != nil ||
-               tafsir.layer2short_ar != nil ||
-               tafsir.layer2short_fr != nil
-    }
-
     // Check if quick overview data is available
     private var hasQuickOverview: Bool {
         return verse.tafsir?.quickOverview != nil
@@ -70,11 +62,6 @@ struct VerseSummaryView: View {
 
                     // Verse reference
                     verseReferenceView
-
-                    // Language selector (if any non-English content available)
-                    if hasAnyTranslatedContent {
-                        languageSelectorView
-                    }
 
                     // Summary content
                     summaryContentView
@@ -150,40 +137,6 @@ struct VerseSummaryView: View {
                         .stroke(themeManager.strokeColor, lineWidth: 1)
                 )
         )
-    }
-
-    private var languageSelectorView: some View {
-        HStack(spacing: 12) {
-            ForEach(CommentaryLanguage.supportedTafsirLanguages, id: \.self) { language in
-                Button(action: { languageManager.setLanguage(language) }) {
-                    Text(language.displayName)
-                        .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(
-                            selectedLanguage == language
-                                ? (themeManager.isSapphire ? themeManager.onAccentText : .white)
-                                : themeManager.tertiaryText
-                        )
-                        .padding(.horizontal, 16)
-                        .padding(.vertical, 8)
-                        .background {
-                            if selectedLanguage == language {
-                                RoundedRectangle(cornerRadius: 8)
-                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldGradient) : AnyShapeStyle(themeManager.accentGradient))
-                            } else {
-                                RoundedRectangle(cornerRadius: 8)
-                                    .fill(themeManager.isSapphire ? AnyShapeStyle(themeManager.goldChipFill) : AnyShapeStyle(Color.clear))
-                            }
-                        }
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 8)
-                                .stroke(
-                                    themeManager.isSapphire ? themeManager.accentColor : themeManager.strokeColor,
-                                    lineWidth: selectedLanguage == language ? (themeManager.isSapphire ? 1 : 0) : 1
-                                )
-                        )
-                }
-            }
-        }
     }
 
     private var summaryContentView: some View {

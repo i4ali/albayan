@@ -2,7 +2,7 @@
 //  ExploreTab.swift
 //  AlBayan
 //
-//  NavigationView wrapper for ExploreView
+//  NavigationStack wrapper for ExploreView
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ struct ExploreTab: View {
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack {
                 // Adaptive background with floating elements
                 AdaptiveModernBackground()
@@ -20,7 +20,6 @@ struct ExploreTab: View {
             }
             .navigationBarHidden(true)
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

@@ -131,7 +131,7 @@ struct QuickGemsScreen: View {
 
                         Text("Al-Baqarah 255")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(14, semibold: false)
+                                  ? SapphireFont.serif(16, semibold: false)
                                   : .system(size: 14, weight: .semibold))
                             .foregroundColor(themeManager.secondaryText)
                     }
@@ -219,7 +219,7 @@ struct DemoConceptBubble: View {
 
             Text(title)
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(13)
+                      ? SapphireFont.serif(15)
                       : .system(size: 13, weight: .semibold))
                 .foregroundColor(themeManager.primaryText)
                 .lineLimit(1)
@@ -279,7 +279,7 @@ struct DemoInsightCard: View {
 
                 Text(concept.coreInsight)
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(14, semibold: false)
+                          ? SapphireFont.serif(16, semibold: false)
                           : .system(size: 14, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4)
@@ -296,7 +296,7 @@ struct DemoInsightCard: View {
 
                 Text(concept.whyItMatters)
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(14, semibold: false)
+                          ? SapphireFont.serif(16, semibold: false)
                           : .system(size: 14, weight: .regular, design: .serif))
                     .foregroundColor(themeManager.primaryText)
                     .lineSpacing(4)

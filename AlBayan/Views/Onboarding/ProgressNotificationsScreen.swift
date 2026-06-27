@@ -57,7 +57,7 @@ struct ProgressNotificationsScreen: View {
 
                         Text("Build your reading streak and earn badges")
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(16, semibold: false)
+                                  ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                             .opacity(isVisible ? 1 : 0)
@@ -111,7 +111,7 @@ struct ProgressNotificationsScreen: View {
 
                                 Text(progressNotificationsEnabled ? "Reminders Enabled" : "Enable Progress Reminders")
                                     .font(themeManager.isSapphire
-                                          ? SapphireFont.serif(18)
+                                          ? SapphireFont.serif(20)
                                           : .system(size: 18, weight: .semibold))
                             }
                             .foregroundColor(themeManager.isSapphire ? themeManager.onAccentText : .white)
@@ -136,9 +136,9 @@ struct ProgressNotificationsScreen: View {
                         if !progressNotificationsEnabled {
                             Text("You can always enable this later in Settings")
                                 .font(themeManager.isSapphire
-                                      ? SapphireFont.serif(13, semibold: false)
-                                      : .system(size: 13, weight: .medium))
-                                .foregroundColor(themeManager.tertiaryText)
+                                      ? SapphireFont.serif(17, semibold: false)
+                                      : .system(size: 15, weight: .medium))
+                                .foregroundColor(themeManager.secondaryText)
                         }
                     }
                     .padding(.horizontal, 24)
@@ -181,13 +181,13 @@ struct ProgressFeatureCard: View {
             VStack(alignment: .leading, spacing: 4) {
                 Text(title)
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(16)
+                          ? SapphireFont.serif(18)
                           : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text(description)
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(14, semibold: false)
+                          ? SapphireFont.serif(16, semibold: false)
                           : .system(size: 14, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .lineSpacing(2)

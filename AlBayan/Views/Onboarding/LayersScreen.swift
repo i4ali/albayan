@@ -34,7 +34,7 @@ struct LayersScreen: View {
 
                 Text("Tap each layer to explore")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(16, semibold: false)
+                          ? SapphireFont.serif(18, semibold: false)
                           : .system(size: 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
@@ -105,14 +105,14 @@ struct LayerCard: View {
                     VStack(alignment: .leading, spacing: 4) {
                         Text(title)
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(18)
+                                  ? SapphireFont.serif(20)
                                   : .system(size: 18, weight: .semibold))
                             .foregroundColor(themeManager.primaryText)
 
                         if !isExpanded {
                             Text(description)
                                 .font(themeManager.isSapphire
-                                      ? SapphireFont.serif(14, semibold: false)
+                                      ? SapphireFont.serif(16, semibold: false)
                                       : .system(size: 14, weight: .medium))
                                 .foregroundColor(themeManager.secondaryText)
                                 .lineLimit(1)
@@ -131,7 +131,7 @@ struct LayerCard: View {
                     VStack(alignment: .leading, spacing: 12) {
                         Text(description)
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(15)
+                                  ? SapphireFont.serif(17)
                                   : .system(size: 15, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
                             .lineSpacing(4)
@@ -139,7 +139,7 @@ struct LayerCard: View {
                         // Layer-specific details
                         Text(layerDetails)
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(14, semibold: false)
+                                  ? SapphireFont.serif(16, semibold: false)
                                   : .system(size: 14, weight: .regular))
                             .foregroundColor(themeManager.secondaryText)
                             .lineSpacing(3)

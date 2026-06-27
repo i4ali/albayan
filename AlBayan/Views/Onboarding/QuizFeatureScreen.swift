@@ -79,7 +79,7 @@ struct QuizFeatureScreen: View {
                 // Subtitle
                 Text("Quizzes for every surah")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(17, semibold: false)
+                          ? SapphireFont.serif(19, semibold: false)
                           : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
@@ -112,8 +112,8 @@ struct QuizFeatureScreen: View {
             // Bottom message
             Text("Deepen your understanding through reflection")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(14, semibold: false)
-                      : .system(size: 14, weight: .medium))
+                      ? SapphireFont.serif(18, semibold: false)
+                      : .system(size: 16, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -214,7 +214,7 @@ struct DemoQuestionCard: View {
             // Question
             Text("What does 'Kursi' represent in Ayat al-Kursi?")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(17)
+                      ? SapphireFont.serif(19)
                       : .system(size: 17, weight: .semibold))
                 .foregroundColor(themeManager.primaryText)
                 .multilineTextAlignment(.center)
@@ -297,7 +297,7 @@ struct DemoAnswerOption: View {
 
             Text(text)
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(14, semibold: false)
+                      ? SapphireFont.serif(16, semibold: false)
                       : .system(size: 14, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .lineLimit(1)
@@ -397,7 +397,7 @@ struct DemoResultCard: View {
             // Message
             Text("Excellent understanding!")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(15, semibold: false)
+                      ? SapphireFont.serif(17, semibold: false)
                       : .system(size: 15, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)

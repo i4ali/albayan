@@ -10,11 +10,13 @@ import SwiftUI
 struct QuestionsView: View {
     @StateObject private var questionsManager = QuestionsManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var premiumManager = PremiumManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var searchText = ""
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var selectedQuestion: Question?
     @State private var navigateToDetail = false
+    @State private var showPaywall = false
 
     var filteredQuestions: [Question] {
         let searchFiltered = searchText.isEmpty ? questionsManager.questions : questionsManager.search(query: searchText)
@@ -32,6 +34,16 @@ struct QuestionsView: View {
             grouped[question.category, default: []].append(question)
         }
         return grouped.sorted { $0.key.displayName < $1.key.displayName }
+    }
+
+    // The single free item: first card shown in the default (unfiltered) grouped view.
+    // Computed over the full dataset so it stays stable regardless of search/category filter.
+    private var freeQuestionID: String? {
+        var grouped: [QuestionCategory: [Question]] = [:]
+        for question in questionsManager.questions {
+            grouped[question.category, default: []].append(question)
+        }
+        return grouped.sorted { $0.key.displayName < $1.key.displayName }.first?.value.first?.id
     }
 
     var body: some View {
@@ -159,10 +171,15 @@ struct QuestionsView: View {
                                 ForEach(groupedQuestions, id: \.0) { category, questions in
                                     Section {
                                         ForEach(questions) { question in
-                                            QuestionCardView(question: question)
+                                            let isLocked = !premiumManager.canAccessExploreItem(isFirst: question.id == freeQuestionID)
+                                            QuestionCardView(question: question, isLocked: isLocked)
                                                 .onTapGesture {
-                                                    selectedQuestion = question
-                                                    navigateToDetail = true
+                                                    if isLocked {
+                                                        showPaywall = true
+                                                    } else {
+                                                        selectedQuestion = question
+                                                        navigateToDetail = true
+                                                    }
                                                 }
                                         }
                                     } header: {
@@ -224,11 +241,15 @@ struct QuestionsView: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
     }
 }
 
 struct QuestionCardView: View {
     let question: Question
+    var isLocked: Bool = false
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
@@ -313,10 +334,14 @@ struct QuestionCardView: View {
 
             Spacer()
 
-            // Chevron
-            Image(systemName: "chevron.right")
-                .font(.system(size: 14, weight: .medium))
-                .foregroundColor(themeManager.tertiaryText)
+            // Trailing accessory — lock pill when premium-gated
+            if isLocked {
+                PremiumBadgeView(size: .medium)
+            } else {
+                Image(systemName: "chevron.right")
+                    .font(.system(size: 14, weight: .medium))
+                    .foregroundColor(themeManager.tertiaryText)
+            }
         }
         .padding(20)
         .background {

@@ -152,11 +152,8 @@ struct FullScreenCommentaryView: View {
 
             Spacer()
 
-            // Reading text-size control + language toggle
-            HStack(spacing: 10) {
-                TextSizeButton(isPanelOpen: $showTextSizePanel)
-                languageToggle
-            }
+            // Reading text-size control
+            TextSizeButton(isPanelOpen: $showTextSizePanel)
         }
         .padding(.horizontal, 24)
         .padding(.top, themeManager.useWarmLayout ? 20 : 16)
@@ -171,41 +168,6 @@ struct FullScreenCommentaryView: View {
                     startPoint: .top,
                     endPoint: .bottom
                 )
-            }
-        }
-    }
-
-    // Language selector button (cycles through languages)
-    private var languageToggle: some View {
-        Button(action: {
-            languageManager.toggleLanguage()
-        }) {
-            HStack(spacing: 4) {
-                Text(languageManager.selectedLanguage.displayName)
-                    .font(.system(size: 14, weight: .medium))
-                if themeManager.useWarmLayout {
-                    Text("🌐")
-                        .font(.system(size: 14))
-                } else {
-                    Image(systemName: "globe")
-                        .font(.system(size: 12))
-                }
-            }
-            .foregroundColor(themeManager.useWarmLayout ? themeManager.accentColor : themeManager.primaryText)
-            .padding(.horizontal, 12)
-            .padding(.vertical, themeManager.useWarmLayout ? 8 : 6)
-            .background {
-                if themeManager.useWarmLayout {
-                    RoundedRectangle(cornerRadius: 20)
-                        .fill(themeManager.accentColor.opacity(0.1))
-                } else {
-                    RoundedRectangle(cornerRadius: 16)
-                        .fill(themeManager.secondaryBackground.opacity(0.8))
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 16)
-                                .stroke(themeManager.strokeColor, lineWidth: 1)
-                        )
-                }
             }
         }
     }

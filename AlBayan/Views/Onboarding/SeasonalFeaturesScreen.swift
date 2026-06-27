@@ -100,7 +100,7 @@ struct SeasonalFeaturesScreen: View {
                 // Subtitle
                 Text("Unique experiences for blessed months")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(17, semibold: false)
+                          ? SapphireFont.serif(19, semibold: false)
                           : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
@@ -152,8 +152,8 @@ struct SeasonalFeaturesScreen: View {
             // Bottom message
             Text("The seasonal tab appears automatically\nduring Ramadan and Dhul-Hijjah")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(14, semibold: false)
-                      : .system(size: 14, weight: .medium))
+                      ? SapphireFont.serif(18, semibold: false)
+                      : .system(size: 16, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -222,7 +222,7 @@ struct SeasonalFeatureExpandedCard: View {
                 VStack(alignment: .leading, spacing: 4) {
                     Text(title)
                         .font(themeManager.isSapphire
-                              ? SapphireFont.serif(18)
+                              ? SapphireFont.serif(20)
                               : .system(size: 18, weight: .bold))
                         .foregroundColor(themeManager.primaryText)
 
@@ -262,7 +262,7 @@ struct SeasonalFeatureExpandedCard: View {
 
                         Text(features[index].text)
                             .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(14, semibold: false)
+                                  ? SapphireFont.serif(16, semibold: false)
                                   : .system(size: 14, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
                     }

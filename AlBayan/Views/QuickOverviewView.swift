@@ -239,7 +239,6 @@ struct QuickOverviewView: View {
         ScrollView(.vertical, showsIndicators: false) {
             VStack(spacing: 20) {
                 conceptBubblesGrid
-                languageSelectorView
                 fullTafsirButton
             }
             .padding(.horizontal, 24)
@@ -360,35 +359,6 @@ struct QuickOverviewView: View {
                     .multilineTextAlignment(rtl ? .trailing : .leading)
                     .frame(maxWidth: .infinity, alignment: rtl ? .trailing : .leading)
                     .environment(\.layoutDirection, rtl ? .rightToLeft : .leftToRight)
-            }
-        }
-    }
-
-    // MARK: - Language Selector
-
-    private var languageSelectorView: some View {
-        HStack(spacing: 12) {
-            ForEach(CommentaryLanguage.supportedTafsirLanguages, id: \.self) { language in
-                Button(action: { languageManager.setLanguage(language) }) {
-                    Text(language.displayName)
-                        .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(selectedLanguage == language ? .white : themeManager.tertiaryText)
-                        .padding(.horizontal, 16)
-                        .padding(.vertical, 8)
-                        .background {
-                            if selectedLanguage == language {
-                                RoundedRectangle(cornerRadius: 8)
-                                    .fill(themeManager.accentGradient)
-                            } else {
-                                RoundedRectangle(cornerRadius: 8)
-                                    .fill(Color.clear)
-                            }
-                        }
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 8)
-                                .stroke(themeManager.strokeColor, lineWidth: selectedLanguage == language ? 0 : 1)
-                        )
-                }
             }
         }
     }

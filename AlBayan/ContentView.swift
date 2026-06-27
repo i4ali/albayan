@@ -521,6 +521,13 @@ struct ProfileMenuView: View {
                                 }
                             }
                         )
+
+                        ProfileMenuItem(
+                            icon: "star.bubble.fill",
+                            title: "Leave a Review",
+                            subtitle: "Rate Tafakkur on the App Store",
+                            action: { RatingManager.shared.openWriteReview() }
+                        )
                     }
 
                     Spacer()

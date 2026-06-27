@@ -71,7 +71,7 @@ struct ProgressTrackingScreen: View {
                 // Subtitle
                 Text("Master the Quran, verse by verse")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(17, semibold: false)
+                          ? SapphireFont.serif(19, semibold: false)
                           : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
                     .opacity(isVisible ? 1 : 0)
@@ -99,8 +99,8 @@ struct ProgressTrackingScreen: View {
             // Bottom message
             Text("Your progress syncs across all your devices")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(14, semibold: false)
-                      : .system(size: 14, weight: .medium))
+                      ? SapphireFont.serif(18, semibold: false)
+                      : .system(size: 16, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 40)
@@ -209,7 +209,7 @@ struct DemoVerseCard: View {
             // English translation
             Text("In the name of Allah, the Most Gracious, the Most Merciful")
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(15, semibold: false)
+                      ? SapphireFont.serif(17, semibold: false)
                       : .system(size: 15, weight: .regular))
                 .foregroundColor(themeManager.secondaryText)
                 .multilineTextAlignment(.center)
@@ -304,13 +304,13 @@ struct DemoProgressCard: View {
             VStack(alignment: .leading, spacing: 4) {
                 Text("Al-Faatiha")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(16)
+                          ? SapphireFont.serif(18)
                           : .system(size: 16, weight: .semibold))
                     .foregroundColor(themeManager.primaryText)
 
                 Text("7 verses")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(13, semibold: false)
+                          ? SapphireFont.serif(15, semibold: false)
                           : .system(size: 13, weight: .medium))
                     .foregroundColor(themeManager.tertiaryText)
             }

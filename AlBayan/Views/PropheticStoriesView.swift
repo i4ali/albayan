@@ -10,11 +10,13 @@ import SwiftUI
 struct PropheticStoriesView: View {
     @StateObject private var storiesManager = PropheticStoriesManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var premiumManager = PremiumManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var searchText = ""
     @State private var selectedCategory: StoryCategory? = nil
     @State private var selectedStory: PropheticStory?
     @State private var navigateToDetail = false
+    @State private var showPaywall = false
 
     var filteredStories: [PropheticStory] {
         let searchFiltered = searchText.isEmpty ? storiesManager.stories : storiesManager.search(query: searchText)
@@ -32,6 +34,16 @@ struct PropheticStoriesView: View {
             grouped[story.category, default: []].append(story)
         }
         return grouped.sorted { $0.key.displayName < $1.key.displayName }
+    }
+
+    // The single free item: first card shown in the default (unfiltered) grouped view.
+    // Computed over the full dataset so it stays stable regardless of search/category filter.
+    private var freeStoryID: String? {
+        var grouped: [StoryCategory: [PropheticStory]] = [:]
+        for story in storiesManager.stories {
+            grouped[story.category, default: []].append(story)
+        }
+        return grouped.sorted { $0.key.displayName < $1.key.displayName }.first?.value.first?.id
     }
 
     var body: some View {
@@ -158,10 +170,15 @@ struct PropheticStoriesView: View {
                                 ForEach(groupedStories, id: \.0) { category, stories in
                                     Section {
                                         ForEach(stories) { story in
-                                            PropheticStoryCardView(story: story)
+                                            let isLocked = !premiumManager.canAccessExploreItem(isFirst: story.id == freeStoryID)
+                                            PropheticStoryCardView(story: story, isLocked: isLocked)
                                                 .onTapGesture {
-                                                    selectedStory = story
-                                                    navigateToDetail = true
+                                                    if isLocked {
+                                                        showPaywall = true
+                                                    } else {
+                                                        selectedStory = story
+                                                        navigateToDetail = true
+                                                    }
                                                 }
                                         }
                                     } header: {
@@ -223,11 +240,15 @@ struct PropheticStoriesView: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
     }
 }
 
 struct PropheticStoryCardView: View {
     let story: PropheticStory
+    var isLocked: Bool = false
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
@@ -327,10 +348,14 @@ struct PropheticStoryCardView: View {
 
             Spacer()
 
-            // Chevron
-            Image(systemName: "chevron.right")
-                .font(.system(size: 14, weight: .medium))
-                .foregroundColor(themeManager.tertiaryText)
+            // Trailing accessory — lock pill when premium-gated
+            if isLocked {
+                PremiumBadgeView(size: .medium)
+            } else {
+                Image(systemName: "chevron.right")
+                    .font(.system(size: 14, weight: .medium))
+                    .foregroundColor(themeManager.tertiaryText)
+            }
         }
         .padding(20)
         .background {

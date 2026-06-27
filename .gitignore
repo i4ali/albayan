@@ -140,3 +140,8 @@ screenshots/
 
 # Local Claude tooling assets (heavy base-video media)
 .claude/skills/generate-tafsir-video/
+# Superpowers brainstorm scratch (visual companion)
+.superpowers/
+# TikTok marketing carousels (heavy renders, kept local)
+tiktok_carousel/
+tiktok_carousel_sapphire_gems/

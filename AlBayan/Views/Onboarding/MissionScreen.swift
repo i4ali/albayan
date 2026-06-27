@@ -79,7 +79,7 @@ struct MissionScreen: View {
 
                     Text("Through authentic classical and contemporary Sunni scholarship, with balanced comparative perspectives")
                         .font(themeManager.isSapphire
-                              ? SapphireFont.serif(17, semibold: false)
+                              ? SapphireFont.serif(19, semibold: false)
                               : .system(size: 18, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .multilineTextAlignment(.center)
@@ -180,7 +180,7 @@ struct HighlightRow: View {
 
             Text(text)
                 .font(themeManager.isSapphire
-                      ? SapphireFont.serif(15)
+                      ? SapphireFont.serif(17)
                       : .system(size: 15, weight: .medium))
                 .foregroundColor(themeManager.primaryText)
                 .frame(maxWidth: .infinity, alignment: .leading)

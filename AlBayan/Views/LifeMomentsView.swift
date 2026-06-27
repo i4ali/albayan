@@ -11,9 +11,11 @@ struct LifeMomentsView: View {
     @StateObject private var lifeMomentsManager = LifeMomentsManager.shared
     @StateObject private var dataManager = DataManager.shared
     @StateObject private var themeManager = ThemeManager.shared
+    @StateObject private var premiumManager = PremiumManager.shared
     @Environment(\.dismiss) private var dismiss
     @State private var selectedMoment: LifeMoment?
     @State private var navigateToVerse = false
+    @State private var showPaywall = false
 
     var body: some View {
         NavigationView {
@@ -83,11 +85,16 @@ struct LifeMomentsView: View {
                     } else {
                         ScrollView {
                             LazyVStack(spacing: 12) {
-                                ForEach(lifeMomentsManager.moments) { moment in
-                                    MomentCard(moment: moment)
+                                ForEach(Array(lifeMomentsManager.moments.enumerated()), id: \.element.id) { index, moment in
+                                    let isLocked = !premiumManager.canAccessExploreItem(isFirst: index == 0)
+                                    MomentCard(moment: moment, isLocked: isLocked)
                                         .onTapGesture {
-                                            selectedMoment = moment
-                                            navigateToVerse = true
+                                            if isLocked {
+                                                showPaywall = true
+                                            } else {
+                                                selectedMoment = moment
+                                                navigateToVerse = true
+                                            }
                                         }
                                 }
                             }
@@ -125,11 +132,15 @@ struct LifeMomentsView: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
     }
 }
 
 struct MomentCard: View {
     let moment: LifeMoment
+    var isLocked: Bool = false
     @StateObject private var themeManager = ThemeManager.shared
 
     var body: some View {
@@ -187,10 +198,14 @@ struct MomentCard: View {
 
             Spacer()
 
-            // Chevron
-            Image(systemName: "chevron.right")
-                .font(.system(size: 14, weight: .medium))
-                .foregroundColor(themeManager.tertiaryText)
+            // Trailing accessory — lock pill when premium-gated
+            if isLocked {
+                PremiumBadgeView(size: .medium)
+            } else {
+                Image(systemName: "chevron.right")
+                    .font(.system(size: 14, weight: .medium))
+                    .foregroundColor(themeManager.tertiaryText)
+            }
         }
         .padding(20)
         .background {

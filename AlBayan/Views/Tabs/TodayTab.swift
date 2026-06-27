@@ -2,21 +2,20 @@
 //  TodayTab.swift
 //  AlBayan
 //
-//  NavigationView wrapper for TodayView.
+//  NavigationStack wrapper for TodayView.
 //
 
 import SwiftUI
 
 struct TodayTab: View {
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack {
                 AdaptiveModernBackground()
                 TodayView()
             }
             .navigationBarHidden(true)
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 
