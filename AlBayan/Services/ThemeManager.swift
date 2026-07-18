@@ -130,7 +130,7 @@ class ThemeManager: ObservableObject {
         case .rosewater:
             return Color(red: 0.486, green: 0.369, blue: 0.361) // #7C5E5C
         case .royalSapphire:
-            return Color(hex: "#EAEFFB").opacity(0.62)
+            return Color(hex: "#EAEFFB").opacity(0.92)  // lifted from 0.62 for legibility on dark navy
         }
     }
 
@@ -141,7 +141,7 @@ class ThemeManager: ObservableObject {
         case .rosewater:
             return Color(red: 0.761, green: 0.663, blue: 0.655) // #C2A9A7
         case .royalSapphire:
-            return Color(hex: "#EAEFFB").opacity(0.40)
+            return Color(hex: "#EAEFFB").opacity(0.74)  // lifted from 0.40 for legibility on dark navy
         }
     }
 

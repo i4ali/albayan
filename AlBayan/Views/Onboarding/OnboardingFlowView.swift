@@ -24,8 +24,8 @@ struct OnboardingFlowView: View {
 
             // Main content
             TabView(selection: $currentPage) {
-                // Screen 1: Hadith
-                HadithScreen(currentPage: $currentPage)
+                // Screen 1: Opening verse (47:24)
+                OpeningVerseScreen(currentPage: $currentPage)
                     .tag(0)
 
                 // Screen 2: Mission
@@ -60,16 +60,16 @@ struct OnboardingFlowView: View {
                 ProgressTrackingScreen()
                     .tag(8)
 
-                // Screen 10: Profile setup (name + preferred language)
-                ProfileSetupScreen(currentPage: $currentPage)
+                // Screen 10: Daily Verse
+                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
                     .tag(9)
 
-                // Screen 11: Daily Verse
-                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
+                // Screen 11: Progress Notifications
+                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
                     .tag(10)
 
-                // Screen 12: Progress Notifications
-                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
+                // Screen 12: Profile setup (name + preferred language)
+                ProfileSetupScreen(currentPage: $currentPage)
                     .tag(11)
 
                 // Screen 13: Final Setup

@@ -25,95 +25,98 @@ struct DailyCrosswordScreen: View {
     ]
 
     var body: some View {
-        VStack(spacing: 0) {
-            // Header
-            VStack(spacing: 20) {
-                // Animated icon
-                ZStack {
-                    Circle()
-                        .fill(Color.teal.opacity(0.2))
-                        .frame(width: 100, height: 100)
-                        .blur(radius: 20)
-                        .scaleEffect(iconPulse ? 1.2 : 1.0)
-                        .animation(
-                            Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
-                            value: iconPulse
-                        )
-
-                    Circle()
-                        .fill(
-                            LinearGradient(
-                                colors: [Color.teal.opacity(0.35), Color.blue.opacity(0.2)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+        ScrollView {
+            VStack(spacing: 0) {
+                // Header
+                VStack(spacing: 20) {
+                    // Animated icon
+                    ZStack {
+                        Circle()
+                            .fill(Color.teal.opacity(0.2))
+                            .frame(width: 100, height: 100)
+                            .blur(radius: 20)
+                            .scaleEffect(iconPulse ? 1.2 : 1.0)
+                            .animation(
+                                Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
+                                value: iconPulse
                             )
-                        )
-                        .frame(width: 80, height: 80)
 
-                    if themeManager.isSapphire {
-                        Image(systemName: "square.grid.3x3.fill")
-                            .font(.system(size: 36, weight: .semibold))
-                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
-                    } else {
-                        Image(systemName: "square.grid.3x3.fill")
-                            .font(.system(size: 36, weight: .semibold))
-                            .foregroundStyle(
+                        Circle()
+                            .fill(
                                 LinearGradient(
-                                    colors: [.teal, .blue],
+                                    colors: [Color.teal.opacity(0.35), Color.blue.opacity(0.2)],
                                     startPoint: .topLeading,
                                     endPoint: .bottomTrailing
                                 )
                             )
+                            .frame(width: 80, height: 80)
+
+                        if themeManager.isSapphire {
+                            Image(systemName: "square.grid.3x3.fill")
+                                .font(.system(size: 36, weight: .semibold))
+                                .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                        } else {
+                            Image(systemName: "square.grid.3x3.fill")
+                                .font(.system(size: 36, weight: .semibold))
+                                .foregroundStyle(
+                                    LinearGradient(
+                                        colors: [.teal, .blue],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                        }
                     }
+                    .opacity(isVisible ? 1 : 0)
+                    .scaleEffect(isVisible ? 1 : 0.5)
+                    .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+
+                    // Title
+                    Text("Make the words stick - the fun way.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(34)
+                              : .system(size: 34, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                        .onboardingTitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .offset(y: isVisible ? 0 : -20)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+
+                    // Subtitle
+                    Text("A quick daily crossword for your Qur'anic vocabulary.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(19, semibold: false)
+                              : .system(size: 17, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                        .onboardingSubtitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                 }
-                .opacity(isVisible ? 1 : 0)
-                .scaleEffect(isVisible ? 1 : 0.5)
-                .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+                .padding(.top, 60)
+                .padding(.bottom, 24)
 
-                // Title
-                Text("Daily Crossword")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.serif(34)
-                          : .system(size: 34, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .offset(y: isVisible ? 0 : -20)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
-
-                // Subtitle
-                Text("A new crossword every day")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.serif(19, semibold: false)
-                          : .system(size: 17, weight: .medium))
-                    .foregroundColor(themeManager.secondaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
-            }
-            .padding(.top, 60)
-            .padding(.bottom, 24)
-
-            // Mini crossword demo
-            CrosswordMiniGrid(
-                activeCells: activeCells,
-                filledCells: filledCells,
-                isSolved: isSolved,
-                isVisible: showGrid
-            )
-            .padding(.horizontal, 40)
-
-            Spacer()
-
-            // Tagline
-            Text("A fun way to grow your Qur'anic vocabulary")
-                .font(themeManager.isSapphire
-                      ? SapphireFont.serif(18, semibold: false)
-                      : .system(size: 16, weight: .medium))
-                .foregroundColor(themeManager.secondaryText)
-                .multilineTextAlignment(.center)
+                // Mini crossword demo
+                CrosswordMiniGrid(
+                    activeCells: activeCells,
+                    filledCells: filledCells,
+                    isSolved: isSolved,
+                    isVisible: showGrid
+                )
                 .padding(.horizontal, 40)
-                .padding(.bottom, 100)
-                .opacity(isVisible ? 1 : 0)
-                .animation(Animation.easeOut(duration: 0.6).delay(0.8), value: isVisible)
+
+                // Tagline
+                Text("Two minutes. Genuinely fun.")
+                    .font(themeManager.isSapphire
+                          ? SapphireFont.serif(18, semibold: false)
+                          : .system(size: 16, weight: .medium))
+                    .foregroundColor(themeManager.secondaryText)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 40)
+                    .padding(.top, 40)
+                    .padding(.bottom, 60)
+                    .opacity(isVisible ? 1 : 0)
+                    .animation(Animation.easeOut(duration: 0.6).delay(0.8), value: isVisible)
+            }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(themeManager.primaryBackground)

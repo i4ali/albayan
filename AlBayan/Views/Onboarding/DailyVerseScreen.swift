@@ -45,20 +45,22 @@ struct DailyVerseScreen: View {
                         .opacity(isVisible ? 1 : 0)
                         .animation(.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
 
-                        Text("Your Daily Companion")
+                        Text("One verse to carry into your day.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(28)
                                   : .system(size: 28, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
+                            .onboardingTitle()
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : 20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
-                        Text("Start each day with a meaningful verse")
+                        Text("A meaningful verse each morning - a small pause that sets the tone.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
+                            .onboardingSubtitle()
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                     }
@@ -168,7 +170,7 @@ struct DailyVerseScreen: View {
                                                  ? themeManager.accentColor
                                                  : Color(red: 0.39, green: 0.4, blue: 0.95))
 
-                            Text("Based on Islamic Calendar")
+                            Text("Chosen for the Islamic season")
                                 .font(themeManager.isSapphire
                                       ? SapphireFont.serif(18)
                                       : .system(size: 16, weight: .semibold))

@@ -23,20 +23,22 @@ struct LayersScreen: View {
         VStack(spacing: 0) {
             // Header
             VStack(spacing: 16) {
-                Text("4 Layers of Wisdom")
+                Text("Understand it at your own depth.")
                     .font(themeManager.isSapphire
                           ? SapphireFont.serif(32)
                           : .system(size: 32, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
+                    .onboardingTitle()
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
-                Text("Tap each layer to explore")
+                Text("From plain-words simple to deep classical tafsir - real scholarship, in language you'll actually follow.")
                     .font(themeManager.isSapphire
                           ? SapphireFont.serif(18, semibold: false)
                           : .system(size: 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
+                    .onboardingSubtitle()
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
             }

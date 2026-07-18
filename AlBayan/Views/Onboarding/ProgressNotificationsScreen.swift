@@ -46,20 +46,22 @@ struct ProgressNotificationsScreen: View {
                         .opacity(isVisible ? 1 : 0)
                         .animation(.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
 
-                        Text("Stay Motivated")
+                        Text("Small steps, kept up, change you.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(28)
                                   : .system(size: 28, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
+                            .onboardingTitle()
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : 20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
-                        Text("Build your reading streak and earn badges")
+                        Text("Gentle nudges to keep your streak alive.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
+                            .onboardingSubtitle()
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                     }
@@ -89,8 +91,8 @@ struct ProgressNotificationsScreen: View {
                         ProgressFeatureCard(
                             icon: "trophy.fill",
                             color: .yellow,
-                            title: "Earn Badges",
-                            description: "Complete surahs and hit milestones to unlock achievements"
+                            title: "Reach milestones",
+                            description: "Complete surahs and reach milestones along the way."
                         )
                         .opacity(isVisible ? 1 : 0)
                         .offset(y: isVisible ? 0 : 30)

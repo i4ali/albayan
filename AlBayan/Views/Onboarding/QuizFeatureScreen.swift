@@ -67,21 +67,23 @@ struct QuizFeatureScreen: View {
                 .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
 
                 // Title
-                Text("Test Your Knowledge")
+                Text("See what actually stayed with you.")
                     .font(themeManager.isSapphire
                           ? SapphireFont.serif(34)
                           : .system(size: 34, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
+                    .onboardingTitle()
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : -20)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
 
                 // Subtitle
-                Text("Quizzes for every surah")
+                Text("A short quiz for every surah - not to grade you, to help it stick.")
                     .font(themeManager.isSapphire
                           ? SapphireFont.serif(19, semibold: false)
                           : .system(size: 17, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
+                    .onboardingSubtitle()
                     .opacity(isVisible ? 1 : 0)
                     .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
             }
@@ -110,7 +112,7 @@ struct QuizFeatureScreen: View {
             Spacer()
 
             // Bottom message
-            Text("Deepen your understanding through reflection")
+            Text("Not a test. A way to make it stick.")
                 .font(themeManager.isSapphire
                       ? SapphireFont.serif(18, semibold: false)
                       : .system(size: 16, weight: .medium))
@@ -365,13 +367,13 @@ struct DemoResultCard: View {
 
             // Level title
             VStack(spacing: 8) {
-                Text("Scholar Level")
+                Text("It's landing")
                     .font(themeManager.isSapphire
                           ? SapphireFont.serif(24)
                           : .system(size: 24, weight: .bold))
                     .foregroundColor(themeManager.primaryText)
 
-                Text("عالم")
+                Text("رَسَخَ")
                     .font(themeManager.isSapphire
                           ? SapphireFont.arabic(18, bold: true)
                           : .system(size: 18, weight: .medium))
@@ -395,7 +397,7 @@ struct DemoResultCard: View {
             }
 
             // Message
-            Text("Excellent understanding!")
+            Text("It's starting to stay.")
                 .font(themeManager.isSapphire
                       ? SapphireFont.serif(17, semibold: false)
                       : .system(size: 15, weight: .medium))

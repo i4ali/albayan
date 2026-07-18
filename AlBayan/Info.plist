@@ -28,10 +28,10 @@
 	</array>
 	<key>UIAppFonts</key>
 	<array>
-		<string>CormorantGaramond-Medium.ttf</string>
-		<string>CormorantGaramond-SemiBold.ttf</string>
-		<string>CormorantGaramond-MediumItalic.ttf</string>
-		<string>CormorantGaramond-SemiBoldItalic.ttf</string>
+		<string>EBGaramond-Medium.ttf</string>
+		<string>EBGaramond-SemiBold.ttf</string>
+		<string>EBGaramond-MediumItalic.ttf</string>
+		<string>EBGaramond-SemiBoldItalic.ttf</string>
 		<string>Amiri-Regular.ttf</string>
 		<string>Amiri-Bold.ttf</string>
 	</array>

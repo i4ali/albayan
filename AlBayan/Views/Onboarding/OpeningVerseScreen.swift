@@ -1,13 +1,13 @@
 //
-//  HadithScreen.swift
+//  OpeningVerseScreen.swift
 //  AlBayan
 //
-//  Onboarding Screen 1: The Best Guidance (Sahih Muslim 867 / Sahih al-Bukhari 7277).
+//  Onboarding Screen 1: The opening verse - Qur'an 47:24 (Surah Muhammad).
 //
 
 import SwiftUI
 
-struct HadithScreen: View {
+struct OpeningVerseScreen: View {
     @StateObject private var themeManager = ThemeManager.shared
     @Binding var currentPage: Int
     @State private var isVisible = false
@@ -24,7 +24,7 @@ struct HadithScreen: View {
 
                 VStack(spacing: 40) {
                     // Title with glow
-                    Text("The Best Guidance")
+                    Text("The Qur'an asks")
                         .font(themeManager.isSapphire
                               ? SapphireFont.eyebrow
                               : .system(size: 20, weight: .semibold))
@@ -49,7 +49,7 @@ struct HadithScreen: View {
                                 .blendMode(.overlay)
                             }
                             .mask(
-                                Text("The Best Guidance")
+                                Text("The Qur'an asks")
                                     .font(themeManager.isSapphire
                                           ? SapphireFont.eyebrow
                                           : .system(size: 20, weight: .semibold))
@@ -70,8 +70,8 @@ struct HadithScreen: View {
                         .offset(y: isVisible ? 0 : 20)
                         .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
 
-                    // Arabic Hadith
-                    Text("خيرُ الحديثِ\nكتابُ الله\nوخيرُ الهدْيِ\nهدْيُ محمدٍ ﷺ")
+                    // Arabic verse 47:24
+                    Text("أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ\nأَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ")
                         .font(themeManager.isSapphire
                               ? SapphireFont.arabic(26)
                               : .system(size: 26, weight: .medium, design: .serif))
@@ -93,25 +93,25 @@ struct HadithScreen: View {
 
                     // English Translation
                     VStack(spacing: 12) {
-                        Text("\"The best speech")
+                        Text("\"Do they not reflect")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("is the Book of Allah,")
+                        Text("upon the Qur'an,")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("and the best guidance")
+                        Text("or are there locks")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
                             .foregroundColor(themeManager.primaryText)
 
-                        Text("is the guidance of Muhammad ﷺ.\"")
+                        Text("upon the hearts?\"")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(20, semibold: false)
                                   : .system(size: 18, weight: .medium))
@@ -125,13 +125,27 @@ struct HadithScreen: View {
                     .animation(Animation.easeOut(duration: 0.8).delay(1.1), value: isVisible)
 
                     // Attribution
-                    Text("— Prophet Muhammad ﷺ")
+                    Text("Qur'an 47:24 · Surah Muhammad")
                         .font(themeManager.isSapphire
-                              ? SapphireFont.serif(16, semibold: false, italic: true)
+                              ? SapphireFont.serif(16, semibold: true, italic: true)
                               : .system(size: 14, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
                         .opacity(isVisible ? 1 : 0)
                         .animation(Animation.easeOut(duration: 0.6).delay(1.4), value: isVisible)
+
+                    // Personal kicker - turns the verse on the reader
+                    Text("You've recited it for years. When did it last reach your heart?")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(18, semibold: true, italic: false)
+                              : .system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                        .multilineTextAlignment(.center)
+                        .lineSpacing(4)
+                        .padding(.horizontal, 36)
+                        .padding(.top, 4)
+                        .opacity(isVisible ? 1 : 0)
+                        .offset(y: isVisible ? 0 : 20)
+                        .animation(Animation.easeOut(duration: 0.8).delay(1.7), value: isVisible)
                 }
 
                 Spacer()
@@ -140,16 +154,16 @@ struct HadithScreen: View {
                 VStack(spacing: 8) {
                     Image(systemName: "chevron.right")
                         .font(.system(size: 14, weight: .semibold))
-                        .foregroundColor(themeManager.tertiaryText)
+                        .foregroundColor(themeManager.secondaryText)
 
                     Text("Swipe or tap to continue")
                         .font(themeManager.isSapphire
                               ? SapphireFont.serif(15, semibold: false)
                               : .system(size: 13, weight: .medium))
-                        .foregroundColor(themeManager.tertiaryText)
+                        .foregroundColor(themeManager.secondaryText)
                 }
-                .opacity(isVisible ? 0.7 : 0)
-                .animation(Animation.easeOut(duration: 0.6).delay(1.7), value: isVisible)
+                .opacity(isVisible ? 0.9 : 0)
+                .animation(Animation.easeOut(duration: 0.6).delay(2.0), value: isVisible)
                 .padding(.bottom, 40)
             }
         }
@@ -157,8 +171,8 @@ struct HadithScreen: View {
             isVisible = true
             startTitleAnimations()
 
-            // Auto-advance after 5 seconds
-            DispatchQueue.main.asyncAfter(deadline: .now() + 5.0) {
+            // Auto-advance after 6 seconds
+            DispatchQueue.main.asyncAfter(deadline: .now() + 6.0) {
                 withAnimation(.spring(response: 0.6, dampingFraction: 0.8)) {
                     currentPage = 1
                 }
@@ -223,5 +237,5 @@ struct GeometricPatternBackground: View {
 }
 
 #Preview {
-    HadithScreen(currentPage: .constant(0))
+    OpeningVerseScreen(currentPage: .constant(0))
 }

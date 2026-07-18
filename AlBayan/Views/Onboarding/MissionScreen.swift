@@ -65,26 +65,24 @@ struct MissionScreen: View {
 
                 // Mission statement
                 VStack(spacing: 24) {
-                    Text("This app brings those teachings to your fingertips")
+                    Text("Time to do more than read it.")
                         .font(themeManager.isSapphire
                               ? SapphireFont.serif(26)
                               : .system(size: 26, weight: .semibold))
                         .foregroundColor(themeManager.primaryText)
-                        .multilineTextAlignment(.center)
                         .lineSpacing(6)
-                        .padding(.horizontal, 30)
+                        .onboardingTitle()
                         .opacity(isVisible ? 1 : 0)
                         .offset(y: isVisible ? 0 : 20)
                         .animation(Animation.easeOut(duration: 0.8).delay(0.8), value: isVisible)
 
-                    Text("Through authentic classical and contemporary Sunni scholarship, with balanced comparative perspectives")
+                    Text("Understand it. Reflect on it. Let it change you.")
                         .font(themeManager.isSapphire
                               ? SapphireFont.serif(19, semibold: false)
                               : .system(size: 18, weight: .medium))
                         .foregroundColor(themeManager.secondaryText)
-                        .multilineTextAlignment(.center)
                         .lineSpacing(5)
-                        .padding(.horizontal, 40)
+                        .onboardingSubtitle()
                         .opacity(isVisible ? 1 : 0)
                         .offset(y: isVisible ? 0 : 20)
                         .animation(Animation.easeOut(duration: 0.8).delay(1.1), value: isVisible)
@@ -93,31 +91,24 @@ struct MissionScreen: View {
                 // Feature highlights
                 VStack(spacing: 16) {
                     HighlightRow(
-                        icon: "book.closed.fill",
-                        text: "Complete Quranic text with English translation",
+                        icon: "book.fill",
+                        text: "Read it in words that finally click.",
                         isVisible: isVisible,
                         delay: 1.4
                     )
 
                     HighlightRow(
                         icon: "sparkles",
-                        text: "4 layers of authentic Sunni commentary",
+                        text: "Reflect on what each verse asks of you.",
                         isVisible: isVisible,
                         delay: 1.6
                     )
 
                     HighlightRow(
-                        icon: "bell.fill",
-                        text: "Daily verses aligned with Islamic calendar",
+                        icon: "leaf.fill",
+                        text: "Grow - carry one thing forward, daily.",
                         isVisible: isVisible,
                         delay: 1.8
-                    )
-
-                    HighlightRow(
-                        icon: "heart.fill",
-                        text: "Save and sync bookmarks across devices",
-                        isVisible: isVisible,
-                        delay: 2.0
                     )
                 }
                 .padding(.horizontal, 30)

@@ -45,17 +45,18 @@ struct ProfileSetupScreen: View {
 
     private var header: some View {
         VStack(spacing: 16) {
-            Text("Welcome 👋")
+            Text("Let's make this yours.")
                 .font(themeManager.isSapphire ? SapphireFont.serif(32) : .system(size: 32, weight: .bold))
                 .foregroundColor(themeManager.primaryText)
+                .onboardingTitle()
                 .opacity(isVisible ? 1 : 0)
                 .offset(y: isVisible ? 0 : -20)
                 .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
-            Text("Let's personalize your experience")
+            Text("Your name, your language - so every reflection feels like it's for you.")
                 .font(themeManager.isSapphire ? SapphireFont.serif(18, semibold: false) : .system(size: 16, weight: .medium))
                 .foregroundColor(themeManager.secondaryText)
-                .multilineTextAlignment(.center)
+                .onboardingSubtitle()
                 .opacity(isVisible ? 1 : 0)
                 .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
         }

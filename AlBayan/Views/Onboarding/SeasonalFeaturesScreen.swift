@@ -15,151 +15,154 @@ struct SeasonalFeaturesScreen: View {
     @State private var starsPulse = false
 
     var body: some View {
-        VStack(spacing: 0) {
-            // Header with animated moon icon
-            VStack(spacing: 20) {
-                // Animated moon and stars
-                ZStack {
-                    // Stars background
-                    ForEach(0..<5) { index in
-                        Image(systemName: "star.fill")
-                            .font(.system(size: CGFloat([10, 8, 12, 9, 11][index])))
-                            .foregroundColor(themeManager.isSapphire ? themeManager.accentBright.opacity(0.6) : .yellow.opacity(0.6))
-                            .offset(
-                                x: CGFloat([-40, 35, -25, 45, -50][index]),
-                                y: CGFloat([-35, -40, 30, 25, -10][index])
+        ScrollView {
+            VStack(spacing: 0) {
+                // Header with animated moon icon
+                VStack(spacing: 20) {
+                    // Animated moon and stars
+                    ZStack {
+                        // Stars background
+                        ForEach(0..<5) { index in
+                            Image(systemName: "star.fill")
+                                .font(.system(size: CGFloat([10, 8, 12, 9, 11][index])))
+                                .foregroundColor(themeManager.isSapphire ? themeManager.accentBright.opacity(0.6) : .yellow.opacity(0.6))
+                                .offset(
+                                    x: CGFloat([-40, 35, -25, 45, -50][index]),
+                                    y: CGFloat([-35, -40, 30, 25, -10][index])
+                                )
+                                .opacity(starsPulse ? 1.0 : 0.3)
+                                .animation(
+                                    Animation.easeInOut(duration: [1.8, 2.2, 1.5, 2.0, 2.4][index])
+                                        .repeatForever(autoreverses: true)
+                                        .delay(Double(index) * 0.2),
+                                    value: starsPulse
+                                )
+                        }
+
+                        // Glow effect
+                        Circle()
+                            .fill(
+                                RadialGradient(
+                                    colors: [themeManager.isSapphire ? themeManager.accentBright.opacity(0.3) : Color.yellow.opacity(0.3), Color.clear],
+                                    center: .center,
+                                    startRadius: 0,
+                                    endRadius: 60
+                                )
                             )
-                            .opacity(starsPulse ? 1.0 : 0.3)
+                            .frame(width: 120, height: 120)
+                            .scaleEffect(showMoonGlow ? 1.2 : 0.8)
                             .animation(
-                                Animation.easeInOut(duration: [1.8, 2.2, 1.5, 2.0, 2.4][index])
-                                    .repeatForever(autoreverses: true)
-                                    .delay(Double(index) * 0.2),
-                                value: starsPulse
+                                Animation.easeInOut(duration: 2.5).repeatForever(autoreverses: true),
+                                value: showMoonGlow
                             )
-                    }
 
-                    // Glow effect
-                    Circle()
-                        .fill(
-                            RadialGradient(
-                                colors: [themeManager.isSapphire ? themeManager.accentBright.opacity(0.3) : Color.yellow.opacity(0.3), Color.clear],
-                                center: .center,
-                                startRadius: 0,
-                                endRadius: 60
-                            )
-                        )
-                        .frame(width: 120, height: 120)
-                        .scaleEffect(showMoonGlow ? 1.2 : 0.8)
-                        .animation(
-                            Animation.easeInOut(duration: 2.5).repeatForever(autoreverses: true),
-                            value: showMoonGlow
-                        )
-
-                    // Icon background
-                    Circle()
-                        .fill(
-                            LinearGradient(
-                                colors: [Color.indigo.opacity(0.4), Color.purple.opacity(0.3)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
-                            )
-                        )
-                        .frame(width: 80, height: 80)
-
-                    // Moon and stars icon
-                    if themeManager.isSapphire {
-                        Image(systemName: "moon.stars.fill")
-                            .font(.system(size: 38, weight: .semibold))
-                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
-                    } else {
-                        Image(systemName: "moon.stars.fill")
-                            .font(.system(size: 38, weight: .semibold))
-                            .foregroundStyle(
+                        // Icon background
+                        Circle()
+                            .fill(
                                 LinearGradient(
-                                    colors: [.yellow, .orange],
+                                    colors: [Color.indigo.opacity(0.4), Color.purple.opacity(0.3)],
                                     startPoint: .topLeading,
                                     endPoint: .bottomTrailing
                                 )
                             )
+                            .frame(width: 80, height: 80)
+
+                        // Moon and stars icon
+                        if themeManager.isSapphire {
+                            Image(systemName: "moon.stars.fill")
+                                .font(.system(size: 38, weight: .semibold))
+                                .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                        } else {
+                            Image(systemName: "moon.stars.fill")
+                                .font(.system(size: 38, weight: .semibold))
+                                .foregroundStyle(
+                                    LinearGradient(
+                                        colors: [.yellow, .orange],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                        }
                     }
+                    .opacity(isVisible ? 1 : 0)
+                    .scaleEffect(isVisible ? 1 : 0.5)
+                    .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+
+                    // Title
+                    Text("Grow most when it matters most.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(34)
+                              : .system(size: 34, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                        .onboardingTitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .offset(y: isVisible ? 0 : -20)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+
+                    // Subtitle
+                    Text("Guided journeys for Ramadan and Dhul-Hijjah - so the blessed days never slip by.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(19, semibold: false)
+                              : .system(size: 17, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                        .onboardingSubtitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                 }
-                .opacity(isVisible ? 1 : 0)
-                .scaleEffect(isVisible ? 1 : 0.5)
-                .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+                .padding(.top, 60)
+                .padding(.bottom, 32)
 
-                // Title
-                Text("Special Seasons")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.serif(34)
-                          : .system(size: 34, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .offset(y: isVisible ? 0 : -20)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+                // Feature cards
+                VStack(spacing: 20) {
+                    // Ramadan Journey card - expanded
+                    SeasonalFeatureExpandedCard(
+                        icon: "moon.stars.fill",
+                        iconColors: [.yellow, .orange],
+                        title: "Ramadan Journey",
+                        badge: "Seasonal",
+                        badgeColor: .purple,
+                        features: [
+                            ("hands.sparkles.fill", "Daily duas from Hisn al-Muslim and the Sunnah"),
+                            ("book.pages.fill", "Curated Quranic verses with tafsir"),
+                            ("heart.text.square.fill", "Reflections and spiritual guidance"),
+                            ("checkmark.circle.fill", "Track your 30-day progress")
+                        ],
+                        isVisible: showFeatureCards,
+                        delay: 0
+                    )
 
-                // Subtitle
-                Text("Unique experiences for blessed months")
+                    // Dhul-Hijjah Journey card - expanded
+                    SeasonalFeatureExpandedCard(
+                        icon: "building.columns.fill",
+                        iconColors: [.green, .teal],
+                        title: "Dhul-Hijjah Journey",
+                        badge: "Seasonal",
+                        badgeColor: .green,
+                        features: [
+                            ("hands.sparkles.fill", "Daily du'a & dhikr for the ten blessed days"),
+                            ("book.pages.fill", "Curated verses for the best ten days of the year"),
+                            ("mountain.2.fill", "Day of Arafah reminder"),
+                            ("checkmark.circle.fill", "Track your 10-day journey")
+                        ],
+                        isVisible: showFeatureCards,
+                        delay: 0.2
+                    )
+                }
+                .padding(.horizontal, 20)
+
+                // Bottom message
+                Text("Always in the Journey tab -\nready when Ramadan and Dhul-Hijjah arrive")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(19, semibold: false)
-                          : .system(size: 17, weight: .medium))
+                          ? SapphireFont.serif(18, semibold: false)
+                          : .system(size: 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 40)
+                    .padding(.top, 40)
+                    .padding(.bottom, 60)
+                    .opacity(showFeatureCards ? 1 : 0)
+                    .animation(Animation.easeOut(duration: 0.6).delay(0.6), value: showFeatureCards)
             }
-            .padding(.top, 60)
-            .padding(.bottom, 32)
-
-            // Feature cards
-            VStack(spacing: 20) {
-                // Ramadan Journey card - expanded
-                SeasonalFeatureExpandedCard(
-                    icon: "moon.stars.fill",
-                    iconColors: [.yellow, .orange],
-                    title: "Ramadan Journey",
-                    badge: "Seasonal",
-                    badgeColor: .purple,
-                    features: [
-                        ("hands.sparkles.fill", "Daily duas from Hisn al-Muslim and the Sunnah"),
-                        ("book.pages.fill", "Curated Quranic verses with tafsir"),
-                        ("heart.text.square.fill", "Reflections and spiritual guidance"),
-                        ("checkmark.circle.fill", "Track your 30-day progress")
-                    ],
-                    isVisible: showFeatureCards,
-                    delay: 0
-                )
-
-                // Dhul-Hijjah Journey card - expanded
-                SeasonalFeatureExpandedCard(
-                    icon: "building.columns.fill",
-                    iconColors: [.green, .teal],
-                    title: "Dhul-Hijjah Journey",
-                    badge: "Seasonal",
-                    badgeColor: .green,
-                    features: [
-                        ("hands.sparkles.fill", "Daily du'a & dhikr for the ten blessed days"),
-                        ("book.pages.fill", "Curated verses for the best ten days of the year"),
-                        ("mountain.2.fill", "Day of Arafah reminder"),
-                        ("checkmark.circle.fill", "Track your 10-day journey")
-                    ],
-                    isVisible: showFeatureCards,
-                    delay: 0.2
-                )
-            }
-            .padding(.horizontal, 20)
-
-            Spacer()
-
-            // Bottom message
-            Text("The seasonal tab appears automatically\nduring Ramadan and Dhul-Hijjah")
-                .font(themeManager.isSapphire
-                      ? SapphireFont.serif(18, semibold: false)
-                      : .system(size: 16, weight: .medium))
-                .foregroundColor(themeManager.secondaryText)
-                .multilineTextAlignment(.center)
-                .padding(.horizontal, 40)
-                .padding(.bottom, 100)
-                .opacity(showFeatureCards ? 1 : 0)
-                .animation(Animation.easeOut(duration: 0.6).delay(0.6), value: showFeatureCards)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(themeManager.primaryBackground)

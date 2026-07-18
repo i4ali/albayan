@@ -22,7 +22,7 @@ struct SpShell<Content: View>: View {
 
 // MARK: - SpHeading
 
-/// Gold eyebrow + Cormorant title (+ optional sub, centered variant).
+/// Gold eyebrow + EB Garamond title (+ optional sub, centered variant).
 struct SpHeading: View {
     @StateObject private var themeManager = ThemeManager.shared
     var eyebrow: String? = nil
@@ -74,7 +74,7 @@ struct SpCard<Content: View>: View {
 
 // MARK: - SpNumeral
 
-/// Gold-stroke circle with Cormorant numeral.
+/// Gold-stroke circle with EB Garamond numeral.
 struct SpNumeral: View {
     @StateObject private var themeManager = ThemeManager.shared
     var n: String

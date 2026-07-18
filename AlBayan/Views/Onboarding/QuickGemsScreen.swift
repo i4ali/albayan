@@ -30,157 +30,162 @@ struct QuickGemsScreen: View {
     ]
 
     var body: some View {
-        VStack(spacing: 0) {
-            // Header with animated icon
-            VStack(spacing: 20) {
-                // Animated sparkles icon
-                ZStack {
-                    // Glow effect
-                    Circle()
-                        .fill(themeManager.isSapphire ? themeManager.accentColor.opacity(0.2) : Color.orange.opacity(0.2))
-                        .frame(width: 100, height: 100)
-                        .blur(radius: 20)
-                        .scaleEffect(iconPulse ? 1.2 : 1.0)
-                        .animation(
-                            Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
-                            value: iconPulse
-                        )
-
-                    // Icon background
-                    if themeManager.isSapphire {
+        ScrollView {
+            VStack(spacing: 0) {
+                // Header with animated icon
+                VStack(spacing: 20) {
+                    // Animated sparkles icon
+                    ZStack {
+                        // Glow effect
                         Circle()
-                            .fill(themeManager.goldChipFill)
-                            .frame(width: 80, height: 80)
-                    } else {
-                        Circle()
-                            .fill(
-                                LinearGradient(
-                                    colors: [Color.orange.opacity(0.3), Color.yellow.opacity(0.2)],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
+                            .fill(themeManager.isSapphire ? themeManager.accentColor.opacity(0.2) : Color.orange.opacity(0.2))
+                            .frame(width: 100, height: 100)
+                            .blur(radius: 20)
+                            .scaleEffect(iconPulse ? 1.2 : 1.0)
+                            .animation(
+                                Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
+                                value: iconPulse
+                            )
+
+                        // Icon background
+                        if themeManager.isSapphire {
+                            Circle()
+                                .fill(themeManager.goldChipFill)
+                                .frame(width: 80, height: 80)
+                        } else {
+                            Circle()
+                                .fill(
+                                    LinearGradient(
+                                        colors: [Color.orange.opacity(0.3), Color.yellow.opacity(0.2)],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
                                 )
-                            )
-                            .frame(width: 80, height: 80)
-                    }
+                                .frame(width: 80, height: 80)
+                        }
 
-                    // Sparkles icon
-                    if themeManager.isSapphire {
-                        Image(systemName: "sparkles")
-                            .font(.system(size: 38, weight: .semibold))
-                            .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
-                    } else {
-                        Image(systemName: "sparkles")
-                            .font(.system(size: 38, weight: .semibold))
-                            .foregroundStyle(
-                                LinearGradient(
-                                    colors: [.orange, .yellow],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
+                        // Sparkles icon
+                        if themeManager.isSapphire {
+                            Image(systemName: "sparkles")
+                                .font(.system(size: 38, weight: .semibold))
+                                .foregroundStyle(AnyShapeStyle(themeManager.goldGradient))
+                        } else {
+                            Image(systemName: "sparkles")
+                                .font(.system(size: 38, weight: .semibold))
+                                .foregroundStyle(
+                                    LinearGradient(
+                                        colors: [.orange, .yellow],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
                                 )
-                            )
-                    }
-                }
-                .opacity(isVisible ? 1 : 0)
-                .scaleEffect(isVisible ? 1 : 0.5)
-                .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
-
-                // Title
-                Text("Gems")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.serif(34)
-                          : .system(size: 34, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .offset(y: isVisible ? 0 : -20)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
-
-                // Subtitle / eyebrow
-                Text("Precious insights unveiled")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.eyebrow
-                          : .system(size: 17, weight: .medium))
-                    .tracking(themeManager.isSapphire ? 2 : 0)
-                    .textCase(themeManager.isSapphire ? .uppercase : nil)
-                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
-            }
-            .padding(.top, 60)
-            .padding(.bottom, 24)
-
-            // Demo verse card
-            VStack(spacing: 16) {
-                // Demo card container
-                VStack(spacing: 16) {
-                    // Verse reference
-                    HStack(spacing: 8) {
-                        Circle()
-                            .fill(
-                                LinearGradient(
-                                    colors: [.purple, .blue],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
-                                )
-                            )
-                            .frame(width: 28, height: 28)
-                            .overlay(
-                                Text("255")
-                                    .font(.system(size: 9, weight: .bold))
-                                    .foregroundColor(.white)
-                            )
-
-                        Text("Al-Baqarah 255")
-                            .font(themeManager.isSapphire
-                                  ? SapphireFont.serif(16, semibold: false)
-                                  : .system(size: 14, weight: .semibold))
-                            .foregroundColor(themeManager.secondaryText)
-                    }
-
-                    // Arabic verse - Ayat al-Kursi opening with highlighting
-                    HighlightedArabicVerse(highlightedConcept: highlightedConcept)
-                        .padding(.vertical, 8)
-
-                    // Concept bubbles
-                    LazyVGrid(
-                        columns: [
-                            GridItem(.flexible(), spacing: 10),
-                            GridItem(.flexible(), spacing: 10)
-                        ],
-                        spacing: 10
-                    ) {
-                        ForEach(Array(demoConcepts.enumerated()), id: \.offset) { index, concept in
-                            DemoConceptBubble(
-                                icon: concept.icon,
-                                title: concept.title,
-                                color: concept.color,
-                                isHighlighted: highlightedConcept == index
-                            )
                         }
                     }
+                    .opacity(isVisible ? 1 : 0)
+                    .scaleEffect(isVisible ? 1 : 0.5)
+                    .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+
+                    // Title
+                    Text("Gems")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(34)
+                              : .system(size: 34, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                        .onboardingTitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .offset(y: isVisible ? 0 : -20)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+
+                    // Subtitle / eyebrow
+                    Text("The one big idea")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.eyebrow
+                              : .system(size: 17, weight: .medium))
+                        .tracking(themeManager.isSapphire ? 2 : 0)
+                        .textCase(themeManager.isSapphire ? .uppercase : nil)
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : themeManager.secondaryText)
+                        .multilineTextAlignment(.center)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .padding(.horizontal, 24)
+                        .opacity(isVisible ? 1 : 0)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                 }
-                .padding(16)
-                .background(
-                    RoundedRectangle(cornerRadius: 20)
-                        .fill(themeManager.secondaryBackground.opacity(0.6))
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 20)
-                                .stroke(themeManager.strokeColor, lineWidth: 1)
-                        )
-                )
-                .opacity(isVisible ? 1 : 0)
-                .offset(y: isVisible ? 0 : 40)
-                .animation(Animation.easeOut(duration: 0.7).delay(0.6), value: isVisible)
+                .padding(.top, 60)
+                .padding(.bottom, 24)
 
-                // Mock detail card showing insight
-                DemoInsightCard(
-                    concept: demoConcepts[highlightedConcept],
-                    isVisible: isVisible
-                )
-                .animation(.easeInOut(duration: 0.3), value: highlightedConcept)
+                // Demo verse card
+                VStack(spacing: 16) {
+                    // Demo card container
+                    VStack(spacing: 16) {
+                        // Verse reference
+                        HStack(spacing: 8) {
+                            Circle()
+                                .fill(
+                                    LinearGradient(
+                                        colors: [.purple, .blue],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                                .frame(width: 28, height: 28)
+                                .overlay(
+                                    Text("255")
+                                        .font(.system(size: 9, weight: .bold))
+                                        .foregroundColor(.white)
+                                )
+
+                            Text("Al-Baqarah 255")
+                                .font(themeManager.isSapphire
+                                      ? SapphireFont.serif(16, semibold: false)
+                                      : .system(size: 14, weight: .semibold))
+                                .foregroundColor(themeManager.secondaryText)
+                        }
+
+                        // Arabic verse - Ayat al-Kursi opening with highlighting
+                        HighlightedArabicVerse(highlightedConcept: highlightedConcept)
+                            .padding(.vertical, 8)
+
+                        // Concept bubbles
+                        LazyVGrid(
+                            columns: [
+                                GridItem(.flexible(), spacing: 10),
+                                GridItem(.flexible(), spacing: 10)
+                            ],
+                            spacing: 10
+                        ) {
+                            ForEach(Array(demoConcepts.enumerated()), id: \.offset) { index, concept in
+                                DemoConceptBubble(
+                                    icon: concept.icon,
+                                    title: concept.title,
+                                    color: concept.color,
+                                    isHighlighted: highlightedConcept == index
+                                )
+                            }
+                        }
+                    }
+                    .padding(16)
+                    .background(
+                        RoundedRectangle(cornerRadius: 20)
+                            .fill(themeManager.secondaryBackground.opacity(0.6))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 20)
+                                    .stroke(themeManager.strokeColor, lineWidth: 1)
+                            )
+                    )
+                    .opacity(isVisible ? 1 : 0)
+                    .offset(y: isVisible ? 0 : 40)
+                    .animation(Animation.easeOut(duration: 0.7).delay(0.6), value: isVisible)
+
+                    // Mock detail card showing insight
+                    DemoInsightCard(
+                        concept: demoConcepts[highlightedConcept],
+                        isVisible: isVisible
+                    )
+                    .animation(.easeInOut(duration: 0.3), value: highlightedConcept)
+                }
+                .padding(.horizontal, 20)
+                .padding(.bottom, 60)
             }
-            .padding(.horizontal, 20)
-
-            Spacer()
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(themeManager.primaryBackground)
@@ -192,8 +197,9 @@ struct QuickGemsScreen: View {
     }
 
     private func startConceptAnimation() {
-        // Cycle through highlighting different concepts
-        Timer.scheduledTimer(withTimeInterval: 1.5, repeats: true) { _ in
+        // Cycle through highlighting different concepts. 4s dwell so each gem's
+        // insight card is readable before it advances (was 1.5s, too fast to read).
+        Timer.scheduledTimer(withTimeInterval: 4.0, repeats: true) { _ in
             withAnimation(.easeInOut(duration: 0.4)) {
                 highlightedConcept = (highlightedConcept + 1) % demoConcepts.count
             }

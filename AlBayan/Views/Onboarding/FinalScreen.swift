@@ -20,20 +20,22 @@ struct FinalScreen: View {
                 VStack(spacing: 40) {
                     // Header
                     VStack(spacing: 16) {
-                        Text("Begin Your Journey")
+                        Text("Read. Reflect. Grow.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(32)
                                   : .system(size: 32, weight: .bold))
                             .foregroundColor(themeManager.primaryText)
+                            .onboardingTitle()
                             .opacity(isVisible ? 1 : 0)
                             .offset(y: isVisible ? 0 : -20)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.2), value: isVisible)
 
-                        Text("Tap below to begin")
+                        Text("This is where it stops slipping away.")
                             .font(themeManager.isSapphire
                                   ? SapphireFont.serif(18, semibold: false)
                                   : .system(size: 16, weight: .medium))
                             .foregroundColor(themeManager.secondaryText)
+                            .onboardingSubtitle()
                             .opacity(isVisible ? 1 : 0)
                             .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: isVisible)
                     }
@@ -44,7 +46,7 @@ struct FinalScreen: View {
                             HStack {
                                 Image(systemName: "book.closed")
                                     .font(.system(size: 18, weight: .semibold))
-                                Text("Get Started")
+                                Text("Start reflecting")
                                     .font(themeManager.isSapphire
                                           ? SapphireFont.serif(20)
                                           : .system(size: 18, weight: .semibold))

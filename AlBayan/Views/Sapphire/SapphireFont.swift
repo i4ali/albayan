@@ -2,15 +2,15 @@
 //  SapphireFont.swift
 //  AlBayan
 //
-//  Royal Sapphire type scale. Serif display = Cormorant Garamond, Arabic = Amiri,
+//  Royal Sapphire type scale. Serif display = EB Garamond, Arabic = Amiri,
 //  sans (UI) role = system. PostScript names below were extracted directly from the
 //  bundled .ttf files (AlBayan/Resources/Fonts) — do not "tidy" them; SwiftUI's
 //  `.custom` silently falls back to the system font if a name is wrong.
 //
-//    CormorantGaramond-Medium.ttf          -> "CormorantGaramond-Medium"
-//    CormorantGaramond-SemiBold.ttf        -> "CormorantGaramond-SemiBold"
-//    CormorantGaramond-MediumItalic.ttf    -> "CormorantGaramondItalic-MediumItalic"
-//    CormorantGaramond-SemiBoldItalic.ttf  -> "CormorantGaramondItalic-SemiBoldItalic"
+//    EBGaramond-Medium.ttf          -> "EBGaramond-Medium"
+//    EBGaramond-SemiBold.ttf        -> "EBGaramond-SemiBold"
+//    EBGaramond-MediumItalic.ttf    -> "EBGaramondItalic-MediumItalic"
+//    EBGaramond-SemiBoldItalic.ttf  -> "EBGaramondItalic-SemiBoldItalic"
 //    Amiri-Regular.ttf                     -> "Amiri-Regular"
 //    Amiri-Bold.ttf                        -> "Amiri-Bold"
 //
@@ -22,15 +22,15 @@ enum SapphireFont {
     // MARK: - Families (exact PostScript names)
 
     private enum PS {
-        static let serifMedium         = "CormorantGaramond-Medium"
-        static let serifSemiBold       = "CormorantGaramond-SemiBold"
-        static let serifMediumItalic   = "CormorantGaramondItalic-MediumItalic"
-        static let serifSemiBoldItalic = "CormorantGaramondItalic-SemiBoldItalic"
+        static let serifMedium         = "EBGaramond-Medium"
+        static let serifSemiBold       = "EBGaramond-SemiBold"
+        static let serifMediumItalic   = "EBGaramondItalic-MediumItalic"
+        static let serifSemiBoldItalic = "EBGaramondItalic-SemiBoldItalic"
         static let arabicRegular       = "Amiri-Regular"
         static let arabicBold          = "Amiri-Bold"
     }
 
-    /// Cormorant Garamond. `semibold` picks weight 600 (vs 500 Medium); `italic` picks the italic cut.
+    /// EB Garamond. `semibold` picks weight 600 (vs 500 Medium); `italic` picks the italic cut.
     static func serif(_ size: CGFloat, semibold: Bool = true, italic: Bool = false) -> Font {
         let name: String
         switch (semibold, italic) {
@@ -49,15 +49,15 @@ enum SapphireFont {
 
     // MARK: - Handoff type scale (see design_handoff_royal_sapphire/README.md §Typography)
 
-    /// Large screen title — Cormorant 40 / 600.
+    /// Large screen title — EB Garamond 40 / 600.
     static var screenTitle: Font { serif(40) }
-    /// Card / section headline — Cormorant 21–27 / 600 (default 24).
+    /// Card / section headline — EB Garamond 21–27 / 600 (default 24).
     static func headline(_ size: CGFloat = 24) -> Font { serif(size) }
-    /// Big numeral / stat figure — Cormorant 26–36 / 600 (default 30).
+    /// Big numeral / stat figure — EB Garamond 26–36 / 600 (default 30).
     static func numeral(_ size: CGFloat = 30) -> Font { serif(size) }
-    /// Body / verse translation — Cormorant 17–20 / 500 (default 17).
+    /// Body / verse translation — EB Garamond 17–20 / 500 (default 17).
     static func body(_ size: CGFloat = 17) -> Font { serif(size, semibold: false) }
-    /// Italic English subtitle (e.g. "The Opening") — Cormorant italic.
+    /// Italic English subtitle (e.g. "The Opening") — EB Garamond italic.
     static func italicTitle(_ size: CGFloat = 19) -> Font { serif(size, semibold: false, italic: true) }
     /// Eyebrow / kicker — system 11 / 700, used UPPERCASE with +3 tracking by the caller.
     static var eyebrow: Font { .system(size: 11, weight: .bold) }

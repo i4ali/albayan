@@ -179,7 +179,7 @@ struct RamadanJourneyHeader: View {
 
                         Spacer()
 
-                        // Big percent figure: Cormorant 30 in accentBright
+                        // Big percent figure: EB Garamond 30 in accentBright
                         Text("\(Int(journeyManager.completionPercentage * 100))%")
                             .font(SapphireFont.numeral(30))
                             .foregroundColor(themeManager.accentBright)
@@ -419,7 +419,7 @@ struct RamadanDayCard: View {
                             }
                         }
 
-                        // Theme name: Cormorant 21
+                        // Theme name: EB Garamond 21
                         Text(day.theme)
                             .font(SapphireFont.serif(21))
                             .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.primaryText)

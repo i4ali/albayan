@@ -16,97 +16,100 @@ struct ProgressTrackingScreen: View {
     @State private var iconPulse = false
 
     var body: some View {
-        VStack(spacing: 0) {
-            // Header with animated icon
-            VStack(spacing: 20) {
-                // Animated checkmark icon
-                ZStack {
-                    // Glow effect
-                    Circle()
-                        .fill(Color.green.opacity(0.2))
-                        .frame(width: 100, height: 100)
-                        .blur(radius: 20)
-                        .scaleEffect(iconPulse ? 1.2 : 1.0)
-                        .animation(
-                            Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
-                            value: iconPulse
-                        )
-
-                    // Icon background
-                    Circle()
-                        .fill(
-                            LinearGradient(
-                                colors: [Color.green.opacity(0.3), Color.green.opacity(0.2)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+        ScrollView {
+            VStack(spacing: 0) {
+                // Header with animated icon
+                VStack(spacing: 20) {
+                    // Animated checkmark icon
+                    ZStack {
+                        // Glow effect
+                        Circle()
+                            .fill(Color.green.opacity(0.2))
+                            .frame(width: 100, height: 100)
+                            .blur(radius: 20)
+                            .scaleEffect(iconPulse ? 1.2 : 1.0)
+                            .animation(
+                                Animation.easeInOut(duration: 2.0).repeatForever(autoreverses: true),
+                                value: iconPulse
                             )
-                        )
-                        .frame(width: 80, height: 80)
 
-                    // Checkmark icon
-                    Image(systemName: "checkmark.circle.fill")
-                        .font(.system(size: 38, weight: .semibold))
-                        .foregroundStyle(
-                            LinearGradient(
-                                colors: [.green, Color(red: 0.2, green: 0.7, blue: 0.4)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
+                        // Icon background
+                        Circle()
+                            .fill(
+                                LinearGradient(
+                                    colors: [Color.green.opacity(0.3), Color.green.opacity(0.2)],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
                             )
-                        )
+                            .frame(width: 80, height: 80)
+
+                        // Checkmark icon
+                        Image(systemName: "checkmark.circle.fill")
+                            .font(.system(size: 38, weight: .semibold))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [.green, Color(red: 0.2, green: 0.7, blue: 0.4)],
+                                    startPoint: .topLeading,
+                                    endPoint: .bottomTrailing
+                                )
+                            )
+                    }
+                    .opacity(isVisible ? 1 : 0)
+                    .scaleEffect(isVisible ? 1 : 0.5)
+                    .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+
+                    // Title
+                    Text("See yourself grow, verse by verse.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(34)
+                              : .system(size: 34, weight: .bold))
+                        .foregroundColor(themeManager.primaryText)
+                        .onboardingTitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .offset(y: isVisible ? 0 : -20)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+
+                    // Subtitle
+                    Text("Every verse you reflect on is counted - your journey, saved.")
+                        .font(themeManager.isSapphire
+                              ? SapphireFont.serif(19, semibold: false)
+                              : .system(size: 17, weight: .medium))
+                        .foregroundColor(themeManager.secondaryText)
+                        .onboardingSubtitle()
+                        .opacity(isVisible ? 1 : 0)
+                        .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
                 }
-                .opacity(isVisible ? 1 : 0)
-                .scaleEffect(isVisible ? 1 : 0.5)
-                .animation(Animation.spring(response: 0.6, dampingFraction: 0.7).delay(0.2), value: isVisible)
+                .padding(.top, 60)
+                .padding(.bottom, 24)
 
-                // Title
-                Text("Track Your Progress")
-                    .font(themeManager.isSapphire
-                          ? SapphireFont.serif(34)
-                          : .system(size: 34, weight: .bold))
-                    .foregroundColor(themeManager.primaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .offset(y: isVisible ? 0 : -20)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.4), value: isVisible)
+                // Demo content
+                VStack(spacing: 16) {
+                    // Demo verse card
+                    DemoVerseCard(isCheckboxChecked: $isCheckboxChecked, isVisible: isVisible)
 
-                // Subtitle
-                Text("Master the Quran, verse by verse")
+                    // Progress indicator card
+                    DemoProgressCard(
+                        showCard: showProgressCard,
+                        percentage: animatedPercentage,
+                        isVisible: isVisible
+                    )
+                }
+                .padding(.horizontal, 20)
+
+                // Bottom message
+                Text("Your progress syncs across all your devices")
                     .font(themeManager.isSapphire
-                          ? SapphireFont.serif(19, semibold: false)
-                          : .system(size: 17, weight: .medium))
+                          ? SapphireFont.serif(18, semibold: false)
+                          : .system(size: 16, weight: .medium))
                     .foregroundColor(themeManager.secondaryText)
-                    .opacity(isVisible ? 1 : 0)
-                    .animation(Animation.easeOut(duration: 0.6).delay(0.5), value: isVisible)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 40)
+                    .padding(.top, 40)
+                    .padding(.bottom, 60)
+                    .opacity(showProgressCard ? 1 : 0)
+                    .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: showProgressCard)
             }
-            .padding(.top, 60)
-            .padding(.bottom, 24)
-
-            // Demo content
-            VStack(spacing: 16) {
-                // Demo verse card
-                DemoVerseCard(isCheckboxChecked: $isCheckboxChecked, isVisible: isVisible)
-
-                // Progress indicator card
-                DemoProgressCard(
-                    showCard: showProgressCard,
-                    percentage: animatedPercentage,
-                    isVisible: isVisible
-                )
-            }
-            .padding(.horizontal, 20)
-
-            Spacer()
-
-            // Bottom message
-            Text("Your progress syncs across all your devices")
-                .font(themeManager.isSapphire
-                      ? SapphireFont.serif(18, semibold: false)
-                      : .system(size: 16, weight: .medium))
-                .foregroundColor(themeManager.secondaryText)
-                .multilineTextAlignment(.center)
-                .padding(.horizontal, 40)
-                .padding(.bottom, 100)
-                .opacity(showProgressCard ? 1 : 0)
-                .animation(Animation.easeOut(duration: 0.6).delay(0.3), value: showProgressCard)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(themeManager.primaryBackground)

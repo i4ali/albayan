@@ -339,7 +339,7 @@ struct QuickOverviewView: View {
             }
             if themeManager.isSapphire {
                 Text(text)
-                    // Cormorant is Latin-only; for RTL languages (Urdu/Arabic) fall back to the
+                    // EB Garamond is Latin-only; for RTL languages (Urdu/Arabic) fall back to the
                     // native system font at a larger size + looser line-spacing so it reads cleanly.
                     .font(
                         rtl

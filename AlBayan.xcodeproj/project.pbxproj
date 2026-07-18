@@ -298,7 +298,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlBayan/AlBayan.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				DEVELOPMENT_ASSET_PATHS = "\"AlBayan/Preview Content\"";
 				DEVELOPMENT_TEAM = 2J2GCJ25MK;
 				ENABLE_PREVIEWS = YES;
@@ -331,7 +331,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlBayan/AlBayan.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				DEVELOPMENT_ASSET_PATHS = "\"AlBayan/Preview Content\"";
 				DEVELOPMENT_TEAM = 2J2GCJ25MK;
 				ENABLE_PREVIEWS = YES;
