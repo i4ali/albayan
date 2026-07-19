@@ -57,23 +57,15 @@ struct LifeMomentsView: View {
                     .padding(.horizontal, 20)
                     .padding(.top, 20)
                     .padding(.bottom, 20)
-                    .background {
-                        if !themeManager.useWarmLayout {
-                            Rectangle()
-                                .fill(themeManager.glassEffect)
-                                .overlay(
-                                    Rectangle()
-                                        .fill(
-                                            LinearGradient(
-                                                colors: [
-                                                    Color.clear,
-                                                    themeManager.isDarkMode ? Color.white.opacity(0.05) : Color.black.opacity(0.05)
-                                                ],
-                                                startPoint: .top,
-                                                endPoint: .bottom
-                                            )
-                                        )
-                                )
+                    // Sapphire: reserve the band's height (text stays pinned to the top via
+                    // alignment) so the card list starts below the cover's focal subject
+                    // instead of overlapping it. Legacy themes are unaffected.
+                    .frame(minHeight: themeManager.isSapphire ? 240 : nil, alignment: .top)
+                    .background(alignment: .top) {
+                        if themeManager.isSapphire {
+                            // Premium cover header band (premium-art doc 03). Sapphire only;
+                            // legacy themes keep their plain text header.
+                            CoverHeaderBand(assetName: "CoverLifeMoments", height: 280)
                         }
                     }
 
@@ -118,6 +110,7 @@ struct LifeMomentsView: View {
                 }
             }
             .navigationBarTitleDisplayMode(.inline)
+            .toolbarBackground(themeManager.isSapphire ? .hidden : .automatic, for: .navigationBar)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button(action: { dismiss() }) {
@@ -133,7 +126,7 @@ struct LifeMomentsView: View {
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
         .sheet(isPresented: $showPaywall) {
-            PaywallView()
+            PaywallView(context: PaywallContext(coverAssetName: "CoverLifeMoments", eyebrow: "LIFE MOMENTS"))
         }
     }
 }

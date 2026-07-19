@@ -16,6 +16,7 @@ struct RamadanJourneyView: View {
     @State private var selectedDay: RamadanDay?
     @State private var navigateToDetail = false
     @State private var showPaywall = false
+    @State private var veiledDay: RamadanDay?   // locked day being previewed (premium-art 01-A4)
 
     var body: some View {
         NavigationView {
@@ -68,7 +69,8 @@ struct RamadanJourneyView: View {
                                             selectedDay = day
                                             navigateToDetail = true
                                         } else {
-                                            showPaywall = true
+                                            // Veiled preview instead of bouncing straight to the paywall (doc 01-A4).
+                                            veiledDay = day
                                         }
                                     }
                                 }
@@ -95,7 +97,21 @@ struct RamadanJourneyView: View {
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
         .sheet(isPresented: $showPaywall) {
-            PaywallView()
+            PaywallView(context: PaywallContext(coverAssetName: "JourneyCoverRamadan", eyebrow: "RAMADAN JOURNEY"))
+        }
+        .fullScreenCover(item: $veiledDay) { day in
+            JourneyDayVeil(
+                coverAssetName: "JourneyCoverRamadan",
+                eyebrow: "RAMADAN · DAY \(day.dayNumber)",
+                theme: day.theme,
+                openingLine: day.tafsirFocus,
+                insideItems: ["A daily du'a", "\(day.verses.count) verses to reflect on", "A guided reflection"],
+                onUpgrade: {
+                    veiledDay = nil
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) { showPaywall = true }
+                },
+                onClose: { veiledDay = nil }
+            )
         }
     }
 }
@@ -375,15 +391,9 @@ struct RamadanDayCard: View {
                                     Circle()
                                         .stroke(themeManager.strokeColor, lineWidth: 1)
                                 )
-                            if isLocked {
-                                Image(systemName: "lock.fill")
-                                    .font(.system(size: 16, weight: .semibold))
-                                    .foregroundColor(themeManager.tertiaryText)
-                            } else {
-                                Text("\(day.dayNumber)")
-                                    .font(SapphireFont.numeral(18))
-                                    .foregroundColor(themeManager.accentBright)
-                            }
+                            Text("\(day.dayNumber)")
+                                .font(SapphireFont.numeral(18))
+                                .foregroundColor(isLocked ? themeManager.tertiaryText : themeManager.accentBright)
                         }
                     }
 
@@ -437,7 +447,7 @@ struct RamadanDayCard: View {
                             .environment(\.layoutDirection, .rightToLeft)
                     }
 
-                    Image(systemName: isLocked ? "lock.fill" : "chevron.right")
+                    Image(systemName: "chevron.right")
                         .font(.system(size: 13, weight: .medium))
                         .foregroundColor(isLocked ? themeManager.tertiaryText : themeManager.secondaryText)
                 }
@@ -472,18 +482,14 @@ struct RamadanDayCard: View {
                                     .stroke(isCurrentDay && !isCompleted && !isLocked ? themeManager.accentColor : Color.clear, lineWidth: 2)
                             )
 
-                        if isLocked {
-                            Image(systemName: "lock.fill")
-                                .font(.system(size: 18, weight: .semibold))
-                                .foregroundColor(themeManager.secondaryText)
-                        } else if isCompleted {
+                        if isCompleted {
                             Image(systemName: "checkmark")
                                 .font(.system(size: 20, weight: .bold))
                                 .foregroundColor(.white)
                         } else {
                             Text("\(day.dayNumber)")
                                 .font(.system(size: 18, weight: .bold))
-                                .foregroundColor(isCurrentDay ? .white : themeManager.primaryText)
+                                .foregroundColor(isLocked ? themeManager.secondaryText : (isCurrentDay ? .white : themeManager.primaryText))
                         }
                     }
 
@@ -497,12 +503,12 @@ struct RamadanDayCard: View {
                             if isLocked {
                                 Text("Premium")
                                     .font(.system(size: 10, weight: .bold))
-                                    .foregroundColor(.white)
+                                    .foregroundColor(themeManager.onAccentText)
                                     .padding(.horizontal, 6)
                                     .padding(.vertical, 2)
                                     .background(
                                         Capsule()
-                                            .fill(Color.orange.gradient)
+                                            .fill(themeManager.accentGradient)
                                     )
                             } else if isCurrentDay {
                                 Text("TODAY")
@@ -535,7 +541,7 @@ struct RamadanDayCard: View {
                     Spacer()
 
                     // Chevron or lock icon
-                    Image(systemName: isLocked ? "lock.fill" : "chevron.right")
+                    Image(systemName: "chevron.right")
                         .font(.system(size: 14, weight: .medium))
                         .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.tertiaryText)
                 }

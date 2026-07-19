@@ -14,7 +14,7 @@ struct OnboardingFlowView: View {
     @State private var notificationsEnabled = false
     @State private var progressNotificationsEnabled = false
 
-    private let totalPages = 13
+    private let totalPages = 14
 
     var body: some View {
         ZStack {
@@ -36,49 +36,53 @@ struct OnboardingFlowView: View {
                 LayersScreen()
                     .tag(2)
 
-                // Screen 4: Quick Gems
-                QuickGemsScreen()
+                // Screen 4: Inside the Surah (immersive experiences showcase)
+                InsideSurahScreen(currentPage: $currentPage, pageIndex: 3)
                     .tag(3)
 
-                // Screen 5: Quiz Feature
-                QuizFeatureScreen()
+                // Screen 5: Quick Gems
+                QuickGemsScreen()
                     .tag(4)
 
-                // Screen 6: Daily Challenge
-                DailyChallengeScreen()
+                // Screen 6: Quiz Feature
+                QuizFeatureScreen()
                     .tag(5)
 
-                // Screen 7: Daily Crossword
-                DailyCrosswordScreen()
+                // Screen 7: Daily Challenge
+                DailyChallengeScreen()
                     .tag(6)
 
-                // Screen 8: Seasonal Features (Ramadan Journey)
-                SeasonalFeaturesScreen()
+                // Screen 8: Daily Crossword
+                DailyCrosswordScreen()
                     .tag(7)
 
-                // Screen 9: Progress Tracking
-                ProgressTrackingScreen()
+                // Screen 9: Seasonal Features (Ramadan Journey)
+                SeasonalFeaturesScreen()
                     .tag(8)
 
-                // Screen 10: Daily Verse
-                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
+                // Screen 10: Progress Tracking
+                ProgressTrackingScreen()
                     .tag(9)
 
-                // Screen 11: Progress Notifications
-                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
+                // Screen 11: Daily Verse
+                DailyVerseScreen(notificationsEnabled: $notificationsEnabled)
                     .tag(10)
 
-                // Screen 12: Profile setup (name + preferred language)
-                ProfileSetupScreen(currentPage: $currentPage)
+                // Screen 12: Progress Notifications
+                ProgressNotificationsScreen(progressNotificationsEnabled: $progressNotificationsEnabled)
                     .tag(11)
 
-                // Screen 13: Final Setup
+                // Screen 13: Profile setup (name + preferred language)
+                ProfileSetupScreen(currentPage: $currentPage)
+                    .tag(12)
+
+                // Screen 14: Final Setup
                 FinalScreen(
                     onComplete: {
                         completeOnboarding()
                     }
                 )
-                .tag(12)
+                .tag(13)
             }
             .tabViewStyle(.page(indexDisplayMode: .always))
             .indexViewStyle(.page(backgroundDisplayMode: .always))

@@ -149,24 +149,71 @@ struct TodayView: View {
                 }
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(22)
-                .background(
-                    RoundedRectangle(cornerRadius: 20, style: .continuous)
-                        .fill(themeManager.reminderGradient)
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 20, style: .continuous)
-                                .fill(
-                                    RadialGradient(
-                                        colors: [Color.white.opacity(0.22), Color.clear],
-                                        center: .topTrailing, startRadius: 0, endRadius: 260
-                                    )
-                                )
-                                .blendMode(.softLight)
-                        )
-                        .shadow(color: themeManager.accentColorDark.opacity(0.35), radius: 16, y: 8)
-                )
+                // Sapphire hero needs vertical room for the art even when the verse is short.
+                .frame(minHeight: themeManager.isSapphire ? 136 : nil, alignment: .leading)
+                .background(reminderCardBackground)
             }
             .buttonStyle(PlainButtonStyle())
         }
+    }
+
+    /// Background for the reminder hero card. Sapphire gets the seasonal art band
+    /// (premium-art doc 01-B): a full-bleed cover over `heroBase`, two scrims for
+    /// legibility, and a hairline accent border. Legacy themes keep the flat gradient.
+    @ViewBuilder
+    private var reminderCardBackground: some View {
+        if themeManager.isSapphire {
+            RoundedRectangle(cornerRadius: 22, style: .continuous)
+                .fill(themeManager.heroBase)
+                .overlay {
+                    Image(seasonalHeroAsset)
+                        .resizable()
+                        .scaledToFill()
+                }
+                .overlay {
+                    // Scrim 1: horizontal legibility wash, text side -> focal side.
+                    LinearGradient(stops: [
+                        .init(color: .black.opacity(0.88), location: 0.00),
+                        .init(color: .black.opacity(0.60), location: 0.38),
+                        .init(color: .black.opacity(0.16), location: 0.64),
+                        .init(color: .clear,               location: 0.84),
+                    ], startPoint: .leading, endPoint: .trailing)
+                }
+                .overlay {
+                    // Scrim 2: bottom anchor back into heroBase.
+                    LinearGradient(colors: [themeManager.heroBase.opacity(0.5), .clear],
+                                   startPoint: .bottom, endPoint: .center)
+                }
+                .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 22, style: .continuous)
+                        .stroke(themeManager.accentColor.opacity(0.14), lineWidth: 1)
+                )
+                .shadow(color: .black.opacity(0.42), radius: 20, y: 10)
+        } else {
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .fill(themeManager.reminderGradient)
+                .overlay(
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
+                        .fill(
+                            RadialGradient(
+                                colors: [Color.white.opacity(0.22), Color.clear],
+                                center: .topTrailing, startRadius: 0, endRadius: 260
+                            )
+                        )
+                        .blendMode(.softLight)
+                )
+                .shadow(color: themeManager.accentColorDark.opacity(0.35), radius: 16, y: 8)
+        }
+    }
+
+    /// Seasonal Today hero (premium-art doc 01-B), selected from the Hijri month to
+    /// mirror the app's journey windows: Ramadan (month 9), Dhul-Hijjah/Hajj (month 12),
+    /// everyday otherwise.
+    private var seasonalHeroAsset: String {
+        if calendarManager.isRamadan() { return "TodayHeroRamadan" }
+        if calendarManager.isDhulHijjah() { return "TodayHeroHajj" }
+        return "TodayHeroEveryday"
     }
 
     // MARK: Continue reading

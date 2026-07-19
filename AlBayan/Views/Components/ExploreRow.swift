@@ -11,6 +11,7 @@ struct ExploreRow: View {
     let icon: String
     let title: String
     let subtitle: String
+    var coverAssetName: String? = nil
     let action: () -> Void
 
     @StateObject private var themeManager = ThemeManager.shared
@@ -18,32 +19,37 @@ struct ExploreRow: View {
     var body: some View {
         Button(action: action) {
             HStack(spacing: 16) {
-                // Icon
-                Image(systemName: icon)
-                    .font(.system(size: 20, weight: .semibold))
-                    .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : (themeManager.useWarmLayout ? .white : themeManager.accentColor))
-                    .frame(width: 44, height: 44)
-                    .background {
-                        if themeManager.isSapphire {
-                            Circle()
-                                .fill(themeManager.goldChipFill)
-                                .overlay(
-                                    Circle()
-                                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                                )
-                        } else if themeManager.useWarmLayout {
-                            Circle()
-                                .fill(themeManager.accentGradient)
-                                .shadow(color: themeManager.accentColor.opacity(0.3), radius: 6)
-                        } else {
-                            Circle()
-                                .fill(themeManager.glassEffect)
-                                .overlay(
-                                    Circle()
-                                        .stroke(themeManager.strokeColor, lineWidth: 1)
-                                )
+                // Leading art: premium-art mini poster tile (doc 02.2), falling back to
+                // the icon chip when the entry has no cover art.
+                if CoverMiniTile.hasCover(coverAssetName), let cover = coverAssetName {
+                    CoverMiniTile(assetName: cover)
+                } else {
+                    Image(systemName: icon)
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundColor(themeManager.isSapphire ? themeManager.accentColor : (themeManager.useWarmLayout ? .white : themeManager.accentColor))
+                        .frame(width: 44, height: 44)
+                        .background {
+                            if themeManager.isSapphire {
+                                Circle()
+                                    .fill(themeManager.goldChipFill)
+                                    .overlay(
+                                        Circle()
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                            } else if themeManager.useWarmLayout {
+                                Circle()
+                                    .fill(themeManager.accentGradient)
+                                    .shadow(color: themeManager.accentColor.opacity(0.3), radius: 6)
+                            } else {
+                                Circle()
+                                    .fill(themeManager.glassEffect)
+                                    .overlay(
+                                        Circle()
+                                            .stroke(themeManager.strokeColor, lineWidth: 1)
+                                    )
+                            }
                         }
-                    }
+                }
 
                 // Text content
                 VStack(alignment: .leading, spacing: 4) {

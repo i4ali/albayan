@@ -2,7 +2,8 @@
 //  PremiumBadgeView.swift
 //  AlBayan
 //
-//  Lock icon indicator for premium content
+//  Premium indicator chip (premium-art-sunni: "PREMIUM chip - accent capsule, never a lock").
+//  An accent-tinted capsule reading PREMIUM, no lock glyph. Theme-aware (uses the accent color).
 //
 
 import SwiftUI
@@ -13,27 +14,17 @@ struct PremiumBadgeView: View {
     var size: BadgeSize = .medium
 
     var body: some View {
-        HStack(spacing: 4) {
-            Image(systemName: "lock.fill")
-                .font(.system(size: iconSize))
-                .foregroundColor(badgeColor)
-
-            if size != .small {
-                Text("Premium")
-                    .font(.system(size: textSize, weight: .semibold))
-                    .foregroundColor(badgeColor)
-            }
-        }
-        .padding(.horizontal, horizontalPadding)
-        .padding(.vertical, verticalPadding)
-        .background(
-            RoundedRectangle(cornerRadius: cornerRadius)
-                .fill(badgeColor.opacity(0.15))
-                .overlay(
-                    RoundedRectangle(cornerRadius: cornerRadius)
-                        .stroke(badgeColor.opacity(0.3), lineWidth: 1)
-                )
-        )
+        Text("PREMIUM")
+            .font(.system(size: textSize, weight: .heavy))
+            .tracking(1.2)
+            .foregroundColor(themeManager.accentColor)
+            .padding(.horizontal, horizontalPadding)
+            .padding(.vertical, verticalPadding)
+            .background(
+                Capsule()
+                    .fill(themeManager.accentColor.opacity(0.14))
+                    .overlay(Capsule().stroke(themeManager.accentColor.opacity(0.42), lineWidth: 1))
+            )
     }
 
     // MARK: - Size Configuration
@@ -42,52 +33,32 @@ struct PremiumBadgeView: View {
         case small, medium, large
     }
 
-    private var iconSize: CGFloat {
-        switch size {
-        case .small: return 10
-        case .medium: return 12
-        case .large: return 14
-        }
-    }
-
     private var textSize: CGFloat {
         switch size {
-        case .small: return 10
-        case .medium: return 12
-        case .large: return 14
+        case .small: return 9
+        case .medium: return 10.5
+        case .large: return 12
         }
     }
 
     private var horizontalPadding: CGFloat {
         switch size {
-        case .small: return 6
-        case .medium: return 8
-        case .large: return 10
+        case .small: return 8
+        case .medium: return 10
+        case .large: return 12
         }
     }
 
     private var verticalPadding: CGFloat {
         switch size {
-        case .small: return 3
-        case .medium: return 4
-        case .large: return 5
+        case .small: return 4
+        case .medium: return 5
+        case .large: return 6
         }
-    }
-
-    private var cornerRadius: CGFloat {
-        switch size {
-        case .small: return 6
-        case .medium: return 8
-        case .large: return 10
-        }
-    }
-
-    private var badgeColor: Color {
-        return .yellow
     }
 }
 
-// MARK: - Variant with Custom Text
+// MARK: - Variant with Custom Text (e.g. "Unlock Commentary")
 
 struct PremiumBadgeWithText: View {
     @StateObject private var themeManager = ThemeManager.shared
@@ -101,64 +72,40 @@ struct PremiumBadgeWithText: View {
     }
 
     var body: some View {
-        HStack(spacing: 4) {
-            Image(systemName: "lock.fill")
-                .font(.system(size: iconSize))
-                .foregroundColor(.yellow)
-
-            Text(text)
-                .font(.system(size: textSize, weight: .semibold))
-                .foregroundColor(.yellow)
-        }
-        .padding(.horizontal, horizontalPadding)
-        .padding(.vertical, verticalPadding)
-        .background(
-            RoundedRectangle(cornerRadius: cornerRadius)
-                .fill(Color.yellow.opacity(0.15))
-                .overlay(
-                    RoundedRectangle(cornerRadius: cornerRadius)
-                        .stroke(Color.yellow.opacity(0.3), lineWidth: 1)
-                )
-        )
-    }
-
-    private var iconSize: CGFloat {
-        switch size {
-        case .small: return 10
-        case .medium: return 12
-        case .large: return 14
-        }
+        Text(text.uppercased())
+            .font(.system(size: textSize, weight: .heavy))
+            .tracking(1.0)
+            .foregroundColor(themeManager.accentColor)
+            .padding(.horizontal, horizontalPadding)
+            .padding(.vertical, verticalPadding)
+            .background(
+                Capsule()
+                    .fill(themeManager.accentColor.opacity(0.14))
+                    .overlay(Capsule().stroke(themeManager.accentColor.opacity(0.42), lineWidth: 1))
+            )
     }
 
     private var textSize: CGFloat {
         switch size {
-        case .small: return 10
-        case .medium: return 12
-        case .large: return 14
+        case .small: return 9
+        case .medium: return 10.5
+        case .large: return 12
         }
     }
 
     private var horizontalPadding: CGFloat {
         switch size {
-        case .small: return 6
-        case .medium: return 8
-        case .large: return 10
+        case .small: return 8
+        case .medium: return 10
+        case .large: return 12
         }
     }
 
     private var verticalPadding: CGFloat {
         switch size {
-        case .small: return 3
-        case .medium: return 4
-        case .large: return 5
-        }
-    }
-
-    private var cornerRadius: CGFloat {
-        switch size {
-        case .small: return 6
-        case .medium: return 8
-        case .large: return 10
+        case .small: return 4
+        case .medium: return 5
+        case .large: return 6
         }
     }
 }

@@ -19,6 +19,14 @@ import SwiftUI
 
 enum SapphireFont {
 
+    // MARK: - Global size adjustment
+
+    /// App-wide additive bump applied to every Sapphire size (serif, Arabic, eyebrow).
+    /// Callers still pass the design-handoff sizes (e.g. `serif(20)`); the *rendered*
+    /// point size is that value + `sizeBump`. Kept in one place so the whole Sapphire
+    /// type scale stays consistent — bump this, never individual call sites.
+    private static let sizeBump: CGFloat = 1
+
     // MARK: - Families (exact PostScript names)
 
     private enum PS {
@@ -39,12 +47,12 @@ enum SapphireFont {
         case (false, false): name = PS.serifMedium
         case (false, true):  name = PS.serifMediumItalic
         }
-        return .custom(name, size: size)
+        return .custom(name, size: size + sizeBump)
     }
 
     /// Amiri (Arabic Naskh). Rendered RTL by the text view.
     static func arabic(_ size: CGFloat, bold: Bool = false) -> Font {
-        .custom(bold ? PS.arabicBold : PS.arabicRegular, size: size)
+        .custom(bold ? PS.arabicBold : PS.arabicRegular, size: size + sizeBump)
     }
 
     // MARK: - Handoff type scale (see design_handoff_royal_sapphire/README.md §Typography)
@@ -59,8 +67,8 @@ enum SapphireFont {
     static func body(_ size: CGFloat = 17) -> Font { serif(size, semibold: false) }
     /// Italic English subtitle (e.g. "The Opening") — EB Garamond italic.
     static func italicTitle(_ size: CGFloat = 19) -> Font { serif(size, semibold: false, italic: true) }
-    /// Eyebrow / kicker — system 11 / 700, used UPPERCASE with +3 tracking by the caller.
-    static var eyebrow: Font { .system(size: 11, weight: .bold) }
+    /// Eyebrow / kicker — system 11 / 700 (before `sizeBump`), used UPPERCASE with +3 tracking by the caller.
+    static var eyebrow: Font { .system(size: 11 + sizeBump, weight: .bold) }
     /// Arabic Qur'anic verse — Amiri 27–30 (default 28).
     static func arabicVerse(_ size: CGFloat = 28) -> Font { arabic(size) }
 }

@@ -207,6 +207,19 @@ class ThemeManager: ObservableObject {
         }
     }
 
+    // MARK: - Premium-art surface tokens
+    // Always-dark art surfaces (Today hero, reader, glass over art). Not theme-switched:
+    // these render only on the flagship dark theme or on always-dark surfaces.
+
+    /// Near-black navy base under Today hero art (matches Sapphire bg2).
+    var heroBase: Color { Color(hex: "#070C1C") }
+
+    /// Darkest navy; immersive reader threshold background.
+    var thresholdBase: Color { Color(hex: "#040918") }
+
+    /// Dark glass fill (~0.45 alpha) for cards laid over bright cover art.
+    var cardBacking: Color { Color(hex: "#0A1124").opacity(0.45) }
+
     /// Primary accent gradient (purple family).
     var purpleGradient: LinearGradient {
         switch selectedTheme {

@@ -57,10 +57,15 @@ struct FastingVersesView: View {
                     .padding(.horizontal, 20)
                     .padding(.top, 20)
                     .padding(.bottom, 16)
-                    .background {
-                        if !themeManager.useWarmLayout {
-                            Rectangle()
-                                .fill(themeManager.glassEffect)
+                    // Sapphire: reserve the band's height (text stays pinned to the top via
+                    // alignment) so the content below starts under the cover's focal subject
+                    // instead of overlapping it. Legacy themes are unaffected.
+                    .frame(minHeight: themeManager.isSapphire ? 240 : nil, alignment: .top)
+                    .background(alignment: .top) {
+                        if themeManager.isSapphire {
+                            // Premium cover header band (premium-art doc 03). Sapphire only;
+                            // legacy themes keep their plain text header.
+                            CoverHeaderBand(assetName: "CoverFasting", height: 280)
                         }
                     }
 
@@ -104,6 +109,7 @@ struct FastingVersesView: View {
                 }
             }
             .navigationBarTitleDisplayMode(.inline)
+            .toolbarBackground(themeManager.isSapphire ? .hidden : .automatic, for: .navigationBar)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button(action: { dismiss() }) {
@@ -119,7 +125,7 @@ struct FastingVersesView: View {
         .navigationViewStyle(StackNavigationViewStyle())
         .preferredColorScheme(themeManager.colorScheme)
         .sheet(isPresented: $showPaywall) {
-            PaywallView()
+            PaywallView(context: PaywallContext(coverAssetName: "CoverFasting", eyebrow: "FASTING IN THE QURAN"))
         }
     }
 }
@@ -205,10 +211,14 @@ struct FastingCategoryCard: View {
 
                 Spacer()
 
-                // Chevron or lock icon
-                Image(systemName: isLocked ? "lock.fill" : "chevron.right")
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundColor(isLocked ? themeManager.secondaryText : themeManager.tertiaryText)
+                // Premium chip when locked, chevron otherwise (never a padlock).
+                if isLocked {
+                    PremiumBadgeView(size: .small)
+                } else {
+                    Image(systemName: "chevron.right")
+                        .font(.system(size: 14, weight: .medium))
+                        .foregroundColor(themeManager.tertiaryText)
+                }
             }
             .padding(20)
             .background {

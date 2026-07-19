@@ -21,6 +21,11 @@ final class DeepLinkRouter: ObservableObject {
     /// Journey id ("ramadan" | "hajj") to auto-open once the hub appears.
     @Published var pendingJourneyId: String? = nil
 
+    /// Surah-experience id ("surah-fatiha", …) to auto-open once the Journeys hub
+    /// appears. Set by MainTabView on a `.navigateToSurahExperience` notification;
+    /// consumed (+cleared) by JourneyHubView (the premium gate is still honored).
+    @Published var pendingSurahExperienceId: String? = nil
+
     /// Verse to navigate to once the Quran tab appears. Set by the notification
     /// delegate / onOpenURL so cold launches survive until views are subscribed;
     /// consumed (+cleared) by HomeView.

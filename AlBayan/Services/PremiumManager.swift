@@ -101,4 +101,12 @@ class PremiumManager: ObservableObject {
 
     func canAccessDailyChallenge() -> Bool { isPremium }
     func canAccessDailyCrossword() -> Bool { isPremium }
+
+    /// "Inside the Surah" immersive experiences: al-Fatiha is the free flagship
+    /// teaser; every other surah is premium. Gated readers still get the veiled
+    /// preview (threshold + orientation), not a bounce.
+    func canAccessSurahExperience(_ id: String) -> Bool {
+        if id == "surah-fatiha" { return true }
+        return isPremium
+    }
 }

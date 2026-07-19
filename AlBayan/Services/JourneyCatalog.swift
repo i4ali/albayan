@@ -26,6 +26,9 @@ struct JourneyDescriptor: Identifiable {
     let isActive: () -> Bool
     let statusLine: () -> String
     let destination: () -> AnyView // existing journey screen, reused in a full-screen cover
+    /// Premium-art cover (premium-art doc 01-A). One 4:5 asset feeds the hub mini-tile, the
+    /// journey header band, and the veil. `nil` = fall back to the icon chip / plain layouts.
+    var coverAssetName: String? = nil
     /// For journeys whose schedule isn't a single content month (e.g. an evergreen journey
     /// that returns `.active` always). Not needed for the current roster.
     var statusOverride: ((IslamicCalendarManager) -> JourneyStatus)? = nil
@@ -36,14 +39,16 @@ struct JourneyDescriptor: Identifiable {
             sfSymbol: "moon.stars.fill", contentStartMonth: 9,
             isActive: { IslamicCalendarManager.shared.isRamadanSeason() },
             statusLine: { IslamicCalendarManager.shared.ramadanSeasonStatus() },
-            destination: { AnyView(RamadanJourneyView()) }
+            destination: { AnyView(RamadanJourneyView()) },
+            coverAssetName: "JourneyCoverRamadan"
         ),
         JourneyDescriptor(
             id: "hajj", eyebrow: "10-Day Journey", title: "Dhul-Hijjah",
             sfSymbol: "building.columns.fill", contentStartMonth: 12,
             isActive: { IslamicCalendarManager.shared.isHajjSeason() },
             statusLine: { IslamicCalendarManager.shared.hajjSeasonStatus() },
-            destination: { AnyView(HajjJourneyView()) }
+            destination: { AnyView(HajjJourneyView()) },
+            coverAssetName: "JourneyCoverHajj"
         ),
         // To add Muharram later (reframed for Sunni — Hijra / fast of ʿĀshūrāʾ / fresh start),
         // build its manager+view+JSON, add isMuharramSeason()/muharramSeasonStatus() to

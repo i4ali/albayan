@@ -66,7 +66,7 @@ struct DailyCrosswordCard: View {
 
     private var lockedContent: some View {
         HStack(spacing: 16) {
-            SpIconChip(systemIcon: "lock.fill", size: 46)
+            SpIconChip(systemIcon: "crown.fill", size: 46)
 
             VStack(alignment: .leading, spacing: 6) {
                 premiumPill

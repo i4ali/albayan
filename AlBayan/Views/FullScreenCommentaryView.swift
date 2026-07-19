@@ -52,7 +52,12 @@ struct FullScreenCommentaryView: View {
         .statusBarHidden(true) // Hide status bar for immersive reading
         .preferredColorScheme(themeManager.colorScheme)
         .fullScreenCover(isPresented: $showingPaywall) {
-            PaywallView()
+            if let cover = CoverMiniTile.surahCoverAssetName(surah.number) {
+                PaywallView(context: PaywallContext(coverAssetName: cover,
+                                                    eyebrow: "SURAH \(surah.englishName.uppercased())"))
+            } else {
+                PaywallView()
+            }
         }
         .onDisappear {
             tafsirReader.stop()
@@ -284,7 +289,7 @@ struct FullScreenCommentaryView: View {
 
                         // Lock icon for locked layers
                         if isLocked {
-                            Image(systemName: "lock.fill")
+                            Image(systemName: "crown.fill")
                                 .font(.system(size: 12, weight: .semibold))
                                 .foregroundColor(themeManager.accentBright)
                         } else if let tafsir = verse.tafsir {
@@ -332,7 +337,7 @@ struct FullScreenCommentaryView: View {
 
                         // Lock icon for locked layers
                         if isLocked {
-                            Image(systemName: "lock.fill")
+                            Image(systemName: "crown.fill")
                                 .font(.system(size: 12, weight: .semibold))
                                 .foregroundColor(.yellow)
                         } else if let tafsir = verse.tafsir {

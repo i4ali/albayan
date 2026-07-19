@@ -13,11 +13,40 @@ struct OpeningVerseScreen: View {
     @State private var isVisible = false
     @State private var shimmerOffset: CGFloat = -1.0
     @State private var glowPulse = false
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var videoFadedIn = false
+
+    /// The onboarding loop plays unless Reduce Motion is on or the asset failed to bundle
+    /// (premium-art doc 04-B); otherwise the static GeometricPatternBackground shows.
+    private var videoAvailable: Bool {
+        !reduceMotion && Bundle.main.url(forResource: "onboarding_loop", withExtension: "mp4") != nil
+    }
+
+    // Scrim over the video (doc 04-B): darkens the title zone (top) and the continue zone (bottom).
+    private var videoScrim: some View {
+        LinearGradient(stops: [
+            .init(color: .black.opacity(0.28), location: 0.00),
+            .init(color: .black.opacity(0.04), location: 0.22),
+            .init(color: .black.opacity(0.04), location: 0.58),
+            .init(color: .black.opacity(0.40), location: 1.00),
+        ], startPoint: .top, endPoint: .bottom)
+    }
 
     var body: some View {
         ZStack {
-            // Subtle Islamic geometric pattern background
+            // Static background - also the fallback when the video is off or unavailable.
             GeometricPatternBackground()
+
+            // Premium-art onboarding video (doc 04-B): silent seamless loop behind page 1.
+            if videoAvailable {
+                LoopingVideoView(resourceName: "onboarding_loop", fileExtension: "mp4",
+                                 isActive: currentPage == 0 && scenePhase == .active)
+                    .ignoresSafeArea()
+                    .overlay(videoScrim.ignoresSafeArea())
+                    .opacity(videoFadedIn ? 1 : 0)
+                    .allowsHitTesting(false)
+            }
 
             VStack(spacing: 0) {
                 Spacer()
@@ -170,6 +199,13 @@ struct OpeningVerseScreen: View {
         .onAppear {
             isVisible = true
             startTitleAnimations()
+
+            // Fade the video layer in (doc 04-B: ease-out 1.0s after a 0.2s delay).
+            if videoAvailable {
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+                    withAnimation(.easeOut(duration: 1.0)) { videoFadedIn = true }
+                }
+            }
 
             // Auto-advance after 6 seconds
             DispatchQueue.main.asyncAfter(deadline: .now() + 6.0) {

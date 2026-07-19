@@ -75,6 +75,18 @@ struct ExploreItem: Identifiable {
     let title: String
     let subtitle: String
     let destination: ExploreDestination
+
+    /// Premium-art cover for this entry (premium-art doc 02.2). The same asset feeds
+    /// the list mini-tile and the destination screen's header band - one source of truth.
+    var coverAssetName: String {
+        switch destination {
+        case .lifeMoments:        return "CoverLifeMoments"
+        case .propheticParallels: return "CoverPropheticParallels"
+        case .questions:          return "CoverQuestions"
+        case .fasting:            return "CoverFasting"
+        case .propheticStories:   return "CoverPropheticStories"
+        }
+    }
 }
 
 enum ExploreDestination {
@@ -112,6 +124,16 @@ struct ExploreView: View {
                 .padding(.horizontal, 20)
                 .padding(.top, 20)
                 .padding(.bottom, 16)
+                // Sapphire: reserve the hub band's height (title stays pinned to the top via
+                // alignment) so the section list starts below the cover's focal subject.
+                // Legacy themes keep their plain text header.
+                .frame(minHeight: themeManager.isSapphire ? 400 : nil, alignment: .top)
+                .background(alignment: .top) {
+                    if themeManager.isSapphire {
+                        // Premium cover hub band (premium-art doc 03), Sapphire only.
+                        CoverHeaderBand(assetName: "HeaderExplore", height: 440)
+                    }
+                }
 
                 // Sections
                 ForEach(ExploreSection.allCases, id: \.self) { section in
@@ -150,7 +172,8 @@ struct ExploreView: View {
                     ExploreRow(
                         icon: iconForItem(item),
                         title: item.title,
-                        subtitle: item.subtitle
+                        subtitle: item.subtitle,
+                        coverAssetName: item.coverAssetName
                     ) {
                         handleTap(item.destination)
                     }

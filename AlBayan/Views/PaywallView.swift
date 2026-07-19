@@ -33,15 +33,43 @@ private enum PW {
     }
 }
 
+/// Context for a contextual paywall (premium-art doc 04-A): the hero art + eyebrow swap to
+/// show the very thing a gated tap reached for. The headline stays the whole-library sell.
+struct PaywallContext {
+    var coverAssetName: String? = nil
+    var eyebrow: String = "TAFAKKUR PREMIUM"
+}
+
 struct PaywallView: View {
+    /// Optional contextual hero (nil -> default hero + generic eyebrow). Passed by gated taps.
+    var context: PaywallContext? = nil
+
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
     @StateObject private var purchaseManager = PurchaseManager.shared
 
     @State private var showingAlert = false
     @State private var alertTitle = ""
     @State private var alertMessage = ""
+    @State private var kenBurnsActive = false
+    @State private var contentAppeared = false
 
     private let calendar = IslamicCalendarManager.shared
+
+    private var heroAssetName: String { context?.coverAssetName ?? "PaywallHeroDefault" }
+    // Default hero is composed for the band (center anchor). Context covers are 4:5 and
+    // overflow the wide band, so they anchor .top or the crop rides the subject under the text.
+    private var heroAnchor: UnitPoint { context?.coverAssetName == nil ? .center : .top }
+
+    // Entrance cascade (premium-art doc 04-A): rows below the hero fade in + rise, staggered
+    // by a continuous index. Reduce Motion shows them in place with no animation.
+    private func cascaded<Content: View>(_ index: Int, @ViewBuilder _ content: () -> Content) -> some View {
+        content()
+            .opacity(contentAppeared || reduceMotion ? 1 : 0)
+            .offset(y: contentAppeared || reduceMotion ? 0 : 14)
+            .animation(reduceMotion ? nil : .easeOut(duration: 0.5).delay(Double(index) * 0.05),
+                       value: contentAppeared)
+    }
 
     var body: some View {
         ZStack {
@@ -51,15 +79,17 @@ struct PaywallView: View {
                 closeBar
                 ScrollView {
                     VStack(spacing: 16) {
-                        header
-                        layersCard
+                        heroBand
+                        cascaded(0) { header }
+                        cascaded(1) { layersCard }
                         featureCards
-                        trustRow
-                        ctaSection
+                        cascaded(8) { trustRow }
+                        cascaded(9) { ctaSection }
                     }
                     .padding(.horizontal, 22)
                     .padding(.top, 4)
                     .padding(.bottom, 36)
+                    .onAppear { contentAppeared = true }
                 }
             }
         }
@@ -88,21 +118,67 @@ struct PaywallView: View {
         .padding(.top, 12)
     }
 
-    // MARK: - Header (eyebrow + hero + price pill + lede)
+    // MARK: - Hero band (premium-art doc 04-A)
 
-    private var header: some View {
-        VStack(spacing: 13) {
-            Text("TAFAKKUR PREMIUM")
+    private var heroBand: some View {
+        ZStack(alignment: .bottomLeading) {
+            heroArt
+            heroText
+        }
+        .frame(height: 348)
+        .frame(maxWidth: .infinity)
+        .padding(.horizontal, -22)   // escape the column's 22pt padding, bleed edge-to-edge
+        .allowsHitTesting(false)
+        .onAppear {
+            guard !reduceMotion else { return }
+            withAnimation(.easeInOut(duration: 22).repeatForever(autoreverses: true)) {
+                kenBurnsActive = true
+            }
+        }
+    }
+
+    private var heroArt: some View {
+        Color.clear
+            .frame(height: 348)
+            .overlay {
+                Image(heroAssetName)
+                    .resizable()
+                    .scaledToFill()
+                    .scaleEffect(kenBurnsActive ? 1.09 : 1.0, anchor: heroAnchor)
+            }
+            .clipped()
+            .mask(
+                LinearGradient(stops: [
+                    .init(color: .black.opacity(0.72), location: 0.00),
+                    .init(color: .black,               location: 0.12),
+                    .init(color: .black,               location: 0.55),
+                    .init(color: .clear,               location: 1.00),
+                ], startPoint: .top, endPoint: .bottom)
+            )
+            .accessibilityHidden(true)
+    }
+
+    private var heroText: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            Text(context?.eyebrow ?? "TAFAKKUR PREMIUM")
                 .font(.system(size: 12, weight: .bold))
                 .tracking(3)
                 .foregroundColor(PW.gold)
-
+                .shadow(color: .black.opacity(0.5), radius: 8, y: 1)
             Text("Everything.\nForever.")
                 .font(SapphireFont.serif(38))
                 .foregroundColor(PW.cream)
-                .multilineTextAlignment(.center)
                 .lineSpacing(2)
+                .shadow(color: .black.opacity(0.5), radius: 12, y: 1)
+        }
+        .padding(.horizontal, 22)
+        .padding(.bottom, 6)
+    }
 
+    // MARK: - Header (price pill + lede, under the hero)
+
+    private var header: some View {
+        VStack(spacing: 13) {
             pricePill
 
             Text("One payment. No renewals.\nYour daily companion, for life.")
@@ -197,18 +273,30 @@ struct PaywallView: View {
 
     private var featureCards: some View {
         VStack(spacing: 9) {
-            featureCard("✨", "Gems", "Bite-size insights for every verse",
-                        badge: "MOST LOVED", goldBadge: true)
-            featureCard("🌙", "Seasonal Journeys", "A guided path through every sacred season",
-                        badge: seasonalBadge, goldBadge: true)
-            featureCard("🧠", "Surah Quizzes", "Lock in what you've learned, surah by surah",
-                        badge: nil, goldBadge: false)
-            featureCard("🔊", "Listen Mode", "Commentary read aloud, word by word",
-                        badge: nil, goldBadge: false)
-            featureCard("🎯", "Daily Challenge", "Learn something new every day in under a minute",
-                        badge: nil, goldBadge: false)
-            featureCard("🧩", "Daily Crossword", "A fun way to grow your Qur'anic vocabulary",
-                        badge: nil, goldBadge: false)
+            cascaded(2) {
+                featureCard("🕌", "Inside the Surah", "Immersive, illustrated journeys into a single surah",
+                            badge: "IMMERSIVE", goldBadge: true)
+            }
+            cascaded(3) {
+                featureCard("✨", "Gems", "Bite-size insights for every verse",
+                            badge: "MOST LOVED", goldBadge: true)
+            }
+            cascaded(4) {
+                featureCard("🌙", "Seasonal Journeys", "A guided path through every sacred season",
+                            badge: seasonalBadge, goldBadge: true)
+            }
+            cascaded(5) {
+                featureCard("🧠", "Surah Quizzes", "Lock in what you've learned, surah by surah",
+                            badge: nil, goldBadge: false)
+            }
+            cascaded(6) {
+                featureCard("🎯", "Daily Challenge", "Learn something new every day in under a minute",
+                            badge: nil, goldBadge: false)
+            }
+            cascaded(7) {
+                featureCard("🧩", "Daily Crossword", "A fun way to grow your Qur'anic vocabulary",
+                            badge: nil, goldBadge: false)
+            }
         }
     }
 

@@ -1125,9 +1125,9 @@ struct ModernTafsirTabs: View {
                 Text(layerIcon(for: layer))
                     .font(.system(size: 16))
 
-                // Lock icon for locked layers
+                // Premium indicator for locked layers (crown, never a padlock).
                 if isLocked {
-                    Image(systemName: "lock.fill")
+                    Image(systemName: "crown.fill")
                         .font(.system(size: 10, weight: .semibold))
                         .foregroundColor(.yellow)
                 }
